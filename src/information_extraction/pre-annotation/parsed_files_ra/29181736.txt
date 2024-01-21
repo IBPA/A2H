@@ -1,0 +1,14 @@
+Rheumatoid arthritis (RA) is a systemic autoimmune disease that may cause bone 
+damage and worsening disability. Manipulating antigen-specific Treg cells is a 
+promising approach to treat autoimmune disease since the immune suppressive 
+function of Treg cells has the feature of antigen specificity which could avoid 
+overall immune suppression. It has been known that the function of Treg cells is 
+impaired in RA, and adoptive transfer of Treg cells is effective in suppressing 
+RA. Here, we designed a new approach to generate antigen-specific Treg cells by 
+culturing CD4+ T cells from mice with RA onset, and we also proved that the 
+adoptive transfer of these antigen-specific Treg cells reversed the 
+collagen-induced arthritis (CIA) progression by suppressing the key inflammatory 
+cytokine TNF-α. Further analysis showed that the transferred Treg cells were 
+stable in vivo. These findings suggest this novel approach may have clinical 
+applications for treatment of autoimmunity, including RA and other autoimmune 
+disorders.

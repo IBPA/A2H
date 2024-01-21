@@ -1,0 +1,19 @@
+Granulocyte-macrophage colony-stimulating factor (GM-CSF) is a pleiotropic, 
+Th17-derived cytokine thought to critically contribute to the pathogenesis of 
+diverse autoimmune diseases, including rheumatoid arthritis and psoriasis. 
+Treatment with monoclonal antibodies that block GM-CSF activity is associated 
+with favorable therapeutic effects in patients with rheumatoid arthritis. We 
+evaluated the role of GM-CSF as a potential target for therapeutic interference 
+in psoriasis using a combined pharmacologic and genetic approach and the mouse 
+model of imiquimod-induced psoriasiform dermatitis (IMQPD). Neutralization of 
+murine GM-CSF by an anti-GM-CSF antibody ameliorated IMQPD. In contrast, genetic 
+deficiency in GM-CSF did not alter the course of IMQPD, suggesting the existence 
+of mechanisms compensating for chronic, but not acute, absence of GM-CSF. 
+Further investigation uncovered an alternative pathogenic pathway for IMQPD in 
+the absence of GM-CSF characterized by an expanded plasmacytoid dendritic cell 
+population and release of IFNα and IL-22. This pathway was not activated in 
+wild-type mice during short-term anti-GM-CSF treatment. Our investigations 
+support the potential value of GM-CSF as a therapeutic target in psoriatic 
+disease. The discovery of an alternative pathogenic pathway for psoriasiform 
+dermatitis in the permanent absence of GM-CSF, however, suggests the need for 
+monitoring during therapeutic use of long-term GM-CSF blockade.

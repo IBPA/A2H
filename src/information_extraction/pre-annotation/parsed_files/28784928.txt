@@ -1,0 +1,19 @@
+Clostridium difficile, the main cause of diarrhea in hospitalized patients, 
+produces toxins A (TcdA) and B (TcdB), which affect intestinal epithelial cell 
+survival, proliferation, and migration and induce an intense inflammatory 
+response. Transforming growth factor β (TGF-β) is a pleiotropic cytokine 
+affecting enterocyte and immune/inflammatory responses. However, it has been 
+shown that exposure of intestinal epithelium to a low concentration of TcdA 
+induces the release of TGF-β1, which has a protective effect on epithelial 
+resistance and a TcdA/TGF-β signaling pathway interaction. The activation of 
+this pathway in vivo has not been elucidated. The aim of this study was to 
+investigate the role of the TGF-β1 pathway in TcdA-induced damage in a rat 
+intestinal epithelial cell line (IEC-6) and in a mouse model of an ileal loop. 
+TcdA increased the expression of TGF-β1 and its receptor, TβRII, in vitro and in 
+vivo TcdA induced nuclear translocation of the transcription factors SMAD2/3, a 
+hallmark of TGF-β1 pathway activation, both in IEC cells and in mouse ileal 
+tissue. The addition of recombinant TGF-β1 (rTGF-β) prevented TcdA-induced 
+apoptosis/necrosis and restored proliferation and repair activity in IEC-6 cells 
+in the presence of TcdA. Together, these data show that TcdA induces TGF-β1 
+signaling pathway activation and suggest that this pathway might play a 
+protective role against the effect of C. difficile-toxin.

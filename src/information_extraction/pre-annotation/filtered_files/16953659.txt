@@ -1,0 +1,27 @@
+BACKGROUND: Somatic afferent input to the spinal cord from a peripheral 
+inflammatory site can modulate the peripheral response. However, the 
+intracellular signaling mechanisms in the spinal cord that regulate this linkage 
+have not been defined. Previous studies suggest spinal cord p38 
+mitogen-activated protein (MAP) kinase and cytokines participate in nociceptive 
+behavior. We therefore determined whether these pathways also regulate 
+peripheral inflammation in rat adjuvant arthritis, which is a model of 
+rheumatoid arthritis.
+METHODS AND FINDINGS: Selective blockade of spinal cord p38 MAP kinase by 
+administering the p38 inhibitor SB203580 via intrathecal (IT) catheters in rats 
+with adjuvant arthritis markedly suppressed paw swelling, inhibited synovial 
+inflammation, and decreased radiographic evidence of joint destruction. The same 
+dose of SB203580 delivered systemically had no effect, indicating that the 
+effect was mediated by local concentrations in the neural compartment. 
+Evaluation of articular gene expression by quantitative real-time PCR showed 
+that spinal p38 inhibition markedly decreased synovial interleukin-1 and -6 and 
+matrix metalloproteinase (MMP3) gene expression. Activation of p38 required 
+tumor necrosis factor alpha (TNFalpha) in the nervous system because IT 
+etanercept (a TNF inhibitor) given during adjuvant arthritis blocked spinal p38 
+phosphorylation and reduced clinical signs of adjuvant arthritis.
+CONCLUSIONS: These data suggest that peripheral inflammation is sensed by the 
+central nervous system (CNS), which subsequently activates stress-induced 
+kinases in the spinal cord via a TNFalpha-dependent mechanism. Intracellular p38 
+MAP kinase signaling processes this information and profoundly modulates somatic 
+inflammatory responses. Characterization of this mechanism could have clinical 
+and basic research implications by supporting development of new treatments for 
+arthritis and clarifying how the CNS regulates peripheral immune responses.

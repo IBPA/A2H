@@ -1,0 +1,26 @@
+IL-1 molecules are encoded by two distinct genes, IL-1alpha and IL-1beta. Both 
+isoforms possess essentially identical activities and potencies, whereas 
+IL-1alpha, in contrast to IL-1beta, is known to act as a membrane-associated 
+IL-1 (MA-IL-1) and plays an important role in a variety of inflammatory 
+situations. The transgenic (Tg) mouse line (Tg1706), which was generated in our 
+laboratory, overexpresses human IL-1alpha (hIL-1alpha) and exhibits a severe 
+arthritic phenotype characterized by autonomous synovial proliferation with 
+subsequent cartilage destruction. Because the transgene encoded Lys(64) to 
+Ala(271) of the hIL-1alpha amino acid sequence, Tg mice may overproduce MA-IL-1 
+as well as soluble IL-1alpha. The present study investigated whether MA-IL-1 
+contributes to synovial proliferation and cartilage destruction in the 
+development of arthritis. Flow cytometric analysis revealed that both 
+macrophage-like and fibroblast-like synoviocytes constitutively produce MA-IL-1. 
+D10 cell proliferation assay revealed MA-IL-1 bioactivity of 
+paraformaldehyde-fixed synoviocytes and the further induction of endogenous 
+mouse MA-IL-1 via autocrine mechanisms. MA-IL-1 expressed on synoviocytes 
+triggered synoviocyte self-proliferation through cell-to-cell (i.e., juxtacrine) 
+interactions and also promoted proteoglycan release from the cartilage matrix in 
+chondrocyte monolayer culture. Interestingly, the severity of arthritis was 
+significantly correlated with MA-IL-1 activity rather than with soluble 
+IL-1alpha activity or concentration of serum hIL-1alpha. Moreover, when the 
+Tg1706 line was compared with the Tg101 line, which selectively overexpresses 
+the 17-kDa mature hIL-1alpha, the severity of arthritis was significantly higher 
+in the Tg1706 line than in the Tg101 line. These results suggest that MA-IL-1 
+contributes to synoviocyte self-proliferation and subsequent cartilage 
+destruction in inflammatory joint disease such as rheumatoid arthritis.

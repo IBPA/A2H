@@ -1,0 +1,26 @@
+OBJECTIVE: To determine the therapeutic efficacy and immunomodulatory effect of 
+an anti-human death receptor 5 (DR5) antibody, TRA-8, in eliminating macrophage 
+subsets in a mouse model of type II collagen-induced arthritis (CIA).
+METHODS: A human/mouse-chimeric DR5-transgenic mouse, under the regulation of a 
+mouse 3-kb promoter and a loxP-flanked STOP cassette, was generated and crossed 
+with an ubiquitous Cre (Ubc.Cre) mouse and a lysozyme M-Cre 
+(LysM.Cre)-transgenic mouse to achieve inducible or macrophage-specific 
+expression. Chicken type II collagen was used to induce CIA in mice, which were 
+then treated with an anti-human DR5 antibody, TRA-8. Clinical scores, 
+histopathologic severity, macrophage apoptosis and depletion, and T cell subset 
+development were evaluated.
+RESULTS: In human/mouse DR5-transgenic Ubc.Cre mice with CIA, transgenic DR5 was 
+most highly expressed on CD11b+ macrophages, with lower expression on CD4+ T 
+cells. In human/mouse DR5-transgenic LysM.Cre mice, transgenic DR5 was 
+restrictively expressed on macrophages. Both in vivo near-infrared imaging of 
+caspase activity and TUNEL staining demonstrated that TRA-8 rapidly induced 
+apoptosis of macrophages in inflamed synovium. Depletion of pathogenic 
+macrophages by TRA-8 led to significantly reduced clinical scores for arthritis; 
+decreased macrophage infiltration, synovial hyperplasia, osteoclast formation, 
+joint destruction, cathepsin activity, and inflammatory cytokine expression in 
+joints; reduced numbers of Th17 cells; and an increased number of Treg cells in 
+draining lymph nodes.
+CONCLUSION: The anti-human DR5 antibody TRA-8 was efficacious in reducing the 
+severity of arthritis via targeted depletion of macrophages and 
+immunomodulation. Our data provide preclinical evidence that TRA-8 is a 
+potential novel biologic agent for rheumatoid arthritis therapy.

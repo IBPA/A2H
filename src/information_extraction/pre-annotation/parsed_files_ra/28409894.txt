@@ -1,0 +1,27 @@
+OBJECTIVE: Aberrant activation of synovial fibroblasts is a key determinant in 
+the pathogenesis of rheumatoid arthritis (RA). The aims of this study were to 
+produce a map of gene expression and epigenetic changes occurring in this cell 
+type during disease progression in the human tumor necrosis factor 
+(TNF)-transgenic model of arthritis and to identify commonalities with human 
+synovial fibroblasts.
+METHODS: We used deep sequencing to probe the transcriptome, the methylome, and 
+the chromatin landscape of cultured mouse arthritogenic synovial fibroblasts at 
+3 stages of disease, as well as synovial fibroblasts stimulated with human TNF. 
+We performed bioinformatics analyses at the gene, pathway, and network levels, 
+compared mouse and human data, and validated selected genes in both species.
+RESULTS: We found that synovial fibroblast arthritogenicity was reflected in 
+distinct dynamic patterns of transcriptional dysregulation, which was especially 
+enriched in pathways of the innate immune response and mesenchymal 
+differentiation. A functionally representative subset of these changes was 
+associated with methylation, mostly in gene bodies. The arthritogenic state 
+involved highly active promoters, which were marked by histone H3K4 
+trimethylation. There was significant overlap between the mouse and human data 
+at the level of dysregulated genes and to an even greater extent at the level of 
+pathways.
+CONCLUSION: This study is the first systematic examination of the pathogenic 
+changes that occur in mouse synovial fibroblasts during progressive TNF-driven 
+arthritogenesis. Significant correlations with the respective human RA synovial 
+fibroblast data further validate the human TNF-transgenic mouse as a reliable 
+model of the human disease. The resource of data generated in this work may 
+serve as a framework for the discovery of novel pathogenic mechanisms and 
+disease biomarkers.

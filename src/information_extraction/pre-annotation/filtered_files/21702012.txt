@@ -1,0 +1,30 @@
+OBJECTIVE: Cytosolic phospholipase A2 (cPLA2) is a rate-limiting enzyme that 
+plays a critical role in the biosynthesis of eicosanoids. The aim of this study 
+was to investigate the mechanisms underlying interleukin-1β (IL-1β)-induced 
+cPLA2 expression in human rheumatoid arthritis synovial fibroblasts (RASFs).
+METHODS: Synovial tissue was obtained from patients with RA who were undergoing 
+joint replacement surgery. In a mouse model of IL-1β-mediated inflammatory 
+arthritis, neutrophil infiltration, bone erosion, and cPLA2 expression in ankle 
+synovium were analyzed by immunohistochemistry. IL-1β-induced cPLA2 expression 
+was determined by Western blotting, real-time polymerase chain reaction, and 
+gene promoter assay using pharmacologic inhibitors and transfection with short 
+hairpin RNAs or small interfering RNAs. The recruitment of NF-κB and p300 to the 
+cPLA2 promoter was determined by chromatin immunoprecipitation assay. 
+Prostaglandin E2 (PGE2) biosynthesis was evaluated by enzyme-linked 
+immunosorbent assay.
+RESULTS: IL-1β-induced cPLA2 expression and PGE2 release were mediated through a 
+myeloid differentiation factor 88 (MyD88)/c-Src-dependent matrix 
+metalloproteinase (MMP)/heparin-binding epidermal growth factor (HB-EGF) cascade 
+linking to transactivation of the EGF receptor (EGFR)/phosphatidylinositol 
+3-kinase (PI 3-kinase)/Akt, p300, and NF-κB p65 pathways. IL-1β also stimulated 
+Akt phosphorylation and nuclear translocation. Activation of Akt eventually led 
+to the acetylation of histone residues by phosphorylation and recruitment of 
+p300 and enhanced its histone acetyltransferase activity on the NF-κB elements 
+of the cPLA2 promoter. IL-1β-induced NF-κB transcriptional activity was mediated 
+through a PI 3-kinase/Akt-dependent cascade. Up-regulation of cPLA2 by IL-1β 
+increased PGE(2) biosynthesis in RASFs.
+CONCLUSION: IL-1β-induced cPLA2 expression is mediated through activation of the 
+MyD88/c-Src, MMP/HB-EGF, EGFR/PI 3-kinase/Akt, p300, and NF-κB pathways. These 
+results provide insights into the mechanisms underlying IL-1β-enhanced joint 
+inflammatory responses in RA and may inspire new targeted therapeutic 
+approaches.

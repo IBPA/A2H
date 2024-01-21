@@ -1,0 +1,18 @@
+To investigate the role of the monomeric guanosine triphosphatase (GTPase) Rho 
+on migration of hematopoietic progenitor cells (HPC), we employed different 
+clostridial toxins which inhibit the Rho family of GTPases. Pretreatment with 
+C2I-C3, a cell-accessible C3 transferase fusion protein that targets Rho, 
+increased chemokinetic migration of the factor-dependent multipotent cell line 
+Factor Dependent Cell Paterson with mixed lineage differentiation potential 
+(FDCP-mix) and of primary lineage marker-depleted HPC in vitro. In contrast, 
+treatment with lethal toxin (LT) from Clostridium sordellii, which predominantly 
+inactivates Rac, and with toxin B from C. difficile, which inactivates Rho, Rac 
+and Cdc42, decreased in vitro migration. When HPC pretreated with LT or toxin B 
+were transplanted into mice, homing to the bone marrow was impaired, whereas 
+C2I-C3 treatment did not alter HPC homing. However, in a competitive 
+hematopoietic repopulation experiment in C57BL/6 mice, pretreatment of bone 
+marrow cells with any of the inhibitors, including the Rho inhibitor C2I-C3, 
+resulted in suppressed donor-type hematopoiesis. Our data indicate that whereas 
+Rac supports HPC cell cycling, migration, short-term homing and hematopoietic 
+regeneration, Rho coordinates down-regulation of HPC migration and is required 
+for hematopoietic regeneration.

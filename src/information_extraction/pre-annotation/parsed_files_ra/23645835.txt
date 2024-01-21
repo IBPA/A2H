@@ -1,0 +1,18 @@
+By inhibiting target gene expression, microRNAs (miRNAs) play major roles in 
+various physiological and pathological processes. miR-146a, a miRNA induced upon 
+lipopolysaccharide (LPS) stimulation and virus infection, is also highly 
+expressed in patients with immune disorders such as rheumatoid arthritis, 
+Sjögren's syndrome, and psoriasis. Whether the high level of miR-146a 
+contributes to any of these pathogenesis-related processes remains unknown. To 
+elucidate the function of miR-146a in vivo, we generated a transgenic (TG) mouse 
+line overexpressing miR-146a. Starting at an early age, these TG mice developed 
+spontaneous immune disorders that mimicked human autoimmune lymphoproliferative 
+syndrome (ALPS) with distinct manifestations, including enlarged spleens and 
+lymph nodes, inflammatory infiltration in the livers and lungs, increased levels 
+of double-negative T cells in peripheral blood, and increased serum 
+immunoglobulin G levels. Moreover, with the adoptive transfer approach, we found 
+that the B-cell population was the major etiological factor and that the 
+expression of Fas, a direct target of miR-146a, was significantly dampened in TG 
+germinal center B cells. These results indicate that miR-146a may be involved in 
+the pathogenesis of ALPS by targeting Fas and may therefore serve as a novel 
+therapeutic target.

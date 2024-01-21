@@ -1,0 +1,69 @@
+﻿feature_name_original,feature_name
+ohe_10__c diff strain preclinical_bi1,Preclinical C. diff strain: BI-1
+ohe_9__ribotype preclinical_87.0,Preclinical C. diff ribotype: 087
+ohe_10__c diff strain preclinical_vpi10463,Preclinical C. diff strain: VPI 10463
+ohe_6__species preclinical_hamster,Preclinical species: Hamster
+ohe_13__c diff dose vegetative/spores preclinical_Unknown,Preclinical C. diff dose type: Generic
+scaler_17__dosage times per day preclinical,Preclinical drug dosage times per day
+ohe_25__prophylactic / therapeutic clinical_t,Clinical treatment type: Therapeutic
+ohe_9__ribotype preclinical_1.0,Preclinical C. diff ribotype: 001
+ohe_10__c diff strain preclinical_atcc9689,Preclinical C. diff strain: ATCC 9689
+scaler_22__dosage value clinical,Clinical drug dosage value
+ohe_1__gnotobiotic preclinical_spf,Preclinical gnotobiotic type: Specific-pathogen-free
+ohe_7__disease model preclinical_challenge,Preclinical disease model: Challenge
+ohe_10__c diff strain preclinical_uk6,Preclinical C. diff strain: UK6
+ohe_6__species preclinical_pig,Preclinical animal species: Pig
+ohe_2__animal strain preclinical_pig,Preclinical animal strain: Generic (Pig)
+ohe_1__gnotobiotic preclinical_axenic,Preclinical gnotobiotic type: Axenic
+ohe_7__disease model preclinical_clindamycin+challenge,Preclinical disease model: Clindamycin + Challenge
+ohe_1__gnotobiotic preclinical_Unknown,Preclinical gnotobiotic type: Unknown
+ohe_12__c diff dose units preclinical_cfu,Preclinical C. diff dose unit: CFU
+ohe_3__animal sex preclinical_Unknown,Preclinical animal sex: Unknown
+ohe_3__animal sex preclinical_f,Preclinical animal sex: Female
+ohe_9__ribotype preclinical_27.0,Preclinical C. diff ribotype: 027
+ohe_3__animal sex preclinical_m,Preclinical animal sex: Male
+ohe_27__Phases clinical_phase4,Clinical phase: IV
+ohe_10__c diff strain preclinical_2009155,Preclinical C. diff strain: 2009155
+"ohe_7__disease model preclinical_vancomycin,colistin,gentamicin,metronidazole+clindamycin+challenge",Preclinical disease model: Mixture of five antibiotics + Challenge
+ohe_9__ribotype preclinical_12.0,Preclinical C. diff ribotype: 012
+ohe_27__Phases clinical_phase3,Clinical phase: III
+ohe_6__species preclinical_mouse,Preclinical animal species: Mouse
+ohe_9__ribotype preclinical_428.0,Preclinical C. diff ribotype: 428
+ohe_10__c diff strain preclinical_va11,Preclinical C. diff strain: VA11
+scaler_23__dosage times per day clinical,Clinical drug dosage times per day
+ohe_2__animal strain preclinical_goldensyrian,Preclinical animal strain: Golden Syrian (Hamster)
+ohe_13__c diff dose vegetative/spores preclinical_spores,Preclinical C. diff dose type: Spore
+ohe_10__c diff strain preclinical_630,Preclinical C. diff strain: 630
+ohe_0__acute/sustained preclinical_sustained,Preclinical endpoint type: Sustained
+ohe_10__c diff strain preclinical_atcc43596,Preclinical C. diff strain: ATCC 43596
+scaler_5__animal weight value (g) preclinical,Preclinical animal weight
+ohe_9__ribotype preclinical_Unknown,Preclinical C. diff ribotype: Unknown
+ohe_2__animal strain preclinical_c57bl/6,Preclinical animal strain: C57BL/6 (Mouse)
+ohe_7__disease model preclinical_cefoperazone+clindamycin+challenge,Preclinical disease model: Cefoperazone + Clindamycin + Challenge
+scaler_14__daily dosage preclinical,Preclinical drug daily dosage
+ohe_27__Phases clinical_phase2,Clinical phase: II
+scaler_18__dosage duration preclinical,Preclinical drug dosage duration
+ohe_8__prophylactic / therapeutic preclinical_t,Preclinical treatment type: Therapeutic
+ohe_19__acute/sustained clinical_sustained,Clinical endpoint type: Sustained
+ohe_10__c diff strain preclinical_huc2-4,Preclinical C. diff strain: HUC 2-4
+ohe_2__animal strain preclinical_Unknown,Preclinical animal strain: Generic (Hamster)
+ohe_10__c diff strain preclinical_2926,Preclinical C. diff strain: 2926
+"ohe_26__Age Groups clinical_adult,olderadult",Clinical age groups: Adult or older adult
+ohe_9__ribotype preclinical_53.0,Preclinical C. diff ribotype: 053
+ohe_10__c diff strain preclinical_b1,Preclinical C. diff strain: B1
+ohe_2__animal strain preclinical_c57bl/6j,Preclinical animal strain: C57BL/6J (Mouse)
+scaler_4__animal age value (days) preclinical,Preclinical animal age
+scaler_11__c diff dose value preclinical,Preclinical C. diff dose value
+ohe_10__c diff strain preclinical_va5,Preclinical C. diff strain: VA5
+ohe_26__Age Groups clinical_child,Clinical age groups: Child
+ohe_13__c diff dose vegetative/spores preclinical_vegetative,Preclinical C. diff dose type: Vegetative
+"ohe_26__Age Groups clinical_child,adult",Clinical age groups: Child or adult
+"ohe_7__disease model preclinical_kanamycin,gentamicin,colistin,metronidazole,vancomycin+clindamycin+challenge",Preclinical disease model: Mixture of six antibiotics + Challenge
+scaler_20__daily dosage clinical,Clinical drug daily dosage
+scaler_24__dosage duration clinical,Clinical drug dosage duration
+ohe_10__c diff strain preclinical_ttu614,Preclinical C. diff strain: TTU 614
+scaler_16__dosage value preclinical,Preclinical drug dosage value
+scaler_21__total dosage clinical,Clinical drug total dosage
+scaler_15__total dosage preclinical,Preclinical drug total dosage
+"ohe_26__Age Groups clinical_child,adult,olderadult",Clinical age groups: Any
+ohe_7__disease model preclinical_challenge+clindamycin,Preclinical disease model: Challenge + Clindamycin

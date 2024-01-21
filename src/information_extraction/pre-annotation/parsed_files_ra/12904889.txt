@@ -1,0 +1,18 @@
+Rheumatoid arthritis is a chronic inflammatory disorder that affects multiple 
+peripheral joints. It is the most common form of inflammatory arthritis and is 
+characterized by synovial hyperplasia, immune cell infiltration, cartilage 
+destruction, and bone erosion. To gain insight into the etiology of the disease, 
+a variety of animal models have been established. Twelve years ago George 
+Kollias' laboratory generated a transgenic (Tg) mouse that over-expresses human 
+TNF-alpha, and develops an erosive polyarthritis with many characteristics 
+observed in rheumatoid arthritis patients. The phenotype of this mouse model 
+validated the theory that TNF-alpha is at the apex of the pro-inflammatory 
+cascade in rheumatoid arthritis, and foreshadowed the remarkable success of 
+anti-TNF-alpha therapy that has transformed the effective management of this 
+disease. As such, the TNF-Tg mice are very useful tools for dissecting the 
+molecular mechanisms of the pathogenic process and evaluating the efficacy of 
+novel therapeutic strategies for rheumatoid arthritis. In this review we (1) 
+provide a brief summary of TNF-alpha biology and the role of this dominant 
+cytokine in rheumatoid arthritis, (2) describe the various TNF-Tg models and 
+their phenotypes, and (3) give examples of how this model has been used 
+experimentally.

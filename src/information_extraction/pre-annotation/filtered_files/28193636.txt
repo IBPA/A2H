@@ -1,0 +1,27 @@
+Reversible janus associated kinase (JAK) inhibitors such as tofacitinib and 
+decernotinib block cytokine signaling and are efficacious in treating autoimmune 
+diseases. However, therapeutic doses are limited due to inhibition of other 
+JAK/signal transducer and activator of transcription pathways associated with 
+hematopoiesis, lipid biogenesis, infection, and immune responses. A selective 
+JAK3 inhibitor may have a better therapeutic index; however, until recently, no 
+compounds have been described that maintain JAK3 selectivity in cells, as well 
+as against the kinome, with good physicochemical properties to test the JAK3 
+hypothesis in vivo. To quantify the biochemical basis for JAK isozyme 
+selectivity, we determined that the apparent Km value for each JAK isozyme 
+ranged from 31.8 to 2.9 μM for JAK1 and JAK3, respectively. To confirm compound 
+activity in cells, we developed a novel enzyme complementation assay that read 
+activity of single JAK isozymes in a cellular context. Reversible JAK3 
+inhibitors cannot achieve sufficient selectivity against other isozymes in the 
+cellular context due to inherent differences in enzyme ATP Km values. Therefore, 
+we developed irreversible JAK3 compounds that are potent and highly selective in 
+vitro in cells and against the kinome. Compound 2, a potent inhibitor of JAK3 
+(0.15 nM) was 4300-fold selective for JAK3 over JAK1 in enzyme assays, 67-fold 
+[interleukin (IL)-2 versus IL-6] or 140-fold [IL-2 versus erythropoietin or 
+granulocyte-macrophage colony-stimulating factor (GMCSF)] selective in cellular 
+reporter assays and >35-fold selective in human peripheral blood mononuclear 
+cell assays (IL-7 versus IL-6 or GMCSF). In vivo, selective JAK3 inhibition was 
+sufficient to block the development of inflammation in a rat model of rheumatoid 
+arthritis, while sparing hematopoiesis.
+
+Copyright © 2017 by The American Society for Pharmacology and Experimental 
+Therapeutics.

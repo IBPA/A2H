@@ -1,0 +1,21 @@
+Clostridium difficile infection (CDI) is a major cause of health care-associated 
+disease. CDI initiates with ingestion of C. difficile spores, germination in the 
+gastrointestinal (GI) tract, and then colonization of the large intestine. The 
+interactions between C. difficile cells and other bacteria and with host mucosa 
+during CDI remain poorly understood. Here, we addressed the hypothesis that, in 
+a mouse model of CDI, C. difficile resides in multicellular communities 
+(biofilms) in association with host mucosa. To do this, we paraffin embedded and 
+then sectioned the GI tracts of infected mice at various days postinfection 
+(p.i.). We then used fluorescent in situ hybridization (FISH) with 16S rRNA 
+probes targeting most bacteria as well as C. difficile specifically. The results 
+revealed that C. difficile is present as a minority member of communities in the 
+outer (loose) mucus layer, in the cecum and colon, starting at day 1 p.i. To 
+generate FISH probes that identify bacteria within mucus-associated communities 
+harboring C. difficile, we characterized bacterial populations in the infected 
+mouse GI tract using 16S rRNA gene sequence analysis of bacterial DNA prepared 
+from intestinal content. This analysis revealed the presence of genera of 
+several families belonging to Bacteroidetes and Firmicutes. These data suggest 
+that formation of multispecies communities associated with the mucus of the 
+cecum and colon is an important early step in GI tract colonization. They raise 
+the possibility that other bacterial species in these communities modulate the 
+ability of C. difficile to successfully colonize and, thereby, cause disease.

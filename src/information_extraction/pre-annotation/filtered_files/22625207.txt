@@ -1,0 +1,17 @@
+AIM: Rapidly expanding manufacture and use of nanomaterials emphasize the 
+requirements for thorough assessment of health outcomes associated with novel 
+applications. Post-translational protein modifications catalyzed by 
+Ca(2+)-dependent peptidylargininedeiminases have been shown to trigger immune 
+responses including autoantibody generation, a hallmark of immune complexes 
+deposition in rheumatoid arthritis. Therefore, the aim of the study was to 
+assess if nanoparticles are able to promote protein citrullination.
+MATERIALS & METHODS: Human A549 and THP-1 cells were exposed to silicon dioxide, 
+carbon black or single-walled carbon nanotubes. C57BL/6 mice were exposed to 
+respirable single-walled carbon nanotubes. Protein citrullination, 
+peptidylargininedeiminases activity and target proteins were evaluated.
+RESULTS: The studied nanoparticles induced protein citrullination both in 
+cultured human cells and mouse lung tissues. Citrullination occurred via the 
+peptidylargininedeiminase-dependent mechanism. Cytokeratines 7, 8, 18 and 
+plectins were identified as intracellular citrullination targets.
+CONCLUSION: Nanoparticle exposure facilitated post-translational citrullination 
+of proteins.

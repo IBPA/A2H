@@ -1,0 +1,24 @@
+OBJECTIVE: RNA interference is a process in which genes can be silenced 
+sequence-specifically. In mammals, RNA interference can be invoked by 
+introduction of small (19-21-nucleotide) double-stranded RNA molecules known as 
+small interfering RNA (siRNA) into cells. Thereby, siRNA offers promise as a 
+novel therapeutic modality. However, siRNA is a relatively large, highly charged 
+molecule and does not readily enter cells. This study was undertaken to 
+investigate the use of electroporation for in vivo transfection of siRNA into 
+joint tissue in arthritic mice to achieve local RNA interference.
+METHODS: Proof of principle that siRNA is able to inhibit gene expression in 
+vivo in the mouse joint was studied by local injection and electroporation of 
+siRNA designed to silence reporter genes. In mice with collagen-induced 
+arthritis (CIA), the disease-modulating activity of siRNA designed to silence 
+tumor necrosis factor alpha (TNFalpha) was investigated.
+RESULTS: Luciferase activity could be reduced by >90% with luciferase-specific 
+siRNA as compared with the activity measured after electroporation without siRNA 
+or with irrelevant siRNA. The effect was observed only locally. In mice with 
+CIA, electroporation of siRNA designed to inhibit TNFalpha strongly inhibited 
+joint inflammation, whereas electroporation of irrelevant siRNA or injection of 
+siRNA against TNFalpha without electroporation failed to produce therapeutic 
+effects.
+CONCLUSION: Local electroporation of siRNA in joint tissue can inhibit CIA in 
+mice. These results offer promise for the use of siRNA as a new strategy for 
+therapeutic intervention in rheumatoid arthritis and may serve as a tool to 
+study arthritis disease pathways through loss-of-function phenotypes.

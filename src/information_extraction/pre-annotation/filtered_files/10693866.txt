@@ -1,0 +1,18 @@
+OBJECTIVE: To investigate the expression of extracellular matrix 
+metalloproteinase inducer (EMMPRIN) in the synovial membrane of patients with 
+rheumatoid arthritis (RA) and osteoarthritis (OA).
+METHODS: Mouse monoclonal antibody against human EMMPRIN was applied according 
+to an avidin-biotin-peroxidase complex method to reveal EMMPRIN expression. 
+Western blotting and reverse transcriptase-polymerase chain reaction (RT-PCR) 
+were performed to check for the presence of EMMPRIN protein and messenger RNA 
+(mRNA).
+RESULTS: EMMPRIN immunoreactivity was more intense in RA than in OA synovial 
+membrane (P < 0.01). EMMPRIN staining was more widespread in RA than in OA, 
+especially in association with macrophage infiltrates. RT-PCR of synovial 
+membrane samples disclosed the presence of EMMPRIN mRNA. Nucleotide sequencing 
+of the PCR amplification products confirmed the identity of the amplified bands. 
+Immunoblot analysis revealed 55-kd glycosylated EMMPRIN bands, which were 
+particularly prominent in RA samples.
+CONCLUSION: The expression of EMMPRIN is upregulated in the rheumatoid synovial 
+membrane. EMMPRIN can induce local production of at least MMPs 1, 2, and 3, and 
+can thereby play a role in joint destruction in RA.

@@ -1,0 +1,28 @@
+Activation of phospholipase D (PLD) is assumed to be one major pathway by which 
+alpha(1)-adrenoceptors (alpha(1)ARs) induce hypertrophic responses in cardiac 
+myocytes. Heterotrimeric G proteins, protein kinase C (PKC) isoforms, protein 
+tyrosine kinases, monomeric GTPases of the ADP-ribosylation factor (ARF) and Rho 
+families, and as important cofactor phosphatidylinositol 4,5-bisphosphate 
+(PIP(2)) seem to participate in the G protein-coupled receptor dependent 
+regulation of PLD. We therefore studied the role of these components in the 
+coupling of alpha(1)ARs to PLD in neonatal rat cardiac myocytes (NRCM). 
+Stimulation of alpha(1)ARs, most likely of the alpha(1A) subtype, by 
+noradrenaline increased PLD activity three- to fourfold concomitant with the 
+stimulation of phospholipase C (PLC). In contrast, the partial agonist 
+phenylephrine stimulated PLC, but failed to increase PLD activity. The PLC and 
+PLD responses were pertussis toxin insensitive and treatment of the cells with 
+the G(q)-activating toxin of Pasteurella multocida stimulated both 
+phospholipases about fourfold. Over-expression of the G(q)-and 
+G(i)-type-specific regulator of G protein signalling RGS4 blunted 
+alpha(1)AR-induced PLC and PLD stimulation. Ro 31-8220, known to inhibit 
+Ca(2+)-dependent and -independent PKC isoforms, strongly inhibited PLD activity, 
+whereas Gö 6976, known to inhibit preferentially Ca(2+)-dependent PKC isozymes, 
+was without effect. The ARF signalling inhibitor brefeldin A, protein tyrosine 
+kinase inhibitors and the Rho-inactivating toxin B of Clostridium difficile 
+blunted alpha(1)AR-induced PLD stimulation and largely reduced the cellular 
+PIP(2) content. In membranes of toxin B-treated NCRM, PLD activity was similarly 
+reduced, but was fully restored by addition of exogenous PIP(2). We conclude, 
+that alpha(1A)ARs stimulate PLD activity via a G(q/11)-PLCbeta-novel PKC 
+isoform-dependent pathway in NRCM. ARF and Rho GTPases as well as protein 
+tyrosine kinases contribute to PLD stimulation in NRCM, most likely by 
+regulating the supply of PIP(2).

@@ -1,0 +1,39 @@
+Clostridium difficile is a leading cause of nosocomial infections worldwide and 
+has become an urgent public health threat requiring immediate attention. 
+Epidemic lineages of the BI/NAP1/027 strain type have emerged and spread through 
+health care systems across the globe over the past decade. Limiting 
+person-to-person transmission and eradicating C. difficile, especially the 
+BI/NAP1/027 strain type, from health care facilities are difficult due to the 
+abundant shedding of spores that are impervious to most interventions. Effective 
+prophylaxis for C. difficile infection (CDI) is lacking. We have genetically 
+modified a contractile R-type bacteriocin ("diffocin") from C. difficile strain 
+CD4 to kill BI/NAP1/027-type strains for this purpose. The natural receptor 
+binding protein (RBP) responsible for diffocin targeting was replaced with a 
+newly discovered RBP identified within a prophage of a BI/NAP1/027-type target 
+strain by genome mining. The resulting modified diffocins (a.k.a. Avidocin-CDs), 
+Av-CD291.1 and Av-CD291.2, were stable and killed all 16 tested BI/NAP1/027-type 
+strains. Av-CD291.2 administered in drinking water survived passage through the 
+mouse gastrointestinal (GI) tract, did not detectably alter the mouse gut 
+microbiota or disrupt natural colonization resistance to C. difficile or the 
+vancomycin-resistant Enterococcus faecium (VREF), and prevented 
+antibiotic-induced colonization of mice inoculated with BI/NAP1/027-type spores. 
+Given the high incidence and virulence of the pathogen, preventing colonization 
+by BI/NAP1/027-type strains and limiting their transmission could significantly 
+reduce the occurrence of the most severe CDIs. This modified diffocin represents 
+a prototype of an Avidocin-CD platform capable of producing targetable, 
+precision anti-C. difficile agents that can prevent and potentially treat CDIs 
+without disrupting protective indigenous microbiota.
+IMPORTANCE: Treatment and prevention strategies for bacterial diseases rely 
+heavily on traditional antibiotics, which impose strong selection for resistance 
+and disrupt protective microbiota. One consequence has been an upsurge of 
+opportunistic pathogens, such as Clostridium difficile, that exploit 
+antibiotic-induced disruptions in gut microbiota to proliferate and cause 
+life-threatening diseases. We have developed alternative agents that utilize 
+contractile bactericidal protein complexes (R-type bacteriocins) to kill 
+specific C. difficile pathogens. Efficacy in a preclinical animal study 
+indicates these molecules warrant further development as potential prophylactic 
+agents to prevent C. difficile infections in humans. Since these agents do not 
+detectably alter the indigenous gut microbiota or colonization resistance in 
+mice, we believe they will be safe to administer as a prophylactic to block 
+transmission in high-risk environments without rendering patients susceptible to 
+enteric infection after cessation of treatment.

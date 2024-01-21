@@ -1,0 +1,26 @@
+OBJECTIVE: It was recently reported that CD101 surface expression discriminates 
+potency among CD4+CD25+ FoxP3+ regulatory T cells in the mouse. We investigated 
+whether CD101 may also have a role in the suppressor function of regulatory T 
+cells in humans given that the latter population may affect the autoimmune 
+response in patients with rheumatoid arthritis (RA).
+METHODS: Sorted T cells and monocyte/macrophage cell populations were analyzed 
+by flow cyto metry using conjugated antibodies specific for cell-surface 
+markers. T cell proliferation assays were conducted by [(3)H]thymidine 
+incorporation and CD8(high) cytotoxicity measurements by Cyto-Scan-LDH 
+cytotoxicity assays. ELISA were used to measure cytokines in cell culture 
+supernatants and Western blotting was performed for profiling mitogen-activated 
+protein (MAP) kinase activation using specific antiphospholipid antibodies.
+RESULTS: CD101 expression coincided with PMA-induced monocyte/leukocyte lineage 
+differentiation. CD8(high)CD101- T cells exhibited greater cytotoxic activity 
+than CD8(high)CD101+ T cells, while no difference was observed between 
+CD4CD25(high)CD101+ and CD4CD25(high)CD101- Treg inhibitory activity through 
+responder T cells. LPS-induced proinflammatory cytokine production and p38 MAP 
+kinase activation were made possible by ligation of CD101 with an anti-CD101 
+antibody F(ab')(2) fragment.
+CONCLUSION: These results suggested a modulatory/coregulatory function of CD101 
+in the human immune system, in contrast to murine models, in which CD101 surface 
+expression discriminates potency among FoxP3+ regulatory T cells. Cytotoxic 
+CD8(high)CD101+ T cells were markedly less cytotoxic than CD8(high) T cells 
+negative for the CD101 antigen and were conspicuously downregulated in patients 
+with RA, suggesting a possible role for CD101 expression and function in the 
+control of certain manifestations of RA pathology.

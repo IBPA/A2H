@@ -1,0 +1,30 @@
+Toxin-producing strains of Clostridioides difficile and Clostridium perfringens 
+cause infections of the gastrointestinal tract in humans and ruminants, with the 
+toxins being major virulence factors, essential for the infection, and 
+responsible for the onset of severe symptoms. C. difficile toxin A (TcdA) and 
+toxin B (TcdB), and the large cytotoxin (TpeL) from C. perfringens are single 
+chain bacterial protein toxins with an AB-like toxin structure. The C-terminal 
+delivery domain mediates cell entry of the N-terminal glycosyltransferase domain 
+by receptor-mediated endocytosis. Several cell surface proteins have been 
+proposed to serve as toxin receptors, including chondroitin-sulfate proteoglycan 
+4 (CSPG4), poliovirus receptor-like 3 (PVRL3), and frizzled-1/2/7 (FZD1/2/7) for 
+TcdB and LDL-receptor-related protein-1 (LRP1) for TpeL. The expression of the 
+TcdB receptors was investigated in human intestinal organoids (HIOs) and in 
+cultured cell lines. HIOs from four human donors exhibited a comparable profile 
+of receptor expression, with PVRL3, LRP1, and FZD7 being expressed and CSPG4 and 
+FZD2 not being expressed. In human epithelial Caco-2 cells and HT29 cells as 
+well as in immortalized murine fibroblasts, either receptor FZD2/7, CSPG4, 
+PVRL3, and LRP1 was expressed. The question whether the toxins take advantage of 
+the normal turnover of their receptors (i.e., constitutive endocytosis and 
+recycling) from the cell surface or whether the toxins activity induce the 
+internalization of their receptors has not yet been addressed. For the analysis 
+of receptor internalization, temperature-induced uptake of biotinylated toxin 
+receptors into immortalized mouse embryonic fibroblasts (MEFs) and Caco-2 cells 
+was exploited. Solely LRP1 exhibited constitutive endocytosis from the plasma 
+membrane to the endosome, which might be abused by TpeL (and possibly TcdB as 
+well) for cell entry. Furthermore, internalization of CSPG4, PVRL3, FZD2, and 
+FZD7 was observed neither in MEFs nor in Caco-2 cells. FZD2/7, CSPG4, and PVRL3 
+did thus exhibit no constitutive recycling. The presence of TcdB and the p38 
+activation induced by anisomycin were not able to induce or enhance CSPG4 or 
+PVRL3 uptake in MEFs. In conclusion, FZD2/7, CSPG4, and PVRL3 seem to serve as 
+cell surface binding receptors rather than internalizing receptors of TcdB.

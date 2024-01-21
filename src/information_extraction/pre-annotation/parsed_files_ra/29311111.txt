@@ -1,0 +1,27 @@
+Despite the efficacy of biologics for treatment of rheumatoid arthritis (RA), 
+many patients show inadequate responses and likely require neutralization of 
+multiple mediators. Neutralization of both interleukin (IL)-1β and IL-17A with 
+monoclonal antibodies showed greater efficacy than either agent alone in a mouse 
+arthritis model with cooperative inhibition of key inflammatory factors, IL-6, 
+granulocyte colony-stimulating factor (G-CSF), and CXC chemokine ligand (CXCL)1. 
+Given the potential clinical benefit in RA, we generated a human dual variable 
+domain antibody Ig, ABBV-615, capable of simultaneous binding and neutralization 
+of IL-1β and IL-17A. ABBV-615 was characterized and evaluated in cynomolgus 
+monkeys for pharmacokinetics and toxicity to enable clinical development. 
+ABBV-615 exhibited affinities (KD) of 12 and 3 pM on human IL-1β and IL-17A, 
+respectively, and potencies (IC50) of 3 and 58 pM, respectively, as well as 
+excellent drug-like properties. ABBV-615 pharmacokinetics in cynomolgus monkeys 
+was dose proportional from 20 to 100 mg/kg with a mean half-life of 16 days. 
+However, a 13-week repeat-dose toxicity study in cynomolgus monkeys revealed 
+time-dependent spontaneous infections exclusively in skin at all doses tested 
+and not historically seen with single-agent anti-IL-1α/β or anti-IL-17A. 
+Consistent with reduced resistance to skin infections, IL-1β- and 
+IL-17A-stimulated human keratinocytes demonstrate cooperative or compensatory 
+production of key antibacterial and inflammatory mediators such as lipocalin-2, 
+G-CSF, CXCL1, IL-8, tumor necrosis factor, and IL-6, which aid in defense 
+against skin bacterial infections. These results illustrate the skin-specific 
+antimicrobial mechanisms of IL-1β and IL-17A and highlight the importance of 
+understanding unique combinatorial effects of biologic agents.
+
+Copyright © 2018 by The American Society for Pharmacology and Experimental 
+Therapeutics.

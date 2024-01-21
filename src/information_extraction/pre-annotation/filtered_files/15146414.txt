@@ -1,0 +1,26 @@
+OBJECTIVE: To investigate whether retroviral gene transfer of ribozymes 
+targeting matrix metalloproteinase 1 (MMP-1) inhibits the production of MMP-1 in 
+rheumatoid arthritis synovial fibroblasts (RASFs) and reduces the invasiveness 
+of these cells in vivo.
+METHODS: MMP-1-specific ribozymes (RzMMP-1) were designed and cloned into the 
+pLNSX retroviral vector. Cleavage of MMP-1 was determined in vitro, and the most 
+effective ribozyme was selected for further investigation. RASFs were transduced 
+with replication-deficient viruses carrying RzMMP-1 or with empty viruses 
+(mock). Quantitative polymerase chain reaction with cleavage site-spanning 
+fluorescent probes was used to measure the levels of MMP-1, MMP-9, and MMP-13 
+messenger RNA. In addition, protein levels of MMP-1 in cell culture supernatants 
+were determined by enzyme linked immunosorbent assay. The effects of stimulation 
+with lipopolysaccharide (LPS) and tumor necrosis factor alpha (TNFalpha) on the 
+production of MMP-1 were assessed accordingly. The invasiveness of 
+RzMMP-1-transduced, mock-transduced, and untransduced RASFs was analyzed in the 
+SCID mouse in vivo model of RA.
+RESULTS: Transduction of RASFs with RzMMP-1 significantly decreased the 
+production of MMP-1 in RASFs without affecting other MMPs, such as MMP-9 and 
+MMP-13. RzMMP-1 not only reduced the spontaneous production of MMP-1, but also 
+prevented the LPS- and TNFalpha-induced increase in MMP-1 production. Inhibition 
+of MMP-1 was maintained for at least 2 months and was accompanied by a 
+significant reduction of the invasiveness of RASFs in the SCID mouse model of 
+RA.
+CONCLUSION: Intracellular expression of ribozymes constitutes a feasible tool 
+for inhibiting the production of matrix-degrading enzymes. Inhibition of MMP-1 
+alone results in a significant reduction of cartilage invasion by RASFs.

@@ -1,0 +1,23 @@
+BACKGROUND: Defects in sex steroid receptors have been linked to the onset, 
+progression and severity, as well as the sex-related prevalence, of a variety of 
+autoimmune disorders, including lupus, rheumatoid arthritis, multiple sclerosis 
+and diabetes. We hypothesize that defects in estrogen receptor alpha (ESR1), 
+estrogen receptor beta (ESR2) and/or the androgen receptor (AR) may also 
+contribute to the development of lacrimal gland autoimmune sequelae in Sjögren's 
+syndrome. To begin to test this hypothesis, we examined whether mutations exist 
+in the coding regions of ESR1, ESR2 and AR transcripts in lacrimal tissues of 
+mouse models of Sjögren's syndrome. METHODS: Lacrimal and submandibular glands 
+were collected from adult MRL/MpJ-Tnfrsf6(lpr), nonobese diabetic and/or BALB/c 
+mice. Tissues were pooled according to sex and experiment and processed for cDNA 
+generation. PCR primers were designed to amplify 566-875 base pair segments of 
+the entire open reading frame of each receptor. Segments were amplified, 
+purified and then sequenced. Receptor sequences were assembled and compared to 
+each other and to known NCBI sequences. RESULTS: Our results show that almost 
+all ESR1, ESR2 and AR sequences in exocrine tissues of male and female 
+autoimmune and non-autoimmune mice were identical to those of NCBI standards. 
+There was a G-->A shift at position 998 of the ESR2 complete coding sequence in 
+all tissue samples when compared to NCBI reference sequence U81451.1, but this 
+polymorphism was not found in other ESR2 reference sequences. CONCLUSIONS: Our 
+findings indicate that defects in the coding region of sex steroid receptors do 
+not contribute to the pathogenesis of lacrimal gland disease in mouse models of 
+Sjögren's syndrome.

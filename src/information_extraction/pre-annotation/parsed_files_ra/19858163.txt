@@ -1,0 +1,17 @@
+Collagen-induced arthritis (CIA) in rats is a widely used preclinical animal 
+model of rheumatoid arthritis (RA). However, CIA development in Sprague-Dawley 
+(SD) rats is less severe in terms of inflammatory response compared with other 
+strains. Therefore, a modified CIA model called MCIA, using N-acetylmuramyl 
+dipeptide (MDP), has been developed in the less sensitive SD rat strains. This 
+work was conducted to better understand the immunopathological role and 
+contributions of the pro-inflammatory T-helper type 1 (Th-1) cytokines and 
+inflammatory mediators, interleukin-1 (IL-1beta), tumour necrosis factor-alpha 
+(TNF-alpha) and nitric oxide (NO); the anti-inflammatory T-helper type 2 (Th-2) 
+cytokine, IL-10 and autoantibodies such as rheumatoid factor (RF)-immunoglobulin 
+M (IgM) in this newly developed RA model. TNF-alpha, NO and RF-IgM levels were 
+significantly increased, while IL-1beta levels were not affected in this MCIA 
+rat model. The levels of IL-10 were lower than the baseline when compared with 
+controls.
+IN CONCLUSION: (1) the immunological features represented in the MCIA rat model 
+favour the Th-1 cytokine profile over Th-2 and (2) RF-IgM can be used as a 
+diagnostic test in preclinical RA models.

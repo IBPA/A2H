@@ -1,0 +1,13 @@
+Resolving the genetic basis of complex diseases like rheumatoid arthritis will 
+require knowledge of the corresponding diseases in experimental animals to 
+enable translational functional studies. Mapping of quantitative trait loci in 
+mouse models of arthritis, such as collagen-induced arthritis (CIA), using F(2) 
+crosses has been successful, but can resolve loci only to large chromosomal 
+regions. Using an inbred-outbred cross design, we identified and fine-mapped CIA 
+loci on a genome-wide scale. Heterogeneous stock mice were first intercrossed 
+with an inbred strain, B10.Q, to introduce an arthritis permitting MHCII 
+haplotype. Homozygous H2(q) mice were then selected to set up an F(3) generation 
+with fixed major histocompatibility complex that was used for arthritis 
+experiments. We identified 26 loci, 18 of which are novel, controlling arthritis 
+traits such as incidence of disease, severity and time of onset and fine-mapped 
+a number of previously mapped loci.

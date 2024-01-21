@@ -1,0 +1,31 @@
+OBJECTIVE: To examine the role of sirtuin-1 (SIRT-1)/FoxO3a in the expression of 
+cysteine-rich protein 61 (CYR-61) in rheumatoid arthritis synovial fibroblasts 
+(RASFs) and the influence of simvastatin on this pathway, and to determine the 
+relationship between disease progression and FoxO3a/CYR-61 signaling in synovial 
+fibroblasts in vivo using a rat model of collagen-induced arthritis (CIA).
+METHODS: In RASFs, the expression of CYR-61 and SIRT-1, the localization of 
+FoxO3a in the nucleus/cytoplasm, and the phosphorylation/acetylation of FoxO3a 
+were examined by Western blotting. Secretion of CCL20 was assessed by 
+enzyme-linked immunosorbent assay. Promoter activity of the Cyr61 gene was 
+evaluated by luciferase assay, with or without forced expression of FoxO3a and 
+SIRT-1 by lentiviral transduction. FoxO3a-Cyr61 promoter interaction was 
+examined by chromatin immunoprecipitation. In rats with CIA, the expression of 
+CYR-61 and phosphorylated FoxO3a in synovial fibroblasts was examined by 
+immunohistochemistry.
+RESULTS: In RASFs, simvastatin suppressed the tumor necrosis factor α 
+(TNFα)-induced production of CYR-61 and CCL20. Nuclear levels of FoxO3a were 
+decreased after TNFα stimulation of RASFs, and forced expression of FoxO3a 
+reversed the inductive effects of TNFα on CYR-61. Simvastatin inhibited the 
+nuclear export, phosphorylation, and acetylation of FoxO3a and maintained its 
+binding to the Cyr61 promoter. Forced expression of SIRT-1 in RASFs led to 
+decreased levels of CYR-61 and deacetylation of FoxO3a. Following treatment with 
+simvastatin, the expression of SIRT-1 was up-regulated and SIRT-1/FoxO3a binding 
+was enhanced in RASFs. In rats with CIA, intraarticular injection of simvastatin 
+alleviated arthritis and suppressed CYR-61 expression and FoxO3a phosphorylation 
+in synovial fibroblasts.
+CONCLUSION: CYR-61 is important in the pathogenesis of RA, and SIRT-1/FoxO3a 
+signaling is crucial to induction of CYR-61 in RASFs. Simvastatin plays a 
+beneficial role in inflammatory arthritis through its up-regulation of 
+SIRT-1/FoxO3a signaling in synovial fibroblasts. Continued study of the pathways 
+linking sirtuins, FoxO proteins, and the inflammatory responses of RASFs may 
+provide new insights into the pathophysiology of RA.

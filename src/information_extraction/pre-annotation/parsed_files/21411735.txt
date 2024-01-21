@@ -1,0 +1,21 @@
+Clostridium difficile is a Gram-positive obligate anaerobic pathogen that causes 
+pseudomembranous colitis in antibiotics-treated individuals. However, host 
+immune protective mechanisms against C. difficile are largely unknown. In this 
+study, we show that C. difficile possesses potent stimulatory activity for 
+nucleotide-binding oligomerization domain 1 (Nod1), an intracellular pattern 
+recognition molecule that senses bacterial peptidoglycan-related molecules. 
+Nod1(-/-), but not Nod2(-/-), mice exhibited increased lethality in response to 
+C. difficile intestinal infection despite comparable levels of intestinal damage 
+and epithelial permeability in Nod1(-/-) and control mice. The enhanced 
+lethality was accompanied by impaired C. difficile clearance, increased 
+bacterial translocation, and elevated levels of endotoxin and IL-1β in the serum 
+of Nod1(-/-) mice. Histological and flow cytometric analyses revealed that 
+Nod1(-/-) mice had defective recruitment of neutrophils, but not macrophages, to 
+the intestine after C. difficile infection. The reduced recruitment of 
+neutrophils correlated with impaired production of CXCL1, but not CCL2, XCL1, 
+and other cytokines/chemokines, in infected Nod1(-/-) mice. The influx of 
+neutrophils also was reduced when C. difficile was administered i.p., suggesting 
+that Nod1 directly recognizes C. difficile to induce the recruitment of 
+neutrophils to the infected site. These results indicate that Nod1 regulates 
+host susceptibility to C. difficile and suggest that Nod1-mediated neutrophil 
+recruitment is an important immune response against the enteric pathogen.

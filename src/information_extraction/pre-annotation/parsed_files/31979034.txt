@@ -1,0 +1,31 @@
+Beta-lactamases, enzymes produced by bacteria to degrade beta-lactam 
+antibiotics, have been harnessed as therapeutics to protect the gut microbiome 
+from damage caused by antibiotics. Proof-of-concept of this approach using 
+SYN-004 (ribaxamase), a beta-lactamase formulated for oral delivery with 
+intravenous (IV) penicillins and cephalosporins, was demonstrated with animal 
+models and in humans. Ribaxamase degraded ceftriaxone in the gastrointestinal 
+tract, protected the gut microbiome, significantly reduced the incidence of 
+Clostridioides difficile disease and attenuated emergence of antibiotic 
+resistant organisms. SYN-007 is a delayed release formulation of ribaxamase 
+intended for use with oral beta-lactams. In dogs treated with oral amoxicillin, 
+SYN-007 diminished antibiotic-mediated microbiome disruption and reduced the 
+emergence of antibiotic resistance without altering amoxicillin systemic 
+absorption. Here, SYN-007 function in the presence of clavulanate, a 
+beta-lactamase inhibitor, was investigated. Dogs received amoxicillin (40 mg/kg, 
+orally (PO), three times a day (TID)) or the combined antibiotic/beta-lactamase 
+inhibitor, amoxicillin/clavulanate (40 mg/kg amoxicillin, 5.7 mg/kg clavulanate, 
+PO, TID) +/- SYN-007 (10 mg, PO, TID) for five days. Serum amoxicillin levels 
+were not significantly different +/- SYN-007 compared to amoxicillin alone or 
+amoxicillin/clavulanate alone as controls for both first and last doses, 
+indicating SYN-007 did not interfere with systemic absorption of the antibiotic. 
+Whole genome shotgun metagenomics analyses of the fecal microbiomes demonstrated 
+both amoxicillin and amoxicillin/clavulanate significantly reduced diversity and 
+increased the frequency of antibiotic resistance genes. Microbiome damage 
+appeared more severe with amoxicillin/clavulanate. In contrast, with SYN-007, 
+microbiome diversity was not significantly altered, and frequency of antibiotic 
+resistance genes did not increase. Importantly, SYN-007 functioned in the 
+presence of clavulanate to protect the gut microbiome indicating that SYN-007 
+activity was not inhibited by clavulanate in the dog gastrointestinal tract. 
+SYN-007 has the potential to expand microbiome protection to 
+beta-lactam/beta-lactamase inhibitor combinations delivered orally or 
+systemically.

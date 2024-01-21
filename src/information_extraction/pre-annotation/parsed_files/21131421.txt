@@ -1,0 +1,19 @@
+The injection of Clostridium difficile toxin A into the ileal loops caused fluid 
+accumulation with the destruction of intestinal epithelial structure and the 
+recruitment of neutrophils and macrophages. Concomitantly, intraileal gene 
+expression of CX3CL1/fractalkine (FKN) and its receptor, CX3CR1, was enhanced. 
+When treated with toxin A in a similar manner, CX3CR1-deficient (CX3CR1(-/-)) 
+mice exhibited exaggerated fluid accumulation, histopathological alterations, 
+and neutrophil recruitment, but not macrophage infiltration. Mice reconstituted 
+with CX3CR1(-/-) mouse-derived bone marrow cells exhibited exacerbated toxin 
+A-induced enteritis, indicating that the lack of the CX3CR1 gene for 
+hematopoietic cells aggravated toxin A-induced enteritis. A heme oxygenase-1 
+(HO-1) inhibitor, tin-protoporphyrin-IX, markedly increased fluid accumulation 
+in toxin A-treated wild-type mice, indicating the protective roles of HO-1 in 
+this situation. HO-1 expression was detected mainly in F4/80-positive cells 
+expressing CX3CR1, and CX3CR1(-/-) mice failed to increase HO-1 expression after 
+toxin A treatment. Moreover, CX3CL1/FKN induced HO-1 gene expression by isolated 
+lamina propria-derived macrophages or a mouse macrophage cell line, RAW264.7, 
+through the activation of the ERK signal pathway. Thus, CX3CL1/FKN could induce 
+CX3CR1-expressing macrophages to express HO-1, thereby ameliorating toxin 
+A-induced enteritis.

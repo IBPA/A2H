@@ -1,0 +1,9 @@
+Etanercept (Amgen Inc, Thousand Oaks, CA) is a human soluble p75 tumor necrosis 
+factor (TNF) receptor-human-IgG1 (hup75 TNFR-huIgG1) fusion protein used in the 
+treatment of chronic inflammatory diseases in humans, including rheumatoid 
+arthritis, juvenile rheumatoid arthritis, ankylosing spondylitis, psoriatic 
+arthritis, and psoriasis. To be able to study the effects of the soluble 
+receptor fusion protein in mouse models, including those that mimic human 
+granulomatous infections, a murine soluble p75-TNF receptor-murine IgG1 (murine 
+p75-murine IgG1) fusion protein had to be constructed. This article discusses 
+the generation, large-scale production, and purification of this molecule.

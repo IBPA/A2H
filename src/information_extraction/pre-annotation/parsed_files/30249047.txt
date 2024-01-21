@@ -1,0 +1,20 @@
+Inflammatory bowel disease (IBD) and Clostridium difficile infection cause 
+gastrointestinal (GI) distension and, in severe cases, toxic megacolon with risk 
+of perforation and death. Herpesviruses have been linked to severe GI 
+dilatation. MHV-68 is a model for human gamma herpesvirus infection inducing GI 
+dilatation in interleukin-10 (IL-10)-deficient mice but is benign in wildtype 
+mice. MHV-68 also causes lethal vasculitis and pulmonary hemorrhage in 
+interferon gamma receptor-deficient (IFNγR-/-) mice, but GI dilatation has not 
+been reported. In prior work the Myxomavirus-derived anti-inflammatory serpin, 
+Serp-1, improved survival, reducing vasculitis and pulmonary hemorrhage in 
+MHV-68-infected IFNγR-/- mice with significantly increased IL-10. IL-10 has been 
+investigated as treatment for GI dilatation with variable efficacy. We report 
+here that MHV-68 infection produces severe GI dilatation with inflammation and 
+gut wall degradation in 28% of INFγR-/- mice. Macrophage invasion and smooth 
+muscle degradation were accompanied by decreased concentrations of T helper 
+(Th2), B, monocyte, and dendritic cells. Plasma and spleen IL-10 were 
+significantly reduced in mice with GI dilatation, while interleukin-1 beta 
+(IL-1β), IL-6, tumor necrosis factor alpha (TNFα) and INFγ increased. Treatment 
+of gamma herpesvirus-infected mice with exogenous IL-10 prevents severe GI 
+inflammation and dilatation, suggesting benefit for herpesvirus-induced 
+dilatation.

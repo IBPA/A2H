@@ -1,0 +1,10 @@
+Clostridioides difficile spores produced during infection are important for the 
+recurrence of the disease. Here, we show that C. difficile spores gain entry 
+into the intestinal mucosa via pathways dependent on host fibronectin-α5β1 and 
+vitronectin-αvβ1. The exosporium protein BclA3, on the spore surface, is 
+required for both entry pathways. Deletion of the bclA3 gene in C. difficile, or 
+pharmacological inhibition of endocytosis using nystatin, leads to reduced entry 
+into the intestinal mucosa and reduced recurrence of the disease in a mouse 
+model. Our findings indicate that C. difficile spore entry into the intestinal 
+barrier can contribute to spore persistence and infection recurrence, and 
+suggest potential avenues for new therapies.

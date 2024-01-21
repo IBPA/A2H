@@ -1,0 +1,21 @@
+Gastrointestinal infections caused by Clostridium difficile lead to significant 
+impact in terms of morbidity and mortality, causing from mild symptoms, such as 
+a low-grade fever, watery stools, and minor abdominal cramping as well as more 
+severe symptoms such as bloody diarrhea, pseudomembrane colitis, and toxic 
+megacolon. Vaccination is a viable approach to fight against C. difficile and 
+several efforts in this direction are ongoing. Plants are promising vaccine 
+biofactories offering low cost, enhanced safety, and allow for the formulation 
+of oral vaccines. Herein, the CdeM protein, which is a spore antigen associated 
+with immunoprotection against C. difficile, was selected to begin the 
+development of plant-based vaccine candidates. The vaccine antigen is based in a 
+fusion protein (LTB-CdeM), carrying the CdeM antigen, fused to the 
+carboxi-terminus of the B subunit of the Escherichia coli heat-labile 
+enterotoxin (LTB) as a mucosal immunogenic carrier. LTB-CdeM was produced in 
+plants using a synthetic optimized gene according codon usage and mRNA stability 
+criteria. The obtained transformed tobacco lines produced the LTB-CdeM antigen 
+in the range of 52-90 μg/g dry weight leaf tissues. The antigenicity of the 
+plant-made LTB-CdeM antigen was evidenced by GM1-ELISA and immunogenicity 
+assessment performed in test mice revealed that the LTB-CdeM antigen is orally 
+immunogenic inducing humoral responses against CdeM epitopes. This report 
+constitutes the first step in the development of plant-based vaccines against C. 
+difficile infection.

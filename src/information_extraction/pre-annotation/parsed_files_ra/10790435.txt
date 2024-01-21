@@ -1,0 +1,13 @@
+Receptors for immunoglobulin (Ig)G (FcgammaRs) are important for the 
+antibody-mediated effector functions of the immune system. FcgammaRI and 
+FcgammaRIII trigger cell activation through a common gamma chain, whereas 
+FcgammaRII acts as a negative regulator of antibody production and immune 
+complex-triggered activation. Here we describe the in vivo consequences of 
+FcgammaR deficiency in a mouse model of human rheumatoid arthritis. FcRgamma 
+chain-deficient mice on arthritis-susceptible DBA/1 background were immunized 
+with collagen for induction of collagen-induced arthritis. The DBA/1 mice 
+lacking FcRgamma chain were protected from collagen-induced arthritis in 
+contrast to wild-type mice, although both groups produced similar levels of IgG 
+anticollagen antibodies. In comparison, DBA/1 mice lacking FcgammaRII developed 
+an augmented IgG anticollagen response and arthritis. These observations suggest 
+a crucial role of FcgammaRI and FcgammaRIII in triggering autoimmune arthritis.

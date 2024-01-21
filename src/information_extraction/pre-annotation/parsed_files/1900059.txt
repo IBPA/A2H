@@ -1,0 +1,13 @@
+The pathogenicity of Clostridium difficile is due to the production of two 
+toxins (toxins A and B). We prepared monoclonal antibodies against toxin A and 
+determined whether axenic mice passively immunized with the monoclonal 
+antibodies were protected against C. difficile disease. The mice were kept in an 
+isolator and were given ascites fluid intravenously prior to challenge with a 
+toxinogenic strain of C. difficile. Control mice and mice receiving ascites 
+fluid devoid of toxin antibody died within 2 days and had high levels of toxins 
+A and B in their feces. Mice that received ascites fluid containing high amounts 
+of toxin A monoclonal antibodies directed against the repeating units of the 
+toxin survived. In protected mice, toxin B levels were similar to those in dying 
+mice, but toxin A levels were greatly reduced. These data show that passive 
+immunity induced by monoclonal antibodies against toxin A was effective against 
+pseudomembranous cecitis.

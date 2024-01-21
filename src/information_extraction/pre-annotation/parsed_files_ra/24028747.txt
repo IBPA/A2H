@@ -1,0 +1,20 @@
+Systemic bone loss is a hallmark of rheumatoid arthritis (RA). Inflammatory 
+cytokines such as interleukin (IL)-6 promote bone resorption by osteoclasts. 
+Sphingosine-1-phosphate (S1P) controls the migration of osteoclast precursor 
+cells (OCPs) between the blood and bone marrow, in part via S1P receptors (S1PR1 
+and S1PR2) expressed on the surface of OCPs. OCPs (CD11b(+) Gr-1(low+med) ) 
+isolated from bone marrow of DBA/1J mice were stimulated with IL-6. S1P-directed 
+chemotaxis of OCPs was evaluated using a transwell plate. mRNA expression of 
+S1PR1 and S1PR2 was measured. DBA/1J mice were immunized with bovine type II 
+collagen (days 0 and 21) and anti-mouse IL-6 receptor antibody (MR16-1) was 
+administered on days 0 and/or 21. Trabecular bone volume was analysed using 
+micro-computed tomography. The percentage of OCPs in tibial bone marrow and 
+S1PR1 and S1PR2 mRNA expression in OCPs were measured. IL-6 stimulation 
+significantly decreased S1P-directed chemotaxis of OCPs. IL-6 induced S1PR2 mRNA 
+expression, but not S1PR1 mRNA expression, in OCPs. Bone volume was 
+significantly lower in arthritic mice than in non-arthritic control mice on day 
+35. Treatment of immunized mice with MR16-1 significantly inhibited bone loss. 
+In MR16-1-treated mice, the percentage of OCPs and expression of S1PR2 mRNA was 
+each decreased compared with arthritic mice on day 14, but not on day 35. IL-6 
+increased the number of OCPs in tibial bone marrow via up-regulating S1PR2, thus 
+playing a crucial role in systemic bone loss induced by inflammation.

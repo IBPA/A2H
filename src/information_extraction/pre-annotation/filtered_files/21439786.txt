@@ -1,0 +1,19 @@
+Autoimmune responses to heterogeneous nuclear ribonucleproteins (hnRNP) occur in 
+many systemic autoimmune diseases, particularly in patients with rheumatoid 
+arthritis (RA) and systemic lupus erythematosus. In RA, humoral and/or cellular 
+autoimmunity to hnRNP-A2/B1 is the most prominent anti-nuclear reactivity, being 
+detectable in more than 50% of patients. However, its pathogenic role has not 
+been fully elucidated yet. Here, we report that splenocytes from rats with 
+pristane-induced arthritis transfer disease after in vitro restimulation with 
+hnRNP-A/B antigens. Remarkably, disease transfer can be blocked by nuclease 
+treatment of hnRNPs and is also achieved with splenocytes stimulated with 
+hnRNP-A/B associated DNA or RNA oligonucleotides (ON) alone. Induction of 
+proinflammatory cytokines in splenocytes stimulated with hnRNP-A/Bs or ONs 
+involves Toll-like receptors (TLR) 7 and 9 but not TLR3. Furthermore, although T 
+cells are the main mediators of disease transfer they require restimulation with 
+TLR-activated antigen-presenting cells such as macrophages in order to become 
+arthritogenic. Thus, the autoantigenic properties of hnRNPs appear to be 
+mediated by their associated nucleic acids binding to TLR7 and 9. Our data 
+explain the specific selection of hnRNP-A2/B1 as autoantigen in RA and reveal 
+the requirement of interaction between innate and adaptive immunity to initiate 
+and drive inflammation in autoimmune arthritis.

@@ -1,0 +1,26 @@
+INTRODUCTION: Anti-citrullinated protein antibodies have a diagnostic role in 
+rheumatoid arthritis (RA); however, little is known about their origins and 
+contribution to pathogenesis. Citrullination is the post-translational 
+conversion of arginine to citrulline by peptidyl arginine deiminase, and 
+increased citrullination of proteins is observed in the joint tissue in RA and 
+in brain tissue in multiple sclerosis (MS).
+METHODS: We applied synovial and myelin protein arrays to examine epitope 
+spreading of B cell responses to citrullinated epitopes in both the 
+collagen-induced arthritis (CIA) model for RA and the experimental autoimmune 
+encephalomyelitis (EAE) model for MS. Synovial and myelin protein arrays contain 
+a spectrum of proteins and peptides, including native and citrullinated forms, 
+representing candidate autoantigens in RA and MS, respectively. We applied these 
+arrays to characterise the specificity of autoantibodies in serial serum samples 
+derived from mice with acute and chronic stages of CIA and EAE.
+RESULTS: In samples from pre-disease CIA and acute-disease EAE, we observed 
+autoantibody targeting of the immunising antigen and responses to a limited set 
+of citrullinated epitopes. Over the course of diseases, the autoantibody 
+responses expanded to target multiple citrullinated epitopes in both CIA and 
+EAE. Using immunoblotting and mass spectrometry analysis, we identified 
+citrullination of multiple polypeptides in CIA joint and EAE brain tissue that 
+have not previously been described as citrullinated.
+CONCLUSIONS: Our results suggest that anti-citrulline antibody responses develop 
+in the early stages of CIA and EAE, and that autoimmune inflammation results in 
+citrullination of joint proteins in CIA and brain proteins in EAE, thereby 
+creating neoantigens that become additional targets in epitope spreading of 
+autoimmune responses.

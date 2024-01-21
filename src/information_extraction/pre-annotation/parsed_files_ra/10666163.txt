@@ -1,0 +1,37 @@
+OBJECTIVES: To develop an enzyme linked immunosorbent assay (ELISA) using as 
+substrate a synthetic 22-aminoacid peptide, corresponding to the ribosomal P0, 
+P1 and P2 common epitope. To study the specificity and sensitivity of the method 
+and evaluate the frequency and clinical associations of anti-P antibodies in two 
+groups of systemic lupus erythematosus (SLE) patients: (a) unselected SLE 
+patients and (b) SLE patients with central nervous system (CNS) involvement.
+PATIENTS AND METHODS: The C-terminal 22 aminoacid peptide of the ribosomal P 
+proteins (Lys-Lys-Glu-Glu-Lys-Lys-Glu-Glu-Lys-Ser-Glu-Glu-Glu-Asp-Glu-Asp-Met- 
+Gly-Phe-Gly-Leu-Phe-Asp) was synthesised according to Merrifield's solid phase 
+procedure. Purification of the peptide was performed by preparative high 
+performance liquid chromatography and confirmed by amino acid analysis. Using 
+this peptide, in a concentration 5 microg/ml, an ELISA was developed. The 
+presence of anti-P antibodies was evaluated by western blot using purified 
+ribosomal proteins from rat liver. Sera from 178 consecutive patients with SLE 
+and 28 patients with SLE and CNS manifestations were tested. Sera from 58 
+patients with rheumatoid arthritis and 57 patients with primary Sjögren's 
+syndrome were used as controls. The cut off point of the assay was defined using 
+124 normal sera.
+RESULTS: The specificity of the assay was evaluated by homologous inhibition. 
+Pretreatment of positive sera with soluble 22mer peptide of the ribosomal P 
+proteins resulted in 88% inhibition. The concordance between the peptide assay 
+and western blot was found to be 83%. Thirty three of 178 (18. 6%) of the 
+unselected SLE patients had antibodies to P-protein common epitope. Their 
+presence was associated with more active disease (European Consensus Lupus 
+Activity Measurement, ECLAM scoring system) (p<0.001), higher levels of anti-ds 
+DNA antibodies (p<0.05) and lower levels of the C4 component of complement 
+(p<0.01). Eleven of 28 (39.3%) patients with SLE and active CNS involvement had 
+antibodies to P-protein. The overall prevalence of anti-P antibodies in active 
+CNS disease patients was statistically significantly higher, as compared with 
+unselected SLE patients (chi(2)=6.04, p<0.05). These antibodies were found in a 
+high proportion of patients without anticardiolipin antibodies (52.4%) and they 
+were associated with diffuse CNS involvement (psychiatric disorders (71%) and 
+epilepsy (75%)).
+CONCLUSIONS: A synthetic analogue of the common epitope of ribosomal P-proteins 
+can be use as an antigen for the detection of anti-P antibodies. These 
+antibodies are associated with active SLE and CNS involvement particularly in 
+patients without anticardiolipin antibodies.

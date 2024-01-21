@@ -1,0 +1,23 @@
+OBJECTIVE: To explore the therapeutic potential of CD147/HAb18 mAb in the 
+treatment of RA in severe combined immunodeficiency (SCID) mice engrafted with 
+human cartilage and rheumatoid synovium tissue (SCID-HuRAg).
+METHODS: SCID-HuRAg mice were treated separately with CD147/HAb18 mAb, 
+anti-TNF-alpha mAb or a combination of both. The mice in control group were 
+treated with anti-Japanese encephalitis virus mAb. The volume of engrafts was 
+measured and the number of inflammatory cells and cartilage erosion score were 
+examined. Expression of MMP-2, -3 and -9 was determined by immunohistochemistry. 
+Human inflammatory cytokine levels in mouse sera were assessed using cytometric 
+bead array kit.
+RESULTS: The volume of engrafts decreased significantly in SCID-HuRAg mice 
+treated separately with anti-CD147 mAb or anti-TNF-alpha mAb, and in the mice 
+treated with anti-CD147 mAb plus anti-TNF-alpha mAb (P < 0.05). Significant 
+reduction was observed in cartilage erosion score in anti-CD147 treatment group 
+and combined treatment group (P < 0.05). Immunohistochemical analysis showed 
+that expression of MMP-2, -3 and -9 was lower in the anti-CD147 treatment group 
+and combined treatment group than in the control mAb group (P < 0.05). Moreover, 
+the level of TNF-alpha, IL-6 and -8 in CD147 mAb group showed a significant 
+decrease compared with that of the control mAb group (P < 0.05).
+CONCLUSIONS: CD147/HAb18 mAb can reduce cartilage erosion and synovitis by 
+inhibition of the MMPs and reduction of inflammatory cytokines in SCID-HuRAg 
+mice, which suggests that CD147/HAb18 mAb is a promising treatment option for RA 
+patients.

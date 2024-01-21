@@ -1,0 +1,21 @@
+B cells have been generally considered to be positive regulators of immune 
+responses because of their ability to produce antigen-specific antibodies and to 
+activate T cells through antigen presentation. Impairment of B cell development 
+and function may cause inflammatory and autoimmune diseases. Recently, specific 
+B cell subsets that can negatively regulate immune responses have been described 
+in mouse models of a wide variety of inflammatory and autoimmune diseases. The 
+concept of those B cells, termed regulatory B cells, is now recognized as 
+important in the murine immune system. Among several regulatory B cell subsets, 
+IL-10-producing regulatory B cells are the most widely investigated. On the 
+basis of discoveries from studies of such mice, human regulatory B cells that 
+produce IL-10 in most cases are becoming an active area of research. There have 
+been emerging data suggesting the importance of human regulatory B cells in 
+various diseases. Revealing the immune regulation mechanisms of human regulatory 
+B cells in human inflammatory and autoimmune diseases could lead to the 
+development of novel B cell targeted therapies. This review highlights the 
+current knowledge on regulatory B cells, mainly IL-10-producing regulatory B 
+cells, in animal models of inflammatory and autoimmune diseases and in clinical 
+research using human samples.
+
+© The Japanese Society for Immunology. 2015. All rights reserved. For 
+permissions, please e-mail: journals.permissions@oup.com.

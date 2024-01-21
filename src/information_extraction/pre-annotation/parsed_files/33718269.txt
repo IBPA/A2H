@@ -1,0 +1,27 @@
+Neutrophils are key first-responders in the innate immune response to C. 
+difficile infection (CDI) and play a central role in disease pathogenesis. 
+Studies have clearly shown that tissue neutrophil numbers need to be tightly 
+regulated for optimal CDI outcomes: while excessive colonic neutrophilia is 
+associated with severe CDI, neutrophil depletion also results in worse outcomes. 
+However, the biological mechanisms that control CDI-induced neutrophilia remain 
+poorly defined. C-X-C chemokine receptor 2 (CXCR2) is a chemotactic receptor 
+that is critical in neutrophil mobilization from bone marrow to blood and tissue 
+sites. We have previously reported that a single nucleotide polymorphism (SNP) 
+in leptin receptor (LEPR), present in up to 50% of people, influenced 
+CDI-induced neutrophil CXCR2 expression and tissue neutrophilia. Homozygosity 
+for mutant LEPR (i.e. RR genotype) was associated with higher CXCR2 expression 
+and more tissue neutrophils. Here, we investigated the biological mechanisms 
+that regulate neutrophil CXCR2 expression after CDI, and the influence of host 
+genetics on this process. Our data reveal that: a) CXCR2 plays a key role in 
+CDI-induced neutrophil extravasation from blood to colonic tissue; b) plasma 
+from C. difficile-infected mice upregulated CXCR2 on bone marrow neutrophils; c) 
+plasma from C. difficile-infected RR mice induced a higher magnitude of CXCR2 
+upregulation and had more IL-1β; and d) IL-1β neutralization reduced CXCR2 
+expression on bone marrow and blood neutrophils and their subsequent accrual to 
+colonic tissue. In sum, our data indicate that IL-1β is a key molecular mediator 
+that communicates between gastro-intestinal tract (i.e. site of CDI) and bone 
+marrow (i.e. primary neutrophil reservoir) and regulates the intensity of 
+CDI-induced tissue neutrophilia by modulating CXCR2 expression. Further, our 
+studies highlight the importance of host genetics in affecting these innate 
+immune responses and provide novel insights into the mechanisms by which a 
+common SNP influences CDI-induced neutrophilia.

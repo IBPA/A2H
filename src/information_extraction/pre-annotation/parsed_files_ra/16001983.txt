@@ -1,0 +1,25 @@
+BACKGROUND: CC-family chemokine receptor 2 (CCR2) is implicated in the 
+trafficking of blood-borne monocytes to sites of inflammation and is implicated 
+in the pathogenesis of several inflammatory diseases such as rheumatoid 
+arthritis, multiple sclerosis and atherosclerosis. The major challenge in the 
+development of small molecule chemokine receptor antagonists is the lack of 
+cross-species activity to the receptor in the preclinical species. Rabbit models 
+have been widely used to study the role of various inflammatory molecules in the 
+development of inflammatory processes. Therefore, in this study, we report the 
+cloning and characterization of rabbit CCR2. Data regarding the activity of the 
+CCR2 antagonist will provide valuable tools to perform toxicology and efficacy 
+studies in the rabbit model.
+RESULTS: Sequence alignment indicated that rabbit CCR2 shares 80 % identity to 
+human CCR2b. Tissue distribution indicated that rabbit CCR2 is abundantly 
+expressed in spleen and lung. Recombinant rabbit CCR2 expressed as stable 
+transfectants in U-937 cells binds radiolabeled 125I-mouse JE (murine MCP-1) 
+with a calculated Kd of 0.1 nM. In competition binding assays, binding of 
+radiolabeled mouse JE to rabbit CCR2 is differentially competed by human MCP-1, 
+-2, -3 and -4, but not by RANTES, MIP-1alpha or MIP-1beta. U-937/rabbit CCR2 
+stable transfectants undergo chemotaxis in response to both human MCP-1 and 
+mouse JE with potencies comparable to those reported for human CCR2b. Finally, 
+TAK-779, a dual CCR2/CCR5 antagonist effectively inhibits the binding of 
+125I-mouse JE (IC50 = 2.3 nM) to rabbit CCR2 and effectively blocks 
+CCR2-mediated chemotaxis.
+CONCLUSION: In this study, we report the cloning of rabbit CCR2 and demonstrate 
+that this receptor is a functional chemotactic receptor for MCP-1.

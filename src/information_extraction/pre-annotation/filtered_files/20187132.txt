@@ -1,0 +1,29 @@
+OBJECTIVE: RNA interference (RNAi) is a powerful tool for sequence-specific gene 
+silencing, and interest in its application in human diseases is growing. Given 
+the success of recent strategies for administering gene therapy in rheumatoid 
+arthritis using recombinant vectors such as adeno-associated virus type 5 
+(rAAV5) for optimized intraarticular gene transfer, we undertook the present 
+study to determine the feasibility of using rAAV5-mediated RNAi-based therapy in 
+arthritis.
+METHODS: We developed rAAV5 vectors expressing short hairpin small interfering 
+RNA (shRNA) against tumor necrosis factor alpha (TNFalpha) under H1 promoter, 
+and carrying the enhanced green fluorescent protein (eGFP) reporter gene under 
+cytomegalovirus promoter (rAAV5-shTNF). TNFalpha gene silencing was validated in 
+vitro with mouse macrophages. Mice with collagen-induced arthritis were injected 
+in the ankle and knee joints, at disease onset, with either rAAV5-shTNF or 
+control rAAV5-eGFP vectors (5 x 10(9) particles). Arthritis severity was 
+assessed clinically and histologically, and immunologic response was examined. 
+Local and systemic transgene expression was monitored using quantitative reverse 
+transcriptase-polymerase chain reaction, immunohistochemical analysis, and 
+enzyme-linked immunosorbent assay.
+RESULTS: After a single injection of rAAV5-shTNF into inflamed joints, local 
+TNFalpha gene silencing provided rapid and long-term suppression of arthritis 
+progression and reduced joint damage compared with that observed in control 
+groups. Treatment with rAAV5-shTNF was associated with decreased proliferation 
+and interferon-gamma production by antigen-stimulated T cells from draining 
+lymph nodes, and the potency of this treatment was similar to that observed with 
+other treatment strategies targeting TNFalpha at the protein level, either 
+locally or systemically.
+CONCLUSION: Our data present the first proof-of-concept for the application of 
+rAAV5-mediated RNAi-based gene therapy for local blockade of inflammation in 
+experimental arthritis.

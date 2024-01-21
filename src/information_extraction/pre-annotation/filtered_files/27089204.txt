@@ -1,0 +1,24 @@
+Sclerostin, an inhibitor of the Wnt/β-catenin pathway, has anti-anabolic effects 
+on bone formation by negatively regulating osteoblast differentiation. Mutations 
+in the human sclerostin gene (SOST) lead to sclerosteosis with progressive 
+skeletal overgrowth, whereas sclerostin-deficient (Sost(-/-)) mice exhibit 
+increased bone mass and strength. Therefore, antibody-mediated inhibition of 
+sclerostin is currently being clinically evaluated for the treatment of 
+postmenopausal osteoporosis in humans. We report that in chronic TNFα (tumor 
+necrosis factor α)-dependent arthritis, fibroblast-like synoviocytes constitute 
+a major source of sclerostin and that either the lack of sclerostin or its 
+antibody-mediated inhibition leads to an acceleration of rheumatoid arthritis 
+(RA)-like disease in human TNFα transgenic (hTNFtg) mice with enhanced pannus 
+formation and joint destruction. Inhibition of sclerostin also failed to improve 
+clinical signs and joint destruction in the partially TNFα-dependent 
+glucose-6-phosphate isomerase-induced arthritis mouse model, but ameliorated 
+disease severity in K/BxN serum transfer-induced arthritis mouse model, which is 
+independent of TNF receptor signaling, thus suggesting a specific role for 
+sclerostin in TNFα signaling. Sclerostin effectively blocked TNFα- but not 
+interleukin-1-induced activation of p38, a key step in arthritis development, 
+pointing to a previously unrealized protective role of sclerostin in 
+TNF-mediated chronic inflammation. The possibility of anti-sclerostin antibody 
+treatment worsening clinical RA outcome under chronic TNFα-dependent 
+inflammatory conditions in mice means that caution should be taken both when 
+considering such treatment for inflammatory bone loss in RA and when using 
+anti-sclerostin antibodies in patients with TNFα-dependent comorbidities.

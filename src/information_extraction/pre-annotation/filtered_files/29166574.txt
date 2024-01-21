@@ -1,0 +1,25 @@
+ETHNOPHARMACOLOGICAL RELEVANCE: Aconitum carmichaelii (AC) is a common herbal 
+medicine used as anti-inflammatory and analgesic agent in Eastern Asia. In 
+Korea, a commercial processed AC (Aconibal®) is traditionally used to treat the 
+symptoms of spondylosis deformans and rheumatic pain.
+AIM OF STUDY: Rheumatoid arthritis (RA) is systemic and autoimmune disease 
+characterized by chronic inflammation. Methotrexate (MTX) is often the 
+first-line therapy for RA. If MTX monotherapy is ineffective or RA is initially 
+severe, adding a tumor necrosis factor alpha (TNF-α) inhibitor to the treatment 
+can be beneficial. However, its inhibitory effects on RA when combined with MTX 
+are unknown. Therefore, we investigated the stable modulation of and synergistic 
+to additive effect on TNF-α using AC combined with MTX (AMC).
+MATERIALS AND METHODS: An inflammatory response mimicking RA was induced in the 
+mouse macrophage cell line Raw 264.7 using interferon-γ or lipopolysaccharide 
+(LPS). We predicted that AC and MTX at a 3:1 ratio would have synergistic 
+therapeutic effects and this was determined using the Chou-Talalay method of 
+median effect analysis and CalcuSyn software. We analyzed the profiles of 
+various inflammatory cytokine-related proteins using Search tool for retrieval 
+of interacting genes and Kyoto Encyclopedia of Genes and Genomes.
+RESULTS: The expression levels of selected inflammatory immune mediators such as 
+interleukin (IL)-6, IL-1α, chemokine ligand 5, granulocyte-colony stimulating 
+factor, nitric oxide synthase, and cyclooxygenase were reduced via regulation of 
+the mitogen-activated protein kinase signaling pathway. AMC inhibited the levels 
+of matrix metalloproteinases-1 and -3 in the human synovial cell line SW982.
+CONCLUSIONS: Our data show for the first time the potential beneficial effects 
+of AMC in RA management.

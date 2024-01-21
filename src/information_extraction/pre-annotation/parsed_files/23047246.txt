@@ -1,0 +1,22 @@
+The rapid rise in antimicrobial resistance in bacteria has generated an 
+increased demand for the development of novel therapies to treat contemporary 
+infections, especially those caused by methicillin-resistant Staphylococcus 
+aureus (MRSA). However, antimicrobial development has been largely abandoned by 
+the pharmaceutical industry. We recently isolated the previously described 
+thiopeptide antibiotic nosiheptide from a marine actinomycete strain and 
+evaluated its activity against contemporary clinically relevant bacterial 
+pathogens. Nosiheptide exhibited extremely potent activity against all 
+contemporary MRSA strains tested including multiple drug-resistant clinical 
+isolates, with MIC values 0.25 mg l(-1). Nosiheptide was also highly active 
+against Enterococcus spp. and the contemporary hypervirulent BI/NAP1/027 strain 
+of Clostridium difficile but was inactive against most Gram-negative strains 
+tested. Time-kill analysis revealed nosiheptide to be rapidly bactericidal 
+against MRSA in a concentration- and time-dependent manner, with a nearly 2-log 
+kill noted at 6 h at 10 × MIC. Furthermore, nosiheptide was found to be 
+non-cytotoxic against mammalian cells at >>100 × MIC, and its anti-MRSA activity 
+was not inhibited by 20% human serum. Notably, nosiheptide exhibited a 
+significantly prolonged post-antibiotic effect against both healthcare- and 
+community-associated MRSA compared with vancomycin. Nosiheptide also 
+demonstrated in vivo activity in a murine model of MRSA infection, and therefore 
+represents a promising antibiotic for the treatment of serious infections caused 
+by contemporary strains of MRSA.

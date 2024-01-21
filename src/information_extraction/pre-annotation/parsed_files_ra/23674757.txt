@@ -1,0 +1,24 @@
+PURPOSE: MicroRNA-155 (miR-155) and STAT3 are implicated in uveitis and 
+pathogenic mechanisms of CNS autoimmune diseases. In our study, we used 
+miR-155(-/-) mice and mice with targeted STAT3 deletion in T cells (CD4-STAT3KO) 
+to investigate roles of miR-155 and STAT3 in the development of experimental 
+autoimmune uveitis (EAU), a mouse model of human uveitis.
+METHODS: We induced EAU in WT, miR-155(-/-), or CD4-STAT3KO mice by immunization 
+with interphotoreceptor retinoid-binding protein/complete Freund's adjuvant 
+(IRBP/CFA) or adoptive transfer of T cells. EAU was assessed by funduscopy and 
+histology. RNA expression was analyzed by quantitative PCR (qPCR), while 
+cytokine production was assessed by fluorescence-activated cell sorting (FACS).
+RESULTS: We used a combination of genomic and genetic tools to provide the first 
+evidence that STAT3 binds directly to the miR-155 locus and that STAT3 is 
+required for miR-155 expression. Furthermore, STAT3-dependent increase in 
+miR-155 expression in vivo correlated temporally with onset of EAU, and 
+miR-155(-/-) or CD4-STAT3KO mice did not suffer EAU. CD4(+) lymph node cells 
+from IRBP-immunized WT mice transferred EAU to naïve wild-type (WT) and 
+miR-155(-/-) mice, while miR-155(-/-) IRBP-specific T cells did not.
+CONCLUSIONS: Although miR-155 and STAT3 have been implicated in the etiology of 
+multiple sclerosis (MS), uveitis, or rheumatoid arthritis, their exact roles in 
+these diseases are unclear. We show here for the first time to our knowledge 
+that STAT3 regulates miR-155 expression in Th17 cells. We show further that 
+STAT3 and miR-155 form an axis that promotes the expansion of pathogenic Th17 
+cells that mediate uveitis. Thus, STAT3 and miR-155 may be therapeutic targets 
+for treating uveitis and other Th17-mediated inflammatory disorders.

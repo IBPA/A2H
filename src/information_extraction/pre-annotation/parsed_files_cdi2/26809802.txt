@@ -1,0 +1,9 @@
+We investigated the increased risk of Clostridium difficile infection (CDI) 
+caused by the combined use of antibiotics and an immunosuppressive drug in a 
+mouse model. Our data showed that an approximate return to pretreatment 
+conditions of gut microbiota occurred within days after cessation of the 
+antibiotic treatment, whereas the recovery of gut microbiota was delayed with 
+the combined treatment of antibiotics and dexamethasone, leading to an increased 
+severity of CDI. An alteration of gut microbiota is a key player in CDI. 
+Therefore, our data implied that immunosuppressive drugs can increase the risk 
+of CDI through the delayed recovery of altered gut microbiota.

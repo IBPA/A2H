@@ -1,0 +1,22 @@
+Nitric oxide (NO) plays an important role in various physiological processes. 
+Excessive NO production is closely related to inflammatory and autoimmune 
+diseases such as septic shock and rheumatoid arthritis. Suppression of excess NO 
+formation in participating cells may be helpful in improving disease status. In 
+this study, we examined the effects of a newly synthesized imidazole derivative, 
+3-(2,4-difluorophenyl)-6-[2-[4-(1H-imidazol-1-ylmethyl) 
+phenoxy]ethoxy]-2-phenylpyridine (PPA250), on NO production in vitro and in 
+vivo, as well as on the dimerization of inducible nitric-oxide synthase (iNOS). 
+PPA250 at concentrations of 25 nM and higher inhibited NO production in 
+activated mouse macrophage-like RAW264.7 cells. The IC(50) was approximately 82 
+nM. Western blot analysis revealed that PPA250 prevents dimerization of iNOS but 
+has no effect on transcription and translation. In addition, oral administration 
+of PPA250 (10 mg/kg and higher) reduced the NO concentration in serum from mice 
+in which sepsis was induced by bacterial lipopolysaccharide. Since the 
+inhibitory activity was observed not only in vitro but also in vivo, we examined 
+the therapeutic potential of PPA250 in two animal models of arthritis, 
+collagen-induced arthritis in mice and adjuvant arthritis in rats. PPA250 
+suppressed the development of a destructive polyarthritis in both models after 
+the appearance of clinical signs. These results indicate that inhibitors of iNOS 
+homodimerization, including PPA250, could be useful therapeutic agents for 
+inflammatory and autoimmune diseases, such as rheumatoid arthritis, in which NO 
+is involved.

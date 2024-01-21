@@ -1,0 +1,18 @@
+Invasion of fibroblast-like synoviocytes (FLSs) is critical in the pathogenesis 
+of rheumatoid arthritis (RA). The metalloproteinases (MMPs) and activator of 
+Toll-like receptor 4 (TLR4)/nuclear factor-κB (NF-κB) pathway play a critical 
+role in RA-FLS invasion induced by lipopolysaccharide (LPS). The present study 
+aimed to explore the anti-invasive activity of celastrol on LPS-stimulated human 
+RA-FLSs, and to elucidate the mechanism involved. We investigated the effect of 
+celastrol on LPS-induced FLS migration and invasion as well as MMP expression 
+and explored the upstream signal transduction. Results showed that celastrol 
+suppressed LPS-stimulated FLS migration and invasion by inhibiting MMP-9 
+expression and activity. Furthermore, our results revealed that celastrol 
+inhibited the transcriptional activity of MMP-9 by suppressing the binding 
+activity of NF-κB in the MMP-9 promoter, and suppressed the TLR4/MyD88/NF-κB 
+pathway. Administration of celastrol (0.5 mg/kg and 1 mg/kg, intraperitoneally) 
+daily for 3 weeks in a collagen-induced arthritis rat model markedly alleviated 
+the clinical signs, synovial hyperplasia and inflammatory cell infiltration of 
+joints. In conclusion, celastrol might inhibit FLS migration and invasion 
+induced by LPS by suppressing TLR4/NF-κB-mediated MMP-9 expression, providing a 
+theoretical foundation for the clinical treatment of RA with celastrol.

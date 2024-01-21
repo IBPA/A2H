@@ -1,0 +1,21 @@
+It has been suggested that class I and class II MHC are contributing factors for 
+numerous diseases including autoimmune thyroid diseases, type 1 diabetes, 
+rheumatoid arthritis, Alzheimer's disease, and multiple sclerosis. The class II 
+trans-activator (CIITA), which is a non-DNA-binding regulator of class II MHC 
+transcription, regulates the constitutive and inducible expression of the class 
+I and class II genes. FRTL-5 thyroid cells incubated in the presence of 
+IFN-gamma have a significantly higher level of cell surface rat MHC class II 
+RTI.B. However, the IFN-gamma-induced RT1.B expression was suppressed 
+significantly in cells incubated in the presence of thyrotropin. Thyrotropin 
+(TSH) represses IFN-gamma-induced CIITA expression by inhibiting type IV CIITA 
+promoter activity through the suppression of STAT1 activation and IFN regulatory 
+factor 1 induction. This study found that TSH induces transcriptional activation 
+of the STAT3 gene through the phosphorylation of STAT3 and CREB activation. TSH 
+induces SOCS-1 and SOCS-3, and TSH-mediated SOCS-3 induction was dependent on 
+STAT3. The cell line stably expressing the wild-type STAT3 showed a higher CIITA 
+induction in response to IFN-gamma and also exhibited TSH repression of the 
+IFN-gamma-mediated induction of CIITA. However, TSH repression of the 
+IFN-gamma-induced CIITA expression was not observed in FRTL-5 thyroid cells, 
+which stably expresses the dominant negative forms of STAT3, STAT3-Y705F, and 
+STAT3-S727A. This report suggests that TSH is also engaged in immunomodulation 
+through signal cross-talk with the cytokines in thyroid cells.

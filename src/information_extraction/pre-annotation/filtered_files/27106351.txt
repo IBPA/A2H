@@ -1,0 +1,20 @@
+AIM: To evaluate the impact of previously unrecognized negative interaction 
+between the Wnt and interleukin (IL) 6 signaling pathways in skeletal tissues as 
+a possible major mechanism leading to age- and inflammation-related destruction 
+of bone and joints.
+METHODS: Luciferase reporter assays were performed to monitor Wnt pathway 
+activation upon IL-6 and tumor necrosis factor-α (TNFα) treatment. Functional 
+contribution of IL-6 and TNFα interaction to inhibition of bone formation was 
+evaluated in vitro using small hairpin RNAs (shRNA) in mouse mesenchymal 
+precursor cells (MPC) of C2C12 and KS483 lines induced to differentiate into 
+osteoblasts by bone morphogenetic proteins (BMP).
+RESULTS: IL-6 inhibited the activation of Wnt signaling in primary human 
+synoviocytes, and, together with TNFα and Dickkopf-1, inhibited the activation 
+of Wnt response. ShRNA-mediated knockdown of IL-6 mRNA significantly increased 
+early BMP2/7-induced osteogenesis and rescued it from the negative effect of 
+TNFα in C2C12 cells, as well as intensified bone matrix mineralization in KS483 
+cells.
+CONCLUSION: IL-6 is an important mediator in the inhibition of osteoblast 
+differentiation by TNFα, and knockdown of IL-6 partially rescues osteogenesis 
+from the negative control of inflammation. The anti-osteoblastic effects of IL-6 
+are most likely mediated by its negative interaction with Wnt signaling pathway.

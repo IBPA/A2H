@@ -1,0 +1,28 @@
+OBJECTIVE: Treatment options for rheumatoid arthritis range from symptomatic 
+approaches to modern molecular interventions such as inhibition of inflammatory 
+mediators. Inhibition of inflammation by platelet-rich plasma (PRP) has been 
+proposed as a treatment for tendinitis and osteoarthritis. The present study was 
+undertaken to investigate the effect of PRP on antigen-induced arthritis (AIA) 
+of the knee joint in a large animal model.
+METHODS: Six-month-old pigs (n = 10) were systemically immunized by bovine serum 
+albumin (BSA) injection, and arthritis was induced by intraarticular BSA 
+injection. PRP was injected into the knee joints of 5 of the animals after 2 
+weeks. An additional 5 animals received no systemic immunization (controls). 
+Signs of arthritis were documented by plain histologic analysis, Safranin O 
+staining, and immunohistochemistry analysis for type II collagen (CII), 
+interleukin-6 (IL-6), and vascular endothelial growth factor (VEGF). 
+Interleukin-1β (IL-1β), IL-6, tumor necrosis factor α (TNFα), VEGF, and 
+insulin-like growth factor 1 (IGF-1) protein content was measured by Luminex 
+assay.
+RESULTS: In the pigs with AIA, plain histologic analysis revealed severe 
+arthritic changes in the synovium. Safranin O and CII staining showed decreased 
+proteoglycan and CII content in cartilage. Immunohistochemistry analysis 
+revealed increased levels of IL-6 and VEGF in synovium and cartilage, and 
+protein concentrations of IL-6, VEGF, IL-1β, and IGF-1 in synovium and cartilage 
+were elevated as well; in addition, TNFα protein was increased in cartilage. 
+Treatment with PRP led to attenuation of these arthritic changes in the synovium 
+and cartilage.
+CONCLUSION: We have described a porcine model of AIA. Experiments using this 
+model demonstrated that PRP can attenuate arthritic changes as assessed 
+histologically and based on protein synthesis of typical inflammatory mediators 
+in the synovial membrane and cartilage.

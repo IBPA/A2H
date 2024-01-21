@@ -1,0 +1,4811 @@
+talicia	intervention
+augmentin	intervention
+biomox	intervention
+trimox	intervention
+moxatag	intervention
+clavamox	intervention
+amoxi drop	intervention
+amoxi-tabs	intervention
+clavacillin	intervention
+amoxicillin	intervention
+moxeza	intervention
+avelox	intervention
+vigamox	intervention
+moxifloxacin	intervention
+zytiga	intervention
+yonsa	intervention
+abiraterone	intervention
+xeljanz	intervention
+tofacitinib	intervention
+desferal	intervention
+deferoxamine	intervention
+spiriva	intervention
+stiolto	intervention
+tiotropium	intervention
+foradil	intervention
+symbicort	intervention
+perforomist	intervention
+dulera	intervention
+bevespi	intervention
+duaklir	intervention
+breztri	intervention
+formoterol	intervention
+magnesium	intervention
+placebo	intervention
+rituxan	intervention
+rituxan hycela	intervention
+truxima	intervention
+ruxience	intervention
+rituximab	intervention
+propolis	intervention
+sodium	intervention
+mycophenolate	intervention
+zepatier	intervention
+grazoprevir	intervention
+nonivamide	intervention
+alvesco	intervention
+omnaris	intervention
+zetonna	intervention
+aservo	intervention
+ciclesonide	intervention
+reyvow	intervention
+lasmiditan	intervention
+estring	intervention
+vagifem	intervention
+estrace	intervention
+alora	intervention
+combipatch	intervention
+gynodiol	intervention
+vivelle	intervention
+delestrogen	intervention
+climara	intervention
+climara pro	intervention
+estrogel	intervention
+femring	intervention
+depo-estradiol	intervention
+menostar	intervention
+elestrin	intervention
+divigel	intervention
+evamist	intervention
+minivelle	intervention
+synovex	intervention
+synovex c	intervention
+revalor	intervention
+yuvafem	intervention
+imvexxy	intervention
+compudose	intervention
+bijuva	intervention
+dotti	intervention
+lyllana	intervention
+estradiol	intervention
+lucentis	intervention
+ranibizumab	intervention
+welchol	intervention
+colesevelam	intervention
+seroquel	intervention
+quetiapine	intervention
+thrive	intervention
+habitrol	intervention
+nicorette	intervention
+nicotrol	intervention
+nicoderm c-q	intervention
+nicorelief	intervention
+nicotac	intervention
+zonnic	intervention
+nicotine	intervention
+flomax	intervention
+jalyn	intervention
+tamsulosin	intervention
+lopressor	intervention
+lopressor hct	intervention
+toprol	intervention
+dutoprol	intervention
+kapspargo	intervention
+metoprolol	intervention
+asacol	intervention
+mesalamine	intervention
+malarone	intervention
+proguanil	intervention
+atovaquone	intervention
+epogen	intervention
+procrit	intervention
+retacrit	intervention
+epoetin alfa	intervention
+dacarbazine	intervention
+singulair	intervention
+montelukast	intervention
+benicar	intervention
+benicar hct	intervention
+azor	intervention
+tribenzor	intervention
+olmesartan	intervention
+esbriet	intervention
+pirfenidone	intervention
+effient	intervention
+prasugrel	intervention
+dairyland brand	intervention
+dairyland brand controlled iodine teat dip	intervention
+udderdine	intervention
+defend ii	intervention
+teat-glo	intervention
+milkhouse teat dip	intervention
+io-shield	intervention
+optima plus	intervention
+choremate one-shot	intervention
+eco-gard	intervention
+teat guard	intervention
+eco-plus	intervention
+iodoshield	intervention
+absorbine veterinary liniment	intervention
+barrier-dyne	intervention
+della soft	intervention
+della care	intervention
+triumph	intervention
+west dip	intervention
+blockade	intervention
+bovadine	intervention
+quartermate concentrate	intervention
+quarter mate	intervention
+bovapro	intervention
+edx-502	intervention
+edx-1000	intervention
+edx-102	intervention
+iodip	intervention
+io-blend	intervention
+udderblend	intervention
+dermafive	intervention
+iodine	intervention
+ezogabine	intervention
+jardiance	intervention
+glyxambi	intervention
+synjardy	intervention
+trijardy	intervention
+empagliflozin	intervention
+tarka	intervention
+mavik	intervention
+trandolapril	intervention
+freamine iii 10	intervention
+clinimix e 4.25/10	intervention
+aminosyn-rf 5.2 %, sulfite-free	intervention
+nephramine	intervention
+prosol	intervention
+premasol	intervention
+aminosyn ii 15%	intervention
+aminosyn ii 7 %, sulfite-free	intervention
+aminosyn ii 8.5 %, sulfite-free	intervention
+aminosyn ii 10 %	intervention
+aminosyn-hbc 7 %, sulfite-free	intervention
+aminosyn-pf 10 %, sulfite-free	intervention
+clinimix e 4.25/5	intervention
+clinimix 2.75/5	intervention
+clinimix 4.25/10	intervention
+clinimix 4.25/20	intervention
+clinimix 4.25/25	intervention
+clinimix 4.25/5	intervention
+clinimix 5/15	intervention
+clinimix 5/20	intervention
+clinimix 5/25	intervention
+clinimix e 2.75/5	intervention
+clinimix e 2.75/10	intervention
+clinimix e 4.25/25	intervention
+clinimix e 5/15	intervention
+clinimix e 5/20	intervention
+clinimix e 5/25	intervention
+clinisol 15	intervention
+freamine 6.9	intervention
+hepatamine 8	intervention
+procalamine 3	intervention
+travasol 10	intervention
+novamine 15%	intervention
+aminosyn 10%, sulfite-free	intervention
+aminosyn 8.5%, sulfite-free	intervention
+aminosyn-pf 7%	intervention
+aminosyn 3.5 % m, sulfite free	intervention
+plenamine	intervention
+aminosyn 7 % with electrolytes, sulfite-free	intervention
+aminosyn ii 8.5 % with electrolytes, sulfite-free	intervention
+aminosyn 8.5 % with electrolytes, sulfite-free	intervention
+trophamine 10 %	intervention
+trophamine 6 %	intervention
+phenylalanine	intervention
+zoladex	intervention
+goserelin	intervention
+renagel	intervention
+renvela	intervention
+sevelamer	intervention
+zaltrap	intervention
+aflibercept	intervention
+humulin r	intervention
+novolin r	intervention
+novolin	intervention
+humulin	intervention
+afrezza	intervention
+myxredlin	intervention
+insulin, regular, human	intervention
+briviact	intervention
+brivaracetam	intervention
+combivent	intervention
+albuterol	intervention
+ipratropium	intervention
+morgidox	intervention
+vibramycin	intervention
+doryx	intervention
+monodox	intervention
+periostat	intervention
+atridox	intervention
+adoxa	intervention
+doxy	intervention
+oracea	intervention
+alodox	intervention
+oraxyl	intervention
+avidoxy	intervention
+acticlate	intervention
+mondoxyne	intervention
+targadox	intervention
+soloxide	intervention
+okebo	intervention
+doxycycline	intervention
+stelara	intervention
+ustekinumab	intervention
+folivane-f	intervention
+nephrocaps	intervention
+nephrocaps qt	intervention
+irospan tablet	intervention
+vitafol-one	intervention
+b-3-50	intervention
+b3-500-gr	intervention
+niacor	intervention
+poly-vi-sol	intervention
+poly-vi-sol with iron	intervention
+slo-niacin	intervention
+niaspan	intervention
+mvc-fluoride	intervention
+concept ob	intervention
+endur-acin	intervention
+endur-amide	intervention
+endur-thine	intervention
+niacin	intervention
+coumadin	intervention
+jantoven	intervention
+warfarin	intervention
+enfamil glucose	intervention
+dex4	intervention
+dianeal pd-2/4.25	intervention
+dianeal pd-2/2.5	intervention
+dianeal pd-2/1.5	intervention
+dianeal low calcium 1.5	intervention
+dianeal low calcium 4.25	intervention
+dianeal low calcium 2.5	intervention
+ionosol-b	intervention
+ionosol-mb	intervention
+isolyte m	intervention
+isolyte p	intervention
+normosol-m	intervention
+emetrol	intervention
+glutose	intervention
+insta-glucose	intervention
+relion glucose	intervention
+isolyte s in 5 % dextrose	intervention
+normosol-r in 5 % dextrose	intervention
+plasma-lyte 56 in 5 % dextrose	intervention
+glucose	intervention
+jornay	intervention
+ritalin	intervention
+methylin	intervention
+concerta	intervention
+metadate	intervention
+daytrana	intervention
+aptensio	intervention
+quillichew	intervention
+quillivant	intervention
+relexxii	intervention
+cotempla	intervention
+adhansia	intervention
+methylphenidate	intervention
+invega	intervention
+paliperidone	intervention
+kaletra	intervention
+lopinavir	intervention
+bactroban	intervention
+centany	intervention
+muricin	intervention
+pirnuo	intervention
+mupirocin	intervention
+fludarabine	intervention
+arcapta	intervention
+utibron	intervention
+indacaterol	intervention
+methadose	intervention
+dolophine	intervention
+diskets	intervention
+methadone	intervention
+trelegy	intervention
+nasopro 24	intervention
+cutivate	intervention
+flovent	intervention
+advair	intervention
+veramyst	intervention
+flonase	intervention
+breo	intervention
+arnuity	intervention
+clarispray	intervention
+nasoflow	intervention
+aller-flo	intervention
+dymista	intervention
+beser	intervention
+armonair	intervention
+xhance	intervention
+airduo	intervention
+flonase sensimist	intervention
+fluticare	intervention
+wixela	intervention
+fluticasone	intervention
+propel	intervention
+nasonex	intervention
+elocon	intervention
+asmanex	intervention
+motazol	intervention
+mometamax	intervention
+pattotic	intervention
+posatex	intervention
+lozatom	intervention
+sinuva	intervention
+mometasone	intervention
+aminophylline	intervention
+steglujan	intervention
+januvia	intervention
+janumet	intervention
+sitagliptin	intervention
+anoro	intervention
+incruse	intervention
+umeclidinium	intervention
+xelpros	intervention
+xalatan	intervention
+rocklatan	intervention
+latanoprost	intervention
+effexor	intervention
+venlafaxine	intervention
+ozempic	intervention
+rybelsus	intervention
+semaglutide	intervention
+humalog	intervention
+insulin lispro	intervention
+zetia	intervention
+vytorin	intervention
+nexlizet	intervention
+ezetimibe	intervention
+fumarate	intervention
+mitigo	intervention
+kadian	intervention
+ms contin	intervention
+duramorph	intervention
+infumorph	intervention
+embeda	intervention
+astramorph	intervention
+morphabond	intervention
+arymo	intervention
+morphine	intervention
+zofran	intervention
+zuplenz	intervention
+ondansetron	intervention
+saphris	intervention
+secuado	intervention
+asenapine	intervention
+regadenoson	intervention
+aromasin	intervention
+exemestane	intervention
+avagard	intervention
+prevail	intervention
+bd persist	intervention
+ethanol	intervention
+tymlos	intervention
+abaloparatide	intervention
+kyprolis	intervention
+carfilzomib	intervention
+casodex	intervention
+bicalutamide	intervention
+lamictal	intervention
+subvenite	intervention
+lamotrigine	intervention
+actos	intervention
+actoplus met	intervention
+duetact	intervention
+oseni	intervention
+pioglitazone	intervention
+kineret	intervention
+anakinra	intervention
+amaryl	intervention
+glimepiride	intervention
+tygacil	intervention
+tigecycline	intervention
+flutamide	intervention
+requip	intervention
+ropinirole	intervention
+calcium	intervention
+dovonex	intervention
+calcipotriene	intervention
+segluromet	intervention
+glucophage	intervention
+glucovance	intervention
+avandamet	intervention
+metaglip	intervention
+riomet	intervention
+fortamet	intervention
+glumetza	intervention
+kazano	intervention
+jentadueto	intervention
+kombiglyze	intervention
+invokamet	intervention
+xigduo	intervention
+qternmet	intervention
+metformin	intervention
+plavix	intervention
+clopidogrel	intervention
+ferocon	intervention
+ferotrinsic	intervention
+ferraplus	intervention
+ferrex 150 forte plus	intervention
+folbecal	intervention
+folgard os	intervention
+hemocyte plus	intervention
+hemax	intervention
+icar-c plus	intervention
+folinatal plus b	intervention
+multi-delyn	intervention
+folgard	intervention
+mtx support	intervention
+b-12 resin	intervention
+nascobal	intervention
+foltrate	intervention
+folbalin	intervention
+folbee	intervention
+folbic	intervention
+animi-3	intervention
+iferex 150 forte	intervention
+rena-vite	intervention
+foltabs	intervention
+ferralet 90	intervention
+vita-respa	intervention
+multigen	intervention
+multigen plus	intervention
+ferrex 150 forte	intervention
+ellis tonic	intervention
+tl gard rx	intervention
+eldertonic	intervention
+biferarx	intervention
+poly iron 150 forte	intervention
+tandem plus	intervention
+hematogen	intervention
+niva-fol	intervention
+animi-3 with vitamin d	intervention
+infuvite	intervention
+mvi pediatric	intervention
+infuvite pediatric	intervention
+lactocal	intervention
+vitamin b12	intervention
+noctiva	intervention
+ddavp	intervention
+stimate	intervention
+nocdurna	intervention
+desmopressin	intervention
+orkambi	intervention
+kalydeco	intervention
+ivacaftor	intervention
+adlyxin	intervention
+soliqua	intervention
+lixisenatide	intervention
+canasa	intervention
+pentasa	intervention
+rowasa	intervention
+lialda	intervention
+apriso	intervention
+delzicol	intervention
+zaldyon	intervention
+lipitor	intervention
+caduet	intervention
+atorvastatin	intervention
+exelon	intervention
+rivastigmine	intervention
+elidel	intervention
+pimecrolimus	intervention
+nerlynx	intervention
+neratinib	intervention
+navelbine	intervention
+vinorelbine	intervention
+toviaz	intervention
+fesoterodine	intervention
+letairis	intervention
+ambrisentan	intervention
+kepivance	intervention
+palifermin	intervention
+macuvite with lutein	intervention
+ocuvite	intervention
+ocuvite lutein	intervention
+maxivision lutein formula	intervention
+preservision with lutein	intervention
+lutein	intervention
+revia	intervention
+vivitrol	intervention
+contrave	intervention
+troxyca	intervention
+naltrexone	intervention
+mesylate	intervention
+merrem	intervention
+vabomere	intervention
+meropenem	intervention
+aspartic acid	intervention
+raw sugar	intervention
+gilotrif	intervention
+afatinib	intervention
+zemuron	intervention
+rocuronium	intervention
+evicel	intervention
+thrombin	intervention
+fibrinogen	intervention
+tanzeum	intervention
+albiglutide	intervention
+cozaar	intervention
+hyzaar	intervention
+losartan	intervention
+ferriprox	intervention
+deferiprone	intervention
+immunoglobulin g	intervention
+inlyta	intervention
+axitinib	intervention
+tresaderm	intervention
+dexium	intervention
+maxitrol	intervention
+dexasone	intervention
+maxidex	intervention
+de-sone la	intervention
+poly-dex	intervention
+tobradex	intervention
+decadron	intervention
+ciprodex	intervention
+ozurdex	intervention
+dexycu	intervention
+dextenza	intervention
+hemady	intervention
+dexamethasone	intervention
+iron	intervention
+infanrix	intervention
+daptacel	intervention
+pediarix	intervention
+boostrix	intervention
+adacel	intervention
+pentacel	intervention
+kinrix	intervention
+quadracel	intervention
+tenivac	intervention
+tdvax	intervention
+vaxelis	intervention
+tetanus toxoid vaccine, inactivated	intervention
+captopril	intervention
+xeomin	intervention
+botulinum toxin type a	intervention
+polytetrafluoroethylene	intervention
+donnatal	intervention
+d-tal	intervention
+transderm scop	intervention
+isopto hyoscine	intervention
+phenohytro	intervention
+scopolamine	intervention
+thalomid	intervention
+thalidomide	intervention
+vesicare	intervention
+solifenacin	intervention
+norvir	intervention
+technivie	intervention
+ritonavir	intervention
+cortizone	intervention
+malacetic	intervention
+ana-lex	intervention
+scalpicin itch relief	intervention
+vagisil satin	intervention
+beta-hc	intervention
+otomax hc	intervention
+hydroskin	intervention
+z-pram	intervention
+procort 1.85/1.15	intervention
+neo-polycin hc	intervention
+anusol hc	intervention
+cortenema	intervention
+cortef	intervention
+dermacort	intervention
+proctocort	intervention
+solu-cortef	intervention
+a-hydrocort	intervention
+ala-cort	intervention
+ala-quin	intervention
+analpram hc	intervention
+anucort-hc	intervention
+aquanil hc	intervention
+caldecort	intervention
+carmol hc	intervention
+cipro hc	intervention
+coly mycin s	intervention
+cortaid	intervention
+cortisporin-tc	intervention
+dermtex hc	intervention
+cortisporin	intervention
+earsol-hc	intervention
+pandel	intervention
+pramosone	intervention
+recort plus	intervention
+sarnol-hc	intervention
+texacort	intervention
+vanoxide-hc	intervention
+vytone	intervention
+westcort	intervention
+preparation h hydrocortisone	intervention
+colocort	intervention
+proctozone hc	intervention
+proctofoam-hc	intervention
+dermazene	intervention
+exotic-hc	intervention
+instacort	intervention
+u-cort	intervention
+epifoam	intervention
+locoid	intervention
+procto-pak	intervention
+novacort	intervention
+alcortin	intervention
+cortane-b	intervention
+nuzon	intervention
+gynecort	intervention
+micort-hc	intervention
+procto-kit	intervention
+itch-x maximum strength	intervention
+oticin hc	intervention
+corticool	intervention
+nucort	intervention
+scalacort	intervention
+zypram	intervention
+ala-scalp	intervention
+propet	intervention
+excel pet	intervention
+cortifoam	intervention
+cortisporin ointment	intervention
+xerese	intervention
+kera-hc	intervention
+dermasorb af	intervention
+dermasorb hc	intervention
+hemorrodil plus	intervention
+vetropolycin hc	intervention
+hemmorex	intervention
+procto-med	intervention
+monistat itch relief	intervention
+alcortin a	intervention
+biocorneum	intervention
+easotic	intervention
+hemril	intervention
+proctosol	intervention
+casporyn hc	intervention
+alkindi	intervention
+aquaphor itch relief	intervention
+hydrocortisone	intervention
+ketaset	intervention
+ketalar	intervention
+ketaved	intervention
+zetamine	intervention
+vetaket	intervention
+ketathesia	intervention
+ketamine	intervention
+vizimpro	intervention
+dacomitinib	intervention
+surpass anti-inflammatory	intervention
+flector	intervention
+voltaren	intervention
+cataflam	intervention
+solaraze	intervention
+arthrotec	intervention
+zipsor	intervention
+cambia	intervention
+pennsaid	intervention
+zorvolex	intervention
+dyloject	intervention
+licart	intervention
+diclofenac	intervention
+mozobil	intervention
+plerixafor	intervention
+zubsolv	intervention
+suboxone	intervention
+bunavail	intervention
+buprenorphine	intervention
+naloxone	intervention
+deltasone	intervention
+rayos	intervention
+prednisone	intervention
+prevacid	intervention
+lansoprazole	intervention
+prograf	intervention
+protopic	intervention
+astagraf	intervention
+envarsus	intervention
+tacrolimus	intervention
+isturisa	intervention
+osilodrostat	intervention
+qualaquin	intervention
+quinine	intervention
+tecentriq	intervention
+atezolizumab	intervention
+symbyax	intervention
+prozac	intervention
+sarafem	intervention
+reconcile	intervention
+fluoxetine	intervention
+hyperrab	intervention
+rabies immune globulin, human	intervention
+telaprevir	intervention
+spectogard	intervention
+spectinomycin	intervention
+lenvima	intervention
+lenvatinib	intervention
+detrol	intervention
+tolterodine	intervention
+colace w/sennosides	intervention
+konsyl senna prompt	intervention
+senokot	intervention
+black draught	intervention
+dr caldwell laxative	intervention
+ex-lax chocolated	intervention
+ex-lax maximum relief formula	intervention
+ex-lax regular strength pills	intervention
+fletchers castoria	intervention
+senexon	intervention
+senna-relief childs	intervention
+senokot-s	intervention
+perdiem overnight	intervention
+senosol	intervention
+senosol-ss	intervention
+senna-time	intervention
+peri-colace reformulated feb 2008	intervention
+pedia-lax	intervention
+senexon s	intervention
+swiss kriss	intervention
+laxacin	intervention
+sennosides, usp	intervention
+uloric	intervention
+febuxostat	intervention
+duexis	intervention
+pepcid	intervention
+pepcid complete	intervention
+tums dual action	intervention
+duo fusion	intervention
+famotidine	intervention
+selzentry	intervention
+maraviroc	intervention
+nexium	intervention
+vimovo	intervention
+esomeprazole	intervention
+infugem	intervention
+gemzar	intervention
+gemcitabine	intervention
+bridion	intervention
+sugammadex	intervention
+ciclodan	intervention
+loprox	intervention
+penlac nail lacquer	intervention
+cnl8	intervention
+ciclopirox	intervention
+symproic	intervention
+naldemedine	intervention
+anaprox	intervention
+naprosyn	intervention
+aleve	intervention
+naprelan	intervention
+wal-proxen	intervention
+treximet	intervention
+aleve pm	intervention
+menstridol	intervention
+naproxen	intervention
+lantus	intervention
+toujeo	intervention
+basaglar	intervention
+semglee	intervention
+insulin glargine	intervention
+sustiva	intervention
+atripla	intervention
+symfi	intervention
+efavirenz	intervention
+inderal	intervention
+innopran	intervention
+hemangeol	intervention
+propranolol	intervention
+cyclophosphamide	intervention
+vtol	intervention
+arthriten max	intervention
+panadol extra	intervention
+sed-max	intervention
+little fevers	intervention
+bactimicina	intervention
+ofirmev	intervention
+bf-paradac	intervention
+pamprin max formula	intervention
+pamprin multi-symptom	intervention
+pamprin cramp formula	intervention
+percogesic reformulated jan 2011	intervention
+premsyn pms	intervention
+panadol pm	intervention
+counteract pain	intervention
+capacet	intervention
+nortemp	intervention
+acetadryl	intervention
+sedalmex	intervention
+vicodin	intervention
+lortab	intervention
+fioricet	intervention
+panadol	intervention
+tylenol	intervention
+actamin	intervention
+anacin af	intervention
+bupap	intervention
+endocet	intervention
+esgic	intervention
+excedrin	intervention
+excedrin pm	intervention
+feverall	intervention
+fioricet with codeine	intervention
+legatrin pm	intervention
+mapap	intervention
+mapap pm	intervention
+marten-tab	intervention
+norco	intervention
+phrenilin	intervention
+repan	intervention
+saleto	intervention
+tempra quicklets	intervention
+tencon	intervention
+tycolene	intervention
+tylenol pm	intervention
+tylenol with codeine	intervention
+unisom with pain relief	intervention
+vanquish	intervention
+vitapap	intervention
+zebutal	intervention
+acephen	intervention
+relagesic	intervention
+ultracet	intervention
+excedrin tension headache	intervention
+percocet	intervention
+lorcet	intervention
+frenadol	intervention
+xodol	intervention
+dologesic	intervention
+hycet	intervention
+anabar	intervention
+ed flex	intervention
+by ache	intervention
+excedrin quick tab	intervention
+comtrex sore throat relief	intervention
+excedrin back & body	intervention
+anacin advanced headache formula	intervention
+trezix	intervention
+tactinal	intervention
+zamicet	intervention
+prodrin	intervention
+backprin	intervention
+capital and codeine	intervention
+backaid	intervention
+cetafen	intervention
+exaprin	intervention
+painaid	intervention
+painaid esf	intervention
+backaid ipf	intervention
+nodolor	intervention
+primlev	intervention
+verdrocet	intervention
+excedrin mild headache	intervention
+excedrin pm triple action	intervention
+ninjacof a	intervention
+vanatol	intervention
+nanomol suspension	intervention
+femadrine	intervention
+ringl	intervention
+pharbetol	intervention
+un-aspirin	intervention
+arthriten inflammatory pain	intervention
+phrenilin forte	intervention
+nalocet	intervention
+contragesic	intervention
+dvorah	intervention
+apadaz	intervention
+panlor reformulated jan 2018	intervention
+allzital	intervention
+prolate	intervention
+percogesic	intervention
+acetaminophen	intervention
+famvir	intervention
+famciclovir	intervention
+arixtra	intervention
+fondaparinux	intervention
+lupron	intervention
+eligard	intervention
+fensolvi	intervention
+leuprolide	intervention
+travatan	intervention
+travoprost	intervention
+protonix	intervention
+pantoprazole	intervention
+paraplatin	intervention
+carboplatin	intervention
+conzip	intervention
+ultram	intervention
+qdolo	intervention
+tramadol	intervention
+preparation h suppositories	intervention
+wal-dryl-d	intervention
+wal-four	intervention
+wal-phed pe	intervention
+neo-synephrine	intervention
+prep-hem	intervention
+mydfrin	intervention
+ventuss	intervention
+b-tuss	intervention
+afrin nasal	intervention
+de-chlor hc	intervention
+hydro gp	intervention
+hydro-pc ii	intervention
+hydron cp	intervention
+de-chlor g	intervention
+de-chlor mr	intervention
+dytan-d	intervention
+triant-hc	intervention
+nasop	intervention
+sudafed pe	intervention
+sudogest pe	intervention
+poly hist pd	intervention
+simuc-hd	intervention
+relasin hc	intervention
+aldex ct	intervention
+nariz hc	intervention
+little noses decongestant	intervention
+preparation h cooling gel	intervention
+4-way	intervention
+nazarin hc	intervention
+benadryl-d allergy and sinus	intervention
+maxiphen cdx	intervention
+coldcough pd	intervention
+brovex pbc	intervention
+m-end pe	intervention
+medicone hemorrhoidal	intervention
+cyclomydril	intervention
+preparation h cream	intervention
+zotex c	intervention
+sudo-tab	intervention
+nasopen pe	intervention
+preparation h reformulated jun 2013	intervention
+preparation h suppositories reformulated oct 2013	intervention
+nikzon	intervention
+omidria	intervention
+vazculep	intervention
+wal-dryl pe	intervention
+recticare advance cream	intervention
+dallergy reformulated nov 2011	intervention
+dytan-d chewable	intervention
+congestaid ii	intervention
+grx hemorrhoidal	intervention
+rhinall	intervention
+vanatab dm	intervention
+benadryl allergy plus congestion	intervention
+alahist d	intervention
+phenylephrine	intervention
+vaprisol	intervention
+conivaptan	intervention
+belviq	intervention
+lorcaserin	intervention
+tykerb	intervention
+lapatinib	intervention
+docefrez	intervention
+taxotere	intervention
+docetaxel	intervention
+tenofovir	intervention
+cipro	intervention
+ciloxan	intervention
+proquin	intervention
+cetraxal	intervention
+otiprio	intervention
+otovel	intervention
+ciprofloxacin	intervention
+zemplar	intervention
+paricalcitol	intervention
+zoloft	intervention
+sertraline	intervention
+bevyxxa	intervention
+betrixaban	intervention
+gralise	intervention
+horizant	intervention
+neurontin	intervention
+gabapentin	intervention
+protamines	intervention
+aggrenox	intervention
+aspirin	intervention
+dipyridamole	intervention
+synagis	intervention
+palivizumab	intervention
+alocane	intervention
+tranzarel	intervention
+alocaine	intervention
+burn jel	intervention
+absorbine lidocaine	intervention
+preparation h rapid relief	intervention
+lmx	intervention
+regenecare	intervention
+lidoject	intervention
+lidum	intervention
+cutiecaine	intervention
+scar zone burn relief	intervention
+burn jel plus	intervention
+procomycin	intervention
+soulus	intervention
+xylocaine	intervention
+bactine	intervention
+lidoderm	intervention
+oraqix	intervention
+lignospan	intervention
+synera	intervention
+lidamantle	intervention
+mercuroclear	intervention
+pliaglis	intervention
+zingo	intervention
+xylocaine with epinephrine	intervention
+lidocream	intervention
+staphaseptic	intervention
+anecream	intervention
+akten	intervention
+lta	intervention
+pro pet skin relief	intervention
+solarcaine	intervention
+medi-derm with lidocaine	intervention
+dr. numb	intervention
+unburn	intervention
+lenzapatch	intervention
+lenzagel	intervention
+allercaine	intervention
+lidopro	intervention
+lidostat	intervention
+cicloferon	intervention
+xolido	intervention
+doloracin with lidocaine	intervention
+biochemistry heel no pain	intervention
+bacitraycin plus max strength	intervention
+alocane plus	intervention
+radiaguard	intervention
+puroxcin	intervention
+glydo	intervention
+comfortcaine	intervention
+lidopro patch	intervention
+recticare wipes	intervention
+topicaine	intervention
+relador	intervention
+mericaine reformulated oct 2015	intervention
+lidotral	intervention
+zensa	intervention
+lidocare	intervention
+burnx	intervention
+hexa-caine	intervention
+band-aid hurt-free	intervention
+keepan	intervention
+recticare	intervention
+lidopatch	intervention
+sonacaine	intervention
+zcaine	intervention
+derma numb	intervention
+workvie	intervention
+omeza	intervention
+lidozen	intervention
+cidaleaze	intervention
+uber numb	intervention
+ztlido	intervention
+kool-down	intervention
+bio-kool	intervention
+lipocaine	intervention
+satohap pain relieving	intervention
+satohap lidocaine	intervention
+lido king	intervention
+zionodil	intervention
+lidocaine	intervention
+aliqopa	intervention
+copanlisib	intervention
+juluca	intervention
+tivicay	intervention
+triumeq	intervention
+dovato	intervention
+dolutegravir	intervention
+bravelle	intervention
+urofollitropin	intervention
+tositumomab	intervention
+remicade	intervention
+inflectra	intervention
+renflexis	intervention
+avsola	intervention
+infliximab	intervention
+trintellix	intervention
+vortioxetine	intervention
+ziagen	intervention
+trizivir	intervention
+epzicom	intervention
+abacavir	intervention
+ginger extract	intervention
+striverdi	intervention
+olodaterol	intervention
+adrucil	intervention
+fluoroplex	intervention
+efudex	intervention
+carac	intervention
+tolak	intervention
+fluorouracil	intervention
+xarelto	intervention
+rivaroxaban	intervention
+ofev	intervention
+nintedanib	intervention
+diovan	intervention
+diovan hct	intervention
+exforge	intervention
+exforge hct	intervention
+entresto	intervention
+byvalson	intervention
+valsartan	intervention
+wheat gluten extract	intervention
+primaxin	intervention
+recarbrio	intervention
+imipenem	intervention
+avodart	intervention
+dutasteride	intervention
+dalvance	intervention
+dalbavancin	intervention
+kevzara	intervention
+sarilumab	intervention
+cisplatin	intervention
+prilosec	intervention
+zegerid reformulated aug 2006	intervention
+ulcergard	intervention
+yosprala	intervention
+omeprazole	intervention
+rapamune	intervention
+sirolimus	intervention
+potassium	intervention
+vancocin	intervention
+firvanq	intervention
+vancomycin	intervention
+paxil	intervention
+pexeva	intervention
+brisdelle	intervention
+paroxetine	intervention
+altabax	intervention
+retapamulin	intervention
+calcitonin	intervention
+emtricitabine	intervention
+tenofovir disoproxil	intervention
+rebif	intervention
+interferon beta-1a	intervention
+zydelig	intervention
+idelalisib	intervention
+tradjenta	intervention
+linagliptin	intervention
+buspar	intervention
+buspirone	intervention
+edarbi	intervention
+edarbyclor	intervention
+azilsartan	intervention
+virazole	intervention
+copegus	intervention
+rebetol	intervention
+ribasphere	intervention
+ribatab	intervention
+moderiba	intervention
+ribavirin	intervention
+adriamycin	intervention
+doxil	intervention
+lipodox	intervention
+doxorubicin	intervention
+dilaudid	intervention
+dilaudid cough	intervention
+exalgo	intervention
+hydromorphone	intervention
+aldara	intervention
+zyclara	intervention
+imiquimod	intervention
+chloraprep	intervention
+chlorhexidine	intervention
+isopropyl alcohol	intervention
+relenza	intervention
+zanamivir	intervention
+vyxeos	intervention
+daunorubicin	intervention
+xepi	intervention
+ozenoxacin	intervention
+fosamax	intervention
+fosamax plus d	intervention
+binosto	intervention
+alendronate	intervention
+etoricoxib	intervention
+opsumit	intervention
+macitentan	intervention
+rectiv	intervention
+minitran	intervention
+nitrolingual	intervention
+nitro-dur	intervention
+nitro-bid	intervention
+nitrol	intervention
+nitrostat	intervention
+nitromist	intervention
+gonitro	intervention
+nitroglycerin	intervention
+prudoxin	intervention
+silenor	intervention
+zonalon	intervention
+doxepin	intervention
+aricept	intervention
+namzaric	intervention
+donepezil	intervention
+tobi	intervention
+tobrex	intervention
+zylet	intervention
+bethkis	intervention
+kitabis	intervention
+tobramycin	intervention
+levitra	intervention
+staxyn	intervention
+vardenafil	intervention
+roxybond	intervention
+oxycontin	intervention
+oxyfast	intervention
+roxicodone	intervention
+endodan reformulated may 2009	intervention
+oxaydo	intervention
+xtampza	intervention
+oxycodone	intervention
+rapivab	intervention
+peramivir	intervention
+tofranil	intervention
+imipramine	intervention
+pegasys	intervention
+peginterferon alfa-2a	intervention
+emend	intervention
+cinvanti	intervention
+aprepitant	intervention
+somatuline	intervention
+lanreotide	intervention
+lumacaftor	intervention
+tricor	intervention
+antara	intervention
+triglide	intervention
+lipofen	intervention
+fenoglide	intervention
+trilipix	intervention
+fibricor	intervention
+fenofibrate	intervention
+lonhala	intervention
+robinul	intervention
+cuvposa	intervention
+glyrx	intervention
+glycate	intervention
+seebri	intervention
+glycopyrronium	intervention
+rabbit allergenic extract	intervention
+byetta	intervention
+bydureon	intervention
+exenatide	intervention
+vinblastine	intervention
+actemra	intervention
+tocilizumab	intervention
+minidrops	intervention
+freshkote	intervention
+murine dry eyes	intervention
+murine tears	intervention
+ocusan reformulated dec 2019	intervention
+povidone	intervention
+fosrenol	intervention
+lanthanum carbonate	intervention
+leucovorin	intervention
+nicazel	intervention
+beelith	intervention
+natelle	intervention
+dialyvite 800	intervention
+dialyvite 800 with zinc	intervention
+dialyvite 800 with iron	intervention
+encora am tablet	intervention
+encora pm tablet	intervention
+diclegis	intervention
+melatonex	intervention
+bonjesta	intervention
+pyridoxine	intervention
+counteract ib	intervention
+advil	intervention
+motrin	intervention
+genpril	intervention
+ibu	intervention
+vicoprofen	intervention
+reprexain	intervention
+neoprofen	intervention
+wal-profen	intervention
+ibuprohm	intervention
+caldolor	intervention
+motrin pm	intervention
+addaprin	intervention
+ibutab	intervention
+ibudone	intervention
+xylon	intervention
+proprinal	intervention
+samson 8	intervention
+ibuprofen	intervention
+priftin	intervention
+rifapentine	intervention
+cequa	intervention
+optimmune	intervention
+sandimmune	intervention
+neoral	intervention
+gengraf	intervention
+restasis	intervention
+atopica	intervention
+cyclosporine	intervention
+faslodex	intervention
+fulvestrant	intervention
+maxalt	intervention
+rizatriptan	intervention
+cepastat sore throat & cough	intervention
+monistat care	intervention
+candee caine	intervention
+vistacaine	intervention
+fire out	intervention
+benzo-jel	intervention
+cepacol dual relief	intervention
+lanacane	intervention
+little ouchies	intervention
+cepacol sore throat plus cough	intervention
+ultracare	intervention
+chloraseptic sore throat + cough	intervention
+anbesol cold sore therapy	intervention
+tanac liquid	intervention
+finafta baby	intervention
+medicaine sting	intervention
+bactimicina sore throat	intervention
+finafta multi oral	intervention
+benzodent	intervention
+oramagic plus	intervention
+anbesol	intervention
+cetacaine	intervention
+chloraseptic	intervention
+americaine hemorrhoidal	intervention
+anacaine	intervention
+foille	intervention
+outgro pain relief	intervention
+solarcaine plus aloe	intervention
+zilactin b	intervention
+cepacol	intervention
+hurricaine	intervention
+americaine	intervention
+retre-gel	intervention
+boil-ease	intervention
+orabase	intervention
+enemeez plus	intervention
+comfort caine	intervention
+gingicaine	intervention
+freez eez	intervention
+topicale	intervention
+medicone	intervention
+dermoplast antibacterial	intervention
+benz-o-sthetic	intervention
+gum numb gel	intervention
+gelato anesthetic	intervention
+dermoplast pain	intervention
+orajel	intervention
+chloraseptic sore throat	intervention
+vagisil original formula	intervention
+cepacol sore throat pain relief	intervention
+topicale xtra	intervention
+dent-o-kain	intervention
+americaine anesthetic lubricant	intervention
+denticare denti freeze ointment	intervention
+docusol plus	intervention
+stingeze w/ camphor	intervention
+off! explore	intervention
+orasep reformulated dec 2013	intervention
+red cross canker sore	intervention
+carmex cold sore treatment	intervention
+bencocaine	intervention
+dermawound benzocaine	intervention
+salinocaine	intervention
+angidol	intervention
+alpha-caine	intervention
+bucalsep	intervention
+lollicaine	intervention
+sting-kill	intervention
+salivacaine	intervention
+stingx	intervention
+benzocaine	intervention
+ziextenzo	intervention
+neulasta	intervention
+fulphila	intervention
+udenyca	intervention
+pegfilgrastim	intervention
+sporanox	intervention
+onmel	intervention
+tolsura	intervention
+itraconazole	intervention
+tachosil	intervention
+tisseel	intervention
+artiss	intervention
+riastap	intervention
+raplixa	intervention
+evarrest	intervention
+fibryga	intervention
+vistaseal	intervention
+eylea	intervention
+veregen	intervention
+sinecatechins	intervention
+avandia	intervention
+rosiglitazone	intervention
+gadobutrol	intervention
+migranal	intervention
+dihydroergotamine	intervention
+depakote	intervention
+valproate	intervention
+pluset	intervention
+menopur	intervention
+follicle stimulating hormone	intervention
+macrobid	intervention
+macrodantin	intervention
+furadantin	intervention
+nitrofurantoin	intervention
+fasenra	intervention
+benralizumab	intervention
+beconase	intervention
+qvar	intervention
+qnasl	intervention
+beclomethasone	intervention
+ezallor	intervention
+crestor	intervention
+rosuvastatin	intervention
+eliquis	intervention
+apixaban	intervention
+dificid	intervention
+fidaxomicin	intervention
+zyvox	intervention
+linezolid	intervention
+mirapex	intervention
+pramipexole	intervention
+erivedge	intervention
+vismodegib	intervention
+simvastatin	intervention
+sevothesia	intervention
+sevosol	intervention
+ultane	intervention
+petrem	intervention
+sojourn	intervention
+sevoflo	intervention
+sevoflurane	intervention
+chantix	intervention
+varenicline	intervention
+twinrix	intervention
+hepatitis b surface antigen vaccine	intervention
+hepatitis a vaccine (inactivated) strain hm175	intervention
+arimidex	intervention
+anastrozole	intervention
+benlysta	intervention
+belimumab	intervention
+pentetate	intervention
+zioptan	intervention
+tafluprost	intervention
+naropin	intervention
+ropivacaine	intervention
+votrient	intervention
+pazopanib	intervention
+dayvigo	intervention
+lemborexant	intervention
+onglyza	intervention
+qtern	intervention
+saxagliptin	intervention
+victrelis	intervention
+boceprevir	intervention
+astelin	intervention
+astepro	intervention
+azelastine	intervention
+xgeva	intervention
+prolia	intervention
+denosumab	intervention
+wal-act	intervention
+wal-itin d	intervention
+drixoral non-drowsy	intervention
+zutripro	intervention
+codar d	intervention
+lortuss ex	intervention
+sudafed	intervention
+a-phedrin	intervention
+allegra-d	intervention
+aphedrid	intervention
+bromfed dm	intervention
+cheratussin dac	intervention
+claritin-d	intervention
+genac brand of pseudoephedrine/triprolidine	intervention
+genaphed	intervention
+histafed	intervention
+nucofed	intervention
+p-v-tussin	intervention
+q-fed	intervention
+semprex-d	intervention
+sudogest	intervention
+vi-sudo	intervention
+zyrtec-d	intervention
+bromplex hd	intervention
+clarinex-d	intervention
+contac cold	intervention
+alavert d	intervention
+wal-phed	intervention
+nasofed	intervention
+ambifed-g cd	intervention
+ambifed cd	intervention
+su-tuss hd	intervention
+tekral	intervention
+mar-cof bp	intervention
+aller-tec d	intervention
+wal zyr d	intervention
+cetiri-d	intervention
+biotussin	intervention
+zephrex-d	intervention
+nexafed	intervention
+allerclear	intervention
+zodryl dec	intervention
+zodryl dac	intervention
+hycofenix	intervention
+wal-fex d	intervention
+m-end max d	intervention
+stahist ad	intervention
+statuss green reformulated jan 2012	intervention
+wal-dryl-d allergy	intervention
+pseudoephedrine	intervention
+caprelsa	intervention
+vandetanib	intervention
+temodar	intervention
+temozolomide	intervention
+ilumya	intervention
+tildrakizumab	intervention
+tamiflu	intervention
+oseltamivir	intervention
+avocado oil	intervention
+axiron	intervention
+fortesta	intervention
+androderm	intervention
+delatestryl	intervention
+androgel	intervention
+testim	intervention
+testopel	intervention
+striant	intervention
+depo-testosterone	intervention
+aveed	intervention
+vogelxo	intervention
+natesto	intervention
+jatenzo	intervention
+xyosted	intervention
+testosterone	intervention
+avonex	intervention
+loradamed	intervention
+wal-vert	intervention
+claritin	intervention
+alavert	intervention
+tavist non-sedating	intervention
+dimetapp nd	intervention
+wal-itin	intervention
+cleartime indoor & outdoor allergies	intervention
+loratadine	intervention
+mavyret	intervention
+glecaprevir	intervention
+miconahex+triz	intervention
+vet one	intervention
+chg teat dip	intervention
+dairyland brand sprayable chg teat dip	intervention
+milkhouse brand sprayable chg teat dip	intervention
+septi-soothe	intervention
+malaseb	intervention
+betasept	intervention
+calgon vesta	intervention
+dyna-hex	intervention
+hibistat	intervention
+periochip	intervention
+periogard	intervention
+spectrum-4	intervention
+peridex	intervention
+hibiclens	intervention
+excel	intervention
+pro pet antiseptic	intervention
+pro pet dental cleansing liquid	intervention
+pro pet dental wipes	intervention
+prevantics	intervention
+vital-chlor	intervention
+vital-ketodine	intervention
+paroex	intervention
+mal-a-ket	intervention
+ketochlor	intervention
+kenocidin	intervention
+scrub-stat	intervention
+exidine	intervention
+keto-c	intervention
+e-z scrub	intervention
+supreme	intervention
+bactoshield	intervention
+tru-blu c-hex 110	intervention
+tru-blu chlor hex-wash	intervention
+oro clense	intervention
+vetraseb	intervention
+nupro chlorhexidine	intervention
+tavalisse	intervention
+fostamatinib	intervention
+pibrentasvir	intervention
+salmeterol	intervention
+sacubitril	intervention
+reyataz	intervention
+evotaz	intervention
+atazanavir	intervention
+metylperon	intervention
+adalat	intervention
+procardia	intervention
+nifedical	intervention
+afeditab cr	intervention
+nifedipine	intervention
+ocufresh	intervention
+pur-wash	intervention
+opticlear	intervention
+salinaax	intervention
+eye stream	intervention
+dorama-neo	intervention
+firstflush	intervention
+water	intervention
+retavase	intervention
+reteplase	intervention
+broccoli extract	intervention
+avastin	intervention
+mvasi	intervention
+zirabev	intervention
+bevacizumab	intervention
+imitrex	intervention
+alsuma	intervention
+zecuity	intervention
+sumavel	intervention
+zembrace	intervention
+onzetra	intervention
+tosymra	intervention
+sumatriptan	intervention
+tudorza	intervention
+aclidinium	intervention
+glynase	intervention
+glyburide	intervention
+proline	intervention
+azadirachta indica whole extract	intervention
+viagra	intervention
+revatio	intervention
+sildenafil	intervention
+kynamro	intervention
+mipomersen	intervention
+yervoy	intervention
+ipilimumab	intervention
+maxrevive	intervention
+ice quake	intervention
+wong to yick	intervention
+listerine ultraclean	intervention
+luden's dual relief	intervention
+aulief	intervention
+fisherman's friend	intervention
+canker complete	intervention
+lucky super soft	intervention
+lantiseptic multi-purpose	intervention
+dendracin neurodendraxcin	intervention
+mentholatum	intervention
+perform	intervention
+biofreeze	intervention
+cold spot	intervention
+dynafreeze	intervention
+listerine antiseptic	intervention
+katinko	intervention
+calazime	intervention
+boroleum	intervention
+osmoflex	intervention
+overtime	intervention
+castiva cooling	intervention
+medrox	intervention
+polar freeze	intervention
+thera-gesic plus	intervention
+risamine	intervention
+ortho-nesic	intervention
+flexall	intervention
+polar frost	intervention
+ziks pain relief	intervention
+sombra warm pain relieving gel	intervention
+valtrum	intervention
+xoten	intervention
+advanced zinc-oxyde plus ointment	intervention
+eucerin calming itch relief	intervention
+mane 'n tail mineral ice	intervention
+medi-derm	intervention
+myorx	intervention
+organix complete	intervention
+counteract cough drops	intervention
+meditowel pain relief	intervention
+xoten-c	intervention
+koldets cough drop	intervention
+inflammation otc deep pain care	intervention
+inflammation otc deep pain care hot	intervention
+absorbine jr.	intervention
+mineral ice	intervention
+n'ice	intervention
+satogesic	intervention
+stopain	intervention
+sarna	intervention
+cartilade	intervention
+men-phor	intervention
+dermasarra	intervention
+sarna ultra	intervention
+absorbine	intervention
+bayer muscle and joint cream	intervention
+buckley's bedtime formula	intervention
+activon arthritis	intervention
+activon joint & muscle	intervention
+flexall ultra plus	intervention
+arthricare for women ultra strength	intervention
+arthricare for women pain relieving nighttime	intervention
+ivy-dry cream	intervention
+luden's	intervention
+painzone	intervention
+halls	intervention
+cepacol sore throat from post nasal drip	intervention
+blue-emu pain relief	intervention
+satohap	intervention
+capzasin quick relief	intervention
+thera-gesic	intervention
+freeze it	intervention
+bigeloil	intervention
+absorbine veterinary	intervention
+analgesic balm grx	intervention
+berri-freez	intervention
+fast freeze naturally cool	intervention
+sore no more	intervention
+denorex therapeutic reformulated mar 2013	intervention
+lypsyl	intervention
+oxyrub pain relief	intervention
+kineticream	intervention
+valtrum sport	intervention
+miracle foot repair	intervention
+dorflex	intervention
+vaporex	intervention
+ling nam ultra balm	intervention
+topicool	intervention
+transanosil	intervention
+carmex original balm	intervention
+pharmasal	intervention
+sub zero	intervention
+bioease pain relieving cold therapy	intervention
+dr. j.i.s arthritis plus gel	intervention
+equi-block lt formula	intervention
+granulotion medicated lotion	intervention
+flex24 performance	intervention
+broncolin cough	intervention
+corisin	intervention
+calmodrox	intervention
+bioblast	intervention
+eucamint	intervention
+genorthix pain relieving roll on	intervention
+valtrum soothing	intervention
+china-gel	intervention
+canker cover	intervention
+goose grease	intervention
+zostrix joint & arthritis pain relief	intervention
+vital vapor	intervention
+lysine plus	intervention
+canker care	intervention
+myogesic-cs	intervention
+fast freeze	intervention
+wellpatch backache relief	intervention
+numotizine	intervention
+therastat	intervention
+thoracol	intervention
+calazime skin protectant	intervention
+pramegel reformulated apr 2012	intervention
+ivy dry super continuous spray	intervention
+eagle brand medicated oil	intervention
+max-freeze	intervention
+alo	intervention
+rocainol	intervention
+arctic blast	intervention
+dragon	intervention
+reliefor	intervention
+sucrets sore throat	intervention
+healqu	intervention
+calmoseptine	intervention
+rhuli	intervention
+cramergesic	intervention
+banalg muscle pain reliever	intervention
+oxyrub max	intervention
+ricola	intervention
+arthritis hot pain relief	intervention
+jakemans	intervention
+tvia	intervention
+activice	intervention
+menthol	intervention
+semintra	intervention
+micardis	intervention
+micardis-hct	intervention
+twynsta	intervention
+telmisartan	intervention
+opdivo	intervention
+nivolumab	intervention
+herpesvirus 3, human	intervention
+oncaspar	intervention
+pegaspargase	intervention
+trospium	intervention
+cancidas	intervention
+caspofungin	intervention
+zyban	intervention
+wellbutrin	intervention
+aplenzin	intervention
+forfivo	intervention
+bupropion	intervention
+wilate	intervention
+von willebrand factor	intervention
+factor viii	intervention
+almond allergenic extract	intervention
+genotropin	intervention
+somatropin	intervention
+arikayce	intervention
+amikacin	intervention
+amino-cerv	intervention
+methionine	intervention
+nulojix	intervention
+belatacept	intervention
+nuvigil	intervention
+armodafinil	intervention
+erbitux	intervention
+cetuximab	intervention
+artesunate	intervention
+mitoxantrone	intervention
+perseris	intervention
+risperdal	intervention
+risperidone	intervention
+cialis	intervention
+adcirca	intervention
+alyq	intervention
+tadalafil	intervention
+repatha	intervention
+evolocumab	intervention
+amphadase	intervention
+vitrase	intervention
+hylenex	intervention
+herceptin hylecta	intervention
+phesgo	intervention
+darzalex faspro	intervention
+hyaluronidase	intervention
+vimpat	intervention
+lacosamide	intervention
+nolvadex	intervention
+soltamox	intervention
+tamoxifen	intervention
+dsuvia	intervention
+sufentanil	intervention
+amitiza	intervention
+lubiprostone	intervention
+ruzurgi	intervention
+firdapse	intervention
+amifampridine	intervention
+procainamide	intervention
+suramin	intervention
+vraylar	intervention
+cariprazine	intervention
+recombivax	intervention
+oysco 500 with d	intervention
+d3 dots	intervention
+thera-d	intervention
+calcet	intervention
+delta d3	intervention
+tri-vi-sol	intervention
+oysco d	intervention
+osteo-poretical	intervention
+d-vi-sol	intervention
+maximum d3	intervention
+replesta nx	intervention
+caltrate plus d	intervention
+decara	intervention
+ostercal-d	intervention
+vital e- a + d3	intervention
+vital e- repro	intervention
+vital e- newborn	intervention
+decalcitrol	intervention
+os-cal 500 with d	intervention
+caltrate gummy bites	intervention
+viactiv calcium plus d	intervention
+cal-quick	intervention
+dialyvite vitamin d3 max	intervention
+cholecalciferol	intervention
+promacta	intervention
+eltrombopag	intervention
+oxaliplatin	intervention
+flolipid	intervention
+zocor	intervention
+rifamate	intervention
+rifater	intervention
+isoniazid	intervention
+ecpirin	intervention
+stanback headache powder reformulated jan 2011	intervention
+alka-seltzer	intervention
+ascriptin	intervention
+aspergum	intervention
+ecotrin	intervention
+anacin	intervention
+aspir-low	intervention
+bayer aspirin	intervention
+bufferin	intervention
+fiorinal with codeine	intervention
+norwich aspirin	intervention
+p-a-c analgesic	intervention
+st. joseph aspirin	intervention
+synalgos-dc	intervention
+equagesic	intervention
+fiorinal	intervention
+bayer back and body pain	intervention
+anacin aspirin regimen	intervention
+stanback headache powder	intervention
+miniprin	intervention
+bc headache	intervention
+ascomp	intervention
+aspi-cor	intervention
+durlaza	intervention
+bayer womens	intervention
+bayer aspirin pm reformulated nov 2011	intervention
+bc arthritis	intervention
+bc original formula	intervention
+bromo seltzer antacid pain reliever	intervention
+orphengesic	intervention
+norgesic	intervention
+tyrosine	intervention
+abraxane	intervention
+paclitaxel	intervention
+trianex	intervention
+nasacort	intervention
+kenalog	intervention
+aristospan	intervention
+triderm	intervention
+oralone	intervention
+triesence	intervention
+dermasorb ta	intervention
+vetalog	intervention
+genesis	intervention
+zilretta	intervention
+dermalone	intervention
+aller-cort	intervention
+triamcinolone	intervention
+serevent	intervention
+zarontin	intervention
+ethosuximide	intervention
+flumazenil	intervention
+hiberix	intervention
+haemophilus influenzae type b, capsular polysaccharide inactivated tetanus toxoid conjugate vaccine	intervention
+polytrim	intervention
+bactrim	intervention
+sulfatrim	intervention
+primsol	intervention
+uniprim	intervention
+equisul sdt	intervention
+trimethoprim	intervention
+cosentyx	intervention
+secukinumab	intervention
+clobex	intervention
+clobetasol	intervention
+otezla	intervention
+apremilast	intervention
+gazyva	intervention
+obinutuzumab	intervention
+gadolinium	intervention
+cerezyme	intervention
+imiglucerase	intervention
+acellular pertussis vaccine, inactivated	intervention
+diphtheria toxoid vaccine, inactivated	intervention
+zithromax	intervention
+zmax	intervention
+azasite	intervention
+azithromycin	intervention
+ceftriaxone	intervention
+pitocin	intervention
+oxytocin	intervention
+santyl	intervention
+collagenase	intervention
+vecamyl	intervention
+mecamylamine	intervention
+zeaxanthin	intervention
+acipimox	intervention
+buprenex	intervention
+butrans	intervention
+simbadol	intervention
+belbuca	intervention
+probuphine	intervention
+sublocade	intervention
+prezista	intervention
+prezcobix	intervention
+symtuza	intervention
+darunavir	intervention
+serostim	intervention
+nexavar	intervention
+sorafenib	intervention
+iopromide	intervention
+duzallo	intervention
+zyloprim	intervention
+aloprim	intervention
+allopurinol	intervention
+farxiga	intervention
+dapagliflozin	intervention
+xolair	intervention
+omalizumab	intervention
+phosphorus	intervention
+cimduo	intervention
+delstrigo	intervention
+combivir	intervention
+epivir	intervention
+epivir hbv	intervention
+temixys	intervention
+lamivudine	intervention
+remeron	intervention
+mirataz	intervention
+mirtazapine	intervention
+amodiaquine	intervention
+omega-3 fatty acids	intervention
+lead	intervention
+carbocaine with neocobefrin	intervention
+carbocaine	intervention
+scandonest l	intervention
+scandonest	intervention
+polocaine	intervention
+mepivacaine	intervention
+ting af	intervention
+nuzole	intervention
+hongo killer ultra	intervention
+rash relief antifungal	intervention
+inzo	intervention
+baza	intervention
+cruex prescription strength	intervention
+dermagran	intervention
+desenex	intervention
+fungoid	intervention
+micatin	intervention
+mitrazol	intervention
+ony-clear	intervention
+vagistat	intervention
+micro-guard	intervention
+monistat	intervention
+vusion	intervention
+dermafungal	intervention
+tetterine	intervention
+critic-aid clear	intervention
+triple paste af	intervention
+micaderm	intervention
+surolan	intervention
+oravig	intervention
+tineacide antifungal reformulated jun 2013	intervention
+macerrx	intervention
+micaved	intervention
+zeasorb	intervention
+lagicam	intervention
+aloe vesta antifungal	intervention
+clearly confident	intervention
+silka powder	intervention
+femmesil	intervention
+conazol miconazole	intervention
+miconazole	intervention
+cymbalta	intervention
+irenka	intervention
+drizalma	intervention
+duloxetine	intervention
+invokana	intervention
+canagliflozin	intervention
+havrix	intervention
+vyvanse	intervention
+lisdexamfetamine	intervention
+fungicure solution	intervention
+dermatin	intervention
+lotrimin	intervention
+lotrisone	intervention
+cruex antifungal	intervention
+mycelex troches	intervention
+aardora anti-fungal maximum strength	intervention
+vetromax	intervention
+clotrimazoil	intervention
+tri-otic for canines	intervention
+alevazol	intervention
+malotic	intervention
+otomax	intervention
+fungistat	intervention
+clotrimazole	intervention
+barium	intervention
+videx	intervention
+videx ec	intervention
+didanosine	intervention
+maca preparation	intervention
+camptosar	intervention
+onivyde	intervention
+irinotecan	intervention
+tuxarin	intervention
+relcof c	intervention
+codar ar	intervention
+codar gf	intervention
+brontex	intervention
+cheracol with codeine	intervention
+mytussin ac	intervention
+robafen ac	intervention
+m-clear wc	intervention
+allfen cdx	intervention
+nalex ac	intervention
+brovex cb	intervention
+mar-cof cg	intervention
+z tuss ac	intervention
+cheratussin	intervention
+zodryl ac	intervention
+ninjacof xg	intervention
+tuzistra	intervention
+guiatuss ac	intervention
+codeine	intervention
+ovide	intervention
+malathion	intervention
+latuda	intervention
+lurasidone	intervention
+ivarest	intervention
+wal-dryl	intervention
+compoz	intervention
+wal-dryl childrens	intervention
+wal-dryl allergy	intervention
+wal-som maximum strength	intervention
+nytol	intervention
+banophen cream	intervention
+diphenhist with zinc	intervention
+unisom sleep	intervention
+scot-tussin allergy	intervention
+rest simply	intervention
+kids-eeze allergy	intervention
+dermamycin	intervention
+sominex	intervention
+benadryl	intervention
+allermax	intervention
+banophen	intervention
+diphedryl	intervention
+diphenhist	intervention
+doans pm	intervention
+dytuss	intervention
+siladryl	intervention
+sleepinal	intervention
+twilite	intervention
+simply sleep	intervention
+benadryl itch stopping	intervention
+calagel	intervention
+ivarest maximum strength	intervention
+wal-sleep z	intervention
+allegra cooling relief anti-itch	intervention
+zzz sleep	intervention
+z-sleep	intervention
+somnapure	intervention
+the itch eraser	intervention
+vanamine	intervention
+zzzquil	intervention
+vetadryl	intervention
+sleeptabs	intervention
+calagel reformulated jun 2019	intervention
+dormin	intervention
+genahist	intervention
+pediaclear cough	intervention
+tact	intervention
+diphenhydramine	intervention
+ketofen	intervention
+ketoprofen	intervention
+activase	intervention
+alteplase	intervention
+qsymia	intervention
+topiramate	intervention
+phentermine	intervention
+isentress	intervention
+raltegravir	intervention
+samsca	intervention
+jynarque	intervention
+tolvaptan	intervention
+tacalcitol	intervention
+rosadan	intervention
+flagyl	intervention
+metrogel	intervention
+metrocream	intervention
+metrolotion	intervention
+noritate	intervention
+vandazole	intervention
+nydamax	intervention
+pylera	intervention
+nuvessa	intervention
+metronidazole	intervention
+marcaine	intervention
+sensorcaine	intervention
+sensorcaine with epinephrine	intervention
+vivacaine	intervention
+marcaine with epinephrine	intervention
+exparel	intervention
+xaracoll	intervention
+bupivacaine	intervention
+enalaprilat	intervention
+dotatate	intervention
+clindacure	intervention
+clindacin	intervention
+cleocin	intervention
+benzaclin	intervention
+clindagel	intervention
+duac	intervention
+clindamax	intervention
+clindesse	intervention
+evoclin	intervention
+ziana	intervention
+cleocin-t	intervention
+acanya	intervention
+clintabs	intervention
+antirobe	intervention
+veltin	intervention
+zydaclin	intervention
+clindamed	intervention
+neuac	intervention
+onexton	intervention
+clinda-guard	intervention
+clindamycin	intervention
+lovenox	intervention
+enoxaparin	intervention
+genvoya	intervention
+stribild	intervention
+elvitegravir	intervention
+abilify	intervention
+aripiprazole	intervention
+dabigatran	intervention
+geranylgeranylacetone	intervention
+acticin	intervention
+elimite	intervention
+nix cream rinse	intervention
+permethrin	intervention
+oxygen	intervention
+zinc	intervention
+baraclude	intervention
+entecavir	intervention
+celexa	intervention
+citalopram	intervention
+amphotericin	intervention
+ipol	intervention
+poliovirus vaccine inactivated, type 1 (mahoney)	intervention
+poliovirus vaccine inactivated, type 2 (mef-1)	intervention
+poliovirus vaccine inactivated, type 3 (saukett)	intervention
+ambien	intervention
+zolpimist	intervention
+edluar	intervention
+intermezzo	intervention
+zolpidem	intervention
+e-con	intervention
+new day	intervention
+mirena	intervention
+plan b one-step	intervention
+skyla	intervention
+my way	intervention
+take action	intervention
+fallback solo	intervention
+afterpill	intervention
+opcicon one-step	intervention
+aftera	intervention
+econtra	intervention
+liletta	intervention
+morning after	intervention
+option 2	intervention
+react	intervention
+kyleena	intervention
+next choice one dose	intervention
+postday one-step	intervention
+bionafem	intervention
+my choice	intervention
+preventeza	intervention
+afterplan	intervention
+twirla	intervention
+levonorgestrel	intervention
+fertagyl	intervention
+factrel	intervention
+cystorelin	intervention
+gonabreed	intervention
+gonadorelin	intervention
+nevanac	intervention
+ilevro	intervention
+nepafenac	intervention
+movantik	intervention
+naloxegol	intervention
+elestat	intervention
+epinastine	intervention
+del-beta	intervention
+diprolene	intervention
+luxiq	intervention
+celestone soluspan	intervention
+taclonex	intervention
+gentaved	intervention
+gentacalm	intervention
+betagen brand of betamethasone and gentamicin	intervention
+genone	intervention
+relifor	intervention
+betavet	intervention
+enstilar	intervention
+sernivo	intervention
+betamethasone	intervention
+sea-omega	intervention
+ocean blue nutritionals omega-3 1450	intervention
+eicosapentaenoate	intervention
+cetrotide	intervention
+cetrorelix	intervention
+lexiva	intervention
+fosamprenavir	intervention
+availnex	intervention
+carbocysteine	intervention
+ellence	intervention
+epirubicin	intervention
+polysorbates	intervention
+prepidil	intervention
+prostin e2	intervention
+cervidil	intervention
+dinoprostone	intervention
+luteinizing hormone	intervention
+simulect	intervention
+basiliximab	intervention
+sandostatin	intervention
+bynfezia	intervention
+mycapssa	intervention
+octreotide	intervention
+gliclazide	intervention
+accuretic	intervention
+aldactazide	intervention
+vaseretic	intervention
+lotensin hct	intervention
+microzide	intervention
+prinzide	intervention
+uniretic	intervention
+dyazide	intervention
+avalide	intervention
+atacand hct	intervention
+teveten hct	intervention
+maxzide	intervention
+ziac	intervention
+zestoretic	intervention
+tekturna hct	intervention
+hydrochlorothiazide	intervention
+serophene	intervention
+clomiphene	intervention
+orfadin	intervention
+nityr	intervention
+nitisinone	intervention
+relistor	intervention
+methylnaltrexone	intervention
+trexall	intervention
+otrexup	intervention
+rasuvo	intervention
+xatmep	intervention
+reditrex	intervention
+methotrexate	intervention
+remodulin	intervention
+tyvaso	intervention
+orenitram	intervention
+treprostinil	intervention
+venclexta	intervention
+venetoclax	intervention
+sutent	intervention
+sunitinib	intervention
+adderall	intervention
+evekeo	intervention
+dyanavel	intervention
+adzenys	intervention
+mydayis	intervention
+amphetamine	intervention
+cobicistat	intervention
+abstral	intervention
+lazanda	intervention
+duragesic	intervention
+actiq	intervention
+fentora	intervention
+ionsys	intervention
+subsys	intervention
+fentanyl	intervention
+leucine	intervention
+ginkgo biloba extract	intervention
+alverine	intervention
+aimovig	intervention
+erenumab	intervention
+nomegestrol	intervention
+narcan	intervention
+evzio	intervention
+enbrel	intervention
+eticovo	intervention
+etanercept	intervention
+mifeprex	intervention
+korlym	intervention
+mifepristone	intervention
+bee pollen	intervention
+viramune	intervention
+nevirapine	intervention
+heme iron polypeptide	intervention
+novipet joint support	intervention
+tocopherol	intervention
+belladonna extract, usp	intervention
+gattex	intervention
+teduglutide	intervention
+gilenya	intervention
+fingolimod	intervention
+admelog	intervention
+humalog mix	intervention
+lyumjev	intervention
+entyvio	intervention
+vedolizumab	intervention
+aczone	intervention
+dapsone	intervention
+cyramza	intervention
+ramucirumab	intervention
+lotronex	intervention
+alosetron	intervention
+fanapt	intervention
+iloperidone	intervention
+crysvita	intervention
+burosumab	intervention
+xopenex	intervention
+levalbuterol	intervention
+quelicin	intervention
+anectine	intervention
+succinylcholine	intervention
+hydrea	intervention
+droxia	intervention
+siklos	intervention
+hydroxyurea	intervention
+doptelet	intervention
+avatrombopag	intervention
+tarceva	intervention
+erlotinib	intervention
+adenoscan	intervention
+adenocard	intervention
+adenosine	intervention
+pristiq	intervention
+khedezla	intervention
+desvenlafaxine	intervention
+heparin	intervention
+silicon dioxide	intervention
+s-adenosylmethionine	intervention
+simponi	intervention
+golimumab	intervention
+reopro	intervention
+abciximab	intervention
+depakene	intervention
+depacon	intervention
+skyrizi	intervention
+risankizumab	intervention
+temovate	intervention
+cormax	intervention
+olux	intervention
+clodan	intervention
+impoyz	intervention
+tovet	intervention
+impeklo	intervention
+depo-provera	intervention
+provera	intervention
+depo-subq provera	intervention
+medroxyprogesterone	intervention
+zyprexa	intervention
+olanzapine	intervention
+steglatro	intervention
+ertugliflozin	intervention
+jetrea	intervention
+ocriplasmin	intervention
+rhopressa	intervention
+netarsudil	intervention
+isradipine	intervention
+timoptic	intervention
+betimol	intervention
+cosopt	intervention
+istalol	intervention
+combigan	intervention
+timolol	intervention
+flarex	intervention
+fml-s	intervention
+fml	intervention
+fml forte liquifilm	intervention
+fluorometholone	intervention
+cinryze	intervention
+c1 esterase inhibitor	intervention
+jevtana	intervention
+cabazitaxel	intervention
+biothrax	intervention
+bacillus anthracis strain v770-np1-r antigens	intervention
+soothe lubricant eye drops	intervention
+chloraseptic max spray	intervention
+pretz	intervention
+cepacol sore throat spray	intervention
+tears naturale forte	intervention
+oasis tears	intervention
+pedia-lax liquid glycerin suppositories	intervention
+minica	intervention
+sani-supp	intervention
+glycerin	intervention
+proventil	intervention
+duoneb	intervention
+accuneb	intervention
+proair	intervention
+ventolin	intervention
+primaquine	intervention
+patanol	intervention
+pataday	intervention
+patanase	intervention
+pazeo	intervention
+olopatadine	intervention
+levulan	intervention
+aminolevulinate	intervention
+tremfya	intervention
+guselkumab	intervention
+keytruda	intervention
+pembrolizumab	intervention
+topicort	intervention
+desoximetasone	intervention
+adipex-p	intervention
+lomaira	intervention
+mulpleta	intervention
+lusutrombopag	intervention
+dacogen	intervention
+inqovi	intervention
+decitabine	intervention
+haldol	intervention
+haloperidol	intervention
+daliresp	intervention
+roflumilast	intervention
+ammonia	intervention
+pancrelipase	intervention
+blueberry extract	intervention
+feraheme	intervention
+ferumoxytol	intervention
+allegra	intervention
+fexofenadine	intervention
+trulicity	intervention
+dulaglutide	intervention
+tazorac	intervention
+avage	intervention
+fabior	intervention
+duobrii	intervention
+arazlo	intervention
+tazarotene	intervention
+quzyttir	intervention
+wal-zyr	intervention
+zyrtec	intervention
+aller-tec	intervention
+alleroff	intervention
+wal zyr 24 hour allergy	intervention
+zerviate	intervention
+cetirizine	intervention
+gammaplex	intervention
+relebactam	intervention
+torisel	intervention
+temsirolimus	intervention
+septocaine	intervention
+zorcaine	intervention
+articadent	intervention
+orabloc	intervention
+ultacan	intervention
+articaine	intervention
+rydapt	intervention
+midostaurin	intervention
+humira	intervention
+adalimumab	intervention
+cytotec	intervention
+misoprostol	intervention
+tenormin	intervention
+tenoretic	intervention
+atenolol	intervention
+razadyne	intervention
+galantamine	intervention
+tnkase	intervention
+tenecteplase	intervention
+clarinex	intervention
+desloratadine	intervention
+ditropan	intervention
+oxytrol	intervention
+gelnique	intervention
+oxybutynin	intervention
+vincasar	intervention
+marqibo	intervention
+vincristine	intervention
+golytely	intervention
+polyethylene glycol 3350	intervention
+sodium bicarbonate	intervention
+sodium sulfate	intervention
+potassium chloride	intervention
+sodium chloride	intervention
+iprivask	intervention
+desirudin	intervention
+velcade	intervention
+bortezomib	intervention
+beets preparation	intervention
+zepzelca	intervention
+lurbinectedin	intervention
+suprane	intervention
+desflurane	intervention
+pamelor	intervention
+nortriptyline	intervention
+acthar	intervention
+corticotropin	intervention
+valtrex	intervention
+valacyclovir	intervention
+lotrel	intervention
+norvasc	intervention
+prestalia	intervention
+consensi	intervention
+katerzia	intervention
+amlodipine	intervention
+metozolv	intervention
+reglan	intervention
+pileran	intervention
+gimoti	intervention
+metoclopramide	intervention
+sertindole	intervention
+coreg	intervention
+carvedilol	intervention
+chamomile extract	intervention
+choline	intervention
+signifor	intervention
+pasireotide	intervention
+zinbryta	intervention
+daclizumab	intervention
+kuvan	intervention
+sapropterin	intervention
+tretten	intervention
+factor xiii	intervention
+orencia	intervention
+abatacept	intervention
+palforzia	intervention
+peanut allergenic extract	intervention
+unifiber	intervention
+cellulose	intervention
+viabecline	intervention
+vitastem	intervention
+tetracycline	intervention
+fluor a day chewable	intervention
+salivasure	intervention
+xylitol	intervention
+herceptin	intervention
+kadcyla	intervention
+kanjinti	intervention
+ogivri	intervention
+herzuma	intervention
+enhertu	intervention
+ontruzant	intervention
+trazimera	intervention
+trastuzumab	intervention
+entocort	intervention
+pulmicort	intervention
+rhinocort	intervention
+uceris	intervention
+ortikos	intervention
+budesonide	intervention
+premarin	intervention
+estrogens, conjugated (usp)	intervention
+sulfamethoxazole	intervention
+vildagliptin	intervention
+daklinza	intervention
+daclatasvir	intervention
+cilostazol	intervention
+praluent	intervention
+alirocumab	intervention
+symjepi	intervention
+citanest forte	intervention
+epipen	intervention
+adrenaclick	intervention
+adrenalin	intervention
+auvi-q	intervention
+primatene reformulated jan 2019	intervention
+epinephrine	intervention
+aciphex	intervention
+rabeprazole	intervention
+endari	intervention
+nutrestore	intervention
+glutamine	intervention
+bronkaid	intervention
+primatene	intervention
+akovaz	intervention
+emerphed	intervention
+corphedra	intervention
+bronkaid max	intervention
+ephedrine	intervention
+zolinza	intervention
+vorinostat	intervention
+inomax	intervention
+nitrogen	intervention
+kapvay	intervention
+catapres	intervention
+clorpres	intervention
+duraclon	intervention
+clonidine	intervention
+myrbetriq	intervention
+mirabegron	intervention
+flutemetamol	intervention
+disal	intervention
+lasix	intervention
+salix - substance	intervention
+furosemide	intervention
+algal-900	intervention
+docosahexaenoate	intervention
+floxin	intervention
+ocuflox	intervention
+ofloxacin	intervention
+tri biozene	intervention
+neo-polycin	intervention
+lanabiotic	intervention
+spectrocin plus	intervention
+mycitracin plus pain reliever	intervention
+neovet	intervention
+baclezene	intervention
+vetropolycin	intervention
+neo-synalar	intervention
+neo-predef	intervention
+tritop	intervention
+cuadriderma	intervention
+vitacilina	intervention
+triplicin	intervention
+neomycin	intervention
+meglumine	intervention
+firmagon	intervention
+degarelix	intervention
+imbruvica	intervention
+ibrutinib	intervention
+zemdri	intervention
+plazomicin	intervention
+provigil	intervention
+modafinil	intervention
+precose	intervention
+acarbose	intervention
+zenpep	intervention
+creon	intervention
+pancreaze	intervention
+panakare	intervention
+pancreplus	intervention
+viokace	intervention
+pertzye	intervention
+zypatt	intervention
+protease	intervention
+zidovudine	intervention
+lumigan	intervention
+latisse	intervention
+durysta	intervention
+bimatoprost	intervention
+qbrexza	intervention
+ventipulmin	intervention
+clenbuterol	intervention
+tindamax	intervention
+tinidazole	intervention
+photofrin	intervention
+dihematoporphyrin ether	intervention
+dichloroacetate	intervention
+adasuve	intervention
+loxapine	intervention
+honey preparation	intervention
+cytarabine	intervention
+valcyte	intervention
+valganciclovir	intervention
+walnut allergenic extract	intervention
+uroxatral	intervention
+alfuzosin	intervention
+raxibacumab	intervention
+prolastin	intervention
+zemaira	intervention
+aralast	intervention
+glassia	intervention
+alpha 1-antitrypsin	intervention
+savaysa	intervention
+edoxaban	intervention
+atrovent	intervention
+lyrica	intervention
+pregabalin	intervention
+probenecid	intervention
+integrilin	intervention
+eptifibatide	intervention
+ombitasvir	intervention
+paritaprevir	intervention
+nesina	intervention
+alogliptin	intervention
+copaxone	intervention
+glatopa	intervention
+glatiramer	intervention
+wellpatch	intervention
+arth-rx	intervention
+capsin	intervention
+capzasin-p	intervention
+menthac arthritis cream with capsaicin	intervention
+zostrix sports	intervention
+castiva warming	intervention
+arthricare for women moisturizing	intervention
+sloan's liniment	intervention
+capzasin-hp	intervention
+qutenza	intervention
+zostrix	intervention
+equi-block original	intervention
+arthur itis	intervention
+satogesic hot	intervention
+capsaicin	intervention
+northera	intervention
+droxidopa	intervention
+sulfazine	intervention
+azulfidine	intervention
+sulfasalazine	intervention
+vidaza	intervention
+onureg	intervention
+azacitidine	intervention
+yondelis	intervention
+trabectedin	intervention
+benzoyl peroxide	intervention
+macugen	intervention
+pegaptanib	intervention
+crinone	intervention
+prometrium	intervention
+endometrin	intervention
+eazi-breed cidr	intervention
+progesterone	intervention
+kogenate	intervention
+colistin	intervention
+seizalam	intervention
+nayzilam	intervention
+midazolam	intervention
+colcrys	intervention
+mitigare	intervention
+gloperba	intervention
+colchicine	intervention
+koselugo	intervention
+selumetinib	intervention
+phosphate ion	intervention
+sibutramine	intervention
+cardura	intervention
+doxazosin	intervention
+cucumber extract	intervention
+pegintron	intervention
+peginterferon alfa-2b	intervention
+fungasol	intervention
+triclosan	intervention
+geodon	intervention
+ziprasidone	intervention
+hypotears	intervention
+polyethylene glycols	intervention
+xalkori	intervention
+crizotinib	intervention
+truvada	intervention
+tafinlar	intervention
+dabrafenib	intervention
+questran	intervention
+prevalite	intervention
+cholestyramine resin	intervention
+clavulanate	intervention
+aptivus	intervention
+tipranavir	intervention
+beovu	intervention
+brolucizumab	intervention
+lithium	intervention
+corlanor	intervention
+ivabradine	intervention
+ixempra	intervention
+ixabepilone	intervention
+alinia	intervention
+nitazoxanide	intervention
+evenity	intervention
+romosozumab	intervention
+acetadote	intervention
+cetylev	intervention
+acetylcysteine	intervention
+metacam	intervention
+mobic	intervention
+loxicom	intervention
+meloxidyl	intervention
+ostilox	intervention
+vivlodex	intervention
+qmiiz	intervention
+alloxate	intervention
+anjeso	intervention
+meloxicam	intervention
+iressa	intervention
+gefitinib	intervention
+axid	intervention
+axid ar	intervention
+nizatidine	intervention
+topamax	intervention
+trokendi	intervention
+qudexy	intervention
+wal-fex	intervention
+3-iodobenzylguanidine	intervention
+amzeeq	intervention
+minocin	intervention
+arestin	intervention
+solodyn	intervention
+cleeravue-m	intervention
+ximino	intervention
+minolira	intervention
+zilxi	intervention
+minocycline	intervention
+actonel	intervention
+risedronate	intervention
+coartem	intervention
+artemether	intervention
+alefacept	intervention
+erwinaze	intervention
+asparaginase	intervention
+intrarosa	intervention
+prasterone	intervention
+na-zone	intervention
+sinucleanse	intervention
+saltaire	intervention
+cleanoz saline	intervention
+extraneal	intervention
+nebusal	intervention
+mycinaire	intervention
+colyte	intervention
+altamist	intervention
+ayr saline nasal	intervention
+broncho saline	intervention
+deep sea	intervention
+isolyte s	intervention
+little noses	intervention
+muro 128	intervention
+ocean brand of sodium chloride	intervention
+physiolyte	intervention
+physiosol	intervention
+sea mist	intervention
+sea soft	intervention
+sochlor	intervention
+thermotabs	intervention
+tis-u-sol	intervention
+entsol	intervention
+normosol-r	intervention
+plasma-lyte 148	intervention
+plasmalyte a	intervention
+simply saline	intervention
+nulytely	intervention
+saljet	intervention
+moviprep	intervention
+hyper-sal	intervention
+trilyte	intervention
+bss ophthalmic solution	intervention
+gavilyte-c	intervention
+gavilyte-g	intervention
+gavilyte-n	intervention
+rhinaris	intervention
+pulmosal	intervention
+nutrilyte ii	intervention
+gavilyte-h	intervention
+nasadrops	intervention
+regiocit	intervention
+oxsoralen	intervention
+uvadex	intervention
+methoxsalen	intervention
+arzerra	intervention
+kesimpta	intervention
+ofatumumab	intervention
+gelatin	intervention
+biperiden	intervention
+azopt	intervention
+simbrinza	intervention
+brinzolamide	intervention
+rabavert	intervention
+rabies virus vaccine flury-lep strain	intervention
+zonegran	intervention
+zonisamide	intervention
+vpriv	intervention
+velaglucerase alfa	intervention
+tracleer	intervention
+bosentan	intervention
+cow milk allergenic extract	intervention
+norpramin	intervention
+desipramine	intervention
+cefadroxil	intervention
+niobium	intervention
+onion extract	intervention
+botox	intervention
+botox cosmetic	intervention
+vecuronium	intervention
+fortaz	intervention
+tazicef	intervention
+avycaz	intervention
+ceftazidime	intervention
+estrogens	intervention
+aubagio	intervention
+teriflunomide	intervention
+rayaldee	intervention
+calcifediol	intervention
+cafergot	intervention
+no doz	intervention
+migergot	intervention
+vivarin	intervention
+cafcit	intervention
+pep-back	intervention
+drowz-away	intervention
+jet-alert	intervention
+nosnooze	intervention
+caffeine	intervention
+complera	intervention
+emtriva	intervention
+odefsey	intervention
+descovy	intervention
+biktarvy	intervention
+cogentin	intervention
+benztropine	intervention
+pregnenolone	intervention
+cystadane	intervention
+betaine	intervention
+lovaza	intervention
+omega-3 acid ethyl esters (usp)	intervention
+myleran	intervention
+busulfex	intervention
+busulfan	intervention
+toposar	intervention
+etopophos	intervention
+etoposide	intervention
+trusopt	intervention
+dorzolamide	intervention
+zebeta	intervention
+bisoprolol	intervention
+miralax	intervention
+panhematin	intervention
+hemin	intervention
+vaniqa	intervention
+eflornithine	intervention
+telotristat	intervention
+gablofen	intervention
+lioresal	intervention
+ozobax	intervention
+baclofen	intervention
+xenon	intervention
+disalcid	intervention
+salsalate	intervention
+hespan	intervention
+hextend	intervention
+hetastarch	intervention
+euthyrox	intervention
+levo-t	intervention
+levoxyl	intervention
+synthroid	intervention
+unithroid	intervention
+thyrolar	intervention
+tirosint	intervention
+thyrokare	intervention
+thyro-tabs	intervention
+levothyroxine	intervention
+sensipar	intervention
+cinacalcet	intervention
+talwin	intervention
+pentazocine	intervention
+dalotuzumab	intervention
+egg extract	intervention
+acetate	intervention
+varubi	intervention
+rolapitant	intervention
+arava	intervention
+leflunomide	intervention
+brilinta	intervention
+ticagrelor	intervention
+curcumin	intervention
+sulfate ion	intervention
+viibryd	intervention
+vilazodone	intervention
+hexyl 5-aminolevulinate	intervention
+brevital	intervention
+methohexital	intervention
+propylene	intervention
+lynparza	intervention
+olaparib	intervention
+xyrem	intervention
+oxybate	intervention
+incurin	intervention
+estriol	intervention
+vfend	intervention
+voriconazole	intervention
+avc brand of sulfanilamide	intervention
+sulfanilamide	intervention
+alphagan	intervention
+mirvaso	intervention
+lumify	intervention
+brimonidine	intervention
+xeloda	intervention
+capecitabine	intervention
+neupro	intervention
+rotigotine	intervention
+coly mycin m	intervention
+b-caro-t	intervention
+preservision	intervention
+beta carotene	intervention
+vilanterol	intervention
+cytovene	intervention
+zirgan	intervention
+ganciclovir	intervention
+maltol	intervention
+viracept	intervention
+nelfinavir	intervention
+dupixent	intervention
+dupilumab	intervention
+besivance	intervention
+besifloxacin	intervention
+celebrex	intervention
+elyxyb	intervention
+celecoxib	intervention
+halaven	intervention
+eribulin	intervention
+diflucan	intervention
+fluconazole	intervention
+ascorbic acid	intervention
+sodium ascorbate	intervention
+glucagen	intervention
+glucagon	intervention
+ultravate	intervention
+halobetasol	intervention
+chlorpheniramine	intervention
+methscopolamine	intervention
+pyrophosphate	intervention
+refenesen	intervention
+cough out	intervention
+kids-eeze chest relief	intervention
+rompe pecho	intervention
+bidex	intervention
+difil g	intervention
+liquibid	intervention
+robafen	intervention
+scot-tussin	intervention
+siltussin	intervention
+mucinex	intervention
+xpect	intervention
+allfen c	intervention
+allfen cx	intervention
+allfen jr	intervention
+diabetic tussin ex	intervention
+spec-tuss	intervention
+broncomar expectorant	intervention
+obredon	intervention
+flowtuss	intervention
+guaifenesin	intervention
+zeposia	intervention
+ozanimod	intervention
+sinemet	intervention
+stalevo	intervention
+rytary	intervention
+duopa	intervention
+inbrija	intervention
+levodopa	intervention
+onpattro	intervention
+patisiran	intervention
+nexplanon	intervention
+nuvaring	intervention
+eluryng	intervention
+etonogestrel	intervention
+tiglutik	intervention
+rilutek	intervention
+exservan	intervention
+riluzole	intervention
+treanda	intervention
+bendeka	intervention
+belrapzo	intervention
+bendamustine	intervention
+cherry allergenic extract	intervention
+selenium	intervention
+triostat	intervention
+cytomel	intervention
+liothyronine	intervention
+unasyn	intervention
+sulbactam	intervention
+ampicillin	intervention
+tepezza	intervention
+teprotumumab	intervention
+vibativ	intervention
+telavancin	intervention
+altreno	intervention
+retin-a	intervention
+avita	intervention
+tri-luma	intervention
+tretin x	intervention
+atralin	intervention
+renova	intervention
+refissa	intervention
+tretinoin	intervention
+xifaxan	intervention
+rifaximin	intervention
+zerit	intervention
+stavudine	intervention
+eucrisa	intervention
+crisaborole	intervention
+amnesteem	intervention
+sotret	intervention
+claravis	intervention
+zenatane	intervention
+myorisan	intervention
+absorica	intervention
+isotretinoin	intervention
+diprivan	intervention
+propoven	intervention
+propoflo	intervention
+propothesia	intervention
+propofol	intervention
+durezol	intervention
+difluprednate	intervention
+resveratrol	intervention
+chloride ion	intervention
+lactose	intervention
+aldurazyme	intervention
+laronidase	intervention
+aranesp	intervention
+darbepoetin alfa	intervention
+bystolic	intervention
+nebivolol	intervention
+femara	intervention
+letrozole	intervention
+pravachol	intervention
+pravastatin	intervention
+nuedexta	intervention
+quin-g	intervention
+quinidine	intervention
+platinum	intervention
+aluminum	intervention
+uptravi	intervention
+selexipag	intervention
+tegretol	intervention
+epitol	intervention
+carbatrol	intervention
+equetro	intervention
+carnexiv	intervention
+carbamazepine	intervention
+aceclofenac	intervention
+alimta	intervention
+pemetrexed	intervention
+terbutaline	intervention
+elcys	intervention
+nouress	intervention
+cysteine	intervention
+precedex	intervention
+dexdomitor	intervention
+sileo	intervention
+dexmedesed	intervention
+dexmedetomidine	intervention
+folate	intervention
+portrazza	intervention
+necitumumab	intervention
+plaquenil	intervention
+hydroxychloroquine	intervention
+ibrance	intervention
+palbociclib	intervention
+pred forte	intervention
+pred mild	intervention
+blephamide	intervention
+pediapred	intervention
+pred-g	intervention
+prednisol	intervention
+orapred	intervention
+omnipred	intervention
+flo-pred	intervention
+millipred	intervention
+veripred	intervention
+temaril-p	intervention
+prednistab	intervention
+prednisolone	intervention
+muromonab-cd3	intervention
+zinacef	intervention
+ceftin	intervention
+cefuroxime	intervention
+cablivi	intervention
+caplacizumab	intervention
+sovaldi	intervention
+harvoni	intervention
+epclusa	intervention
+vosevi	intervention
+sofosbuvir	intervention
+zosyn	intervention
+zerbaxa	intervention
+tazobactam	intervention
+restone	intervention
+somnicin	intervention
+melatonin	intervention
+arakoda	intervention
+krintafel	intervention
+tafenoquine	intervention
+rexulti	intervention
+brexpiprazole	intervention
+cocoa extract	intervention
+proquad	intervention
+rubella virus vaccine live (wistar ra 27-3 strain)	intervention
+mumps virus vaccine live, jeryl lynn strain	intervention
+measles virus vaccine live, enders' attenuated edmonston strain	intervention
+varicella-zoster virus vaccine live (oka-merck) strain	intervention
+rogaine	intervention
+minoxigaine	intervention
+regoxidine	intervention
+minoxidil	intervention
+velpatasvir	intervention
+propionate	intervention
+sodium acetate	intervention
+sodium gluconate	intervention
+magnesium chloride	intervention
+acular	intervention
+acuvail	intervention
+sprix	intervention
+ketorolac	intervention
+idamycin	intervention
+idarubicin	intervention
+blincyto	intervention
+blinatumomab	intervention
+bosulif	intervention
+bosutinib	intervention
+triptodur	intervention
+trelstar	intervention
+triptorelin	intervention
+ampyra	intervention
+dalfampridine	intervention
+cimzia	intervention
+certolizumab pegol	intervention
+pomalyst	intervention
+pomalidomide	intervention
+onfi	intervention
+sympazan	intervention
+clobazam	intervention
+sivextro	intervention
+tedizolid	intervention
+lumefantrine	intervention
+amicar	intervention
+6-aminocaproic acid	intervention
+atacand	intervention
+candesartan	intervention
+methergine	intervention
+methylergonovine	intervention
+perjeta	intervention
+pertuzumab	intervention
+factive	intervention
+gemifloxacin	intervention
+xyzal	intervention
+levocetirizine	intervention
+inspra	intervention
+eplerenone	intervention
+proscar	intervention
+propecia	intervention
+finasteride	intervention
+hepsera	intervention
+adefovir	intervention
+namenda	intervention
+memantine	intervention
+tobacco leaf allergenic extract	intervention
+arcalyst	intervention
+rilonacept	intervention
+cefprozil	intervention
+drospirenone	intervention
+mekinist	intervention
+trametinib	intervention
+revlimid	intervention
+lenalidomide	intervention
+lunesta	intervention
+eszopiclone	intervention
+zopiclone	intervention
+ansaid	intervention
+ocufen	intervention
+flurbiprofen	intervention
+tetraviv	intervention
+pontocaine	intervention
+tetcaine	intervention
+altacaine	intervention
+tetravisc	intervention
+numfast	intervention
+kovanaze	intervention
+tetracaine	intervention
+altace	intervention
+ramipril	intervention
+ceftaroline	intervention
+oleptro	intervention
+trazodone	intervention
+vanos	intervention
+fluocinonide	intervention
+isoptin	intervention
+calan	intervention
+verelan	intervention
+verapamil	intervention
+lavender extract	intervention
+cystagon	intervention
+procysbi	intervention
+cystaran	intervention
+cystadrops	intervention
+cysteamine	intervention
+rotarix	intervention
+rotavirus vaccine, live attenuated, g1p[8] human 89-12 strain	intervention
+savella	intervention
+milnacipran	intervention
+zomig	intervention
+zolmitriptan	intervention
+nucynta	intervention
+tapentadol	intervention
+ledipasvir	intervention
+nuzyra	intervention
+omadacycline	intervention
+relpax	intervention
+eletriptan	intervention
+ventavis	intervention
+iloprost	intervention
+paromomycin	intervention
+bictegravir	intervention
+tasigna	intervention
+nilotinib	intervention
+tagamet	intervention
+cimetidine	intervention
+glucotrol	intervention
+glipizide	intervention
+urso	intervention
+ursodeoxycholate	intervention
+zinecard	intervention
+totect	intervention
+dexrazoxane	intervention
+ultiva	intervention
+remifentanil	intervention
+thymoglobulin	intervention
+lymphocyte immune globulin, anti-thymocyte globulin	intervention
+intelence	intervention
+etravirine	intervention
+galafold	intervention
+migalastat	intervention
+nucala	intervention
+mepolizumab	intervention
+mavenclad	intervention
+cladribine	intervention
+ginseng preparation	intervention
+taurine	intervention
+lexette	intervention
+bryhali	intervention
+gentian preparation	intervention
+barhemsys	intervention
+amisulpride	intervention
+citrulline	intervention
+alfenta	intervention
+alfentanil	intervention
+gleevec	intervention
+imatinib	intervention
+azactam	intervention
+cayston	intervention
+aztreonam	intervention
+nivestym	intervention
+neupogen	intervention
+granix	intervention
+zarxio	intervention
+filgrastim	intervention
+xtandi	intervention
+enzalutamide	intervention
+goprelto	intervention
+numbrino	intervention
+cocaine	intervention
+hydromet	intervention
+prolex dh	intervention
+tussigon	intervention
+hydron ex	intervention
+de-chlor nx	intervention
+hy-kxp	intervention
+hydron kgs	intervention
+tussionex	intervention
+kgs hc	intervention
+tussicaps	intervention
+hycodan	intervention
+zohydro	intervention
+hysingla	intervention
+hydrocodone	intervention
+baloxavir	intervention
+buckwheat allergenic extract	intervention
+equol, (-)-	intervention
+afinitor	intervention
+zortress	intervention
+everolimus	intervention
+seromycin	intervention
+cycloserine	intervention
+vyndamax	intervention
+vyndaqel	intervention
+tafamidis	intervention
+rash relief antibacterial	intervention
+baci-im	intervention
+baciguent	intervention
+polycin	intervention
+polysporin	intervention
+bacitraycin plus	intervention
+bacitracin	intervention
+halcion	intervention
+triazolam	intervention
+aliskiren	intervention
+ceftolozane	intervention
+belsomra	intervention
+suvorexant	intervention
+avapro	intervention
+irbesartan	intervention
+proleukin	intervention
+aldesleukin	intervention
+boniva	intervention
+ibandronate	intervention
+eraxis	intervention
+anidulafungin	intervention
+xyntha	intervention
+quadramet	intervention
+samarium sm153	intervention
+fabrazyme	intervention
+agalsidase beta	intervention
+chloroquine	intervention
+asclera	intervention
+varithena	intervention
+polidocanol	intervention
+xerava	intervention
+eravacycline	intervention
+molindone	intervention
+alkeran	intervention
+evomela	intervention
+melphalan	intervention
+istodax	intervention
+romidepsin	intervention
+ilaris	intervention
+canakinumab	intervention
+cordarone	intervention
+pacerone	intervention
+nexterone	intervention
+amiodarone	intervention
+dexilant	intervention
+dexlansoprazole	intervention
+bleomycin	intervention
+rocaltrol	intervention
+vectical	intervention
+calcitriol	intervention
+brovana	intervention
+arformoterol	intervention
+phospholipids	intervention
+mielim y mas	intervention
+dayquil cough	intervention
+babee cof	intervention
+scot-tussin dm cough chasers	intervention
+delsym	intervention
+elixsure cough	intervention
+buckleys mixture	intervention
+creomulsion	intervention
+zicam cough	intervention
+robafen cough	intervention
+scot-tussin diabetic cf	intervention
+buckley's cough suppressant	intervention
+dextromethorphan	intervention
+zovirax	intervention
+sitavig	intervention
+acyclovir	intervention
+biaxin	intervention
+clarithromycin	intervention
+differin	intervention
+epiduo	intervention
+plixda	intervention
+adapalene	intervention
+fusilev	intervention
+khapzory	intervention
+levoleucovorin	intervention
+garlic preparation	intervention
+biguanide	intervention
+rozerem	intervention
+ramelteon	intervention
+cerdelga	intervention
+eliglustat	intervention
+echinacea preparation	intervention
+agrylin	intervention
+anagrelide	intervention
+symlin	intervention
+pramlintide	intervention
+maltodextrin	intervention
+haemophilus influenzae type b	intervention
+icariin	intervention
+lanoxin	intervention
+digitek	intervention
+digox	intervention
+digoxin	intervention
+marinol	intervention
+syndros	intervention
+dronabinol	intervention
+canineaid	intervention
+felineaid	intervention
+equineaid	intervention
+swineaid	intervention
+arginine	intervention
+dopamine	intervention
+artemisinin	intervention
+sulindac	intervention
+digitoxin	intervention
+victoza	intervention
+saxenda	intervention
+xultophy	intervention
+liraglutide	intervention
+piperacillin	intervention
+corn allergenic extract	intervention
+lexapro	intervention
+escitalopram	intervention
+norethindrone	intervention
+cotellic	intervention
+cobimetinib	intervention
+citanest	intervention
+prilocaine	intervention
+soliris	intervention
+eculizumab	intervention
+persantine	intervention
+osmitrol	intervention
+resectisol	intervention
+mannitol	intervention
+dysport	intervention
+florbetapir	intervention
+dasabuvir	intervention
+ella	intervention
+ulipristal	intervention
+ranexa	intervention
+ranolazine	intervention
+ecoderm	intervention
+dove dermaseries eczema	intervention
+eucerin eczema relief	intervention
+theraplex eczema therapy	intervention
+after-bug	intervention
+colloidal oatmeal	intervention
+apokyn	intervention
+apomorphine	intervention
+emend injection	intervention
+fosaprepitant	intervention
+cefazolin	intervention
+tryptophan	intervention
+zostavax	intervention
+beleodaq	intervention
+belinostat	intervention
+orilissa	intervention
+elagolix	intervention
+raspberry extract	intervention
+monurol	intervention
+fosfomycin	intervention
+pulmozyme	intervention
+dornase alfa	intervention
+colgate	intervention
+sodium fluoride	intervention
+stendra	intervention
+avanafil	intervention
+hycamtin	intervention
+topotecan	intervention
+elbasvir	intervention
+ganirelix	intervention
+clolar	intervention
+clofarabine	intervention
+tysabri	intervention
+natalizumab	intervention
+strattera	intervention
+atomoxetine	intervention
+hybrisil	intervention
+medrol	intervention
+solu-medrol	intervention
+a-methapred	intervention
+depo-medrol	intervention
+methylprednisolone	intervention
+prandin	intervention
+repaglinide	intervention
+apidra	intervention
+insulin glulisine, human	intervention
+xanax	intervention
+alprazolam	intervention
+polydextrose	intervention
+actigall	intervention
+urso forte	intervention
+gocovri	intervention
+osmolex	intervention
+amantadine	intervention
+tomato allergenic extract	intervention
+minipress	intervention
+prazosin	intervention
+pharmaseb	intervention
+nizoral	intervention
+kuric	intervention
+xolegel	intervention
+extina	intervention
+t8 keto flush	intervention
+ketodan	intervention
+ketoconazole	intervention
+pirinitramide	intervention
+engerix-b	intervention
+baxdela	intervention
+delafloxacin	intervention
+diethylcarbamazine	intervention
+humatrope	intervention
+norditropin	intervention
+saizen	intervention
+nutropin	intervention
+zorbtive	intervention
+omnitrope	intervention
+zomacton	intervention
+campath	intervention
+alemtuzumab	intervention
+fluorodeoxyglucose f18	intervention
+gadoteridol	intervention
+terazol 3	intervention
+terazol 7	intervention
+terconazole	intervention
+tikosyn	intervention
+dofetilide	intervention
+invanz	intervention
+ertapenem	intervention
+declomycin	intervention
+demeclocycline	intervention
+soothe & cool powder	intervention
+mexsana	intervention
+corn starch	intervention
+air	intervention
+pifeltro	intervention
+doravirine	intervention
+avibactam	intervention
+radium	intervention
+fiber	intervention
+diamox	intervention
+acetazolamide	intervention
+spravato	intervention
+esketamine	intervention
+jinteli	intervention
+jevantique	intervention
+aygestin	intervention
+femhrt	intervention
+fyavolv	intervention
+emgality	intervention
+galcanezumab	intervention
+pertussis vaccine	intervention
+gadofosveset	intervention
+zometa	intervention
+zoledronic acid	intervention
+poliovirus	intervention
+ninlaro	intervention
+ixazomib	intervention
+lanthanum	intervention
+cometriq	intervention
+cabometyx	intervention
+cabozantinib	intervention
+dexedrine	intervention
+dextroamphetamine	intervention
+gluconate	intervention
+ubrelvy	intervention
+ubrogepant	intervention
+varivax	intervention
+trichloroacetaldehyde	intervention
+mesnex	intervention
+mesna	intervention
+clozaril	intervention
+fazaclo	intervention
+versacloz	intervention
+clozapine	intervention
+maalox	intervention
+aluminum hydroxide	intervention
+magnesium hydroxide	intervention
+corvert	intervention
+ibutilide	intervention
+apple extract	intervention
+valchlor	intervention
+mechlorethamine	intervention
+nicorandil	intervention
+nitrate ion	intervention
+gliadel	intervention
+bicnu	intervention
+carmustine	intervention
+krystexxa	intervention
+pegloticase	intervention
+zurampic	intervention
+lesinurad	intervention
+yutiq	intervention
+synalar	intervention
+capex	intervention
+derma-smoothe fs	intervention
+retisert	intervention
+dermotic	intervention
+synotic	intervention
+iluvien	intervention
+flac	intervention
+fluocinolone	intervention
+lemtrada	intervention
+natacyn	intervention
+natamycin	intervention
+acamprosate	intervention
+dojolvi	intervention
+triheptanoin	intervention
+citrate	intervention
+dopram	intervention
+doxapram	intervention
+nitrite ion	intervention
+farydak	intervention
+panobinostat	intervention
+zymar	intervention
+zymaxid	intervention
+gatifloxacin	intervention
+mint extract	intervention
+oxervate	intervention
+cenegermin	intervention
+cidaflex	intervention
+cosamin	intervention
+schiff	intervention
+optiflex-g	intervention
+synovacin	intervention
+tripleflex	intervention
+novipet magic bites	intervention
+osteo bi-flex	intervention
+glucosamine	intervention
+aptiom	intervention
+eslicarbazepine	intervention
+maleate	intervention
+levaquin	intervention
+levofloxacin	intervention
+dry clox	intervention
+cloxacillin	intervention
+myalept	intervention
+metreleptin	intervention
+natrecor	intervention
+nesiritide	intervention
+veltassa	intervention
+patiromer	intervention
+sancuso	intervention
+sustol	intervention
+granisetron	intervention
+glycine	intervention
+nexavir	intervention
+liver extract	intervention
+alcaine	intervention
+flucaine	intervention
+fluoracaine	intervention
+proparacaine	intervention
+strontium	intervention
+intuniv	intervention
+guanfacine	intervention
+frova	intervention
+frovatriptan	intervention
+calcitrene	intervention
+sorilux	intervention
+lactate	intervention
+icodextrin	intervention
+calcium chloride	intervention
+constulose	intervention
+enulose	intervention
+generlac	intervention
+kristalose	intervention
+lactulose	intervention
+levomefolate	intervention
+ocrevus	intervention
+ocrelizumab	intervention
+interceptor plus	intervention
+biltricide	intervention
+droncit	intervention
+profender	intervention
+drontal plus	intervention
+drontal	intervention
+equimax	intervention
+triple wormer	intervention
+zimecterin gold	intervention
+sentry hc worm x plus	intervention
+sentinel spectrum	intervention
+quest plus	intervention
+virbantel	intervention
+iverhart	intervention
+centragard	intervention
+praziquantel	intervention
+stivarga	intervention
+regorafenib	intervention
+azilect	intervention
+rasagiline	intervention
+valbazen	intervention
+albenza	intervention
+albendazole	intervention
+limbitrol	intervention
+elavil	intervention
+amitriptyline	intervention
+vasotec	intervention
+epaned	intervention
+enalapril	intervention
+gynazole-1	intervention
+butoconazole	intervention
+licorice allergenic extract	intervention
+annovera	intervention
+xulane	intervention
+ethinyl estradiol	intervention
+lincocin	intervention
+lincomed	intervention
+lincobac	intervention
+lincomycin	intervention
+arlex	intervention
+sorbitol	intervention
+mentax	intervention
+butenafine	intervention
+theo-24	intervention
+elixophyllin	intervention
+theophylline	intervention
+oxaloacetate	intervention
+carnosine	intervention
+attane	intervention
+terrell	intervention
+forane	intervention
+isoflo	intervention
+fluriso	intervention
+isosol	intervention
+isoflurane	intervention
+tolbutamide	intervention
+provenge	intervention
+sipuleucel-t	intervention
+megace	intervention
+megestrol	intervention
+novolog	intervention
+insulin aspart, human	intervention
+quinacrine	intervention
+thimerosal	intervention
+afrin	intervention
+allerest 12 hour nasal spray	intervention
+duramist plus	intervention
+four-way	intervention
+neo-synephrine 12 hour	intervention
+nostrilla	intervention
+sinex long-acting	intervention
+zicam sinus relief	intervention
+dristan 12-hour nasal spray	intervention
+sudafed om	intervention
+qlearquil nasal decongestant	intervention
+sinufrin plus	intervention
+rhofade	intervention
+upneeq	intervention
+oxymetazoline	intervention
+benzamycin	intervention
+ery-tab	intervention
+erygel	intervention
+eryped	intervention
+emgel	intervention
+theramycin	intervention
+eyemycin	intervention
+emcin clear	intervention
+erythrocin	intervention
+erythrocin stearate	intervention
+ery	intervention
+pce	intervention
+e.e.s.	intervention
+maracyn	intervention
+aktipak	intervention
+erythromycin	intervention
+monoket	intervention
+isosorbide	intervention
+bexsero	intervention
+meningococcal group b vaccine	intervention
+taltz	intervention
+ixekizumab	intervention
+firazyr	intervention
+icatibant	intervention
+xpovio	intervention
+selinexor	intervention
+rinvoq	intervention
+upadacitinib	intervention
+trimetazidine	intervention
+heartgard	intervention
+heartgard plus	intervention
+agrimectin	intervention
+stromectol	intervention
+eqvalan	intervention
+zimecterin	intervention
+bimectin	intervention
+ivermax	intervention
+noromectin	intervention
+noromectin plus	intervention
+vetrimec	intervention
+ivermax plus	intervention
+vetrimec plus	intervention
+agri-mectin	intervention
+ivomec	intervention
+ivercare	intervention
+promectin	intervention
+privermectin	intervention
+tri-heart plus	intervention
+duramectin	intervention
+soolantra	intervention
+sklice	intervention
+bimectin plus	intervention
+ivermectin	intervention
+epidiolex	intervention
+cannabidiol	intervention
+fructose	intervention
+gabitril	intervention
+tiagabine	intervention
+banzel	intervention
+rufinamide	intervention
+esoterica	intervention
+lustra	intervention
+melpaque hp	intervention
+melquin hp	intervention
+melquin-3	intervention
+nuquin hp	intervention
+epiquin micro	intervention
+alera	intervention
+remergent hq	intervention
+melamin	intervention
+neova complex hq plus	intervention
+hydroquinone	intervention
+seysara	intervention
+sarecycline	intervention
+ascorbate	intervention
+tasmar	intervention
+tolcapone	intervention
+valium	intervention
+diastat	intervention
+valtoco	intervention
+diazepam	intervention
+folotyn	intervention
+pralatrexate	intervention
+tekturna	intervention
+indigo	intervention
+encora capsule	intervention
+linoleate	intervention
+flumadine	intervention
+rimantadine	intervention
+olumiant	intervention
+baricitinib	intervention
+linzess	intervention
+linaclotide	intervention
+jakafi	intervention
+ruxolitinib	intervention
+serine	intervention
+tropisetron	intervention
+cytosine	intervention
+salmon allergenic extract	intervention
+succinate	intervention
+indocin	intervention
+tivorbex	intervention
+indomethacin	intervention
+thiamine	intervention
+alecensa	intervention
+alectinib	intervention
+ajovy	intervention
+fremanezumab	intervention
+thrombate iii	intervention
+atryn	intervention
+antithrombin iii	intervention
+dhe-45	intervention
+aloxi	intervention
+akynzeo	intervention
+palonosetron	intervention
+invirase	intervention
+saquinavir	intervention
+vermox	intervention
+emverm	intervention
+mebendazole	intervention
+bromelains	intervention
+sprycel	intervention
+dasatinib	intervention
+grape extract	intervention
+chorionic gonadotropin	intervention
+alfacalcidol	intervention
+rifadin	intervention
+rifampin	intervention
+qs-21	intervention
+bafiertam	intervention
+monomethyl fumarate	intervention
+mevacor	intervention
+altoprev	intervention
+lovastatin	intervention
+desogestrel	intervention
+doribax	intervention
+doripenem	intervention
+edurant	intervention
+rilpivirine	intervention
+acthib	intervention
+jynneos	intervention
+vaccinia virus	intervention
+vistaril	intervention
+hydroxyzine	intervention
+kinevac	intervention
+sincalide	intervention
+levocabastine	intervention
+mutamycin	intervention
+mitosol	intervention
+jelmyto	intervention
+mitomycin	intervention
+forteo	intervention
+teriparatide	intervention
+bismuth	intervention
+collagen	intervention
+mestinon	intervention
+regonol	intervention
+pyridostigmine	intervention
+diacetylrhein	intervention
+denavir	intervention
+penciclovir	intervention
+brevibloc	intervention
+esmolol	intervention
+gardasil	intervention
+l1 protein, human papillomavirus type 11 vaccine	intervention
+l1 protein, human papillomavirus type 16 vaccine	intervention
+l1 protein, human papillomavirus type 18 vaccine	intervention
+l1 protein, human papillomavirus type 6 vaccine	intervention
+makena	intervention
+17-alpha-hydroxyprogesterone	intervention
+leukine	intervention
+sargramostim	intervention
+glucomannan	intervention
+multaq	intervention
+dronedarone	intervention
+exjade	intervention
+jadenu	intervention
+deferasirox	intervention
+chlor-trimeton	intervention
+aller-chlor	intervention
+chlo-amine	intervention
+tannic-12 s	intervention
+c-tanna 12	intervention
+wal-finate	intervention
+chlortan	intervention
+fluorine	intervention
+leptin	intervention
+isavuconazole	intervention
+retrovir	intervention
+matrix	intervention
+altrenogest	intervention
+myfortic	intervention
+mycophenolic acid	intervention
+oats preparation	intervention
+carni q-gel forte	intervention
+carnitor	intervention
+levocarnitine	intervention
+azo urinary pain relief	intervention
+baridium	intervention
+re-azo	intervention
+prodium	intervention
+uristat	intervention
+uricalm	intervention
+pyridium	intervention
+phenazopyridine	intervention
+kcentra	intervention
+prothrombin	intervention
+carospir	intervention
+aldactone	intervention
+spironolactone	intervention
+fetzima	intervention
+levomilnacipran	intervention
+bavencio	intervention
+avelumab	intervention
+thrombin-jmi	intervention
+evithrom	intervention
+recothrom	intervention
+methacholine	intervention
+glutathione	intervention
+fluvoxamine	intervention
+imovax	intervention
+rabies virus vaccine wistar strain pm-1503-3m (human), inactivated	intervention
+byfavo	intervention
+remimazolam	intervention
+defitelio	intervention
+defibrotide	intervention
+iodine i-131	intervention
+cilastatin	intervention
+panretin	intervention
+alitretinoin	intervention
+carbidopa	intervention
+tootsweet	intervention
+sucrose	intervention
+keflex	intervention
+rilexine	intervention
+daxbia	intervention
+cephalexin	intervention
+motegrity	intervention
+prucalopride	intervention
+zontivity	intervention
+vorapaxar	intervention
+demadex	intervention
+torsemide	intervention
+naftin	intervention
+naftifine	intervention
+xenical	intervention
+orlistat	intervention
+cyclodextrins	intervention
+macimorelin	intervention
+nadroparin	intervention
+fuzeon	intervention
+enfuvirtide	intervention
+ambroxol	intervention
+vasoflex d1	intervention
+diosmin	intervention
+soybean preparation	intervention
+galactose	intervention
+chew q	intervention
+q-gel	intervention
+q-gel with lipoic acid	intervention
+liq-10	intervention
+q-up	intervention
+h2q	intervention
+liqsorb	intervention
+quinzyme	intervention
+q-sorb co q-10	intervention
+neoq10	intervention
+ubidecarenone	intervention
+bilberry extract	intervention
+sulfadoxine	intervention
+pyrimethamine	intervention
+zestril	intervention
+prinivil	intervention
+qbrelis	intervention
+lisinopril	intervention
+aloe vera preparation	intervention
+netupitant	intervention
+catechin	intervention
+sylvant	intervention
+siltuximab	intervention
+evoxac	intervention
+cevimeline	intervention
+legacy	intervention
+gentak	intervention
+gentaved 100	intervention
+garasol	intervention
+gentamicin	intervention
+peginesatide	intervention
+epigallocatechin gallate	intervention
+prostin vr	intervention
+edex	intervention
+caverject	intervention
+muse	intervention
+alprostadil	intervention
+quercetin	intervention
+trandate	intervention
+labetalol	intervention
+benefix	intervention
+factor ix	intervention
+charcoal	intervention
+lonsurf	intervention
+trifluridine	intervention
+tipiracil	intervention
+flaxseed extract	intervention
+midodrine	intervention
+noxafil	intervention
+posaconazole	intervention
+vyleesi	intervention
+bremelanotide	intervention
+vectibix	intervention
+panitumumab	intervention
+compazine	intervention
+compro	intervention
+prochlorperazine	intervention
+fragmin	intervention
+dalteparin	intervention
+conceptrol	intervention
+nonoxynol-9	intervention
+samarium	intervention
+euthasol	intervention
+dilantin	intervention
+phenytek	intervention
+beuthanasia	intervention
+phenytoin	intervention
+cosmegen	intervention
+dactinomycin	intervention
+osphena	intervention
+ospemifene	intervention
+emcyt	intervention
+estramustine	intervention
+phytosterols	intervention
+pomegranate fruit extract	intervention
+loteprednol	intervention
+tambocor	intervention
+flecainide	intervention
+sapanisertib	intervention
+keppra	intervention
+elepsia	intervention
+roweepra	intervention
+spritam	intervention
+levetiracetam	intervention
+nuplazid	intervention
+pimavanserin	intervention
+ovadine	intervention
+prevail-fx	intervention
+betadine	intervention
+clinidine	intervention
+efodine	intervention
+iodex	intervention
+summer's eve medicated	intervention
+loris	intervention
+dermawound	intervention
+e-z scrub povidone iodine	intervention
+biozide	intervention
+poviderm	intervention
+povidone-iodine	intervention
+telbivudine	intervention
+interferon-beta	intervention
+imodium	intervention
+diamode	intervention
+imodium advanced	intervention
+imodium multi-symptom relief	intervention
+loperamide	intervention
+ridaura	intervention
+auranofin	intervention
+myambutol	intervention
+ethambutol	intervention
+kalbitor	intervention
+ecallantide	intervention
+viberzi	intervention
+eluxadoline	intervention
+mustargen	intervention
+ifex	intervention
+ifosfamide	intervention
+klonopin	intervention
+clonazepam	intervention
+gamunex	intervention
+amlexanox	intervention
+xiaflex	intervention
+collagenase clostridium histolyticum	intervention
+somavert	intervention
+pegvisomant	intervention
+adempas	intervention
+riociguat	intervention
+interleukin-6	intervention
+elitek	intervention
+rasburicase	intervention
+hylan	intervention
+ceraxon	intervention
+citicoline	intervention
+phenergan	intervention
+promethegan	intervention
+phenadoz	intervention
+promethazine	intervention
+univasc	intervention
+moexipril	intervention
+phenobarbital	intervention
+chlorthalidone	intervention
+natpara	intervention
+parathyroid hormone	intervention
+enlon-plus	intervention
+lonox	intervention
+motofen	intervention
+lomotil	intervention
+atropen	intervention
+duodote	intervention
+isopto atropine	intervention
+atropine	intervention
+yocon	intervention
+yobine	intervention
+yohimbine	intervention
+inosine	intervention
+metamucil clear & natural	intervention
+fiber choice	intervention
+fiber choice weight management	intervention
+inulin	intervention
+nesacaine	intervention
+clorotekal	intervention
+chloroprocaine	intervention
+cubicin	intervention
+daptomycin	intervention
+breath-away	intervention
+crest mouthwash	intervention
+cepacol antibacterial mouthwash	intervention
+act advanced care	intervention
+colgate total mouthwash	intervention
+duocare clinical	intervention
+cetylpyridinium	intervention
+salagen	intervention
+pilocar	intervention
+isoptocarpine	intervention
+pilocarpine	intervention
+takhzyro	intervention
+lanadelumab	intervention
+xiidra	intervention
+lifitegrast	intervention
+amorolfine	intervention
+pradaxa	intervention
+dabigatran etexilate	intervention
+lopid	intervention
+gemfibrozil	intervention
+silicon	intervention
+carbomer	intervention
+adagen	intervention
+pegademase bovine	intervention
+siliq	intervention
+brodalumab	intervention
+lac-hydrin	intervention
+angiomax	intervention
+bivalirudin	intervention
+systane	intervention
+propylene glycol	intervention
+polyethylene glycol 400	intervention
+visudyne	intervention
+verteporfin	intervention
+phosphatidylserine	intervention
+nplate	intervention
+romiplostim	intervention
+bet-r-prep	intervention
+dulcolax	intervention
+bisac-evac	intervention
+bisco-lax	intervention
+carters little pills	intervention
+correct (new formula)	intervention
+the magic bullet	intervention
+ex-lax ultra	intervention
+veracolate	intervention
+alophen reformulated jan 2008	intervention
+evac-u-gen reformulated jan 2008	intervention
+feen-a-mint reformulated jan 2008	intervention
+correctol laxative reformulated feb 2008	intervention
+ez2go stimu-lax tablet	intervention
+bisacodyl	intervention
+duavee	intervention
+bazedoxifene	intervention
+aceon	intervention
+perindopril	intervention
+calcidol	intervention
+drisdol	intervention
+ergocalciferol	intervention
+aerospan	intervention
+flunisolide	intervention
+purixan	intervention
+mercaptopurine	intervention
+fexmid	intervention
+amrix	intervention
+cyclobenzaprine	intervention
+chirhostim	intervention
+secretin human, synthetic	intervention
+nimbex	intervention
+cisatracurium	intervention
+gleostine	intervention
+lomustine	intervention
+vitamin e	intervention
+pregnitude	intervention
+inositol	intervention
+trileptal	intervention
+oxtellar	intervention
+oxcarbazepine	intervention
+sucralose	intervention
+purelax	intervention
+gentlelax	intervention
+healthylax	intervention
+glycolax	intervention
+gavilax	intervention
+clearlax	intervention
+ez2go osmotic	intervention
+codfish allergenic extract	intervention
+tiadylt	intervention
+matzim	intervention
+cardizem	intervention
+tiazac	intervention
+taztia	intervention
+cartia	intervention
+dilt	intervention
+diltzac	intervention
+diltiazem	intervention
+actidose	intervention
+activated charcoal	intervention
+livalo	intervention
+zypitamag	intervention
+pitavastatin	intervention
+levemir	intervention
+insulin detemir	intervention
+xenleta	intervention
+lefamulin	intervention
+stamaril	intervention
+yellow fever virus strain 17d-204 live antigen	intervention
+gallium	intervention
+bumex	intervention
+bumetanide	intervention
+lamisil	intervention
+silka cream	intervention
+terbinafine	intervention
+sunflower pollen extract	intervention
+emsam	intervention
+zelapar	intervention
+anipryl	intervention
+eldepryl	intervention
+selegiline	intervention
+veklury	intervention
+remdesivir	intervention
+imuran	intervention
+azasan	intervention
+azathioprine	intervention
+bloxiverz	intervention
+neostigmine	intervention
+leukeran	intervention
+chlorambucil	intervention
+mycobutin	intervention
+rifabutin	intervention
+genistein	intervention
+vaborbactam	intervention
+rotateq	intervention
+human-bovine reassortant rotavirus strain g1 vaccine	intervention
+human-bovine reassortant rotavirus strain g2 vaccine	intervention
+human-bovine reassortant rotavirus strain g3 vaccine	intervention
+human-bovine reassortant rotavirus strain g4 vaccine	intervention
+human-bovine reassortant rotavirus strain p1a[8] vaccine	intervention
+fetroja	intervention
+cefiderocol	intervention
+darzalex	intervention
+daratumumab	intervention
+nalmefene	intervention
+mexiletine	intervention
+loxoprofen	intervention
+ozone	intervention
+mango allergenic extract	intervention
+cefdinir	intervention
+novolog mix	intervention
+fiasp	intervention
+diflunisal	intervention
+acetylcarnitine	intervention
+chlorine	intervention
+evrysdi	intervention
+risdiplam	intervention
+lartruvo	intervention
+olaratumab	intervention
+mecasermin rinfabate	intervention
+tybost	intervention
+aquasol a	intervention
+vitamin a	intervention
+demerol	intervention
+meperidine	intervention
+cardene	intervention
+nicardipine	intervention
+nicoboxil	intervention
+piqray	intervention
+alpelisib	intervention
+pyrazinamide	intervention
+maltose	intervention
+alli	intervention
+cytisine	intervention
+olysio	intervention
+simeprevir	intervention
+milantex	intervention
+bicarsim	intervention
+ri-mag plus	intervention
+maldroxal maximum strength	intervention
+maalox plus	intervention
+almacone	intervention
+gas-x	intervention
+gas-x extra strength	intervention
+little tummys	intervention
+masanti	intervention
+mi-acid	intervention
+mintox plus	intervention
+mylicon	intervention
+mytab gas	intervention
+phazyme	intervention
+ri-mox plus	intervention
+gelusil	intervention
+gas aide	intervention
+gas-x with maalox	intervention
+maalox max	intervention
+maalox max quick dissolve	intervention
+mi-acid gas relief	intervention
+comfort gel	intervention
+titralac plus	intervention
+dulcogas	intervention
+phazyme gas & acid	intervention
+inon ace tablet	intervention
+ez2go zero	intervention
+tums with gas relief	intervention
+mylicon children's	intervention
+simethicone	intervention
+voxilaprevir	intervention
+efalizumab	intervention
+ativan	intervention
+lorazepam	intervention
+prolensa	intervention
+bromsite	intervention
+bromfenac	intervention
+focalin	intervention
+dexmethylphenidate	intervention
+egrifta	intervention
+tesamorelin	intervention
+kynmobi	intervention
+gadobenate	intervention
+bezafibrate	intervention
+suprax	intervention
+cefixime	intervention
+parsabiv	intervention
+etelcalcetide	intervention
+norgestimate	intervention
+interleukin-12	intervention
+cycloset	intervention
+bromocriptine	intervention
+selenomethionine	intervention
+iodixanol	intervention
+targretin	intervention
+bexarotene	intervention
+dichlorobenzene	intervention
+advate	intervention
+parecoxib	intervention
+zykadia	intervention
+ceritinib	intervention
+lycopene	intervention
+nebupent	intervention
+pentam	intervention
+pentamidine	intervention
+cabergoline	intervention
+benazepril	intervention
+finacea	intervention
+azelate	intervention
+soriatane	intervention
+acitretin	intervention
+nerve growth factor	intervention
+sonata	intervention
+zaleplon	intervention
+ethylenediamine	intervention
+pedvaxhib	intervention
+haemophilus influenzae b (ross strain) capsular polysaccharide meningococcal protein conjugate vaccine	intervention
+bio-statin	intervention
+nystop	intervention
+nyamyc	intervention
+nystatin	intervention
+phleum pratense top extract	intervention
+mucilin	intervention
+wal-mucil	intervention
+konsyl	intervention
+hydrocil	intervention
+reguloid	intervention
+metamucil	intervention
+psyllium	intervention
+perflutren	intervention
+fycompa	intervention
+perampanel	intervention
+sensi-care body	intervention
+moistureworx	intervention
+corona udder butter	intervention
+aquaphor	intervention
+critic-aid clear moisture	intervention
+stye	intervention
+baza clear	intervention
+cloverine	intervention
+lubrifresh p.m.	intervention
+tears again ointment	intervention
+altalube	intervention
+dermaphor	intervention
+tears naturale pm	intervention
+rash relief clear	intervention
+puralube	intervention
+akwa tears	intervention
+ilex skin	intervention
+moisturel	intervention
+uni salve	intervention
+vaseline	intervention
+desitin clear	intervention
+a+d original	intervention
+sayman salve	intervention
+resinol	intervention
+soothe & cool moisture barrier	intervention
+systane nighttime	intervention
+dermafix	intervention
+dr. smith's rash-n-all	intervention
+aloe vesta protective barrier	intervention
+welmedix homecare pro	intervention
+welmedix homecare pro fragile skin	intervention
+sensi-care protective barrier	intervention
+balmex ointment	intervention
+dr. smith's rash and skin	intervention
+supraderm	intervention
+z-guard	intervention
+lantiseptic protective	intervention
+soothe night time	intervention
+soothe & cool skin paste	intervention
+arumacil	intervention
+dermacerin	intervention
+diaprex	intervention
+carmex moisturizing	intervention
+petrolatum	intervention
+levophed	intervention
+norepinephrine	intervention
+orange allergenic extract	intervention
+zelboraf	intervention
+vemurafenib	intervention
+talzenna	intervention
+talazoparib	intervention
+lotensin	intervention
+paragard	intervention
+copper	intervention
+horseman's dream fung-a-way	intervention
+readybath	intervention
+clean force	intervention
+digisan e foam	intervention
+keystone	intervention
+whiskcare 377	intervention
+zephiran	intervention
+safeguard antibacterial foaming	intervention
+pheneen	intervention
+releev cold sore	intervention
+mane 'n tail pro-tect	intervention
+pronto plus lice egg remover	intervention
+softsoap antibacterial	intervention
+sani-hands basics	intervention
+abridge maximum strength cold sore	intervention
+lysol no-touch hand soap	intervention
+servo stat bac	intervention
+sentry anti-itch	intervention
+lite 'n foamy	intervention
+petarmor anti-itch	intervention
+fung-a-way	intervention
+mertodol	intervention
+shing-releev	intervention
+veteran shield 24	intervention
+revitaderm wound care	intervention
+benzalkonium	intervention
+tums	intervention
+calcium carbonate	intervention
+mosapride	intervention
+lodosyn	intervention
+isuprel	intervention
+isoproterenol	intervention
+lotemax	intervention
+loteprednol etabonate	intervention
+empliciti	intervention
+elotuzumab	intervention
+iobitridol	intervention
+nurtec	intervention
+rimegepant	intervention
+rna	intervention
+spinraza	intervention
+nusinersen	intervention
+flurazepam	intervention
+opana	intervention
+oxymorphone	intervention
+evista	intervention
+raloxifene	intervention
+addyi	intervention
+flibanserin	intervention
+cydectin	intervention
+proheart 6	intervention
+advantage multi	intervention
+proheart	intervention
+simparica trio	intervention
+moxidectin	intervention
+intralipid	intervention
+soybean oil	intervention
+tegsedi	intervention
+inotersen	intervention
+kengreal	intervention
+cangrelor	intervention
+aquasol e	intervention
+aquavite-e	intervention
+carrageenan	intervention
+pregnyl	intervention
+wheat preparation	intervention
+xospata	intervention
+gilteritinib	intervention
+infasurf	intervention
+calfactant	intervention
+lactoferrin	intervention
+entereg	intervention
+alvimopan	intervention
+hectorol	intervention
+doxercalciferol	intervention
+technetium tc 99m sestamibi	intervention
+tabloid	intervention
+thioguanine	intervention
+prevymis	intervention
+letermovir	intervention
+ecoza	intervention
+econazole	intervention
+pentoxifylline	intervention
+iopamidol	intervention
+aprotinin	intervention
+spirulina	intervention
+alocril	intervention
+nedocromil	intervention
+vaxchora	intervention
+vibrio cholerae cvd 103-hgr strain live antigen	intervention
+myobloc	intervention
+botulinum toxin type b	intervention
+nafcillin	intervention
+cinqair	intervention
+reslizumab	intervention
+amidate	intervention
+etomidate	intervention
+hizentra	intervention
+verzenio	intervention
+abemaciclib	intervention
+ibsrela	intervention
+tenapanor	intervention
+antabuse	intervention
+disulfiram	intervention
+mouse	species
+mice	species
+rat	species
+rats	species
+monkey	species
+monkeys	species
+primate	species
+primates	species
+dog	species
+dogs	species
+cat	species
+cats	species
+pig	species
+pigs	species
+horse	species
+horses	species
+Collagen?induced arthritis	induction
+DBA/1	strain
+rheumatoid arthritis	disease
+collagen?antibody?induced arthritis	induction
+Zymosan?induced arthritis	induction
+Antigen?induced arthritis	induction
+adjuvant?induced arthritis	induction
+skg	strain
+streptococcal cell wall	induction
+COX inhibitor	MoA
+Anti-CD20	MoA
+Anti-TNF	MoA
+Anti-CD80	MoA
+Dual COX/LT inhibitor	MoA
+TACE inhibitor	MoA
+NSAID	MoA
+DMARD	MoA
+MMP inhibitor	MoA
+ICE inhibitor	MoA

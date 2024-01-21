@@ -1,0 +1,19 @@
+Rheumatoid arthritis (RA) is a chronic autoimmune inflammatory disease. Gallium 
+nitrate has been reported to reserve immunosuppressive activities. Therefore, we 
+assessed the therapeutic effects of gallium nitrate in the mouse model of 
+developed type II collagen-induced arthritis (CIA). CIA was induced by bovine 
+type II collagen with Complete Freund's adjuvant. CIA mice were 
+intraperitoneally treated from day 36 to day 49 after immunization with 
+3.5mg/kg/day, 7mg/kg/day gallium nitrate or vehicle. Gallium nitrate ameliorated 
+the progression of mice with CIA. The clinical symptoms of collagen-induced 
+arthritis did not progress after treatment with gallium nitrate. Gallium nitrate 
+inhibited the increase of CD4(+) T cell populations (p<0.05) and also inhibited 
+the type II collagen-specific IgG2a-isotype autoantibodies (p<0.05). Gallium 
+nitrate reduced the serum levels of TNF-α, IL-6 and IFN-γ (p<0.05) and the mRNA 
+expression levels of these cytokine and MMPs (MMP2 and MMP9) in joint tissues. 
+Western blotting of members of the NF-κB signaling pathway revealed that gallium 
+nitrate inhibits the activation of NF-κB by blocking IκB degradation. These data 
+suggest that gallium nitrate is a potential therapeutic agent for autoimmune 
+inflammatory arthritis through its inhibition of the NF-κB pathway, and these 
+results may help to elucidate gallium nitrate-mediated mechanisms of 
+immunosuppression in patients with RA.

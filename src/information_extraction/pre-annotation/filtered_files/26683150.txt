@@ -1,0 +1,18 @@
+B-cell depletion therapy has beneficial effects in autoimmune diseases. This is 
+only partly explained by an elimination of autoantibodies. How does B-cell 
+depletion improve disease? Here, we review preclinical studies showing that B 
+cells can propagate autoimmune disorders through cytokine production. We also 
+highlight clinical observations indicating the relevance of these B-cell 
+functions in human autoimmunity. Abnormalities in B-cell cytokine production 
+have been observed in rheumatoid arthritis, multiple sclerosis, inflammatory 
+bowel disease, and systemic lupus erythematosus. In the first two diseases, 
+B-cell depletion erases these abnormalities, and improves disease progression, 
+suggesting a causative role for defective B-cell cytokine expression in disease 
+pathogenesis. However, in the last two disorders, the pathogenic role of B cells 
+and the effect of B-cell depletion on cytokine-producing B cells remain to be 
+clarified. A better characterization of cytokine-expressing human B-cell 
+subsets, and their modulation by B cell-targeted therapies might help 
+understanding both the successes and failures of current B cell-targeted 
+approaches. This may even lead to the development of novel strategies to deplete 
+or amplify selectively pathogenic or protective subsets, respectively, which 
+might be more effective than global depletion of the B-cell compartment.

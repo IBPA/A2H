@@ -1,0 +1,17 @@
+Rheumatoid arthritis (RA) is a chronic inflammatory autoimmune disease, and 
+multiple inflammatory cytokines are involved in RA pathogenesis. Interleukin 
+(IL)-18, in particular, has a significant positive correlation with RA. In this 
+study, we investigated the effect of erythroid differentiation regulator 1 
+(Erdr1), which is negatively regulated by IL-18, in an animal model of 
+inflammatory arthritis, collagen-induced arthritis (CIA) in DBA/1J mice. 
+Treatment of mice with recombinant (r)Erdr1 significantly suppressed the 
+severity of arthritis, histologic features of arthritic tissue, and serum levels 
+of anti-collagen autoantibodies (IgG, IgG1, IgG2a and IgM) in CIA. In addition, 
+IL-18 expression was reduced in the affected synovium of rErdr1-treated mice. 
+Interestingly, Erdr1 treatment suppressed migration in contrast to the 
+pro-migratory effect of IL-18, indicating the therapeutic effects of Erdr1 on 
+CIA through inhibiting synovial fibroblast migration. In addition, Erdr1 
+inhibited activation of ERK1/2, a key signaling pathway in migration of various 
+cell types. Taken together, these data show that rErdr1 exerts therapeutic 
+effects on RA by inhibiting synovial fibroblast migration, suggesting that 
+rErdr1 treatment might be an effective therapeutic approach for RA.

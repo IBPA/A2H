@@ -1,0 +1,23 @@
+Rheumatoid arthritis (RA) is an autoimmune disease characterised by chronic 
+inflammation of the synovial joints, joint malformations, and disability. The 
+continuous use of conventional anti-inflammatory drugs is associated with severe 
+adverse effects. Grape seed proanthocyanidin extract (GSPE) is considered to 
+have protective effects against several diseases. In this study based on the 
+mouse adjuvant-induced-arthritis (AIA) model, we examined the effects of GSPE on 
+the key mediators of arthritic inflammation, namely T cell subsets, 
+glucocorticoid-induced tumour necrosis factor receptor (GITR) expressing cells, 
+CD4(+)CD25(+)Foxp3(+) regulatory T (Treg) cells, Th17 cells, Th1/Th2 cytokines, 
+and inflammatory mediator gene expression. We treated BALB/c mice with 25, 50, 
+or 100 mg/kg GSPE or saline daily (14 days) per orally (p.o.) at the onset of 
+AIA. At the peak phase of AIA (day 14), the heparinised whole blood and ankle 
+joints of all groups were collected and tested. GSPE-treated mice showed a 
+substantial reduction in the levels of T cell subsets, GITR-expressing cells, 
+and Th1 cytokines as well as the inflammatory mediators (MCP-1, MIP-2, and 
+ICAM-1) that induce them compared with the vehicle-treated (saline) and 
+arthritic mice. However, GSPE significantly upregulated the number of Tregs and 
+Th2 cytokine producing cell number or it also induced Th17/Treg rebalance and 
+orchestrated various pro-inflammatory and anti-inflammatory cytokines and the 
+gene expression of their mediators that mediate cellular infiltration into the 
+joints. This might, contribute to its anti-arthritic activity. Our results 
+suggest that p.o. treatment with GSPE attenuated AIA in mice might offer a 
+promising alternative/adjunct treatment for RA.

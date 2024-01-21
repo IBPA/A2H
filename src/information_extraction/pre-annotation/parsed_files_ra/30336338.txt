@@ -1,0 +1,24 @@
+Imbalance of Treg/Th17 and chronic synovitis characterized by the recruitment 
+and infiltration of inflammatory cells are the typical features of rheumatoid 
+arthritis (RA). IL-6 promotes the differentiation and function of Th17 cells, 
+which contributes to the imbalance of Treg/Th17 and aggravates lymphocytic 
+infiltration in joints. DC32, a dihydroartemisinin derivative, was found to have 
+anti-inflammatory and immunosuppressive activities in previous study. The aim of 
+this study is to evaluate the effects and mechanisms of DC32 in immunodeficiency 
+and inflammatory infiltration of RA. In vivo, the antirheumatic effect of DC32 
+was evaluated in a collagen-induced arthritis (CIA) mouse model in DBA/1 mice. 
+The percentages of Treg and Th17 and transcription of IL-6 in the spleen were 
+assayed. In vitro, a coculture system of ConA-activated lymphocytes and 
+fibroblast-like synoviocytes (FLSs) from rat with adjuvant arthritis (AA) was 
+established. The effects and mechanisms of DC32 on synovitis were investigated. 
+It was shown that DC32 inhibited footpad swelling and lymphocytic infiltration 
+in mice with CIA and significantly restored the Treg/Th17 balance by reducing 
+the transcription of IL-6 in splenocytes. DC32 significantly inhibited the 
+lymphocyte-induced invasion and migration of FLSs by decreasing the secretion of 
+MMPs (MMP-2, MMP-3) in vitro. DC32 also reduced the transcription of chemokines 
+(CXCL12, CX3CL1) and IL-6 in FLSs, as well as IL-6 levels in the supernatant. 
+These results demonstrated that DC32 may attenuate RA by restoring Treg/Th17 
+balance and inhibiting lymphocytic infiltration through downregulation of the 
+expression and transcription of IL-6. This study supports the potential of DC32 
+to down-regulate IL-6 for the treatment of RA and other related autoimmune 
+diseases.

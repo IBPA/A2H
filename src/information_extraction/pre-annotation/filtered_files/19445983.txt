@@ -1,0 +1,19 @@
+Protease-sensitive macromolecular prodrugs have attracted interest for 
+bio-responsive drug delivery to sites with up-regulated proteolytic activities 
+such as inflammatory or cancerous lesions. Here we report the development of a 
+novel polymeric photosensitizer prodrug (T-PS) to target thrombin, a protease 
+up-regulated in synovial tissues of rheumatoid arthritis (RA) patients, for 
+minimally invasive photodynamic synovectomy. In T-PS, multiple photosensitizer 
+units are tethered to a polymeric backbone via short, thrombin-cleavable peptide 
+linkers. Photoactivity of the prodrug is efficiently impaired due to energy 
+transfer between neighbouring photosensitizer units. T-PS activation by 
+exogenous and endogenous thrombin induced an increase in fluorescence emission 
+by a factor of 16 after in vitro digestion and a selective fluorescence 
+enhancement in arthritic lesions in vivo, in a collagen-induced arthritis mouse 
+model. In vitro studies on primary human synoviocytes showed a phototoxic effect 
+only after enzymatic digestion of the prodrug and light irradiation, thus 
+demonstrating the functionality of T-PS induced PDT. The developed 
+photosensitizer prodrugs combine the passive targeting capacity of 
+macromolecular drug delivery systems with site-selective photosensitizer release 
+and activation. They illuminate lesions with pathologically enhanced proteolytic 
+activity and induce cell death, subsequent to irradiation.

@@ -1,0 +1,19 @@
+OBJECTIVES: This study evaluated the anti-inflammatory effect of niclosamide in 
+tumor necrosis factor (TNF)-α-stimulated human rheumatoid arthritis (RA) 
+fibroblast-like synoviocytes (FLS) and inhibitory effects on migration and 
+invasion in RA FLS and investigated the signal mechanism, and further explored 
+the treatment activity of niclosamide on collagen-induced arthritis (CIA).
+METHODS: The levels of interleukin (IL)-1β, IL-6, IL-8, IL-10,IL-17A and 
+interferon (IFN)-γ in cultural supernatants were measured by multiplex cytokine 
+assay kits. RA FLS migration and invasion in vitro were measured by the Boyden 
+chamber method and the scratch assay. Signal transduction proteins expression 
+was measured by western blot. The in vivo suppressive effects of niclosamide 
+were elucidated on CIA in a mouse model.
+RESULTS: Niclosamide reduced the secretion of IL-1β, IL-6, IL-8, IL-17A and 
+IFN-γ from TNF-α-induced RA FLS in a dose-dependent manner. Niclosamide inhibits 
+FBS-induced migration and invasion and exhibits F-actin alterations in RA FLS. 
+Niclosamide decreased the phosphorylation of c-Jun N-terminal kinase and ERK in 
+TNF-α-stimulated RA FLS and blocked TNF-α-induced IKK, IκBα phosphorylation and 
+translocation of p65. Niclosamide treatments reduced the severity of CIA model.
+CONCLUSIONS: Our data suggest for the first time that niclosamide posses the 
+anti-inflammatory effect in RA both in vitro and in vivo.

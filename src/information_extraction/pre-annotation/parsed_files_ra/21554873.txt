@@ -1,0 +1,24 @@
+Inflammation-driven immune dysfunction supports the development of several 
+chronic human disorders including inflammatory bowel diseases and rheumatoid 
+arthritis. Macrolides are effective antibiotics endowed with immunomodulatory 
+effects. In this study we report the chemical synthesis and the pharmacological 
+characterization of CSY0073, a non-antibiotic derivative of azithromycin. 
+CSY0073 was tested for efficacy in two experimental models of colitis induced by 
+administering mice with dextran sulfate (DSS) and trinitrobenzene sulphonic acid 
+(TNBS) and in collagen induced arthritis. Like azithromycin, CSY0073 improved 
+clinical, macroscopic and histopathological scores in mice administered DSS 
+(12.5μmol/kg/day p.o.) and TNBS (45μmol/kg/day p.o.). When administered to 
+TNBS-treated mice, CSY0073 effectively attenuated influx of neutrophils and 
+macrophages into the colonic mucosa and reduced the intestinal expression 
+pro-inflammatory cytokines TNFα, IL-2 and IFNγ. CSY0073 (0.1 to 10μM) 
+counter-regulated TNFα, IFNγ, IL-12 and IL-23 release caused by exposure of 
+mouse spleen monocytes and CD11b+ cells isolated from the colonic lamina propria 
+to endotoxin. CSY0073 (25μmol/kg/day) reduced clinical scores in the collagen 
+induced murine model of rheumatoid arthritis. In myeloid cells, CSY0073 (10μM) 
+prevented the nuclear translocation of the p65 subunit of NF-κB and its binding 
+to canonical NF-κB responsive elements. In summary, we report a novel class of 
+non-antibiotic 14-member macrocycles with anti-inflammatory and 
+immune-modulatory effects. CSY0073, the prototype of this new class of 
+macrolides exerts counter-regulatory activity on NF-κB signaling. This study 
+suggests the exploitation of non-antibiotic macrolides in the treatment of 
+inflammatory disorders characterized by immune dysfunction.

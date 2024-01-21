@@ -1,0 +1,21 @@
+BACKGROUND: Clostridium difficile is an anaerobic bacterium that causes 
+antibiotic-associated diarrhea. It produces toxin A and toxin B (TcdB), which 
+cause injury to the gut epithelium. Glutamine is a fundamental fuel for 
+enterocytes, maintaining intestinal mucosal health. Alanyl-glutamine (AQ) is a 
+highly soluble dipeptide derivative of glutamine. We studied whether 
+administration of AQ ameliorates the effects of TcdB in the intestinal cells and 
+improves the outcome of C. difficile infection in mice.
+METHODS: WST-1 proliferation and cell-wounding-migration assays were assessed in 
+IEC-6 cells exposed to TcdB, with or without AQ. Apoptosis and necrosis were 
+assessed using Annexin V and flow cytometry. C57BL/6 mice were infected with VPI 
+10463 and treated with either vancomycin, AQ, or vancomycin with AQ. Intestinal 
+tissues were collected for histopathologic analysis, apoptosis staining, and 
+determination of myeloperoxidase activity.
+RESULTS: AQ increased proliferation in intestinal cells exposed to TcdB, 
+improved migration at 24 and 48 hours, and reduced apoptosis in intestinal cells 
+challenged with TcdB. Infected mice treated with vancomycin and AQ had better 
+survival and histopathologic findings than mice treated with vancomycin alone.
+CONCLUSIONS: AQ may reduce intestinal mucosal injury in C. difficile-infected 
+mice by partially reversing the effects of TcdB on enterocyte proliferation, 
+migration, and apoptosis, thereby improving survival from C. difficile 
+infection.

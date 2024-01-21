@@ -1,0 +1,10 @@
+Sialylated forms of the Fc fragment of immunoglobulin G, produced by the human 
+alpha2-6 sialyltransferase ST6Gal-I, were identified as potent anti-inflammatory 
+mediators in a mouse model of rheumatoid arthritis and are potentially the 
+active components in intravenous IgG anti-inflammatory therapies. The activities 
+and specificities of hST6Gal-I are, however, poorly characterized. Here MS and 
+NMR methodology demonstrates glycan modification occurs in a branch-specific 
+manner with the alpha1-3Man branch of the complex, biantennary Fc glycan 
+preferentially sialylated. Interestingly, this substrate preference is preserved 
+when using a released glycan, suggesting that the apparent occlusion of glycan 
+termini in Fc crystal structures does not dominate specificity.

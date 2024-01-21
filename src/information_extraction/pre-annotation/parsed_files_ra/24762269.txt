@@ -1,0 +1,22 @@
+One of the main complications of haemophilia A is haemophilic arthropathy (HA), 
+a debilitating disease with a significant negative impact on motility and 
+quality of life. Despite major advances in the treatment of haemophilia A, many 
+patients still suffer from HA. We wish to develop new treatments for HA, but 
+must first better understand its causes. Our laboratory studies molecular 
+scissors that release the pro-inflammatory cytokine tumour necrosis factor alpha 
+(TNFα) from cells. TNFα is considered the 'fire alarm' of the body - it helps to 
+fight infections, but can also cause diseases such as inflammatory arthritis. We 
+know that the molecular scissors, called TNFα convertase (TACE), and its newly 
+discovered regulator termed iRhom2 can be rapidly activated by small amounts of 
+cytokines, growth factors, and pro-inflammatory mediators present in the blood. 
+We hypothesize that the rapid activation of TACE could help explain one of the 
+unsolved mysteries regarding the development of HA, which is how even small 
+amounts of blood can provoke a persistent inflammatory response. We propose that 
+once blood enters the joint, iRhom2 and TACE are activated to release TNFα and 
+that this could promote the development of HA in a similar manner to that in 
+which it promotes rheumatoid arthritis (RA). We are currently using immune cells 
+stimulated with blood degradation products, and mouse models of HA, to test this 
+hypothesis. If successful, our study could provide the rationale for testing 
+anti-TNF antibodies, which are already used to treat RA, for the treatment of 
+HA. In addition, they might uncover iRhom2 and TACE as attractive new candidate 
+targets for the treatment of HA.

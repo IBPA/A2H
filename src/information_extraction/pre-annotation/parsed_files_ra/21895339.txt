@@ -1,0 +1,19 @@
+Although glucocorticoids are frequently prescribed for the symptomatic 
+management of inflammatory disorders such as rheumatoid arthritis, extended 
+glucocorticoid exposure is the leading cause of physician-induced osteoporosis 
+and leaves patients at a high risk of fracture. To study the biochemical effects 
+of glucocorticoid exposure and how they might affect biomechanical properties of 
+the bone, Raman spectra were acquired from ex vivo tibiae of glucocorticoid- and 
+placebo-treated wild-type mice and a transgenic mouse model of rheumatoid 
+arthritis. Statistically significant spectral differences were observed due to 
+both treatment regimen and mouse genotype. These differences are attributed to 
+changes in the overall bone mineral composition, as well as the degree of 
+phosphate mineralization in tibial cortical bone. In addition, partial least 
+squares regression was used to generate a Raman-based prediction of each tibia's 
+biomechanical strength as quantified by a torsion test. The Raman-based 
+predictions were as accurate as those produced by microcomputed tomography 
+derived parameters, and more accurate than the clinically-used parameter of bone 
+mineral density. These results suggest that Raman spectroscopy could be a 
+valuable tool for monitoring bone biochemistry in studies of bone diseases such 
+as osteoporosis, including tests of drugs being developed to combat these 
+diseases.

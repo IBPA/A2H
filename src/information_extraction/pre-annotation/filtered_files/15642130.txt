@@ -1,0 +1,29 @@
+Experimental arthritis models are considered valuable tools for delineating 
+mechanisms of inflammation and autoimmune phenomena. Use of microarray-based 
+methods represents a new and challenging approach that allows molecular 
+dissection of complex autoimmune diseases such as arthritis. In order to 
+characterize the temporal gene expression profile in joints from the 
+reactivation model of streptococcal cell wall (SCW)-induced arthritis in Lewis 
+(LEW/N) rats, total RNA was extracted from ankle joints from naive, SCW 
+injected, or phosphate buffered saline injected animals (time course study) and 
+gene expression was analyzed using Affymetrix oligonucleotide microarray 
+technology (RAE230A). After normalization and statistical analysis of data, 631 
+differentially expressed genes were sorted into clusters based on their levels 
+and kinetics of expression using Spotfire profile search and K-mean cluster 
+analysis. Microarray-based data for a subset of genes were validated using 
+real-time PCR TaqMan analysis. Analysis of the microarray data identified 631 
+genes (441 upregulated and 190 downregulated) that were differentially expressed 
+(Delta > 1.8, P < 0.01), showing specific levels and patterns of gene 
+expression. The genes exhibiting the highest fold increase in expression on days 
+-13.8, -13, or 3 were involved in chemotaxis, inflammatory response, cell 
+adhesion and extracellular matrix remodelling. Transcriptome analysis identified 
+10 upregulated genes (Delta > 5), which have not previously been associated with 
+arthritis pathology and are located in genomic regions associated with 
+autoimmune disease. The majority of the downregulated genes were associated with 
+metabolism, transport and regulation of muscle development. In conclusion, the 
+present study describes the temporal expression of multiple disease-associated 
+genes with potential pathophysiological roles in the reactivation model of 
+SCW-induced arthritis in Lewis (LEW/N) rat. These findings improve our 
+understanding of the molecular events that underlie the pathology in this animal 
+model, which is potentially a valuable comparator to human rheumatoid arthritis 
+(RA).

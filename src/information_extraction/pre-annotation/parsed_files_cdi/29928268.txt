@@ -1,0 +1,27 @@
+Antibiotics are considered to be the first line of treatment for mild to 
+moderately severe Clostridium difficile infection (CDI) in humans. However, 
+antibiotics are also risk factors for CDI as they decrease colonization 
+resistance against C. difficile by altering the gut microbiota and metabolome. 
+Finding compounds that selectively inhibit different stages of the C. difficile 
+life cycle, while sparing the indigenous gut microbiota is important for the 
+development of alternatives to standard antibiotic treatment. 2-aminoimidazole 
+(2-AI) molecules are known to disrupt bacterial protection mechanisms in 
+antibiotic resistant bacteria such as Pseudomonas aeruginosa, Acinetobacter 
+baumannii, and Staphylococcus aureus, but are yet to be evaluated against C. 
+difficile. A comprehensive small molecule-screening pipeline was developed to 
+investigate how novel small molecules affect different stages of the C. 
+difficile life cycle (growth, toxin, and sporulation) in vitro, and a library of 
+commensal bacteria that are associated with colonization resistance against C. 
+difficile. The initial screening tested the efficacy of eleven 2-AI molecules 
+(compound 1 through 11) against C. difficile R20291 compared to a vancomycin (2 
+μg/ml) control. Molecules were selected for their ability to inhibit C. 
+difficile growth, toxin activity, and sporulation. Further testing included 
+growth inhibition of other C. difficile strains (CD196, M68, CF5, 630, BI9, 
+M120) belonging to distinct PCR ribotypes, and a commensal panel (Bacteroides 
+fragilis, B. thetaiotaomicron, C. scindens, C. hylemonae, Lactobacillus 
+acidophilus, L. gasseri, Escherichia coli, B. longum subsp. infantis). Three 
+molecules compound 1 and 2, and 3 were microbicidal, whereas compounds 4, 7, 9, 
+and 11 inhibited toxin activity without affecting the growth of C. difficile 
+strains and the commensal microbiota. The antimicrobial and anti-toxin effects 
+of 2-AI molecules need to be further characterized for mode of action and 
+validated in a mouse model of CDI.

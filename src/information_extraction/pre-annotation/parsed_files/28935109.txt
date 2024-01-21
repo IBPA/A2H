@@ -1,0 +1,18 @@
+Synthetic oligosaccharide-based vaccines are promising alternatives to 
+conventional antibacterial carbohydrate vaccines prepared with isolated 
+polysaccharides. Unlike polysaccharides, synthetic glycans are well defined, 
+contaminant-free, and accessible even for pathogens that cannot be fermented or 
+show limited carbohydrate biosynthesis in vitro. However, identifying synthetic 
+glycan B cell epitopes that induce protective immunity has traditionally been a 
+time-consuming trial-and-error process, as predicting the immunogenicity of an 
+oligosaccharide by means of structure alone is not straightforward. We here 
+describe how synthetic oligosaccharide epitopes for candidate vaccines can be 
+rationally identified prior to preclinical immunogenicity studies. Epitopes are 
+selected on the basis of their recognition by antibodies associated with 
+protection from disease in humans or small animals. In addition, we show how 
+murine antibody responses to a large oligosaccharide can inform the 
+identification of a minimal B cell epitope that may help designing easy to 
+synthesize vaccine candidates. The procedures, exemplified with a surface 
+carbohydrate of Clostridium difficile, may serve as a guideline for selecting 
+protective oligosaccharide epitopes for vaccines against infectious and 
+malignant diseases.

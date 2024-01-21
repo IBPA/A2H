@@ -1,0 +1,21 @@
+Stimulating fibroblast-like synoviocyte (FLS) apoptosis in rheumatoid arthritis 
+(RA) is a promising strategy for clinical treatment. Previous studies have 
+confirmed that geniposide shows a certain anti-arthritic effect in vivo. 
+However, whether geniposide can induce RA FLS apoptosis and the underlying 
+mechanisms has not been elucidated. Herein, adjuvant-induced arthritis (AIA) in 
+rat was induced and FLS was isolated from synovial tissues by tissue explant 
+cultivation method. MTT assay, Hoechst staining, and flow cytometric apoptosis 
+assay were applied to evaluate apoptotic effect of geniposide on AIA FLS. Bcl-2, 
+Bax, and caspase 3 messenger RNA (mRNA) levels, and 
+extracellular-signal-regulated kinases (ERKs) and phosphorylated ERK protein 
+levels were examined by real-time PCR and western blot, respectively. We found 
+that geniposide dose-dependently inhibited AIA FLS proliferation in vitro. AIA 
+FLS treated with geniposide displayed typical apoptotic morphological 
+characteristics including nuclear shrinkage and chromatin condensation. Flow 
+cytometric apoptosis assay indicated that geniposide significantly increased the 
+apoptosis rate of AIA FLS. Additionally, geniposide treatment on AIA FLS 
+decreased Bcl-2 mRNA level and increased Bax and caspase 3 mRNA levels, 
+accompanied by reduced protein levels of phosphorylated-ERK1/2, without 
+affecting total ERK1/2. In conclusion, geniposide effectively induces AIA FLS 
+apoptosis through regulating the apoptosis-related gene expressions and 
+inhibiting ERK signal pathway.

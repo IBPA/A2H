@@ -1,0 +1,17 @@
+Degradative fragments of cartilage oligomeric matrix protein (COMP) have been 
+observed in arthritic patients. The physiological enzyme(s) that degrade COMP, 
+however, remain unknown. We performed a yeast two-hybrid screen (Y2H) to search 
+for proteins that associate with COMP to identify an interaction partner that 
+might degrade it. One screen using the epidermal growth factor (EGF) domain of 
+COMP as bait led to the discovery of ADAMTS-7. Rat ADAMTS-7 is composed of 1595 
+amino acids, and this protein exhibits higher expression in the musculoskeletal 
+tissues. COMP binds directly to ADAMTS-7 in vitro and in native articular 
+cartilage. ADAMTS-7 selectively interacts with the EGF repeat domain but not 
+with the other three functional domains of COMP, whereas the four C-terminal TSP 
+motifs of ADAMTS-7 are required and sufficient for association with COMP. The 
+recombinant catalytic domain and intact ADAMTS-7 are capable of digesting COMP 
+in vitro. The enzymatic activity of ADAMTS-7 requires the presence of Zn2+ and 
+appropriate pH (7.5-9.5), and the concentration of ADAMTS-7 in cartilage and 
+synovium of patients with rheumatoid arthritis is significantly increased as 
+compared to normal cartilage and synovium. ADAMTS-7 is the first 
+metalloproteinase found to bind directly to and degrade COMP.

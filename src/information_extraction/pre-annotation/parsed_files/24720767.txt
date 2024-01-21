@@ -1,0 +1,15 @@
+The BclA protein is a major component of the outermost layer of spores of a 
+number of bacterial species and Clostridium difficile carries three bclA genes. 
+Using insertional mutagenesis each gene was characterized and spores devoid of 
+these proteins had surface aberrations, reduced hydrophobicity and germinated 
+faster than wild-type spores. Therefore the BclA proteins were likely major 
+components of the spore surface and when absent impaired the protective shield 
+effect of this outermost layer. Analysis of infection and colonization in mice 
+and hamsters revealed that the 50% infectious dose (ID50 ) of spores was 
+significantly higher (2-logs) in the bclA1(-) mutant compared to the isogenic 
+wild-type control, but that levels of toxins (A and B) were indistinguishable 
+from animals dosed with wild-type spores. bclA1(-) spores germinated faster than 
+wild-type spores yet mice were less susceptible to infection suggesting that 
+BclA1 must play a key role in the initial (i.e. pre-spore germination) stages of 
+infection. We also show that the ID50 was higher in mice infected with R20291, a 
+'hypervirulent' 027 strain, that carries a truncated BclA1 protein.

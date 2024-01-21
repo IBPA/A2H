@@ -1,0 +1,20 @@
+Clostridium difficile is recognized as an important nosocomial pathogen. C. 
+difficile infection (CDI) is thought to arise as a result of depletion of the 
+normal gut flora by antimicrobial agents. Cefotaxime (CTX) is well-known for its 
+propensity to cause CDI, but the reasons behind its particular predisposition to 
+the disease remain unclear. Previous investigations have so far relied upon the 
+hamster model of CDI or human volunteers. We have used a triple-stage chemostat 
+model of the human gut to investigate the behaviour of C. difficile and 
+components of the normal gut flora, in response to exposure to CTX alone, and in 
+combination with its active metabolite desacetylcefotaxime (dCTX). C. difficile 
+remained in a steady state during non-antibiotic exposed periods, with no 
+detectable cytotoxin. During both antibiotic exposure regimens, proliferation of 
+C. difficile and elevated cytotoxin levels were observed. Cessation of 
+antibiotic instillation produced a reduction in cytotoxin levels and viable 
+counts. Decreases in bacterial counts were observed in response to both 
+antibiotic exposure regimens, notably for bifidobacteria and bacteroides. 
+Numbers of bacteroides were profoundly affected by exposure to the CTX/dCTX 
+combination, and this may indicate a possible role for bacteroides in 
+colonization resistance. We believe that the gut model is a promising method for 
+studying C. difficile pathogenesis in conditions analogous to the in vivo 
+situation.

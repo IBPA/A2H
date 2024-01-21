@@ -1,0 +1,10 @@
+Animal models have been used extensively in studies of rheumatoid arthritis 
+pathogenesis. Despite the inherent limitations of all animal models, several 
+rodent models have significantly progressed our understanding of the fundamental 
+mechanisms underpinning rheumatoid arthritis and contributed to several current 
+major advances in treatment. These models include the induced arthritis models 
+such as collagen-induced arthritis, collagen-antibody-induced arthritis, 
+zymosan-induced arthritis, and the methylated BSA model, and the genetically 
+manipulated or spontaneous arthritis models such as the TNF-alpha-transgenic 
+mouse, K/BxN mouse, and the Skg mouse. Here, we describe these animal models and 
+discuss their advantages and limitations.

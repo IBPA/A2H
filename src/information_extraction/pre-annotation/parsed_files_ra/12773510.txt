@@ -1,0 +1,24 @@
+Naïve T cells, when activated by specific antigen and cytokines, up-regulate 
+adhesion molecules as well as chemokine receptors on their surface, which allows 
+them to migrate to inflamed tissues. Human studies have shown that CXCR3 is one 
+of the chemokine receptors that is induced during T cell activation. Moreover, 
+CXCR3-positive T cells are enriched at inflammatory sites in patients with 
+autoimmune diseases such as rheumatoid arthritis and multiple sclerosis. In this 
+study, we use a mouse model of inflammation to demonstrate that CXCR3 is 
+required for activated T cell transmigration to inflamed tissue. Using an anti- 
+mCXCR3 antibody, we have shown that in vitro-differentiated T helper (Th) 1 and 
+Th2 cells up-regulated CXCR3 upon stimulation with specific antigen/major 
+histocompatibility complex. However, only Th1 cells, when adoptively transferred 
+to syngeneic recipients, are efficiently recruited to the peritoneum in an 
+adjuvant-induced peritonitis model. Furthermore, the neutralizing anti-mCXCR3 
+antibody profoundly inhibits the recruitment of Th1 cells to the inflamed 
+peritoneum. Real-time, quantitative reverse transcriptase-polymerase chain 
+reaction analysis demonstrates that the CXCR3 ligands, interferon 
+(IFN)-inducible protein 10 (CXCL10) and IFN-inducible T cell alpha 
+chemoattractant (CXCL11), are among the many chemokines induced in the 
+adjuvant-treated peritoneum. The anti-mCXCR3 antibody is also effective in 
+inhibiting a delayed-type hypersensitivity response, which is largely mediated 
+by enhanced trafficking of activated T cells to peripheral inflammatory sites. 
+Collectively, our results suggest that CXCR3 has a critical role in T cell 
+transmigration to sites of inflammation and thus, may serve as a molecular 
+target for anti-inflammatory therapies.

@@ -1,0 +1,18 @@
+Toll-like receptor-4 (TLR-4) activity is upregulated in persons with fibrotic 
+lung diseases secondary to chronic inflammatory conditions like Crohn's disease 
+and rheumatoid arthritis. We hypothesized that α-diketones associated with fixed 
+obstructive lung disease may activate TLR-4. We utilized a human embryonic 
+kidney cell assay (HEK293) with human TLR-4 receptors to test for potential 
+activation effects of 2,3-butandeione, 2,3-pentanedione, 2,3-hexanedione, and 
+2,3-heptanedione at test concentrations of 1, 10, 100, and 1000 µM. The assay 
+detects NF-κB-induced expression of secreted alkaline phosphatase measured after 
+16 h incubation by a UV-VIS Spectrometer at 650 nm. Escherichia coli K12 
+lipopolysaccharide (LPS) at 0.5 ng/mL served as a positive control and was added 
+with each test compound to evaluate combined effects. None of the tested 
+α-diketones were found to exhibit cytotoxicity, agonism, or synergistic effects 
+with LPS in the human TLR-4 assay up to 1000 µM. Screening of 2,3-butanedione 
+for agonist activity using the HEK assay with mouse TLR-4 receptors exhibited 
+cytotoxicity at 1000 µM, but no agonist activity. We conclude that the tested 
+α-diketones at relatively high concentrations in vitro do not exhibit TLR-4 
+agonist or synergistic activity and, therefore, apparently do not directly 
+induce inflammasome activation through this pathway in humans or mice.

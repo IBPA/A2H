@@ -1,0 +1,18 @@
+An array of investigations has revealed that macrophage migration inhibitory 
+factor (MIF) plays an important role in the exacerbation of a wide range of 
+inflammatory diseases. For the past two decades, we have extensively studied 
+MIF's pathophysiological roles in human diseases, and have accumulated evidence 
+elucidating its molecular mechanisms in the pathogenesis of immune disorders and 
+inflammatory diseases, such as rheumatoid arthritis and inflammatory bowel 
+diseases (IBD). In a study of IBD, we demonstrated for the first time that 
+anti-MIF antibody suppressed the degree of dextran-sulfate sodium (DSS)-induced 
+colitis, indicating its potential therapeutic use for IBD patients. Following 
+that report, a number of researchers, including us, clarified that MIF was 
+profoundly involved in various gastrointestinal disorders, such as hepatitis and 
+pancreatitis. We recently revealed that a MIF-deficient mouse was resistant to a 
+challenge of DSS, and showed few clinical and pathological signs. Currently, we 
+are developing new therapeutic approaches targeting MIF in inflammatory 
+disorders, particularly IBD. We here overview MIF's pathophysiological function, 
+mainly in IBD, and introduce two therapeutic approaches, anti-MIF antibody 
+treatment and MIF-antisense therapy, via a drug delivery system using 1,3-beta 
+glucan.

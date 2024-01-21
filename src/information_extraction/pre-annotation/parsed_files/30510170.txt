@@ -1,0 +1,19 @@
+Clostridium difficile infection (CDI) is mediated by two major exotoxins, toxin 
+A (TcdA) and toxin B (TcdB), that damage the colonic epithelial barrier and 
+induce inflammatory responses. The function of the colonic vascular barrier 
+during CDI has been relatively understudied. Here we report increased colonic 
+vascular permeability in CDI mice and elevated vascular endothelial growth 
+factor A (VEGF-A), which was induced in vivo by infection with TcdA- and/or 
+TcdB-producing C. difficile strains but not with a TcdA-TcdB- isogenic mutant. 
+TcdA or TcdB also induced the expression of VEGF-A in human colonic mucosal 
+biopsies. Hypoxia-inducible factor signalling appeared to mediate toxin-induced 
+VEGF production in colonocytes, which can further stimulate human intestinal 
+microvascular endothelial cells. Both neutralization of VEGF-A and inhibition of 
+its signalling pathway attenuated CDI in vivo. Compared to healthy controls, CDI 
+patients had significantly higher serum VEGF-A that subsequently decreased after 
+treatment. Our findings indicate critical roles for toxin-induced VEGF-A and 
+colonic vascular permeability in CDI pathogenesis and may also point to the 
+pathophysiological significance of the gut vascular barrier in response to 
+virulence factors of enteric pathogens. As an alternative to pathogen-targeted 
+therapy, this study may enable new host-directed therapeutic approaches for 
+severe, refractory CDI.

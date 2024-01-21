@@ -1,0 +1,25 @@
+OBJECTIVE: Interleukin-13 (IL-13) is a pleiotropic cytokine that can affect 
+vessel formation, an important component of the rheumatoid arthritis (RA) 
+synovial tissue pannus. The purpose of this study was to use a gene therapy 
+approach to investigate the role of IL-13 in angiogenesis in vivo, using a rat 
+adjuvant-induced arthritis model of RA.
+METHODS: Ankle joints of female rats were injected preventatively with an 
+adenovirus vector containing human IL-13 (AxCAIL-13), a control vector with no 
+insert (AxCANI), or phosphate buffered saline (PBS). Joints were harvested at 
+the peak of arthritis, and histologic and biochemical features were evaluated.
+RESULTS: AxCAIL-13-treated joint homogenates had lower hemoglobin levels, 
+suggesting reduced joint vascularity, and both endothelial cell migration and 
+tube formation were significantly inhibited (P < 0.05). Similarly, AxCAIL-13 
+inhibited capillary sprouting in the rat aortic ring assay and vessel growth in 
+the Matrigel plug in vivo assay. IL-13 gene delivery resulted in up-regulation 
+and association of phosphorylated ERK-1/2 and protein kinase Calpha/betaII, 
+suggesting a novel pathway in IL-13-mediated angiostasis. The angiostatic effect 
+of AxCAIL-13 was associated with down-regulation of proangiogenic cytokines 
+(IL-18, cytokine-induced neutrophil chemoattractant 1/CXCL1, 
+lipopolysaccharide-induced CXC chemokine/CXCL5) and up-regulation of the 
+angiogenesis inhibitor endostatin. The expression and activity of matrix 
+metalloproteinases 2 and 9, which participate in angiogenesis, was impaired in 
+response to IL-13 as compared with AxCANI and PBS treatment.
+CONCLUSION: Our findings support a role for IL-13 as an in vivo antiangiogenic 
+factor and provide a rationale for its use in RA to control pathologic 
+neovascularization.

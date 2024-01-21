@@ -1,0 +1,26 @@
+Progressive cartilage destruction, mediated by invasive fibroblast-like 
+synoviocytes, is a central feature in the pathogenesis of rheumatoid arthritis 
+(RA). Members of the Snail family of transcription factors are required for cell 
+migration and invasion, but their role in joint destruction remains unknown. 
+Herein, we demonstrate that Snail is essential for the formation of 
+extracellular matrix-degrading invadosomal structures by synovial cells from 
+collagen-induced arthritis (CIA) rats and RA patients. Mechanistically, Snail 
+induces extracellular matrix degradation in synovial cells by repressing PTEN, 
+resulting in increased phosphorylation of platelet-derived growth factor 
+receptor and activation of the phosphatidylinositol 3-kinase/AKT pathway. Of 
+significance, Snail is overexpressed in synovial cells and tissues of CIA rats 
+and RA patients, whereas knockdown of Snail in CIA joints prevents cartilage 
+invasion and joint damage. Furthermore, Snail expression is associated with an 
+epithelial-mesenchymal transition gene signature characteristic of 
+transglutaminase 2/transforming growth factor-β activation. Transforming growth 
+factor-β and transglutaminase 2 stimulate Snail-dependent invadosome formation 
+in rat and human synoviocytes. Our results identify the Snail-PTEN 
+platelet-derived growth factor receptor/phosphatidylinositol 3-kinase axis as a 
+novel regulator of the prodestructive invadosome-forming phenotype of synovial 
+cells. New therapies for RA target inflammation, and are only partly effective 
+in preventing joint damage. Blocking Snail and/or its associated gene expression 
+program may provide an additional tool to improve the efficacy of treatments to 
+prevent joint destruction.
+
+Copyright © 2016 American Society for Investigative Pathology. Published by 
+Elsevier Inc. All rights reserved.

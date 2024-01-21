@@ -1,0 +1,20 @@
+The impact of Clostridium difficile infection (CDI) on healthcare is becoming 
+increasingly recognized as it represents a major cause of nosocomial diarrhea. A 
+rising number of CDI cases and outbreaks have been reported worldwide. Here, we 
+developed the pig ileal-ligated loop model for semi-quantitative analysis 
+comparing temporal differential proteomes in C. difficile following in vivo 
+incubation with in vitro growth using isobaric tags for relative and absolute 
+quantification (iTRAQ). Proteins retrieved from the in vitro cultures and the 
+loop contents after 4, 8, and 12 h in vivo incubation were subjected to 
+in-solution digestion, iTRAQ labeling, two-dimensional liquid 
+chromatography/tandem mass spectrometry and statistical analyses. From a total 
+of 1152 distinct proteins identified in this study, 705 proteins were available 
+for quantitative measures at all time points in both biological and technical 
+replicates; 109 proteins were found to be differentially expressed. With 
+analysis of clusters of orthologous group and protein-protein network 
+interactions, we identified the proteins that might play roles in adaptive 
+responses to the host environment, hence enhancing pathogenicity during CDI. 
+This report represents the quantitative proteomic analysis of C. difficile that 
+demonstrates time-dependent protein expression changes under conditions that 
+mimic in vivo infection and identifies potential candidates for diagnostic or 
+therapeutic measures.

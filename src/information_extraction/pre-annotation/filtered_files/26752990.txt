@@ -1,0 +1,24 @@
+Celecoxib is used in the treatment of osteoarthritis, rheumatoid arthritis, 
+acute pain, joint inflammation and sport injuries. Long term administration of 
+the drug results in such complications as gastrointestinaland renal disturbances 
+and cardio-vascular complications. The main objective of the present study was 
+to investigate the feasibility of delivering celecoxib incorporated in gel 
+formulations by iontophoresis. Sodium alginate, sodium carboxymethyl cellulose, 
+hydroxypropyl methylcellulose (HPMC) and carbopol 934P were used to develop 
+topical gel formulations of celecoxib. The gel formulations were evaluated for 
+macroscopic and microscopic properties, pH determination, spreadability, 
+rheological behaviour, and drug release characteristics both in vitro and ex 
+vivo. Drug release was evaluated in the presence of iontophoresis field (0.1 to 
+0.5 mA/cm(2)) or without electrical current (passive diffusion) and celecoxib 
+was measured spectrophotometrically at 252 nm. Most gel formulations showed 
+acceptable physicochemical properties. Amongst formulations, gel formulation 
+containing HPMC K4M which indicated greater performance in drug release 
+behaviour was selected for further in vivo studies. The cumulative percent of 
+drug released in vitro at the end of each experiment was 36%, 63%, and 89.7% for 
+passive diffusion, direct electric current (DC) current density of 0.3 mA/cm(2), 
+and 0.5 mA/cm(2), respectively. The findings of ex vivo drug transport across 
+rat skin also showed a significantly higher release of celecoxib compared to 
+passive flux for both AC and DC currents. A 0.5 mA/cm(2) of DC current increased 
+drug flux to 73% compared to 41.5% of passive diffusion. It can be concluded 
+from the results of this study that the application of iontophoresis enhances 
+the flux of celecoxib, as compared to the passive diffusion.

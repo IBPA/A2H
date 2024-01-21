@@ -1,0 +1,21 @@
+Several lines of evidence support the hypothesis that c-Jun N-terminal kinase 
+(JNKs) plays a critical role in a wide range of diseases including cell death 
+(apoptosis)-related disorders (neurodegenerative diseases, brain, heart, and 
+renal ischemia, epilepsy) and inflammatory disorders (multiple sclerosis, 
+rheumatoid arthritis, inflammatory bowel diseases). Screening of our internal 
+compound collection for inhibitors of JNK3 led to the identification of 
+(benzothiazol-2-yl)acetonitrile derivatives as potent and selective JNK1, -2, -3 
+inhibitors. Starting from initial hit 1 (AS007149), the chemistry and initial 
+structure-activity relationship (SAR) of this novel and unique kinase inhibitor 
+template were explored. Investigation of the SAR rapidly revealed that the 
+benzothiazol-2-ylacetonitrile pyrimidine core was crucial to retain a good level 
+of potency on rat JNK3. Therefore, compound 6 was further optimized by exploring 
+a number of distal combinations in place of the chlorine atom. This led to the 
+observation that the presence of an aromatic group, two carbons away from the 
+aminopyrimidine moiety and bearing substituents conferring hydrogen bond 
+acceptor (HBA) properties, could improve the potency. Further improvements to 
+the biological and biopharmaceutical profile of the most promising compounds 
+were performed, resulting in the discovery of compound 59 (AS601245). The in 
+vitro and in vivo anti-inflammatory potential of this new JNK inhibitor was 
+investigated and found to demonstrate efficacy per oral route in an experimental 
+model of rheumatoid arthritis (RA).

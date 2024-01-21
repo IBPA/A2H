@@ -1,0 +1,26 @@
+The induction of connective tissue growth factor (CTGF) was investigated in a 
+human renal fibroblast cell line that exhibited many characteristics of primary 
+human renal fibroblasts. Induction of CTGF mRNA was observed after treatment of 
+the cells with transforming growth factor-beta (TGF-beta) or, even more 
+prominently, lysophosphatidic acid (LPA). LPA induced a rapid transient increase 
+in CTGF mRNA expression, with maximal levels being observed after 1 to 2 h. This 
+increase was accompanied by CTGF protein synthesis. Induction of CTGF was 
+insensitive to pertussis toxin and was not dependent on the activation of p42/44 
+mitogen-activated protein kinases. Inhibition of the proteins of the Rho family 
+with toxin B from Clostridium difficile abrogated basal and LPA-mediated 
+induction of CTGF. Specific targeting of RhoA with C3 exotoxin or of the Rho 
+kinases with the inhibitor Y-27632 similarly prevented induction of CTGF, 
+implicating RhoA as a signaling module downstream of LPA. Inhibition of RhoA 
+depolymerized the actin cytoskeleton, as did treatment with cytochalasin D. 
+Preincubation of the human renal fibroblasts with cytochalasin D prevented 
+induction of CTGF by LPA, indicating a strong contribution of an intact 
+cytoskeleton. Interference with RhoA signaling similarly inhibited the induction 
+of CTGF by TGF-beta. Elevation of intracellular levels of cAMP and thus 
+activation of protein kinase A prevented induction of CTGF expression. The 
+cytoskeletal effects of cAMP, however, were reversed by LPA. These data indicate 
+complex interactions involving LPA-mediated activation of RhoA- and protein 
+kinase A-dependent signaling pathways. The data thus demonstrate the regulatory 
+functions of the small GTPase RhoA and of an intact cytoskeleton in the 
+expression of CTGF after stimulation with LPA or TGF-beta. Analogous signal 
+transduction pathways were previously demonstrated in rat mesangial cells, 
+suggesting a more general role for RhoA in the regulation of CTGF expression.

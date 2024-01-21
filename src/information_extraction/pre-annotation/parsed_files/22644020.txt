@@ -1,0 +1,20 @@
+LFF571 is a novel semisynthetic thiopeptide antibiotic with potent activity 
+against a variety of Gram-positive pathogens, including Clostridium difficile. 
+In vivo efficacy of LFF571 was compared to vancomycin in a hamster model of C. 
+difficile infection (CDI). Infection was induced in Golden Syrian hamsters using 
+a toxigenic strain of C. difficile. Treatment started 24 h postinfection and 
+consisted of saline, vancomycin, or LFF571. Cox regression was used to analyze 
+survival data from a cohort of animals evaluated across seven serial 
+experimental groups treated with vancomycin at 20 mg/kg, LFF571 at 5 mg/kg, or 
+vehicle alone. Survival was right censored; animals were not observed beyond day 
+21. At death or end of study, cecal contents were tested for C. difficile toxins 
+A and B. In summary, the data showed that 5 mg/kg LFF571 decreased the risk of 
+death by 79% (P < 0.0001) and 69% (P = 0.0022) compared with saline and 20 mg/kg 
+vancomycin, respectively. Further analysis of the pooled data indicated that the 
+survival benefit of LFF571 treatment at 5 mg/kg compared to vancomycin at 20 
+mg/kg was due primarily to a decrease in the risk of recurrence after end of 
+treatment. Animals successfully treated with LFF571 or vancomycin had no 
+detectable C. difficile toxin. Overall, LFF571 was more efficacious at the end 
+of the study, at a lower dose, and with fewer recurrences, than vancomycin in 
+the hamster model of CDI. LFF571 is being assessed in humans for safety and 
+efficacy in the treatment of C. difficile infections.

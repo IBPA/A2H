@@ -1,0 +1,30 @@
+OBJECTIVE: CC chemokines and their receptors play a fundamental role in 
+trafficking and activation of leukocytes at sites of inflammation, contributing 
+to joint damage in rheumatoid arthritis. Met-RANTES, an amino-terminal-modified 
+methionylated form of RANTES (CCL5), antagonizes the binding of the chemokines 
+RANTES and macrophage inflammatory protein 1alpha (MIP-1alpha; CCL3) to their 
+receptors CCR1 and CCR5, respectively. The aim of this study was to investigate 
+whether Met-RANTES could ameliorate adjuvant-induced arthritis (AIA) in the rat.
+METHODS: Using immunohistochemistry, enzyme-linked immunosorbent assay, 
+real-time reverse transcription-polymerase chain reaction, Western blot 
+analysis, adoptive transfer, and chemotaxis, we defined joint inflammation, bony 
+destruction, neutrophil and macrophage migration, Met-RANTES binding affinity to 
+rat receptors, proinflammatory cytokine and bone marker levels, CCR1 and CCR5 
+expression and activation, and macrophage homing into joints with AIA.
+RESULTS: Administration of Met-RANTES as a preventative reduced the severity of 
+joint inflammation. Administration of Met-RANTES to ankles with AIA showed 
+decreases in inflammation, radiographic soft tissue swelling, and bone erosion. 
+Met-RANTES significantly reduced the number of neutrophils and macrophages at 
+the peak of arthritis compared with saline-injected controls. Competitive 
+chemotaxis in peripheral blood mononuclear cells demonstrated that Met-RANTES 
+inhibited MIP-1alpha and MIP-1beta at 50% inhibition concentrations of 5 nM and 
+2 nM, respectively. Furthermore, levels of tumor necrosis factor alpha, 
+interleukin-1beta, macrophage colony-stimulating factor, and RANKL were 
+decreased in joints with AIA in the Met-RANTES group compared with the control 
+group. Interestingly, the expression and activation of CCR1 and CCR5 in the 
+joint were down-regulated in the Met-RANTES group compared with the control 
+group. Functionally, Met-RANTES administration decreased adoptively transferred 
+peritoneal macrophage homing into the joint.
+CONCLUSION: The data suggest that the targeting of Th1-associated chemokine 
+receptors reduce joint inflammation, bone destruction, and cell recruitment into 
+joints with AIA.

@@ -1,0 +1,26 @@
+BACKGROUND: The development of biologics has greatly increased the quality of 
+life and the life expectancy of many patients with rheumatoid arthritis. 
+However, a large number of these patients have an increased risk of developing 
+serious infections. The aim of this study was to examine differential effects of 
+anti-tumor necrosis factor (TNF) treatment and CTLA4 immunoglobulin (Ig) 
+treatment on both immunological response and host defense in a murine model of 
+septic arthritis.
+METHODS: Abatacept (CTLA4-Ig), etanercept (anti-TNF), or phosphate-buffered 
+saline were given to NMRI mice intravenously inoculated with Staphylococcus 
+aureus. The clinical course of septic arthritis and histopathological and 
+radiological changes of joints were compared among the groups.
+RESULTS: Mice receiving CTLA4-Ig treatment had more-severe septic arthritis, 
+compared with controls and mice receiving anti-TNF treatment. Anti-TNF treatment 
+led to more-severe weight loss and kidney abscesses, as well as a higher 
+bacterial burden in the kidneys. Mice receiving CTLA4-Ig therapy had lower serum 
+levels of interleukin 4, whereas mice receiving anti-TNF therapy had higher 
+levels of TNF-α. Both iNOS and arginase-1 expression were reduced in peritoneal 
+macrophages from mice receiving CTLA4-Ig, compared with expression in the 
+anti-TNF group.
+CONCLUSIONS: CTLA4-Ig therapy significantly increased the susceptibility to S. 
+aureus septic arthritis in mice, whereas anti-TNF therapy deteriorated host 
+bacterial clearance, resulting in more-severe weight loss and kidney abscesses.
+
+© The Author 2015. Published by Oxford University Press on behalf of the 
+Infectious Diseases Society of America. All rights reserved. For Permissions, 
+please e-mail: journals.permissions@oup.com.

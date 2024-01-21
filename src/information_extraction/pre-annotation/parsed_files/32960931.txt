@@ -1,0 +1,23 @@
+Enzymatic inactivation of Rho-family GTPases by the glucosyltransferase domain 
+of Clostridioides difficile Toxin B (TcdB) gives rise to various pathogenic 
+effects in cells that are classically thought to be responsible for the disease 
+symptoms associated with C. difficile infection (CDI). Recent in vitro studies 
+have shown that TcdB can, under certain circumstances, induce cellular 
+toxicities that are independent of glucosyltransferase (GT) activity, calling 
+into question the precise role of GT activity. Here, to establish the importance 
+of GT activity in CDI disease pathogenesis, we generated the first described 
+mutant strain of C. difficile producing glucosyltransferase-defective 
+(GT-defective) toxin. Using allelic exchange (AE) technology, we first deleted 
+tcdA in C. difficile 630Δerm and subsequently introduced a deactivating D270N 
+substitution in the GT domain of TcdB. To examine the role of GT activity in 
+vivo, we tested each strain in two different animal models of CDI pathogenesis. 
+In the non-lethal murine model of infection, the GT-defective mutant induced 
+minimal pathology in host tissues as compared to the profound caecal 
+inflammation seen in the wild-type and 630ΔermΔtcdA (ΔtcdA) strains. In the more 
+sensitive hamster model of CDI, whereas hamsters in the wild-type or ΔtcdA 
+groups succumbed to fulminant infection within 4 days, all hamsters infected 
+with the GT-defective mutant survived the 10-day infection period without 
+primary symptoms of CDI or evidence of caecal inflammation. These data 
+demonstrate that GT activity is indispensable for disease pathogenesis and 
+reaffirm its central role in disease and its importance as a therapeutic target 
+for small-molecule inhibition.

@@ -1,0 +1,21 @@
+Collagen-induced arthritis (CIA) is an animal model for human rheumatoid 
+arthritis. CIA is induced in the mouse by immunization with collagen type II in 
+complete Freund's adjuvant (CFA). As a result of this immunization, mice will 
+develop an autoimmune disease that is characterized by an inflammatory and 
+destructive affection of the joints. IFN-gammaR KO mice have an increased 
+susceptibility to CIA as compared to wild-type control animals: they developed 
+arthritis with a significant earlier disease onset and a higher disease 
+incidence and score. The results indicate that IFN-gamma acts as a 
+disease-protective factor in CIA. The disease-protective effect of IFN-gamma in 
+CIA appeared to be due to CFA that was used for the induction of CIA, and more 
+precisely to the presence of killed mycobacteria in this adjuvant. The killed 
+mycobacteria in CFA elicited in mice an extramedullar myelopoiesis and an 
+expansion of Mac-1+ cells that was strongly inhibited by endogenous IFN-gamma. 
+Parts of the expanded Mac-1+ splenocytes were precursor cells for osteoclasts, 
+they migrated to the joints after challenge with SDF-1, where they found to 
+differentiate into mature osteoclasts who are responsible for bone destruction. 
+The mechanism of expansion, migration and osteoclast activation occurred in 
+IFN-gammaR KO as well as in wild-type mice, but was much more pronounced in the 
+mutant mice. Thus, the use of IFN-gammaR KO mice has exposed a new mechanism in 
+the pathogenesis of autoimmune arthritis in mice. These findings may have 
+important clinical perspectives.

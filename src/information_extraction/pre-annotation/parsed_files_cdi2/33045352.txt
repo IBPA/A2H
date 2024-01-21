@@ -1,0 +1,17 @@
+Clostridioides difficile infection (CDI) is a principal cause of 
+hospital-acquired infections and fatalities worldwide. The need for new, more 
+potent anticlostridial agents is far from being met. Drug repurposing can be 
+utilized as a rapid and cost-efficient method of drug development. The current 
+study was conducted to evaluate the activity of ronidazole, a veterinary 
+antiprotozoal drug, as a potential treatment for CDI. Ronidazole inhibited the 
+growth of clinical C. difficile isolates (including NAP1 and toxigenic strains) 
+at a very low concentration (0.125 µg/mL) and showed superior killing kinetics 
+compared with metronidazole, an anticlostridial agent from the same chemical 
+category. In addition, ronidazole did not inhibit growth of several commensal 
+organisms naturally present in the human intestine that play a protective role 
+in preventing CDIs. Furthermore, ronidazole was found to be non-toxic to human 
+gut cells and permeated a monolayer of colonic epithelial cells (Caco-2) at a 
+slower rate than metronidazole. Finally, ronidazole outperformed metronidazole 
+when both were tested at a dose of 1 mg/kg daily in a mouse model of CDI. 
+Overall, ronidazole merits further investigation as a potential treatment for 
+CDIs.

@@ -1,0 +1,18 @@
+Binding of Fas ligand to Fas induces apoptosis. The Fas-Fas ligand system plays 
+important roles in many biological processes, including the elimination of 
+autoreactive lymphoid cells. The mouse anti-human Fas monoclonal antibody HFE7A 
+(m-HFE7A), which induces apoptosis, has been humanized based on a structure 
+predicted by homology modeling. A version of humanized HFE7A is currently under 
+development for the treatment of autoimmune diseases such as rheumatoid 
+arthritis. For a deeper understanding of the protein engineering aspect of 
+antibody humanization, for which information on the three-dimensional structure 
+is essential, we determined the crystal structure of the m-HFE7A antigen-binding 
+fragment (Fab) by X-ray crystallography at 2.5 A resolution. The main-chain 
+conformation of the five loops in the six complementarity-determining regions 
+(CDRs) was correctly predicted with root-mean-square deviations of 0.30-1.04 A 
+based on a comparison of the crystal structure with the predicted structure. The 
+CDR-H3 conformation of the crystal structure, which was not classified as one of 
+the canonical structures, was completely different from that of the predicted 
+structure but adopted the conformation which followed the "H3-rules." The 
+results of charge distribution analysis of the antigen-binding site suggest that 
+electrostatic interactions may be important for its binding to Fas.

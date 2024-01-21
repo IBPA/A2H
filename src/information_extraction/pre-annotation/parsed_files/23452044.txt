@@ -1,0 +1,26 @@
+REASONS FOR PERFORMING THE STUDY: Toxin detection and screening could contribute 
+to knowledge of the transmission patterns, risk factors and epidemiology of 
+Clostridium difficile and Clostridium perfringens.
+OBJECTIVE: To isolate C. difficile and C. perfringens and to detect A/B toxins 
+in faecal samples from diarrhoeic and nondiarrhoeic foals.
+STUDY DESIGN: Cross-sectional observational study.
+METHODS: A total of 153 samples from foals were collected: 139 samples from 
+farms and 14 samples from diarrhoeic foals admitted to a veterinary hospital. 
+The A/B toxins were detected by cytotoxicity assay. All suspected colonies of C. 
+perfringens were subjected to polymerase chain reaction for detection of the 
+major toxin genes (α, β, ε and ι) and for detection of β2-, NetB- and 
+enterotoxin-encoding genes. Furthermore, C. difficile and C. perfringens 
+isolates were evaluated for in vitro antimicrobial susceptibility.
+RESULTS: Seven of 153 (4.6%) samples, all from diarrhoeic foals, were positive 
+for C. difficile A/B toxin. Of these, 5 of 14 (35.7%) were from hospitalised 
+foals, and only 2 of 63 (3.2%) diarrhoeic foal samples were from farms (P = 
+0.002). Clostridium perfringens was isolated from 31 (20.3%) foals, of which 21 
+of 76 (27.6%) were diarrhoeic and 10 of 76 (13.2%) were nondiarrhoeic, 
+demonstrating a difference between these 2 groups (P = 0.045). Only 4 strains 
+were positive for the β2-encoding gene (cpb2). All C. difficile and C. 
+perfringens isolates were susceptible to metronidazole and vancomycin.
+CONCLUSIONS: The present report highlights the need for laboratory diagnostics 
+to differentiate C. difficile-associated infection in foals from other causes of 
+diarrhoea to facilitate adequate antimicrobial therapy.
+POTENTIAL RELEVANCE: More studies are needed to clarify the role of C. 
+perfringens as a primary agent of diarrhoea in foals.

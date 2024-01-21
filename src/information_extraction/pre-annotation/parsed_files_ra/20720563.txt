@@ -1,0 +1,19 @@
+Epidermolysis bullosa acquisita (EBA) is an autoimmune blistering disease, 
+characterized by antibodies to type VII collagen (COL7). EBA can be induced in 
+mice by immunization with a fragment of the non-collagenous 1 domain of murine 
+COL7. Contrary to other autoimmune diseases, e.g., rheumatoid arthritis, little 
+is known about the genetic susceptibility for EBA. We therefore used the EBA 
+mouse model to address the hypothesis that disease induction depends on the 
+major histocompatibility complex (MHC) haplotype. Mice from different inbred 
+strains were immunized with recombinant murine COL7. Five distinct responses 
+were observed: induction of (i) severe disease in SJL/J (H2s) and female MRL/MpJ 
+(H2k), (ii) mild and transient disease in C57Bl/10.s (H2s), (iii) microscopic 
+blistering in DBA/1J (H2q), (iv) only presence of non-pathogenic autoantibodies 
+in C57Bl/6J (H2b), NZM2410/J (H2z), BXD2 (H2b), and male MRL/MpJ, and (v) 
+complete resistance to EBA in NOD/ShiLtJ (H2g7) and C57Bl/10.q (H2q) mice. 
+Overall, susceptibility to EBA was strongly associated with H2s. In addition, 
+the diseased phenotype was associated with autoantibodies to specific regions of 
+COL7. Our findings show that induction of antibodies with a distinct specificity 
+is linked to the MHC haplotype in experimental EBA. Furthermore, our data are 
+the basis for future studies with the goal of identifying non-MHC EBA 
+susceptibility genes.

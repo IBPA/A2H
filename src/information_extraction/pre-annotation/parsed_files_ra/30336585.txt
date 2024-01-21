@@ -1,0 +1,16 @@
+Parasitic helminths and their isolated secreted products show promise as novel 
+treatments for allergic and autoimmune conditions in humans. Foremost amongst 
+the secreted products is ES-62, a glycoprotein derived from Acanthocheilonema 
+viteae, a filarial nematode parasite of gerbils, which is anti-inflammatory by 
+virtue of covalently-attached phosphorylcholine (PC) moieties. ES-62 has been 
+found to protect against disease in mouse models of rheumatoid arthritis, 
+systemic lupus erythematosus, and airway hyper-responsiveness. Furthermore, 
+novel PC-based synthetic small molecule analogues (SMAs) of ES-62 have recently 
+been demonstrated to show similar anti-inflammatory properties to the parent 
+molecule. In spite of these successes, we now show that ES-62 and its SMAs are 
+unable to provide protection in mouse models of certain autoimmune conditions 
+where other helminth species or their secreted products can prevent disease 
+development, namely type I diabetes, multiple sclerosis and inflammatory bowel 
+disease. We speculate on the reasons underlying ES-62's failures in these 
+conditions and how the negative data generated may help us to further understand 
+ES-62's mechanism of action.

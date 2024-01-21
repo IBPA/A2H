@@ -1,0 +1,23 @@
+OBJECTIVE: To develop a simplified and relatively inexpensive version of 
+cartilage proteoglycan-induced arthritis (PGIA), an autoimmunity model of 
+rheumatoid arthritis (RA), and to evaluate the extent to which this new model 
+replicates the disease parameters of PGIA and RA.
+METHODS: Recombinant human G1 domain of human cartilage PG containing 
+"arthritogenic" T cell epitopes was generated in a mammalian expression system 
+and used for immunization of BALB/c mice. The development and progression of 
+arthritis in recombinant human PG G1-immunized mice (designated recombinant 
+human PG G1-induced arthritis [GIA]) was monitored, and disease parameters were 
+compared with those in the parent PGIA model.
+RESULTS: GIA strongly resembled PGIA, although the clinical symptoms and immune 
+responses in mice with GIA were more uniform than in those with PGIA. Mice with 
+GIA showed evidence of stronger Th1 and Th17 polarization than those with PGIA, 
+and anti-mouse PG autoantibodies were produced in different isotype ratios in 
+the 2 models. Rheumatoid factor (RF) and anti-cyclic citrullinated peptide 
+(anti-CCP) antibodies were detected in both models; however, serum levels of 
+IgG-RF and anti-CCP antibodies were different in GIA and PGIA, and both 
+parameters correlated better with disease severity in GIA than in PGIA.
+CONCLUSION: GIA is a novel model of seropositive RA that exhibits all of the 
+characteristics of PGIA. Although the clinical phenotypes are similar, GIA and 
+PGIA are characterized by different autoantibody profiles, and the 2 models may 
+represent 2 subtypes of seropositive RA, in which more than 1 type of 
+autoantibody can be used to monitor disease severity and response to treatment.

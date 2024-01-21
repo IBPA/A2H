@@ -1,0 +1,25 @@
+Rheumatoid arthritis (RA) is an autoimmune disease characterized by chronic 
+inflammatory synovitis leading to joint destruction and systemic bone loss. The 
+inflammation-induced bone loss is mediated by increased osteoclast formation and 
+function. Current antirheumatic therapies primarily target suppression of 
+inflammatory cascade with limited or no success in controlling progression of 
+bone destruction. Mesenchymal stem cells (MSCs) by virtue of their tissue repair 
+and immunomodulatory properties have shown promising results in various 
+autoimmune and degenerative diseases. However, the role of MSCs in prevention of 
+bone destruction in RA is not yet understood. In this study, we investigated the 
+effect of adipose-derived MSCs (ASCs) on in vitro formation of bone-resorbing 
+osteoclasts and pathological bone loss in the mouse collagen-induced arthritis 
+(CIA) model of RA. We observed that ASCs significantly inhibited receptor 
+activator of NF-κB ligand (RANKL)-induced osteoclastogenesis in both a 
+contact-dependent and -independent manner. Additionally, ASCs inhibited 
+RANKL-induced osteoclastogenesis in the presence of proinflammatory cytokines 
+such as TNF-α, IL-17, and IL-1β. Furthermore, treatment with ASCs at the onset 
+of CIA significantly reduced clinical symptoms and joint pathology. 
+Interestingly, ASCs protected periarticular and systemic bone loss in CIA mice 
+by maintaining trabecular bone structure. We further observed that treatment 
+with ASCs reduced osteoclast precursors in bone marrow, resulting in decreased 
+osteoclastogenesis. Moreover, ASCs suppressed autoimmune T cell responses and 
+increased the percentages of peripheral regulatory T and B cells. Thus, we 
+provide strong evidence that ASCs ameliorate inflammation-induced systemic bone 
+loss in CIA mice by reducing osteoclast precursors and promoting immune 
+tolerance.

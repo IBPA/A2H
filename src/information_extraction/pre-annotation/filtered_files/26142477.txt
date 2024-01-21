@@ -1,0 +1,27 @@
+BACKGROUND: Auranofin is an FDA-approved, gold-containing compound in clinical 
+use for the oral treatment of rheumatoid arthritis and has been recently granted 
+by the regulatory authorities due to its antiprotozoal properties.
+METHODS: A reprofiling strategy was performed with a Streptococcus pneumoniae 
+phenotypic screen and a proprietary library of compounds, consisting of both 
+FDA-approved and unapproved bioactive compounds. Two different multiresistant S. 
+pneumoniae strains were employed in a sepsis mouse model of infection. In 
+addition, an MRSA strain was tested using both the thigh model and a 
+mesh-associated biofilm infection in mice.
+RESULTS: The repurposing approach showed the high potency of auranofin against 
+multiresistant clinical isolates of S. pneumoniae and Staphylococcus aureus in 
+vitro and in vivo. Efficacy in the S. pneumoniae sepsis model was obtained using 
+auranofin by the oral route in the dose ranges used for the treatment of 
+rheumatoid arthritis. Thioglucose replacement by alkyl chains showed that this 
+moiety was not essential for the antibacterial activity and led to the discovery 
+of a new gold derivative (MH05) with remarkable activity in vitro and in vivo.
+CONCLUSIONS: Auranofin and the new gold derivative MH05 showed encouraging in 
+vivo activity against multiresistant clinical isolates of S. pneumoniae and S. 
+aureus. The clinical management of auranofin, alone or in combination with other 
+antibiotics, deserves further exploration before use in patients presenting 
+therapeutic failure caused by infections with multiresistant Gram-positive 
+pathogens. Decades of clinical use mean that this compound is safe to use and 
+may accelerate its evaluation in humans.
+
+© The Author 2015. Published by Oxford University Press on behalf of the British 
+Society for Antimicrobial Chemotherapy. All rights reserved. For Permissions, 
+please e-mail: journals.permissions@oup.com.

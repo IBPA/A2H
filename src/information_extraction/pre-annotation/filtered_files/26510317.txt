@@ -1,0 +1,19 @@
+Methotrexate is the first line of treatment of rheumatoid arthritis. Since many 
+patients become unresponsive to methotrexate treatment, only very expensive 
+biological therapies are effective and increased methotrexate tolerance 
+strategies need to be identified. Here we propose the encapsulation of 
+methotrexate in a new liposomal formulation using a hydrophobic fragment of 
+surfactant protein conjugated to a linker and folate to enhance their tolerance 
+and efficacy. In this study we aim to evaluate the efficiency of this system to 
+treat rheumatoid arthritis, by targeting folate receptor β present at the 
+surface of activated macrophages, key effector cells in this pathology. The 
+specificity of our liposomal formulation to target folate receptor β was 
+investigated both in vitro as in vivo using a mouse model of arthritis 
+(collagen-induced arthritis in DBA/1J mice strain). In both systems, the 
+liposomal constructs were shown to be highly specific and efficient in targeting 
+folate receptor β. These liposomal formulations also significantly increase the 
+clinical benefit of the encapsulated methotrexate in vivo in arthritic mice, 
+together with reduced expression of CD39 and CD73 ectonucleotidases by 
+joint-infiltrating macrophages. Thus, our formulation might be a promising cost 
+effective way to treat rheumatoid arthritis and delay or reduce methotrexate 
+intolerance.

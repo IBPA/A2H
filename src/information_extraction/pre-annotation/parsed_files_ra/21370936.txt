@@ -1,0 +1,21 @@
+Induction of immune tolerance as therapeutic approach for autoimmune diseases 
+constitutes a current research focal point. In this sense, we aimed to evaluate 
+an altered peptide ligand (APL) for induction of peripheral tolerance in 
+patients with rheumatoid arthritis (RA). A novel T-cell epitope from human 
+heat-shock protein 60 (Hsp60), an autoantigen involved in the pathogenesis of 
+RA, was identified by bioinformatics tools and an APL was design starting from 
+this epitope. We investigated the ability of this APL for inducing regulatory T 
+cells (Treg cells) in mice and evaluated the therapeutic effect of this peptide 
+in an adjuvant-induced arthritis (AA) rat model. Clinical score, TNFα levels and 
+histopathology were monitored, as well as the capacity of this APL for inducing 
+Treg cells. Finally, the potentialities of the APL for inducing Treg cells were 
+evaluated in ex vivo assays using mononuclear cells isolated from peripheral 
+blood (PBMC). The APL induced an increase of the proportions of Treg cells in 
+the draining lymph nodes of the injected site in mice. The APL efficiently 
+inhibited the course of AA, with significant reduction of the clinical and 
+histopathology score. This effect was associated with an increase of the 
+proportions of Treg cells and a decrease of TNFα levels in spleen. Finally, 
+stimulation of PBMCs from RA patients by the APL increases the proportions of 
+the CD4(+)CD25(high)FoxP3(+) Treg cells. These results indicate a therapeutic 
+potentiality of APL and support further investigation of this candidate drug for 
+treatment of RA.

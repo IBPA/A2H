@@ -1,0 +1,26 @@
+BACKGROUND: Rheumatoid arthritis (RA) is an inflammatory disease that leads to 
+destruction of both articular cartilage and bone tissues. In rheumatic joints, 
+synoviocytes and T-lymphocytes as well as bone cells produce the receptor 
+activator of nuclear factor κ-B (RANK) ligand (RANKL), which binds to RANK on 
+the surface of osteoclasts and their precursor cells to induce differentiation 
+and activation of osteoclasts. Hence, inhibition of RANKL may be a promising 
+approach to suppress osteolysis in RA. On the other hand, RANKL production by 
+lymphocytes indicates the possibility that its inhibition would be effective to 
+suppress inflammation in RA. In addition, it has been reported that cathepsin K, 
+a predominant cysteine protease in osteoclasts, is involved in cartilage 
+destruction in RA model mice. Here, we evaluated the effects of an anti-RANKL 
+antibody on inflammation in footpads and degradation of articular cartilage in 
+RA model mice.
+RESULTS: We induced arthritis in mice by injection of anti-type II collagen 
+antibodies and lipopolysaccharide (LPS). Inhibition of RANKL by an anti-RANKL 
+antibody (OYC1, Oriental Yeast, Tokyo, Japan) was confirmed by increased bone 
+volume in the metaphysis of tibias. Swelling in either limb until day 14 was 
+seen in 5 of 6 mice injected with anti-collagen antibodies and LPS without 
+treatment with OYC1, while that was seen in 4 of 5 mice treated with OYC1. The 
+average arthritis scores on day 14 in those groups were 2.17 and 3.00, 
+respectively, indicating that OYC1 did not ameliorate inflammation in the limbs. 
+Histological analyses indicated that OYC1 does not protect articular cartilage 
+from destruction in mice with arthritis.
+CONCLUSIONS: Our present study failed to show the effectiveness of an anti-RANKL 
+antibody to ameliorate inflammation in the limbs or protect articular cartilage 
+from degradation in a collagen antibody-induced arthritis mouse model.

@@ -1,0 +1,26 @@
+OBJECTIVE: To evaluate the mechanism of fractalkine (FKN)/CX3 CL1 synthesis and 
+shedding in rheumatoid arthritis synovial fibroblasts (RASFs) and in rat 
+adjuvant-induced arthritis (AIA).
+METHODS: The effect of tumor necrosis factor α (TNFα) and/or interferon-γ (IFNγ) 
+on FKN synthesis and shedding in human RASFs was determined over time by 
+immunostaining, quantitative reverse transcription-polymerase chain reaction, 
+and Western blotting. The role of protease enzymes and signaling pathways was 
+evaluated using chemical inhibitors and small interfering RNA (siRNA). The 
+activity of 20S proteasome in the lysates and the DNA binding of NF-κB/p65 in 
+the nuclear fractions were evaluated. The in vivo relevance of these findings 
+was examined in rat AIA.
+RESULTS: In RASFs, stimulation with the combination of TNFα and IFNγ induced 
+cellular expression of FKN within 24 hours. Activation of ADAM-17, but not 
+ADAM-10, partly mediated the proteolytic shedding and release of soluble FKN 
+(sFKN) following TNFα/IFNγ stimulation for 24-72 hours. Compared with control 
+siRNA, ADAM-17 siRNA markedly inhibited TNFα/IFNγ-induced sFKN production (by 
+∼33%). TNFα/IFNγ-induced sFKN release was markedly suppressed by inhibitors of 
+ADAM-17, p38 MAPK, proteasome, or cathepsin inhibitor but not by inhibitors of 
+caspase 3 or calpain. TNFα/IFNγ-induced proteasome activity also correlated with 
+rapid degradation of IκBα and p38 MAPK phosphorylation. In vivo findings showed 
+increased FKN expression in the joints of rats with AIA, which correlated with 
+increased expression of ADAM-17 and phospho-p38 MAPK.
+CONCLUSION: Our results provide new understanding of the role of ADAM-17, p38 
+MAPK, cathepsins, and the proteasome pathway in FKN expression and shedding. 
+Regulating these pathways may suppress FKN-mediated inflammation and tissue 
+destruction.

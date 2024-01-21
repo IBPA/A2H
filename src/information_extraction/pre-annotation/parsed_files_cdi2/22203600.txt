@@ -1,0 +1,7 @@
+N(2)-(3,4-Dichlorobenzyl)-7-(2-[1-morpholinyl]ethyl)guanine (MorE-DCBG, 362E) is 
+a synthetic purine that selectively inhibits the replication-specific DNA 
+polymerase of Clostridium difficile. MorE-DCBG and its analogs strongly 
+inhibited the growth of a wide variety of C. difficile strains. When 
+administered orally in a hamster model of C. difficile-specific colitis, 362E 
+was as effective as oral vancomycin, the current agent of choice for treating 
+severe forms of the human disease.

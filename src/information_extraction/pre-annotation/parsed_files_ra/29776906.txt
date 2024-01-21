@@ -1,0 +1,22 @@
+Hemophilic arthropathy (HA) is a debilitating degenerative joint disease that is 
+a major manifestation of the bleeding disorder hemophilia A. HA typically begins 
+with hemophilic synovitis that resembles inflammatory arthritides, such as 
+rheumatoid arthritis, and frequently results in bone loss in patients. A major 
+cause of rheumatoid arthritis is inappropriate release of the proinflammatory 
+cytokine tumor necrosis factor-α (TNF-α) by the TNF-α convertase (TACE; also 
+referred to as ADAM17) and its regulator, iRhom2. Therefore, we hypothesized 
+that iRhom2/ADAM17-dependent shedding of TNF-α also has a pivotal role in 
+mediating HA. Here, we show that addition of blood or its components to 
+macrophages activates iRhom2/ADAM17-dependent TNF-α shedding, providing the 
+premise to study the activation of this pathway by blood in the joint in vivo. 
+For this, we turned to hemophilic FVIII-deficient mice (F8-/- mice), which 
+develop a hemarthrosis following needle puncture injury with synovial 
+inflammation and significant osteopenia adjacent to the affected joint. We found 
+that needle puncture-induced bleeding leads to increased TNF-α levels in the 
+affected joint of F8-/- mice. Moreover, inactivation of TNF-α or iRhom2 in F8-/- 
+mice reduced the osteopenia and synovial inflammation that develops in this 
+mouse model for HA. Taken together, our results suggest that blood entering the 
+joint activates the iRhom2/ADAM17/TNF-α pathway, thereby contributing to 
+osteopenia and synovitis in mice. Therefore, this proinflammatory signaling 
+pathway could emerge as an attractive new target to prevent osteoporosis and 
+joint damage in HA patients.

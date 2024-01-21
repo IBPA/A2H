@@ -1,0 +1,33 @@
+The side effects of indomethacin, such as ulceration of the kidney and central 
+nervous system (CNS) toxicity, limit its use as a drug for rheumatoid arthritis. 
+Encapsulation of this drug in liposomes may reduce the toxic effects. The aim of 
+this study was to determine the factors influencing encapsulation of 
+indomethacin in liposomes and to determine anti-inflammatory potential of 
+liposomal indomethacin. A series of liposomal formulations of indomethacin were 
+prepared using various phospholipids. The effects of method of preparation, 
+lipid composition, charge, and cholesterol (CH) on encapsulation of indomethacin 
+in liposomes were investigated. A significant variation in encapsulation of the 
+drug in liposomes was observed when prepared by different methods. With all the 
+methods of preparation tried, the favorable lipid composition for high 
+encapsulation of this drug was egg phosphatidyl choline:CH: stearlyamine 
+(PC:CH:SA) at a 1:0.5:0.1 molar ratio. Inclusion of cholesterol did not affect 
+the encapsulation efficiency of the drug in liposomes. The drug release profile 
+from the liposomes was biphasic, and the highest percentage drug release was 
+observed with large unilamellar vesicles (LUVs) (100 nm). Inclusion of 
+stearylamine (PC:CH:SA 1:0.5:0.1) and phosphatidyl glycerol (PG) (PC:CH:PG 
+1:0.5:0.2) in the liposomes reduced the release of the drug in comparison to the 
+neutral liposomes (PC:CH 1:1). The slow release of the drug from 
+stearylamine-containing liposomes may be explained by the electrostatic 
+interaction between the acid moiety of the drug and the amine moiety of the 
+lipid. It is assumed that the possible hydrogen bonding between--OH groups of 
+phosphatidyl glycerol and the--COOH group of the drug might be the reason for 
+the slow release of the drug from PC:CH:PG (1:0.5:0.2) containing liposomes. 
+Pharmacodynamic evaluation of the liposomes was performed by carrageenan-induced 
+rat paw edema (acute) and adjuvant arthritis (chronic) models. The 
+anti-inflammatory activity was increased from the first to fifth hour PC:CH:PG 
+(1:0.5:0.2) and PC:CH:SA (1:0.5:0.1) liposomes showed the highest percentage 
+inhibition of edema. In both these models, anti-inflammatory activity of 
+liposomal indomethacin was significantly higher than that of free indomethacin 
+(p < .01). The ulcer index of the free drug was about three times more than the 
+encapsulated drug when administered at the same dose intraperitoneally to 
+arthritic rats consecutively for 21 days.

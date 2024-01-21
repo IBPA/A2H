@@ -1,0 +1,19 @@
+Defective clearance of apoptotic cells has been shown in systemic lupus 
+erythematosus (SLE) and is postulated to enhance autoimmune responses by 
+increasing access to intracellular autoantigens. Until now, research has 
+emphasized inherited rather than acquired impairment of apoptotic cell 
+engulfment in the pathogenesis of SLE. In this study, we confirm previous 
+results that efficient removal of apoptotic cells (efferocytosis) is bolstered 
+in the presence of wild-type mouse serum, through the C3 deposition on the 
+apoptotic cell surface. In contrast, sera from three mouse models of SLE, 
+Mer(KD), MRL(lpr), and New Zealand Black/WF1 did not support and in fact 
+actively inhibited apoptotic cell uptake. IgG autoantibodies were responsible 
+for the inhibition, through the blockade of C3 recognition by macrophages. 
+Consistent with this, IgG removal reversed the inhibitory activity within 
+autoimmune serum, and purified autoimmune IgG blocked both the detection of C3 
+on apoptotic cells and C3-dependent efferocytosis. Sera from SLE patients 
+demonstrated elevated anti-C3b IgG that blocked detection of C3 on apoptotic 
+cells, activity that was not found in healthy controls or patients with 
+rheumatoid arthritis, nor in mice prior to the onset of autoimmunity. We propose 
+that the suppression of apoptotic cell disposal by Abs against deposited C3 may 
+contribute to increasing severity and/or exacerbations in SLE.

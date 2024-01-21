@@ -1,0 +1,25 @@
+Rheumatoid arthritis (RA) is characterized by joint inflammation and bone 
+destruction. The receptor activator of nuclear factor-kappa B ligand 
+(RANKL)-osteoprotegerin (OPG) system is important for maintaining the balance 
+between bone resorption and formation. Both serum RANKL/OPG protein and synovial 
+tissue RANKL/OPG mRNA ratios are elevated in patients with RA. Studies indicate 
+that hormones of pregnancy, estrogens and relaxin, administered in combination, 
+reduce circulating (TNF)-α and joint inflammation in a rat adjuvant-induced 
+arthritis (AIA) model of RA. The purpose of this study was to investigate 
+whether relaxin (RLX), alone or in combination with estrogens, regulates the 
+bone remodeling markers RANKL and OPG in vivo and in vitro. Results show that in 
+AIA rats, treatment with relaxin, estradiol valerate (EV) or EV in combination 
+with relaxin had no effect on circulating RANKL. However, EV increased systemic 
+OPG and combined treatment with EV and relaxin further increased circulating OPG 
+in comparison to EV alone. Importantly, the RANKL/OPG protein ratio was lower in 
+rats treated with EV or EV+RLX when compared to arthritic controls. Relaxin in 
+combination with EV decreased local RANKL transcripts, increased OPG mRNA and 
+decreased the RANKL/OPG mRNA ratio in joints of arthritic rats when compared to 
+controls. RLX family peptide receptor 1 (RXFP1) gene expression in joints of AIA 
+rats increased in response to EV and EV+RLX. In parathyroid hormone-pretreated 
+murine UMR 106-01 osteoblast cells, 17-β-estradiol (E) and E+RLX increased RXFP1 
+transcripts, while RLX reduced RANKL mRNA and protein expression. However, in 
+vitamin D-treated primary rat osteoblast cells E+RLX increased OPG protein and 
+reduced the RANKL/OPG protein ratio. These results suggest that modulation of 
+the RANKL-OPG system by estrogens and RLX may contribute to their antiarthritic 
+effects on bone during pregnancy.

@@ -1,0 +1,23 @@
+Clostridium difficile is the cause of emerging nosocomial infections that result 
+in abundant morbidity and mortality worldwide. Thus, the development of a 
+vaccine to kill the bacteria to prevent this disease is highly desirable. 
+Several recently identified bacterial surface glycans, such as PS-I and PS-II, 
+are promising vaccine candidates to preclude C. difficile infection. To 
+circumvent difficulties with the generation of natural PS-I due to its low 
+expression levels in bacterial cultures, improved chemical synthesis protocols 
+for the pentasaccharide repeating unit of PS-I and oligosaccharide substructures 
+were utilized to produce large quantities of well-defined PS-I related glycans. 
+The analysis of stool and serum samples obtained from C. difficile patients 
+using glycan microarrays of synthetic oligosaccharide epitopes revealed humoral 
+immune responses to the PS-I related glycan epitopes. Two different vaccine 
+candidates were evaluated in the mouse model. A synthetic PS-I repeating unit 
+CRM197 conjugate was immunogenic in mice and induced immunoglobulin class 
+switching as well as affinity maturation. Microarray screening employing PS-I 
+repeating unit substructures revealed the disaccharide Rha-(1→3)-Glc as a 
+minimal epitope. A CRM197-Rha-(1→3)-Glc disaccharide conjugate was able to 
+elicit antibodies recognizing the C. difficile PS-I pentasaccharide. We herein 
+demonstrate that glycan microarrays exposing defined oligosaccharide epitopes 
+help to determine the minimal immunogenic epitopes of complex oligosaccharide 
+antigens. The synthetic PS-I pentasaccharide repeating unit as well as the 
+Rha-(1→3)-Glc disaccharide are promising novel vaccine candidates against C. 
+difficile that are currently in preclinical evaluation.

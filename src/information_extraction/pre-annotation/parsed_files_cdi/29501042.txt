@@ -1,0 +1,31 @@
+Clostridium difficile toxin B (cdtB) is a critical virulence factor 
+characterized with potential cytotoxicity and pro-inflammatory activity. This 
+study aims to investigate anti-tumor effects of cdtB on breast cancer 
+development. Clostridium difficile strain was cultured and cdtB recombinant 
+protein (rcdtB) was synthesized. Breast cancer cell line, MDA-MB-231, was 
+divided into Normal control, rcdtB 50, 100, 200 and 400 ng/ml group in vitro. 
+Mice were divided into Normal control and rcdtB treatment group (400 ng/ml) in 
+vivo. 3-(4,5-dimethyl-2-thiazolyl)-2,5-diphenyl-2-H-tetrazolium bromide (MTT) 
+assay was performed to evaluate inhibitive effects of rcdtB on cell growth. Flow 
+cytometry and transferase-mediated deoxyuridine triphosphate-biotin nick end 
+labeling (TUNEL) were employed to examine apoptosis in vitro and in vivo, 
+respectively. Cell cycle distribution was analyzed by utilizing commercial kit. 
+B-cell lymphoma-2 (Bcl-2) and Bcl-2-associated X protein (Bax) were examined 
+using western blot. Inflammatory response was detected using haematoxylin and 
+eosin (HE). Erythroblastic leukemia viral oncogene homolog 2 (C-erbB-2) and 
+cyclooxygenase-2 (Cox-2) were examined using immunohistochemical and 
+immunofluorescence assay, respectively. The results indicated that rcdtB 
+significantly induced MDA-MB-231 death, inhibited growth and decreased S-phase 
+cells compared to Normal control group (P < 0.05). rcdtB significantly induced 
+early and late apoptosis, and decreased Bcl-2 levels compared to Normal control 
+group (P < 0.05). rcdtB significantly inhibited cell migration compared to 
+Normal control group (P < 0.05). rcdtB significantly inhibited tumor growth and 
+activated inflammation of breast cancer model compared to Normal control group 
+(P < 0.01). rcdtB significantly reduced C-erbB-2 and Cox-2 in tumor tissues 
+compared to Normal control group (P < 0.01). In conclusion, rcdtB treatment 
+inhibited tumor growth and induced apoptosis through inhibiting Bcl-2 
+expression, inflammatory responses, and activating C-erbB-2 and Cox-2 expression 
+in breast cancer mouse model.
+
+Copyright © 2018 The Authors. Published by Elsevier Masson SAS.. All rights 
+reserved.

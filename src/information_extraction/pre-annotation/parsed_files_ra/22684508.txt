@@ -1,0 +1,17 @@
+Fine-tuning of inflammatory responses by microRNAs (miRNAs) is complex, as they 
+can both enhance and repress expression of pro-inflammatory mediators. In this 
+study, we investigate inflammatory responses following global miRNA depletion, 
+to better define the overall contribution of miRNAs to inflammation. We 
+demonstrate that miRNAs positively regulate Toll-like receptor signaling using 
+inducible Dicer1 deletion and global miRNA depletion. We establish an important 
+contribution of miR-19b in this effect, which potentiates nuclear factor-κB 
+(NF-κB) activity in human and mouse cells. Positive regulation of NF-κB 
+signaling by miR-19b involves the coordinated suppression of a regulon of 
+negative regulators of NF-κB signaling (including A20/Tnfaip3, Rnf11, 
+Fbxl11/Kdm2a and Zbtb16). Transfection of miR-19b mimics exacerbated the 
+inflammatory activation of rheumatoid arthritis primary fibroblast-like 
+synoviocytes, demonstrating its physiological importance in the pathology of 
+this disease. This study constitutes, to our knowledge, the first description of 
+a miR-19 regulon that controls NF-κB signaling, and suggests that targeting this 
+miRNA and linked family members could regulate the activity of NF-κB signaling 
+in inflammation.

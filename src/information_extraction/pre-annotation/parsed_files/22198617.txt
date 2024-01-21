@@ -1,0 +1,24 @@
+The toxin-producing bacterium C. difficile is the leading cause of 
+antibiotic-associated colitis, with an estimated 500,000 cases C. difficile 
+infection (CDI) each year in the US with a cost approaching 3 billion dollars. 
+Despite the significance of CDI, the pathogenesis of this infection is still 
+being defined. The recent development of tractable murine models of CDI will 
+help define the determinants of C. difficile pathogenesis in vivo. To determine 
+if cefoperazone-treated mice could be utilized to reveal differential 
+pathogenicity of C. difficile strains, 5-8 week old C57BL/6 mice were pretreated 
+with a 10 d course of cefoperazone administered in the drinking water. Following 
+a 2-d recovery period without antibiotics, the animals were orally challenged 
+with C. difficile strains chosen to represent the potential range of virulence 
+of this organism from rapidly fatal to nonpathogenic. Animals were monitored for 
+loss of weight and clinical signs of colitis. At the time of harvest, C. 
+difficile strains were isolated from cecal contents and the severity of colitis 
+was determined by histopathologic examination of the cecum and colon. 
+Cefoperazone treated mice challenged with C. difficile strains VPI 10463 and BI1 
+exhibited signs of severe colitis while infection with 630 and F200 was 
+subclinical. This increased clinical severity was correlated with more severe 
+histopathology with significantly more edema, inflammation and epithelial damage 
+encountered in the colons of animals infected with VPI 10463 and BI1. Disease 
+severity also correlated with levels of C. difficile cytotoxic activity in 
+intestinal tissues and elevated blood neutrophil counts. Cefoperazone treated 
+mice represent a useful model of C. difficile infection that will help us better 
+understand the pathogenesis and virulence of this re-emerging pathogen.

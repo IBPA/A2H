@@ -1,0 +1,15 @@
+CCN1, an extracellular protein also known as cysteine-rich protein 61 (Cyr61), 
+is a novel pro-inflammatory factor involved in the pathogenesis of rheumatoid 
+arthritis. As an inflammatory disease, psoriasis is characterized by 
+keratinocyte activation-induced epidermal hyperplasia and cytokine-mediated 
+inflammation. We demonstrated in our previous study that CCN1 promoted 
+keratinocyte activation in psoriasis. However, the role of CCN1 in regulating 
+inflammation in psoriasis is still unknown. Here, we showed that CCN1 increased 
+inflammatory cytokine IL-1β production in keratinocytes. Furthermore, endogenous 
+ATP and caspase-1 were required for mature IL-1β production stimulated by CCN1 
+in keratinocytes. After binding to the receptor of integrin α6β1, CCN1 activated 
+the downstream p38 MAPK signaling pathway, thus inducing the expression of 
+IL-1β. In addition, we inhibited CCN1 function in mouse models of psoriasis, and 
+decreased IL-1β production was observed in vivo. Overall, we showed that CCN1 
+increased IL-1β production via p38 MAPK signaling, indicating a role for CCN1 
+protein in regulating inflammation in psoriasis.

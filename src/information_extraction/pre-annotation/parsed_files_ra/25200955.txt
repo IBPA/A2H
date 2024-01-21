@@ -1,0 +1,21 @@
+Our aim was to examine the impact of TLR5 ligation in rheumatoid arthritis (RA) 
+and experimental arthritis pathology. Studies were conducted to investigate the 
+role of TLR5 ligation on RA and mouse myeloid cell chemotaxis or osteoclast 
+formation, and in addition, to uncover the significance of TNF-α function in 
+TLR5-mediated pathogenesis. Next, the in vivo mechanism of action was determined 
+in collagen-induced arthritis (CIA) and local joint TLR5 ligation models. Last, 
+to evaluate the importance of TLR5 function in RA, we used anti-TLR5 Ab therapy 
+in CIA mice. We show that TLR5 agonist, flagellin, can promote monocyte 
+infiltration and osteoclast maturation directly through myeloid TLR5 ligation 
+and indirectly via TNF-α production from RA and mouse cells. These two 
+identified TLR5 functions are potentiated by TNF-α, because inhibition of both 
+pathways can more strongly impair RA synovial fluid-driven monocyte migration 
+and osteoclast differentiation compared with each factor alone. In preclinical 
+studies, flagellin postonset treatment in CIA and local TLR5 ligation in vivo 
+provoke homing and osteoclastic development of myeloid cells, which are 
+associated with the TNF-α cascade. Conversely, CIA joint inflammation and bone 
+erosion are alleviated when TLR5 function is blocked. We found that TLR5 and 
+TNF-α pathways are interconnected, because TNF-α is produced by TLR5 ligation in 
+RA myeloid cells, and anti-TNF-α therapy can markedly suppress TLR5 expression 
+in RA monocytes. Our novel findings demonstrate that a direct and an indirect 
+mechanism are involved in TLR5-driven RA inflammation and bone destruction.

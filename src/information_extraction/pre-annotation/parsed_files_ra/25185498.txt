@@ -1,0 +1,25 @@
+OBJECTIVE: Systemic lupus erythematosus (SLE) is a complex and multifactorial 
+autoimmune disease with striking clinical, immunologic, and genetic 
+heterogeneity, despite nearly ubiquitous antinuclear antibody (ANA) production. 
+Multiple gene polymorphisms have been associated with the disease, but these 
+individually account for only a very small percentage of overall SLE risk. In 
+earlier studies, constitutive expression of the DNA-binding protein 
+AT-rich-interactive domain 3A (ARID3a) in transgenic mouse B lymphocyte lineage 
+cells led to spontaneous ANA production and preferential development of B cells 
+associated with production of polyreactive antibodies. Therefore, we undertook 
+this study to determine whether ARID3a was overexpressed in B lymphocytes of SLE 
+patients and whether ARID3a expression was associated with disease severity.
+METHODS: A cross-section of SLE patients, rheumatoid arthritis patients, and 
+age- and sex-matched controls was analyzed longitudinally for lupus disease 
+activity, numbers of ARID3a+ peripheral blood mononuclear B cells from multiple 
+B cell subsets, and immunoglobulin and cytokine levels.
+RESULTS: Fifty of 115 SLE patients (43%) had dramatically increased numbers of 
+ARID3a+ B cells compared to healthy controls. ARID3a was not expressed in naive 
+B cells of healthy controls, but was abundant in these precursors of 
+antibody-secreting cells in SLE patients. Total numbers of ARID3a+ B cells 
+correlated with increased disease activity as defined by SLE Disease Activity 
+Index scores in individuals assessed at 3 time points.
+CONCLUSION: These findings identify B cell anomalies in SLE that allow 
+stratification of patient samples based on ARID3a expression and implicate 
+ARID3a as a potential marker of CD19+ B lymphocytes correlated with disease 
+activity.

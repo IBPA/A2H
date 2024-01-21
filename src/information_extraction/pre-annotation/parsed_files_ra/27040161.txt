@@ -1,0 +1,21 @@
+Various rodent models of arthritis are essential to dissect the full complexity 
+of human rheumatoid arthritis (RA), a common autoimmune disease affecting 
+joints. The SKG model of arthritis originates from a spontaneous mutation in 
+ZAP-70 found in a BALB/c colony. This mutation affects T cell selection due to 
+reduced TCR signalling, which allows leakage of self-reactive T cells from the 
+thymus. To further expand the practical applicability of this unique model in 
+arthritis research, we investigated the arthritogenicity of the SKG mutation in 
+two common black mouse strains C57BL/6.Q and C57BL/10.Q and compared to 
+BALB/c.Q. Mice retained the reduced TCR signalling characteristic of SKG.BALB/c 
+mice, which leads to similar alteration in thymic selection. Importantly, mice 
+also retained susceptibility to chronic arthritis after a single injection of 
+mannan from Saccharomyces cerevisiae, with comparable prevalence and severity 
+regardless of the genetic background. Further characterization of CD4(+) T cells 
+revealed a similar bias towards IL-17 production and activated T cell phenotype 
+in all SKG strains compared to respective wild type controls. Finally, transfer 
+of SKG thymocytes conferred susceptibility to recipients, which confirm the 
+intrinsic defect and pathogenicity of T cells. Overall, these results underline 
+the strong impact that the W163C ZAP-70 mutation has on T cell-driven arthritis, 
+and they support the use of the SKG model in black mice, which is useful for 
+further investigations of this distinctive arthritis model to better understand 
+autoimmunity.

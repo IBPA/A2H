@@ -1,0 +1,17 @@
+Simiao Wan (SMW), an important multiherbal formula used in traditional Chinese 
+medicine, is extensively used to treat rheumatoid arthritis. However, the 
+knowledge of the bioactive components of SMW remains unclear. Thus, gas 
+chromatography-mass spectrometry (GC-MS) and liquid chromatography-mass 
+spectrometry (LC-MS) were used to analyze the chemical constituents of volatile 
+and nonvolatile extracts of SMW, as well as its absorbed components in rat 
+plasma after oral SMW administration. Identification of several compounds was 
+enabled by comparison of retention times, MS spectra, and MS/MS spectral data 
+with the standard substance and reference materials reported in the literature. 
+In the volatile extracts, GC-MS identified 26 compounds in vitro, three of which 
+observed in blood by GC-MS. In the nonvolatile extracts, LC-MS identified 49 
+compounds in SMW; 18 compounds containing 7 prototype compounds, 5 metabolites, 
+and 6 unknown compounds were absorbed by blood. The proposed GC-MS and LC-MS 
+method was appropriate not only for the rapid screening and identification of 
+multiple components of an SMW extract but also for screening its bioactive 
+constituents in vivo. The proposed method could be a promising tool for the 
+quality control of other Chinese herbal medicines.

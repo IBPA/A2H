@@ -1,0 +1,25 @@
+At present, the early phenomenon of inflammatory angiogenesis is rarely studied 
+in Rheumatoid arthritis (RA). Previous research found that PEG-HM-3, an integrin 
+inhibitor, possessed anti-angiogenesis and anti-rheumatic activity. In this 
+study, the advantages of inhibiting angiogenesis and immune cell adhesion and 
+migration, as well as the benefits of anti-arthritis effects, were evaluated 
+using a combination of PEG-HM-3 and methotrexate (MTX). In vitro, spleen cell 
+proliferation and the levels of tumor necrosis factor α (TNF-α) in macrophage 
+supernatant were assessed. Hind paw edema, arthritis index, clinical score, body 
+weight and immunohistochemistry (IHC) of the spleen, thymus, and joint cavity 
+were evaluated in vivo in adjuvant-induced arthritis rats. Joints of the left 
+hind paws were imaged by X-ray. The expression of the toll-like receptor 4 
+(TLR-4) protein was assessed in lipopolysaccharide (LPS)-induced synoviocytes. 
+PEG-HM-3 combined with MTX significantly reduced primary and secondary swelling 
+of the hind paws, the arthritis index, the clinical score and bone erosion. The 
+results of IHC showed that the levels of interleukin-6 (IL-6) in spleens and the 
+levels of TNF-α, CD31 (cluster of differentiation 31), and CD105 in the joint 
+cavity were decreased. The body weight of rats was maintained during combination 
+therapy. Ankle cavity integrity, and bone erosion and deformity were improved in 
+combination treatment. The expression of TLR-4 was significantly reduced with 
+combination treatment in rat synoviocytes. Co-suppression of both inflammation 
+and angiogenesis in arthritis was achieved in this design with combination 
+therapy. The activity of nuclear transcription factor (NF-κB) and the expression 
+of inflammatory factors were down regulated via integrin αvβ₃ and TLR-4 
+signaling pathways. In the future, the application of this combination can be a 
+candidate in early and mid-term RA therapy.

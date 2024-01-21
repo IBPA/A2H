@@ -1,0 +1,17 @@
+Pristane-induced arthritis (PIA) in mice is an experimental model that resembles 
+human rheumatoid arthritis, a chronic autoimmune disease that affects joints and 
+is characterized by synovial inflammation and articular cartilage and bone 
+destruction. AIRmax and AIRmin mouse lines differ in their susceptibility to 
+PIA, and linkage analysis in this model mapped arthritis severity QTLs in 
+chromosomes 5 and 8. miRNAs are a class of small RNA molecules that have been 
+extensively studied in the development of arthritis. We analyzed miRNA and gene 
+expression profiles in peritoneal cells of AIRmax and AIRmin lines, in order to 
+evaluate the genetic architecture in this model. Susceptible AIRmax mice showed 
+higher gene (2025 vs 1043) and miRNA (240 vs 59) modulation than resistant 
+AIRmin mice at the onset of disease symptoms. miR-132-3p/212-3p, miR-106-5p, 
+miR-27b-3p, and miR-25-3p were among the miRNAs with the highest expression in 
+susceptible animals, showing a negative correlation with the expression of 
+predicted target genes (Il10, Cd69, and Sp1r1). Our study showed that global 
+gene and miRNA expression profiles in peritoneal cells of susceptible AIRmax and 
+resistant AIRmin lines during pristane-induced arthritis are distinct, 
+evidencing interesting targets for further validation.

@@ -1,0 +1,25 @@
+BACKGROUND: Osteoclasts are bone resorbing cells and are responsible for bone 
+erosion in diseases as diverse as osteoporosis, periodontitis, and rheumatoid 
+arthritis. Fexaramine has been developed as an agonist for the farnesoid X 
+receptor (FXR). This study investigated the effects of fexaramine on receptor 
+activator of nuclear factor (NF)-κB ligand (RANKL)-induced osteoclast formation 
+and signaling pathways.
+METHODS: Osteoclasts were formed by culturing mouse bone marrow-derived 
+macrophages (BMMs) with macrophage colony-stimulating factor (M-CSF) and RANKL. 
+Bone resorption assays were performed using dentine slices. The mRNA expression 
+level was analyzed by real-time polymerase chain reaction. Western blotting 
+assays were conducted to detect the expression or activation level of proteins. 
+Lipopolysaccharide-induced osteoclast formation was performed using a mouse 
+calvarial model.
+RESULTS: Fexaramine inhibited RANKL-induced osteoclast formation, without 
+cytotoxicity. Furthermore, fexaramine diminished the RANKL-stimulated bone 
+resorption. Mechanistically, fexaramine blocked the RANKL-triggered p38, 
+extracellular signal-regulated kinase, and glycogen synthase kinase 3β 
+phosphorylation, resulting in suppressed expression of c-Fos and NF of activated 
+T cells (NFATc1). Consistent with the in vitro anti-osteoclastogenic effect, 
+fexaramine suppressed lipopolysaccharide-induced osteoclast formation in the 
+calvarial model.
+CONCLUSIONS: The present data suggest that fexaramine has an inhibitory effect 
+on osteoclast differentiation and function, via downregulation of NFATc1 
+signaling pathways. Thus, fexaramine could be useful for the treatment of bone 
+diseases associated with excessive bone resorption.

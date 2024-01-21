@@ -1,0 +1,27 @@
+BACKGROUND: Probiotics have beneficial effects in rodent models of Clostridium 
+difficile (C. diffiicle)-induced colitis. The spore forming probiotic strain 
+Bacillus Coagulans GBI-30, 6086 (BC30) has demonstrated anti-inflammatory and 
+immune-modulating effects in vitro. Our goal was to determine if BC30 improved 
+C. difficile-induced colitis in mice. Starting on study day 0, female C57BL/6 
+mice were dosed by oro-gastric gavage for 15 days with vehicle (saline) or BC30 
+(2 × 109 CFU per day). Mice in the C. difficile groups received an antibiotic 
+mixture (study days 5 to 8 in the drinking water), and clindamycin (10 mg/kg, 
+i.p., on study day 10). The C. difficile strain VPI 10463 was given by gavage at 
+104 CFU to induce colitis on day 11. On day 16, stools and colons were collected 
+for further analyses.
+RESULTS: All mice treated with BC30 survived on study day 13, while two mice 
+treated with vehicle did not survive. On day 12, a significant difference (p = 
+0.0002) in the percentage of mice with normal stools (66.7%) was found in the 
+BC30/C. difficile group, as compared to the vehicle/C. diffcile group (13.0%). 
+On study day 16, 23.8% of mice treated with BC30 had normal stools, while this 
+value was 0% with vehicle treatment (p value = 0.0187). On this day, the stool 
+consistency score for the BC30/C. difficile group (1.1 ± 0.2) was significantly 
+lower (p < 0.05) than for the vehicle/C. difficile cohort (1.9 ± 0.2). BC30 
+modestly attenuated the colonic pathology (crypt damage, edema, leukocyte 
+influx) that was present following C. difficile infection. Colonic MIP-2 
+chemokine contents (pg/2 cm colon) were: 10.2 ± 0.5 (vehicle/no C. difficile), 
+24.6 ± 9.5 (vehicle/C. difficile) and 16.3 ± 4.3 (BC30/C. difficle).
+CONCLUSION: The probiotic BC30 improved some parameters of C. difficile-induced 
+colitis in mice. BC30 prolonged the survival of C. diffiicle infected mice. 
+Particularly, this probiotic improved the stool consistency of mice, in this 
+infectious colitis model.

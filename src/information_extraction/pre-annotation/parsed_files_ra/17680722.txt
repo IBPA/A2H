@@ -1,0 +1,32 @@
+The effectiveness of a new antibody treatment on arthritis-associated osteolysis 
+was studied by using CIA mice. GGT, a newly identified bone-resorbing factor, 
+was upregulated in arthritic joints. We generated monoclonal antibodies against 
+GGT and injected them into CIA mice. Mice treated with antibodies showed a 
+reduction in osteoclast number and bone erosion.
+INTRODUCTION: Gamma-glutamyl transpeptidase (GGT) acts as a bone-resorbing 
+factor that stimulates osteoclast formation. GGT expression has been detected in 
+active lymphocytes that accumulate at inflammation sites, such as rheumatoid 
+arthritis (RA). We hypothesize that GGT is an effective target for suppression 
+of arthritis-related osteoclastogenesis and joint destruction. Here, we describe 
+the therapeutic effect of neutralizing antibodies against GGT on joint 
+destruction using a collagen-induced arthritis (CIA) mouse model.
+MATERIALS AND METHODS: GGT expression in the synovium of RA patients and CIA 
+mice was determined by immunohistochemistry and RT-PCR. Monoclonal antibodies 
+were generated against recombinant human GGT (GGT-mAbs) using BALB/c mice. 
+Antibody treatment was performed by intraperitoneal injections of GGT-mAbs into 
+CIA mice. Effects of antibody treatment on arthritis and bone erosion were 
+evaluated by incidence score, arthritis score, and histopathological 
+observations. The role of GGT in osteoclast development was examined by using 
+the established osteoclastogenic culture system.
+RESULTS: GGT expression was significantly upregulated in inflamed synovium. 
+Immunohistochemistry revealed that GGT was present in lymphocytes, plasma cells, 
+and macrophages, as well as capillaries. Injection of GGT-mAbs significantly 
+decreased the number of osteoclasts and attenuated the severity of joint 
+destruction in CIA mice. In vitro examination showed that GGT enhanced 
+RANKL-dependent osteoclast formation. GGT stimulated the expression of RANKL in 
+osteoblasts and its receptor RANK in osteoclast precursors, respectively.
+CONCLUSIONS: This study indicates that inflamed synovial tissue-derived GGT acts 
+as a risk factor for joint destruction and that the antibody-mediated inhibition 
+of GGT significantly decreases osteoclast number and bone erosion in CIA mice. 
+GGT antagonists might be novel therapeutic agents for attenuating joint 
+destruction in RA patients.

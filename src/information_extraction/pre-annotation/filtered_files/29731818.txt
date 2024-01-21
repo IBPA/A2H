@@ -1,0 +1,26 @@
+It has been suggested that endoplasmic reticulum stress (ERS) may induce 
+apoptosis following spinal cord injury (SCI). Methotrexate (MTX) has been used 
+as a long-term therapy regimen for rheumatoid arthritis. However, it is not 
+clear whether MTX remediates SCI by inhibiting ERS. In the present study, to 
+establish an in vitro ERS cell model, PC12 cells were pre-incubated with 
+triglycerides (TG). MTT assays revealed that treatment with 1, 2.5, 5 and 10 µM 
+TG decreased PC12 cell viability in a dose-dependent manner. Additionally, MTX 
+treatment significantly reversed the TG-induced decrease in cell viability and 
+increased apoptosis according to the flow cytometry assay (P<0.05). Notably, 
+western blotting indicated that MTX significantly decreased levels of 
+glucose-regulated protein (GRP)78, CCAAT-enhancer-binding protein homologous 
+protein (CHOP) and caspase-12 expression (P<0.05), which were increased 
+following treatment with TG. Furthermore, the in vivo role of MTX in a rat model 
+of SCI was evaluated. The motor behavioral function of rats was improved 
+following treatment with MTX according to Basso, Beattie and Bresnahan scoring 
+(P<0.05). Terminal deoxynucleotidyl-transferase-mediated dUTP nick end staining 
+indicated that there were no apoptotic cells present in sham rats. In the SCI 
+model group, apoptotic cells were observed at day 7; however, the number of 
+apoptotic cells was reduced following an additional 7 days of MTX 
+administration. Furthermore, levels of ERS-associated proteins, including 
+caspase-3, activating transcription factor 6, serine/threonine-protein 
+kinase/endoribonuclease inositol-requiring enzyme 1 α, eukaryotic initiation 
+factor 2 α and GRP78, were significantly increased following SCI; however, 
+administration of MTX for 7 days significantly reversed this effect (P<0.05, 
+P<0.01 and P<0.001). Therefore, MTX may improve SCI by suppressing ERS-induced 
+apoptosis in vitro and in vivo.

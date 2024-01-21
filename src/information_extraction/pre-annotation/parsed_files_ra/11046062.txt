@@ -1,0 +1,22 @@
+Proteoglycan-induced arthritis (PGIA) is a murine model for rheumatoid arthritis 
+(RA) both in terms of its pathology and its genetics. PGIA can only be induced 
+in susceptible mouse strains and their F(2) progeny. Using the F(2) hybrids 
+resulting from an F(1) intercross of a newly identified susceptible (C3H/HeJCr) 
+and an established resistant (C57BL/6) strain of mouse, our goals were to: 1) 
+identify the strain-specific loci that confer PGIA susceptibility, 2) determine 
+whether any pathophysiological parameters could be used as markers that 
+distinguish between nonarthritic and arthritic mice, and 3) analyze the effect 
+of the MHC haplotype on quantitative trait loci (QTL) detection. To identify 
+QTLs, we performed a genome scan on the F(2) hybrids. For pathophysiological 
+analyses, we measured pro- and antiinflammatory cytokines such as IL-1, IL-6, 
+IFN-gamma, IL-4, IL-10, IL-12, Ag-specific T cell proliferation and IL-2 
+production, serum IgG1 and IgG2 levels of both auto- and heteroantibodies, and 
+soluble CD44. We have identified four new PGIA-linked QTLs (Pgia13 through 
+Pgia16) and confirmed two (Pgia5, Pgia10) from our previous study. All new 
+MHC-independent QTLs were associated with either disease onset or severity. 
+Comprehensive statistical analysis demonstrated that while soluble CD44, IL-6, 
+and IgG1 vs. IgG2 heteroantibody levels differed significantly between the 
+arthritic and nonarthritic groups, only Ab-related parameters colocalized with 
+the QTLs. Importantly, the mixed haplotype (H-2(b) and H-2(k)) of the C3H x 
+C57BL/6 F(2) intercross reduced the detection of several previously identified 
+QTLs to suggestive levels, indicating a masking effect of unmatched MHCs.

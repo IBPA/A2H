@@ -1,0 +1,27 @@
+AIM: To investigate the effect of Clostridium difficile (C. difficile) infection 
+in an interleukin 10-deficient (IL-10(-/-)) mouse model of inflammatory bowel 
+disease.
+METHODS: Bone marrow-derived dendritic cells isolated from wild type (WT) and 
+IL-10(-/-)mice were stimulated for 4 h with C. difficile toxin A (200 μg/mL), 
+and gene expression of interferon (IFN)-γ, IL-12 and IL-23 was determined by 
+real-time reverse transcription polymerase chain reaction. WT and IL-10(-/-) 
+mice (n = 20 each) were exposed to an antibiotic cocktail for three days and 
+then were injected with clindamycin (i.p.). Mice (n = 10 WT, 10 IL-10(-/-)) were 
+then challenged with oral administration of C. difficile (1 × 10(5) colony 
+forming units of strain VPI 10463). Animals were monitored daily for 7 d for 
+signs of colitis. Colonic tissue samples were evaluated for cytokine gene 
+expression and histopathologic analysis.
+RESULTS: C. difficile toxin A treatment induced IFN-γ gene expression to a level 
+that was significantly higher in BDMCs from IL-10(-/-) compared to those from WT 
+mice (P < 0.05). However, expression of IL-12 and IL-23 was not different among 
+the groups. Following C. difficile administration, mice developed diarrhea and 
+lost weight within 2-3 d. Weight loss was significantly greater in IL-10(-/-) 
+compared to WT mice (P < 0.05). C. difficile infection induced histopathologic 
+features typical of colitis in both IL-10(-/-) and WT mice. The histopathologic 
+severity score was significantly higher in the IL-10(-/-) than in WT mice (mean 
+± standard error; 5.50 ± 0.53 vs 2.44 ± 0.46; P < 0.05). This was accompanied by 
+a significantly greater increase in IFN-γ gene expression in colonic tissues 
+from IL-10(-/-) than from WT mice challenged with C. difficile (P < 0.05).
+CONCLUSION: These results indicate that colitis is more severe after C. 
+difficile infection in IL-10(-/-)mice, and that IFN-γ expression is involved in 
+this process.

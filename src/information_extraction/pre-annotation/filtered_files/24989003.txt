@@ -1,0 +1,20 @@
+We designed new oral formulations containing indomethacin (IMC) solid 
+nanoparticles, and investigate their usefulness by evaluating bioavailability 
+and gastrointestinal lesions. The IMC solid nanoparticles were prepared using 
+methylcellulose (MC), 2-hydroxypropyl-β-cyclodextrin (HPβCD), and the bead mill 
+method, and high quality dispersions containing 1.0% IMC nanoparticles were 
+prepared (IMC(nano), particle size: 76 ± 58 nm, means ± S.D.). The fate of serum 
+IMC and the induction of paw edema in adjuvant-induced arthritis (AA) rats 
+receiving low-doses IMC(nano) (0.4 mg/kg) were similar to those following the 
+administration of a therapeutic dose of conventional IMC prepared with MC and 
+HPβCD (conventional IMC, 2 mg/kg), and the bioavailability in 0.4 mg/kg 
+IMC(nano) was 5.3-fold higher in comparison with that in 2 mg/kg conventional 
+IMC. IMC-induced gastrointestinal lesions in AA rats administered IMC(nano) (8 
+mg/kg), in consideration of bioavailability, were significantly less than for 
+conventional IMC (40 mg/kg). On the other hand, the toxicity caused by 
+conventional IMC and IMC(nano) was similar in Caco-2 cells. It is possible that 
+the oral administration of IMC solid nanoparticles will show increased 
+effectiveness in treating RA without causing IMC-induced gastrointestinal 
+lesions, since the bioavailability is higher than that of conventional IMC. An 
+oral drug delivery system using drug nanoparticles may expand the usage of 
+NSAIDs for therapy in the inflammatory field.

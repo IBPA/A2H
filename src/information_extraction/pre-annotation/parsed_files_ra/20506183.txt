@@ -1,0 +1,24 @@
+OBJECTIVE: In rheumatoid arthritis (RA), pain and joint destruction are 
+initiated and propagated by the production of proinflammatory mediators. 
+Synthesis of these mediators is regulated by the transcription factor NF-kappaB, 
+which is controlled by the ubiquitin proteasome system (UPS). The present study 
+explored the effects of the proteasome inhibitor MG132 on inflammation, pain, 
+joint destruction, and expression of sensory neuropeptides as markers of 
+neuronal response in a rat model of arthritis.
+METHODS: Arthritis was induced in rats by injection of heat-killed Mycobacterium 
+butyricum. Arthritis severity was scored, and nociception was evaluated by 
+mechanical pressure applied to the hind paw. Joint destruction was assessed by 
+radiologic and histologic analyses. NF-kappaB DNA-binding activity was analyzed 
+by electromobility shift assay, and changes in the expression of the p50 
+NF-kappaB subunit and the proinflammatory neuropeptides substance P (SP) and 
+calcitonin gene-related peptide (CGRP) were detected by immunohistochemistry.
+RESULTS: Arthritic rats treated with MG132 demonstrated a marked reduction in 
+inflammation, pain, and joint destruction. The elevated DNA-binding activity of 
+the NF-kappaB/p50 homodimer and p50, as well as the neuronal expression of SP 
+and CGRP, observed in the ankle joints of arthritic rats were normalized after 
+treatment with MG132.
+CONCLUSION: In arthritic rats, inhibition of proteasome reduced the severity of 
+arthritis and reversed the pain behavior associated with joint inflammation. 
+These effects may be mediated through the inhibition of NF-kappaB activation and 
+may possibly involve the peripheral nervous system. New generations of nontoxic 
+proteasome inhibitors may represent a novel pharmacotherapy for RA.

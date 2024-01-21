@@ -1,0 +1,17 @@
+Type II collagen (CII) is a target for autoreactive T cells in both rheumatoid 
+arthritis and the murine model collagen-induced arthritis. The determinant core 
+of CII has been identified as CII260-270, and the alteration of this T cell 
+epitope by posttranslational modifications is known to be critical for 
+development of arthritis in mice. Using CII-specific T cell hybridomas we have 
+now shown that the immunodominant T cell epitope in the normal (healthy) human 
+and rat joint cartilage is O-glycosylated at the critical T cell receptor 
+recognition position 264 with a mono- or di-saccharide attached to a 
+hydroxylysine. In contrast, in the arthritic human and rat joint cartilage there 
+are both glycosylated and non-glycosylated CII forms. Glycosylated CII from 
+normal cartilage could not be recognized by T cells reactive to peptides having 
+only lysine or hydroxylysine at position 264, showing that antigen-presenting 
+cells could not degrade the O-linked carbohydrate. Thus, the variable forms of 
+the glycosylated epitope are determined by the structures present in cartilage, 
+and these vary during the disease course. We conclude that the chondrocyte 
+determines the structures presented to the immune system and that these 
+structures are different in normal versus arthritic states.

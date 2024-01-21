@@ -1,0 +1,19 @@
+RhoB is the only member of the Rho subfamily of small GTPases, which is 
+classified as an immediate early gene product. RhoB is up-regulated in response 
+to growth factors as well as cytotoxic and genotoxic agents. Clostridial 
+glucosylating toxins have been reported to evoke pronounced RhoB expression, 
+based on the inactivation of Rho/Ras proteins. In this study, we report on a 
+long lasting expression of RhoB in cultured cells upon activation of Rho 
+proteins by the cytotoxic necrotizing factor 1 (CNF1) from Escherichia coli. The 
+observations of this study highlight a new pathway involving Rac1, which 
+positively regulates the activity of the rhoB promoter and RhoB expression. 
+Conversely, the isomeric cytotoxic necrotizing factor from Yersinia 
+pseudotuberculosis (CNFy) drives GTP-loading of basal RhoB but fails to cause 
+activation of the rhoB promoter and thus its expression. CNF1 inhibits 
+cytokinesis and induces the formation of bi-nucleated (tetraploid) cells. Upon 
+long term treatment with CNF1, RhoB(-/-) mouse embryonic fibroblasts (MEFs) 
+exhibit DNA fragmentation, phosphatidylserine exposure, and loss of membrane 
+integrity, while RhoB(+/-) MEFs persist as bi-nucleated (tetraploid) cells 
+without any signs of cell death. In conclusion, the cytoprotective RhoB response 
+is not only evoked by bacterial protein toxins inactivating Rho/Ras proteins but 
+also by the Rac1-activating toxin CNF1.

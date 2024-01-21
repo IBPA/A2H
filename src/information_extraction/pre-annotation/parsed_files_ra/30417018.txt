@@ -1,0 +1,15 @@
+Lymphocyte costimulation plays a central role in immunology, inflammation, and 
+immunotherapy. The inducible T cell costimulator (ICOS) is expressed on T cells 
+following peptide: MHC engagement with CD28 costimulation. The interaction of 
+ICOS with its sole ligand, the inducible T cell costimulatory ligand (ICOSL; 
+also known as B7-related protein-1), triggers a number of key activities of T 
+cells including differentiation and cytokine production. Suppression of T cell 
+activation can be achieved by blocking this interaction and has been shown to be 
+an effective means of ameliorating disease in models of autoimmunity. In this 
+study, we isolated specific anti-ICOSL new antigen receptor domains from a 
+synthetic phage display library and demonstrated their ability to block the 
+ICOS/ICOSL interaction and inhibit T cell proliferation. Anti-mouse ICOSL 
+domains, considered here as surrogates for the use of anti-human ICOSL domains 
+in patient therapy, were tested for efficacy in a collagen-induced mouse model 
+of rheumatoid arthritis where they significantly decreased the inflammation of 
+joints and delayed and reduced overall disease progression and severity.

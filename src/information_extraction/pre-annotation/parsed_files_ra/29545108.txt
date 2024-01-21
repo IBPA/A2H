@@ -1,0 +1,22 @@
+Yin Yang 1 (YY1) is a ubiquitously expressed transcription factor that functions 
+in cooperation with various cofactors to regulate gene expression. In the immune 
+system, YY1 enhances cytokine production and T helper (Th) 2 effector cell 
+differentiation, resulting in the activation of inflammation. However, no 
+studies have reported the role of YY1 in Th17 cell regulation, which is 
+implicated in rheumatoid arthritis (RA). We investigated the expression of YY1 
+in Th17 cells in vitro and revealed increased levels of YY1 mRNA and protein. To 
+elucidate the function of YY1 pathogenesis in RA, we used a collagen-induced 
+arthritis (CIA) mouse model with YY1 deficiency. Deficiency of YY1 reduced the 
+severity of arthritis and joint destruction. Moreover, Th17 cells were 
+dramatically reduced in YY1-deficient mice. The cytokine interleukin (IL)-17 was 
+decreased in YY1-deficient CD4+ T cells ex vivo and in vivo. Interestingly, the 
+level of signal transducer and activator of transcription 3 (STAT3), tumor 
+necrosis factor-α, IL-17, IL-6, and IL-1β were markedly decreased in 
+YY1-deficient mice with CIA. The cytokine-inducing function of YY1 was more 
+specific to IL-17 than to interferon-γ. YY1 plays a role in Th17 cell 
+differentiation and RA pathogenesis. Our findings suggest that future RA 
+therapies should target the regulatory mechanism involved in Th17 cell 
+differentiation, in which YY1 may cooperate with the STAT3 signaling pathway.
+
+Copyright © 2018 European Federation of Immunological Societies. Published by 
+Elsevier B.V. All rights reserved.

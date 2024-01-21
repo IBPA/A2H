@@ -1,0 +1,27 @@
+BACKGROUND: Recently, we found that the probiotic strain Bacillus coagulans 
+GBI-30, 6086 (GanedenBC30) improved indices of Clostridium difficile (C. 
+difficile)-induced colitis in mice (Fitzpatrick et al., Gut Pathogens, 2011). 
+Our goal was to determine if BC30 could also prevent the recurrence of C. 
+difficile-induced colitis in mice, following initial treatment with vancomycin. 
+During study days 0 through 5, mice were treated with antibiotics. On day 6, the 
+C. difficile strain VPI 10463 was given by oro-gastric gavage at ≈ 5x104 CFU to 
+induce colitis. Mice were treated on study days 6 to 10 with vancomycin (50 
+mg/kg) (vanco) or vehicle (saline) by gavage. On days 10 to16, mice were dosed 
+by gavage with saline vehicle or BC30 (2 x 109 CFU per day). Mice were monitored 
+for mortality, weight loss and diarrhea. On study days 14, 16 and 17, stools and 
+colons were collected for analyzing other parameters of colitis.
+RESULTS: The mean stool consistency score in Vehicle/C.difficile/Vanco mice 
+increased from 0.4 (day 10) to a range of 1.1 to 1.4 (days 14 to 17), indicating 
+the recurrence of colitis. On days 13 through 17, the stool consistency scores 
+for the vancomycin/BC30 mice were significantly lower (p< 0.05) than for the 
+vancomycin/vehicle cohort of animals. On day 17, 88.9% of mice treated with BC30 
+had normal stools, while this value was 0% with vehicle treatment (p value = 
+0.0004). Colonic myeloperoxidase (Units/2 cm colon) was significantly (p < 0.05) 
+reduced from 4.3 ± 0.7 (Vehicle/C.difficile/Vanco) to 2.6 ± 0.2 (BC30/C. 
+Difficle/Vanco). The colonic histology score and Keratinocyte derived-chemokine 
+level in the colon were also lower in BC30 treated mice.
+SUMMARY: In BC30-treated mice, there was evidence of better stool consistency, 
+as well as improved biochemical and histological indices of colitis, following 
+initial treatment of animals with vancomycin.
+CONCLUSION: BC30 limited the recurrence of CD-induced colitis following 
+vancomycin withdrawal in mice.

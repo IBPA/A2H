@@ -1,0 +1,19 @@
+Clostridium difficile infection (CDI) is the leading cause of antibiotic- and 
+healthcare-associated diarrhea. CXCL13 is a well-known CXC chemokine involved in 
+inflammation, but its role in CDI remains unknown. In this study, serum and 
+fecal samplings were collected from 51 CDI patients, 50 diarrhea patients 
+without CDI and 50 healthy control subjects to determine the CXCL13 levels by 
+enzyme-linked immunosorbent assay (ELISA). Besides, a mouse model of C. 
+difficile infection was established, and murine serum and colon tissues were 
+collected for detection of CXCL13 expression using quantitative real-time 
+RT-PCR, ELISA, Western blot, or immunohistochemistry. We found that CXCL13 
+concentration in serum and fecal samples from CDI patients was significantly 
+higher compared with that from diarrhea patients without CDI and that from 
+healthy controls. Elevated serum CXCL13 positively and significantly correlated 
+with blood markers of inflammation and yielded an increased area under the ROC 
+curve of 0.929. In murine C. difficile infection, CXCL13 were also dramatically 
+increased in serum and infected colon tissues at the transcriptional and protein 
+levels. The elevated CXCL13 levels positively and significantly correlated with 
+inflammatory scores. Therefore, CDI is associated with enhanced release of 
+CXCL13. This study indicated that CXCL13 may be pathogenically involved in CDI 
+and served as a potential new biomarker for diagnosis and prognosis in CDI.

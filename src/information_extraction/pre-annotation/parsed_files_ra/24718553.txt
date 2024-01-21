@@ -1,0 +1,25 @@
+Etanercept is a widespread biological drug for the treatment of rheumatoid 
+arthritis, which inhibits tumor necrosis factor-α (TNF-α). Recently, the 
+presence of antibodies targeting TNF-α inhibitors such as infliximab and 
+adalimumab, was reported. However, few reports have studied etanercept in a 
+mouse model of arthritis. We investigated the induction of anti-etanercept 
+antibody production, along with the antibody's potential interfering effects on 
+the biological function of etanercept, in mice with collagen-induced arthritis 
+(CIA). CIA mice received an intraperitoneal injection of etanercept (25, 100 or 
+400 µg per mouse). The degree of inflammation and cartilage erosion was 
+evaluated, and the number of osteoclasts in the ankle joints was assessed by 
+TRAP staining. The level of pro-inflammatory cytokines in the serum was 
+measured. To analyze the anti-osteoporotic effect of etanercept, microfocal 
+computed tomography analyses of femurs and tibias were performed. Etanercept 
+treatment decreased both the incidence and severity of arthritis in a 
+dose-dependent manner, except for the highest dose of 400 µg. The mice that were 
+treated with 25 and 100 µg etanercept showed an improvement in inflammation, 
+cartilage damage, and even bone loss. However, mice treated with 400 µg 
+etanercept showed no significant improvement in any of the tested parameters. 
+Using a customized enzyme-linked immunosorbent assay (ELISA), the presence of 
+the anti-etanercept antibody was detected in the serum in this 
+treatment-refractory group. The therapeutic effect of etanercept was reduced in 
+the CIA mice that developed the anti-etanercept antibody. In conclusion, the 
+production of an anti-etanercept antibody can be induced in CIA mice, and this 
+antibody can considerably reduce the anti-arthritic and anti-osteoporotic 
+effects of etanercept.

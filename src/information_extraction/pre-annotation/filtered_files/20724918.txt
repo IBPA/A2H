@@ -1,0 +1,19 @@
+Janus kinases (JAKs) are tyrosine kinases called JAK-1, JAK-2, JAK-3, and Tyk-2, 
+which have been shown to participate in the signaling pathways of several 
+cytokines that are believed to play a key role in several autoimmune-mediated 
+disorders including rheumatoid arthritis (RA). However, the availability of 
+JAK-specific antibodies to be used in investigative efficacy studies in RA 
+models is very limited. Therefore, in this study we developed and characterized 
+a JAK-2-specific antibody that was used to evaluate its immunohistochemical 
+expression in the joints of a rat adjuvant-induced arthritis (rAIA) RA 
+preclinical model. An immunogen peptide sequence design was used to generate 
+JAK-2-specific mouse, rat, and human polyclonal antibodies. JAK-2 plasmid cDNA 
+was then generated and HEK293 transfected cell lines, gel electrophoresis, 
+immunoblotting, and immunohistochemistry were used to further characterize the 
+generated JAK-2 antibodies. We show that the generated JAK-2 antibody exhibits 
+specificity and lacks cross-reactivity to JAK-1 and JAK-3. In addition, marked 
+JAK-2 expression is shown in the rAIA in mixed inflammatory cells (macrophages 
+and neutrophils), mast cells, and bone marrow elements. In conclusion, we show 
+the development and characterization of a JAK-2-specific antibody that can be 
+used in investigative and mechanistic studies such as preclinical efficacy 
+models.

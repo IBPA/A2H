@@ -1,0 +1,16 @@
+Interleukin-17 (IL-17) induces the production of granulocyte colony-stimulating 
+factor (G-CSF) and chemokines such as CXCL1 and CXCL2 and is a cytokine that 
+acts as an inflammation mediator. During infection, IL-17 is needed to eliminate 
+extracellular bacteria and fungi, by inducing antimicrobial peptides such as 
+defensin. This cytokine also plays an important role in chronic inflammation 
+that occurs during the pathogenesis of autoimmune diseases and allergies such as 
+human rheumatoid arthritis (RA) for which a mouse model of collagen-induced 
+arthritis (CIA) is available. In autoimmune diseases such as RA and multiple 
+sclerosis (MS), IL-17 is produced by helper T (Th) cells that are stimulated by 
+IL-1β and IL-6 derived from phagocytes such as macrophages and from tissue 
+cells. IL-17 contributes to various lesions that are produced by Th17 cells, one 
+subset of helper T cells, and by γδ T cells and innate lymphoid cells. It 
+strongly contributes to autoimmune diseases that are accompanied by chronic 
+inflammation. Thus, a functional understanding of Th17 cells is extremely 
+important. In this review, we highlight the roles of cytokines that promote the 
+development and maintenance of pathogenic Th17 cells in autoimmune diseases.

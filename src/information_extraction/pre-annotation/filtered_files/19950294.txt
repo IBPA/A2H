@@ -1,0 +1,26 @@
+OBJECTIVE: To map hypoxic areas in arthritic synovium and to establish the 
+relevance of low oxygen levels to the phenotype of synovial fibroblasts, with 
+special focus on bone degradation.
+METHODS: To analyze the distribution of hypoxia in arthritic joints, the hypoxia 
+marker EF5 was administered to mice with collagen-induced arthritis (CIA). To 
+evaluate the effect of hypoxia on rheumatoid arthritis synovial fibroblasts 
+(RASFs), reverse suppression subtractive hybridization and complementary DNA 
+array were used. Real-time polymerase chain reaction, Western blotting, and 
+immunohistochemistry were used to evaluate the expression of inhibitor of DNA 
+binding/differentiation 2 (ID-2). To investigate the function of ID-2 in RASFs, 
+cells were transfected either with ID-2 vector or with ID-2-specific small 
+interfering RNA.
+RESULTS: EF5 staining showed the presence of hypoxia in arthritic joints, 
+particularly at sites of synovial invasion into bone. Differential expression 
+analysis revealed that ID-2 was strongly induced by hypoxia in RASFs. 
+Immunohistochemical analysis of CIA mouse synovium and human RA synovium showed 
+a strong expression of ID-2 by RASFs at sites of synovial invasion into bone. 
+Overexpression of ID-2 in RASFs significantly induced the expression of several 
+factors promoting osteoclastogenesis. The biologic relevance of the potent 
+osteoclastogenesis-promoting effects was shown by coculture assays of 
+ID-2-overexpressing RASFs with bone marrow cells, leading to an increased 
+differentiation of osteoclasts from bone marrow precursors.
+CONCLUSION: The data show that hypoxic conditions are present at sites of 
+inflammation and synovial invasion into bone in arthritic synovium. 
+Hypoxia-induced ID-2 may contribute to joint destruction in RA patients by 
+promoting synovial fibroblast-dependent osteoclastogenesis.

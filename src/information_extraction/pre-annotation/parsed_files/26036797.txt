@@ -1,0 +1,12 @@
+Clostridium difficile is the major cause of hospital-acquired infectious 
+diarrhea and colitis in developed countries. The pathogenicity of C. difficile 
+is mainly mediated by the release of 2 large potent exotoxins, toxin A (TcdA) 
+and toxin B (TcdB), both of which require neutralization to prevent disease 
+occurrence. We have generated a novel chimeric protein, designated mTcd138, 
+comprised of the glucosyltransferase and cysteine proteinase domains of TcdB and 
+the receptor binding domain of TcdA and expressed it in Bacillus megaterium. To 
+ensure that mTcd138 is atoxic, 2 point mutations were introduced to the 
+glucosyltransferase domain of TcdB, which essentially eliminates toxicity of 
+mTcd138. Parenteral immunizations of mice and hamsters with mTcd138 induced 
+protective antibodies to both toxins and provided protection against infection 
+with the hyper-virulent C. difficile strain UK6.

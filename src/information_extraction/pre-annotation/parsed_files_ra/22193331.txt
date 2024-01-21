@@ -1,0 +1,23 @@
+Collagen-induced arthritis (CIA) in mice is an experimental model for rheumatoid 
+arthritis, a human chronic inflammatory destructive disease. The therapeutic 
+effect of neutralizing the cytokine granulocyte-macrophage colony-stimulating 
+factor (GM-CSF) by an antibody was examined in the mouse disease in a view of 
+deriving a pharmacokinetic/pharmacodynamic (PKPD) model. In CIA mice the 
+development of disease is measured by a total arthritic score (TAS) and an 
+ankylosis score (AKS). We present a multi-response PKPD model which describes 
+the time course of the unperturbed and perturbed TAS and AKS. The antibody acts 
+directly on GM-CSF by binding to it. Therefore, a compartment for the cytokine 
+GM-CSF is an essential component of the mathematical model. This compartment 
+drives the disease development in the PKPD model. Different known properties of 
+arthritis development in the CIA model are included in the PKPD model. Firstly, 
+the inflammation, driven by GM-CSF, dominates at the beginning of the disease 
+and decreases after some time. Secondly, a destructive (ankylosis) part evolves 
+in the TAS that is delayed in time. In order to model these two properties a 
+delay differential equation was used. The PKPD model was applied to different 
+experiments with doses ranging from 0.1 to 100 mg/kg. The influence of the drug 
+was modeled by a non-linear approach. The final mathematical model consists of 
+three differential equations representing the compartments for GM-CSF, 
+inflammation and destruction. Our mathematical model described well all 
+available dosing schedules by a simultaneous fit. We also present an equivalent 
+and easy reformulation as ordinary differential equation which grants the use of 
+standard PKPD software.

@@ -1,0 +1,18 @@
+Antibodies directed against tumor necrosis factor (TNF)-alpha are clinically 
+used for Crohn's disease, rheumatoid arthritis and psoriasis. TNF-alpha is also 
+an important cytokine in radiotherapy because it mediates inflammatory responses 
+in normal tissues. To study the influence of TNF-alpha inhibition on radiation 
+toxicity, we used a well-established mouse model of kidney irradiation, where 
+the portal also includes parts of the intestine. Mice were treated with 
+single-fraction radiotherapy to the right kidney with doses of 8 or 10 Gy with 
+or without the monoclonal TNF-alpha antibody infliximab injected i.v. in three 
+doses. The kidney function was assessed by means of repeated 
+99mTc-dimercaptosuccinate scans during a maximum follow-up of 49 weeks. 
+Treatment with infliximab significantly exacerbated radiation nephropathy at all 
+time points, both in the 8 Gy and 10 Gy groups. The drug itself is not known to 
+cause renal impairment. In the control group irradiated with 10 Gy, one mouse 
+died from delayed radiation-induced intestinal toxicity. Skin reactions and 
+general performance status were also similar across the groups. These data 
+suggest that administration of infliximab concomitant to radiotherapy causes 
+profound alterations in the development of kidney dysfunction. Importantly, 
+other radiation-related toxicities were similar across all groups.

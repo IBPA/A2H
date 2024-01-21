@@ -1,0 +1,19 @@
+OBJECTIVE: To identify novel arthritis-associated and/or cartilage-specific 
+self-epitopes recognized by T cells in patients with rheumatoid arthritis (RA).
+METHODS: Human analogs of several self-epitopes recognized in the rat adjuvant 
+arthritis (AA) model (n = 13) were tested for T cell recognition in patients 
+with RA and healthy controls. Recognition was assessed by proliferative activity 
+of peripheral blood mononuclear cells (PBMC). In addition, cytokine production 
+was determined.
+RESULTS: Six out of the 13 peptides recognized during AA were also recognized by 
+more than 20% of the RA patients, in contrast to only one out of the 16 control 
+peptides that were not recognized during AA. The highest proliferative responses 
+were to matrix metalloproteinase (MMP)-derived peptides. The response to a MMP-1 
+epitope was significantly higher in RA patients than in healthy controls. 
+Moreover, this MMP-1 epitope increased interleukin 4 (IL-4) production of RA 
+PBMC and decreased IL-4 production by control PBMC. The proliferative response 
+to a MMP-3 epitope was similar in RA patients and controls; however, the MMP-3 
+epitope increased IL-4, and concomitantly IL-1beta and tumor necrosis factor-a 
+production of RA PBMC, whereas these cytokines were unaffected in control PBMC.
+CONCLUSION: This study shows the presence of immune reactions to MMP-derived T 
+cell epitopes that are associated with RA, suggesting a novel role of MMP in RA.

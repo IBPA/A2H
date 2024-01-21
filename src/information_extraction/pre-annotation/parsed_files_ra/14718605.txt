@@ -1,0 +1,23 @@
+Tumor necrosis factor (TNF)-alpha is a well validated therapeutic target for the 
+treatment of rheumatoid arthritis. TNF-alpha is initially synthesized as a 
+26-kDa membrane-bound form (pro-TNF) that is cleaved by a Zn-metalloprotease 
+named TNF-alpha-converting enzyme (TACE) to generate the 17-kDa, soluble, mature 
+TNF-alpha. TACE inhibitors that prevent the secretion of soluble TNF-alpha may 
+be effective in treating rheumatoid arthritis (RA) patients. Using a 
+structure-based design approach, we have identified a novel dual TACE/matrix 
+metalloprotease (MMP) inhibitor 
+4-[[4-(2-butynyloxy)phenyl]sulfonyl]-N-hydroxy-2,2-dimethyl-(3S)thiomorpholinecarboxamide 
+(TMI-1). This molecule inhibits TACE and several MMPs with nanomolar IC(50) 
+values in vitro. In cell-based assays such as monocyte cell lines, human primary 
+monocytes, and human whole blood, it inhibits lipopolysaccharide (LPS)-induced 
+TNF-alpha secretion at submicromolar concentrations, whereas there is no effect 
+on the TNF-alpha mRNA level as judged by RNase protection assay. The inhibition 
+of LPS-induced TNF-alpha secretion is selective because TMI-1 has no effect on 
+the secretion of other proinflammatory cytokines such as interleukin (IL)-1beta, 
+IL-6, and IL-8. Importantly, TMI-1 potently inhibits TNF-alpha secretion by 
+human synovium tissue explants of RA patients. In vivo, TMI-1 is highly 
+effective in reducing clinical severity scores in mouse prophylactic 
+collagen-induced arthritis (CIA) at 5, 10, and 20 mg/kg p.o. b.i.d. and 
+therapeutic CIA model at 100 mg/kg p.o. b.i.d. In summary, TMI-1, a dual 
+TACE/MMP inhibitor, represents a unique class of orally bioavailable small 
+molecule TNF inhibitors that may be effective and beneficial for treating RA.

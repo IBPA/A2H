@@ -1,0 +1,24 @@
+OBJECTIVE: Membrane type 1 matrix metalloproteinase (MT1-MMP) is expressed 
+prominently in rheumatoid arthritis synovial fibroblasts (RASFs), but the 
+specific contribution of MT1-MMP to fibroblast-mediated destruction of articular 
+cartilage is incompletely understood. This study used gene transfer of an 
+antisense expression construct to assess the effects of MT1-MMP inhibition on 
+the invasiveness of RASFs.
+METHODS: Retroviral gene transfer of a pLXIN vector-based antisense RNA 
+expression construct (MT1-MMPalphaS) to MT1-MMP was used to stably transduce 
+RASFs. Levels of MT1-MMP RNA and protein were determined by quantitative 
+polymerase chain reaction, Western blotting, and immunocytochemistry in 
+MT1-MMPalphaS-transduced RASFs as well as in control cells, with monitoring for 
+60 days. The effects of MT1-MMPalphaS on the invasiveness of RASFs were analyzed 
+in the SCID mouse co-implantation model of RA.
+RESULTS: MT1-MMPalphaS-transduced RASFs produced high levels of antisense RNA 
+that exceeded endogenous levels of MT1-MMP messenger RNA by 15-fold and resulted 
+in a down-regulation of MT1-MMP at the protein level. Inhibition of MT1-MMP 
+production was maintained for 60 days and significantly reduced the invasiveness 
+of RASFs in the SCID mouse model. Whereas prominent invasion into cartilage by 
+non-transduced and mock-transduced RASFs was observed (mean invasion scores 3.0 
+and 3.1, respectively), MT1-MMPalphaS-transduced cells showed only moderate 
+invasiveness (mean invasion score 1.8; P < 0.05).
+CONCLUSION: The data demonstrate that an antisense RNA expression construct 
+against MT1-MMP can be generated and expressed in RASFs for at least 60 days. 
+Inhibition of MT1-MMP significantly reduces the cartilage degradation by RASFs.

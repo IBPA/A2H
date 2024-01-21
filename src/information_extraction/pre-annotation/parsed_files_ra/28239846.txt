@@ -1,0 +1,26 @@
+BACKGROUND AND PURPOSE: Abnormal glycolytic metabolism contributes to joint 
+inflammation in rheumatoid arthritis (RA). The aims of this study were to 
+investigate the role of 6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 3 
+(PFKFB3), a bifunctional enzyme that controls the glycolytic rate, in regulating 
+fibroblast-like synoviocyte (FLS)-mediated synovial inflammation and 
+invasiveness in RA.
+EXPERIMENTAL APPROACH: A specific inhibitor of PFKFB3, PFK15, and siRNA were 
+used to evaluate the role of PFKFB3. Protein expression was measured by Western 
+blotting or immunofluorescence staining. The expression of cytokines was 
+determined by quantitative real-time PCR. Migration and invasion were measured 
+using a Boyden chamber assay. A mouse model of collagen-induced arthritis (CIA) 
+was used to evaluate the in vivo effect of PFK15.
+KEY RESULTS: PFKFB3 expression was increased in the synovial tissue and FLSs 
+from RA patients compared with osteoarthritis patients. PFKFB3 inhibition 
+decreased the expression of IL-8, IL-6, CCL-2 and CXCL-10 and the proliferation, 
+migration and invasion of RA FLSs. PFK15 suppressed TNF-α-induced activation of 
+NF-κB and p38, JNK and ERK MAPK signals in RA FLSs. PFK15 treatment also 
+suppressed glucose uptake and lactate secretion. Lactate reversed the inhibitory 
+effect of PFK15 or PFKFB3 siRNA on cytokine expression and migration of RA FLSs. 
+Lactate was also involved in PFKFB3-mediated activation of NF-κB and MAPKs. 
+Intraperitoneal injection of PFK15 in mice with CIA attenuated joint 
+inflammation.
+CONCLUSION AND IMPLICATIONS: Elevated PFKFB3 expression might contribute to 
+synovial inflammation and aggressive behaviours of RA FLSs, suggesting a novel 
+strategy of targeting PFKFB3 to prevent synovial inflammation and joint 
+destruction in RA.

@@ -1,0 +1,21 @@
+IL-6 is a multifunctional cytokine produced by lymphoid and nonlymphoid cells; 
+it regulates immune responses, acute-phase reactions, and inflammation. IL-6 
+signaling is mediated exclusively by the common signal-transducing component 
+gp130, which is also essential for signal transduction of other cytokines of the 
+leukemia inhibitory factor (LIF)/IL-6 family. M Ernst and colleagues generated 
+and studied knock-in mice (gp130DeltaSTAT/DeltaSTAT), in which all STAT-binding 
+sites (sites binding signal transducers and activators of transcription) were 
+deleted from their gene encoding gp130 but binding sites for both Janus kinases 
+(JAKs) and for the protein tyrosine phosphatase-2 (SHP-2) were preserved. They 
+found that this mutant mouse displayed a blastocyst implantation defect, 
+gastrointestinal ulceration, and, interestingly, severe joint disease with 
+representative features of rheumatoid arthritis. Synovial cells from this mouse 
+exhibited mitogenic hyper-responsiveness to cytokines of the LIF/IL-6 family, a 
+phenomenon that was caused by sustained gp130-mediated SHP-2/Ras/Erk activation 
+due to a defect in the induction of SOCS-1 (suppressor of cytokine signaling-1; 
+also known as SSI or JAB). This suppressor, induced by STAT signaling, regulates 
+cytokine signaling. It is, therefore, conceivable that the disturbance of the 
+balanced activation between the STAT and SHP-2/Ras/Erk signal pathways causes 
+the joint disease in the gp130DeltaSTAT/DeltaSTAT mouse. These findings may be 
+beneficial in the elucidation of the cause and the treatment of rheumatoid 
+arthritis in humans.

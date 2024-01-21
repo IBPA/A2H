@@ -1,0 +1,11 @@
+The discovery and characterization of 7k (BMS-582949), a highly selective p38α 
+MAP kinase inhibitor that is currently in phase II clinical trials for the 
+treatment of rheumatoid arthritis, is described. A key to the discovery was the 
+rational substitution of N-cyclopropyl for N-methoxy in 1a, a previously 
+reported clinical candidate p38α inhibitor. Unlike alkyl and other cycloalkyls, 
+the sp(2) character of the cyclopropyl group can confer improved H-bonding 
+characteristics to the directly substituted amide NH. Inhibitor 7k is slightly 
+less active than 1a in the p38α enzymatic assay but displays a superior 
+pharmacokinetic profile and, as such, was more effective in both the acute 
+murine model of inflammation and pseudoestablished rat AA model. The binding 
+mode of 7k with p38α was confirmed by X-ray crystallographic analysis.

@@ -1,0 +1,11 @@
+Predicting dynamics of host-microbial ecosystems is crucial for the rational 
+design of bacteriotherapies. We present MDSINE, a suite of algorithms for 
+inferring dynamical systems models from microbiome time-series data and 
+predicting temporal behaviors. Using simulated data, we demonstrate that MDSINE 
+significantly outperforms the existing inference method. We then show MDSINE's 
+utility on two new gnotobiotic mice datasets, investigating infection with 
+Clostridium difficile and an immune-modulatory probiotic. Using these datasets, 
+we demonstrate new capabilities, including accurate forecasting of microbial 
+dynamics, prediction of stable sub-communities that inhibit pathogen growth, and 
+identification of bacteria most crucial to community integrity in response to 
+perturbations.

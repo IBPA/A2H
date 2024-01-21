@@ -1,0 +1,19 @@
+OBJECTIVE: To develop a new chronic rheumatoid arthritis model that is driven by 
+the innate immune system.
+METHODS: Injection of a cocktail of 4 monoclonal antibodies against type II 
+collagen, followed on days 5 and 60 by intraperitoneal injections of mannan 
+(from Saccharomyces cerevisiae), was used to induce development of chronic 
+arthritis in B10.Q mice. The role of the innate immune system as compared to the 
+adaptive immune system in this arthritis model was investigated using 
+genetically modified mouse strains.
+RESULTS: A new model of chronic relapsing arthritis was characterized in B10.Q 
+mice, in which a persistently active, chronic disease was found. This relapsing 
+disease was driven by macrophages lacking the ability to mount a reactive oxygen 
+species response against pathogens, and was associated with the 
+classical/alternative pathway, but not the lectin pathway, of complement 
+activation. The disease was independent of Fcγ receptor type III, and also 
+independent of the activity of adaptive immune cells (B and T cells), indicating 
+that the innate immune system, involving complement activation, could be the 
+sole driver of chronicity.
+CONCLUSION: Chronic active arthritis can be driven innately by macrophages 
+without the involvement of T and B cells in the adaptive immune system.

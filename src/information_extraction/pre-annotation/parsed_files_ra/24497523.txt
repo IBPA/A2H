@@ -1,0 +1,31 @@
+OBJECTIVE: The parasitic worm-derived immunomodulator ES-62 protects against 
+disease in the mouse collagen-induced arthritis (CIA) model of rheumatoid 
+arthritis (RA) by suppressing pathogenic interleukin-17 (IL-17) responses. The 
+Th17-associated cytokine IL-22 also appears to have a pathogenic role in 
+autoimmune arthritis, particularly in promoting proinflammatory responses by 
+synovial fibroblasts and osteoclastogenesis. The present study was undertaken to 
+investigate whether the protection against joint damage afforded by ES-62 also 
+reflects suppression of IL-22.
+METHODS: The role(s) of IL-22 was assessed by investigating the effects of 
+neutralizing anti-IL-22 antibodies and recombinant IL-22 (rIL-22) on 
+proinflammatory cytokine production, synovial fibroblast responses, and joint 
+damage in mice with CIA in the presence or absence of ES-62.
+RESULTS: Neutralization of IL-22 during the initiation phase abrogated CIA, 
+while administration of rIL-22 enhanced synovial fibroblast responses and 
+exacerbated joint pathology. In contrast, after disease onset anti-IL-22 did not 
+suppress progression, whereas administration of rIL-22 promoted resolution of 
+inflammation. Consistent with these late antiinflammatory effects, the 
+protection afforded by ES-62 was associated with elevated levels of IL-22 in the 
+serum and joints that reflected a desensitization of the synovial fibroblast 
+responses. Moreover, neutralization of IL-22 during the late effector stage of 
+disease prevented ES-62-mediated desensitization of synovial fibroblast 
+responses and protection against CIA.
+CONCLUSION: IL-22 plays a dual role in CIA, being pathogenic during the 
+initiation phase while acting to resolve inflammation and joint damage during 
+established disease. Harnessing of the tissue repair properties of IL-22 by 
+ES-62 highlights the potential for joint-targeted therapeutic modulation of 
+synovial fibroblast responses and consequent protection against bone damage in 
+RA.
+
+© 2014 The Authors. Arthritis & Rheumatology is published by Wiley Periodicals, 
+Inc. on behalf of the American College of Rheumatology.

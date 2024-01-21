@@ -1,0 +1,19 @@
+Rheumatoid arthritis (RA) is a chronic autoimmune disease with high morbidity 
+and mortality. Fibroblast-like synoviocytes (FLS) in the synovial tissues play 
+critical roles in joint destruction. Recent studies implicate the sumoylation in 
+the regulation of the inflammation and arthritis. Thus, we explored whether 
+SUMO-conjugating enzyme UBC9 is involved in the progression of RA using a mouse 
+collagen-induced arthritis (CIA) model. The effects of UBC9 siRNA on cell 
+invasion and migration in human RA-FLS were also assessed in vitro. Treatment 
+with siRNA against UBC9 for 3 weeks reduced the arthritis score and joint 
+destruction. The expression of SUMO-1 and UBC9 protein in CIA joints was 
+inhibited by UBC9 knockdown. Serum levels of anti-collagen (CII) antibodies, 
+vascular endothelial growth factor A (VEGF-A), matrix metalloproteinases 
+(MMP)-3, and MMP-9 were also decreased in CIA mice. In vitro, UBC9 silencing 
+inhibited the secretion of VEGF-A, MMP-3, and MMP-9 from TNF-α-stimulated human 
+RA-FLS. TNF-α-induced RA-FLS proliferation and migration were significantly 
+attenuated by UBC9 knockdown. These findings indicate that SUMO-conjugating 
+enzyme UBC9 promotes proliferation and migration of fibroblast-like synoviocytes 
+in rheumatoid arthritis. Inhibition of UBC9 activity may be a viable therapeutic 
+target in amelioration of disease progression in RA by attenuating FLS 
+proliferation, migration, and invasion.

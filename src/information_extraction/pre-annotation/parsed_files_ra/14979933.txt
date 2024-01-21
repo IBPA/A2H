@@ -1,0 +1,22 @@
+Endogenous opioid peptides have an essential role in the intrinsic modulation 
+and control of inflammatory pain, which could be therapeutically useful. In this 
+study, we established a muscular electroporation method for the gene transfer of 
+pro-opiomelanocortin (POMC) in vivo and investigated its effect on inflammatory 
+pain in a rat model of rheumatoid arthritis. The gene encoding human POMC was 
+inserted into a modified pCMV plasmid, and 0-200 microg of the plasmid-POMC DNA 
+construct was transferred into the tibialis anterior muscle of rats treated with 
+complete Freund's adjuvant (CFA) with or without POMC gene transfer by the 
+electroporation method. The safety and efficiency of the gene transfer was 
+assessed with the following parameters: thermal hyperalgesia, serum 
+adrenocorticotropic hormone (ACTH) and endorphin levels, paw swelling and muscle 
+endorphin levels at 1, 2 and 3 weeks after electroporation. Serum ACTH and 
+endorphin levels of the group into which the gene encoding POMC had been 
+transferred were increased to about 13-14-fold those of the normal control. 
+These levels peaked 1 week after electroporation and significantly decreased 2 
+weeks after electroporation. Rats that had received the gene encoding POMC had 
+less thermal hypersensitivity and paw swelling than the non-gene-transferred 
+group at days 3, 5 and 7 after injection with CFA. Our promising results showed 
+that transfer of the gene encoding POMC by electroporation is a new and 
+effective method for its expression in vivo, and the analgesic effects of POMC 
+cDNA with electroporation in a rat model of rheumatoid arthritis are reversed by 
+naloxone.

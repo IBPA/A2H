@@ -1,0 +1,14 @@
+Clostridium difficile is the leading cause of nosocomial diarrhea and colitis in 
+the industrialized world. Disruption of the protective gut microbiota by 
+antibiotics enables colonization by multidrug-resistant C. difficile, which 
+secrete up to three different protein toxins that are responsible for the 
+gastrointestinal sequelae. Oral agents that inhibit the damage induced by 
+toxins, without altering the gut microbiota, are urgently needed to prevent 
+primary disease and break the cycle of antibiotic-induced disease recurrence. 
+Here, we show that the anthelmintic drug, niclosamide, inhibits the pathogenesis 
+of all three toxins by targeting a host process required for entry into 
+colonocytes by each toxin. In mice infected with an epidemic strain of C. 
+difficile, expressing all three toxins, niclosamide reduced both primary disease 
+and recurrence, without disrupting the diversity or composition of the gut 
+microbiota. Given its excellent safety profile, niclosamide may address an 
+important unmet need in preventing C. difficile primary and recurrent diseases.

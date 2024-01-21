@@ -1,0 +1,19 @@
+We reported recently that albumin is a suitable drug carrier for targeted 
+delivery of methotrexate (MTX) to tumors. Due to pathophysiological conditions 
+in neoplastic tissue, high amounts of albumin accumulate in tumors and are 
+metabolized by malignant cells. MTX, covalently coupled to human serum albumin 
+(MTX-HSA) for cancer treatment, is currently being evaluated in phase II 
+clinical trials. Because synovium of patients with rheumatoid arthritis (RA) 
+shares various features observed also in tumors, albumin-based drug targeting of 
+inflamed joints might be an attractive therapeutic approach. Therefore, the 
+pharmacokinetics of albumin and MTX in a mouse model of arthritis was examined. 
+Additionally, uptake of albumin by synovial fibroblasts of RA patients and the 
+efficacy of MTX and MTX-HSA in arthritic mice were studied. The results show 
+that when compared with MTX, significantly higher amounts of albumin accumulate 
+in inflamed paws, and significantly lower amounts of albumin are found in the 
+liver and the kidneys. The protein is metabolized by human synovial fibroblasts 
+in vitro and in vivo. MTX-HSA was significantly more effective in suppression of 
+the onset of arthritis in mice than was MTX. In conclusion, albumin appears to 
+be a suitable drug carrier in RA, most likely due to effects on synovial 
+fibroblasts, which might increase therapeutic efficacy and reduce side effects 
+of MTX.

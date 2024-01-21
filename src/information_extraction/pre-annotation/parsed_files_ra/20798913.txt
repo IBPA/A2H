@@ -1,0 +1,17 @@
+Ectopic lymphoid follicles are a key feature of chronic inflammatory autoimmune 
+and infectious diseases, such as rheumatoid arthritis, Sjögren's syndrome, and 
+Helicobacter pylori-induced gastritis. Homeostatic chemokines are considered to 
+be involved in the formation of such tertiary lymphoid tissue. High expression 
+of CXCL13 and its receptor, CXCR5, has been associated with the formation of 
+ectopic lymphoid follicles in chronic infectious diseases. Here, we defined the 
+role of CXCR5 in the development of mucosal tertiary lymphoid tissue and gastric 
+inflammation in a mouse model of chronic H. pylori infection. CXCR5-deficient 
+mice failed to develop organized gastric lymphoid follicles despite similar 
+bacterial colonization density as infected wild-type mice. CXCR5 deficiency 
+altered Th17 responses but not Th1-type cellular immune responses to H. pylori 
+infection. Furthermore, CXCR5-deficient mice exhibited lower H. pylori-specific 
+serum IgG and IgA levels and an overall decrease in chronic gastric immune 
+responses. In conclusion, the development of mucosal tertiary ectopic follicles 
+during chronic H. pylori infection is strongly dependent on the CXCL13/CXCR5 
+signaling axis, and lack of de novo lymphoid tissue formation attenuates chronic 
+immune responses.

@@ -1,0 +1,24 @@
+Recent evidence indicates that the antimalarial agent artesunate (ART) has 
+immunomodulatory properties that may be useful for treating rheumatoid arthritis 
+(RA). However, the effects of ART on the RA animal model have not been 
+described. The current study aimed to evaluate the antiarthritic effect of ART 
+and explore the potential mechanism on type II collagen-induced arthritis (CIA) 
+in rats. From the day of arthritis onset, rats were treated daily by gavage with 
+leflunomide (Lef) or ART at a dosage of 10 mg/kg/d or 5 mg/kg/d, respectively, 
+for 16 days. The severity of arthritis and levels of pro- and anti-inflammatory 
+cytokines in site were measured. The expression and activity of 
+metalloproteinase (MMP)-2 and MMP-9 were determined. The activation of nuclear 
+factor kappa B and mitogen-activated protein kinase signaling pathways was 
+investigated in rats with CIA and in Raw264.7 cells. Our results showed that ART 
+treatment significantly attenuated inflammation symptoms and prevented cartilage 
+and bone destruction. ART decreased expression of the proinflammatory cytokines 
+interleukin-1β, tumor necrosis factor-α, and interleukin-17α. Both expression 
+and activity of MMP-9 were efficiently inhibited by ART. ART significantly 
+inhibited the degradation of IκB and activation of extracellular 
+signal-regulated kinase and c-Jun N-terminal kinase in rats with CIA and in 
+lipopolysaccharide-stimulated Raw264.7 cells. The present study demonstrated 
+that ART ameliorated rat CIA. The antiarthritic effect might be achieved by 
+inhibiting the action of proinflammatory cytokines and the activity of MMP-9 via 
+suppression of nuclear factor kappa B and mitogen-activated protein kinase 
+signaling pathway. These results show that ART may be used as an adjuvant 
+therapy for patients with RA.

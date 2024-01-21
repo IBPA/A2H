@@ -1,0 +1,20 @@
+Type 1 diabetes (T1D) results from the autoimmune destruction of 
+insulin-producing beta-cells in the pancreas. Recruitment of inflammatory cells 
+is prerequisite to beta-cell-injury. The junctional adhesion molecule (JAM) 
+family proteins JAM-B and JAM-C are involved in polarized leukocyte 
+transendothelial migration and are expressed by vascular endothelial cells of 
+peripheral tissue and high endothelial venules in lympoid organs. Blocking of 
+JAM-C efficiently attenuated cerulean-induced pancreatitis, rheumatoid arthritis 
+or inflammation induced by ischemia and reperfusion in mice. In order to 
+investigate the influence of JAM-C on trafficking and transmigration of 
+antigen-specific, autoaggressive T-cells, we used transgenic mice that express a 
+protein of the lymphocytic choriomeningitis virus (LCMV) as a target autoantigen 
+in the β-cells of the islets of Langerhans under the rat insulin promoter (RIP). 
+Such RIP-LCMV mice turn diabetic after infection with LCMV. We found that upon 
+LCMV-infection JAM-C protein was upregulated around the islets in RIP-LCMV mice. 
+JAM-C expression correlated with islet infiltration and functional beta-cell 
+impairment. Blockade with a neutralizing anti-JAM-C antibody reduced the T1D 
+incidence. However, JAM-C overexpression on endothelial cells did not accelerate 
+diabetes in the RIP-LCMV model. In summary, our data suggest that JAM-C might be 
+involved in the final steps of trafficking and transmigration of 
+antigen-specific autoaggressive T-cells to the islets of Langerhans.

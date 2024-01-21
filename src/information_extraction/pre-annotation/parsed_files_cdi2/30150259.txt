@@ -1,0 +1,21 @@
+The symptoms of Clostridium difficile infection (CDI) are attributed largely to 
+two C. difficile toxins, TcdA and TcdB. Significant efforts have been devoted to 
+developing vaccines targeting both toxins through parenteral immunization 
+routes. However, C. difficile is an enteric pathogen, and mucosal/oral 
+immunization would be particularly useful to protect the host against CDI, 
+considering that the gut is the main site of disease onset and progression. 
+Moreover, vaccines directed only against toxins do not target the cells and 
+spores that transmit the disease. Previously, we constructed a chimeric vaccine 
+candidate, mTcd138, comprised of the glucosyltransferase and cysteine proteinase 
+domains of TcdB and the receptor binding domain of TcdA. In this study, to 
+develop an oral vaccine that can target both C. difficile toxins and 
+colonization/adhesion factors, we expressed mTcd138 in a nontoxigenic C. 
+difficile (NTCD) strain, resulting in strain NTCD_mTcd138. Oral immunization 
+with spores of NTCD_mTcd138 provided mice full protection against infection with 
+a hypervirulent C. difficile strain, UK6 (ribotype 027). The protective strength 
+and efficacy of NTCD_mTcd138 were further evaluated in the acute CDI hamster 
+model. Oral immunization with spores of NTCD_mTcd138 also provided hamsters 
+significant protection against infection with 2 × 104 UK6 spores, a dose 
+200-fold higher than the lethal dose of UK6 in hamsters. These results imply 
+that the genetically modified, nontoxigenic C. difficile strain expressing 
+mTcd138 may represent a novel mucosal vaccine candidate against CDI.

@@ -1,0 +1,24 @@
+OBJECTIVE: Tumor necrosis factor-alpha (TNF-alpha) has been shown to inhibit 
+germ cell death in human seminiferous epithelium. In the present study, we 
+wanted to explore the effects of TNF-alpha in the rat seminiferous epithelium 
+and to study molecular mechanisms of germ cell apoptosis. Furthermore, the 
+effects of infliximab were studied. Infliximab is a TNF-alpha antagonist used in 
+autoimmune disorders, such as rheumatoid arthritis and Crohn's disease.
+METHODS: Rat seminiferous tubule segments were cultured in the presence and 
+absence of TNF-alpha, infliximab and SN50, a NF-kappa B inhibitor. 
+TUNEL-staining and cleaved caspase-3 immunohistochemistry combined with squash 
+preparations of rat seminiferous tubule segments were used to evaluate the 
+number of apoptotic cells. Western blot analyses were performed on cultured 
+seminiferous tubule segments for Bcl-2 family proteins (Bax, Bad, Bcl-w, Bcl-xL) 
+and fas ligand.
+RESULTS: TNF-alpha promotes cell survival in the rat seminiferous epithelium, 
+and this prosurvival effect can be blocked by infliximab, a TNF-alpha 
+antagonist. Bcl-xL was found to be upregulated in mitochondrial membranes by 
+TNF-alpha, and this upregulation was inhibited by infliximab. Inhibition of 
+NF-kappa B translocation to the nucleus prevented the prosurvival effect of 
+TNF-alpha on seminiferous epithelium.
+CONCLUSIONS: The present study demonstrates that TNF-alpha promotes cell 
+survival in the rat seminiferous epithelium, and this effect can be blocked by 
+infliximab. This is the first study to show the effects of infliximab in the 
+testis. The prosurvival effect of TNF-alpha might be at least partly mediated by 
+modulating the expression and subcellular localization of Bcl-2 family proteins.

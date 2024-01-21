@@ -1,0 +1,12 @@
+The p38alpha mitogen-activated protein (MAP) kinase is a central signaling 
+molecule in many proinflammatory pathways, regulating the cellular response to a 
+multitude of external stimuli including heat, ultraviolet radiation, osmotic 
+shock, and a variety of cytokines especially interleukin-1beta and tumor 
+necrosis factor alpha. Thus, inhibitors of this enzyme are postulated to have 
+significant therapeutic potential for the treatment of rheumatoid arthritis, 
+inflammatory bowel disease, and Crohn's disease, as well as other diseases where 
+aberrant cytokine signaling is the driver of disease. In this communication, we 
+describe a novel class of 7-alkyl-1,5-bis-aryl-pyrazolopyridinone-based p38alpha 
+inhibitors. In particular, compound 3f is highly potent in the enzyme and 
+cell-based assays, selective in an Ambit kinase screen, and efficacious (ED(50) 
+< or = 0.01 mg/kg) in the rat collagen induced arthritis (CIA) model.

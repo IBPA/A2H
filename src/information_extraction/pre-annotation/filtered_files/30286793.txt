@@ -1,0 +1,28 @@
+BACKGROUND: Expression of E2F transcription factor 2 (E2F2), a transcription 
+factor related to the cell cycle, is abnormally high in rheumatoid arthritis 
+synovial fibroblasts (RASFs). Deregulated expression of E2F2 leads to abnormal 
+production of proinflammatory cytokines, such as interleukin (IL)-1α, IL-1β, and 
+tumor necrosis factor (TNF)-α in RASFs. However, the underlying mechanism by 
+which E2F2 regulates expression of IL-1α, IL-1β, and TNF-α has not been fully 
+elucidated. This study aimed to elucidate this mechanism and confirm the 
+pathological roles of E2F2 in rheumatoid arthritis (RA).
+METHODS: E2f2 knockout (KO) and wild-type (WT) mice were injected with collagen 
+to induce RA. Cytokine production was assessed by quantitative real-time 
+polymerase chain reaction (qRT-PCR) and enzyme-linked immunosorbent assay 
+(ELISA). Western blot and qRT-PCR were performed to evaluate the effect of E2F2 
+on signaling pathway activity. Chromatin immunoprecipitation (ChIP)-PCR and 
+luciferase assays were used to detect the transcriptional activity of target 
+genes of E2F2. Nuclear translocation of STAT1 and p65 were assayed by Western 
+blot, co-immunoprecipitation (co-IP), and immunofluorescence experiments.
+RESULTS: The occurrence and severity of collagen-induced arthritis were 
+decreased in E2f2-KO mice compared with WT mice. The expression of IL-1α, IL-1β, 
+and TNF-α was also suppressed in mouse embryonic fibroblasts (MEFs) from E2f2-KO 
+mice and RASFs with E2F2 knocked down. Mechanistically, we found that E2F2 can 
+upregulate the expression of STAT1 and MyD88 through direct binding to their 
+promoters, facilitate the formation of STAT1/MyD88 complexes, and consequently 
+activate AKT. However, silencing STAT1/MyD88 or inactivating AKT significantly 
+attenuated the induction of IL-1α, IL-1β, and TNF-α caused by the introduction 
+of E2F2.
+CONCLUSIONS: This study confirms the pathological role of E2F2 in RA and found 
+that the E2F2-STAT1/MyD88-Akt axis is closely related with the inflammatory 
+phenotype in RASFs.

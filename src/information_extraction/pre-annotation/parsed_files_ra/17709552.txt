@@ -1,0 +1,17 @@
+In mice, genetic deletion of B cells strongly suppresses systemic autoimmunity, 
+providing a rationale for depleting B cells to treat autoimmunity. In fact, B 
+cell depletion with rituximab is approved for rheumatoid arthritis patients, and 
+clinical trials are underway for systemic lupus erythematosus. Yet, basic 
+questions concerning mechanism, pathologic effect, and extent of B cell 
+depletion cannot be easily studied in humans. To better understand how B cell 
+depletion affects autoimmunity, we have generated a transgenic mouse expressing 
+human CD20 on B cells in an autoimmune-prone MRL/MpJ-Fas(lpr) (MRL/lpr) 
+background. Using high doses of a murine anti-human CD20 mAb, we were able to 
+achieve significant depletion of B cells, which in turn markedly ameliorated 
+clinical and histologic disease as well as antinuclear Ab and serum autoantibody 
+levels. However, we also found that B cells were quite refractory to depletion 
+in autoimmune-prone strains compared with non-autoimmune-prone strains. This was 
+true with multiple anti-CD20 Abs, including a new anti-mouse CD20 Ab, and in 
+several different autoimmune-prone strains. Thus, whereas successful B cell 
+depletion is a promising therapy for lupus, at least some patients might be 
+resistant to the therapy as a byproduct of the autoimmune condition itself.

@@ -1,0 +1,21 @@
+Proton pump inhibitors (PPIs) have been associated with Clostridium difficile 
+infection (CDI) in several recent studies. However, other studies have not shown 
+this association, and the mechanism by which PPIs might promote CDI has not been 
+elucidated. We hypothesized two possible mechanisms of causation: first, by 
+raising pH, PPIs may prevent gastric contents from killing C. difficile spores; 
+second, gastric contents of PPI-treated patients may promote germination and 
+outgrowth of C. difficile spores. Survival rates of spores from six different 
+strains of C. difficile in acidic gastric contents were assessed using 
+quantitative cultures on selective media. Germination and outgrowth of spores 
+were assessed by heat shock at 80 degrees C, phase-contrast microscopy, and 
+ethanol shock after incubation for 24 h in the gastric contents of patients and 
+in the gastric, small intestinal, and cecal contents of mice. C. difficile 
+spores survived and remained dormant in nonbilious gastric contents with acidic 
+pH. Germination did not occur in unmodified gastric contents of patients but did 
+occur with the addition of taurocholic acid and amino acids. In mice, 
+germination did not occur in gastric contents but did occur in small intestinal 
+and cecal contents. In summary, C. difficile spores survived in acidic gastric 
+contents and did not undergo germination and outgrowth in gastric contents, 
+probably due to lack of essential germinants, such as taurocholic acid. Our 
+results suggest that the effects of PPIs in the stomach do not contribute to the 
+pathogenesis of CDI.

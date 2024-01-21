@@ -1,0 +1,17 @@
+Autoimmune diseases are marked by the presence of class-switched, high-affinity 
+autoantibodies with pathogenic potential. Costimulation plays an important role 
+in the activation of T cells and the development of T cell-dependent B cell 
+responses. ICOS plays an indispensable role in the development of follicular 
+helper T cells (T(FH) cells), which provide cognate help to germinal center (GC) 
+B cells. We show that the levels of T(FH) cells and GC B cells in two different 
+models of autoimmunity, the New Zealand Black/New Zealand White (NZB/NZW) F(1) 
+mouse model of systemic lupus erythematosus and the collagen-induced arthritis 
+model of rheumatoid arthritis, are dependent on the maintenance of the 
+ICOS/B7RP-1 pathway. Treatment with an anti-B7RP-1 Ab ameliorates disease 
+manifestations and leads to a decrease in T(FH) cells and GC B cells as well as 
+an overall decrease in the frequency of ICOS(+) T cells. Coculture experiments 
+of Ag-primed B cells with CXCR5(+) or CXCR5(-) T cells show that blocking B7RP-1 
+does not directly impact the production of IgG by B cells. These findings 
+further support the role of ICOS in autoimmunity and suggest that the expansion 
+of the T(FH) cell pool is an important mechanism by which ICOS regulates Ab 
+production.

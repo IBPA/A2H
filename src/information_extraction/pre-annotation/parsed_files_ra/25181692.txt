@@ -1,0 +1,35 @@
+BACKGROUND & AIMS: Cancer stem cells (CSCs) can contribute to hepatocellular 
+carcinoma (HCC) progression and recurrence after therapy. The presence of 
+tumor-associated macrophages (TAMs) in patients with HCC is associated with poor 
+outcomes. It is not clear whether TAMs interact with CSCs during HCC 
+development. We investigated whether TAMs affect the activities of CSCs in the 
+microenvironment of human HCCs.
+METHODS: HCCs were collected from 17 patients during surgical resection and 
+single-cell suspensions were analyzed by flow cytometry. CD14(+) TAMs were 
+isolated from the HCC cell suspensions and placed into co-culture with HepG2 or 
+Hep3B cells, and CSC functions were measured. The interleukin 6 (IL6) receptor 
+was blocked with a monoclonal antibody (tocilizumab), and signal transducer and 
+activator of transcription 3 was knocked down with small hairpin RNAs in HepG2 
+cells. Xenograft tumors were grown in NOD-SCID/Il2Rg(null) mice from human 
+primary HCC cells or HepG2 cells.
+RESULTS: CD44(+) cells from human HCCs and cell lines formed more spheres in 
+culture and more xenograft tumors in mice than CD44(-) cells, indicating that 
+CD44(+) cells are CSCs. Incubation of the CD44(+) cells with TAMs promoted 
+expansion of CD44(+) cells, and increased their sphere formation in culture and 
+formation of xenograft tumors in mice. In human HCC samples, the numbers of TAMs 
+correlated with the numbers of CD44(+) cells. Of all cytokines expressed by 
+TAMs, IL6 was increased at the highest level in human HCC co-cultures, compared 
+with TAMs not undergoing co-culture. IL6 was detected in the microenvironment of 
+HCC samples and induced expansion of CD44(+) cells in culture. Levels of IL6 
+correlated with stages of human HCCs and detection of CSC markers. Incubation of 
+HCC cell lines with tocilizumab or knockdown of signal transducer and activator 
+of transcription 3 in HCC cells reduced the ability of TAMs to promote sphere 
+formation by CD44+ cells in culture and growth of xenograft tumors in mice.
+CONCLUSIONS: CD44(+) cells isolated from human HCC tissues and cell lines have 
+CSC activities in vitro and form a larger number of xenograft tumors in mice 
+than CD44(-) cells. TAMs produce IL6, which promotes expansion of these CSCs and 
+tumorigenesis. Levels of IL6 in human HCC samples correlate with tumor stage and 
+markers of CSCs. Blockade of IL6 signaling with tocilizumab, a drug approved by 
+the Food and Drug Administration for treatment of rheumatoid arthritis, inhibits 
+TAM-stimulated activity of CD44(+) cells. This drug might be used to treat 
+patients with HCC.

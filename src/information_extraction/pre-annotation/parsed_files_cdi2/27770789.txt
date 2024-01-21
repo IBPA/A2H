@@ -1,0 +1,20 @@
+BACKGROUND: Clostridium difficile-associated disease (CDAD) constitutes a great 
+majority of hospital diarrhea cases in industrialized countries and is induced 
+by two types of large toxin molecules: toxin A (TcdA) and toxin B (TcdB). 
+Development of immunotherapeutic approaches, either active or passive, has seen 
+a resurgence in recent years. Studies have described vaccine plasmids that 
+express either TcdA and/or TcdB receptor binding domain (RBD). However, the 
+effectiveness of one vector encoding both toxin RBDs against CDAD has not been 
+evaluated.
+METHODS: In the study, we constructed highly optimized plasmids to express the 
+receptor binding domains of both TcdA and TcdB from a single vector. The DNA 
+vaccine was evaluated in two animal models for its immunogenicity and protective 
+effects.
+RESULTS: The DNA vaccine induced high levels of serum antibodies to toxin A 
+and/or B and demonstrated neutralizing activity in both in vitro and in vivo 
+systems. In a C. difficile hamster infection model, immunization with the DNA 
+vaccine reduced infection severity and conferred significant protection against 
+a lethal C. difficile strain.
+CONCLUSIONS: This study has demonstrated a single plasmid encoding the RBD 
+domains of C. difficile TcdA and TcdB as a DNA vaccine that could provide 
+protection from C. difficile disease.

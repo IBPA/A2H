@@ -1,0 +1,19 @@
+Accumulating evidence points to the importance of the innate immune system in 
+inflammation-induced bone loss in infectious and autoimmune diseases. TLRs are 
+well known for being activated by ligands expressed by bacteria, viruses, and 
+fungi. Recent findings indicate that also endogenous ligands in inflammatory 
+processes are important, one being a TLR5 agonist present in synovial fluid from 
+patients with rheumatoid arthritis (RA). We found that activation of TLR5 by its 
+specific ligand, flagellin, caused robust osteoclast formation and bone loss in 
+cultured mouse neonatal parietal bones dependent on increased receptor activator 
+of NF-κB ligand (RANKL):osteoprotegerin ratio, with half-maximal stimulation at 
+0.01 μg/ml. Flagellin enhanced Rankl mRNA in isolated osteoblasts by a myeloid 
+differentiation primary response gene 88 and NF-κB-dependent mechanism. 
+Injection of flagellin locally over skull bones in 5-wk-old mice resulted in 
+increased mRNA expression of Rankl and osteoclastic genes, robust osteoclast 
+formation, and bone loss. The effects in vitro and in vivo were absent in 
+Tlr5(-/-) mice. These data show that TLR5 is a novel activator of RANKL and 
+osteoclast formation and, therefore, a potential key factor in 
+inflammation-induced bone erosions in diseases like RA, reactive arthritis, and 
+periodontitis. TLR5 might be a promising novel treatment target for prevention 
+of inflammatory bone loss.

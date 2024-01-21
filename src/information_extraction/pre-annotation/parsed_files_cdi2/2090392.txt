@@ -1,0 +1,14 @@
+The major change in the ultrastructure of Chinese hamster ovary (CHO) cells 
+treated with Clostridium difficile enterotoxin A was the formation of bundles of 
+filaments in the nucleoplasm. The filaments appeared after 2.5 h and disappeared 
+by the fourth hour of incubation with the toxin. To partially characterize these 
+filaments, laser diffractometry and ultrastructural immunocytochemistry were 
+employed. The bundles consist of coiled filaments of about 11 nm and 16 nm 
+diameter and a main long axial periodicity of about 26 nm. Postembedding 
+immunogold labelling with monoclonal antibodies demonstrated that these 
+intranuclear filaments are comprised mainly of actin, but also contain lamin and 
+vinculin. Between 2.5 and 3 h of incubation with enterotoxin A, the lamins were 
+located close to the nuclear envelope, but they were also consistently found 
+scattered in the cytoplasm and nucleoplasm. Such an unusual distribution of 
+lamins might mediate the adverse effects of enterotoxin A on nuclear 
+organization and function and thus cause the eventual death of CHO cells.

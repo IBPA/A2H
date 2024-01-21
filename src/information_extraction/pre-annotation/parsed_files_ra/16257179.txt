@@ -1,0 +1,19 @@
+Proteoglycan (PG)-induced arthritis (PGIA), a murine model for rheumatoid 
+arthritis (RA), is driven by antigen (PG)-specific T and B cell activation. In 
+order to analyze the pathogenic role of antigen-specific T cells in the 
+development of autoimmune arthritis, we have generated a transgenic (Tg) mouse. 
+The CD4(+) T cells of this TCR-5/4E8-Tg line express a functional T cell 
+receptor (TCR) composed of the Valpha1.1 and Vbeta4 chains with specificity for 
+the dominant arthritogenic T cell epitope of human cartilage PG. Adoptive 
+transfer of naive TCR-5/4E8-Tg cells induced arthritis with severe clinical 
+symptoms in syngeneic immunodeficient BALB/c.RAG2(-/-) mice. In vivo activation 
+of TCR-5/4E8-Tg CD4(+)Vbeta4(+) cells with cartilage PG seemed to be critical 
+for arthritis induction. Arthritis never developed after transfer of naive 
+wild-type cells. The arthritis was characterized as a chronic progressive 
+disease with intermittent spontaneous exacerbations and remissions. Inflamed 
+joints showed extensive cartilage damage and bone erosions leading to massive 
+ankylosis in peripheral joints. These PG epitope-specific TCR-5/4E8-Tg mice can 
+be valuable research tools for studying antigen-driven T cell regulation in 
+arthritis, and migration of T cells to the joints. In addition the model may be 
+used for the development of immune modulating strategies in T cell-mediated 
+autoimmune diseases.

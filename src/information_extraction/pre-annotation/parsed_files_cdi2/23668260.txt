@@ -1,0 +1,22 @@
+The current study sought to delineate the gene expression profile of the host 
+response in the caecum and colon during acute infection with Clostridium 
+difficile in a mouse model of infection, and to investigate the nature of the 
+unfolded protein response in this process. The infected mice displayed a 
+significant up-regulation in the expression of chemokines (Cxcl1, Cxcl2 and 
+Ccl2), numerous pro-inflammatory cytokines (Ifng, Il1b, Il6, and Il17f), as well 
+as Il22 and a number of anti-microbial peptides (Defa1, Defa28, Defb1, Slpi and 
+Reg3g) at the site(s) of infection. This was accompanied by a significant influx 
+of neutrophils, dendritic cells, cells of the monocyte/macrophage lineage and 
+all major subsets of lymphocytes to these site(s). However, CD4 T cells of the 
+untreated and C. difficile-infected mice expressed similar levels of CD69 and 
+CD25. Neither tissue had up-regulated levels of Tbx21, Gata3 or Rorc. The caeca 
+and colons of the infected mice showed a significant increase in eukaryotic 
+initiation factor 2α (eIF2α) phosphorylation, but neither the splicing of Xbp1 
+nor the up-regulation of endoplasmic reticulum chaperones, casting doubt on the 
+full-fledged induction of the unfolded protein response by C. difficile. They 
+also displayed significantly higher phosphorylation of AKT and signal transducer 
+and activator of transcription 3 (STAT3), an indication of pro-survival 
+signalling. These data underscore the local, innate, pro-inflammatory nature of 
+the response to C. difficile and highlight eIF2α phosphorylation and the 
+interleukin-22-pSTAT3-RegIIIγ axis as two of the pathways that could be used to 
+contain and counteract the damage inflicted on the intestinal epithelium.

@@ -1,0 +1,23 @@
+Abstract The SCID mouse model for rheumatoid arthritis (RA) is an established 
+and reliable approach to examining the distinct mechanisms operative in RA 
+synovium, and evaluating novel gene therapy strategies. However, serum 
+concentrations of circulating gene therapy products following gene transfer are 
+frequently too low to allow detection. This problem stimulated us to develop a 
+novel implantation technique to improve the yield of these soluble gene 
+products. Synovial fibroblasts from patients with RA were cultured, passaged, 
+and transduced with Ad5 sTNFRp55:Ig. sTNFRp55:Ig production was confirmed by 
+ELISA, and then cells were implanted into SCID mice using a novel implantation 
+strategy in which pieces of human cartilage were engrafted into a 
+fibroblast-saturated inert sponge. Thereafter, the sponges were implanted under 
+the skin of the mice instead of under the kidney capsule, as in the original 
+approach, allowing co-implantation of larger pieces of cartilage together with 
+higher numbers of adenovirus-transduced RA synovial fibroblasts. The improved 
+implantation technique not only resulted in a reduction in the number of mice 
+needed in each experiment by approximately 60%, and a reduction of the time 
+taken for surgery by about 50%, but also considerably enhanced the serum 
+concentrations of the gene product sTNFRp55-Ig, allowing detection of the 
+soluble TNF receptor p55 by standard ELISA. In summary, the improved 
+implantation technique for the SCID mouse model for RA results in more economic 
+animal treatment, and facilitates the detection and quantification of 
+circulating gene products following adenovirus-based gene transfer into synovial 
+fibroblasts.

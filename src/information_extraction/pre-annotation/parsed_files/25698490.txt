@@ -1,0 +1,24 @@
+Clostridium difficile infection (CDI) causes nosocomial antibiotic-associated 
+diarrhea and colitis in the developed world. Two potent cytotoxins, toxin A 
+(TcdA) and toxin B (TcdB) are the virulence factors of this disease and can be a 
+good vaccine candidate against CDI. In the present study, we genetically 
+engineered Lactococcus lactis to express the nontoxic, recombinant fragments 
+derived from TcdA and TcdB C-terminal receptor binding domains (Tcd-AC and 
+Tcd-BC) as an oral vaccine candidate. The immunogenicity of the genetically 
+engineered L. lactis oral vaccine delivery system (animal groups LAC and LBC or 
+the combination of both, LACBC) was compared with the recombinant TcdA and TcdB 
+C-terminal receptor binding domain proteins (animal groups PAC and PBC or the 
+combination of both, PACBC), which were expressed and purified from E. coli. 
+After the C. difficile challenge, the control groups received PBS or engineered 
+L. lactis with empty vector, showed severe diarrhea symptoms and died within 2-3 
+days. However, both the oral vaccine and recombinant protein vaccine groups had 
+significantly lower mortalities, body weight decreases and histopathologic 
+lesions than the control sham-vaccine groups (p<0.05) except group LBC which 
+only had a 31% survival rate after the challenge. The data of post infection 
+survival showed that an average of 86% of animals survived in groups PAC and 
+PACBC, 75% of animals survived in group LACBC, and 65% of animals survived in 
+group LAC. All of the vaccinated animals produced higher titers of both IgG and 
+IgA than the control groups (p<0.05), and the antibodies were able to neutralize 
+the cytopathic effect of toxins in vitro. The results of this study indicate 
+that there is a potential to use L. lactis as a delivery system to develop a 
+cost effective oral vaccine against CDI.

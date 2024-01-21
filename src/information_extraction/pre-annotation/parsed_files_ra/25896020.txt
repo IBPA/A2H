@@ -1,0 +1,12 @@
+Using rheumatoid arthritis (RA) and periodontitis mouse models, we demonstrate 
+that RA and periodontitis share many pathological features, such as deregulated 
+cytokine production, increased immune-cell infiltration, increased expression of 
+Toll-like receptors (TLRs), and enhanced osteoclast activity and bone erosion. 
+We reveal that genetic deletion of cathepsin K (Ctsk) caused a radical reduction 
+in inflammation and bone erosion within RA joint capsules and periodontal 
+lesions, a drastic decrease in immune-cell infiltration, and a significant 
+reduction in osteoclasts, macrophages, dendritic and T-cells. Deficiency of Ctsk 
+greatly decreased the expression of TLR-4, 5, and 9 and their downstream 
+cytokines in periodontal gingival epithelial lesions and synovial RA lesions. 
+Hence, Ctsk may be targeted to treat RA and periodontitis simultaneously due to 
+its shared osteoimmune role.

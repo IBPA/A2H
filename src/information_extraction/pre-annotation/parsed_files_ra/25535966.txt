@@ -1,0 +1,28 @@
+Apart from their role in the immune defence against pathogens evidence of a role 
+of antimicrobial peptides (AMPs) in autoimmune diseases has accumulated in the 
+past years. The aim of this project was to examine the functional impact of the 
+human cathelicidin LL-37 and the mouse cathelicidin-related AMP (CRAMP) on the 
+pathogenesis of lupus and arthritis. Serum LL-37 and anti-LL-37 levels were 
+measured by ELISA in healthy donors and patients with Systemic Lupus 
+Erythematosus (SLE) and Rheumatoid arthritis (RA). Pristane-induced lupus was 
+induced in female wild type (WT) and cathelicidin-deficient (CRAMP-/-) mice. 
+Serum levels of anti-Sm/RNP, anti-dsDNA, and anti-histone were determined via 
+ELISA, cytokines in sera and peritoneal lavages were measured via Multiplex. 
+Expression of Interferon I stimulated genes (ISG) was determined by real-time 
+PCR. Collagen-induced arthritis (CIA) was induced in male WT and CRAMP-/- mice 
+and arthritis severity was visually scored and analysed histomorphometrically by 
+OsteoMeasure software. Serum levels of anti-LL-37 were higher in SLE-patients 
+compared to healthy donors or patients with RA. However, no correlation to 
+markers of disease activity or organ involvement was observed. No significant 
+differences of autoantibody or cytokine/chemokine levels, or of expression of 
+ISGs were observed between WT and CRAMP-/- mice after pristane-injection. 
+Furthermore, lung and kidney pathology did not differ in the absence of CRAMP. 
+Incidence and severity of CIA and histological parameters (inflammation, 
+cartilage degradation, and bone erosion) were not different in WT and CRAMP-/- 
+mice. Although cathelicidins are upregulated in mouse models of lupus and 
+arthritis, cathelicidin-deficiency did not persistently affect the diseases. 
+Also in patients with SLE, autoantibodies against cathelicidins did not 
+correlate with disease manifestation. Reactivity against cathelicidins in lupus 
+and arthritis could thus be an epiphenomenon caused by extensive overexpression 
+in blood and affected tissues. In addition, other cationic AMPs could 
+functionally compensate for the deficiency of cathelicidins.

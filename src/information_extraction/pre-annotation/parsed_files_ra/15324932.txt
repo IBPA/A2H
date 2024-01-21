@@ -1,0 +1,14 @@
+Autoreactivity is controlled at various steps by numerous mechanisms and is a 
+key to understanding and treating autoimmune disease. Recently, an antibody 
+against deiminated fibrinogen (DI-FBG) was detected in patients with rheumatoid 
+arthritis (RA) with high specificity and sensitivity. DI-FBG converted 
+enzymically by peptidyl arginine deiminase, was also detected in synovial 
+membrane. In the present study, we investigated whether antibody to DI-FBG is 
+produced in mice immunized with DI-FBG. Mice were immunized with DI-FBG in the 
+presence or absence of adjuvant. Production of the specific antibody was only 
+induced with adjuvant. The resulting antibody was specific for DI-FBG and did 
+not react with intact/native fibrinogen. Furthermore, it recognized deiminated 
+human fibrinogen and cyclic citrullinated peptide (CCP). These results suggested 
+that mouse fibrinogen acquires antigenicity in mice through deimination and 
+therefore, autoantibody such as that detected in RA patients specifically may be 
+induced.

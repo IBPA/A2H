@@ -1,0 +1,27 @@
+We have used the hamster model of antibiotic-induced Clostridium difficile 
+intestinal disease to evaluate nitazoxanide (NTZ), a nitrothiazole benzamide 
+antimicrobial agent. The following in vitro and in vivo activities of NTZ in the 
+adult hamster were examined and compared to those of metronidazole and 
+vancomycin: (i) MICs and minimum bactericidal concentrations (MBCs) against C. 
+difficile, (ii) toxicity, (iii) ability to prevent C. difficile-associated 
+ileocecitis, and (iv) propensity to induce C. difficile-associated ileocecitis. 
+The MICs and MBCs of NTZ against 15 toxigenic strains of C. difficile were 
+comparable to those of vancomycin or metronidazole. C. difficile-associated 
+ileocecitis was induced with oral clindamycin and toxigenic C. difficile in a 
+group of 60 hamsters. Subgroups of 10 hamsters were given six daily intragastric 
+treatments of NTZ (15, 7.5, and 3.0 mg/100 g of body weight [gbw]), 
+metronidazole (15 mg/100 gbw), vancomycin (5 mg/100 gbw), or saline (1 ml/100 
+gbw). Animals receiving saline died 3 days post-C. difficile challenge. During 
+the treatment period, NTZ (>/=7.5 mg/100 gbw), like metronidazole and 
+vancomycin, prevented outward manifestations of clindamycin-induced C. difficile 
+intestinal disease. Six of ten hamsters on a scheduled dose of 3.0 mg of NTZ/100 
+gbw survived for the complete treatment period. Of these surviving animals, all 
+but three died of C. difficile disease by between 3 and 12 days following 
+discontinuation of antibiotic therapy. Another group of hamsters received six 
+similar daily doses of the three antibiotics, followed by an inoculation with 
+toxigenic C. difficile. All of the NTZ-treated animals survived the 15-day 
+postinfection period. Upon necropsy, all hamsters appeared normal: there were no 
+gross signs of toxicity or C. difficile intestinal disease, nor was C. difficile 
+detected in the cultures of the ceca of these animals. By contrast, vancomycin 
+and metronidazole treatment induced fatal C. difficile intestinal disease in 20 
+and 70% of recipients, respectively.

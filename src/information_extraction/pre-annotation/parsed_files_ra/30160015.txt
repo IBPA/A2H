@@ -1,0 +1,19 @@
+SCOPE: Morin, a flavonoid occurring in many dietary plants, can reduce the 
+number of synovial blood vessels and ameliorate collagen-induced arthritis (CIA) 
+in rats. Herein, its underlying mechanisms in view of the peroxisome 
+proliferator activated receptor-γ (PPARγ) pathway are addressed.
+METHODS AND RESULTS: In vitro, wound-healing and transwell assays are conducted 
+to explore the effect of morin on HUVECs migration. Morin inhibits HUVECs 
+migration and tube formation induced by VEGF, which is reversed by PPARγ 
+antagonist GW9662 or siPPARγ. Molecular docking and competitive binding assays 
+show that morin could bind to PPARγ. Morin increases the expression of PDK4 and 
+CD36 in a PPARγ-dependent manner and increases the luciferase activity in cells 
+transfected with PPARγ plasmid, which indicates that morin could activate PPARγ 
+after binding. In addition, morin increases the expression of PTEN, a target 
+gene of PPARγ that suppresses angiogenesis and inhibits PI3K/Akt signaling. The 
+effects of morin on the PTEN-PI3K/Akt pathway are diminished by GW9662 and 
+siPPARγ. In vivo studies show that morin ameliorates rat CIA, reduces synovial 
+angiogenesis, and upregulates the expression of PTEN in the synovium, which is 
+almost completely abolished by GW9662.
+CONCLUSIONS: Morin is a potential agonist of PPARγ, which attenuates synovial 
+angiogenesis and arthritis via the PPARγ-PTEN-PI3K/Akt pathway.

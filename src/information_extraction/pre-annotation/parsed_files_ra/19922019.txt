@@ -1,0 +1,13 @@
+OBJECTIVE: S100A8 (calgranulin A, MRP8) and S100A9 (calgranulin B, MRP14) are 
+calcium-binding proteins highly expressed by activated myeloid cells and thought 
+to be involved in the pathogenesis of inflammatory diseases. Circulating levels 
+of S100A8/S100A9 are elevated in both human and experimental models of 
+autoimmune disease, including rheumatoid arthritis (RA).
+METHODS: Mice deficient in S100A9 (S100A9 - /-) and wild-type controls were 
+immunized using standard techniques for the K/BxN serum transfer or the 
+collagen-induced arthritis (CIA) model.
+RESULTS: S100A9 - /- animals, with defective expression of both S100A8 and 
+S100A9 proteins, had similar arthritis and histopathology to that of wild-type 
+controls in both mouse models.
+CONCLUSION: S100A8 and S100A9 are not essential for disease expression in either 
+the K/BxN serum transfer or the CIA model of inflammatory arthritis.

@@ -1,0 +1,19 @@
+BACKGROUND: Inhibiting TNF-α is an effective therapy for inflammatory diseases 
+such as rheumatoid arthritis. However, systemic, nondiscriminatory 
+neutralization of TNF-α is associated with considerable adverse effects.
+METHODS: Here, we developed a trimeric chimeric TNF receptor by linking an 
+N-terminal mouse Acrp30 trimerization domain and an MMP-2/9 substrate sequence 
+to the mouse extracellular domain of TNF receptor 2 followed by a C-terminal 
+mouse tetranectin coiled-coil domain (mouse Acrp-MMP-TNFR-Tn).
+RESULTS: Here, we show that the Acrp30 trimerization domain inhibited the 
+binding activity of TNFR, possibly by closing the binding site of the trimeric 
+receptor. Cleavage of the substrate sequence by MMP-9, an enzyme highly 
+expressed in inflammatory sites, restored the binding activity of the mouse TNF 
+receptor. We also constructed a recombinant human chimeric TNF receptor (human 
+Acrp-MMP-TNFR-Tn) in which an MMP-13 substrate sequence was used to link the 
+human Acrp and the human TNF receptor 2. Human Acrp-MMP-TNFR-Tn showed reduced 
+binding activity, and MMP-13 digestion recovered its binding activity with 
+TNF-α.
+CONCLUSION: Acrp-masked chimeric TNF receptors may be able to be used for 
+inflammatory tissue-selective neutralization of TNF-α to reduce the adverse 
+effects associated with systemic neutralization of TNF-α.

@@ -1,0 +1,19 @@
+BACKGROUND & AIMS: The role of the CC chemokine receptor (CCR) 1 in acute 
+enteritis was investigated by subjecting CCR1 knockout mice to Clostridium 
+difficile toxin A treatment.
+METHODS: Toxin A or vehicle was injected into ileal loops in anesthetized 
+wild-type, CCR1-/- and macrophage inhibitory protein (MIP)-1alpha-/- mice. After 
+1-4 hours, fluid accumulation was calculated, and the loops were processed for 
+histology, myeloperoxidase activity, regulated on activation, normal T cell 
+expressed and secreted (RANTES) production, and messenger RNA measurements.
+RESULTS: Toxin A induced in all mice a significant (P < 0.05) increase in ileal 
+fluid accumulation, epithelial damage, and neutrophil infiltration, with all 
+parameters being significantly (P < 0.01) lower in CCR1-/- and MIP-1alpha-/- 
+mice. Ileal messenger RNA expression of the CCR1 ligands MIP-1alpha and RANTES 
+and RANTES synthesis were increased in toxin A-treated wild-type mice. The 
+RANTES antagonist Met-RANTES significantly (P < 0.01) reduced the toxin 
+A-induced increases in ileal fluid accumulation and myeloperoxidase activity in 
+wild-type mice.
+CONCLUSIONS: C. difficile toxin A-induced murine enteritis involves CCR1 and its 
+ligands MIP-1alpha and RANTES, which may be important mediators of the 
+neutrophil recruitment characterizing acute, enterotoxin-mediated enteritis.

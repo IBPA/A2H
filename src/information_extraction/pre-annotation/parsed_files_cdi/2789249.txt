@@ -1,0 +1,25 @@
+Mechanisms regulating the appearance of sIgE+ B lymphocytes appear to be lacking 
+in adult germfree (GF) rats in that their Peyer's patches (PP) contain high 
+numbers of cells with sIgE (approximately 15% of total cells), one-half of which 
+simultaneously express sIgA, whereas sIgE+ cells are absent from PP of 
+conventional rats (less than 1%). GF rat PP also contain elevated numbers of 
+sIgA+ cells and decreased numbers of sIgM+ cells, with elevated numbers of 
+sThy-1+ RT 7.1+ Ig- T cells, and reduced numbers of sThy-1- RT 7.1+ Ig- T cells. 
+The cellular composition of PP of GF rats was converted to that resembling a 
+conventional rat within 18 h after either 1) use of standard (unautoclaved) 
+food; 2) feeding with certain bacteria (Clostridium difficile, Corynebacterium 
+pseudodiphtheriticum, Mycobacterium tuberculosis, and Klebsiella pneumoniae), in 
+either live or heat-killed, but not autoclaved form; or with certain bacterial 
+cell wall components: murein (peptidoglycan), and its synthetic derivatives, 
+muramyltripeptide phosphatidylethanolamine and desmethyl-muramyldipeptide, but 
+not with LPS, core lipid A or lipoprotein; there was no effect if any bacterial 
+cell wall component was injected i.v.; or 3) thymectomy. Each procedure resulted 
+in elimination of sIgE+ B cells and normalization of the other surface isotypes, 
+and loss of sThy-1+ RT 7.1+ Ig- T cells and normalization of sThy-1- RT 7.1+ Ig- 
+T cells. Irrespective of treatment, no sIgE+ cells were detected in bone marrow, 
+thymus, other lymphoid organs or blood, excluding the possibility that the 
+elimination of these cells from PP was associated with their redistribution to 
+other sites. Thus, exposure to gut flora and bacterial peptidoglycan components 
+may have resulted in IgE isotype switching, either directly or through the 
+mediation of accessory and/or sThy-1+ RT 7.1+ regulatory T cells. The sites in 
+which sIgE+ B cells are down-regulated appear to be PP.

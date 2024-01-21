@@ -1,0 +1,22 @@
+OBJECTIVE: It has been suggested that anti-citrullinated protein antibodies 
+(ACPAs) play an important role in the pathogenesis of rheumatoid arthritis (RA). 
+To exert their pathologic effects, ACPAs must recruit immune effector mechanisms 
+such as activation of the complement system. Mouse models of RA have shown that, 
+surprisingly, arthritogenic antibodies activate the alternative pathway of 
+complement rather than the expected classical pathway. This study was undertaken 
+to investigate whether human anti-cyclic citrullinated peptide (anti-CCP) 
+antibodies activate the complement system in vitro and, if so, which pathways of 
+complement activation are used.
+METHODS: We set up novel assays to analyze complement activation by anti-CCP 
+antibodies, using cyclic citrullinated peptide-coated plates, specific buffers, 
+and normal and complement-deficient sera as a source of complement.
+RESULTS: Anti-CCP antibodies activated complement in a dose-dependent manner via 
+the classical pathway of complement, and, surprisingly, via the alternative 
+pathway of complement. The lectin pathway was not activated by anti-CCP 
+antibodies. Complement activation proceeded in vitro up to the formation of the 
+membrane attack complex, indicating that all activation steps, including the 
+release of C5a, took place.
+CONCLUSION: Our findings indicate that anti-CCP antibodies activate the 
+complement system in vitro via the classical and alternative pathways but not 
+via the lectin pathway. These findings are relevant for the design of 
+interventions aimed at inhibition of complement-mediated damage in RA.

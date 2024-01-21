@@ -1,0 +1,14 @@
+Receptor activator for nuclear factor κB ligand (RANKL)-independent 
+osteoclastogenic pathway was reported recently. MicroRNA (miR)-124 has been 
+known to suppress RANKL-dependent osteoclastogenesis by inhibiting NFATc1 
+expression. However, whether miR-124 regulates a RANKL-independent pathway has 
+not been elucidated. In this study, we examined whether a RANKL-independent 
+pathway is regulated by miR-124 in addition to the RANKL-dependent one. Using 
+osteoclastogenic culture and pit-formation assay, we found that a miR-124 mimic 
+inhibited osteoclastogenesis in mouse bone marrow-derived macrophages stimulated 
+by TNF-α, IL-6, and M-CSF in the presence of osteoprotegerin. We also showed 
+that the expression levels of osteoclast-specific genes and NFATc1 protein were 
+suppressed in the miR-124 mimic-transfected cells by performing 
+quantitative-polymerase chain reaction and western blotting. Our results 
+indicate that miR-124 is important in inhibiting both RANKL-dependent and 
+-independent osteoclast differentiation by suppressing NFATc1-mediated pathway.

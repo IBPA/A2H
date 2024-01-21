@@ -1,0 +1,19 @@
+Proteoglycan (PG)-induced arthritis (PGIA) is a murine model of rheumatoid 
+arthritis. Arthritis-prone BALB/c mice are 100% susceptible, whereas the major 
+histocompatibility complex-matched DBA/2 strain is completely resistant to PGIA. 
+To reduce the size of the disease-suppressive loci for sequencing and to find 
+causative genes of arthritis, we created a set of 
+BALB/c.DBA/2-congenic/subcongenic strains carrying DBA/2 genomic intervals 
+overlapping the entire Pgia26 locus on chromosome 3 (chr3) and Pgia23/Pgia12 
+loci on chr19 in the arthritis-susceptible BALB/c background. Upon immunization 
+of these subcongenic strains and their wild-type (BALB/c) littermates, we 
+identified a major Pgia26a sublocus on chr3 that suppressed disease onset, 
+incidence and severity via controlling the complex trait of T-cell responses. 
+The region was reduced to 3 Mbp (11.8 Mbp with flanking regions) in size and 
+contained gene(s) influencing the production of a number of proinflammatory 
+cytokines. Additionally, two independent loci (Pgia26b and Pgia26c) suppressed 
+the clinical scores of arthritis. The Pgia23 locus (∼3 Mbp in size) on chr19 
+reduced arthritis susceptibility and onset, and the Pgia12 locus (6 Mbp) 
+associated with low arthritis severity. Thus, we have reached the critical sizes 
+of arthritis-associated genomic loci on mouse chr3 and chr19, which are ready 
+for high-throughput sequencing of genomic DNA.

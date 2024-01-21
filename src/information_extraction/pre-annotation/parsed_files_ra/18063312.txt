@@ -1,0 +1,24 @@
+Investigation of hyperalgesia at the spinal transcriptome level indicated that 
+carrageenan-induced inflammation of rat hind paws leads to a rapid but sustained 
+increase in S100A8 and S100A9 expression, two genes implicated in the pathology 
+of numerous inflammatory diseases including rheumatoid arthritis and gout. In 
+situ hybridization revealed that the elevation occurred in neutrophils that 
+migrate to the spinal cord vasculature during peripheral inflammation, not in 
+spinal neurons or glial cells. Immunohistochemical analysis suggests, but does 
+not prove, that these neutrophils abundantly release S100A8 and S100A9. 
+Consistent with this, we detected an increase in ICAM and VCAM, both indicators 
+of endothelial activation, a known trigger for secretion of S100A8 and S100A9. 
+Migration of S100A8- and S100A9-expressing neutrophils to spinal cord is 
+selective, since MCP-1- and CD68-expressing leukocytes do not increase in spinal 
+cord vasculature during hind paw inflammation. Examination of many neutrophil 
+granule mediators in spinal cord indicated that they are not regulated to the 
+same degree as S100A8 and S100A9. Neutrophil migration also occurs in the 
+vasculature of brain and pituitary gland during peripheral inflammation. 
+Together, these findings suggest an interaction between a subpopulation of 
+leukocytes and the CNS during peripheral tissue inflammation, as implied by an 
+apparent release and possible diffusion of S100A8 and S100A9 through the 
+endothelial blood-brain barrier. Although the present findings do not establish 
+the neurophysiological or behavioral relevance of these observations to 
+nociceptive processing, the data raise the possibility that selective 
+populations of leukocytes may communicate the presence of disease or tissue 
+damage from the periphery to cells in the central nervous system.

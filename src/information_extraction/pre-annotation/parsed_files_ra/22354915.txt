@@ -1,0 +1,24 @@
+T lymphocytes are key inflammatory cells contributing significantly to the 
+pathogenesis of Rheumatoid arthritis (RA). Biological treatments targeting T 
+lymphocytes may provide an efficient approach for treatment of RA. CTLA4-FasL, a 
+fusion product of extracellular domains of CTLA4 and FasL, integrating two 
+inhibitory elements against T cells into one molecule, might be a desirable 
+derivative of engineered soluble FasL or CTLA4 and have therapeutic potential in 
+RA. The aim of this study was to investigate whether simultaneous induction of 
+Fas-mediated apoptosis and blockade of co-stimulation signal by CTLA4-FasL gene 
+delivery has a suppressive effect on adjuvant-induced arthritis (AIA) in Lewis 
+rats. Recombinant adeno-associated virus (rAAV) vectors encoding rat CTLA4-FasL 
+fusion gene (rAAV.CTLA4-FasL) or enhanced green fluorescent protein (rAAV.EGFP) 
+were injected intraarticularly into both ankle joints after immunization. The 
+ankles were monitored by measures of clinical, histological and inflammatory 
+cytokines' changes. Treatment using rAAV.CTLA4-FasL resulted in a significant 
+suppression of AIA compared with rAAV.EGFP control, as reflected in the mainly 
+clinical signs including articular index, ankle joint thickness and paw swelling 
+and typically histological characters of arthritic joints including synovial 
+hyperplasia, inflammatory cells infiltration and cartilage degradation. 
+Treatment with rAAV.CTLA4-FasL also significantly decreased the levels of key 
+proinflammatory cytokines in AIA joints. Moreover, local productions of 
+transgene mRNA and protein of CTLA4-FasL were found in injected joints without 
+systemic distribution. Our results indicate that rAAV.CTLA4-FasL profoundly 
+suppressed experimental model of RA, implicating the potential therapeutic 
+applications for suppression of RA by local joint delivery of CTLA4-FasL.

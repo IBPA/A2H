@@ -1,0 +1,21 @@
+Because the excessive apoptosis of articular chondrocytes contributes to 
+extracellular matrix (ECM) loss and cartilage damage in rheumatoid arthritis 
+(RA), inhibiting chondrocyte apoptosis might be a promising strategy for RA. 
+Aquaporin1 (AQP1) is overexpressed in RA cartilage and synovial tissues, and 
+play a vital pathogenic role in RA development. Particularly, we previously 
+reported that acetazolamide (AZ) as an AQP1 inhibitor suppressed secondary 
+inflammation and promoted ECM production in cartilage of adjuvant-induced 
+arthritis rats. Here, we investigated the antiapoptotic effect of AZ on 
+interleukin-1β (IL-1β)-induced apoptosis, a classic in vitro model of 
+chondrocyte apoptosis. AZ treatment could inhibit IL-1β-induced apoptosis, 
+evidenced by increasing cell viability, relieving apoptotic nuclear morphology, 
+decreasing apoptosis rates, and restoring mitochondrial membrane potential. 
+Additionally, AZ reversed IL-1β-induced decrease of Bcl-2 protein and reduced 
+IL-1β-induced increases of Bax and caspase 3 protein, accompanied by inhibiting 
+IκBα degradation and phosphorylation in cytoplasm, reducing NF-κB p65 protein 
+level in nucleus and preventing NF-κB p65 translocation from cytoplasm to 
+nucleus. In conclusion, our findings indicated that AZ could effectively 
+attenuate IL-1β-induced chondrocyte apoptosis mediated by regulating the protein 
+levels of apoptosis-related genes and inhibiting the activation of NF-κB signal 
+pathway, suggesting that AZ might be of potential clinical interest in RA 
+treatment.

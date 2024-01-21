@@ -1,0 +1,18 @@
+We earlier showed that lovastatin potentiated the chemopreventive effects of 
+sulindac against colon neoplasia in a rodent model and augments apoptosis 
+induced by 5-FU and cisplatin in human colon cancer cells. In the present study, 
+we investigated effects of lovastatin in spontaneously immortalized rat 
+intestinal epithelial cells, IEC-18 and their K-ras transformed clones. 
+Lovastatin induced morphologic changes (cell rounding and detachment) and 
+apoptosis that were not influenced by K-ras mutations, but were prevented by 
+geranylgeranyl-pyrophosphate or by mevalonate. Clostridium difficile toxin B, 
+which directly inactivates rho, induced similar morphologic changes and 
+apoptosis. Cycloheximide prevented these effects of lovastatin, but not C. 
+difficile toxin B. Lovastatin decreased the amounts of membrane bound rhoA and 
+rhoB. Cycloheximide and geranylgeranyl-pyrophosphate prevented lovastatin 
+induced morphologic changes and apoptosis but did not inhibit lovastatin-induced 
+changes in membrane translocation of rho. Our data suggest that lovastatin 
+induces morphologic changes and apoptosis by inhibiting geranylgeranylation of 
+small GTPases of the rho family and thereby inactivating them. Restoration of 
+membrane translocation of rho is not necessary for preventing lovastatin-induced 
+morphologic changes or apoptosis.

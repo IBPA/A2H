@@ -1,0 +1,25 @@
+We have previously shown that inhibitors of IkappaB kinase beta (IKKbeta), 
+including 4(2'-aminoethyl)amino-1,8-dimethylimidazo(1,2-a)quinoxaline 
+(BMS-345541), are efficacious against experimental arthritis in rodents. In our 
+efforts to identify an analog as a clinical candidate for the treatment of 
+autoimmune and inflammatory disorders, we have discovered the potent and highly 
+selective IKKbeta inhibitor 
+2-methoxy-N-((6-(1-methyl-4-(methylamino)-1,6-dihydroimidazo[4,5-d]pyrrolo[2,3-b]pyridin-7-yl)pyridin-2-yl)methyl)acetamide 
+(BMS-066). Investigations of its pharmacology in rodent models of experimental 
+arthritis showed that BMS-066 at doses of 5 and 10 mg/kg once daily was 
+effective at protecting rats against adjuvant-induced arthritis, despite showing 
+only weak inhibition at 10 mg/kg against a pharmacodymanic model of tumor 
+necrosis factor alpha production in rats challenged with lipopolysaccharide. The 
+duration of exposure in rats indicated that just 6 to 9 h of coverage per day of 
+the concentration necessary to inhibit IKKbeta by 50% in vivo was necessary for 
+protection against arthritis. Similar findings were observed in the mouse 
+collagen-induced arthritis model, with efficacy observed at a dose providing 
+only 6 h of coverage per day of the concentration necessary to inhibit IKKbeta 
+by 50%. This finding probably results from the cumulative effect on multiple 
+cellular mechanisms that contribute to autoimmunity and joint destruction, 
+because BMS-066 was shown to inhibit a broad spectrum of activities such as T 
+cell proliferation, B cell function, cytokine and interleukin secretion from 
+monocytes, T(H)17 cell function and regulation, and osteoclastogenesis. Thus, 
+only partial and transient inhibition of IKKbeta is sufficient to yield dramatic 
+benefit in vivo, and this understanding will be important in the clinical 
+development of IKKbeta inhibitors.

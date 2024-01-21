@@ -1,0 +1,19 @@
+Systemic autoimmune diseases (SADs) encompass a wide spectrum of clinical signs 
+as a reflection of their complex physiopathology. A variety of mechanisms 
+related with the innate immune system are in the origin of the loss of 
+self-tolerance in these diseases, and for most of them, the myeloid leukocytes 
+are key actors. Monocytes, macrophages, dendritic cells, and neutrophils are 
+first-line immune effectors located in the interface between innate and adaptive 
+immunity. They are crucial in the organization of the local and systemic 
+responses to damage-associated molecular patterns (DAMPs) and determine the 
+intensity, orientation, and duration of the local immune response through the 
+expression of chemokines, costimulatory or protolerogenic factors. In this 
+review, we summarize the current knowledge about the role of the main myeloid 
+populations in the induction and maintenance of systemic lupus erythematosus 
+(SLE), rheumatoid arthritis (RA), primary antiphospholipid antibody syndrome 
+(PAPS), systemic sclerosis (SSc), and Sjögren's syndrome (SjS), based on the 
+data from both mouse preclinical models and patients. According to these data, 
+our challenge in the next few years is to better dissect the fine mechanisms 
+underlying the pathological role of myeloid cells in these diseases in order to 
+define specific cell subsets or proteins that can be potential targets for drug 
+development.

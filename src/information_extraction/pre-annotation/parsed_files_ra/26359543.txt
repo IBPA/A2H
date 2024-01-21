@@ -1,0 +1,26 @@
+The inflammatory cytokine interleukin-6 (IL-6) is a causative agent of 
+rheumatoid arthritis (RA), a chronic inflammatory disease complicated with 
+degenerative arthritic cartilage. However, the precise mechanism of IL-6 on 
+chondrocyte apoptosis is largely unclear. Acid-sensing ion channels (ASICs), a 
+family of extracellular H(+)-activated cation channels, can be transiently 
+activated by extracellular acid and play a pivotal role in acid-induced cell 
+injury. In the present study, to investigate the role of IL-6 in regulating 
+acid-induced articular chondrocyte apoptosis, primary rat articular chondrocytes 
+were subjected to different treatments with or without IL-6 in the presence of 
+acid. The results showed that the mRNA and protein expressions of ASIC1a were 
+significantly increased in articular cartilage and chondrocytes of adjuvant 
+arthritis (AA) rats. IL-6 could dramatically upregulate the level of ASIC1a in a 
+time- and dose-dependent manner, and induce the activation of JAK2, STAT3, ERK, 
+JNK and NF-κB in articular chondrocytes. Moreover, both the respective 
+inhibitors of these signaling pathways and the specific antibody against IL-6 
+receptor (tocilizumab) could partially abrogate the ASIC1a upregulation induced 
+by IL-6. Furthermore, IL-6 inhibited the cell viability and enhanced LDH 
+release, [Ca(2+)]i elevation, and apoptosis in acid-induced articular 
+chondrocytes, and these changes could be reversed by using psalmotoxin 1(PcTX1), 
+which is the specific antagonist of ASIC1a. In addition, pretreatment with PcTX1 
+could inhibit the downregulated expression of Bcl-2 and the upregulated 
+expression of Bax induced by IL-6 in acid-induced articular chondrocytes. Taken 
+together, these results indicated that IL-6 could enhance acid-induced articular 
+chondrocyte apoptosis, the mechanism of which might partially be involved with 
+its ability of regulating the activation of ASIC1a-dependent JAK2/STAT3 and 
+MAPK/NF-κB signaling pathways.

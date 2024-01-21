@@ -1,0 +1,22 @@
+In rheumatoid arthritis (RA), the synovium is infiltrated by mononuclear cells 
+that influence the proliferation and activation of fibroblast-like synoviocytes 
+(FLS) through soluble mediators as well as cell-to-cell contact. To identify 
+receptor-ligand pairs involved in this cross-talk, we cocultured T cells with 
+FLS lines isolated from synovial tissues from RA patients. Coculture with T 
+cells induced phosphorylation of Akt (Ser(473)) and its downstream mediators, 
+GSK-3alpha/GSK-beta, FoxO1/3a, and mouse double minute-2, and enhanced FLS 
+proliferation. T cell-mediated phospho-Akt up-regulation was unique for FLS as 
+no such effect was observed upon interaction of T cells with dendritic cells and 
+B cells. Akt activation was induced by all functional T cell subsets independent 
+of MHC/Ag recognition and was also found with other leukocyte populations, 
+suggesting the involvement of a common leukocyte cell surface molecule. Akt 
+phosphorylation, enhanced in vitro FLS proliferation, and enhanced FLS IL-6 
+production was inhibited by blocking Abs to CD11a and ICAM-2 whereas Abs to 
+ICAM-1 had a lesser effect. Selective involvement of the LFA-1-ICAM-2 pathway 
+was confirmed by the finding of increased ezrin phosphorylation at Tyr(353) that 
+is known to be downstream of ICAM-2 and supports cell survival through Akt 
+activation. CD28(-) T cells, which are overrepresented in RA patients, have high 
+CD11a cell surface expression and induce Akt phosphorylation in FLS more 
+potently than their CD28(+) counterparts. These findings identify ICAM-2 as a 
+potential therapeutic target to inhibit FLS activation in RA, allowing for a 
+more selective intervention than broad LFA-1 inhibition.

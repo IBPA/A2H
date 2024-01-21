@@ -1,0 +1,19 @@
+The epithelial cells of the gut form a physical barrier against the luminal 
+contents. The collapse of this barrier causes inflammation, and its therapeutic 
+restoration can protect the gut against inflammation. EGF enhances mucosal 
+barrier function and increases colonocyte proliferation, thereby ameliorating 
+inflammatory responses in the gut. Based on our previous finding that the insect 
+peptide CopA3 promotes neuronal growth, we herein tested whether CopA3 could 
+increase the cell proliferation of colonocytes, enhance mucosal barrier 
+function, and ameliorate gut inflammation. Our results revealed that CopA3 
+significantly increased epithelial cell proliferation in mouse colonic crypts 
+and also enhanced colonic epithelial barrier function. Moreover, CopA3 treatment 
+ameliorated Clostridium difficile toxin As-induced inflammation responses in the 
+mouse small intestine (acute enteritis) and completely blocked inflammatory 
+responses and subsequent lethality in the dextran sulfate sodium-induced mouse 
+model of chronic colitis. The marked CopA3-induced increase of colonocyte 
+proliferation was found to require rapid protein degradation of p21(Cip1/Waf1), 
+and an in vitro ubiquitination assay revealed that CopA3 directly facilitated 
+ubiquitin ligase activity against p21(Cip1/Waf1). Taken together, our findings 
+indicate that the insect peptide CopA3 prevents gut inflammation by increasing 
+epithelial cell proliferation and mucosal barrier function.

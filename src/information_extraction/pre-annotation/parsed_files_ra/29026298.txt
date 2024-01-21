@@ -1,0 +1,24 @@
+BACKGROUND: Rheumatoid arthritis (RA) is a chronic inflammatory disease treated 
+by nonsteroidal anti-inflammatory drugs (NSAIDs) including lornoxicam (LX). 
+Nanocarriers have been used to increase the efficacy and reduce the side effects 
+of various drugs. The objective of the present study was to compare the 
+therapeutic efficacy of systemic administration of lornoxicam-loaded 
+nanomicellar formula (LX-NM) with that of free LX.
+MATERIALS AND METHODS: The LX-loaded mixed polymeric nanomicellar formula was 
+prepared by direct equilibrium technique. Two rat models were used in the study: 
+carrageenan-induced acute edema and Freund's complete adjuvant (FCA)-induced 
+chronic arthritis.
+RESULTS: The inhibitory effect of LX-NM on carrageenan-induced edema was higher 
+than free LX for the same dose (1.3 mg/kg, i.p.). LX-NM (0.325 mg/kg, i.p.) 
+produced effects comparable to that of diclofenac, which served as a standard. 
+In the FCA model, daily treatment with LX-NM (0.325 mg/kg, i.p.) starting on day 
+14 significantly reduced the percentage of edema and increased weight growth. 
+However, the same dose of LX failed to confer any significant change. 
+Additionally, LX-NM significantly attenuated the rise of tumor necrosis factor-α 
+(TNF-α), interleukin-1β, prostaglandin E2, nuclear factor-κβ, malondialdehyde 
+and nitric oxide serum levels. In contrast, LX failed to show any significant 
+reduction in elevated serum biomarkers except for TNF-α.
+CONCLUSION: LX-NM is an alternative delivery system that is simply prepared at 
+low costs. It showed a superior therapeutic efficacy against RA compared to free 
+LX. Thus, LX-NM can be considered as a promising candidate for treatment of RA 
+and similar inflammatory disorders.

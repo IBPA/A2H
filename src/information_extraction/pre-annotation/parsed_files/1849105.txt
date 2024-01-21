@@ -1,0 +1,19 @@
+In vivo, Clostridium difficile acts by releasing 2 toxins: toxin A, an 
+enterotoxin, and toxin B, a cytotoxin. This study was performed to determine: a) 
+whether the rat epithelial intestinal cell line IRD 98 responds to Clostridium 
+difficile toxin A and B; b) whether the yeast Saccharomyces boulardii has an 
+effect on this model. Evaluation of 3H-thymidine incorporation into IRD 98 cells 
+exposed to toxin B revealed that DNA synthesis was inhibited for low 
+concentrations (10 ng/ml). For higher concentrations, DNA synthesis was not 
+modified. Evaluation of 14C-leucine incorporation into IRD 98 cells exposed to 
+toxin B revealed that this toxin affected protein synthesis. Whereas cholera 
+toxin stimulates adenylate cyclase in IRD 98 cells, cAMP levels in cells exposed 
+to various quantities of toxin A was similar to that in control cells. As 
+opposed to cholera toxin, which does not affect the cytoskeletal structure of 
+IRD 98 cells, 7 micrograms/ml of toxin A and even smaller amounts of toxin B (1 
+ng/ml) were found to cause structural alterations by immunofluorescence studies. 
+Prior exposition of cells to Saccharomyces boulardii reduced or prevented the 
+rounding of cells in the presence of these toxins. IRD 98 cells can thus be 
+considered a good model for in vitro investigation of the effects of Clostridium 
+difficile toxins A and B, and findings suggest that Saccharomyces boulardii has 
+a protective effect against the action of these toxins.

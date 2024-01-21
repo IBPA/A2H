@@ -1,0 +1,19 @@
+Two Cl. difficile toxins were isolated from cultures of Cl. difficile strain VPI 
+10463. A purification procedure to prepare homogenous Cl. difficile toxins is 
+given. This procedure allows purification of high molecular weight toxins A and 
+B without using immunaffinity chromatography. The main step of the purification 
+is the separation of a partially purified toxin preparation over a FPLC-Mono Q 
+column by anion exchange chromatography. The experimental conditions for a 
+rechromatography were determined to prepare the two major toxic activities as 
+homogenous high molecular weight proteins. Our toxin A has a molecular weight 
+(Mr) of ca. 300 kDa and an IP of 4.7. The Mr of our toxin B is ca. 250 kDa, the 
+isoelectric focusing gives rise to two bands one at 4.7 and the other at 4.8. 
+The two bands represent charge isomers as have been described for other 
+bacterial toxins. Both toxins differ in cytotoxicity testing by a factor of 1000 
+but have the same activity when tested in vivo. Toxin specific monoclonal 
+antibodies (mabs) were elicited by separate immunization of mice either with 
+toxin A or toxin B, respectively. All of our mabs cross react with pure toxin A 
+and toxin B when tested by ELISA or Western Blotting. Some mabs strongly cross 
+react indicating that both toxins have major epitopes in common. A hypothesis 
+for the structural and possible functional relatedness between the two toxins is 
+discussed.

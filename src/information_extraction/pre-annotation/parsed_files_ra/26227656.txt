@@ -1,0 +1,23 @@
+This study was aimed at gaining an insight into immune mechanisms of 
+differential susceptibility to autoimmunity of individuals sharing the same 
+major histocompatibility complex by studying arthritis-susceptible Lewis (LEW) 
+and arthritis-resistant Wistar Kyoto (WKY) rats (both RT.1(l)) using the 
+adjuvant arthritis (AA) model of rheumatoid arthritis (RA). Lymph node cells 
+(LNC) and synovium-infiltrating cells (SIC) of LEW and WKY rat subjected to an 
+arthritogenic challenge were tested. The frequency of T helper 17 (Th17) and T 
+regulatory (Treg) cells was determined by flow cytometry, whereas serum and 
+spleen adherent cell (SAC)-derived supernatant were analyzed for specific 
+cytokines and chemokines. We observed that WKY rats are not deficient in 
+generating a Th17 response to the arthritogenic challenge in LNC (periphery); 
+however, the Th17/Treg ratio is markedly reduced in the joint (target organ) of 
+WKY versus LEW rats because of reduced Th17 levels therein in WKY rats. These 
+results suggest differential and selective decrease in Th17 cell migration into 
+the joints of WKY rats. Interestingly, serum levels of chemokines RANTES and 
+MCP-1 were reduced in WKY rats. Furthermore, WKY rats showed reduced serum IL-1β 
+level in vivo but no defect in IL-1β production by SAC in vitro, suggesting an 
+effective in vivo regulation of IL-1β response. We also unraveled the role of 
+interferon-γ (IFNγ), which we have previously reported to be increased in WKY 
+versus LEW rats, in regulation of IL-1β. Thus, reduced Th17/Treg ratio in the 
+target organ (joints) and decreased systemic IL-1β might contribute to the 
+AA-resistance of WKY rats; whereas the converse factors render LEW more 
+vulnerable to AA.

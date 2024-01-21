@@ -1,0 +1,24 @@
+Clostridioides difficile infection (CDI) is a toxin-mediated infection in the 
+gut and a major burden on healthcare facilities worldwide. We rationalized that 
+it would be beneficial to design an antibody therapy that is delivered to, and 
+is active at the site of toxin production, rather than neutralizing the 
+circulating and luminal toxins after significant damage of the layers of the 
+intestines has occurred. Here we describe a highly potent therapeutic, OraCAb, 
+with high antibody titers and a formulation that protects the antibodies from 
+digestion/inactivation in the gastrointestinal tract. The potential of OraCAb to 
+prevent CDI in an in vivo hamster model and an in vitro human colon model was 
+assessed. In the hamster model we optimized the ratio of the antibodies against 
+each of the toxins produced by C. difficile (Toxins A and B). The concentration 
+of immunoglobulins that is effective in a hamster model of CDI was determined. A 
+highly significant difference in animal survival for those given an optimized 
+OraCAb formulation versus an untreated control group was observed. This is the 
+first study testing the effect of oral antibodies for treatment of CDI in an in 
+vitro gut model seeded with a human fecal inoculum. Treatment with OraCAb 
+successfully neutralized toxin production and did not interfere with the colonic 
+microbiota in this model. Also, treatment with a combination of vancomycin and 
+OraCAb prevented simulated CDI recurrence, unlike vancomycin therapy alone. 
+These data demonstrate the efficacy of OraCAb formulation for the treatment of 
+CDI in pre-clinical models.
+
+Copyright © 2020 Roberts, Harris, Smith, Giles, Polak, Buckley, Clark, Ewin, 
+Moura, Spitall, Shone, Wilcox, Chilton and Donev.

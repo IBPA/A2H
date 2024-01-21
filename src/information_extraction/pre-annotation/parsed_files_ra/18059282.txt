@@ -1,0 +1,21 @@
+Osteoclasts are bone-resorbing cells derived from hematopoietic precursors of 
+the monocyte-macrophage lineage. Regulation of osteoclast function is central to 
+the understanding of bone diseases such as osteoporosis, rheumatoid arthritis 
+and osteopetrosis. Although peroxisome proliferator-activated receptor-gamma 
+(PPAR-gamma) has been shown to inhibit osteoblast differentiation, its role, if 
+any, in osteoclasts is unknown. This is a clinically crucial question because 
+PPAR-gamma agonists, "such as thiazolidinediones-" a class of 
+insulin-sensitizing drugs, have been reported to cause a higher rate of 
+fractures in human patients. Here we have uncovered a pro-osteoclastogenic 
+effect of PPAR-gamma by using a Tie2Cre/flox mouse model in which PPAR-gamma is 
+deleted in osteoclasts but not in osteoblasts. These mice develop osteopetrosis 
+characterized by increased bone mass, reduced medullary cavity space and 
+extramedullary hematopoiesis in the spleen. These defects are the result of 
+impaired osteoclast differentiation and compromised receptor activator of 
+nuclear factor-kappaB ligand signaling and can be rescued by bone marrow 
+transplantation. Moreover, ligand activation of PPAR-gamma by rosiglitazone 
+exacerbates osteoclast differentiation in a receptor-dependent manner. Our 
+examination of the underlying mechanisms suggested that PPAR-gamma functions as 
+a direct regulator of c-fos expression, an essential mediator of 
+osteoclastogenesis. Therefore, PPAR-gamma and its ligands have a previously 
+unrecognized role in promoting osteoclast differentiation and bone resorption.

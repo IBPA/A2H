@@ -1,0 +1,23 @@
+To investigate the expression of hypoxia inducible factor (HIF-1α) and vascular 
+endothelial growth factor (VEGF) in the synovium of collagen-induced arthritis 
+(CIA) joint, and whether the PI3K pathway regulates angiogenesis in rheumatoid 
+arthritis or not. A randomized controlled according to the principle of the rats 
+were divided into normal control group (10 rats) and the experimental group (40 
+rats). The experimental group rats were established as type II collagen plus 
+adjuvant Freund's complete adjuvant-induced arthritis model. HIF-1α and VEGF 
+proteins' expression in serum of CIA rats group and normal control group were 
+detected by ELISA. Microvessel density (MVD) in synovial tissue of CIA rats 
+group and normal control group were detected by immunohistochemistry (IHC) 
+staining. The protein expression of PTEN, PI3K, and AKT in synovial tissue were 
+detected by Western Blot. Compared with normal control group, toes and ankle 
+swelling and arthritis index (AI) of CIA rat increased, and the expression of 
+VEGF and HIF-1α proteins in peripheral serum increased, IHC showed that MVD was 
+significantly higher than that of the control group, and the difference was 
+statistically significant (p<0.05). Western Blot results showed that PI3K and 
+AKT proteins expression in CIA synovial tissue of rats increased, while the 
+expression of PTEN protein decreased. Correlation analysis showed that VEGF and 
+HIF-1 levels in the peripheral serum of CIA rats were positively correlated with 
+arthritis index (AI); the contents of HIF-1α and VEGF in the peripheral serum of 
+CIA rats were positively correlated with MVD in synovium tissue. The CIA rat 
+model regulated the expression of HIF-1α and VEGF proteins in peripheral serum 
+by PI3K signaling pathway, and then regulated neovascularization in RA.

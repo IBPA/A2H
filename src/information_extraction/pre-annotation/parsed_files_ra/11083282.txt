@@ -1,0 +1,23 @@
+OBJECTIVE: Spontaneous arthritis in the KRN transgenic mouse (K/BxN) model is 
+due to the autoreactivity of the transgenic T cell receptor and subsequent 
+induction of autoantibodies directed against glucose-6-phosphate isomerase 
+(G6PI). This study sought to analyze the potential of anti-CD40 ligand 
+(anti-CD40L) and anti-tumor necrosis factor alpha (anti-TNFalpha) antibodies in 
+preventing and treating arthritis in this murine model.
+METHODS: Groups of K/BxN mice were injected with anti-CD40L and anti-TNFalpha 
+antibodies during various stages of arthritis. Disease was assessed by clinical 
+scoring, measurements of paw swelling, and histology. The results were 
+correlated with the levels of autoantibodies in the serum, as assessed by 
+enzyme-linked immunosorbent assay.
+RESULTS: Anti-CD40L antibody treatment was able to diminish significantly the 
+arthritis development in K/BxN mice when given a week before the onset of 
+clinically apparent disease. However, no effect on disease was seen when the 
+antibodies were administered after clinical onset. Surprisingly, neutralizing 
+anti-TNFalpha antibodies were unable to prevent arthritis in K/BxN mice. The 
+success of antibody treatment in preventing disease correlated with low levels 
+of anti-G6PI antibodies in the serum.
+CONCLUSION: These results suggest that anti-CD40L treatment can prevent 
+arthritis development in a model of immunoglobulin-mediated arthritis, but 
+anti-TNFalpha treatment cannot. The unsuccessful treatment of established 
+disease was possibly due to the continued presence of autoreactive antibodies in 
+the arthritic mice.

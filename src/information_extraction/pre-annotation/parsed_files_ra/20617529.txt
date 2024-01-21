@@ -1,0 +1,28 @@
+OBJECTIVE: The interaction between CXCL12 and its receptor, CXCR4, in the 
+synovium of patients with rheumatoid arthritis (RA) is important for local 
+inflammatory cell recruitment, angiogenesis, and cytokine production. CXCR7 was 
+recently identified as an alternative receptor for CXCL12. We undertook this 
+study to analyze the expression of CXCR7 in RA synovium and the pathogenic role 
+of the CXCL12/CXCR7 pathway in RA.
+METHODS: CXCR7 expression in RA synovial tissue was analyzed using 
+immunohistochemistry, while expression of CXCR4 and CXCR7 on human umbilical 
+vein endothelial cells (HUVECs) was examined using quantitative reverse 
+transcription-polymerase chain reaction, and CXCR7 expression was also analyzed 
+by flow cytometry. Tube formation and rat aortic ring angiogenesis assays were 
+used to assess the effects of CCX733 (a CXCR7 antagonist) and AMD3100 (a CXCR4 
+antagonist) on CXCL12-induced angiogenesis. The effect of anti-CXCR4 monoclonal 
+antibody (mAb) was also analyzed using a tube formation assay. The effects of 
+CCX733 in a murine model of collagen-induced arthritis (CIA) were also 
+evaluated.
+RESULTS: CXCR7 was expressed on endothelial cells in RA synovium and also on 
+unstimulated HUVECs. The expression of CXCR7 on HUVECs was markedly up-regulated 
+by interleukin-1β (IL-1β) stimulation, and this overexpression was further 
+enhanced by CXCL12 treatment. Incubation with CXCL12 also promoted angiogenic 
+activity, with addition of IL-1β again augmenting the effect. CXCL12-induced 
+angiogenesis was inhibited by both CXCR4 and CXCR7 antagonists and by anti-CXCR4 
+mAb. Furthermore, treatment with CCX733 significantly reduced the clinical 
+arthritis scores and the numbers of vessels in the inflamed synovial tissue in 
+mice with CIA.
+CONCLUSION: CXCR7 and CXCR4 are both important for angiogenesis in RA synovium, 
+making CXCR7 another potential target molecule for novel RA 
+angiogenesis-blocking therapies.

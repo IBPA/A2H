@@ -1,0 +1,22 @@
+Dimethyl dioctadecyl ammonium bromide (DDA) (C(38)H(80)NBr) is a nonantigenic 
+lipoid material. DDA-induced arthritis (DIA) in the Lewis (LEW) (RT.1(l)) rat is 
+a new experimental model for human rheumatoid arthritis (RA). DIA is a T 
+cell-mediated autoimmune disease. However, the precise self/foreign Ags 
+associated with the disease process in DIA are not yet known. We observed that 
+LEW rats with DIA spontaneously raised a vigorous T cell response both to 65-kDa 
+self (rat) heat shock protein (Rhsp65) and mycobacterial hsp65 (Bhsp65), but not 
+to another arthritis-related Ag, bovine collagen type II. The T cell response to 
+Rhsp65 was focused predominantly on determinant regions 120-134 and 213-227 of 
+the self protein. Interestingly, pretreatment of adult LEW rats using either a 
+mixture of peptides 120-134 and 213-227 of Rhsp65 or a low nonarthritogenic dose 
+of DDA induced protection against subsequent DIA. Intriguingly, the protection 
+induced by the latter was associated with spontaneous priming of T cells 
+specific for peptide 213-227 of Rhsp65. Similarly, LEW rats neonatally tolerized 
+against either Rhsp65 or Bhsp65 were significantly protected from subsequently 
+induced DIA at adult stage, showing the disease-modulating attribute of the 
+hsp65-specific T cells. Taken together, the above findings demonstrate that the 
+hsp65-directed T cell repertoire is of significance in the pathogenesis of 
+autoimmune arthritis induced by nonantigenic DDA. Like other animal models of RA 
+involving hsp65, these first insights into the disease-associated Ags in the DIA 
+model would pave the way for further understanding of the immunological aspects 
+of induction and regulation of RA.

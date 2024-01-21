@@ -1,0 +1,33 @@
+Rheumatoid arthritis (RA) is a chronic autoimmune disease occurring in 
+approximately 1% of the worldwide population. The disease primarily affects the 
+joints, where inflammatory cells, such as macrophages, invade the synovium and 
+cause cartilage and bone destruction. Currently, it is difficult to efficiently 
+diagnose and monitor early-stage RA. In this study, we investigated whether 
+SPECT/micro-CT imaging with (99m)Tc-labeled Nanobodies directed against the 
+macrophage mannose receptor (MMR) is a useful tool for monitoring and 
+quantifying joint inflammation in collagen-induced arthritis (CIA), a mouse 
+model for RA. The expression of MMR was analyzed on macrophages and osteoclasts 
+generated in vitro and in cells obtained from various organs from mice with CIA.
+METHODS: CIA was induced in DBA/1 mice by injection of collagen type II in 
+complete Freund adjuvant, and cell suspensions from the inflamed joints and 
+other organs were obtained. Macrophages and osteoclasts were generated in vitro 
+from bone marrow cells. Expression of MMR was quantified by quantitative 
+polymerase chain reaction and flow cytometry with specific Nanobodies and 
+conventional antibodies. SPECT/micro-CT imaging was performed with 
+(99m)Tc-labeled MMR and control Nanobodies.
+RESULTS: MMR was highly expressed on macrophages and to a lesser extent on 
+osteoclasts generated in vitro. In mice with CIA, MMR expression was detected on 
+cells from the bone marrow, lymph nodes, and spleen. In synovial fluid of 
+arthritic joints, MMR was expressed on CD11b(+)F4/80(+) macrophages. On in vivo 
+SPECT/micro-CT imaging with consecutive injections of MMR and control 
+Nanobodies, a strong MMR signal was seen in the knees, ankles, and toes of 
+arthritic mice. Quantification of the SPECT imaging confirmed the specificity of 
+the MMR signal in inflamed joints as compared with the control Nanobody. 
+Dissection of the paws revealed an additional significant MMR signal in 
+nonarthritic paws of affected mice (i.e., mice displaying symptoms of arthritis 
+in other paws).
+CONCLUSION: Our data show that MMR is expressed on macrophages in vitro and in 
+vivo in synovial fluid of inflamed paws, whereas expression is relatively low in 
+other tissues. The use of Nanobodies against MMR in SPECT/micro-CT imaging 
+generates the possibility to track inflammatory cells in vivo in arthritic 
+joints.

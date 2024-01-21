@@ -1,0 +1,38 @@
+ETHNOPHARMACOLOGICAL RELEVANCE: Eucommia ulmoides Oliv., a valuable Chinese 
+herb, has shown a variety of health benefits. Despite the widespread clinical 
+use of this herb to treat rheumatoid arthritis (RA) in Traditional Chinese 
+Medicine (TCM), very few studies have described its anti-pathological effects or 
+mechanism in RA. The present study investigated the mechanism of Eucommia 
+ulmoides Oliv. in an experimental collagen-induced arthritis (CIA) rat model.
+MATERIALS AND METHODS: The effects of four different Eucommia ulmoides Oliv. 
+extracts on the proliferation of rheumatoid arthritis fibroblast-like 
+synoviocytes (RA-FLS) were screened in an MTT assay, and apoptotic effects were 
+detected by flow cytometry. Among the extracts, the 70% ethanol extract (EU70) 
+presented the best inhibition and was further investigated for its curative 
+effect in CIA rats. Foot swelling was detected, and the arthritis index (AI) was 
+scored. Pathological improvement was assessed by haematoxylin and eosin (H&E) 
+staining of joint tissues. The mechanistic effects of EU70 were investigated as 
+follows: anti-inflammatory effects in Th17-positive cells by flow cytometry; 
+serum levels of inflammatory cytokines by ELISA; TNFα and IL-1β expression by 
+immunohistochemistry (IHC); and anti-osteoclastogenesis by QPCR detection of 
+RANKL and OPG mRNA.
+RESULTS: Compared with vehicle treatment in CIA model rats, EU70 significantly 
+ameliorated foot swelling, decreased AI in vivo and reduced inflammatory cell 
+infiltration and synoviocyte proliferation. EU70 decreased the number of 
+Th17-positive cells in the spleen and the serum levels of cytokines, including 
+IL-17, IL-1β and TNFα, and upregulated the serum levels of IL-10; these results 
+indicated the anti-inflammatory effect of EU70. Moreover, EU70 effectively 
+suppressed TNFα and IL-1β expression in the joint tissues and resulted in the 
+downregulation of RANKL mRNA and the upregulation of OPG mRNA. These results 
+revealed the possible preventive role of EU70 against bone destruction.
+CONCLUSION: For the first time, these mechanisms and pathological improvements 
+support the clinical use of Eucommia ulmoides Oliv. in treating RA. The findings 
+indicated that the 70% ethanol extract of Eucommia ulmoides Oliv. could relieve 
+RA symptoms by (1) suppressing the proliferation of synoviocytes, (2) reducing 
+the number of Th17-positive cells and downregulating serum IL-17 expression, (3) 
+increasing the anti-inflammatory effects of IL-10, (4) inhibiting the serum and 
+tissue levels of key pro-inflammatory cytokines, TNFα and IL-1β, and (5) 
+reducing the degradation of cartilage and bone.
+
+Copyright © 2016 The Authors. Published by Elsevier Ireland Ltd.. All rights 
+reserved.

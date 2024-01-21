@@ -1,0 +1,28 @@
+OBJECTIVE: Patients with rheumatoid arthritis (RA) have increased concentrations 
+of the amino acid glutamate in synovial fluid. This study was undertaken to 
+determine whether glutamate receptors are expressed in the synovial joint, and 
+to determine whether activation of glutamate receptors on human synoviocytes 
+contributes to RA disease pathology.
+METHODS: Glutamate receptor expression was examined in tissue samples from rat 
+knee joints and in human fibroblast-like synoviocytes (FLS). FLS from 5 RA 
+patients and 1 normal control were used to determine whether a range of 
+glutamate receptor antagonists influenced expression of the proinflammatory 
+cytokine interleukin-6 (IL-6), enzymes involved in matrix degradation and 
+cytokine processing (matrix metalloproteinase 2 [MMP-2] and MMP-9), and the 
+inhibitors of these enzymes (tissue inhibitor of metalloproteinases 1 [TIMP-1] 
+and TIMP-2). IL-6 concentrations were determined by enzyme-linked immunosorbent 
+assay, MMP activity was measured by gelatin zymography, and TIMP activity was 
+determined by reverse zymography. Fluorescence imaging of intracellular calcium 
+concentrations in live RA FLS stimulated with specific antagonists was used to 
+reveal functional activation of glutamate receptors that modulated IL-6 or 
+MMP-2.
+RESULTS: Ionotropic and metabotropic glutamate receptor subunit mRNA were 
+expressed in the patella, fat pad, and meniscus of the rat knee and in human 
+articular cartilage. Inhibition of N-methyl-D-aspartate (NMDA) receptors in RA 
+FLS increased proMMP-2 release, whereas non-NMDA ionotropic glutamate receptor 
+antagonists reduced IL-6 production by these cells. Stimulation with glutamate, 
+NMDA, or kainate (KA) increased intracellular calcium concentrations in RA FLS, 
+demonstrating functional activation of specific ionotropic glutamate receptors.
+CONCLUSION: Our findings indicate that activation of NMDA and KA glutamate 
+receptors on human synoviocytes may contribute to joint destruction by 
+increasing IL-6 expression.

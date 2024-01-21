@@ -1,0 +1,16 @@
+The HLA-DRB1*0401 MHC class II molecule (DR4) is genetically associated with 
+rheumatoid arthritis. It has been proposed that this MHC class II molecule 
+participates in disease pathogenesis by presenting arthritogenic endogenous or 
+exogenous peptides to CD4+ T cells, leading to their activation and resulting in 
+an inflammatory response within the synovium. In order to better understand DR4 
+restricted T cell activation, we analyzed the candidate arthritogenic antigens 
+type II collagen, human aggrecan, and the hepatitis B surface antigen for T-cell 
+epitopes using a predictive model for determining peptide-DR4 affinity. We also 
+applied this model to determine whether cross-reactive T-cell epitopes can be 
+predicted based on known MHC-peptide-TCR interactions. Using the HLA-DR4-IE 
+transgenic mouse, we showed that both T-cell proliferation and Th1 cytokine 
+production (IFN-gamma) correlate with the predicted affinity of a peptide for 
+DR4. In addition, we provide evidence that TCR recognition of a peptide-DR4 
+complex is highly specific in that similar antigenic peptide sequences, 
+containing identical amino acids at TCR contact positions, do not activate the 
+same population of T cells.

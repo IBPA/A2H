@@ -1,0 +1,20 @@
+The high temperature requirement A1 (HTRA1) is a potent protease involved in 
+many diseases, including rheumatoid arthritis (RA). However, the regulatory 
+mechanisms that control HTRA1 expression need to be determined. In this study, 
+we demonstrated that IFN-γ significantly inhibited the basal and LPS-induced 
+HTRA1 expression in fibroblasts and macrophages, which are two major cells for 
+HTRA1 production in RA. Importantly, the inhibitory effect of IFN-γ on HTRA1 
+expression was evidenced in collagen-induced arthritis (CIA) mouse models and in 
+human RA synovial cells. In parallel with the enhanced CIA incidence and 
+pathological changes in IFN-γ-deficient mice, HTRA1 expression in the joint 
+tissues was also increased as determined by real-time PCR and Western blots. 
+IFN-γ deficiency increased the incidence of CIA and the pathological severity in 
+mice. Neutralization of HTRA1 by Ab significantly reversed the enhanced CIA 
+frequency and severity in IFN-γ-deficient mice. Mechanistically, IFN-γ 
+negatively controls HTRA1 expression through activation of p38 MAPK/STAT1 
+pathway. Dual luciferase reporter assay and chromatin immunoprecipitation 
+analysis showed that STAT1 could directly bind to HTRA1 promoter after IFN-γ 
+stimulation. This study offers new insights into the molecular regulation of 
+HTRA1 expression and its role in RA pathogenesis, which may have significant 
+impact on clinical therapy for RA and possibly other HTRA1-related diseases, 
+including osteoarthritis, age-related macular degeneration, and cancer.

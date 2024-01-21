@@ -1,0 +1,18 @@
+Clostridium difficile toxin A causes acute colitis associated with intense 
+infiltration of neutrophils. Although C. difficile toxin A is known to induce 
+nuclear factor-kappaB-mediated chemokine expression in intestinal epithelial 
+cells, little is known about its effect on the regulation of activator protein-1 
+(AP-1) by mitogen-activated protein kinase (MAPK). In the present study, we 
+investigated whether the MAPK and AP-1 signaling pathway is involved in 
+interleukin (IL)-8 expression and enteric inflammation in response to 
+stimulation with toxin A. Toxin A activated MAPK and AP-1 composed of 
+c-Jun/c-Fos heterodimers in primary intestinal epithelial cells and HT-29 cell 
+lines. Transfection with mutant genes for Ras, c-Jun, p38, or c-Jun N-terminal 
+kinase (JNK) significantly inhibited C. difficile toxin A-induced activation of 
+AP-1 and expression of IL-8 in HT-29 cell lines. Furthermore, the p38 inhibitor 
+SB203580 attenuated toxin A-induced inflammation in vivo in the mouse ileum, 
+evidenced by a significant decrease in neutrophil infiltration, villous 
+destruction, and mucosal congestion. Our results suggest that the Ras/MAPK 
+cascade acts as the upstream signaling for AP-1 activation and IL-8 expression 
+in toxin A-stimulated intestinal epithelial cells and may be involved in the 
+development of enteritis after infection with toxin A-producing C. difficile.

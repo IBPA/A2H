@@ -1,0 +1,26 @@
+The glycylcycline antibiotic tigecycline was approved in 2005 for the treatment 
+of complicated skin and soft tissue infections and complicated intra-abdominal 
+infections. Tigecycline is broadly active against both Gram-negative and 
+Gram-positive microorganisms, including Clostridium difficile. Tigecycline has a 
+low MIC against C. difficile in vitro and thus may represent an alternate 
+treatment for C. difficile infection (CDI). To assess the use of tigecycline for 
+treatment of established CDI, 5- to 8-week-old C57BL/6 mice were colonized with 
+C. difficile strain 630. After C. difficile colonization was established, mice 
+(n = 10 per group) were treated with either a 5-day course of tigecycline (6.25 
+mg/kg every 12 h subcutaneously) or a 5-day course of vancomycin (0.4 mg/ml in 
+drinking water) and compared to infected, untreated control mice. Mice were 
+evaluated for clinical signs of CDI throughout treatment and at 1 week 
+posttreatment to assess potential for disease development. Immediately following 
+a treatment course, C. difficile was not detectable in the feces of 
+vancomycin-treated mice but remained detectable in feces from 
+tigecycline-treated and untreated control mice. Toxin activity and 
+histopathological inflammation and edema were observed in the ceca and colons of 
+untreated mice; tigecycline- and vancomycin-treated mice did not show such 
+changes directly after treatment. One week after the conclusion of either 
+antibiotic treatment, C. difficile load, toxin activity, and histopathology 
+scores increased in the cecum and colon, indicating that C. difficile-associated 
+disease occurred. In vitro growth studies confirmed that subinhibitory 
+concentrations of tigecycline were able to suppress toxin activity and spore 
+formation of C. difficile, whereas vancomycin did not. Taken together, these 
+data show how tigecycline is able to alter C. difficile pathogenesis in a mouse 
+model of CDI.

@@ -1,0 +1,30 @@
+Bile acids, important mediators of lipid absorption, also act as hormone-like 
+regulators and as antimicrobial molecules. In all these functions their potency 
+is modulated by a variety of chemical modifications catalyzed by bacteria of the 
+healthy gut microbiota, generating a complex variety of secondary bile acids. 
+Intestinal commensal organisms are well-adapted to normal concentrations of bile 
+acids in the gut. In contrast, physiological concentrations of the various 
+intestinal bile acid species play an important role in the resistance to 
+intestinal colonization by pathogens such as Clostridium difficile. Antibiotic 
+therapy can perturb the gut microbiota and thereby impair the production of 
+protective secondary bile acids. The most important bile acid transformation is 
+7α-dehydroxylation, producing deoxycholic acid (DCA) and lithocholic acid (LCA). 
+The enzymatic pathway carrying out 7α-dehydroxylation is restricted to a narrow 
+phylogenetic group of commensal bacteria, the best-characterized of which is 
+Clostridium scindens. Like many other intestinal commensal species, 
+7-dehydroxylating bacteria are understudied in vivo. Conventional animals 
+contain variable and uncharacterized indigenous 7α-dehydroxylating organisms 
+that cannot be selectively removed, making controlled colonization with a 
+specific strain in the context of an undisturbed microbiota unfeasible. In the 
+present study, we used a recently established, standardized gnotobiotic mouse 
+model that is stably associated with a simplified murine 12-species "oligo-mouse 
+microbiota" (Oligo-MM12). It is representative of the major murine intestinal 
+bacterial phyla, but is deficient for 7α-dehydroxylation. We find that the 
+Oligo-MM12 consortium carries out bile acid deconjugation, a prerequisite for 
+7α-dehydroxylation, and confers no resistance to C. difficile infection (CDI). 
+Amendment of Oligo-MM12 with C. scindens normalized the large intestinal bile 
+acid composition by reconstituting 7α-dehydroxylation. These changes had only 
+minor effects on the composition of the native Oligo-MM12, but significantly 
+decreased early large intestinal C. difficile colonization and pathogenesis. The 
+delayed pathogenesis of C. difficile in C. scindens-colonized mice was 
+associated with breakdown of cecal microbial bile acid transformation.

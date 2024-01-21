@@ -1,0 +1,28 @@
+Gancao Fuzi decoction (GFD) is a classic Chinese medicine formula for the 
+treatment of rheumatic and rheumatoid arthritis. The main active components of 
+GFD are alkaloids, flavonoids and saponins. This study aimed to clarify the 
+pharmacodynamic effects of the active components in GFD and investigate the 
+mechanism of them treating rheumatoid arthritis rats by the method of 
+metabonomics. Seven groups were studied, named as the normal group (NG), the 
+model group (MG), the Gancao Fuzi decoction treatment group (GFDe), the 
+alkaloids group (ALK), the compatibility of alkaloids with flavonoids group 
+(AF), the compatibility of alkaloids with saponins group (AS) and the 
+compatibility of alkaloids with flavonoids and saponins group (AFS), 
+respectively. Firstly, the anti-inflammatory and analgesic effects of these 
+groups were studied. Besides, urinary metabonomics based on ultra 
+high-performance liquid chromatography-quadrupole time-of-flight mass 
+spectrometry (UHPLC-Q-TOF-MS) was employed for delineation of metabolic 
+alterations in the rats. Based on our results, it is concluded that AFS showed 
+better anti-inflammatory and analgesic activities in GFD. Urinary metabonomic 
+study and multivariate statistical analyses were used to investigate the 
+mechanism of different groups. 26 potential biomarkers have been identified. By 
+the analysis of heat map combined with score plot, the AFS group was the closest 
+group to the NG group after treatment in GFD. The changes of urinary endogenous 
+metabolites showed that AFS exhibited better effect on regulating the taurine 
+and hypotaurine metabolism, phenylalanine metabolism, TCA cycle, tryptophan 
+metabolism, fatty acid metabolism, vitamin B6 metabolism, arginine and proline 
+metabolism and purine metabolism pathways. The pharmacodynamics results showed 
+that three components of flavonoids, saponins and alkaloids in GFD played an 
+overall efficacy. Metabonomics studies showed that the compatibility of three 
+components in GFD achieved the therapeutic effect by regulating the 
+perturbations of multiple metabolic pathways.

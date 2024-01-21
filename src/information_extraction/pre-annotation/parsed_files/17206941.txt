@@ -1,0 +1,20 @@
+BACKGROUND: Tolevamer is a novel toxin-binding polymer that is currently being 
+investigated in clinical trials for the treatment of patients who have 
+Clostridium difficile-associated diarrhoea.
+AIMS: To summarize the results of in vitro and in vivo preclinical studies of 
+tolevamer. In contrast to antibiotics, tolevamer binds C. difficile toxins to 
+interrupt toxin-mediated intestinal inflammation and tissue damage, and does not 
+demonstrate direct antimicrobial activity.
+METHODS: Pharmacokinetics/pharmacodynamics were studied in rats and dogs; 
+efficacy was studied in a hamster model.
+RESULTS: Studies in rats and dogs indicate that tolevamer is essentially 
+non-absorbed from the gastrointestinal tract and show that drug interactions 
+with commonly used therapies are unlikely. Pharmacologic studies indicate that 
+tolevamer reduces disease severity and recurrence rates in the hamster model of 
+C. difficile-associated diarrhoea and blocks the enterotoxic effects of toxin A 
+in rat ileum. The binding parameters calculated for the interaction of tolevamer 
+with toxins A and B provide a reasonable physicochemical model that supports the 
+potential clinical utility of tolevamer.
+CONCLUSIONS: These preclinical results are consistent with the effectiveness and 
+safety profile of tolevamer observed in clinical studies in patients with C. 
+difficile-associated diarrhoea.

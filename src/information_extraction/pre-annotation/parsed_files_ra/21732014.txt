@@ -1,0 +1,17 @@
+BACKGROUND: KRN/I-A(g7) (KxB/N) is a mouse model of inflammatory arthritis, 
+which resembles human rheumatoid arthritis. Arthritis in these animals is caused 
+by autoreactivity to a ubiquitously expressed autoantigen, glucose-6 phosphate 
+isomerase. Tolerance is broken at both the T cell and B cell level. The sera 
+from KRN/I-A(g7) mice can induce mouse arthritis in healthy mice. Complement 
+components of the alternative complement pathway, including C3, have been shown 
+to be required in induction of mouse arthritis by serum transfer.
+METHODS: We have bred KRN/I-A(g7) mice onto a C3-deficient background and 
+followed cohorts for the spontaneous appearance of arthritis. We have also 
+transferred KxB/N serum to B6.I-A ( g7 ) recipients.
+RESULTS: C3-deficient KRN/I-A(g7) mice spontaneously developed severe, 
+destructive arthritis, comparable to that seen in C3-intact KRN/I-A(g7) mice. 
+However, serum transfer experiments confirmed the strong requirement for C3 in 
+the passive model.
+CONCLUSION: The pathogenesis of spontaneous KRN/I-A(g7) arthritis can largely 
+proceed by complement-independent pathways and must have pathology effector 
+mechanisms in addition to those seen in the passive serum transfer model.

@@ -1,0 +1,16 @@
+Clostridium difficile is the most common cause of antimicrobial-associated 
+diarrhea in humans and may cause death. Previously, we discovered that C. 
+difficile expresses three polysaccharides, named PSI, PSII, and PSIII. It has 
+now been established that PSII is a conserved antigen abundantly present on the 
+cell-surface and biofilm of C. difficile. In contrast, the expression of PSI and 
+PSIII appears to be stochastic processes. In this work, the total chemical 
+synthesis of the PSI pentasaccharide repeating unit carrying a linker at the 
+reducing end, 
+α-l-Rhap-(1→3)-β-d-Glcp-(1→4)-[α-l-Rhap-(1→3)]-α-d-Glcp-(1→2)-α-d-Glcp-(1→O(CH2)5NH2, 
+was achieved by a linear synthesis strategy from four monosaccharide building 
+blocks. The synthesized PSI pentasaccharide was conjugated to a subunit of C. 
+difficile exotoxin B yielding a potential dual C. difficile vaccine. More 
+significantly, sera from healthy horses were shown to contain natural anti-PSI 
+IgG antibodies that detected both the synthetic non-phosphorylated PSI repeat 
+and the native PSI polysaccharide, with a slightly higher recognition of the 
+native PSI polysaccharide.

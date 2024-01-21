@@ -1,0 +1,17 @@
+Antibiotic treatment is often followed by Clostridium difficile infection (CDI), 
+which causes severe diarrhea and other health issues. Oral administration of 
+Pediococcus pentosaceus Li05 (Li05) has been shown to have great potential in 
+preventing CDI. However, the viability of Li05 is greatly reduced during storage 
+and passage through the gastrointestinal (GI) tract, which limits its biological 
+activity. In this study, a gastro-responsive microgel was designed to 
+encapsulate and protect Li05 to enhance its efficacy against CDI. The viability 
+of Li05 encapsulated within the microgels was significantly enhanced during 
+long-term storage and after exposure to simulated GI fluids. Moreover, this 
+gastro-responsive microgel led to greater sustained release of the probiotic. In 
+a mouse CDI model, we found that encapsulated Li05 was better at inhibiting C. 
+difficile infection than nonencapsulated Li05, as demonstrated through analysis 
+of the probiotic survival rate, spleen weight, colonic histology, and 
+inflammatory cytokine levels. Moreover, the gut microbial diversity was enriched 
+by treatment with encapsulated Li05. These results suggest that encapsulating 
+Li05 within biopolymer microgels may enhance its ability to prevent and treat 
+CDI using functional foods, supplements, or pharmaceuticals.

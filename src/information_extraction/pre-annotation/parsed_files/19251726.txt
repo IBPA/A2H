@@ -1,0 +1,24 @@
+OBJECTIVES: REP3123 is a fully synthetic methionyl-tRNA synthetase inhibitor in 
+pre-clinical development as a novel agent to treat Clostridium difficile 
+infection (CDI). This novel agent was investigated for its ability to block the 
+production of toxins and spores, and was tested for efficacy in vivo in a 
+hamster model.
+METHODS: Clostridial toxin levels were determined qualitatively using monoclonal 
+antibodies and by cytotoxicity assays. Spores were detected by staining and by 
+quantitative dilution plating after ethanol treatment. Efficacy of REP3123 was 
+tested in a clindamycin-induced C. difficile hamster gastrointestinal (GI) 
+infection model.
+RESULTS: REP3123 at concentrations as low as 1 mg/L inhibited de novo toxin 
+production in high cell density, stationary phase cultures of C. difficile. 
+Among comparator agents currently used for CDI therapy, vancomycin required much 
+higher levels of 20 mg/L, and metronidazole had no effect on toxin levels. 
+REP3123 caused a >10-fold reduction of the sporulation rate in vitro. Vancomycin 
+and, in particular, metronidazole appeared to promote the formation of spores. 
+REP3123, at concentrations as low as 0.5 mg/kg, demonstrated efficacy in the 
+hamster model of CDI and was superior to vancomycin in the overall survival of 
+the animals at the end of the study (33 days).
+CONCLUSIONS: REP3123 inhibited growth of C. difficile, affected the production 
+of toxins and spores and demonstrated superior efficacy compared with vancomycin 
+in the hamster GI infection model. This agent may be a promising candidate for 
+CDI treatment; in particular, the inhibition of toxin production and spore 
+formation may reduce the severity and spread of the disease, respectively.

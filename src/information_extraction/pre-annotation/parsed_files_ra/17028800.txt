@@ -1,0 +1,19 @@
+Despite a number of published reports, including from our own laboratory, 
+suggesting that adeno-associated virus (AAV) transduces mouse synovium, a 
+careful analysis demonstrated transduction predominantly of the subsynovial 
+muscle tissue, while the synovial lining is poorly transduced. To investigate 
+the potential of AAV to transduce human synovium, three human rheumatoid 
+arthritis (RA) and two murine collagen-induced arthritis (CIA) synovial cell 
+lines were infected with recombinant AAV (rAAV) vectors encoding either mouse 
+IL-10 or IL-4. Low-level transgene expression was observed. However, either 
+Gamma-irradiation or the addition of a low-titer E1-, E3-deleted recombinant 
+adenovirus resulted in up to a 100-fold increase in transgene product in the 
+human, but not the mouse, cell lines. RA synovial tissues implanted 
+subcutaneously in severe combined immunodeficiency (SCID) mice, which were 
+subsequently infected with rAAV, showed marked increases in transgene expression 
+when co-infected with adenovirus. To our knowledge, this is the first study to 
+show that intact human synovial tissues can be transduced by rAAV, and it 
+suggests that murine arthritis may not be an optimal model to study rAAV as a 
+gene transfer vector. Further studies to elucidate the mechanisms limiting gene 
+transduction in human synovium may allow optimization of this vector for the 
+treatment of arthritis.

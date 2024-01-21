@@ -1,0 +1,25 @@
+OBJECTIVE: Stromal cell-derived factor 1 (SDF-1; CXCL12/pre-B cell 
+growth-stimulating factor) is a dominant chemokine in bone marrow and is known 
+to be involved in inflammatory diseases, including rheumatoid arthritis. 
+However, its role in bone repair remains unknown. The purpose of this study was 
+to investigate the role of SDF-1 and its receptor, CXCR4, in bone healing.
+METHODS: The expression of SDF-1 during the repair of a murine structural 
+femoral bone graft was examined by real-time polymerase chain reaction and 
+immunohistochemical analysis. The bone graft model was treated with anti-SDF-1 
+neutralizing antibody or TF14016, an antagonist for CXCR4, and evaluated by 
+histomorphometry. The functional effect of SDF-1 on primary mesenchymal stem 
+cells was determined by in vitro and in vivo migration assays. New bone 
+formation in an exchanging-graft model was compared with that in the autograft 
+models, using mice partially lacking SDF-1 (SDF-1(+/-)) or CXCR4 (CXCR4(+/-)).
+RESULTS: The expression of SDF1 messenger RNA was increased during the healing 
+of live bone grafts but was not increased in dead grafts. High expression of 
+SDF-1 protein was observed in the periosteum of the live graft. New bone 
+formation was inhibited by the administration of anti-SDF-1 antibody or TF14016. 
+SDF-1 increased mesenchymal stem cell chemotaxis in vitro in a dose-dependent 
+manner. The in vivo migration study demonstrated that mesenchymal stem cells 
+recruited by SDF-1 participate in endochondral bone repair. Bone formation was 
+decreased in SDF-1(+/-) and CXCR4(+/-) mice and was restored by the graft bones 
+from CXCR4(+/-) mice transplanted into the SDF-1(+/-) femur, but not vice versa.
+CONCLUSION: SDF-1 is induced in the periosteum of injured bone and promotes 
+endochondral bone repair by recruiting mesenchymal stem cells to the site of 
+injury.

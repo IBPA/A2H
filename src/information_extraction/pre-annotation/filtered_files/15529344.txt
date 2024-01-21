@@ -1,0 +1,26 @@
+OBJECTIVE: Collagen-induced arthritis (CIA) in the mouse is one of the most 
+widely used autoimmune experimental models, with many features similar to 
+rheumatoid arthritis. This study sought to identify potential genetic regulatory 
+mechanisms of CIA in major histocompatibility complex-matched (H2-q) F(2) hybrid 
+mice.
+METHODS: We used 126 polymorphic markers to perform simple sequence-length 
+polymorphism analysis on 290 F(2) hybrids of arthritis-susceptible (DBA/1J) and 
+arthritis-resistant (FVB/N) inbred mouse strains. The major clinical traits 
+(disease severity and onset) were assessed, and serum antibodies specific to 
+type II collagen (CII) were determined by enzyme-linked immunosorbent assay in 
+270 F(2) mice. Lymph nodes from 94 F(2) mice were used to test the ratio of CD4 
+to CD8 by fluorescence-activated cell sorter analysis, and cell proliferation 
+was determined by XTT test.
+RESULTS: Two quantitative trait loci (QTLs) identified in previous studies were 
+confirmed; these were severity-controlling Cia2 and onset-controlling Cia4 on 
+chromosome 2. Moreover, we identified 5 new QTLs, 1 for CII-specific IgG2a 
+antibodies on chromosome 5, 2 controlling the CII-specific IgG1 antibody 
+response on chromosomes 10 and 13, 1 for the CD4:CD8 ratio on chromosome 2, and 
+1 for cell proliferation (measured by XTT test) on chromosome 16. Complement 
+component C5 was identified as the probable main candidate gene for the QTLs 
+Cia2 and Cia4. F(2) mice carrying a 2-basepair deletion of C5, the FVB/N allele, 
+had low incidence and less severe disease as compared with those carrying the 
+DBA/1J allele.
+CONCLUSION: This genome scan provides additional evidence confirming the role of 
+C5 as a probable candidate gene for Cia2 and Cia4 loci, and identifies new QTLs 
+controlling new traits in autoimmune arthritis.

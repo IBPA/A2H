@@ -1,0 +1,27 @@
+BACKGROUND: Measurement of antibodies to citrullinated peptides or proteins (CP) 
+is a new test for the diagnosis of rheumatoid arthritis (RA). We analyzed the 
+analytical characteristics and diagnostic accuracy of commercially available 
+methods.
+METHODS: We studied 11 commercially available 2nd- and 3rd-generation methods 
+that used various citrullinated antigen substrates: synthetic cyclic peptides, 
+recombinant rat filaggrin, mutated human vimentin, and Epstein-Barr virus- or 
+IgG-derived peptides. We assessed imprecision by measuring samples with low, 
+intermediate, and high concentrations 5 times on each of 5 days. We measured CPs 
+by each of the assays in 100 serum samples from patients with RA and in 202 
+samples from healthy persons or patients with other autoimmune, viral, or 
+neoplastic diseases.
+RESULTS: The between-run imprecision (CV) of the methods was between 0.4% and 
+22%, and the repeatability (within-run imprecision) was 0.5%-19%. The areas 
+under the ROC curves varied between 0.79 (95% CI, 0.72-0.85) and 0.92 
+(0.88-0.95). At a fixed specificity of 98.5%, the sensitivities ranged from 41% 
+(95% CI, 31%-51%) to 74% (64%-82%). Sensitivities and specificities varied 
+markedly at the manufacturer's suggested cutoffs. Most false-positive results 
+were recorded in patients with viral infections. The methods that use the 
+original synthetic cyclic CP gave the best and very similar performances, 
+although these methods use different components in their reagent sets 
+(conjugate, type of substrate, dilution, and washing buffers). This finding 
+shows that the antigenic source is the most important variable in determining 
+the diagnostic accuracy of the methods.
+CONCLUSIONS: The analytical imprecision and diagnostic accuracies of 
+commercially available methods for the detection of anti-CP antibodies differ. 
+Careful selection of methods is needed.

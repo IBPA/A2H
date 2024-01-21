@@ -1,0 +1,12 @@
+Clostridium difficile (Cd) infection (CDI) typically occurs after antibiotic 
+usage perturbs the gut microbiota. Mucosa-associated invariant T cells (MAIT) 
+are found in the gut and their development is dependent on Major 
+histocompatibility complex-related protein 1 (MR1) and the host microbiome. Here 
+we were interested in determining whether the absence of MR1 impacts resistance 
+to CDI. To this end, wild-type (WT) and MR1-/- mice were treated with 
+antibiotics and then infected with Cd spores. Surprisingly, MR1-/- mice 
+exhibited resistance to Cd colonization. 16S rRNA gene sequencing of feces 
+revealed inherent differences in microbial composition. This colonization 
+resistance was transferred from MR1-/- to WT mice via fecal microbiota 
+transplantation, suggesting that MR1-dependent factors influence the microbiota, 
+leading to CDI susceptibility.

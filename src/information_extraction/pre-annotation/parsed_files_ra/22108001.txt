@@ -1,0 +1,30 @@
+INTRODUCTION: Anti-citrullinated protein/peptide antibodies (ACPAs) are highly 
+specific to rheumatoid arthritis (RA) patients and are thought to have a close 
+relationship with the pathogenesis of arthritis. Several proteins, including 
+fibrinogen, vimentin, and alpha-enolase, were reported as ACPA-target antigens, 
+and their importance in RA pathogenesis was widely proposed. We identified 
+citrullinated immunoglobulin binding protein (citBiP) as another ACPA target in 
+RA patients and examined its pro-inflammatory role in arthritis.
+METHODS: We measured the levels of anti-citBiP, anti-BiP, and anti-cyclic 
+citrullinated peptide (CCP) antibodies in the serum of RA patients (n = 100), 
+systemic lupus erythematosus (SLE) patients (n = 60), and healthy controls (n = 
+30) using ELISA and immunoblotting. Epitope mapping was performed using 27 
+citBiP-derived peptides. In the mouse study, after DBA/1J mice were immunized 
+with BiP or citBiP, serum titers of ACPAs were measured by ELISA and 
+immunohistochemistry. The development of collagen-induced arthritis (CIA) was 
+observed in BiP- or citBiP-pre-immunized mice.
+RESULTS: The serum levels of anti-BiP and anti-citBiP antibodies were 
+significantly increased in RA patients, although only anti-BiP antibodies were 
+slightly increased in SLE patients. Interestingly, anti-citBiP antibody levels 
+were higher than anti-BiP antibody levels in 72% of RA patients, whereas no 
+significant increase in anti-citBiP antibody levels was detected in SLE patients 
+and healthy controls. The serum levels of anti-CCP antibodies were correlated 
+with those of anti-citBiP antibodies in RA patients (R2 = 0.41). Several 
+citrulline residues of citBiP were determined to be major epitopes of 
+anti-citBiP antibodies, one of which showed cross-reactivity with CCP. 
+Immunization of DBA/1J mice with citBiP induced several kinds of ACPAs, 
+including anti-CCP and anti-citrullinated fibrinogen antibodies. 
+Pre-immunization with citBiP exacerbated CIA, and anti-CCP antibody levels were 
+increased in citBiP-pre-immunized CIA mice.
+CONCLUSIONS: CitBiP is a newly described ACPA target that may play a 
+pro-inflammatory role in arthritis.

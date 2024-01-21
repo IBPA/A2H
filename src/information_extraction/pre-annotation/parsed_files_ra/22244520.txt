@@ -1,0 +1,24 @@
+OBJECTIVES: Human six-transmembrane epithelial antigen of prostate 4 (STEAP4) is 
+one of the STEAP family as a homologue of mouse tumour necrosis factor-α-induced 
+adipose-related protein (TIARP). Recently, we reported that the TIARP gene 
+expression was remarkably increased in spleen and joints of glucose-6-phosphate 
+isomerise (GPI)-induced arthritis model, suggesting pivotal association to 
+arthritis. The aim of the present study was to assess the expression, 
+localisation and function of STEAP4 in peripheral blood of patients with 
+rheumatoid arthritis (RA).
+METHODS: Peripheral blood was obtained from seven patients with RA, the surface 
+expression of STEAP4 was detected by flow cytometry. The number of neutrophils 
+was compared with the expression of STEAP4 mRNA derived from peripheral blood of 
+patients with RA. Neutrophils were introduced by HL60 with retinoic acid, and 
+were transfected with GFP-STEAP4 plasmid DNA, then the migration of 
+neutrophil-like HL60 was determined by transwell assay. In addition, the 
+fluctuation of STEAP4 mRNA was analysed before and after treatment with 
+infliximab in 40 patients with RA.
+RESULTS: STEAP4 was expressed on monocytes and neutrophils in peripheral blood 
+in RA. The number of neutrophils and expression of STEAP4 mRNA was positively 
+correlated. Migration of neutrophil-like HL60 was down-regulated by 
+over-expression of STEAP4. Expression of STEAP4 Mrna was significantly decreased 
+after infliximab treatment in patients with RA, especially in good responders.
+CONCLUSIONS: STEAP4 is expressed on monocytes and neutrophils in peripheral 
+blood, regulates cell migration, is down-regulated by TNF antagonist, and might 
+be a possible predictor of response to TNF antagonist.

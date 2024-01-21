@@ -1,0 +1,23 @@
+Lyme arthritis, caused by Borrelia burgdorferi, has similarities to rheumatoid 
+arthritis and its experimental murine model, collagen-induced arthritis (CIA). 
+Currently, no common strain exists for examination of arthritis models of Lyme 
+arthritis and CIA, which are typically studied in C3H/HeJ and DBA/1 mice, 
+respectively. The aim of this study was to define the characteristics of 
+Borrelia burgdorferi infection and arthritis in the DBA/1 murine strain. Murine 
+Lyme arthritis was induced in C3H/HeJ and DBA/1 mice by subcutaneous infection 
+with B. burgdorferi. Tibiotarsal joints were measured during infection, and mice 
+were sacrificed for histologic, microbiologic, and serologic analysis on days 14 
+and 42 postinfection. All bladder cultures obtained from C3H/HeJ and DBA/1 mice 
+at 14 days postinfection grew Borrelia. There was no significant difference in 
+spirochetal burdens in hearts and tibiotarsal joints at days 14 and 42 
+postinfection. Tibiotarsal joint swelling and histologic scoring were not 
+significantly different between the two strains. Serologic analysis revealed 
+increased IgG2a production in C3H/HeJ mice compared to DBA/1 mice. Analysis of 
+2-dimensional immunoblots revealed several specific antigens (LA7, BBA03, BBA64, 
+BBA73, OspA, and VlsE) which were not recognized by DBA/1 sera. We conclude that 
+the DBA/1 murine strain is a suitable model for the study of Lyme arthritis and 
+experimental B. burgdorferi infection, allowing direct comparison between Lyme 
+arthritis and collagen-induced arthritis. The specificity of the humoral immune 
+response differs between the two strains, further study of which may reveal 
+important findings about how individual strains respond to B. burgdorferi 
+infection.

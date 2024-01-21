@@ -1,0 +1,23 @@
+BACKGROUND: Rheumatoid arthritis (RA) is a chronic, systemic autoimmune 
+inflammatory disorder. Many methods have been used to observe the progress of 
+RA. The purpose of this study was to observe the progress of RA in rats with 
+18F-fluorodeoxyglucose (FDG) positron emission tomography/computed tomography 
+(PET/CT), magnetic resonance (MR) imaging and arthritis score, and analyze the 
+relationships among different methods in evaluation of RA.
+METHODS: Sixteen healthy Sprague Dawley (SD) rats about 8-week old were randomly 
+assigned to a RA group and a control group. Bovine type II emulsified incomplete 
+Freud's adjuvant was used to induce arthritis in the RA group. Arthritis score 
+of the rats in two groups were recorded, and (18)F-FDG PET/CT, MR imaging were 
+performed both on the corresponding rats every 3 days. All the rats were 
+sacrificed at week 5, and histopathological examination was performed on rat 
+knees stained with haematoxylin and eosin.
+RESULTS: The arthritis score and the standard uptake value (SUV) of knee joints 
+in RA rats increased with the progression of arthritis gradually. Both peaks of 
+arthritis score and SUV appeared at 21 days after the first immune injection, 
+then the arthritis score and SUV of knee joints decreased slowly. The arthritis 
+scores of knee joints in RA rats were positively correlated with their SUV 
+changes. The MR images were confirmed by the histopathological studies.
+CONCLUSION: PET/CT can detect the earliest molecular metabolism changes of RA, 
+and MR imaging can follow up the dynamical anatomical changes of RA, all of 
+which indicated that PET/CT and MR imaging may be applied as useful tools to 
+monitor the progress of RA.

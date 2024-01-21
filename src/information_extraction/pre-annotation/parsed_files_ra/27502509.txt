@@ -1,0 +1,26 @@
+Rheumatoid arthritis is an autoimmune disease that is characterized by chronic 
+inflammation and destruction of joints. Netrin-1, a chemorepulsant, laminin-like 
+matrix protein, promotes inflammation by preventing macrophage egress from 
+inflamed sites and is required for osteoclast differentiation. We asked whether 
+blockade of Netrin-1 or its receptors [Unc5b and DCC (deleted in colorectal 
+carcinoma)] may be useful therapeutic targets for treatment of inflammatory 
+arthritis. Arthritis was induced in 8-wk-old C57Bl/6 mice by intraperitoneal 
+injection of K/BxN serum. Murine monoclonal antibodies against Netrin-1, Unc5b, 
+or DCC (10 µg/mouse) were injected weekly for 4 wk (n = 10). Paw swelling and 
+thickness were assessed and following euthanasia 2-4 wk after serum transfer, 
+paws were prepared for micro-computed tomography and histology. Paw inflammation 
+was maximal 2 wk after injection. Anti-Netrin-1 or anti-Unc5b, but not anti-DCC, 
+antibodies significantly reduced paw inflammation (clinical score: 9.8 ± 0.8, 
+10.4 ± 0.9, and 13.5 ± 0.5, respectively vs 16 ± 0 for control; P < 0.001). 
+Micro-computed tomography showed bony erosions in untreated or anti-DCC-treated 
+mice, whereas there were no erosions in 
+anti-Netrin-1/anti-Unc5b-treated-animals. Tartrate-resistant acid phosphatase 
+staining demonstrated a marked decrease in osteoclasts in 
+anti-Netrin-1/anti-Unc5b-treated animals. Immunofluorescence staining revealed a 
+decrease in cathepsin K+ and CD68+ cells in anti-Netrin-1/anti-Unc5b-treated 
+animals. Blockade of Netrin-1/Unc5b by monoclonal antibodies prevents bone 
+destruction and reduces the severity of K/BxN serum transfer-induced arthritis. 
+Netrin-1 may be a novel therapeutic target for treatment of inflammatory bone 
+destruction.-Mediero, A., Wilder, T., Ramkhelawon, B., Moore, K. J., Cronstein, 
+B. N. Netrin-1 and its receptor Unc5b are novel targets for the treatment of 
+inflammatory arthritis.

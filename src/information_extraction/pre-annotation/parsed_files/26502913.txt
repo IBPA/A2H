@@ -1,0 +1,23 @@
+Secreted toxin B (TcdB) substantially contributes to the pathology observed 
+during Clostridium difficile infection. To be successfully incorporated into a 
+vaccine, TcdB-based immunogens must stimulate the production of neutralizing 
+antibody (Ab)-encoding memory B cells (Bmem cells). Despite numerous 
+investigations, a clear analysis of Bmem cellular responses following 
+vaccination against TcdB is lacking. B6 mice were therefore used to test the 
+ability of a nontoxigenic C-terminal domain (CTD) fragment of TcdB to induce 
+Bmem cells that encode TcdB-neutralizing antibody. CTD was produced from the 
+historical VPI 10463 strain (CTD1) and from the hypervirulent strain NAP1/BI/027 
+(CTD2). It was then demonstrated that CTD1 induced strong recall IgG antibody 
+titers, and this led to the development of functional Bmem cells that could be 
+adoptively transferred to naive recipients. Bmem cell-driven neutralizing Ab 
+responses conferred protection against lethal challenge with TcdB1. Further 
+experiments revealed that an experimental adjuvant (Imject) and a clinical 
+adjuvant (Alhydrogel) were compatible with Bmem cell induction. Reactivity of 
+human Bmem cells to CTD1 was also evident in human peripheral blood mononuclear 
+cells (PBMCs), suggesting that CTD1 could be a good vaccine immunogen. However, 
+CTD2 induced strong Bmem cell-driven antibody titers, and the CTD2 antibody was 
+neutralizing in vitro, but its protection against lethal challenge with TcdB2 
+was limited to delaying time to death. Therefore, CTD from different C. 
+difficile strains may be a good immunogen for stimulating B cell memory that 
+encodes in vitro neutralizing Ab but may be limited by variable protection 
+against intoxication in vivo.

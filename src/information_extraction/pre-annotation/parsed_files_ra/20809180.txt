@@ -1,0 +1,19 @@
+Many macrophage functions are modulated by fatty acids (FAs), including cytokine 
+release, such as tumor necrosis factor-α (TNF-α). TNF-α is of great interest due 
+to its role in the inflammation process observed in several diseases such as 
+rheumatoid arthritis, atherosclerosis, and obesity. However, the mechanisms by 
+which FA effects occur have not been completely elucidated yet. In this study, 
+we used a mouse monocyte lineage (J774 cells) to evaluate the effect of 50 and 
+100 μM of saturated (palmitic and stearic acids), monounsaturated (oleic acid) 
+and polyunsaturated (linoleic acid) FAs on TNF-α production. Alterations in gene 
+expression, poly(A) tail length and activation of transcription factors were 
+evaluated. Oleic and linoleic acids, usually known as neutral or 
+pro-inflammatory FA, inhibited LPS-induced TNF-α secretion by the cells. 
+Saturated FAs were potent inducers of TNF-α expression and secretion under basal 
+and inflammatory conditions (in the presence of LPS). Although the effect of the 
+saturated FA was similar, the mechanism involved in each case seem to be 
+distinct, as palmitic acid increased EGR-1 and CREB binding activity and stearic 
+acid increased mRNA poly(A) tail. These results may contribute to the 
+understanding of the molecular mechanisms by which saturated FAs modulate the 
+inflammatory response and may lead to design of associations of dietary and 
+pharmacological strategies to counteract the pathological effects of TNF-α.

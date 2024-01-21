@@ -1,0 +1,43 @@
+<?xml version="1.1" encoding="UTF-8"?><xmi:XMI xmlns:pos="http:///de/tudarmstadt/ukp/dkpro/core/api/lexmorph/type/pos.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:tweet="http:///de/tudarmstadt/ukp/dkpro/core/api/lexmorph/type/pos/tweet.ecore" xmlns:morph="http:///de/tudarmstadt/ukp/dkpro/core/api/lexmorph/type/morph.ecore" xmlns:dependency="http:///de/tudarmstadt/ukp/dkpro/core/api/syntax/type/dependency.ecore" xmlns:type5="http:///de/tudarmstadt/ukp/dkpro/core/api/semantics/type.ecore" xmlns:type8="http:///de/tudarmstadt/ukp/dkpro/core/api/transform/type.ecore" xmlns:type7="http:///de/tudarmstadt/ukp/dkpro/core/api/syntax/type.ecore" xmlns:type2="http:///de/tudarmstadt/ukp/dkpro/core/api/metadata/type.ecore" xmlns:type9="http:///org/dkpro/core/api/xml/type.ecore" xmlns:type3="http:///de/tudarmstadt/ukp/dkpro/core/api/ner/type.ecore" xmlns:type4="http:///de/tudarmstadt/ukp/dkpro/core/api/segmentation/type.ecore" xmlns:type="http:///de/tudarmstadt/ukp/dkpro/core/api/coref/type.ecore" xmlns:type6="http:///de/tudarmstadt/ukp/dkpro/core/api/structure/type.ecore" xmlns:constituent="http:///de/tudarmstadt/ukp/dkpro/core/api/syntax/type/constituent.ecore" xmlns:chunk="http:///de/tudarmstadt/ukp/dkpro/core/api/syntax/type/chunk.ecore" xmlns:custom="http:///webanno/custom.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <type2:DocumentMetaData xmi:id="8" sofa="1" begin="0" end="206" language="x-unspecified" documentTitle="7309245.txt" documentId="CURATION_USER" documentUri="file:/export/repository/project/1/document/1370/source/CURATION_USER" collectionId="file:/export/repository/project/1/document/1370/source/" documentBaseUri="file:/export/repository/project/1/document/1370/source/" isLastSegment="false"/>
+    <type4:Token xmi:id="24" sofa="1" begin="0" end="14" order="0"/>
+    <type4:Token xmi:id="37" sofa="1" begin="15" end="17" order="0"/>
+    <type4:Token xmi:id="50" sofa="1" begin="18" end="24" order="0"/>
+    <type4:Token xmi:id="63" sofa="1" begin="25" end="30" order="0"/>
+    <type4:Token xmi:id="76" sofa="1" begin="31" end="42" order="0"/>
+    <type4:Token xmi:id="89" sofa="1" begin="43" end="52" order="0"/>
+    <type4:Token xmi:id="102" sofa="1" begin="53" end="60" order="0"/>
+    <type4:Token xmi:id="115" sofa="1" begin="61" end="63" order="0"/>
+    <type4:Token xmi:id="128" sofa="1" begin="64" end="70" order="0"/>
+    <type4:Token xmi:id="141" sofa="1" begin="73" end="84" order="0"/>
+    <type4:Token xmi:id="154" sofa="1" begin="85" end="94" order="0"/>
+    <type4:Token xmi:id="167" sofa="1" begin="95" end="98" order="0"/>
+    <type4:Token xmi:id="180" sofa="1" begin="99" end="108" order="0"/>
+    <type4:Token xmi:id="193" sofa="1" begin="109" end="116" order="0"/>
+    <type4:Token xmi:id="206" sofa="1" begin="117" end="119" order="0"/>
+    <type4:Token xmi:id="219" sofa="1" begin="120" end="141" order="0"/>
+    <type4:Token xmi:id="232" sofa="1" begin="142" end="150" order="0"/>
+    <type4:Token xmi:id="245" sofa="1" begin="150" end="151" order="0"/>
+    <type4:Token xmi:id="258" sofa="1" begin="154" end="159" order="0"/>
+    <type4:Token xmi:id="271" sofa="1" begin="160" end="169" order="0"/>
+    <type4:Token xmi:id="284" sofa="1" begin="170" end="178" order="0"/>
+    <type4:Token xmi:id="297" sofa="1" begin="179" end="181" order="0"/>
+    <type4:Token xmi:id="310" sofa="1" begin="182" end="190" order="0"/>
+    <type4:Token xmi:id="323" sofa="1" begin="191" end="192" order="0"/>
+    <type4:Token xmi:id="336" sofa="1" begin="192" end="193" order="0"/>
+    <type4:Token xmi:id="349" sofa="1" begin="194" end="203" order="0"/>
+    <type4:Token xmi:id="362" sofa="1" begin="203" end="204" order="0"/>
+    <type4:Sentence xmi:id="375" sofa="1" begin="0" end="151"/>
+    <type4:Sentence xmi:id="380" sofa="1" begin="154" end="204"/>
+    <type3:NamedEntity xmi:id="385" sofa="1" begin="0" end="151" value="conclusive_statement"/>
+    <type3:NamedEntity xmi:id="391" sofa="1" begin="25" end="42" value="intervention"/>
+    <type3:NamedEntity xmi:id="397" sofa="1" begin="73" end="94" value="disease"/>
+    <type3:NamedEntity xmi:id="403" sofa="1" begin="142" end="150" value="species"/>
+    <type2:TagsetDescription xmi:id="409" sofa="1" begin="0" end="0" layer="de.tudarmstadt.ukp.dkpro.core.api.syntax.type.dependency.Dependency" name="UD Universal Dependencies (v2)" input="false"/>
+    <type2:TagsetDescription xmi:id="422" sofa="1" begin="0" end="0" layer="de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity" name="Named Entity tags" input="false"/>
+    <type2:TagsetDescription xmi:id="435" sofa="1" begin="0" end="0" layer="de.tudarmstadt.ukp.dkpro.core.api.transform.type.SofaChangeAnnotation" name="Operation" input="false"/>
+    <type2:TagsetDescription xmi:id="448" sofa="1" begin="0" end="0" layer="de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS" name="UD Universal POS tags (v2)" input="false"/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Administration of normal cecal homogenates decreased numbers of viable &#13;&#10;Clostridium difficile and prevented cecitis in antibiotic-challenged hamsters. &#13;&#10;Cecal anaerobes appeared to suppress C. difficile.&#13;&#10;"/>
+    <cas:View sofa="1" members="8 24 37 50 63 76 89 102 115 128 141 154 167 180 193 206 219 232 245 258 271 284 297 310 323 336 349 362 375 380 385 391 397 403 409 422 435 448"/>
+</xmi:XMI>

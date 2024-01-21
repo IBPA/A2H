@@ -1,0 +1,16 @@
+Pathobionts play a critical role in disease development, but the immune 
+mechanisms against pathobionts remain poorly understood. Here, we report a 
+critical role for interleukin-22 (IL-22) in systemic protection against 
+bacterial pathobionts that translocate into the circulation after infection with 
+the pathogen Clostridium difficile. Infection with C. difficile induced IL-22, 
+and infected Il22(-/-) mice harbored high numbers of pathobionts in 
+extraintestinal organs despite comparable pathogen load and intestinal damage in 
+mutant and wild-type mice. Pathobionts exhibited increased resistant against 
+complement-mediated phagocytosis, and their intravenous administration resulted 
+in high animal mortality. Selective removal of translocated commensals rescued 
+Il22(-/-) mice, and IL-22 administration enhanced the elimination of 
+pathobionts. Mechanistically, IL-22 augmented bacterial phagocytosis by 
+increasing the expression and bacterial binding of complement C3. Our study 
+demonstrates an unexpected role for IL-22 in controlling the elimination of 
+pathobionts that enter the systemic circulation through the regulation of the 
+complement system.

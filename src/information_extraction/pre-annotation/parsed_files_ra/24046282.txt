@@ -1,0 +1,24 @@
+Little is known about the genes regulating disease severity and joint damage in 
+rheumatoid arthritis (RA). In the present study we analyzed the gene expression 
+characteristics of synovial tissues from four different strains congenic for 
+non-MHC loci that develop mild and nonerosive arthritis compared with severe and 
+erosive DA rats. DA.F344(Cia3d), DA.F344(Cia5a), DA.ACI(Cia10), and 
+DA.ACI(Cia25) rats developed mild arthritis compared with DA. We found 685 genes 
+with significantly different expression between congenics and DA, independent of 
+the specific congenic interval, suggesting that these genes represent a new 
+nongenetic core group of mediators of arthritis severity. This core group 
+includes genes not previously implicated or with unclear role in arthritis 
+severity, such as Tnn, Clec4m, and Spond1 among others, increased in DA. The 
+core genes also included Scd1, Selenbp1, and Slc7a10, increased in congenics. 
+Genes implicated in nuclear receptor activity, xenobiotic and lipid metabolism 
+were also increased in the congenics, correlating with protection. Several 
+disease mediators were among the core genes reduced in congenics, including 
+IL-6, IL-17, and Ccl2. Analyses of upstream regulators (genes, pathways, or 
+chemicals) suggested reduced activation of Stat3 and TLR-related genes and 
+chemicals in congenics. Additionally, cigarette smoking was among the upstream 
+regulators activated in DA, while p53 was an upstream regulator activated in 
+congenics. We observed congenic-specific differential expression and detection 
+in each individual strain. In conclusion, this new nongenetically regulated core 
+genes of disease severity or protection in arthritis should provide new insight 
+into critical pathways and potential new environmental risk factor for 
+arthritis.

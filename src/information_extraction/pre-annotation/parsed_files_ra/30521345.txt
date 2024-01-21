@@ -1,0 +1,23 @@
+The targeted delivery of therapeutics to sites of rheumatoid arthritis (RA) has 
+been a long-standing challenge. Inspired by the intrinsic inflammation-targeting 
+capacity of macrophages, a macrophage-derived microvesicle (MMV)-coated 
+nanoparticle (MNP) was developed for targeting RA. The MMV was efficiently 
+produced through a novel method. Cytochalasin B (CB) was applied to relax the 
+interaction between the cytoskeleton and membrane of macrophages, thus 
+stimulating MMV secretion. The proteomic profile of the MMV was analyzed by 
+iTRAQ (isobaric tags for relative and absolute quantitation). The MMV membrane 
+proteins were similar to those of macrophages, indicating that the MMV could 
+exhibit bioactivity similar to that of RA-targeting macrophages. A poly(lactic- 
+co-glycolic acid) (PLGA) nanoparticle was subsequently coated with MMV, and the 
+inflammation-mediated targeting capacity of the MNP was evaluated both in vitro 
+and in vivo. The in vitro binding of MNP to inflamed HUVECs was significantly 
+stronger than that of the red blood cell membrane-coated nanoparticle (RNP). 
+Compared with bare NP and RNP, MNP showed a significantly enhanced targeting 
+effect in vivo in a collagen-induced arthritis (CIA) mouse model. The targeting 
+mechanism was subsequently revealed according to the proteomic analysis, 
+indicating that Mac-1 and CD44 contributed to the outstanding targeting effect 
+of the MNP. A model drug, tacrolimus, was encapsulated in MNP (T-RNP) and 
+significantly suppressed the progression of RA in mice. The present study 
+demonstrates MMV as a promising and rich material, with which to mimic 
+macrophages, and demonstrates that MNP is an efficient biomimetic vehicle for RA 
+targeting and treatment.

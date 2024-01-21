@@ -1,0 +1,24 @@
+OBJECTIVE: Levels of Toll-like receptor 7 (TLR-7) are elevated in rheumatoid 
+arthritis (RA), but the impact on RA is unknown because the endogenous ligand 
+for TLR-7 has not been identified. The aim of this study was to identify a TLR-7 
+endogenous ligand and to determine its role in the pathogenesis of RA.
+METHODS: The presence of an endogenous TLR-7 ligand, microRNA let-7b 
+(miR-let-7b), was examined by real-time polymerase chain reaction (PCR) 
+analysis. Using RA knockdown cells, TLR-7-knockout mice, or antagonist, the 
+specificity of miR-let-7b as a potential ligand for TLR-7 was tested. The 
+mechanism by which ligation of miR-let-7b to TLR-7 promotes disease was 
+investigated in RA myeloid cells by real-time PCR, enzyme-linked immunosorbent 
+assay, and fluorescence-activated cell sorting. We also established the effect 
+of ectopic miR-let-7b expression on arthritic joint inflammation.
+RESULTS: We found that a TLR-7 endogenous ligand resides mainly in RA synovial 
+fluid macrophages. The GU-rich domain in miR-let-7b was found to be essential 
+for TLR-7 ligation, since miR-147, the positive control for GU, was able to 
+stimulate TLR-7+ myeloid cells, whereas miR-124, the negative, non-GU, control, 
+was not. We demonstrated that miR-let-7b or exosomes containing miR-let-7b could 
+transform the RA and/or mouse naive or antiinflammatory macrophages into 
+inflammatory M1 macrophages via TLR-7 ligation. Consistently, we showed that 
+miR-let-7b provokes arthritis by remodeling naive myeloid cells into M1 
+macrophages via TLR-7 ligation, since joint swelling and M1 macrophages are 
+absent in TLR-7-deficient mice.
+CONCLUSION: The results of this study underscore the importance of miR-let-7b 
+ligation to TLR-7 in the joint during the effector phase of RA.

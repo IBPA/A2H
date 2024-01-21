@@ -1,0 +1,24 @@
+Ramoplanin is a glycolipodepsipeptide antibiotic with activity against 
+gram-positive bacteria that is in clinical trials for prevention of 
+vancomycin-resistant Enterococcus (VRE) bloodstream infections and treatment of 
+Clostridium difficile diarrhea. Orally administered ramoplanin suppresses VRE 
+intestinal colonization, but recurrences after discontinuation of treatment have 
+frequently been observed. We used a mouse model to examine the efficacy of 
+ramoplanin for inhibition of VRE colonization and evaluated the etiology of 
+recurrences of colonization. Eight days of treatment with ramoplanin (100 
+microg/ml) in drinking water suppressed VRE to undetectable levels, but 100% of 
+mice developed recurrent colonization; a higher dose of 500 microg/ml in water 
+was associated with recurrent colonization in 50% of mice. Two of eight (25%) 
+mice treated with the 100-microg/ml dose of ramoplanin had low levels of VRE in 
+their cecal tissues on day 8 despite undetectable levels in stool and cecal 
+contents. Mice that received prior ramoplanin treatment did not develop VRE 
+overgrowth when challenged with 10(7) CFU of oral VRE 1, 2, or 4 days later. In 
+communal cages, rapid cross-transmission and overgrowth of VRE was observed 
+among clindamycin-treated mice; ramoplanin treatment effectively suppressed VRE 
+overgrowth in such communal cages. Ramoplanin treatment promoted increased 
+density of indigenous Enterobacteriaceae and overgrowth of an exogenously 
+administered Klebsiella pneumoniae isolate. These results demonstrate the 
+efficacy of ramoplanin for inhibition of VRE colonization and suggest that some 
+recurrences occur due to reexpansion of organisms that persist within the lining 
+of the colon. Ramoplanin treatment may be associated with overgrowth of 
+gram-negative bacilli.

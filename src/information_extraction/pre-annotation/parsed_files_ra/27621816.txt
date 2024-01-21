@@ -1,0 +1,22 @@
+INTRODUCTION: Chronic inflammatory diseases, such as rheumatoid arthritis and 
+periodontitis, cause the bone destruction by promotion of the differentiation of 
+monocyte/macrophage lineage cells into mature osteoclasts (OCs) with active 
+bone-resorbing character. However, the detailed mechanisms underlying this 
+disorder remain unclear. We herein investigated the role of urokinase 
+plasminogen activator receptor (uPAR) in the bone destruction caused by chronic 
+inflammation.
+METHODS: We investigated that the effect of uPAR on inflammatory OC formation 
+induced by lipopolysaccharide (LPS) in inflammatory diseases.
+RESULTS: We found that the LPS more weakly induced OC formation and the 
+resultant bone loss in uPAR-deficient mice than in wild-type mice. Additionally, 
+we demonstrated that uPAR significantly potentiated LPS-induced OC formation of 
+RAW264.7 mouse monocyte/macrophage linage cells in integrin β3/Akt-dependent 
+manner. Moreover, we showed that the blocking of uPAR function by the 
+administration of anti-uPAR neutralizing antibody significantly attenuated the 
+LPS-induced OC formation and the resultant bone loss in mice.
+CONCLUSIONS: These results strongly suggest that uPAR negatively regulates the 
+LPS-induced inflammatory OC formation and the resultant bone loss mediated 
+through the integrin β3/Akt pathway. Our findings partly clarify the molecular 
+mechanisms underlying bone destruction caused by chronic inflammatory diseases, 
+and would benefit research on identifying antibody therapy for the treatment of 
+these diseases.

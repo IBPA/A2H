@@ -1,0 +1,18 @@
+In the last decade, CD4+CD25+ T regulatory cells have been implicated in the 
+protection against autoimmune diseases. The human DQ8 major histocompatibility 
+complex (MHC) class II molecule is associated with rheumatoid arthritis (RA) and 
+various other autoimmune diseases in humans. The human leukocyte antigen 
+(HLA)-DQ8 transgenic mouse, containing the human DQ8 MHC class II molecule, is 
+predisposed toward collagen-induced arthritis. However, the biologic pathways 
+responsible for DQ8-associated autoimmunity have yet to be defined, including 
+possible defects in the CD4+CD25+ T regulatory cell compartment. To explore this 
+concept, we examined the suppressive capacity of CD4+CD25+ T regulatory cells 
+from DQ8 transgenic mice in vitro and, using CD25-specific depleting antibodies, 
+investigated their influence on collagen-induced arthritis in vivo. CD4+CD25+ T 
+regulatory cells isolated from DQ8 transgenic mice were found to be sufficient 
+suppressors of splenocyte proliferation and interferon (INF)-gamma production. 
+Furthermore, depletion of these cells before immunization led to significant 
+increases in arthritis severity, collagen-specific antibodies, and INF-gamma 
+production. These results indicate that HLA-DQ8 mice contain naturally occurring 
+CD25+ regulatory cells that modulate collagen-induced arthritis and imply that 
+DQ8 expression does not hinder the development of CD25+ T regulatory cells.

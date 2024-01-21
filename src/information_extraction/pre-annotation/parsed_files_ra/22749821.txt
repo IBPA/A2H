@@ -1,0 +1,25 @@
+Rheumatoid arthritis (RA) is a chronic inflammatory disorder that primarily 
+involves the joints. Accurate and frequent assessment of RA disease activity is 
+critical to optimal treatment planning. A novel algorithm has been developed to 
+determine a multi-biomarker disease activity (MBDA) score based upon measurement 
+of the concentrations of 12 serum biomarkers in multiplex format. Biomarker 
+assays from several different platforms were used in feasibility studies to 
+identify biomarkers of potential significance. These assays were adapted to a 
+multiplex platform for training and validation of the algorithm. In this study, 
+the analytical performance of the underlying biomarker assays and the MBDA score 
+was evaluated. Quantification of 12 biomarkers was performed with multiplexed 
+sandwich immunoassays in three panels. Biomarker-specific capture antibodies 
+were bound to specific locations in each well; detection antibodies were labeled 
+with electrochemiluminescent tags. Data were acquired with a Sector Imager 6000, 
+and analyte concentrations were determined. Parallelism, dynamic range, 
+cross-reactivity, and precision were established for each biomarker as well as 
+for the MBDA score. Interference by serum proteins, heterophilic antibodies, and 
+common RA therapies was also assessed. The individual biomarker assays had 3-4 
+orders of magnitude dynamic ranges, with good reproducibility across time, 
+operators, and reagent lots; the MBDA score had a median coefficient of 
+variation of <2% across the score range. Cross-reactivity as well as 
+interference by serum rheumatoid factor (RF), human anti-mouse antibodies 
+(HAMA), or common RA therapies, including disease-modifying antirheumatic drugs 
+and biologics, was minimal. The same MBDA score was observed in different 
+subjects despite having different biomarker profiles, supporting prior 
+literature reports that multiple pathways contribute to RA.

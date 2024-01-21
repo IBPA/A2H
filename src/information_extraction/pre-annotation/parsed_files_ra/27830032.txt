@@ -1,0 +1,15 @@
+Rheumatoid arthritis (RA) is a chronic inflammatory disease which results in 
+progressive destruction of the joint. In this study, we examined if the hydrogen 
+could inhibit inflammation in a mouse model of collagen-induced arthritis (CIA) 
+via oxidative stress on RA-FLSs. Moreover, to identify the mechanisms of action, 
+we evaluated the effect of hydrogen on RA-FLSs development and the expression of 
+pro-inflammatory cytokines and signaling pathways. Based on our result, H2 
+enriched medium can increase super oxide dismutase (SOD) level following H2O2 
+treatment and decrease 8-hydroxy-2'-deoxyguanosine (8-OHdG) level. Since H2O2 
+treatment activates MAPK, NF-κB and TGF-β1 in cells, our study suggested that H2 
+could inhibit H2O2 activated MAPK and NF-κB activation as well as TGF-β1 
+expression in treated cells. Taken together, our data suggested that H2 can 
+directly neutralize OH and ONOO- to reduce oxidative stress. Moreover, MAPK and 
+NF-κB pathway also play roles in oxidative damage caused by H2O2 in RA-FLSs. H2 
+can provide protection to cells against inflammation, which may be related to 
+inhibition of the activation of MAPK and NF-κB.

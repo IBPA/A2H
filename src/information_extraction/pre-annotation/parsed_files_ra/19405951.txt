@@ -1,0 +1,31 @@
+INTRODUCTION: Bisphosphonates are the most widely used class of drug for 
+inhibiting osteoclast-mediated bone loss, but their effectiveness at preventing 
+joint destruction in rheumatoid arthritis has generally been disappointing. We 
+examined whether the ability of bisphosphonates to induce osteoclast apoptosis 
+and inhibit bone resorption in vitro is influenced by the cytokine receptor 
+activator of nuclear factor-kappa B ligand (RANKL), an important mediator of 
+inflammation-induced bone loss.
+METHODS: Rabbit osteoclasts were treated with the bisphosphonates clodronate or 
+alendronate for up to 48 hours in the absence or presence of RANKL. Changes in 
+cell morphology and induction of apoptosis were examined by scanning electron 
+microscopy, whilst resorptive activity was determined by measuring the area of 
+resorption cavities. Changes in the level of anti-apoptotic proteins, including 
+Mcl-1, Bcl-2, and Bcl-x>L, were determined in rabbit osteoclasts and in 
+cytokine-starved mouse osteoclasts by Western blotting.
+RESULTS: RANKL significantly attenuated the ability of both clodronate and 
+alendronate to induce osteoclast apoptosis and inhibit bone resorption. 
+Treatment of rabbit osteoclasts with RANKL was associated with an increase in 
+the anti-apoptotic protein Mcl-1 but not Bcl-2. A role for Mcl-1 in osteoclast 
+survival was suggested using osteoclasts generated from mouse bone marrow 
+macrophages in the presence of RANKL + macrophage colony-stimulating factor 
+(M-CSF) since cytokine deprivation of mouse osteoclasts caused a rapid loss of 
+Mcl-1 (but not Bcl-2 or Bcl-xL), which preceded the biochemical and 
+morphological changes associated with apoptosis. Loss of Mcl-1 from mouse 
+osteoclasts could be prevented by factors known to promote osteoclast survival 
+(RANKL, M-CSF, tumour necrosis factor-alpha [TNF-alpha], or lipopolysaccharide 
+[LPS]).
+CONCLUSIONS: RANKL protects osteoclasts from the apoptosis-inducing and 
+anti-resorptive effects of bisphosphonates in vitro. The ability of RANKL (and 
+other pro-inflammatory factors such as TNF-alpha and LPS) to increase the level 
+of Mcl-1 in osteoclasts may explain the lack of effectiveness of some 
+bisphosphonates in preventing inflammation-induced bone loss.

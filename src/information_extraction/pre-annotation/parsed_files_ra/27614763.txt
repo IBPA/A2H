@@ -1,0 +1,22 @@
+Pro-inflammatory mediators including TNF-alpha, IL-6, and nitric oxide are 
+important for the regulation of the immune response when an infection is 
+present, but when overproduced, it can be responsible for the development of 
+tissue and organ injury seen in sepsis, as well as severe asthma, and autoimmune 
+diseases such as Crohn's disease and rheumatoid arthritis. Data from our lab to 
+characterize the novel compound enaminone E121 have suggested that macrophages 
+stimulated with lipopolysaccharide (LPS) release significantly decreased levels 
+of TNF-alpha and IL-6 as measured by enzyme-linked immunosorbent assay as 
+compared to the DMSO control group. Additionally, functional experiments in a 
+mouse model of asthma have shown that E121 is efficacious in decreasing airway 
+hyperresponsiveness. A new set of compounds synthesized in our lab (JODI) have 
+an N-aryl piperazino motif incorporated on the aromatic side of the enaminone 
+pharmacophore. It was hypothesized that this would enhance their 
+immunosuppressive activity as anti-inflammatory agents by also acting as a 
+chemokine receptor antagonist. Our studies suggest that JODI appears to suppress 
+TNF-alpha and IL-6 in a dose-dependent manner. The JODI compounds were also more 
+effective in reducing TNF-alpha after LPS stimulation when compared to 
+dexamethasone. Lastly, studies using MCP-1 suggest that the JODI compounds, and 
+not E121, are able to block CCR2 signaling as evidenced by decreased total 
+ERK1/2. These studies indicate that E121 and its corresponding piperazino 
+analogs could act as strong anti-inflammatory agents in asthma or other 
+autoimmunities where efficacious therapeutic options are needed.

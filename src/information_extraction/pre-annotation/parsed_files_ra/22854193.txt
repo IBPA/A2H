@@ -1,0 +1,23 @@
+Rheumatoid arthritis (RA) is an autoimmune disease characterized by chronic 
+inflammation of the synovial joints, deformities, and disability. The prolonged 
+use of conventional anti-inflammatory drugs is associated with severe adverse 
+effects. Therefore, there is an urgent need for safer and less expensive 
+therapeutic products. Celastrol is a bioactive component of Celastrus, a 
+traditional Chinese medicine, and it possesses anti-arthritic activity. However, 
+the mechanism of action of Celastrol remains to be fully defined. In this study 
+based on the rat adjuvant-induced arthritis (AA) model of RA, we examined the 
+effect of Celastrol on two of the key mediators of arthritic inflammation, 
+namely chemokines and their receptors, and related pro-inflammatory cytokines. 
+We treated arthritic Lewis rats with Celastrol (200μg/rat) or its vehicle by 
+daily intraperitoneal (ip) injection beginning at the onset of AA. At the peak 
+phase of AA, the sera, the draining lymph node cells, spleen adherent cells, and 
+synovial-infiltrating cells of these rats were harvested and tested. 
+Celastrol-treated rats showed a significant reduction in the levels of 
+chemokines (RANTES, MCP-1, MIP-1α, and GRO/KC) as well as cytokines (TNF-α and 
+IL-1β) that induce them, compared to the vehicle-treated rats. However, 
+Celastrol did not have much effect on cellular expression of chemokine receptors 
+except for an increase in CCR1. Further, Celastrol inhibited the migration of 
+spleen adherent cells in vitro. Thus, Celastrol-induced suppression of various 
+chemokines that mediate cellular infiltration into the joints might contribute 
+to its anti-arthritic activity. Our results suggest that Celastrol might offer a 
+promising alternative/adjunct treatment for RA.

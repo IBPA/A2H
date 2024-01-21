@@ -1,0 +1,24 @@
+Oral administration of autoantigens is a safe and convenient way to induce 
+peripheral T-cell tolerance in autoimmune diseases like multiple sclerosis (MS). 
+To increase the efficacy of oral tolerance induction and obviate the need for 
+large-scale purification of human myelin proteins, we use genetically modified 
+lactobacilli expressing myelin antigens. A panel of recombinant lactobacilli was 
+constructed producing myelin proteins and peptides, including human and guinea 
+pig myelin basic protein (MBP) and proteolipid protein peptide 139-151 
+(PLP(139-151)). In this study we examined whether these Lactobacillus 
+recombinants are able to induce oral and intranasal tolerance in an animal model 
+for multiple sclerosis, experimental autoimmune encephalomyelitis (EAE). Lewis 
+rats received soluble cell extracts of Lactobacillus transformants intranasally 
+three times prior to induction of EAE. For the induction of oral tolerance, rats 
+were fed live transformed lactobacilli for 20 days. Ten days after the first 
+oral administration EAE was induced. Intranasal administration of extracts 
+containing guinea pig MBP (gpMBP) or MBP(72-85) significantly inhibited EAE in 
+Lewis rats. Extracts of control transformants did not reduce EAE. Live 
+lactobacilli expressing guinea pig MBP(72-85) fused to the marker enzyme 
+beta-glucuronidase (beta-gluc) were also able to significantly reduce disease 
+when administered orally. In conclusion, these experiments provide proof of 
+principle that lactobacilli expressing myelin antigens reduce EAE after mucosal 
+(intranasal and oral) administration. This novel method of mucosal tolerance 
+induction by mucosal administration of recombinant lactobacilli expressing 
+relevant autoantigens could find applications in autoimmune disease in general, 
+such as multiple sclerosis, rheumatoid arthritis and uveitis.

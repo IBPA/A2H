@@ -1,0 +1,26 @@
+OBJECTIVES: Rheumatoid arthritis (RA) is a heterogenic and systemic autoimmune 
+disease characterized by synovitis and joint structural damage. However, the 
+pathogenesis of RA is still obscure. It has been reported microRNA-20a 
+(miRNA-20a) was significantly associated with the regulation of pro-inflammatory 
+cytokines release in RA FLS. The purpose of this study was to explore the 
+function and underlying mechanisms of miRNA-20a on NLRP3-inflammasome in 
+adjuvant-induced arthritis (AA) fibroblast-like synoviocytes (FLSs) in vitro.
+METHODS: In this study, using a combination of Western blotting, Q-PCR, and 
+ELISA analysis, we investigated the influence and function of miRNA-20a on 
+NLRP3-inflammasome by targeting TXNIP in AA FLSs.
+RESULTS: In the present study, the expression of NLRP3-inflammasome was 
+significant up-regulated in AA model in vitro. Our study indicated that silence 
+of NLRP3 down-regulated the expression of NLRP3-inflammasome and the secretion 
+of IL-1β and MMP-1. Moreover, over-expression of miR-20a decreased formation of 
+NLRP3-inflammasome, including NLRP3, ASC and caspase-1, and suppressed the 
+secretion of IL-1β and MMP-1, along with down-regulated the expressions of TXNIP 
+in primary FLSs isolated from AA. With the combined use of prediction programs 
+and luciferase assay, the rat TXNIP mRNA 3'UTR predicted to be targeted by 
+miR-20a. Similarly, inhibitor TXNIP expression by TXNIP-siRNA markedly repressed 
+formation of NLRP3-inflammasome and the secretion of IL-1β and MMP-1.
+CONCLUSION: Taken together, these results indicate that miR-20a may play a 
+pivotal role in the NLRP3-inflammasome by targeted inhibit TXNIP expression in 
+AA FLSs.
+
+Copyright © 2016 Société française de rhumatologie. Published by Elsevier SAS. 
+All rights reserved.

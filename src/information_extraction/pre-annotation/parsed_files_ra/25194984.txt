@@ -1,0 +1,30 @@
+Rheumatoid arthritis (RA) is an autoimmune and progressive systemic disease of 
+unknown etiology. Research shows that fibroblast-like synoviocytes (FLS) 
+participate in the cartilage erosion, synovial hyperplasia, inflammatory 
+cytokine secretion and suggests that fibroblast-like synoviocytes (FLS) display 
+a crucial role in RA pathogenesis. Recent studies have suggested the role of the 
+Wnt signaling pathway in the pathogenesis of RA. In previous study, we 
+identified that increased methyl-CpG-binding protein 2 (MeCP2) reduced the 
+secreted frizzled-related protein 4 (SFRP4) expression in FLS in Arthritic rat 
+model and the DNA methyltransferase (DNMT) inhibitor 5-Aza-2'-deoxycytidine 
+(5-azadC) could induce the SFRP4 expression, indicating that DNMT has a key role 
+in the differential expression of SFRP4. MicroRNAs (MiRNAs), which are small 
+non-coding RNAs, are involved in diverse biological functions, regulation of 
+gene expression, pathogenesis of autoimmune disease and carcinogenesis. In light 
+of the directly down-regulation of miR-152 on DNMT1 expression by targeting the 
+3' untranslated regions of its transcript in nickel sulfide (NiS)-transformed 
+human bronchial epithelial cells, we investigated whether miR-152 is aberrantly 
+expressed and targets DNMT1 in FLS in Arthritic rat model. Our results 
+demonstrated that the expression of miR-152 was specifically down-regulated in 
+Arthritic rat model, whereas up-regulation of miR-152 in FLS resulted in a 
+marked reduction of DNMT1 expression. Further experiments revealed that 
+increased miR-152 indirectly up-regulated the SFRP4 expression, a negative 
+regulator of WNT signaling pathway, by targeting the DNMT1. Moreover, activation 
+of miR-152 expression in FLS could inhibit the canonical Wnt pathway activation 
+and result in a significant decrease of FLS proliferation. MiR-152 and DNA 
+methylation may provide molecular mechanisms for the activation of canonical Wnt 
+pathway in RA. Combination of miR-152 and DNMT1 may be a promising treatment 
+strategy for RA patients in which SFRP4 is inactivated.
+
+Copyright © 2014 Elsevier B.V. and Société française de biochimie et biologie 
+Moléculaire (SFBBM). All rights reserved.

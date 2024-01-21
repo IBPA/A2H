@@ -1,0 +1,13 @@
+Alpha-1-antitrypsin (AAT) is a circulating protein, a serpin, with multiple 
+protective functions. Beside the well-known proteinase inhibitory function, 
+which protects the lungs from chronic obstructive pulmonary disease (COPD), many 
+studies have shown that AAT inhibits pro-inflammatory cytokine gene expression 
+and functions. These anti-inflammatory and immune-regulatory properties have led 
+to studies testing the therapeutic effect of AAT in autoimmune disease models. 
+Initially, a study using recombinant adeno-associated viral (rAAV) vector showed 
+that AAT gene therapy prevented type 1 diabetes (T1D) development in a nonobese 
+diabetic (NOD) mouse model. Consequently, several studies confirmed that AAT 
+therapy prevented and reversed T1D. AAT therapy has also been tested and has 
+demonstrated protective effects in a collagen-induced arthritis model and a 
+systemic lupus erythematosus (SLE) mouse model. This chapter describes methods 
+that evaluate AAT functions in autoimmune mouse models.

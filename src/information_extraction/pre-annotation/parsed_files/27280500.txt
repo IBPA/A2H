@@ -1,0 +1,23 @@
+OBJECTIVE: To determine the therapeutic effects of dietary supplementation on 
+Clostridium difficile infection (CDI).
+BACKGROUND: With limited treatment options, the rise of C. difficile-associated 
+disease has spurred on the search for novel therapies. Recent data define a role 
+for the aryl hydrocarbon receptor (AHR) and diet-derived AHR ligands in mucosal 
+immunity. We investigated the efficacy of indole-3-carbinol (I3C), a dietary 
+supplement, and AHR precursor ligand in a murine model of CDI.
+METHODS: C57BL/6 (B6), AHR, and AHR mice were placed on either grain-based or 
+semipurified diets with or without I3C before and during CDI. Mice were followed 
+clinically for a minimum of 6 days or euthanized between days 0 and 4 of 
+inoculation for analysis of the inflammatory response and microbiota.
+RESULTS: B6 mice fed an AHR ligand-deficient, semipurified diet have 
+significantly increased disease severity (P<0.001) and mortality (P < 0.001) 
+compared with mice fed on diet containing I3C. The addition of I3C to the diet 
+of AHR null mice had less of an impact than in AHR heterozygous littermates, 
+although some protection was seen. Mice on semipurified I3C-diet had increased 
+cecal Tregs, ILC3s, and γδ T cells and an increased neutrophilic response 
+without increased inflammation or bacterial translocation compared with 
+controls.
+CONCLUSIONS: I3C is a powerful treatment to reduce impact of CDI in mice. The 
+findings indicate I3C may be acting through both AHR-dependent and -independent 
+mechanisms in this model. Dietary supplementation with I3C is a potential new 
+therapy for prevention and amelioration of C. difficile disease.

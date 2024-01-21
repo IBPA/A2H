@@ -1,0 +1,17 @@
+Increasing evidence suggests that superantigens play a role in immune-mediated 
+diseases. Superantigens are potent activators of CD4+ T cells, causing rapid and 
+massive proliferation of cells and cytokine production. This characteristic of 
+superantigens can be exploited in diseases where strong immunologic responses 
+are required, such as in the B16F10 animal model of melanoma. Superantigen 
+administration is able to significantly enhance ineffective anti-tumor immune 
+responses, resulting in potent and long-lived protective anti-tumor immunity. 
+However, superantigens are more well-known for the role they play in diseases. 
+Studies using an animal model for neurologic demyelinating diseases such as 
+multiple sclerosis show that superantigens can induce severe relapses and 
+activate autoreactive T cells not involved in the initial bout of disease. This 
+may also involve epitope spreading of disease. Superantigens have also been 
+implicated in acute diseases such as food poisoning and TSS, and in chronic 
+diseases such as psoriasis and rheumatoid arthritis. Viral superantigens are 
+also involved in the disease process, including superantigens derived from human 
+immunodeficiency virus and mouse mammary tumor virus. Finally, immunotherapies 
+that ameliorate the role played by superantigens in disease are discussed.

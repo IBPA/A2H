@@ -1,0 +1,22 @@
+BACKGROUND: Interleukin-1 receptor antagonist, a cytokine that is highly 
+therapeutic to rheumatoid arthritis and several other inflammatory diseases, 
+exhibits rapid blood clearance and poor retention time on the target in clinical 
+application due to its small size and lack of specificity to target tissue. 
+Albumin has been widely employed as macromolecular carrier for drug delivery 
+purpose to extend the plasma half-life of therapeutic molecules and has been 
+shown to selectively accumulate and to be metabolized in the inflamed joints of 
+patients with rheumatoid arthritis. This suggests that genetic fusion of IL-1ra 
+to albumin can probably overcome the drawbacks of in vivo application of IL-1ra.
+RESULT: A recombinant protein, engineered by fusing human serum albumin (HSA) to 
+the carboxyl terminal of IL-1ra, was produced in Pichia pastoris and purified to 
+homogeneity. The fusion protein retained the antagonist activity of IL-1ra and 
+had a plasma half-life of approximately 30-fold more than that of IL-1ra in 
+healthy mice. In vivo bio-distribution studies demonstrated that the fusion 
+protein selectively accumulated in arthritic paws for a long period of time in 
+mice with collagen-induced arthritis, showing low uptake rates in normal organs 
+such as liver, kidney, spleen and lung in contrast to IL-1ra alone. Moreover, 
+this fusion protein was able to significantly improve the therapeutic efficacy 
+of IL-1ra in collagen-induced arthritis mouse model.
+CONCLUSIONS: The fusion protein described here, able to selectively deliver 
+IL-1ra to inflamed tissue, could yield important contributions for the therapy 
+of rheumatoid arthritis and other inflammatory diseases.

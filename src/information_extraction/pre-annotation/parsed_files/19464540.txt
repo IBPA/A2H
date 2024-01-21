@@ -1,0 +1,9 @@
+Clostridium difficile is a pathogen with increasing severity for which host 
+antibody responses provide protection from disease. DNA vaccination has several 
+advantages compared to traditional vaccine methods, however no study has 
+examined this platform against C. difficile toxins. A synthetic gene was created 
+encoding the receptor-binding domain (RBD) of C. difficile toxin A, optimized 
+for expression in human cells. Gene expression was examined in vitro. Mice were 
+inoculated and then challenged with parenteral toxin A. Vaccination provided 
+high titer antibodies and protected mice from death. This represents the first 
+report of DNA vaccine inducing neutralizing antibodies to C. difficile toxin A.

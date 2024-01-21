@@ -1,0 +1,18 @@
+Lethal toxin of Clostridium sordellii (MLD 150 ng/kg) is one of the most potent 
+Clostridial toxins and is responsible for most of the diseases including sudden 
+death syndrome in cattle, sheep and toxic shock syndrome, necrotizing faciitis, 
+neonatal omphalitis and gangrene in humans. Lethal toxin (TcsL) is a single 
+chain protein of about 270 kDa. In the present study, 1.6 kb DNA fragment 
+encoding for the catalytic domain of TcsL was PCR amplified, cloned in pQE30 UA 
+vector and expressed in E. coli SG 13009. The expression of recombinant lethal 
+toxin protein (rTcsL) was optimized and it was purified under native conditions 
+using a single step Ni-NTA affinity chromatography. The purified recombinant 
+protein was used for the production of polyclonal antibodies in mice and rabbit. 
+The raised antibodies reacted specifically with the purified rTcsL and intact 
+native lethal toxin on Western blot. The biological activity of the recombinant 
+protein was tested in HeLa cells where it showed the cytotoxicity. Further, the 
+polyclonal antibodies were used for in-vitro neutralization of purified rTcsL, 
+acid precipitated C. sordellii and C. difficile native toxins in HeLa cells. 
+Mice and rabbit anti-rTcsL sera effectively neutralized the cytotoxicity of 
+rTcsL and C. sordellii native toxin but it did not neutralize the cytotoxicity 
+of C. difficile toxin in HeLa cells.

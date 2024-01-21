@@ -1,0 +1,19 @@
+A multitude of diverse microorganisms, termed the microbiota, reside in the gut, 
+respiratory tract, skin, and genital tract of humans and other animals. Recent 
+advances in metagenomic sequencing and bioinformatics have enabled detailed 
+characterization of these vital microbial communities. Studies in animal models 
+have uncovered vital previously unrecognized roles for the microbiota in normal 
+function of the immune responses, and when perturbed, in the pathogenesis of 
+diseases of the gastrointestinal tract and lungs, but also at distant sites in 
+the body including the brain. The composition of gut and respiratory microbiota 
+can influence systemic inflammatory responses that mediate asthma, allergy, 
+inflammatory bowel disease, obesity-related diseases, and neurodevelopmental or 
+neurodegenerative conditions. Experiments in mouse models as well as emerging 
+clinical studies have revealed that therapeutic manipulation of the microbiota, 
+using fecal microbiota transplantation, probiotics, or engineered probiotics 
+represent effective nontoxic approaches for the treatment or prevention of 
+Clostridium difficile infection, allergy, and autoimmune diseases and may 
+enhance the efficacy of certain cancer immunotherapeutics. This review discusses 
+how commensal bacteria can influence immune responses that mediate a range of 
+human diseases and how the microbiota are being targeted to treat these 
+diseases, especially those resistant to pharmacological therapies.

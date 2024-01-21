@@ -1,0 +1,23 @@
+Gastrointestinal infections often induce epithelial damage that must be repaired 
+for optimal gut function. While intestinal stem cells are critical for this 
+regeneration process [R. C. van der Wath, B. S. Gardiner, A. W. Burgess, D. W. 
+Smith, PLoS One 8, e73204 (2013); S. Kozar et al., Cell Stem Cell 13, 626-633 
+(2013)], how they are impacted by enteric infections remains poorly defined. 
+Here, we investigate infection-mediated damage to the colonic stem cell 
+compartment and how this affects epithelial repair and recovery from infection. 
+Using the pathogen Clostridioides difficile, we show that infection disrupts 
+murine intestinal cellular organization and integrity deep into the epithelium, 
+to expose the otherwise protected stem cell compartment, in a TcdB-mediated 
+process. Exposure and susceptibility of colonic stem cells to intoxication 
+compromises their function during infection, which diminishes their ability to 
+repair the injured epithelium, shown by altered stem cell signaling and a 
+reduction in the growth of colonic organoids from stem cells isolated from 
+infected mice. We also show, using both mouse and human colonic organoids, that 
+TcdB from epidemic ribotype 027 strains does not require Frizzled 1/2/7 binding 
+to elicit this dysfunctional stem cell state. This stem cell dysfunction induces 
+a significant delay in recovery and repair of the intestinal epithelium of up to 
+2 wk post the infection peak. Our results uncover a mechanism by which an 
+enteric pathogen subverts repair processes by targeting stem cells during 
+infection and preventing epithelial regeneration, which prolongs epithelial 
+barrier impairment and creates an environment in which disease recurrence is 
+likely.

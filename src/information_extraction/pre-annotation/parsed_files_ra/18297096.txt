@@ -1,0 +1,27 @@
+BACKGROUND AND PURPOSE: The p38 kinase regulates the release of proinflammatory 
+cytokines including tumour-necrosis factor-alpha (TNFalpha) and is regarded as a 
+potential therapeutic target in rheumatoid arthritis (RA). Using the novel p38 
+inhibitor Org 48762-0, we investigated the therapeutic potential of p38 
+inhibition and compared this to anti-mouse (m)TNFalpha antibody treatment in 
+murine collagen-induced arthritis (CIA).
+EXPERIMENTAL APPROACH: Pharmacological profiles of Org 48762-0 were 
+characterized in kinase assays, cellular assays and in lipopolysaccharide 
+(LPS)-induced inflammation in mice. The effects of Org 48762-0 and of 
+mTNFalpha-neutralization on established arthritis were examined in murine CIA.
+KEY RESULTS: Org 48762-0 potently inhibited p38alpha kinase with a high degree 
+of kinase selectivity. In cellular assays, Org 48762-0 reduced LPS-induced 
+TNFalpha release. Oral administration of Org 48762-0 in mice showed drug-like 
+pharmacokinetic properties and inhibited LPS-induced cytokine production. These 
+pharmacological characteristics of Org 48762-0 prompted a comparison of 
+therapeutic efficacy with mTNFalpha-neutralization in CIA. Org 48762-0 and 
+anti-mTNFalpha antibody treatment equally inhibited development of arthritis 
+when evaluated macroscopically. Radiological analyses revealed protection 
+against bone damage for both treatments, although statistical difference was 
+reached with Org 48762-0 treatment only. Further, micro-computed tomographical 
+and histopathological analyses confirmed the protective effects of Org 48762-0 
+on joint damage.
+CONCLUSIONS AND IMPLICATIONS: Pharmacological targeting of p38 kinase provided 
+good protection against joint tissue damage in CIA. In our experiments, 
+neutralization of mTNFalpha produced less prominent suppression of bone damage. 
+Our data suggest a therapeutic potential for selective and potent p38 inhibitors 
+in RA.

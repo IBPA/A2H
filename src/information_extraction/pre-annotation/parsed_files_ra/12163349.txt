@@ -1,0 +1,17 @@
+1 Gold(I)-thiolate drugs are compounds that specifically interact with thiol 
+and/or selenol groups and are essentially utilized in the treatment of 
+rheumatoid arthritis. 2 Considering the importance of thiol groups in regulating 
+mitochondrial membrane permeability, the effects of auranofin 
+(S-triethylphosphinegold(I)-2,3,4,6-tetra-O-acetyl-1-thio-beta-D-glucopyranoside), 
+a second-generation gold drug, were studied on mitochondria isolated from rat 
+liver. 3 Auranofin, at submicromolar concentrations, was able to induce the 
+mitochondrial membrane permeability transition observed as swelling and loss of 
+membrane potential. Both events are completely inhibited by cyclosporin A, the 
+specific inhibitor of mitochondrial permeability transition. Calcium ions and 
+energization by succinate are required for the occurrence of permeability 
+transition. 4 By interacting with the active site selenol group, auranofin 
+results as an extremely potent inhibitor of mitochondrial thioredoxin reductase, 
+both isolated and in its mitochondrial environment. 5 It is concluded that 
+auranofin, in the presence of calcium ions, is a highly efficient inducer of 
+mitochondrial membrane permeability transition, potentially referable to its 
+inhibition of mitochondrial thioredoxin reductase.

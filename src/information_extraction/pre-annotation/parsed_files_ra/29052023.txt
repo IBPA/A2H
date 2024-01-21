@@ -1,0 +1,23 @@
+Our previous experiments found that lysyl oxidase-like 2 (LOXL2) may be a useful 
+preclinical serological marker for pulmonary fibrosis in the mouse model. The 
+role of LOXL2 in rheumatoid arthritis-associated interstitial lung disease 
+(RA-ILD) is still unclear. We investigated whether serum LOXL2 levels are 
+associated with RA-ILD patients. The levels of serum LOXL2 were measured by 
+enzyme-linked immunosorbent assay in 49 RA-ILD patients (21 patients with ILD 
+disease duration < 3 months; 28 patients with ILD disease duration > 3 months), 
+43 RA patients without ILD and 20 normal healthy controls. We assessed the 
+correlations between the serum LOXL2 levels and clinical variables. Serum LOXL2 
+levels were significantly higher in RA patients than in normal healthy controls 
+(326.79 ± 192.56 vs. 53.27 ± 35.86 pg/ml, P < 0.01). No significant difference 
+was present between the RA-ILD group and RA without ILD group (298.87 ± 219.85 
+vs. 358.60 ± 152.16 pg/ml, P = 0.13). Notably, the serum LOXL2 levels were 
+significantly higher in patients with ILD disease duration < 3 months than in 
+those with ILD disease duration > 3 months (462.71 ± 208.97 vs. 
+175.99 ± 130.55 pg/ml, P < 0.01) or without ILD (462.71 ± 208.97 vs. 
+358.60 ± 152.16 pg/ml, P = 0.03). The serum LOXL2 levels in RA-ILD patients 
+significantly correlated with DAS28 (rs = 0.31, P = 0.034), C-reactive protein 
+(rs = 0.41, P = 0.004), rheumatoid factor (rs = 0.41, P = 0.003), forced vital 
+capacity (rs = - 0.39, P = 0.02), and diffusion capacity of the lung for carbon 
+monoxide (rs = - 0.44, P = 0.009). LOXL2 may be involved in the pathogenesis of 
+rheumatoid arthritis-associated interstitial lung disease and might be helpful 
+in early diagnosis of RA-ILD.

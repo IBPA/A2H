@@ -1,0 +1,33 @@
+INTRODUCTION: The Vβ12-transgenic mouse was previously generated to investigate 
+the role of antigen-specific T cells in collagen-induced arthritis (CIA), an 
+animal model for rheumatoid arthritis. This mouse expresses a transgenic 
+collagen type II (CII)-specific T-cell receptor (TCR) β-chain and consequently 
+displays an increased immunity to CII and increased susceptibility to CIA. 
+However, while the transgenic Vβ12 chain recombines with endogenous α-chains, 
+the frequency and distribution of CII-specific T cells in the Vβ12-transgenic 
+mouse has not been determined. The aim of the present report was to establish a 
+system enabling identification of CII-specific T cells in the Vβ12-transgenic 
+mouse in order to determine to what extent the transgenic expression of the 
+CII-specific β-chain would skew the response towards the immunodominant 
+galactosylated T-cell epitope and to use this system to monitor these cells 
+throughout development of CIA.
+METHODS: We have generated and thoroughly characterized a clonotypic antibody, 
+which recognizes a TCR specific for the galactosylated CII(260-270) peptide in 
+the Vβ12-transgenic mouse. Hereby, CII-specific T cells could be quantified and 
+followed throughout development of CIA, and their phenotype was determined by 
+combinatorial analysis with the early activation marker CD154 (CD40L) and 
+production of cytokines.
+RESULTS: The Vβ12-transgenic mouse expresses several related but distinct T-cell 
+clones specific for the galactosylated CII peptide. The clonotypic antibody 
+could specifically recognize the majority (80%) of these. Clonotypic T cells 
+occurred at low levels in the naïve mouse, but rapidly expanded to around 4% of 
+the CD4+ T cells, whereupon the frequency declined with developing disease. 
+Analysis of the cytokine profile revealed an early Th1-biased response in the 
+draining lymph nodes that would shift to also include Th17 around the onset of 
+arthritis. Data showed that Th1 and Th17 constitute a minority among the 
+CII-specific population, however, indicating that additional subpopulations of 
+antigen-specific T cells regulate the development of CIA.
+CONCLUSIONS: The established system enables the detection and detailed 
+phenotyping of T cells specific for the galactosylated CII peptide and 
+constitutes a powerful tool for analysis of the importance of these cells and 
+their effector functions throughout the different phases of arthritis.

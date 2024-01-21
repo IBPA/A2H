@@ -1,0 +1,22 @@
+Clostridium difficile has emerged as the important causative agent of 
+antibiotics-associated pseudomembranous colitis; especially its toxin A is 
+presumed to be responsible for the colitis. We examined the pathophysiological 
+roles of IFN-gamma in toxin A-induced enteritis using IFN-gamma knockout (KO) 
+mice. When toxin A of C. difficile was injected into the ileal loops of BALB/c 
+wild-type (WT) mice, massive fluid secretion, disruption of intestinal 
+epithelial structure, and massive neutrophil infiltration developed within 4 h 
+after the injection. IFN-gamma protein was faintly detected in some CD3-positive 
+lymphocytes in the lamina propria and submucosa of the ileum of untreated WT 
+mice. On the contrary, at 2 and 4 h after toxin A injection, IFN-gamma protein 
+was detected in infiltrating neutrophils and to a lesser degree in CD3-positive 
+lymphocytes. In the ileum of WT mice, toxin A treatment markedly enhanced the 
+gene expression of TNF-alpha, macrophage inflammatory protein-1alpha and -2, KC, 
+and ICAM-1 >2 h after treatment. In contrast, the histopathological changes were 
+marginal, without enhanced fluid secretion in the ileum of toxin A-treated 
+IFN-gamma KO mice. Moreover, toxin A-induced gene expression of TNF-alpha, 
+neutrophil chemotactic chemokines, and ICMA-1 was remarkably attenuated in 
+IFN-gamma KO mice. Furthermore, pretreatment of WT mice with a neutralizing 
+anti-IFN-gamma Ab prevented toxin A-induced enteritis. These observations 
+indicate that IFN-gamma is the crucial mediator of toxin A-induced acute 
+enteritis and suggest that IFN-gamma is an important molecular target for the 
+control of C. difficile-associated pseudomembranous colitis.

@@ -1,0 +1,29 @@
+BACKGROUND: Collagen XI (CXI) is a heterotrimeric molecule with triple helical 
+structure in which the α3(XI) chain is identical to the α1(II) chain of collagen 
+II (CII), but with extensive posttranslational modifications. CXI molecules are 
+intermingled in the cartilage collagen fibers, which are mainly composed of CII. 
+One of the alpha chains in CXI is shared with CII and contains the 
+immunodominant T cell epitope, but it is unclear whether there are shared B cell 
+epitopes as the antibodies tend to recognize the triple helical structures.
+METHODS: Mice expressing the susceptible immune response gene Aq were immunized 
+with CII or CXI. Serum antibody responses were measured, monoclonal antibodies 
+were isolated and analyzed for specificity to CII, CXI, and triple helical 
+collagen peptides using bead-based multiplex immunoassays, enzyme-linked 
+immunosorbent assays, and Western blots. Arthritogenicity of the antibodies was 
+investigated by passive transfer experiments.
+RESULTS: Immunization with CII or CXI leads to a strong T and B cell response, 
+including a cross-reactive response to both collagen types. Immunization with 
+CII leads to severe arthritis in mice, with a response toward CXI at the chronic 
+stage, whereas CXI immunization induces very mild arthritis only. A series of 
+monoclonal antibodies to CXI were isolated and of these, the L10D9 antibody 
+bound to both CXI and CII equally strong, with a specific binding for the D3 
+epitope region of α3(XI) or α1(II) chain. The L10D9 antibody binds cartilage in 
+vivo and induced severe arthritis. In contrast, the L5F3 antibody only showed 
+weak binding and L7D8 antibody has no binding to cartilage and did not induce 
+arthritis. The arthritogenic L10D9 antibody bound to an epitope shared with CII, 
+the triple helical D3 epitope. Antibody levels to the shared D3 epitope were 
+elevated in the sera from mice with arthritis as well as in rheumatoid 
+arthritis.
+CONCLUSION: CXI is immunologically not exposed in healthy cartilage but contains 
+T and B cell epitopes cross-reactive with CII, which could be activated in both 
+mouse and human arthritis and could evoke an arthritogenic response.

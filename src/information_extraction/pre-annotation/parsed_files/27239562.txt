@@ -1,0 +1,39 @@
+It is hypothesized that the depletion of microbial members responsible for 
+converting primary bile acids into secondary bile acids reduces resistance to 
+Clostridium difficile colonization. To date, inhibition of C. difficile growth 
+by secondary bile acids has only been shown in vitro. Using targeted bile acid 
+metabolomics, we sought to define the physiologically relevant concentrations of 
+primary and secondary bile acids present in the murine small and large 
+intestinal tracts and how these impact C. difficile dynamics. We treated mice 
+with a variety of antibiotics to create distinct microbial and metabolic (bile 
+acid) environments and directly tested their ability to support or inhibit 
+C. difficile spore germination and outgrowth ex vivo. Susceptibility to 
+C. difficile in the large intestine was observed only after specific 
+broad-spectrum antibiotic treatment (cefoperazone, clindamycin, and vancomycin) 
+and was accompanied by a significant loss of secondary bile acids (deoxycholate, 
+lithocholate, ursodeoxycholate, hyodeoxycholate, and ω-muricholate). These 
+changes were correlated to the loss of specific microbiota community members, 
+the Lachnospiraceae and Ruminococcaceae families. Additionally, physiological 
+concentrations of secondary bile acids present during C. difficile resistance 
+were able to inhibit spore germination and outgrowth in vitro. Interestingly, we 
+observed that C. difficile spore germination and outgrowth were supported 
+constantly in murine small intestinal content regardless of antibiotic 
+perturbation, suggesting that targeting growth of C. difficile will prove most 
+important for future therapeutics and that antibiotic-related changes are organ 
+specific. Understanding how the gut microbiota regulates bile acids throughout 
+the intestine will aid the development of future therapies for C. difficile 
+infection and other metabolically relevant disorders such as obesity and 
+diabetes. IMPORTANCE Antibiotics alter the gastrointestinal microbiota, allowing 
+for Clostridium difficile infection, which is a significant public health 
+problem. Changes in the structure of the gut microbiota alter the metabolome, 
+specifically the production of secondary bile acids. Specific bile acids are 
+able to initiate C. difficile spore germination and also inhibit C. difficile 
+growth in vitro, although no study to date has defined physiologically relevant 
+bile acids in the gastrointestinal tract. In this study, we define the bile 
+acids C. difficile spores encounter in the small and large intestines before and 
+after various antibiotic treatments. Antibiotics that alter the gut microbiota 
+and deplete secondary bile acid production allow C. difficile colonization, 
+representing a mechanism of colonization resistance. Multiple secondary bile 
+acids in the large intestine were able to inhibit C. difficile spore germination 
+and growth at physiological concentrations and represent new targets to combat 
+C. difficile in the large intestine.

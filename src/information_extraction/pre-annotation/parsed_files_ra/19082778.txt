@@ -1,0 +1,22 @@
+Osteolytic disorders cause serious problems for quality of life with aging. 
+Osteolysis is performed by osteoclasts of the hematopoietic lineage that share 
+some characteristics with monocytes and macrophages. As osteoclast precursors 
+(pOCs) are present in peripheral blood, their characterization in osteolytic 
+diseases may help us to understand risk factors. Although essential factors for 
+osteoclastogenesis have been reported, the effective induction from pOCs in 
+human peripheral blood mononuclear cells (PBMCs) to mature osteoclasts in 
+culture requires further improvement. The aim of this study was development of 
+an efficient culture system for human osteoclastogenesis and providing a simple 
+system for the enrichment of pOCs from PBMCs. We employed coculturing of human 
+PBMCs with a mouse stromal cell line. Significant numbers of tartrate-resistant 
+acid phosphatase-positive (TRAP(+)) multinucleated osteoclasts (MNCs), which 
+could resorb dentine slices, were efficiently induced in this culture condition. 
+pOCs were enriched in an anti-CD16 antibody column-passed anti-CD14 
+antibody-bound cell population isolated by magnetic cell sorting. We compared 
+the percentage of the CD14(high) CD16(dull) cell population, which mainly 
+contained pOCs in PBMCs, from age-matched patients with rheumatoid arthritis 
+(RA) and osteoporosis (OP), but it was comparable. However, the mean number of 
+TRAP(+) MNCs generated in cultures from PBMCs of RA was higher. In contrast, the 
+frequency of pOCs in PBMCs from OP was relatively higher. These results suggest 
+the characteristics of pOCs from RA and OP may be different, because single pOCs 
+from OP gave rise to lower numbers of osteoclasts than those from RA.

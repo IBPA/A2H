@@ -1,0 +1,16 @@
+The pathogenicity of Clostridium difficile (C. difficile) is mediated by the 
+release of two toxins, A and B. Both toxins contain large clusters of repeats 
+known as cell wall binding (CWB) domains responsible for binding epithelial cell 
+surfaces. Several murine monoclonal antibodies were generated against the CWB 
+domain of toxin A and screened for their ability to neutralize the toxin 
+individually and in combination. Three antibodies capable of neutralizing toxin 
+A all recognized multiple sites on toxin A, suggesting that the extent of 
+surface coverage may contribute to neutralization. Combination of two 
+noncompeting antibodies, denoted 3358 and 3359, enhanced toxin A neutralization 
+over saturating levels of single antibodies. Antibody 3358 increased the level 
+of detectable CWB domain on the surface of cells, while 3359 inhibited CWB 
+domain cell surface association. These results suggest that antibody 
+combinations that cover a broader epitope space on the CWB repeat domains of 
+toxin A (and potentially toxin B) and utilize multiple mechanisms to reduce 
+toxin internalization may provide enhanced protection against C. 
+difficile-associated diarrhea.

@@ -1,0 +1,17 @@
+Daphnetin (DAP), a coumarin derivative, has been reported to have multiple 
+pharmacological actions including analgesia, antimalarial, anti-arthritic, and 
+anti-pyretic properties. It is unclear whether DAP has neuroprotective effects 
+on ischemic brain injury. In this study, we found that DAP treatment (i.c.v.) 
+reduced the infarct volume at 24 h after ischemia/reperfusion injury and 
+improved neurological behaviors in a middle cerebral artery occlusion mouse 
+model. Moreover, we provided evidences that DAP had protective effects on 
+infarct volume in neonate rats even it was administrated at 4 h after cerebral 
+hypoxia/ischemia injury. To explore its neuroprotective mechanisms of DAP, we 
+examined the protection of DAP on glutamate toxicity-induced cell death in 
+hippocampal HT-22 cells. Our results demonstrated that DAP protected against 
+glutamate toxicity in HT-22 cells in a concentration-dependent manner. Further, 
+we found that DAP maintained the cellular levels of glutathione and superoxide 
+dismutase activity, suggesting the anti-oxidatant activity of DAP. Since DAP has 
+been used for the treatment of coagulation disorder and rheumatoid arthritis for 
+long time with a safety profile, DAP will be a promising agent for the treatment 
+of stroke.

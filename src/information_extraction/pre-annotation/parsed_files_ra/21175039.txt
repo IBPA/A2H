@@ -1,0 +1,23 @@
+Tolmetin (TMT, CAS 26171-23-3) is a non-steroidal anti-inflammatory drug (NSAID) 
+indicated for the relief of signs and symptoms of osteoarthritis, rheumatoid 
+arthritis and juvenile rheumatoid arthritis. As TMT causes gastro-intestinal 
+side effects like other NSAIDs, its nonacidic prodrug amtolmetin guacil (AMG, 
+CAS 87344-06-7) was synthesized. AMG has similar NSAID properties like TMT with 
+additional gastroprotective property. The aim of this study was to investigate 
+whether TMT and AMG are differentially metabolised in rat and human plasma 
+(fresh and acidified) and liver microsomes. TMT was found to be stable in all 
+the matrices tested viz., rat and human plasma (fresh and acidified) and liver 
+microsomes. AMG was found to be stable only in acidified rat and human plasma. 
+On the contrary, in fresh human plasma and human liver microsomes AMG was 
+rapidly converted to two metabolites, which were subsequently identified as MED5 
+and MED5 methyl ester, without yielding any intact TMT. However, in rat fresh 
+plasma and liver microsomes, AMG formed MED5 (predominant) and TMT. To 
+corroborate the in vitro findings, in vivo pharmacokinetics (PK) studies were 
+done following separate dosing of AMG in both rats and humans. In rats, the PK 
+data substantiated that following oral administration of AMG it will be 
+converted to TMT resulting in similar PK parameters observed for TMT when it was 
+administered alone. In humans, however, AMG yields low levels of TMT which 
+substantes the in vitro results. Levels of AMG were not detectable in the 
+plasma. These results confirm the species differences in the in vitro and in 
+vivo metabolism and disposition of AMG. More research work to further explore 
+and understand AMG metabolism in humans is required.

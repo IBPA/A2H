@@ -1,0 +1,12 @@
+Biologic agents that target molecules and cells involved in chronic inflammation 
+are coming into clinical use for the treatment of rheumatoid arthritis (RA). New 
+agents block the action of cytokines, which play a key role in the pathogenesis 
+of RA. Among the many cytokines involved in RA, tumor necrosis factor (TNF) is 
+believed to be dominant. Two agents for neutralizing TNF are now available. One 
+is a recombinant molecule, etanercept, which is derived from a naturally 
+occurring TNF antagonist, one of the soluble human TNF receptors. The other, 
+infliximab, is a chimeric (human-mouse) monoclonal antibody against human TNF. 
+These biologic agents have been shown to relieve symptoms in patients with 
+refractory RA. If tolerance of these and other anticipated anticytokine agents 
+continues over the long term, treatment for patients with RA will become safer 
+and more effective.

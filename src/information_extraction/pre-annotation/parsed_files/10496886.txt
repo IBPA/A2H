@@ -1,0 +1,15 @@
+Fourteen of the 38 C-terminal repeats from Clostridium difficile toxin A 
+(14CDTA) were cloned and expressed either with an N-terminal polyhistidine tag 
+(14CDTA-HIS) or fused to the nontoxic binding domain from tetanus toxin 
+(14CDTA-TETC). The recombinant proteins were successfully purified by bovine 
+thyroglobulin affinity chromatography. Both C. difficile toxin A fusion proteins 
+bound to known toxin A ligands present on the surface of rabbit erythrocytes. 
+Intranasal immunization of BALB/c mice with three separate 10-microg doses of 
+14CDTA-HIS or -TETC generated significant levels of anti-toxin A serum 
+antibodies compared to control animals. The coadministration of the mucosal 
+adjuvant heat labile toxin (LT) from Escherichia coli (1 microg) significantly 
+increased the anti-toxin A response in the serum and at the mucosal surface. 
+Importantly, the local and systemic antibodies generated neutralized toxin A 
+cytotoxicity. Impressive systemic and mucosal anti-toxin A responses were also 
+seen following coadministration of 14CDTA-TETC with LTR72, an LT derivative with 
+reduced toxicity which shows potential as a mucosal adjuvant for humans.

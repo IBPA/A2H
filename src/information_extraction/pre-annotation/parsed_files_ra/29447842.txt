@@ -1,0 +1,32 @@
+BACKGROUND: Wiskott-Aldrich syndrome (WAS) is a rare primary immunodeficiency 
+caused by mutations in Wiskott-Aldrich syndrome protein (WASp), a key regulator 
+of cytoskeletal dynamics in hematopoietic cells. A high proportion of patients 
+experience autoimmunity caused by a breakdown in T- and B-cell tolerance. 
+Moreover, excessive production of type I interferon (IFN-I) by plasmacytoid 
+dendritic cells (pDCs) contributes to autoimmune signs; however, the factors 
+that trigger excessive innate activation have not been defined.
+OBJECTIVE: Neutrophil extracellular traps (NETs) emerged as major initiating 
+factors in patients with diseases such as systemic lupus erythematosus and 
+rheumatoid arthritis. In this study we explored the possible involvement of 
+aberrant neutrophil functions in patients with WAS.
+METHODS: We evaluated the expression of a set of granulocyte genes associated 
+with NETs in a cohort of patients with WAS and the presence of NET inducers in 
+sera. Using a mouse model of WAS, we analyzed NET release by WASp-null 
+neutrophils and evaluated the composition and homeostasis of neutrophils 
+in vivo. By using depletion experiments, we assessed the effect of neutrophils 
+in promoting inflammation and reactivity against autoantigens.
+RESULTS: Transcripts of genes encoding neutrophil enzymes and antimicrobial 
+peptides were increased in granulocytes of patients with WAS, and serum-soluble 
+factors triggered NET release. WASp-null neutrophils showed increased 
+spontaneous NETosis, induced IFN-I production by pDCs, and activated B cells 
+through B-cell activating factor. Consistently, their depletion abolished 
+constitutive pDC activation, normalized circulating IFN-I levels, and, 
+importantly, abolished production of autoantibodies directed against 
+double-stranded DNA, nucleosomes, and myeloperoxidase.
+CONCLUSIONS: These findings reveal that neutrophils are involved in the 
+pathogenic loop that causes excessive activation of innate cells and 
+autoreactive B cells, thus identifying novel mechanisms that contribute to the 
+autoimmunity of WAS.
+
+Copyright © 2018 American Academy of Allergy, Asthma & Immunology. All rights 
+reserved.

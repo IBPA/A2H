@@ -1,0 +1,23 @@
+Nicotinamide phosphoribosyltransferase (NAMPT) is a pleiotropic protein 
+implicated in the pathogenesis of acute respiratory distress syndrome, aging, 
+cancer, coronary heart diseases, diabetes, nonalcoholic fatty liver disease, 
+obesity, rheumatoid arthritis, and sepsis. However, the underlying molecular 
+mechanisms of NAMPT in these physiological and pathological processes are not 
+fully understood. Here, we provide experimental evidence that a Nampt gene 
+homozygous knockout (Nampt-/-) resulted in lethality at an early stage of mouse 
+embryonic development and death within 5-10 days in adult mice accompanied by a 
+25.24±2.22% body weight loss, after the tamoxifen induction of NamptF/F × Cre 
+mice. These results substantiate that Nampt is an essential gene for life. In 
+Nampt-/- mice versus Nampt+/+ mice, biochemical assays indicated that liver and 
+intestinal tissue NAD levels were decreased significantly; histological 
+examination showed that mouse intestinal villi were atrophic and disrupted, and 
+visceral fat was depleted; mass spectrometry detected unusual higher serum 
+polyunsaturated fatty acid containing triglycerides. RNA-seq analyses of both 
+mouse and human pediatric liver transcriptomes have convergently revealed that 
+NAMPT is involved in key basic cellular functions such as transcription, 
+translation, cell signaling, and fundamental metabolism. Notably, the expression 
+of all eight enzymes in the tricarboxylic acid cycle were decreased 
+significantly in the Nampt-/- mice. These findings prompt us to posit that adult 
+Nampt-/- mouse lethality is a result of a short supply of ATP from compromised 
+intestinal absorption of nutrients from digested food, which leads to the 
+exhaustion of body fat stores.

@@ -1,0 +1,20 @@
+BACKGROUND: Bacterial gastroenteritis causes morbidity and mortality in humans 
+worldwide. Murine Citrobacter rodentium infection is a model for gastroenteritis 
+caused by the human pathogens enteropathogenic Escherichia coli and 
+enterohaemorrhagic E. coli. Mucin glycoproteins are the main component of the 
+first barrier that bacteria encounter in the intestinal tract.
+METHODOLOGY/PRINCIPAL FINDINGS: Using Immunohistochemistry, we investigated 
+intestinal expression of mucins (Alcian blue/PAS, Muc1, Muc2, Muc4, Muc5AC, 
+Muc13 and Muc3/17) in healthy and C. rodentium infected mice. The majority of 
+the C. rodentium infected mice developed systemic infection and colitis in the 
+mid and distal colon by day 12. C. rodentium bound to the major secreted mucin, 
+Muc2, in vitro, and high numbers of bacteria were found in secreted MUC2 in 
+infected animals in vivo, indicating that mucins may limit bacterial access to 
+the epithelial surface. In the small intestine, caecum and proximal colon, the 
+mucin expression was similar in infected and non-infected animals. In the distal 
+colonic epithelium, all secreted and cell surface mucins decreased with the 
+exception of the Muc1 cell surface mucin which increased after infection 
+(p<0.05). Similarly, during human infection Salmonella St Paul, Campylobacter 
+jejuni and Clostridium difficile induced MUC1 in the colon.
+CONCLUSION: Major changes in both the cell-surface and secreted mucins occur in 
+response to intestinal infection.

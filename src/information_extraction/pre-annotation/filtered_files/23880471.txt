@@ -1,0 +1,20 @@
+The clinical applications of etanercept (Enbrel), an emerging therapeutic 
+protein for rheumatoid arthritis (RA), are limited by its instability and low 
+bioavailability. In this study, a long-term and efficient therapeutic 
+nanocomplex formulation for RA treatment was developed in the form of a 
+temperature-modulated noncovalent interaction controllable (TMN) complex based 
+on a temperature-sensitive amphiphilic polyelectrolyte (succinylated 
+pullulan-g-oligo(L-lactide); SPL). The TMN complexes were prepared by simply 
+mixing the negatively charged SPL copolymer and the positively charged 
+etanercept via electrostatic interaction at 4 °C below the polymer's clouding 
+temperature (CT), and the resulting complex demonstrated significantly improved 
+salt and serum stability with increased hydrophobic interactions at temperatures 
+(physiological condition, 37.5 °C) above the CT. An in vitro study of the 
+bioactivity of etanercept indicated that the TMN complex improves the long-term 
+stability of etanercept in an aqueous environment because of the exposure of the 
+functional active site and the molecular chaperone-like effect of the 
+hydrophobic copolymer. This formulation possessed prolonged in vivo 
+pharmacokinetic parameters. In a collagen-induced arthritis RA rat model, we 
+verified the outstanding therapeutic effect of the TMN complexes. These results 
+imply that this approach would be widely applied to protein and peptide delivery 
+systems.

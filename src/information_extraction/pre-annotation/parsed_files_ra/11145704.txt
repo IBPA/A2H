@@ -1,0 +1,20 @@
+IL-4 is a cytokine with anti-inflammatory properties on activated macrophages. 
+Rheumatoid arthritis, an autoimmune inflammatory disease, is characterized by a 
+paucity of IL-4 and an abundance of synovial macrophage-derived mediators. 
+Herein, the effect of a single injection of adenovirus-producing rat IL-4 
+(AxCAIL-4) or a control virus with no inserted gene was compared with the effect 
+of PBS injection into rat ankles. Ankles were injected before arthritis onset or 
+at maximal inflammation. Preventatively, AxCAIL-4 reduced adjuvant-induced 
+arthritis (AIA)- and/or AIA/adenoviral-induced ankle inflammation, decreasing 
+articular index scores, ankle circumferences, paw volumes, radiographic scores, 
+mean levels of monocyte chemoattractant protein-1, the number of inflammatory 
+cells, and the number of synovial blood vessels. Therapeutically, AxCAIL-4 also 
+decreased ankle circumferences and paw volumes in comparison with a control 
+virus with no inserted gene and PBS groups. After arthritis onset, mean levels 
+of TNF-alpha, IL-1beta, macrophage inflammatory protein-2, and RANTES were 
+decreased in AxCAIL-4 rat ankle homogenates compared with PBS-treated 
+homogenates. Thus, increased expression of IL-4 via gene therapy administered in 
+a preventative and/or therapeutic manner reduced joint inflammation, synovial 
+cellularity, levels of proinflammatory cytokines, vascularization, and bony 
+destruction in rat AIA, suggesting that a similar treatment in humans may be 
+beneficial.

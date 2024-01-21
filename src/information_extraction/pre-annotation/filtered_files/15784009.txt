@@ -1,0 +1,23 @@
+IL-1 (interleukin-1) acts as a key mediator of the degeneration of articular 
+cartilage in RA (rheumatoid arthritis) and OA (osteoarthritis),where chondrocyte 
+death is observed. It is still controversial, however, whether IL-1 induces 
+chondrocyte death. In the present study, the viability of mouse chondrocyte-like 
+ATDC5 cells was reduced by the treatment with IL-1beta for 48 h or longer. 
+IL-1beta augmented the expression of the catalytic gp91 subunit of NADPH 
+oxidase, gp91phox, as well as inducible NO synthase in ATDC5 cells. Generation 
+of nitrated guanosine and tyrosine suggested the formation of reactive nitrogen 
+species including ONOO- (peroxynitrite), a reaction product of NO and O2-, in 
+ATDC5 cells and rat primary chondrocytes treated with IL-1beta. Death of ATDC5 
+cells after IL-1beta treatment was prevented by an NADPH-oxidase inhibitor, 
+AEBSF[4-(2-aminoethyl)benzene-sulphonyl fluoride], an NO synthase inhibitor, 
+L-NAME (NG-nitro-L-arginine methyl ester), and a ONOO- scavenger, uric acid. The 
+viability of ATDC5 cells was reduced by the ONOO(-)-generator 
+3-(4-morpholinyl)sydnonimine hydrochloride, but not by either the NO-donor 
+1-hydroxy-2-oxo-3-(N-methyl-2-aminopropyl)-3-methyl-1-triazene or 
+S-nitrosoglutathione. Disruption of mitochondrial membrane potential and ATP 
+deprivation were observed in IL-1beta-treated ATDC5 cells, both of which were 
+restored by L-NAME, AEBSF or uric acid. On the other hand, no morphological or 
+biochemical signs indicating apoptosis were observed in these cells. These 
+results suggest that the death of chondrocyte-like ATDC5 cells was mediated at 
+least in part by mitochondrial dysfunction and energy depletion through ONOO- 
+formation after IL-1beta treatment.

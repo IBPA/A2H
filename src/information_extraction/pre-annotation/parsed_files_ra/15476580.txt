@@ -1,0 +1,33 @@
+We hypothesized that pro-inflammatory cytokines can act locally in the growth 
+plate to impair longitudinal growth. In a model of cultured fetal rat metatarsal 
+bones, we found that IL-1beta and TNF-alpha act in synergy to inhibit 
+longitudinal growth, an effect linked to decreased proliferation and increased 
+apoptosis of growth plate chondrocytes. IGF-I could partially reverse all these 
+effects.
+INTRODUCTION: Children with chronic inflammatory conditions, such as Crohn's 
+disease or rheumatoid arthritis, experience impaired longitudinal growth. The 
+inflammatory process itself, which includes upregulation of the pro-inflammatory 
+cytokines interleukin (IL)-1beta, IL-6, and TNF-alpha, is believed to be at 
+least partly responsible for the poor growth in these patients. This study aimed 
+to clarify whether these cytokines can act locally in the growth plate to 
+suppress longitudinal growth and whether any negative effects can be reversed by 
+insulin-like growth factor-I (IGF-I).
+MATERIALS AND METHODS: The effects of cytokines on longitudinal bone growth were 
+studied in fetal (day E20) rat metatarsal bones kept in culture. After a 7-day 
+culture, the bones were sectioned, and chondrocyte proliferation was assessed by 
+bromodeoxyuridine (BrdU) incorporation and apoptosis by TUNEL.
+RESULTS: When added separately, IL-1beta and TNF-alpha impaired longitudinal 
+bone growth only at a high concentration (100 ng/ml each; p < 0.05 versus 
+control). In contrast, when added in combination, IL-1beta and TNF-alpha 
+potently inhibited growth at far lower concentrations (from 3 ng/ml each; p < 
+0.001 versus control) and also decreased chondrocyte proliferation and increased 
+apoptosis. Growth failure induced by the combination of IL-1beta and TNF-alpha 
+(10 ng/ml each) could be counteracted by anti-IL-1beta (100 ng/ml; p < 0.001), 
+anti-TNF-alpha (100 ng/ml; p < 0.001), or IGF-I (100 ng/ml; p < 0.01). IL-6 did 
+not affect longitudinal growth even when added in combination with IL-1beta or 
+TNF-alpha (10 ng/ml each).
+CONCLUSIONS: We show that IL-1beta and TNF-alpha act in synergy to locally 
+suppress longitudinal growth, an effect that can be partially reversed by IGF-I. 
+Although growth hormone (GH)/IGF-I may improve longitudinal growth in children 
+with chronic inflammatory diseases, our results suggest that the inflammatory 
+process itself must be targeted to achieve normal growth.

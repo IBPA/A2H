@@ -1,0 +1,27 @@
+OBJECTIVE: Ras guanine nucleotide-releasing protein 4 (RasGRP-4) is a 
+calcium-regulated guanine nucleotide exchange factor and diacylglycerol/phorbol 
+ester receptor not normally expressed in fibroblasts. While RasGRP-4-null mice 
+are resistant to arthritis induced by anti-glucose-6-phosphate isomerase 
+autoantibodies, the relevance of these findings to humans is unknown. We 
+undertook this study to evaluate the importance of RasGRP-4 in the pathogenesis 
+of human and rat arthritis.
+METHODS: Synovial tissue from patients with rheumatoid arthritis (RA) and 
+osteoarthritis (OA) were evaluated immunohistochemically for the presence of 
+RasGRP-4 protein. Fibroblast-like synoviocytes (FLS) were isolated from synovial 
+samples, and expression of RasGRP-4 was evaluated by real-time quantitative 
+reverse transcription-polymerase chain reaction analyses. The proliferation 
+potency of FLS was evaluated by exposing the cells to a RasGRP-4-specific small 
+interfering RNA (siRNA). Finally, the ability of RasGRP-4-specific siRNAs to 
+hinder type II collagen-induced arthritis in rats was evaluated to confirm the 
+importance of the signaling protein in the disease.
+RESULTS: Unexpectedly, RasGRP-4 protein was detected in the synovial 
+hyperplastic lining, where proliferating FLS preferentially reside. FLS isolated 
+from tissues obtained from a subpopulation of RA patients expressed much more 
+RasGRP-4 than did FLS from examined OA patients. Moreover, the level of RasGRP-4 
+transcript was correlated with the FLS proliferation rate. The ability of 
+cultured FLS to divide was diminished when they were treated with 
+RasGRP-4-specific siRNAs. The intraarticular injection of RasGRP-4-specific 
+siRNAs also dampened experimental arthritis in rats.
+CONCLUSION: RasGRP-4 is aberrantly expressed in FLS and helps regulate their 
+growth. This intracellular signaling protein is therefore a candidate target for 
+dampening proliferative synovitis and joint destruction.

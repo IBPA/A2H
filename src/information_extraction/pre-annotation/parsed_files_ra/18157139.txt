@@ -1,0 +1,21 @@
+IL-17A is a T cell-specific cytokine that is involved in chronic inflammations, 
+such as Mycobacterium infection, Crohn's disease, rheumatoid arthritis and 
+multiple sclerosis. Mouse models have explained the molecular basis of IL-17A 
+production and have shown that IL-17A has a positive effect not only on 
+granuloma formation and neurodegeneration through unknown mechanisms, but also 
+on bone resorption through Receptor activator of NF-kappaB ligand (RANKL) 
+induction in osteoblasts. Langerhans cell histiocytosis (LCH) is a rare disease 
+of unknown etiology, lacking an animal model, that cumulates symptoms that are 
+found separately in various IL-17A-related diseases, such as aggressive chronic 
+granuloma formation, bone resorption and soft tissue lesions with occasional 
+neurodegeneration. We examined IL-17A in the context of LCH and found that there 
+were high serum levels of IL-17A during active LCH and unexpected IL-17A 
+synthesis by dendritic cells (DCs), the major cell type in LCH lesions. We also 
+found an IL-17A-dependent pathway for DC fusion, which was highly potentiated by 
+IFN-gamma and led to giant cells expressing three major tissue-destructive 
+enzymes: tartrate resistant acidic phosphatase and matrix metalloproteinases 9 
+and 12. IFN-gamma expression has been previously documented in LCH and observed 
+in IL-17A-related diseases. Notably, serum IL-17A-dependent fusion activity 
+correlates with LCH activity. Thus, IL-17A and IL-17A-stimulated DCs represent 
+targets that may have clinical value in the treatment of LCH and other 
+IL-17A-related inflammatory disorders.

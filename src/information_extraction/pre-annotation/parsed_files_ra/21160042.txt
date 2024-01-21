@@ -1,0 +1,17 @@
+IL-1R-associated kinases (IRAKs) are important mediators of MyD88-dependent 
+signaling by the TLR/IL-1R superfamily and facilitate inflammatory responses. 
+IRAK4 and IRAK1 function as active kinases and as scaffolds for protein-protein 
+interactions. We report that although IRAK1/4 kinase activity is essential for 
+human plasmacytoid dendritic cell (pDC) activation, it is dispensable in B, T, 
+dendritic, and monocytic cells, which is in contrast with an essential active 
+kinase role in comparable mouse cell types. An IRAK1/4 kinase inhibitor 
+abrogated TLR7/9-induced IFN-α responses in both mouse and human pDCs, but other 
+human immune cell populations activated via TLR7/9 or IL-1R were refractory to 
+IRAK4 kinase inhibition. Gene ablation experiments using small interfering RNA 
+demonstrated an essential scaffolding role for IRAK1 and IRAK4 in 
+MyD88-dependent signaling. Finally, we demonstrate that autoimmune patient 
+(systemic lupus erythematosus and rheumatoid arthritis) serum activates both pDC 
+and B cells, but IRAK1/4 kinase inhibition affects only the pDC response, 
+underscoring the differential IRAK1/4 functional requirements in human immune 
+cells. These data reveal important species differences and elaborate cell type 
+requirements for IRAK1/4 kinase activity.

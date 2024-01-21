@@ -1,0 +1,18 @@
+Rheumatoid arthritis (RA) is a chronic autoimmune inflammatory disease 
+characterized by synovial pannus formation, leukocyte infiltration, and 
+angiogenesis. Adenoviral production of interleukin-13 (IL-13) reduces levels of 
+proinflammatory mediators in an explant model of RA synovial tissue in vitro. To 
+assess this approach in an animal model of arthritis, we compared 
+intra-articular injections of an adenovirus producing rat IL-13 (AxCArIL-13), a 
+control virus, and rat ankles receiving phosphate-buffered saline (PBS) in rat 
+adjuvant-induced arthritis (AIA). We demonstrate that IL-13 levels are normally 
+low in ankles throughout the course of rat AIA. We show that administration of 
+AxCArIL-13 before arthritis onset significantly reduces ankle circumference, paw 
+volume, bony destruction, the number of polymorphonuclear cells (PMNs), the 
+quantity of blood vessels, and levels of monocyte chemoattractant protein 
+(MCP)-1 in ankles. When administered as a treatment to inflamed ankles, 
+AxCArIL-13 decreases articular index scores, paw volumes, bony destruction, 
+vascularization, tumor necrosis factor-alpha (TNF-alpha) levels, and the 
+quantity of monocytes, lymphocytes, and PMNs. Thus, increasing IL-13 levels 
+significantly ameliorates the course of rat AIA, suggesting that similar 
+strategies for the treatment of human RA are worthy of further study.

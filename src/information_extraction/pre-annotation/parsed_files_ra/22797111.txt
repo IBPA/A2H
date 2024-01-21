@@ -1,0 +1,23 @@
+OBJECTIVE: Previous studies suggest that selective serotonin reuptake inhibitors 
+(SSRIs) modulate immune system functionality. SSRIs are the preferred treatment 
+for major depressive disorder (MDD). A high rate of MDD is observed in 
+rheumatoid arthritis (RA) patients. The aim of this study was to evaluate 
+immunological effects of SSRIs in a rat model of RA.
+METHODS: Adjuvant arthritis was induced in 8-week-old Lewis rats; in the first 
+set of experiments following the induction, 15.3 or 30.6 mg/kg of sertraline was 
+daily injected into the ankle joint of the left rear leg. Clinical disease 
+activity was evaluated and the findings compared with the 3 untreated legs and 
+with control groups given methotrexate (MTX) or vehicle only at the same site. 
+In a second set of experiments, the effect of 5, 25 and 50 mg/kg daily oral 
+sertraline was evaluated in the same rat model. Splenocyte viability and 
+inflammatory mediators were evaluated.
+RESULTS: The sertraline-treated rats showed a significant reduction in clinical 
+arthritis compared to controls, at all doses given, accompanied by a significant 
+increase in interleukin 10 and a decrease in tumor necrosis factor-α levels and 
+cycloxygenase-2 production, without lymphotoxicity. There was no significant 
+difference from MTX, the first-line treatment for RA patients. Oral sertraline 
+had a significant anti-inflammatory effect at all doses. There was no treatment 
+× time effect.
+CONCLUSION: The beneficial effects of sertraline in this rat model of arthritis 
+have clinical implications for its use in humans. Large-scale clinical efficacy 
+trials are needed.

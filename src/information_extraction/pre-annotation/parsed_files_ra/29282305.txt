@@ -1,0 +1,21 @@
+Genetic absence of the urokinase-type plasminogen activator (uPA) reduces 
+arthritis progression in the collagen-induced arthritis (CIA) mouse model to an 
+extent just shy of disease abrogation, but this remarkable observation has not 
+been translated into therapeutic intervention. Our aim was to test the potential 
+in mice of an Ab that blocks the proteolytic capacity of uPA in the CIA model 
+and the delayed-type hypersensitivity arthritis model. A second aim was to 
+determine the cellular origins of uPA and the uPA receptor (uPAR) in joint 
+tissue from patients with rheumatoid arthritis. A mAb that neutralizes mouse uPA 
+significantly reduced arthritis progression in the CIA and delayed-type 
+hypersensitivity arthritis models. In the CIA model, the impact of anti-uPA 
+treatment was on par with the effect of blocking TNF-α by etanercept. A 
+pharmacokinetics evaluation of the therapeutic Ab revealed target-mediated drug 
+disposition consistent with a high turnover of endogenous uPA. The cellular 
+expression patterns of uPA and uPAR were characterized by double 
+immunofluorescence in the inflamed synovium from patients with rheumatoid 
+arthritis and compared with synovium from healthy donors. The arthritic synovium 
+showed expression of uPA and uPAR in neutrophils, macrophages, and a fraction of 
+endothelial cells, whereas there was little or no expression in synovium from 
+healthy donors. The data from animal models and human material provide 
+preclinical proof-of-principle that validates uPA as a novel therapeutic target 
+in rheumatic diseases.

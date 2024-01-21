@@ -1,0 +1,23 @@
+Previous studies have revealed the significance of cytokine interleukin 1 (IL-1) 
+in the onset and progression of rheumatoid arthritis (RA). The precise molecular 
+mechanisms related to IL-1 underlying RA is still elusive. We conducted a whole 
+genome-wide transcriptomal comparison of wild-type (WT) and arthritis-prone IL-1 
+receptor antagonist (IL-1rn) deficient BALB/c mice to address this issue. To 
+refine our search efforts, gene expression profiling was also performed on 
+paired wild-type and arthritis-resistant IL-1rn deficient DBA/1 mice as internal 
+controls when identifying causative arthritis candidate genes. Two hundred and 
+fifteen transcripts were found to be dysregulated greater than or equal to 
+2-fold in the diseased mice. The altered transcriptome in BALB/c mice revealed 
+increased myeloid cell activities and impaired lymphocyte functionality, 
+suggesting dual regulatory effects of IL-1 hyperactivity on immunological 
+changes associated with arthritis development. Phase-specific gene expression 
+changes were identified, such as early increase and late decrease of heat shock 
+protein coding genes. Moreover, common gene expression changes were also 
+observed, especially the upregulation of paired Ig-like receptor A (Pira) in 
+both early and late phases of arthritis. Real-time PCR was performed to validate 
+the expression of Pira and an intervention experiment with a major 
+histocompatibility complex (MHC) class I inhibitor (brefeldin A) was carried out 
+to investigate the role of suppressing Pira activity. We conclude that global 
+pattern changes of common and distinct gene expressions may represent novel 
+opportunities for better control of RA through early diagnosis and development 
+of alternative therapeutic strategies.

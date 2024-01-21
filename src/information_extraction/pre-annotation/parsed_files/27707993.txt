@@ -1,0 +1,32 @@
+BACKGROUND: Oral vancomycin remains the mainstay of therapy for severe 
+infections produced by Clostridium difficile, the most prevalent cause of 
+healthcare-associated infectious diarrhoea in developed countries. However, its 
+short- and long-term effects on the human intestinal microbiota remain largely 
+unknown.
+METHODS: We utilized high-throughput sequencing to analyse the effects of 
+vancomycin on the faecal human microbiota up to 22 weeks post-antibiotic 
+cessation. The clinical relevance of the observed microbiota perturbations was 
+studied in mice.
+RESULTS: During vancomycin therapy, most intestinal microbiota genera and 
+operational taxonomic units (OTUs) were depleted in all analysed subjects, 
+including all baseline OTUs from the phylum Bacteroidetes. This was accompanied 
+by a vast expansion of genera associated with infections, including Klebsiella 
+and Escherichia/Shigella. Following antibiotic cessation, marked differences in 
+microbiota resilience were observed among subjects. While some individuals 
+recovered a microbiota close to baseline composition, in others, up to 89% of 
+abundant OTUs could no longer be detected. The clinical relevance of the 
+observed microbiota changes was further demonstrated in mice, which developed 
+analogous microbiota alterations. During vancomycin treatment, mice were highly 
+susceptible to intestinal colonization by an antibiotic-resistant pathogen and, 
+upon antibiotic cessation, a less-resilient microbiota allowed higher levels of 
+pathogen colonization.
+CONCLUSIONS: Oral vancomycin induces drastic and consistent changes in the human 
+intestinal microbiota. Upon vancomycin cessation, the microbiota recovery rate 
+varied considerably among subjects, which could influence, as validated in mice, 
+the level of susceptibility to pathogen intestinal colonization. Our results 
+demonstrate the negative long-term effects of vancomycin, which should be 
+considered as a fundamental aspect of the cost-benefit equation for antibiotic 
+prescription.
+
+© The Author 2016. Published by Oxford University Press on behalf of the British 
+Society for Antimicrobial Chemotherapy.

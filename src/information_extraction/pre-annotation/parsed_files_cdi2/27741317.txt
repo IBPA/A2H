@@ -1,0 +1,23 @@
+Clostridium difficile is a diarrheagenic pathogen associated with significant 
+mortality and morbidity. While its glucosylating toxins are primary virulence 
+determinants, there is increasing appreciation of important roles for non-toxin 
+factors in C. difficile pathogenesis. Cell wall glycopolymers (CWGs) influence 
+the virulence of various pathogens. Five C. difficile CWGs, including PSII, have 
+been structurally characterized, but their biosynthesis and significance in C. 
+difficile infection is unknown. We explored the contribution of a conserved CWG 
+locus to C. difficile cell-surface integrity and virulence. Attempts at 
+disrupting multiple genes in the locus, including one encoding a predicted CWG 
+exporter mviN, were unsuccessful, suggesting essentiality of the respective gene 
+products. However, antisense RNA-mediated mviN downregulation resulted in slight 
+morphology defects, retarded growth, and decreased surface PSII deposition. Two 
+other genes, lcpA and lcpB, with putative roles in CWG anchoring, could be 
+disrupted by insertional inactivation. lcpA- and lcpB- mutants had distinct 
+phenotypes, implying non-redundant roles for the respective proteins. The lcpB- 
+mutant was defective in surface PSII deposition and shedding, and exhibited a 
+remodeled cell surface characterized by elongated and helical morphology, 
+aberrantly-localized cell septae, and an altered surface-anchored protein 
+profile. Both lcpA- and lcpB- strains also displayed heightened virulence in a 
+hamster model of C. difficile disease. We propose that gene products of the C. 
+difficile CWG locus are essential, that they direct the production/assembly of 
+key antigenic surface polysaccharides, and thereby have complex roles in 
+virulence.

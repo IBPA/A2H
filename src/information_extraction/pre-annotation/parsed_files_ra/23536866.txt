@@ -1,0 +1,29 @@
+Norisoboldine (NOR) is the main alkaloid constituent in the dry root of Lindera 
+aggregata (Sims) Kosterm. (L. strychnifolia Vill.). As reported previously, 
+orally administered NOR displayed a robust inhibition of joint bone destruction 
+present in both mouse collagen-induced arthritis and rat adjuvant-induced 
+arthritis with lower efficacious doses than that required for ameliorating 
+systemic inflammation. This attracted us to assess the effects of NOR on 
+differentiation and function of osteoclasts, primary effector cells for 
+inflammatory bone destruction, to get insight into its anti-rheumatoid arthritis 
+mechanisms. Both RAW264.7 cells and mouse bone marrow-derived macrophages (BMMs) 
+were stimulated with RANKL (100 ng/mL) to establish osteoclast differentiation 
+models. ELISA, RT-PCR, gelatin zymography, western blotting, immunoprecipitation 
+and EMSA were used to reveal related signalling pathways. NOR (10 and 30 µM), 
+without significant cytotoxicity, showed significant reduction of the number of 
+osteoclasts and the resorption pit areas, and it targeted osteoclast 
+differentiation at the early stage. In conjunction with the anti-resorption 
+effect of NOR, mRNA levels of cathepsin K and MMP-9 were decreased, and the 
+activity of MMP-9 was attenuated. Furthermore, our mechanistic studies indicated 
+that NOR obviously suppressed the ubiquitination of TRAF6, the accumulation of 
+TRAF6-TAK1 complexes and the activation of ERK and p38 MAPK, and reduced the 
+nuclear translocation of NF-κB-p65 and DNA-binding activity of NF-κB. However, 
+NOR had little effect on expressions of TRAF6 or the phosphorylation and 
+degradation of IκBα. Moreover, NOR markedly inhibited expressions of 
+transcription factor NFATc1, but not c-Fos. Intriguingly, the subsequent nuclear 
+translocations of c-Fos and NFATc1 were substantially down-regulated. Hence, we 
+demonstrated for the first time that preventing the differentiation and function 
+of osteoclasts at the early stage was an important anti-bone destruction 
+mechanism of NOR, which might be attributed to inhibition of ubiquitination of 
+TRAF6, the accumulation of TRAF6-TAK1 complexes and the activation of 
+MAPKs/NF-κB/c-Fos/NFATc1 pathways.

@@ -1,0 +1,13 @@
+AIM: We endeavored to create a folate-targeted liposome (Fol-liposome) that 
+could selectively target areas of inflammation.
+MATERIALS & METHODS: Fol-liposomes were prepared with encapsulated DiD 
+fluorophore or betamethasone (BM) to image and treat an adjuvant-induced rat 
+model of rheumatoid arthritis.
+RESULTS: Fol-liposomes selectively accumulated in arthritic rat paws to a 
+greater extent than nontargeted liposomes. When these Fol-liposomes were used to 
+encapsulate BM and administered to arthritic rats, animals exhibited less paw 
+swelling, lower arthritis scores, a reduction in bone erosion, less splenomegaly 
+and better maintenance of body weight when compared with nontreated or 
+nontargeted BM-containing liposome groups.
+CONCLUSION: Fol-liposomes can selectively deliver imaging and therapeutic agents 
+to sites of inflammation in a rat model of rheumatoid arthritis.

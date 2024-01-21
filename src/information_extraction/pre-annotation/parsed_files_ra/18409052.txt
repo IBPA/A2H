@@ -1,0 +1,17 @@
+Auranofin (AF), an orally administered, gold-based, anti-arthritic agent, has 
+emerged as a clinically useful therapeutic drug for the treatment of rheumatoid 
+arthritis. In the present study, we examined the effects of AF on major 
+histocompatibility complex (MHC)-restricted antigen presentation in dendritic 
+cells (DCs), which are the most important accessory cells for the induction of T 
+cell responses. A mouse dendritic cell line, DC2.4 cells, and DCs that were 
+generated from mouse bone marrow cells by culturing with granulocyte 
+macrophage-colony stimulating factor (GM-CSF) and interleukin (IL)-4 were each 
+pretreated with AF for 2 hr, and then incubated with ovalbumin (OVA). After the 
+2-hr incubation, the DCs were fixed, and the amounts of OVA peptide-H-2Kb 
+complexes were assessed using OVa-specific CD8+ T cells. AF inhibited MHC class 
+I-restricted presentation of exogenous OVA. This inhibitory activity of AF 
+appeared to be due not only to the inhibition of the phagocytic activity of DCs, 
+but also to the suppression of MHC molecule expression on DCs. AF also inhibited 
+MHC class II-restricted presentation of exogenous OVA. These results show that 
+AF exerts immunosuppressive activity at least in part by inhibiting 
+MHC-restricted antigen presentation in professional antigen-presenting cells.

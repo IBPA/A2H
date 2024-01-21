@@ -1,0 +1,20 @@
+Interleukin-11 (IL-11) is a stromal cell-derived cytokine with several 
+biological activities against hematopoietic cells. Recent results indicated that 
+IL-11 reduced mucosal damage in animal models of colitis. This study aimed to 
+explore the action of recombinant human IL-11 (rhIL-11) on the intestinal 
+effects of Clostridium difficile toxin A, an inflammatory enterotoxin, and 
+cholera toxin, a noninflammatory enterotoxin in rat ileum. We administered 
+rhIL-11 subcutaneously to rats before injection of toxin A into ileal loops and 
+measured fluid secretion, epithelial permeability to mannitol, histopathological 
+damage, and release of rat mast cell protease II (RMCP II) from intestinal mast 
+cells and of tumor necrosis factor-alpha (TNF-alpha) and macrophage inflammatory 
+protein-2 (MIP-2) from lamina propria macrophages. rhIL-11 (50-1,000 
+micrograms/kg) inhibited toxin A but not cholera toxin-mediated secretion and 
+permeability in a dose-dependent fashion and reduced toxin A-induced epithelial 
+cell damage. Rats treated with rhIL-11 also showed reduced RMCP II, TNF-alpha, 
+and MIP-2 release in response to toxin A. Exposure of rat peripheral monocytes 
+in vitro to rhIL-11 (1 microgram/ml) inhibited lipopolysaccharide and toxin 
+A-mediated increases in TNF-alpha mRNA and protein levels. We conclude that 
+rhIL-11 blocks the intestinal effects of C. difficile toxin A, possibly by 
+inhibiting release of inflammatory mediators from mucosal mast cells and 
+intestinal macrophages.

@@ -1,0 +1,23 @@
+BACKGROUND: A zoonotic association has been suggested for several PCR ribotypes 
+(RTs) of Clostridioides difficile. In central parts of Sweden, RT046 was found 
+dominant in neonatal pigs at the same time as a RT046 hospital C. difficile 
+infection (CDI) outbreak occurred in the southern parts of the country.
+OBJECTIVE: To detect possible transmission of RT046 between pig farms and human 
+CDI cases in Sweden and investigate the diversity of RT046 in the pig population 
+using whole genome sequencing (WGS).
+METHODS: WGS was performed on 47 C. difficile isolates from pigs (n = 22), the 
+farm environment (n = 7) and human cases of CDI (n = 18). Two different core 
+genome multilocus sequencing typing (cgMLST) schemes were used together with a 
+single nucleotide polymorphisms (SNP) analysis and the results were related to 
+time and location of isolation of the isolates.
+RESULTS: The pig isolates were closely related (≤6 cgMLST alleles differing in 
+both cgMLST schemes) and conserved over time and were clearly separated from 
+isolates from the human hospital outbreak (≥76 and ≥90 cgMLST alleles differing 
+in the two cgMLST schemes). However, two human isolates were closely related to 
+the pig isolates, suggesting possible transmission. The SNP analysis was not 
+more discriminate than cgMLST.
+CONCLUSION: No general pattern suggesting zoonotic transmission was apparent 
+between pigs and humans, although contrasting results from two isolates still 
+make transmission possible. Our results support the need for high resolution WGS 
+typing when investigating hospital and environmental transmission of C. 
+difficile.

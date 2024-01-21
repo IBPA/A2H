@@ -1,0 +1,14 @@
+Rheumatoid arthritis (RA) is known to be associated with increased risks of 
+hypoxia-related diseases, whose progresses are critically determined by 
+HIF-1alpha. The authors hypothesized that the hypoxia-related complications of 
+RA are associated with HIF-1alpha deregulation by some factor(s) in RA serum. 
+Arthritis was induced in female Lewis rats by injecting complete Freund's 
+adjuvant. The effects of arthritic rat serum (ARS) on hypoxic responses were 
+investigated by incubating Hep3B cells in ARS. In the presence of ARS, 
+HIF-1alpha was down-regulated and inactivated under hypoxic conditions. ARS 
+inactivated AKT and mTOR, which led to impaired HIF-1alpha protein synthesis. 
+Furthermore, insulin was found to be deficient in ARS and insulin 
+supplementation fully recovered HIF-1alpha synthesis with AKT and mTOR 
+activation. These results suggest that HIF-1alpha deregulation by components in 
+serum is responsible for the RA-associated aggravation of hypoxic diseases in 
+extra-articular tissues.

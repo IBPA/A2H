@@ -1,0 +1,24 @@
+OBJECTIVE: The goal of rheumatoid arthritis (RA) treatment is to achieve 
+clinical remission in order to limit structural damage and physical disability. 
+To this end, recent emphasis has been placed on aggressive treatment early in 
+the course of disease with drugs such as anti-tumor necrosis factor (anti-TNF) 
+agents. As T cells are also thought to play an important role in the initiation 
+of RA, we hypothesized that targeting both TNF and T cells would result in 
+better outcomes. The aim of this study was to examine the efficacy of combined 
+therapy with anti-CD3 and anti-TNF in experimental RA.
+METHODS: Two anti-mouse antibodies were developed as surrogate reagents for 
+anti-TNF and anti-CD3 therapies. Collagen-induced arthritis (CIA) was induced in 
+DBA/1 mice, and antibodies were injected intraperitoneally, either alone on in 
+combination, at predetermined subtherapeutic doses. The frequency and number of 
+pathogenic and regulatory CD4+ T cell subsets in the draining lymph nodes were 
+determined in order to investigate the mechanisms of action.
+RESULTS: Strikingly, the combination of the two antibodies demonstrated a potent 
+synergy in established CIA, with long-term inhibition of disease progression and 
+protection from joint destruction. The results did not demonstrate any 
+enhancement of CD25+FoxP3+ regulatory T cells, but a profound depletion of 
+pathogenic T cells from the draining lymph nodes was associated with reduced 
+numbers of T cells in the joints.
+CONCLUSION: A short course of combination therapy with anti-CD3 and anti-TNF 
+efficiently depletes pathogenic T cells from the draining lymph nodes, reducing 
+the numbers of T cells in the joints and affording long-lasting inhibition of 
+established CIA.

@@ -1,0 +1,18 @@
+Clostridium difficile, a highly drug-resistant Gram-positive, spore-forming 
+bacterium, remains a leading cause of hospital-acquired diarrhoea and 
+antibiotic-associated colitis. Clinically, only a handful of antibiotics are 
+used for treating C. difficile infection (CDI), suggesting a necessity for the 
+development of new treatment options. Here we performed a high-throughput screen 
+of 2000 drug-like compounds for inhibition of C. difficile. From this screen, 
+one compound, 5-nitro-1,10-phenanthroline (5-NP), showed potent bactericidal 
+effects in vitro. In addition, this compound displayed high potency towards 
+other Clostridium spp. as well as Mycobacterium bovis but not towards other 
+tested Gram-positive and Gram-negative bacteria. Furthermore, we show that this 
+inhibition may proceed through a metal chelation-dependent mechanism. More 
+importantly, preliminary evidence suggests moderate efficacy for this compound 
+in treating CDI in a murine infection model. These results present a possible 
+basis for the further development of this compound as an antibiotic treatment 
+for CDI.
+
+Copyright © 2014 Elsevier B.V. and the International Society of Chemotherapy. 
+All rights reserved.

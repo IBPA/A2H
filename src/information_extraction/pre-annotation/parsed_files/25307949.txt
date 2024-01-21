@@ -1,0 +1,15 @@
+Pyrin, encoded by MEFV gene, is conserved in humans and mice. Mutations in the 
+MEFV gene are associated with the human autoinflammatory disease familial 
+Mediterranean fever (FMF). Pyrin can interact with the inflammasome adaptor ASC 
+and induce inflammatory caspase-1 activation in monocytic cells, but the 
+physiological function of Pyrin has been unknown for many years. Here we 
+summarize previous studies of Pyrin function under the context of FMF and 
+immunity, and discuss a recent study demonstrating that Pyrin forms an 
+inflammasome complex for caspase-1 activation in innate immunity. Pyrin 
+inflammasome detects inactivating modifications of host Rho GTPases by diverse 
+bacterial toxins and infections, including Clostridium difficile glucosylating 
+cytotoxin TcdB, FIC-domain adenylyltransferase effectors from Vibrio 
+parahaemolyticus and Histophilus somni, ADP-ribosylating Clostridium botulinum 
+C3 toxin as well as Burkholderia cenocepacia infection. The mode of Pyrin 
+action, i.e., sensing pathogen virulence activity rather than directly 
+recognizing a microbial molecule, represents a new paradigm in innate immunity.

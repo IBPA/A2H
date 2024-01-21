@@ -1,0 +1,15 @@
+The involvement of host immunity in the gut microbiota-mediated colonization 
+resistance to Clostridioides difficile infection (CDI) is incompletely 
+understood. Here, we show that interleukin (IL)-22, induced by colonization of 
+the gut microbiota, is crucial for the prevention of CDI in human 
+microbiota-associated (HMA) mice. IL-22 signaling in HMA mice regulated host 
+glycosylation, which enabled the growth of succinate-consuming bacteria 
+Phascolarctobacterium spp. within the gut microbiome. Phascolarctobacterium 
+reduced the availability of luminal succinate, a crucial metabolite for the 
+growth of C. difficile, and therefore prevented the growth of C. difficile. 
+IL-22-mediated host N-glycosylation is likely impaired in patients with 
+ulcerative colitis (UC) and renders UC-HMA mice more susceptible to CDI. 
+Transplantation of healthy human-derived microbiota or Phascolarctobacterium 
+reduced luminal succinate levels and restored colonization resistance in UC-HMA 
+mice. IL-22-mediated host glycosylation thus fosters the growth of commensal 
+bacteria that compete with C. difficile for the nutritional niche.

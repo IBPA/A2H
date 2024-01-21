@@ -1,0 +1,21 @@
+PURPOSE: To investigate the efficacy and safety of N-(2-hydroxypropyl) 
+methacrylamide (HPMA) copolymer-dexamethasone conjugate (P-Dex) in the 
+collagen-induced arthritis (CIA) mouse model.
+METHODS: HPMA copolymer labeled with a near infrared fluorescence (NIRF) dye was 
+administered to mice with CIA to validate its passive targeting to inflamed 
+joints and utility as a drug carrier system. The CIA mice were treated with 
+P-Dex, dexamethasone (Dex) or saline and the therapeutic efficacy and skeletal 
+toxicity evaluated using clinical scoring and micro-computed tomography (μ-CT).
+RESULTS: The NIRF signal of the HPMA copolymer localized to arthritic joints 
+consistent with its passive targeting to sites of inflammation. While the CIA 
+mice responded more rapidly to P-Dex compared to Dex, the final clinical score 
+and endpoint μ-CT analyses of localized bone erosions indicated that both single 
+dose P-Dex and dose equivalent daily Dex led to comparable clinical efficacy 
+after 30 days. μ-CT analysis of the proximal tibial metaphyses showed that P-Dex 
+treatment was associated with significantly higher BMD and BV/TV compared to Dex 
+and the saline control, consistent with reduced glucocorticoid (GC) skeletal 
+toxicity.
+CONCLUSION: These results validate the therapeutic efficacy of P-Dex in the CIA 
+mouse model. P-Dex treatment averted the adverse effects of GC's on systemic 
+bone loss, supporting its utility in clinical development for the management of 
+rheumatoid arthritis.

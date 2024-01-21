@@ -1,0 +1,27 @@
+Monocyte-to-macrophage differentiation plays a central role in the 
+pathophysiology of rheumatoid arthritis (RA)-associated inflammation because it 
+results in the secretions of various inflammatory mediators in inflamed 
+synovium, and thus, this differentiation is viewed as a clinical target. We 
+aimed to determine whether SIRT1 inhibits the differentiation of monocytes from 
+RA patients into macrophages by suppressing PU.1 phosphorylation. Monocytes from 
+synovial fluid of RA patients (RAMCs), THP-1 monocytes, and mouse bone 
+marrow-derived monocytes (BMDCs) were studied. The phorbol 12-myristate 
+13-acetate (PMA)-stimulated RA monocyte adherence was significantly inhibited by 
+resveratrol (a SIRT1 activator), and this inhibition by resveratrol was 
+prevented by pretreating cells with sirtinol (a SIRT1 inhibitor). Furthermore, 
+resveratrol pretreatment inhibited PMA-induced expressions of macrophage surface 
+markers (CD11b, CD14, and CD36) and PMA-induced NF-κB transcriptional activation 
+and, thus, suppressed the secretions of proinflammatory cytokines (TNF-α, IL-1β, 
+and IL-6). In SIRT1 transgenic (Tg) mice, monocyte differentiation was inhibited 
+and NF-κB transcriptional activity was suppressed and the expressions of TNF-α, 
+IL-1β, and IL-6 were decreased at the protein and mRNA levels versus control 
+C57BL/6 mice. Furthermore, SIRT1 activation by resveratrol suppressed 
+PMA-induced phosphorylation and the nuclear translocation of PU.1 and, thus, 
+inhibited monocyte differentiation. In conclusion, SIRT1 appears to inhibit 
+monocyte to macrophage differentiation by suppressing PU.1 phosphorylation and 
+inflammatory signaling, which suggests SIRT1 plays a critical role in the 
+regulation of synovial inflammation in RA.
+KEY MESSAGE: SIRT1 overexpression inhibits monocyte to macrophage 
+differentiation. SIRT1 suppresses PU.1 phosphorylation. Inactivation of PU.1 
+phosphorylation inhibits monocyte differentiation. SIRT1 regulates inflammation 
+by inhibiting NF-κB during monocyte differentiation.

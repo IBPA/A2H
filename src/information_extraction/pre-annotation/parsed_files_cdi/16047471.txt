@@ -1,0 +1,17 @@
+The aim of this study was to investigate the effect of Clostridium difficile 
+toxin A (TxA) on intestinal epithelial cell migration, apoptosis, and 
+transepithelial resistance and to evaluate the effect of glutamine (Gln) and its 
+stable derivative, alanyl-glutamine (Ala-Gln), on TxA-induced damage. Migration 
+was measured in rat intestinal epithelial cells (IEC-6) 6 and 24 hr after a 
+razor scrape of the cell monolayer. Cell proliferation was indirectly measured 
+utilizing the tetrazolium salt WST-1. The cells were incubated with TxA (1-100 
+ng/ml) in medium without Gln or medium containing Gln or Ala-Gln (1-30 mM). 
+Apoptosis was quantified in IEC-6 cells using annexin V assay. Transepithelial 
+resistance was measured using an epithelial voltohmmeter across T84 cells seeded 
+on a transwell filter. TxA-induced a dose-dependent reduction of migration and 
+also caused dose and time-dependent apoptosis in IEC-6 cells. Gln and Aln-Gln 
+significantly enhanced IEC-6 cell migration and proliferation. Gln and Ala-Gln 
+also prevented the inhibition of migration, apoptosis, and the initial drop in 
+transepithelial resistance induced by TxA. In conclusion, both peptides reduced 
+toxin-induced epithelial damage and thus might play an adjunctive role in C. 
+difficile-induced colitis therapy.

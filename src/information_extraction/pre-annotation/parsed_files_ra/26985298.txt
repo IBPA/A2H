@@ -1,0 +1,12 @@
+Bruton's tyrosine kinase (BTK) is a Tec family kinase with a well-defined role 
+in the B cell receptor (BCR) pathway. It has become an attractive kinase target 
+for selective B cell inhibition and for the treatment of B cell related 
+diseases. We report a series of compounds based on 
+8-amino-imidazo[1,5-a]pyrazine that are potent reversible BTK inhibitors with 
+excellent kinase selectivity. Selectivity is achieved through specific 
+interactions of the ligand with the kinase hinge and driven by aminopyridine 
+hydrogen bondings with Ser538 and Asp539, and by hydrophobic interaction of 
+trifluoropyridine in the back pocket. These interactions are evident in the 
+X-ray crystal structure of the lead compounds 1 and 3 in the complex with the 
+BTK enzyme. Our lead compounds show desirable PK profiles and efficacy in the 
+preclinical rat collagen induced arthritis model.

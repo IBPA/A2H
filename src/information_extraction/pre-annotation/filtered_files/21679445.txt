@@ -1,0 +1,23 @@
+INTRODUCTION: Hypoxia is a feature of the inflamed synovium in rheumatoid 
+arthritis (RA). Intra-articular injection of hyaluronan (HA) may be considered a 
+potential way to treat RA. However, the exact molecular mechanism of HA on 
+decreased cellular responses to hypoxic environment is unclear. The present 
+study has been designed to use the adjuvant-induced arthritis model to examine 
+the effects of HA on the changes of immunohistochemical expressions of 
+hypoxia-inducible factor-1alpha (HIF-1alpha), inducible nitric oxide synthase 
+(iNOS), and matrix metalloproteinase-3 (MMP3) in the synovial tissues at the 
+early phase of arthritic inflammation.
+METHODS: Monoarthritis was induced in adult male Sprague-Dawley (250-300 g) via 
+intraarticular injection of complete Freund's adjuvant (CFA) into the 
+tibiotarsal joint. The CFA-induction arthritis animals were divided into three 
+groups: treatment (intraarticular injection of HA), placebo (intraarticular 
+injection of saline) and controls (no treatments). Functional evaluations of 
+edema and pain behavior, histology, and HIF-1alpha, iNOS, and MMP3 
+immunohistochemistry were performed before, after the first injection, three 
+injections, and on the follow-up injection of the treatments.
+RESULTS: Intra-articular injection of HA also significantly suppressed the 
+mechanical allodynia (p < 0.001) and overexpressions of HIF-1alpha (p < 0.001), 
+iNOS (p = 0.004) and MMP3 (p < 0.001) immunoreactivity in synovium.
+CONCLUSIONS: This study demonstrated that early intervention of HA is an 
+effective protection against accumulation of inflammation-induced HIF-1alpha, 
+iNOS, and MMP3 to limit erosive damage in CFA-induced model of arthritis.

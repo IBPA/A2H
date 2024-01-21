@@ -1,0 +1,33 @@
+OBJECTIVE: Various extracts of the Chinese herbal remedy Tripterygium wilfordii 
+Hook. f. (TWHF) have been reported to be therapeutically efficacious in 
+rheumatoid arthritis (RA) in China, but their mechanism of action remains 
+unclear. We investigated the effect of triptolide, a diterpenoid triepoxide from 
+TWHF, on the production of pro-matrix metalloproteinase 1 (proMMP-1; or 
+procollagenase 1 or pro-interstitial collagenase 1), proMMP-3 (or prostromelysin 
+1), tissue inhibitors of metalloproteinases (TIMPs), and proinflammatory 
+cytokines in human synovial fibroblasts and J774A.1 mouse macrophages.
+METHODS: Human synovial fibroblasts and mouse macrophages were cultured with 
+interleukin-1alpha (IL-1alpha) or lipopolysaccharide (LPS) in the presence or 
+absence of triptolide. The production of proMMPs 1 and 3, TIMPs 1 and 2, 
+cyclooxygenase 1 (COX-1) and COX-2, prostaglandin E2 (PGE2), IL-1beta, and IL-6 
+was assayed by Western blot analysis and enzyme-linked immunosorbent assay. Gene 
+expression of proMMPs 1 and 3, TIMPs 1 and 2, COX-1 and COX-2, IL-1alpha, 
+IL-1beta, tumor necrosis factor alpha (TNFalpha), and IL-6 was also monitored by 
+Northern blot analysis and reverse transcriptase-polymerase chain reaction.
+RESULTS: Triptolide suppressed the IL-1alpha-induced production of proMMPs 1 and 
+3 and decreased their messenger RNA levels in human synovial fibroblasts. In 
+contrast, the IL-1alpha-induced gene expression and production of TIMPs 1 and 2 
+were further augmented by triptolide in the synovial cells. Triptolide also 
+inhibited the IL-1alpha-induced production of PGE2 by selectively suppressing 
+the gene expression and production of COX-2, but not those of COX-1. In 
+addition, triptolide suppressed the LPS-induced production of PGE2 in mouse 
+macrophages. Furthermore, the gene expression of IL-1alpha, IL-1beta, TNFalpha, 
+and IL-6, as well as the production of IL-1beta and IL-6, were inhibited by 
+triptolide in the LPS-treated mouse macrophages.
+CONCLUSION: We have demonstrated for the first time that the therapeutic effects 
+of TWHF in RA are due in part to the novel chondroprotective effect of 
+triptolide via the direct suppression of the production of proMMPs 1 and 3 and 
+the simultaneous up-regulation of TIMPs in IL-1-treated synovial fibroblasts. 
+Triptolide's interference with gene expression of proinflammatory cytokines and 
+its known inhibitory effects on PGE2 production are also probably very 
+effective.

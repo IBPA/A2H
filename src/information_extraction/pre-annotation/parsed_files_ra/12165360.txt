@@ -1,0 +1,29 @@
+Elevated levels of chemokines, such as Regulated upon Activation, Normal T cell 
+Expressed and Secreted (RANTES), Monocyte Chemotactic Protein-1 (MCP-1), 
+Macrophage Inflammatory Protein-1alpha (MIP-1alpha), and Macrophage Inflammatory 
+Protein-1beta (MIP-1beta) have been found in rheumatoid arthritis (RA) and 
+juvenile arthritis (JA), and they may be associated with the pathogenesis of 
+these diseases. These chemokines are implicated in the migration of specific 
+leukocytes into the joints. Omega-3 (omega3) fatty acid rich-fish oil (FO) and 
+vitamin E may delay the progress of certain autoimmune diseases. The present 
+study was designed to understand the effects of dietary lipids (omega-6 and 
+omega-3 fatty acids) and vitamin E on the production of chemokines in 
+autoimmune-prone MRL/lpr (a mouse model for RA) and congenic control MRL/++ 
+mice. The MRL mice were fed for 4.5 months omega-6 and omega-3 diets that varied 
+in lipid sources (corn oil; CO and fish oil; FO) and vitamin E levels (269 
+I.U./kg and 694 I.U./kg diet). Spleen cells were isolated and cultured 
+aseptically in the presence of PHA for 48 h at 37 degrees C and the levels of 
+chemokines (RANTES, JE/MCP-1 and MIP-1alpha) were determined in the cell-free 
+supernatants. The levels of RANTES and JE/MCP-1 were significantly higher in 
+MRL/lpr mice compared to MRL/++ mice. The FO had differential effect on RANTES 
+and MCP-1 production by spleen cells. The production of RANTES and JE/MCP-1 by 
+spleen cells in mice fed the FO diets was significantly lower than in mice fed 
+the CO diets (p < 0.0001). The levels of vitamin E did not affect the production 
+of RANTES and JE/MCP-1. The levels of vitamin E had a significant effect on 
+MIP-1alpha as the spleen cells of mice fed diets containing 694 IU/kg diet of 
+vitamin E produced significantly higher levels of MIP-1alpha compared to the 
+group of mice fed the diets containing 269 IU of vitamin E (p < 0.0001). The 
+data obtained from this study in MRL/lpr and MRL/++ mice suggest that FO diets 
+containing omega-3 fatty acids are beneficial in decreasing the levels of 
+certain pro-inflammatory chemokines (RANTES and MCP-1) thereby delaying the 
+onset of and severity of autoimmune symptoms in MRL/lpr mouse model.

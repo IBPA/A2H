@@ -1,0 +1,17 @@
+CXCL2 has been known to regulate immune functions mainly by chemo-attracting 
+neutrophils. In this study, we show that CXCL2 can be induced by receptor 
+activator of NF-kappaB ligand, the osteoclast (OC) differentiation factor, 
+through JNK and NF-kappaB signaling pathways in OC precursor cells. CXCL2 in 
+turn enhanced the proliferation of OC precursor cells of bone marrow-derived 
+macrophages (BMMs) through the activation of ERK. Knockdown of CXCL2 inhibited 
+both the proliferation of and the ERK activation in BMMs. During 
+osteoclastogenesis CXCL2 stimulated the adhesion and the migration of BMMs. 
+Moreover, the formation of OCs from BMMs was significantly increased on 
+treatment with CXCL2. Conversely, the CXCL2 antagonist repertaxin and a CXCL2 
+neutralizing Ab potently reduced receptor activator of NF-kappaB ligand-induced 
+osteoclastogenesis. Furthermore, CXCL2 evoked fulminant bone erosion in the in 
+vivo mouse experiments. Finally, prominent upregulation of CXCL2 was detected in 
+synovial fluids and sera from rheumatoid arthritis patients, suggesting a 
+potential involvement of CXCL2-mediated osteoclastogenesis in rheumatoid 
+arthritis-associated bone destruction. Thus, CXCL2 is a novel therapeutic target 
+for inflammatory bone destructive diseases.

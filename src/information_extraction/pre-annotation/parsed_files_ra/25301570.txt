@@ -1,0 +1,22 @@
+Several studies have shown that blockade of colony stimulating factor-1 (CSF-1) 
+or its receptor (CSF-1R) inhibits disease progression in rodent models of 
+rheumatoid arthritis (RA); however, the role of the CSF-1/CSF-1R pathway in 
+RA-induced pain and functional deficits has not been studied. Thus, we examined 
+the effect of chronic intra-articular administration of a monoclonal anti-CSF-1R 
+antibody (AFS98) on spontaneous pain, knee edema and functional disabilities in 
+mice with arthritis. Unilateral arthritis was produced by multiple injections of 
+complete Freund's adjuvant (CFA) into the right knee joint of adult male ICR 
+mice. CFA-injected mice were then treated twice weekly from day 10 until day 25 
+with anti-CSF-1R antibody (3 and 10 μg/5 μL per joint), isotype control (rat IgG 
+10 μg/5 μL per joint) or PBS (5 μl/joint). Knee edema, spontaneous flinching, 
+vertical rearing and horizontal exploratory activity were assessed at different 
+days. Additionally, counts of peripheral leukocytes and body weight were 
+measured to evaluate general health status. Intra-articular treatment with 
+anti-CSF-1R antibody significantly increased horizontal exploratory activity and 
+vertical rearing as well as reduced spontaneous flinching behavior and knee 
+edema as compared to CFA-induced arthritis mice treated with PBS. Treatment with 
+this antibody neither significantly affect mouse body weight nor the number of 
+peripheral leukocytes. These results suggest that blockade of CSF-1R at the 
+initial injury site (joint) could represent a therapeutic alternative for 
+improving the functional disabilities and attenuating pain and inflammation in 
+patients with RA.

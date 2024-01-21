@@ -1,0 +1,20 @@
+In this study the participation of Rho family GTPases in the regulation of 
+IL-1-activated protein kinase cascades controlling IL-2 synthesis was 
+investigated in murine EL-4 thymoma cells. The recombinant C3-like chimeric 
+toxin, which consists of the C3 toxin of Clostridium limosum and the N-terminal 
+part of Clostridium botulinum C2 toxin (C2IN-C3) interacting with the C2II 
+binding subunit to facilitate uptake into cells, and selectively inactivates Rho 
+A by ADP-ribosylation, prevented IL-1-stimulated activation of 
+Jun-NH2-terminal-kinases (JNK) and p38 mitogen-activated-protein kinases (MAPK). 
+UDP-monoglucosylation and concomitant inactivation of Rho A and of Rac-2 by 
+Clostridium difficile toxin B also inhibited IL-1-induced activation of JNK and 
+p38 MAPK, but additionally inhibited activation of the 
+extracellular-regulated-kinase pathway and DNA binding of the transcription 
+factor NFkappaB. Accordingly, pre-treatment of cells with C21N-C3 fusion toxin 
+only decreased IL-1-stimulated IL-2 synthesis by 50%, while in C. difficile 
+toxin B-treated cells IL-1-induced IL-2 secretion was reduced by 90%. These 
+results imply that together with Rho A an additional member of the Rho family G 
+proteins, i.e. Rac-2, is critically involved as an upstream regulator in 
+IL-1-induced activation of different MAPK, stress-activated protein kinases, and 
+in NFkappaB activation controlling IL-2 gene expression in response to IL-1, 
+acting in close proximity to the IL-1-receptor complex.

@@ -1,0 +1,17 @@
+Familial Mediterranean fever (FMF) is the most common monogenic autoinflammatory 
+disease worldwide. It is caused by mutations in the inflammasome adaptor Pyrin, 
+but how FMF mutations alter signaling in FMF patients is unknown. Herein, we 
+establish Clostridium difficile and its enterotoxin A (TcdA) as Pyrin-activating 
+agents and show that wild-type and FMF Pyrin are differentially controlled by 
+microtubules. Diverse microtubule assembly inhibitors prevented Pyrin-mediated 
+caspase-1 activation and secretion of IL-1β and IL-18 from mouse macrophages and 
+human peripheral blood mononuclear cells (PBMCs). Remarkably, Pyrin inflammasome 
+activation persisted upon microtubule disassembly in PBMCs of FMF patients but 
+not in cells of patients afflicted with other autoinflammatory diseases. We 
+further demonstrate that microtubules control Pyrin activation downstream of 
+Pyrin dephosphorylation and that FMF mutations enable microtubule-independent 
+assembly of apoptosis-associated speck-like protein containing a caspase 
+recruitment domain (ASC) micrometer-sized perinuclear structures (specks). The 
+discovery that Pyrin mutations remove the obligatory requirement for 
+microtubules in inflammasome activation provides a conceptual framework for 
+understanding FMF and enables immunological screening of FMF mutations.

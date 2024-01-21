@@ -1,0 +1,23 @@
+Chloroquine is commonly used in the chemotherapy of malaria fever, and as an 
+antiinflammatory disease-modifying agent in patients with rheumatoid arthritis 
+or systemic lupus erythematosus. Administration of chloroquine (20.0 mg/kg IP) 
+significantly (p < 0.05) increased the frequency of body scratching in rats to 
+29.5+/-9 in 30 min, compared to saline control animals (6.5+/-2/30 min). 
+Morphine, a mu-opiate receptor agonist (1.0 mg/kg IP), potentiated the 
+chloroquine-induced rat body scratching to 40+/-6.6, while the mu-opiate 
+receptor antagonist, naltrexone (0.25 mg/kg, IP, given 15 min prior) blocked the 
+chloroquine induced body scratching to 4.5+/-2 (p < 0.05 ANOVA). In addition, 
+the frequency of chloroquine (20.0 mg/kg IP)-induced body scratching was 
+significantly reduced to 9.1+/-3 in 30 min in rats rendered tolerant to morphine 
+(p < 0.05 ANOVA) compared to the scratching frequency of 40+/-6.6 in 
+morphine-naive rats. These suggests an involvement of mu-opioid receptors and/or 
+endogenous opioid peptides in chloroquine induced body scratching in rats. 
+Promethazine, a histamine-receptor antagonist (1.0 mg/kg IP, given 15 min prior 
+to chloroquine) and the corticosteroid, dexamethasone (1.0 mg/kg, IP, given 15 
+min prior) separately and significantly (p < 0.01) inhibited the 
+chloroquine-induced scratching in rats, in a similar manner to clinical studies 
+in malaria. Collectively, the novel results implicate opioidergic mechanisms, 
+and confirm the efficacy of antihistamine and corticosteroids in chloroquine 
+body scratching in rats. It also strongly suggests that the chloroquine-induced 
+body-scratching behavior in the rat may be a useful experimental model for 
+chloroquine-induced pruritus in humans.

@@ -1,0 +1,22 @@
+OBJECTIVE: To investigate the role of bone marrow cells (BMC) in the induction 
+of antigen induced arthritis (AIA), the expression of 3 major proinflammatory 
+cytokines, interleukin 1beta (IL-1beta), tumor necrosis factor-alpha 
+(TNF-alpha), and IL-6, was examined in the bone marrow (BM) of mice with AIA. We 
+also examined whether AIA could be transferred by bone marrow transplantation 
+(BMT).
+METHODS: Expression of IL-1beta, TNF-alpha, and IL-6 in BMC was assessed by 
+immunohistochemistry throughout the course of AIA. BMT experiments were 
+performed using 2 different mouse genotypes, wild type (IL-6+/+) and IL-6 
+deficient (IL-6-/-) mice, as a donor. The gradation of AIA was evaluated 
+histologically.
+RESULTS: IL-6 was highly expressed in the BM at induction as well as during 
+progression of AIA, while TNF-alpha showed a marginal expression, and no 
+significant expression of IL-1beta was detected throughout the course of AIA. In 
+BMT experiments, all irradiated IL-6+/+ mice developed typical AIA by 
+transplantation of BMC from immunized IL-6+/+ mice, whereas almost no irradiated 
+IL- 6+/+ mice transplanted with BMC from the immunized IL-6-/- mice developed 
+definite arthritis.
+CONCLUSION: These results suggest that BMC play a critical role and IL-6 is a 
+key cytokine for the induction and progression of AIA. There may be clinical 
+benefits in the blockade of IL-6 and BMT in the treatment of rheumatoid 
+arthritis.

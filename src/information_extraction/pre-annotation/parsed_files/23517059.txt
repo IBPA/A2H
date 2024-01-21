@@ -1,0 +1,21 @@
+Clostridium difficile is the leading cause of antibiotic-associated diarrhoea 
+and pseudomembranous colitis. While the role of toxins in pathogenesis has been 
+extensively described, the contribution of surface determinants to intestinal 
+colonization is still poorly understood. We focused our study on a novel member 
+of the MSCRAMM family, named CbpA (Collagen binding protein A), for its adhesive 
+properties towards collagen. We demonstrate that CbpA, which carries an 
+LPXTG-like cell wall anchoring domain, is expressed on the bacterial surface of 
+C. difficile and that the recombinant protein binds at high affinity to 
+collagens I and V (apparent Kd in the order of 10(-9 ) M). These findings were 
+validated by confocal microscopy studies showing the colocalization of the 
+protein with type I and V collagen fibres produced by human fibroblasts and 
+mouse intestinal tissues. However, the collagen binding activity of the 
+wild-type C. difficile 630 strain was indistinguishable to the cbpA knock-out 
+strain. To overcome this apparent clostridial adherence redundancy, we 
+engineered a Lactococcus lactis strain for the heterologous expression of CbpA. 
+When exposed on the surface of L. lactis, CbpA significantly enhances the 
+ability of the bacterium to interact with collagen and to adhere to 
+ECM-producing cells. The binding activity of L. lactis-CbpA strain was prevented 
+by an antiserum raised against CbpA, demonstrating the specificity of the 
+interaction. These results suggest that CbpA is a newsurface-exposed adhesin 
+contributing to the C. difficile interaction with the host.

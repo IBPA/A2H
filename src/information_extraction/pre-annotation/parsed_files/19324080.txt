@@ -1,0 +1,18 @@
+Clostridium difficile causes serious and potentially fatal inflammatory diseases 
+of the colon. Two large protein toxins, TcdA and TcdB, have been clearly 
+implicated in pathogenesis. The goal of this study was to determine whether the 
+glucosyltransferase activity of the toxins is critical for the induction of 
+tumor necrosis factor-alpha (TNF-alpha), an important cytokine mediating both 
+local and systematic inflammatory response. A dose-dependent TNF-alpha secretion 
+was demonstrated in murine macrophage cell line RAW 264.7 after exposure to TcdA 
+or TcdB. TNF-alpha production was blocked by anti-toxin antibodies, indicating 
+that the cytokine-driven response is mediated by the toxins. Both toxins 
+disrupted the cytoskeleton of host cells, while cytoskeleton disruptions using 
+Cytochalasin-D and latrunculin B did not affect TNF-alpha production. The 
+TNF-alpha synthesis was inhibited by reagents that target clathrin-dependent 
+endocytosis or prevent endosomal acidification, suggesting that the endocytosis 
+pathway is necessary for the induction of TNF-alpha. Furthermore, knockout of 
+the enzymatic activity by mutating two key amino acids in the catalytic domain 
+of TcdA abolished its cytokine-inducing activity. Our studies demonstrated a 
+crucial role of the glucosyltransferase activity of C. difficile toxins in the 
+induction of TNF-alpha in macrophages.

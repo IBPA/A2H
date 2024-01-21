@@ -1,0 +1,24 @@
+OBJECTIVES: Previous studies have shown that aquaporin 1 (AQP1) is up-regulated 
+in synovium and cartilage of rheumatoid arthritis (RA) patients and that AQP1 
+may be involved in joint swelling and synovial inflammation. This study was 
+aimed to investigate the potential therapeutic effect of acetazolamide (AZ, an 
+AQP1 inhibitor) on rat adjuvant-induced arthritis (AIA) and explore its related 
+mechanisms.
+MATERIALS AND METHODS: Rat AIA was induced by complete Freund's adjuvant. The 
+effect of AZ on rat AIA was evaluated by secondary hind paw swelling, arthritis 
+index, TNF-α and IL-1β serum levels and histological examination of ankle joint. 
+Proteoglycans expression and mRNA levels of type-II collagen (COII) and aggrecan 
+in cartilage were measured by alcian blue staining and real-time PCR, 
+respectively. The protein levels of AQP1, IκBα, phospho-IκBα (p-IκBα), NF-κB p65 
+and phospho-NF-κB p65 (p-NF-κB p65) in synovial tissues were detected by western 
+blot.
+RESULTS: AZ treatment could inhibit secondary hind paw swelling and arthritis 
+index, reduce serum levels of TNF-α and IL-1β, and ameliorate pathological 
+changes of ankle joint in AIA rats. AZ increased proteoglycans production and 
+mRNA levels of COII and aggrecan in cartilage tissues. Moreover, AZ decreased 
+AQP1 protein level and suppressed the activation of NF-κB pathway in synovium, 
+indicated by inhibiting the degradation and phosphorylation of IκBα and reducing 
+p-NF-κB p65 protein level.
+CONCLUSIONS: AZ as an AQP1 inhibitor has a powerful therapeutic effect on rat 
+AIA via inhibiting NF-κB activation, suggesting AQP1 inhibition might be of 
+potential clinical interest in RA treatment.

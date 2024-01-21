@@ -1,0 +1,18 @@
+Chronic lymphocytic leukemia (CLL) exhibits high remission rates after initial 
+chemoimmunotherapy, but with relapses with treatment, refractory disease is the 
+most common outcome, especially in CLL with the deletion of chromosome 11q or 
+17p. In addressing the need of treatments for relapsed disease, we report the 
+identification of an existing U.S. Food and Drug Administration-approved 
+small-molecule drug to repurpose for CLL treatment. Auranofin (Ridaura) is 
+approved for use in treating rheumatoid arthritis, but it exhibited preclinical 
+efficacy in CLL cells. By inhibiting thioredoxin reductase activity and 
+increasing intracellular reactive oxygen species levels, auranofin induced a 
+lethal endoplasmic reticulum stress response in cultured and primary CLL cells. 
+In addition, auranofin displayed synergistic lethality with heme oxygenase-1 and 
+glutamate-cysteine ligase inhibitors against CLL cells. Auranofin overcame 
+apoptosis resistance mediated by protective stromal cells, and it also killed 
+primary CLL cells with deletion of chromosome 11q or 17p. In TCL-1 transgenic 
+mice, an in vivo model of CLL, auranofin treatment markedly reduced tumor cell 
+burden and improved mouse survival. Our results provide a rationale to 
+reposition the approved drug auranofin for clinical evaluation in the therapy of 
+CLL.

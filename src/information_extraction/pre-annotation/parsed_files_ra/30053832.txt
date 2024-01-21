@@ -1,0 +1,35 @@
+BACKGROUND: Pain accompanies rheumatoid arthritis and other chronic inflammatory 
+conditions and is difficult to manage. Although opioids provide potent 
+analgesia, chronic opioid use can cause tolerance and addiction. Recent studies 
+have demonstrated functional interactions between chemokine and opioid receptor 
+signaling pathways. Reported heterodimerization of chemokine and opioid 
+receptors led our group to develop bivalent compounds that bind both types of 
+receptors, with the goal of targeting opioids to sites of inflammation. MCC22 is 
+a novel bivalent compound containing a CCR5 antagonist and mu opioid receptor 
+(MOR) agonist pharmacophores linked through a 22-atom spacer. We evaluated the 
+efficacy of MCC22 in the K/B.g7 T-cell receptor transgenic mouse model of 
+spontaneous inflammatory arthritis.
+METHODS: MCC22 or morphine was administered intraperitoneally at varying doses 
+to arthritic K/B.g7 mice or nonarthritic control mice. Mechanical pain 
+hypersensitivity was measured each day before and after drug administration, 
+using the electronic von Frey test. The potency of MCC22 relative to that of 
+morphine was calculated. Functional readouts of pain included grip strength and 
+nesting behavior. A separate dosing regimen was used to determine whether the 
+drugs induced pharmacologic tolerance.
+RESULTS: MCC22 provided ~ 3000-fold more potent analgesia than morphine in this 
+model. Daily treatment with MCC22 also led to a cumulative analgesic effect, 
+reducing the daily baseline pain level. MCC22 produced no observable analgesic 
+effect in nonarthritic control mice. Importantly, repeated administration of 
+MCC22 did not induce pharmacologic tolerance, whereas a similar regimen of 
+morphine did. Both grip strength and nesting behaviors improved among arthritic 
+mice treated with MCC22. Ankle thickness and arthritis scores were not affected 
+by MCC22. The analgesic effect of MCC22 was abolished in K/B.g7 mice genetically 
+lacking CCR5, demonstrating the receptor specificity of the antagonist 
+pharmacophore.
+CONCLUSIONS: MCC22 is a novel bivalent ligand that targets CCR5 and MOR. Our 
+findings demonstrate that MCC22 provides highly potent analgesia and improved 
+functional outcomes in a model of inflammatory arthritis, without inducing 
+typical opioid tolerance. These findings suggest that MCC22 or similar compounds 
+could be used to treat the pain associated with inflammatory arthritis and 
+related conditions, while minimizing the risks typically associated with chronic 
+opioid use.

@@ -1,0 +1,25 @@
+BACKGROUND: Evidence is accumulating that a preclinical phase is present before 
+the onset of clinical signs and symptoms of rheumatoid arthritis (RA). This 
+phase represents an important therapeutic window within which interventions can 
+dramatically modulate outcomes. An agent able to prevent RA for high risk 
+individuals in this phase is therefore desired. In this study, we investigated 
+whether tryptophan metabolite, 5-hydroxytryptophan (5-HTP) or 
+5-methoxytryptophan (5-MTP), can act as such an agent for primary prevention of 
+collagen-induced arthritis (CIA).
+METHODS: Mouse splenocytes were pretreated with 5-HTP or 5-MTP and activated by 
+anti-CD3 plus anti-CD28 antibodies in vitro. The percentages of interferon-γ 
+(IFNγ)(+)CD4(+) T cells and interleukin-17 (IL-17)(+)CD4(+) T cells were 
+measured by flow cytometry. The production of pro-inflammatory cytokines, 
+serotonin and kynurenine was measured by enzyme-linked immunosorbent assay. A 
+CIA model was used to investigate the in vivo effects of 5-HTP on the prevention 
+of arthritis.
+RESULTS: 5-HTP decreased the percentages of IFNγ(+)CD4(+) T cells and 
+IL-17(+)CD4(+) T cells and suppressed the production of IL-2, IL-4, IL-6, IL-17, 
+tumor necrosis factor-α (TNFα) and IFNγ in activated splenocytes. 5-HTP 
+administered before induction decreased the disease activities in CIA mice and 
+suppressed the production of TNFα, IL-6 and cyclooxygenase-2 in arthritic 
+joints. 5-HTP also increased serotonin, but decreased kynurenine in the CIA 
+mice.
+CONCLUSIONS: 5-HTP suppresses inflammation and arthritis through decreasing the 
+production of pro-inflammatory mediators. 5-HTP supplement before induction 
+ameliorates arthritis in a CIA model.

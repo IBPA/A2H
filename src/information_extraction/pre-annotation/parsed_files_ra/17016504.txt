@@ -1,0 +1,25 @@
+BACKGROUND AND PURPOSE: The chemokine receptor CCR1 is a potential target for 
+the treatment of rheumatoid arthritis. To explore the impact of CCR1 blockade in 
+experimental arthritis and the underlying mechanisms, we used J-113863, a 
+non-peptide antagonist of the mouse receptor.
+EXPERIMENTAL APPROACH: Compound J-113863 was tested in collagen-induced 
+arthritis (CIA) and three models of acute inflammation; Staphylococcus 
+enterotoxin B (SEB)-induced interleukin-2 (IL-2), delayed-type hypersensitivity 
+(DTH) response, and lipopolysaccharide (LPS)-induced tumour necrosis factoralpha 
+(TNFalpha) production. In the LPS model, CCR1 knockout, adrenalectomised, or 
+IL-10-depleted mice were also used. Production of TNFalpha by mouse macrophages 
+and human synovial membrane samples in vitro were also studied.
+KEY RESULTS: Treatment of arthritic mice with J-113863 improved paw inflammation 
+and joint damage, and dramatically decreased cell infiltration into joints. The 
+compound did not inhibit IL-2 or DTH, but reduced plasma TNFalpha levels in 
+LPS-treated mice. Surprisingly, CCR1 knockout mice produced more TNFalpha than 
+controls in response to LPS, and J-113863 decreased TNFalpha also in CCR1 null 
+mice, indicating that its effect was unrelated to CCR1. Adrenalectomy or 
+neutralisation of IL-10 did not prevent inhibition of TNFalpha production by 
+J-113863. The compound did not inhibit mouse TNFalpha in vitro, but did induce a 
+trend towards increased TNFalpha release in cells from synovial membranes of 
+rheumatoid arthritis patients.
+CONCLUSIONS AND IMPLICATIONS: CCR1 blockade improves the development of CIA, 
+probably via inhibition of inflammatory cell recruitment. However, results from 
+both CCR1-deficient mice and human synovial membranes suggest that, in some 
+experimental settings, blocking CCR1 could enhance TNF production.

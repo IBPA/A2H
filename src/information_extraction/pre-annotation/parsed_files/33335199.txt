@@ -1,0 +1,18 @@
+Clostridioides difficile infection (CDI) is a major healthcare-associated 
+diarrheal disease. Consistent with trends across the United States, C. difficile 
+RT106 was the second-most prevalent molecular type in our surveillance in 
+Arizona from 2015 to 2018. A representative RT106 strain displayed robust 
+virulence and 100% lethality in the hamster model of acute CDI. We identified a 
+unique 46 KB genomic island (GI1) in all RT106 strains sequenced to date, 
+including those in public databases. GI1 was not found in its entirety in any 
+other C. difficile clade, or indeed, in any other microbial genome; however, 
+smaller segments were detected in Enterococcus faecium strains. Molecular clock 
+analyses suggested that GI1 was horizontally acquired and sequentially assembled 
+over time. GI1 encodes homologs of VanZ and a SrtB-anchored collagen-binding 
+adhesin, and correspondingly, all tested RT106 strains had increased teicoplanin 
+resistance, and a majority displayed collagen-dependent biofilm formation. Two 
+additional genomic islands (GI2 and GI3) were also present in a subset of RT106 
+strains. All three islands are predicted to encode mobile genetic elements as 
+well as virulence factors. Emergent phenotypes associated with these genetic 
+islands may have contributed to the relatively rapid expansion of RT106 in US 
+healthcare and community settings.

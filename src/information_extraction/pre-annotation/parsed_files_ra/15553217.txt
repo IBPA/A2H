@@ -1,0 +1,19 @@
+PURPOSE: To study the accumulation of macromolecules into the arthritic joints 
+and the possible applications of such phenomenon.
+METHODS: The accumulation of plasma albumin in the joints of adjuvant-induced 
+arthritis (AIA) rat model was first visualized with Evans blue injection. A 
+N-(2-hydroxypropyl)methacrylamide (HPMA) copolymer contrast agent was then 
+synthesized and injected into the AIA rats to allow qualitative examination of 
+biodistribution and pharmacokinetics of the injected macromolecule with magnetic 
+resonance imaging (MRI). Vital organs and the diseased joints were isolated and 
+examined histologically to correlate with the MRI findings.
+RESULTS: Deep blue color developed around the arthritic joints of the AIA rat a 
+few hours after the injection of Evans blue. MR imaging of the AIA rats injected 
+with polymer contrast agent demonstrated a gradual but very strong accumulation 
+of the injected polymer in the arthritic joints, which lasted for 1-2 days. 
+Observed differences in the concentration of the injected polymer in the joints 
+correlated with disease severity as assessed histologically.
+CONCLUSIONS: Profound arthrotropism of macromolecules in the AIA rat model was 
+demonstrated with various imaging tools. These observations should help in the 
+conceptual and practical design of novel macromolecular delivery systems for the 
+imaging and treatment of rheumatoid arthritis.

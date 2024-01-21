@@ -1,0 +1,17 @@
+OBJECTIVE: To investigate the effects of TNF blocking therapy on synovial immune 
+activity in rat adjuvant arthritis (AA) by measuring mRNA expression of key 
+macrophage and T cell cytokines during PEG sTNF-RI treatment (10mg/kg) on days 
+8, 10 and 12.
+METHODS: Paw volume was assessed every 3-4 days. Ankles were removed for 
+quantitative radiology and histology and synovial membrane removed to determine 
+cytokine mRNA expression using semi-quantitative RT-PCR. T cells in joints were 
+quantified by immunohistochemistry.
+RESULTS: Paw volume was significantly decreased in rats treated with PEG STNF-RI 
+from days 12 to 17. Histology scores and synovial T cell numbers were reduced on 
+days 13 and 17 and radiology scores significantly reduced on day 13. Expression 
+of synovial TNF, IFN-gamma, IL-17, IL-2 and IL-4 mRNA was unchanged in treated 
+rats and TGF-beta expression was significantly increased at day 13.
+CONCLUSIONS: PEG sTNF-RI attenuates AA and disease recurs after treatment 
+ceases, similar to human rheumatoid arthritis. Continued TNF production and/or 
+ongoing T cell activity, may explain the recrudescence of disease once treatment 
+is stopped.

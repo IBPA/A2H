@@ -1,0 +1,25 @@
+OBJECTIVE: Evaluation of the efficacy of green tea extract (GTE) in regulating 
+chemokine production and chemokine receptor expression in human RA synovial 
+fibroblasts and rat adjuvant-induced arthritis (AIA).
+METHODS: Fibroblasts isolated from human RA synovium were used in the study. 
+Regulated upon activation normal T cell expressed and secreted (RANTES)/CCL5, 
+monocyte chemoattractant protein (MCP)-1/CCL2, growth-regulated oncogene 
+(GRO)alpha/CXCL1 and IL-8/CXCL8 production was measured by ELISA. Western 
+blotting was used to study the phosphorylation of protein kinase C (PKC)delta 
+and c-Jun N-terminal kinases (JNK). Chemokine and chemokine receptor expression 
+was determined by quantitative RT-PCR. The benefit of GTE administration in rat 
+AIA was determined.
+RESULTS: GTE (2.5-40 microg/ml) inhibited IL-1beta-induced MCP-1/CCL2 (10 
+ng/ml), RANTES/CCL5, GROalpha/CXCL1 and IL-8/CXCL8 production in human RA 
+synovial fibroblasts (P < 0.05). However, GTE inhibited MCP-1/CCL2 and 
+GROalpha/CXCL1 mRNA synthesis in RA synovial fibroblasts. Furthermore, GTE also 
+inhibited IL-1beta-induced phosphorylation of PKCdelta, the signalling pathway 
+mediating IL-1beta-induced chemokine production. Interestingly, GTE 
+preincubation enhanced constitutive and IL-1beta-induced CCR1, CCR2b, CCR5, 
+CXCR1 and CXCR2 receptor expression. GTE administration (200 mg/kg/day p.o.) 
+modestly ameliorated rat AIA, which was accompanied by a decrease in MCP-1/CCL2 
+and GROalpha/CXCL1 levels and enhanced CCR-1, -2, -5 and CXCR1 receptor 
+expression in the joints of GTE administered rats.
+CONCLUSIONS: Chemokine receptor overexpression with reduced chemokine production 
+by GTE may be one potential mechanism to limit the overall inflammation and 
+joint destruction in RA.

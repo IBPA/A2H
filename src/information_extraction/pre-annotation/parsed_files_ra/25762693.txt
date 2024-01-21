@@ -1,0 +1,28 @@
+Cytokines, growth factors, and other chemical messengers rely on a class of 
+intracellular nonreceptor tyrosine kinases known as Janus kinases (JAKs) to 
+rapidly transduce intracellular signals. A number of these cytokines are 
+critical for lymphocyte development and mediating immune responses. JAK3 is of 
+particular interest due to its importance in immune function and its expression, 
+which is largely confined to lymphocytes, thus limiting the potential impact of 
+JAK3 inhibition on nonimmune physiology. The aim of this study was to evaluate 
+the potency and selectivity of the investigational JAK3 inhibitor VX-509 
+(decernotinib) 
+[(R)-2-((2-(1H-pyrrolo[2,3-b]pyridin-3-yl)pyrimidin-4-yl)amino)-2-methyl-N-(2,2,2-trifluoroethyl)butanamide] 
+against JAK3 kinase activity and inhibition of JAK3-mediated signaling in vitro 
+and JAK3-dependent physiologic processes in vivo. These results demonstrate that 
+VX-509 potently inhibits JAK3 in enzyme assays (Ki = 2.5 nM + 0.7 nM) and 
+cellular assays dependent on JAK3 activity (IC50 range, 50-170 nM), with limited 
+or no measurable potency against other JAK isotypes or non-JAK kinases. VX-509 
+also showed activity in two animal models of aberrant immune function. VX-509 
+treatment resulted in dose-dependent reduction in ankle swelling and paw weight 
+and improved paw histopathology scores in the rat collagen-induced arthritis 
+model. In a mouse model of oxazolone-induced delayed-type hypersensitivity, 
+VX-509 reduced the T cell-mediated inflammatory response in skin. These findings 
+demonstrate that VX-509 is a selective and potent inhibitor of JAK3 in vitro and 
+modulates proinflammatory response in models of immune-mediated diseases, such 
+as collagen-induced arthritis and delayed-type hypersensitivity. The data 
+support evaluation of VX-509 for treatment of patients with autoimmune and 
+inflammatory diseases such as rheumatoid arthritis.
+
+Copyright © 2015 by The American Society for Pharmacology and Experimental 
+Therapeutics.

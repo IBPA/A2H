@@ -1,0 +1,15 @@
+Tumor necrosis factor (TNF) is a polyfunctional cytokine, one of the key 
+mediators of inflammation and innate immunity. On the other hand, systemic or 
+local TNF overexpression is typical of such pathological states as rheumatoid 
+arthritis, psoriasis, Crohn's disease, septic shock, and multiple sclerosis. 
+Neutralization of TNF activity has a marked curative effect for some diseases; 
+therefore, the search for various TNF blockers is a promising field of protein 
+engineering and biotechnology. According to the previously developed concept 
+concerning the possibility of designing dominant-negative mutants, the following 
+TNF variants have been studied: TNFY87H + A145R, TNFY87H + A96S + A145R, and 
+TNFV91N + A145R. All of these form inactive TNF heterotrimers with the native 
+protein. The ability of mutants to neutralize the effect of TNF was 
+investigated. The addition of mutants to the native protein was shown to provide 
+a concentration-dependent suppression of TNF cytotoxicity against the mouse 
+fibroblast cell line L929. Thus, novel inhibitors of human TNF can be engineered 
+on the basis of these muteins.

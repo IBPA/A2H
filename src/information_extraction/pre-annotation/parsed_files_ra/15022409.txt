@@ -1,0 +1,21 @@
+The fusion of a murine B cell and a myeloma cell generates a hybridoma that 
+produces monoclonal antibody (mAb). These murine mAb induce the HAMA (human 
+anti-mouse antibodies) response. Murine mAb have been modified by genetic 
+engineering, producing molecules with a higher proportion of human protein. At 
+present, chimeric, humanized and fully human mAb are available. mAb block 
+interactions between target molecules and their ligands or trigger the lyses of 
+mAb-coated tumor cells. Numerous mAb have been developed using the recombinant 
+DNA technology and several are available in the market. Trastuzumab, against 
+HER2/neu, is useful in breast cancer; rituximab, against CD20 in B lymphocytes 
+is useful in lymphoma; alemtuzumah, against CD52 is used in lymphoma and 
+leukemia; daclizumab and basiliximab block the IL-2 receptor interaction and 
+reduce acute rejection in kidney transplantation; abciximab, an antagonist of 
+GPIIb/IIIa platelet receptor, is used in patients undergoing acute coronary 
+syndromes. In autoimmunity diseases, blocking tumor necrosis factor by 
+infliximab and adalimumab has demonstrated excellent results. Thus, infliximab 
+is useful in the treatment of rheumatoid arthritis (RA), Crohn's disease and 
+ulcerative colitis while adalimumab is the first fully human mAb available for 
+RA. Infliximab and adalimumab reduce signs and symptoms in RA and they also 
+interfere with progression of joint damage. Finally, the direct benefits of 
+antagonist treatment can occur at the expense of a major adverse effect in some 
+other biological function.

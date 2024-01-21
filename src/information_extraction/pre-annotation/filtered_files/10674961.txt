@@ -1,0 +1,33 @@
+BACKGROUND: In attempts to elucidate factors stimulating bone resorption in 
+patients with different inflammatory diseases in the vicinity of the skeleton, 
+e.g., peridontal disease and rheumatoid arthritis, we are investigating the 
+presence of bone-resorbing activity in a variety of inflammatory exudates. The 
+aim of the present study was to characterize the bone-resorbing activity present 
+in patients with periodontitis.
+METHODS: Bone-resorbing activity was assessed in gingival crevicular fluids 
+(GCFs) collected from patients with periodontitis and from patients with no 
+signs of gingivitis. Bone-resorbing activity was evaluated by analyzing the 
+capacity of GCFs to stimulate the release of minerals and the breakdown of bone 
+matrix proteins in cultured neonatal mouse calvariae. The concentrations of 
+IL-1alpha, IL-1beta and PGE2 were determined with ELISA and RIA techniques, 
+respectively.
+RESULTS: GCF eluates from 24 different healthy sites caused a 1.23+/-0.05 fold 
+stimulation of 45Ca release, whereas GCF eluates from 45 different diseased 
+(periodontitis) sites caused a 2.46+/-0.10 fold stimulation. The effect on 45Ca 
+release was time- and concentration-dependent, inhibited by 3 different 
+osteoclast inhibitors and associated with enhanced release of 3H from 
+[3H]-proline-labelled bones. The activity in GCF causing enhanced 45Ca release 
+was unaffected, or in some samples partially reduced, by ultrafiltration using a 
+filter with a molecular weight cut-off of 3000 Daltons. The bone-resorbing 
+activity was temperature sensitive (+90degrees C, 10 min). The concentrations of 
+prostaglandin E2 (PGE2) in the diluted GCF eluates, used in the bone resorption 
+bioassay, were too low to be responsible for the release of 45Ca. Antisera 
+specifically neutralizing human IL-1a inhibited the stimulatory effect of GCF 
+pooled from several diseased sites. The specific, recombinant human IL-1 
+receptor antagonist completely inhibited the effect of pooled GCFs. GCF eluates 
+from diseased sites contained human IL-1alpha and IL-1beta at concentrations of 
+1838+/-294 pg/ml and 512+/-91 pg/ml, respectively.
+CONCLUSIONS: These data show that GCF contains activity(ies) stimulating 
+osteoclastic bone resorption in vitro. The factor primarily responsible for this 
+activity seems to be IL-1alpha, but IL-1alpha is not the sole activator of bone 
+resorption in GCF.

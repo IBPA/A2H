@@ -1,0 +1,28 @@
+INTRODUCTION: Oxidative stress plays a role in the pathogenesis of rheumatoid 
+arthritis (RA). Anthocyanin is a plant antioxidant. We investigated the 
+therapeutic effects of anthocyanin extracted from black soybean seed coats 
+(AEBS) in a murine model of collagen-induced arthritis (CIA) and human 
+peripheral blood mononuclear cells (PBMCs) and explored possible mechanisms by 
+which AEBS might exert anti-arthritic effects.
+MATERIAL AND METHODS: CIA was induced in DBA/1J mice. Cytokine levels were 
+measured via enzyme-linked immunosorbent assays. Joints were assessed in terms 
+of arthritis incidence, clinical arthritis scores, and histological features. 
+The extent of oxidative stress in affected joints was determined by measuring 
+the levels of nitrotyrosine and inducible nitric oxide synthase. NF-κB activity 
+was assayed by measuring the ratio of phosphorylated IκB to total IκB via 
+Western blotting. Th17 cells were stained with antibodies against CD4, IL-17, 
+and STAT3. Osteoclast formation was assessed via TRAP staining and measurement 
+of osteoclast-specific mRNA levels.
+RESULTS: In the CIA model, AEBS decreased the incidence of arthritis, 
+histological inflammation, cartilage scores, and oxidative stress. AEBS reduced 
+the levels of proinflammatory cytokines in affected joints of CIA mice and 
+suppressed NF-κB signaling. AEBS decreased Th17 cell numbers in spleen of CIA 
+mice. Additionally, AEBS repressed differentiation of Th17 cells and expression 
+of Th17-associated genes in vitro, in both splenocytes of naïve DBA/1J mice and 
+human PBMCs. In vitro, the numbers of both human and mouse tartrate-resistant 
+acid phosphatase+ (TRAP) multinucleated cells fell, in a dose-dependent manner, 
+upon addition of AEBS.
+CONCLUSIONS: The anti-arthritic effects of AEBS were associated with decreases 
+in Th17 cell numbers, and the levels of proinflammatory cytokines synthesized by 
+such cells, mediated via suppression of NF-κB signaling. Additionally, AEBS 
+suppressed osteoclastogenesis and reduced oxidative stress levels.

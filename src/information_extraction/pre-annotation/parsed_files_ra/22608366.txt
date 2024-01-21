@@ -1,0 +1,20 @@
+The C5a receptor (C5aR) is a 7 transmembrane G-protein coupled receptor (GPCR) 
+that mediates the powerful pro-inflammatory effect of the complement activation 
+product C5a. Excess C5a generated under pathological conditions has been 
+implicated in a variety of conditions including sepsis, asthma and rheumatoid 
+arthritis, but very little is known about the regulation of expression of the 
+C5aR. The 5' promoter region and 3' untranslated region (UTR) of the C5aR mRNA 
+were cloned, generating enhanced green fluorescent protein (EGFP)-reporter 
+plasmids, which were transfected into the monocytic cell line U937. Most of the 
+cloned 2kb 5' region was dispensable for the expression of the reporter 
+constructs and the majority of regulatory sequences are in the first 200 bp. 
+Three motifs, a NFκB, a CCAAT and a NFAT site, were identified to be of 
+importance by site directed mutagenesis for basal expression. Analysis of the 
+3'UTR of the C5aR mRNA showed that it contained two AU-rich elements (AREs), 
+however site directed mutagenesis showed that these had no effect on basal 
+expression. While the phorbol ester PMA and dibutyryl cAMP increased C5aR 
+protein expression, these agents had no effect on the regulation of expression 
+via the promoter or the 3'UTR. This is the first study to investigate the role 
+of both the promoter and 3'UTR in regulating C5aR expression and our results 
+show that regulation of the human C5aR is similar but not identical to that of 
+the mouse C5aR.

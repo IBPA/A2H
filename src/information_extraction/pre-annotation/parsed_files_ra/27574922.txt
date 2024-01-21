@@ -1,0 +1,27 @@
+BACKGROUND: Rheumatoid arthritis (RA) is a chronic systemic autoimmune disease. 
+Previous study suggested that toll-like receptor (TLR) signaling pathway 
+contributes to the development and progression of RA. In recent years, 
+acupuncture has become one of the most vital treatments of arthralgia. But 
+little is known about the mechanisms of improving RA by acupuncture.
+STUDY QUESTION: The study studied the effect of electroacupuncture in "Zusanli" 
+and "Kunlun" acupoints on the expression of TLR4, myeloid differentiation factor 
+88 (MYD88), and NF-κB in adjuvant arthritis rats to clarify the molecular 
+mechanism of acupuncture of RA.
+STUDY DESIGN: A rat model of adjuvant arthritis was established with injection 
+of 0.1 mL Freund complete adjuvant in the right hindlimb footpad. We next 
+punctured the Zusanli and Kunlun acupoints with 0.25 × 40-mm acupuncture needles 
+to 5-mm depth. Then, we performed electroacupuncture treatment for 28 days with 
+frequency of 2 Hz and intensity of 2 mA, once a day and 30 minutes each time.
+MEASURES AND OUTCOMES: Arthritis index and paw swelling were measured every 
+week. FQ-PCR and western blot were used to detect the expression of TLR4, MYD88, 
+and NF-κB.
+RESULTS: Paw swelling of rats injected with Freund complete adjuvant was more 
+serious than that of the normal rats, which illustrated the successful 
+establishment of adjuvant arthritis rat model. After treatment for 14 days, the 
+paw swelling and joint symptoms score decreased, paw tissue inflammation eased 
+in the rats of treatment group compared with the model group during the same 
+period. After treatment for 28 days, the expression of TLR4, MYD88, and NF-κB in 
+the ankle bone tissues decreased at both mRNA and protein levels.
+CONCLUSIONS: Stimulation with electric needle in Zusanli and Kunlun acupoints 
+can reduce the expression of TLR4, MYD88, and NF-κB, which play an important 
+role in treatment of adjuvant arthritis.

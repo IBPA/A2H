@@ -1,0 +1,24 @@
+OBJECTIVES: Infliximab is an anti-tumour necrosis factor-alpha (TNF-alpha) 
+mouse-human IgG1/kappa antibody used to treat patients with rheumatoid arthritis 
+(RA) and other inflammatory diseases. Unfortunately, response failure and 
+side-effects due to immunogenicity of the drug are not rare. In this study, we 
+have compared different methods of assessing drug levels and anti-infliximab 
+antibodies (Abs) and analysed the character of these Abs in sera of RA patients 
+treated with infliximab for 1.5-18 months.
+METHODS: Functional serum infliximab levels and anti-infliximab Abs were 
+measured by fluid-phase RIAs using 125I-labelled ligands in combination with 
+molecular size and affinity chromatography, and immune complex precipitation.
+RESULTS: Anti-infliximab Abs were predominantly IgG, 36% being IgG4, and half 
+the immune complexes were lambda-light-chain-positive. Ab titres were associated 
+with inhibition of TNF binding to the drug, and low trough levels of infliximab 
+were most frequent in anti-infliximab Ab-positive sera. Cross-binding to two 
+other anti-TNF drugs was not observed. Detection of anti-infliximab Abs by 
+solid-phase RIA using cross-binding of plastic-fixed and soluble infliximab 
+exhibited low sensitivity and the data were inconsistent with results obtained 
+from binding of the Abs to soluble infliximab.
+CONCLUSIONS: Specific and neutralizing anti-infliximab antibodies develop in RA 
+patients treated with infliximab, and that low trough levels of functional 
+infliximab are associated with the presence of such antibodies. The most 
+sensitive antibody assay involved binding to soluble and intact infliximab. 
+Assessments of bioavailability and immunogenicity of anti-TNF biologicals may be 
+used to optimize dose regimens and prevent prolonged use of inadequate therapy.

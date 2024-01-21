@@ -1,0 +1,24 @@
+The aim of the present study was to investigate the effect of interleukin-1β 
+(IL-1β) and tumor necrosis factor α (TNFα) gene co-silencing in mouse gastric 
+cancer (GC) cells. Respectively, three pairs of liposome-encapsulated IL-1β and 
+TNFα small interfering RNA (siRNA) were transfected into the mouse GC cell line 
+MFC. The most effective siRNA, as identified by reverse transcription-polymerase 
+chain reaction, was used for co-suppression of IL-1β and TNFα genes. The 
+activities of cell proliferation, colony formation and migration were determined 
+by the Cell Counting Kit 8 method, colony formation assay and Transwell assay, 
+respectively. Protein array analysis was performed to identify the 
+differentially expressed factors. The possible signaling pathways of the various 
+factors targeting the genes were identified by pathway enrichment analysis using 
+KOBAS 2.0. siRNA1 and siRNAc were the most effective interference sequences for 
+IL-1β and TNFα, respectively. Following co-transfection of siRNA1 and siRNAc, 
+the expression of IL-1β and TNFα was inhibited at the mRNA and protein levels, 
+and the cell proliferation, colony forming and migration abilities were reduced 
+(P<0.05). The expression of inflammatory factors, including chemokine ligand 5, 
+cyclooxygenase-2, IL-6, transforming growth factor β, IL-17A, matrix 
+metallopeptidase 9 and stromal cell-derived factor 1α were also inhibited 
+(P<0.05). These factors are mainly involved in the rheumatoid arthritis pathway, 
+the intestinal immune network for IgA production, the TNF signaling pathway and 
+the inflammatory bowel disease pathway. IL-1β and TNFα gene silencing inhibits 
+the proliferation and migration of MFC. The mechanisms may involve multiple 
+inflammatory factors that participate in the signaling pathways of tumor tissue 
+inflammation, the immune network and TNF.

@@ -1,0 +1,21 @@
+Many autoimmune diseases are believed to involve primarily T cell-mediated 
+effector mechanisms. There is increasing realization, however, that Abs may also 
+play a vital role in the propagation of T cell-driven disorders. In this study, 
+on the rat adjuvant-induced arthritis (AA) model of human rheumatoid arthritis, 
+we examined the characteristics of serum Ab response to mycobacterial heat shock 
+protein (hsp) 65 (Bhsp65), self (rat) hsp65 (Rhsp65), and linear peptides 
+spanning these two molecules. The AA-resistant WKY (RT.1(l)) rat responded to 
+the heat-killed Mycobacterium tuberculosis immunization with a rapid burst of 
+Abs to both Bhsp65 and Rhsp65. These Abs reacted with numerous peptide epitopes; 
+however, this response was reduced to a few epitopes with time. On the contrary, 
+the susceptible Lewis (RT.1(l)) rat developed a relatively lower Ab response to 
+Bhsp65, and Abs to Rhsp65 did not appear until the recovery from the disease. 
+The Ab response in Lewis rats diversified with progression of AA, and there was 
+an intriguing overlap between the repertoire of Bhsp65-reactive B and T cells 
+during the recovery phase of AA. Nonetheless, subsets of the repertoire of the 
+late Abs in both rat strains became focused on the same epitope regions of 
+Bhsp65 and Rhsp65. The functional relevance of these Abs was evident from the 
+results showing that sera from recovery phase Lewis or WKY rats, but not that of 
+naive rats, afforded protection against subsequent AA. These results are of 
+significance in further understanding of the role of humoral immunity in the 
+pathogenesis of autoimmune arthritis.

@@ -1,0 +1,20 @@
+Multiple sclerosis (MS) is an inflammatory demyelinating disease of the central 
+nervous system (CNS). Recent studies suggest that migration of Th1 and Th17 
+cells specific for enteric bacteria from the gut to the CNS may lead to the 
+initiation and/or exacerbation of autoimmune diseases including MS. Human 
+leukocyte antigen (HLA)-DR15 is an MHC class II (MHCII) haplotype highly 
+associated with the development of MS that contains the two HLA-DRB* genes, 
+DRB1*1501 (DR2b) and DRB5*0101 (DR2a). To identify enteric bacteria which harbor 
+antigenic epitopes that activate myelin-specific T cells and drive CNS 
+inflammation, we screened for enteric bacteria which express cross-reactive 
+epitopes ('mimotopes') of an immunodominant myelin basic protein 89-98 
+(MBP89-98) epitope. Based on known MHCII HLA-DR2a amino acid binding motifs and 
+cultivation with splenic T cells isolated from MBP-T cell receptor (TCR)/DR2a 
+transgenic (Tg) mice, we discovered that a certain variant of surface layer 
+protein A (SLPA), which is expressed by a subtype of Clostridioides difficile, 
+contains an amino acid sequence that activates MBP89-98-reactive T cells. 
+Furthermore, activation of MBP-specific T cells by SLPA upon active immunization 
+induced experimental autoimmune encephalomyelitis (EAE) in MBP-TCR/DR2a Tg mice. 
+This study suggests that a unique strain of C. difficile possesses an 
+encephalitogenic mimotope of MBP that activates autoreactive, myelin-specific T 
+cells.

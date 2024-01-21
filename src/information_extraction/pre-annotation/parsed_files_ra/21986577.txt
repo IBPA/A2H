@@ -1,0 +1,24 @@
+AIM: The promoter of human interleukin-10 (IL10), a cytokine crucial for 
+suppressing inflammation and regulating immune responses, contains an 
+interspecies-conserved sequence with CpG motifs. The aim of this study was to 
+investigate whether methylation of CpG motifs could regulate the expression of 
+IL10 in rheumatoid arthritis (RA).
+METHODS: Bioinformatic analysis was conducted to identify the 
+interspecies-conserved sequence in human, macaque and mouse IL10 genes. 
+Peripheral blood mononuclear cells (PBMCs) from 20 RA patients and 20 health 
+controls were collected. The PBMCs from 6 patients were cultured in the presence 
+or absence of 5-azacytidine (5 μmol/L). The mRNA and protein levels of IL10 were 
+examined using RT-PCR and ELISA, respectively. The methylation of CpGs in the 
+IL10 promoter was determined by pyrosequencing. Chromatin immunoprecipitation 
+(ChIP) assays were performed to detect the cyclic AMP response element-binding 
+protein (CREB)-DNA interactions.
+RESULTS: One interspecies-conserved sequence was found within the IL10 promoter. 
+The upstream CpGs at -408, -387, -385, and -355 bp were hypermethylated in PBMCs 
+from both the RA patients and healthy controls. In contrast, the proximal CpG at 
+-145 was hypomethylated to much more extent in the RA patients than in the 
+healthy controls (P=0.016), which was correlated with higher IL10 mRNA and serum 
+levels. In the 5-azacytidine-treated PBMCs, the CpG motifs were demethylated, 
+and the expression levels of IL10 mRNA and protein was significantly increased. 
+CHIP assays revealed increased phospho-CREB binding to the IL10 promoter.
+CONCLUSION: The methylation of the proximal CpGs in the IL10 promoter may 
+regulate gene transcription in RA.

@@ -1,0 +1,10 @@
+Clostridium difficile TcdB harbors a glucosyltransferase that targets host Rho 
+GTPases. However, the role of the enzyme activity in the induction of host 
+intestinal disease has not been demonstrated. In this study, we established a 
+mouse acute intestinal disease model by cecum injection of wild type and 
+glucosyltransferase-deficient TcdB and a chronic model by delivering toxin 
+intraluminally via engineered surrogate host Bacillus megaterium. We 
+demonstrated, for the first time, that the glucosyltransferase activity of TcdB 
+is essential for inducing disease symptoms and intestinal pathological responses 
+that resemble human disease, highlighting the importance of targeting toxin 
+glucosyltransferase activity for future therapy.

@@ -1,0 +1,24 @@
+Rheumatoid arthritis is associated with the development of autoantibodies to 
+citrullinated self-proteins. Citrullinated synovial proteins, which are 
+generated via the actions of the protein arginine deiminases (PADs), are known 
+to develop in the murine collagen-induced arthritis (CIA) model of inflammatory 
+arthritis. Given these findings, we evaluated whether 
+N-α-benzoyl-N5-(2-chloro-1-iminoethyl)-L-ornithine amide (Cl-amidine), a 
+recently described pan-PAD inhibitor, could affect the development of arthritis 
+and autoimmunity by treating mice in the CIA model with Cl-amidine on days 0-35. 
+Cl-amidine treatment reduced total synovial and serum citrullination, decreased 
+clinical disease activity by ∼50%, and significantly decreased IgG2a anti-mouse 
+type II collagen Abs. Additionally, histopathology scores and total complement 
+C3 deposition were significantly lower in Cl-amidine-treated mice compared with 
+vehicle controls. Synovial microarray analyses demonstrated decreased IgG 
+reactivity to several native and citrullinated epitopes compared with vehicle 
+controls. Cl-amidine treatment had no ameliorative effect on collagen Ab-induced 
+arthritis, suggesting its primary protective mechanism was not mediated through 
+effector pathways. Reduced levels of citrullinated synovial proteins observed in 
+mice treated with Cl-amidine are consistent with the notion that Cl-amidine 
+derives its efficacy from its ability to inhibit the deiminating activity of 
+PADs. In total, these results suggested that PADs are necessary participants in 
+the autoimmune and subsequent inflammatory processes in CIA. Cl-amidine may 
+represent a novel class of disease-modifying agents that modulate aberrant 
+citrullination, and perhaps other immune processes, necessary for the 
+development of inflammatory arthritis.

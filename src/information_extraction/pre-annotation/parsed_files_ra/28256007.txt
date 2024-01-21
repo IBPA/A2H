@@ -1,0 +1,18 @@
+Expression levels of Notch signaling molecules are increased in synovium from 
+patients with rheumatoid arthritis (RA). However, it is not known which cell 
+type(s) in RA synovium have Notch activation or if they play a pathogenetic role 
+in RA. Here, we used Hes1-GFP/TNF-transgenic (TNF-Tg) mice to investigate the 
+role of cells with active Notch signaling (GFP+) in RA. The number of GFP+ cells 
+was significantly increased in synovium in Hes1-GFP/TNF-Tg mice and about 60% of 
+them were F4/80+ macrophages expressing the inflammatory macrophage (M1) marker. 
+TNF-Tg mice transplanted with Hes1-GFP/TNF-Tg bone marrow (BM) had significantly 
+more GFP+ cells in their synovium than in BM. Intraarticular injection of 
+Hes1-GFP/TNF-Tg or Hes1-GFP+ BM macrophages into WT and TNF-Tg mice showed the 
+highest synovial GFP+ cells in the TNF-Tg mice that received Hes1-GFP/TNF-Tg 
+cells. Thapsigargin (THAP), a Notch inhibitor, decreased TNF-induced M1 and 
+increased M2 numbers and reduced joint lesion, synovial M1s, and GFP+ cells in 
+Hes1-GFP/TNF-Tg mice. THAP did not affect M1s from mice carrying a 
+constitutively active Notch1. Thus, the main cells with activated Notch 
+signaling in the inflamed synovium of TNF-Tg mice are M1s derived from BM and 
+targeting them may represent a new therapeutic approach for patients with 
+inflammatory arthritis. © 2017 American Society for Bone and Mineral Research.

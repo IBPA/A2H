@@ -1,0 +1,21 @@
+Clostridium difficile infection (CDI) following antibiotic therapy is a major 
+public health threat. While antibiotic disruption of the indigenous microbiota 
+underlies the majority of cases of CDI, the early dynamics of infection in the 
+disturbed intestinal ecosystem are poorly characterized. This study defines the 
+dynamics of infection with C. difficile strain VPI 10463 throughout the 
+gastrointestinal (GI) tract using a murine model of infection. After inducing 
+susceptibility to C. difficile colonization via antibiotic administration, we 
+followed the dynamics of spore germination, colonization, sporulation, toxin 
+activity, and disease progression throughout the GI tract. C. difficile spores 
+were able to germinate within 6 h postchallenge, resulting in the establishment 
+of vegetative bacteria in the distal GI tract. Spores and cytotoxin activity 
+were detected by 24 h postchallenge, and histopathologic colitis developed by 30 
+h. Within 36 h, all infected mice succumbed to infection. We correlated the 
+establishment of infection with changes in the microbiota and bile acid profile 
+of the small and large intestines. Antibiotic administration resulted in 
+significant changes to the microbiota in the small and large intestines, as well 
+as a significant shift in the abundance of primary and secondary bile acids. Ex 
+vivo analysis suggested the small intestine as the site of spore germination. 
+This study provides an integrated understanding of the timing and location of 
+the events surrounding C. difficile colonization and identifies potential 
+targets for the development of new therapeutic strategies.

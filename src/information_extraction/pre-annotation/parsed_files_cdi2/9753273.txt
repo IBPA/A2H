@@ -1,0 +1,30 @@
+Saccharomyces boulardii (Sb), a nonpathogenic yeast, has been used to prevent 
+recurrences of Clostridium difficile (C.diff) -associated diarrhea. A single 
+report suggested that treatment with Saccharomyces cerevisiae (Sc), commonly 
+called brewer's yeast (BY), facilitates treatment of persistent C.diff 
+infection. We conducted this experiment to determine whether C.diff toxin 
+A-induced colonic secretion in the rat is blunted by pretreatment with either Sb 
+or BY. We employed closed cecal pouches in two groups of five adult male 
+Sprague-Dawley rats fed with standard chow for five days prior to the 
+experiment, another group whose water was supplemented with 20 x 10(9) 
+colony-forming units (CFU) of Sb per day for five days, and another group whose 
+water was supplemented with 20 x 10(9) CFU of Sc per day for five days. Cecal 
+pouches were infused for 3 hr with one of the following: (1) normal saline alone 
+for a control group, or (2) normal saline plus 5 microg of C.diff toxin A (for 
+the other control group and for the two experimental groups). Water movement was 
+measured by a nonabsorbable marker technique. Sodium movement and permeability 
+to mannitol were also measured. Prior to the infusion, cecal contents were 
+quantitatively cultured. In the three animals whose ceca were colonized with 
+less than 10(6) CFU of either yeast per gram wet cecal content, toxin A-induced 
+secretion could not be attenuated. In contrast, animals whose ceca were 
+colonized with more than 10(6) CFU of either yeast per gram of wet cecal content 
+showed significantly less secretion after toxin A application than those which 
+were not fed yeast. S. cerevisiae reduced secretion by half (N = 5, P = 0.039 
+for water, 0.044 for sodium) and Sb by 75% (N = 4, P = 0.015 for water, 0.034 
+for sodium). Toxin-induced increases in permeability to [3H]mannitol from 
+systemic circulation to cecum could not be blunted by either yeast. We conclude 
+that rat ceca can be colonized by either organism and that both organisms reduce 
+C.diff toxin A-mediated secretion. We speculate that both organisms might have 
+benefit in human C.diff-associated enterocolitis. Further studies of their 
+mechanisms of action as well as clinical trials for the prevention and treatment 
+of human C.diff infections should be pursued.

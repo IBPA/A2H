@@ -1,0 +1,19 @@
+Peptidylarginine deiminases (PADs) convert arginine residues in proteins into 
+citrullines. They are suspected to be involved in multiple sclerosis and 
+rheumatoid arthritis pathophysiology, and they play a role in epidermis 
+homeostasis and possibly in regulation of gene expression through histone 
+modification. In humans, four isoforms encoded by the genes PADI1-4 are known so 
+far. We here report the characterization and comparative analysis of the human 
+(355 kb) and mouse (240 kb) PAD gene clusters on chromosomes 1p35-36 and 4E1, 
+respectively. We characterized an as yet unknown human PADI6 gene, and cloned 
+the corresponding cDNA encoding a 694-amino-acid protein. RT-PCR analysis showed 
+a rather restricted pattern of tissue-specific expression, mainly in ovary, 
+testis and peripheral blood leukocytes. Nucleotide substitution rates suggest 
+that PADI genes are under purifying selection. Comparative analysis of the human 
+and mouse sequences identified 251 conserved non-coding segments predominantly 
+clustered within the promoter regions, the large (>10 kb) first intron of each 
+of the genes PADI1-3, and an 8 kb PADI1-2 intergenic region. The presence of 
+numerous transcription factor binding sites suggests the segments are putative 
+regulatory elements. This study is the first description of the human PADI6 gene 
+and encoded protein, and the first step towards a better understanding of the 
+coordinated regulation of PADI gene expression.

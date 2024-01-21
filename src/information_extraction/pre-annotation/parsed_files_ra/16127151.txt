@@ -1,0 +1,21 @@
+Rheumatoid arthritis synovial fibroblasts (RASFs) contribute to arthritic 
+cartilage degradation. Although RASFs are normally resistant to apoptosis, 
+Apo2L/tumor necrosis factor-related apoptosis-inducing ligand (TRAIL)-based gene 
+therapy has been successfully used in a mouse model of arthritis. We 
+investigated this further by treating human RASFs with nontoxic doses of the 
+proteasome inhibitor lactacystin. Treatment induced cytosolic accumulation of 
+p53 and enhanced the susceptibility of RASFs to apoptosis mediated by TRAIL-R2 
+(DR5) but not Fas. A specific role for p53 in TRAIL-R2-mediated apoptosis was 
+indicated by the ability of p53 siRNA to significantly reduce RASF apoptosis and 
+by the reduced apoptosis of RASFs bearing p53 mutations on treatment with 
+anti-DR5 antibody or anti-DR5 antibody plus lactacystin. p53 immunoprecipitation 
+followed by mass spectrometry identified a vimentin-p53 complex, an interaction 
+that was confirmed by reciprocal vimentin-p53 immunoprecipitation and by 
+co-immunofluorescence. Interestingly, human caspase-4 cleaved human vimentin, 
+and blockade of caspase-4 with a chemical inhibitor or with specific siRNA 
+significantly inhibited TRAIL-R2-mediated apoptosis of RASFs. Furthermore, 
+blockade of caspase-4 was paralleled by persistence of a cytosolic pattern of 
+p53 and absence of p53 translocation to the nucleus. Taken together, our 
+findings suggest a unique role for caspase-4 in cleaving vimentin and releasing 
+cytosolic p53 for nuclear translocation, events that may regulate the 
+sensitivity of RASFs to receptor-mediated apoptosis.

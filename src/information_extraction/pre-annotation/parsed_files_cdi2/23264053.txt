@@ -1,0 +1,21 @@
+Clostridium difficile infection (CDI) results in toxin-induced epithelial injury 
+and marked intestinal inflammation. Fecal markers of intestinal inflammation 
+correlate with CDI disease severity, but regulation of the inflammatory response 
+is poorly understood. Previous studies demonstrated that C. difficile toxin TcdA 
+activates p38 kinase in tissue culture cells and mouse ilium, resulting in 
+interleukin-8 (IL-8) release. Here, we investigated the role of phosphorylated 
+mitogen-activated protein kinase (MAPK)-activated protein kinase (MK2 kinase, 
+pMK2), a key mediator of p38-dependent inflammation, in CDI. Exposure of 
+cultured intestinal epithelial cells to the C. difficile toxins TcdA and TcdB 
+resulted in p38-dependent MK2 activation. Toxin-induced IL-8 and GROα release 
+required MK2 activity. We found that p38 and MK2 are activated in response to 
+other actin-disrupting agents, suggesting that toxin-induced cytoskeleton 
+disruption is the trigger for kinase-dependent cytokine response. Phosphorylated 
+MK2 was detected in the intestines of C. difficile-infected hamsters and mice, 
+demonstrating for the first time that the pathway is activated in infected 
+animals. Furthermore, we found that elevated pMK2 correlated with the presence 
+of toxigenic C. difficile among 100 patient stool samples submitted for C. 
+difficile testing. In conclusion, we find that MK2 kinase is activated by TcdA 
+and TcdB and regulates the expression of proinflammatory cytokines. Activation 
+of p38-MK2 in infected animals and humans suggests that this pathway is a key 
+driver of intestinal inflammation in patients with CDI.

@@ -1,0 +1,14 @@
+Antigen presentation to T cells by MHC molecules is essential for adaptive 
+immune responses. To determine the exact position of a gene affecting expression 
+of MHC molecules, we finely mapped a previously defined rat quantitative trait 
+locus regulating MHC class II on microglia in an advanced intercross line. We 
+identified a small interval including the gene MHC class II transactivator 
+(Mhc2ta) and, using a map over six inbred strains combined with gene sequencing 
+and expression analysis, two conserved Mhc2ta haplotypes segregating with MHC 
+class II levels. In humans, a -168A --> G polymorphism in the type III promoter 
+of the MHC class II transactivator (MHC2TA) was associated with increased 
+susceptibility to rheumatoid arthritis, multiple sclerosis and myocardial 
+infarction, as well as lower expression of MHC2TA after stimulation of 
+leukocytes with interferon-gamma. We conclude that polymorphisms in Mhc2ta and 
+MHC2TA result in differential MHC molecule expression and are associated with 
+susceptibility to common complex diseases with inflammatory components.

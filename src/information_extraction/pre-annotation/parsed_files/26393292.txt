@@ -1,0 +1,11 @@
+One hundred and seventeen faecal samples from pet dogs (pup = 21 and adult = 96) 
+brought for treatment to a veterinary clinic were examined for Clostridium 
+difficile. A total of 16 (13.67%) samples were positive. Nine (56.25%) isolates 
+were obtained from 17 adult dogs undergoing antibiotic treatment and this was 
+significantly higher (p < 0.01) as compared to isolates from dogs without 
+antibiotic treatment. Ten isolates (62.5%) were toxigenic (all toxinotype 0) and 
+six were non-toxigenic. None of the isolates were positive for binary toxin 
+genes. PCR ribotyping revealed three different ribotypes (012, 014 and 046) 
+among A(+)B(+) isolates and five different ribotypes (010, SLO 131, and ACD 001 
+to ACD 003) among A(-)B(-) isolates. The PFGE analysis of toxigenic isolates 
+revealed three different pulsotypes corresponding to the PCR ribotypes.

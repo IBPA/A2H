@@ -1,0 +1,29 @@
+BACKGROUND AND PURPOSE: Lipoxin A(4) (LXA(4)) is a lipid mediator involved in 
+the resolution of inflammation. Increased levels of LXA(4) in synovial fluid and 
+enhanced expression of the formyl peptide receptor 2/lipoxin A(4) receptor 
+(FPR2/ALX) in the synovial tissues of rheumatoid arthritis patients have been 
+reported. Endothelins (ETs) play a pivotal pro-inflammatory role in acute 
+articular inflammatory responses. Here, we evaluated the anti-inflammatory role 
+of LXA(4), during the acute phase of zymosan-induced arthritis, focusing on the 
+modulation of ET-1 expression and its effects.
+EXPERIMENTAL APPROACH: The anti-inflammatory effects of LXA(4), BML-111 (agonist 
+of FPR2/ALX receptors) and acetylsalicylic acid (ASA) pre- and post-treatments 
+were investigated in a murine model of zymosan-induced arthritis. Articular 
+inflammation was assessed by examining knee joint oedema; neutrophil 
+accumulation in synovial cavities; and levels of prepro-ET-1 mRNA, leukotriene 
+(LT)B(4), tumour necrosis factor (TNF)-α and the chemokine KC/CXCL1, after 
+stimulation. The direct effect of LXA(4) on ET-1-induced neutrophil activation 
+and chemotaxis was evaluated by shape change and Boyden chamber assays 
+respectively.
+KEY RESULTS: LXA(4), BML-111 and ASA administered as pre- or post-treatment 
+inhibited oedema and neutrophil influx induced by zymosan stimulation. 
+Zymosan-induced preproET-1 mRNA, KC/CXCL1, LTB(4) and TNF-α levels were also 
+decreased after LXA(4) pretreatment. In vitro, ET-1-induced neutrophil 
+chemotaxis was inhibited by LXA(4) pretreatment. LXA(4) treatment also inhibited 
+ET-1-induced oedema formation and neutrophil influx into mouse knee joints.
+CONCLUSION AND IMPLICATION: LXA(4) exerted anti-inflammatory effects on 
+articular inflammation through a mechanism that involved the inhibition of ET-1 
+expression and its effects.
+
+© 2010 The Authors. British Journal of Pharmacology © 2010 The British 
+Pharmacological Society.

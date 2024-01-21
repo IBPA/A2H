@@ -1,0 +1,18 @@
+Collagen induced arthritis (CIA) is the most studied animal model for rheumatoid 
+arthritis and is associated with the MHC class II molecule Aq. T-cell 
+recognition of a peptide from type II collagen, CII256-270, bound to Aq is a 
+requirement for development of CIA. Lysine 264 is the major T-cell recognition 
+site of CII256-270 and CIA is in particular associated with recognition of 
+lysine 264 after posttranslational hydroxylation and subsequent attachment of a 
+beta-D-galactopyranosyl moiety. In this paper we have studied the structural 
+requirements of collagenous glycopeptides required for T-cell stimulation, as an 
+extension of earlier studies of the recognition of the galactose moiety. 
+Synthesis and evaluation of alanine substituted glycopeptides revealed that 
+there are T-cells that only recognise the galactosylated hydroxylysine 264, and 
+no other amino acid side chains in the peptide. Other T-cells also require 
+glutamic acid 266 as a T-cell contact point. Introduction of a methylene ether 
+isostere instead of the amide bond between residues 260 and 261 allowed weaker 
+recognition by some, but not all, of the T-cells. Altogether, these results 
+allowed us to propose a model for glycopeptide recognition by the T-cells, where 
+recognition from one or the other side of the galactose moiety could explain the 
+different binding patterns of the T-cells.

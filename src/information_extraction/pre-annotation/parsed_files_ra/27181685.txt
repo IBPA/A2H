@@ -1,0 +1,27 @@
+A previous study that investigated the effect of ultrasound (US) on the 
+transdermal permeation of the non-steroidal anti-inflammatory drug diclofenac 
+found that therapeutic US can increase circulation in an inflamed joint and 
+decrease arthritic pain. Transdermal drug delivery has recently been 
+demonstrated by US combined with microbubbles (MB) contrast agent (henceforth 
+referred to as "US-MB"). The present study evaluated the efficacy of 
+US-MB-mediated diclofenac delivery for treating adjuvant-induced rheumatoid 
+arthritis (RA) in rats. RA was induced by injecting 100 μL of complete Freund's 
+adjuvant into the ankle joint of male Sprague-Dawley rats (250-300 g) that were 
+randomly divided into five treatment groups: (i) carbopol gel alone (the control 
+[group C]), (ii) diclofenac-carbopol gel (group D), (iii) US plus carbopol gel 
+(group U), (iv) US plus diclofenac-carbopol gel (group DU) and (v) US-MB plus 
+diclofenac-carbopol gel (group DUB). The ankle width was measured over 10 d 
+using high-frequency (40-MHz) US B-mode and color Doppler-mode imaging, covering 
+the period before and after treatment. Longitudinal US images of the induced RA 
+showed synovitis and neovascularity. Only a small amount of neovascularity was 
+observed after treatment. The recovery rate on day 10 was significantly higher 
+in group DUB (97.7% ± 2.7%, mean ± standard deviation [SD]) than in groups C 
+(1.0% ± 2.7%), D (37.5% ± 4.6%), U (75.5% ± 4.2%) and DU (87.3% ± 5.2%) 
+(p < 0.05). The results obtained indicate that combining US and MB can increase 
+the skin permeability and thereby enhance the delivery of diclofenac sodium gel 
+and thereby inhibit inflammation of the tissues surrounding the arthritic ankle. 
+Color Doppler-mode imaging revealed that US-MB treatment induced a rapid 
+reduction in synovial neoangiogenesis in the arthritic area.
+
+Copyright © 2016 World Federation for Ultrasound in Medicine & Biology. 
+Published by Elsevier Inc. All rights reserved.

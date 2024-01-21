@@ -1,0 +1,7 @@
+The MIC(90) of RBx 14255, a novel ketolide, against Clostridium difficile was 4 
+μg/ml (MIC range, 0.125 to 8 μg/ml), and this drug was found to be more potent 
+than comparator drugs. An in vitro time-kill kinetics study of RBx 14255 showed 
+time-dependent bacterial killing for C. difficile. Furthermore, in the hamster 
+model of C. difficile infection, RBx 14255 demonstrated greater efficacy than 
+metronidazole and vancomycin, making it a promising candidate for C. difficile 
+treatment.

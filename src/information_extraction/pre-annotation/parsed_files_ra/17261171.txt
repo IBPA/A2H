@@ -1,0 +1,20 @@
+The antibody-mediated targeted delivery of cytokines to sites of disease is a 
+promising avenue for cancer therapy, but it is largely unexplored for the 
+treatment of chronic inflammatory conditions. Using both radioactive and 
+fluorescent techniques, the human monoclonal antibodies L19 and G11 (specific to 
+two markers of angiogenesis that are virtually undetectable in normal adult 
+tissues) were found to selectively localize at arthritic sites in the murine 
+collagen-induced model of rheumatoid arthritis following intravenous (i.v.) 
+administration. The same animal model was used to study the therapeutic action 
+of the L19 antibody fused to the cytokines IL-2, tumour necrosis factor (TNF) 
+and IL-10. Whereas L19-IL-2 and L19-TNF treatment led to increased arthritic 
+scores and paw swellings, the fusion protein L19-IL-10 displayed a therapeutic 
+activity, which was superior to the activity of IL-10 fused to an antibody of 
+irrelevant specificity in the mouse. The anti-inflammatory cytokine IL-10 has 
+been investigated for the treatment of patients with rheumatoid arthritis, but 
+clinical development plans have been discontinued because of a lack of efficacy. 
+Because the antigen recognised by L19 is strongly expressed at sites of 
+arthritis in humans and identical in both mice and humans, it suggests that the 
+fusion protein L19-IL-10 might help overcome some of the clinical limitations of 
+IL-10 and provide a therapeutic benefit to patients with chronic inflammatory 
+disorders, including arthritis.

@@ -1,0 +1,26 @@
+In this study, we synthesized hundreds of analogues based on the structure of 
+small-molecule inhibitors (SMIs) that were previously identified in our 
+laboratory with the aim of identifying potent yet safe compounds for arthritis 
+therapeutics. One of the analogues was shown to share structural similarity with 
+quercetin, a potent anti-inflammatory flavonoid present in many different fruits 
+and vegetables. We investigated the immunomodulatory effects of this compound, 
+namely 
+6-(2,4-difluorophenyl)-3-(3-(trifluoromethyl)phenyl)-2H-benzo[e][1,3]oxazine-2,4(3H)-dione 
+(Cf-02), in a side-by-side comparison with quercetin. Chondrocytes were isolated 
+from pig joints or the joints of patients with osteoarthritis that had undergone 
+total knee replacement surgery. Several measures were used to assess the 
+immunomodulatory potency of these compounds in tumor necrosis factor 
+(TNF-&alpha;)-stimulated chondrocytes. Characterization included the protein and 
+mRNA levels of molecules associated with arthritis pathogenesis as well as the 
+inducible nitric oxide synthase (iNOS)⁻nitric oxide (NO) system and matrix 
+metalloproteinases (MMPs) in cultured chondrocytes and proteoglycan, and 
+aggrecan degradation in cartilage explants. We also examined the activation of 
+several important transcription factors, including nuclear factor-kappaB 
+(NF-&kappa;B), interferon regulatory factor-1 (IRF-1), signal transducer and 
+activator of transcription-3 (STAT-3), and activator protein-1 (AP-1). Our 
+overall results indicate that the immunomodulatory potency of Cf-02 is 
+fifty-fold more efficient than that of quercetin without any indication of 
+cytotoxicity. When tested in vivo using the induced edema method, Cf-02 was 
+shown to suppress inflammation and cartilage damage. The proposed method shows 
+considerable promise for the identification of candidate disease-modifying 
+immunomodulatory drugs and leads compounds for arthritis therapeutics.

@@ -1,0 +1,22 @@
+Fibroblast-like synoviocyte (FLS) is the ultimate effectual cells in the 
+pathogenesis of rheumatoid arthritis (RA). The current study was undertaken to 
+investigate whether a proliferation-inducing ligand (APRIL) mediates the 
+function of FLS in an animal model of RA. Rat adjuvant-induced arthritis (AA) 
+was induced by intradermal injection of 0.1 ml complete Freund's adjuvant. 
+Synovium APRIL expression was detected by immunohistochemical analysis. The 
+level of APRIL and matrix metalloproteinase (MMP)-9 were assayed by 
+enzyme-linked immunosorbent assay. The expression of APRIL and its receptors 
+(TACI, BCMA and BAFF-R) were assessed by immunofluorescence staining, flow 
+cytometry, reverse transcription-polymerase chain reaction (RT-PCR) and 
+real-time RT-PCR. The effects of APRIL on the function of FLS were investigated 
+by MTT, Quantibody Rat Inflammation Array 1 and transwell assays, respectively. 
+A higher concentration of APRIL was detected in AA synovium homogenate compared 
+with normal group. AA FLS expressed APRIL, TACI, BAFF-R and BCMA at the mRNA 
+levels, whereas only APRIL and BCMA were confirmed to be expressed on membrane 
+by flow cytometry. APRIL stimulated AA FLS proliferation, migration and invasion 
+and the secretion of proinflammatory factors. In addition, FLS cocultured with 
+APRIL-treated B cells or T cells had a significantly greater proliferation than 
+FLS cultured alone. Neutralization of APRIL by the TACI-Ig fusion protein 
+attenuated these stimulating effects of APRIL on FLS. Our data indicate that 
+APRIL may act as an important mediator for facilitating the function of FLS. 
+Blockade of APRIL thus may be a valuable adjunct in the treatment of RA.

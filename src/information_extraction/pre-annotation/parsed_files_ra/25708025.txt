@@ -1,0 +1,27 @@
+OBJECTIVE: To evaluate the binding of recombinant human proteoglycan 4 (rhPRG4) 
+to CD44 receptor and its consequences on cytokine-induced synoviocyte 
+proliferation.
+METHODS: The binding of rhPRG4 to CD44 and competition with high molecular 
+weight (HMW) hyaluronic acid (HA) was evaluated using a direct enzyme-linked 
+immunosorbent assay (ELISA) and surface plasmon resonance. Sialidase A and 
+O-glycosidase digestion of rhPRG4 was performed, and CD44 binding was evaluated 
+using ELISA. Rheumatoid arthritis (RA) fibroblast-like synoviocytes (FLS) were 
+stimulated with interleukin-1β (IL-1β) or tumor necrosis factor α (TNFα) for 48 
+hours in the presence or absence of rhPRG4 or HMW HA at 20, 40, and 80 μg/ml, 
+and cell proliferation was measured. The contribution of CD44 was assessed by 
+coincubation with a CD44 antibody (IM7). The antiproliferative effect of rhPRG4 
+was investigated following treatment of PRG4(-/-) mouse synoviocytes with IL-1β 
+or TNFα in the presence or absence of IM7.
+RESULTS: Recombinant human PRG4 bound CD44 and interfered with the binding of 
+HMW HA to CD44. Removal of sialic acid and O-glycosylations significantly 
+increased CD44 binding by rhPRG4 (P < 0.001). Both rhPRG4 and HMW HA at 40 and 
+80 μg/ml significantly suppressed IL-1β-induced proliferation of RA FLS 
+(P < 0.05). Recombinant human PRG4 at 20, 40, and 80 μg/ml significantly 
+suppressed TNFα-induced RA FLS proliferation (P < 0.05). CD44 neutralization 
+reversed the effect of rhPRG4 on IL-1β- and TNFα-stimulated RA FLS and the 
+effect of HMW HA on IL-1β-stimulated RA FLS. Recombinant human PRG4 inhibited 
+cytokine-induced proliferation of PRG4(-/-) synoviocytes, which could be 
+prevented by blocking CD44.
+CONCLUSION: PRG4 (lubricin) is a novel putative ligand for CD44 and may control 
+synoviocyte overgrowth in inflammatory arthropathies via a CD44-mediated 
+mechanism.

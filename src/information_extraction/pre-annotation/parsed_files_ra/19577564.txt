@@ -1,0 +1,14 @@
+Collagen-induced arthritis (CIA) is an established mouse model of disease with 
+hallmarks of clinical rheumatoid arthritis. Histone/protein deacetylase 
+inhibitors (HDACi) are known to inhibit the pathogenesis of CIA and other models 
+of autoimmune disease, although the mechanisms responsible are unclear. 
+Regulatory T cell (Treg) function is defective in rheumatoid arthritis. FOXP3 
+proteins in Tregs are present in a dynamic protein complex containing histone 
+acetyltransferase and HDAC enzymes, and FOXP3 itself is acetylated on lysine 
+residues. We therefore investigated the effects of HDACi therapy on regulatory T 
+cell function in the CIA model. Administration of an HDACi, valproic acid (VPA), 
+significantly decreased disease incidence (p<0.005) and severity (p<0.03) in 
+CIA. In addition, VPA treatment increased both the suppressive function of 
+CD4(+)CD25(+) Tregs (p<0.04) and the numbers of CD25(+)FOXP3(+) Tregs in vivo. 
+Hence, clinically approved HDACi such as VPA may limit autoimmune disease in 
+vivo through effects on the production and function of FOXP3(+) Treg cells.

@@ -1,0 +1,20 @@
+The neuropeptide neurotensin mediates several intestinal functions, including 
+chloride secretion, motility, and cellular growth. However, whether this peptide 
+participates in intestinal inflammation is not known. Toxin A, an enterotoxin 
+from Clostridium difficile, mediates pseudomembranous colitis in humans. In 
+animal models, toxin A causes an acute inflammatory response characterized by 
+activation of sensory neurons and intestinal nerves and immune cells of the 
+lamina propria. Here we show that neurotensin and its receptor are elevated in 
+the rat colonic mucosa following toxin A administration. Pretreatment of rats 
+with the neurotensin receptor antagonist SR-48, 692 inhibits toxin A-induced 
+changes in colonic secretion, mucosal permeability, and histologic damage. 
+Exposure of colonic explants to toxin A or neurotensin causes mast cell 
+degranulation, which is inhibited by SR-48,692. Because substance P was 
+previously shown to mediate mast cell activation, we examined whether substance 
+P is involved in neurotensin-induced mast cell degranulation. Our results show 
+that neurotensin-induced mast cell degranulation in colonic explants is 
+inhibited by the substance P (neurokinin-1) receptor antagonist CP-96,345, 
+indicating that colonic mast activation in response to neurotensin involves 
+release of substance P. We conclude that neurotensin plays a key role in the 
+pathogenesis of C. difficile-induced colonic inflammation and mast cell 
+activation.

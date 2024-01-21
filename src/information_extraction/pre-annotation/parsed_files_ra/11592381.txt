@@ -1,0 +1,26 @@
+OBJECTIVE; Superoxide dismutase (SOD) is a potent antiinflammatory enzyme that 
+has received growing attention for its therapeutic potential. This study was 
+undertaken to examine the efficacy of extracellular SOD (EC-SOD) gene therapy in 
+murine collagen-induced arthritis.
+METHODS: Embryonic DBA/1 mouse fibroblasts were infected with a recombinant 
+retrovirus expressing human EC-SOD. DBA/1 mice that had been treated with type 
+II collagen were administered subcutaneous injections of 2 x 10(7) 
+EC-SOD-expressing fibroblasts on day 29, when symptoms of arthritis were already 
+present. The severity of arthritis in individual mice was evaluated in a 
+double-blind manner; each paw was assigned a separate clinical score, and hind 
+paw thickness was measured with a caliper. Mice were killed on day 50 for 
+histologic examination of the joints.
+RESULTS: High serum concentrations of EC-SOD were maintained for at least 7 
+days. Mice treated with the transgene exhibited significant suppression of 
+clinical symptoms such as disabling joint swelling, deformity, and hind paw 
+thickness, compared with the untreated group (mean +/- SD maximum clinical score 
+in the untreated and the transgene-treated groups 2.71 +/- 1.08 and 1.35 +/- 
+1.22, respectively; P < 0.01, and hind paw thickness 3.04 +/- 0.18 mm and 2.56 
++/- 0.12 mm, respectively; P < 0.05). Histologic abnormalities, including 
+destruction of cartilage and bone, infiltration of mononuclear cells, and 
+proliferation of synovial cells, were also markedly improved in the 
+EC-SOD-treated mice compared with the control group (histopathologic score 7.50 
++/- 1.13 and 4.13 +/- 1.88 in the untreated and transgene-treated groups, 
+respectively; P < 0.05).
+CONCLUSION: These results indicate that EC-SOD gene transfer may be an effective 
+form of therapy for rheumatoid arthritis.

@@ -1,0 +1,22 @@
+The Gram-positive anaerobe Clostridium difficile is the major cause of 
+nosocomial diarrhea; manifestations of infection include diarrhea, 
+pseudomembranous colitis, and death. Genes for type IV pili, a bacterial 
+nanofiber often involved in colonization and until relatively recently described 
+only in Gram-negatives, are present in all members of the Clostridiales. We 
+hypothesized that any pilins encoded in the C. difficile genome would be 
+immunogenic, as has been shown with pilins from Gram-negative organisms. We 
+describe nine pilin or pilin-like protein genes, for which we introduce a 
+coherent nomenclature, in the C. difficile R20291 genome. The nine predicted 
+pilin or pilin-like proteins have relatively conserved N-terminal hydrophobic 
+regions, but diverge at their C-termini. Analysis of synonymous and 
+nonsynonymous substitutions revealed evidence of diversifying selective pressure 
+in two pilin genes. Six of the nine identified proteins were purified and used 
+to immunize mice. Immunization of mice with each individual protein generated 
+antibody responses that varied in titer and cross-reactivity, a notable result 
+given the low amino acid sequence identity among the pilins. Further studies in 
+other small mammals mirrored our results in mice. Our results illuminate 
+components of the C. difficile type IV pilus and help identify targets for an 
+anti-C. difficile vaccine.
+
+© 2014 Federation of European Microbiological Societies. Published by John Wiley 
+& Sons Ltd. All rights reserved.

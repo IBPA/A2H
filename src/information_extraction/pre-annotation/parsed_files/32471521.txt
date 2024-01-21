@@ -1,0 +1,24 @@
+Corynebacterium bovis is the causative agent of Corynebacterium-associated 
+hyperkeratosis in immunocompromised mice. The resulting skin pathology can be 
+profound and can be associated with severe wasting, making the animals 
+unsuitable for research. Although the administration of antibiotics is effective 
+in resolving clinical symptoms, antibiotics do not eradicate the offending 
+bacterium. Furthermore, antibiotic use may be contraindicated as it can affect 
+tumor growth and is associated with Clostridioides difficile enterotoxemia in 
+highly immunocompromised murine strains. Lysins, which are lytic enzymes 
+obtained from bacteriophages, are novel antimicrobial agents for treating 
+bacterial diseases. The advantage of lysins are its target specificity, with 
+minimal off-target complications that could affect the host or the biology of 
+the engrafted tumor. The aim of this study was to identify lysins active against 
+C. bovis. Chemical activation of latent prophages by using mitomycin C in 3 C. 
+bovis isolates did not cause bacteriophage induction as determined through 
+plaque assays and transmission electron microscopy. As an alternative approach, 
+8 lysins associated with other bacterial species, including those from the 
+closely related species C. falsenii, were tested for their lytic action against 
+C. bovis but were unsuccessful. These findings were congruent with the 
+previously reported genomic analysis of 21 C. bovis isolates, which failed to 
+reveal bacteriophage sequences by using the PHAST and PHASTER web server tools. 
+From these results, we suggest C. bovis is among those rare bacterial species 
+devoid of lysogenic bacteriophages, thus making the identification of C. 
+bovis-specific lysins more challenging. However, C. bovis may be a useful model 
+organism for studying the effects of antiphage systems.

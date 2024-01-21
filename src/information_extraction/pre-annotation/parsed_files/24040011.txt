@@ -1,0 +1,18 @@
+Infections caused by Clostridium difficile have increased steadily over the past 
+several years. While studies on C. difficile virulence and physiology have been 
+hindered, in the past, by lack of genetic approaches and suitable animal models, 
+newly developed technologies and animal models allow these processes to be 
+studied in detail. One such advance is the generation of a mouse-model of C. 
+difficile infection. The development of this system is a major step forward in 
+analyzing the genetic requirements for colonization and infection. While 
+important, it is equally as important in understanding what differences exist 
+between mice and humans. One of these differences is the natural bile acid 
+composition. Bile acid-mediated spore germination is an important step in C. 
+difficile colonization. Mice produce several different bile acids that are not 
+found in humans. These muricholic acids have the potential to impact C. 
+difficile spore germination. Here we find that the three muricholic acids 
+(α-muricholic acid, β-muricholic acid and ω-muricholic acid) inhibit C. 
+difficile spore germination and can impact the growth of vegetative cells. These 
+results highlight an important difference between humans and mice and may have 
+an impact on C. difficile virulence in the mouse-model of C. difficile 
+infection.

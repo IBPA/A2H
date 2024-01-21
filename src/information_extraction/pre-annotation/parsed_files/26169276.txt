@@ -1,0 +1,16 @@
+Recurrent Clostridium difficile infection (CDI) is of particular concern among 
+health care-associated infections. The role of the microbiota in disease 
+recovery is apparent given the success of fecal microbiota transplantation (FMT) 
+for recurrent CDI. Here, we present a murine model of CDI relapse to further 
+define the microbiota recovery following FMT. Cefoperazone-treated mice were 
+infected with C. difficile 630 spores and treated with vancomycin after 
+development of clinical disease. Vancomycin treatment suppressed both C. 
+difficile colonization and cytotoxin titers. However, C. difficile counts 
+increased within 7 days of completing treatment, accompanied by relapse of 
+clinical signs. The administration of FMT immediately after vancomycin cleared 
+C. difficile and decreased cytotoxicity within 1 week. The effects of FMT on the 
+gut microbiota community were detectable in recipients 1-day posttransplant. 
+Conversely, mice not treated with FMT remained persistently colonized with high 
+levels of C. difficile, and the gut microbiota in these mice persisted at low 
+diversity. These results suggest that full recovery of colonization resistance 
+against C. difficile requires the restoration of a specific community structure.

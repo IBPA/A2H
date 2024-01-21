@@ -1,0 +1,18 @@
+Clostridium difficile infection (CDI) are the leading cause of world-wide 
+nosocomial acquired diarrhea. The current main clinical challenge in CDI is the 
+elevated rate of infection recurrence that may reach up to 30% of the patients, 
+which has been associated to the formation of dormant spores during the 
+infection. We sought to characterize the effects of oral administration of 
+specific anti-spore IgY in mouse models of CDI and recurrent CDI. The 
+specificity of anti-spore IgY was evaluated in vitro. In both, initiation mouse 
+model and recurrence mouse model, we evaluated the prophylactic and therapeutic 
+effect of anti-spore IgY, respectively. Our results demonstrate that anti-spore 
+IgY exhibited high specificity and titers against C. difficile spores and 
+reduced spore adherence to intestinal cells in vitro. Administration of 
+anti-spore IgY to C57BL/6 mice prior and during CDI delayed the appearance of 
+the diarrhea by 1.5 day, and spore adherence to the colonic mucosa by 90%. 
+Notably, in the recurrence model, co-administration of anti-spore IgY coupled 
+with vancomycin delayed the appearance of recurrent diarrhea by a median of 2 
+days. Collectively, these observations suggest that anti-spore IgY antibodies 
+may be used as a novel prophylactic treatment for CDI, or in combination with 
+antibiotics to treat CDI and prevent recurrence of the infection.

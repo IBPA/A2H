@@ -1,0 +1,18 @@
+Osteoclasts are responsible for bone and joint destruction in rheumatoid 
+arthritis, periodontitis, and osteoporosis. Animal tusk slice assays are 
+standard for evaluating the effect of therapeutics on these cells. However, in 
+addition to batch-to-batch variability inherent to animal tusks, their use is 
+clearly not sustainable. Our objective was to develop and characterize a 
+biomimetic calcium phosphate assay based on the use of phase pure hydroxyapatite 
+coated as a thin film on the surface of culture plates, to facilitate the 
+reproducible quantification of osteoclast resorptive activity. Osteoclasts were 
+formed from RAW 264.7 mouse monocyte cell line using a pro-resorptive cytokine 
+RANKL (50 ng/mL). No change in substrate appearance was noted after culture with 
+media without cells, or undifferentiated monocytes. Only in the presence of 
+osteoclasts localized areas of calcium phosphate dissolution were observed. The 
+total area resorbed positively correlated with the osteoclast numbers (R(2) = 
+0.99). The resorbed area was significantly increased by the addition of RANKL, 
+and decreased after application of known inhibitors of osteoclast resorptive 
+activity, calcitonin (10 μM), or alendronate (100 μM). Thus, calcium phosphate 
+coated substrates allow reliable monitoring of osteoclast resorptive activity 
+and offer an alternative to animal tusk slice assays.

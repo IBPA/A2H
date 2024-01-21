@@ -1,0 +1,23 @@
+Although the pathogenesis of collagen-induced arthritis (CIA), a model of 
+rheumatoid arthritis, is mediated by both collagen-specific CD4(+) T cells and 
+Ab specific for type II collagen (CII), the role of CII-specific T cells in the 
+pathogenesis of CIA remains unclear. Using tetrameric HLA-DR1 with a covalently 
+bound immunodominant CII peptide, CII(259-273), we studied the development of 
+the CII-specific T cell response in the periphery and arthritic joints of DR1 
+transgenic mice. Although the maximum number of DR1-CII-tetramer(+) cells was 
+detected in draining lymph nodes 10 days postimmunization, these T cells 
+accounted for only 1% or less of the CD4(+) population. After day 10, their 
+numbers gradually decreased, but were still detectable on day 130. Examination 
+of TCR expression and changes in CD62L, CD44(high), and CD69 expression by these 
+T cells indicated that they expressed a limited TCR-BV repertoire and had 
+clearly undergone activation. RT-PCR analysis of cytokine expression by the 
+tetramer(+) T cells compared with tetramer(-) cells indicated the tetramer(+) 
+cells expressed high levels of Th1 and proinflammatory cytokines, including 
+IL-2, IFN-gamma, IL-6, TNF-alpha, and especially IL-17. Additionally, analysis 
+of the synovium from arthritic paws indicated that the same 
+CD4(+)/BV8(+)/BV14(+)/tetramer(+) T cells were present in the arthritic joints. 
+These data demonstrate that although only small numbers of CII-specific T cells 
+are generated during the development of CIA, these cells express very high 
+levels of cytokine mRNA and appear to preferentially migrate to the arthritic 
+joint, indicating a potential direct role of CII-specific T cells in the 
+pathogenesis of CIA.

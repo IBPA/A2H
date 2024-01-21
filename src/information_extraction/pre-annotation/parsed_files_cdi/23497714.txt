@@ -1,0 +1,15 @@
+BACKGROUND: This study was conducted to evaluate the faecal occurrence and 
+characterization of Clostridium difficile in clinically healthy dogs (N = 50) 
+and in dogs with diarrhea (N = 20) in the Stockholm-Uppsala region of Sweden.
+FINDINGS: Clostridium difficile was isolated from 2/50 healthy dogs and from 
+2/20 diarrheic dogs. Isolates from healthy dogs were negative for toxin A and B 
+and for the tcdA and tcdB genes. Both isolates from diarrheic dogs were positive 
+for toxin B and for the tcdA and tcdB genes. The C. difficile isolates from 
+healthy dogs had PCR ribotype 009 (SE-type 6) and 010 (SE-type 3) whereas both 
+isolates from dogs with diarrhoea had the toxigenic ribotype 014 (SE-type 21). 
+One of the isolates from healthy dogs was initially resistant to metronidazole.
+CONCLUSIONS: This study revealed presence of toxigenic C. difficile in faecal 
+samples of diarrheic dogs and low number of non- toxigenic isolates in healthy 
+dogs from Uppsala-Stockholm region in Sweden. However, more comprehensive 
+studies are warranted to investigate the role of C. difficile in 
+gastrointestinal disease in dogs.

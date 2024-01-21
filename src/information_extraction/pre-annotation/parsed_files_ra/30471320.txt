@@ -1,0 +1,54 @@
+BACKGROUND AND PURPOSE: Polygonum orientale L. (family: Polygonaceae), named 
+Hongcao in China, has effects of dispelling wind and dampness, promoting blood 
+circulation, and relieving pain. Our group has already studied and confirmed 
+that POEa and POEe (ethyl acetate and ethyl ether extract of P. orientale, 
+respectively) had anti-inflammatory and analgesic effects in early research, 
+which was mainly relevant to the existence of flavonoids. According to the 
+clinical application of P. orientale in traditional Chinese medicine, it has 
+long been used for rheumatic arthralgia and rheumatoid arthritis. Therefore, our 
+group further explored whether flavonoids of P. orientale have anti-rheumatoid 
+arthritis effect and how does they play this role.
+METHODS: Dried small pieces of the stems and leaves of P. orientale were 
+decocted with water and partitioned successively to obtain POEa and POEe, 
+respectively. The anti-rheumatoid arthritis effect of P. orientale was studied 
+by using a Freund's complete adjuvant (FCA)-induced arthritis (AIA) in a rat 
+model. The levels of PGE2, TNF-α, and IL-1β in serum of AIA rats were detected 
+by enzyme linked immunosorbent assay (ELISA) to explore its mechanisms. In 
+addition, we computationally studied the relationships between the 15 chemical 
+components of POEa and POEe, and the currently focused 9 target proteins of 
+rheumatoid arthritis by molecular docking.
+RESULTS: Pharmacological experiments showed that POEa and POEe significantly 
+ameliorate symptoms of rheumatoid arthritis via reducing paw swelling volume, 
+arthritis score, and thymus and spleen indices, as well as increasing body 
+weight in AIA rats. Simultaneously, the concentrations of PGE2, TNF-α, and IL-1β 
+were significantly decreased by POEa and POEe. Histopathology revealed 
+noticeable reduction in bone and cartilage, synovial hyperplasia, inflammatory 
+cell infiltration, cartilage surface erosion, and joint degeneration by POEa and 
+POEe treatment. In addition, the molecular docking studies showed that docking 
+scores of 14 chemical compositions (including 12 flavonoids and 2 phenolic 
+acids) of POEa and POEe with anti-rheumatoid arthritis protein targets were 
+better than the complexed ligands of the anti-rheumatoid arthritis protein 
+targets. Among them, six flavonoids in POEa and POEe had more docking protein 
+targets (n ≥ 3). Five anti-rheumatoid arthritis targets including 
+high-temperature requirement A1 protease (HtrA1), janus kinase 1 (JAK1), 
+cyclooxygenase-2 (COX-2), inducible nitric oxide synthase (i-NOS), and 
+prostaglandin E2 (PGE2) had better docking score compared with the complexed 
+ligands. Moreover, most of the chemical components in POEa and POEe showed 
+strong interaction with HtrA1.
+CONCLUSIONS: The flavonoids of P. orientale have anti-rheumatoid arthritis 
+effect. In addition, the molecular docking results indicate that quercetin, 
+catechol, orientin, and other six flavonoids may be closely related to HtrA1, 
+JAK1, COX-2, i-NOS, and PGE2 protein target receptors. It suggests that these 
+chemical compositions form strong protein-ligand complexes with these protein 
+targets, especially HtrA1 to exert anti-rheumatoid arthritis. Further 
+experimental studies show that mechanisms of anti-rheumatoid arthritis effects 
+may also be relevant to inhibit the levels of PGE2, TNF-α, and IL-1β in serum. 
+Therefore, our group can further explore the possible active ingredients and 
+mechanisms of the anti-rheumatoid arthritis effects of flavonoids, and focus on 
+the inhibition of the expression of inflammatory factors and the TGF-β1/Smad 
+signaling pathway associated with HtrA1 protein target receptors, which can 
+provide a direction and powerful reference for the action mechanism and drug 
+research of anti-rheumatoid arthritis of flavonoids in P. orientale.
+
+Copyright © 2018 European Federation of Immunological Societies. Published by 
+Elsevier B.V. All rights reserved.

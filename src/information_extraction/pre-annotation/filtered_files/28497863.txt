@@ -1,0 +1,15 @@
+Cytotoxic T-lymphocyte antigen 4 (CTLA-4) -mediated regulation of already 
+tolerized autoreactive T cells is critical for understanding autoimmune 
+responses. Although defects in CTLA-4 contribute to abnormal FOXP3+ regulatory T 
+(Treg) cell function in rheumatoid arthritis, its role in autoreactive T cells 
+remains elusive. We studied immunity towards the dominant collagen type II (CII) 
+T-cell epitope in collagen-induced arthritis both in the heterologous setting 
+and in the autologous setting where CII is mutated at position E266D in mouse 
+cartilage. CTLA-4 regulated all stages of arthritis, including the chronic 
+phase, and affected the priming of autologous but not heterologous CII-reactive 
+T cells. CTLA-4 expression by both conventional T (Tconv) cells and Treg cells 
+was required but while Tconv cell expression was needed to control the priming 
+of naive autoreactive T cells, CTLA-4 on Treg cells prevented the inflammatory 
+tissue attack. This identifies a cell-type-specific time window when 
+CTLA-4-mediated tolerance is most powerful, which has important implications for 
+clinical therapy with immune modulatory drugs.

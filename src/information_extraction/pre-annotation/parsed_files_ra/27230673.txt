@@ -1,0 +1,15 @@
+There are limitations in the current classification of danger-associated 
+molecular patterns (DAMP) receptors. To overcome these limitations, we propose a 
+new paradigm by using endogenous metabolites lysophospholipids (LPLs) as a 
+prototype. By utilizing a data mining method we pioneered, we made the following 
+findings: (1) endogenous metabolites such as LPLs at basal level have 
+physiological functions; (2) under sterile inflammation, expression of some LPLs 
+is elevated. These LPLs act as conditional DAMPs or anti-inflammatory 
+homeostasis-associated molecular pattern molecules (HAMPs) for regulating the 
+progression of inflammation or inhibition of inflammation, respectively; (3) 
+receptors for conditional DAMPs and HAMPs are differentially expressed in human 
+and mouse tissues; and (4) complex signaling mechanism exists between 
+pro-inflammatory mediators and classical DAMPs that regulate the expression of 
+conditional DAMPs and HAMPs. This novel insight will facilitate identification 
+of novel conditional DAMPs and HAMPs, thus promote development of new 
+therapeutic targets to treat inflammatory disorders.

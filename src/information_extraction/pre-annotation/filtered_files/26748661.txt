@@ -1,0 +1,26 @@
+Targeting activated macrophages using anti-inflammatory phytopharmaceuticals has 
+been proposed as general therapeutic approaches for rheumatic diseases. Besides 
+macrophages, chondrocytes are another promising target of anti-inflammatory 
+agents. Tetrandrine is a major bisbenzylisoquinoline alkaloid isolated from 
+Stephania tetrandrae S. Moore which has been used for 2,000 years as an 
+antirheumatic herbal drug in China. Although, the anti-inflammatory effect of 
+tetrandrine has been demonstrated, the mechanism has not been clearly clarified. 
+In this study, we designed a comprehensive anti-inflammatory evaluation system 
+for tetrandrine, including complete Freund's adjuvant (CFA)-induced arthritis 
+rat, LPS-induced macrophage RAW 264.7 cells, and chondrogenic ATDC5 cells. The 
+results showed that tetrandrine alleviated CFA-induced foot swelling, synovial 
+inflammation, and pro-inflammatory cytokines secretion. Tetrandrine could 
+inhibit IL-6, IL-1β, and TNF-α expression via blocking the nuclear translocation 
+of nuclear factor (NF)-κB p65 in LPS-induced RAW 264.7 cells. Moreover, ATDC5 
+cells well responded to LPS induced pro-inflammatory mediators secretion and 
+tissue degradation, and tetrandrine could also inhibit the production of nitric 
+oxide and prostaglandin E2 , as well as the expression of matrix 
+metalloproteinase (MMP)-3 and tissue inhibitor of metalloproteinase (TIMP)-1 via 
+inhibiting IκBα phosphorylation and degradation. In conclusion, the results 
+showed that one of the anti-inflammatory mechanisms of tetrandrine was 
+inhibiting IκBα and NF-κB p65 phosphorylation in LPS-induced macrophage RAW 
+264.7 cells and chondrogenic ATDC5 cells. Moreover, we introduce a vigorous in 
+vitro cell screening system, LPS-induced murine macrophage RAW 264.7 cells 
+coupling chondrogenic ADTC5 cells, for screening anti-rheumatic drugs. © 2016 
+Orthopaedic Research Society. Published by Wiley Periodicals, Inc. J Orthop Res 
+34:1557-1568, 2016.

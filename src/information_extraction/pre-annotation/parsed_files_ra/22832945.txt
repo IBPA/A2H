@@ -1,0 +1,27 @@
+OBJECTIVE: Glucocorticoid (GC) therapy is associated with increased risk of 
+fracture in patients with rheumatoid arthritis (RA). To elucidate the cause of 
+this increased risk, we examined the effects of chronic erosive inflammatory 
+arthritis and GC treatment on bone quality, structure, and biomechanical 
+properties in a murine model.
+METHODS: Mice with established arthritis and expressing human tumor necrosis 
+factor α (TNFα) transgene (Tg) and their wild-type (WT) littermates were 
+continually treated with GC (prednisolone 5 mg/kg/day via subcutaneous 
+controlled-release pellet) or placebo for 14, 28, or 42 days. Microstructure, 
+biomechanical properties, chemical composition, and morphology of the tibiae and 
+lumbar vertebral bodies were assessed by micro-computed tomography, 
+biomechanical testing, Raman spectroscopy, and histology, respectively. Serum 
+markers of bone turnover were also determined.
+RESULTS: TNF-Tg and GC treatment additively decreased mechanical strength and 
+stiffness in both the tibiae and the vertebral bodies. GC treatment in the 
+TNF-Tg mice increased the ductility of tibiae under torsional loading. These 
+changes were associated with significant alterations in the biochemical and 
+structural composition of the mineral and organic components of the bone matrix, 
+a decrease in osteoblast activity and bone formation, and an increase in 
+osteoclast activity.
+CONCLUSION: Our findings indicate that the concomitant decrease in bone strength 
+and increase in bone ductility associated with chronic inflammation and GC 
+therapy, coupled with the significant changes in the bone quality and structure, 
+may increase the susceptibility of the bone to failure under low-energy loading. 
+This may explain the mechanism of symptomatic insufficiency fractures in 
+patients with RA receiving GC therapy who do not have radiographic 
+manifestations of fracture.

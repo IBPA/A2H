@@ -1,0 +1,18 @@
+We investigated the effect on rheumatoid arthritis (RA) of an anti-gp130 
+monoclonal antibody (mAb) and its mechanism using RA fibroblast-like 
+synoviocytes (FLS) and a collagen antibody-induced arthritis (CAIA) mouse model. 
+We determined the interleukin 6 (IL-6), IL-6 receptor α (IL-6Rα), gp130, 
+receptor activator of nuclear factor κB ligand (RANKL), matrix metalloproteinase 
+3 (MMP3), TIMP metallopeptidase inhibitor 1 (TIMP1), and Bcl-2 levels in RA and 
+osteoarthritis (OA) serum and synovial fluid. RA FLS were cultured with or 
+without IL-6/IL-6Rα; WNT5A and RANKL levels were detected. We generated an 
+anti-gp130 mAb (M10) with higher affinity and specificity, blocked IL-6 
+signaling with it, and assessed its effects on the CAIA model, WNT5A and RANKL 
+expression, and signal transducer and activator of transcription 3 (STAT3) 
+phosphorylation. The IL-6 signaling system in patients with RA was increased; 
+RANKL, MMP3, TIMP1, and Bcl-2 in RA bone were elevated. IL-6/IL-6Rα increased RA 
+FLS WNT5A and RANKL expression. M10 ameliorated arthritis in the CAIA model, and 
+inhibited RANKL, WNT5A, and Bcl-2 expression in RA FLS by blocking IL-6 
+signaling, likely via Janus kinase-STAT3 pathway downregulation. The 
+IL-6-soluble IL-6Rα-gp130 complex is hyperactive in RA and OA. M10 may be the 
+basis for a novel RA treatment drug.

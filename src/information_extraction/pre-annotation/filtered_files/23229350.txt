@@ -1,0 +1,47 @@
+Euphorbia hirta L. (Euphorbiaceae) (E. hirta) is a tree locally used as a 
+traditional medicine in Africa and Australia to treat numerous diseases such as 
+hypertension, respiratory ailments, tumors, antipyretic, anti-inflammatory 
+activities. In the present study, we investigated the anti-arthritic activity of 
+fresh leaves of E. hirta ethanol extract that was found to inhibit the 
+production of inflammatory mediators and cytokines of adjuvant arthritis in 
+rats. Adjuvant arthritis was induced in rats (Wistar) by the subplantar 
+injection of 0.05 ml freshly prepared suspension (5.0 mg/ml) of steam killed 
+Mycobacterium tuberculli in liquid paraffin. Animals were treated with graded 
+doses of 25, 50, 100 and 200 mg/kg of E. hirta ethanol extract, p.o. E. hirta 
+significantly inhibited the swelling of the adjuvant-induced arthritis. 
+Moreover, E. hirta at higher dose (200 mg/kg) showed 40.54 ± 1.09 % of CD3+, 
+15.1 ± 0.76 % of CD4+, 12.2 ± 1.18 % of CD8+ T cell receptor and 17.6 ± 1.11 % 
+gated of CD19+ B cell receptor revealing a down regulation of adjuvant-induced 
+arthritis as compared to the corresponding valves of the arthritic control rats. 
+According to the results shown in Tables 1, 2, the production of IL-1β, TNF-α, 
+IL-2 and IFN-γ were increased in splenocytes of arthritic rats and this 
+increased level was reduced by E. hirta. Also, E. hirta significantly down 
+regulated lipopolysaccharide (LPS)-induced production of nitric oxide production 
+in peritoneal macrophages. These results suggest that E. hirta exhibits an 
+improvement in adjuvant-induced arthritis through down regulation of activated 
+macrophages and T lymphocytes functions. Such unique effects of E. hirta shown 
+on adjuvant arthritis rat model may be advantageous to the long-term treatment 
+of clinical rheumatoid arthritis. Table 1 Effect of E. hirta and prednisolone 
+(Pred) on LPS-induced IL-1β and TNF-α productions from splenocytes in 
+Mycobacterium tuberculli-induced inflammatory arthritic rats Treatment Dose 
+(mg/kg) IL-1β (pg/ml) TNF-α (pg/ml) Arthritic control (AC) - 323.56 ± 31.65 
+180.91 ± 24.12 E. hirta 25 311.19 ± 29.08* 171.43 ± 22.54* E. hirta 50 287.12 ± 
+26.98* 164.54 ± 21.76** E. hirta 100 243.12 ± 19.21*** 157.30 ± 18.54*** E. 
+hirta 200 215.21 ± 16.05*** 138.43 ± 17.98*** Prednisolone (Pred) 5 187.18 ± 
+15.21*** 123.77 ± 15.12*** Normal control (NC) - 54.12 ± 12.54 71.94 ± 12.12 
+Each value indicates the mean ± SEM of six animals AC arthritic control, NC 
+normal control; E. hirta (25, 50, 100 and 200 mg/kg) and prednisolone (5 mg/kg) 
+were given p.o. from day 0 to day 21 after Mycobacterium tuberculli injection, 
+respectively * p < 0.05; ** p < 0.01; *** p < 0.001, compared to arthritic 
+control Table 2 Effect of E. hirta and Prednisolone (Pred) on Con A-induced IL-2 
+and IFN-γ productions from splenocytes in Mycobacterium tuberculli-induced 
+inflammatory arthritic rats Treatment Dose (mg/kg) IL-2 (pg/ml) IFN-γ (pg/ml) 
+Arthritic control (AC) - 235.98 ± 15.23 165.95 ± 13.87 E. hirta 25 225.12 ± 
+14.76** 154.76 ± 11.07** E. hirta 50 207.76 ± 13.87** 134.76 ± 11.01** E. hirta 
+100 189.98 ± 12.65 *** 110.64 ± 10.98*** E. hirta 200 157.84 ± 14.32 *** 98.54 ± 
+10.76*** Prednisolone (Pred) 5 131.08 ± 13.31*** 87.65 ± 10.61*** Normal control 
+(NC) - 78.12 ± 12.04 31.87 ± 10.12 Each value indicates the mean ± SEM of six 
+animals AC arthritic control, NC normal control; E. hirta (25, 50, 100 and 200 
+mg/kg) and prednisolone (5 mg/kg) were given p.o. from day 0 to day 21 after 
+Mycobacterium tuberculli injection, respectively * p < 0.05; ** p < 0.01; *** p 
+< 0.001, compared to arthritic control.

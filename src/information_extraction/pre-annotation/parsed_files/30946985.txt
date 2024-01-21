@@ -1,0 +1,31 @@
+Clostridioides difficile infection (CDI) is an emerging public health threat and 
+C. difficile is the most common cause of antimicrobial-associated diarrhea 
+worldwide and the leading cause of hospital-associated infections in the US, yet 
+the burden of community-acquired infections (CAI) is poorly understood. 
+Characterizing C. difficile isolated from canines is important for understanding 
+the role that canines may play in CAI. In addition, several studies have 
+suggested that canines carry toxigenic C. difficile asymptomatically, which may 
+imply that there are mechanisms responsible for resistance to CDI in canines 
+that could be exploited to help combat human CDI. To assess the virulence 
+potential of canine-derived C. difficile, we tested whether toxins TcdA and TcdB 
+(hereafter toxins) derived from a canine isolate were capable of causing tight 
+junction disruptions to colonic epithelial cells. Additionally, we addressed 
+whether major differences exist between human and canine cells regarding 
+C. difficile pathogenicity by exposing them to identical toxins. We then 
+examined the canine gut microbiome associated with C. difficile carriage using 
+16S rRNA gene sequencing and searched for deviations from homeostasis as an 
+indicator of CDI. Finally, we queried 16S rRNA gene sequences for bacterial taxa 
+that may be associated with resistance to CDI in canines. Clostridioides 
+difficile isolated from a canine produced toxins that reduced tight junction 
+integrity in both human and canine cells in vitro. However, canine guts were not 
+dysbiotic in the presence of C. difficile. These findings support asymptomatic 
+carriage in canines and, furthermore, suggest that there are features of the gut 
+microbiome and/or a canine-specific immune response that may protect canines 
+against CDI. We identified two biologically relevant bacteria that may aid in 
+CDI resistance in canines: 1) Clostridium hiranonis, which synthesizes secondary 
+bile acids that have been shown to provide resistance to CDI in mice; and 2) 
+Sphingobacterium faecium, which produces sphingophospholipids that may be 
+associated with regulating homeostasis in the canine gut. Our findings suggest 
+that canines may be cryptic reservoirs for C. difficile and, furthermore, that 
+mechanisms of CDI resistance in the canine gut could provide insights into 
+targeted therapeutics for human CDI.

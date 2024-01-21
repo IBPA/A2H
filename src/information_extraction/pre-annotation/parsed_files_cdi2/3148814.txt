@@ -1,0 +1,18 @@
+The cytopathogenic effect of toxin A from Clostridium difficile was studied in 
+cultured human lung fibroblasts. The final effect was dependent on toxin 
+concentration and exposure time. Binding of the toxin to cells occurred at 0 
+degrees C as well as at 37 degrees C. The latency before appearance of the 
+cytopathogenic effect was dose-dependent with a minimum of 45 min. The 
+appearance of a cytopathogenic effect in toxin-treated cells was prevented by 
+the addition of trypsin, antitoxin, lysosomotropic agents, inhibitors of the 
+energy metabolism, 200 mM KCl, 20 mM benzyl alcohol and by incubation at 18 
+degrees C. Several inhibitors of lysosomal proteases did not prevent the 
+appearance of the cytopathogenic effect. When the extracellular pH was lowered 
+to 4.5 for 5 min immediately after toxin binding the period of latency was 
+significantly shortened. Likewise, the protective effects of lysosomotropic 
+agents were abolished by lowering the extracellular pH. Chinese hamster ovary 
+cell mutants, defective in acidification of their endosomes, were less sensitive 
+to toxin A than wildtype cells. The results indicate that cellular 
+internalisation of toxin A is necessary for intoxication. Moreover, we postulate 
+that the toxin needs some sort of enzymatic activation which can take place only 
+after exposure of the toxin to a low pH.

@@ -1,0 +1,18 @@
+Cocoa polyphenols have antioxidant and anti-inflammatory effects. TNF-α is a 
+pro-inflammatory cytokine that has a vital role in the pathogenesis of 
+inflammatory diseases such as cancer and psoriasis. Vascular endothelial growth 
+factor (VEGF) expression is associated with tumorigenesis, CVD, rheumatoid 
+arthritis and psoriasis. We tested whether cocoa polyphenol extract (CPE) 
+inhibited TNF-α-induced VEGF expression in promotion-sensitive JB6 mouse 
+epidermal cells. CPE significantly inhibited TNF-α-induced up-regulation of VEGF 
+via reducing TNF-α-induced activation of the nuclear transcription factors 
+activator protein-1 (AP-1) and NF-κB, which are key regulators of VEGF 
+expression. CPE also inhibited TNF-α-induced phosphorylation of protein kinase B 
+(Akt) and extracellular signal-regulated kinase. CPE blocked activation of their 
+downstream kinases, p70 kDa ribosomal protein S6 kinase and p90 kDa ribosomal 
+protein S6 kinase. CPE suppressed phosphoinositide 3-kinase (PI3K) activity via 
+binding PI3K directly. CPE did not affect TNF-α-induced phosphorylation of 
+mitogen-activated protein kinase kinase-1 (MEK1) but suppressed TNF-α-induced 
+MEK1 activity. Collectively, these results indicate that CPE reduced 
+TNF-α-induced up-regulation of VEGF by directly inhibiting PI3K and MEK1 
+activities, which may contribute to its chemopreventive potential.

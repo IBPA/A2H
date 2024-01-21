@@ -1,0 +1,21 @@
+Although we recently demonstrated that static magnetic fields (SMFs) of 3, 15, 
+and 50 mT stimulate osteoblastic differentiation, the effects of SMFs on 
+osteoclastogenesis are still poorly understood. This study focused on the 
+suppressive effects of SMFs on receptor activator of nuclear factor κB ligand 
+(RANKL)-induced osteoclastogenesis and bone resorption. Direct SMFs inhibit 
+RANKL-induced multinucleated osteoclast formation, tartrate-resistant acid 
+phosphatase activity, and bone resorption in mouse bone marrow-derived 
+macrophage cells. The conditioned medium from osteoblasts treated with SMFs also 
+resulted in the inhibition of osteoclast differentiation as well as resorption. 
+The RANKL-induced expression of osteoclast-specific transcription factors, such 
+as c-Fos and NFATc1, was remarkably downregulated by SMF at 15 mT. In addition, 
+SMF inhibited RANKL-activated Akt, glycogen synthase kinase 3β (GSK3β), 
+extracellular signal-regulated kinase, c-jun N-terminal protein kinase, 
+mitogen-activated protein kinase (MAPK), and nuclear factor-κB (NF-κB) 
+formation. These findings indicate that SMF-mediated attenuation of 
+RANKL-induced Akt, GSK3β, MAPK, and NF-κB pathways could contribute to the 
+direct and indirect inhibition of osteoclast formation and bone resorption. 
+Therefore, SMFs could be developed as a therapeutic agent against periprosthetic 
+or peri-implant osteolysis. Additionally, these could be used against osteolytic 
+diseases such as osteoporosis and rheumatoid arthritis. Bioelectromagnetics. 
+39:394-404, 2018. © 2018 Wiley Periodicals, Inc.

@@ -1,0 +1,18 @@
+SKLB010 is currently under development as a potential therapeutic agent for the 
+treatment of acute hepatitis and rheumatoid arthritis. The purpose of this paper 
+was to investigate the pre-clinical pharmacokinetics of SKLB010 in beagle dogs. 
+An ultra performance liquid chromatographic tandem mass spectroscopy 
+(UPLC-MS/MS) method was developed and validated for the quantitative 
+determination of SKLB010 in dog plasma, using rosiglitazone as the internal 
+standard (I.S.). Plasma samples were prepared by a simple solid phase extraction 
+(SPE) method. The analyte and internal standard were separated by an Acquity 
+UPLC BEH C18 (2.1 mm × 50 mm) column with a mobile phase of methanol-water 
+(80/20, v/v) over 2 min. Detection was based on the multiple reaction monitoring 
+with the precursor-to-product ion transitions m/z 234.10→147.92 (SKLB010) and 
+m/z 356.15→150.00 (I.S.). The method was validated according to FDA guidelines 
+on bio-analytical method validation. The selectivity, sensitivity, linearity, 
+accuracy, precision, extraction recovery, ion suppression and stability were 
+within the acceptable ranges. The method described above was successfully 
+applied to reveal the single- and multi-pharmacokinetic profiles of SKLB010 in 
+beagle dogs and should be extendable to pharmacokinetic studies in other species 
+as well.

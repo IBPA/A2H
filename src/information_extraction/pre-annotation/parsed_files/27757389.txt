@@ -1,0 +1,31 @@
+Antibiotics have significant and long-lasting impacts on the intestinal 
+microbiota and consequently reduce colonization resistance against Clostridium 
+difficile infection (CDI). Standard therapy using antibiotics is associated with 
+a high rate of disease recurrence, highlighting the need for novel treatment 
+strategies that target toxins, the major virulence factors, rather than the 
+organism itself. Human monoclonal antibodies MK-3415A (actoxumab-bezlotoxumab) 
+to C. difficile toxin A and toxin B, as an emerging non-antibiotic approach, 
+significantly reduced the recurrence of CDI in animal models and human clinical 
+trials. Although the main mechanism of protection is through direct 
+neutralization of the toxins, the impact of MK-3415A on gut microbiota and its 
+restoration has not been examined. Using a CDI murine model, we compared the 
+bacterial diversity of the gut microbiome of mice under different treatments 
+including MK-3415A, vancomycin, or vancomycin combined with MK-3415A, sampled 
+longitudinally. Here, we showed that C. difficile infection resulted in the 
+prevalence of Enterobacter species. Sixty percent of mice in the vehicle group 
+died after 2 days and their microbiome was almost exclusively formed by 
+Enterobacter. MK-3415A treatment resulted in lower Enterobacter levels and 
+restoration of Blautia, Akkermansia, and Lactobacillus which were the core 
+components of the original microbiota. Vancomycin treatment led to significantly 
+lower survival rate than the combo treatment of MK-3415A and vancomycin. 
+Vancomycin treatment decreased bacterial diversity with predominant Enterobacter 
+and Akkermansia, while Staphylococcus expanded after vancomycin treatment was 
+terminated. In contrast, mice treated by vancomycin combined with MK-3415A also 
+experienced decreased bacterial diversity during vancomycin treatment. However, 
+these animals were able to recover their initial Blautia and Lactobacillus 
+proportions, even though episodes of Staphylococcus overgrowth were detected by 
+the end of the experiments. In conclusion, MK-3415A (actoxumab-bezlotoxumab) 
+treatment facilitates normalization of the gut microbiota in CDI mice. It 
+remains to be examined whether or not the prevention of recurrent CDI by the 
+antitoxin antibodies observed in clinical trials occurs through modulation of 
+microbiota.

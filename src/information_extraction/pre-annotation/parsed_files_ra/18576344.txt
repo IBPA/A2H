@@ -1,0 +1,23 @@
+OBJECTIVE: To develop a new mouse model for arthritis using cartilage oligomeric 
+matrix protein (COMP) and to study the role of major histocompatibility complex 
+(MHC) and Ncf1 genes in COMP-induced arthritis (COMPIA).
+METHODS: Native (pentameric) and denatured (monomeric) COMP purified from a rat 
+chondrosarcoma was injected into mice with Freund's adjuvant to induce 
+arthritis. C3H.NB, C3H.Q, B10.P, B10.Q, (B10.Q x DBA/1)F1, (BALB/c x B10.Q)F1, 
+Ncf1 mutated, H-2Aq, H-2Ap, and human DR4+-transgenic mice were used. Anti-COMP 
+antibodies and COMP levels in the immune sera were analyzed, and passive 
+transfer of arthritis with purified immune sera was tested.
+RESULTS: Immunization with rat COMP induced a severe, chronic, relapsing 
+arthritis, with a female preponderance, in the mice. The disease developed in 
+C3H.NB mice, but not in B10.P mice, although they share the same MHC haplotype. 
+Both H-2q and H-2p MHC haplotypes allowed the initiation of COMPIA. Using 
+H-2Aq-transgenic and H-2Ap-transgenic mice, we demonstrated a role of both the 
+Aq and Ep class II molecules in this model. Interestingly, the introduction of a 
+mutation in the Ncf1 gene, which is responsible for the reduced oxidative burst 
+phenotype, into the COMPIA-resistant B10.Q mouse strain rendered them highly 
+susceptible to arthritis. In addition, the transfer of anti-COMP serum was found 
+to induce arthritis in naive mice. Mice transgenic for the rheumatoid arthritis 
+(RA)-associated DR4 molecule were found to be highly susceptible to COMPIA.
+CONCLUSION: Using rat COMP, we have developed a new and unique mouse model of 
+chronic arthritis that resembles RA. This model will be useful as an appropriate 
+and alternative model for studying the pathogenesis of RA.

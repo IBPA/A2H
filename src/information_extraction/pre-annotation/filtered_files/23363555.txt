@@ -1,0 +1,19 @@
+AI (anaemia of inflammation) often manifests in patients with chronic immune 
+activation due to cancer, chronic infections, autoimmune disorders, rheumatoid 
+arthritis and other diseases. The pathogenesis of AI is complex and involves 
+cytokine-mediated inhibition of erythropoiesis, insufficient erythropoietin 
+production and diminished sensitivity of erythroid progenitors to this hormone, 
+and retention of iron in haemoglobin-processing macrophages. NO (nitric oxide) 
+is a gaseous molecule produced by activated macrophages that has been identified 
+as having numerous effects on iron metabolism. In the present study, we explore 
+the possibility that NO affects iron metabolism in reticulocytes and our results 
+suggest that NO may also contribute to AI. We treated reticulocytes with the NO 
+donor SNP (sodium nitroprusside). The results indicate that NO inhibits haem 
+synthesis dramatically and rapidly at the level of erythroid-specific 
+5-aminolaevulinic acid synthase 2, which catalyses the first step of haem 
+synthesis in erythroid cells. We also show that NO leads to the inhibition of 
+iron uptake via the Tf (transferrin)-Tf receptor pathway. In addition, NO also 
+causes an increase in eIF2α (eukaryotic initiation factor 2α) phosphorylation 
+levels and decreases globin translation. The profound impairment of haem 
+synthesis, iron uptake and globin translation in reticulocytes by NO raises the 
+possibility that this gas may also contribute to AI.

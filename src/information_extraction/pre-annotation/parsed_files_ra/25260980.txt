@@ -1,0 +1,29 @@
+INTRODUCTION: During the progression of rheumatoid arthritis (RA), there are 
+frequent but intermittent flares in which the joint becomes acutely inflamed and 
+painful. Although a number of drug therapies are currently used to treat RA, 
+their effectiveness is variable and side effects are common. Endocannabinoids 
+have the potential to ameliorate joint pain and inflammation, but these 
+beneficial effects are limited by their rapid degradation. One enzyme 
+responsible for endocannabinoid breakdown is fatty acid amide hydrolase (FAAH). 
+The present study examined whether URB597, a potent and selective FAAH 
+inhibitor, could alter inflammation and pain in a mouse model of acute 
+synovitis.
+METHODS: Acute joint inflammation was induced in male C57BL/6 mice by 
+intra-articular injection of 2% kaolin/2% carrageenan. After 24 hr, articular 
+leukocyte kinetics and blood flow were used as measures of inflammation, while 
+hindlimb weight bearing and von Frey hair algesiometry were used as measures of 
+joint pain. The effects of local URB597 administration were then determined in 
+the presence or absence of either the cannabinoid (CB)1 receptor antagonist 
+AM251, or the CB2 receptor antagonist AM630.
+RESULTS: URB597 decreased leukocyte rolling and adhesion, as well as 
+inflammation-induced hyperaemia. However, these effects were only apparent at 
+low doses and the effects of URB597 were absent at higher doses. In addition to 
+the anti-inflammatory effects of URB597, fatty acid amide hydrolase (FAAH) 
+inhibition improved both hindlimb weight bearing and von Frey hair withdrawal 
+thresholds. The anti-inflammatory effects of URB597 on leukocyte rolling and 
+vascular perfusion were blocked by both CB1 and CB2 antagonism, while the effect 
+on leukocyte adherence was independent of cannabinoid receptor activation. The 
+analgesic effects of URB597 were CB1 mediated.
+CONCLUSIONS: These results suggest that the endocannabinoid system of the joint 
+can be harnessed to decrease acute inflammatory reactions and the concomitant 
+pain associated with these episodes.

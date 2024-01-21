@@ -1,0 +1,24 @@
+Interferon (IFN)-beta has significant immunomodulatory properties and has 
+received much interest as a potentially therapeutic agent for rheumatoid 
+arthritis (RA). Systemic IFN-beta treatment of patients with RA was not 
+effective, probably because of pharmacokinetic issues. Therefore, we studied the 
+effect of local IFN-beta production by adenovirus-mediated gene transfer to the 
+ankle joints of arthritic rats. Adjuvant arthritis (AA) in rats was used as a 
+model to study intraarticular gene therapy with an adenoviral vector encoding 
+the rat IFN-beta gene (Ad.IFN-beta). The effect on paw swelling was measured by 
+water displacement plethysmometry. Synovial tissue of the hind paws was examined 
+by immunohistochemistry. Bone destruction was analyzed on the basis of 
+radiographs. In addition, quantitative real-time polymerase chain reaction was 
+used to assess IFN-beta expression. Levels of IFN-beta mRNA and protein peaked 2 
+days after intraarticular injection and declined thereafter. Local delivery of 
+Ad.IFN-beta after the onset of disease reduced paw swelling significantly. This 
+was accompanied by a reduction in synovial inflammation. The clinical effects in 
+rat AA lasted up to 9 days. Strikingly, Ad.IFN-beta treatment protected bone 
+from erosion, reduced levels of c-Cbl and Cbl-b (both signaling molecules 
+essential for osteoclast activity), and reduced the matrix 
+metalloproteinase-3:tissue inhibitor of metalloproteinase-1 ratio in the joint. 
+Immunohistochemical analysis of the synovial tissue revealed a clear shift 
+toward a more antiinflammatory cytokine profile. Local overexpression of 
+IFN-beta inhibits arthritis progression and protects against bone destruction in 
+rat AA. These findings validate IFN-beta as a therapeutic molecule for 
+intraarticular gene therapy of arthritis.

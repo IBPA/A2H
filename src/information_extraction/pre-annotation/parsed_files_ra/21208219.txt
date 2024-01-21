@@ -1,0 +1,23 @@
+BACKGROUND:   Tumor necrosis factor (TNF)-α is a principal mediator of the acute 
+inflammatory response, including allergic rhinitis. TNF-α inhibitors are widely 
+used for the treatment of inflammatory conditions such as rheumatoid arthritis 
+and inflammatory bowel diseases; however, the effects of TNF-α inhibitors on 
+allergic rhinitis are not well established. We aimed to investigate the effects 
+of infliximab, a TNF-α inhibitor, on allergic rhinitis in a mouse model.
+METHODS:   BALB/c mice were sensitized with ovalbumin (OVA) and alum, and 
+challenged intranasally with OVA. The TNF-α inhibitor, infliximab was 
+administered intraperitoneally, and multiple parameters of allergic responses 
+were evaluated to determine the effects of infliximab.
+RESULTS:   Infliximab reduced allergic symptoms and eosinophilic infiltration 
+into the nasal mucosa. It also suppressed total and OVA-specific IgE levels, and 
+inhibited local Th2 cytokine transcription in the nasal mucosa and systemic Th2 
+cytokine production by splenocytes. Furthermore, the expression of E-selectin, 
+neither intercellular adhesion molecule 1 (ICAM-1) nor vascular cell adhesion 
+molecule 1 (VCAM-1), in the nasal mucosa was suppressed in the 
+infliximab-treated group when compared to the nontreated group.
+CONCLUSION:   This study shows that the TNF-α inhibitor infliximab induces 
+anti-allergic effects by decreasing local and systemic Th2 cytokine (IL-4) 
+production, total and OVA-specific IgE levels, adhesion molecule (E-selectin) 
+expression, and eosinophil infiltration into the nasal mucosa in an allergic 
+rhinitis model. Therefore, infliximab should be considered as a potential agent 
+in treating allergic rhinitis.

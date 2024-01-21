@@ -1,0 +1,19 @@
+CD4+ regulatory T (Treg) cells and T-helper 17 (Th17) cells have been shown to 
+have important roles in rheumatoid arthritis (RA). In our previous study, it was 
+demonstrated that artesunate was able to alter the Treg/Th17 ratio in patients 
+with RA; however, the underlying mechanisms remain unclear. The present study 
+established a male Sprague Dawley (SD) rat model of type II collagen-induced 
+arthritis (CIA). SD rats were divided into normal control, CIA model and 
+artesunate-treated (5, 10 or 20 mg/kg/day) groups. Treg and Th17 cells were 
+detected in the synovium by immunohistochemical analysis of forkhead/winged 
+helix transcription factor (Foxp3) and interleukin (IL)-17 expression. 
+Subsequently, lymphocytes were extracted from the rat spleens, and the 
+proportions of Treg/Th17 cells were detected by flow cytometry. The results 
+demonstrated that the expression levels of Foxp3 were significantly decreased, 
+and those of IL-17 were significantly increased, in the CIA model group, as 
+compared with the normal control group. The results demonstrated that artesunate 
+decreased the frequency of Th17 cells and increased the frequency of Treg cells 
+in CIA rats in a dose-dependent manner. In conclusion, the present study 
+suggested that artesunate may regulate the Th17/Treg balance by inducing 
+Th17-mediated apoptosis. Therefore, artesunate may be considered a novel 
+therapeutic agent for the treatment of patients with RA.

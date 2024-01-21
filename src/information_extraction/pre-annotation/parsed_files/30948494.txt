@@ -1,0 +1,18 @@
+Clostridium difficile impairs Paneth cells, driving intestinal inflammation that 
+exaggerates colitis. Besides secreting bactericidal products to restrain C. 
+difficile, Paneth cells act as guardians that constitute a niche for intestinal 
+epithelial stem cell (IESC) regeneration. However, how IESCs are sustained to 
+specify Paneth-like cells as their niche remains unclear. Cytokine-JAK-STATs are 
+required for IESC regeneration. We investigated how constitutive STAT5 
+activation (Ca-pYSTAT5) restricts IESC differentiation towards niche cells to 
+restrain C. difficile infection. We generated inducible transgenic mice and 
+organoids to determine the effects of Ca-pYSTAT5-induced IESC lineages on C. 
+difficile colitis. We found that STAT5 absence reduced Paneth cells and 
+predisposed mice to C. difficile ileocolitis. In contrast, Ca-pYSTAT5 enhanced 
+Paneth cell lineage tracing and restricted Lgr5 IESC differentiation towards 
+pYSTAT5+Lgr5-CD24+Lyso+ or cKit+ niche cells, which imprinted Lgr5hiKi67+ IESCs. 
+Mechanistically, pYSTAT5 activated Wnt/β-catenin signaling to determine Paneth 
+cell fate. In conclusion, Ca-pYSTAT5 gradients control niche differentiation. 
+Lack of pYSTAT5 reduces the niche cells to sustain IESC regeneration and induces 
+C. difficile ileocolitis. STAT5 may be a transcription factor that regulates 
+Paneth cells to maintain niche regeneration.

@@ -1,0 +1,16 @@
+In this study we identified mechanisms at the colonic mucosa by which MUC2 mucin 
+regulated the production of β-defensin in a proinflammatory milieu but 
+functionally protected susceptible bacteria from its antimicrobial effects. The 
+regulator role of MUC2 on production of β-defensin 2 in combination with the 
+proinflammatory cytokine interleukin-1β (IL-1β) was confirmed using purified 
+human colonic MUC2 mucin and colonic goblet cells short hairpin RNA (shRNA) 
+silenced for MUC2. In vivo, Muc2(-/-) mice showed impaired β-defensin mRNA 
+expression and peptide localization in the colon as compared with Muc2(+/-) and 
+Muc2(+/+) littermates. Importantly, purified MUC2 mucin abrogated the 
+antimicrobial activity of β-defensin 2 against nonpathogenic and 
+enteropathogenic Escherichia coli. Sodium metaperiodate oxidation of MUC2 
+removed the capacity of MUC2 to stimulate β-defensin production and MUC2's 
+inhibition of defensin antimicrobial activity. This study highlights that a 
+defective MUC2 mucin barrier, typical in inflammatory bowel diseases, may lead 
+to deficient stimulation of β-defensin 2 and an unbalanced microbiota that favor 
+the growth of β-defensin-resistant microbes such as Clostridium difficile.

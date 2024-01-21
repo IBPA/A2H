@@ -1,0 +1,14 @@
+We reported that peripheral blood mononuclear cells from HLA-DRB1*0101 Japanese 
+patients with rheumatoid arthritis (RA) were highly reactive to 256-271 peptide 
+of type II collagen (CII). Similar to RA, T cells reactive to CII (AA256-271) 
+play a crucial role in the generation of arthritis in CII-induced arthritis 
+mouse (I-A(q)). In the present study, we regulated the CII reactivity of T cells 
+from CIA mouse with I-A(q) by altered peptide ligand (APL). Eight different APLs 
+were designed and screened for their antagonistic activity using CII reactive 
+cytokine production assay. Four APLs of CII 256-271 exhibited antagonistic 
+activity in CII-reactive T cells. Moreover, intraperitoneally injected APL-5 
+(G262A) significantly suppressed CII-induced arthritis in mice, whereas the 
+other three APLs did not. Compared with the control, APL-5 suppressed 
+interleukin (IL)-17 production by T cells from CII-induced arthritis mice. These 
+results suggest that CII APL is a potentially suitable therapeutic strategy for 
+the control of RA.

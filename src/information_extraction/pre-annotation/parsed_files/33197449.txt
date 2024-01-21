@@ -1,0 +1,13 @@
+The increasing incidence of primary and recurring Clostridioides difficile 
+infections (CDI), which evade current treatment strategies, reflects the 
+changing biology of C difficile. Here, we describe a putative plasmid-mediated 
+mechanism potentially driving decreased sensitivity of C difficile to vancomycin 
+treatment. We identified a broad host range transferable plasmid in a C 
+difficile strain associated with lack of adequate response to vancomycin 
+treatment. The transfer of this plasmid to a vancomycin-susceptible C difficile 
+isolate decreased its susceptibility to vancomycin in vitro and resulted in more 
+severe disease in a humanized mouse model. Our findings suggest plasmid 
+acquisition in the gastrointestinal tract to be a possible mechanism underlying 
+vancomycin treatment failure in patients with CDI, but further work is needed to 
+characterize the mechanism by which plasmid genes determine vancomycin 
+susceptibility in C difficile.

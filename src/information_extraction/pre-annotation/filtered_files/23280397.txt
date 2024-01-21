@@ -1,0 +1,21 @@
+Polymorphism at the GPSM3 gene locus is inversely associated with four systemic 
+autoimmune diseases, including rheumatoid arthritis and ankylosing spondylitis. 
+G-protein signaling modulator-3 (GPSM3) expression is most pronounced in myeloid 
+cells, in which it targets heterotrimeric G-protein Gαi subunits of chemokine 
+receptors, critical to immune function. To begin to explore the regulatory role 
+of GPSM3 in monocytes, human THP-1 and primary mouse myeloid cells were cultured 
+under stimulus conditions; GPSM3 was found by immunoblotting to be expressed at 
+highest levels in the mature monocyte. To evaluate the effects of GPSM3 
+deficiency on a myeloid-dependent autoimmune disease, collagen antibody-induced 
+arthritis (CAIA) was induced in Gpsm3-/- and control mice, which were then 
+analyzed for clinical score, paw swelling, intra-articular proinflammatory 
+markers, and histopathology. Mice lacking GPSM3 were protected from CAIA, and 
+expression of monocyte-representative pro-inflammatory chemokine receptors and 
+cytokines in paws of Gpsm3-/- mice were decreased. Flow cytometry, apoptosis, 
+and transwell chemotaxis experiments were conducted to further characterize the 
+effect of GPSM3 deficiency on survival and chemokine responsiveness of 
+monocytes. GPSM3-deficient myeloid cells had reduced migration ex vivo to CCL2, 
+CX3CL1, and chemerin and enhanced apoptosis in vitro. Our results suggest that 
+GPSM3 is an important regulator of monocyte function involving mechanisms of 
+differentiation, survival, and chemotaxis, and deficiency in GPSM3 expression is 
+protective in acute inflammatory arthritis.

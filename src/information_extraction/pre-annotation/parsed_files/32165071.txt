@@ -1,0 +1,30 @@
+OBJECTIVE: To investigate the effect of vancomycin and fidaxomicin on the 
+diversity of intestinal microbiota in a mouse model of Clostridioides difficile 
+infection.
+METHODS: Mice were divided into 11 models (4 mice per model): 6 uninoculated 
+models and 5 models inoculated with C. difficile BI/NAP1/027. Inoculated models 
+were prepared using intraperitoneal clindamycin followed by inoculation with 
+C. difficile BI/NAP1/027. Uninoculated and C. difficile-inoculated mice received 
+2 or 7 days' vancomycin or fidaxomicin. Clostridium butyricum MIYAIRI 588 
+probiotic and lactoferrin prebiotic were administered for 10 days to 
+uninoculated mice. Intestinal microbiome composition was investigated by 
+sequence analyses of bacterial 16S rRNA genes from faeces, and microbiota 
+diversity estimated.
+RESULTS: In uninoculated, untreated ('normal') mice, Clostridia (57.8%) and 
+Bacteroidia (32.4%) accounted for the largest proportions of gut microbiota. The 
+proportion of Clostridia was numerically reduced in C. difficile-inoculated 
+versus normal mice. Administration of vancomycin to C. difficile-inoculated mice 
+reduced the proportions of Bacteroidia and Clostridia, and increased that of 
+Proteobacteria. Administration of fidaxomicin to C. difficile-inoculated mice 
+reduced the proportion of Clostridia to a lesser extent, but increased that of 
+Bacteroidia. Microbiota diversity was lower in C. difficile-inoculated versus 
+normal mice (164.5 versus 349.1 operational taxonomic units (OTUs), 
+respectively); treatment of C. difficile-inoculated mice with 7 days' vancomycin 
+reduced diversity to a greater extent than did 7 days' fidaxomicin treatment 
+(26.2 versus 134.2 OTUs, respectively).
+CONCLUSIONS: Both C. difficile inoculation and treatment with vancomycin or 
+fidaxomicin reduced microbiota diversity; however, dysbiosis associated with 
+fidaxomicin was milder than with vancomycin.
+
+Copyright © 2020 Japanese Society of Chemotherapy and The Japanese Association 
+for Infectious Diseases. Published by Elsevier Ltd. All rights reserved.

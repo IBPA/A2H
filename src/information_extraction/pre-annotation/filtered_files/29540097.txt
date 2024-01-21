@@ -1,0 +1,24 @@
+CONTEXT: Rheumatoid arthritis (RA) is a common systemic auto-immune disease, 
+which is characterized by chronic and symmetry synovial inflammation. Crocin has 
+been reported to exhibit anti-inflammatory effects in animal models.
+OBJECTIVE: This study investigates the anti-inflammatory and anti-arthritic 
+effects of crocin on type II collagen-induced arthritis (CIA) in Wistar rats.
+MATERIALS AND METHODS: The CIA rat model was established and randomly divided 
+into five groups with or without crocin treatment (10, 20 or 40 mg/kg), which 
+was started on day 21 after arthritis induction and persisted for 36 days. The 
+symptoms and molecular mechanisms of CIA and crocin-treated CIA rats were 
+compared and investigated.
+RESULTS: CIA rats presented severe RA symptoms, including high arthritis score, 
+paw swelling, joint inflammation, bone erosion, chondrocyte death, cartilage 
+destruction, enhanced expressions of matrix metalloproteinase (MMP) and 
+pro-inflammatory cytokines. However, crocin could mitigate these symptoms. 
+Crocin (40 mg/kg) exhibited the most efficient therapeutic function on CIA rats: 
+the histological scores of joint inflammation, bone erosion, chondrocyte death, 
+cartilage surface erosion, and bone erosion of CIA rats receiving 40 mg/kg 
+crocin treatment were comparable to the normal rats. MMP-1, -3 and -13 protein 
+expression levels of CIA rats with 40 mg/kg crocin treatment were decreased to 
+levels similar to normal rats. Moreover, crocin could also inhibit the 
+expression of TNF-α, IL-17, IL-6 and CXCL8 in serum and ankle tissues of CIA 
+rats.
+CONCLUSIONS: In summary, crocin exhibits therapeutic potential for RA, by 
+mitigating the symptoms and inhibiting the pro-inflammatory factor expression.

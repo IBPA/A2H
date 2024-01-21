@@ -1,0 +1,27 @@
+Antigen-specific immune diseases such as rheumatoid arthritis are often 
+accompanied by pain and hyperalgesia. Our previous studies have demonstrated 
+that Fc-gamma-receptor type I (FcγRI) is expressed in a subpopulation of rat 
+dorsal root ganglion (DRG) neurons and can be directly activated by IgG immune 
+complex (IgG-IC). In this study we investigated whether neuronal FcγRI 
+contributes to antigen-specific pain in the naïve and rheumatoid arthritis model 
+rats. In vitro calcium imaging and whole-cell patch clamp recordings in 
+dissociated DRG neurons revealed that only the small-, but not medium- or 
+large-sized DRG neurons responded to IgG-IC. Accordingly, in vivo 
+electrophysiological recordings showed that intradermal injection of IgG-IC into 
+the peripheral receptive field could sensitize only the C- (but not A-) type 
+sensory neurons and evoke action potential discharges. Pain-related behavioral 
+tests showed that intradermal injection of IgG-IC dose-dependently produced 
+mechanical and thermal hyperalgesia in the hindpaw of rats. These behavioral 
+effects could be alleviated by localized administration of non-specific IgG or 
+an FcγRI antibody, but not by mast cell stabilizer or histamine antagonist. In a 
+rat model of antigen-induced arthritis (AIA) produced by methylated bovine serum 
+albumin, FcγRI were found upregulated exclusively in the small-sized DRG 
+neurons. In vitro calcium imaging revealed that significantly more small-sized 
+DRG neurons responded to IgG-IC in the AIA rats, although there was no 
+significant difference between the AIA and control rats in the magnitude of 
+calcium changes in the DRG neurons. Moreover, in vivo electrophysiological 
+recordings showed that C-nociceptive neurons in the AIA rats exhibited a greater 
+incidence of action potential discharges and stronger responses to mechanical 
+stimuli after IgG-IC was injected to the receptive fields. These results suggest 
+that FcγRI expressed in the peripheral nociceptors might be directly activated 
+by IgG-IC and contribute to antigen-specific pain in pathological conditions.

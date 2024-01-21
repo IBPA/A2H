@@ -1,0 +1,25 @@
+BACKGROUND: The proteoglycan biglycan (BGN) is involved in collagen fibril 
+assembly and its fragmentation is likely to be associated with collagen turnover 
+during the pathogenesis of diseases which involve dysregulated extracellular 
+matrix remodeling (ECMR), such as rheumatoid arthritis (RA) and liver fibrosis. 
+The scope of the present study was to develop a novel enzyme-linked 
+immunosorbent assay (ELISA) for the measurement of a MMP-9 and MMP-12-generated 
+biglycan neo-epitope and to test its biological validity in a rat model of RA 
+and in two rat models of liver fibrosis, chosen as models of ECMR.
+RESULTS: Biglycan was cleaved in vitro by MMP-9 and -12 and the 
+344'YWEVQPATFR'353 peptide (BGM) was chosen as a potential neo-epitope. A 
+technically sound competitive ELISA for the measurement of BGM was generated and 
+the assay was validated in a bovine cartilage explant culture (BEX), in a 
+collagen induced model of rheumatoid arthritis (CIA) and in two different rat 
+models of liver fibrosis: the carbon tetrachloride (CCL4)-induced fibrosis 
+model, and the bile duct ligation (BDL) model. Significant elevation in serum 
+BGM was found in CIA rats compared to controls, in rats treated with CCL4 for 16 
+weeks and 20 weeks compared to the control groups as well as in all groups of 
+rats subject to BDL compared with sham operated groups. Furthermore, there was a 
+significant correlation of serum BGM levels with the extent of liver fibrosis 
+determined by the Sirius red staining of liver sections in the CCL4 model.
+CONCLUSION: We demonstrated that the specific tissue remodeling product of 
+MMPs-degraded biglycan, namely the neo-epitope BGM, is correlated with 
+pathological ECMR. This assay represents both a novel marker of ECM turnover and 
+a potential new tool to elucidate biglycan role during the pathological 
+processes associated with ECMR.

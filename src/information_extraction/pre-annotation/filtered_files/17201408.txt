@@ -1,0 +1,15 @@
+Leukocyte recruitment of sites of inflammation and tissue injury involves 
+leukocyte rolling along the endothelial wall, followed by firm adherence of the 
+leukocyte, and finally transmigration of the leukocyte across cell junctions 
+into the underlying tissue. The initial rolling step is mediated by the 
+interaction of leukocyte glycoproteins containing active moieties such as sialyl 
+Lewisx (sLex) with P-selectin expressed on endothelial cells. Consequently, 
+inhibition of this interaction by means of a small molecule P-selectin 
+antagonist is an attractive strategy for the treatment of inflammatory diseases 
+such as arthritis. High-throughput screening of the Wyeth chemical library 
+identified the quinoline salicylic acid class of compounds (1) as antagonists of 
+P-selectin, with potency in in vitro and cell-based assays far superior to that 
+of sLex. Through iterative medicinal chemistry, we identified analogues with 
+improved P-selectin activity, decreased inhibition of dihydrooratate 
+dehydrogenase, and acceptable CYP profiles. Lead compound 36 was efficacious in 
+the rat AIA model of rheumatoid arthritis.

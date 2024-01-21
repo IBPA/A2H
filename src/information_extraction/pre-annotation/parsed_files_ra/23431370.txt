@@ -1,0 +1,23 @@
+Rheumatoid arthritis (RA) is the most common arthritis and is mainly 
+characterized by symmetric polyarticular joint disorders. Our previous study 
+demonstrated a novel small molecule compound 
+(Z)-N-(3-Chlorophenyl)-2-(4-((2,4-dioxothiazolidin-5-ylidene) methyl) phenoxy) 
+acet-amide (SKLB023) showed potently anti-arthritic effects in a rat arthritis 
+model, however, the underlying mechanisms for this are largely unknown. Both 
+NF-κB and macrophages were reported to play important roles in the pathologic 
+processes of RA. The purposes of this study were to indicate whether NF-κB and 
+macrophages contributed to anti-arthritic effects of SKLB023 in two experimental 
+arthritis models. Our results showed that SKLB023 could significantly improve 
+joint inflammation and cartilage destruction both in adjuvant induced arthritis 
+(AIA) and collagen-induced arthritis (CIA) models. We further found that the 
+binding activation of NF-κB to DNA in joint tissues and RAW264.7 macrophages 
+were suppressed by SKLB023. SKLB023 also inhibited the NF-κB activity in 
+peritoneal macrophages by luciferase assay. Furthermore, the number of 
+macrophages in synovial tissues was decreased after the treatment of different 
+doses of SKLB023. The levels of TNF-α, IL-1β, and IL-6 in plasma, and the levels 
+of TNF-α, NO, and IL-1β in peritoneal macrophages were down-regulated by 
+SKLB023. Finally, SKLB023 attenuated the expression of iNOS and COX-2 in vivo 
+and suppressed the phosphorylations of components of the mitogen-activated 
+protein kinases (MAPKs). These observations identify a novel function for 
+SKLB023 as an inhibitor of NF-κB in macrophages of RA, highlighting that SKLB023 
+was a potential therapeutic strategy for RA.

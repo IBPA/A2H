@@ -1,0 +1,23 @@
+Collagen-induced arthritis (CIA) is a chronic inflammatory disease bearing all 
+the hallmarks of rheumatoid arthritis, e.g. polyarthritis, synovitis, and 
+subsequent cartilage/bone erosions. One feature of the disease contributing to 
+joint damage is synovial hyperplasia. The factors responsible for the 
+hyperplasia are unknown; however, an imbalance between rates of cell 
+proliferation and cell death (apoptosis) has been suggested. To evaluate the 
+role of a major pathway of cell death - Fas (CD95)/FasL - in the pathogenesis of 
+CIA, DBA/1J mice with a mutation of the Fas gene (lpr) were generated. The 
+susceptibility of the mutant DBA-lpr/lpr mice to arthritis induced by collagen 
+type II was evaluated. Contrary to expectations, the DBA-lpr/lpr mice developed 
+significantly milder disease than the control littermates. The incidence of 
+disease was also significantly lower in the lpr/lpr mice than in the controls 
+(40% versus 81%; P < 0.05). However DBA-lpr/lpr mice mounted a robust immune 
+response to collagen, and the expression of local proinflammatory cytokines such 
+as, e.g., tumor necrosis factor alpha (TNF-alpha) and IL-6 were increased at the 
+onset of disease. Since the contribution of synovial fibroblasts to inflammation 
+and joint destruction is crucial, the potential activating effect of Fas on 
+mouse fibroblast cell line NIH3T3 was investigated. On treatment with anti-Fas 
+in vitro, the cell death of NIH3T3 fibroblasts was reduced and the expression of 
+proinflammatory cytokines TNF-alpha and IL-6 was increased. These findings 
+suggest that impairment of immune tolerance by increased T-cell reactivity does 
+not lead to enhanced susceptibility to CIA and point to a role of Fas in joint 
+destruction.

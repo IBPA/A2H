@@ -1,0 +1,13 @@
+We have identified Tspan33 as a gene encoding a transmembrane protein exhibiting 
+a restricted expression pattern including expression in activated B cells. 
+TSPAN33 is a member of the tetraspanin family. TSPAN33 is not expressed in 
+resting B cells, but is strongly induced in primary human B cells following 
+activation. Human 2E2 cells, a Burkitt's lymphoma-derived B cell model of 
+activation and differentiation, also upregulate TSPAN33 upon activation. TSPAN33 
+is expressed in several lymphomas including Hodgkin's and Diffuse large B cell 
+lymphoma. TSPAN33 is also expressed in some autoimmune diseases where B cells 
+participate in the pathology, including rheumatoid arthritis patients, systemic 
+lupus erythematosus (SLE), and in spleen B cells from MRL/Fas(lpr/lpr) mice (a 
+mouse model of SLE). We conclude that TSPAN33 may be used as a diagnostic 
+biomarker or as a target for therapeutic antibodies for treatment of certain B 
+cell lymphomas or autoimmune diseases.

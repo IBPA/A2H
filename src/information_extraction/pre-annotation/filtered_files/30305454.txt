@@ -1,0 +1,21 @@
+Developing and mature chondrocytes constantly interact with and remodel the 
+surrounding extracellular matrix (ECM). Recent research indicates that 
+integrin-ECM interaction is differentially regulated during cartilage formation 
+(chondrogenesis). Integrin signaling is also a key source of the catabolic 
+reactions responsible for joint destruction in both rheumatoid arthritis and 
+osteoarthritis. However, we do not understand how chondrocytes dynamically 
+regulate integrin signaling in such an ECM-rich environment. Here, we found that 
+developing chondrocytes express integrin-β-like 1 (Itgbl1) at specific stages, 
+inhibiting integrin signaling and promoting chondrogenesis. Unlike cytosolic 
+integrin inhibitors, ITGBL1 is secreted and physically interacts with integrins 
+to down-regulate activity. We observed that Itgbl1 expression was strongly 
+reduced in the damaged articular cartilage of patients with osteoarthritis (OA). 
+Ectopic expression of Itgbl1 protected joint cartilage against OA development in 
+the destabilization of the medial meniscus-induced OA mouse model. Our results 
+reveal ITGBL1 signaling as an underlying mechanism of protection against 
+destructive cartilage disorders and suggest the potential therapeutic utility of 
+targeting ITGBL1 to modulate integrin signaling in human disease.
+
+Copyright © 2018 The Authors, some rights reserved; exclusive licensee American 
+Association for the Advancement of Science. No claim to original U.S. Government 
+Works.

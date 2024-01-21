@@ -1,0 +1,30 @@
+Pro-inflammatory mediators formed by the kallikrein-kinin system can stimulate 
+bone resorption and synergistically potentiate bone resorption induced by IL-1 
+and TNF-alpha. We have shown that the effect is associated with synergistically 
+enhanced RANKL expression and enhanced prostaglandin biosynthesis, due to 
+increased cyclooxygenase-2 expression. In the present study, the effects of 
+osteotropic cytokines and different kinins on the expression of receptor 
+subtypes for bradykinin (BK), des-Arg10-Lys-BK (DALBK), IL-1beta and TNF-alpha 
+have been investigated. IL-1beta and TNF-alpha enhanced kinin B1 and B2 receptor 
+binding in the human osteoblastic cell line MG-63 and the mRNA expression of B1 
+and B2 receptors in MG-63 cells, human gingival fibroblasts and intact mouse 
+calvarial bones. Kinins did not affect mRNA expression of IL-1 or TNF receptors. 
+EMSA showed that IL-1beta and TNF-alpha activated NF-kappaB and AP-1 in MG-63 
+cells. IL-1beta stimulated NF-kappaB via a non-canonical pathway (p52/p65) and 
+TNF-alpha via the canonical pathway (p50/p65). Activation of AP-1 involved c-Jun 
+in both IL-1beta and TNF-alpha stimulated cells, but c-Fos only in TNF-alpha 
+stimulated cells. Phospho-ELISA and Western blots showed that IL-1beta activated 
+JNK and p38, but not ERK 1/2 MAP kinase. Pharmacological inhibitors showed that 
+NF-kappaB, p38 and JNK were important for IL-1beta induced stimulation of B1 
+receptors, and NF-kappaB and p38 for B2 receptors. p38 and JNK were important 
+for TNF-alpha induced stimulation of B1 receptors, whereas NF-kappaB, p38 and 
+JNK were involved in TNF-alpha induced expression of B2 receptors. These data 
+show that IL-1beta and TNF-alpha upregulate B1 and B2 receptor expression by 
+mechanisms involving activation of both NF-kappaB and MAP kinase pathways, but 
+that signal transduction pathways are different for IL-1beta and TNF-alpha. The 
+enhanced kinin receptor expression induced by the pro-inflammatory cytokines 
+IL-1beta and TNF-alpha might be one important mechanism involved in the 
+synergistic enhancement of prostaglandin formation caused by co-treatment with 
+kinins and one of the two cytokines. These mechanisms might help to explain the 
+enhanced bone resorption associated with inflammatory disorders, including 
+periodontitis and rheumatoid arthritis.

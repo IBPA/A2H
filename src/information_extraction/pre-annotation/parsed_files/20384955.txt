@@ -1,0 +1,25 @@
+BACKGROUND: Clostridium difficile infection (CDI) is a recognized cause of 
+colitis in the horse. Identification of its toxins is important for management 
+of individual cases and for prevention of transmission and zoonosis. In humans, 
+CDI diagnosis is performed with enzyme immunoassays, none of which have been 
+validated for horses.
+HYPOTHESIS/OBJECTIVES: (1) Establish which test for CDI diagnosis was more 
+frequently used by diagnostic laboratories, (2) determine the identified test's 
+performance, sensitivity, and specificity, and (3) validate its use in diarrheic 
+horses.
+ANIMALS: Samples were obtained from 72 horses presented with acute diarrhea and 
+hospitalized at the Ontario Veterinary College, University of Guelph.
+METHODS: A survey was conducted to establish which of the tests for CDI 
+diagnosis in horses is most commonly used throughout North America. A 
+questionnaire was sent to all laboratories registered in the Veterinary 
+Infection Control Society and the American Association of Veterinary Laboratory 
+Diagnosticians. The performance of the test was evaluated by comparison to a 
+cell cytotoxicity assay (CTA), the accepted Gold Standard for C. difficile toxin 
+detection.
+RESULTS: The Techlab C. difficile Tox A/B II ELISA was the most frequently used 
+test. Compared with the CTA, no significant difference was observed, and a good 
+level of agreement (93%) was obtained. The diagnostic performance of the ELISA 
+test was adequate (84% sensitivity and 96% specificity).
+CONCLUSIONS AND CLINICAL IMPORTANCE: Results demonstrate that the Techlab C. 
+difficile Tox A/B II ELISA is a reliable, adequate, and practical tool for 
+identification of C. difficile toxins in horse feces.

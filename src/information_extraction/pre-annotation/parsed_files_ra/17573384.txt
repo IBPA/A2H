@@ -1,0 +1,21 @@
+The cytokines interleukin-1 (IL-1alpha and IL-1beta) and the tumor necrosis 
+factor-alpha (TNF-alpha) both play a major role in the initiation and regulation 
+of inflammation and immunity responses. Polymorphisms within the gene sequences 
+of these cytokines IL-1 and TNF-alpha have been proposed to play an important 
+role in the pathogenesis of certain diseases. Affecting nearly every organ, 
+various diseases, including some cancers, are described to be associated with an 
+increased level of IL-1 and TNF-alpha proteins, for example, solid tumors, 
+hematologic malignancies, malignant histiocytosis, autoimmune disorders, 
+Alzheimer's disease, Parkinson's disease, sepsis, and rheumatoid arthritis. 
+Regarding genetic backgrounds and pathways, numerous canine diseases show close 
+similarities to their human counterparts. As a genetic model, the dog could be 
+used to unravel the genetic mechanisms, for example, in particular the 
+predispositions, the development, and progression of cancer and metabolic 
+diseases. The identity comparison of gene and protein sequences of different 
+species could be used to elucidate the structure and function of the genes and 
+proteins by identifying the evolutionary conserved regions and domains. Herein 
+we analyzed in detail the mRNA and protein structures and identities of the 
+present known mammalian (human, canine, murine, rat, ovine, equine, feline, 
+porcine, and bovine) TNF-alpha, IL-1alpha, and IL-1beta mRNAs and proteins. 
+Additionally, based on the canine genome sequence, we derived in silico the 
+complete mRNA structures of the IL-1alpha and IL-1beta mRNAs.

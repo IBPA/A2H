@@ -1,0 +1,15 @@
+Tripterygium glycosides (TG) are extracted from a traditional Chinese medicinal 
+herb. Using the compound, progress has been made in the treatment of rheumatoid 
+arthritis (RA), but the underlying mechanism of its action is poorly understood. 
+The purpose of the present study was to investigate the role of TG in preventing 
+inflammatory arthritis. An inflammatory cell model was established in the rat 
+synovial RSC-364 cell line via induction with interleukin (IL)-1β. The 
+expression of IL-32 and matrix metalloproteinases (MMP-1 and MMP-9) was 
+determined using an enzyme-linked immunosorbent assay. Compared with the control 
+group (without IL-1β), IL-1β in the treatment group induced the expression of 
+IL-32, MMP-1 and MMP-9 in RSC-364 cells. When a different dose of TG was added 
+to RSC-364 cells stimulated with IL-1β, TG decreased the expression levels of 
+IL-32, MMP-1 and MMP-9 in a dose-dependent manner. These results indicated that 
+TG suppressed the inflammation response in RSC-364 cells. Taken together, these 
+findings may contribute to a better understanding of the role of TG in the 
+anti-inflammatory therapeutics for RA.

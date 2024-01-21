@@ -1,0 +1,25 @@
+Antibiotic treatment, including vancomycin, for Clostridium difficile infection 
+(CDI) has been associated with recurrence of disease in up to 25% of infected 
+persons. This study investigated the effects of vancomycin on the clinical 
+outcomes, intestinal histopathology, and anaerobic community during and after 
+treatment in a murine model of CDI. C57BL/6 mice were challenged with C. 
+difficile strain VPI 10463 after pretreatment with an antibiotic cocktail. 
+Twenty-four hours after infection, mice were treated daily with vancomycin, 
+nitazoxanide, fidaxomicin, or metronidazaole for 5 days. Mice were monitored for 
+either 6 or 12 days postinfection. Clinical, diarrhea, and histopathology scores 
+were measured. Cecal contents or stool samples were assayed for clostridial or 
+Bacteroides DNA and C. difficile toxins A and B. Vancomycin treatment of 
+infected mice was associated with improved clinical, diarrhea, and 
+histopathology scores and survival during treatment. However, after 
+discontinuation of the drug, clinical scores and histopathology were worse in 
+treated mice than in untreated infected controls. At the end of the study, 62% 
+of the vancomycin-treated mice succumbed to recurrence, with an overall 
+mortality rate equivalent to that of the untreated infected control group. 
+Fidaxomicin-treated mice had outcomes similar to those of vancomycin-treated 
+mice. C. difficile predominated over Bacteroides in cecal contents of 
+vancomycin-treated mice, similar to findings for untreated infected mice. 
+Decreasing the duration of vancomycin treatment from 5 days to 1 day decreased 
+recurrence and deaths. In conclusion, vancomycin improved clinical scores and 
+histopathology acutely but was associated with poor outcome posttreatment in C. 
+difficile-infected mice. Decreasing vancomycin exposure may decrease relapse and 
+improve survival in CDI.

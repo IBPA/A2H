@@ -1,0 +1,16 @@
+T cells have a central pathogenic role in the aetiopathogenesis of rheumatoid 
+arthritis (RA), and are therefore a favoured target of immunotherapy aiming at 
+physical or functional elimination. Here we report an efficacy test of FR104, a 
+new co-stimulation inhibitor directly targeting CD28 on T cells, in a 
+translationally relevant model, the rhesus monkey model of collagen-induced 
+arthritis (CIA). As a relevant comparator we used abatacept [cytotoxic T 
+lymphocyte antigen immunoglobulin (CTLA Ig)], an antagonist of CTLA-4 binding to 
+CD80/86 clinically approved for treatment of RA. Treatment with either compound 
+was started at the day of CIA induction. Although FR104 previously demonstrated 
+a higher control of T cell responses in vitro than abatacept, both compounds 
+were equally potent in the suppression of CIA symptoms and biomarkers, such as 
+the production of C-reactive protein (CRP) and interleukin (IL)-6 and 
+anti-collagen type II (CII) serum antibody (IgM/IgG). However, in contrast to 
+abatacept, FR104 showed effective suppression of CII-induced peripheral blood 
+mononuclear cell (PBMC) proliferation. The current study demonstrates a strong 
+potential of the new selective CD28 antagonist FR104 for treatment of RA.

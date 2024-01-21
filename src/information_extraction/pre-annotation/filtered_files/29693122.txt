@@ -1,0 +1,33 @@
+Osteoarthritis is a type of joint disease that may lead to other joint diseases. 
+Previous research has demonstrated that tumor necrosis factor (TNF)‑α is 
+associated with osteoarthritis activity and pathology. The possible mechanisms 
+of the TNF‑α‑mediated signaling pathway have not been clearly elaborated in 
+synovial fibroblasts. The present study aimed to investigate the potential 
+mechanisms of TNF‑α in a mouse model of iodoacetate‑induced osteoarthritis. 
+Reverse transcription‑quantitative polymerase chain reaction, ELISA, western 
+blotting and immunohistochemistry were performed to evaluate the role of TNF‑α 
+in the progression of osteoarthritis. The results revealed that the serum levels 
+of TNF‑α, interleukin (IL)‑1β, IL‑4 and IL‑6 were significantly upregulated in a 
+mouse model of iodoacetate‑induced osteoarthritis compared with healthy mice 
+(P<0.01). TNF‑α, IL‑1β, IL‑4 and IL‑6 mRNA and protein levels were also 
+significantly upregulated in synovial fibroblasts in the experimental mice 
+(P<0.01). It was demonstrated that TNF‑α increased pro‑inflammation factors 
+matrix metalloproteinase (MMP)‑3, MMP‑9, nuclear factor (NF)‑κB and receptor 
+activator of NF‑κB ligand (RANKL) in synovial fibroblasts. It was also observed 
+that the toll‑like receptor (TLR)‑3 was significantly upregulated and 
+extracellular signal‑regulated kinase (ERK) and protein kinase B (AKT) were 
+significantly downregulated in synovial fibroblasts in osteoarthritis mice 
+(P<0.01). An in vitro assay demonstrated that TNF‑α inhibitor decreased mRNA and 
+protein levels of IL‑1β, IL‑4 and IL‑6 in synovial fibroblasts. The knockdown of 
+TLR‑3 abolished the TNF‑α upregulated mRNA and protein levels of IL‑1β, IL‑4 and 
+IL‑6 in synovial fibroblasts. In addition, the knockdown of TLR‑3 also reversed 
+TNF‑α‑upregulated ERK and AKT expression in synovial fibroblasts. In vivo assays 
+demonstrated that TNF‑α inhibitor significantly decreased the deposition of 
+IL‑1β, IL‑4 and IL‑6 as well as bone destruction and significantly increased the 
+body weight and osteoarthritis score for osteoarthritic mice (P<0.01). TNF‑α 
+inhibitor decreased TLR‑3 and significantly increased the expression and 
+phosphorylation of ERK and AKT in articular cartilage (P<0.01). In conclusion 
+the results of the present study indicate that TNF‑α serves an essential role in 
+synovial fibroblasts in osteoarthritis, suggesting that inhibition of TNF‑α may 
+decrease inflammation via the TLR‑3‑mediated ERK/AKT signaling pathway in a 
+mouse model of monosodium iodoacetate‑induced osteoarthritis.

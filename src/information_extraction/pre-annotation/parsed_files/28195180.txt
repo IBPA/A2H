@@ -1,0 +1,26 @@
+OBJECTIVES: Fecal microbiota transplantation (FMT) is increasingly being used 
+for treatment of recurrent Clostridium difficile infection (R-CDI) that cannot 
+be cured with antibiotics alone. In addition, FMT is being investigated for a 
+variety of indications where restoration or restructuring of the gut microbial 
+community is hypothesized to be beneficial. We sought to develop a stable, 
+freeze-dried encapsulated preparation of standardized fecal microbiota that can 
+be used for FMT with ease and convenience in clinical practice and research.
+METHODS: We systematically developed a lyophilization protocol that preserved 
+the viability of bacteria across the taxonomic spectrum found in fecal 
+microbiota and yielded physicochemical properties that enabled consistent 
+encapsulation. We also treated a cohort of R-CDI patients with a range of doses 
+of encapsulated microbiota and analyzed the associated changes in the fecal 
+microbiome of the recipients.
+RESULTS: The optimized lyophilized preparation satisfied all our preset goals 
+for physicochemical properties, encapsulation ease, stability at different 
+temperatures, and microbiota viability in vitro and in vivo (germ-free mice). 
+The capsule treatment was administered to 49 patients. Overall, 43/49 (88%) of 
+patients achieved a clinical success, defined as no recurrence of CDI over 2 
+months. Analysis of the fecal microbiome demonstrated near normalization of the 
+fecal microbial community by 1 month following FMT treatment. The simplest 
+protocol using the lowest dose (2.1-2.5 × 1011 bacteria in 2-3 capsules) without 
+any colon purgative performed equally well in terms of clinical outcomes and 
+microbiota engraftment.
+CONCLUSIONS: A single administration of encapsulated, freeze-dried fecal 
+microbiota from a healthy donor was highly successful in treating 
+antibiotic-refractory R-CDI syndrome.

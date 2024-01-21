@@ -1,0 +1,26 @@
+BACKGROUND: Little is known presently about the effects of nonsteroidal 
+anti-inflammatory drugs (NSAIDs) on the longitudinal bone growth occurring in 
+the growth plate. We have examined the effects of administration of different 
+types of NSAIDs on the longitudinal growth of the growth plate using a fetal rat 
+metatarsal bone culture model.
+METHODS: Cultured fetal rat metatarsal bones were used to study the effect of 
+nonselective (indomethacin) and selective cyclooxygenase-2 (COX-2, celecoxib) 
+NSAIDs on longitudinal bone growth. The effect of NSAIDs on proliferation and 
+apoptosis of growth plate chondrocytes were analyzed by BrdU incorporation and a 
+TUNEL assay. Prostaglandin E2 (PGE2) production was measured by an ELISA kit. We 
+also examined the effect of exogenous PGE2 on the growth plate.
+RESULTS: NSAIDs caused a dose-dependent growth retardation of cultured 
+metatarsal bones. Both nonselective and COX-2 selective NSAIDs inhibit 
+longitudinal bone growth. We found that NSAIDs suppressed the proliferation of 
+chondrocytes and production of PGE2, and increased the apoptosis of 
+chondrocytes. Supplemental PGE2 could not reverse the effects of NSAIDs on the 
+growth plate.
+CONCLUSIONS: Our data show that NSAIDs induce a dose-dependent growth 
+retardation of cultured rat metatarsal bones. A detailed analysis revealed 
+decreased proliferation and increased apoptosis of chondrocytes in the growth 
+plate, indicating that COX-2 is responsible for PGE2 production in growth plate 
+chondrocytes.
+CLINICAL RELEVANCE: The data from the present study suggest that deleterious 
+effects on the growth plate by chronic NSAIDs use should be considered for 
+children who have chronic inflammatory diseases, such as juvenile rheumatoid 
+arthritis.

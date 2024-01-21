@@ -1,0 +1,19 @@
+Regulatory T cells (T(regs)) have potential applications in clinical disease 
+therapy, such as autoimmune diseases and transplant rejection. However, their 
+numbers are limited. Forkhead box protein 3 (FoxP3) is a key transcription 
+factor that controls T(reg) development and function. Here, we generated a 
+cell-permeable fusion protein, protein transduction domain (PTD)-conjugated 
+mouse FoxP3 protein (PTD-mFoxP3), and evaluated whether PTD-mFoxp3 can alleviate 
+rheumatoid arthritis (RA) in the collagen-induced arthritis (CIA) mouse model. 
+As expected, PTD-mFoxP3 was transduced into cells effectively, and inhibited T 
+cell activation and attenuated the cell proliferation. It decreased interleukin 
+(IL) 2 and interferon (IFN)-γ expression, and increased IL-10 expression in 
+activated CD4(+)CD25(-) T cells. PTD-mFoxP3-transduced CD4(+)CD25(-) T cells 
+attenuated proliferation of activated CD4(+)CD25(-) T cells. In addition, 
+PTD-mFoxP3 blocked the Th17 differentiation programme in vitro and 
+down-regulated IL-17 production from T cells by modulating induction and levels 
+of retinoid-related orphan receptor gamma t (RORγt). Intra-articular delivery of 
+PTD-mFoxP3 delayed disease incidence remarkably and alleviated autoimmune 
+symptoms of CIA mice. Moreover, protective effects of PTD-mFoxP3 were associated 
+with regulating the balance of T helper type 17 (Th17) and T(regs). These 
+results suggest that PTD-mFoxP3 may be a candidate for RA therapy.

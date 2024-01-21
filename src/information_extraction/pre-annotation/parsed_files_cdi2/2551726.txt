@@ -1,0 +1,11 @@
+Homogenates of rat pancreatic islets that had been heated for 5 min at 70 
+degrees C to inactive hexokinases, catalyzed the ATP-dependent phosphorylation 
+of D-fructose. This reaction was dependent on the presence of K+ and was 
+inhibited by D-tagatose although not by D-glucose or D-glucose 6-phosphate. The 
+phosphorylation product was identified as fructose 1-phosphate through its 
+conversion to a bisphosphate ester by Clostridium difficile fructose 1-phosphate 
+kinase. These findings allowed the conclusion that fructokinase (ketohexokinase) 
+was responsible for this process. Similar results were observed with tumoral 
+insulin-producing cells (RINm5F line). Fructokinase may account for a large 
+share of fructose phosphorylation in intact islets, particularly in the presence 
+of D-glucose.

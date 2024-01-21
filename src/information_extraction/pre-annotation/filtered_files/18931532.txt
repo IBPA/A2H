@@ -1,0 +1,27 @@
+We previously reported that during total knee arthroplasty in rheumatoid 
+arthritis (RA) patients, the use of tourniquet might promote local release of 
+neutrophil elastase (NE) from neutrophils, which may contribute to the 
+development of pulmonary thromboembolism (PTE) and tissue injury. The aim of 
+this study was to develop PTE by the use of NE in a mouse model of 
+collagen-induced arthritis (CIA) and investigate the relationship between 
+thrombus and endothelial cells as well as the effect of recombinant human 
+soluble thrombomodulin (rhs-TM) in reducing the risk of PTE. Male DBA/1J mice 
+were injected intracutaneously at several sites with an emulsion containing 
+bovine collagen and later a booster shot to produce CIA mice. Subsequently, NE 
+was injected intravenously 2 times a day for 3 days and after a further 4 days, 
+mice were sacrificed. A group of mice received rhs-TM injections prior to NE 
+injections. We divided the mice into four groups of normal, CIA control, CIA + 
+NE, and CIA + rhs-TM + NE mice and evaluated thrombus formation status. All CIA 
++ NE mice developed PTE. In contrast, no thrombosis was found in normal control, 
+CIA control and CIA + rhs-TM + NE mice. Plasma thrombin level, fibrinogen 
+expression and neutrophil count were increased in CIA + NE mice. Double staining 
+for anticoagulant TM and procoagulant von Willebrand factor (vWF) in pulmonary 
+endothelial cells in normal mice showed a TM-dominant expression while in both 
+CIA control and CIA + NE mice a vWF-dominant expression compatible with 
+coagulant status was observed. Injection of rhs-TM into CIA + NE mice resulted 
+in a phenotypic conversion of endothelial cells from vWF-dominant to TM-dominant 
+expression and a reduction in fibrinogen deposition. These findings demonstrate 
+that by repeated use of NE in CIA mice, it is feasible to produce PTE and to 
+study its pathogenesis and that rhs-TM reduces the risk of PTE. We suggest that 
+in surgical operations of upper and lower extremities in RA patients, the use of 
+a tourniquet should be avoided as it may trigger NE release.

@@ -1,0 +1,20 @@
+Accumulating evidence reveals that articular chondrocytes undergo increased 
+apoptosis in rheumatoid arthritis (RA) and inhibiting chondrocyte apoptosis 
+might be a promising therapeutic strategy. We recently found that aquaporin-4 
+(AQP4) protein level in the cartilage of rats with adjuvant-induced arthritis 
+was higher than normal rats. Herein, cultured rat articular chondrocyte impaired 
+by interleukin-1 beta (IL-1β) was used as an in vitro model of chondrocyte 
+apoptosis. We observed the protective effect of AQP4 blockage by siRNA on 
+IL-1β-induced chondrocyte apoptosis and explored the underlying mechanisms. Our 
+findings revealed that AQP4 siRNA protected articular chondrocytes from 
+IL-1β-induced apoptosis, evidenced by increased cell proliferation (MTT assay), 
+few observations of apoptotic morphologic changes (Hoechst 33258 staining assay) 
+and decreased cell apoptosis rates (Annexin V-FITC/PI staining assay). 
+Additionally, AQP4 siRNA remarkably decreased Bax and caspase 3 mRNA levels and 
+increased Bcl-2 mRNA level, accompanied by reducing phosphorylated-p38 (P-p38) 
+protein level, without affecting p38 protein. The above effects of AQP4 siRNA 
+were similar to SB203580, a specific p38 inhibitor. Together, AQP4 siRNA 
+attenuated IL-1β-induced chondrocyte apoptosis by regulating apoptosis-related 
+gene expressions and inhibiting p38 MAPK. Our results provide experimental 
+evidence that AQP4 inhibition contributes to preventing chondrocyte apoptosis in 
+joint diseases such as RA and provide a novel therapeutic target for RA.

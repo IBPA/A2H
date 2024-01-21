@@ -1,0 +1,23 @@
+House mice (Mus musculus) thrive in large urban centers worldwide. Nonetheless, 
+little is known about the role that they may play in contributing to 
+environmental contamination with potentially pathogenic bacteria. Here, we 
+describe the fecal microbiome of house mice with emphasis on detection of 
+pathogenic bacteria and antimicrobial resistance genes by molecular methods. 
+Four hundred sixteen mice were collected from predominantly residential 
+buildings in seven sites across New York City over a period of 13 months. 16S 
+rRNA sequencing identified Bacteroidetes as dominant and revealed high levels of 
+Proteobacteria A targeted PCR screen of 11 bacteria, as indicated by 16S rRNA 
+analyses, found that mice are carriers of several gastrointestinal 
+disease-causing agents, including Shigella, Salmonella, Clostridium difficile, 
+and diarrheagenic Escherichia coli Furthermore, genes mediating antimicrobial 
+resistance to fluoroquinolones (qnrB) and β-lactam drugs (blaSHV and blaACT/MIR) 
+were widely distributed. Culture and molecular strain typing of C. difficile 
+revealed that mice harbor ribotypes associated with human disease, and screening 
+of kidney samples demonstrated genetic evidence of pathogenic Leptospira 
+species. In concert, these findings support the need for further research into 
+the role of house mice as potential reservoirs for human pathogens and 
+antimicrobial resistance in the built environment.IMPORTANCE Mice are commensal 
+pests often found in close proximity to humans, especially in urban centers. We 
+surveyed mice from seven sites across New York City and found multiple 
+pathogenic bacteria associated with febrile and gastrointestinal disease as well 
+as an array of antimicrobial resistance genes.

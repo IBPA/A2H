@@ -1,0 +1,18 @@
+Clostridioides difficile colonizes the intestines of susceptible individuals and 
+releases toxins that mediate disease. To replicate and expand in the intestines, 
+C. difficile ferments proline, and this activity is influenced by the 
+availability of proline and trace nutrients. C. difficile must also compete with 
+the commensal microbiota for these limited nutrients. The specific microbes 
+present in the intestines that may shape the ability of C. difficile to benefit 
+from proline fermentation are unknown. In this study we developed a panel of 
+commensal Clostridia to test the hypothesis that the microbiota influences 
+C. difficile growth through proline fermentation. The experimental panel of 
+Clostridia was composed of murine and human isolates that ranged in their 
+capacity to ferment proline in different media. Competition between wild type 
+C. difficile and a mutant strain unable to ferment proline (prdB:CT) in the 
+presence of these Clostridia revealed that bacteria closely related to 
+Paraclostridium benzoelyticum and Paeniclostridium spp. decreased the benefit to 
+C. difficile provided by proline fermentation. Conversely, Clostridium 
+xylanolyticum drove C. difficile towards an increased reliance on proline 
+fermentation for growth. Overall, the ability of C. difficile to benefit from 
+proline fermentation is contextual and in part dependent on the microbiota.

@@ -1,0 +1,26 @@
+BACKGROUND: Systemic antibiotics vary widely in in vitro activity against 
+Clostridium difficile. Some agents with activity against C. difficile (e.g., 
+piperacillin/tazobactam) inhibit establishment of colonization in mice. We 
+tested the hypothesis that piperacillin/tazobactam and other agents with 
+activity against C. difficile achieve sufficient concentrations in the 
+intestinal tract to inhibit colonization in patients.
+METHODS: Point-prevalence culture surveys were conducted to compare the 
+frequency of asymptomatic rectal carriage of toxigenic C. difficile among 
+patients receiving piperacillin/tazobactam or other inhibitory antibiotics (e.g. 
+ampicillin, linezolid, carbapenems) versus antibiotics lacking activity against 
+C. difficile (e.g., cephalosporins, ciprofloxacin). For a subset of patients, in 
+vitro inhibition of C. difficile (defined as a reduction in concentration after 
+inoculation of vegetative C. difficile into fresh stool suspensions) was 
+compared among antibiotic treatment groups.
+RESULTS: Of 250 patients, 32 (13 %) were asymptomatic carriers of C. difficile. 
+In comparison to patients receiving non-inhibitory antibiotics or prior 
+antibiotics within 90 days, patients currently receiving piperacillin/tazobactam 
+were less likely to be asymptomatic carriers (1/36, 3 versus 7/36, 19 and 15/69, 
+22 %, respectively; P = 0.024) and more likely to have fecal suspensions with in 
+vitro inhibitory activity against C. difficile (20/28, 71 versus 3/11, 27 and 
+4/26, 15 %; P = 0.03). Patients receiving other inhibitory antibiotics were not 
+less likely to be asymptomatic carriers than those receiving non-inhibitory 
+antibiotics.
+CONCLUSIONS: Our findings suggest that piperacillin/tazobactam achieves 
+sufficient concentrations in the intestinal tract to inhibit C. difficile 
+colonization during therapy.

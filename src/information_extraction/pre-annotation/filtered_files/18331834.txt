@@ -1,0 +1,15 @@
+Synoviocyte hyperplasia is critical for rheumatoid arthritis, therefore, 
+potentially an important target for therapeutics. It was found in this work that 
+a TRPV1 agonist capsaicin, and acidic solution (pH 5.5) induced increases in 
+cytosolic calcium concentration ([Ca(2+)](c)) and reactive oxygen species (ROS) 
+production in synoviocytes isolated from a rat model of collagen-induced 
+arthritis. The increases in both [Ca(2+)](c) and ROS production were completely 
+abolished in calcium-free buffer or by a TRPV1 antagonist capsazepine. Further 
+experiments revealed that capsaicin and pH 5.5 solution caused mitochondrial 
+membrane depolarization and reduction in cell viability; such effects were 
+inhibited by capsazepine, or the NAD(P)H oxidase inhibitor diphenylene iodonium. 
+Both capsaicin and pH 5.5 buffer induced apoptosis as shown by nuclear 
+condensation and fragmentation. Furthermore, RT-PCR readily detected TRPV1 mRNA 
+expression in the isolated synoviocytes. Taken together, these data indicated 
+that TRPV1 activation triggered synoviocyte death by [Ca(2+)](c) elevation, ROS 
+production, and mitochondrial membrane depolarization.

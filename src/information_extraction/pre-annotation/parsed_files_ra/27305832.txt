@@ -1,0 +1,25 @@
+CONTEXT: The oleo-gum-resin of Boswellia serrata Roxb. (Burseraceae) is widely 
+used for the treatment of inflammatory diseases such as osteoarthritis, 
+rheumatoid arthritis and cancer. Anti-inflammatory activity of 
+11-keto-β-boswellic acid (KBA) is impeded by poor oral bioavailability due to 
+its high lipid solubility, rapid phase-1 metabolism and poor intestinal 
+permeability.
+OBJECTIVE: This study developed a poly-dl-lactide-co-glycolide-based 
+nanoparticle formulation of KBA to improve its oral bioavailability and in vivo 
+anti-inflammatory activity.
+MATERIALS AND METHODS: KBA was isolated from the oleo-gum resin of B. serrata, 
+and its nanoparticle formulation (KBA-NPs) was prepared by the 
+emulsion-diffusion-evaporation method. Oral bioavailability of KBA and KBA-NPs 
+was studied at 50 mg/kg p.o. dose in Sprague-Dawley rats, and further evaluated 
+for in vivo anti-inflammatory activity in carrageenan-induced rat paw oedema 
+assay at the same dose level.
+RESULTS: The prepared KBA-NPs had a particle size of 152.6 nm with 
+polydispersity index of 0.194, 79.7% entrapment efficiency and a cumulative 
+61.5% release of KBA from KBA-NPs, at 72 h. KBA-NPs showed 60.8% inhibition of 
+rat paw oedema at 5 h as compared to 34.9% as that of KBA. The results of oral 
+bioavailability study and in vivo anti-inflammatory activity showed 7- and 
+1.7-fold increase in bioavailability and anti-inflammatory activity, 
+respectively, of KBA in KBA-NPs as compared to KBA alone.
+CONCLUSION: The results of improved oral bioavailability and in vivo 
+anti-inflammatory activity of KBA-NPs suggested successful development of KBA 
+nanoparticle formulation.

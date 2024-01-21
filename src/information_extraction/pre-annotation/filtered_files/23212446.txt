@@ -1,0 +1,21 @@
+Tumor necrosis factor-alpha (TNFα) plays a crucial role in inflammatory diseases 
+such as rheumatoid arthritis and postmenopausal osteoporosis. Recently, it has 
+been demonstrated that hydrogen gas, known as a novel antioxidant, can exert 
+therapeutic anti-inflammatory effect in many diseases. In this study, we 
+investigated the effect of treatment with hydrogen molecule (H(2)) on 
+TNFα-induced cell injury in osteoblast. The osteoblasts isolated from neonatal 
+rat calvariae were cultured. It was found that TNFα suppressed cell viability, 
+induced cell apoptosis, suppressed Runx2 mRNA expression, and inhibited alkaline 
+phosphatase activity, which was reversed by co-incubation with H(2). Incubation 
+with TNFα-enhanced intracellular reactive oxygen species (ROS) formation and 
+malondialdehyde production increased NADPH oxidase activity, impaired 
+mitochondrial function marked by increased mitochondrial ROS formation and 
+decreased mitochondrial membrane potential and ATP synthesis, and suppressed 
+activities of antioxidant enzymes including SOD and catalase, which were 
+restored by co-incubation with H(2). Treatment with H(2) inhibited TNFα-induced 
+activation of NFκB pathway. In addition, treatment with H(2) inhibited 
+TNFα-induced nitric oxide (NO) formation through inhibiting iNOS activity. 
+Treatment with H(2) inhibited TNFα-induced IL-6 and ICAM-1 mRNA expression. In 
+conclusion, treatment with H(2) alleviates TNFα-induced cell injury in 
+osteoblast through abating oxidative stress, preserving mitochondrial function, 
+suppressing inflammation, and enhancing NO bioavailability.

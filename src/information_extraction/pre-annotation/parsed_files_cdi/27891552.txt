@@ -1,0 +1,26 @@
+Clostridium difficile causes nosocomial/antibiotic-associated diarrhoea and 
+pseudomembranous colitis. The major virulence factors are toxin A and toxin B 
+(TcdB), which inactivate GTPases by monoglucosylation, leading to cytopathic 
+(cytoskeleton alteration, cell rounding) and cytotoxic effects (cell-cycle 
+arrest, apoptosis). C. difficile toxins breaching the intestinal epithelial 
+barrier can act on underlying cells, enterocytes, colonocytes, and enteric 
+neurons, as described in vitro and in vivo, but until now no data have been 
+available on enteric glial cell (EGC) susceptibility. EGCs are crucial for 
+regulating the enteric nervous system, gut homeostasis, the immune and 
+inflammatory responses, and digestive and extradigestive diseases. Therefore, we 
+evaluated the effects of C. difficile TcdB in EGCs. Rat-transformed EGCs were 
+treated with TcdB at 0.1-10 ng/ml for 1.5-48 h, and several parameters were 
+analysed. TcdB induces the following in EGCs: (1) early cell rounding with Rac1 
+glucosylation; (2) early G2/M cell-cycle arrest by cyclin B1/Cdc2 complex 
+inactivation caused by p27 upregulation, the downregulation of cyclin B1 and 
+Cdc2 phosphorylated at Thr161 and Tyr15; and (3) apoptosis by a 
+caspase-dependent but mitochondria-independent pathway. Most importantly, the 
+stimulation of EGCs with TNF-α plus IFN-γ before, concomitantly or after TcdB 
+treatment strongly increased TcdB-induced apoptosis. Furthermore, EGCs that 
+survived the cytotoxic effect of TcdB did not recover completely and showed not 
+only persistent Rac1 glucosylation, cell-cycle arrest and low apoptosis but also 
+increased production of glial cell-derived neurotrophic factor, suggesting 
+self-rescuing mechanisms. In conclusion, the high susceptibility of EGCs to TcdB 
+in vitro, the increased sensitivity to inflammatory cytokines related to 
+apoptosis and the persistence of altered functions in surviving cells suggest an 
+important in vivo role of EGCs in the pathogenesis of C. difficile infection.

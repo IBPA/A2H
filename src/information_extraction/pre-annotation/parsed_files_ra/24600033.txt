@@ -1,0 +1,20 @@
+Siglec-G is a member of the sialic acid-binding Ig-like lectin (Siglec) family 
+expressed on all B cells. Siglec-G-deficient mice show a large expansion of the 
+B1 cell compartment, demonstrating the crucial role of Siglec-G as an inhibitory 
+receptor on this cellular subset. Although Siglec-G-deficient mice did not 
+develop spontaneous autoimmunity, mice double-deficient for Siglec-G and the 
+related Siglec protein CD22 did show autoimmunity at an older age. In this 
+study, we addressed the question of whether loss of Siglec G on its own affects 
+disease severity in animal models of rheumatoid arthritis and systemic lupus 
+erythematosus. Siglec-G-deficient mice showed moderately increased clinical 
+severity and higher inflammation of the knee joints following collagen-induced 
+arthritis, when compared with control mice. The Siglec-G-deficient mouse was 
+also backcrossed to the autoimmune prone MLR/lpr background. Although both 
+Siglec-G-deficient and control MRL/lpr mice developed a lupus-like disease, 
+Siglec-G-deficient MRL/lpr mice showed an earlier occurrence of autoantibodies; 
+a higher lymphoproliferation of B and T cells; and an earlier onset of disease, 
+as shown by proteinuria and glomerular damage in the kidney. Moreover, 
+Siglec-G-deficient female mice showed a significantly reduced survival compared 
+with female control MRL/lpr mice. Thus, the loss of the inhibitory receptor 
+Siglec-G led to a moderate exacerbation of disease severity and early onset in 
+both collagen-induced arthritis and spontaneous lupus nephritis in MRL/lpr mice.

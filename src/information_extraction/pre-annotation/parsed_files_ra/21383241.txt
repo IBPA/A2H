@@ -1,0 +1,24 @@
+Inhibitors of the JAK family of nonreceptor tyrosine kinases have demonstrated 
+clinical efficacy in rheumatoid arthritis and other inflammatory disorders; 
+however, the precise mechanisms by which JAK inhibition improves inflammatory 
+immune responses remain unclear. In this study, we examined the mode of action 
+of tofacitinib (CP-690,550) on JAK/STAT signaling pathways involved in adaptive 
+and innate immune responses. To determine the extent of inhibition of specific 
+JAK/STAT-dependent pathways, we analyzed cytokine stimulation of mouse and human 
+T cells in vitro. We also investigated the consequences of CP-690,550 treatment 
+on Th cell differentiation of naive murine CD4(+) T cells. CP-690,550 inhibited 
+IL-4-dependent Th2 cell differentiation and interestingly also interfered with 
+Th17 cell differentiation. Expression of IL-23 receptor and the Th17 cytokines 
+IL-17A, IL-17F, and IL-22 were blocked when naive Th cells were stimulated with 
+IL-6 and IL-23. In contrast, IL-17A production was enhanced when Th17 cells were 
+differentiated in the presence of TGF-β. Moreover, CP-690,550 also prevented the 
+activation of STAT1, induction of T-bet, and subsequent generation of Th1 cells. 
+In a model of established arthritis, CP-690,550 rapidly improved disease by 
+inhibiting the production of inflammatory mediators and suppressing 
+STAT1-dependent genes in joint tissue. Furthermore, efficacy in this disease 
+model correlated with the inhibition of both JAK1 and JAK3 signaling pathways. 
+CP-690,550 also modulated innate responses to LPS in vivo through a mechanism 
+likely involving the inhibition of STAT1 signaling. Thus, CP-690,550 may improve 
+autoimmune diseases and prevent transplant rejection by suppressing the 
+differentiation of pathogenic Th1 and Th17 cells as well as innate immune cell 
+signaling.

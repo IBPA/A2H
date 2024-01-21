@@ -1,0 +1,27 @@
+OBJECTIVE: To exploit the physiologic Fcgamma receptor IIb (CD32B) inhibitory 
+coupling mechanism to control B cell activation by constructing a novel 
+bispecific diabody scaffold, termed a dual-affinity retargeting (DART) molecule, 
+for therapeutic applications.
+METHODS: DART molecules were constructed by pairing an Fv region from a 
+monoclonal antibody (mAb) directed against CD32B with an Fv region from a mAb 
+directed against CD79B, the beta-chain of the invariant signal-transducing dimer 
+of the B cell receptor complex. DART molecules were characterized 
+physicochemically and for their ability to simultaneously bind the target 
+receptors in vitro and in intact cells. The ability of the DART molecules to 
+negatively control B cell activation was determined by calcium mobilization, by 
+tyrosine phosphorylation of signaling molecules, and by proliferation and Ig 
+secretion assays. A DART molecule specific for the mouse ortholog of CD32B and 
+CD79B was also constructed and tested for its ability to inhibit B cell 
+proliferation in vitro and to control disease severity in a collagen-induced 
+arthritis (CIA) model.
+RESULTS: DART molecules were able to specifically bind and coligate their target 
+molecules on the surface of B cells and demonstrated a preferential simultaneous 
+binding to both receptors on the same cell. DART molecules triggered the 
+CD32B-mediated inhibitory signaling pathway in activated B cells, which 
+translated into inhibition of B cell proliferation and Ig secretion. A DART 
+molecule directed against the mouse orthologs was effective in inhibiting the 
+development of CIA in DBA/1 mice.
+CONCLUSION: This innovative bispecific antibody scaffold that simultaneously 
+engages activating and inhibitory receptors enables novel therapeutic approaches 
+for the treatment of rheumatoid arthritis and potentially other autoimmune and 
+inflammatory diseases in humans.

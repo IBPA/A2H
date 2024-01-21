@@ -1,0 +1,11 @@
+The protein tyrosine phosphatase LYP, a key regulator of TCR signaling, presents 
+a single nucleotide polymorphism, C1858T, associated with several autoimmune 
+diseases such as type I diabetes, rheumatoid arthritis, and lupus. This 
+polymorphism changes an R by a W in the P1 Pro rich motif of LYP, which binds to 
+CSK SH3 domain, another negative regulator of TCR signaling. Based on the 
+analysis of the mouse homologue, Pep, it was proposed that LYP and CSK bind 
+constitutively to inhibit LCK and subsequently TCR signaling. The detailed study 
+of LYP/CSK interaction, here presented, showed that LYP/CSK interaction was 
+inducible upon TCR stimulation, and involved LYP P1 and P2 motifs, and CSK SH3 
+and SH2 domains. Abrogating LYP/CSK interaction did not preclude the regulation 
+of TCR signaling by these proteins.

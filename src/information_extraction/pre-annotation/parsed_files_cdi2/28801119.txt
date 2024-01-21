@@ -1,0 +1,22 @@
+Freezing donor fecal microbiota has simplified fecal microbiota transplantation 
+(FMT) in the treatment of recurrent C. difficile infection (CDI). However, the 
+optimal storage time for the frozen FMT products remains unknown. Using an 
+established murine model of CDI, stability and efficacy of frozen and 
+lyophilized FMT product was studied at time points from 2 months to 15 months. 
+DNA was extracted from fecal samples from the mice with identification of 
+specific bacterial species by real-time quantitative PCR (qPCR). FMT product 
+stability and efficacy were measured by occurrence of diarrhea in the challenged 
+mice together with stability of the microbiota composition. The results were 
+analyzed and compared by SAS statistical software. All mice treated with only 
+C. difficile developed diarrhea within 72 h. Mice treated with frozen 
+(n = 5/group), lyophilized (n = 5/group) products stored for ≤ 7-month or fresh 
+FMT product (n = 22) were protected from post C. difficile challenge diarrhea. 
+There was no difference between frozen and lyophilized products (n = 5/group) 
+stored for ≤ 7 months 95% CI 1.00 (0.38-2.64) and 1.00 (0.38-2.64), 
+respectively. Prevention if CDI by frozen and lyophilized product was not 
+different for storage of 9-, 11- and 15-months. qPCR results demonstrated there 
+were no significant quantitative change in Bacteroides and Clostridium species 
+during any of the storage times (P > 0.05). In the present study, frozen and 
+lyophilized FMT products were stored up to 7 months without losing microbiota 
+composition and therapeutic efficacy. The animal model described may be useful 
+to study stability of human microbiota designed for FMT.

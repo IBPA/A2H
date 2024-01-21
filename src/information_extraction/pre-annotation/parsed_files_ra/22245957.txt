@@ -1,0 +1,21 @@
+OBJECTIVE AND DESIGN: To examine the effects of a mitogen-activated protein 
+kinase/extracellular signal-regulated kinase kinase 1/2-inhibitor, JTP-74057, on 
+inflammatory arthritis development, and compare its anti-arthritic effect with 
+leflunomide.
+MATERIALS: Human, mouse, and rat peripheral blood mononuclear cells (PBMCs) were 
+used. Lewis rats and DBA/1J mice were used for animal models.
+TREATMENT: JTP-74057 was tested between 0.1-100 nM in in-vitro studies. 
+JTP-74057 (0.01-0.3 mg/kg) and leflunomide (2-10 mg/kg) were administered orally 
+in vivo.
+METHODS: PBMCs were stimulated with lipopolysaccharide. Adjuvant-induced 
+arthritis (AIA) and type II collagen-induced arthritis (CIA) was induced in 
+Lewis rats or DBA1/J mice, respectively.
+RESULTS: JTP-74057 blocked tumor necrosis factor-α and interleukin-6 production 
+from PBMCs. AIA and CIA development were suppressed almost completely by 
+0.1 mg/kg of JTP-74057 or 10 mg/kg of leflunomide. In the CIA, JTP-74057, but 
+not leflunomide, suppressed collagen-reactive T-cell proliferation ex vivo, 
+whereas leflunomide, but not JTP-74057, suppressed anti-collagen antibody 
+production.
+CONCLUSIONS: JTP-74057 exerts potent anti-arthritic effects with a different 
+profile from leflunomide, suggesting that JTP-74057 may be useful as a new 
+therapeutic reagent in the treatment of rheumatoid arthritis.

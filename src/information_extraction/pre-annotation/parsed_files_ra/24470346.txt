@@ -1,0 +1,31 @@
+OBJECTIVE: To study the relationship between the human secreted protein 
+stabilin-1-interacting chitinase-like protein (SI-CLP) and rheumatoid arthritis 
+(RA).
+METHODS: The expression of SI-CLP in peripheral blood mononuclear cells (PBMCs) 
+and synovial fluid from patients with RA and the effects of cytokines on SI-CLP 
+expression were examined by Western blotting. Fluorescence-activated cell 
+sorting analysis was performed to investigate the binding between SI-CLP and 
+cells. Bone marrow-derived macrophages were isolated from wild-type and 
+SI-CLP(-/-) mice, and real-time quantitative polymerase chain reaction was 
+performed to detect the levels of messenger RNA for cytokines or SI-CLP in 
+SI-CLP- or cytokine-treated macrophages. Histologic studies were conducted to 
+evaluate inflammation and the expression of interleukin-12 (IL-12), IL-13, and 
+SI-CLP in lesions. Enzyme-linked immunosorbent assays were used to detect the 
+cytokine levels in bone marrow-derived macrophages. Rats or mice with 
+collagen-induced arthritis (CIA) and SI-CLP(-/-) mice were used to study the 
+function of SI-CLP in RA.
+RESULTS: SI-CLP expression was increased in PBMCs and detectable in synovial 
+fluid from patients with RA. Administration of SI-CLP to rats with CIA 
+aggravated arthritis-associated inflammation. SI-CLP was specifically attached 
+to the surface protein of macrophages, which elevated the expression of IL-1β, 
+IL-6, IL-12, and IL-13 in macrophages and mouse bone marrow-derived macrophages, 
+up-regulating ERK phosphorylation. Moreover, SI-CLP was up-regulated by both 
+IL-12 and IL-13 through JNK and JAK/STAT signaling, respectively. Knockout of 
+SI-CLP resulted in a decrease in the expression of IL-1β, IL-6, IL-12, and IL-13 
+and lower susceptibility to CIA compared with wild-type mice. SI-CLP treatment 
+also aggravated arthritis-related inflammation in wild-type and SI-CLP(-/-) 
+mice.
+CONCLUSION: SI-CLP functions as a regulator of the inflammatory response by 
+macrophages. The decrease in inflammation-associated cytokine levels resulting 
+from SI-CLP knockout may explain the lower susceptibility to CIA in SI-CLP(-/-) 
+mice.

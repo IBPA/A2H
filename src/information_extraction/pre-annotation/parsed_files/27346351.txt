@@ -1,0 +1,14 @@
+Clostridium difficile infection (CDI) is the most common cause of 
+hospital-acquired infection in the United States. Host susceptibility and the 
+severity of infection are influenced by disruption of the microbiota and the 
+immune response. However, how the microbiota regulate immune responses to 
+mediate CDI outcome remains unclear. Here, we have investigated the role of the 
+microbiota-linked cytokine IL-25 during infection. Intestinal IL-25 was 
+suppressed during CDI in humans and mice. Restoration of IL-25 reduced 
+CDI-associated mortality and tissue pathology even though equivalent levels of 
+C. difficile bacteria and toxin remained in the gut. IL-25 protection was 
+mediated by gut eosinophils, as demonstrated by an increase in intestinal 
+eosinophils and a loss of IL-25 protection upon eosinophil depletion. These 
+findings support a mechanism whereby the induction of IL-25-mediated 
+eosinophilia can reduce host mortality during active CDI. This work may provide 
+targets for future development of microbial or immune-based therapies.

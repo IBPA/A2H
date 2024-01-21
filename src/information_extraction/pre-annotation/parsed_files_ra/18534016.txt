@@ -1,0 +1,34 @@
+INTRODUCTION: IL-1beta is a proinflammatory cytokine driving joint inflammation 
+as well as systemic signs of inflammation, such as fever and acute phase protein 
+production.
+METHODS: ACZ885, a fully human monoclonal antibody that neutralizes the 
+bioactivity of human IL-1beta, was generated to study the potent and 
+long-lasting neutralization of IL-1beta in mechanistic animal models as well as 
+in a proof-of-concept study in patients with rheumatoid arthritis (RA).
+RESULTS: The mouse IL-1 receptor cross-reacts with human IL-1beta, and it was 
+demonstrated that ACZ885 can completely suppress IL-1beta-mediated joint 
+inflammation and cartilage destruction in mice. This observation prompted us to 
+study the safety, tolerability and pharmacodynamic activity of ACZ885 in RA 
+patients in a small proof-of-concept study--the first to be conducted in humans. 
+Patients with active RA despite treatment with stable doses of methotrexate were 
+enrolled in this dose escalation study. The first 32 patients were split into 
+four cohorts of eight patients each (six were randomly assigned to active 
+treatment and two to placebo). ACZ885 doses were 0.3, 1, 3 and 10 mg/kg, 
+administered intravenously on days 1 and 15. To explore efficacy within 6 weeks 
+of treatment, an additional 21 patients were randomly assigned to the 10 mg/kg 
+cohort, resulting in a total of 20 patients dosed with 10 mg/kg and 15 patients 
+treated with placebo. There was clinical improvement (American College of 
+Rheumatology 20% improvement criteria) at week 6 in the 10 mg/kg treatment 
+group; however, this did not reach statistical significance (P = 0.085). A 
+statistically significant reduction in disease activity score was observed after 
+4 weeks in the 10 mg/kg group. Onset of action was rapid, because most 
+responders exhibited improvement in their symptoms within the first 3 weeks. 
+C-reactive protein levels decreased in patients treated with ACZ885 within 1 
+week. ACZ885 was well tolerated. Three patients receiving ACZ885 developed 
+infectious episodes that required treatment. No anti-ACZ885 antibodies were 
+detected during the study.
+CONCLUSION: ACZ885 administration to methotrexate-refractory patients resulted 
+in clinical improvement in a subset of patients. Additional studies to 
+characterize efficacy in RA and to determine the optimal dose regimen appear 
+warranted.
+TRIAL REGISTRATION: ClinicalTrials.gov identifier NCT00619905.

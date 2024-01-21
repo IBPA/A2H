@@ -1,0 +1,15 @@
+Abstract Many animal models have been developed for a study of rheumatoid 
+arthritis (RA). However, RA animal models are not always similar to RA patients 
+in their response to antirheumatic drugs. Recently, humanized monoclonal 
+antibody (mAb) has been developed for the treatment of RA, but at present there 
+is no animal model on which to screen this mAb therapy because of problems with 
+cross-reactivity. We therefore considered the development of a novel animal 
+model for the screening of antirheumatic drugs using the severe combined 
+immunodeficiency (SCID) mouse in order to prevent the rejection of human 
+transplant cells. Following subcutaneous implantation of synovial tissue in the 
+SCID mouse, all target cells within the SCID-HuRAg mouse were of human origin, 
+having migrated from the implanted tissue. Moreover, human interlukin-6 and 
+rheumatoid factor were detected in this mouse serum. We therefore propose that 
+this SCID-HuRAg mouse is a novel, useful animal model for the study and 
+development of new drugs for RA patients. This novel RA animal model is reviewed 
+in this chapter.

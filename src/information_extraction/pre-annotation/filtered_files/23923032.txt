@@ -1,0 +1,16 @@
+Rheumatoid arthritis (RA) is a destructive arthropathy with systemic 
+manifestations, characterized by chronic synovial inflammation. Under the 
+influence of the pro-inflammatory milieu synovial fibroblasts (SFs), the main 
+effector cells in disease pathogenesis become activated and hyperplastic while 
+releasing a number of signals that include pro-inflammatory factors and tissue 
+remodeling enzymes. Activated RA SFs in mouse or human arthritic joints express 
+significant quantities of autotaxin (ATX), a lysophospholipase D responsible for 
+the majority of lysophosphatidic acid (LPA) production in the serum and inflamed 
+sites. Conditional genetic ablation of ATX from SFs resulted in attenuation of 
+disease symptoms in animal models, an effect attributed to diminished LPA 
+signaling in the synovium, shown to activate SF effector functions. Here we show 
+that administration of 1-bromo-3(S)-hydroxy-4-(palmitoyloxy)butyl-phosphonate 
+(BrP-LPA), a metabolically stabilized analog of LPA and a dual function 
+inhibitor of ATX and pan-antagonist of LPA receptors, attenuates collagen 
+induced arthritis (CIA) development, thus validating the ATX/LPA axis as a novel 
+therapeutic target in RA.

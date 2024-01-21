@@ -1,0 +1,28 @@
+The elevated expression of cell adhesion molecules (CAMs) on the lumenal surface 
+of vascular endothelial cells is a critical early event in the complex 
+inflammatory process. The adhesive interactions of these CAMs that include 
+E-selectin, ICAM-1, and VCAM-1 with their counter-receptors on leukocytes, such 
+as integrins of the alpha(L)beta(2) family, result in migration of the 
+leukocytes to the site of inflammation and cause tissue injury. Pharmaceutical 
+agents that could suppress the induced expression of one or more of these cell 
+adhesion molecules would provide a novel mechanism to attenuate the inflammatory 
+responses associated with chronic inflammatory diseases. A-205804 (1), a potent 
+and selective inhibitor of the induced expression of E-selectin and ICAM-1 over 
+VCAM-1, was further modified with emphasis at the C-4 and C-2 positions to 
+identify a more potent drug candidate with a good pharmacokinetic profile and 
+physical properties. Replacement of the C-4 sulfur linkage in 1 with an oxygen 
+atom eliminated one of the two major metabolites for this lead molecule. The 
+para-position of the 4-phenoxy group of the thieno[2,3-c]pyridine lead is found 
+to be very critical for a higher in vitro potency and selectivity of E-selectin 
+and ICAM-1 over VCAM-1 expression. This position is presumably close to the 
+solvent-accessible region of the target protein-inhibitor complex. An attempt to 
+install a water-solubilizing group at the para-position of the phenoxy group to 
+increase the aqueous solubility of this lead series through various linkages 
+failed to provide an ideal inhibitor. Only small substituents such as fluorine 
+are tolerated at the meta- and ortho-positions of the 4-phenoxy to retain a good 
+in vitro potency. Bromo, trifluoromethyl, pyrazol-1-yl, and imidazol-1-yl are 
+among the better substituents at the para-position. With fine-tuning at the C-2 
+position we discovered a series of very potent (IC(50) < 5 nM for ICAM-1) and 
+selective (>200-fold vs VCAM-1) inhibitors with a good pharmacokinetic profile. 
+Demonstrated efficacy in a rat rheumatoid arthritis model and in a mice asthma 
+model with selected compounds is also reported.

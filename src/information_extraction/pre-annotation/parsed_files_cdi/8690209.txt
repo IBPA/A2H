@@ -1,0 +1,19 @@
+BACKGROUND & AIMS: Clostridium difficile toxin A causes secretion and intestinal 
+inflammation in rodents by binding to a specific trisaccharide Gal alpha 1-3Gal 
+beta 1-4 GlcNAc on enterocyte receptors. The purpose of this study was to 
+explore the ability of Synsorb 90 (Synsorb Biotech Inc., Calgary, Alberta, 
+Canada), and inert support carrying this trisaccharide, to bind toxin A in vitro 
+and to inhibit its enterotoxic effects in vivo.
+METHODS: Binding of [3H]toxin A to Synsorb 90, Synsorb 83 (beta-mannose 
+attached), and Chromosorb P (inert support with no sugar attached) (Synsorb 
+Biotech Inc.) was measured. The inhibitory effects of these compounds on toxin 
+A-mediated fluid secretion, mannitol permeability, and histological damage were 
+measured in ileal loops in vivo.
+RESULTS: Toxin A showed specific binding to Synsorb 90, bearing the specific 
+trisaccharide that binds toxin A, but not to Synsorb 83 or to Chromosorb P. 
+Pretreatment of rats with Synsorb 90 by gavage (200 mg/kg body wt), but no 
+Synsorb 83 or Chromosorb P at the same doses, dramatically reduced toxin 
+A-associated fluid secretion and permeability.
+CONCLUSIONS: An immobilized toxin A receptor sequesters toxin A in the 
+intestinal lumen and inhibits its effects of ileal mucosa. These results suggest 
+a potential use for this agent in treating patients with C. difficile colitis.

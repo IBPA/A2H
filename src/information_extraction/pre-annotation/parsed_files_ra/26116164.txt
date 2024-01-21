@@ -1,0 +1,29 @@
+ETHNOPHARMACOLOGICAL RELEVANCE: In traditional Chinese medicine, Gentiana 
+macrophylla Pall have been prescribed for the treatment of pain and inflammatory 
+conditions. In addition, it is a common Tibetan medicinal herb used for the 
+treatment of tonsillitis, urticaria, and rheumatoid arthritis (RA), while the 
+flowers of G. macrophylla Pall have been traditionally treated as an 
+anti-inflammatory agent to clear heat in Mongolian medicine. The secoiridoid 
+glycosides and their derivatives are the primary active components of G. 
+macrophylla and have been demonstrated to be effective as anti-inflammatory 
+agents.
+MATERIALS AND METHODS: Solvent extraction and D101 macroporous resin columns 
+were employed to concentratethe gentiopicroside. Gentiopicroside cytotoxicity 
+was assessed by 3-(4,5-Dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide 
+(MTT) assay; the toxicity of gentiopicroside in chondrocytes was reconfirmed 
+using Hoechst staining. Western blotting, reverse transcriptase-polymerase chain 
+reaction (RT-PCR) and immunohistochemistry were utilized to explore the 
+protective effects and mechanisms of gentiopicroside prevents interleukin-1 beta 
+induced inflammation response in rat articular chondrocyte.
+RESULTS: The MTT assay demonstrated that 50, 500, and 1,500 μg/mL of 
+gentiopicroside exhibited no significant toxicity to chondrocytes (P>0.05) after 
+24h. Using immunohistochemistry, ELISA, RT-PCR, Western blot method to explore 
+the protective effect and mechanism of gentiopicroside on chondrocytes induced 
+by IL-1β. The results showed some pathways of IL-1β signal transduction were 
+inhibited by gentiopicroside in rat chondrocytes: p38, ERK and JNK. Meanwhile, 
+gentiopicroside showed inhibition in the IL-1β-induced release of MMPs while 
+increasing Collagen type II expression.
+CONCLUSIONS: The current study demonstrated that gentiopicroside exhibited a 
+potent protective effect on IL-1β induced inflammation response in rat articular 
+chondrocyte. Thus, gentiopicroside could be a potential therapeutic strategy for 
+treatment of OA.

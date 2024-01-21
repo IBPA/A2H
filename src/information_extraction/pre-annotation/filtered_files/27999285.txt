@@ -1,0 +1,29 @@
+Guanjiekang (GJK) that is formed by five medicinal herbs including Astragali 
+Radix, Aconiti Lateralis Radix Praeparaia, Glycyrrhizae Radix et Rhizoma, 
+Corydalis Rhizoma and Paeoniae Radix Alba was used for the treatment of 
+rheumatoid arthritis (RA). However, the pharmacokinetic (PK) profile of active 
+components in GJK remains unclear. This study aims to evaluate the 
+pharmacokinetic behavior of seven representative active constituents in GJK 
+(i.e., benzoylhypaconine, benzoylmesaconine, paeoniflorin, tetrahydropalmatine, 
+calycosin-7-glucoside, formononetin and isoliquiritigenin) after oral 
+administration of GJK in rats. A rapid, sensitive and reliable ultra-performance 
+liquid chromatography-tandem mass spectrometer (UPLC-MS/MS) method has been 
+successfully developed for the simultaneous determination of these seven 
+constituents in rat plasma. Chromatographic separation was achieved on a C18 
+column with a gradient elution program that consists of acetonitrile and water 
+(containing 0.1% formic acid) at a flow rate of 0.35 mL/min. Detection was 
+performed under the multiple reaction monitoring (MRM) in the positive 
+electrospray ionization (ESI) mode. The calibration curves exhibited good 
+linearity (R² > 0.99) over a wide concentration range for all constituents. The 
+accuracies ranged from 92.9% to 107.8%, and the intra-day and inter-day 
+precisions at three different levels were below 15%. Our PK results showed that 
+these seven compounds were quickly absorbed after the administration of the GJK 
+product, and Tmax ranged from 30 min to 189 min. The in vivo concentrations of 
+paeoniflorin and isoliquiritigenin were significantly higher than the reported 
+in vitro effective doses, indicating that they could partly contribute to the 
+therapeutic effect of GJK. Therefore, we conclude that pharmacokinetic studies 
+of representative bioactive chemicals after administration of complex herbal 
+products are not only necessary but also feasible. Moreover, these seven 
+compounds that were absorbed in vivo can be used as indicator standards for 
+quality control and for determining pharmacokinetic behavior of herbal medicines 
+in clinical studies.

@@ -1,0 +1,27 @@
+OBJECTIVE: To investigate the effect of statins on vascular dysfunction in rat 
+adjuvant-induced arthritis (AIA).
+METHODS: Fluvastatin (5 mg/kg/day) was administered orally to rats with AIA, for 
+21 days after the onset of arthritis. The vasodilatory response to acetylcholine 
+of aortic rings isolated from rats with AIA that were not treated or were 
+treated with fluvastatin and from normal rats was determined. The amounts of 
+4-hydroxy-2-nonenal (HNE) and nitrotyrosine in aortas were measured by Western 
+blotting. In vitro and in situ superoxide production in aortas was evaluated 
+based on fluorogenic oxidation of dihydroethidium to ethidium. Expression of 
+NAD(P)H components and endothelial nitric oxide synthase (eNOS) in aortas was 
+examined by real-time reverse transcriptase-polymerase chain reaction and 
+Western blotting. Serum levels of tetrahydrobiopterin, a critical eNOS cofactor, 
+were determined by high-performance liquid chromatography.
+RESULTS: Fluvastatin reversed endothelial dysfunction in AIA without affecting 
+the clinical severity of arthritis or serum cholesterol concentration. 
+Fluvastatin reduced the amounts of HNE and nitrotyrosine in the aorta, and the 
+levels of superoxide expressed in endothelial cells and smooth muscle cells in 
+the tissue, in rats with AIA. NADH- or L-arginine-induced superoxide production 
+was not observed in the aortic samples from fluvastatin-treated rats with AIA. 
+Fluvastatin decreased the levels of expression of messenger RNA for p22phox, a 
+NAD(P)H oxidase component, in the aortas of rats with AIA, but did not affect 
+the expression of eNOS. Serum levels of tetrahydrobiopterin were significantly 
+reduced in rats with AIA, and were increased by administration of fluvastatin.
+CONCLUSION: Our findings demonstrate that fluvastatin has potent vascular 
+protective effects in AIA and provide additional scientific rationale for the 
+use of statins to reduce cardiovascular mortality in patients with rheumatoid 
+arthritis.

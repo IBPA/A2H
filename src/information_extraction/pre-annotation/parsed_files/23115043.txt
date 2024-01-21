@@ -1,0 +1,20 @@
+Melanin-concentrating hormone (MCH) was initially identified in mammals as a 
+hypothalamic neuropeptide regulating appetite and energy balance. However, the 
+wide distribution of MCH receptors in peripheral tissues suggests additional 
+functions for MCH which remain largely unknown. We have previously reported that 
+mice lacking MCH develop attenuated intestinal inflammation when exposed to 
+Clostridium difficile toxin A. To further characterize the role of MCH in host 
+defense mechanisms against intestinal pathogens, Salmonella enterocolitis (using 
+Salmonella enterica serovar Typhimurium) was induced in MCH-deficient mice and 
+their wild-type littermates. In the absence of MCH, infected mice had increased 
+mortality associated with higher bacterial loads in blood, liver, and spleen. 
+Moreover, the knockout mice developed more-severe intestinal inflammation, based 
+on epithelial damage, immune cell infiltrates, and local and systemic cytokine 
+levels. Paradoxically, these enhanced inflammatory responses in the MCH knockout 
+mice were associated with disproportionally lower levels of macrophages 
+infiltrating the intestine. Hence, we investigated potential direct effects of 
+MCH on monocyte/macrophage functions critical for defense against intestinal 
+pathogens. Using RAW 264.7 mouse monocytic cells, which express endogenous MCH 
+receptor, we found that treatment with MCH enhanced the phagocytic capacity of 
+these cells. Taken together, these findings reveal a previously unappreciated 
+role for MCH in host-bacterial interactions.

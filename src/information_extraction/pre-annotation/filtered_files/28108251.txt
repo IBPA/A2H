@@ -1,0 +1,8 @@
+As demonstrated in preclinical animal models, the disruption of PI3Kδ expression 
+or its activity leads to a decrease in inflammatory and immune responses. 
+Therefore, inhibition of PI3Kδ may provide an alternative treatment for 
+autoimmune diseases, such as RA, SLE, and respiratory ailments. Herein, we 
+disclose the identification of 
+7-(3-(piperazin-1-yl)phenyl)pyrrolo[2,1-f][1,2,4]triazin-4-amine derivatives as 
+highly potent, selective and orally bioavailable PI3Kδ inhibitors. The lead 
+compound demonstrated efficacy in an in vivo mouse KLH model.

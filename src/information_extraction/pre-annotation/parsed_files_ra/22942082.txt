@@ -1,0 +1,12 @@
+Rheumatoid arthritis is a heterogeneous disease with clinical and biological 
+polymorphisms. IL-1RN is a protein that binds to interleukin-1 (IL-1) receptors 
+and inhibits the binding of IL-1-alpha and IL-1-beta. IL-1RN levels are elevated 
+in the blood of patients with a variety of infectious, immune, and traumatic 
+conditions. Balb/c mice deficient in IL-1ra (mouse gene of IL-1RN) develop 
+spontaneous autoimmune arthritis while DBA/1 mice deficient in IL-1ra do not. 
+Previously, we identified a major QTL that regulates the susceptibility to 
+arthritis in Balb/c mice with IL-1ra deficiency. In this study, we found that 
+the QTL may contain two peaks that are regulated by two sets of candidate genes. 
+By haplotype analysis, the total genomic regions of candidate genes were reduced 
+from about 19 Mbp to approximately 9 Mbp. The total number of candidate genes 
+was reduced from 208 to 21.

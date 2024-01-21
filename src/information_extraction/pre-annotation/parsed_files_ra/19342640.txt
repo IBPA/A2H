@@ -1,0 +1,23 @@
+Rheumatoid arthritis is a joint-specific autoimmune inflammatory disease of 
+unknown etiology. The K/BxN mouse is a model of rheumatoid arthritis that is 
+thought to be mainly due to autoantibody-mediated inflammatory responses. We 
+showed previously that homeostatic proliferation of autoreactive CD4(+) T cells 
+is required for disease initiation in the K/BxN mice. In this study, we show 
+that the homeostatically proliferating CD4(+)CD25(-) T cells produce IL-21. We 
+generated IL-21R-deficient (IL-21R(-/-)) K/BxN mice and found that these mice 
+were completely refractory to the development of spontaneous arthritis. They 
+contained fewer CD4(+) T cells with a reduced proportion of homeostatically 
+proliferating cells, fewer follicular Th cells, and, surprisingly, more Th17 
+cells than their control counterparts. They also failed to develop IgG1(+) 
+memory B cells and autoantigen-specific IgG1 Ab-secreting cells. IL-21 induced 
+expression of receptor activator of NF-kappaB ligand (RANKL) a regulator of 
+osteoclastogenesis, and few RANKL-expressing infiltrates were found in the 
+synovia of IL-21R(-/-) K/BxN mice. Thus, our results demonstrate that IL-21 
+forms a positive feedback autocrine loop involving homeostatically activated 
+CD4(+) cells and that it plays an essential role in the development of 
+autoimmune arthritis by mechanisms dependent on follicular Th cell development, 
+autoreactive B cell maturation, and RANKL induction but independent of Th17 cell 
+function. Consistent with this, in vivo administration of soluble the IL-21R-Fc 
+fusion protein delayed the onset and progression of arthritis. Our findings 
+suggest that effective targeting of IL-21-mediated processes may be useful in 
+treating autoimmune arthritis.

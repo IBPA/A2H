@@ -1,0 +1,25 @@
+Spray-dried porcine plasma (SDPP) has been considered as an alternative for 
+in-feed antibiotics to improve pig growth performance; however, the effect of 
+SDPP on gut microbiota is unknown. The objective of this study was to evaluate 
+effects of feeding SDPP on fecal microbial communities of nursery pigs. 
+Ninety-six weaned pigs were assigned to 16 pens, which were allotted to two 
+dietary treatments, including the control or the control + SDPP (5% and 2.5% 
+SDPP inclusion in phase 1 and 2, respectively) diet. Fecal samples were 
+collected at d 0, 7, 14, 21, and 28. Multiplex sequencing of V3 region of the 
+16S rRNA gene was used to characterize the bacterial community structure of 
+fecal samples. Pearson's correlation tests were performed in Calypso to identify 
+bacterial taxa that were either positively or negatively associated with overall 
+growth performance. Feeding SDPP altered microbial structure at family, genus, 
+and operational taxonomic unit (OTU) classifications; however, fecal microbes 
+shifted with time. At the family level, Clostridiaceae increased (P < 0.001) on 
+d 14, but decreased (P < 0.05) on d 28 in SDPP-fed pigs compared with control 
+pigs. Decreased Veillonellaceae (P < 0.05; d 14) and Lachnospiraceae (P = 0.001; 
+overall) were observed in SDPP-fed pigs compared with control pigs. Feeding SDPP 
+increased lactic acid-producing bacteria (Lactobacillus delbrueckii, d 7) and 
+cellulolytic bacteria (Ruminococcus albus, d 7; Clostridium thermocellum, d 7 
+and 14; and Clostridium saccharoperbutylacetonicum/beijerinckii, d 14; and 
+Megasphaera elsdenii, d 21). On d 28, feeding SDPP decreased (P < 0.05) 
+Clostridium difficile compared with control pigs. In conclusion, feeding SDPP 
+altered fecal microbial communities in nursery pigs. The results of this study 
+may provide information to help explain the positive effects associated with 
+feeding SDPP on nutrient digestibility and gut health of nursery pigs.

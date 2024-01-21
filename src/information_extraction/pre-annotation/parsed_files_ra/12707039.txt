@@ -1,0 +1,29 @@
+The aim of the study was to investigate the relationship between invasion and 
+proliferation in rheumatoid arthritis synovial fibroblasts (RASFs). In vitro, 
+RASFs, normal synovial fibroblasts (NSFs), and RASFs transformed with SV40 
+T-antigen (RASF(SV40)) were analyzed for the expression of cell surface markers 
+(Thy1, VCAM-1, ICAM-1, CD40, CD44) and their proliferation by flow cytometry. 
+Furthermore, colony-forming unit assays were performed and the expression of 
+matrix metalloproteinases (MMP)-14 and cathepsin K mRNA were determined by 
+real-time polymerase chain reaction. In vivo, in the severe combined 
+immunodeficiency (SCID) mouse co-implantation model, RASFs, NSFs, and RASF(SV40) 
+were tested for cartilage invasion, cellular density, and for their expression 
+of the cell cycle-associated protein Ki67. In the SCID mouse co-implantation 
+model, RASFs invaded significantly stronger into the cartilage than NSFs and 
+RASF(SV40). Of note, RASF(SV40) cells formed tumor-like tissues, and the 
+cellular density adjacent to the cartilage was significantly higher than in 
+RASFs or NSFs. In turn, the proliferation marker Ki67 was strongly expressed in 
+the SV40-transformed synoviocytes in SCID mice, but not in RASFs, and 
+specifically not at sites of cartilage invasion. Using the colony-forming unit 
+assay, RASFs and NSFs did not form colonies, whereas RASF(SV40) lost contact 
+inhibition. In vitro, the proliferative rate of RASFs was low (4.3% S phase) in 
+contrast to RASF(SV40) (24.4%). Expression of VCAM-1 was significantly higher, 
+whereas of ICAM-1 was significantly lower, in RASFs than in RASF(SV40). CD40 was 
+significantly stronger expressed in RASF(SV40), whereas CD44 and AS02 were 
+present at the same degree in almost all synoviocytes. Expression of cathepsin K 
+and matrix metalloproteinase-14 mRNA was significantly higher in RASFs than in 
+the RASF(SV40). Our data demonstrate clearly that invasion of cartilage is 
+mediated by activated RASFs characterized by increased expression of adhesion 
+molecules, matrix-degrading enzymes, but does not depend on cellular 
+proliferation, suggesting the dissociation of invasion and proliferation in 
+RASFs.

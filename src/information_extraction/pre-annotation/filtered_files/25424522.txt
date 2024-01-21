@@ -1,0 +1,27 @@
+In rodent models of inflammatory arthritis, bone erosion has been non-invasively 
+assessed by micro-computed tomography (micro-CT). However, non-invasive 
+assessments of paw swelling (oedema) are still based on clinical grading by 
+visual evaluation, or measurements by callipers, not always reliable for the 
+tiny mouse paws. The aim of this work was to demonstrate a novel straightforward 
+3D micro-CT analysis protocol capable of quantifying not only joint bone 
+erosion, but also soft tissue swelling, from the same scans, in a rodent 
+inflammatory arthritis model. Balb/c mice were divided into two groups: collagen 
+antibody-induced arthritis (CAIA) and CAIA treated with prednisolone, the latter 
+reflecting an established treatment in human rheumatoid arthritis. Clinical paw 
+scores were recorded. On day 10, front paws were assessed by micro-CT and 
+histology. Micro-CT measurements included paw volume (bone and soft tissue 
+together) and bone volume at the radiocarpal joint, and bone volume from the 
+radiocarpal to the metacarpophalangeal joint. Micro-CT analysis revealed 
+significantly lower paw volume (-36%, P < 0.01) and higher bone volume (+17%, P 
+< 0.05) in prednisolone-treated CAIA mice compared with untreated CAIA mice. Paw 
+volume and bone volume assessed by micro-CT correlated significantly with 
+clinical and histological scores (|r| > 0.5, P < 0.01). Untreated CAIA mice 
+showed significantly higher clinical scores, higher inflammation levels 
+histologically, cartilage and bone degradation, and pannus formation, compared 
+with treated mice (P < 0.01). The presented novel micro-CT analysis protocol 
+enables 3D-quantification of paw swelling at the micrometre level, along with 
+the typically assessed bone erosion, using the same images/scans, without 
+altering the scanning procedure or using contrast agents.
+
+© The Authors. Scandinavian Journal of Immunology published by John Wiley & Sons 
+Ltd on behalf of Scandanavian Society of Immunology (SSI).

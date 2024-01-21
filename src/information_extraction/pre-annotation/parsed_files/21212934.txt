@@ -1,0 +1,20 @@
+Toxin A (TcdA) and toxin B (TcdB) from Clostridium difficile are the causative 
+agents of the C. difficile-associated diarrhea (CDAD) and its severe form, the 
+pseudomembranous colitis. TcdA and TcdB both glucosylate and thereby inactivate 
+low molecular weight GTP-binding proteins of the Rho, Rac, and Cdc42 
+subfamilies. In cultured cell lines, TcdB induces actin re-organization and 
+bi-nucleation ("cytopathic effects") and cell death ("cytotoxic effects"). In 
+this study, the role of cell cycle progression in the cytopathic and the 
+cytotoxic effects of TcdB is evaluated by a differential analysis of these 
+effects in proliferating and non-proliferating cells. Density-synchronized 
+murine fibroblasts and confluent HT29 colonocytes are exploited as cell culture 
+models for non-proliferating cells. Cell death is analyzed in terms of a loss of 
+cell viability, phosphatidylserine exposure, and DNA fragmentation. In 
+proliferating cells, TcdB blocks cell proliferation and induces apoptotic cell 
+death. In contrast, TcdB induces non-apoptotic cell death in non-proliferating 
+cells. TcdB-induced cell rounding turns out to be independent of cell cycle 
+progression. Cell cycle progression is an important determinant in the 
+biological effects of TcdB. With respect to the pathology of CDAD, this study 
+leads to the new hypothesis that necrotic cell death of terminally 
+differentiated colonocytes and inhibition of epithelial renewal of the colon 
+contribute to the pathogenesis of CDAD.

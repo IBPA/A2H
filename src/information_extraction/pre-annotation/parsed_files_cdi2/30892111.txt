@@ -1,0 +1,24 @@
+Background: Clostridium difficile infection is the most common cause of 
+antimicrobial-associated diarrhea. Our aim was to introduce a novel and 
+efficient clinical sickness score (CSS), and to define a detailed histologic 
+injury score (HIS) in a murine model of C. difficile colitis. Methods: Mice 
+received an antibiotic cocktail (kanamycin, gentamicin, colistin, metronidazole, 
+and vancomycin) for 96 h. After 48 h, mice received an intraperitoneal injection 
+of clindamycin, followed by oral C. difficile (1.5 × 107 CFU). Signs of sickness 
+were scored using a novel CSS (range 0-12) with scores ≥6 consistent with C. 
+difficile colitis. Intestinal tissue was analyzed utilizing an adapted HIS 
+(range 0-9) with scores ≥4 consistent with C. difficile colitis. Stool was 
+analyzed for C. difficile, and survival evaluated. Results: No control mice 
+showed signs of sickness, whereas 23% of mice receiving antibiotics alone and 
+65% of mice exposed to antibiotics and subsequently C. difficile demonstrated 
+signs of sickness (p = 0.0134). No control mice had histologic injury, whereas 
+8% of mice receiving antibiotics alone and 75% of mice exposed to antibiotics 
+followed by C. difficile had evidence of histologic injury (p = 0.0001). Mice 
+exposed to C. difficile lost more weight, although not significant (p = 0.070). 
+Mice that received C. difficile had decreased survival compared to control mice 
+and mice receiving antibiotics only (p = 0.03). Conclusions: We have developed a 
+novel clinical scoring system, and detailed histological grading system, that 
+enables the objective evaluation of a murine C. difficile colitis model. This 
+model allows the study of this disease in a host that demonstrates clinical and 
+histologic signs comparable to human C. difficile infection. This will allow for 
+improved study of therapeutics for this disease in the future.

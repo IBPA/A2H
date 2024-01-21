@@ -1,0 +1,21 @@
+There is extensive evidence for the critical role of reactive oxygen species 
+(ROS) and nitric oxide (NO) produced by phagocytes in development of 
+inflammatory processes and pathogenesis of numerous diseases, including 
+rheumatoid arthritis (RA). Apart from their function as mediators of 
+inflammation and tissue damage, recent research supports their role as signaling 
+and regulatory molecules. In the present study we have investigated the 
+production of ROS and NO over the course of adjuvant arthritis (AA) and 
+oil-induced arthritis (OIA), by resident peritoneal macrophages of two rat 
+strains: Dark Agouti (DA), susceptible, and Albino Oxford (AO), resistant to 
+induction of AA and OIA. We have compared levels of ROS and NO produced by 
+susceptible vs. resistant rat strain, and investigated their relevancy for 
+arthritis development and severity. In addition, we have stimulated macrophages 
+in vitro with Mycobacterium bovis BCG, and two heat shock proteins (HSP): 
+endogenous HSP47 and mycobacterial HSP71 (mHSP71). Our results suggest a 
+possible contribution of increased ROS production to arthritis resistance of AO 
+rats. The ROS production in AO rats is potentiated by endogenous HSP47, but not 
+with mycobacterial cell and mHSP71, suggesting HSP47 participates in AA control. 
+We have found no fundamental relationship between the magnitude of NO production 
+and AA and OIA susceptibility and severity, suggesting that NO has no effector 
+role in AA and OIA. Our results advocate a regulatory type action of NO molecule 
+might be more significant in arthritis development.

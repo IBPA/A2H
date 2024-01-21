@@ -1,0 +1,18 @@
+Near-infrared fluorophore (NIRF)-labeled imaging probes are becoming 
+increasingly important in bio-molecular imaging applications, that is, in animal 
+models for tumor imaging or inflammation studies. In this study we showed that 
+the previously introduced chemical concept of 'Reverse Design' represents an 
+efficient strategy for the generation of selective probes for cysteine proteases 
+from chemically optimized protease inhibitors for investigations in proteomic 
+lysates as well as for in vivo molecular imaging studies. The newly developed 
+activity-based probe AW-091 was demonstrated to be highly selective for 
+cathepsin S in vitro and proved useful in monitoring cysteine cathepsin activity 
+in vivo, that is, in zymosan-induced mouse model of inflammation. AW-091 showed 
+higher signal-to-background ratios at earlier time points than the commercially 
+available polymer-based ProSense680 (VisEn Medical) and thus represents an 
+efficient new tool for studying early proteolytic processes leading to various 
+diseases, including inflammation, cancer, and rheumatoid arthritis. In addition, 
+the fluorescent signal originating from the cleaved AW-091 was shown to be 
+reduced by the administration of an anti-inflammatory drug, dexamethasone and by 
+the cathepsin inhibitor E-64, providing a valuable system for the evaluation of 
+small-molecule inhibitors of cathepsins.

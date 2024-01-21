@@ -1,0 +1,15 @@
+The purpose of this work was to formulate piperine solid lipid nanoparticle 
+(SLN) dispersion to exploit its efficacy orally and topically. Piperine SLN were 
+prepared by melt emulsification method and formula was optimized by the 
+application of 32 factorial design. The nanoparticulate dispersion was evaluated 
+for particle size, entrapment efficiency and zeta potential (ZP). Optimized 
+batch (128.80 nm average size, 78.71% entrapment efficiency and -23.34 mV zeta 
+potential) was characterized for differential scanning calorimetry (DSC), X-ray 
+diffraction which revealed amorphous nature of piperine in SLN. The prepared SLN 
+were administered orally and topically to CFA-induced arthritic rats. Ex vivo 
+study using Franz diffusion cell indicate that piperine from SLN gel formulation 
+accumulates in the skin. Pharmacodynamic study result indicates both the topical 
+and oral piperine evoked a significant response compared to orally administered 
+chloroquine suspension. The results of ELISA show significant reduction in TNFα 
+in treated rat which might be the reason behind the DMARD action of piperine 
+SLN.

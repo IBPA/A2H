@@ -1,0 +1,32 @@
+OBJECTIVE: Anti-RA33 antibodies occur in patients with rheumatoid arthritis 
+(RA), systemic lupus erythematosus (SLE), and mixed connective tissue disease 
+(MCTD) and target the A2/B1 protein of the heterogeneous nuclear 
+ribonucleoprotein (hnRNP) complex 4 which forms part of the spliceosome. The aim 
+of the present study was to evaluate the immune response and pathological 
+features induced in mice immunized with anti-RA33 antibodies or patient-derived 
+recombinant single-chain variable fragments (scFv) of anti-RA33 antibodies.
+METHODS: In the first set of the experiment, two strains of mice (C57BL/6J and 
+BALB/c) were immunized with IgG preparations obtained from two patients with RA 
+and one normal donor. One of the patients had high titer anti-RA33 antibodies; 
+the other one showed weak borderline reactivity. In the second set of the 
+experiment three groups of C57BL/6J mice were immunized, respectively, with 
+affinity-purified (AP) anti-RA33 antibodies, scFv of anti-RA33 antibodies and 
+normal human IgG. The immunological response induced in immunized mice was 
+studied by immunoblotting and line immunoassay (LIA). The presence of arthritis, 
+serositis or myositis was assessed six-months following initial immunization.
+RESULTS: While anti-RA33 antibodies developed in only two of the mice immunized 
+with different human IgG fractions, anti-RA33 antibodies were clearly detected 
+in 7 sera of 13 mice immunized with AP anti-RA33 antibodies three months after 
+the boost immunization and, moreover, also in 2 sera of 13 mice immunized with 
+scFv of anti-RA33 antibodies. In contrast, mice immunized with normal human IgG 
+did not develop anti-RA33 antibodies. Interestingly, transient autoantibody 
+production against another nuclear autoantigen, U1 snRNP, was observed in 3 
+C57BL/6J mice immunized with scFv and in 1 mouse immunized with AP 
+autoantibodies. However, these immunological responses were not associated with 
+pathological findings.
+CONCLUSIONS: Active immunization of naive mice with AP anti-RA33 antibodies and 
+scFv of anti-RA33 antibodies resulted on the one hand in the production of 
+murine anti-RA33 antibodies and led, on the other hand, to transient 
+"autoantibody spread" to snRNP component of the spliceosome and other nuclear 
+autoantigens. This "autoantibody spread" probably reflected disregulation of the 
+idiotypic anti-idiotypic cascade.

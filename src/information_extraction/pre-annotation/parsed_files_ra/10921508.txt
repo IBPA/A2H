@@ -1,0 +1,21 @@
+TNF-alpha and IL-1beta promote leukocyte recruitment to arthritic joints and may 
+contribute to cartilage degradation while regulatory cytokines such as IL-4 and 
+IL-1RA may in part determine the course of arthritis. Here we report the pattern 
+of TNF-alpha, IL-1beta, IL-6, IFN-gamma, IL-1RA, and IL-4 mRNA expression, 
+detected by RT/PCR, in the talar joint and draining popliteal lymph node (PLN) 
+of rats with adjuvant arthritis (AA). Levels of TNF-alpha and IFN-gamma mRNA 
+were increased in the PLN before clinical signs of arthritis. This was followed 
+by increases in IL-1beta and IL-1RA mRNA at d9 and IL-6 mRNA at d12. PLN IL-1RA 
+mRNA levels were positively correlated with those of IL-1beta and TNF-alpha 
+throughout d5-d20. IL-4 mRNA levels were highest on days 7 and 20. In the 
+synovium, a small increase in TNF-alpha, IL-1beta, and IL-6 mRNA was detected on 
+d5 then again on d12. Maximal synovial TNF-alpha levels were reached on d20, 
+while IL-1beta peak expression was on d16 and IL-6 on d14. IL-4, IL-1RA, and 
+IFN-gamma mRNA was undetectable in the synovium. Cyclosporin treatment for 4 
+days, initiated at the height of arthritis, rapidly decreased clinical disease, 
+and decreased migration of neutrophils and T lymphocytes into the joints. Yet no 
+significant effect of CyA was observed on inflammatory cytokine expression, 
+although the correlation between PLN IL-1RA and IL-1beta or TNF-alpha was lost 
+in treated animals. Thus there is a variable pattern of cytokine gene expression 
+in rat AA, the undetectable IL-4 and IFN-gamma mRNA in synovium being analogous 
+to human rheumatoid arthritis.

@@ -1,0 +1,26 @@
+In the current concept of bacterial infections, pathogen-associated molecular 
+patterns (PAMPs) derived from pathogens and damage-associated molecular patterns 
+(DAMPs) released from damaged/necrotic host cells are crucial factors in 
+induction of innate immune responses. However, the implication of DAMPs in 
+apical and marginal periodontitis is unknown. Serum amyloid A (SAA) is a DAMP 
+that is involved in the development of various chronic inflammatory diseases, 
+such as rheumatoid arthritis. In the present study, we tested whether SAA is 
+involved in the pathogenesis of periapical lesions, using human periapical 
+surgical specimens and mice deficient in SAA and Toll-like receptors (TLR). 
+SAA1/2 was locally expressed in human periapical lesions at the mRNA and protein 
+levels. The level of SAA protein appeared to be positively associated with the 
+inflammatory status of the lesions. In the development of mouse periapical 
+inflammation, SAA1.1/2.1 was elevated locally and systemically in wild-type (WT) 
+mice. Although SAA1.1/2.1 double-knockout and SAA3 knockout mice had redundant 
+attenuation of the extent of periapical lesions, these animals showed strikingly 
+improved inflammatory cell infiltration versus WT. Recombinant human SAA1 
+(rhSAA1) directly induced chemotaxis of WT neutrophils in a dose-dependent 
+manner in vitro. In addition, rhSAA1 stimulation significantly prolonged the 
+survival of WT neutrophils as compared with nonstimulated neutrophils. 
+Furthermore, rhSAA1 activated the NF-κB pathway and subsequent IL-1α production 
+in macrophages in a dose-dependent manner. However, TLR2/TLR4 double deficiency 
+substantially diminished these SAA-mediated proinflammatory responses. Taken 
+together, the SAA-TLR axis plays an important role in the chronicity of 
+periapical inflammation via induction of inflammatory cell infiltration and 
+prolonged cell survival. The interactions of PAMPs and DAMPs require further 
+investigation in dental/oral inflammation.

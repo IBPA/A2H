@@ -1,0 +1,23 @@
+Clostridium difficile infection (CDI) causes moderate to severe disease, 
+resulting in diarrhea and pseudomembranous colitis. CDI is difficult to treat 
+due to production of inflammation-inducing toxins, resistance development, and 
+high probability of recurrence. Only two antibiotics are approved for the 
+treatment of CDI, and the pipeline for therapeutic agents contains few new 
+drugs. MBX-500 is a hybrid antibacterial, composed of an anilinouracil DNA 
+polymerase inhibitor linked to a fluoroquinolone DNA gyrase/topoisomerase 
+inhibitor, with potential as a new therapeutic for CDI treatment. Since MBX-500 
+inhibits three bacterial targets, it has been previously shown to be minimally 
+susceptible to resistance development. In the present study, the in vitro and in 
+vivo efficacies of MBX-500 were explored against the Gram-positive anaerobe, C. 
+difficile. MBX-500 displayed potency across nearly 50 isolates, including those 
+of the fluoroquinolone-resistant, toxin-overproducing NAP1/027 ribotype, 
+performing as well as comparator antibiotics vancomycin and metronidazole. 
+Furthermore, MBX-500 was a narrow-spectrum agent, displaying poor activity 
+against many other gut anaerobes. MBX-500 was active in acute and recurrent 
+infections in a toxigenic hamster model of CDI, exhibiting full protection 
+against acute infections and prevention of recurrence in 70% of the animals. 
+Hamsters treated with MBX-500 displayed significantly greater weight gain than 
+did those treated with vancomycin. Finally, MBX-500 was efficacious in a murine 
+model of CDI, again demonstrating a fully protective effect and permitting 
+near-normal weight gain in the treated animals. These selective anti-CDI 
+features support the further development of MBX 500 for the treatment of CDI.

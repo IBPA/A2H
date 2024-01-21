@@ -1,0 +1,25 @@
+AIMS: This study aimed to assess the beneficial effects of the concurrent 
+administration of cilostazol and methotrexate (MTX) on the synovial fibroblasts 
+obtained from patients with rheumatoid arthritis (RA), and in a mouse model of 
+collagen-induced arthritis (CIA).
+MAIN METHODS: Production of TNF-α, IL-1β, IL-6 and MCP-1 on synovial fibroblasts 
+from RA patients was determined by RT-PCR. Cell proliferation, viability and 
+apoptosis were measured. Anti-arthritic effects were evaluated in CIA mice.
+KEY FINDING: Concurrent use of cilostazol and MTX effectively suppressed 
+proliferation and cell viability associated with enhanced apoptosis of synovial 
+fibroblasts and significantly suppressed cytokine production, including TNF-α, 
+IL-1β, IL-6, and MCP-1 in an additive manner. In line with these findings, 
+LPS-induced increased expression of NURR1 mRNA and protein were suppressed by 
+cilostazol and MTX in accordance with suppression of NF-κB p65 activity. These 
+suppressed effects were reversed by KT5720 (cAMP-protein kinase inhibitor) and 
+ZM 241385 (A(2A) receptor antagonist), respectively. In CIA mice, treatment with 
+cilostazol, MTX and their combination significantly decreased clinical signs 
+with improvement of histopathological status in the paw of mice, accompanied by 
+reduced serum cytokine levels. Likewise, following concurrent administration, 
+CD68 (+)-cell recruitment, proteoglycan depletion and osteoclast formation were 
+significantly suppressed in association with repressed RANKL expression in the 
+joints of CIA mice.
+SIGNIFICANCE: In conclusion, a combination of cilostazol and MTX may provide an 
+effective therapeutic strategy for the suppression of inflammation and the 
+prevention of joint damage in RA via activation of the cAMP-dependent protein 
+kinase in the synovial fibroblasts.

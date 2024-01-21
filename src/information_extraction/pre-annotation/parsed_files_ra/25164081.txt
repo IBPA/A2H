@@ -1,0 +1,25 @@
+Peptidyl arginine deiminase (PAD)4 is a nuclear enzyme that catalyzes the 
+posttranslational conversion of arginine residues to citrulline. 
+Posttranslational protein citrullination has been implicated in several 
+inflammatory autoimmune diseases, including rheumatoid arthritis, colitis, and 
+multiple sclerosis. Here, we tested the hypothesis that PAD4 contributes to 
+ischemic acute kidney injury (AKI) by exacerbating the inflammatory response 
+after renal ischemia-reperfusion (I/R). Renal I/R injury in mice increased PAD4 
+activity as well as PAD4 expression in the mouse kidney. After 30 min of renal 
+I/R, vehicle-treated mice developed severe AKI with large increases in plasma 
+creatinine. In contrast, mice pretreated with PAD4 inhibitors (2-chloroamidine 
+or streptonigrin) had significantly reduced renal I/R injury. Further supporting 
+a critical role for PAD4 in generating ischemic AKI, mice pretreated with 
+recombinant human PAD4 (rPAD4) protein and subjected to mild (20 min) renal I/R 
+developed exacerbated ischemic AKI. Consistent with the hypothesis that PAD4 
+regulates renal tubular inflammation after I/R, mice treated with a PAD4 
+inhibitor had significantly reduced renal neutrophil chemotactic cytokine 
+(macrophage inflammatory protein-2 and keratinocyte-derived cytokine) expression 
+and had decreased neutrophil infiltration. Furthermore, mice treated with rPAD4 
+had significantly increased renal tubular macrophage inflammatory protein-2 and 
+keratinocyte-derived cytokine expression as well as increased neutrophil 
+infiltration and necrosis. Finally, cultured mouse kidney proximal tubules 
+treated with rPAD4 had significantly increased proinflammatory chemokine 
+expression compared with vehicle-treated cells. Taken together, our results 
+suggest that PAD4 plays a critical role in renal I/R injury by increasing renal 
+tubular inflammatory responses and neutrophil infiltration after renal I/R.

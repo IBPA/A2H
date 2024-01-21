@@ -1,0 +1,27 @@
+OBJECTIVE: Interleukin-4 (IL-4) can modulate neovascularization. In this study, 
+we used a gene therapy approach to investigate the role of IL-4 in angiogenesis 
+in rat adjuvant-induced arthritis (AIA), a model for rheumatoid arthritis.
+METHODS: Rats received an adenovirus producing IL-4 (AxCAIL-4), a control virus 
+without insert, or control vehicle (phosphate buffered saline) intraarticularly 
+before arthritis onset. At peak onset of arthritis, rats were killed. 
+Vascularization was determined in the synovial tissue, and correlations with 
+inflammation were assessed. Ankle homogenates were used in angiogenesis assays 
+in vitro and in vivo, and protein levels of cytokines and growth factors were 
+assessed by enzyme-linked immunosorbent assay. Synovial tissue expression of 
+alphav integrins was determined by immunohistochemistry.
+RESULTS: IL-4 induced a reduction in synovial tissue vessel density, which was 
+paralleled by a decrease in inflammation. AxCAIL-4 joint homogenates 
+significantly (P < 0.05) inhibited both endothelial cell (EC) migration and tube 
+formation in vitro. Similarly, AxCAIL-4 inhibited capillary sprouting in the rat 
+aortic ring assay, and vessel growth in the in vivo Matrigel plug assay. The 
+angiostatic effect occurred despite high levels of vascular endothelial growth 
+factor (VEGF), and was associated with down-regulation of the proangiogenic 
+cytokines IL-18, CXCL16, and CXCL5 and up-regulation of the angiogenesis 
+inhibitor endostatin. Of interest, AxCAIL-4 also resulted in decreased EC 
+expression of the alphav and beta3 integrin chains.
+CONCLUSION: In rat AIA, IL-4 reduces synovial tissue vascularization via 
+angiostatic effects, mediates inhibition of angiogenesis via an association with 
+altered pro- and antiangiogenic cytokines, and may inhibit VEGF-mediated 
+angiogenesis and exert its angiostatic role in part via alphavbeta3 integrin. 
+This knowledge of the specific angiostatic effects of IL-4 may help optimize 
+target-oriented treatment of inflammatory arthritis.

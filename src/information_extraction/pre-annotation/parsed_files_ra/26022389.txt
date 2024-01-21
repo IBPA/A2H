@@ -1,0 +1,26 @@
+INTRODUCTION: Rheumatoid arthritis (RA) is a chronic inflammatory autoimmune 
+disease of the joints and bones. Omega-3 (ω3) fatty acid supplementation has 
+been associated with a decreased production of inflammatory cytokines and 
+eicosanoids involved in RA pathogenesis. The aim of this study was to determine 
+the therapeutic potential of ω3 monoglyceride (MAG-ω3) compounds in an in vivo 
+rat model of RA induced by Complete Freund's Adjuvant (CFA).
+METHOD: CFA rats were untreated or treated per os with three specific compounds, 
+namely, MAG-docosahexaenoic acid (MAG-DHA), MAG-eicosapentaenoic acid (MAG-EPA) 
+and MAG-docosapentaenoic acid (MAG-DPA). Morphological and histological 
+analyses, as well as pro-inflammatory marker levels were determined following 
+MAG-ω3 treatments.
+RESULTS: Morphological and histological analyses revealed that MAG-EPA and 
+MAG-DPA exhibited strong activity in reducing the progression and severity of 
+arthritic disease in CFA rats. Following MAG-EPA and MAG-DPA treatments, plasma 
+levels of the pro-inflammatory cytokines; interleukin 17A (IL-17A), IL-1β, IL-6 
+and tumor necrosis factor α (TNFα) were markedly lower when compared to 
+CFA-untreated rats. Results also revealed a decreased activation of p38 
+mitogen-activated protein kinases (p38 MAPK) and nuclear factor-kappa B (NFκB) 
+pathways correlated with a reduced expression of TNFα, cyclooxygenase-2 (COX-2), 
+matrix metalloproteinase-2 (MMP-2) and MMP-9 in paw homogenates derived from 
+MAG-EPA and MAG-DPA-treated rats. Of interest, the combined treatment of MAG-EPA 
+and vitamin E displayed an antagonistic effect on anti-inflammatory properties 
+of MAG-EPA in CFA rats.
+CONCLUSION: Altogether, the present data suggest that MAG-EPA, without vitamin 
+E, represents a new potential therapeutic strategy for resolving inflammation in 
+arthritis.

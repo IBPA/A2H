@@ -1,0 +1,10 @@
+CD40 is a tumor necrosis factor receptor superfamily member expressed by immune 
+and non-immune cells. CD40:CD154 interactions mediate T-dependent B cell 
+responses and efficient T cell priming. Thus, CD40 is a likely candidate to play 
+roles in autoimmune diseases in which activated T and B cells cause pathology. 
+Diseases in which CD40 plays a pathogenic role include autoimmune thyroiditis, 
+type 1 diabetes, inflammatory bowel disease, psoriasis, multiple sclerosis, 
+rheumatoid arthritis, and systemic lupus erythematosus. This review discusses 
+the role of CD40:CD154 interaction in human and mouse autoimmunity, human 
+polymorphisms associated with disease incidence, and disrupting CD40:CD154 
+interactions as an autoimmune therapy.

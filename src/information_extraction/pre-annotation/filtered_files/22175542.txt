@@ -1,0 +1,20 @@
+Calcineurin (CN) is a calcium- and calmodulin-dependent serine/threonine 
+phosphatase. In immune cells, CN controls the activity of a wide range of 
+transcription factors, including nuclear factor of activated T, nuclear 
+factor-kappa B, c-fos, and Elk-1. CN plays an important role in synoviocyte 
+activation and arthritis progression in vivo and this function is tightly linked 
+to dysregulated intracellular Ca(2+) store and Ca(2+) response triggered by 
+proinflammatory cytokines. In the present study, transgenic mice expressing 
+human calcineurin-binding protein 1 (hCabin1) were generated, driven by type II 
+collagen promoter, and the efficiency of these mice was investigated by 
+experimental arthritis. These transgenic mice successfully expressed hCabin1 in 
+joint tissue as well as other organs such as liver, heart, and brain. The 
+overexpression of hCabin1 reduced the disease severity during collagen-induced 
+arthritis. In fibroblast-like synoviocytes (FLSs) from hCabin1 transgenic mice, 
+the productions of these cytokines, including interleukin (IL)-2, IL-4, and 
+IFN-γ, were decreased and matrix metalloproteinases were also depressed in 
+transgenic mice FLS. In addition, these effects were only found in the joint 
+tissue, which is a major inflammation site. These findings will provide a better 
+knowledge of the pathogenic mechanisms of rheumatoid arthritis and a potential 
+animal model of the chronic inflammatory conditions, including atherosclerosis 
+and transplantation.

@@ -1,0 +1,33 @@
+INTRODUCTION: Etanercept is a fusion protein consisting of the soluble portion 
+of the p75-tumor necrosis factor receptor (TNFR) and the Fc fragment of human 
+IgG1, which is often used for the treatment of patients with rheumatoid 
+arthritis. F8-IL10 is a human immunocytokine based on the F8 antibody and 
+interleukin-10, which is currently being investigated in rheumatoid arthritis 
+with promising clinical results. We have aimed at expressing murine versions of 
+these two fusion proteins, in order to assess their pharmaceutical performance 
+in the collagen-induced model of rheumatoid arthritis in the mouse.
+METHODS: Two fusion proteins (termed muTNFR-Fc and F8-muIL10) were cloned, 
+expressed in chinese hamster ovary (CHO) cells, purified and characterized. 
+Biological activity of muTNFR-Fc was assessed by its ability to inhibit 
+TNF-induced killing of mouse fibroblasts, while F8-muIL10 was characterized in 
+terms of muIL10 activity, of binding affinity to the cognate antigen of F8, the 
+alternatively-spliced EDA domain of fibronectin, by quantitative biodistribution 
+analysis and in vivo imaging. The therapeutic activity of both fusion proteins 
+was investigated in a collagen-induced mouse model of arthritis. Mouse plasma 
+was analyzed for anti-drug antibody formation and cytokine levels were 
+determined by bead-based multiplex technology. The association of F8-IL10 
+proteins with blood cells was studied in a centrifugation assay with 
+radiolabeled protein.
+RESULTS: Both fusion proteins exhibited excellent purity and full biological 
+activity in vitro. In addition, F8-muIL10 was able to localize on newly-formed 
+blood vessels in vivo. When used in a murine model of arthritis, the two 
+proteins inhibited arthritis progression. The activity of muTNFR-Fc was tested 
+alone and in combination with F8-huIL10. The chimeric version of F8-IL10 was not 
+better then the fully human fusion protein and showed similar generation of 
+mouse anti-fusion protein antibodies. Incubation studies of F8-muIL10 and 
+F8-huIL10 with blood revealed that only the fully human fusion protein is not 
+associated with cellular components at concentrations as low as 0.2 μg/ml, thus 
+facilitating its extravasation from blood vessels.
+CONCLUSIONS: The described products may represent useful research tools for the 
+study of the anti-arthritic properties of TNF blockade and of IL10-based 
+immunocytokines in syngeneic immunocompetent models of arthritis.

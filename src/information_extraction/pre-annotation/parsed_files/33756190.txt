@@ -1,0 +1,23 @@
+Colonization resistance (CR), the ability to block infections by potentially 
+harmful microbes, is a fundamental function of host-associated microbial 
+communities and highly conserved between animals and humans. Environmental 
+factors such as antibiotics and diet can disturb microbial community composition 
+and thereby predispose to opportunistic infections. The most prominent is 
+Clostridioides difficile, the causative agent of diarrhea and pseudomembranous 
+colitis. In addition, the risk to succumb to infections with genuine human 
+enteric pathogens like nontyphoidal Salmonella (NTS) is also increased by a 
+low-diverse, diet or antibiotic-disrupted microbiota. Despite extensive 
+microbial community profiling efforts, only a limited set of microorganisms have 
+been causally linked with protection against enteric pathogens. Furthermore, it 
+remains a challenge to predict colonization resistance from complex microbiome 
+signatures due to context-dependent action of microorganisms. In the past 
+decade, the study of NTS infection has led to the description of several 
+fundamental principles of microbiota-host-pathogen interaction. In this review, 
+I will give an overview on the current state of knowledge in this field and 
+outline experimental approaches to gain functional insight to the role of 
+specific microbes, functions and metabolites in Salmonella-microbiota-host 
+interaction. In particular, I will highlight the value of mouse infection 
+models, which, in combination with culture collections, synthetic communities 
+and gnotobiotic models have become essential tools to screen for protective 
+members of the microbiota and establishing causal relationship and mechanisms in 
+infection research.

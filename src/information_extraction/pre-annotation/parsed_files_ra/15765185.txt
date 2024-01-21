@@ -1,0 +1,29 @@
+(-)-DHMEQ, a newly designed NF-kappaB inhibitor, inhibited RANKL-induced 
+osteoclast differentiation in mouse BMMs through downregulation of the induction 
+of NFATc1, an essential transcription factor of osteoclastogenesis.
+INTRODUCTION: Bone destruction is often observed in advanced case of rheumatoid 
+arthritis and neoplastic diseases, including multiple myeloma. Effective and 
+nontoxic chemotherapeutic agents are expected for the suppression of these bone 
+destructions. RANKL induces activation of NF-kappaB and osteoclastogenesis in 
+bone marrow-derived monocyte/macrophage precursor cells (BMMs). Targeted 
+disruption or pharmacological suppression of NF-kappaB result in impaired 
+osteoclastogenesis, but how NF-kappaB is involved in the regulation of 
+osteoclastogenesis is not known.
+MATERIALS AND METHODS: The effect of (-)-dehydroxymethylepoxyquinomicin 
+[(-)-DHMEQ] on osteoclast differentiation was studied using a culture system of 
+mouse BMMs stimulated with RANKL and macrophage colony-stimulating factor. The 
+mechanism of the inhibition was studied by biochemical analysis such as 
+immunoblotting and retroviral transfer experiments.
+RESULTS: (-)-DHMEQ strongly inhibited RANKL-induced NF-kappaB activation in BMMs 
+and inhibited RANKL-induced formation of TRACP(+) multinucleated cells. 
+Interestingly, (-)-DHMEQ specifically inhibited the RANKL-induced expression of 
+NFATc1 but not the expressions of TRAF6 or c-fos. Inhibition of osteoclast 
+differentiation by (-)-DHMEQ was rescued by overexpression of NFATc1, suggesting 
+that the inhibition is not caused by a toxic effect. Moreover, pit formation 
+assays showed that (-)-DHMEQ also inhibited the bone-resorbing activity of 
+mature osteoclasts.
+CONCLUSION: The inhibition of NF-kappaB suppresses osteoclastogenesis by 
+downregulation of NFATc1, suggesting that NFATc1 expression is regulated by 
+NF-kappaB in RANKL-induced osteoclastogenesis. Our results also indicate the 
+possibility of (-)-DHMEQ becoming a new therapeutic strategy against bone 
+erosion.

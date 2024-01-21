@@ -1,0 +1,15 @@
+Clinically, rheumatoid arthritis (RA) is a chronic deforming disease 
+characterized mainly by joint swelling and destruction. Although synovial 
+inflammation and bone erosion are the hallmarks of this disease, the 
+presentation of various features between patients is clearly heterogenous, 
+suggesting that there are different variants of RA. Hence, the development of an 
+animal model that has all of the elements of human RA has remained elusive. This 
+review explores several different views on the etiology of RA and the recent 
+data from various murine arthritis models which provide support for these 
+theories. In addition to discussing the potential roles of CD4(+) T cell 
+activation, autoantibodies, and lymphocyte-independent cytokine production, the 
+role of CD4(+) T regulatory cells will be presented in the context of a newly 
+developed humanized transgenic mouse model. This novel T cell receptor 
+transgenic model is being characterized to enhance our understanding of the 
+mechanisms involved in the breach of self-tolerance that occurs in autoimmune 
+disorders such as RA.

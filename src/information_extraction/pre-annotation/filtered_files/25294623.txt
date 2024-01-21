@@ -1,0 +1,26 @@
+BACKGROUND: Mice and humans produce chitinase-like proteins (CLPs), which are 
+highly homologous to chitinases but lack chitinolytic activity. Mice express 
+primarily three CLPs, including breast regression protein-39 (BRP-39) [chitinase 
+3-like-1 (Chi3l1) or 38-kDa glycoprotein (gp38k)], Ym1 (Chi3l3) and Ym2 
+(Chi3l4). Recently, CLPs have attracted considerable attention due to their 
+increased expression in a number of pathological conditions, including asthma, 
+allergies, rheumatoid arthritis and malignant tumors. Although the exact 
+functions of CLPs are largely unknown, the significance of their increased 
+expression levels during pathophysiological states needs to be determined. The 
+quantification of BRP-39, Ym1 and Ym2 is an important step in gaining insight 
+into the in vivo regulation of the CLPs.
+METHODS: We constructed a standard DNA for quantitative real-time PCR (qPCR) by 
+containing three CLPs target fragments and five reference genes cDNA in a 
+one-to-one ratio. We evaluated this system by analyzing the eight target cDNA 
+sequences. Tissue cDNAs obtained by reverse transcription from total RNA from 
+four embryonic stages and eight adult tissues were analyzed using the qPCR 
+system with the standard DNA.
+RESULTS: We established a qPCR system detecting CLPs and comparing their 
+expression levels with those of five reference genes using the same scale in 
+mouse tissues. We found that BRP-39 and Ym1 were abundant in the mouse lung, 
+whereas Ym2 mRNA was abundant in the stomach, followed by lung. The expression 
+levels of BRP-39 and Ym1 in the mouse lung were higher than those of two active 
+chitinases and were comparable to glyceraldehyde-3-phosphate dehydrogenase, a 
+housekeeping gene which is constitutively expressed in all tissues.
+CONCLUSION: Our results indicate that catalytically inactive BRP-39 and Ym1 are 
+constitutive genes in normal mouse lung.

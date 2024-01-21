@@ -1,0 +1,20 @@
+Clostridioides difficile is a major cause of health care-associated diarrhea. 
+Severity ranges from mild to life-threatening, but this variability remains 
+poorly understood. Microbiologic diagnosis of C. difficile infection (CDI) is 
+straightforward but offers little insight into the patient's prognosis or into 
+pathophysiologic determinants of clinical trajectory. The aim of this study was 
+to discover host-derived, CDI-specific fecal biomarkers involved in disease 
+severity. Subjects without and with CDI diarrhea were recruited. CDI severity 
+was based on Infectious Diseases Society of America/Society for Healthcare 
+Epidemiology of America criteria. We developed a liquid chromatography tandem 
+mass spectrometry approach to identify host-derived protein biomarkers from 
+stool and applied it to diagnostic samples for cohort-wise comparison 
+(CDI-negative vs. nonsevere CDI vs. severe CDI). Selected biomarkers were 
+orthogonally confirmed and subsequently verified in a CDI mouse model. We 
+identified a protein signature from stool, consisting of alpha-2-macroglobulin 
+(A2MG), matrix metalloproteinase-7 (MMP-7), and alpha-1-antitrypsin (A1AT), that 
+not only discriminates CDI-positive samples from non-CDI ones but also is 
+potentially associated with disease severity. In the mouse model, this signature 
+with the murine homologs of the corresponding proteins was also identified. 
+A2MG, MMP-7, and A1AT serve as biomarkers in patients with CDI and define novel 
+components of the host response that may determine disease severity.

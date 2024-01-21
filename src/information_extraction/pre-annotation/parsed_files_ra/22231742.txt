@@ -1,0 +1,19 @@
+Multiple Sclerosis (MS) and Rheumatoid Arthritis (RA) are amongst the most 
+common autoimmune diseases in the northern hemisphere. There is mounting 
+evidence that in both afflictions, not only environmental and genetic factors 
+influence disease, but cellular components such as autoreactive T cells also 
+contribute to pathology. Animal models are key in the study and subsequent 
+therapeutic development for human autoimmune diseases. As patient material is 
+often difficult to obtain and in some cases--as in MS, where the central nervous 
+system (CNS) is concerned--even not accessible, animal models provide a 
+multifaceted tool to explore disease-underlying mechanisms. The pro-inflammatory 
+T cell cytokine IL-17 has recently moved to center stage due to its crucial role 
+in autoimmune diseases including MS and RA. A plethora of studies in animal 
+models has sustained the relevance of this cytokine pathway for the development 
+of autoimmunity and shed light on its cellular sources and patho-mechanisms. 
+This review addresses the role of IL-17 producing T lymphocytes, in particular 
+CD4(+) and γδ T cells, in three commonly used mouse models for MS and RA, namely 
+experimental autoimmune encephalomyelitis (EAE), collagen-induced arthritis 
+(CIA), and antigen-induced arthritis (AIA). Comparing and combining knowledge 
+gained from different animal models will broaden our understanding of the IL-17 
+biology and facilitate the translation to the human diseases.

@@ -1,0 +1,18 @@
+The objective of this study was to undertake a microbiological survey of foods, 
+animal faeces and wastewater samples for Clostridium difficile, and determine 
+the genotypes and antimicrobial susceptibilities of isolates. A total of 211 
+samples were tested for C. difficile using culture methods. Thirteen toxigenic 
+C. difficile isolates were obtained; ten from wastewater samples, one each from 
+pig and duck faeces and another from a raw meat product. Eight PCR-ribotypes 
+(RTs) were identified, including two novel RTs (878 and 879). Single-nucleotide 
+polymorphism analysis using WGS data for all isolates provided greater 
+discrimination between C. difficile isolates within the same RT and multilocus 
+sequence typing (MLST) profiles. All C. difficile isolates were found to be 
+susceptible to the first-line human antimicrobials used to treat C. difficile 
+infection. SIGNIFICANCE AND IMPACT OF THE STUDY: This is the first study to 
+report the isolation of Clostridium difficile from animals, food and wastewater 
+in New Zealand (NZ) and provides important data with respect to ribotypes and 
+multilocus sequence typing profiles, whole genome sequence and antimicrobial 
+susceptibilities. The results highlight the need for further investigations into 
+the epidemiology of C. difficile in NZ and to elucidate the role of the 
+environmental and food sources as transmission routes of human infection.

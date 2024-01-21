@@ -1,0 +1,19 @@
+In the past decade, Clostridium difficile has emerged as an important gut 
+pathogen. Symptoms of C. difficile infection range from mild diarrhea to 
+pseudomembranous colitis. Besides the two main virulence factors toxin A and 
+toxin B, other virulence factors are likely to play a role in the pathogenesis 
+of the disease. In other Gram-positive and Gram-negative pathogenic bacteria, 
+conserved high-temperature requirement A (HtrA)-like proteases have been shown 
+to have a role in protein homeostasis and quality control. This affects the 
+functionality of virulence factors and the resistance of bacteria to 
+(host-induced) environmental stresses. We found that the C. difficile 630 genome 
+encodes a single HtrA-like protease (CD3284; HtrA) and have analyzed its role in 
+vivo and in vitro through the creation of an isogenic ClosTron-based htrA mutant 
+of C. difficile strain 630Δerm (wild type). In contrast to the attenuated 
+phenotype seen with htrA deletion in other pathogens, this mutant showed 
+enhanced virulence in the Golden Syrian hamster model of acute C. difficile 
+infection. Microarray data analysis showed a pleiotropic effect of htrA on the 
+transcriptome of C. difficile, including upregulation of the toxin A gene. In 
+addition, the htrA mutant showed reduced spore formation and adherence to 
+colonic cells. Together, our data show that htrA can modulate virulence in C. 
+difficile.

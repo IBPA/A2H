@@ -1,0 +1,19 @@
+Rheumatoid arthritis (RA) is a chronic autoimmune disease of the joints 
+affecting about 0.3⁻1% of the population in different countries. About 50⁻60 
+percent of RA patients respond to presently used drugs. Moreover, the current 
+biomarkers for RA have inherent limitations. Consequently, there is a need for 
+additional, new biomarkers for monitoring disease activity and responsiveness to 
+therapy of RA patients. We examined the micro-RNA (miRNA) profile of immune 
+(lymphoid) cells of arthritic Lewis rats and arthritic rats treated with 
+celastrol, a natural triterpenoid. Experimental and bioinformatics analyses 
+revealed 8 miRNAs (miR-22, miR-27a, miR-96, miR-142, miR-223, miR-296, miR-298, 
+and miR-451) and their target genes in functional pathways important for RA 
+pathogenesis. Interestingly, 6 of them (miR-22, miR-27a, miR-96, miR-142, 
+miR-223, and miR-296) were further modulated by celastrol treatment. 
+Interestingly, serum levels of miR-142, miR-155, and miR-223 were higher in 
+arthritic versus control rats, whereas miR-212 showed increased expression in 
+celastrol-treated rats compared with arthritic rats or control rats. This is the 
+first study on comprehensive miRNA expression profiling in the adjuvant-induced 
+arthritis (AA) model and it also has revealed new miRNA targets for celastrol in 
+arthritis. We suggest that subsets of the above miRNAs may serve as novel 
+biomarkers of disease activity and therapeutic response in arthritis.

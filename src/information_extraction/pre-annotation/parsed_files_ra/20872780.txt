@@ -1,0 +1,23 @@
+Thymoquinone (TQ) is the major active compound derived from the medicinal 
+Nigella sativa. A few studies have shown that TQ exhibits anti-inflammatory 
+activities in experimental models of rheumatoid arthritis (RA) through 
+mechanisms that are not fully understood. The aim of this work was to evaluate 
+the in vitro and in vivo effects of TQ and to investigate its influence on the 
+major signalling pathways involved in pathophysiological RA changes. We used 
+isolated human RA fibroblast-like synoviocytes (FLS) and a rat adjuvant-induced 
+arthritis model of RA. In isolated RA FLS, TQ (0-10 µM) was not cytotoxic and 
+inhibited slightly lipopolysaccharide (LPS)-induced FLS proliferation and 
+strongly H(2)O(2)-induced 4-hydroxynonenal (HNE) generation. By studying 
+different inflammatory and catabolic factors, we determined that TQ 
+significantly abolished LPS-induced interleukin-1beta (IL-1β), tumour necrosis 
+factor-alpha (TNFα), metalloproteinase-13, cyclooxygenase-2, and prostaglandin 
+E(2). Furthermore, LPS-induced the phosphorylation of p38 mitogen-activated 
+protein kinase, extracellular-regulated kinases ½, and nuclear factor-kappaB-p65 
+were also blocked by TQ in time-dependent manner. In our experimental RA model, 
+the oral administration of TQ 5 mg/kg/day significantly reduced the serum levels 
+of HNE, IL-1β and TNFα as well as bone turnover markers, such as alkaline 
+phosphatase and tartrate-resistant acid phosphatase. The protective effects of 
+TQ against RA were also evident from the decrease in arthritis scoring and bone 
+resorption. In conclusion, the fact that TQ abolishes a number of factors known 
+to be involved in RA pathogenesis renders it a clinically valuable agent in the 
+prevention of articular diseases, including RA.

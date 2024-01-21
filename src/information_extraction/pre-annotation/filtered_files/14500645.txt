@@ -1,0 +1,22 @@
+T cell recognition of the type II collagen (CII) 260-270 peptide is a bottleneck 
+for the development of collagen-induced arthritis (CIA), an animal model of 
+rheumatoid arthritis. We have earlier made C3H.Q mice expressing CII with 
+glutamic acid instead of aspartic acid at position 266 (the MMC-C3H.Q mouse), 
+similar to the rat and human CII epitope, which increases binding to MHC class 
+II and leads to effective presentation of the peptide in vivo. These mice show T 
+cell tolerance to CII, but also develop severe arthritis. The present 
+investigation shows that non-MHC genes play a decisive role in determining 
+tolerance and arthritis susceptibility. We bred MMC into B10.Q mice, which 
+display similar susceptibility to CIA induced with rat CII as the C3H.Q mice. In 
+contrast to MMC-C3H.Q mice, MMC-B10.Q mice were completely resistant to 
+arthritis. Nontransgenic (B10.Q x C3H.Q)F(1) mice were more susceptible to CIA 
+than either of the parental strains, but introduction of the MMC transgene leads 
+to CIA resistance, showing that the protection is dominantly inherited from 
+B10.Q. In an attempt to break the B10-mediated CIA protection in MMC-transgenic 
+mice, we introduced a transgenic, CII-specific, TCR beta-chain specific for the 
+CII(260-270) glycopeptide, in the highly CIA-susceptible (B10.Q x DBA/1)F(1) 
+mice. The magnification of the autoreactive CII-specific T cell repertoire led 
+to increased CIA susceptibility, but the disease was less severe than in mice 
+lacking the MMC transgene. This finding is important for understanding CIA and 
+perhaps also rheumatoid arthritis, as in both diseases MHC class II-restricted T 
+cell recognition of the glycosylated CII peptide occurs.

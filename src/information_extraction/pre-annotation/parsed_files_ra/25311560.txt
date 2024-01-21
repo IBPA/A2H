@@ -1,0 +1,32 @@
+BACKGROUND: We have previously reported that dephnetin is therapeutically 
+effective in the treatment of rheumatoid arthritis (RA) in collagen-induced 
+arthritis (CIA) rat model. However, the molecular mechanism and the effect of 
+daphnetin on demethylating proapoptotic genes in the synovial cells remains 
+further clarified. This study may provide a deeper insight into the medicinal 
+application of daphnetin as a treatment for RA.
+METHODS: (1) The proliferation inhibition of CIA rat synovial cells was 
+determined by an MTT 
+(3-(4,5)-dimethylthiahiazo(-z-y1)-3,5-di-phenyterazoliumromide) assay; (2) 
+Methylation specific PCR (MSP) was used to measure the methylation of the 
+proapoptotic genes DR3 (death receptor 3), PDCD5 (programmed cell death 5), FasL 
+and p53; (3) Real time-PCR was performed to determine the mRNA expression of 
+DR3, PDCD5, FasL, p53 and DNA methyltransferases (DNMTs) DNMT1, DNMT3a and 
+DNMT3b; (4) Flow cytometry was applied to detect the protein expression of the 
+DR3, PDCD5, FasL and p53; (5) The apoptotic rate of synovial cells was assessed 
+by flow cytometry with Annexin V and propidium iodide (PI); (6) Scanning 
+electron microscopy (SEM) and transmission electron microscopy (TEM) were used 
+to observe the changes of CIA rat synovial cell structure.
+RESULTS: (1) In the range of 1.25 μg/mL to 40 μg/mL, daphnetin and 5-aza-dc had 
+a dose-dependent and time-dependent degree of inhibition to the CIA rat synovial 
+cells. (2) Daphnetin and 5-aza-dc had a demethylating role on the proapoptotic 
+genes DR3, PDCD5, FasL and p53 of CIA rat synovial cells. (3) Daphnetin and 
+5-aza-dc decreased the gene expression of methyltransferases DNMT1, DNMT3a and 
+DNMT3b, and increased expression of proapoptotic genes DR3, PDCD5, FasL and p53, 
+which translated into an increased protein expression of DR3, PDCD5, FasL and 
+p53. (4) Daphnetin and 5-aza-dc changed the structure of CIA rat synovial cells 
+to show apoptotic changes and increased the rate of apoptosis.
+CONCLUSIONS: Daphnetin can reduce the expression of DNMT1, DNMT3a and DNMT3b, 
+which could result in the proapoptotic genes DR3, PDCD5, FasL and p53 being 
+demethylated. Therefore, daphnetin can increase proapoptotic gene and protein 
+expression resulting in structural apoptotic changes and an increase in early 
+and late CIA rat synovial cell apoptosis.

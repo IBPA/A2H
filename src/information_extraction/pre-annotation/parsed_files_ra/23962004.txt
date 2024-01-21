@@ -1,0 +1,18 @@
+Current data support a role for gut colonization in maintaining balanced mucosal 
+and systemic immune responses and have suggested aberrant innate immune 
+recognition of enteric bacteria as an initiator of the adaptive immune damage 
+associated with inflammatory bowel disease (Crohn's disease and ulcerative 
+colitis). In fact, data from human studies and experimental mouse models have 
+implicated transformation of the gut microbiota from a beneficial symbiotic 
+state to one of imbalance or "dysbiosis" in the pathogenesis of several 
+autoinflammatory diseases, including allergic skin and respiratory disorders, 
+rheumatoid arthritis, type I diabetes, and colorectal cancer. The host has 
+evolved to co-exist and maintain a mutualistic relationship with the commensal 
+microbes of the gut, and it is the function of the host innate immune system to 
+initiate and maintain this homeostasis, while retaining the ability to respond 
+appropriately to pathogenic organisms. In this review, we discuss the molecular 
+and cellular interactions of the mucosal immune system that decide this delicate 
+balance of mutualism. Furthermore, we will highlight the role of dendritic cells 
+in preserving this precarious balance and how gene products of commensal 
+microbes may play an integral role in re-establishing this balance once it has 
+gone awry.

@@ -1,0 +1,21 @@
+Dysprosium lithium-borate (DyLB) glass microspheres have been developed as a 
+biodegradable radiation delivery vehicle for the treatment of rheumatoid 
+arthritis and other diseases. Radioactive microspheres of these glasses are 
+intended to be injected into a joint infected with rheumatoid arthritis to 
+safely deliver a localized dose (100 Gy) of beta radiation. Once injected, the 
+microspheres react nonuniformly with body fluids. The nonradioactive, 
+lithium-borate component is dissolved from the glass, whereas the radioactive 
+(165)Dy reacts with phosphate anions in the body fluids, and becomes 
+"chemically" trapped in a solid, dysprosium phosphate reaction product that has 
+the same size as the unreacted microsphere. The glass microspheres lose 
+approximately 80% of their weight after nonuniform reaction (<1 day), but the 
+dysprosium phosphate reaction product is slowly metabolized by the body over 
+several months. Ethylenediaminetetraacetate (EDTA) chelation therapy can be used 
+to dissolve the dysprosium phosphate reaction product in vitro in <2 h. The 
+dysprosium phosphate reaction product which formed in vivo in the joint of a 
+Sprague-Dawley rat was also dissolved by EDTA chelation therapy in <1 week, 
+without causing any detectable joint damage. The combination of DyLB glass 
+microspheres and EDTA chelation therapy provides a unique "tool" for the medical 
+community because it can deliver a large dose (>100 Gy) of localized beta 
+radiation to a treatment site within the body, followed by complete 
+biodegradability.

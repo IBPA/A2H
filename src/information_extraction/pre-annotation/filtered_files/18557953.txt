@@ -1,0 +1,19 @@
+CD147 is a type I transmembrane glycoprotein expressed on a wide variety of cell 
+types, including all leucocytes. While CD147 is best known as a potent inducer 
+of matrix metalloproteinases, it can also function as a regulator of leucocyte 
+migration through its cell surface interaction with chemotactic extracellular 
+cyclophilins. A potential role for CD147-cyclophilin interactions during 
+inflammatory diseases, including rheumatoid arthritis (RA), is suggested from 
+several studies. For example, CD147 expression is increased on reactive 
+leucocytes in the synovial fluid and tissues of patients with arthritis. In 
+addition, the synovial fluid of patients with RA contains high levels of 
+extracellular cyclophilin A. In the current studies we investigated the 
+contribution of the chemotactic function of CD147-cyclophilin interactions to 
+joint inflammation using the mouse model of collagen-induced arthritis. Our data 
+demonstrate that proinflammatory leucocytes, specifically neutrophils, monocytes 
+and activated CD4(+) T cells, lose their ability to migrate in response to 
+cyclophilin A in vitro when treated with anti-CD147 monoclonal antibody. 
+Furthermore, in vivo treatment with anti-CD147 monoclonal antibody can reduce 
+the development of collagen-induced arthritis in mice by >75%. Such findings 
+suggest that CD147-cyclophilin interactions might contribute to the pathogenesis 
+of RA by promoting the recruitment of leucocytes into joint tissues.

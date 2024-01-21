@@ -1,0 +1,20 @@
+Antibodies to type II collagen (collagen II) are pathogenic in experimental 
+collagen-induced arthritis (CIA) and possibly also in rheumatoid arthritis (RA). 
+Hitherto, results of assays for anti-collagen II have proven to be inconsistent. 
+We tested whether mouse monoclonal antibodies (mAbs) to collagen II inhibit the 
+natural self-assembly of soluble triple-stranded collagen II monomers to form 
+insoluble polymeric fibrils. A spectrophotometric assay of self-assembly was 
+based on change in absorbance at 313 nm, observed over 0-60 min after 
+neutralisation and warming of a solution of monomeric collagen II. Two mAbs to 
+collagen II (CII-CI and M2.139) strongly inhibited self-assembly of collagen II 
+but not collagen I, whereas another antibody, CII-F4, and an irrelevant control 
+mAb did not. Notably, CII-CI and M2.139, but not CII-F4, induce arthritis on 
+passive transfer to naïve mice. The arthritogenic effects of mAbs CII-CI and 
+M2.139 in vivo, and inhibition of collagen II self-assembly in vitro, may be 
+attributable to interference with critical epitopes at sites essential for the 
+stabilisation of the mature polymeric collagen II fibril, and, hence, the 
+integrity of the entire cartilage matrix. This assay for inhibition of 
+self-assembly of collagen II could be developed for routine measurement of 
+anti-collagen II in body fluids as a marker of early RA, and perhaps also to 
+distinguish populations of antibodies to collagen II that either have or lack 
+the capacity to perpetuate arthritis.

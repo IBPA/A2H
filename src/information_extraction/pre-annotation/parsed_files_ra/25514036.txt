@@ -1,0 +1,15 @@
+Bone destruction at inflamed joints is an important complication associated with 
+rheumatoid arthritis (RA). Interleukin-10 (IL-10) may suppress not only 
+inflammation but also induction of osteoclasts that play key roles in the bone 
+destruction. If IL-10-producing osteoblast-like cells are induced from patient 
+somatic cells and transplanted back into the destructive bone lesion, such 
+therapy may promote bone remodeling by the cooperative effects of IL-10 and 
+osteoblasts. We transduced mouse fibroblasts with genes for IL-10 and Runx2 that 
+is a crucial transcription factor for osteoblast differentiation. The 
+IL-10-producing induced osteoblast-like cells (IL-10-iOBs) strongly expressed 
+osteoblast-specific genes and massively produced bone matrix that were 
+mineralized by calcium phosphate in vitro and in vivo. Culture supernatant of 
+IL-10-iOBs significantly suppressed induction of osteoclast from 
+RANKL-stimulated Raw264.7 cells as well as LPS-induced production of 
+inflammatory cytokine by macrophages. The IL-10-iOBs may be applicable to novel 
+cell-based therapy against bone destruction associated with RA.

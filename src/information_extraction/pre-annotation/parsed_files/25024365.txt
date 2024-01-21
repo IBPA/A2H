@@ -1,0 +1,24 @@
+Clostridium difficile-associated disease (CDAD) constitutes a large majority of 
+nosocomial diarrhea cases in industrialized nations and is mediated by the 
+effects of two secreted toxins, toxin A (TcdA) and toxin B (TcdB). Patients who 
+develop strong antitoxin antibody responses can clear C. difficile infection and 
+remain disease free. Key toxin-neutralizing epitopes have been found within the 
+carboxy-terminal receptor binding domains (RBDs) of TcdA and TcdB, which has 
+generated interest in developing the RBD as a viable vaccine target. While 
+numerous platforms have been studied, very little data describes the potential 
+of DNA vaccination against CDAD. Therefore, we created highly optimized plasmids 
+encoding the RBDs from TcdA and TcdB in which any putative N-linked 
+glycosylation sites were altered. Mice and nonhuman primates were immunized 
+intramuscularly, followed by in vivo electroporation, and in these animal 
+models, vaccination induced significant levels of both anti-RBD antibodies 
+(blood and stool) and RBD-specific antibody-secreting cells. Further 
+characterization revealed that sera from immunized mice and nonhuman primates 
+could detect RBD protein from transfected cells, as well as neutralize purified 
+toxins in an in vitro cytotoxicity assay. Mice that were immunized with plasmids 
+or given nonhuman-primate sera were protected from a lethal challenge with 
+purified TcdA and/or TcdB. Moreover, immunized mice were significantly protected 
+when challenged with C. difficile spores from homologous (VPI 10463) and 
+heterologous, epidemic (UK1) strains. These data demonstrate the robust 
+immunogenicity and efficacy of a TcdA/B RBD-based DNA vaccine in preclinical 
+models of acute toxin-associated and intragastric, spore-induced colonic 
+disease.

@@ -1,0 +1,23 @@
+Hyaluronan (HA) degradation produces small oligosaccharides that are able to 
+increase pro-inflammatory cytokines in rheumatoid arthritis synovial fibroblasts 
+(RASF) by activating both CD44 and the toll-like receptor 4 (TLR-4). CD44 and 
+TLR-4 stimulation in turn activate the NF-kB that induces the production of 
+pro-inflammatory cytokines. Degradation of HA occurs via two mechanisms: one 
+exerted by reactive oxygen species (ROS) and one controlled by different enzymes 
+in particular hyaluronidases (HYALs). We aimed to investigate the effects of 
+inhibiting HA degradation (which prevents the formation of small HA fragments) 
+on synovial fibroblasts obtained from normal DBA/J1 mice (NSF) and on synovial 
+fibroblasts (RASF) obtained from mice subjected to collagen induced arthritis 
+(CIA), both fibroblast types stimulated with tumor necrosis factor alpha 
+(TNF-α). TNF-α stimulation produced high mRNA expression and the related protein 
+production of CD44 and TLR-4 in both NSF and RASF, and activation of NF-kB was 
+also found in all fibroblasts. TNF-α also up-regulated the inflammatory 
+cytokines, interleukin-1beta (IL-1beta) and interleukin-6 (IL-6), and other 
+pro-inflammatory mediators, such as matrix metalloprotease-13 (MMP-13), 
+inducible nitric oxide synthase (iNOS), as well as HA levels and small HA 
+fragment production. Treatment of RASF with antioxidants and specific HYAL1, 
+HYAL2, and HYAL3 small interference RNA (siRNAs) significantly reduced TLR-4 and 
+CD44 increase in the mRNA expression and the related protein synthesis, as well 
+as the release of inflammatory mediators up-regulated by TNF-α. These data 
+suggest that the inhibition of HA degradation during arthritis may contribute to 
+reducing TLR-4 and CD44 activation and the inflammatory mediators response.

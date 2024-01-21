@@ -1,0 +1,24 @@
+BACKGROUND: Clostridium difficile (CD) infection (CDI) increases patient 
+morbidity, mortality and healthcare costs. Antibiotic treatment induces gut 
+dysbiosis and is both a major risk factor for CD colonization and treatment of 
+CDI. Probiotics have been trialed to support commensal gut microbiota and reduce 
+CDI. This study investigated commensal microbe Faecalibacterium prausnitzii (FP) 
+and a prebiotic, both known to yield butyrate and be anti-inflammatory and 
+immunomodulatory, on CD colonization and gut integrity in mice.
+METHODS: Mice were randomly grouped and supplemented daily with FP, prebiotic, 
+FP + prebiotic, FP/prebiotic supernatant, or saline throughout the entire study. 
+Following treatment with clindamycin for 3 days, mice were exposed to CD. Feces 
+were collected at baseline, the day after antibiotic, and 1, 3, and 5 days after 
+CD exposure and cultured for bacterial overgrowth and CD colonization. On days 1 
+and 5 after CD exposure, mice were randomly euthanized, and proximal colon was 
+dissected for histological analysis and preparation of RNA for analysis of 
+proinflammatory and anti-inflammatory cytokines.
+RESULTS: Although all mice exhibited bacterial overgrowth and CD colonization, 
+bacterial burden resolved quicker in the FP + prebiotic group. This was 
+associated with induction and resolution of innate immune responses, anion 
+exchanger, and tight junction protein preservation in proximal colon. CD toxin 
+virulence potential was questionable as expression of CD toxin B receptor was 
+depleted in the FP + prebiotic group.
+CONCLUSION: Supplementation with anti-inflammatory butyrate-supporting commensal 
+bacteria and prebiotic may support innate immune responses and minimize 
+bacterial burden and negative effects during antibiotic and CD exposure.

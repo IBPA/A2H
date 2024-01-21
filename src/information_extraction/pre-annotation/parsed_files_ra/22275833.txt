@@ -1,0 +1,29 @@
+BACKGROUND: The purpose of this study was to formulate and evaluate nano lipid 
+vesicles of methotrexate (MTX) for its anti-rheumatoid activity.
+METHODS: In this study the principle of both active as well as passive targeting 
+using MTX-loaded stealth liposomes as per the magic gun approach was followed. 
+Stealth liposomes of MTX were prepared by thin-film hydration method using a 
+PEGylated phospholipid-like DSPE-MPEG 2000. Similarly, conventional liposomes 
+were prepared using phospholipids like DPPC and DSPC. Conventional liposomes 
+were coated with a hydrophilic biocompatible polymer like chitosan. They were 
+investigated for their physical properties and in vitro release profile. 
+Further, in vivo screening of the formulations for their anti-rheumatoid 
+efficacy was carried out in rats. Rheumatoid arthritis was induced in male 
+Wistar-Lewis rats using complete Freund's adjuvant (1 mg/mL Mycobacterium 
+tuberculosis, heat killed in mineral oil).
+RESULTS: It was found that chitosan coating of the conventional liposomes 
+increased the physical stability of the liposomal suspension as well as its 
+entrapment efficiency. The size of the unsonicated lipid vesicles was found to 
+be in the range of 8-10 μm, and the sonicated lipid vesicles in the range of 
+210-260 nm, with good polydispersity index. Further, chitosan-coated 
+conventional liposomes and the PEGylated liposomes released the drug for a 
+prolonged period of time, compared to the uncoated conventional liposomes. It 
+was found that there was a significant reduction in edema volume in the rat 
+group administered with the test stealth liposomal formulations and 
+chitosan-coated conventional liposomes (PEGylated and chitosan-coated 
+conventional) compared to that of the control and standard (administered with 
+free MTX) group of rats. PEGylated liposomes showed almost equal efficacy as 
+that of the chitosan-coated conventional liposomes.
+CONCLUSION: Lipid nano vesicles of MTX can be administered by intravenous route, 
+whereby the drug selectively reaches the target site with reduced toxicity to 
+other organs.

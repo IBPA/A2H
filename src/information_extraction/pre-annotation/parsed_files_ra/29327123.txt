@@ -1,0 +1,20 @@
+OBJECTIVE: To identify the commonalities between rheumatoid arthritis (RA) and 
+diabetes mellitus (DM) to understand the mechanisms of Chinese medicine (CM) in 
+different diseases with the same treatment.
+METHODS: A text mining approach was adopted to analyze the commonalities between 
+RA and DM according to CM and biological elements. The major commonalities were 
+subsequently verified in RA and DM rat models, in which herbal formula for the 
+treatment of both RA and DM identified via text mining was used as the 
+intervention.
+RESULTS: Similarities were identified between RA and DM regarding the CM 
+approach used for diagnosis and treatment, as well as the networks of biological 
+activities affected by each disease, including the involvement of adhesion 
+molecules, oxidative stress, cytokines, T-lymphocytes, apoptosis, and 
+inflammation. The Ramulus Cinnamomi-Radix Paeoniae Alba-Rhizoma Anemarrhenae is 
+an herbal combination used to treat RA and DM. This formula demonstrated similar 
+effects on oxidative stress and inflammation in rats with collagen-induced 
+arthritis, which supports the text mining results regarding the commonalities 
+between RA and DM.
+CONCLUSION: Commonalities between the biological activities involved in RA and 
+DM were identified through text mining, and both RA and DM might be responsive 
+to the same intervention at a specific stage.

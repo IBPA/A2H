@@ -1,0 +1,32 @@
+OBJECTIVE: To evaluate the predictive value of clinical, biological and 
+radiological parameters for the prognosis of rheumatoid arthritis (RA) in a 
+community-recruited cohort.
+METHODS: Ninety-one patients (mean age 49 yr, female/male ratio 2.9) with RA of 
+limited duration (median 2 yr), 80% recruited from the community, were 
+prospectively enrolled in 1996 (T1) and followed until 1999 (T2). Data collected 
+at T1 were demographic characteristics, Ritchie articular index (RAI), 
+extra-articular manifestations, Health Assessment Questionnaire (HAQ) score, 
+C-reactive protein (CRP) and autoantibodies (autoAbs) [rheumatoid factors (RF), 
+detected by latex fixation test and ELISA (IgM, IgA and IgG isotypes), 
+anti-filaggrin, detected by immunofluorescence (anti-keratin antibodies, AKA; 
+anti-perinuclear factor antibodies, APF) and ELISA (anti-citrullinated rat 
+filaggrin antibodies, ACRFA), anti-Sa, anti-calpastatin recognizing the 27 
+C-terminal fragment (ACAST-C27) and domain I (ACAST-DI), anti-cardiolipin (ACL), 
+antineutrophil cytoplasmic antibodies (ANCA), anti-annexin V (aANX V) and 
+anti-Ro]. Hands were radiographed at T1 and T2, and read using the Sharp method 
+as modified by van der Heijde. The main assessment criterion was progression of 
+radiologically detected damage between T1 and T2.
+RESULTS: At T1, RA activity was mild (RAI 11/78; mean CRP 14 mg/ml), with minor 
+functional disability (HAQ 0.8/3) and mild X-ray destruction (mean total Sharp 
+score 9.2/280). At T1, 96% of the patients were on treatment (prednisone 72%, 
+DMARDs 95%). The latex test detected autoAb in 46% of patients, RF-IgM was 
+detected in 51%, RF-IgA in 36%, RF-IgG in 32%, AKA in 33%, APF in 45%, ACRFA in 
+45%, ACAST-C27 in 14%, ACAST-DI in 5%, anti-Sa in 22%, ACL in 3%, ANCA in 28%, 
+aANX V in 9% and anti-Ro in 2%. At T2, the mean total Sharp score was 22.9. 
+According to univariate analysis, T1 parameters associated with the independent 
+variable were RAI, HAQ, CRP, latex test positivity and T1 Sharp scores. 
+Multivariate analysis retained only latex test positivity and, to a lesser 
+degree, joint-space narrowing score as independent predictors of radiological 
+progression.
+CONCLUSION: RF is the main factor that can predict radiological progression in 
+community cases of RA of limited duration.

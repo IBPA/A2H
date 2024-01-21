@@ -1,0 +1,28 @@
+BACKGROUND: The HIN-200 family genes in humans have been linked to several 
+autoimmune diseases-particularly to systemic lupus erythematosus (SLE) and 
+rheumatoid arthritis (RA). Recently, its human counterpart gene cluster, the 
+Ifi200 family in mice, has been linked to spontaneous arthritis disease (SAD). 
+However, many immune-mediated diseases (including RA and SLE) show gender 
+difference. Understanding whether or not and how these genes play a role in sex 
+difference in immune-mediated diseases is essential for diagnosis/treatment.
+METHODS: This study takes advantage of the whole genome gene expression profiles 
+of recombinant inbred (RI) strain populations from female and male mice to 
+analyze potential sex differences in a variety of genes in disease pathways. 
+Expression levels and regulatory QTL of Ifi200 family genes between female and 
+male mice were first examined in a large mouse population, including RI strains 
+derived from C57BL/6J, DBA/2J (BXD), and classic inbred strains. Sex 
+similarities and differences were then analyzed for correlations with gene 
+expression levels between genes in the Ifi200 family and four selected gene 
+sets: known immune Ifi200 pathway-related genes, lupus-relevant genes, 
+osteoarthritis- (OA-) and RA-relevant genes, and sex hormone-related genes.
+RESULTS: The expression level of Ifi202b showed the most sex difference in 
+correlation with known immune-related genes (the P value for Ifi202b is 0.0004). 
+Ifi202b also showed gender difference in correlation with selected sex hormone 
+genes, with a P value of 0.0243. When comparing coexpression levels between 
+Ifi200 genes and lupus-relevant genes, Ifi203 and Ifi205 showed significant sex 
+difference (P values: 0.0303 and 0.002, resp.). Furthermore, several key genes 
+(e.g., Csf1r, Ifnb1, IL-20, IL-22, IL-24, Jhdm1d, Csf1r, Ifnb1, IL-20, IL-22, 
+IL-24, and Tgfb2 that regulate sex differences in immune diseases) were 
+discovered.
+CONCLUSIONS: Different genes in the Ifi200 family play different roles in sex 
+difference among dissimilar pathways of these four gene groups.

@@ -1,0 +1,19 @@
+Human six-transmembrane epithelial antigen of prostate4 (STEAP4), an ortholog of 
+mouse tumor necrosis factor-α-induced adipose-related protein (TIARP), plays a 
+role in tumor necrosis factor (TNF)-dependent arthritis models. However, its 
+role in rheumatoid arthritis (RA) is still obscure. This study explored such a 
+role for STEAP4. The expressions of STEAP4, TNFα, and IL-6 were compared in 
+synovia of RA and osteoarthritis patients. STEAP4 induction was examined in 
+TNFα-stimulated fibroblast-like synoviocytes (FLS) in vitro. FLS (with/without 
+TNFα stimulation) were also analyzed for IL-6 expression after STEAP4 knockdown, 
+using siRNA or transfection with STEAP4-plasmid DNA. IL-8, cell proliferation, 
+and apoptosis were also evaluated in STEAP4-overexpressing FLS. The expression 
+of STEAP4 in joints correlated with TNFα expression, specifically in RA 
+synovium. In the cultured FLS, STEAP4 protein expression was augmented by TNFα 
+activation, and localized in endosomal/lysosomal compartments. STEAP4 
+downregulation by siRNA enhanced the expression of IL-6 mRNA, while STEAP4 
+overexpression suppressed IL-6 and IL-8 expression, inhibited cell 
+proliferation, and induced apoptosis via caspase-3. The results indicated that 
+human STEAP4 is regulated by TNFα in synovium, where it controls IL-6 secretion 
+and proliferation of FLS, suggesting that STEAP4 might potentially suppress the 
+pathogenesis of TNFα-induced arthritis such as RA.

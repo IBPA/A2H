@@ -1,0 +1,19 @@
+Dipeptidyl peptidase I (DPPI) is a lysosomal cysteine protease and derived from 
+immune granule cells. It has been suggested playing an important role in the 
+development of rheumatoid arthritis. In this study, a coumarin based fluorescent 
+probe (GF-AFC) was designed and synthesized to evaluate DPPI activity in serum 
+or tissue homogenates of collagen-induced arthritis (CIA) rats, an inflammatory 
+arthropathy model. It was revealed that the fluorescent intensity was 
+significantly increased in a very short time after specific substrate GF-AFC 
+reacted with the DPPI. The fluorophore (AFC) was released to shine after the 
+cleavage reaction which was examined by 19F NMR spectroscopy. It has been shown 
+that DPPI hydrolyzed the GF-AFC in a robust, linear, and time dependent manner 
+at a significant high rate. A serum-based DPPI activity assay was validated by 
+spiking and gradient dilution methods, there were no interferences or 
+auto-fluorescence observed. The Coefficient of Variance calculated for 
+serum-based DPPI activity assays indicates the good reproducibility. The good 
+correlation has been seen between serum DPPI levels and the severity of 
+arthritis during RA development in CIA rats. Our study has demonstrated a new 
+serum based diagnostic assay for detecting DPPI activity using coumarin 
+conjugated fluorescent (GF-AFC) as a substrate. The successful implementation of 
+the case would provide beneficial experience in rheumatoid arthritis research.

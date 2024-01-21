@@ -1,0 +1,22 @@
+Lewis (LEW) and Wistar Kyoto (WKY) rats of the same major histocompatibility 
+complex (MHC) haplotype (RT.1(l)) display differential susceptibility to 
+adjuvant-induced arthritis (AIA). LEW are susceptible while WKY are resistant to 
+AIA. To gain insights into the mechanistic basis of these disparate outcomes, we 
+compared the gene expression profiles of the draining lymph node cells (LNC) of 
+these two rat strains early (day 7) following a potentially arthritogenic 
+challenge. LNC were tested both ex vivo and after restimulation with the 
+disease-related antigen, mycobacterial heat-shock protein 65. Biotin-labeled 
+fragment cRNA was generated from RNA of LNC and then hybridized with an 
+oligonucleotide-based DNA microarray chip. The differentially expressed genes 
+(DEG) were compared by limiting the false discovery rate to <5% and fold change 
+≥2.0, and their association with quantitative trait loci (QTL) was analyzed. 
+This analysis revealed overall a more active immune response in WKY than LEW 
+rats. Important differences were observed in the association of DEG with QTL in 
+LEW vs. WKY rats. Both the number of upregulated DEG associated with rat 
+arthritis-QTL and their level of expression were relatively higher in LEW when 
+compared to WKY rat; however, the number of downregulated DEG-associated with 
+rat arthritis-QTL as well as AIA-QTL were found to be higher in WKY than in LEW 
+rats. In conclusion, distinct gene expression profiles define 
+arthritis-susceptible versus resistant phenotype of MHC-compatible inbred rats. 
+These results would advance our understanding of the pathogenesis of autoimmune 
+arthritis and might also offer potential novel targets for therapeutic purposes.

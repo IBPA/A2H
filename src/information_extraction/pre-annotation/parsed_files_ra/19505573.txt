@@ -1,0 +1,24 @@
+In osteo- and rheumatoid arthritis, the synovial fluid surrounding chondrocytes 
+contains increased levels of prostaglandin E(2) (PGE(2)), an agent known to 
+elevate intracellular cyclic AMP (cAMP). However, the effect of PGE(2)/cAMP on 
+mRNA expression in chondrocytes is largely unknown. In this report, we assess 
+the effect of the cell-permeable cAMP analog adenosine 
+8-(4-chloro-phenylthio)-3',5'-cyclic monophosphate (CPT-cAMP) and PGE(2) on mRNA 
+expression in primary neonatal rat chondrocytes. CPT-cAMP decreased type II 
+collagen, link protein, parathyroid hormone/parathyroid hormone-related peptide 
+receptor and alkaline phosphatase, increased glyceraldehyde-3-phosphate 
+dehydrogenase mRNA and lactate efflux, but did not alter type X collagen or 
+aggrecan mRNA. The effect of CPT-cAMP on type II collagen and link protein mRNAs 
+and chondrocyte metabolism were attenuated by the transcriptional inhibitor 
+actinomycin D, indicating that the ability of CPT-cAMP to suppress mRNA 
+expression was not due to alterations in mRNA stability, but were instead likely 
+due to transcriptional mechanisms. CPT-cAMP-treatment induced GSK3 beta 
+phosphorylation and beta-catenin-mediated transcriptional activity. 
+Pharmacological inhibition of GSK3 beta paralleled the effects of CPT-cAMP on 
+type II collagen, link protein and chondrocyte metabolism, suggesting that the 
+effect of CPT-cAMP on chondrocytes may be GSK3 beta/beta-catenin-dependent. The 
+effects of CPT-cAMP on beta-catenin-mediated transcription, cell metabolism and 
+mRNA expression were mimicked by the cAMP-elevating agent PGE(2), providing a 
+physiologically relevant context for our studies. Collectively, these results 
+suggest that agents that elevate cAMP signaling may impair chondrocyte function 
+in conditions such as arthritis.

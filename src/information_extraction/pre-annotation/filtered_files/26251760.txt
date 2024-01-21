@@ -1,0 +1,21 @@
+The objective of this study is to evaluate the efficacy and potential mechanism 
+of action of type-II collagen bifunctional peptide inhibitor (CII-BPI) molecules 
+in suppressing rheumatoid arthritis in the collagen-induced arthritis (CIA) 
+mouse model. CII-BPI molecules (CII-BPI-1, CII-BPI-2, and CII-BPI-3) were formed 
+through conjugation between an antigenic peptide derived from type-II collagen 
+and a cell adhesion peptide LABL (CD11a237-246) from the I-domain of LFA-1 via a 
+linker molecule. The hypothesis is that the CII-BPI molecules simultaneously 
+bind to MHC-II and ICAM-1 on the surface of APC and block maturation of the 
+immunological synapse. As a result, the differentiation of naïve T cells is 
+altered from inflammatory to regulatory and/or suppressor T cells. The 
+efficacies of CII-BPI molecules were evaluated upon intravenous injections in 
+CIA mice. Results showed that CII-BPI-1 and CIIBPI-2 suppressed the joint 
+inflammations in CIA mice in a dose-dependent manner and were more potent than 
+the respective antigenic peptides alone. CII-BPI-3 was not as efficacious as 
+CII-BPI-1 and CII-BPI-2. Significantly less joint damage was observed in 
+CII-BPI-2 and CII-2 treated mice than in the control. The production of IL-6 was 
+significantly lower at the peak of disease in mice treated with CII-BPI-2 
+compared to those treated with CII-2 and control. In conclusion, this is the 
+first proof-of-concept study showing that BPI molecules can be used to suppress 
+RA and may be a potential therapeutic strategy for the treatment of rheumatoid 
+arthritis.

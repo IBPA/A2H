@@ -1,0 +1,17 @@
+The ATP-gated P2X(7) receptor (P2X(7)R) is a promising therapeutic target in 
+chronic inflammatory diseases with highly specific antagonists currently under 
+clinical trials for rheumatoid arthritis. Anti-inflammatory actions of P2X(7)R 
+antagonists are considered to result from inhibition of P2X(7)R-induced release 
+of proinflammatory cytokines from activated macrophages. However, P2X(7)Rs are 
+also expressed in resting macrophages, suggesting that P2X(7)R may also signal 
+via cytokine-independent mechanisms involved in joint disease. In this study, we 
+examined P2X(7)R function in resting human lung macrophages and mouse bone 
+marrow-derived macrophages and found that ATP induced rapid release of the 
+lysosomal cysteine proteases cathepsin B, K, L, and S and that was independent 
+of the presence of the proinflammatory cytokines IL-1beta and IL-18. Cathepsins 
+released into the medium were effective to degrade collagen extracellular 
+matrix. ATP-induced cathepsin release was abolished by P2X(7)R antagonists, 
+absent from P2X(7)R(-/-) mouse macrophages, and not associated with cell death. 
+Our results suggest P2X(7)R activation may play a novel and direct role in 
+tissue damage through release of cathepsins independently of its proinflammatory 
+actions via IL-1 cytokines.

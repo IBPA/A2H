@@ -1,0 +1,22 @@
+Mycophenolate mofetil (MMF) is an immunosuppressive drug that acts as a 
+selective inhibitor of inosine monophosphate dehydrogenase (IMPDH). MMF has 
+recently been shown to inhibit the enzymatic activity of inducible NO synthase 
+(iNOS) and subsequent production of the cytotoxic free radical nitric oxide (NO) 
+in endothelial cells. We here investigated the effect of bioactive MMF compound 
+mycophenolic acid (MPA) on iNOS-mediated NO synthesis in fibroblasts, which are 
+important source of NO in rheumatoid arthritis and during rejection of solid 
+organ transplants. MPA exerted dose-dependent inhibition of NO synthesis, 
+measured as nitrite accumulation, in IFN-gamma + LPS-stimulated L929 mouse 
+fibroblast cell line and rat primary fibroblasts. The effect of MPA was not 
+mediated through interference with IMPDH-dependent synthesis of iNOS co-factor 
+BH4 and subsequent suppression of iNOS enzymatic activity, as direct BH4 
+precursor sepiapterin failed to block the action of the drug. MPA suppressed the 
+IFN-gamma + LPS-induced expression of fibroblast iNOS protein, as well as mRNA 
+for iNOS and its transcription factor IRF-1, as assessed by cell-based ELISA and 
+semiquantitative RT-PCR, respectively. MPA suppression of fibroblast NO release, 
+iNOS, and IRF-1 activation, was efficiently prevented by exogenous guanosine, 
+indicating that the drug acted through reduction of IMPDH-dependent synthesis of 
+guanosine nucleotides. These results suggest that MPA inhibits NO production in 
+fibroblasts by blocking guanosine nucleotide-dependent expression of iNOS gene, 
+through mechanisms that might involve the interference with the induction of 
+iNOS transcription factor IRF-1.

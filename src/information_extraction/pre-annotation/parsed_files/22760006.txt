@@ -1,0 +1,26 @@
+BACKGROUND: Clostridium difficile mediates intestinal inflammation by releasing 
+toxin A (TxA), a potent enterotoxin. Cathelicidins (Camp as gene name, LL-37 
+peptide in humans and mCRAMP peptide in mice) are antibacterial peptides that 
+also posses anti-inflammatory properties.
+OBJECTIVES: To determine the role of cathelicidins in models of Clostridium 
+difficile infection and TxA-mediated ileal inflammation and cultured human 
+primary monocytes.
+DESIGN: Wild-type (WT) and mCRAMP-deficient (Camp(-/-)) mice were treated with 
+an antibiotic mixture and infected orally with C difficile. Some mice were 
+intracolonically given mCRAMP daily for 3 days. Ileal loops were also prepared 
+in WT mice and treated with either saline or TxA and incubated for 4 h, while 
+some TxA-treated loops were injected with mCRAMP.
+RESULTS: Intracolonic mCRAMP administration to C difficile-infected WT mice 
+showed significantly reduced colonic histology damage, apoptosis, tissue 
+myeloperoxidase (MPO) and tumour necrosis factor (TNF)α levels. Ileal mCRAMP 
+treatment also significantly reduced histology damage, tissue apoptosis, MPO and 
+TNFα levels in TxA-exposed ileal loops. WT and Camp(-/-) mice exhibited similar 
+intestinal responses in both models, implying that C difficile/TxA-induced 
+endogenous cathelicidin may be insufficient to modulate C difficile/TxA-mediated 
+intestinal inflammation. Both LL-37 and mCRAMP also significantly reduced 
+TxA-induced TNFα secretion via inhibition of NF-κB phosphorylation. Endogenous 
+cathelicidin failed to control C difficile and/or toxin A-mediated inflammation 
+and even intestinal cathelicidin expression was increased in humans and mice.
+CONCLUSION: Exogenous cathelicidin modulates C difficile colitis by inhibiting 
+TxA-associated intestinal inflammation. Cathelicidin administration may be a new 
+anti-inflammatory treatment for C difficile toxin-associated disease.

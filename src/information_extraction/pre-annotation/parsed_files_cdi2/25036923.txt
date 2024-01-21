@@ -1,0 +1,22 @@
+Clostridium difficile infections (CDI) are caused by colonization and growth of 
+toxigenic strains of C. difficile in individuals whose intestinal microbiota has 
+been perturbed, in most cases following antimicrobial therapy. Determination of 
+the protective commensal gut community members could inform the development of 
+treatments for CDI. Here, we utilized the lethal enterocolitis model in Syrian 
+golden hamsters to analyze the microbiota disruption and recovery along a 20-day 
+period following a single dose of clindamycin on day 0, inducing in vivo 
+susceptibility to C. difficile infection. To determine susceptibility in vitro, 
+spores of strain VPI 10463 were cultured with and without soluble hamster fecal 
+filtrates and growth was quantified by quantitative PCR and toxin immunoassay. 
+Fecal microbial population changes over time were tracked by 16S ribosomal RNA 
+gene analysis via V4 sequencing and the PhyloChip assay. C. difficile culture 
+growth and toxin production were inhibited by the presence of fecal extracts 
+from untreated hamsters but not extracts collected 5 days post-administration of 
+clindamycin. In vitro inhibition was re-established by day 15, which correlated 
+with resistance of animals to lethal challenge. A substantial fecal microbiota 
+shift in hamsters treated with antibiotics was observed, marked by significant 
+changes across multiple phyla including Bacteroidetes and Proteobacteria. An 
+incomplete return towards the baseline microbiome occurred by day 15 correlating 
+with the inhibition of C. difficile growth in vitro and in vivo. These data 
+suggest that soluble factors produced by the gut microbiota may be responsible 
+for the suppression of C. difficile growth and toxin production.

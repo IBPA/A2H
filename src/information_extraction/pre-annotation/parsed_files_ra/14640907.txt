@@ -1,0 +1,14 @@
+IL-18 is a unique cytokine with prominently wide spectrum biological actions. 
+Among these, its IFN-gamma/TNF-alpha-inducing activity primarily contributes to 
+the development of various inflammatory diseases including inflammatory 
+arthritis. IL-18 levels correlate with the disease activity of rheumatoid 
+arthritis (RA) and osteoarthritis (OA). IL-18 is spontaneously released from RA 
+synovial cells and OA chondrocytes and seems to participate in the development 
+of the inflammatory and destructive alterations of joints via induction of 
+TNF-alpha, a potent effector molecule. TNF-alpha, in turn, increases IL-18 
+expression in RA synovial cells. Recent clinical trials have revealed the 
+efficacy of TNF-alpha in RA with a reduction in circulatory IL-18 levels. These 
+may implicate the positive circuit between IL-18 and TNF-alpha for development 
+of RA. As IL-18-deficient mice evade collagen-induced arthritis in a mouse RA 
+model, therapeutics targeting IL-18 may be beneficial against RA/OA. Here, the 
+authors review the possible roles of IL-18 in inflammatory arthritis.

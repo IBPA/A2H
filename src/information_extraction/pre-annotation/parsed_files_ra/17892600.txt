@@ -1,0 +1,27 @@
+Inhibition of NF-kappaB is known to be effective in reducing both inflammation 
+and bone destruction in animal models of arthritis. Our previous study 
+demonstrated that a small cell-permeable NF-kappaB inhibitor, 
+dehydroxymethylepoxyquinomicin (DHMEQ), suppresses expression of proinflammatory 
+cytokines and ameliorates mouse arthritis. It remained unclear, however, whether 
+DHMEQ directly affects osteoclast precursor cells to suppress their 
+differentiation to mature osteoclasts in vivo. The effect of DHMEQ on human 
+osteoclastogenesis also remained elusive. In the present study, we therefore 
+examined the effect of DHMEQ on osteoclastogenesis using a mouse 
+collagen-induced arthritis model, and using culture systems of fibroblast-like 
+synovial cells obtained from patients with rheumatoid arthritis, and of 
+osteoclast precursor cells from peripheral blood of healthy volunteers. DHMEQ 
+significantly suppressed formation of osteoclasts in arthritic joints, and also 
+suppressed expression of NFATc1 along the inner surfaces of bone lacunae and the 
+eroded bone surface, while serum levels of soluble receptor activator of 
+NF-kappaB ligand (RANKL), osteoprotegerin and macrophage colony-stimulating 
+factor were not affected by the treatment. DHMEQ also did not suppress 
+spontaneous expression of RANKL nor of macrophage colony-stimulating factor in 
+culture of fibroblast-like synovial cells obtained from patients with rheumatoid 
+arthritis. These results suggest that DHMEQ suppresses osteoclastogenesis in 
+vivo, through downregulation of NFATc1 expression, without significantly 
+affecting expression of upstream molecules of the RANKL/receptor activator of 
+NF-kappaB/osteoprotegerin cascade, at least in our experimental condition. 
+Furthermore, in the presence of RANKL and macrophage colony-stimulating factor, 
+differentiation and activation of human osteoclasts were also suppressed by 
+DHMEQ, suggesting the possibility of future application of NF-kappaB inhibitors 
+to rheumatoid arthritis therapy.

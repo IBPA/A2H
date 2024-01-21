@@ -1,0 +1,23 @@
+OBJECTIVE: Interleukin-35 (IL-35) is a heterodimeric member of the IL-12 family 
+consisting of p35/IL-12a and EBI3/IL-27b subunits. Expressed in murine Treg 
+cells, IL-35 controls inflammatory diseases in mouse models. However, human 
+IL-35 is expressed in Teff cells rather than in Treg cells and is shown to be 
+upregulated under inflammatory conditions. Our aim was to examine the 
+involvement of IL-35 in the pathogenesis of rheumatoid arthritis (RA).
+METHODS: Immunohistochemical and immunofluorescence analysis was used to 
+determine the expression and localization of IL-35 and its subunits (p35/EBI3) 
+and IL-35 receptor (IL12Rβ2/gp130) in RA, osteoarthritis (OA) and psoriatic 
+arthritis (PsA) synovial tissues. Expression of p35/EBI3 subunits and release of 
+inflammatory cytokines upon stimulation with IL-35 were assessed in RA synovial 
+fibroblasts (SFs) and peripheral blood mononuclear cells (PBMCs).
+RESULTS: Both IL-35 and its subunits were upregulated in RA in comparison with 
+OA or PsA synovium. Using cell-specific markers, p35 and EBI3 were identified in 
+macrophages, dendritic cells, SFs, and T as well as B cells in RA synovium. Both 
+p35 and EBI3 were induced by TNFα in RASFs and PBMCs. IL-35 dose-dependently 
+upregulated release of pro-inflammatory mediators IL-1β, IL-6 and MCP-1 in 
+PBMCs. While gp130 receptor subunit was upregulated in RA synovium and was 
+expressed in RASFs and PBMCs, there was no difference in IL12Rβ2 expression 
+subunit among tissues and its presence in RASFs was lacking.
+CONCLUSION: Upregulation of IL-35 at sites of inflammation in RA and its 
+pro-inflammatory potential suggests that IL-35 might play an important role in 
+RA pathogenesis.

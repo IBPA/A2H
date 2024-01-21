@@ -1,0 +1,21 @@
+Vancomycin taper regimens are commonly used for the treatment of recurrent 
+Clostridium difficile infections. One rationale for tapering and pulsing of the 
+dose at the end of therapy is to reduce the selective pressure of vancomycin on 
+the indigenous intestinal microbiota. Here, we used a mouse model to test the 
+hypothesis that the indigenous microbiota that provide colonization resistance 
+against C. difficile and vancomycin-resistant enterococci (VRE) is repopulated 
+during tapering courses of vancomycin. Mice were treated orally with vancomycin 
+daily for 10 days, vancomycin in a tapering dose for 42 days, fidaxomicin for 10 
+days, or saline. To assess colonization resistance, subsets of mice were 
+challenged with 104 CFU of C. difficile or VRE at multiple time points during 
+and after completion of treatment. The impact of the treatments on the 
+microbiome was measured by cultures, real-time PCR for selected anaerobic 
+bacteria, and deep sequencing. Vancomycin taper-treated mice developed 
+alterations of the microbiota and disruption of colonization resistance that was 
+persistent 18 days after treatment. In contrast, mice treated with a 10-day 
+course of vancomycin exhibited recovery of the microbiota and of colonization 
+resistance by 15 days after treatment, and fidaxomicin-treated mice maintained 
+intact colonization resistance. These findings demonstrate that alteration of 
+the indigenous microbiota responsible for colonization resistance to C. 
+difficile and VRE persist during and after completion of tapering courses of 
+vancomycin.

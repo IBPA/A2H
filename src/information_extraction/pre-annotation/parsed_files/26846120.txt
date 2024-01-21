@@ -1,0 +1,25 @@
+BACKGROUND: Ulcerative colitis (UC) is a chronic condition and the most common 
+form of inflammatory bowel disease. The goal of standard treatment is mainly to 
+induce and maintain remission with anti-inflammatory, immunosuppressive agents, 
+and/or colectomy. Fecal microbiota transplantation (FMT) has been used 
+successfully to treat relapsing or refractory Clostridium difficile infection. 
+The alteration of microbiota in mouse models of UC as well as in patients 
+suggested the possibility of treating UC with FMT.
+AIMS: To study the effects of FMT on dextran sodium sulfate (DSS)-induced UC 
+model in mice.
+METHODS: Littermates of BALB/c and C57BL/6J were randomized into four groups: 
+normal control , treatment with DSS for 7 days (DSS - FMT), treatment with DSS 
+followed by FMT for another 8 days (DSS + FMT), and treatment with DSS and FMT 
+followed by another 5 days for recovery (remission). Body weight, survival rate, 
+and DAI scores of mice in each group were recorded. Changes in distal colon were 
+studied by histopathology. Alterations of spleen and lamina propria regulatory 
+lymphocytes, major bacterial species in feces and inflammatory cytokines in 
+colon were also studied.
+RESULTS: C57BL/6J mice experienced more significant weight loss than BALB/c mice 
+after DSS treatment, regardless of whether the two strains of mice were 
+co-housed or not. FMT caused reversal of DAI scores in BALB/c but not in 
+C57BL/6J mice. In BALB/c mice, FMT also reduced colon inflammation that was 
+paralleled by decreased inflammatory cytokine levels, altered bacterial 
+microbiota, and regulatory lymphocyte proportions.
+CONCLUSIONS: FMT is effective in a mouse model of UC through its modulation on 
+gut microbiota and the host immune system.

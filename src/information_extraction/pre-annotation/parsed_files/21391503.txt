@@ -1,0 +1,42 @@
+Clostridium difficile is a strict anaerobic spore-forming bacterium, and an 
+increasingly common nosocomial pathogen. The U.S. Environmental Protection 
+Agency (EPA) is responsible for the registration of disinfectants, including 
+products designed to treat environmental surfaces contaminated with spores of C. 
+difficile. Product efficacy data are required for registration; however, there 
+is a lack of methodology for generating high-quality spore suspensions for 
+evaluating product performance. As such, a study was carried out to select a 
+suitable C. difficile strain and to develop a stand-alone method to prepare a 
+spore suspension that meets specific criteria necessary for quantitative testing 
+of disinfectants. The criteria are: (1) a spore titer of > 8 log10/mL, (2) > or 
+= 90% spores to vegetative cells, and (3) resistance of spores (determined by 
+viability) to 2.5 M hydrochloric acid (HCl). Several strains of C. difficile 
+(toxigenic and nontoxigenic) were grown on various media (solid and liquid) for 
+varying lengths of time to determine the best combination of incubation 
+conditions and media to optimize spore production and quality. Once the spore 
+production procedure was optimized, a toxigenic strain of C. difficile [American 
+Type Culture Collection (ATCC) 43598] was selected for use in trials to verify 
+repeatability from one production run to the next. The spore suspension was 
+initiated by spreading vegetative cells of C. difficile (ATCC 43598) on CDC 
+anaerobic 5% sheep blood agar plates and incubating for 7-10 days at 36 +/- 1 
+degrees C under anaerobic conditions. Spores were harvested when > or = 90% of 
+the cells converted to spores as determined by observation using phase-contrast 
+microscopy. The spores were washed three times with saline-Tween-80, resuspended 
+in cold deionized water, heated to 70 degrees C for 10 min, evaluated 
+microscopically for quality, and enumerated on cycloserine-cefoxitin-fructose 
+agar containing horse blood and taurocholate. The spore suspension was used to 
+inoculate brushed stainless steel carriers (1 cm in diameter) with and without a 
+soil load in accordance with the Standard Quantitative Carrier Disk Test Method 
+(ASTM E-2197-02) to determine carrier load. Once it was determined that > 6 
+log10 spores/carrier could be recovered, spores were evaluated for resistance to 
+HCI. The sporulation method presented in this report is simple and repeatable 
+and results in spore suspension of high titer (> 8 log10/mL) and quality (> or = 
+90% spores to vegetative cells) that met acid resistance criteria (spores were 
+resistant to 2.5 M HCI for 10 min). In addition, recovery from brushed stainless 
+steel carriers with and without soil load was > 6 log10 spores/carrier. A 6 
+log10 performance standard was set forth in the EPA's interim guidance for 
+generating data to support a label claim for effectiveness against C. difficile 
+spores on hard, nonporous surfaces. This precollaborative investigation 
+successfully demonstrated the use of a methodology for in vitro production of C. 
+difficile spores (ATCC 43598) necessary for conducting efficacy tests. A 
+proposal will be submitted to the AOAC INTERNATIONAL Methods Committee on 
+Antimicrobial Efficacy Testing for a collaborative study; see Appendix.

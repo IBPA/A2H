@@ -1,0 +1,18 @@
+SMT19969 [2,2'-bis(4-pyridyl)3H,3'-H 5,5-bibenzimidazole] is a novel 
+narrow-spectrum nonabsorbable antibiotic currently in development for the 
+treatment of Clostridium difficile infection. The comparative activities of 
+SMT19969 and vancomycin against nonepidemic and epidemic strains of C. difficile 
+were studied in an established hamster model. Against nonepidemic (VA11) 
+strains, the survival rates of SMT19969-treated animals ranged from 80% to 95%. 
+Vancomycin exhibited 100% protection during treatment, with relapse observed 
+starting on day 9 and 50% survival at day 20. At 50 mg/kg of body weight, 
+SMT19969 administered orally once daily for 5 days provided full protection of 
+treated animals on the dosing days and through day 12 against epidemic strains. 
+Vancomycin also protected during the dosing interval, but apparent relapse 
+occurred earlier, starting on day 11. SMT19969 exhibited excellent in vitro 
+activity, with MICs of 0.25 μg/ml for all isolates. The MICs for vancomycin were 
+2- to 4-fold higher at ≤0.5 to 1 μg/ml. All plasma sample concentrations of 
+SMT19969 were below the limit of quantification (25 ng/ml) at all time points, 
+consistent with the reported lack of bioavailability of the compound. Cecal 
+concentrations were significantly above the MIC (ranging from 96 μg/ml to 172 
+μg/ml).

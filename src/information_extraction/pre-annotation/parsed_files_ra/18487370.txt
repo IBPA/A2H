@@ -1,0 +1,23 @@
+PURPOSE: Angiogenesis, the formation of new capillary blood vessels, is an 
+essential biological process under physiological conditions, including embryonic 
+development, reproduction, and wound repair. Under pathologic conditions, this 
+process plays a critical role in a variety of diseases such as cancer, 
+rheumatoid arthritis, atherosclerosis, endometriosis, diabetic retinopathy, and 
+age-related macular degeneration. The purpose of this study was to examine the 
+effects of cyclooxygenase inhibitors on basic fibroblast growth factor (bFGF)- 
+and vascular endothelial growth factor (VEGF)-mediated ocular neovascularization 
+and permeability.
+METHODS: A modified Miles vascular permeability assay was used to examine 
+VEGF-induced vascular hyperpermeability, and the mouse corneal model of 
+angiogenesis was used to compare the efficacy of systemic treatment with 
+different nonsteroidal anti-inflammatory drugs (NSAIDs) on bFGF- and 
+VEGF-induced angiogenesis.
+RESULTS: The authors demonstrated that systemic application of most NSAIDs, but 
+not acetaminophen, blocked VEGF-induced permeability in mice. However, systemic 
+treatment of mice with NSAIDs resulted in the differential inhibition of 
+bFGF-induced (5%-57%) and VEGF-induced (3%-66%) corneal angiogenesis. The 
+selective COX-2 inhibitors were more effective at suppressing bFGF-induced 
+angiogenesis than VEGF-induced angiogenesis.
+CONCLUSIONS: Though most NSAIDS are effective at suppressing vascular leak, 
+there exists a differential efficacy at suppressing the angiogenic response of 
+specific cytokines such as bFGF and VEGF.

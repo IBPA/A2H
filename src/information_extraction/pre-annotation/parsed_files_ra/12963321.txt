@@ -1,0 +1,12 @@
+Autoimmune diseases are a significant area of unmet medical need in the Western 
+World, but human antibodies are an emerging drug class that could address this 
+demand. Some autoimmune diseases, such as rheumatoid arthritis, are currently 
+benefiting from antibody treatment and new and existing technologies for 
+antibody generation could facilitate the production of effective human 
+antibodies as future drug candidates for other autoimmune diseases. Several 
+methods of generating human antibodies for use as therapeutics have been 
+established, the most commonly used being phage display and transgenic mouse 
+technologies and more recently, cell-free display technologies have also 
+emerged. In this review, we explain the principles behind the various methods of 
+antibody generation and highlight some potential benefits of certain approaches 
+in the context of treatment of autoimmune disease.

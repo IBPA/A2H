@@ -1,0 +1,28 @@
+OBJECTIVE: To assay antifilaggrin autoantibodies, we developed an enzyme-linked 
+immunosorbent assay (ELISA) using a "citrullinated" recombinant rat filaggrin. 
+Our objectives were to assess its value for diagnosing rheumatoid arthritis (RA) 
+and to compare the results with those obtained using 4 other reference methods 
+for detection of antifilaggrin autoantibodies, including the commercially 
+available ELISA that uses a modified "citrullinated" synthetic peptide derived 
+from the sequence of human filaggrin (CCP-ELISA).
+METHODS: We analyzed 711 sera from patients with well-characterized rheumatic 
+diseases, including 240 patients with RA. Antifilaggrin autoantibodies were 
+detected by an ELISA using a recombinant rat filaggrin deiminated in vitro as 
+immunosorbent (ArFA-ELISA). The results considered were the differences between 
+the optical densities obtained on deiminated and nondeiminated proteins. 
+Antibodies to rat esophagus epithelium were detected by indirect 
+immunofluorescence, while antibodies to human filaggrin were detected by 
+immunoblotting and by a recently described ELISA using a deiminated recombinant 
+human filaggrin. Finally, CCP-ELISA was performed according to the 
+manufacturer's recommendations.
+RESULTS: At the titer thresholds allowing diagnostic specificities of 0.95, 
+0.985, and 0.99 to be reached, the diagnostic sensitivities of the ArFA-ELISA 
+were 0.76, 0.67, and 0.65, respectively. At these 3 thresholds, the 
+sensitivities were significantly higher than those of the 4 other tests. Despite 
+incomplete overlapping of the 5 tests, the high diagnostic performance of the 
+ArFA-ELISA allows us to propose this test to replace all the other methods for 
+antifilaggrin autoantibody detection.
+CONCLUSION: ArFA-ELISA appears to be the most efficient test among those 
+available for the detection of antifilaggrin autoantibodies, in terms of 
+diagnostic accuracy for RA. Its diagnostic performance in early RA and its 
+prognostic value are currently under evaluation.

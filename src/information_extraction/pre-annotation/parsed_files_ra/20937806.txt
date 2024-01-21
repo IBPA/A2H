@@ -1,0 +1,25 @@
+Tumor necrosis factor (TNF)-α, a homotrimeric, pleiotropic cytokine, is secreted 
+in response to inflammatory stimuli in diseases such as rheumatoid arthritis and 
+inflammatory bowel disease. TNF-α mediates both apoptosis and inflammation, 
+stimulating an inflammatory cascade through the non-canonical pathway of NF-κB 
+activation, leading to increased nuclear RelB and p52. In contrast, the common 
+food additive carrageenan (CGN) stimulates inflammation through both the 
+canonical and non-canonical pathways of NF-κB activation and utilizes the 
+adaptor molecule BCL10 (B-cell leukemia/lymphoma 10). In a series of 
+experiments, colonic epithelial cells and mouse embryonic fibroblasts were 
+treated with TNF-α and carrageenan in order to simulate the possible effects of 
+exposure to dietary CGN in the setting of a TNF-α-mediated inflammatory disease 
+process. A marked increase in secretion of IL-8 occurred, attributable to 
+synergistic effects on phosphorylated NF-κB-inducing kinase (NIK) in the 
+non-canonical pathway. TNF-α induced the ubiquitination of TRAF2 (TNF 
+receptor-associated factor 2), which interacts with NIK, and CGN induced 
+phosphorylation of BCL10, leading to increased NIK phosphorylation. These 
+results suggest that TNF-α and CGN in combination act to increase NIK 
+phosphorylation, thereby increasing activation of the non-canonical pathway of 
+NF-κB activation. In contrast, the apoptotic effects of TNF-α, including 
+activation of caspase-8 and PARP-1 (poly(ADP-ribose) polymerase 1) 
+fragmentation, were markedly reduced in the presence of CGN, and CGN caused 
+reduced expression of Fas. These findings demonstrate that exposure to CGN 
+drives TNF-α-stimulated cells toward inflammation rather than toward apoptotic 
+cell death and suggest that CGN exposure may compromise the effectiveness of 
+anti-TNF-α therapy.

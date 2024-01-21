@@ -1,0 +1,31 @@
+Previous evidence has implicated E prostanoid receptor 4 (EP4) in mechanical 
+hyperalgesia induced by subplantar inflammation. However, its role in chronic 
+arthritis remains to be further defined because previous attempts have generated 
+two conflicting lines of evidence, with one showing a marked reduction of 
+arthritis induced by a collagen antibody in mice lacking EP4, but not EP1-EP3, 
+and the other showing no impact of EP4 antagonism on arthritis induced by 
+collagen. Here, we assessed the effect of a novel and selective EP4 antagonist 
+MF498 
+[N-{[4-(5,9-diethoxy-6-oxo-6,8-dihydro-7H-pyrrolo[3,4-g]quinolin-7-yl)-3-methylbenzyl]sulfonyl}-2-(2-methoxyphenyl)acetamide] 
+on inflammation in adjuvant-induced arthritis (AIA), a rat model for rheumatoid 
+arthritis (RA), and joint pain in a guinea pig model of iodoacetate-induced 
+osteoarthritis (OA). In the AIA model, MF498, but not the antagonist for EP1, 
+MF266-1 
+[1-(5-{3-[2-(benzyloxy)-5-chlorophenyl]-2-thienyl}pyridin-3-yl)-2,2,2-trifluoroethane-1,1-diol] 
+or EP3 MF266-3 
+[(2E)-N-[(5-bromo-2-methoxyphenyl)sulfonyl]-3-[5-chloro-2-(2-naphthylmethyl)phenyl]acrylamide], 
+inhibited inflammation, with a similar efficacy as a selective cyclooxygenase 2 
+(COX-2) inhibitor MF-tricyclic. In addition, MF498 was as effective as an 
+nonsteroidal anti-inflammatory drug, diclofenac, or a selective microsomal 
+prostaglandin E synthase-1 inhibitor, MF63 
+[2-(6-chloro-1H-phenanthro[9,10-d]imidazol-2-yl)isophthalonitrile], in relieving 
+OA-like pain in guinea pigs. When tested in rat models of gastrointestinal 
+toxicity, the EP4 antagonist was well tolerated, causing no mucosal leakage or 
+erosions. Lastly, we evaluated the renal effect of MF498 in a furosemide-induced 
+diuresis model and demonstrated that the compound displayed a similar renal 
+effect as MF-tricyclic 
+[3-(3,4-difluorophenyl)-4-(4-(methylsulfonyl)phenyl)-2-(5H)-furanone], reducing 
+furosemide-induced natriuresis by approximately 50%. These results not only 
+suggest that EP4 is the major EP receptor in both RA and OA but also provide a 
+proof of principle to the concept that antagonism of EP4 may be useful for 
+treatment of arthritis.

@@ -1,0 +1,25 @@
+Novel mechanisms of action and new chemical scaffolds are needed to rejuvenate 
+antibacterial drug discovery, and riboswitch regulators of bacterial gene 
+expression are a promising class of targets for the discovery of new leads. 
+Herein, we report the characterization of 
+5-(3-(4-fluorophenyl)butyl)-7,8-dimethylpyrido[3,4-b]quinoxaline-1,3(2H,5H)-dione 
+(5FDQD)-an analog of riboflavin that was designed to bind riboswitches that 
+naturally recognize the essential coenzyme flavin mononucleotide (FMN) and 
+regulate FMN and riboflavin homeostasis. In vitro, 5FDQD and FMN bind to and 
+trigger the function of an FMN riboswitch with equipotent activity. MIC and 
+time-kill studies demonstrated that 5FDQD has potent and rapidly bactericidal 
+activity against Clostridium difficile. In C57BL/6 mice, 5FDQD completely 
+prevented the onset of lethal antibiotic-induced C. difficile infection (CDI). 
+Against a panel of bacteria representative of healthy bowel flora, the 
+antibacterial selectivity of 5FDQD was superior to currently marketed CDI 
+therapeutics, with very little activity against representative strains from the 
+Bacteroides, Lactobacillus, Bifidobacterium, Actinomyces, and Prevotella genera. 
+Accordingly, a single oral dose of 5FDQD caused less alteration of culturable 
+cecal flora in mice than the comparators. Collectively, these data suggest that 
+5FDQD or closely related analogs could potentially provide a high rate of CDI 
+cure with a low likelihood of infection recurrence. Future studies will seek to 
+assess the role of FMN riboswitch binding to the mechanism of 5FDQD 
+antibacterial action. In aggregate, our results indicate that riboswitch-binding 
+antibacterial compounds can be discovered and optimized to exhibit activity 
+profiles that merit preclinical and clinical development as potential 
+antibacterial therapeutic agents.

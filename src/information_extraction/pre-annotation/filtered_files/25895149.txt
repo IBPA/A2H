@@ -1,0 +1,14 @@
+Sinomenine (SIN), an alkaloid derived from the plant Sinomenium acutum, has 
+anti-inflammatory and analgesic effects and has been used for rheumatoid 
+arthritis treatment in China. This study aims to verify the hypothesis that SIN 
+acts on α7 nicotinic acetylcholine receptor (α7nAChR) to inhibit the activation 
+of macrophages stimulated by lipopolysaccharide. The prototypical α7nAChR 
+antagonist α-bungarotoxin and mecamylamine attenuated the effect of SIN on tumor 
+necrosis factor-α and interleukin-6 in RAW264.7 murine macrophage-like cells and 
+primary peritoneal macrophages of mouse induced by lipopolysaccharide. With the 
+knockdown of α7nAChR expression in RAW264.7 cells by small interfering RNA, the 
+inhibitory effect of SIN on tumor necrosis factor-α and interleukin-6 was 
+reversed. Sinomenine decreased p65 expression in nuclear and increased IκBα 
+expression in cytoplasm, and these effects were reversed by the α7nAChR small 
+interfering RNA as well. These results indicate that the anti-inflammatory 
+effects of SIN on macrophages in vitro depend on α7nAChR.

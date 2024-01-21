@@ -1,0 +1,21 @@
+C. difficile infection (CDI) is a common debilitating nosocomial infection 
+associated with high mortality. Several CDI outbreaks have been attributed to 
+ribotypes 027, 017, and 078. Clinical and experimental evidence indicates that 
+the nonpathogenic yeast Saccharomyces boulardii CNCM I-745 (S.b) is effective 
+for the prevention of CDI. However, there is no current evidence suggesting this 
+probiotic can protect from CDI caused by outbreak-associated strains. We used 
+established hamster models infected with outbreak-associated C. difficile 
+strains to determine whether oral administration of live or heat-inactivated S.b 
+can prevent cecal tissue damage and inflammation. Hamsters infected with C. 
+difficile strain VPI10463 (ribotype 087) and outbreak-associated strains 
+ribotype 017, 027, and 078 developed severe cecal inflammation with mucosal 
+damage, neutrophil infiltration, edema, increased NF-κB phosphorylation, and 
+increased proinflammatory cytokine TNFα protein expression. Oral gavage of live, 
+but not heated, S.b starting 5 days before C. difficile infection significantly 
+reduced cecal tissue damage, NF-κB phosphorylation, and TNFα protein expression 
+caused by infection with all strains. Moreover, S.b-conditioned medium reduced 
+cell rounding caused by filtered supernatants from all C. difficile strains. 
+S.b-conditioned medium also inhibited toxin A- and B-mediated actin cytoskeleton 
+disruption. S.b is effective in preventing C. difficile infection by 
+outbreak-associated via inhibition of the cytotoxic effects of C. difficile 
+toxins.

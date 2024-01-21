@@ -1,0 +1,5 @@
+A single-chromosome closed genome of Peptacetobacter (Clostridium) hiranonis 
+strain DGF055142 was generated using Illumina MiSeq short reads paired with 
+Oxford Nanopore MinION long reads. This isolate was obtained from a canine in 
+Flagstaff, Arizona, in 2019. Peptacetobacter (C.) hiranonis was hypothesized to 
+contribute to canine Clostridium difficile infection resistance.

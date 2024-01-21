@@ -1,0 +1,22 @@
+Variants of the SLC22A4 gene are associated with susceptibility to rheumatoid 
+arthritis and Crohn's disease. SLC22A4 codes for an integral membrane protein, 
+OCTN1, that has been presumed to carry organic cations like tetraethylammonium 
+across the plasma membrane. Here, we show that the key substrate of this 
+transporter is in fact ergothioneine (ET). Human OCTN1 was expressed in 293 
+cells. A substrate lead, stachydrine (alias proline betaine), was identified by 
+liquid chromatography MS difference shading, a new substrate search strategy. 
+Analysis of transport efficiency of stachydrine-related solutes, affinity, and 
+Na+ dependence indicates that the physiological substrate is ET. Efficiency of 
+transport of ET was as high as 195 microl per min per mg of protein. By 
+contrast, the carnitine transporter OCTN2 from rat did not transport ET at all. 
+Because ET is transported >100 times more efficiently than tetraethylammonium 
+and carnitine, we propose the functional name ETT (ET transporter) instead of 
+OCTN1. ET, all of which is absorbed from food, is an intracellular antioxidant 
+with metal ion affinity. Its particular purpose is unresolved. Cells with 
+expression of ETT accumulate ET to high levels and avidly retain it. By 
+contrast, cells lacking ETT do not accumulate ET, because their plasma membrane 
+is virtually impermeable for this compound. The real-time PCR expression profile 
+of human ETT, with strong expression in CD71+ cells, is consistent with a 
+pivotal function of ET in erythrocytes. Moreover, prominent expression of ETT in 
+monocytes and SLC22A4 polymorphism associations suggest a protective role of ET 
+in chronic inflammatory disorders.

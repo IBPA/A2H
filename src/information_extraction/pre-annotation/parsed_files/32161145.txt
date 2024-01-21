@@ -1,0 +1,32 @@
+Clostridioides difficile is a spore-forming bacterium that causes severe colitis 
+and is a major public health threat. During infection, C. difficile toxin 
+production results in damage to the epithelium and a hyperinflammatory response. 
+The immune response to CDI leads to robust neutrophil infiltration at the sight 
+of infection and the deployment of numerous antimicrobials. One of the most 
+abundant host immune factors associated with CDI is calprotectin, a 
+metal-chelating protein with potent antimicrobial activity. Calprotectin is 
+essential to the innate immune response to C. difficile and increasing levels of 
+calprotectin correlate with disease severity in both adults and children with 
+CDI. The fact that C. difficile persists in the presence of high levels of 
+calprotectin suggests that this organism may deploy strategies to compete with 
+this potent antimicrobial factor for essential nutrient metals during infection. 
+In this report, we demonstrate that a putative zinc (Zn) transporter, ZupT, is 
+employed by C. difficile to survive calprotectin-mediated metal limitation. ZupT 
+is highly expressed in the presence of calprotectin and is required to protect 
+C. difficile against calprotectin-dependent growth inhibition. When competing 
+against wild-type C. difficile, zupT mutants show a defect in colonization and 
+persistence in a murine model of infection. Together these data demonstrate that 
+C. difficile utilizes a metal import system to combat nutritional immunity 
+during CDI and suggest that strategies targeting nutrient acquisition in C. 
+difficile may have therapeutic potential.IMPORTANCE During infection, pathogenic 
+organisms must acquire essential transition metals from the host environment. 
+Through the process of nutritional immunity, the host employs numerous 
+strategies to restrict these key nutrients from invading pathogens. In this 
+study, we describe a mechanism by which the important human pathogen 
+Clostridioides difficile resists transition-metal limitation by the host. We 
+report that C. difficile utilizes a zinc transporter, ZupT, to compete with the 
+host protein calprotectin for nutrient zinc. Inactivation of this transporter in 
+C. difficile renders this important pathogen sensitive to host-mediated metal 
+restriction and confers a fitness disadvantage during infection. Our study 
+demonstrates that targeting nutrient metal transport proteins in C. difficile is 
+a potential avenue for therapeutic development.

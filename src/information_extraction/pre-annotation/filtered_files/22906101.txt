@@ -1,0 +1,23 @@
+INTRODUCTION: Cartilage oligomeric matrix protein (COMP) is a major 
+non-collagenous component of cartilage. Earlier, we developed a new mouse model 
+for rheumatoid arthritis using COMP. This study was undertaken to investigate 
+the epitope specificity and immunopathogenicity of COMP-specific monoclonal 
+antibodies (mAbs).
+METHODS: B cell immunodominant regions on the COMP molecule were measured with a 
+novel enzyme-linked immunosorbent assay using mammalian expressed full-length 
+mouse COMP as well as a panel of recombinant mouse COMP fragments. 18 mAbs 
+specific to COMP were generated and the pathogenicity of mAbs was investigated 
+by passive transfer experiments.
+RESULTS: B cell immunodominant epitopes were localized within 4 antigenic 
+domains of the COMP but with preferential response to the epidermal growth 
+factor (EGF)-like domain. Some of our anti-COMP mAbs showed interactions with 
+the native form of COMP, which is present in cartilage and synovium. Passive 
+transfer of COMP-specific mAbs enhanced arthritis when co-administrated with a 
+sub-arthritogenic dose of a mAb specific to collagen type II. Interestingly, we 
+found that a combination of 5 COMP mAbs was capable of inducing arthritis in 
+naive mice.
+CONCLUSIONS: We have identified the specificities of mAbs to COMP and their 
+contribution to the development of arthritis. These findings will further 
+improve our understanding of the autoantibody mediated immunopathologies 
+occurring widely in rheumatoid arthritis (RA), as well as in other autoimmune 
+disorders.

@@ -1,0 +1,29 @@
+We previously demonstrated that blocking hepatocyte growth factor (HGF) 
+receptor/c-Met signaling inhibited arthritis and articular bone destruction in 
+mouse models of rheumatoid arthritis (RA). In the present study, we investigated 
+the role of c-Met signaling in osteoblast differentiation using the C2C12 
+myoblast cell line derived from murine satellite cells and the MC3T3-E1 murine 
+pre-osteoblast cell line. Osteoblast differentiation was induced by treatment 
+with bone morphogenetic protein (BMP)-2 or osteoblast-inducer reagent in the 
+presence or absence of either HGF antagonist (NK4) or c-Met inhibitor (SU11274). 
+Osteoblast differentiation was confirmed by Runx2 expression, and alkaline 
+phosphatase (ALP) and osteocalcin production by the cells. Production of ALP, 
+osteocalcin and HGF was verified by enzyme-linked immunosorbent assay. Runx2 
+expression was confirmed by reverse transcription-PCR analysis. The 
+phosphorylation status of ERK1/2, AKT, and Smads was determined by Western blot 
+analysis. Both NK4 and SU11274 enhanced Runx2 expression, and ALP and 
+osteocalcin production but suppressed HGF production in BMP-2-stimulated C2C12 
+cells. SU11274 also enhanced ALP and osteocalcin production in 
+osteoblast-inducer reagent-stimulated MC3T3-E1 cells. SU11274 inhibited ERK1/2 
+and AKT phosphorylation in HGF-stimulated C2C12 cells. This result suggested 
+that ERK and AKT were functional downstream of the c-Met signaling pathway. 
+However, both mitogen-activated protein kinase/ERK kinase (MEK) and 
+phosphatidylinositol 3-kinase (PI3K) inhibitor suppressed osteocalcin and HGF 
+production in BMP-2-stimulated C2C12 cells. Furthermore, SU11274, MEK, and PI3K 
+inhibitor suppressed Smad phosphorylation in BMP-2-stimulated C2C12 cells. These 
+results indicate that although the c-Met-MEK-ERK-Smad and c-Met-PI3K-AKT-Smad 
+signaling pathways positively regulate osteoblast differentiation, c-Met 
+signaling negatively regulates osteoblast differentiation, independent of the 
+MEK-ERK-Smad and PI3K-AKT-Smad pathways. Therefore, blocking c-Met signaling 
+might serve as a therapeutic strategy for the repair of destructed bone in 
+patients with RA.

@@ -1,0 +1,20 @@
+Clostridioides difficile infections (CDI) are the leading cause of nosocomial 
+antibiotic-associated diarrhea. C. difficile produces dormant spores that serve 
+as infectious agents. Bile salts in the gastrointestinal tract signal spores to 
+germinate into toxin-producing cells. As spore germination is required for CDI 
+onset, anti-germination compounds may serve as prophylactics. CamSA, a synthetic 
+bile salt, was previously shown to inhibit C. difficile spore germination in 
+vitro and in vivo. Unexpectedly, a single dose of CamSA was sufficient to offer 
+multi-day protection from CDI in mice without any observable toxicity. To study 
+this intriguing protection pattern, we examined the pharmacokinetic parameters 
+of CamSA. CamSA was stable to the gut of antibiotic-treated mice but was 
+extensively degraded by the microbiota of non-antibiotic-treated animals. Our 
+data also suggest that CamSA's systemic absorption is minimal since it is 
+retained primarily in the intestinal lumen and liver. CamSA shows weak 
+interactions with CYP3A4, a P450 hepatic isozyme involved in drug metabolism and 
+bile salt modification. Like other bile salts, CamSA seems to undergo 
+enterohepatic circulation. We hypothesize that the cycling of CamSA between the 
+liver and intestines serves as a slow-release mechanism that allows CamSA to be 
+retained in the gastrointestinal tract for days. This model explains how a 
+single CamSA dose can prevent murine CDI even though spores are present in the 
+animal's intestine for up to four days post-challenge.

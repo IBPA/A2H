@@ -1,0 +1,22 @@
+Anti-TNF therapy is effective in rheumatoid arthritis (RA); however, its 
+mechanisms of action are incompletely understood. T cell-driven mechanisms are 
+thought to play an important role in RA and the effects of TNF blockade on these 
+mechanisms are unclear. Adjuvant arthritis (AA) is a T cell dependent model of 
+inflammatory arthritis. The aims of this study were to investigate the effects 
+of TNF blockade on in vivo T cell cytokine expression and to clarify the role of 
+TNF in the inguinal lymph nodes (ILN) in early arthritis. AA was induced in male 
+DA rats. Rats received either 3 mg/kg or 10 mg/kg PEG sTNF-RI at days 0, 2 and 4 
+postinduction or 10 mg/kg anti-TNF antibody on day of arthritis induction. 
+Control rats received either saline or normal sheep serum. Paw volume was 
+assessed every 3-4 days. Rats were sacrificed on days 0, 6, 13 and 21 
+postinduction. Ankles were removed for quantitative radiology and histology. 
+Synovium and ILN were removed for cell culture and to determine mRNA expression 
+of cytokines using semiquantitative RT-PCR. TNF and IFN-gamma protein production 
+was measured using a bioassay and an ELISA. TNF blockade did not suppress mRNA 
+expression of T cell cytokines in the ILN of rats in the early phase of AA, 
+suggesting ongoing T cell activity. TNF protein production by ILN cells in 
+culture was reduced in PEG sTNF-RI treated rats, although mRNA expression was 
+increased in the ILN prior to culture. Early administration of PEG sTNF-RI did 
+not attenuate AA, in contrast to an anti-TNF antibody, which suppressed disease. 
+A shorter half-life for the PEG sTNF-RI compared with the anti-TNF antibody or 
+the development of anti-PEG sTNF-RI antibodies may account for these results.

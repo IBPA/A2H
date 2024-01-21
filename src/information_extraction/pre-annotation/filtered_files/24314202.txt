@@ -1,0 +1,25 @@
+INTRODUCTION: Cyclophilin A (CypA) is implicated in rheumatoid arthritis (RA) 
+pathogenesis. We studied whether a novel anti-CypA single domain antibody (sdAb) 
+treatment would modulate the severity of the disease in two different animal 
+models of RA.
+METHODS: A novel sdAb, named sdAbA1, was screened from an immunized camel sdAb 
+library and found to have a high binding affinity (KD = 6.9 × 10-9 M) for CypA. 
+The SCID-HuRAg model and the collagen-induced arthritis (CIA) in mice were used 
+to evaluate the effects of sdAbA1 treatment on inflammation and joint 
+destruction. For in vitro analysis, monocytes/macrophages were purified from 
+synovial fluid and peripheral blood of patients with RA and were tested for the 
+effect of anti-CypA sdAb on metalloproteinase (MMP) production. Human monocyte 
+cell line THP-1 cells were selected and western blot analyses were performed to 
+examine the potential signaling pathways.
+RESULTS: In the CIA model of RA, the sdAbA1 treatment resulted in a significant 
+decrease in clinical symptoms as well as of joint damage (P <0.05). In the 
+SCID-HuRAg model, treatment with anti-CypA antibody sdAbA1 significantly reduced 
+cartilage erosion, inflammatory cell numbers and MMP-9 production in the 
+implanted tissues (P <0.05). It also significantly reduced the levels of human 
+inflammatory cytokines IL-6 and IL-8 in mouse serum (P <0.05). No toxic effects 
+were observed in the two animal models. In vitro results showed that sdAbA1 
+could counteract CypA-dependent MMP-9 secretion and IL-8 production by 
+interfering with the ERK-NF-κB pathway.
+CONCLUSIONS: Blockade of CypA significantly inhibited synovitis and 
+cartilage/bone erosion in the two tested animal models of RA. Our findings 
+provide evidence that sdAbA1 may be a potential therapeutic agent for RA.

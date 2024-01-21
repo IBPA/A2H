@@ -1,0 +1,24 @@
+Clostridioides difficile toxin B (TcdB) is an intracellular toxin responsible 
+for many of the pathologies of C. difficile infection. The two variant forms of 
+TcdB (TcdB1 and TcdB2) share 92% sequence identity but have reported differences 
+in rates of cell entry, autoprocessing, and overall toxicity. This 
+2,366-amino-acid, multidomain bacterial toxin glucosylates and inactivates small 
+GTPases in the cytosol of target cells, ultimately leading to cell death. 
+Successful cell entry and intoxication by TcdB are known to involve various 
+conformational changes in the protein, including a proteolytic autoprocessing 
+event. Previous studies found that amino acids 1753 to 1852 influence the 
+conformational states of the proximal carboxy-terminal domain of TcdB and could 
+contribute to differences between TcdB1 and TcdB2. In the current study, a 
+combination of approaches was used to identify sequences within the region from 
+amino acids 1753 to 1852 that influence the conformational integrity and 
+cytotoxicity of TcdB2. Four deletion mutants with reduced cytotoxicity were 
+identified, while one mutant, TcdB2Δ1769-1787, exhibited no detectable 
+cytotoxicity. TcdB2Δ1769-1787 underwent spontaneous autoprocessing and was 
+unable to interact with CHO-K1 or HeLa cells, suggesting a potential change in 
+the conformation of the mutant protein. Despite the putative alteration in 
+structural stability, vaccination with TcdB2Δ1769-1787 induced a 
+TcdB2-neutralizing antibody response and protected against C. difficile disease 
+in a mouse model. These findings indicate that the 19-amino-acid region spanning 
+residues 1769 to 1787 in TcdB2 is crucial to cytotoxicity and the structural 
+regulation of autoprocessing and that TcdB2Δ1769-1787 is a promising candidate 
+for vaccination.

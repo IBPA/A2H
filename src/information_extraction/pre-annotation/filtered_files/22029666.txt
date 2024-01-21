@@ -1,0 +1,19 @@
+BACKGROUND: Evidence suggests that rheumatoid arthritis (RA) may enhance or 
+reduce the progression of Alzheimer's disease (AD). The present study was 
+performed to directly explore the effects of collagen-induced rheumatoid 
+arthritis (CIA) on amyloid plaque formation, microglial activation, and 
+microvascular pathology in the cortex and hippocampus of the double transgenic 
+APP/PS1 mouse model for AD. Wild-type or APP/PS1 mice that received type II 
+collagen (CII) in complete Freund's adjuvant (CFA) at 2 months of age revealed 
+characteristics of RA, such as joint swelling, synovitis, and cartilage and bone 
+degradation 4 months later. Joint pathology was accompanied by sustained 
+induction of IL-1β and TNF-α in plasma over 4 weeks after administration of CII 
+in CFA.
+RESULTS: CIA reduced levels of soluble and insoluble amyloid beta (Aβ) peptides 
+and amyloid plaque formation in the cortex and hippocampus of APP/PS1 mice, 
+which correlated with increased blood brain barrier disruption, Iba-1-positive 
+microglia, and CD45-positive microglia/macrophages. In contrast, CIA reduced 
+vessel density and length with features of microvascular pathology, including 
+vascular segments, thinner vessels, and atrophic string vessels.
+CONCLUSIONS: The present findings suggest that RA may exert beneficial effects 
+against Aβ burden and harmful effects on microvascular pathology in AD.

@@ -1,0 +1,24 @@
+Bone lytic diseases including osteoporosis, rheumatoid arthritis, and bone 
+metastatic tumors affect hundreds of millions people worldwide. Targeting 
+over-activated osteoclasts as an anti-resorptive treatment becomes an important 
+strategy to treat osteolytic diseases. Artesunate is a compound derived from 
+artemisinin (qinghaosu) and has been used to treat malaria and rheumatoid 
+arthritis clinically in China, but its role in osteolysis is unknown. Here, we 
+found that artesunate could suppress RANKL-induced osteoclastogenesis and bone 
+resorption from 1.56 to 12.5μM. Artesunate obviously reduced RANKL-induced 
+NF-κB-luc activity at 50μM, but had no effects on RANKL-induced NF-κB activation 
+(NF-κB luciferase activity, IκB-α degradation and nuclear NF-κB p65 protein 
+level) from 3.125 to 12.5μM in pre-osteoclastic RAW264.7 cells. Interestingly, 
+artesunate could significantly inhibit RANKL-induced NFATc1 activation measured 
+by NFAT luciferase activity, NFATc1 mRNA and nuclear NFATc1 protein levels from 
+3.125 to 12.5μM. Further study revealed that artesunate inhibited RANKL 
+up-regulated PLCγ1 activation, intracellular calcium, and calcineurin (PP2B-Aα) 
+protein expression from 3.125 to 12.5μM. In addition, the NFATc1 targeted 
+osteoclast-specific genes expression including cathepsin K, MMP-9, and TRAP was 
+reduced by artesunate. Finally, we showed that artesunate was able to reverse 
+the bone loss in an ovariectomized mouse model in vivo accompanied with reduced 
+RANKL, RANKL/OPG, and TRAP-5b levels. This study indicates that artesunate 
+inhibits RANKL-induced osteoclastogenesis and bone loss by inhibiting 
+PLCγ1-Ca2+-calcineurin-NFATc1 pathway. Collectively, our data suggest that 
+artesunate is a potential treatment option against RANKL-mediated osteolytic 
+bone disease.

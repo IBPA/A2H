@@ -1,0 +1,18 @@
+Kibdelomycin is a complex novel antibiotic, discovered by applying a highly 
+sophisticated chemical-genetic Staphylococcus aureus Fitness Test (SaFT) 
+approach, that inhibits the clinically established bacterial targets, gyrase and 
+topoisomerase IV. It exhibits broad-spectrum antibacterial activity against 
+aerobic bacteria including MRSA and Acinetobacter baumannii. It is slowly 
+bactericidal and has a low frequency of resistance. In an anaerobic environment, 
+it exhibits narrow-spectrum activity and inhibits the growth of gut bacteria 
+Clostridium difficile (MIC 0.125μg/mL) without affecting the growth of commensal 
+Gram-negative organisms particularly, Bacteroides sp. It is highly efficacious 
+in the hamster model of C. difficile infection providing 100% protection at 
+>6mg/kg and 80% protection at 1.56mg/kg by oral dosing without systemic 
+exposure. X-ray co-crystal structures of kibdelomycin bound to GyrB and ParE 
+showed a unique dual arm 'U shaped' multisite binding never encountered with any 
+other gyrase inhibitors. Kibdelomycin is poised for preclinical development for 
+C. difficile treatment, and most importantly, the co-crystal structures of 
+kibdelomycin provide unique insight for structure-guided structure modification, 
+which could lead to better broader-spectrum systemic antibiotic potentially 
+covering many ESKAPE pathogens.

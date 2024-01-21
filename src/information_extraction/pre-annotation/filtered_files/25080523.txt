@@ -1,0 +1,20 @@
+We examined whether antagonism of the CXCR₄receptor ameliorates the loss of 
+renal function following ischemia-reperfusion. CXCR₄is ubiquitously expressed on 
+leukocytes, known mediators of renal injury, and on bone marrow hematopoietic 
+stem cells (HSCs). Plerixafor (AMD3100, Mozobil) is a small-molecule 
+CXCR₄antagonist that mobilizes HSCs into the peripheral blood and also modulates 
+the immune response in in vivo rodent models of asthma and rheumatoid arthritis. 
+Treatment with plerixafor before and after ischemic clamping ameliorated kidney 
+injury in a rat model of bilateral renal ischemia-reperfusion. Serum creatinine 
+and blood urea nitrogen were significantly reduced 24 h after reperfusion, as 
+were tissue injury and cell death. Plerixafor prevented the renal increase in 
+the proinflammatory chemokines CXCL1 and CXCL5 and the cytokine IL-6. Flow 
+cytometry of kidney homogenates confirmed the presence of significantly fewer 
+leukocytes with plerixafor treatment; additionally, myeloperoxidase activity was 
+reduced. AMD3465, a monocyclam analog of plerixafor, was similarly 
+renoprotective. Four weeks postreperfusion, long-term effects included 
+diminished fibrosis, inflammation, and ongoing renal injury. The mechanism by 
+which CXCR₄inhibition ameliorates AKI is due to modulation of leukocyte 
+infiltration and expression of proinflammatory chemokines/cytokines, rather than 
+a HSC-mediated effect. The data suggest that CXCR₄antagonism with plerixafor may 
+be a potential option to prevent AKI.

@@ -1,0 +1,24 @@
+OBJECTIVE: We previously reported that the Val58Ile polymorphism of the 
+leukocyte cell-derived chemotaxin 2 gene (LECT2) is associated with the severity 
+of rheumatoid arthritis (RA). To define the role of LECT2 in inflammatory 
+arthritides, we investigated the development of collagen antibody-induced 
+arthritis (CAIA) in LECT2-deficient (LECT2(-/-)) mice.
+METHODS: CAIA was induced in mice by administering anti-type II collagen 
+antibodies followed by lipopolysaccharide. Daily assessment of hind paw swelling 
+was used to monitor the development of arthritis. The histopathologic features 
+and expression of inflammatory cytokines were also analyzed. We confirmed the 
+role of LECT2 by introducing a LECT2 expression vector into LECT2(-/-) mice, 
+using a hydrodynamic gene transfer method.
+RESULTS: Arthritis in LECT2(-/-) mice was significantly exacerbated compared 
+with that in wild-type (WT) controls. Histopathologic assessment of the tarsal 
+joints showed that inflammation and erosion of cartilage and bone in LECT2(-/-) 
+mice were more severe than that in controls. Interleukin-1beta (IL-1beta), IL-6, 
+and certain chemokines were present at significantly higher levels in the 
+arthritic hind paws of LECT2(-/-) mice. In contrast, the amount of LECT2 in the 
+serum and locally in the hind paws was higher in arthritic WT mice. Finally, 
+hydrodynamic gene transfer experiments revealed that the severity of arthritis 
+was reduced by the systemic expression of exogenous mouse LECT2 protein in 
+LECT2(-/-) mice.
+CONCLUSION: These results strongly suggest that LECT2 directly suppresses the 
+development of CAIA. Manipulation of LECT2 might provide a rationale for novel 
+therapeutic approaches to the treatment of inflammatory arthritides such as RA.

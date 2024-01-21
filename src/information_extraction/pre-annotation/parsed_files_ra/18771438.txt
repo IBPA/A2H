@@ -1,0 +1,22 @@
+Cytokines are crucial in host defence against pathogens such as bacteria, 
+viruses, fungi and parasites. A newly described cytokine, interleukin-32 
+(IL-32), induces various proinflammatory cytokines (tumour necrosis 
+factor-alpha, IL-1beta, IL-6) and chemokines in both human and mouse cells 
+through the nuclear factor-kappaB and p38 mitogen-activated protein kinase 
+inflammatory signal pathway. The IL-32 primarily acts on monocytic cells rather 
+than T cells. In an attempt to isolate the IL-32 soluble receptor, we used an 
+IL-32 ligand-affinity column to purify neutrophil proteinase 3, which is a 
+serine proteinase involved in many inflammatory diseases. IL-32 has biological 
+activity associated with Mycobacterium tuberculosis and chronic proinflammatory 
+diseases such as rheumatoid arthritis. IL-32 is transcribed as six alternative 
+splice variants and the biological activity of each individual isoform remains 
+unknown. Here, we cloned the complementary DNA of the four IL-32 isoforms 
+(alpha, beta, gamma and delta) that are the most representative IL-32 
+transcripts. To produce recombinant protein with a high yield, the amino acids 
+of two cysteine residues were mutated to serine residues, because serine 
+residues are not conserved among different species. The multi-step purified 
+recombinant IL-32 isoform proteins were assessed for their biological activities 
+with different cytokine assays. The gamma isoform of IL-32 was the most active, 
+although all isoforms were biologically active. The present study will provide a 
+specific target to neutralize endogenous IL-32, which may contribute to basic 
+and clinical immunology.

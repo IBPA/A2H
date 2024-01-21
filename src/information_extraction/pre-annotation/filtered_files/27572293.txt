@@ -1,0 +1,21 @@
+PURPOSE: The purpose of the study is to develop a targeted nanoparticle platform 
+for T cell labeling and tracking in vivo.
+PROCEDURES: Through carboxylation of the polyethylene glycol (PEG) surface of 
+SPION, carboxylated-PEG-SPION (IOPC) was generated as a precursor for further 
+conjugation with the targeting probe. The IOPC could readily cross-link with a 
+variety of amide-containing molecules by exploiting the reaction between 
+1-ethyl-3-(3-(dimethylamino)propyl)carbodiimide and N-hydroxysuccinimide. The 
+subsequent conjugation of monoclonal anti-CD3 antibody with IOPC made it 
+possible to construct a magnetic resonance imaging (MRI) contrast agente (CA) 
+that targets T cells, named IOPC-CD3.
+RESULTS: IOPC-CD3 was found to have high transverse relaxivity, good targeting 
+selectivity, and good safety profile in vitro. The utility of this newly 
+synthesized CA was explored in an in vivo rodent collagen-induced arthritis 
+(CIA) model of rheumatoid arthritis. Serial MRI experiments revealed a selective 
+decrease in the signal-to-noise ratio of the femoral growth plates of CIA rats 
+infused with IOPC-CD3, with this finding being consistent with 
+immunohistochemical results showing the accumulation of T cells and iron oxide 
+nanoparticles in the corresponding region.
+CONCLUSIONS: Together with the abovementioned desirable features, these results 
+indicate that IOPC-CD3 offers a promising prospect for a wide range of cellular 
+and molecular MRI applications.

@@ -1,0 +1,20 @@
+Entamoeba histolytica, a protozoan intestinal parasite, is the causative agent 
+of human amebiasis. Amebiasis is the fourth leading cause of death and the third 
+leading cause of morbidity due to protozoan infections worldwide(1), resulting 
+in ~70,000 deaths annually. E. histolytica has been listed by the National 
+Institutes of Health as a category B priority biodefense pathogen in the United 
+States. Treatment relies on metronidazole(2), which has adverse effects(3), and 
+potential resistance of E. histolytica to the drug is an increasing 
+concern(4,5). To facilitate drug screening for this anaerobic protozoan, we 
+developed and validated an automated, high-throughput screen (HTS). This screen 
+identified auranofin, a US Food and Drug Administration (FDA)-approved drug used 
+therapeutically for rheumatoid arthritis, as active against E. histolytica in 
+culture. Auranofin was ten times more potent against E. histolytica than 
+metronidazole. Transcriptional profiling and thioredoxin reductase assays 
+suggested that auranofin targets the E. histolytica thioredoxin reductase, 
+preventing the reduction of thioredoxin and enhancing sensitivity of 
+trophozoites to reactive oxygen-mediated killing. In a mouse model of amebic 
+colitis and a hamster model of amebic liver abscess, oral auranofin markedly 
+decreased the number of parasites, the detrimental host inflammatory response 
+and hepatic damage. This new use of auranofin represents a promising therapy for 
+amebiasis, and the drug has been granted orphan-drug status from the FDA.

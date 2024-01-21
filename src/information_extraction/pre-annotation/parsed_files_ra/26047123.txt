@@ -1,0 +1,21 @@
+SCOPE: This study shows the effect of bovine milk derived extracellular vesicles 
+(BMEVs) on spontaneous polyarthritis in IL-1Ra-deficient mice and 
+collagen-induced arthritis.
+METHODS AND RESULTS: BMEVs were isolated from semi-skimmed milk by 
+ultracentrifugation and the particle size was around 100 nm by dynamic light 
+scattering and electron microscopy. BMEVs expressed exosome marker CD63, 
+immunoregulatory microRNA's (miR-30a, -223, -92a), and milk-specific beta-casein 
+and beta-lactoglobulin mRNA. In vitro, PKH-67-labeled BMEVs were taken up by 
+RAW264.7, splenocytes, and intestinal cells as determined by flow cytometry and 
+confocal microscopy. IL-1Ra(-/-) mice received BMEVs by daily oral gavage 
+starting at wk 5 till 15 after birth and collagen-induced arthritis mice via 
+their drinking water starting 1 wk before immunization till day 40. 
+Macroscopically, BMEV treatment delayed the onset of arthritis and histology 
+showed diminished cartilage pathology and bone marrow inflammation in both 
+models. BMEV treatment also reduced the serum levels of MCP-1 and IL-6 and their 
+production by splenic cells. BMEV treatment diminished the anticollagen IgG2a 
+levels, which was accompanied by reduced splenic Th1 (Tbet) and Th17 (RORγT) 
+mRNA.
+CONCLUSION: This is the first report that oral delivery of BMEVs ameliorates 
+experimental arthritis and this warrants further research to determine whether 
+this beneficial effect can be seen in rheumatoid arthritis patients.

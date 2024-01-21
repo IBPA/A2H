@@ -1,0 +1,16 @@
+Rheumatoid arthritis (RA) is associated with amino acid variants in multiple MHC 
+molecules. The association to MHC class II (MHC-II) has been studied in several 
+animal models of RA. In most cases these models depend on T cells restricted to 
+a single immunodominant peptide of the immunizing Ag, which does not resemble 
+the autoreactive T cells in RA. An exception is pristane-induced arthritis (PIA) 
+in the rat where polyclonal T cells induce chronic arthritis after being primed 
+against endogenous Ags. In this study, we used a mixed genetic and functional 
+approach to show that RT1-Ba and RT1-Bb (RT1-B locus), the rat orthologs of 
+HLA-DQA and HLA-DQB, determine the onset and severity of PIA. We isolated a 
+0.2-Mb interval within the MHC-II locus of three MHC-congenic strains, of which 
+two were protected from severe PIA. Comparison of sequence and expression 
+variation, as well as in vivo blocking of RT1-B and RT1-D (HLA-DR), showed that 
+arthritis in these strains is regulated by coding polymorphisms in the RT1-B 
+genes. Motif prediction based on MHC-II eluted peptides and structural homology 
+modeling suggested that variants in the RT1-B P1 pocket, which likely affect the 
+editing capacity by RT1-DM, are important for the development of PIA.

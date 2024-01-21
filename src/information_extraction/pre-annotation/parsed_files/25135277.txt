@@ -1,0 +1,19 @@
+Clostridium difficile is a prominent nosocomial pathogen, proliferating and 
+causing enteric disease in individuals with a compromised gut microflora. We 
+characterized the post-translational modification of flagellin in C. difficile 
+630. The structure of the modification was solved by nuclear magnetic resonance 
+and shown to contain an N-acetylglucosamine substituted with a phosphorylated 
+N-methyl-l-threonine. A reverse genetics approach investigated the function of 
+the putative four-gene modification locus. All mutants were found to have 
+truncated glycan structures by LC-MS/MS, taking into account bioinformatic 
+analysis, we propose that the open reading frame CD0241 encodes a kinase 
+involved in the transfer of the phosphate to the threonine, the CD0242 protein 
+catalyses the addition of the phosphothreonine to the N-acetylglucosamine moiety 
+and CD0243 transfers the methyl group to the threonine. Some mutations affected 
+motility and caused cells to aggregate to each other and abiotic surfaces. 
+Altering the structure of the flagellin modification impacted on colonization 
+and disease recurrence in a murine model of infection, showing that alterations 
+in the surface architecture of C. difficile vegetative cells can play a 
+significant role in disease. We show that motility is not a requirement for 
+colonization, but that colonization was compromised when the glycan structure 
+was incomplete.

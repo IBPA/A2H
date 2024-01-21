@@ -1,0 +1,10 @@
+To observe the serum samples and the anti-inflammatory effect of Tripterygium 
+wilfordii in treating RA by using the pharmacokinetic-pharmacodynamic model, 
+make a correlation analysis on concentration-time and effect-time curves, and 
+explore RORγt, IL-17, STAT3, IL-6 mRNA transcriptional levels in rats by PCR. 
+Methotrexate, tripterine and high-dose T. wilfordii could down-regulate RORγt, 
+IL-17, STAT3, IL-6 mRNA transcriptional levels in AA rat lymph nodes. The study 
+on PK-PD model showed correlations between inflammatory factors and blood 
+concentration of T. wilfordii. T. wilfordii and its main active constituent 
+tripterine could show the inflammatory effect and treat RA by inhibiting IL-17 
+cytokine.

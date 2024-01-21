@@ -1,0 +1,25 @@
+Rheumatoid arthritis (RA) is a systemic autoimmune disease primarily affecting 
+joints and is featured by chronic synovial inflammation and angiogenesis. We 
+employed a bovine type-II collagen (BIIC)-induced Sprague-Dawley rat arthritis 
+model and an in vitro RA model based on interleukin (IL)-1β-stimulated rat 
+synovial cells (RSC-364) to explore the preventive effect of resveratrol on RA 
+and the underlying mechanisms. We found that resveratrol ameliorated 
+BIIC-elicited synovitis and RA-related pathological hallmarks such as 
+inflammatory cell infiltration and angiogenesis in the synovial tissue. Also, 
+BIIC-stimulated rats displayed increased serum levels of proinflammatory 
+cytokines and reactive oxygen species (ROS), as manifested by elevated serum 
+malonaldehyde contents combined with reduced superoxide dismutase activity. It 
+is noteworthy that resveratrol abolished BIIC-induced ROS and inflammation, 
+confirming the antioxidative and anti-inflammatory actions of resveratrol in the 
+context of RA. Furthermore, immunoblotting indicated that resveratrol 
+downregulated the increase in the levels of hypoxia-inducible factor-1α (HIF-1α) 
+and that of the activated phosphorylation of p38 mitogen-activated protein 
+kinase (MAPK) and c-Jun N-terminal kinase in IL-1β-stimulated RSC-364 cells. 
+Moreover, we observed that resveratrol-treated RSC-364 cells displayed both 
+G0/G1 cell-cycle arrest and enhanced levels of apoptosis. Altogether, the 
+present evidence established the preventive role of resveratrol in RA 
+progression. Mechanistically, resveratrol inhibits MAPK signaling pathways, 
+likely by reducing ROS accumulation, to suppress the inflammatory response and 
+cell proliferation and to provoke cell apoptosis in the synovial tissue, along 
+with mitigation of HIF-1α-mediated angiogenesis. Thus resveratrol appears to 
+hold great potential for clinical translation as a novel RA therapeutic.

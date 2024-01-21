@@ -1,0 +1,24 @@
+AIMS: Sinomenine, an anti-rheumatoid arthritis drug used in China for decades, 
+is usually co-administered with cardiovascular (CV) drugs to reduce 
+arthritis-related risk of cardiovascular diseases. This study was to investigate 
+whether and how CV drugs affect the pharmacokinetic profile of sinomenine.
+MAIN METHODS: In rat liver microsomes (RLMs), the key metabolic enzymes of 
+sinomenine were identified by using specific inhibitors. The influences of CV 
+drugs, including propranolol, verapamil, warfarin, atorvastatin, simvastatin, 
+and lovastatin, on the metabolism of sinomenine were examined. Cocktail probe, 
+RT-qPCR, and western blotting were performed to unveil the underlying mechanism 
+of the drug-drug interaction.
+KEY FINDINGS: The key metabolic enzymes of sinomenine were identified to be 
+CYP3A1/2 and CYP2D1 in RLMs. Among the CV drugs screened, simvastatin and 
+lovastatin were shown to inhibit the liver metabolism of sinomenine with Ki 
+values of 13.00 and 25.83 μM, respectively. Single administration of simvastatin 
+or lovastatin in rats increased the AUC value of sinomenine to 1.40- or 
+1.50-fold, and decreased the CLz/F value to 68.19% or 65.44%, respectively. In 
+contrast, multiple administrations of simvastatin, but not lovastatin, increased 
+the CLz/F value of sinomenine to 1.38-fold and decreased the AUC value to 
+71.59%. Further studies showed that the long-term administration of simvastatin 
+could up-regulate the expression of CYP3A1/2 to account for the effect.
+SIGNIFICANCE: This study demonstrated the potential effect of simvastatin and 
+lovastatin on the metabolism of sinomenine for the first time. The findings 
+provide guidelines for the co-administration of sinomenine with simvastatin or 
+lovastatin in clinic.

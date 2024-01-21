@@ -1,0 +1,25 @@
+A patient with rheumatoid arthritis developed rhabdomyolysis while undergoing 
+treatment with mizoribine concomitantly with bezafibrate. The symptoms rapidly 
+disappeared and laboratory test results normalized when she discontinued the two 
+drugs. The purpose of the present study was to elucidate the 
+transporter-mediated molecular pharmacokinetic mechanisms of drug-drug 
+interactions between bezafibrate and mizoribine. Comparing 
+bezafibrate-mizoribine group with bezafibrate group, the Tmax and Cmax of 
+bezafibrate were essentially unchanged in rats. The AUC of bezafibrate was 
+significantly increased and t1/2β was prolonged markedly with an obviously 
+reduction in plasma clearance and cumulative urinary excretion. The changes were 
+similar to oral studies following intravenous co-administration. In rat kidney 
+slices, the uptake of bezafibrate was markedly inhibited by p-aminohippurate, 
+benzylpenicillin and probenecid but not by tetraethyl ammonium. Mizoribine not 
+only decreased the uptake of bezafibrate, but also inhibited the uptake of 
+p-aminohippurate and benzylpenicillin. The uptakes of bezafibrate and mizoribine 
+were significantly higher compared to vector-HEK293 cells. The uptakes of 
+bezafibrate and mizoribine in highest concentration were increased 1.63 and 1.46 
+folds in hOAT1-transfected cells, 1.43 and 1.24 folds in hOAT3-transfected 
+cells, respectively. The Km values of bezafibrate uptake by 
+hOAT1/3hOAT1-/hOAT3-HEK293 K293 cells were increased 1.68 fold in hOAT1-HEK293 
+cell and 2.12 fold in hOAT3-HEK293 cell in the presence of mizoribine with no 
+change of Vmax. It indicated that mizoribine could inhibit the uptake of 
+bezafibrate by hOAT1/3-HEK293 cells in a competitive way. In conclusion, OAT1 
+and OAT3 are the target transporters of drug-drug interactions between 
+bezafibrate and mizoribine in pharmacokinetic aspects.

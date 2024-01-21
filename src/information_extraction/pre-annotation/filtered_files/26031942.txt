@@ -1,0 +1,18 @@
+CD2 and CD58 are two important costimulatory molecules involved in generating 
+the signal II required for normal immune signaling. However, this interaction 
+can be targeted to be of benefit in cases of abnormal immune signaling seen in 
+autoimmune diseases. Our objective in this study was to design a peptidomimetic 
+(compound 7) based on a β-strand structure of the adhesion domain of CD2 protein 
+to inhibit CD2-CD58 protein-protein interaction and its effect on 
+immunomodulation in the collagen-induced arthritis (CIA) model. The ability of 
+compound 7 to bind to CD58 protein was assessed using flow cytometry. The effect 
+of compound 7 on modulating the immune response was evaluated in an autoimmune 
+disease using CIA in mice. The stability of compound 7 was evaluated in mouse 
+serum using mass spectrometry. Antibody (Ab) binding inhibition studies 
+suggested that compound 7 binds to CD58 protein. Compound 7 was successful in 
+modulating immune responses when administered in the CIA mouse model along with 
+reducing anti-collagen Ab levels and decreasing the level of interferon gamma 
+(IFN-γ) relative to control treatments. Compound 7 was found to be 
+nonimmunogenic and stable in mouse serum up to 48 h. Results suggest that 
+compound 7 can serve as a lead compound for immunomodulation, and could be a 
+therapeutic agent for the autoimmune disease rheumatoid arthritis (RA).

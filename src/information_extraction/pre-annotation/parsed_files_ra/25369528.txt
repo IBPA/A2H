@@ -1,0 +1,23 @@
+Murine models for rheumatoid arthritis (RA) research can provide important 
+insights for understanding RA pathogenesis and evaluating the efficacy of novel 
+treatments. However, simultaneously imaging both murine articular cartilage and 
+subchondral bone using conventional techniques is challenging because of low 
+spatial resolution and poor soft tissue contrast. X-ray phase-contrast imaging 
+(XPCI) is a new technique that offers high spatial resolution for the 
+visualisation of cartilage and skeletal tissues. The purpose of this study was 
+to utilise XPCI to observe articular cartilage and subchondral bone in a 
+collagen-induced arthritis (CIA) murine model and quantitatively assess changes 
+in the joint microstructure. XPCI was performed on the two treatment groups (the 
+control group and CIA group, n = 9 per group) to monitor the progression of 
+damage to the femur from the knee joint in a longitudinal study (at 0, 4 and 8 
+weeks after primary injection). For quantitative assessment, morphologic 
+parameters were measured in three-dimensional (3D) images using appropriate 
+image analysis software. Our results showed that the average femoral cartilage 
+volume, surface area and thickness were significantly decreased (P<0.05) in the 
+CIA group compared to the control group. Meanwhile, these decreases were 
+accompanied by obvious destruction of the surface of subchondral bone and a loss 
+of trabecular bone in the CIA group. This study confirms that XPCI technology 
+has the ability to qualitatively and quantitatively evaluate microstructural 
+changes in mouse joints. This technique has the potential to become a routine 
+analysis method for accurately monitoring joint damage and comprehensively 
+assessing treatment efficacy.

@@ -1,0 +1,19 @@
+OBJECTIVE: To investigate the anti-inflammatory effect of Herba Siegesbeckiae 
+extracts on mouse rheumatoid arthritis induced by arthrogen-CIA monoclonal 
+antibody.
+METHODS: The rheumatoid arthritis was induced by arthrogen-CIA arthritogenic 
+monoclonal antibody in mice. The sandwich enzyme-linked immunosorbent assay was 
+used to determine the concentration of IL-1βin mouse serum,and the content of 
+IL-6,IL-17 and MMP-3 in supernatant of tissue homogenate of hind limb below the 
+stifle of mice. One-way ANOVA was used for data analysis.
+RESULTS: The toe swelling was attenuated in Siegesbeckiae group than that in 
+model group [(0.218 ± 0.0307)cm(3) compared with (0.2545 ± 0.0179)cm(3), 
+P<0.05]. The serum IL-1β level in Siegesbeckiae group was lower than that in 
+model group [(63.74 ± 21.74)pg/ml compared with (104.96 ± 31.22)pg/ml, P<0.01]. 
+The contents of IL-6, IL-17 and MMP-3 in tissue supernatants of Siegesbeckiae 
+group were all lower than those of model group [(171.10 ± 48.35)pg/ml compared 
+with (249.64 ± 75.08)pg/ml, P<0.05; (115.42 ± 56.52)pg/ml compared with (208.40 
+± 88.54)pg/ml, P<0.05;(3660.31 ± 1680.99) pg/ml compared with (5420.79 ± 
+1201.43)pg/ml, P<0.05, respectively].
+CONCLUSION: The extract of Herba Siegesbeckiae has anti-inflammatory effect on 
+mouse rheumatoid arthritis induced by mixed arthrogen monoclonal antibody.

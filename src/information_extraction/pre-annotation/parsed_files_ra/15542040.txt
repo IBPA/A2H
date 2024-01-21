@@ -1,0 +1,28 @@
+The proliferation inhibitor of the macrolide class, everolimus, is a drug shown 
+to be effective in the prevention of organ transplant rejection and to have a 
+potential in the treatment of rheumatoid arthritis and certain cancers. As these 
+diseases or their current treatments are associated with bone loss, we examined 
+the effect of everolimus on mouse and human bone cells in vitro and on bone in 
+an ovariectomized (OVX) rat model. Everolimus potently inhibited primary mouse 
+and human osteoclast activity in the pit assay (IC50 values of 0.6-4.0 nM), as 
+well as osteoclast formation, measured as the number of tartrate-resistant acid 
+phosphatase (TRAP) multinucleated cells (IC50 values of 7.7-10.5 nM). Inhibition 
+of osteoblastic differentiation was also observed (IC50 value of 13.5 nM). As 
+expected, everolimus inhibited proliferation of osteoclast precursors and 
+stimulated apoptosis, albeit with insufficient potency and efficacy to explain 
+inhibition of osteoclast activity. Thus, everolimus appeared to directly inhibit 
+bone resorption, which is in accord with the detected inhibition of mRNA and 
+protein expression of cathepsin K; the main collagen-degrading protease in 
+osteoclasts. Despite the in vitro antiproliferative activity of everolimus and 
+the observed inhibition of osteoblast differentiation, no detrimental effects 
+were detected at different skeletal sites in mature OVX rats at doses up to 3 
+mg/kg/day. This everolimus dose also prevented the OVX-induced loss of 
+cancellous bone by 60%, an effect predominantly associated with decreased 
+osteoclast-mediated bone resorption, resulting in a partial preservation of the 
+cancellous bone network. Everolimus inhibited S6 kinase 1 activity in rat blood 
+cells, skin, and bone, at doses equivalent to those used for efficacy 
+experiments in the OVX rat model, which demonstrated in vivo targeting of the 
+expected molecular pathway. In conclusion, everolimus directly inhibits bone 
+resorption by osteoclasts and thus could at least be neutral or protective for 
+bone in vivo, which would favor its use in disease indications associated with 
+bone loss.

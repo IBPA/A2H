@@ -1,0 +1,16 @@
+Interleukin-1beta (IL-1beta) is a crucial cytokine in inflammation processes and 
+has been implicated in the pathogenesis of several chronic inflammatory 
+diseases. Strategies designed to blocking IL-1beta by passive administration of 
+inhibitors (mAbs, IL-1 receptor antagonist) have previously demonstrated 
+efficacy in rheumatoid arthritis (RA). Using molecular modelling, we have 
+defined three murine IL-1beta peptide regions characterized by their close 
+proximity to the receptor. Synthetic peptides corresponding to these regions, in 
+cyclic and linear form, were delivered as immunogens in Swiss mice, resulting in 
+significant levels of autoantibodies directed against the native murine IL-1beta 
+cytokine as determined by ELISA and by an assay for neutralization of IL-1beta 
+biological activity. More importantly, one of the cyclic peptides showed a 
+protective effect against inflammation and articular destruction in DBA/1 mouse 
+collagen-induced arthritis, a model of RA. The high rate of success observed for 
+active immunization against cytokine peptides in vivo suggests that the in 
+silico approach to autoantigen design may be a promising avenue for the 
+development of anti-cytokine immunotherapeutics.

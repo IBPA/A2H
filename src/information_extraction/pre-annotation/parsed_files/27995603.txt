@@ -1,0 +1,24 @@
+The inflammatory response to the colonic pathogen Clostridium difficile is 
+characterized by the induction of inflammatory cytokines including 
+Interleukin-23 (IL-23) and interferon-γ (IFN-γ) and the recruitment of myeloid 
+cells including Ly6CHigh monocytes. IL-23 knockout mice showed reduced 
+expression of the monocyte chemokines Ccl4 and Ccl7, but not Ccl2, as well as 
+reduced Ly6CHigh Ly6GMid monocyte recruitment to the colon in response to C. 
+difficile colitis. Clostridium difficile-infected CCR2-/- (CCR2 KO) mice showed 
+a significant defect in Ly6CHigh Ly6GMid monocyte recruitment to the colon in 
+response to C. difficile. Although there was no decrease in expression of the 
+inflammatory cytokines Il1b, Il6 or Tnf or reduction in the severity of colonic 
+histopathology associated with ablation of monocyte recruitment, Slpi and Inos 
+expression was significantly reduced in the colons of these animals. 
+Additionally, neutralization of IFN-γ through the administration of anti-IFN-γ 
+monoclonal antibody resulted in a significant reduction in the expression of the 
+IFN-γ-inducible chemokines Cxcl9 and Cxcl10, but not a reduction in the 
+neutrophil chemokines Cxcl1, Cxcl2 and Ccl3 or the monocyte chemokine Ccl2. 
+Consistently, monocyte and neutrophil recruitment were unchanged following 
+anti-IFN-γ treatment. Additionally, Inos and Slpi expression were unchanged 
+following anti-IFN-γ treatment, suggesting that Inos and Slpi regulation is 
+independent of IFN-γ during C. difficile colitis. Taken together, these data 
+strongly suggest that IL-23 and CCR2 signalling are required for monocyte 
+recruitment during C. difficile colitis. Additionally, these studies also 
+suggest that monocytes, but not IFN-γ, are necessary for full expression of Inos 
+and Slpi in the colon.

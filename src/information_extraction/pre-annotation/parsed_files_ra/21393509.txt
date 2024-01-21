@@ -1,0 +1,13 @@
+The growth factor progranulin (PGRN) has been implicated in embryonic 
+development, tissue repair, tumorigenesis, and inflammation, but its receptors 
+remain unidentified. We report that PGRN bound directly to tumor necrosis factor 
+receptors (TNFRs) and disturbed the TNFα-TNFR interaction. PGRN-deficient mice 
+were susceptible to collagen-induced arthritis, and administration of PGRN 
+reversed inflammatory arthritis. Atsttrin, an engineered protein composed of 
+three PGRN fragments, exhibited selective TNFR binding. PGRN and Atsttrin 
+prevented inflammation in multiple arthritis mouse models and inhibited 
+TNFα-activated intracellular signaling. Collectively, these findings demonstrate 
+that PGRN is a ligand of TNFR, an antagonist of TNFα signaling, and plays a 
+critical role in the pathogenesis of inflammatory arthritis in mice. They also 
+suggest new potential therapeutic interventions for various TNFα-mediated 
+pathologies and conditions, including rheumatoid arthritis.

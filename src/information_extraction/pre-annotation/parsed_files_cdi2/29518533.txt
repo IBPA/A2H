@@ -1,0 +1,26 @@
+This study was to optimize the detection methods for Clostridium difficile from 
+the animal manure-based composts. Both autoclaved and unautoclaved dairy 
+composts were inoculated with a 12-h old suspension of a non-toxigenic 
+C. difficile strain (ATCC 43593) and then plated on selected agar for vegetative 
+cells and endospores. Six types of enrichment broths supplemented with 
+taurocholate and l-cysteine were assessed for detecting a low level of 
+artificially inoculated C. difficile (ca. 5 spores/g) from dairy composts. The 
+efficacy of selected enrichment broths was further evaluated by isolating 
+C. difficile from 29 commercial compost samples. Our results revealed that using 
+heat-shock was more effective than using ethanol-shock for inducing endospore 
+germination, and the highest endospore count (p < 0.05) was yielded at 60 °C for 
+25 min. C. difficile agar base, supplemented with 0.1% l-cysteine, 7% 
+defibrinated horse blood, and cycloserine-cefoxitin (CDA-CYS-H-CC agar) was the 
+best medium (p < 0.05) for recovering vegetative cells from compost. 
+C. difficile endospore populations from both types of composts enumerated on 
+both CDA-CYS-H-CC agar supplemented with 0.1% sodium taurocholate 
+(CDA-CYS-H-CC-T agar) and brain heart infusion agar supplemented with 0.5% yeast 
+extract, 0.1% l-cysteine, cycloserine-cefoxitin, and 0.1% sodium taurocholate 
+(BHIA-YE-CYS-CC-T agar) media were not significantly different from each other 
+(p > 0.05). Overall, enrichment of inoculated compost samples in broths 
+containing moxalactam-norfloxacin (MN) produced significantly higher (p < 0.05) 
+spore counts than in non-selective broths or broths supplemented with CC. 
+Enrichment in BHIB-YE-CYS-MN-T broth followed by culturing on an agar containing 
+7% horse blood and 0.1% taurocholate provided a more sensitive and selective 
+combination of media for detecting a low population of C. difficile from 
+environmental samples with high background microflora.

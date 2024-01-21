@@ -1,0 +1,29 @@
+INTRODUCTION: Immunosuppressants, including anti-TNFalpha antibodies, have 
+remarkable effects in rheumatoid arthritis; however, they increase infectious 
+events. The present study was designed to examine the effects and immunological 
+change of action of altered peptide ligands (APLs) on glucose-6-phosphate 
+isomerase (GPI) peptide-induced arthritis.
+METHODS: DBA/1 mice were immunized with hGPI325-339, and cells of draining lymph 
+node (DLN) were stimulated with hGPI325-339 to investigate the T-cell receptor 
+(TCR) repertoire of antigen-specific CD4+ T cells by flow cytometry. Twenty 
+types of APLs with one amino acid substitution at a TCR contact site of 
+hGPI325-339 were synthesized. CD4+ T cells primed with human GPI and 
+antigen-presenting cells were co-cultured with each APL and cytokine production 
+was measured by ELISA to identify antagonistic APLs. Antagonistic APLs were 
+co-immunized with hGPI325-339 to investigate whether arthritis could be 
+antigen-specifically inhibited by APL. After co-immunization, DLN cells were 
+stimulated with hGPI325-339 or APL to investigate Th17 and regulatory T-cell 
+population by flow cytometry, and anti-mouse GPI antibodies were measured by 
+ELISA.
+RESULTS: Human GPI325-339-specific Th17 cells showed predominant usage of 
+TCRVbeta8.1 8.2. Among the 20 synthesized APLs, four (APL 6; N329S, APL 7; 
+N329T, APL 12; G332A, APL 13; G332V) significantly reduced IL-17 production by 
+CD4+ T cells in the presence of hGPI325-339. Co-immunization with each 
+antagonistic APL markedly prevented the development of arthritis, especially APL 
+13 (G332V). Although co-immunization with APL did not affect the population of 
+Th17 and regulatory T cells, the titers of anti-mouse GPI antibodies in mice 
+co-immunized with APL were significantly lower than in those without APL.
+CONCLUSIONS: We prepared antagonistic APLs that antigen-specifically inhibited 
+the development of experimental arthritis. Understanding the inhibitory 
+mechanisms of APLs may pave the way for the development of novel therapies for 
+arthritis induced by autoimmune responses to ubiquitous antigens.

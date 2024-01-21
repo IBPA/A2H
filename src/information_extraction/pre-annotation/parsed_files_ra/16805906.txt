@@ -1,0 +1,27 @@
+Rheumatoid arthritis (RA) is an autoimmune disease affecting approximately 1% of 
+the population worldwide. Previously, we showed that human T-cell leukemia virus 
+type I-transgenic mice and interleukin-1 receptor antagonist-knockout mice 
+develop autoimmunity and joint-specific inflammation that resembles human RA. To 
+identify genes involved in the pathogenesis of arthritis, we analyzed the gene 
+expression profiles of these animal models by using high-density oligonucleotide 
+arrays. We found 1,467 genes that were differentially expressed from the normal 
+control mice by greater than threefold in one of these animal models. The gene 
+expression profiles of the two models correlated well. We extracted 554 genes 
+whose expression significantly changed in both models, assuming that 
+pathogenically important genes at the effector phase would change in both 
+models. Then, each of these commonly changed genes was mapped into the whole 
+genome in a scale of the 1-megabase pairs. We found that the transcriptome map 
+of these genes did not distribute evenly on the chromosome but formed clusters. 
+These identified gene clusters include the major histocompatibility complex 
+class I and class II genes, complement genes, and chemokine genes, which are 
+well known to be involved in the pathogenesis of RA at the effector phase. The 
+activation of these gene clusters suggests that antigen presentation and 
+lymphocyte chemotaxis are important for the development of arthritis. Moreover, 
+by searching for such clusters, we could detect genes with marginal expression 
+changes. These gene clusters include schlafen and membrane-spanning four-domains 
+subfamily A genes whose function in arthritis has not yet been determined. Thus, 
+by combining two etiologically different RA models, we succeeded in efficiently 
+extracting genes functioning in the development of arthritis at the effector 
+phase. Furthermore, we demonstrated that identification of gene clusters by 
+transcriptome mapping is a useful way to find potentially pathogenic genes among 
+genes whose expression change is only marginal.

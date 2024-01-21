@@ -1,0 +1,24 @@
+OBJECTIVE: To examine cytokine and chemokine production during the evolution of 
+rat adjuvant-induced arthritis (AIA), a model of rheumatoid arthritis.
+METHODS: Clinical and laboratory assessment of the course of AIA was performed 
+over a 47-day period. Levels of the cytokines tumor necrosis factor a 
+(TNFalpha), interleukin-1beta (IL-1beta), and IL-6, as well as levels of the 
+chemokines macrophage inflammatory protein 1alpha (MIP-1alpha) and JE, the 
+murine homolog of monocyte chemoattractant protein 1, were determined by 
+enzyme-linked immunosorbent assay in the sera and joints of AIA and control 
+rats. Synovia from AIA rats were (immuno)histochemically analyzed. Results of 
+cytokine and chemokine measurements were correlated with clinical and laboratory 
+markers of inflammation and histology.
+RESULTS: Early (before day 14 post adjuvant injection) and later phases of AIA 
+could be distinguished. Cytokine and chemokine production was increased in AIA 
+versus control rats. The production of TNFalpha, IL-1beta, MIP-1alpha, and, as 
+determined earlier, epithelial neutrophil-activating peptide 78-like protein was 
+abundant prior to and during the course of AIA, while that of IL-6 and JE was 
+elevated in the late phase of AIA. Cytokine and chemokine levels were correlated 
+with the clinical symptoms of arthritis and blood neutrophil counts. Joint 
+levels of IL-1beta showed correlation with synovial lining proliferation and 
+neutrophil ingress into AIA synovium.
+CONCLUSION: Cytokines and chemokines are involved in the clinical, laboratory, 
+and histologic changes underlying AIA. The production of these mediators may be 
+temporally and spatially regulated. These findings may be important for the 
+optimal timing of cytokine and chemokine targeting.

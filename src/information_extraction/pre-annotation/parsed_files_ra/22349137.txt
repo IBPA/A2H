@@ -1,0 +1,18 @@
+OBJECTIVE: We examined the effects of ZSTK474, a phosphatidylinositol 3-kinase 
+(PI3K) inhibitor, on adjuvant-induced arthritis (AIA).
+METHODS: AIA was induced in Lewis rats by subcutaneous administration of 
+Freund's complete adjuvant at the base of the tail on day 0. ZSTK474 was orally 
+administered once daily from day 10. The severity of AIA was assessed by 
+measuring the hind paw volume. The number of lymphocytes in inguinal lymph nodes 
+(ILN) was determined by flow cytometry. The in vitro effects of ZSTK474 on the 
+cell proliferation, and the cytokines and prostaglandin E(2) (PGE(2)) production 
+were evaluated by BrdU method, ELISA and cytometric beads array.
+RESULTS: ZSTK474 ameliorated the progression of AIA. The temporary increases in 
+the number of T cells in ILN, which occurred along with the appearance of 
+arthritis, were inhibited in the ZSTK474-treated groups. In vitro studies 
+revealed that ZSTK474 inhibited the production of IFNγ and IL-17 in concanavalin 
+A-activated T cells. In vitro studies further revealed that ZSTK474 inhibited 
+the proliferation and PGE(2) production by fibroblast-like synovial cells (FLS).
+CONCLUSION: ZSTK474 demonstrated prophylactic efficacy in a rat model of 
+rheumatoid arthritis (RA) through inhibition of T cell and FLS functions. It was 
+suggested that the inhibitors of PI3K have therapeutic potential for RA.

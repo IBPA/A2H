@@ -1,0 +1,33 @@
+INTRODUCTION: TNFalpha and high mobility group box chromosomal protein 1 (HMGB1) 
+are two potent proinflammatory cytokines implicated as important mediators of 
+arthritis. Increased levels of these cytokines are found in the joints of 
+rheumatoid arthritis patients, and the cytokines trigger arthritis when applied 
+into the joints of naïve mice. HMGB1 is actively released from immune cells in 
+response to TNFalpha; once released, HMGB1 in turn induces production of several 
+proinflammatory cytokines--including IL-6 and TNFalpha--by macrophages. Whether 
+HMGB1-induced arthritis is mediated via the TNFalpha pathway, however, is 
+unknown. The purpose of the present study was to investigate whether the 
+arthritis-inducing effect of HMGB1 is dependent on TNFalpha expression in vivo 
+and to assess whether TNFalpha deficiency affects a proinflammatory cytokine 
+response to HMGB1 in vitro.
+METHODS: TNFalpha knockout mice and backcrossed control animals on a C57Bl6 
+background were injected intraarticularly with 5 microg HMGB1. Joints were 
+dissected 3 days after intraarticular injection and were evaluated 
+histologically by scoring the frequency and severity of arthritis. For in vitro 
+studies, mouse spleen cultures from TNFalpha knockout mice and from control mice 
+were incubated with different doses of HMGB1, and cell culture supernatants were 
+collected at different time points for analysis of IL-6.
+RESULTS: Intraarticular injection of HMGB1 into healthy mouse joints resulted in 
+an overall frequency of 32% to 39% arthritic animals. No significant differences 
+were found with respect to the severity and incidence of synovitis between mice 
+deficient for TNFalpha (seven out of 18 mice with arthritis) in comparison with 
+control TNFalpha+/+ animals (six out of 19). No significant differences were 
+detected between spleen cells from TNFalpha+/+ mice versus TNFalpha-/- mice 
+regarding IL-6 production upon stimulation with highly purified HMGB1 after 24 
+hours and 48 hours. Upon stimulation with a suboptimal dose of recombinant 
+HMGB1, however, the splenocytes from TNFalpha+/+ animals released significantly 
+more IL-6 than cells from the knockout mice (602 +/- 112 pg/ml and 304 +/- 50 
+pg/ml, respectively; P < 0.05).
+CONCLUSION: Our data show that HMGB1-triggered joint inflammation is not 
+mediated via the TNF pathway. Combined with our previous study, we suggest that 
+HMGB1-triggered arthritis is probably mediated through IL-1 activation.

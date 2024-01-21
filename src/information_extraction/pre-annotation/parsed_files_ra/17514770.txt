@@ -1,0 +1,26 @@
+BACKGROUND: The tumor necrosis factor (TNF)-alpha plays a central role in 
+rheumatoid arthritis (RA) and current biotherapies targeting TNF-alpha have a 
+major impact on RA treatment. The long-term safety concerns associated with the 
+repetitive TNF blockade prompt optimization of therapeutic anti-TNF approaches. 
+Since we recently demonstrated that intra-articular gene transfer using a 
+recombinant adeno-associated virus serotype 5 (rAAV5) efficiently transduces 
+arthritic joints, we evaluate its effect on collagen-induced arthritis (CIA) 
+when encoding TNF antagonists.
+METHODS: Recombinant AAV5 vectors encoding the human TNFRp55 extracellular 
+domain fused to the Fc region of mice IgG1 (TR1) or a small molecular weight 
+dimeric human TNFRp75 extracellular domain (TR2), under two different promoters, 
+the CMV or a chimeric NF-kappaB-based promoter inducible by inflammation, were 
+injected into mouse CIA joints.
+RESULTS: Best protection against arthritis was obtained with the rAAV5 encoding 
+the TR1, as reflected by delayed disease onset, decreased incidence and severity 
+of joint damage. This effect was associated with a transient expression of the 
+anti-TNF agent when expressed under a NF-kappaB-responsive promoter, only 
+detectable during disease flare, while the antagonist expression was rapidly 
+increased and stable when expressed from a CMV promoter. Importantly, using the 
+intra-articular administration of the rAAV5-NF-kappaB-TR1 vector, we observed a 
+striking correlation between local TR1 expression and inflammation.
+CONCLUSIONS: These findings strongly support the feasibility of improving the 
+safety of anti-TNF approaches for the treatment of arthritis by local 
+rAAV5-mediated gene expression under an inflammation-responsive promoter, able 
+to provide a limited, transient and therapeutically relevant expression of 
+anti-TNF compounds.

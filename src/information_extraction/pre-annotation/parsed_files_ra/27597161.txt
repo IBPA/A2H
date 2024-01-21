@@ -1,0 +1,18 @@
+Human dihydroorotate dehydrogenase (hDHODH) is an inner mitochondrial membrane 
+enzyme that involves in the fourth step of the biosynthesis of pyrimidine base. 
+Inhibitors of hDHODH have been proven efficacy for the treatments of 
+inflammation, rheumatoid arthritis, multiple sclerosis and cancer. In the 
+present study, ascochlorin (ASC) and its derivatives, natural compounds from 
+fungal metabolites, were discovered as hDHODH inhibitors by high-throughput 
+screening. Enzyme kinetics studies showed that ASC competitively binds to hDHODH 
+at the site of coenzyme Q substrate. In ex vivo study, ASC significantly 
+inhibited the ConA-stimulated T lymphocytes proliferation and interleukin-2, 
+interferon-γ production. Furthermore, ASC showed significant in vivo 
+anti-inflammatory and immunosuppressive effects on the mice ears swelling, 
+allogenic skin grafts and rat collagen-induced arthritis animal disease models. 
+ASC significantly reduced ears edema level of mice, increased the survival time 
+of allogenic skin implanted on the mice and attenuated arthritis severity of rat 
+model. In conclusion, ASC was identified as a new structural class of hDHODH 
+inhibitors with efficient anti-inflammatory, immunosuppressive activity, and may 
+be a promising candidate for the development of new therapy in the treatment of 
+autoimmune diseases.

@@ -1,0 +1,24 @@
+Antibiotics excreted into the intestinal tract may disrupt the microbiota that 
+provide colonization resistance against enteric pathogens and alter normal 
+metabolic functions of the microbiota. Many of the bacterial metabolites 
+produced in the intestinal tract are absorbed systemically and excreted in 
+urine. Here, we used a mouse model to test the hypothesis that alterations in 
+levels of targeted bacterial metabolites in urine specimens could provide useful 
+biomarkers indicating disrupted or intact colonization resistance. To assess in 
+vivo colonization resistance, mice were challenged with Clostridium difficile 
+spores orally 3, 6, and 11 days after the completion of 2 days of treatment with 
+piperacillin-tazobactam, aztreonam, or saline. For concurrent groups of 
+antibiotic-treated mice, urine samples were analyzed by using liquid 
+chromatography-tandem mass spectrometry (LC-MS/MS) to quantify the 
+concentrations of 11 compounds targeted as potential biomarkers of colonization 
+resistance. Aztreonam did not affect colonization resistance, whereas 
+piperacillin-tazobactam disrupted colonization resistance 3 days after 
+piperacillin-tazobactam treatment, with complete recovery by 11 days after 
+treatment. Three of the 11 compounds exhibited a statistically significant and 
+>10-fold increase (the tryptophan metabolite N-acetyltryptophan) or decrease 
+(the plant polyphenyl derivatives cinnamoylglycine and enterodiol) in 
+concentrations in urine 3 days after piperacillin-tazobactam treatment, followed 
+by recovery to baseline that coincided with the restoration of in vivo 
+colonization resistance. These urinary metabolites could provide useful and 
+easily accessible biomarkers indicating intact or disrupted colonization 
+resistance during and after antibiotic treatment.

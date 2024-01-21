@@ -1,0 +1,23 @@
+OBJECTIVE: The role of plasmacytoid dendritic cells (PDCs) and type I 
+interferons (IFNs) in rheumatoid arthritis (RA) remains a subject of 
+controversy. This study was undertaken to explore the contribution of PDCs and 
+type I IFNs to RA pathogenesis using various animal models of PDC depletion and 
+to monitor the effect of localized PDC recruitment and activation on joint 
+inflammation and bone damage.
+METHODS: Mice with K/BxN serum-induced arthritis, collagen-induced arthritis, 
+and human tumor necrosis factor transgene insertion were studied. Symptoms were 
+evaluated by visual scoring, quantification of paw swelling, determination of 
+cytokine levels by enzyme-linked immunosorbent assay, and histologic analysis. 
+Imiquimod-dependent therapeutic effects were monitored by transcriptome analysis 
+(using quantitative reverse transcriptase-polymerase chain reaction) and flow 
+cytometric analysis of the periarticular tissue.
+RESULTS: PDC-deficient mice showed exacerbation of inflammatory and arthritis 
+symptoms after arthritogenic serum transfer. In contrast, enhancing PDC 
+recruitment and activation to arthritic joints by topical application of the 
+Toll-like receptor 7 (TLR-7) agonist imiquimod significantly ameliorated 
+arthritis in various mouse models. Imiquimod induced an IFN signature and led to 
+reduced infiltration of inflammatory cells.
+CONCLUSION: The therapeutic effects of imiquimod on joint inflammation and bone 
+destruction are dependent on TLR-7 sensing by PDCs and type I IFN signaling. Our 
+findings indicate that local recruitment and activation of PDCs represents an 
+attractive therapeutic opportunity for RA patients.

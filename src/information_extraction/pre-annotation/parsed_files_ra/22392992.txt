@@ -1,0 +1,21 @@
+The recruitment of T lymphocytes during diseases such as rheumatoid arthritis is 
+regulated by stimulation of the chemokine receptors expressed by these cells. 
+This study was designed to assess the potential of a CXCR3-specific 
+small-molecule agonist to inhibit the migration of activated human T cells 
+toward multiple chemokines. Further experiments defined the molecular mechanism 
+for this anti-inflammatory activity. Analysis in vitro demonstrated agonist 
+induced internalization of both CXCR3 and other chemokine receptors coexpressed 
+by CXCR3(+) T cells. Unlike chemokine receptor-specific antagonists, the CXCR3 
+agonist inhibited migration of activated T cells toward the chemokine mixture in 
+synovial fluid from patients with active rheumatoid arthritis. A humanized mouse 
+air-pouch model showed that intravenous treatment with the CXCR3 agonist 
+prevented inflammatory migration of activated human T cells toward this synovial 
+fluid. A potential mechanism for this action was defined by demonstration that 
+the CXCR3 agonist induces receptor cross-phosphorylation within CXCR3-CCR5 
+heterodimers on the surface of activated T cells. This study shows that 
+generalized chemokine receptor desensitization can be induced by specific 
+stimulation of a single chemokine receptor on the surface of activated human T 
+cells. A humanized mouse model was used to demonstrate that this receptor 
+desensitization inhibits the inflammatory response that is normally produced by 
+the chemokines present in synovial fluid from patients with active rheumatoid 
+arthritis.

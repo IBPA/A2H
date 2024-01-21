@@ -1,0 +1,23 @@
+The clinical applications of tumor necrosis factor (TNF)-related apoptosis 
+inducing ligand (TRAIL), an emerging therapeutic protein for cancer and 
+rheumatoid arthritis (RA), are limited by its instability and short biological 
+half-life. In this study, efficient therapeutic modalities for RA treatment were 
+developed in the form of nano-sized complexes (nanocomplexes) based on 
+hyaluronic acid (HA) and polyethylene glycol (PEG)-derivatized TRAIL (PEG-TRAIL) 
+formed by N-terminal specific PEGylation. The nanocomplexes were prepared by 
+simply mixing the positively charged PEG-TRAIL and negatively charged HA, and 
+showed negligible loss of bioactivity compared with the PEG-TRAIL. The in vivo 
+biodistribution and diffusion kinetics of Cy5.5-labeled PEG-TRAIL in mice were 
+observed using a near-infrared optical imaging system after subcutaneous 
+injection of three different formulations: PEG-TRAIL in phosphate-buffered 
+saline (PBS, pH 7.4), nanocomplex in PBS, or nanocomplex in 1% HA solution. The 
+results suggested that PEG-TRAIL is released slowly in vivo from the nanocomplex 
+in 1% HA. Experiments in a collagen-induced arthritis mouse model demonstrated 
+that the magnitudes of therapeutic effects, as judged by clinical scores and 
+histology, were significantly enhanced by the sustained delivery of PEG-TRAIL, 
+with the order of nanocomplex in 1% HA>nanocomplex in PBS>PEG-TRAIL in PBS. In 
+addition, sustained delivery of PEG-TRAIL from the nanocomplex in 1% HA resulted 
+in significant reduction of serum inflammatory cytokines and collagen-specific 
+antibodies that are responsible for the pathogenesis of RA. These results imply 
+that HA/PEG-TRAIL nanocomplex formulations are promising therapeutic modalities 
+for the treatment of RA.

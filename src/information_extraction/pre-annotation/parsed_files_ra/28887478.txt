@@ -1,0 +1,15 @@
+Rheumatoid arthritis (RA) is a multi-factorial disease characterized by chronic 
+inflammation and destruction of multiple joints. To date, various biologic 
+treatments for RA such as anti-tumor necrosis factor alpha antibodies have been 
+developed; however, mechanisms underlying RA development remain unclear and 
+targeted therapy for this condition has not been established. Here, we provide 
+evidence that signal transducer and activator of transcription 3 (Stat3) 
+promotes inflammation and joint erosion in a mouse model of arthritis. Stat3 
+global KO mice show early embryonic lethality; thus, we generated viable Stat3 
+conditional knockout adult mice and found that they were significantly resistant 
+to collagen-induced arthritis (CIA), the most common RA model, compared with 
+controls. We then used an in vitro culture system to screen ninety-six existing 
+drugs to select Stat3 inhibitors and selected five candidate inhibitors. Among 
+them, three significantly inhibited development of arthritis and joint erosion 
+in CIA wild-type mice. These findings suggest that Stat3 inhibitors may serve as 
+promising drugs for RA therapy.

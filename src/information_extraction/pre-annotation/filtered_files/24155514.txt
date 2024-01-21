@@ -1,0 +1,26 @@
+BACKGROUND: Rheumatoid arthritis (RA) is an inflammatory joint disorder, whose 
+progression leads to the destruction of cartilage and bone. Chemokines and their 
+receptors are potential therapeutic targets in RA. Among these, it has been 
+suggested that CXC chemokine 4 (CXCR4) and its ligand CXC ligand 12 (CXCL12) are 
+involved in RA pathogenesis. Low-level laser irradiation (LLLI) is currently 
+being evaluated for the treatment of RA; however, the molecular mechanisms 
+underlying its effectiveness remain unclear.
+AIM: To understand the anti-inflammatory effect of LLLI, we used the 
+collagen-induced arthritis (CIA) rat as RA model and analyzed the gene 
+expression profile in synovial membrane in the hindpaw joints of control, CIA 
+and CIA + LLLI. Expression of CXCR4 and CXCL12 genes were also studied.
+MATERIALS AND METHODS: Total RNA was isolated from the synovial membrane tissue 
+of CIA rat joints or CIA joints treated with LLLI (830 nm Ga-Al-As diode), and 
+gene expression profiles were analyzed by DNA microarray (41,000 rat genes). The 
+mRNA levels were confirmed by reverse transcription polymerase chain reaction 
+(RT-PCR) and real-time PCR. Immunohistochemical examination to examine CXCR4 
+protein expression was also carried out.
+RESULTS: DNA microarray analysis showed that CXCR4 gene expression was increased 
+in CIA tissue and LLLI treatment significantly decreased CIA-induced CXCR4 mRNA 
+levels. In contrast, CXCL12 did not show any significant changes. The microarray 
+data of CXCR4 mRNA levels were further validated using RT-PCR and real-time PCR. 
+Increased CXCR4 mRNA levels by CIA and its reduction following LLLI was 
+successfully confirmed. CXCR4 production was increased in CIA joints and its 
+production was decreased by LLLI.
+CONCLUSION: Decreased CXCR4 expression may be one of the mechanisms in 
+LLLI-mediated reduction of RA inflammation.

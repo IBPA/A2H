@@ -1,0 +1,25 @@
+INTRODUCTION: Methotrexate (MTX) is an antineoplastic agent widely used in low 
+dose to treat patients with rheumatoid arthritis (RA). Its side effects can 
+partly be explained by folate antagonism. Folinic acid (Leucovorin) is generally 
+administered with MTX to decrease MTX-induced toxicity. However information 
+regarding the inhibitory effect of folinic acid against cytogenetic damage 
+caused by MTX is limited. The aim of this study was to assess the protective 
+effect of folinic acid against MTX-genotoxicity.
+METHODS: This study was done on Wistar albino rats and in patients with RA. 
+Forty rats of both sexes were randomized into four equal groups and dosed in the 
+following way: Group-I, distilled water vehicle; Group-II, 0.5 mg/kg folinic 
+acid; Group-III, 0.5 mg/kg MTX; Group-IV, 0.5 mg/kg folinic acid plus 0.5 mg/kg 
+MTX. Doses were given i.p., once daily for 8 consecutive days. A bone marrow 
+chromosomal study and a micronucleus test were performed for each rat. Twenty 
+patients with RA (5 males and 15 females) on a 10 mg weekly dose of MTX, i.m., 
+for one month, were administered the same dose of MTX in addition to 10 mg of 
+folinic acid as a single dose 4 hours after MTX administration, i.m., every week 
+for another 4 weeks. Chromosomal studies as well as a micronucleus test were 
+evaluated for each patient.
+RESULTS: MTX produced a significant genetic injury as proved by the increased 
+incidence of chromosomal aberration and micronuclei formation in Group-III 
+animals. Inversely, folinic acid (group IV) produced a significant protection 
+against genetic damages induced by MTX. In RA patients, folinic acid provides 
+satisfactory improvement of MTX-induced genetic damage.
+CONCLUSION: Folinic acid has a protective affect against MTX genotoxicity in 
+human as well as in animal models.

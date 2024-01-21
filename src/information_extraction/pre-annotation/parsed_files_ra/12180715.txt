@@ -1,0 +1,19 @@
+OBJECTIVE: To characterize the adenoviral properties required to enhance 
+intracellular transgene expression for gene therapy.
+METHODS: Primary human fibroblasts and macrophages were infected with standard 
+replication-defective adenoviruses, adenoviral vectors containing modified fiber 
+coat proteins expressing Arg-Gly-Asp (RGD) or heparin sulfate binding moieties, 
+or a tetracycline-regulatable transgene transcription system. Each of these 
+vectors expressed the beta-galactosidase gene (beta-Gal), which was quantified 
+by flow cytometry. Ankle joints from rats with adjuvant induced arthritis were 
+transduced intraarticularly with each of the vectors and B-Gal expression was 
+quantified by flow cytometry.
+RESULTS: Primary human fibroblasts and macrophages displayed marked increases in 
+transgene expression from both modified fiber protein vectors and from the 
+tetracycline-regulatable vector, compared to an unmodified vector expressing the 
+transgene from the cytomegalovirus promoter/enhancer. In the rat model, the 
+modified fiber protein vectors and the tetracycline-regulatable vector system 
+also displayed increased transgene expression in inflamed rat joints.
+CONCLUSION: Adenovirus attachment and uptake by cells and promoter strength 
+limit transgene expression from conventional adenoviral vectors in models of 
+rheumatoid arthritis.

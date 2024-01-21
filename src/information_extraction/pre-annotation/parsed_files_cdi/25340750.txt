@@ -1,0 +1,16 @@
+Clostridium difficile toxin B (TcdB) is a key virulence factor of bacterium and 
+induces intestinal inflammatory disease. Because of its potent cytotoxic and 
+proinflammatory activities, we investigated the utility of TcdB in developing 
+anti-tumor immunity. TcdB induced cell death in mouse colorectal cancer CT26 
+cells, and the intoxicated cells stimulated the activation of mouse bone 
+marrow-derived dendritic cells and subsequent T cell activation in vitro. 
+Immunization of BALB/c mice with toxin-treated CT26 cells elicited potent 
+anti-tumor immunity that protected mice from a lethal challenge of the same 
+tumor cells and rejected pre-injected tumors. The anti-tumor immunity generated 
+was cell-mediated, long-term, and tumor-specific. Further experiments 
+demonstrated that the intact cell bodies were important for the immunogenicity 
+since lysing the toxin-treated tumor cells reduced their ability to induce 
+antitumor immunity. Finally, we showed that TcdB is able to induce potent 
+anti-tumor immunity in B16-F10 melanoma model. Taken together, these data 
+demonstrate the utility of C. difficile toxin B for developing anti-tumor 
+immunity.

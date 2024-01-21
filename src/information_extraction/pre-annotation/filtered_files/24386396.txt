@@ -1,0 +1,14 @@
+Ultra-weak photon emission (UPE) of a living system received scientific 
+attention because of its potential for monitoring increased levels of reactive 
+oxygen species (ROS) in the pathogenesis of rheumatoid arthritis (RA). In this 
+study, a highly sensitive cryogenic charge-coupled device (CCD) camera was used 
+to monitor in a RA mouse model the photon emission both without and with 
+luminol. For that purpose, arthritis was induced in mice utilizing a repeated 
+co-administration of type II collagen with lipopolysaccharide. Quantitative 
+imaging of ultra-weak photon emission of the front and back paws of the animals 
+was initiated 70 days after the first injection. All of the animals were 
+measured once without luminol and once again immediately after luminol 
+injection. Data illustrated a higher UPE intensity after initiating arthritis by 
+CII-injection of the animals. The increase in UPE intensity was measured with 
+and without using luminol indicating that this imaging technology may be useful 
+for the future study of human RA.

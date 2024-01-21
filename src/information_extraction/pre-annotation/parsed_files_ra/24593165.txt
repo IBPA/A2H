@@ -1,0 +1,27 @@
+OBJECTIVE: TNFα and IL-17 have been shown to be the major inflammatory cytokines 
+involved in the pathogenesis of rheumatoid arthritis (RA). Here, we examined the 
+effect of these cytokines on spontaneously occurring RA in our newly established 
+arthritis-prone FcγRIIB- deficient C57BL/6 (B6) mice, designated KO1, by 
+introducing genetic deficiency of TNFα and IL-17 into KO1 mice.
+METHODS: KO1.TNFα(-/-) and KO1.IL-17(-/-) mice were established by crossing KO1 
+with TNFα-deficient and IL-17-deficient B6 mice, respectively. The incidence and 
+severity of RA, cartilage and bone destruction, immunological abnormalities, and 
+transcription levels of receptor activator of NF-κB ligand 
+(RANKL)/osteoprotegerin (OPG) and inflammatory cytokines/chemokines in ankle 
+joints were compared among KO1, KO1.TNFα(-/-), and KO1.IL-17(-/-) mice.
+RESULTS: The development of RA was completely inhibited in KO1.TNFα(-/-) mice. 
+In contrast, KO1.IL-17(-/-) mice unexpectedly developed severe RA comparable to 
+KO1. Compared with those in KO1 and KO1.IL-17(-/-) mice, frequencies of 
+peripheral monocytes, known to be containing osteoclast precursors, were 
+significantly decreased in KO1.TNFα(-/-) mice. Intriguingly, while RANKL 
+expression levels in ankle joints did not differ among the three strains, OPG 
+expression levels were drastically decreased in arthritis-prone, but not 
+arthritis-free, mice. The expression levels of inflammatory 
+cytokines/chemokines, such as MCP-1, IL-6, and TNFα, were up-regulated in 
+arthritis-prone mice.
+CONCLUSION: TNFα is indispensable while IL-17 is dispensable in the pathogenesis 
+of RA in KO1 mice. In this model, TNFα may contribute to the development of 
+arthritis, through mediating the increase in frequencies of osteoclast 
+precursors in circulation and their migration into the joints, and the decrease 
+in OPG expression, leading to the up-regulated osteoclastogenesis associated 
+with severe cartilage and bone destruction.

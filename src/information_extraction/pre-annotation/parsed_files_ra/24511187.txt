@@ -1,0 +1,26 @@
+BACKGROUND: Rheumatoid arthritis (RA) is a systemic autoimmune disorder that 
+involves inflammation and pain of the joints. Light-Emitting Diode (LED) 
+irradiation is being evaluated for treating RA; however, the mechanism is 
+unclear. Monocyte chemotaxis protein (MCP)-1 is a key chemokine in the 
+inflammatory status of RA, and MCP-1 levels in plasma are described as a marker 
+for joint inflammation in RA.
+AIM: To understand the mechanism of the anti-inflammatory effect of LED 
+irradiation on RA, the expression of MCP-1 was examined in the knee joints of 
+collagen-induced arthritis (CIA) rats.
+MATERIALS AND METHODS: The rats were immunized with type II collagen and CIA 
+development was confirmed. CIA rat joints were irradiated with LED energy (3 
+sessions/week, 2 weeks. 840 nm, 2 J/cm(2)). Total RNA was isolated from the rat 
+knee joint tissues and the MCP-1 mRNA levels were monitored with the reverse 
+transcription polymerase chain reaction (RT-PCR) technique and real-time PCR. 
+MCP-1 production in the rat knee joints was analyzed immunohistochemically.
+RESULTS: RT-PCR analysis demonstrated that MCP-1 mRNA levels had increased in 
+CIA animals when compared to controls, and LED irradiation significant reduced 
+the gene expression in CIA rats. Real-time PCR analysis confirmed a significant 
+reduction in MCP-1 gene expression. The immunohistochemical analysis 
+demonstrated strong MCP-1 staining in CIA rat joint synovial membrane tissue, 
+and LED irradiation significantly reduced the staining.
+DISCUSSION: Since MCP-1 has been identified as an important chemokine in the 
+pathogenesis of RA, the reduction of MCP-1 expression would appear to be one of 
+the mechanisms in the reduction of inflammation by LED irradiation.
+CONCLUSION: LED irradiation reduced RA-related inflammation through the 
+reduction of MCP-1 gene expression in CIA rat knee joint synovial tissue.

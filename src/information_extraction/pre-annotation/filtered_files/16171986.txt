@@ -1,0 +1,14 @@
+Rodent models of rheumatoid arthritis (RA) are useful tools to study the 
+pathogenic process of RA. Among the most widely used models of RA are the 
+streptococcal cell wall (SCW) arthritis model and the collagen-induced arthritis 
+(CIA). Both innate and adaptive immune mechanisms are involved in these rodent 
+models. While no models perfectly duplicate the condition of human RA, they are 
+easily reproducible, well defined and have proven useful for development of new 
+therapies for arthritis, as exemplified by cytokine blockade therapies. Besides 
+SCW and CIA models, there are numerous others including transgenic models such 
+as K/BxN, induced models such as adjuvant-induced and pristane models, and 
+spontaneous models in certain mouse strains, that have been used to help 
+understand some of the underlying mechanisms. This review provides an update and 
+analysis of RA models in mice and rats. The array of models has provided 
+rheumatologists and immunologists a means to understand the multifactorial 
+disease in humans, to identify new drug targets, and to test new therapies.

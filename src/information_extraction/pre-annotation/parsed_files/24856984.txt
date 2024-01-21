@@ -1,0 +1,22 @@
+Clostridium difficile is a spore-forming, toxin-producing, anaerobic bacterium 
+that colonizes the human gastrointestinal tract. This pathogen causes 
+antibiotic-associated diarrhea and colitis in animals and humans. 
+Antibiotic-associated diseases may be treated with probiotics, and interest is 
+increasing in such uses of probiotics. This study investigated the effect of 
+Lactobacillus strains on the quorum-sensing signals and toxin production of C. 
+difficile. In addition, an in vivo experiment was designed to assess whether 
+Lactobacillus acidophilus GP1B is able to control C. difficile-associated 
+disease. Autoinducer-2 activity was measured for C. difficile using the Vibrio 
+harveyi coupled bioluminescent assay. Cell extract (10μg/mL) of L. acidophilus 
+GP1B exhibited the highest inhibitory activity among 5 to 40μg/mL cell-extract 
+concentrations. Real-time PCR data indicated decreased transcriptional levels in 
+luxS, tcdA, tcdB, and txeR genes in the presence of 10μg/mL of cell extract of 
+L. acidophilus GP1B. Survival rates at 5d for mice given the pathogen alone with 
+L. acidophilus GP1B cell extract or L. acidophilus GP1B were 10, 70, and 80%, 
+respectively. In addition, the lactic acid-produced L. acidophilus GP1B exhibits 
+an inhibitory effect against the growth of C. difficile. Both the L. acidophilus 
+GP1B and GP1B cell extract have significant antipathogenic effects on C. 
+difficile.
+
+Copyright © 2014 American Dairy Science Association. Published by Elsevier Inc. 
+All rights reserved.

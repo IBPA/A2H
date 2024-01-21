@@ -1,0 +1,23 @@
+The receptor binding domains of the most potent mucosal adjuvants, bacterial 
+toxins and plant lectins, are organized in repeat units to recognize specific 
+sugar residues. The lectin-like structure of the C-terminal region of 
+Clostridium difficile toxin A prompted us to investigate the mucosal adjuvant 
+properties of a nontoxigenic peptide corresponding to amino acids 2394 to 2706 
+(TxA(C314)). We compared TxA(C314) adjuvant activity to those of cholera toxin 
+(CT) and Escherichia coli heat-labile enterotoxin subunit B (EtxB) 
+coadministered orally or nasotracheally with poor peptide antigens (keyhole 
+limpet hemocyanin [KLH] and hen egg lysozyme [HEL]). Levels of anti-KLH-specific 
+serum immunoglobulin G (IgG) and IgA as well as that of mucosal IgA were 
+significantly higher in animals immunized orally with TxA(C314) plus KLH than 
+with KLH alone, CT plus KLH, or EtxB plus KLH. Following intranasal immunization 
+with TxA(C314) plus HEL, levels of serum- and mucosa-specific antibodies were 
+comparable to those induced by coadministering HEL with CT or EtxB. The 
+TxA(C314) adjuvant effect following oral, but not intranasal, immunization was 
+dose dependent. The analysis of the subclasses of anti-KLH-specific IgG isotypes 
+and the cytokines released from splenocytes of immunized mice challenged in 
+vitro with KLH indicates the induction of a mixed Th1/Th2-type immune response, 
+with prevalence of the Th1 branch. We conclude that TxA(C314) enhances immune 
+responses against mucosa-coadministered foreign antigens and represents a 
+promising mucosal adjuvant, especially because its ability to stimulate mixed 
+Th1/Th2 responses with a strong a Th1 component is extremely worthwhile against 
+intracellular pathogens.

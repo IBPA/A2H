@@ -1,0 +1,14 @@
+Unlike the native protein, a nontoxic peptide (repeating unit of the native 
+toxin designated rARU) from Clostridium difficile toxin A (CDTA) afforded an 
+antigen that could be bound covalently to the surface polysaccharides of 
+pneumococcus type 14, Shigella flexneri type 2a, and Escherichia coli K1. The 
+yields of these polysaccharide-protein conjugates were significantly increased 
+by prior treatment of rARU with succinic anhydride. Conjugates, prepared with 
+rARU or succinylated (rARUsucc), were administered to mice by a clinically 
+relevant dosage and immunization scheme. All conjugates elicited high levels of 
+serum immunoglobulin G both to the polysaccharides and to CDTA. 
+Conjugate-induced anti-CDTA had neutralizing activity in vitro and protected 
+mice challenged with CDTA, similar to the rARU alone. Conjugates prepared with 
+succinylated rARU, therefore, have potential for serving both as effective 
+carrier proteins for polysaccharides and for preventing enteric disease caused 
+by C. difficile.

@@ -1,0 +1,22 @@
+The current treatment paradigm in Clostridium difficile infection is the 
+administration of antibiotics contributing to the high rates of recurrent 
+infections. Recent alternative strategies, such as fecal microbiome 
+transplantation and anti-toxin antibodies, have shown similar efficacy in the 
+treatment of C. difficile associated disease (CDAD). However, barriers exist for 
+either treatment or other novel treatments to displace antibiotics as the 
+standard of care. To aid in the comparison of these and future treatments in 
+CDAD, we developed an in silico pipeline to predict clinical efficacy with 
+nonclinical results. The pipeline combines an ordinary differential equation 
+(ODE)-based model, describing the immunological and microbial interactions in 
+the gastrointestinal (GI) mucosa, with machine learning algorithms to translate 
+simulated output quantities (i.e. time of clearance, quantity of commensal 
+bacteria, T cell ratios) into clinical predictions based on prior preclinical, 
+translational and clinical trial data. As a use case, we compare the efficacy of 
+lanthionine synthetase C-like 2 (LANCL2), a novel immunoregulatory target with 
+promising efficacy in inflammatory bowel disease (IBD), activation with 
+antibiotics, fecal microbiome transplantation and anti-toxin antibodies in the 
+treatment of CDAD. We further validate the potential of LANCL2 pathway 
+activation, in a mouse model of C. difficile infection in which it displays an 
+ability to decrease weight loss and inflammatory cell types while protecting 
+against mortality. The computational pipeline can serve as an important resource 
+in the development of new treatment modalities.

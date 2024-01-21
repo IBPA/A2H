@@ -1,0 +1,18 @@
+MicroRNA-21 (miR-21) is overexpressed in patients with rheumatoid arthritis 
+(RA). This study was designed to investigate the effect and mechanism of miR-21 
+on cell proliferation in fibroblast-like synoviocytes (FLS) of RA. FLS were 
+primary-cultured from a rat RA model. RA-FLS and normal FLS were infected with 
+lentivirus (anti-miR-21 or pro-miR-21) for overexpression or downregulation of 
+miR-21, respectively. The effects of miR-21 overexpression or inhibition on 
+nucleoprotein NF-κB levels and FLS cell proliferation were evaluated by western 
+blotting and MTT assays. The effects of an inhibitor of NF-κB nuclear 
+translocation (BAY 11-7082) were also evaluated. The results showed that the 
+levels of miR-21 and nucleoprotein NF-κB were increased in FLS of RA model rats 
+compared to the control group. Downregulation of miR-21 in RA FLS led to a 
+significant decrease in nucleoprotein NF-κB levels and cell proliferation rates 
+compared to the antinegative control (NC) group. However, miR-21 overexpression 
+in normal FLS resulted in a significant increase of nucleoprotein NF-κB levels 
+and cell proliferation rates compared to the pro-NC group. The effects of miR-21 
+overexpression were reversed by BAY 11-7082. We concluded that upregulated 
+miR-21 in FLS in RA model rats may promote cell proliferation by facilitating 
+NF-κB nuclear translocation, thus affecting the NF-κB pathway.

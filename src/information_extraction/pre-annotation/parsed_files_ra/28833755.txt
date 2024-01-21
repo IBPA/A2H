@@ -1,0 +1,26 @@
+Tacrolimus is an immunosuppressive drug that inhibits the release of 
+inflammatory cytokines involved in rheumatoid arthritis development by blocking 
+T cell activation. "Endoplasmic reticulum stress," an imbalance between protein 
+folding load and capacity leading to the accumulation of unfolded proteins in 
+the endoplasmic reticulum lumen, has been implicated in rheumatoid arthritis and 
+other inflammatory and metabolic diseases. We aimed to investigate the effect of 
+tacrolimus on endoplasmic reticulum stress-mediated osteoclastogenesis and 
+inflammation and elucidate the underlying mechanisms. In vitro studies were 
+performed using mouse bone marrow cells that were cultured with or without 
+interleukin-1β, thapsigargin, or tacrolimus to induce osteoclast 
+differentiation. A mouse model of arthritis was established by immunizing mice 
+with bovine type II collagen. Tacrolimus was orally administered to mice from 
+day 20 to 45 following the initial immunization, and histopathological changes 
+and expression of specific biomarkers of endoplasmic reticulum stress-mediated 
+inflammatory signaling pathways were examined. In vitro, tacrolimus inhibited 
+receptor activator of nuclear factor-κB ligand-mediated osteoclast formation 
+augmented by interleukin-1β, thapsigargin, or both. Furthermore, tacrolimus 
+inhibited glucose-regulated protein (GRP78), protein kinase R-like endoplasmic 
+reticulum kinase, inositol-requiring enzyme 1 (IRE 1), and activating 
+transcription factor 6 (ATF6) augmented by interleukin-1β, thapsigargin, or 
+both. Tacrolimus significantly ameliorated osteolysis and endoplasmic reticulum 
+stress intensity in mice. Simultaneously, it reduced inflammatory cell 
+infiltration, osteoclastogenesis, and inflammatory responses by inhibiting 
+GRP78, IRE 1, and ATF6. These findings suggest that tacrolimus exhibits an 
+anti-inflammation effect in rheumatoid arthritis and might inhibit joint damage 
+progression by inhibiting endoplasmic reticulum stress.

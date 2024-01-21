@@ -1,0 +1,33 @@
+INTRODUCTION: Detection of (subclinical) synovitis is relevant for both early 
+diagnosis and monitoring of therapy of rheumatoid arthritis (RA). Previously, 
+the potential of imaging (sub)clinical arthritis was demonstrated by targeting 
+the translocator protein in activated macrophages using (R)-[11C]PK11195 and 
+positron emission tomography (PET). Images, however, also showed significant 
+peri-articular background activity. The folate receptor (FR)-β is a potential 
+alternative target for imaging activated macrophages. Therefore, the PET tracer 
+[18F]fluoro-PEG-folate was synthesized and evaluated in both in vitro and ex 
+vivo studies using a methylated BSA induced arthritis model.
+METHODS: [18F]fluoro-PEG-folate was synthesized in a two-step procedure. 
+Relative binding affinities of non-radioactive fluoro-PEG-folate, folic acid and 
+naturally circulating 5-methyltetrahydrofolate (5-Me-THF) to FR were determined 
+using KB cells with high expression of FR. Both in vivo [18F]fluoro-PEG-folate 
+PET and ex vivo tissue distribution studies were performed in arthritic and 
+normal rats and results were compared with those of the established macrophage 
+tracer (R)-[11C]PK11195.
+RESULTS: [18F]fluoro-PEG-folate was synthesized with a purity >97%, a yield of 
+300 to 1,700 MBq and a specific activity between 40 and 70 GBq/µmol. Relative in 
+vitro binding affinity for FR of F-PEG-folate was 1.8-fold lower than that of 
+folic acid, but 3-fold higher than that of 5-Me-THF. In the rat model, 
+[18F]fluoro-PEG-folate uptake in arthritic knees was increased compared with 
+both contralateral knees and knees of normal rats. Uptake in arthritic knees 
+could be blocked by an excess of glucosamine-folate, consistent with 
+[18F]fluoro-PEG-folate being specifically bound to FR. Arthritic knee-to-bone 
+and arthritic knee-to-blood ratios of [18F]fluoro-PEG-folate were increased 
+compared with those of (R)-[11C]PK11195. Reduction of 5-Me-THF levels in rat 
+plasma to those mimicking human levels increased absolute [18F]fluoro-PEG-folate 
+uptake in arthritic joints, but without improving target-to-background ratios.
+CONCLUSIONS: The novel PET tracer [18F]fluoro-PEG-folate, designed to target FR 
+on activated macrophages provided improved contrast in a rat model of arthritis 
+compared with the accepted macrophage tracer (R)-[11C]PK11195. These results 
+warrant further exploration of [18F]fluoro-PEG-folate as a putative PET tracer 
+for imaging (sub)clinical arthritis in RA patients.

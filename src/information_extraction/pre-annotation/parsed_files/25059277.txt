@@ -1,0 +1,21 @@
+The protective effect of a multi-strain probiotic and synbiotic formulation was 
+evaluated in C57BL/6 mice infected with Clostridium difficile (CD) NAP1/027. 
+Antibiotic-treated mice were divided into the following four groups: Group 1, 
+fed with a synbiotic formulation consisting of Lactobacillus plantarum F44, L. 
+paracasei F8, Bifidobacterium breve 46, B. lactis 8:8, galacto-oligosaccharides, 
+isomalto-oligosaccharides, and resistant starch; Group 2, fed with the same four 
+probiotic strains as Group 1; Group 3, fed with the same prebiotic supplements 
+as Group 1 for 7 days before CD infection; and Group 4 (control group) 
+antibiotic treated and infected with NAP1/027 strain. Feces and cecal contents 
+were collected for microbial cell viability, quantitative PCR (qPCR), toxin 
+analyses and histopathology. Synbiotics- and probiotics-fed mice showed a 
+significant increase in total bifidobacteria (P < 0.05). The total lactobacilli 
+count was increased in Group 1. Tests for cecal toxins were negative in Group 2 
+mice, whereas one sample each from Group 1 and 3 was positive. qPCR of cecal 
+contents showed significant reduction in NAP1/027 DNA copies in Groups 1 and 2 
+and significantly higher numbers of B. breve 46, L. plantarum F44, and L. 
+paracasei F8 in Groups 1 and 2 (P < 0.05); these changes were much less 
+pronounced in Groups 3 and 4. Our findings indicate that the newly developed 
+synbiotic or multi-strain probiotic formulation confers protection against 
+NAP1/027 infection in C57BL/6 mice. This holds promise for performing human 
+studies.

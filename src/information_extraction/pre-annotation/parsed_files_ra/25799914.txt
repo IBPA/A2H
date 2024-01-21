@@ -1,0 +1,25 @@
+BACKGROUND AND PURPOSE: Pro-inflammatory cytokines are important in rheumatoid 
+arthritis (RA) and their production is mainly regulated by NF-κB and 
+inflammasomes. Carboxyamidotriazole (CAI) exhibits potent anti-inflammatory 
+activities by decreasing cytokines. Here, we have investigated NACHT, LRR and 
+PYD domains-containing protein (NALP) inflammasomes in a rat model of RA and 
+explored the therapeutic effects of CAI in this model and the involvement of 
+NF-κB and inflammasomes in the actions of CAI.
+EXPERIMENTAL APPROACH: The anti-arthritic effects of CAI were assessed in the 
+adjuvant arthritis (AA) model in rats, using radiological and histological 
+techniques. NALP1 and NALP3 inflammasomes, NF-κB pathway and pro-inflammatory 
+cytokines levels were measured with Western blots, immunohistochemistry and 
+ELISA.
+KEY RESULTS: CAI decreased the arthritis index, improved radiological and 
+histological changes, and reduced synovial IL-1β, IL-6, IL-18 and TNF-α levels 
+in rats with AA. Compared with normal rats, the 70 kDa NALP1 isoform was 
+up-regulated, NALP3 was down-regulated, and levels of the 165 kDa NALP1 isoform 
+and the adaptor protein ASC were unchanged in synovial tissue from AA rats. CAI 
+reduced the 70 kDa NALP1 isoform and restored NALP3 levels in AA rats; CAI 
+inhibited caspase-1 activation in AA synovial tissue, but not its enzymic 
+activity in vitro. In addition, CAI reduced expression of p65 NF-κB subunit and 
+IκBα phosphorylation and degradation in AA rats.
+CONCLUSION AND IMPLICATIONS: NALP1 inflammasomes were activated in synovial 
+tissues from AA rats and appeared to be a novel therapeutic target for RA. CAI 
+could have therapeutic value in RA by inhibiting activation of NF-κB and NALP1 
+inflammasomes and by decreasing pro-inflammatory cytokines.

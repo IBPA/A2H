@@ -1,0 +1,27 @@
+INTRODUCTION: Osteoclastogenesis plays an important role in the bone erosion of 
+rheumatoid arthritis (RA). Recently, Notch receptors have been implicated in the 
+development of osteoclasts. However, the responsible Notch ligands have not been 
+identified yet. This study was undertaken to determine the role of individual 
+Notch receptors and ligands in osteoclastogenesis.
+METHODS: Mouse bone marrow-derived macrophages or human peripheral blood 
+monocytes were used as osteoclast precursors and cultured with receptor 
+activator of nuclear factor-kappaB ligand (RANKL) and macrophage-colony 
+stimulating factor (M-CSF) to induce osteoclasts. Osteoclasts were detected by 
+tartrate-resistant acid phosphatase (TRAP) staining. K/BxN serum-induced 
+arthritic mice and ovariectomized mice were treated with anti-mouse Delta-like 1 
+(Dll1) blocking monoclonal antibody (mAb).
+RESULTS: Blockade of a Notch ligand Dll1 with mAb inhibited osteoclastogenesis 
+and, conversely, immobilized Dll1-Fc fusion protein enhanced it in both mice and 
+humans. In contrast, blockade of a Notch ligand Jagged1 enhanced 
+osteoclastogenesis and immobilized Jagged1-Fc suppressed it. Enhancement of 
+osteoclastogenesis by agonistic anti-Notch2 mAb suggested that Dll1 promoted 
+osteoclastogenesis via Notch2, while suppression by agonistic anti-Notch1 mAb 
+suggested that Jagged1 suppressed osteoclastogenesis via Notch1. Inhibition of 
+Notch signaling by a gamma-secretase inhibitor suppressed osteoclastogenesis, 
+implying that Notch2/Dll1-mediated enhancement was dominant. Actually, blockade 
+of Dll1 ameliorated arthritis induced by K/BxN serum transfer, reduced the 
+number of osteoclasts in the affected joints and suppressed ovariectomy-induced 
+bone loss.
+CONCLUSIONS: The differential regulation of osteoclastogenesis by Notch2/Dll1 
+and Notch1/Jagged1 axes may be a novel target for amelioration of bone erosion 
+in RA patients.

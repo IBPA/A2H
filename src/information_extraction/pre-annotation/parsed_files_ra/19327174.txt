@@ -1,0 +1,26 @@
+INTRODUCTION: The objective of this study was to determine the 
+anti-inflammatory, nociceptive, and antiarthritic effects of piperine, the 
+active phenolic component in black pepper extract.
+METHODS: The in vitro anti-inflammatory activity of piperine was tested on 
+interleukin 1beta (IL1beta)-stimulated fibroblast-like synoviocytes derived form 
+patients with rheumatoid arthritis. The levels of IL6, matrix metalloproteinase 
+(MMPs), cyclo-oxygenase 2 (COX-2), and prostaglandin E2 (PGE2) were investigated 
+by ELISA and RT-PCR analysis. The analgesic and antiarthritic activities of 
+piperine were investigated on rat models of carrageenan-induced acute paw pain 
+and arthritis. The former were evaluated with a paw pressure test, and the 
+latter by measuring the squeaking score, paw volume, and weight distribution 
+ratio. Piperine was administrated orally to rats at 20 and 100 mg/kg/day for 8 
+days.
+RESULTS: Piperine inhibited the expression of IL6 and MMP13 and reduced the 
+production of PGE2 in a dose dependant manner at concentrations of 10 to 100 
+microg/ml. In particular, the production of PGE2 was significantly inhibited 
+even at 10 microg/ml of piperine. Piperine inhibited the migration of activator 
+protein 1 (AP-1), but not nuclear factor (NF)kappaB, into the nucleus in 
+IL1beta-treated synoviocytes. In rats, piperine significantly reduced 
+nociceptive and arthritic symptoms at days 8 and 4, respectively. Histological 
+staining showed that piperine significantly reduced the inflammatory area in the 
+ankle joints.
+CONCLUSIONS: These results suggest that piperine has anti-inflammatory, 
+antinociceptive, and antiarthritic effects in an arthritis animal model. Thus, 
+piperine should be further studied with regard to use either as a pharmaceutical 
+or as a dietary supplement for the treatment of arthritis.

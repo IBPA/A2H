@@ -1,0 +1,24 @@
+When functioning properly, the intestine is one of the key interfaces between 
+the human body and its environment. It is responsible for extracting nutrients 
+from our food and excreting our waste products. It provides an environment for a 
+host of healthful microbes and serves as a first defense against pathogenic 
+ones. These processes require tight homeostatic controls, which are provided by 
+the interactions of a complex mix of epithelial, stromal, neural and immune 
+cells, as well as the resident microflora. This homeostasis can be disrupted by 
+invasive microbes, genetic lesions, and carcinogens, resulting in diseases such 
+Clostridium difficile infection, inflammatory bowel disease (IBD) and cancer. 
+Enormous strides have been made in understanding how this important organ 
+functions in health and disease using everything from cell culture systems to 
+animal models to human tissue samples. This has resulted in better therapies for 
+all of these diseases, but there is still significant room for improvement. In 
+the United States alone, 14,000 people per year die of C. difficile, up to 1.6 
+million people suffer from IBD, and more than 50,000 people die every year from 
+colon cancer. Because these and other intestinal diseases arise from complex 
+interactions between the different components of the gut ecosystem, we propose 
+that systems approaches that address this complexity in an integrative manner 
+may eventually lead to improved therapeutics that deliver lasting cures. This 
+review will discuss the use of systems biology for studying intestinal diseases 
+in vivo with particular emphasis on mouse models. Additionally, it will focus on 
+established experimental techniques that have been used to drive this 
+systems-level analysis, and emerging techniques that will push this field 
+forward in the future.

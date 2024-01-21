@@ -1,0 +1,24 @@
+Interleukin (IL)-17 predominately produced by the Th17 cells, plays a crucial 
+role in the fibroblast-like synoviocytes (FLS) mediated disease process of 
+rheumatoid arthritis (RA). IL-17 exerts its pathogenic effects in RA-FLS by 
+IL-17/IL-17RA/STAT-3 signaling. Recent studies have shown that RA-FLS produces 
+SHP-2, Cyr61, IL-23, GM-CSF and RANKL which results in worsening of the disease. 
+However, whether IL-17/IL-17RA/STAT-3 signaling regulates SHP-2, Cyr61, IL-23, 
+GM-CSF and RANKL expressions in RA-FLS remains unknown. In this study, IL-17 
+treatment dramatically induced the production of Cyr61, IL-23 and GM-CSF in FLS 
+isolated from adjuvant induced arthritis (AA) rats. Conversely, IL-17 mediated 
+production of Cyr61, IL-23 and GM-CSF was abrogated by knockdown of IL-17RA 
+using a small interfering RNA or blockade of STAT-3 activation with S3I-201 in 
+AA-FLS. Interestingly, IL-17 treatment noticeably increased the expression of 
+IL-17RA and SHP-2 in AA-FLS. However, silencing of IL-17RA reversed the effect 
+of IL-17 on the expression of IL-17RA and SHP-2 in AA-FLS. In addition, an 
+increased number of TRAP-positive multinucleated cells were observed in a 
+coculture system consisting of IL-17 treated AA-FLS and rat bone marrow derived 
+monocytes/macrophages. Further, mechanistically we found that IL-17 upregulated 
+RANKL expression in AA-FLS that was dependent on the IL-17/IL-17RA/STAT-3 
+signaling cascade. Knockdown of IL-17RA or inhibition of STAT-3 activation 
+decreased the IL- 17 induced RANKL expression by AA-FLS and their 
+osteoclastogenic potential. Taken together, our findings demonstrate that IL-17 
+regulates SHP-2 expression and IL-17RA/STAT-3 dependent production of Cyr61, 
+IL-23, GM-CSF and RANKL in AA-FLS and may reveal a new insight into the 
+pathogenesis of RA.

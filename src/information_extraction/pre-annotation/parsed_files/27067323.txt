@@ -1,0 +1,25 @@
+Antibiotic resistance in medically relevant bacterial pathogens, coupled with a 
+paucity of novel antimicrobial discoveries, represents a pressing global crisis. 
+Traditional drug discovery is an inefficient and costly process; however, 
+systematic screening of Food and Drug Administration (FDA)-approved therapeutics 
+for other indications in humans offers a rapid alternative approach. In this 
+study, we screened a library of 780 FDA-approved drugs to identify molecules 
+that rendered RAW 264.7 murine macrophages resistant to cytotoxicity induced by 
+the highly virulent Yersinia pestis CO92 strain. Of these compounds, we 
+identified 94 not classified as antibiotics as being effective at preventing Y. 
+pestis-induced cytotoxicity. A total of 17 prioritized drugs, based on efficacy 
+in in vitro screens, were chosen for further evaluation in a murine model of 
+pneumonic plague to delineate if in vitro efficacy could be translated in vivo 
+Three drugs, doxapram (DXP), amoxapine (AXPN), and trifluoperazine (TFP), 
+increased animal survivability despite not exhibiting any direct bacteriostatic 
+or bactericidal effect on Y. pestis and having no modulating effect on crucial 
+Y. pestis virulence factors. These findings suggested that DXP, AXPN, and TFP 
+may modulate host cell pathways necessary for disease pathogenesis. Finally, to 
+further assess the broad applicability of drugs identified from in vitro 
+screens, the therapeutic potential of TFP, the most efficacious drug in vivo, 
+was evaluated in murine models of Salmonella enterica serovar Typhimurium and 
+Clostridium difficile infections. In both models, TFP treatment resulted in 
+increased survivability of infected animals. Taken together, these results 
+demonstrate the broad applicability and potential use of nonantibiotic 
+FDA-approved drugs to combat respiratory and gastrointestinal bacterial 
+pathogens.

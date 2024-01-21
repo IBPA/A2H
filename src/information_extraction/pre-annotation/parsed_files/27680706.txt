@@ -1,0 +1,13 @@
+Clostridium difficile toxin B (TcdB) is a critical virulence factor that causes 
+diseases associated with C. difficile infection. Here we carried out 
+CRISPR-Cas9-mediated genome-wide screens and identified the members of the Wnt 
+receptor frizzled family (FZDs) as TcdB receptors. TcdB binds to the conserved 
+Wnt-binding site known as the cysteine-rich domain (CRD), with the highest 
+affinity towards FZD1, 2 and 7. TcdB competes with Wnt for binding to FZDs, and 
+its binding blocks Wnt signalling. FZD1/2/7 triple-knockout cells are highly 
+resistant to TcdB, and recombinant FZD2-CRD prevented TcdB binding to the 
+colonic epithelium. Colonic organoids cultured from FZD7-knockout mice, combined 
+with knockdown of FZD1 and 2, showed increased resistance to TcdB. The colonic 
+epithelium in FZD7-knockout mice was less susceptible to TcdB-induced tissue 
+damage in vivo. These findings establish FZDs as physiologically relevant 
+receptors for TcdB in the colonic epithelium.

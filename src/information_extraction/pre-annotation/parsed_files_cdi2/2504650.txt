@@ -1,0 +1,21 @@
+The most striking effect of Clostridium difficile infection is its degrading of 
+the intestinal barrier. The aim of this study is to establish whether the 
+cellular or paracellular constituent of the barrier is the initial target of the 
+toxins produced by C difficile. Accordingly, the caecal epithelium of C3H/He 
+mice was challenged under three experimental conditions with the C difficile 
+strain VPI 10463: (1) by in vivo inoculation of axenic mice, (2) by adding the 
+toxins to ligated caeca in vivo, and (3) by adding them to the mucosal side of 
+isolated caeca in Ussing chambers. Under all three conditions, the epithelial 
+barrier was tested in caeca mounted in these chambers. The transepithelial 
+potential difference (PD), electrical conductance (G), and intact and degraded 
+Horseradish peroxidase (HRP) fluxes were used as indexes of permeability. 
+Results were as follows: (1) In axenic mice, C difficile caused severe 
+infection, produced toxins A and B, reduced PD, and enhanced G and intact HRP 
+fluxes without changing degraded HRP fluxes, (2) four hours after the toxins 
+were added to ligated caeca in vivo, PD was relatively unaltered, but G, and 
+intact and degraded HRP fluxes increased, and (3) when toxins were added to 
+caeca during two hours in the Ussing chambers, the only modification observed 
+was an increase in degraded-HRP fluxes. These results indicate that the C 
+difficile toxins gradually cause intestinal lesions. After an apparent 
+resistance, they stimulate the endocytotic process and then increase 
+paracellular permeability and finally cause loss of cell viability.

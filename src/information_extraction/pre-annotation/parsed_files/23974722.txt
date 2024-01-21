@@ -1,0 +1,19 @@
+A lipoteichoic acid has recently been shown to be conserved in the majority of 
+strains from Clostridium difficile and as such is being considered as a possible 
+vaccine antigen. In this study we examine the candidacy of the conserved 
+lipoteichoic acid by demonstrating that it is possible to elicit antibodies 
+against C. difficile strains following immunisation of rabbits and mice with 
+glycoconjugates elaborating the conserved lipoteichoic acid antigen. The present 
+study describes a conjugation strategy that utilises an amino functionality, 
+present at approximately 33 % substitution of the N-acetyl-glucosamine residues 
+within the LTA polymer repeating unit, as the attachment point for conjugation. 
+A maleimide-thiol linker strategy with the maleimide linker on the carboxyl 
+residues of the carrier protein and the thiol linker on the carbohydrate was 
+employed. Immunisation derived antisera from rabbits and mice, recognised all 
+strains of C. difficile vegetative cells examined, despite an immune response to 
+the linkers also being observed. These sera recognised live cells in an 
+immunofluorescence assay and were also able to recognise the spore form of the 
+bacterium. This study has illustrated that the LTA polymer is a highly conserved 
+surface polymer of C. difficile that is easily accessible to the immune system 
+and as such merits consideration as a vaccine antigen to combat C. difficile 
+infection.

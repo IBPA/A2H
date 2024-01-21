@@ -1,0 +1,19 @@
+BACKGROUND: Clostridium difficile infection (CDI) can cause a wide range of 
+disease, from mild diarrhea to fulminant systemic disease. The incidence of 
+systemic CDI with fatal consequence has increased rapidly in recent years.
+METHODS: Using an ultrasensitive cytotoxicity assay, we measured C. difficile 
+toxin A (TcdA) and C. difficile toxin B (TcdB) in sera and body fluids of 
+piglets and mice exposed to C. difficile to investigate the relationship between 
+the presence of toxins in body fluids and systemic manifestations of CDI.
+RESULTS: We found that both TcdA and TcdB disseminate systemically, with toxins 
+present in the sera and body fluids of infected animals, and toxemia is 
+significantly correlated with the development of systemic CDI. The systemic 
+administration of neutralizing antibodies against both toxins blocked the 
+development of systemic disease in mice. We measured cytokine concentrations in 
+the sera of mice and piglets with systemic and nonsystemic CDI and found that 
+proinflammatory mediators were considerably elevated in animals with systemic 
+CDI.
+CONCLUSION: Our study demonstrates the existence of a strong correlation between 
+toxemia and the occurrence of systemic disease, supporting the hypothesis that 
+systemic CDI is most likely due to the toxicity of TcdA and TcdB and the 
+induction of proinflammatory cytokines by the toxins.

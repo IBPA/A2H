@@ -1,0 +1,22 @@
+Effective treatment of rheumatoid arthritis can be mediated by native chicken 
+type II collagen (nCCII), recombinant peptide containing nCCII tolerogenic 
+epitopes (CTEs), or a therapeutic DNA vaccine encoding the full-length CCOL2A1 
+cDNA. As recombinant CCII (rCCII) might avoid potential pathogenic virus 
+contamination during nCCII preparation or chromosomal integration and oncogene 
+activation associated with DNA vaccines, here we evaluated the importance of 
+propeptide and telopeptide domains on rCCII triple helix molecular assembly. We 
+constructed pC- and pN-procollagen (without N- or C-propeptides, respectively) 
+as well as CTEs located in the triple helical domain lacking both propeptides 
+and telopeptides, and expressed these in yeast Pichia pastoris host strain GS115 
+(his4, Mut+) simultaneously with recombinant chicken prolyl-4-hydroxylase α and 
+β subunits. Both pC- and pN-procollagen monomers accumulated inside P. pastoris 
+cells, whereas CTE was assembled into homotrimers with stable conformation and 
+secreted into the supernatants, suggesting that the large molecular weight pC-or 
+pN-procollagens were retained within the endoplasmic reticulum whereas the 
+smaller CTEs proceeded through the secretory pathway. Furthermore, resulting 
+recombinant chicken type II collagen pCα1(II) can induced collagen-induced 
+arthritis (CIA) rat model, which seems to be as effective as the current 
+standard nCCII. Notably, protease digestion assays showed that rCCII could 
+assemble in the absence of C- and N-propeptides or telopeptides. These findings 
+provide new insights into the minimal structural requirements for rCCII 
+expression and folding.

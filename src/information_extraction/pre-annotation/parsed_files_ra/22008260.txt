@@ -1,0 +1,22 @@
+Progranulin (PGRN) is abundantly expressed in epithelial cells, immune cells, 
+neurons, and chondrocytes, and reportedly contributes to tumorigenesis. PGRN is 
+a crucial mediator of wound healing and tissue repair. PGRN also functions as a 
+neurotrophic factor and mutations in the PGRN gene resulting in partial loss of 
+the PGRN protein cause frontotemporal dementia. PGRN has been found to be a 
+novel chondrogenic growth factor and to play an important role in cartilage 
+development and inflammatory arthritis. Although research has shown that PGRN 
+exhibits anti-inflammatory properties, the details about the exact molecular 
+pathway of such effects, and, in particular, the PGRN binding receptor, have not 
+been identified so far. Recently, researchers have shown that PGRN binds to 
+tumor necrosis factor (TNF)-receptors (TNFR), interfering with the interaction 
+between TNFα and TNFR. They further demonstrated that mice deficient in PGRN are 
+susceptible to collagen-induced arthritis, an experimental model of rheumatoid 
+arthritis, and that administration of PGRN reversed the arthritic process. An 
+engineered protein made of three PGRN fragments (Atsttrin), displayed selective 
+TNFR binding and was more active than natural PGRN. Both PGRN and Atsttrin 
+prevented inflammation in various arthritis mouse models and inhibited 
+TNFα-induced intracellular signaling pathways. Thus, PGRN is a key regulator of 
+inflammation and it may mediate its anti-inflammatory effects, at least in part, 
+by blocking TNF binding to its receptors. As we discuss here, TNFR-based 
+interventions may both stimulate and suppress the growth of cancer cells, and 
+the same may be true in analogy for Atsttrin as a new player.

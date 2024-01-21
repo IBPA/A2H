@@ -1,0 +1,24 @@
+Clostridium difficile is the bacterial pathogen identified as the cause of 
+pseudomembranous colitis and is principally responsible for nosocomial 
+antibiotic-associated diarrhea and colitis. The pathologic findings associated 
+with this infection are believed to be caused by two large (approximately 
+300-kDa) exotoxins, toxins A and B. Because of the mucosal nature of this 
+infection, vaccination strategies aimed at providing prophylactic or therapeutic 
+immune protection have included immunization by mucosal routes. Using the 
+hamster model of C. difficile infection, we examined the protective efficacy of 
+inactivated toxin (toxoid) vaccine formulations prepared as either culture 
+filtrate or partially purified toxoid. We compared combination parenteral and 
+mucosal vaccination regimens involving intranasal, intragastric, or rectal 
+routes of immunization and found that rectal immunization in conjunction with 
+intramuscular (i.m.) vaccination provided full protection of hamsters from death 
+and diarrhea while the other mucosal routes did not. Protection was associated 
+with high levels of toxin-neutralizing antibodies in serum. The requirement for 
+adjuvants for protection was assessed by using sequential i.m. and rectal or 
+i.m. vaccination regimens. Unexpectedly, i.m. immunization without adjuvant 
+conferred the highest protection from death and diarrhea; this regimen elicited 
+the highest serum anti-toxin B titers as well as toxin B neutralizing titers. 
+Passive transfer of mouse antitoxin antibodies protected hamsters in a 
+dose-dependent manner, demonstrating the principal role of circulating antitoxin 
+antibodies in immunity from this toxin-mediated mucosal disease. These results 
+suggest that prophylactic parenteral vaccination or intravenous immunotherapy 
+could provide protection from C. difficile disease in humans.

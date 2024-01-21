@@ -1,0 +1,11 @@
+Structure-activity relationship (SAR) studies on a highly potent series of 
+arylamide FMS inhibitors were carried out with the aim of improving FMS kinase 
+selectivity, particularly over KIT. Potent compound 17r (FMS IC50 0.7 nM, FMS 
+cell IC50 6.1 nM) was discovered that had good PK properties and a greater than 
+fivefold improvement in selectivity for FMS over KIT kinase in a cellular assay 
+relative to the previously reported clinical candidate 4. This improved 
+selectivity was manifested in vivo by no observed decrease in circulating 
+reticulocytes, a measure of bone safety, at the highest studied dose. Compound 
+17r was highly active in a mouse pharmacodynamic model and demonstrated 
+disease-modifying effects in a dose-dependent manner in a strep cell 
+wall-induced arthritis model of rheumatoid arthritis in rats.

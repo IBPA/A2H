@@ -1,0 +1,14 @@
+The proinflammatory cytokine IL-18 mediates IFN-gamma production as well as the 
+induction of Th1 polarized immune responses in synergy with IL-12. In this 
+study, we describe the production of isogeneic monoclonal antibodies (Mabs) 
+directed against murine IL-18 (mIL-18). Immunization of IL-18-deficient mice 
+with recombinant mIL-18 in the presence of CpG-oligodeoxynucleotides (CpG-ODN) 
+and alum as adjuvant resulted in high anti-IL-18 serum titers. We could identify 
+two Mabs, SK721-2 and SK113AE-4, which were able to bind to IL-18 and neutralize 
+its IFN-gamma inducing effect in vitro with an IC(50) of 40-100 ng/ml. In vivo, 
+LPS-induced IFN-gamma production was reduced by 60-85% following a single 
+administration of Mabs SK113AE-4 or SK721-2. Since IL-18 is likely to be 
+involved in the pathogenesis of inflammatory diseases such as rheumatoid 
+arthritis or Crohn's disease, neutralizing mouse anti-mouse IL-18 Mabs have the 
+potential to become valuable tools for the therapeutic exploration of long-term 
+IL-18 blockade in vivo.

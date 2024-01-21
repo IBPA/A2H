@@ -1,0 +1,7 @@
+Fluoroquinolone treatments induce dysbiosis of the intestinal microbiota, 
+resulting in loss of resistance to colonization by exogenous bacteria such as 
+Clostridioides difficile that may cause severe diarrhea in humans and lethal 
+infection in hamsters. We show here that DAV131A, a charcoal-based adsorbent, 
+decreases the intestinal levels of the fluoroquinolone antibiotics levofloxacin 
+and ciprofloxacin in hamsters, protects their intestinal microbiota, and 
+prevents lethal infection by C. difficile.

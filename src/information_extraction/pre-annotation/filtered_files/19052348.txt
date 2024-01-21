@@ -1,0 +1,16 @@
+Rheumatoid arthritis is a disease associated with painful joints that affects 
+approximately 1% of the population worldwide, and for which no effective cure is 
+available. It is characterized by chronic joint inflammation and variable 
+degrees of bone and cartilage erosion. Oxygen metabolism has an important role 
+in the pathogenesis of rheumatoid arthritis. Reactive oxygen species (ROS) are 
+produced in many normal and abnormal processes in humans, including atheroma, 
+asthma, joint diseases, aging, and cancer. TNF-alpha overproduction is thought 
+to be the main contributor to increased ROS release in patients with RA. 
+Increased ROS production leads to tissue damage associated with inflammation. 
+The prevailing hypothesis that ROS promote inflammation was recently challenged 
+when polymorphisms in Neutrophil cytosolic factor 1(Ncf1), that decrease 
+oxidative burst, were shown to increase disease severity in mouse and rat 
+arthritis models. It has been shown that oxygen radicals might also be important 
+in controlling disease severity and reducing joint inflammation and connective 
+tissue damage. In this review article, our aim is to clarify the role of ROS in 
+immunopathogenesis of Rheumatoid arthritis.

@@ -1,0 +1,24 @@
+BACKGROUND: In the context of preclinical development, we studied the potential 
+of intra-articular gene delivery using a recombinant adeno-associated virus 5 
+(rAAV5) encoding a chimeric human tumour necrosis factoralpha (TNFalpha) soluble 
+receptor I linked to a mouse immunoglobulin heavy chain Fc portion (TNF receptor 
+I; TNFRI-Ig).
+METHODS: Expression was under control of a nuclear factor kappa B 
+(NFkappaB)-responsive promoter and compared with a cytomegalovirus (CMV) 
+promoter (rAAV5.NFkappaB-TNFRI-Ig and rAAV5.CMV-TNFRI-Ig, respectively).
+RESULTS: Fibroblast-like synoviocytes transduced in vitro with 
+rAAV5.NFkappaB-TNFRI-Ig were able to produce TNFRI-Ig protein in response to 
+several stimuli, and this was inhibited upon treatment with a specific NFkappaB 
+blocking agent. A bioassay revealed that the synthesised TNFRI-Ig was bioactive, 
+showing a higher affinity for human than for rat TNFalpha. Transcription of the 
+transgene and protein production were detectable in joints injected with both 
+constructs. No dissemination of the vector was observed outside the joints. A 
+significant reduction in paw swelling was seen in rats treated with 
+rAAV5.NFkappaB-TNFRI-Ig. This clinical effect was accompanied by a decrease in 
+pro-inflammatory cytokine levels and an increase in IL10 expression in the 
+synovium.
+CONCLUSION: These results provide evidence that intra-articular gene therapy 
+using rAAV5 encoding TNFRI-Ig may be a safe and feasible approach for the 
+treatment of rheumatoid arthritis. The higher affinity for human TNFalpha 
+suggests that in patients with rheumatoid arthritis the therapeutic effect might 
+be even more pronounced than in rat adjuvant arthritis.

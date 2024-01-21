@@ -1,0 +1,22 @@
+A series of natural compounds have been implicated to be useful in regulating 
+the pathogenesis of various autoimmune diseases. The present study demonstrated 
+that the Scutellariae radix compounds baicalein and baicalin may serve as drugs 
+for the treatment of autoimmune diseases, including rheumatoid arthritis and 
+inflammatory bowel disease. Following the administration of baicalein and 
+baicalin in vivo, T cell‑mediated autoimmune diseases in the mouse model were 
+profoundly ameliorated: In the collagen‑induced arthritis model (CIA), the 
+severity of the disease was reduced by baicalein and, consistently, baicalein 
+was demonstrated to suppress T cell proliferation in CIA mice. In the dextran 
+sodium sulfate (DSS)‑induced colitis model, the disease was attenuated by 
+baicalin, and baicalin promoted colon epithelial cell (CEC) proliferation 
+in vitro. The present study further revealed that the mRNA expression of signal 
+transducer and activator of transcription (STAT)3 and STAT4 in the 
+tyrosine‑protein kinase JAK‑STAT signaling pathway in T cells was downregulated 
+by baicalein, contributing to its regulation of T cell proliferation. However, 
+in the DSS model, the STAT4 transcription in CECs, which are the target cells of 
+activated T cells in the gut, was downregulated by baicalin, suggesting that 
+baicalein and baicalin mediated similar STAT expression in different cell types 
+in autoimmune diseases. In conclusion, the similarly structured compounds 
+baicalein and baicalin selectively exhibited therapeutic effects on autoimmune 
+diseases by regulating cell proliferation and STAT gene expression, albeit in 
+different cell types.

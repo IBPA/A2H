@@ -1,0 +1,12 @@
+Toxin A, a 308,000-Mr enterotoxin from Clostridium difficile, mediates 
+antibiotic-associated diarrhea and colitis in humans. Injection of toxin A into 
+animal intestine triggers an acute inflammatory response characterized by 
+activation of sensory neurons and immune cells of the intestinal lamina propria, 
+including mast cells and macrophages, and migration of circulating neutrophils 
+in the involved intestinal segment. In this study we show that mice genetically 
+deficient in the neurokinin-1 receptor are protected from the secretory and 
+inflammatory changes as well as from epithelial cell damage induced by toxin A. 
+The protective effect of neurokinin-1R deletion correlates with diminished 
+intestinal levels of the cytokine TNF-alpha and its mRNA and the leukocyte 
+enzyme myeloperoxidase. These results demonstrate a major requirement for 
+substance P receptors in the pathogenesis of acute inflammatory diarrhea.

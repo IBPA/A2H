@@ -1,0 +1,45 @@
+Clostridium difficile infection (CDI) has been identified as the leading cause 
+of nosocomial diarrhoea and pseudomembranous colitis associated with antibiotic 
+therapy. Recent epidemiological changes as well as increases in the number of 
+outbreaks of strains associated with increased virulence and higher mortality 
+rates underscore the importance of identifying alternatives to antibiotics to 
+manage this important disease. Animal studies have clearly demonstrated the 
+roles that toxins A and B play in gut inflammation as well as diarrhoea; 
+therefore it is not surprising that serum anti-toxin A and B IgG are associated 
+with protection against recurrent CDI. In humans, strong humoral toxin-specific 
+immune responses elicited by natural C. difficile infection is associated with 
+recovery and lack of disease recurrence, whereas insufficient humoral responses 
+are associated with recurrent CDI. The first generation of C. difficile vaccine 
+that contained inactivated toxin A and B was found to be completely protective 
+against death and diarrhoea in the hamster C. difficile challenge model. When 
+tested in young healthy volunteers in Phase I clinical trials, this 
+investigational vaccine was shown to be safe and immunogenic. Moreover, in a 
+separate study this vaccine was able to prevent further relapses in three out of 
+three patients who had previously suffered from chronic relapsing C. 
+difficile-associated diarrhoea. Herein we examined the immunogenicity and 
+protective activity of a next-generation Sanofi Pasteur two-component highly 
+purified toxoid vaccine in a C. difficile hamster model. This model is widely 
+recognized as a stringent and relevant choice for the evaluation of novel 
+treatment strategies against C. difficile and was used in preclinical testing of 
+the first-generation vaccine candidate. Intramuscular (i.m.) immunizations with 
+increasing doses of this adjuvanted toxoid vaccine protected hamsters from 
+mortality and disease symptoms in a dose-dependent manner. ELISA measurements of 
+pre-challenge sera showed that the median anti-toxin A and anti-toxin B IgG 
+titres in the group of surviving animals were significantly higher than the 
+median values in the group of animals that did not survive challenge. Assessment 
+of the neutralizing activity of these sera revealed a statistically significant 
+difference between the levels of both toxin A and toxin B neutralizing titres in 
+protected versus unprotected animals as the median anti-toxin A and anti-toxin B 
+neutralizing titres from surviving animals were higher than the median values 
+from animals that succumbed to challenge. Statistically significant correlations 
+between the toxin-specific binding titres and toxin neutralizing titres were 
+seen for both toxin A and toxin B responses. The role of circulating anti-toxin 
+antibodies in immunity against disease was evaluated by passive transfer of 
+immune sera against C. difficile toxoids to naïve hamsters. Passively immunized 
+animals were protected against morbidity and mortality associated with C. 
+difficile challenge. Taken together, these results indicate the ability of i.m. 
+immunization with inactivated toxins A and B to induce robust dose-dependent 
+anti-toxin A and anti-toxin B IgG responses, the principal role of circulating 
+anti-toxin antibody in immunity against disease and that antibody toxin binding 
+and neutralization titres can serve as correlates of protection in the hamster 
+challenge model of C. difficile.

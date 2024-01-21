@@ -1,0 +1,26 @@
+Treatment with helminthes and helminthes ova improved the clinical symptoms of 
+several autoimmune diseases in patients and in animal models. Phosphorylcholine 
+(PC) proved to be the immunomodulatory molecule. We aimed to decipher the 
+tolerogenic potential of tuftsin-PC (TPC), a novel helminth-based compound in 
+collagen-induced arthritis (CIA) a mouse model of rheumatoid arthritis (RA). CIA 
+DBA/1 mice were treated with TPC subcutaneously (5 µg/0.1 ml) or orally (250 
+µg/0.1 ml), starting prior to disease induction. The control groups were treated 
+with PBS. Collagen antibodies were tested by enzyme-linked immunosorbent assay 
+(ELISA), cytokine protein levels by ELISA kits and regulatory T (Treg ) and 
+regulatory B (Breg ) cell phenotypes by fluorescence-activated cell sorter 
+(FACS). TPC-treated mice had a significantly lower arthritis score of 1.5 in 
+comparison with control mice 11.8 (P < 0.0001) in both subcutaneous and orally 
+treated groups at day 31. Moreover, histology analysis demonstrated highly 
+inflamed joints in control mice, whereas TPC-treated mice maintained normal 
+joint structure. Furthermore, TPC decreased the titres of circulating collagen 
+II antibodies in mice sera (P < 0.0001), enhanced expression of IL-10 
+(P < 0.0001) and inhibited production of tumour necrosis factor (TNF)-α, 
+interleukin (IL)-17 and IL-1β (P < 0.0001). TPC significantly expanded the 
+CD4(+) CD25(+) forkhead box protein 3 (FoxP3(+) ) Treg cells and CD19(+) 
+IL-10(+) CD5(high) CD1d(high) T cell immunoglobulin mucin-1 (TIM-1(+) ) Breg 
+cell phenotypes (P < 0.0001) in treated mice. Our data indicate that treatment 
+with TPC attenuates CIA in mice demonstrated by low arthritic score and normal 
+joints histology. TPC treatment reduced proinflammatory cytokines and increased 
+anti-inflammatory cytokine expression, as well as expansion of Treg and Breg 
+cells. Our results may lead to a new approach for a natural therapy for early 
+rheumatoid arthritis onset.

@@ -1,0 +1,18 @@
+DNA methylation is a decisive regulator of gene expression. Differentially 
+methylated promoters were described in rheumatoid arthritis (RA), but we do not 
+know how these epimutations can trigger a proinflammatory cytokine milieu. B 
+cell-focused DNA methylome studies identified a group of genes that had 
+undergone disease-associated changes in a murine model of RA. An 
+arthritis-specific epimutation (hypomethylation) was detected in the promoter 
+region of the Zbtb38 gene, which encodes a transcriptional repressor. Gene 
+expression studies revealed that hypomethylation of the Zbtb38 promoter was 
+accompanied by disease-specific repressor expression, and two anti-inflammatory 
+factors interleukin 1 receptor 2 gene (IL1r2) and interleukin-1 receptor 
+antagonist (IL1rn) were among the downregulated genes. We hypothesized that 
+Zbtb38 repressor could induce downregulated expression of these 
+anti-inflammatory genes and that this could significantly contribute to 
+arthritis pathogenesis. Our studies demonstrate that Zbtb38 forms a molecular 
+bridge between an arthritis-associated epimutation (DNA hypomethylation in 
+Zbtb38 promoter) and transcriptional silencing of the IL1r2 gene in B cells. In 
+this way, disease-associated DNA hypomethylation can support autoimmune 
+arthritis by interfering with an anti-inflammatory pathway.

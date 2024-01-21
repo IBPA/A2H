@@ -1,0 +1,19 @@
+The K/BxN mouse is a spontaneous model of arthritis driven by T cell receptor 
+transgenic CD4+ T cells from the KRN strain that are activated by 
+glucose-6-phosphate isomerase (GPI) peptides presented by the H-2g7 allele from 
+the NOD strain. It is a model of autoimmune seropositive arthritis because the 
+production of anti-GPI IgG is necessary and sufficient for joint pathology. The 
+production of high levels of anti-GPI IgG requires on the expansion of CD4+ 
+follicular helper T (Tfh) cells. The metabolic requirements of this expansion 
+have never been characterized. Based on the therapeutic effects of the 
+combination of metformin and 2-deoxyglucose (2DG) in lupus models that 
+normalized the expansion of effector CD4+ T cells. We showed that the CD4+ T 
+cells and to a lesser extent, the B cells from K/BxN mice are more metabolically 
+active than the KRN controls. Accordingly, preventive inhibition of glycolysis 
+with 2DG significantly reduced joint inflammation and the activation of both 
+adaptive and innate immune cells, as well as the production of pathogenic 
+autoantibodies. However, contrary to the lupus-prone mice, the addition of 
+metformin had little beneficial effect, suggesting that glycolysis is the major 
+driver of immune activation in this model. We propose that K/BxN mice are 
+another model in which autoreactive Tfh cells are highly glycolytic and that 
+their function can be limited by inhibiting glucose metabolism.

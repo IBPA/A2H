@@ -1,0 +1,19 @@
+Interleukin 6 is an immune regulatory cytokine that impacts the development and 
+maturation of T-cell, B-cell, and antibody producing plasma cells. A monoclonal 
+antibody to the IL-6R (Tocilizumab®) was recently approved by the FDA for 
+treatment of rheumatoid arthritis. Although anti-IL-6R anitbodies can reduce 
+autoantibody levels in human disease, the use of anti-IL-6R for alloantibody 
+suppression has not been examined. Here, we report on our experience with a 
+mousenized rat-anti-mouse IL-6R (mMR16-1) for attenuating donor-specific 
+antibody (DSA) responses. C57BL/6 mice were sensitized with skin allografts from 
+a HLA.A2 transgenic mouse, and treated with intraperitoneal injections of 
+mMR16-1 or control antibody. DSA responses were monitored weekly for 5weeks by 
+measurement of serum anti-HLA.A2 antibodies in a flow cytometric antibody 
+binding assay. Results show that mMR16-1 significantly reduced DSA IgM, IgG2a 
+and IgG1 responses, respectively, while normalizing serum amyloid A (SAA), an 
+acute phase reactant induced by IL-6 (p<0.01 vs. control). mMR16-1 injections 
+increased mononuclear cell apoptosis in the spleens, as detected by annexin V 
+staining and TUNEL. In conclusion, anti-IL6R attenuates de novo DSA responses 
+and suppresses inflammatory markers (SAA). The data indicate that antibody 
+therapy targeting the IL-6/IL-6R pathway may serve as a strategy to suppress DSA 
+generation.

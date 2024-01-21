@@ -1,0 +1,15 @@
+Tolerogenic dendritic cells (tolDCs) are a promising therapeutic tool to restore 
+immune tolerance in autoimmune diseases. The rationale of using tolDCs is that 
+they can specifically target the pathogenic T-cell response while leaving other, 
+protective, T-cell responses intact. Several ways of generating therapeutic 
+tolDCs have been described, but whether these tolDCs should be loaded with 
+autoantigen(s), and if so, with which autoantigen(s), remains unclear. 
+Autoimmune diseases, such as rheumatoid arthritis, are not commonly defined by a 
+single, universal, autoantigen. A possible solution is to use surrogate 
+autoantigens for loading of tolDCs. We propose that heat-shock proteins may be a 
+relevant surrogate antigen, as they are evolutionarily conserved between 
+species, ubiquitously expressed in inflamed tissues and have been shown to 
+induce regulatory T cells, ameliorating disease in various arthritis mouse 
+models. In this review, we provide an overview on how immune tolerance may be 
+restored by tolDCs, the problem of selecting relevant autoantigens for loading 
+of tolDCs, and why heat-shock proteins could be used as surrogate autoantigens.

@@ -1,0 +1,50 @@
+Extracellular matrix (ECM) adhesion molecules consist of a complex network of 
+fibronectins, collagens, chondroitins, laminins, glycoproteins, heparin sulfate, 
+tenascins, and proteoglycans that surround connective tissue cells, and they are 
+mainly secreted by fibroblasts, chondroblasts, and osteoblasts (1). Cell 
+substrate adhesion molecules are considered essential regulators of cell 
+migration, differentiation, and tissue integrity and remodeling. These molecules 
+play a role in inflammation and atherogenesis, but they also participate in the 
+process of invasion and metastasis of malignant cells in the host tissue (2). 
+Tumor cells adhere to the ECM, which provides a matrix environment for 
+permeation of tumor cells through the basal lamina and underlying interstitial 
+stroma of the connective tissue. Overexpression of matrix metalloproteinases 
+(MMPs) and other proteases by tumor cells allows intravasation of tumor cells 
+into the circulatory system after degrading the basement membrane and ECM (3). 
+Several families of MMPs are involved in atherogenesis, myocardial infarction, 
+angiogenesis, and tumor invasion and metastases (4-7). MMP expression is highly 
+regulated in normal cells, such as trophoblasts, osteoclasts, neutrophils, and 
+macrophages. Elevated levels of MMPs have been found in tumors associated with a 
+poor prognosis for cancer patients (8). There are four members of endogenous 
+tissue inhibitors of metalloproteinases (TIMPs), which regulate the activity of 
+MMPs leading to inhibition of tumor growth and metastasis (9, 10). TIMP-2 
+(TIMP2) is a bifunctional inhibitor of angiogenesis by inhibition of proteinase 
+activity of MMPs and endothelial cell proliferation via binding to α3β1 (the 
+N-terminal domain) and by MMP-independent anti-angiogenic activity (the 
+C-terminal domain) (11, 12). Kang et al. (13) fused the N-terminal domain of 
+TIMP2 to the C-terminus of human serum albumin (HSA) to form HSA/TIMP2 fusion 
+protein (HSA-TIMP2), which is readily secreted by the transfected yeast 
+Saccharomyces cerevisiae. HSA-TIMP2 retains its anti-angiogenic activity at the 
+C-terminal domain with little MMP inhibitory activity at the N-terminal domain. 
+Lee et al. (14) have evaluated Cy5.5-HSA/TIMP2 (Cy5.5-HSA-TIMP2) for in vivo 
+near-infrared (NIR) fluorescence imaging of rat prostate MLL tumors in nude mice 
+showing maximum tumor accumulation at 2 d after injection. Integrins are a 
+family of heterodimeric glycoproteins on cell surfaces that mediate diverse 
+biological events involving cell–cell and cell–matrix interactions (15). 
+Integrins consist of an α and a β subunit and are important for cell adhesion 
+and signal transduction. The αvβ3 integrin is the most prominent receptor 
+affecting tumor growth, tumor invasiveness, metastasis, tumor-induced 
+angiogenesis, inflammation, osteoporosis, and rheumatoid arthritis (16-21). 
+Expression of the αvβ3 integrin is strong on tumor cells and activated 
+endothelial cells, whereas expression is weak on resting endothelial cells and 
+most normal tissues. The peptide sequence Arg-Gly-Asp (RGD) has been identified 
+as a recognition motif used by extracellular matrix proteins (vitronectin, 
+fibrinogen, laminin, and collagen) to bind to a variety of integrins, including 
+αvβ3. The αvβ3 antagonists are being studied as anti-tumor and anti-angiogenic 
+agents (18, 22, 23). Various radiolabeled RGD peptides (antagonists) have been 
+introduced for imaging of tumors and tumor angiogenesis (24). Choi et al. (25) 
+conjugated multiple c(RGDfK) peptides to HSA-TIMP2 to enhance the binding 
+capacity of the protein (RGD-HSA-TIMP2) to tumors and their vasculatures. 
+68Ga-NOTA-RGD-HSA-TIMP2 and 68Ga-NOTA-HSA-TIMP2 have been studied as potential 
+positron emission tomography (PET) probes for imaging αvβ3 integrin receptors in 
+nude mice bearing human glioblastoma U87MG tumors.

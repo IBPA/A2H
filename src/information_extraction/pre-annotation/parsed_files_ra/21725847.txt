@@ -1,0 +1,15 @@
+Toll-like receptors (TLRs) have been found to contribute to the pathogenesis of 
+rheumatoid arthritis (RA). The aim of this study is to investigate the 
+regulation and potential role of TLR2 in spleen of pristane-induced arthritis 
+(PIA) rat, which can be used to further understand the mechanisms of RA. 
+Arthritis in DA rats was induced by pristane. TLR2 expression in spleen was 
+detected by real-time quantitative PCR and western blotting, and TLR2 expression 
+at both mRNA and protein levels was upregulated in PIA rats. Peptidoglycan (PGN) 
+was systemically administrated to PIA rats, and arthritis severity was evaluated 
+macroscopically and microscopically. Results showed that systemic administration 
+of PGN to PIA rats obviously deteriorated arthritis severity. TLR2 expression on 
+splenocytes and different types of immune cells was measured by flow cytometry. 
+And it was found that TLR2 was mainly expressed on antigen-presenting cells 
+(APCs) of spleen, and the proportion of TLR2(+) dendritic cells and macrophages 
+in spleen of PIA rats was increased remarkably. Thus, we conclude that the 
+induction of TLR2(+) APCs in spleen may participate in the maintenance of PIA.

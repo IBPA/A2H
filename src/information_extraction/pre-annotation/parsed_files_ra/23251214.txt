@@ -1,0 +1,16 @@
+Rheumatoid arthritis (RA) is a polygenic autoimmune disease primarily affecting 
+the synovial joints. Numerous animal models show similarities to RA in humans; 
+some of them not only mimic the clinical phenotypes but also demonstrate the 
+involvement of homologous genomic regions in RA. This paper compares 
+corresponding non-MHC genomic regions identified in rodent and human genome-wide 
+association studies (GWAS). To date, over 30 non-MHC RA-associated loci have 
+been identified in humans, and over 100 arthritis-associated loci have been 
+identified in rodent models of RA. The genomic regions associated with the 
+disease are designated by the name(s) of the gene having the most frequent and 
+consistent RA-associated SNPs or a function suggesting their involvement in 
+inflammatory or autoimmune processes. Animal studies on rats and mice 
+preferentially have used single sequence length polymorphism (SSLP) markers to 
+identify disease-associated qualitative and quantitative trait loci (QTLs) in 
+the genome of F2 hybrids of arthritis-susceptible and arthritis-resistant rodent 
+strains. Mouse GWAS appear to be far ahead of rat studies, and significantly 
+more mouse QTLs correspond to human RA risk alleles.

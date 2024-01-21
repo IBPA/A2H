@@ -1,0 +1,24 @@
+OBJECTIVE: Anti-Fas monoclonal antibodies (Mab) are considered to be a potential 
+therapeutic agent for rheumatoid arthritis (RA). However, Fas mediated liver and 
+chondrocyte damage is a serious problem in its clinical application. m-HFE7A, a 
+novel anti-Fas Mab, selectively induces apoptosis in inflammatory cells. We 
+succeeded in humanizing m-HFE7A to obtain h-HFE7A. We investigated the 
+therapeutic effects of h-HFE7A Mab in RA.
+METHODS: We investigated the apoptosis-inducing activities of h-HFE7A on human 
+Fas ligand transfected cells and cultured human activated lymphocytes (human 
+peripheral blood mononuclear cells and isolated human RA synovial lymphocytes), 
+synoviocytes, and chondrocytes. We then examined the effects of h-HFE7A Mab in 
+vivo using SCID-HuRAg mice implanted with human RA tissue.
+RESULTS: Administration of h-HFE7A Mab alone did not induce apoptosis in 
+cultured human Fas ligand transfected cells and activated lymphocytes. However, 
+apoptosis-inducing activities were noted by this Mab crosslinking with a 
+secondary antibody or Fcgamma receptor positive cells. In contrast, no apoptosis 
+induction by h-HFE7A was observed on cultured synoviocytes and chondrocytes with 
+or without crosslinking. Thus the crosslinking with Fcgamma receptor positive 
+cells is essential for the efficacy of this Mab in vivo. In the implanted tissue 
+of the SCID-HuRAg mice, the number of inflammatory cells was significantly 
+decreased in the h-HFE7A Mab treated group compared to the IgG treated control 
+group. Moreover, there were only negligible effects in synoviocytes and 
+chondrocytes with the h-HFE7A Mab.
+CONCLUSION: Administration of this novel humanized anti-Fas Mab may provide a 
+new treatment for RA by inducing Fas mediated apoptosis in inflammatory cells.

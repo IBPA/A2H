@@ -1,0 +1,30 @@
+The aim of the present study was to investigate the expression pattern of T 
+helper (Th) 17 and Th22 cell-related factors in a pristane‑induced arthritis 
+(PIA) rat model. PIA rats were divided into the initial phase group [day (D) 6 
+post‑pristane injection], the onset of clinical arthritis group (D12), the acute 
+arthritis group (D26) and the chronic arthritis group (D70). Rats injected with 
+saline alone were used as the control group. The mRNA expression levels of 
+interleukin (IL)‑17A, IL‑17F, interferon (IFN)‑γ, IL‑22, IL‑22 receptor (R) 1, 
+IL‑22 binding protein (BP) and RAR‑related orphan receptor α were examined in 
+the spleen and/or synovium of the various phases of PIA rats by reverse 
+transcription‑quantitative polymerase chain reaction analysis. The results 
+demonstrated that, in the spleen, IL‑22 exhibited an increasing trend in both 
+the initial phase and the onset of disease, while the ratio of IL‑22R1/IL‑22BP 
+increased in both phases, compared with the control group. During the acute 
+arthritis phase, IL‑17F and IFN‑γ were significantly increased and IL‑17A 
+exhibited an increasing tendency in the synovium, compared with the control 
+group. In the chronic phase, IL‑22, IL‑22R1 and IFN‑γ were increased in the 
+spleen, while IL‑22 exhibited an increasing trend in the synovium. In addition, 
+immunohistochemistry analysis was used to evaluate the expression of IL‑17A, 
+IL‑21, IL‑22 and IL‑22R1 in the ankle joints of D26 PIA rats. IL‑17A was mainly 
+expressed in infiltrated inflammatory cells in the synovium. IL‑21 and IL‑22 
+were both expressed in the inflammatory cells and in the articular chondrocyte 
+of the proliferative zone. IL‑22R1 was expressed in proliferating synovial 
+cells. In conclusion, Th17 and Th22‑related factor expression varied in 
+different disease progression phases and in different tissues in PIA rats. IL‑22 
+expression exhibited an increasing trend in the initial phase and the onset 
+phase of arthritis and increased significantly with progression to chronic 
+arthritis in the PIA rat model. It is thought that IL‑22 may serve an important 
+role in the pathological process of PIA, particularly in the chronic fluctuation 
+phase. Therefore, it may be a candidate molecule for the treatment of rheumatoid 
+arthritis.

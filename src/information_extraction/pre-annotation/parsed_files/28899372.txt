@@ -1,0 +1,17 @@
+BACKGROUND: Bacillus subtilis spores can be used for presentation of 
+heterologous proteins. Two main approaches have been developed, the recombinant 
+one, requiring modification of bacterial genome to express a protein of interest 
+as a fusion with spore-coat protein, and non-recombinant, based on the 
+adsorption of a heterologous protein onto the spore. So far only single proteins 
+have been displayed on the spore surface.
+RESULTS: We have used a combined approach to adsorb and display FliD protein of 
+Clostridium difficile on the surface of recombinant IL-2-presenting spores. Such 
+spores presented FliD protein with efficiency comparable to FliD-adsorbed spores 
+produced by wild-type 168 strain and elicited FliD-specific immune response in 
+intranasally immunized mice.
+CONCLUSIONS: Our results indicate that such dual display technology may be 
+useful in creation of spores simultaneously presenting adjuvant and antigen 
+molecules. Regarding the characteristics of elicited immune response it seems 
+plausible that such recombinant IL-2-presenting spores with adsorbed FliD 
+protein might be an interesting candidate for vaccine against infections with 
+Clostridium difficile.

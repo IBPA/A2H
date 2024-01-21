@@ -1,0 +1,25 @@
+Clostridium difficile infections are associated with the use of broad-spectrum 
+antibiotics and result in an exuberant inflammatory response, leading to 
+nosocomial diarrhea, colitis and even death. To better understand the dynamics 
+of mucosal immunity during C. difficile infection from initiation through 
+expansion to resolution, we built a computational model of the mucosal immune 
+response to the bacterium. The model was calibrated using data from a mouse 
+model of C. difficile infection. The model demonstrates a crucial role of T 
+helper 17 (Th17) effector responses in the colonic lamina propria and luminal 
+commensal bacteria populations in the clearance of C. difficile and colonic 
+pathology, whereas regulatory T (Treg) cells responses are associated with the 
+recovery phase. In addition, the production of anti-microbial peptides by 
+inflamed epithelial cells and activated neutrophils in response to C. difficile 
+infection inhibit the re-growth of beneficial commensal bacterial species. 
+Computational simulations suggest that the removal of neutrophil and epithelial 
+cell derived anti-microbial inhibitions, separately and together, on commensal 
+bacterial regrowth promote recovery and minimize colonic inflammatory pathology. 
+Simulation results predict a decrease in colonic inflammatory markers, such as 
+neutrophilic influx and Th17 cells in the colonic lamina propria, and length of 
+infection with accelerated commensal bacteria re-growth through altered 
+anti-microbial inhibition. Computational modeling provides novel insights on the 
+therapeutic value of repopulating the colonic microbiome and inducing regulatory 
+mucosal immune responses during C. difficile infection. Thus, modeling mucosal 
+immunity-gut microbiota interactions has the potential to guide the development 
+of targeted fecal transplantation therapies in the context of precision medicine 
+interventions.

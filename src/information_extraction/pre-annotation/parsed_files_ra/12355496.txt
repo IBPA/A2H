@@ -1,0 +1,26 @@
+OBJECTIVE: To determine if the new, orally active C5a receptor antagonist, the 
+cyclic peptide AcF-[OPdChaWR], reduces the severity of pathology in a rat model 
+of immune-mediated monarticular arthritis.
+METHODS: Arthritis was induced in the right knee of previously sensitized rats 
+by the intraarticular injection of methylated bovine serum albumin. Rats were 
+examined for either 14 days or 28 days, or for 49 days following a second 
+antigen challenge at 28 days. The C5a antagonist (1 or 3 mg/kg/day) and/or 
+ibuprofen (30 mg/kg/day) were administered orally on a daily basis either before 
+or after arthritis induction.
+RESULTS: Rats receiving AcF-[OPdChaWR] had significant reductions in right knee 
+swelling, gait disturbance, lavaged joint cell numbers, and right knee 
+histopathology, as well as in serum levels of tumor necrosis factor alpha 
+(TNFalpha) and intraarticular levels of interleukin-6 and TNFalpha on day 14. In 
+the 14- and 28-day studies, ibuprofen resulted in a similar reduction in gait 
+abnormalities and intraarticular inflammatory cells compared with the C5a 
+antagonist, but was less effective in reducing knee swelling over the course of 
+the study and had no effect on knee histopathology. Combination therapy with 
+AcF-[OPdChaWR] and ibuprofen resulted in no greater efficacy than with the C5a 
+antagonist alone. Rats injected twice with the antigen in the 49-day study 
+displayed the most severe histopathology and this, as well as knee swelling and 
+gait abnormalities, was significantly reduced by repeated treatment with the C5a 
+antagonist.
+CONCLUSION: An agent that inhibits the action of C5a in this model significantly 
+reduced joint pathology, while ibuprofen was not effective. C5a antagonists 
+could therefore have broader therapeutic benefits than nonsteroidal 
+antiinflammatory drugs as antiarthritic agents for rheumatoid arthritis.

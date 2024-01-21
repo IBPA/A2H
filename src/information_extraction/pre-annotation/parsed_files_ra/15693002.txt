@@ -1,0 +1,26 @@
+OBJECTIVE: Collagen-induced arthritis (CIA) in the rhesus monkey is a nonhuman 
+primate model of rheumatoid arthritis (RA). The close phylogenetic relationship 
+between humans and the rhesus monkey makes this model useful for the preclinical 
+safety and efficacy testing of new therapies that are inactive in animals more 
+distinctly related to humans. In this study, we tested the therapeutic potential 
+of a novel, small molecular weight antagonist of CCR5, SCH-X, in this model.
+METHODS: CIA was induced in 10 rhesus monkeys. The animals were allocated to 
+receive SCH-X or saline as the control (n = 5 in each group). Treatment was 
+initiated on the day of CIA induction and continued for 45 days. Monkeys were 
+monitored before and 63 days after CIA induction for macroscopic signs of 
+clinical arthritis, such as soft-tissue swelling and body weight. Furthermore, 
+markers of inflammation and joint degradation were monitored to follow the 
+disease course.
+RESULTS: Only 2 of 5 animals in the SCH-X-treated group displayed prominent 
+soft-tissue swelling, compared with all 5 saline-treated monkeys. In addition to 
+the suppression of joint inflammation, treatment with SCH-X resulted in a 
+reduction in joint destruction, as demonstrated by lower rates of urinary 
+excretion of collagen crosslinks, with confirmation by histology. Whereas in all 
+saline-treated monkeys, marked erosion of joint cartilage was observed, this was 
+absent in 4 of the 5 SCH-X-treated monkeys.
+CONCLUSION: The systemic effects of treatment with SCH-X were a suppressed 
+acute-phase reaction (reduction in C-reactive protein level) in the 3 treated 
+monkeys with CIA that remained asymptomatic, and an altered antibody response 
+toward type II collagen. The results suggest that the CCR5 antagonist SCH-X 
+might have a strong clinical potential for treatment during periods of active 
+inflammation, as seen in RA.

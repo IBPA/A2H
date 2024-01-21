@@ -1,0 +1,22 @@
+Rheumatoid arthritis (RA) is an autoimmune synovitis characterized by the 
+formation of pannus and the destruction of cartilage and bone in the synovial 
+joints. Although immune cells, which infiltrate the pannus and promote 
+inflammation, play a prominent role in the pathogenesis of RA, other cell types 
+also contribute. Proliferation of synovial fibroblasts, for example, underlies 
+the formation of the pannus, while proliferation of endothelial cells results in 
+neovascularization, which supports the growth of the pannus by supplying it with 
+nutrients and oxygen. The synovial fibroblasts also promote inflammation in the 
+synovium by producing cytokines and chemokines. Finally, osteoclasts cause the 
+destruction of bone. In this study, we show that erlotinib, an inhibitor of the 
+tyrosine kinase epidermal growth factor receptor (EGFR), reduces the severity of 
+established collagen-induced arthritis, a mouse model of RA, and that it does so 
+by targeting synovial fibroblasts, endothelial cells, and osteoclasts. 
+Erlotinib-induced attenuation of autoimmune arthritis was associated with a 
+reduction in number of osteoclasts and blood vessels, and erlotinib inhibited 
+the formation of murine osteoclasts and the proliferation of human endothelial 
+cells in vitro. Erlotinib also inhibited the proliferation and cytokine 
+production of human synovial fibroblasts in vitro. Moreover, EGFR was highly 
+expressed and activated in the synovium of mice with collagen-induced arthritis 
+and patients with RA. Taken together, these findings suggest that EGFR plays a 
+central role in the pathogenesis of RA and that EGFR inhibition may provide 
+benefits in the treatment of RA.

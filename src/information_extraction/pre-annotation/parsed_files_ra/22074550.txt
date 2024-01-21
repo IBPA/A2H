@@ -1,0 +1,21 @@
+BACKGROUND: Ligand-targeted approaches have proven successful in improving the 
+therapeutic index of a number of drugs. We hypothesized that the specific 
+targeting of TNF-alpha antagonists to inflamed tissues could increase drug 
+efficacy and reduce side effects.
+RESULTS: Using uteroglobin (UG), a potent anti-inflammatory protein, as a 
+scaffold, we prepared a bispecific tetravalent molecule consisting of the 
+extracellular ligand-binding portion of the human TNF-alpha receptor P75 
+(TNFRII) and the scFv L19. L19 binds to the ED-B containing fibronectin isoform 
+(B-FN), which is expressed only during angiogenesis processes and during tissue 
+remodeling. B-FN has also been demonstrated in the pannus in rheumatoid 
+arthritis. L19-UG-TNFRII is a stable, soluble homodimeric protein that maintains 
+the activities of both moieties: the immuno-reactivity of L19 and the capability 
+of TNFRII to inhibit TNF-alpha. In vivo bio-distribution studies demonstrated 
+that the molecule selectively accumulated on B-FN containing tissues, showing a 
+very fast clearance from the blood but a very long residence time on B-FN 
+containing tissues. Despite the very fast clearance from the blood, this fusion 
+protein was able to significantly improve the severe symptomatology of arthritis 
+in collagen antibody-induced arthritis (CAIA) mouse model.
+CONCLUSIONS: The recombinant protein described here, able to selectively deliver 
+the TNF-alpha antagonist TNFRII to inflamed tissues, could yield important 
+contributions for the therapy of degenerative inflammatory diseases.

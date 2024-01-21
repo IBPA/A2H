@@ -1,0 +1,47 @@
+BACKGROUND & AIMS: Trehalose is a disaccharide that might be used in the 
+treatment of cardiometabolic diseases. However, trehalose consumption promotes 
+the expansion of Clostridioides difficile ribotypes that metabolize trehalose 
+via trehalose-6-phosphate hydrolase. Furthermore, brush border and renal 
+trehalases can reduce the efficacy of trehalose by cleaving it into 
+monosaccharides. We investigated whether a trehalase-resistant analogue of 
+trehalose (lactotrehalose) has the same metabolic effects of trehalose without 
+expanding C difficile.
+METHODS: We performed studies with HEK293 and Caco2 cells, primary hepatocytes 
+from mice, and human intestinal organoids. Glucose transporters were 
+overexpressed in HEK293 cells, and glucose tra2nsport was quantified. Primary 
+hepatocytes were cultured with or without trehalose or lactotrehalose, and gene 
+expression patterns were analyzed. C57B6/J mice were given oral antibiotics and 
+trehalose or lactotrehalose in drinking water, or only water (control), followed 
+by gavage with the virulent C difficile ribotype 027 (CD027); fecal samples were 
+analyzed for toxins A (ToxA) or B (ToxB) by enzyme-linked immunosorbent assay. 
+Other mice were given trehalose or lactotrehalose in drinking water for 2 days 
+before placement on a chow or 60% fructose diet for 10 days. Liver tissues were 
+collected and analyzed by histologic, serum biochemical, RNA sequencing, 
+autophagic flux, and thermogenesis analyses. We quantified portal trehalose and 
+lactotrehalose bioavailability by gas chromatography mass spectrometry. Fecal 
+microbiomes were analyzed by 16S ribosomal RNA sequencing and principal 
+component analyses.
+RESULTS: Lactotrehalose and trehalose each blocked glucose transport in HEK293 
+cells and induced a gene expression pattern associated with fasting in primary 
+hepatocytes. Compared with mice on the chow diet, mice on the high-fructose diet 
+had increased circulating cholesterol, higher ratios of liver weight-to-body 
+weight, hepatic lipid accumulation (steatosis), and liver gene expression 
+patterns of carbohydrate-responsive de novo lipogenesis. Mice given 
+lactotrehalose while on the high-fructose diet did not develop any of these 
+features and had increased whole-body caloric expenditure compared with mice 
+given trehalose or water and fed a high-fructose diet. Livers from mice given 
+lactotrehalose had increased transcription of genes that regulate mitochondrial 
+energy metabolism compared with liver from mice given trehalose or controls. 
+Lactotrehalose was bioavailable in venous and portal circulation and fecal 
+samples. Lactotrehalose reduced fecal markers of microbial branched-chain amino 
+acid biosynthesis and increased expression of microbial genes that regulate 
+insulin signaling. In mice given antibiotics followed by CD027, neither 
+lactotrehalose nor trehalose increased levels of the bacteria or its toxin in 
+stool-in fact, trehalose reduced the abundance of CD027 in stool. Lactotrehalose 
+and trehalose reduced markers of inflammation in rectal tissue after CD027 
+infection.
+CONCLUSIONS: Lactotrehalose is a trehalase-resistant analogue that increases 
+metabolic parameters, compared with trehalose, without increasing the abundance 
+or virulence of C difficile strain CD027. Trehalase-resistant trehalose 
+analogues might be developed as next-generation fasting-mimetics for the 
+treatment of diabetes and nonalcoholic fatty liver disease.

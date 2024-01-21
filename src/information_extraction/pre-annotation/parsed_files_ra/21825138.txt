@@ -1,0 +1,12 @@
+The contributions of aryl hydrocarbon receptor (Ahr) to the pathogenesis of 
+rheumatoid arthritis have not been elucidated. Here, we show that Ahr deficiency 
+ameliorated collagen-induced arthritis, a mouse model of RA. Collagen-immunized 
+Ahr KO mice showed decreased serum levels of such proinflammatory cytokines as 
+IL-1β and IL-6. The Th17 and Th1 cell populations in lymph nodes from these mice 
+decreased and increased, respectively, whereas the percentage of regulatory T 
+cells was unchanged. Interestingly, a lack of Ahr specifically in T cells 
+significantly suppressed collagen-induced arthritis development, whereas Ahr 
+deficiency in macrophages had no effect. These finding indicate that the 
+development of experimental autoimmune arthritis depends on the presence of Ahr 
+in T cells, and that Th1/Th17 balance may be particularly important for this 
+process.

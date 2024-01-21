@@ -1,0 +1,17 @@
+Citrullinated proteins, derived from the conversion of peptidyl-arginine to 
+peptidyl-citrulline, are present in the joints of patients with rheumatoid 
+arthritis (RA), who also uniquely produce high levels of anti-citrullinated 
+protein Abs. Citrullinated fibrinogen (CF) is abundant in rheumatoid synovial 
+tissue, and anti-citrullinated protein Ab-positive RA patients exhibit 
+circulating immune complexes containing CF. Thus, CF is a potential major target 
+of pathogenic autoimmunity in RA. T cells are believed to be involved in this 
+process by initiating, controlling, and driving Ag-specific immune responses in 
+RA. In this study, we isolated a CD4 T cell line specific for CF that produces 
+inflammatory cytokines. When transferred into mice with collagen-induced 
+arthritis (CIA), this T cell line specifically enhanced the severity of 
+autoimmune arthritis. Additionally, pathogenic IgG2a autoantibody levels to 
+mouse type II collagen were increased in mice that received the T cells in CIA, 
+and levels of these T cells were increased in the synovium, suggesting the T 
+cells may have had systemic effects on the B cell response as well as local 
+effects on the inflammatory environment. This work demonstrates that CD4 T cells 
+specific for CF can amplify disease severity after onset of CIA.

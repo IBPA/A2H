@@ -1,0 +1,27 @@
+Imbalanced functions between osteoclasts and osteoblasts are involved in 
+inflammatory bone damage. The clinical effectiveness of blocking TNF-alpha in 
+treatment of active rheumatoid arthritis established the significance of 
+TNF-alpha in the pathogenesis. In the present study, we investigated the 
+cellular mechanism by which estrogen and glucocorticoid interact in osteoblastic 
+differentiation regulated by BMP and TNF-alpha using mouse myoblastic C2C12 
+cells. The expression of estrogen receptors, (ER)alpha and ERbeta, and 
+glucocorticoid receptor (GCR) was significantly increased by BMP-2 treatment 
+regardless of the presence of estradiol and dexamethasone. Estradiol, but not 
+dexamethasone, enhanced BMP-induced Runx2 and osteocalcin expression in C2C12 
+cells. In addition, TNF-alpha suppressed BMP-2-induced Runx2 and osteocalcin 
+expression, and estradiol and dexamethasone reversed the TNF-alpha effects on 
+BMP-2-induced Runx2 expression. Dexamethasone also abolished osteocalcin 
+expression induced by BMP-2. Interestingly, BMP-2-induced Smad1/5/8 
+phosphorylation and Id-1 promoter activity were enhanced by estradiol 
+pretreatment. On the other hand, dexamethasone suppressed BMP-2-induced 
+Smad1/5/8 activation. TNF-alpha-induced SAPK/JNK activity was suppressed by 
+estradiol, while NFkappaB phosphorylation was inhibited by dexamethasone. Of 
+note, the inhibitory effects of TNF- on BMP-2-induced Runx2 and osteocalcin 
+expression were reversed by SAPK/JNK inhibition regardless of the presence of 
+estradiol. The estradiol effects that enhance BMP-2-induced Runx2 and 
+osteocalcin mRNA expression were restored by antagonizing ER, and moreover, 
+membrane-impermeable estradiol-BSA failed to enhance the BMP-2-induced 
+osteoblastic differentiation. Thus, estrogen and glucocorticoid are functionally 
+involved in the process of osteoblast differentiation regulated by BMPs and 
+TNF-alpha. BMP-2 increases the sensitivities of ERs and GCR, whereas estrogen 
+and glucocorticoid differentially regulate BMP-Smad and TNF-alpha signaling.

@@ -1,0 +1,25 @@
+Pathogenic Yersinia species deliver Yop effector proteins through a type III 
+secretion system into host cells. Among these effectors, YopE and YopT are 
+Rho-modifying toxins, which function to modulate host cell physiology and evade 
+immune responses. YopE is a GTPase-activating protein (GAP) while YopT is a 
+protease, and they inhibit RhoA by different modes of action. Modifications to 
+RhoA are sensed by pyrin, which, once activated, assembles a caspase-1 
+inflammasome, which generates cytokines such as interleukin-1β (IL-1β) and cell 
+death by pyroptosis. In Yersinia-infected macrophages, YopE or YopT triggers 
+inflammasome assembly only in the absence of another effector, YopM, which 
+counteracts pyrin by keeping it inactive. The glucosyltransferase TcdB from 
+Clostridium difficile, a well-studied RhoA-inactivating toxin, triggers 
+activation of murine pyrin by dephosphorylation of Ser205 and Ser241. To 
+determine if YopE or YopT triggers pyrin dephosphorylation, we infected 
+lipopolysaccharide (LPS)-primed murine macrophages with ΔyopM Yersinia 
+pseudotuberculosis strains expressing wild-type (wt) or YopE mutant variants or 
+YopT. By immunoblotting pyrin after infection, we observed that wt YopE 
+triggered dephosphorylation of Ser205 and inflammasome activation. Pyrin 
+dephosphorylation was reduced if a YopE variant had a defect in stability or 
+RhoA specificity but not membrane localization. We also observed that wt YopT 
+triggered pyrin dephosphorylation but more slowly than YopE, suggesting that 
+YopE is dominant in this process. Our findings provide evidence that 
+RhoA-modifying toxins trigger activation of pyrin by a conserved 
+dephosphorylation mechanism. In addition, by characterization of YopE and YopT, 
+we show that different features of effectors, such as RhoA specificity, affect 
+the efficiency of pyrin dephosphorylation.

@@ -1,0 +1,21 @@
+Polyreactive innate-type B cells account for many B cells expressing 
+self-reactivity in the periphery. Improper regulation of these B cells may be an 
+important factor that underlies autoimmune disease. Here we have explored the 
+influence of self-reactive innate B cells in the development of collagen-induced 
+arthritis (CIA), a mouse model of rheumatoid arthritis. We show that splenic 
+marginal zone (MZ), but not B-1 B cells exhibit spontaneous IgM reactivity to 
+autologous collagen II in naı¨ve mice. Upon immunization with heterologous 
+collagen II in complete Freund's adjuvant the collagen-reactive MZ B cells 
+expanded rapidly, while the B-1 B cells showed a modest anti-collagen response. 
+The MZ B cells were easily activated by toll-like receptor (TLR) 4 and 9-ligands 
+in vitro, inducing proliferation and cytokine secretion, implying that dual 
+engagement of the B-cell receptor and TLRs may promote the immune response to 
+self-antigen. Furthermore, collagen-primed MZ B cells showed significant 
+antigen-presenting capacity as reflected by cognate T-cell proliferation in 
+vitro and induction of IgG anti-collagen antibodies in vivo. MZ B cells that 
+were deficient in complement receptors 1 and 2 demonstrated increased 
+proliferation and cytokine production, while Fcγ receptor IIb deficiency of the 
+cells lead to increased cytokine production and antigen presentation. In 
+conclusion, our data highlight self-reactive MZ B cells as initiators of the 
+autoimmune response in CIA, where complement and Fc receptors are relevant in 
+controlling the self-reactivity in the cells.

@@ -1,0 +1,19 @@
+BACKGROUND: Clostridium difficile is an anaerobic, Gram-positive bacterium that 
+can reside as a commensal within the intestinal microbiota of healthy 
+individuals or cause life-threatening antibiotic-associated diarrhea in 
+immunocompromised hosts. C. difficile can also form highly resistant spores that 
+are excreted facilitating host-to-host transmission. The C. difficile spo0A gene 
+encodes a highly conserved transcriptional regulator of sporulation that is 
+required for relapsing disease and transmission in mice.
+RESULTS: Here we describe a genome-wide approach using a combined transcriptomic 
+and proteomic analysis to identify Spo0A regulated genes. Our results validate 
+Spo0A as a positive regulator of putative and novel sporulation genes as well as 
+components of the mature spore proteome. We also show that Spo0A regulates a 
+number of virulence-associated factors such as flagella and metabolic pathways 
+including glucose fermentation leading to butyrate production.
+CONCLUSIONS: The C. difficile spo0A gene is a global transcriptional regulator 
+that controls diverse sporulation, virulence and metabolic phenotypes 
+coordinating pathogen adaptation to a wide range of host interactions. 
+Additionally, the rich breadth of functional data allowed us to significantly 
+update the annotation of the C. difficile 630 reference genome which will 
+facilitate basic and applied research on this emerging pathogen.

@@ -1,0 +1,36 @@
+Clostridioides difficile infection (CDI) can result in severe disease and death, 
+with no accurate models that allow for early prediction of adverse outcomes. To 
+address this need, we sought to develop serum-based biomarker models to predict 
+CDI outcomes. We prospectively collected sera ≤48 h after diagnosis of CDI in 
+two cohorts. Biomarkers were measured with a custom multiplex bead array assay. 
+Patients were classified using IDSA severity criteria and the development of 
+disease-related complications (DRCs), which were defined as ICU admission, 
+colectomy, and/or death attributed to CDI. Unadjusted and adjusted models were 
+built using logistic and elastic net modeling. The best model for severity 
+included procalcitonin (PCT) and hepatocyte growth factor (HGF) with an area 
+(AUC) under the receiver operating characteristic (ROC) curve of 0.74 (95% 
+confidence interval, 0.67 to 0.81). The best model for 30-day mortality included 
+interleukin-8 (IL-8), PCT, CXCL-5, IP-10, and IL-2Rα with an AUC of 0.89 (0.84 
+to 0.95). The best model for DRCs included IL-8, procalcitonin, HGF, and IL-2Rα 
+with an AUC of 0.84 (0.73 to 0.94). To validate our models, we employed 
+experimental infection of mice with C. difficile Antibiotic-treated mice were 
+challenged with C. difficile and a similar panel of serum biomarkers was 
+measured. Applying each model to the mouse cohort of severe and nonsevere CDI 
+revealed AUCs of 0.59 (0.44 to 0.74), 0.96 (0.90 to 1.0), and 0.89 (0.81 to 
+0.97). In both human and murine CDI, models based on serum biomarkers predicted 
+adverse CDI outcomes. Our results support the use of serum-based biomarker 
+panels to inform Clostridioides difficile infection treatment.IMPORTANCE Each 
+year in the United States, Clostridioides difficile causes nearly 500,000 
+gastrointestinal infections that range from mild diarrhea to severe colitis and 
+death. The ability to identify patients at increased risk for severe disease or 
+mortality at the time of diagnosis of C. difficile infection (CDI) would allow 
+clinicians to effectively allocate disease modifying therapies. In this study, 
+we developed models consisting of only a small number of serum biomarkers that 
+are capable of predicting both 30-day all-cause mortality and adverse outcomes 
+of patients at time of CDI diagnosis. We were able to validate these models 
+through experimental mouse infection. This provides evidence that the biomarkers 
+reflect the underlying pathophysiology and that our mouse model of CDI reflects 
+the pathogenesis of human infection. Predictive models can not only assist 
+clinicians in identifying patients at risk for severe CDI but also be utilized 
+for targeted enrollment in clinical trials aimed at reduction of adverse 
+outcomes from severe CDI.

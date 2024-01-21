@@ -1,0 +1,24 @@
+We and others have reported that human NF-κB inhibitor-like-1 (NFKBIL1) was a 
+putative susceptible gene for autoimmune diseases such as rheumatoid arthritis 
+(RA). However, its precise role in the pathogenesis of RA is still largely 
+unknown. In this study, we generated transgenic mice expressing human NFKBIL1 
+(NFKBIL1-Tg) and examined whether NFKBIL1 plays some role(s) in the development 
+of autoimmune arthritis. In both a collagen-induced arthritis model and a 
+collagen antibody-induced arthritis model, NFKBIL1-Tg mice showed resistance to 
+arthritis compared to control mice, indicating that the gene product of NFKBIL1 
+was involved in the control of thusly induced arthritis. Total spleen cells of 
+NFKBIL1-Tg mouse showed decreased proliferation to mitogenic stimuli, consistent 
+with its resistance to arthritis. Unexpectedly, purified T cells of NFKBIL1-Tg 
+mouse showed increased proliferation and cytokine production. This apparent 
+discrepancy was accounted for by the impaired functions of antigen-presenting 
+cells of NFKBIL1-Tg mouse; both T/B cell-depleted spleen cells and bone 
+marrow-derived dendritic cells of the Tg mouse induced less prominent 
+proliferation and IL-2 production of T cells. Furthermore, dendritic cells (DCs) 
+derived from NFKBIL1-Tg mouse showed lower expression of co-stimulatory 
+molecules and decreased production of inflammatory cytokines when they were 
+activated by lipopolysaccharide. Taken together, these results indicated that 
+NFKBIL1 affected the pathogenesis of RA at least in part through the regulation 
+of DC functions.
+
+© 2011 The Authors. Scandinavian Journal of Immunology © 2011 Blackwell 
+Publishing Ltd.

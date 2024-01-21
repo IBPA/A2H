@@ -1,0 +1,22 @@
+The treatment of autoimmune disorders has been revolutionised by the 
+introduction of biologics such as anti-tumour necrosis factor (anti-TNF). 
+Although in rheumatoid arthritis patients a bone sparing effect of anti-TNF has 
+been shown, the mechanism is not fully understood. Anti-TNF molecules block 
+tumour necrosis factor (TNF) and prevent signalling via both TNF receptor 1 
+(TNFR1; p55) and TNF receptor 2 (TNFR2; p75). However, signalling via TNFR2 is 
+reported to have protective effects in a number of cell and organ systems. Hence 
+we set out to investigate if pharmacological inhibition of TNFR1 had 
+differential effects compared to pan-TNF inhibition in both an in vitro 
+cell-based model of human osteoclast activity and an in vivo mouse model of 
+lipopolysaccharide (LPS)-induced osteolysis. For the in vitro experiments the 
+anti-human TNFR1 domain antibody (dAb) DMS5541 was used, whereas for the in vivo 
+mouse experiments the anti-mouse TNFR1 dAb DMS5540 was used. We show that 
+selective blocking of TNFR1 signalling reduced osteoclast formation in the 
+presence of TNF. Subcutaneous LPS injection over the calvaria leads to the 
+development of osteolytic lesions within days due to inflammation driven 
+osteoclast formation. In this model, murine TNFR2 genetically fused with mouse 
+IgG1 Fc domain (mTNFR2.Fc), an anti-TNF, did not protect from bone loss in 
+contrast to anti-TNFR1, which significantly reduced lesion development, 
+inflammatory infiltrate, and osteoclast number and size. These results support 
+further exploring the use of TNFR1-selective inhibition in inflammatory bone 
+loss disorders such as osteomyelitis and peri-prosthetic aseptic loosening.

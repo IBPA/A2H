@@ -1,0 +1,36 @@
+The present report describes and expands the clinical and genetic spectrum of 
+the autoinflammatory disorder, tumor necrosis factor (TNF) receptor-associated 
+periodic syndrome (TRAPS). A total of 20 mutations have been identified since 
+our initial discovery of 6 missense mutations in TNF receptor super family 1A 
+(TNFRSF1A) in 1999. Eighteen of the mutations result in amino acid substitutions 
+within the first 2 cysteine-rich domains (CRDs) of the extracellular portion of 
+the receptor. A single splicing mutation also affects the first CRD by causing 
+the insertion of 4 amino acids. Haplotype analysis of the most commonly 
+occurring and ethnically heterogeneous mutation, R92Q, demonstrates an ancient 
+founder; however, analysis of the T50M mutation, another commonly occurring 
+mutation in Irish and Scottish families, does not, suggesting that T50M is a 
+recurring mutation. Mutations that result in cysteine substitutions demonstrate 
+a higher penetrance of the clinical phenotype (93% versus 82% for noncysteine 
+residue substitutions), and also increase the probability of developing 
+life-threatening amyloidosis (24% versus 2% for noncysteine residue 
+substitutions). Retrospective and prospective evaluation of more than 50 
+patients, representing 10 of the 20 known mutations, allows us to expand and 
+better define the clinical spectrum of TRAPS. Recurrent episodes of fever, 
+myalgia, rash, abdominal pain, and conjunctivitis that often last longer than 5 
+days are the most characteristic clinical features of TRAPS. Defective shedding 
+of TNFRSF1A can only partially explain the pathophysiologic mechanism of TRAPS, 
+since some mutations have normal shedding. Consequently, other mechanisms may be 
+mediating the observed phenotype. We are currently investigating other possible 
+mechanisms using stable and transiently transfected cell systems in vitro, as 
+well as developing a knockin mouse model. Preliminary data suggest that 
+etanercept may be effective in decreasing the severity, duration, and frequency 
+of symptoms in TRAPS patients. Additionally, it provides a viable therapeutic 
+alternative to glucocorticoid therapy, which has numerous serious, long-term 
+adverse effects. Two clinical trials are being conducted to evaluate the 
+efficacy of etanercept in decreasing the frequency and severity of symptoms in 
+TRAPS. Lastly, we have summarized data that R92Q and P46L, and probably as yet 
+undiscovered substitutions, represent very low penetrance mutations that may 
+play a much larger role in more broadly defined inflammatory diseases such as 
+rheumatoid arthritis. Our laboratories are currently undertaking both clinical 
+and basic research studies to define the role of these mutations in more common 
+inflammatory diseases.

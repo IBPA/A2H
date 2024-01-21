@@ -1,0 +1,23 @@
+The prevalence of Clostridium difficile infections has increased due to the 
+emergence of epidemic variants from diverse genetic lineages. Here we describe 
+the emergence of a novel variant during an outbreak in a Costa Rican hospital 
+that was associated with severe clinical presentations. This C. difficile 
+variant elicited higher white blood cell counts and caused disease in younger 
+patients than did other strains isolated during the outbreak. Furthermore, it 
+had a recurrence rate, a 30-day attributable disease rate, and disease severity 
+as great as those of the epidemic strain NAP1. Pulsed-field gel electrophoresis 
+genotyping indicated that the outbreak strains belong to a previously 
+undescribed variant, designated NAPCR1. Whole-genome sequencing and ribotyping 
+indicated that the NAPCR1 variant belongs to C. difficile ribotype 012 and 
+sequence type 54, as does the reference strain 630. NAPCR1 strains are resistant 
+to fluoroquinolones due to a mutation in gyrA, and they possess an 18-bp 
+deletion in tcdC that is characteristic of the epidemic, evolutionarily 
+distinct, C. difficile NAP1 variant. NAPCR1 genomes contain 10% more predicted 
+genes than strain 630, most of which are of hypothetical function and are 
+present on phages and other mobile genetic elements. The increased virulence of 
+NAPCR1 was confirmed by mortality rates in the hamster model and strong 
+inflammatory responses induced by bacteria-free supernatants in the murine 
+ligated loop model. However, NAPCR1 strains do not synthesize toxin A and toxin 
+B at levels comparable to those in NAP1 strains. Our results suggest that the 
+pathogenic potential of this emerging C. difficile variant is due to the 
+acquisition of hypothetical functions associated with laterally acquired DNA.

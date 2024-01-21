@@ -1,0 +1,24 @@
+Thioredoxin reductase (TrxR) reduces thioredoxin (Trx), thereby contributing to 
+cellular redox balance, facilitating the synthesis of deoxy-ribose sugars for 
+DNA synthesis, and regulating redox-sensitive gene expression. Auranofin is a 
+gold compound that potently inhibits TrxR. This inhibition is one suspected 
+mechanism of auranofin's therapeutic benefit in the treatment of rheumatoid 
+arthritis. The use of other gold compounds to treat cancer or inflammatory 
+disease may rely on their ability to inhibit TrxR. In the current study, we 
+tested the hypothesis that a variety of gold compounds may inhibit TrxR.
+METHODS: We exposed rat-TrxR1 to auranofin, gold sodium thiomalate, sodium 
+aurothiosulfate, triphenyl phosphine gold chloride, or gold acetate, and 
+measured TrxR activity ex vivo. We then compared TrxR1 inhibitory levels of gold 
+compounds to those that inhibited mitochondrial activity of THP1 monocytes and 
+OSC2 epithelial cells, estimated by succinate dehydrogenase activity.
+RESULTS: All gold compounds inhibited TrxR1 at concentrations ranging from 5 to 
+4000 nM (50% inhibitory concentration). The oxidation state of gold did not 
+correlate with inhibitory potency, but ligand configuration was important. 
+Au(I)-phosphine compounds (triphenyl phosphine gold chloride and auranofin) were 
+the most potent inhibitors of TrxR. All TrxR1 inhibitory concentrations were 
+sublethal to mitochondrial activity in both THP1 and OSC2 cells.
+CONCLUSIONS: Diverse types of gold compounds may be effective inhibitors of 
+TrxR1 at concentrations that do not suppress cellular mitochondrial function. 
+Inhibition may be optimized to some degree by altering the ligand configuration 
+of the compounds. These results support future study of a variety of Au 
+compounds for therapeutic development as inhibitors of TrxR1.

@@ -1,0 +1,20 @@
+Migration and invasion of fibroblast-like synoviocytes (FLSs) are critical in 
+the pathogenesis of rheumatoid arthritis (RA). Hypoxic conditions are present in 
+RA joints, and hypoxia has been extensively studied in angiogenesis and 
+inflammation. However, its effect on the migration and invasion of RA-FLSs 
+remains unknown. In this study, we observed that RA-FLSs exposed to hypoxic 
+conditions experienced epithelial-mesenchymal transition (EMT), with increased 
+cell migration and invasion. We demonstrated that hypoxia-induced EMT was 
+accompanied by increased hypoxia-inducible factor (HIF)-1α expression and 
+activation of Akt. After knockdown or inhibition of HIF-1α in hypoxia by small 
+interfering RNA or genistein (Gen) treatment, the EMT transformation and 
+invasion ability of FLSs were regained. HIF-1α could be blocked by 
+phosphatidylinositol 3-kinase (PI3K) inhibitor, LY294002, indicating that HIF-1α 
+activation was regulated by the PI3K/Akt pathway. Administration of LY294002 (20 
+mg/kg, intra-peritoneally) twice weekly and Gen (25 mg/kg, by gavage) daily for 
+3 weeks from day 20 after primary immunization in a collagen-induced arthritis 
+rat model, markedly alleviated the clinical signs, radiology progression, 
+synovial hyperplasia, and inflammatory cells infiltration of joints. Thus, 
+results of this study suggest that activation of the PI3K/Akt/HIF-1α pathway 
+plays a pivotal role in mediating hypoxia-induced EMT transformation and 
+invasion of RA-FLSs under hypoxia.

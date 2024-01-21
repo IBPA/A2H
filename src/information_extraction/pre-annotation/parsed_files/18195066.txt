@@ -1,0 +1,21 @@
+Clostridium difficile-associated colitis is an increasing cause of morbidity and 
+mortality in hospitalized patients, with high relapse rates following 
+conventional therapy. We sought to determine the efficacy of rifaximin, a novel 
+nonabsorbed antibiotic, in the hamster model of C. difficile-associated diarrhea 
+(CDAD). Hamsters received clindamycin subcutaneously and 24 h later were 
+infected by gavage with one of two C. difficile strains: a reference strain (VPI 
+10463) and a current epidemic strain (BI17). Vancomycin (50 mg/kg of body 
+weight) or rifaximin (100, 50, and 25 mg/kg) were then administered orally for 5 
+days beginning either on the same day as infection (prevention) or 24 h later 
+(treatment). Therapeutic effects were assessed by weight gain, histology, and 
+survival. We found that rifaximin was as effective as vancomycin in the 
+prevention and treatment of colitis associated with the two C. difficile strains 
+that we examined. There was no relapse after treatment with vancomycin or 
+rifaximin in hamsters infected with the BI17 strain. Hamsters infected with the 
+VPI 10463 strain and treated with rifaximin did not develop relapsing infection 
+within a month of follow-up, whereas the majority of vancomycin-treated animals 
+relapsed (0% versus 75%, respectively; P < 0.01). In conclusion, rifaximin was 
+found to be an effective prophylactic and therapeutic agent for CDAD in hamsters 
+and was not associated with disease recurrence. These findings, in conjunction 
+with the pharmacokinetic and safety profiles of rifaximin, suggest that it is an 
+attractive candidate for clinical use for CDAD.

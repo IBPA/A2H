@@ -1,0 +1,18 @@
+Clostridium difficile is responsible for a wide spectrum of infection from 
+asymptomatic carriage to severe, relapsing colitis. Since 2003, C. difficile 
+infections have increased with a higher morbidity and mortality due to the 
+emergence of epidemic and hypervirulent C. difficile strains such as those of 
+the epidemic lineage 027/BI/NAP1. To decipher the hypervirulence and epidemicity 
+of 027 strains, we analyzed gene expression profiles of the R20291 027 strain 
+using a monoxenic mouse model during the first 38h of infection. A total of 741 
+genes were differentially expressed during the course of infection. They are 
+mainly distributed in functional categories involved in host adaptation. Several 
+genes of PTS and ABC transporters were significantly regulated during the 
+infection, underlying the ability of strain R20291 to adapt its metabolism 
+according to nutrient availability in the digestive tract. In this animal model, 
+despite the early sporulation process, sporulation efficiency seems to indicate 
+that growth of R20291 vegetative cells versus spores were favored during 
+infection. The bacterial mechanisms associated to adaptability and flexibility 
+within the gut environment, in addition to the virulence factor expression and 
+antibiotic resistance, should contribute to the epidemicity and hypervirulence 
+of the C. difficile 027 strains.

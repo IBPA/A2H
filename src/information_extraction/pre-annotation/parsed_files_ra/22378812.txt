@@ -1,0 +1,27 @@
+CONTEXT: Proinflammatory cytokines activate the hypothalamic pituitary adrenal 
+axis in the acute phase but not with chronic inflammation; indeed, the 
+hypothalamic pituitary adrenal axis is subtly subnormal, with apparently low 
+ACTH and cortisol secretion. This paper reviews evidence that suggests that this 
+is not simply an adaptation to chronic stress. These patients have increased 
+conversion of inactive cortisone (E) to cortisol (F) by 11β-hydroxysteroid 
+dehydrogenase type 1 (11β-HSD1). Expression of this enzyme is markedly enhanced 
+by TNF, an important autocrine protective mechanism at the inflammatory site.
+EVIDENCE ACQUISITION AND SYNTHESIS: This report reviews the current 
+understanding of the interaction between TNF and 11β-HSD1 in patients with 
+chronic inflammatory disease. It is based on publications from PubMed and the 
+Science Citation Index.
+CONCLUSIONS: The systemic effects of enhancing 11β-HSD1 activity may amplify the 
+inflammatory response. Thus, increased conversion of cortisone to cortisol can 
+alter the circadian rhythm of cortisol secretion (lower nadir, later rise, 
+impaired stress response) with consequent relative nocturnal cortisol deficiency 
+when inflammatory cytokines are highest. This could contribute to the circadian 
+symptomatology in rheumatoid arthritis, the effectiveness of early morning (0200 
+h) low-dose corticosteroids, the significant correlation between total body 
+11β-HSD1 activity and erythrocyte sedimentation rate, and the effectiveness of 
+11β-HSD inhibition in both the prevention and treatment of adjuvant arthritis in 
+rat models of rheumatoid arthritis. It could also explain why anti-TNF therapy 
+benefit can be predicted on the basis of the pretreatment plasma cortisol and 
+the subsequent cortisol rise. In contrast, this mechanism is likely to be 
+beneficial in the body's response to chronic infections such as tuberculosis and 
+could explain why anti-TNF treatment markedly increases the risk of reactivation 
+of the disease.

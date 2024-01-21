@@ -1,0 +1,36 @@
+BACKGROUND: Tripterygium wilfordii (TW) is widely employed to treat rheumatoid 
+arthritis and autoimmune disorders clinically, which, however, accompany with 
+disturbing hepatotoxicity and nephrotoxicity. The previous research showed that 
+Panax notoginseng (PN) compatibly and significantly reduces the TW-induced 
+hepatotoxicity.
+OBJECTIVE: To explore the underlying mechanism, the present study was designed 
+to reveal the influence of PN on the intestinal absorption process of TW-derived 
+active components in rat.
+MATERIALS AND METHODS: An in situ single-pass intestinal perfusion technique was 
+established and preformed to obtain the perfusate samples of triptolide (TP), 
+tripterine (TE), TW extract, and TW-PN extract. A rapid and sensitive 
+ultra-performance liquid-chromatography tandem mass spectrometry method was 
+subsequently developed and validated to determine the concentrations of TP and 
+TE in the perfusate samples. Then, the absorption parameters, effective 
+permeability, absorption rate constant, and percentage of 10 cm intestinal 
+absorption were calculated strictly.
+RESULTS: The final data indicated that both TP and TE have no special absorption 
+site in the intestine and are primarily absorbed in a passive manner. Otherwise, 
+the absorption of TP was decreased from compatibility of PN, but the absorption 
+of TE was enhanced.
+CONCLUSION: The absorption reduction of TP and absorption elevation of TE from 
+TW initiated by the combination of PN are contributed to attenuate the toxicity 
+and reinforce the therapeutic efficacy of TW. It is practically reasonable of 
+usage of TW compatibility with PN clinically.
+SUMMARY: Panax notoginseng (PN) regulated the absorption process of Tripterygium 
+wilfordii (TW) in intestineBoth triptolide (TP) and tripterine (TE), two typical 
+components of TW, have no special absorption site in the intestine and are 
+primarily absorbed in a passive mannerPN decreased the absorption of TP and 
+enhanced the absorption of TE in the intestine. Abbreviations used: 10 cm% ABS: 
+percentage of 10 cm intestinal absorption, DMARDs: Disease-modifying 
+antirheumatic drugs, GU: Glycyrrhiza uralensis, Ka: Absorption rate constant, 
+NSAIDs: Nonsteroidal anti-inflammatory drugs, Peff: Effective permeability, PN: 
+Panax notoginseng, QC: Quality control, RA: Rheumatoid arthritis, RG: Rehmannia 
+glutinosa, SPIP: Single-pass intestinal perfusion, TE: Tripterine, TP: 
+Triptolide, TW: Tripterygium wilfordii, UPLC-MS/MS: Ultra-performance 
+liquid-chromatography tandem mass spectrometry.

@@ -1,0 +1,26 @@
+INTRODUCTION: There have been several cases reporting a significant increase in 
+chondroitin sulphate plasma levels in patients with different types of disease, 
+such as systemic lupus erythematosus, rheumatoid arthritis, and liver disease. 
+At present, the precise role of chondroitin sulphate molecules in blood is 
+unclear. Previous investigations have shown that the addition of purified human 
+plasma glycosaminoglycans (GAGs), containing a high percentage of 
+chondroitin-4-sulphate (C4S) was able to inhibit lipid peroxidation and to 
+protect cells from reactive oxygen species damage, suggesting antioxidant 
+activity. Starting from these reports, the aim of this study was to evaluate the 
+effectiveness of GAG structures purified from normal human plasma in reducing 
+inflammation using a model of lipopolysaccharide (LPS)-induced increase of 
+pro-inflammatory cytokines in mouse articular chondrocyte cultures.
+RESULTS: Chondrocyte stimulation with LPS (50 microg/ml) for 24 h enhanced gene 
+expression of tumor necrosis factor alpha (TNF-alpha), interleukin-1 beta 
+(IL-1beta), interleukin 6 (IL-6), interferon gamma (IFN-gamma), inducible nitric 
+oxide synthase (iNOS) and increases in their related protein levels, as well as 
+NF-kappaB activation, IkappaBalpha phosphorylation and apoptosis evaluated by 
+the increase in caspase-3 expression and its related protein amount. LPS 
+treatment also generated a high amount of nitric oxide (NO). The addition of 
+different doses of purified human GAGs to LPS-stimulated chondrocytes reduced 
+inflammatory cytokines and iNOS both at mRNA and protein levels, blocked 
+NF-kappaB activation and cytoplasmic IkappaBalpha phosphorylation, limited cell 
+death by inhibiting apoptosis, and reduced NO concentrations.
+CONCLUSIONS: These results further support the hypothesis that plasma GAGs may 
+function as immunomodulators and their increased release and degradation could 
+be a biological response acting to modulate inflammation during disease.

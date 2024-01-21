@@ -1,0 +1,19 @@
+The cytokines B lymphocyte stimulator (BLyS) and a proliferation-inducing ligand 
+(APRIL) enhance autoimmune disease by sustaining B cell activation. In RA, B 
+cells contribute to the formation of 3 functionally distinct types of lymphoid 
+microarchitectures in the inflamed synovium: ectopic GCs; T cell-B cell 
+aggregates lacking GC reactions; and unorganized, diffuse infiltrates. We 
+examined 72 tissues representing the 3 types of synovitis for BLyS and APRIL 
+production and for expression of APRIL/BLyS receptors. Biologic effects of BLyS 
+and APRIL were explored by treating human synovium-SCID mouse chimeras with the 
+APRIL and BLyS decoy receptor transmembrane activator and CAML interactor:Fc 
+(TACI:Fc). GC+ synovitis had the highest levels of APRIL, produced exclusively 
+by CD83+ DCs. BLyS was present in similar levels in all tissue types and derived 
+exclusively from CD68+ macrophages. In GC+ synovitis, treatment with TACI:Fc 
+resulted in GC destruction and marked inhibition of IFN-gamma and Ig 
+transcription. In contrast, inhibition of APRIL and BLyS in aggregate and 
+diffuse synovitis left Ig levels unaffected and enhanced IFN-gamma production. 
+These differential immunomodulatory effects correlated with the presence of 
+TACI+ T cells in aggregate and diffuse synovitis and their absence in GC+ 
+synovitis. We propose that BLyS and APRIL regulate B cell as well as T cell 
+function and have pro- and antiinflammatory activities in RA.

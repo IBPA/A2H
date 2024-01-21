@@ -1,0 +1,15 @@
+In vivo mouse models of inflammatory arthritis are extensively used to 
+investigate pathogenic mechanisms governing inflammation-driven joint damage. 
+Two commonly utilized models include collagen-induced arthritis (CIA) and 
+methylated bovine serum albumin (mBSA) antigen-induced arthritis (AIA). These 
+offer unique advantages for modeling different aspects of human disease. CIA 
+involves breach of immunological tolerance resulting in systemic 
+autoantibody-driven arthritis, while AIA results in local resolving inflammatory 
+flares and articular T cell-mediated damage. Despite limitations that apply to 
+all animal models of human disease, CIA and AIA have been instrumental in 
+identifying pathogenic mediators, immune cell subsets and stromal cell responses 
+that determine disease onset, progression, and severity. Moreover, these models 
+have enabled investigation of disease phases not easily studied in patients and 
+have served as testing beds for novel biological therapies, including cytokine 
+blockers and small molecule inhibitors of intracellular signaling that have 
+revolutionized rheumatoid arthritis treatment.

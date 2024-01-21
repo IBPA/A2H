@@ -1,0 +1,19 @@
+Prior consensus held that medication-related osteonecrosis of the jaw (MRONJ) 
+lesion was composed of necrotic bone; however, more recent studies have 
+identified inflammatory infiltrates in the lesion. Herein, we report that 
+remarkably elevated infiltrating γδT cells (90% of lymphocytes) express 
+Semaphorin 4D (Sema4D) in human patient with MRONJ lesion, whereas γδT cells 
+only account for 2-5% of lymphocytes in blood. Importantly, Sema4D is implicated 
+in the pathogenesis of T cell-mediated inflammatory diseases, such as rheumatoid 
+arthritis and multiple sclerosis. Indeed, in a mouse model of MRONJ, an elevated 
+number of γδT, but not αβT, cells infiltrating in the MRONJ-like lesion was 
+observed. Both elevated soluble Sema4D (sSema4D) production accompanied by 
+pro-inflammatory cytokines, including TNF-α IFN-γ and IL-1β, and 
+Sema4D-expressing γδT cells were detected in mouse MRONJ-like lesion. Activated 
+γδT cells produced sSema4D in vitro, which could promote TNF-α production from 
+macrophages. Meanwhile, γδT cell-KO mice were resistant to the induction of 
+MRONJ and, hence, showed no elevation of local productions of Sema4D and TNF-α. 
+Finally, systemic administration of anti-Sema4D neutralizing mAb suppressed the 
+onset of MRONJ in wild-type mice in conjunction with diminished level of TNF-α. 
+These results suggested a critical pathogenic engagement of Sema4D produced by 
+γδT cells in the development of MRONJ.

@@ -1,0 +1,18 @@
+Oral squamous cell carcinoma (OSCC) cells display significantly augmented 
+nuclear factor-κB (NF-κB) activity, and inhibiting this activity suppresses 
+malignant tumor characteristics. Thus, we evaluated the effect of IMD-0560, a 
+novel inhibitor of IκB kinase (IKK) β that is under assessment in a clinical 
+trial of rheumatoid arthritis, on bone invasion by the mouse OSCC cell line 
+SCCVII. We examined the inhibitory effects of IMD-0560 on NF-κB activity and 
+tumor invasion using human OSCC cell lines and SCCVII cells in vitro. Using a 
+mouse model of jaw bone invasion by SCCVII cells, we assessed the inhibitory 
+effect of IMD-0560 on jaw bone invasion, tumor growth, and matrix degradation in 
+vivo. IMD-0560 suppressed the nuclear translocation of NF-κB and the degradation 
+of IκBα in OSCC cells. IMD-0560 also inhibited invasion by suppressing matrix 
+metalloproteinase-9 (MMP-9) production in OSCC cells. IMD-0560 protected against 
+zygoma and mandible destruction by SCCVII cells, reduced the number of 
+osteoclasts by inhibiting receptor activator of NF-κB ligand (RANKL) expression 
+in osteoblastic cells and SCCVII cells, increased SCCVII cell death and 
+suppressed cell proliferation and MMP-9 production in SCCVII cells. Based on 
+these results, IMD-0560 may represent a new therapeutic agent for bone invasion 
+by OSCC cells.

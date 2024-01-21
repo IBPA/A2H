@@ -1,0 +1,33 @@
+Clostridium difficile is an anaerobic, Gram-positive, spore-forming 
+opportunistic pathogen and is the most common cause of hospital-acquired 
+infectious diarrhea. Although iron acquisition in the host is a key to survival 
+of bacterial pathogens, high levels of intracellular iron can increase oxidative 
+damage. Therefore, expression of iron acquisition mechanisms is tightly 
+controlled by transcriptional regulators. We identified a C. difficile homologue 
+of the master bacterial iron regulator Fur. Using targetron mutagenesis, we 
+generated a fur insertion mutant of C. difficile. To identify the genes 
+regulated by Fur in C. difficile, we used microarray analysis to compare 
+transcriptional differences between the fur mutant and the wild type when grown 
+in high-iron medium. The fur mutant had increased expression of greater than 70 
+transcriptional units. Using quantitative reverse transcriptase PCR (qRT-PCR), 
+we analyzed several of the Fur-regulated genes identified by the microarray and 
+verified that they are both iron and Fur regulated in C. difficile. Among those 
+Fur- and iron-repressed genes were C. difficile genes encoding 7 putative cation 
+transport systems of different classes. We found that Fur was able to bind the 
+DNA upstream of three Fur-repressed genes in electrophoretic mobility shift 
+assays. We also demonstrate that expression of Fur-regulated putative iron 
+acquisition systems was increased during C. difficile infection using the 
+hamster model. Our data suggest that C. difficile expresses multiple iron 
+transport mechanisms in response iron depletion in vitro and in vivo.
+IMPORTANCE: Clostridium difficile is the most common cause of hospital-acquired 
+infectious diarrhea and has been recently classified as an "urgent" antibiotic 
+resistance threat by the CDC. To survive and cause disease, most bacterial 
+pathogens must acquire the essential enzymatic cofactor iron. While import of 
+adequate iron is essential for most bacterial growth, excess intracellular iron 
+can lead to extensive oxidative damage. Thus, bacteria must regulate iron import 
+to maintain iron homeostasis. We demonstrate here that C. difficile regulates 
+expression of several putative iron acquisition systems using the 
+transcriptional regulator Fur. These import mechanisms are induced under 
+iron-limiting conditions in vitro and during C. difficile infection of the host. 
+This suggests that during a C. difficile infection, iron availability is limited 
+in vivo.

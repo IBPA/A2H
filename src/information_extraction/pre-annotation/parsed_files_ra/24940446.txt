@@ -1,0 +1,24 @@
+The aim of the present study was to explore the feasibility of enhancing green 
+fluorescent protein (EGFP) gene transfection into the synovial joint tissues of 
+rats with rheumatoid arthritis (RA) by ultrasound-mediated microbubble 
+destruction. An optimal SonoVue dose was determined using 40 normal rats 
+categorized into five groups according to the various doses of microbubbles 
+used. At 1 week after ultrasound irradiation, the rats were sacrificed. Damage 
+to the joint synovial tissues was observed with hematoxylin and eosin 
+histopathological staining under a microscope. A further 44 normal rats were 
+used to establish a rat model of RA, and were then categorized into four groups: 
+EGFP, ultrasound + EGFP, microbubbles + EGFP and ultrasound + microbubbles + 
+EGFP. The last group was irradiated with ultrasound for 10 min following the 
+injection of 300 μl SonoVue and 10 μg EGFP into the joint cavity. Rats were 
+sacrificed after 3 days and synovial tissue was collected from the knee joints 
+for observation of EGFP with fluorescence microscopy and analysis by 
+quantitative polymerase chain reaction. EGFP expression was observed in the 
+synovial tissues of all groups. However, high EGFP expression levels were 
+observed in the ultrasound + microbubbles + EGFP group. No statistically 
+significant differences (P>0.05) were observed in the EGFP expression levels 
+between the EGFP, ultrasound + EGFP and microbubbles + EGFP groups. However, 
+EGFP expression levels in the EGFP, ultrasound + EGFP and microbubbles + EGFP 
+groups significantly differed (P<0.05) from that in the ultrasound + 
+microbubbles + EGFP group. Therefore, ultrasound-mediated microbubble 
+destruction improved EGFP transfection efficiency into the joint synovial 
+tissues of rats with RA.

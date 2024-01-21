@@ -1,0 +1,13 @@
+The key role of interleukin-17 (IL-17) and T helper 17 (T(H)17) cells in tissue 
+inflammation, autoimmunity and host defence led to the experimental targeting of 
+these molecules in mouse models of diseases as well as in clinical settings. 
+Moreover, the demonstration that IL-17 and T(H)17 cells contribute to local and 
+systemic aspects of disease pathogenesis, as well as the finding that the 
+IL-17-T(H)17 cell pathway is regulated by IL-23, prompted the identification of 
+inhibitors. These inhibitors include biotechnology products that target IL-23 as 
+well as the leading member of the IL-17 family, IL-17A, and one of its 
+receptors, IL-17 receptor A. Several clinical trials of these inhibitors are 
+underway, and positive results have been obtained in psoriasis, rheumatoid 
+arthritis and ankylosing spondylitis. This Review focuses on the current 
+knowledge of the IL-17-T(H)17 cell pathway to better understand the positive as 
+well as potential negative consequences of targeting them.

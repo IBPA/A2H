@@ -1,0 +1,27 @@
+Earlier, we reported that three Food and Drug Administration-approved drugs, 
+trifluoperazine (TFP; an antipsychotic), amoxapine (AXPN; an antidepressant), 
+and doxapram (DXP; a breathing stimulant), identified from an in vitro murine 
+macrophage cytotoxicity screen, provided mice with 40 to 60% protection against 
+pneumonic plague when administered at the time of infection for 1 to 3 days. In 
+the present study, the therapeutic potential of these drugs against pneumonic 
+plague in mice was further evaluated when they were administered at up to 48 h 
+postinfection. While the efficacy of TFP was somewhat diminished as treatment 
+was delayed to 24 h, the protection of mice with AXPN and DXP increased as 
+treatment was progressively delayed to 24 h. At 48 h postinfection, these drugs 
+provided the animals with significant protection (up to 100%) against challenge 
+with the agent of pneumonic or bubonic plague when they were administered in 
+combination with levofloxacin. Likewise, when they were used in combination with 
+vancomycin, all three drugs provided mice with 80 to 100% protection from fatal 
+oral Clostridium difficile infection when they were administered at 24 h 
+postinfection. Furthermore, AXPN provided 40 to 60% protection against 
+respiratory infection with Klebsiella pneumoniae when it was administered at the 
+time of infection or at 24 h postinfection. Using the same in vitro cytotoxicity 
+assay, we identified an additional 76/780 nonantibiotic drugs effective against 
+K. pneumoniae For Acinetobacter baumannii, 121 nonantibiotic drugs were 
+identified to inhibit bacterium-induced cytotoxicity in murine macrophages. Of 
+these 121 drugs, 13 inhibited the macrophage cytotoxicity induced by two 
+additional multiple-antibiotic-resistant strains. Six of these drugs decreased 
+the intracellular survival of all three A. baumannii strains in macrophages. 
+These results provided further evidence of the broad applicability and 
+utilization of drug repurposing screening to identify new therapeutics to combat 
+multidrug-resistant pathogens of public health concern.

@@ -1,0 +1,18 @@
+Although chemokines are well known to function in chemotaxis, additional roles 
+for these molecules in the immune system are not well understood. Dendritic 
+cells (DCs) developmentally regulate the expression of chemokine receptors to 
+facilitate their migration from the peripheral tissues to regional lymph nodes. 
+Expressions of CCR1 and CCR5 on immature DCs are down-regulated on maturation, 
+whereas CCR7 is selectively expressed on mature DCs. In the present study, we 
+examined the effects of CCL19 and CCL21, 2 CCR7 ligands, on endocytosis of 
+fluorescein isothiocyanate (FITC)-dextran by murine DCs. Both CCL19 and CCL21 
+markedly induced rapid uptake of FITC-dextran by mature DCs but not immature 
+DCs. In contrast, CCL3, a ligand of CCR1 and CCR5, induced rapid uptake of 
+FITC-dextran by immature DCs but not mature DCs. CCL19-induced endocytosis could 
+be completely blocked by Clostridium difficile toxin B, which inhibits the Rho 
+guanosine triphosphatase proteins, Rho, Rac, and Cdc42. This process was not 
+abrogated by Y-27632, a specific inhibitor of Rho-associated kinase. In 
+addition, CCL19 rapidly enhanced Cdc42 and Rac activity in mature DCs. These 
+findings demonstrate that certain chemokines induce rapid endocytosis in each 
+relevant DC population. It is suggested that CCR7 ligands activate Cdc42 and 
+Rac, thereby inducing the endocytosis in mature DCs.

@@ -1,0 +1,20 @@
+Fecal microbiota transplantation (FMT) is an effective tool for treating 
+Clostridium difficile infection in the setting of dysbiosis of the intestinal 
+microbiome. FMT for other forms of human disorders linked to dysbiosis have been 
+less effective. The fecal microbiota contains a high density of virus-like 
+particles (VLP), up to 90% of which are bacteriophages, thought to have a role 
+in regulating gut bacterial populations. We hypothesized that transplantation of 
+the phage-containing fecal VLP fraction may reduce bacterial density in the 
+dysbiotic setting of small intestinal bacterial overgrowth (SIBO). In an 
+experiment using fecal transplantation, we compared the effect of the fecal VLP 
+fraction (bacteria removed) against "Whole" FMT (bacteria intact) on the ileal 
+microbiome. Recipients were either treated with a 30-day high-fat diet (HFD) as 
+a model of dysbiosis to induce SIBO or were on a standard diet (SD). We observed 
+that transplantation of fecal VLPs from donors on a HFD was sufficient to alter 
+the ileal microbiota, but the effect was dependent on diet of the recipient. In 
+recipients on a HFD, ileal bacterial density was reduced. In recipients on a SD, 
+the ileal microbiome transitioned toward the composition associated with a HFD. 
+In both recipient groups, transplantation of fecal VLP fraction alone produced 
+the same outcome as whole FMT. Neither treatment altered expression of 
+antimicrobial peptides. These findings demonstrated a potential role of VLPs, 
+likely phages, for modifying the gut microbiome during dysbiosis.

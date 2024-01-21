@@ -1,0 +1,21 @@
+Reactive oxygen species (ROS) signaling is critical in T helper (Th) cell 
+differentiation; however its role in differentiated Th cell functions is 
+unclear. In this study, we investigated the role of oxidative stress on the 
+effector functions of in vitro differentiated mouse Th17 and Th1 cells or CD4+ T 
+cells from patients with Rheumatoid Arthritis using pro-oxidants plumbagin (PB) 
+and hydrogen peroxide. We found that in mouse Th cells, non-toxic concentration 
+of pro-oxidants inhibited reactivation induced expression of IL-17A in Th17 and 
+IFN-γ in Th1 cells by reducing the expression of their respective TFs, RORγt and 
+T-bet. Interestingly, in both the subsets, PB increased the expression of IL-4 
+by enhancing reactivation induced ERK1/2 phosphorylation. We further 
+investigated the cytokine modulatory effect of PB on CD4+ T cells isolated from 
+PBMCs of patients with Rheumatoid Arthritis, a well-known Th17 and or Th1 
+mediated disease. In human CD4+ T cells from Rheumatoid Arthritis patients, PB 
+reduced the frequencies of IL-17A+ (Th17), IFN-γ+ (Th1) and IL-17A+/IFN-γ+ 
+(Th17/1) cells and also inhibited the production of pro-inflammatory cytokines 
+TNF-α and IL-6. N-Acetyl Cysteine (NAC) an antioxidant completely reversed PB 
+mediated cytokine modulatory effects in both mouse and human cells indicating a 
+direct role for ROS. Together our data suggest that oxidative microenvironment 
+can alter cytokine response of terminally differentiated cells and thus altering 
+intracellular ROS could be a potential way to target Th17 and Th1 cells in 
+autoimmune disorders.

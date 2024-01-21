@@ -1,0 +1,32 @@
+INTRODUCTION: Osteoclasts play a key role in the pathogenesis of bone erosion 
+and systemic bone mass loss during rheumatoid arthritis (RA). In this study, we 
+aimed to determine the effect of methotrexate (MTX) and zoledronic acid (ZA), 
+used alone or in combination, on osteoclast-mediated bone erosions and systemic 
+bone mass loss in a rat model of collagen induced arthritis (CIA). We 
+hypothesized that MTX and ZA could have an additive effect to prevent both bone 
+erosion and systemic bone loss.
+METHODS: Arthritis was induced in 64 female Sprague-Dawley rats. After the 
+clinical onset of CIA, rats were assigned to treatment with MTX (1 mg/kg/week), 
+ZA (100 microg/kg twice weekly), both treatments at the same regimens, or 
+vehicle. Arthritis score and paw thickness were recorded twice weekly. The rats 
+were sacrificed on D28 and hind paws were removed for radiographic, histological 
+and immunohistochemical analysis. The effects of treatments on 
+osteoclastogenesis were determined by Tartrate resistant acid phosphatase (TRAP) 
+staining. Micro-CT of the tibia was carried out for histomorphometric analysis. 
+Bone mass density was evaluated by densitometry.
+RESULTS: MTX significantly decreased the severity of CIA, whereas ZA slightly 
+exacerbated it. When these two drugs were used in combination, MTX prevented the 
+pro-inflammatory effect of ZA. The combination of ZA with MTX was more effective 
+than MTX alone for reducing structural joint damage with a dramatic decrease of 
+osteoclasts' number in the eroded joints. However, MTX alone also significantly 
+reduced the number of osteoclasts and the number of CD68+ mononuclear cells. ZA 
+alone, or ZA with MTX, significantly increased the systemic bone mass density 
+measured by densitometry and bone volume on histomorphometric analysis.
+CONCLUSIONS: A combination of MTX and ZA prevented both bone erosion and 
+systemic bone loss in a rat model of arthritis. Both treatments independently 
+decreased the number of osteoclasts in the eroded joint. However, while MTX 
+probably acts mainly through a decrease of inflammation, ZA has a direct effect 
+on osteoclasts, allowing a dramatic down-regulation of these cells in inflamed 
+joints. These two different mechanisms of action provide support for the use of 
+a combination of these two drugs to improve the prevention of structural joint 
+damage in RA.

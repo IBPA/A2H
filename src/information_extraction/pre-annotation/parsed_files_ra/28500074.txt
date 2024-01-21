@@ -1,0 +1,25 @@
+In rheumatoid arthritis (RA), cartilage and bone matrix are degraded, and 
+extracellular matrix (ECM) proteins, acting as cellular activators, are 
+liberated. Similar to ECM proteins, matrix-bound chemokines, cytokines, and 
+growth factors (GFs) influence functional properties of key cells in RA, 
+especially synovial fibroblasts. The role of these molecules on attachment, 
+migration, and proinflammatory and prodestructive activation of RASFs was 
+analyzed. Adhesion/migration of RASFs were examined under GF-enriched (GF+) or 
+-reduced (GF-) conditions with or without addition of matrix-associated GFs, 
+TGF-β, and platelet-derived GF to GF- or culture supernatants. Fibroblast 
+adhesion and alterations in proinflammatory/prodestructive properties (e.g., 
+IL-6/matrix metalloproteinase 3-release) in response to matrix-associated 
+molecules were compared. Effects of GF+, GF-, and other ECM components on human 
+RASF-mediated cartilage invasion were examined in the SCID mouse model. RASF 
+adhesion under GF- conditions was significantly lower compared with GF+ 
+conditions (6.8- versus 8.3-fold). This effect was specific for RA because 
+control cells showed opposite effects (e.g., osteoarthritis synovial fibroblasts 
+[SF]; GF- versus GF+: 10.7- versus 8-fold). Addition of TGF-β to GF- increased 
+RASF attachment (12.7-fold) compared with other matrices and components. RASF 
+adhesion to GF+ matrix resulted in the strongest IL-6 and matrix 
+metalloproteinase-3 release, and was even more pronounced compared with 
+supplementation of single GFs. In vivo, GF- matrix decreased RASF-mediated 
+cartilage invasion compared with GF+ matrix. ECM components and especially GFs 
+when bound within ECM actively enhance RASF attraction and cartilage adhesion. 
+This observation was specific for RASFs as a reverse behavior was observed for 
+controls.

@@ -1,0 +1,24 @@
+OBJECTIVE: To determine whether dogs that visited human health-care facilities 
+were at greater risk of acquiring certain health-care-associated pathogens, 
+compared with dogs performing animal-assisted interventions in other settings, 
+and to identify specific behaviors of dogs associated with an increased risk of 
+acquiring these pathogens.
+DESIGN: Prospective cohort and nested case-control studies.
+ANIMALS: 96 dogs that visited human health-care facilities and 98 dogs involved 
+in other animal-assisted interventions.
+PROCEDURES: Fecal samples and nasal swab specimens were collected from dogs at 
+the time of recruitment and every 2 months for 1 year and were tested for 
+methicillin-resistant Staphylococcus aureus (MRSA), Clostridium difficile, and 
+other selected bacteria. Information was also obtained on facilities visited 
+during animal-assisted interventions, dog diet, dog illnesses, and antimicrobial 
+use within the home. At the end of the study, dog handlers were asked about the 
+behavior of their dogs during visits to health-care facilities.
+RESULTS: Rates of acquisition of MRSA and C difficile were 4.7 and 2.4 times as 
+high, respectively, among dogs that visited human health-care facilities, 
+compared with rates among dogs involved in other animal-assisted interventions. 
+Among dogs that visited human health-care facilities, those that licked patients 
+or accepted treats during visits were more likely to be positive for MRSA and C 
+difficile than were dogs that did not lick patients or accept treats.
+CONCLUSIONS AND CLINICAL RELEVANCE: Results suggested that dogs that visited 
+human health-care facilities were at risk of acquiring MRSA and C difficile, 
+particularly when they licked patients or accepted treats during visits.

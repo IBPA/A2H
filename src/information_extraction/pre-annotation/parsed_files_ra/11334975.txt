@@ -1,0 +1,24 @@
+An indirect competition immunoassay for the quantification of YKL-40 (cartilage 
+gp-39, Chondrex) in guinea pig serum has been developed using egg yolk 
+antibodies (IgY). The immune response of hens to YKL-40 was verified by 
+immunoblot analyses. Highly specific antibodies were obtained 30 days after the 
+first injection. The ELISA was developed in 96-well microtiter plates with 
+quadruplicate determinations for each point. The assay was based on the ability 
+of YKL-40 present in serum to displace the binding of antibodies to the coated 
+antigen. An inhibition mixture containing standard YKL-40 or guinea pig serum, 
+diluted 1/5, and primary antibodies, diluted 1/5000, was allowed to equilibrate 
+for 2 h at room temperature and dispensed for 16 h at 4 degrees C in wells 
+coated with 1 microg/ml of YKL-40. Detection was achieved by the addition of 
+rabbit anti-chicken antibodies conjugated to peroxidase followed by 
+tetramethylbenzidine. Specificity was assessed by parallelism between a dilution 
+curve of serum and standard YKL-40. The sensitivity of detection was 10 ng/ml. 
+Intra- and interassay coefficients of variation were both 8.7%. The analytical 
+recovery was 101.5+/-5.4% (mean+/-standard deviation (SD), n=9). The YKL-40 
+concentration in serum from 12 adult guinea pigs was 330+/-216 ng/ml (mean+/-SD) 
+with a lower value of 164 ng/ml and an upper value of 982 ng/ml. In contrast to 
+the rat, a dilution curve of rabbit serum gave parallelism with the guinea pig 
+standard, suggesting recognition of a similar epitope. Possible applications of 
+the assay in the guinea pig include disease models where YKL-40 is overexpressed 
+and could be used as a marker, i.e. osteoarthritis, rheumatoid arthritis, 
+cancer, liver fibrosis, atherosclerosis and more generally, pathologies with 
+increased tissue remodeling.

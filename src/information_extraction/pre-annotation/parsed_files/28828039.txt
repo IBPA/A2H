@@ -1,0 +1,24 @@
+BACKGROUND: Peptoclostridium (Clostridium) difficile is a spore-forming 
+bacterium responsible for nosocomial infections in humans. It is recognized as 
+an important agent of diarrhea and colitis in several animal species and a 
+possible zoonotic agent. Despite the known importance of P. difficile infection 
+in humans and animals, no vaccine or other effective measure to control the 
+disease is commercially available. A possible alternative treatment for P. 
+difficile infection is the use of a nontoxigenic strain of P. difficile as a 
+competitive exclusion agent. However, a thorough knowledge of this strain is 
+necessary for this purpose. We selected P. difficile Z31, a nontoxigenic strain 
+(PCR ribotype 009), for investigation because it prevents P. difficile infection 
+in a hamster model.
+RESULTS: The genome sequence of P. difficile Z31 is a circular chromosome of 
+4298,263 bp, with a 29.21 % GC content, encoding 4128 proteins, and containing 
+78 pseudogenes. This strain belongs to ST 3, clade 1, and has five phage regions 
+in its genome. Genes responsible for resistance to tetracycline and erythromycin 
+were detected and more importantly, Z31 also contains genes that promote spore 
+production and stability, cell attachment, intestinal adherence, and biofilm 
+formation.
+CONCLUSION: In this study, we present the first complete genome sequence of 
+nontoxigenic P. difficile strain Z31. When the Z31 genome was compared with 
+those of other isolates available in GenBank, including a draft genome of a 
+nontoxigenic strain, several unique regions were evident. Z31 contains no toxin 
+genes, but encodes several non-toxin virulence factors, which may favor host 
+colonization.

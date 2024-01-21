@@ -1,0 +1,7 @@
+A library of trisubstituted oxazoles, thiazoles, imidazoles (1,2,4- and 
+2,4,5-substituted) and imidazo[1,2-b]pyridines was prepared and evaluated in 
+vitro as p38alpha inhibitors and in vivo in several models of rheumatoid 
+arthritis. Four structures--32, 37, 45 and 59--were identified as potent 
+inhibitors of p38alpha with high efficacy in the LPS induced TNFalpha release 
+model in the mouse, the adjuvant induced arthritis and the collagen induced 
+arthritis in the rat with ED50s between 1.0 and 9.5 mg/kg p.o.

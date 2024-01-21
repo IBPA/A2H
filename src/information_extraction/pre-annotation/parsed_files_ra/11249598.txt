@@ -1,0 +1,15 @@
+Corixa (formerly Anergen), in collaboration with Organon, is developing 
+AnergiX.RA, a complex of solubilized HLA DRB1-0401(a) together with a specific 
+peptide from the human cartilage glycoprotein HCgp39, for the potential 
+treatment of rheumatoid arthritis (RA) [307156]. Phase I/II trials were 
+completed in April 2000 and the final results from the randomized, blinded, 
+placebo-controlled dose-escalation study are expected later this year [363409]. 
+The product utilizes Anergen's AnergiX technology, and combines an MHC-derived 
+protein with an Organon autoantigen peptide, derived from myelin basic protein 
+and involved in the development of RA [212659,363409]. Engagement of T-cell 
+receptors with AnergiX.RA induces apoptosis in autoreactive T-cells [227421]. 
+Researchers at Organon identified the central component in AnergiX.RA; results 
+from preclinical studies identifying this target protein were published in June 
+1997 in Arthritis & Rheumatism. Researchers demonstrated that HC (human 
+cartilage) gp39 is recognized by T-cells from RA patients and has the potential 
+to block arthritis in the mouse model [248543,354821].

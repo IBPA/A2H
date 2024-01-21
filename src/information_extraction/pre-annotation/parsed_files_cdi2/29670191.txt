@@ -1,0 +1,19 @@
+Fecal microbiota transplantation (FMT) is now widely used to treat recurrent 
+Clostridium difficile infection, but has been less studied as a means to restore 
+microbiome diversity and composition following antibiotic or chemotherapy 
+treatments. The purpose of our study was to assess the efficacy of FMT to 
+reverse antibiotic- and chemotherapy-induced gut dysbiosis in a mouse model. 
+C57BL/6J mice were treated with ampicillin for 1 week and/or received a single 
+intraperitoneal injection of 5-Fluorouracil. Fresh stool was collected and 
+analyzed using shotgun metagenomics and the Illumina sequencing platform. 
+Ampicillin caused a significant and immediate decrease in bacterial species 
+richness and diversity that persisted for one week. In mice that received FMT, 
+disruption of the intestinal microbiota was reversed immediately. Antibiotic and 
+chemotherapy administration caused significant alteration in species 
+distribution, including a decrease in the relative proportions of Clostridium 
+scindens and Faecalibacterium prausnitzii, and an increase in known pathogenic 
+species. In mice receiving FMT, we observed a significant increase in species 
+known to exhibit anti-inflammatory properties. Moreover, chemotherapy led to a 
+critical decrease in key 'health-promoting' species and to an altered functional 
+profile, especially when chemotherapy was administered in tandem with 
+antibiotics, and that FMT can ameliorate these effects.

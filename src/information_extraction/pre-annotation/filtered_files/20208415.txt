@@ -1,0 +1,24 @@
+Enzyme-linked immunosorbent assays (ELISA) have been widely used to determine 
+quantitatively autoantibodies. However, the processes for the purification and 
+immobilization of antigens in conventional ELISA methods include multiple steps, 
+which have hampered the application for screening of autoantibodies. Here, we 
+have developed a novel ELISA system using the plates pre-coated with glutathione 
+casein to capture recombinant proteins fused to N-terminal glutathione 
+S-transferase (GST). The GST-fused proteins were synthesized with the wheat germ 
+cell-free protein production system. Thus, the present system combined the 
+GST-capture ELISA with the cell-free protein production system, which allowed 
+immobilization of the recombinant proteins with one-step purification. Using 
+this ELISA method, we determined whether rheumatoid factors (RF), which have 
+been considered as one of the representative disease-specific autoantibodies for 
+rheumatoid arthritis (RA), were genetically associated with severity of 
+arthritis in a mouse model for RA, MRL/Mp-lpr/lpr (MRL/lpr). GST-fused human 
+IgG1-Fc (GST-Fc), synthesized with the robotic protein synthesizer, were used as 
+reactants for RF. Serum samples for RF were prepared from 11 lines of a 
+recombinant inbred mouse strain, MXH/lpr, which was established from 
+intercrosses between MRL/lpr and non-arthritic C3H/HeJ-lpr/lpr (C3H/lpr) 
+strains, composed of a different genomic recombination derived from the parental 
+strains in each line. A correlation of RF titers with the severity of the 
+arthritis in these lines was not significant, indicating genetic dissociation of 
+RF from arthritis and that RF is not necessarily required for the development of 
+RA. The present method may provide high-throughput screening for determining the 
+disease-specific autoantibodies in autoimmune diseases.

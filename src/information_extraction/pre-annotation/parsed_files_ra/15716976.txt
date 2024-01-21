@@ -1,0 +1,18 @@
+Identification of genes controlling complex diseases has proven to be difficult; 
+however, animal models may pave the way to determine how low penetrant genes 
+interact to promote disease development. We have dissected the Cia5/Eae3 
+susceptibility locus on mouse chromosome 3 previously identified to control 
+disease in experimental models of multiple sclerosis and rheumatoid arthritis. 
+Congenic strains showed significant but small effects on severity of both 
+diseases. To improve the penetrance, we have now used a new strategy that 
+defines the genetic interactions. The QTL interacted with another locus on 
+chromosome 15 and a partial advanced intercross breeding of the two congenic 
+strains for eight generations accumulated enough statistical power to identify 
+interactions with several loci on chromosome 15. Thereby, three separate loci 
+within the original QTL could be identified; Cia5 affected the onset of 
+arthritis by an additive interaction with Cia31 on chromosome 15, whereas the 
+Cia21 and Cia22 affected severity during the chronic phase of the disease 
+through an epistatic interaction with Cia32 on chromosome 15. The definition of 
+genetic interactions was a prerequisite to dissect the Cia5 QTL and we suggest 
+the partial advanced intercross strategy to be helpful also for dissecting other 
+QTL controlling complex phenotypes.

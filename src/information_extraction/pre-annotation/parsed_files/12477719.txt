@@ -1,0 +1,24 @@
+To examine the contribution of different G-protein pathways to lysophosphatidic 
+acid (LPA)-induced protein kinase D (PKD) activation, we tested the effect of 
+LPA on PKD activity in murine embryonic cell lines deficient in Galpha(q/11) 
+(Galpha(q/11) KO cells) or Galpha(12/13) (Galpha(12/13) KO cells) and used cells 
+lacking rhodopsin kinase (RK cells) as a control. In RK and Galpha(12/13) KO 
+cells, LPA induced PKD activation through a phospholipase C/protein kinase C 
+pathway in a concentration-dependent fashion with maximal stimulation (6-fold 
+for RK cells and 4-fold for Galpha(12/13) KO cells in autophosphorylation 
+activity) achieved at 3 microm. In contrast, LPA did not induce any significant 
+increase in PKD activity in Galpha(q/11) KO cells. However, LPA induced a 
+significantly increased PKD activity when Galpha(q/11) KO cells were transfected 
+with Galpha(q). LPA-induced PKD activation was modestly attenuated by prior 
+exposure of RK cells to pertussis toxin (PTx) but abolished by the combination 
+treatments of PTx and Clostridium difficile toxin B. Surprisingly, PTx alone 
+strikingly inhibited LPA-induced PKD activation in a concentration-dependent 
+fashion in Galpha(12/13) KO cells. Similar results were obtained when activation 
+loop phosphorylation at Ser-744 was determined using an antibody that detects 
+the phosphorylated state of this residue. Our results indicate that G(q) is 
+necessary but not sufficient to mediate LPA-induced PKD activation. In addition 
+to G(q), LPA requires additional G-protein pathways to elicit a maximal response 
+with G(i) playing a critical role in Galpha(12/13) KO cells. We conclude that 
+LPA induces PKD activation through G(q), G(i), and G(12) and propose that PKD 
+activation is a point of convergence in the action of multiple G-protein 
+pathways.

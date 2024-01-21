@@ -1,0 +1,11 @@
+A number of polymorphisms in immune-regulatory genes have been identified as 
+risk factors for the development of autoimmune disease. PTPN22 (that encodes a 
+tyrosine phosphatase) has been associated with the development of several 
+autoimmune diseases, including type 1 diabetes, rheumatoid arthritis and 
+systemic lupus erythematosus. PTPN22 regulates the activity and effector 
+functions of multiple important immune cell types, including lymphocytes, 
+granulocytes and myeloid cells. In this review, we describe the role of PTPN22 
+in regulating T-cell activation and effector responses. We discuss progress in 
+our understanding of the impact of PTPN22 in autoimmune disease in humans and 
+mouse models, as well as recent evidence suggesting that genetic manipulation of 
+PTPN22 expression might enhance the efficacy of anti-tumour T-cell responses.

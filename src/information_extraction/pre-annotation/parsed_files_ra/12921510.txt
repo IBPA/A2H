@@ -1,0 +1,40 @@
+OBJECTIVE: To review the pharmacology, pharmacokinetics, efficacy, safety, and 
+pharmacoeconomic impact of infliximab in the treatment of Crohn's disease (CD) 
+and rheumatoid arthritis (RA).
+DATA SOURCES: MEDLINE and Pre-MEDLINE (1966-June 2002) and manufacturer 
+prescribing literature were employed to find English-language articles on 
+infliximab. Additional studies and abstracts were identified from the 
+bibliographies of reviewed literature and conference proceedings.
+STUDY SELECTION/DATA EXTRACTION: All articles identified from data sources were 
+evaluated, and all information deemed relevant was included in this review. 
+Information regarding basic pharmacology was collected from studies in animals. 
+Pharmacokinetic data were collected from human trials. Safety data were 
+extracted from clinical trials and postmarketing surveillance. Priority was 
+given to randomized, double-blind, placebo-controlled studies for the assessment 
+of efficacy. All available economic evaluations were included.
+DATA SYNTHESIS: Infliximab is a new monoclonal antibody that appears to work by 
+a unique mechanism: inhibiting the action of tumor necrosis factor-alpha 
+(TNF-alpha). Infliximab is administered by intravenous infusion. In clinical 
+trials in CD, infliximab significantly decreased the CD activity index compared 
+with placebo in treatment-resistant disease and significantly reduced the number 
+of draining fistulas in fistulizing disease. In RA, when infliximab was added to 
+methotrexate (MTX), it resulted in a significant improvement in most disease 
+outcome measures when compared with MTX plus placebo. Few major adverse effects 
+were reported in the clinical trials; however, serious adverse events, including 
+malignancy and demyelination, have been reported in postmarketing surveillance. 
+Also, increased susceptibility to infections (including tuberculosis) has been 
+reported.
+CONCLUSIONS: Infliximab is an effective new agent for the treatment of CD and 
+RA. Its apparent unique mechanism of action makes infliximab an important 
+addition to therapy. Caution should be exercised when considering infliximab for 
+individuals who have chronic or recurrent infections, mild congestive heart 
+failure (New York Heart Association [NYHA] class I/II), nervous system 
+disorders, or live or have lived in an area endemic for histoplasmosis. 
+Infliximab is contraindicated for patients with a clinically important, active 
+infection, moderate to severe congestive heart failure (NYHA class III/IV), or 
+an allergy to mouse proteins or any of the ingredients in infliximab. Further 
+long-term efficacy, safety, and economic data on infliximab are required. Also, 
+for the treatment of RA, the burden of administering infliximab (as a 2-hour 
+supervised infusion) has to be considered when choosing among anti-TNF-alpha 
+medication (as the other 2 approved agents, etanercept and adalimumab, can be 
+self-administered by subcutaneous injection).

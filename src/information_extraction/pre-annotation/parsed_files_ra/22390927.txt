@@ -1,0 +1,23 @@
+Inflammatory diseases such as rheumatoid arthritis are often accompanied by 
+higher plasma and synovial fluid levels of interleukin-1β (IL-1β), and by 
+increased bone resorption. Since osteocytes are known to regulate bone 
+resorption in response to changes in mechanical stimuli, we investigated whether 
+IL-1β affects osteocyte-modulated osteoclastogenesis in the presence or absence 
+of mechanical loading of osteocytes. MLO-Y4 osteocytes were pre-incubated with 
+IL-1β (0.1-1 ng/ml) for 24h. Cells were either or not subjected to mechanical 
+loading by 1h pulsating fluid flow (PFF; 0.7 ± 0.3 Pa, 5 Hz) in the presence of 
+IL-1β (0.1-1 ng/ml). Conditioned medium was collected after 1h PFF or static 
+cultures. Subsequently mouse bone marrow cells were seeded on top of the 
+IL-1β-treated osteocytes to determine osteoclastogenesis. Conditioned medium 
+from mechanically loaded or static IL-1β-treated osteocytes was added to 
+co-cultures of untreated osteocytes and mouse bone marrow cells. Gene expression 
+of cysteine-rich protein 61 (CYR61/CCN1), receptor activator of nuclear factor 
+kappa-B ligand (RANKL), and osteoprotegerin (OPG) by osteocytes was determined 
+immediately after PFF. Incubation of osteocytes with IL-1β, as well as 
+conditioned medium from static IL-1β-treated osteocytes increased the formation 
+of osteoclasts. However, conditioned medium from mechanically loaded 
+IL-1β-treated osteocytes prevented osteoclast formation. Incubation with IL-1β 
+upregulated RANKL and downregulated OPG gene expression by static osteocytes. 
+PFF upregulated CYR61, RANKL, and OPG gene expression by osteocytes. Our results 
+suggest that IL-1β increases osteocyte-modulated osteoclastogenesis, and that 
+mechanical loading of osteocytes may abolish IL-1β-induced osteoclastogenesis.

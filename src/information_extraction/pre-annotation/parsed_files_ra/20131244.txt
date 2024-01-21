@@ -1,0 +1,27 @@
+OBJECTIVE: In contrast to rheumatoid arthritis (RA), the joint inflammation 
+referred to as Jaccoud's arthritis that occurs in systemic lupus erythematosus 
+(SLE) is nonerosive. Although the mechanism responsible is unknown, the 
+antiosteoclastogenic cytokine interferon-alpha (IFNalpha), whose transcriptome 
+is present in SLE monocytes, may be responsible. This study was undertaken to 
+examine the effects of IFNalpha and lupus on osteoclasts and erosion in the (NZB 
+x NZW)F(1) mouse model of SLE with K/BxN serum-induced arthritis.
+METHODS: Systemic IFNalpha levels in (NZB x NZW)F(1) mice were elevated by 
+administration of AdIFNalpha. SLE disease was marked by anti-double-stranded DNA 
+(anti-dsDNA) antibody titer and proteinuria, and Ifi202 and Mx1 expression 
+represented the IFNalpha transcriptome. Microfocal computed tomography was used 
+to evaluate bone erosions. Flow cytometry for CD11b and CD11c was used to 
+evaluate the frequency of circulating osteoclast precursors (OCPs) and myeloid 
+dendritic cells (DCs) in blood.
+RESULTS: Administration of AdIFNalpha to (NZB x NZW)F(1) mice induced 
+osteopetrosis. (NZB x NZW)F(1) mice without autoimmune disease were fully 
+susceptible to focal erosions in the setting of serum-induced arthritis. 
+However, (NZB x NZW)F(1) mice with high anti-dsDNA antibody titers and the 
+IFNalpha transcriptome were protected against bone erosions. AdIFNalpha 
+pretreatment of NZW mice before K/BxN serum administration also resulted in 
+protection against bone erosion (r(2) = 0.4720, P < 0.01), which was associated 
+with a decrease in the frequency of circulating CD11b+CD11c- OCPs and a 
+concomitant increase in the percentage of CD11b+CD11c+ cells (r(2) = 0.6330, P < 
+0.05), which are phenotypic of myeloid DCs.
+CONCLUSION: These findings suggest that IFNalpha in SLE shifts monocyte 
+development toward myeloid DCs at the expense of osteoclastogenesis, thereby 
+resulting in decreased bone erosion.

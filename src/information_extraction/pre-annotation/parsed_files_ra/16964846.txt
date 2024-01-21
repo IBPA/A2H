@@ -1,0 +1,16 @@
+Photoacoustic tomography (PAT), a nonionizing, noninvasive, laser-based 
+technology was adapted to joint imaging for the first time. Pulsed laser light 
+in the near-infrared region was directed toward a joint with resultant 
+ultrasonic signals recorded and used to reconstruct images that present the 
+optical properties in subsurface joint tissues. The feasibility of this joint 
+imaging system was validated on a Sprague Dawley rat tail model and verified 
+through comparison with histology. With sufficient penetration depth, PAT 
+realized tomographic imaging of a joint as a whole organ noninvasively. Based on 
+the optical contrast, various intra- and extra-articular tissues, including 
+skin, fat, muscle, blood vessels, synovium and bone, were presented successfully 
+in images with satisfactory spatial resolution that was primarily limited by the 
+bandwidth of detected photoacoustic signals rather than optical diffusion as 
+occurs in traditional optical imaging. PAT, with its intrinsic advantages, may 
+provide a unique opportunity to enable the early diagnosis of inflammatory joint 
+disorders, e.g., rheumatoid arthritis, and to monitor therapeutic outcomes with 
+high sensitivity and accuracy.

@@ -1,0 +1,14 @@
+Antibiotic-induced dysbiosis is a key predisposing factor for Clostridium 
+difficile infections (CDIs), which cause intestinal disease ranging from mild 
+diarrhea to pseudomembranous colitis. Here, we examined the impact of a 
+microbiota-derived metabolite, short-chain fatty acid acetate, on an acute mouse 
+model of CDI. We found that administration of acetate is remarkably beneficial 
+in ameliorating disease. Mechanistically, we show that acetate enhances innate 
+immune responses by acting on both neutrophils and ILC3s through its cognate 
+receptor free fatty acid receptor 2 (FFAR2). In neutrophils, acetate-FFAR2 
+signaling accelerates their recruitment to the inflammatory sites, facilitates 
+inflammasome activation, and promotes the release of IL-1β; in ILC3s, 
+acetate-FFAR2 augments expression of the IL-1 receptor, which boosts IL-22 
+secretion in response to IL-1β. We conclude that microbiota-derived acetate 
+promotes host innate responses to C. difficile through coordinate action on 
+neutrophils and ILC3s.

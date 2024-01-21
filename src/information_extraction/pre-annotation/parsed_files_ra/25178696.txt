@@ -1,0 +1,20 @@
+Programmed cell death 5 (PDCD5) was first identified as a gene upregulated in 
+cells undergoing apoptosis. We recently demonstrated the inhibitory effect of 
+PDCD5 on experimentally induced autoimmune encephalomyelitis. In this study, we 
+investigated the anti-inflammatory effects of recombinant human PDCD5 (rhPDCD5) 
+in a rat collagen-induced arthritis (CIA) model. We find that vaccination of 
+collagen II (CII) induced CIA rats with rhPDCD5 significantly delayed the 
+occurrence and reduced the severity of CIA rats. rhPDCD5 also restored the loss 
+of Foxp3(+) regulatory T (Treg) cells and decreased the population of Th1 and 
+Th17 in CIA rats. Simultaneously, rhPDCD5 treatment suppressed the production of 
+pro-inflammatory cytokines (interleukin (IL)-6, IL-17A, tumor necrosis factor-α 
+(TNF-α), and interferon gamma (IFN-γ)) and increased the secretion of 
+anti-inflammatory cytokines (transforming growth factor beta 1 (TGF-β1) and 
+IL-10) in CIA rats. In addition, rhPDCD5 inhibited the ability of CII to induce 
+proliferation of splenocytes and lymph node cells (LNCs) and promoted the 
+CII-activated CD4(+) cell apoptosis. These results of rhPDCD5-treated CIA rats 
+were similar with those of recombinant human TNF-α receptor IgG Fc (rhTNFR:Fc). 
+Thus, to our knowledge, we provide the first evidence that rhPDCD5 may be an 
+efficient approach to diminishing exacerbated immune responses in CIA, 
+indicating its therapeutic potential in the treatment of rheumatoid arthritis 
+and other autoimmune diseases.

@@ -1,0 +1,20 @@
+PURPOSE: In vivo detection of pathological insults during the early stages of 
+rheumatoid synovitis is essential to allow early anti-inflammatory treatment for 
+prevention of joint destruction. Whether rheumatoid synovitis pathology and the 
+efficacy of therapies can be visualized by positron emission tomography (PET) 
+tracers specific to the inflammatory process was investigated.
+PROCEDURES: Using a collagen-induced experimental rat model of rheumatoid 
+arthritis, in vivo imaging using the PET tracers [11C]PK11195, which binds to 
+the translocator protein mainly expressed on myeloid cells, and [11C]ketoprofen, 
+for cyclooxygenase imaging, was performed. To evaluate therapeutic efficacy, 
+model animals were administered the tumour necrosis factor alpha blocker 
+etanercept subcutaneously.
+RESULTS: [11C]PK11195 and [11C]ketoprofen uptakes were significantly higher in 
+inflamed paws of collagen-induced arthritis rats than in normal rats. The data 
+showed a correlation between tracer uptake values and paw swelling. After 
+treatment with etanercept, [11C]ketoprofen uptake was significantly lower in 
+treated animals than in untreated ones, whereas [11C]PK11195 uptake in the 
+inflamed regions was comparable to that in the untreated group.
+CONCLUSIONS: With [11C]PK11195 and [11C]ketoprofen tracers, non-invasive in vivo 
+PET imaging for rheumatoid synovitis can provide diagnostic evidence of early 
+synovitis and allow monitoring inflammatory cell activity during treatment.

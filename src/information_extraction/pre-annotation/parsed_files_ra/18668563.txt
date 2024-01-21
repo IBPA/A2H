@@ -1,0 +1,28 @@
+OBJECTIVE: The synovial fibroblast, or fibroblast-like synoviocyte (FLS), has a 
+central role in pannus invasion and destruction of cartilage and bone in 
+rheumatoid arthritis (RA). However, regulation of the FLS remains incompletely 
+understood. The aim of this study was to determine whether the invasive 
+properties of FLS are genetically regulated by arthritis severity loci.
+METHODS: DA rats (arthritis susceptible) and rat strains congenic for 
+arthritis-protective intervals were studied. Primary FLS cell lines were 
+generated from each strain and used in a well-established FLS invasion model 
+through a collagen-rich barrier. Cells or culture supernatants were analyzed for 
+gene expression, activity of different matrix metalloproteinases (MMPs), 
+cytoskeleton integrity, and cell proliferation.
+RESULTS: The median number of FLS from DA.F344(Cia5d) rats that invaded through 
+the collagen-rich barrier was reduced 86.5% compared with the median number of 
+invading FLS from DA rats. Histologic examination showed that DA.F344(Cia5d) 
+rats preserved a normal joint without pannus, hyperplasia, or erosions. FLS from 
+DA.F344(Cia5d) rats produced significantly lower levels of active MMP-2 compared 
+with FLS from DA rats, but the levels of proMMP-2 and MMP-2 messenger RNA in 
+DA.F344(Cia5d) rats were similar to those in DA rats. Treatment of FLS from DA 
+rats with an MMP-2 inhibitor reduced cell invasion to a level similar to that in 
+DA.F344(Cia5d) rats, demonstrating that MMP-2 activity accounted for the 
+difference between FLS from these 2 strains. Analysis of MMP-2-activating 
+pathways revealed increased levels of soluble membrane type 1 (MT1)-MMP in DA 
+rats compared with DA.F344(Cia5d) rats.
+CONCLUSION: These data represent the first evidence for a genetic component in 
+the regulation of FLS invasion. A gene located within the Cia5d interval 
+accounts for this effect and operates via the regulation of soluble MT1-MMP 
+production and MMP-2 activation. These observations suggest novel potential 
+pathways for prognostication and therapy.

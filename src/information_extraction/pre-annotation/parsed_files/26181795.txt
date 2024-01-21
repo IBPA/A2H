@@ -1,0 +1,28 @@
+BACKGROUND: Clostridium difficile is a major identifiable and treatable cause of 
+antibiotic-associated diarrhea. Poor nutritional status contributes to mortality 
+through weakened host defenses against various pathogens. The primary goal of 
+this study was to assess the contribution of a reduced protein diet to the 
+outcomes of C. difficile infection in a murine model.
+METHODS: C57BL/6 mice were fed a traditional house chow or a defined diet with 
+either 20% protein or 2% protein and infected with C. difficile strain VPI10463. 
+Animals were monitored for disease severity, clostridial shedding and fecal 
+toxin levels. Select intestinal microbiota were measured in stool and C. 
+difficile growth and toxin production were quantified ex vivo in intestinal 
+contents from untreated or antibiotic-treated mice fed with the different diets.
+RESULTS: C. difficile infected mice fed with defined diets, particularly (and 
+unexpectedly) with protein deficient diet, had increased survival, decreased 
+weight loss, and decreased overall disease severity. C. difficile shedding and 
+toxin in the stool of the traditional diet group was increased compared with 
+either defined diet 1 day post infection. Mice fed with traditional diet had an 
+increased intestinal Firmicutes to Bacteroidetes ratio following antibiotic 
+exposure compared with either a 2% or 20% protein defined nutrient diet. Ex vivo 
+inoculation of cecal contents from antibiotic-treated mice showed decreased 
+toxin production and C. difficile growth in both defined diets compared with a 
+traditional diet.
+CONCLUSIONS: Low protein diets, and defined nutrient diets in general, were 
+found to be protective against CDI in mice. Associated diet-induced alterations 
+in intestinal microbiota may influence colonization resistance and clostridial 
+toxin production in a defined nutrient diet compared to a traditional diet, 
+leading to increased survival. However, mechanisms which led to survival 
+differences between 2% and 20% protein defined nutrient diets need to be further 
+elucidated.

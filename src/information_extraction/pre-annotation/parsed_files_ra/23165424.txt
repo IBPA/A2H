@@ -1,0 +1,19 @@
+The objective of the present study was to determine whether the expression of 
+connexin 43 (Cx43) effected on inflammatory conditions in rat fibroblast-like 
+synoviocytes (FLS) and on rat model of rheumatoid arthritis (RA). The expression 
+of Cx43 in rat FLS stimulated with lipopolysaccharide (LPS) was confirmed by 
+real-time reverse transcriptase polymerase chain reaction (RT-PCR). The effects 
+of small-interfering RNA targeting Cx43 (siCx43) on pro-inflammatory cytokines 
+and chemokine were assessed by real-time RT-PCR and enzyme-linked immunosorbent 
+assay (ELISA). The therapeutic and side effects of siCx43 in a rat model of 
+collagen-induced arthritis (CIA) were examined by in vivo electroporation 
+method. LPS markedly enhanced Cx43 gene expression in rat FLS, with transfection 
+of siCx43 suppressing the over-expression of pro-inflammatory cytokines and the 
+chemokine. Treatment of CIA rats with siCx43 significantly ameliorated paw 
+swelling, and significantly reduced histological arthritis scores and 
+radiographic scores. In histological appearance of rat ankle joints, siCx43 
+treatment significantly decreased the number of tartrate-resistant acid 
+phosphatase (TRAP)-positive (osteoclast-like) cells. These findings indicated 
+that siCx43 had anti-inflammatory effects in rat FLS and efficiently inhibited 
+the development of CIA. Cx43 may play an important role in the pathophysiology 
+of RA, and may be a potential target molecule for novel RA therapies.

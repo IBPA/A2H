@@ -1,0 +1,21 @@
+Clostridium difficile toxins A and B were shown to share immunochemical and 
+structural features, including shared sequential epitopes. Nineteen hybridomas 
+generated after immunization of mice with a mixture of toxoids produced 
+monoclonal antibodies, all IgM(x), which bound to toxin A and toxin B in a 
+solid-phase radioimmunoassay (RIA). None of the antibodies neutralized the 
+cytotoxicity of either toxin, alone or in pairs, nor did they neutralize mouse 
+lethality. The antibodies did not inhibit hemagglutination by toxin A, and none 
+of those tested neutralized the toxin's enterotoxic activity. Studies of binding 
+of antibodies to native toxins in the RIA showed that the antibodies differed in 
+their recognition of the toxins. Many of the antibodies bound with higher 
+avidity to toxin A than to toxin B. In Western blots, all the antibodies 
+recognized both toxins in the native state; in addition, some antibodies 
+recognized the minor cytotoxic species of toxin B. When the toxins were 
+denatured and reduced, five antibodies bound to both toxins, five to A only, and 
+nine to neither, demonstrating that the antibodies had different epitope 
+specificities. Further structural comparisons were made by investigation of mol. 
+wts, subunit structures and amino acid compositions. The native mol. wts of 
+toxin A and toxin B, as determined by electrophoresis to equilibrium in 4-30% 
+polyacrylamide gel electrophoresis (PAGE), were 430,000 and 368,000, 
+respectively. Denatured and reduced toxins each had a single subunit of 315,000. 
+Both toxins had about 50% hydrophobic amino acids.

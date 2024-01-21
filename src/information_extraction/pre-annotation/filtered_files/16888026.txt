@@ -1,0 +1,22 @@
+Mast cells are key effectors in the pathogenesis of inflammatory and tissue 
+destructive diseases such as rheumatoid arthritis (RA). These cells contain 
+specialized secretory granules loaded with bioactive molecules including 
+cytokines, growth factors, and proteases that are released upon activation. This 
+study investigated the regulation of matrix metalloproteinase MMP-9 (gelatinase 
+B) in human mast cells by cytokines that are known to be involved in the 
+pathogenesis of RA. Immunohistochemical staining of synovial tissue showed 
+abundant expression of MMP-9 by synovial tissue mast cells in patients with RA 
+but not in normal controls. The expression, activity, and production of MMP-9 in 
+mast cells was confirmed by RT-PCR, zymography, and Western blotting using cord 
+blood-derived human mast cells (CB-HMC). Treatment of CB-HMC with TNF-alpha 
+significantly increased the expression of MMP-9 mRNA and up-regulated the 
+activity of MMP-9 in a time- and dose-dependent manner. By contrast, IFN-gamma 
+inhibited MMP-9 mRNA and protein expression. The cytokine-mediated regulation of 
+MMP-9 was also apparent in the human mast cell line (HMC-1) and in mouse bone 
+marrow-derived mast cells. Furthermore, TNF-alpha significantly increased the 
+invasiveness of CB-HMC across Matrigel-coated membranes while the addition of 
+IFN-gamma, rTIMP-1, or pharmacological MMP inhibitors significantly reduced this 
+process. These observations suggest that MMP-9 is not a stored product in mast 
+cells but these cells are capable of producing this enzyme under inflammatory 
+conditions that may facilitate the migration of mast cell progenitors to sites 
+of inflammation and may also contribute to local tissue damage.

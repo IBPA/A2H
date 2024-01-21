@@ -1,0 +1,18 @@
+Currently, aldosterone is believed to be involved in the development of 
+cardiovascular injury as a potential cardiovascular risk hormone. However, its 
+exact cellular mechanisms remain obscure. This study was undertaken to examine 
+the effect of aldosterone on superoxide production in cultured rat aortic 
+endothelial cells with possible involvement of the small GTP-binding (G) protein 
+Rac1. The aldosterone levels showed a time-dependent (6-24 h) and dose-dependent 
+(10(-8) to 10(-6) m) increase in superoxide generation, whose effect was 
+abolished by mineralocorticoid receptor antagonist (eplerenone), Src inhibitor 
+(PP2), and reduced nicotinamide adenine dinucleotide phosphate [NAD(P)H] oxidase 
+inhibitor (apocynin). Aldosterone activated NADP(H) oxidase and Rac1, whose 
+effects were abolished by eplerenone. The aldosterone-induced superoxide 
+generation was abolished either by nonselective small G protein inhibitor 
+(Clostridium difficile toxin A) or dominant-negative Rac1. Dominant-negative 
+Rac1 also inhibited aldosterone-induced ACE gene expression. Thus, the present 
+study is the first to demonstrate that aldosterone induces superoxide generation 
+via mineralocorticoid receptor-mediated activation of NAD(P)H-oxidase and Rac1 
+in endothelial cells, thereby contributing to the development of 
+aldosterone-induced vascular injury.

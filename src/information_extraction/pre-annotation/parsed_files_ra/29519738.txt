@@ -1,0 +1,15 @@
+In an effort to identify CYP and hERG clean mPGES-1 inhibitors from the 
+dihydrofuran-fused tricyclic benzo[d]imidazole series lead 7, an extensive 
+structure-activity relationship (SAR) studies were performed. Optimization of A, 
+D and E-rings in 7 afforded many potent compounds with human whole blood potency 
+in the range of 160-950 nM. Selected inhibitors 21d, 21j, 21m, 21n, 21p and 22b 
+provided selectivity against COX-enzymes and mPGES-1 isoforms (mPGES-2 and 
+cPGES) along with sufficient selectivity against prostanoid synthases. Most of 
+the tested analogs demonstrated required metabolic stability in liver 
+microsomes, low hERG and CYP liability. Oral pharmacokinetics and 
+bioavailability of lead compounds 21j, 21m and 21p are discussed in multiple 
+species like rat, guinea pig, dog, and cynomolgus monkey. Besides, these 
+compounds revealed low to moderate activity against human pregnane X receptor 
+(hPXR). The selected lead 21j further demonstrated in vivo efficacy in acute 
+hyperalgesia (ED50: 39.6 mg/kg) and MIA-induced osteoarthritic pain models 
+(ED50: 106 mg/kg).

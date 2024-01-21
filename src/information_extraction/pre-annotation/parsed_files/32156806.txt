@@ -1,0 +1,36 @@
+Frequent and excessive use of antibiotics primes patients to Clostridioides 
+difficile infection (CDI), which leads to fatal pseudomembranous colitis, with 
+limited treatment options. In earlier reports, we used a drug repurposing 
+strategy and identified amoxapine (an antidepressant), doxapram (a breathing 
+stimulant), and trifluoperazine (an antipsychotic), which provided significant 
+protection to mice against lethal infections with several pathogens, including 
+C. difficile However, the mechanisms of action of these drugs were not known. 
+Here, we provide evidence that all three drugs offered protection against 
+experimental CDI by reducing bacterial burden and toxin levels, although the 
+drugs were neither bacteriostatic nor bactericidal in nature and had minimal 
+impact on the composition of the microbiota. Drug-mediated protection was 
+dependent on the presence of the microbiota, implicating its role in evoking 
+host defenses that promoted protective immunity. By utilizing transcriptome 
+sequencing (RNA-seq), we identified that each drug increased expression of 
+several innate immune response-related genes, including those involved in the 
+recruitment of neutrophils, the production of interleukin 33 (IL-33), and the 
+IL-22 signaling pathway. The RNA-seq data on selected genes were confirmed by 
+quantitative real-time PCR (qRT-PCR) and protein assays. Focusing on amoxapine, 
+which had the best anti-CDI outcome, we demonstrated that neutralization of 
+IL-33 or depletion of neutrophils resulted in loss of drug efficacy. Overall, 
+our lead drugs promote disease alleviation and survival in the murine model 
+through activation of IL-33 and by clearing the pathogen through host defense 
+mechanisms that critically include an early influx of neutrophils.IMPORTANCE 
+Clostridioides difficile is a spore-forming anaerobic bacterium and the leading 
+cause of antibiotic-associated colitis. With few therapeutic options and high 
+rates of disease recurrence, the need to develop new treatment options is 
+urgent. Prior studies utilizing a repurposing approach identified three 
+nonantibiotic Food and Drug Administration-approved drugs, amoxapine, doxapram, 
+and trifluoperazine, with efficacy against a broad range of human pathogens; 
+however, the protective mechanisms remained unknown. Here, we identified 
+mechanisms leading to drug efficacy in a murine model of lethal C. difficile 
+infection (CDI), advancing our understanding of the role of these drugs in 
+infectious disease pathogenesis that center on host immune responses to C. 
+difficile Overall, these studies highlight the crucial involvement of innate 
+immune responses, as well as the importance of immunomodulation as a potential 
+therapeutic option to combat CDI.

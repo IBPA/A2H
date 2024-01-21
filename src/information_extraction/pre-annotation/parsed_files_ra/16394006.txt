@@ -1,0 +1,19 @@
+Pristane-induced arthritis (PIA) in rats, a model for rheumatoid arthritis (RA), 
+is a T cell-dependent disease. However, pristane itself is a lipid and unable to 
+form a stable complex with a MHC class II molecule. Therefore, the specificity 
+and function of the T cells in PIA are as unclear as in rheumatoid arthritis. In 
+this study, we show that activated CD4+ alphabetaT cells, which target 
+peripheral joints, transfer PIA. The pristane-primed T cells are of oligo or 
+polyclonal origin as determined by their arthritogenicity after stimulation with 
+several mitogenic anti-TCRVbeta and anti-TCRValpha mAbs. Arthritogenic cells 
+secreted IFN-gamma and TNF-alpha (but not IL-4) when stimulated with Con A in 
+vitro, and pretreatments of recipient rats with either anti-IFN-gamma or a 
+recombinant TNF-alpha receptor before transfer ameliorated arthritis 
+development. Most importantly, we show that these T cells are MHC class II 
+restricted, because treatment with Abs against either DQ or DR molecules 
+ameliorates arthritis development. The MHC class II restriction was confirmed by 
+transferring donor T cells to irradiated recipients that were syngenic, 
+semiallogenic, or allogenic to MHC class II molecules, in which only syngenic 
+and semiallogenic recipients developed arthritis. These data suggest that the in 
+vivo administration of a non-antigenic adjuvant, like pristane, activates CD4+ 
+alphabetaT cells that are MHC class II restricted and arthritogenic.

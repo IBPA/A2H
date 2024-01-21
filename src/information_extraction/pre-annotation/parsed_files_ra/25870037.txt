@@ -1,0 +1,15 @@
+Kaempferol is a natural flavonoid found in many vegetables and fruits. 
+Epidemiologic studies have described that Kaempferol intake could reduce risk of 
+cancer, especially lung, gastric, pancreatic and ovarian cancers. Recent studies 
+have shown that Kaempferol could also be beneficial to the body to defend 
+against inflammation, and infection by bacteria and viruses; however, the 
+molecular mechanism of its immunoregulatory function remains largely unknown. 
+Through screening a small molecule library of traditional Chinese medicine 
+(TCM), we identified that Kaempferol could enhance the suppressive function of 
+regulatory T cells (Tregs). Kaempferol was found to increase FOXP3 expression 
+level in Treg cells and prevent pathological symptoms of collagen-induced 
+arthritis in a rat animal model. Kaempferol could also reduce PIM1-mediated 
+FOXP3 phosphorylation at S422. Our study reveals a molecular mechanism that 
+underlies the anti-inflammatory action of Kaempferol for the prevention and 
+treatment of inflammatory diseases such as rheumatoid arthritis, systemic lupus 
+erythematosus, and ankylosing spondylitis.

@@ -1,0 +1,21 @@
+ETHNOPHARMACOLOGICAL RELEVANCE: Bee venom (BV) is a traditional Korean medicine 
+that has been widely used with satisfactory results in the treatment of some 
+immune-related diseases, especially rheumatoid arthritis.
+AIM OF THE STUDY: The purpose of this study is to elucidate the molecular 
+mechanism underlying the anti-inflammatory effects of BV, which is used in the 
+treatment of various inflammatory diseases in traditional Korean medicine. We 
+evaluated the anti-inflammatory effect of BV on NO generation and iNOS 
+expression by LPS in rat C6 glioma cells.
+MATERIAL AND METHODS: BV was obtained from the National Institute of 
+Agricultural Science and Technology (NIAST) of Korea. Nitrite measurement, 
+Immuno blot analysis, Reverse transcriptase-PCR and Electrophoretic mobility 
+shift assay (EMSA) were used for assessment.
+RESULTS: BV suppressed the LPS-induced NO generation and iNOS expression, and it 
+also inhibited the expressions of LPS-induced pro-inflammatory molecules 
+including Cox-2 and IL-1 beta in rat C6 glioma cells. Then, BV inhibited 
+LPS-induced expression of PKC-alpha and MEK/ERK, not p38 and JNK. Moreover, 
+inhibition of LPS-induced iNOS expression by BV was dependent on transcriptional 
+activities of AP-1/NF-kappaB through MEK/ERK pathway.
+CONCLUSION: These results indicate that BV suppresses LPS-induced iNOS 
+activation through regulation of PKC-alpha. Accordingly, BV exerts a potent 
+suppressive effect on pro-inflammatory responses in rat C6 glioma cells.

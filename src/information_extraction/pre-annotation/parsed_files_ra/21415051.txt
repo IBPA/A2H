@@ -1,0 +1,22 @@
+OBJECTIVE: Reduced vitamin D intake has been linked to increased susceptibility 
+to develop rheumatoid arthritis (RA) and vitamin D deficiency is associated with 
+increased disease activity in RA patients. The pathophysiological role of 
+vitamin D in joint inflammation is, however, unclear.
+METHODS: To determine the influence of absent vitamin D signalling in chronic 
+arthritis, vitamin D receptor (VDR)-deficient mice were crossed with human 
+tumour necrosis factor (TNF) transgenic mice (hTNFtg), which spontaneously 
+develop chronic arthritis.
+RESULTS: Clinical signs and symptoms of chronic arthritis were aggravated in 
+hTNFtg mice lacking functional VDR signalling. Moreover, synovial inflammation 
+was clearly increased in VDR(-/-)hTNFtg mice as compared to hTNFtg mice and was 
+associated with an increased macrophage influx in inflamed joints. In vitro, 
+VDR-deficient monocytes were proinflammatory and hyper-responsive to TNF 
+stimulation associated with prolonged mitogen-activated protein kinase 
+activation and cytokine secretion. Also, VDR(-/-) monocytes showed enhanced 
+potential to differentiate into bone resorbing osteoclasts in vitro. In line, 
+VDR(-/-)hTNFtg mice had significantly increased cartilage damage and synovial 
+bone erosions.
+CONCLUSIONS: VDR plays an important role in limiting the inflammatory phenotype 
+in a mouse model of RA. Absent VDR signalling causes a proinflammatory monocyte 
+phenotype associated with increased inflammation, cartilage damage and bone 
+erosion.

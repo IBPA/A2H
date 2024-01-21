@@ -1,0 +1,32 @@
+INTRODUCTION: It has been shown that T lymphocytes and monocytes/macrophages, 
+producing pro-inflammatory cytokines, play a pivotal role in the pathophysiology 
+of rheumatoid arthritis (RA). In recent placebo-controlled double-blind 
+randomized studies, chimeric (human/mouse) tumour necrosis factor-alpha 
+(TNFalpha) antibodies (cA2) proved to be very effective in improving clinical 
+disease activity and reducing inflammatory parameters in RA.
+OBJECTIVE: To investigate whether anti-TNFalpha therapy influences the in vitro 
+intracellular cytokine production in peripheral blood monocytes and T 
+lymphocytes of RA patients after one single (24 h) and multiple intravenous 
+infusions (6 months).
+METHODS: An intracellular flow cytometric technique was applied to measure 
+interleukin 1beta (IL-1beta), IL-6, TNFalpha, IL-10 and IL-12 in monocytes and 
+IL-2, IL-4 and interferon-gamma in T lymphocytes of 15 patients, before, after 
+24 h and after 6 months of therapy with monoclonal chimeric anti-TNFalpha 
+antibodies (3 mg/kg, bimonthly i.v.). All patients were on stable therapy with 
+methotrexate (15-20 mg/week i.m.). Cytokine content in monocytes was measured 
+directly after blood sampling (basal levels), after 8 h of culture (spontaneous 
+production) and after 8 h of stimulation with lipopolysaccharides 
+(LPS-stimulated production).
+RESULTS: Basal levels and production (after 8 h) of IL-1beta, IL-6 and TNFalpha 
+were significantly decreased 24 h after the first administration of 
+anti-TNFalpha (for IL-1beta P < 0.01; for IL-6 P < 0.01; for TNF P < 0.003) and 
+after 6 months of therapy (for IL-1beta P < 0.02; for IL-6 P < 0.03; for 
+TNFalpha P < 0.001). For IL-12, basal levels were significantly decreased 24 h 
+and 6 months after the start of therapy with anti-TNFalpha antibodies (P=0.0001; 
+P=0.003, respectively). In contrast, IL-10 production increased significantly 
+after 24 h and after 6 months (P=0.02; P=0.01). The T(H2)/T(H1) cytokine ratio 
+in CD4+ T cells was significantly increased after 24 h and after 6 months of 
+anti-TNFalpha therapy (P=0.003; P=0.0007).
+CONCLUSION: Anti-TNFalpha therapy might down-regulate the monocytic capacity to 
+produce pro-inflammatory cytokines and induces a shift to a more pronounced 
+anti-inflammatory T(H2) cytokine production.

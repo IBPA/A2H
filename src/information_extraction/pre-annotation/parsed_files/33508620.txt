@@ -1,0 +1,20 @@
+Clostridioides difficile infection (CDI) is a growing global public health 
+threat. While fecal microbiota transplantation (FMT) is an effective therapy for 
+CDI, a number of challenges limit its application. Studies suggest that 
+probiotics may be a promising alternative therapy. In the current study, we 
+evaluated whether Bacteroides thetaiotaomicron (B. thetaiotaomicron) would 
+inhibit colonization of toxigenic BI/NAP1/027 C. difficile in a mouse model. We 
+found that B. thetaiotaomicron administration decreased the copies of C. 
+difficile and inhibited inflammation in the colon. 16S rRNA sequencing showed 
+that B. thetaiotaomicron administration was associated with a significantly 
+increased relative abundance of Bacteroidetes and decreased level of 
+Proteobacteria, leading to the reversal of the effect of antibiotics treatment 
+and C. difficile infection on microbiota. B. thetaiotaomicron administration was 
+associated with increases in the concentrations of alpha-muricholic acid, 
+beta-muricholic acid, 12 ketolithocholic acid, and deoxycholic acid which are 
+known to inhibit the growth of C. difficile, as well as reductions in the level 
+of taurocholic acid, which promotes germination of C. difficile. Altered profile 
+of major high abundance bile acids by B. thetaiotaomicron administration was 
+similar to that with FMT treatment. Based on these results, we proposed the 
+concept of "the ratio of promotion/inhibition BAs" which would advance our 
+understanding of the relation of C. difficile and BAs.

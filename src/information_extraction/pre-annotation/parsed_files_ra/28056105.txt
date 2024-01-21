@@ -1,0 +1,30 @@
+OBJECTIVE: Rheumatoid arthritis (RA) is an autoimmune inflammatory disease 
+affecting joints. Elevated plasma levels of microRNA-223-3p (miR-223-3p) in 
+patients with RA are implicated in the pathogenesis of the disease. This study 
+aimed to analyze the functional role of miR-223-3p in the pathogenesis of RA by 
+overexpressing miR-223-3p in synovial cell lines.
+METHODS: Arthritis was induced in the RA model of SKG mice by injection of 
+ß-glucan. The histopathologic features of joints were examined using hematoxylin 
+and eosin and immunohistochemical staining. Plasma levels of miRNA were 
+determined by panel real-time PCR analysis. Target genes of the differentially 
+expressed miRNAs in SKG mice were analyzed using miRNA target prediction 
+algorithms. The dual-luciferase reporter system was used to evaluate the 
+relationship between miR-223-3p and IL-17 receptor D (IL-17RD). The activity of 
+miR-223-3p was analyzed by transfection of plasmid vectors overexpressing 
+miR-223-3p into IL-17RD-expressing NIH3T3 and MH7A cell lines. Il6 and Il17rd 
+mRNA expression was analyzed by quantitative real-time PCR. IL-17RD protein 
+expression was analyzed by western blot analysis.
+RESULTS: We identified 17 upregulated miRNAs (fold change > 2.0) in plasma of 
+SKG mice injected with ß-glucan relative to untreated SKG mice. Il17rd was 
+identified as the candidate target gene of miR-223-3p using five miRNA target 
+prediction algorithms. The transfection of plasmid vectors overexpressing 
+miR-223-3p into NIH3T3 and MH7A cells resulted in the downregulation of Il17rd 
+expression and upregulation of Il6 expression. Expression of miR-223-3p and Il6 
+mRNA in MH7A cells was upregulated; however, that of Il17rd mRNA was 
+downregulated following TNF-α stimulation. IL-17RD expression in synovial 
+tissues from SKG mice and RA patients was inversely correlated with the severity 
+of arthritis.
+CONCLUSION: This study is the first to demonstrate that miR-223-3p downregulates 
+IL-17RD in both mouse and human cells; miR-223-3p may contribute to the 
+pathogenesis of RA by downregulating the expression of IL-17RD and upregulating 
+that of IL-6 in synovial cells.

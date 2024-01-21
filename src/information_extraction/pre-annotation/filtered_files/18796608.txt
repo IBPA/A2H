@@ -1,0 +1,21 @@
+Regulation of IL-6 transsignaling by the administration of soluble gp130 
+(sgp130) receptor to capture the IL-6/soluble IL-6R complex has shown promise 
+for the treatment of rheumatoid arthritis (RA). However, enhancing endogenous 
+sgp130 via alternative splicing of the gp130 gene has not yet been tested. We 
+found that epigallocatechin-3-gallate (EGCG), an anti-inflammatory compound 
+found in green tea, inhibits IL-1beta-induced IL-6 production and transsignaling 
+in RA synovial fibroblasts by inducing alternative splicing of gp130 mRNA, 
+resulting in enhanced sgp130 production. Results from in vivo studies using a 
+rat adjuvant-induced arthritis model showed specific inhibition of IL-6 levels 
+in the serum and joints of EGCG-treated rats by 28% and 40%, respectively, with 
+concomitant amelioration of rat adjuvant-induced arthritis. We also observed a 
+marked decrease in membrane-bound gp130 protein expression in the joint 
+homogenates of the EGCG-treated group. In contrast, quantitative RT-PCR showed 
+that the gp130/IL-6Ralpha mRNA ratio increased by approximately 2-fold, 
+suggesting a possible mechanism of sgp130 activation by EGCG. Gelatin zymography 
+results showed EGCG inhibits IL-6/soluble IL-6R-induced matrix 
+metalloproteinase-2 activity in RA synovial fibroblasts and in joint 
+homogenates, possibly via up-regulation of sgp130 synthesis. The results of 
+these studies provide previously undescribed evidence of IL-6 synthesis and 
+transsignaling inhibition by EGCG with a unique mechanism of sgp130 
+up-regulation, and thus hold promise as a potential therapeutic agent for RA.

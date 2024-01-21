@@ -1,0 +1,25 @@
+Inflammation is a major contributor to the secondary damage that occurs after 
+spinal cord injury (SCI). The inflammatory response is coordinated by many 
+different signaling modalities including the epigenetic modification of 
+promoters and enhancers. Bromodomain and extraterminal domain-containing 
+proteins (BETs; Brd2, Brd3, Brd4, BrdT) are epigenetic readers that bind 
+acetylated histones to promote transcription of pro-inflammatory genes. BET 
+inhibition is anti-inflammatory in animal models of cancer, rheumatoid 
+arthritis, and coronary artery disease. However, the role of BETs in 
+neuroinflammation remains largely unexplored. In this study, we investigated the 
+role of BETs in promoting inflammation in neural cells and the ability of the 
+BET inhibitor JQ1 to decrease inflammation acutely after SCI. Expression of BET 
+mRNA was assessed via qPCR in purified primary mouse macrophages, astrocytes, 
+neurons, oligodendrocytes, and microglia, as well as in naïve, sham-injured, and 
+contusion-injured mouse spinal cord. Brd2, Brd3, and Brd4 mRNA were expressed in 
+all purified primary neural cells and in the uninjured and injured mouse spinal 
+cord. BET inhibition significantly attenuated proinflammatory signaling in all 
+activated cell populations in vitro. To investigate the effects of BET 
+modulation after SCI, the BET inhibitor JQ1 was injected intraperitoneally 
+(30 mg/kg, bidaily) 3 h after spinal cord contusion in adult female C57BL/6 
+mice. By 3 days post-injury, BET inhibition significantly decreased 
+pro-inflammatory cytokine expression and leukocyte recruitment to the injury 
+site. However, this decrease did not lead to locomotor improvements or smaller 
+lesion size. Taken together, our data implicate BETs as regulators of multiple 
+key pro-inflammatory cytokines, and suggest that BETs can be pharmacologically 
+inhibited to reduce inflammation acutely after SCI.

@@ -1,0 +1,20 @@
+Novel antibody constructs consisting of two or more different camelid 
+heavy-chain only antibodies (VHHs) joined via peptide linkers have proven to 
+have potent toxin-neutralizing activity in vivo against Shiga, botulinum, 
+Clostridium difficile, anthrax, and ricin toxins. However, the mechanisms by 
+which these so-called bispecific VHH heterodimers promote toxin neutralization 
+remain poorly understood. In the current study we produced a new collection of 
+ricin-specific VHH heterodimers, as well as VHH homodimers, and characterized 
+them for their ability neutralize ricin in vitro and in vivo. We demonstrate 
+that the VHH heterodimers, but not homodimers were able to completely protect 
+mice against ricin challenge, even though the two classes of antibodies 
+(heterodimers and homodimers) had virtually identical affinities for ricin 
+holotoxin and similar IC50 values in a Vero cell cytotoxicity assay. The VHH 
+heterodimers did differ from the homodimers in their ability to promote toxin 
+aggregation in solution, as revealed through analytical ultracentrifugation. 
+Moreover, the VHH heterodimers that were most effective at promoting ricin 
+aggregation in solution were also the most effective at blocking ricin 
+attachment to cell surfaces. Collectively, these data suggest that heterodimeric 
+VHH-based neutralizing agents may function through the formation of 
+antibody-toxin complexes that are impaired in their ability to access host cell 
+receptors.

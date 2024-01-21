@@ -1,0 +1,23 @@
+Antigen presentation by the MHC-II to CD4+ T cells is important in adaptive 
+immune responses. The class II transactivator (CIITA in human and C2TA in mouse) 
+is the master regulator of MHC-II gene expression. It coordinates the 
+transcription factors necessary for the transcription of MHC-II molecules. In 
+humans, genetic variations in CIITA have been associated with differential 
+expression of MHC-II and susceptibility to autoimmune diseases. Here we made use 
+of a C2ta congenic mouse strain (expressing MHC-II haplotype H-2q ) to 
+investigate the effect of the natural genetic polymorphisms in type I promoter 
+of C2ta on MHC-II expression and function. We demonstrate that an allelic 
+variant in the type I promoter of C2ta resulted in an increased expression of 
+MHC-II on macrophages (72-151% higher mean florescence intensity) and 
+conventional dendritic cells (13-65% higher mean florescence intensity) in both 
+spleen and peripheral blood. The increase in MHC-II expression resulted in an 
+increase in antigen presentation to T cells in vitro and increased T-cell 
+activation. The differential MHC-II expression in B6Q.C2ta, however, did not 
+alter the disease development in models of rheumatoid arthritis 
+(collagen-induced arthritis and human glucose-6-phosphate-isomerase325-339 
+-peptide-induced arthritis), or multiple sclerosis (MOG1-125 protein-induced and 
+MOG79-96 peptide-induced experimental autoimmune encephalomyelitis). This is the 
+first study to address the role of an allelic variant in type I promoter of C2ta 
+in MHC-II expression and autoimmune diseases; and shows that C2ta polymorphisms 
+regulate MHC-II expression and T-cell responses but do not necessarily have a 
+strong impact on autoimmune diseases.

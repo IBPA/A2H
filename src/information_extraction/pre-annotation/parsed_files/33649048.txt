@@ -1,0 +1,23 @@
+Infection with the bacterial pathogen Clostridioides difficile causes severe 
+damage to the intestinal epithelium that elicits a robust inflammatory response. 
+Markers of intestinal inflammation accurately predict clinical disease severity. 
+However, determining the extent to which host-derived proinflammatory mediators 
+drive pathogenesis versus promote host protective mechanisms remains elusive. In 
+this report, we employed Il10 -/- mice as a model of spontaneous colitis to 
+examine the impact of constitutive intestinal immune activation, independent of 
+infection, on C. difficile disease pathogenesis. Upon C. difficile challenge, 
+Il10 -/- mice exhibited significantly decreased morbidity and mortality compared 
+to littermate Il10 heterozygote (Il10 HET) control mice, despite a comparable C. 
+difficile burden, innate immune response, and microbiota composition following 
+infection. Similarly, antibody-mediated blockade of IL-10 signaling in wild-type 
+C57BL/6 mice conveyed a survival advantage if initiated three weeks prior to 
+infection. In contrast, no advantage was observed if blockade was initiated on 
+the day of infection, suggesting that constitutive activation of inflammatory 
+defense pathways prior to infection mediated host protection. IL-22, a cytokine 
+critical in mounting a protective response against C. difficile infection, was 
+elevated in the intestine of uninfected, antibiotic-treated Il10 -/- mice, and 
+genetic ablation of the IL-22 signaling pathway in Il10 -/- mice negated the 
+survival advantage following C. difficile challenge. Collectively, these data 
+demonstrate that constitutive loss of IL-10 signaling, via genetic ablation or 
+antibody blockade, enhances IL-22 dependent host defense mechanisms to limit C. 
+difficile pathogenesis.

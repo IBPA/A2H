@@ -1,0 +1,30 @@
+Mucosal associated invariant T-cells (MAIT cells) are activated following 
+recognition of bacterial antigens (riboflavin intermediates) presented on major 
+histocompatibility complex class I-related molecule (MR1). Our previous study 
+showed that MR1-/- knock-out (KO) mice (lacking MAIT cells) harbor a unique 
+microbiota that is resistant to antibiotic disruption and Clostridioides 
+difficile colonization. While we have characterized the microbiota of this mouse 
+strain, changes in global metabolic activity in these KO mice have not been 
+assessed. Here, LC/MS-based untargeted metabolomics was applied to investigate 
+the differences in the metabolome, specifically in the bile acid (BA) profile of 
+wild-type (WT) and MR1-/- KO mice, as well as how antibiotics change these 
+profiles. BA changes were evaluated in the intestinal content, cecum content, 
+and stool samples from MR1-/- mice and WT mice treated with cefoperazone (Cef). 
+Fecal pellets were collected daily and both intestinal and cecal contents were 
+harvested at predetermined endpoints on day 0 (D0), day 1 (D1), day 3 (D3), and 
+day 5 (D5). KO mice exhibited no changes in 6-hydroxymethyl-8-D-ribityllumazine 
+(rRL-6-CH2OH; an MR1-restricted riboflavin derivative) in the stool samples at 
+either time point vs. D0, while WT mice showed significant decreases in 
+rRL-6-CH2OH in the stool samples on all treatment days vs. D0. Metabolomics 
+analysis from cecal and stool samples showed that KO mice had more total BA 
+intensity (KO/WT = ~1.7 and ~3.3 fold higher) than that from WT mice prior to 
+Cef treatment, while the fold change difference (KO/WT = ~4.5 and ~4.4 fold) 
+increased after five days of Cef treatment. Both KO and WT mice showed decreases 
+in total BA intensity in response to Cef treatment, however, less dramatic 
+decreases were present in KO vs. WT mice. Increases in taurocholic acid (TCA) 
+intensity and decreases in deoxycholic acid (DCA) intensity in the stool samples 
+from WT mice were associated with the depletion of certain gut bacteria, which 
+was consistent with the previously reported microbiome data. Furthermore, the 
+non-detected TCA and relatively higher DCA intensity in the KO mice might be 
+related to Clostridioides difficile infection resistance, although this needs 
+further investigation.

@@ -1,0 +1,14 @@
+Cell-free DNA (cfDNA) released from damaged or dead cells can activate DNA 
+sensors that exacerbate the pathogenesis of rheumatoid arthritis (RA). Here we 
+show that ~40 nm cationic nanoparticles (cNP) can scavenge cfDNA derived from RA 
+patients and inhibit the activation of primary synovial fluid monocytes and 
+fibroblast-like synoviocytes. Using clinical scoring, micro-CT images, MRI, and 
+histology, we show that intravenous injection of cNP into a CpG-induced mouse 
+model or collagen-induced arthritis rat model can relieve RA symptoms including 
+ankle and tissue swelling, and bone and cartilage damage. This culminates in the 
+manifestation of partial mobility recovery of the treated rats in a rotational 
+cage test. Mechanistic studies on intracellular trafficking and biodistribution 
+of cNP, as well as measurement of cytokine expression in the joints and cfDNA 
+levels in systemic circulation and inflamed joints also correlate with 
+therapeutic outcomes. This work suggests a new direction of nanomedicine in 
+treating inflammatory diseases.

@@ -1,0 +1,19 @@
+Proton efflux from chondrocytes alters the extracellular pH and ionic 
+composition of cartilage, and influences the synthesis and degradation of 
+extracellular matrix. Epidermal growth factor (EGF) promotes chondrocyte 
+proliferation during skeletal development and accumulates in the synovial fluid 
+in rheumatoid arthritis. The purpose of this study was to investigate the effect 
+of EGF on proton efflux from chondrocytes. When monitored using a Cytosensor 
+microphysiometer, EGF was found to rapidly activate proton efflux from CFK2 
+chondrocytic cells and rat articular chondrocytes. The actions of EGF were 
+concentration-dependent with half-maximal effects at 0.3-0.7 ng/ml. Partial 
+desensitization and time-dependent recovery of the response were observed 
+following repeated exposures to EGF. EGF-induced proton efflux was dependent on 
+extracellular glucose, and inhibitors of Na(+)/H(+) exchange (NHE) markedly 
+attenuated the initial increase in proton efflux. The response was diminished by 
+inhibitors of phosphatidylinositol 3-kinase and phospholipase C, but not by 
+inhibitors of MEK (MAPK/ERK kinase) or protein kinase A or C. Thus, EGF-induced 
+proton efflux involves glucose metabolism and NHE, and is regulated by a 
+discrete subset of EGF-activated signaling pathways. In vivo, proton efflux 
+induced by EGF may lead to an acidic environment, enhancing turnover of 
+cartilage matrix during development and in rheumatoid arthritis.

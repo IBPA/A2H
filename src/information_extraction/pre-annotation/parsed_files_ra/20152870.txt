@@ -1,0 +1,23 @@
+Macrophages play key roles in inflammatory disorders. Therefore, they are 
+targets of treatments aiming at their local destruction in inflammation sites. 
+However, injection of low molecular mass therapeutics, including 
+photosensitizers, in inflamed joints results in their rapid efflux out of the 
+joints, and poor therapeutic index. To improve selective uptake and increase 
+retention of therapeutics in inflamed tissues, hydrophilic nanogels based on 
+chitosan, of which surface was decorated with hyaluronate and which were loaded 
+with one of three different anionic photosensitizers were developed. Optimal 
+uptake of these functionalized nanogels by murine RAW 264.7 or human THP-1 
+macrophages as models was achieved after <4h incubation, whereas only negligible 
+uptake by murine fibroblasts used as control cells was observed. The uptake by 
+cells and the intracellular localization of the photosensitizers, of the 
+fluorescein-tagged chitosan and of the rhodamine-tagged hyaluronate were 
+confirmed by fluorescence microscopy. Photodynamic experiments revealed good 
+cell photocytotoxicity of the photosensitizers entrapped in the nanogels. In a 
+mouse model of rheumatoid arthritis, injection of free photosensitizers resulted 
+in their rapid clearance from the joints, while nanogel-encapsulated 
+photosensitizers were retained in the inflamed joints over a longer period of 
+time. The photodynamic treatment of the inflamed joints resulted in a reduction 
+of inflammation comparable to a standard corticoid treatment. Thus, 
+hyaluronate-chitosan nanogels encapsulating therapeutic agents are promising 
+materials for the targeted delivery to macrophages and long-term retention of 
+therapeutics in leaky inflamed articular joints.

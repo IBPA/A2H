@@ -1,0 +1,21 @@
+Rheumatoid arthritis (RA) is an immune-mediated disease with a pathogenesis that 
+involves CD4 T cell activation. Multiple immune regulatory molecules expressed 
+on CD4(+) T cells were involved in RA pathogenesis. In this study, we 
+investigated the role of T cell immunoglobulin and ITIM (immunoreceptor 
+tyrosine-based inhibition motif) domain (TIGIT) in RA. The frequency of 
+TIGIT-positive CD4(+) T cells in the synovial fluid (SF) of active RA patients 
+was lower than that of inactive RA patients. And a negative correlation between 
+RA disease activity and TIGIT expression was found. In CD4(+) T cells isolated 
+from SF of active RA patients, TIGIT upregulation significantly decreased cell 
+proliferation, as shown by MTT assay. TIGIT overexpression also significantly 
+decreased the production of IFN-γ and IL-17, and increased that of IL-10, as 
+determined by ELISA and qRT-PCR. In CD4(+) T cells isolated from SF of inactive 
+RA patients, TIGIT was silenced by siRNA transfection. As expected, TIGIT 
+knockdown resulted in an opposite effect on cell proliferation and the 
+production of cytokines, including IFN-γ, IL-17 and IL-10. A RA mouse model was 
+established using type II collagen induction. TIGIT was upregulated in RA mouse 
+by lentivector infection. As expected, TIGIT overexpression in vivo 
+significantly alleviated the disease severity and deceased the levels of 
+anti-collagen II antibodies. TIGIT upregulation in the early stage was more 
+effective to alleviate disease severity. Our data suggested the potential 
+therapeutic role of TIGIT in RA patients.

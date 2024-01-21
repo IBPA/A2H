@@ -1,0 +1,22 @@
+Docosahexaenoic acid (DHA), a component of omega-3 fatty acids, has been 
+reported to protect against inflammatory bone diseases such as osteoporosis and 
+rheumatoid arthritis. However, its exact mechanism in bone resorbing cells has 
+not been elucidated. In this study, we investigated the effects and the 
+molecular mechanism of DHA on the proliferation, differentiation, and survival 
+of osteoclast lineage cells using mouse bone marrow-derived macrophages (BMMs). 
+DHA suppressed the macrophage colony-stimulating factor (M-CSF)-induced 
+proliferation of osteoclast precursors, BMMs, in a dose-dependent manner. The 
+attenuated proliferation of DHA-treated BMMs was related to M-CSF inhibition 
+that selectively decreased Akt activation and downregulated cyclin D1 and cyclin 
+D2 expression. DHA also blocked receptor activator of NF-κB ligand 
+(RANKL)-induced osteoclast differentiation from BMMs. At the molecular level, 
+DHA inhibited JNK, ERK, and p38 MAPKs. In addition, it inhibited NF-κB signaling 
+cascades, as demonstrated by the suppression of RANKL-mediated IκBα 
+phosphorylation, NF-κB subunit p65 nuclear translocation, and NF-κB 
+transcriptional activation. Accordingly, DHA attenuated the induction of c-Fos 
+and nuclear factor of activated T cells c1 (NFATc1). Furthermore, DHA 
+accelerated the apoptosis of mature osteoclasts by inducing Bim expression, a 
+critical modulator of osteoclast apoptosis. Collectively, our data demonstrate 
+that DHA exerts an anti-osteoclastogenic effect by suppressing the proliferation 
+and differentiation of BMMs and enhancing the apoptosis of mature osteoclasts, 
+thereby resulting in a diminished number of bone-resorptive cells.

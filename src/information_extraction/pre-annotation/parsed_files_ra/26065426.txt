@@ -1,0 +1,20 @@
+B7-H3 is a cell surface molecule in the immunoglobulin superfamily that is 
+frequently upregulated in response to autoantigens and pathogens during host T 
+cell immune responses. However, B7-H3's role in the differential regulation of T 
+cell subsets remains largely unknown. Therefore, we constructed a new B7-H3 
+deficient mouse strain (B7-H3 KO) and evaluated the functions of B7-H3 in the 
+regulation of Th1, Th2, and Th17 subsets in experimental autoimmune 
+encephalomyelitis (EAE), experimental asthma, and collagen-induced arthritis 
+(CIA); these mouse models were used to predict human immune responses in 
+multiple sclerosis, asthma, and rheumatoid arthritis, respectively. Here, we 
+demonstrate that B7-H3 KO mice have significantly less inflammation, decreased 
+pathogenesis, and limited disease progression in both EAE and CIA mouse models 
+when compared with littermates; these results were accompanied by a decrease in 
+IFN-γ and IL-17 production. In sharp contrast, B7-H3 KO mice developed severe 
+ovalbumin (OVA)-induced asthma with characteristic infiltrations of eosinophils 
+in the lung, increased IL-5 and IL-13 in lavage fluid, and elevated IgE anti-OVA 
+antibodies in the blood. Our results suggest B7-H3 has a costimulatory function 
+on Th1/Th17 but a coinhibitory function on Th2 responses. Our studies reveal 
+that B7-H3 could affect different T cell subsets which have important 
+implications for regulating pathogenesis and disease progression in human 
+autoimmune disease.

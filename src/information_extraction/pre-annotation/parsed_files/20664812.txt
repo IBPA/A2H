@@ -1,0 +1,15 @@
+Recently, we constructed and characterized isogenic tcdA and tcdB mutants of a 
+virulent Clostridium difficile strain and used a hamster model of disease to 
+demonstrate that toxin B, not toxin A, is essential for virulence of this 
+emerging pathogen. Earlier studies had shown that purified toxin A alone was 
+able to induce C. difficile disease pathology and that purified toxin B was not 
+effective unless it was co-administered with toxin A, suggesting that the toxins 
+act synergistically. In this addendum we discuss this paradigm-shifting 
+conclusion in the context of current strain epidemiology, particularly with 
+respect to naturally occurring toxin A-negative, toxin B-positive isolates and 
+the NAP1/027 epidemic isolates. The role of toxin receptors and how variant 
+toxins might exert their effects is also discussed in relation to the published 
+data. We conclude that it is critical to use the natural infection process to 
+dissect the role of toxins in disease, and that future studies are contingent on 
+such work. The impact and importance of animal models of C. difficile virulence 
+are therefore considered within this frame of reference.

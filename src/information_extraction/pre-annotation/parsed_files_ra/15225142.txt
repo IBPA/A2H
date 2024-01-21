@@ -1,0 +1,20 @@
+G-protein-coupled receptor kinases (GRKs) are implicated in the pathophysiology 
+of human diseases such as arterial hypertension, heart failure and rheumatoid 
+arthritis. While G-protein-coupled receptor kinases 2 and 5 have been shown to 
+be involved in the desensitization of the rat thyrotropin receptor (TSHR), their 
+role in the pathophysiology of hyperfunctioning thyroid nodules (HTNs) is 
+unknown. Therefore, we analyzed the expression pattern of the known GRKs in 
+human thyroid tissue and investigated their function in the pathology of HTNs. 
+The expression of different GRKs in human thyroid and HTNs was measured by 
+Western blotting. The influence of GRK expression on TSHR function was analyzed 
+by coexpression experiments in HEK 293 cells. We demonstrate that in addition to 
+GRKs 2, 5 and 6, GRKs 3 and 4 are also expressed in the human thyroid. GRKs 2, 
+3, 5 and 6 are able to desensitize the TSHR in vitro. This GRK-induced 
+desensitization is amplified by the additional over-expression of beta-arrestin 
+1 or 2. We did not find any mutations in the GRKs 2, 3 and 5 from 14 HTNs 
+without TSHR mutations and Gsalpha mutations. The expression of GRKs 3 and 4 was 
+increased in HTNs independently from the existence of TSHR mutations or Gsalpha 
+mutations. In conclusion, the increased expression of GRK 3 in HTNs and the 
+ability of GRK 3 to desensitize the TSHR in vitro, suggest a potential role for 
+GRK 3 as a negative feedback regulator for the constitutively activated cAMP 
+pathway in HTNs.

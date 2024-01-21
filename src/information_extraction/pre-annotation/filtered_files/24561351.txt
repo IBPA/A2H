@@ -1,0 +1,19 @@
+A urinary metabonomics method based on the ultra-performance liquid 
+chromatography coupled with quadrupole time-of-flight mass spectrometry 
+(UPLC-Q-TOF-MS) had been established to investigate the holistic efficacy of 
+Wu-tou decoction (WTD), a traditional Chinese medicine (TCM) formula used to 
+treat rheumatoid arthritis (RA), in adjuvant-induced arthritis (AIA) rat model. 
+Multivariate statistical approaches, such as principal component analysis (PCA) 
+and orthogonal projection to latent structures squares-discriminant analysis 
+(OPLS-DA) were used to distinguish healthy control group, AIA model group and 
+WTD treated group and find potential biomarkers. There was a clear separation 
+among the three groups in PCA model. Sixteen potential biomarkers had been 
+identified using OPLS-DA, and 11 of them was considered to be in response to 
+therapeutic effects of WTD involved in tryptophan metabolism, phenylalanine 
+metabolism, tricarboxylic acid (TCA) cycle, bile acid biosynthesis, steroid 
+hormone biosynthesis and valine metabolism. In this study, WTD also showed good 
+anti-inflammatory and antioxidant activities in vivo, and it could suppress 
+histopathological changes of AIA rats. There might be a correlation between 
+these results and the regulation of the disturbed metabolites in urine. This 
+study demonstrates that metabonomics is a powerful methodology to gain insight 
+in the mechanism of TCM formula in therapy.

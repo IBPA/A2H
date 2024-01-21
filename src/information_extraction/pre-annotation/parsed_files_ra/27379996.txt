@@ -1,0 +1,26 @@
+Rheumatoid arthritis (RA) is an inflammatory disorder of the joints that affects 
+0.5-1 % of adults. Excessive growth of the fibroblast-like synoviocytes (FLS) 
+promotes hyperplasia of synovial tissues and causes its invasion into the bone 
+and cartilage, which eventually causes deformity and dysfunction of affected 
+joints. Interleukin 35 (IL-35) was shown to suppress the inflammatory responses 
+to collagen-induced arthritis (CIA) via upregulation of T regulatory cells and 
+suppression of T helper type 17 cells in a mouse model. To study the effects of 
+IL-35 on the proliferation and apoptosis frequency of cultured FLS isolated from 
+mice with CIA as well as to examine the effects of IL-35 on CIA in vivo. Thirty 
+DBA/1 J mice, which are used as an animal model for RA, were divided randomly 
+(ten mice per group) to a CIA group (collagen treatment), a CIA + IL-35 group 
+(collagen and IL-35 treatments), and a control group (no treatment). Starting on 
+the 24th day after collagen administration, IL-35 was injected intraperitoneally 
+into mice of the CIA + IL-35 group once per day for 10 days. An arthritis index 
+was calculated, and pathological analysis of synovial tissue was performed. FLS 
+isolated from CIA mice were treated with various concentrations of IL-35 
+(12.5-100 ng/ml). The MTT assay was used to examine FLS proliferation, and 
+apoptosis frequency of FLS was detected by flow cytometry. On day 24, the CIA 
+mice began to exhibit arthritis symptoms, and the symptoms rapidly progressed 
+with time. Treatment with IL-35 significantly alleviated arthritis symptoms and 
+reduced the synovial tissue inflammation. In addition, IL-35 treatment inhibited 
+proliferation and promoted apoptosis in cultured FLS from CIA mice in a 
+dose-dependent manner. IL-35 could ameliorate the symptoms of arthritis in the 
+CIA mouse model in vivo and inhibited FLS proliferation while promoting FLS 
+apoptosis in vitro, thereby exhibited the potential in inhibiting the 
+progression of RA.

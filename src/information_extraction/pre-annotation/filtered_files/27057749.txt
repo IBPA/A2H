@@ -1,0 +1,16 @@
+Glucocorticoid (GC) is the cornerstone therapy of rheumatoid arthritis, but high 
+doses are associated with serious adverse effects. In an effort to improve the 
+efficacy of low-dose GC therapy, we developed a micelle system for targeted 
+delivery to inflamed joints and validated the approach in a rat model of 
+arthritis. Micelles loaded with dexamethasone (Dex) self-assembled from the 
+amphipathic poly (ethylene glycol)-block-poly (ε-caprolactone) (PCL-PEG) polymer 
+via film dispersion, and they were injected intravenously at a dose of only 
+0.8mg/kg into rats with adjuvant-induced arthritis. The micelles persisted for a 
+relatively long time in the circulation, and they accumulated preferentially in 
+inflamed joints. Micelle-delivered Dex potently reduced joint swelling, bone 
+erosion, and inflammatory cytokine expression in both joint tissue and serum. 
+PCL-PEG micelles caused only moderate adverse effects on body weight, lymphocyte 
+count and blood glucose concentration, and they weakly activated the host 
+complement system. These results suggest that encapsulating Dex in PCL-PEG 
+micelles may allow for safe and effective low-dose GC therapy targeting 
+inflammatory disorders.

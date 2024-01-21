@@ -1,0 +1,27 @@
+BACKGROUND: The aim of this study was to assess the effects of soluble sialic 
+acid-binding immunoglobulin-type lectin (sSiglec)-9 on joint inflammation and 
+destruction in a murine collagen-induced arthritis (CIA) model and in monolayer 
+cultures of murine macrophages (RAW264.7 cells and peritoneal macrophages) and 
+fibroblast-like synoviocytes (FLS) derived from patients with rheumatoid 
+arthritis.
+METHODS: DBA/1J mice were immunized with type II collagen. Effects of sSiglec-9 
+were evaluated using a physiologic arthritis score, histological analysis, serum 
+tumor necrosis factor (TNF)-α concentration, and the proportion of forkhead box 
+P3 (Foxp3)-positive regulatory T (Treg) cells. In vivo biofluorescence imaging 
+was used to assess the distribution of sSiglec-9. Levels of M1 (TNF-α, 
+interleukin [IL]-6, and inducible nitric oxide synthase) and M2 (CD206, 
+Arginase-1, and IL-10) macrophage markers and phosphorylation of intracellular 
+signaling molecules were examined in macrophages, and levels of matrix 
+metalloproteinase (MMP)-1, MMP-3, and MMP-13 were examined in FLS.
+RESULTS: sSiglec-9 significantly suppressed the clinical and histological 
+incidence and severity of arthritis. The proportion of Foxp3-positive Treg cells 
+significantly improved and serum TNF-α concentration decreased in vivo. Although 
+sSiglec-9 reduced the expression of M1 markers in macrophages, it did not affect 
+the expression of M2 markers and MMPs in FLS. Nuclear factor (NF)-kB p65 
+phosphorylation was attenuated by sSiglec-9, and chemical blockade of the NF-kB 
+pathway reduced M1 marker expression in RAW264.7 cells.
+CONCLUSIONS: In this study, we have demonstrated the therapeutic effects of 
+sSiglec-9 in a murine CIA model. The mechanism underlying these effects involves 
+the suppression of M1 proinflammatory macrophages by inhibiting the NF-kB 
+pathway. sSiglec-9 may provide a novel therapeutic option for patients with 
+rheumatoid arthritis refractory to currently available drugs.

@@ -1,0 +1,16 @@
+CD147, a membrane glycoprotein of the immunoglobulin superfamily, is highly 
+upregulated during dynamic cellular events including tissue remodelling. 
+Elevated CD147 expression is present in the joint of rheumatoid arthritis 
+patients. However, the role of CD147 in bone destruction remains unclear. To 
+determine whether CD147 is involved in osteoclastogenesis, we studied its 
+expression in mouse osteoclasts and its role in osteoclast differentiation and 
+function. CD147 expression was markedly upregulated during osteoclast 
+differentiation. To investigate the role of CD147 in receptor activator of 
+nuclear factor-kappa B ligand (RANKL)-induced osteoclastogenesis and bone 
+resorption activity, osteoclast precursor cells were transfected with CD147 
+siRNA. Decreased CD147 expression inhibited osteoclast formation and bone 
+resorption, inhibited RANKL-induced nuclear translocation of the nuclear factor 
+of activated T cells (NFAT) c1 and decreased the expression of the d2 isoform of 
+vacuolar ATPase Vo domain and cathepsin K. Therefore, CD147 plays a critical 
+role in the differentiation and function of osteoclasts by upregulating NFATc1 
+through the autoamplification of its expression in osteoclastogenesis.

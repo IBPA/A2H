@@ -1,0 +1,25 @@
+The global emergence of Clostridium difficile infection (CDI) has contributed to 
+the recent surge in severe antibiotic-associated diarrhea and colonic 
+inflammation. C. difficile produces two homologous glucosylating exotoxins, TcdA 
+and TcdB, both of which are pathogenic and require neutralization to prevent 
+disease occurrence. However, because of their large size and complex 
+multifunctional domain structures, it has been a challenge to produce native 
+recombinant toxins that may serve as vaccine candidates. Here, we describe a 
+novel chimeric toxin vaccine that retains major neutralizing epitopes from both 
+toxins and confers complete protection against primary and recurrent CDI in 
+mice. Using a nonpathogenic Bacillus megaterium expression system, we generated 
+glucosyltransferase-deficient holotoxins and demonstrated their loss of 
+toxicity. The atoxic holotoxins induced potent antitoxin neutralizing antibodies 
+showing little cross-immunogenicity or protection between TcdA and TcdB. To 
+facilitate simultaneous protection against both toxins, we generated an active 
+clostridial toxin chimera by switching the receptor binding domain of TcdB with 
+that of TcdA. The toxin chimera was fully cytotoxic and showed potent 
+proinflammatory activities. This toxicity was essentially abolished in a 
+glucosyltransferase-deficient toxin chimera, cTxAB. Parenteral immunization of 
+mice or hamsters with cTxAB induced rapid and potent neutralizing antibodies 
+against both toxins. Complete and long-lasting disease protection was conferred 
+by cTxAB vaccinations against both laboratory and hypervirulent C. difficile 
+strains. Finally, prophylactic cTxAB vaccination prevented spore-induced disease 
+relapse, which constitutes one of the most significant clinical issues in CDI. 
+Thus, the rational design of recombinant chimeric toxins provides a novel 
+approach for protecting individuals at high risk of developing CDI.

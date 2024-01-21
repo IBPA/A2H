@@ -1,0 +1,18 @@
+Receptor activator of nuclear factor κB ligand (RANKL) is critically involved in 
+bone erosion of rheumatoid arthritis (RA). We previously reported association 
+between younger age at onset of RA and a RANKL promoter SNP that conferred an 
+elevated promoter activity via binding to a transcription factor SOX5. Here we 
+study the regulation of SOX5 levels in relation to RANKL expression in RA 
+synovial fibroblasts (SF) and the development of bone erosion in the 
+collagen-induced arthritis (CIA) mouse. Our data indicated SOX5 levels were 
+higher in synovium and synovial fluid from RA compared to osteoarthritis 
+patients. Pro-inflammatory cytokines upregulated SOX5 and RANKL expression in 
+both primary RA SF and the rheumatoid synovial fibroblast cell line, MH7A. 
+Overexpression of SOX5 resulted in significantly increased RANKL levels, while 
+knockdown of SOX5 resulted in diminished IL-6 mediated RANKL upregulation in 
+MH7A cells. Chromatin immunoprecipitation (ChIP) showed approximately 3-fold 
+enrichment of RANKL-specific DNA in anti-SOX5 immunoprecipitate in IL-6 treated 
+MH7A cells as compared to untreated cells. Locally silencing SOX5 gene 
+significantly diminished RANKL positive cells and bone erosion in CIA mice. 
+These findings suggest SOX5 is an important regulator of IL-6-induced RANKL 
+expression in RA SF.

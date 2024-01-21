@@ -1,0 +1,4 @@
+The detection of Clostridium difficile cytotoxin was compared in two established 
+cell lines; Chinese hamster ovary (CHO) and a human epithelial line, HEp-2. All 
+specimens with positive toxin assays were detected with the CHO cell line, 
+whereas only one-half of positive specimens were detected with the HEp-2 cells.

@@ -1,0 +1,17 @@
+The antimalarial drug artemisinin and its derivatives exhibit potent 
+immunosuppressive activity in several autoimmune disease models, however the 
+mechanisms are not well-understood. This study was designed to investigate the 
+therapeutic effects and the underlying mechanisms of the artemisinin analog 
+artesunate using the K/BxN mouse model of rheumatoid arthritis. The well-studied 
+disease mechanisms of K/BxN model allowed us to pinpoint the effect of 
+artesunate on disease. Artesunate treatment prevented arthritis development in 
+young K/BxN mice by inhibiting germinal center (GC) formation and production of 
+autoantibodies. In adult K/BxN mice with established arthritis, artesunate 
+diminished GC B cells in a few days. However, artesunate did not affect the 
+follicular helper T cells (Tfh). In contrast to the spontaneous K/BxN model, 
+artesunate treatment exerted minor influence on K/BxN serum transfer induced 
+arthritis suggesting that artesunate has minimal effect on inflammatory 
+responses downstream of antibody production. Finally, we showed that artesunate 
+preferentially inhibits proliferating GC B cells. These results identify GC B 
+cells as a target of artesunate and provide a new rationale for using 
+artemisinin analogues to treat autoimmune diseases mediated by autoantibodies.

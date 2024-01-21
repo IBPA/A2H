@@ -1,0 +1,30 @@
+Focal erosions of cartilage and bone, which occur in the joints of patients with 
+autoimmune inflammatory arthritis (i.e., rheumatoid arthritis (RA) and psoriatic 
+arthritis [PsA]), represent the most debilitating and irreversible components of 
+the disease. Over the last decade, seminal breakthroughs in our understanding of 
+the cells and signal transduction pathways central to this process have been 
+elucidated. From this information an established paradigm has been developed to 
+explain focal erosions in which osteoclasts responsible for erosions are derived 
+from bone marrow-derived myeloid precursors. Using the tumor necrosis factor 
+(TNF) transgenic mouse model of erosive arthritis and anti-TNF clinical trials 
+with PsA patients, we have demonstrated that systemic TNF induces the migration 
+of CD11b+ osteoclast precursors (OCP) from the bone marrow into peripheral 
+blood. These OCP can then enter the joints in blood vessels, translocate across 
+the receptor activator of NF-kappaB ligand (RANKL) rich inflamed synovium, and 
+differentiate into active osteoclasts. In direct contrast to this, systemic 
+lupus erythematosus (SLE) patients appear to have an innate resistance to bone 
+resorption. Our hypothesis to explain this phenomenon is that systemic 
+interferon-alpha (IFN-alpha) diverts the bone marrow-derived myeloid precursors 
+away from the osteoclast lineage and stimulates their differentiation into 
+dendritic cells (DC). In support of this model, several labs have used 
+microarray analyses to define the IFN-induced transcriptome in peripheral blood 
+mononuclear cells (PBMC) from SLE patients. Here we propose the hypothesis that 
+systemic TNF induces osteoclastic differentiation of PBMC in PsA patients that 
+correlates with their erosive disease, and that the innate immune TNF/IFN axis 
+in patients with autoimmune disease dictates their erosive phenotype. To 
+demonstrate this, we injected wild-type C57B/6 and TNF-Tg mice with poly I:C, 
+which is known to induce systemic IFN responses, and show its dominant effects 
+on increasing the number of circulating CD11b+/CD11c+ precursor dendritic cells 
+(pDC), concomitant with a dramatic reduction in CD11b+/CD11c- OCP. Thus, 
+systemic factors produced by autoimmunity have a dramatic impact on active 
+myelopoiesis and bone homeostasis.

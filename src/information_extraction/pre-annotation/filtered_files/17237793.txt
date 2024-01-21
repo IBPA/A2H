@@ -1,0 +1,11 @@
+Degenerative and inflammatory joint diseases lead to a destruction of the joint 
+architecture. Whereas degenerative osteoarthritis results in the formation of 
+new bone, rheumatoid arthritis leads to bone resorption. The molecular basis of 
+these different patterns of joint disease is unknown. By inhibiting Dickkopf-1 
+(DKK-1), a regulatory molecule of the Wnt pathway, we were able to reverse the 
+bone-destructive pattern of a mouse model of rheumatoid arthritis to the 
+bone-forming pattern of osteoarthritis. In this way, no overall bone erosion 
+resulted, although bony nodules, so-called osteophytes, did form. We identified 
+tumor necrosis factor-alpha (TNF) as a key inducer of DKK-1 in the mouse 
+inflammatory arthritis model and in human rheumatoid arthritis. These results 
+suggest that the Wnt pathway is a key regulator of joint remodeling.

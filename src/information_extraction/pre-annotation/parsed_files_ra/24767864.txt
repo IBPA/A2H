@@ -1,0 +1,25 @@
+OBJECTIVE: To identify how the gp130-signaling cytokine oncostatin M (OSM), 
+acting alone or in concert with IL-1β or TNFα, affects synovial fibroblast 
+expression of genes relevant to inflammation and bone erosion in inflammatory 
+arthritis.
+METHODS: Synovial fibroblasts (SFs) were isolated from non-arthritic wild type 
+(WT) or OSM receptor deficient (OSMR(-/-)) mice and stimulated with OSM, IL-1β 
+or TNFα and their combinations. Cytokine gene expression was assessed by 
+quantitative RT-PCR. ELISA, flow cytometry and immunohistochemistry identified 
+protein expression. Gene expression patterns were confirmed in SFs isolated from 
+patients with osteoarthritis (OASFs) and rheumatoid arthritis (RASFs).
+RESULTS: Expression of OSM and its receptors, gp130, OSMR and LIFR, was 
+increased in synovial tissue from the mouse antigen-induced arthritis model. In 
+isolated WT mouse synovial fibroblasts OSM alone, or in synergy with IL-1β, or 
+together with TNFα, potently induced expression of the pro-inflammatory cytokine 
+IL-6. OSM also induced a sustained increase in mRNA levels of the 
+pro-osteoclastic cytokine RANKL. Combining OSM with IL-1β, but not with TNFα, 
+further increased RANKL expression. Importantly these effects of OSM were all 
+dependent on the expression of OSMR. Furthermore, OSM also increased expression 
+of its own receptors, gp130 and OSMR and the IL-1 receptor, IL1-R1; the latter 
+effects were also observed in both human OASFs and RASFs.
+CONCLUSION: Together our data suggests that OSM signaling via OSMR in SFs has 
+the potential to contribute significantly to joint destruction in inflammatory 
+arthritis. It not only induces expression of pro-inflammatory and 
+pro-osteoclastic cytokines but can also augment its own actions and that of IL-1 
+by inducing expression of OSMR and IL-1R1.

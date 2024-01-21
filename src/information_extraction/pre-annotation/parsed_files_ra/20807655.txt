@@ -1,0 +1,19 @@
+Rheumatoid arthritis (RA) is a heterogeneous autoimmune disease that affects 1% 
+of the population worldwide. In the K/BxN mouse model of RA, autoantibodies 
+specific for glucose-6-phosphate isomerase (GPI) from these mice can transfer 
+joint-specific inflammation to normal mice. The binding of GPI/autoantibody to 
+the cartilage surface is a prerequisite for autoantibody-induced joint-specific 
+inflammation in the mouse model. Chondroitin sulfate (CS) on cartilage surface 
+is the long sought high-affinity receptor for GPI. The binding affinity and 
+structural differences between mouse paw/ankle CS and knee/elbow CS correlate 
+with the distal to proximal disease severity in these joints. The data presented 
+in this chapter indicate that autoantigen/autoantibodies in blood circulation 
+activate contact system to produce vasodilators to allow immune complex, protein 
+aggregates, and other plasma proteins to get into the joints. Cartilage surface 
+CS binds and retains autoantigen/autoantibodies. The CS/autoantigen/autoantibody 
+complexes could induce C3a and C5a production through contact system activation. 
+C3a and C5a trigger degranulation of mast cells, which further recruit plasma 
+contact system and complement proteins, immune cells, and immune activation 
+factors to facilitate joint-specific tissue destruction. Therefore, either 
+reducing autoantibody production or inhibiting autoantibody-induced contact 
+system activation might be effective in RA prevention.

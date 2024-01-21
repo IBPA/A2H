@@ -1,0 +1,27 @@
+OBJECTIVE: To identify novel genes associated with dysregulated proliferation of 
+activated synovial fibroblasts, which are involved in arthritic joint 
+destruction.
+METHODS: We performed transcriptome analysis to identify genes that were 
+up-regulated in the foot joints of mice with collagen-induced arthritis (CIA). 
+The effect of candidate genes on proliferation of synovial fibroblasts was 
+screened using antisense oligodeoxynucleotides and small interfering RNAs 
+(siRNAs). We characterized the expression and function of a novel gene, 
+synoviocyte proliferation-associated in collagen-induced arthritis 1 
+(SPACIA1)/serum amyloid A-like 1 (SAAL1) using antibodies and siRNA and 
+established transgenic mice to examine the effect of SPACIA1/SAAL1 
+overexpression in CIA.
+RESULTS: Human and mouse SPACIA1/SAAL1 encoded 474 amino acid proteins that 
+shared 80% homology. SPACIA1/SAAL1 was primarily expressed in the nucleus of 
+rheumatoid arthritis (RA) synovial fibroblasts and was highly expressed in the 
+hyperplastic lining of inflamed synovium. In addition, its expression level in 
+RA- or osteoarthritis (OA)-affected synovial tissue was positively correlated 
+with the thickness of the synovial lining. Furthermore, SPACIA1/SAAL1 siRNA 
+inhibited the proliferation of synovial fibroblasts, especially tumor necrosis 
+factor α-induced synovial fibroblasts, by blocking entry into the S phase 
+without inducing apoptosis. Finally, transgenic mice overexpressing 
+SPACIA1/SAAL1 exhibited early onset and rapid progression of CIA.
+CONCLUSION: These results suggest that SPACIA1/SAAL1 is necessary for abnormal 
+proliferation of synovial fibroblasts and its overexpression is associated with 
+the progression of synovitis in mice and humans. Thus, therapy targeting 
+SPACIA1/SAAL1 might have potential as an inhibitor of synovial proliferation in 
+RA and/or OA.

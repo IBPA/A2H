@@ -1,0 +1,23 @@
+A mechanism-based model for pharmacodynamic effects of dexamethasone (DEX) was 
+incorporated into our model for arthritis disease progression in the rat to aid 
+in identification of the primary factors responsible for edema and bone loss. 
+Collagen-induced arthritis was produced in male Lewis rats after injection of 
+type II porcine collagen. DEX was given subcutaneously in single doses of 0.225 
+or 2.25 mg/kg or 7-day multiple doses of 0.045 or 0.225 mg/kg at 21 days 
+postdisease induction. Effects on disease progression were measured by paw 
+swelling, bone mineral density (BMD), body weights, plasma corticosterone (CST), 
+and tumor necrosis factor (TNF)-alpha, interleukin (IL)-1beta, IL-6, and 
+glucocorticoid receptor (GR) mRNA expression in paw tissue. Lumbar and femur BMD 
+was determined by PIXImus II dual-energy X-ray absorptiometry. Plasma CST was 
+assayed by high-performance liquid chromatography. Cytokine and GR mRNA were 
+assayed by quantitative real-time polymerase chain reaction. Indirect response 
+models, drug interaction models, transduction processes, and the 
+fifth-generation model of corticosteroid dynamics were integrated and applied 
+using S-ADAPT software to describe how dexamethasone binding to GR can regulate 
+diverse processes. Cytokine mRNA, GR mRNA, plasma CST, and paw edema were 
+suppressed after DEX administration. TNF-alpha mRNA expression and BMD seemed to 
+increase immediately after dosing but were ultimately reduced. Model parameters 
+indicated that IL-6 and IL-1beta were most sensitive to inhibition by DEX. 
+TNF-alpha seemed to primarily influence edema, whereas IL-6 contributed the most 
+to bone loss. Lower doses of corticosteroids may be sufficient to suppress the 
+cytokines most relevant to bone erosion.

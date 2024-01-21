@@ -1,0 +1,19 @@
+We have addressed the importance of B cell tolerance to collagen type II, a 
+matrix protein, which is a target in rheumatoid arthritis (RA) and its mouse 
+models. We generated a germline-encoded anti-collagen type II (CII) IgH 
+replacement anti-C1 B cell mouse strain (ACB) to investigate how B cell 
+tolerance to CII, a matrix protein, is subverted and to further understand 
+pathogenesis of RA. Phenotypic analysis revealed that CII-specific B cells were 
+surprisingly neither deleted nor anergized. Instead, they were readily detected 
+in all lymphoid organs. Spontaneously produced autoantibodies could bind 
+directly to cartilage surface without detectable pathology. However, exaggerated 
+arthritis was seen after injection of anti-CII Abs specific for other epitopes. 
+In addition, Abs from CII-specific hybridomas generated from ACB mice induced 
+arthritis. Interestingly, IgH/L chain sequence data in B cell hybridomas 
+revealed a lack of somatic mutations in autoreactive B cells. The ACB model 
+provides the first possibility, to our knowledge, to study B cell tolerance to a 
+matrix protein, and the observations made in the study could not be predicted 
+from previous models. B cell-reactive epitopes on CII are largely shared between 
+human RA and rodent CII-induced arthritis; this study, therefore, has important 
+implications for further understanding of pathological processes in autoimmune 
+diseases like RA.

@@ -1,0 +1,27 @@
+OBJECTIVE: To determine the regulation of class II major histocompatibility 
+complex (MHC) expression in fibroblast-like synoviocytes (FLS) in order to 
+investigate their role as nonprofessional antigen-presenting cells in 
+collagen-induced arthritis (CIA).
+METHODS: Expression of class II MHC, class II MHC transactivator (CIITA), and 
+Ciita isoforms PI, PIII, and PIV was examined by real-time quantitative 
+polymerase chain reaction, immunohistochemistry, and flow cytometry in human 
+synovial tissues, arthritic mouse joints, and human and murine FLS. CIA was 
+induced in mice in which isoform PIV of Ciita was knocked out (PIV(-/-) ), in 
+PIV(-/-) mice transgenic for CIITA in the thymus (K14 CIITA), and in their 
+control littermates.
+RESULTS: HLA-DRA, total CIITA, and CIITA PIII messenger RNA levels were 
+significantly increased in synovial tissue samples from patients with rheumatoid 
+arthritis compared with the levels in tissue from patients with osteoarthritis. 
+Human FLS expressed surface class II MHC via CIITA PIII and PIV, while class II 
+MHC expression in murine FLS was entirely mediated by PIV. Mice with a targeted 
+deletion of CIITA PIV lack CD4+ T cells and were protected against CIA. The 
+expression of CIITA was restored in the thymus of PIV(-/-) K14 CIITA-transgenic 
+mice, which had a normal CD4+ T cell repertoire and normal surface levels of 
+class II MHC on professional antigen-presenting cells, but did not induce class 
+II MHC on FLS. Synovial inflammation and immune responses against type II 
+collagen were similar in PIV(-/-) K14 CIITA-transgenic mice and control mice 
+with CIA, but bone erosion was significantly reduced in the absence of PIV.
+CONCLUSION: Overexpression of class II MHC is tightly correlated with CIITA 
+expression in arthritic synovium and in FLS. Selective targeting of Ciita PIV in 
+peripheral tissues abrogates class II MHC expression by murine FLS but does not 
+protect against inflammation and autoimmune responses in CIA.

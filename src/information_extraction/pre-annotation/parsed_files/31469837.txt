@@ -1,0 +1,25 @@
+In people, colonization with Clostridioides difficile, the leading cause of 
+antibiotic-associated diarrhea, has been shown to be associated with distinct 
+gut microbial features, including reduced bacterial community diversity and 
+depletion of key taxa. In dogs, the gut microbiota features that define C. 
+difficile colonization are less well understood. We sought to define the gut 
+microbiota features associated with C. difficile colonization in puppies, a 
+population where the prevalence of C. difficile has been shown to be elevated, 
+and to define the effect of puppy age and litter upon these features and C. 
+difficile risk. We collected fecal samples from weaned (n = 27) and unweaned (n 
+= 74) puppies from 13 litters and analyzed the effects of colonization status, 
+age and litter on microbial diversity using linear mixed effects models. 
+Colonization with C. difficile was significantly associated with younger age, 
+and colonized puppies had significantly decreased bacterial community diversity 
+and differentially abundant taxa compared to non-colonized puppies, even when 
+adjusting for age. C. difficile colonization remained associated with decreased 
+bacterial community diversity, but the association did not reach statistical 
+significance in a mixed effects model incorporating litter as a random effect. 
+Even though litter explained a greater proportion (67%) of the variability in 
+microbial diversity than colonization status, we nevertheless observed 
+heterogeneity in gut microbial community diversity and colonization status 
+within more than half of the litters, suggesting that the gut microbiota 
+contributes to colonization resistance against C. difficile. The colonization of 
+puppies with C. difficile has important implications for the potential zoonotic 
+transfer of this organism to people. The identified associations point to 
+mechanisms by which C. difficile colonization may be reduced.

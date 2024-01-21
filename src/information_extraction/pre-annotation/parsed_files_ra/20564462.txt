@@ -1,0 +1,19 @@
+Approaches inducing fibroblast-like synoviocytes (FLS) apoptosis in rheumatoid 
+arthritis (RA) patients have been considered as a promising strategy for 
+treating RA. Here, adjuvant arthritis (AA) in rat was induced by complete 
+Freund's adjuvant and FLS were separated and cultured using a tissue explant 
+cultivation method. The apoptotic effect of 7,3'-dimethoxy hesperetin (DMHP, a 
+highly antirheumatic active derivative of hesperidin) on AA FLS was evaluated 
+with MTT assay, Hoechst staining and flow cytometry analysis. Bcl-2, Bax, 
+caspase 3 gene expressions and caspase 3 activity were assayed to identify 
+whether caspase 3 was involved in the apoptosis induced by DMHP. It was found 
+that DMHP significantly decreased AA FLS proliferation in vitro by MTT assay. 
+The AA FLS treated with DMHP displayed typical apoptotic characteristics 
+including irregularity in shape, nuclear shrinkage and chromatin condensation. 
+Flow cytometry analysis indicated that DMHP could obviously increase the AA FLS 
+apoptosis rate. Compared with the AA-FLS control group, DMHP markedly decreased 
+the mRNA expression of Bcl-2, whereas those of Bax and caspase 3 were increased. 
+Moreover, DMHP significantly increased caspase 3 activity in a dose-dependent 
+manner. In aggregate, the results demonstrate that DMHP effectively induces AA 
+FLS apoptosis through caspase 3 activation and can be considered as a possible 
+antirheumatic agent.

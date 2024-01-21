@@ -1,0 +1,19 @@
+IL-32, a newly-discovered proinflammatory cytokine that activates the p38MAPK 
+and NF-kappaB pathways, is an important player in innate and adaptive immune 
+response. IL-32, a cytokine produced mainly by T, natural killer, and epithelial 
+cells induces significant amounts of TNFalpha and MIP-2 and increases the 
+production of both cytokines in a dose-dependent manner. IL-32 has been 
+implicated in inflammatory disorders, mycobacterium tuberculosis infections, 
+inflammatory bowel disease, and influenza A virus infection, as well as in some 
+autoimmune diseases, such as rheumatoid arthritis, ulcerative colitis and 
+Crohn?s disease and in human stomach cancer, human lung cancer and breast cancer 
+tissues. Moreover, it has been reported that IL-32 has pro-inflammatory effects 
+on myeloid cells and causes the differentiation of osteoclast precursors into 
+multinucleated cells expressing specific osteoclast markers. We recently found 
+that human IL-32 has the capacity to provoke histamine release in human-derived 
+cord blood mast cells (HDCBMC), but not in LAD 2 cells nor in rat peritoneal 
+mast cells (RPMC), showing that IL-32 may be specie specific and act more in 
+mature human mast cells (HDCBMC) than in transformed mast cells (LAD 2 cells). 
+Certainly, IL-32 is another potent proinflammatory cytokine, however, the 
+specific role of this newly-discovered protein in the network of cytokine 
+biology remains to be determined.

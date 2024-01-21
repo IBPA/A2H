@@ -1,0 +1,23 @@
+ADP-ribosylation of Rho(A,B,C) by the family of exoenzyme C3-like transferases 
+induces reorganization of the actin cytoskeleton based on inactivation of RhoA. 
+No data are available on the role of RhoB in C3-treated cells. In murine 
+fibroblasts treated with the cell-permeable exoenzyme C3 from Clostridium 
+limosum (C3), an increase in the level of RhoB was observed. This upregulation 
+of RhoB was based on transcriptional activation, as it was responsive to 
+inhibition by actinomycin D and accompanied by activation of the rhoB promoter. 
+Upregulation of RhoB was not observed in cells treated with either the actin 
+ADP-ribosylating C2 toxin from Clostridium botulinum or latrunculin B, 
+suggesting that inactivation of Rho but not actin reorganization was required 
+for the upregulation of RhoB. This notion was confirmed, as the 
+Rho/Rac/Cdc42-glucosylating toxin B from Clostridium difficile (TcdB) but not 
+the Rac/R-Ras-glucosylating variant toxin B from C. difficile strain 1470 
+serotype F (TcdBF) induced a strong upregulation of RhoB. Upregulation of RhoB 
+was further observed in response to the Rac/(H-,K-,N-,R-)Ras-glucosylating 
+lethal toxin from Clostridium sordellii. The level of active, GTP-bound RhoB was 
+increased in TcdB-treated cells compared to untreated cells (as determined by 
+Rhotekin pull-down assay). In contrast, no active RhoB was found in C3-treated 
+cells. RhoB-GTP was required for the TcdB-induced apoptosis (cytotoxic effect), 
+as this effect was responsive to inhibition by C3. In conclusion, RhoB was 
+upregulated by Rho-/Ras-inactivating toxins, as a consequence of the 
+inactivation of either Rho(A,B,C) or (H-,K-,N-)Ras. In TcdB-treated cells, RhoB 
+escaped its inactivation and was required for the cytotoxic effect.

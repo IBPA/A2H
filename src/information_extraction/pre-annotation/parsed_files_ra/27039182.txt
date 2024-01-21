@@ -1,0 +1,32 @@
+BACKGROUND: Methotrexate (MTX) is one of the most widely used medications to 
+treat rheumatoid arthritis (RA), and recent studies have also suggested the 
+potential benefit of the drug for the treatment of osteoarthritis (OA) of the 
+knee. MTX is commonly administered in oral formulations, but is often associated 
+with systemic adverse reactions. In an attempt to address this issue, we have 
+shown previously that a conjugate of hyaluronic acid (HA) and MTX exhibits 
+potential as a drug candidate for intra-articular treatment of inflammatory 
+arthritis. In this study, we compare the efficacy and safety of an optimized 
+HA-MTX conjugate, DK226, with that of MTX in inflammatory arthritis rat models.
+METHODS: In vitro activity of DK226 was assessed in human fibroblast-like 
+synoviocytes (HFLS) and a synovial sarcoma cell line, SW982. Release of MTX from 
+DK226 was investigated after incubation with rabbit synovial tissue homogenate 
+or synovial fluid. In vivo efficacy of DK226 was evaluated in antigen-induced 
+arthritis (AIA) and collagen-induced arthritis (CIA) in the rat knee. 
+Pharmacokinetics and hematological toxicity after treatment with oral MTX or an 
+intra-articular injection of DK226 were compared in AIA.
+RESULTS: Proliferation of HFLS and SW982 cells was inhibited by DK226, and the 
+inhibitory activity was reversed by cotreatment with excess HA or anti-CD44 
+antibody. MTX was released from DK226 by incubation with rabbit synovial tissue 
+homogenate or synovial fluid at pH 4.0, but not at pH 7.4. AIA was ameliorated 
+by intra-articular DK226, but not by HA, as potently as oral MTX. Hematological 
+toxicity was induced by oral MTX, but not by DK226. The maximum plasma 
+concentration of MTX after oral MTX was 40 times higher than the concentration 
+of MTX after an intra-articular injection of DK226. Knee swelling in AIA was 
+inhibited by intra-articular injections of DK226, but not by free MTX or a 
+mixture of HA and MTX. In CIA, an injection of DK226 into the right knee joint 
+significantly reduced swelling and synovial inflammation of the treated knee 
+joint, but had no effect on the untreated contralateral knee joint.
+CONCLUSIONS: DK226 exerted anti-arthritic effects in two different models of 
+arthritis. The conjugate had a wider therapeutic window than oral MTX, and could 
+be a future drug for treatment of arthritic disorders, including inflammatory 
+OA.

@@ -1,0 +1,26 @@
+OBJECTIVE: To identify novel microRNA (miR) associations in synovial fibroblasts 
+(SF), by performing miR expression profiling on cells isolated from the human 
+tumour necrosis factor (TNF) transgenic mouse model (TghuTNF, Tg197) and 
+patients biopsies.
+METHODS: miR expression in SF from TghuTNF and wild-type (WT) control mice were 
+determined by miR deep sequencing (miR-seq) and the arthritic profile was 
+established by pairwise comparisons. Quantitative PCR analysis was utilised for 
+profile validation, miR and gene quantitation in patient SF. Dysregulated miR 
+target genes and pathways were predicted via bioinformatic algorithms and 
+validated using gain-of-function coupled with reporter assay experiments.
+RESULTS: miR-seq demonstrated that TghuTNF-SF exhibit a distinct pathogenic 
+profile with 22 significantly upregulated and 30 significantly downregulated 
+miR. Validation assays confirmed the dysregulation of miR-223, miR-146a and 
+miR-155 previously associated with human rheumatoid arthritis (RA) pathology, as 
+well as that of miR-221/222 and miR-323-3p. Notably, the latter were also found 
+significantly upregulated in patient RA SF, suggesting for the first time their 
+association with RA pathology. Bioinformatic analysis suggested Wnt/cadherin 
+signalling as a putative pathway target. miR-323-3p overexpression was shown to 
+enhance Wnt pathway activation and decrease the levels of its predicted target 
+β-transducin repeat containing, an inhibitor of β-catenin.
+CONCLUSIONS: Using miR-seq-based profiling in SF from the TghuTNF mouse model 
+and validations in RA patient biopsies, the authors identified miR-221/222 and 
+miR-323-3p as novel dysregulated miR in RA SF. Furthermore, the authors show 
+that miR-323-3p is a positive regulator of WNT/cadherin signalling in RA SF 
+suggesting its potential pathogenic involvement and future use as a therapeutic 
+target in RA.

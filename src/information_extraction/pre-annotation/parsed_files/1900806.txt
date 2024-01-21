@@ -1,0 +1,22 @@
+This study was undertaken to determine if the relative resistance of neonates 
+and infants to Clostridium difficile-associated intestinal disease can be 
+related to age-dependent differences in intestinal receptors for C. difficile 
+toxins A and B. Brush border membranes (BBMs) from the small intestines of adult 
+and infant hamsters were examined for their ability to bind radiolabeled toxins 
+A and B. [125I]toxin A bound to both infant and adult hamster BBMs at 
+physiological temperature, whereas [125I]toxin B did not bind to the BBMs under 
+any of the conditions examined. The number of [125I]toxin A molecules bound at 
+saturation was approximately 4 x 10(10) per micrograms of membrane protein for 
+adult BBMs and 1 x 10(11) per micrograms of membrane protein for infant BBMs. 
+Scatchard plot analysis suggested the presence of a single class of toxin A 
+binding sites on both infant and adult hamster BBMs. Maximal binding capacity 
+and Kd values were 0.63 pmol/mg of protein and 66.7 nM, respectively, for the 
+infant BBMs, and 0.24 pmol/mg of protein and 27 nM, respectively, for the adult 
+BBMs. Sodium dodecyl sulfate-polyacrylamide gel electrophoretic analyses of 
+extracted BBM proteins revealed differences in the proteins of infant and adult 
+BBMs. However, there were not any detectable differences in the protein bands 
+which bound [125I]toxin A between infant and adult hamsters. The results from 
+these investigations indicate that differences in the binding kinetics of toxins 
+A and/or B to infant and adult hamster BBMs do not account for the observed 
+differences in their susceptibility to C. difficile-associated intestinal 
+disease.

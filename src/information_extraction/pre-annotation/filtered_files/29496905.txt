@@ -1,0 +1,22 @@
+p70 S6 kinase (S6K1) is a serine/threonine kinase that phosphorylates the 
+insulin receptor substrate-1 (IRS-1) at serine 1101 and desensitizes insulin 
+receptor signaling. S6K1 hyperactivation due to overnutrition leads to 
+hyperglycemia and type 2 diabetes. Our recent study showed that A77 1726, the 
+active metabolite of the anti-rheumatoid arthritis (RA) drug leflunomide, is an 
+inhibitor of S6K1. Whether leflunomide can control hyperglycemia and sensitize 
+the insulin receptor has not been tested. Here we report that A77 1726 increased 
+AKTS473/T308 and S6K1T389 phosphorylation but decreased S6S235/236 and 
+IRS-1S1101 phosphorylation in 3T3-L1 adipocytes, C2C12 and L6 myotubes. A77 1726 
+increased insulin receptor tyrosine phosphorylation and binding of the p85 
+subunit of the PI-3 kinase to IRS-1. A77 1726 enhanced insulin-stimulated 
+glucose uptake in L6 myotubes and 3T3-L1 adipocytes, and enhanced 
+insulin-stimulated glucose transporter type 4 (GLUT4) translocation to the 
+plasma membrane of L6 cells. Finally, we investigated the anti-hyperglycemic 
+effect of leflunomide on ob/ob and high-fat diet (HFD)-induced diabetes mouse 
+models. Leflunomide treatment normalized blood glucose levels and overcame 
+insulin resistance in glucose and insulin tolerance tests in ob/ob and HFD-fed 
+mice but had no effect on mice fed a normal chow diet (NCD). Leflunomide 
+treatment increased AKTS473/T308 phosphorylation in the fat and muscle of ob/ob 
+mice but not in normal mice. Our results suggest that leflunomide sensitizes the 
+insulin receptor by inhibiting S6K1 activity in vitro, and that leflunomide 
+could be potentially useful for treating patients with both RA and diabetes.

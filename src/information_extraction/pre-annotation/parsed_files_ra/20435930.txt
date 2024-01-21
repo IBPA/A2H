@@ -1,0 +1,25 @@
+Serum amyloid A (A-SAA), an acute-phase protein with cytokine-like properties, 
+is expressed at sites of inflammation. This study investigated the effects of 
+A-SAA on chemokine-regulated migration and angiogenesis using rheumatoid 
+arthritis (RA) cells and whole-tissue explants in vitro, ex vivo, and in vivo. 
+A-SAA levels were measured by real-time PCR and ELISA. IL-8 and MCP-1 expression 
+was examined in RA synovial fibroblasts, human microvascular endothelial cells, 
+and RA synovial explants by ELISA. Neutrophil transendothelial cell migration, 
+cell adhesion, invasion, and migration were examined using transwell 
+leukocyte/monocyte migration assays, invasion assays, and adhesion assays with 
+or without anti-MCP-1/anti-IL-8. NF-kappaB was examined using a specific 
+inhibitor and Western blotting. An RA synovial/SCID mouse chimera model was used 
+to examine the effects of A-SAA on cell migration, proliferation, and 
+angiogenesis in vivo. High expression of A-SAA was demonstrated in RA patients 
+(p < 0.05). A-SAA induced chemokine expression in a time- and dose-dependent 
+manner (p < 0.05). Blockade with anti-scavenger receptor class B member 1 and 
+lipoxin A4 (A-SAA receptors) significantly reduced chemokine expression in RA 
+synovial tissue explants (p < 0.05). A-SAA induced cell invasion, 
+neutrophil-transendothelial cell migration, monocyte migration, and adhesion 
+(all p < 0.05), effects that were blocked by anti-IL-8 or anti-MCP-1. 
+A-SAA-induced chemokine expression was mediated through NF-kappaB in RA explants 
+(p < 0.05). Finally, in the RA synovial/SCID mouse chimera model, we 
+demonstrated for the first time in vivo that A-SAA directly induces monocyte 
+migration from the murine circulation into RA synovial grafts, synovial cell 
+proliferation, and angiogenesis (p < 0.05). A-SAA promotes cell migrational 
+mechanisms and angiogenesis critical to RA pathogenesis.

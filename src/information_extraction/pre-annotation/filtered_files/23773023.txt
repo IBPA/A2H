@@ -1,0 +1,19 @@
+Collagen-induced arthritis (CIA) is an animal model for rheumatoid arthritis 
+(RA). Lipopolysaccharide (LPS) is known to accelerate CIA; however, the 
+pathogenetic mechanisms are not yet fully understood. In this study, type II 
+collagen (CII)-immunized mice were found to have marked increases in degree of 
+expression of mRNA of inflammatory mediators such as tumor necrosis factor alpha 
+(TNF-α), interleukin (IL)-1β, and macrophage inflammatory protein-2 (MIP-2) in 
+their arthritic paws and of serum anti-CII antibody concentration before the 
+onset of arthritis induced by LPS injection. The gene expression was rapid and 
+continuous after direct activation of nuclear factor κB. The amounts of mRNA of 
+TNF-α, IL-1β, and MIP-2, as well as of matrix metalloproteinases and the 
+receptor activator of nuclear factor κB ligand, increased with the development 
+of arthritis, correlated positively with clinical severity and corresponded with 
+histopathological changes. Moreover, anti-TNF-α neutralizing antibody inhibited 
+the development of LPS-accelerated CIA and a single injection of recombinant 
+mouse TNF-α induced increases in anti-CII antibody concentrations, suggesting 
+TNF-α may contribute to the development of arthritis by both initiation of 
+inflammation and production of autoantibodies. These data suggest that 
+exacerbation of RA by LPS is associated with rapid and continuous production of 
+inflammatory mediators and autoantibodies.

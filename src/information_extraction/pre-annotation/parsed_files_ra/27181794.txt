@@ -1,0 +1,23 @@
+CONTEXT: Rheumatoid arthritis is a chronic, autoimmune and systemic inflammatory 
+disease, which targets synovial joints leading to joint destruction mediated in 
+part by migration of inflammatory cells into the synovial tissue.
+OBJECTIVE: The present study evaluates the anti-rheumatic effect of a methanol 
+extract of Ananas comosus (L.) Merr. (Bromeliaceae) peel in rats.
+MATERIALS AND METHODS: Anti-rheumatic activity of crude extract of peels of A. 
+comosus in complete Freund's induced arthritis model in rats was studied at 
+doses of 50, 100, 250 and 500 mg/kg b.w. for 21 days. Parameters such as paw 
+size, levels of superoxide dismutase (SOD), catalase (CAT), glutathione 
+peroxidase (GPx), C-reactive proteins (CRP) and prostaglandins (PGE2) were 
+analysed.
+RESULTS: Oral administration of the extract significantly reduced the swelling 
+in the paw of rats (EC50 65.1 ± 2.95 mg/kg b.w.) with a maximal inhibition of 
+77.01 ± 10.53% on 21st day at 500 mg/kg b.w. The extract also significantly 
+reduced the levels of SOD, CAT and GPx in liver (EC50 26.84 ± 16.37, 
+68.37 ± 19.22, 106.54 ± 34.81 mg/kg b.w., respectively), kidney (EC50 
+261.75 ± 81.5, 176.38 ± 8.08, 14.32 ± 6.64, mg/kg b.w., respectively) and spleen 
+(EC50 152.14 ± 39.57, 83.97 ± 14.6, 47.1 ± 10.45 mg/kg b.w., respectively); and 
+CRP (EC50 36.37 ± 12.4 mg/kg b.w.) and PGE2 (EC50 191.06 ± 71.54 mg/kg b.w.) in 
+tissue homogenate and serum, respectively, at 500 mg/kg b.w. as compared to 
+arthritic control group.
+DISCUSSION AND CONCLUSION: These results suggest that A. comosus fruit peel 
+extract exerts anti-rheumatic activity.

@@ -1,0 +1,22 @@
+Many autoimmune conditions have close genetic linkages to particular human 
+histocompatibility leukocyte antigen (HLA) class II genes. With the aim of 
+establishing a murine model of autoimmune disease, we have generated an HLA 
+DR4-DQ3 haplotype transgenic (Tg) mouse that expresses a 440-kb yeast artificial 
+chromosome harbouring DRA, DRB1*040101, DRB4*010301, DQA1*030101, DQB1*0302 and 
+all the internal regulatory segments. This Tg mouse line was crossed to human 
+CD4 (hCD4) Tg mice and endogenous class II knockout mice (I-A(o/o) and I-E(o/o)) 
+lines to generate a DR4-DQ3.hCD4.IAE(o/o) Tg line. The Tg DR and DQ molecules 
+are expressed on the physiological cell types in these animals, i.e. on most B 
+cells (>85%), dendritic cells (DCs) and macrophages but not on T cells, with 
+levels of expression comparable with those of human B cells (where DR > DQ 
+expression). The DR4/DQ3 transgenes fully reconstituted the CD4 T-cell 
+compartment, in both the thymus and the periphery, and the analysis of the 
+T-cell receptor repertoire in the Tg mice confirmed that these class II 
+molecules were able to mediate thymic selection of a broad range of Vbeta 
+families. HLA DR4- and DQ3-restricted T-cell responses were elicited following 
+immunization with known T-cell determinants presented by these molecules. 
+Furthermore, the DR4-DQ3-restricted CD4(+) T cells conferred protective 
+antibody-mediated immunity against an otherwise lethal infection with Salmonella 
+enterica var. typhimurium. These new DR4-DQ3 Tg mice should prove to be valuable 
+tools for dissecting the importance of this class II haplotype in autoimmune 
+disorders like rheumatoid arthritis.

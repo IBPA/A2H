@@ -1,0 +1,24 @@
+BACKGROUNDS: Patients with rheumatoid arthritis (RA) have increased risk of 
+sudden cardiac death (SCD), which is two-fold higher than general population. 
+The driving cause of SCD was considered due to lift-threatening arrhythmia where 
+systemic inflammation acts as the pathophysiological basis linking RA to 
+autonomicdysfunction.
+METHODS: To assess the sympathetic over-activity of "inflammatory reflex", we 
+measured heart rate variability (HRV) in a rat collagen-induced arthritis (CIA) 
+model, whose arthritis is induced in Lewis rats by intradermal injection of 
+emulsion of type II collagen. Single-lead electrocardiogram (ECG) was recorded 
+for 30 min every two days. Time and frequency-domain parameters, detrended 
+fluctuation analysis (DFA), deceleration (DC) and acceleration capacity (AC) 
+were analyzed.
+RESULTS: Compared with 9 control rats, many of HRV parameters of 9 CIA rats 
+revealed significant different. At the beginning of arthritis, LF/HF was 
+significant higher than controls (1st week: 2.41 ± 0.7 vs. 1.76 ± 0.6, p < 0.05; 
+2nd week: 2.24 ± 0.5 vs. 1.58 ± 0.5, p < 0.05) indicating intensive inflammatory 
+reflex at the initial phase of inflammation but no significant difference was 
+observed in the following recover phase. The similar trend of DFA parameters was 
+noted. However, the DC appeared progressive lower despite of no significant 
+increase of the LF/HF compared with controls since 4th week.
+CONCLUSIONS: We observed sympathetic over-activation of inflammatory reflex 
+during early stage of arthritis in CIA rats. The ongoing decline of DC indicated 
+advanced cardiac autonomic dysfunction regardless of remission of acute 
+arthritis.

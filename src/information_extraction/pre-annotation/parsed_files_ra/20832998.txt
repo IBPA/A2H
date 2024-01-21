@@ -1,0 +1,26 @@
+While B cells are generally considered to be positive regulators of humoral 
+immune responses due to their ability to differentiate into plasmablasts/plasma 
+cells and produce antibodies, B cells also modulate immune responses through 
+antigen presentation and cytokine secretion. Moreover, "regulatory B cells" that 
+suppress immune responses have been recognized as an important new component of 
+the immune system. In mice, the function of regulatory B cells is almost 
+exclusively dependent on IL-10. The cell-surface phenotype of murine 
+IL-10-producing regulatory B cells is reported to be CD1d(hi)CD5(+) or 
+CD1d(hi)CD21(hi)CD23(+)IgM(hi), and thus their phenotype overlaps with that of 
+CD5(+) B-1a cells, CD1d(hi)CD21(hi)CD23(lo)IgM(hi) marginal zone (MZ) B cells, 
+and CD1d(hi)CD21(hi)CD23(hi)IgM(hi) T2-MZ precursor B cells. Contrary to earlier 
+work that suggested a minor role for B cells in contact hypersensitivity, 
+regulatory B cells are now known to have a critical inhibitory functions in this 
+type of immune response. Furthermore, studies using murine disease models have 
+demonstrated that regulatory B cells play a significant role in autoimmune 
+connective tissue diseases such as rheumatoid arthritis and systemic lupus 
+erythematosus, as well as organ-specific autoimmune diseases including 
+experimental autoimmune encephalomyelitis and inflammatory bowel disease. In 
+comparison to mouse regulatory B cells, little is known regarding their human 
+counterparts. One recent study demonstrates that human CD19(+)CD24(hi)CD38(hi) B 
+cells possess regulatory capacity. Clarifying the molecular mechanisms by which 
+regulatory B cells suppress immune responses will be of great benefit in the 
+development of new B cell-targeted therapeutic strategies.
+
+Copyright © 2010 Japanese Society for Investigative Dermatology. Published by 
+Elsevier Ireland Ltd. All rights reserved.

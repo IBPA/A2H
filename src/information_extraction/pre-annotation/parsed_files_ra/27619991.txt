@@ -1,0 +1,23 @@
+Two heterodimeric receptors consisting of either IL-20R1 or IL-22R1 in complex 
+with a common β receptor subunit IL-20R2 are shared by three of the IL-20 family 
+of cytokines: IL-19, IL-20, and IL-24. These proinflammatory cytokines have been 
+implicated in the pathogenesis of some autoimmune diseases, including rheumatoid 
+arthritis (RA), psoriasis, and atopic dermatitis. Although mAbs against IL-19 
+and IL-20 have each been shown to modulate disease severity of collagen-induced 
+arthritis in animal models, and anti-IL-20 therapeutic Ab has exhibited some 
+efficacy in the treatment of RA in clinical trials, benefits for a complete 
+blockade of these functionally redundant cytokines remain to be explored. In 
+this report, we show that recombinant human soluble IL-20R2-Fc fusion protein 
+binds to IL-19, IL-20, and IL-24 with similar high affinity and blocks their 
+signaling in vitro. In DBA/1 mouse collagen-induced arthritis model, recombinant 
+human IL-20R2-Fc exhibits comparable efficacy as TNF blocker etanercept in the 
+treatment of established arthritis, whereas the combined use of both biologics 
+manifests little synergistic therapeutic effects. In situ ligand-receptor 
+functional binding analysis shows that a large amount of immune infiltrates 
+expressing high levels of TNFR and IL-20 subfamily cytokines congregate within 
+the inflamed disease tissues. Colocalization experiments reveal that signals 
+from IL-20R2 and TNF transduction pathways seem to converge in macrophages and 
+function in tandem in orchestrating the pathogenesis of RA. Elucidation of this 
+interaction provides a better understanding of cytokine cross-talk in RA and a 
+rationale for more effective biologic therapies that target IL-20R2 instead of 
+individual cytokines from IL-20 family.

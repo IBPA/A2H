@@ -1,0 +1,26 @@
+Osteoclasts, the primary bone resorbing cells, are responsible for destructive 
+bone diseases such as postmenopausal osteoporosis, rheumatoid arthritis, and 
+periodontitis. Many plant-derived traditional medicines that might suppress the 
+formation and/or function of osteoclasts are promising treatments for 
+osteoclast-related diseases. In this study, we investigated the effects of 
+leonurine hydrochloride (LH) on receptor activator NF-κB ligand (RANKL)-induced 
+osteoclastogenesis and ovariectomy-induced bone loss. LH is a synthetic chemical 
+compound based on the structure of leonurine, which is found in motherwort and 
+has been reported to exhibit phytoestrogenic activity. In RAW 264.7 cells and 
+mouse bone marrow monocytes (BMMs), LH suppressed RANKL-induced 
+osteoclastogenesis and actin ring formation in a dose-dependent manner. LH 
+targeted RANKL-induced osteoclastogenesis and bone resorption at an early stage. 
+Molecular analysis demonstrated that LH attenuated RANKL-induced NF-κB signaling 
+by inhibiting the phosphorylation and degradation of IκBα and NF-κB p65 nuclear 
+translocation. LH inhibited the RANK-TRAF6 association triggered by RANKL 
+binding and the phosphatidylinositol 3-kinase (PI3K)/Akt axis, without 
+significantly affecting the extracellular signal-regulated kinase 
+(ERK)/mitogen-activated protein kinase (MAPK) and AP-1 signaling pathways. LH 
+attenuated the RANKL-stimulated expression of osteoclast-related genes including 
+NFATc1, tartrate resistant acid phosphatase (TRAP), cathepsin K, and 
+osteoclast-associated receptor (OSCAR). Consistent with the in vitro results, LH 
+administration attenuated osteoclast activity, thus preventing bone loss caused 
+by estrogen deficiency in mice. In this study, LH suppressed RANKL-induced 
+osteoclastogenesis via RANK-TRAF6, NF-κB, and PI3K/Akt signaling. These data 
+provide the first evidence that LH might be a promising therapeutic compound to 
+treat osteoclast-related diseases, such as osteoporosis.

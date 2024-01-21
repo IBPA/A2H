@@ -1,0 +1,22 @@
+Objective: Smad7 is an inhibitory Smad and plays a protective role in many 
+inflammatory diseases. However, the roles of Smad7 in rheumatoid arthritis (RA) 
+remain unexplored, which were investigated in this study. Methods: The 
+activation of TGF-β/Smad signaling was examined in synovial tissues of patients 
+with RA. The functional roles and mechanisms of Smad7 in RA were determined in a 
+mouse model of collagen-induced arthritis (CIA) in Smad7 wild-type (WT) and 
+knockout (KO) CD-1 mice, a strain resistant to autoimmune arthritis induction. 
+Results: TGF-β/Smad3 signaling was markedly activated in synovial tissues of 
+patients with RA, which was associated with the loss of Smad7, and enhanced Th17 
+and Th1 immune response. The potential roles of Smad7 in RA were further 
+investigated in a mouse model of CIA in Smad7 WT/KO CD-1 mice. As expected, 
+Smad7-WT CD-1 mice did not develop CIA. Surprisingly, CD-1 mice with Smad7 
+deficiency developed severe arthritis including severe joint swelling, synovial 
+hyperplasia, cartilage damage, massive infiltration of CD3+ T cells and F4/80+ 
+macrophages, and upregulation of proinflammatory cytokines IL-1β, TNFα, and 
+MCP-1. Further studies revealed that enhanced arthritis in Smad7 KO CD-1 mice 
+was associated with increased Th1, Th2 and, importantly, Th17 over the Treg 
+immune response with overactive TGF-β/Smad3 and proinflammatory IL-6 signaling 
+in the joint tissues. Conclusions: Smad7 deficiency increases the susceptibility 
+to autoimmune arthritis in CD-1 mice. Enhanced TGF-β/Smad3-IL-6 signaling and 
+Th17 immune response may be a mechanism through which disrupted Smad7 causes 
+autoimmune arthritis in CD-1 mice.

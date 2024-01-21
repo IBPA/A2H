@@ -1,0 +1,27 @@
+OBJECTIVE: Interferon-gamma-inducible protein 10 (IP-10; also called CXCL10), a 
+chemokine important in the migration and proliferation of T cells, is induced in 
+a wide variety of cell types. However, the role of IP-10 in rheumatoid arthritis 
+(RA) remains largely unknown. The purpose of this study was to examine the 
+potential role of IP-10 in bone resorption and RA through examination of a mouse 
+model of collagen-induced arthritis (CIA).
+METHODS: The effects of IP-10 on mouse T cells during osteoclast differentiation 
+were examined in migration assays. The bone-erosive activity of IP-10 was 
+determined in vivo in a mouse model of CIA by histologic and immunostaining 
+analyses. Cytokine levels in serum and culture medium were measured with 
+sandwich enzyme-linked immunosorbent assays.
+RESULTS: Serum concentrations of IP-10 were significantly higher in mice with 
+CIA than in control mice. RANKL greatly induced IP-10 expression in osteoclast 
+precursors, but not in mature osteoclasts. IP-10 stimulated the expression of 
+RANKL and tumor necrosis factor alpha (TNFalpha) in CD4+ T cells and induced 
+osteoclastogenesis in cocultures of CD4+ T cells and osteoclast precursors. 
+However, IP-10 did not induce RANKL or TNFalpha in CD8+ T cells. Treatment with 
+neutralizing antibody to IP-10 significantly inhibited the infiltration of CD4+ 
+T cells and F4/80+ macrophages into the synovium and attenuated bone destruction 
+in mice with CIA. Furthermore, levels of RANKL and TNFalpha were inhibited by 
+antibody to IP-10. Bone erosion was observed in mice infected with an IP-10 
+retrovirus.
+CONCLUSION: Our findings suggest that IP-10 plays a critical role in the 
+infiltration of CD4+ T cells and F4/80+ macrophages into inflamed joints and 
+causes bone destruction. Our results provide the first evidence that IP-10 
+contributes to the recruitment of inflammatory cells and is involved in bone 
+erosion in inflamed joints.

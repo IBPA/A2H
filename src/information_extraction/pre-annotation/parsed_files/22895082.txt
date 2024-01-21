@@ -1,0 +1,23 @@
+Antibiotic treatment to treat specific infections has the potential to 
+effectively target the offending microbe as well as other microbes that colonize 
+sites within a host. Antibiotic-associated diarrhea (AAD) is a classic example 
+resulting from disruption of host microbial communities; 20% of patients with 
+AAD are likely to become colonized with Clostridium difficile. Restoration of a 
+"normal" microbial community within the host using probiotic bacteria is one 
+approach to circumvent AAD and C. difficile infection. The goals of this study 
+were to assess the interactions between Streptococcus thermophilus, a potential 
+probiotic organism and C. difficile using both in vitro and in vivo systems. 
+Exposure of C. difficile to filtered supernatants from S. thermophilus showed a 
+dose-dependent, bactericidal effect due to lactic acid. Additional studies show 
+that levels of lactic acid (10 mM) that did not inhibit bacterial growth had the 
+potential to decrease tcdA expression and TcdA release into the extracellular 
+milieu. In vivo, treatment with viable S. thermophilus significantly increased 
+luminal levels of lactate in the cecum compared with UV-irradiated S. 
+thermophilus. In the context of infection with C. difficile, mice treated with 
+viable S. thermophilus exhibited 46% less weight loss compared with untreated 
+controls; moreover, less pathology, diarrhea, and lower detectable toxin levels 
+in cecal contents were evident more often in S. thermophillus treated mice. A 
+significant, inverse correlation (Spearman r = -0.942, p = 0.017) between the 
+levels of luminal lactate and abundance of C. difficile were noted suggesting 
+that lactate produced by S. thermophilus is a factor impacting the progression 
+of C. difficile infection in the murine system.

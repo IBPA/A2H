@@ -1,0 +1,21 @@
+In the last years evidence has been provided for the importance of B cells in 
+the pathogenesis of rheumatoid arthritis (RA). Several studies have supported 
+the concept that humoral immunity, manifested by the production of 
+autoantibodies, such as rheumatoid factors (RFs), plays a significant role in 
+the course of the disease. Specific targeting of autoantibody-producing B cells, 
+such as RF-producing B cells, should therefore be a promising new approach in 
+the treatment of RA. We used a mouse model to induce human RF responses and 
+asked the question whether oral treatment with the antigen (human IgG) 
+recognized by RFs could induce immune tolerance to RF responses. Balb/c mice 
+were orally treated with polyvalent human IgG before and after immunization with 
+insoluble immune complexes (ICs) that triggered the induction of RFs. Serum 
+titers of RFs were significantly reduced after both primary and booster 
+immunization when human IgG was given as a single oral dose or continuously in 
+drinking water. Continuous treatment with human IgG even prevented booster 
+effects on RFs when treatment started after primary immunization. Treatment with 
+IgG fragments provided evidence that the observed effect of human IgG was 
+mediated by the Fc part and not the Fab part of IgG. Furthermore, transfer of 
+spleen cells obtained from mice after oral treatment with human IgG suppressed 
+RF responses in recipient mice. These data give promising indications that oral 
+human IgG might represent an alternative approach for immunosuppressive B-cell 
+targeted therapies in RA.

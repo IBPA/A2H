@@ -1,0 +1,27 @@
+OBJECTIVE: Erosion of cartilage and bone is a hallmark of rheumatoid arthritis 
+(RA). This study was undertaken to explore the roles of hyperproliferating 
+synovial fibroblasts and macrophages in abnormal osteoclast formation, using the 
+recently described BXD2 mouse model of RA.
+METHODS: Cell distribution in the joints was analyzed by immunohistochemistry, 
+using tartrate-resistant acid phosphatase (TRAP) staining to identify 
+osteoclasts. To identify the defective cells in BXD2 mice, mouse synovial 
+fibroblasts (MSFs) were cultured with bone marrow-derived macrophages. 
+Osteoclast formation was assayed by TRAP staining and bone resorption pit assay, 
+and the cytokine profiles of the MSFs and macrophages were determined by 
+quantitative real-time polymerase chain reaction and enzyme-linked immunosorbent 
+assay.
+RESULTS: In BXD2 mice, TRAP-positive osteoclasts were found at sites of active 
+bone erosion, in close proximity to hyperproliferating synovial fibroblasts. On 
+coculture, MSFs from BXD2 mice, but not C57BL/6 mice, produced high levels of 
+RANKL messenger RNA, induced macrophages to form osteoclasts, and actively 
+eroded bone slices, through a mechanism(s) that could be blocked by pretreatment 
+with osteoprotegerin. Although macrophages from BXD2 mice expressed higher basal 
+levels of tumor necrosis factor alpha (TNFalpha), interleukin-1beta (IL-1beta), 
+and IL-6 than those from C57BL/6 mice, abnormal osteoclast formation was not due 
+to enhanced sensitivity of the BXD2 mouse macrophages to RANKL. TNFalpha, 
+produced by both BXD2 MSFs and BXD2 mouse macrophages, had a strong stimulatory 
+effect on RANKL expression.
+CONCLUSION: BXD2 MSFs produce RANKL and induce the development of osteoclasts 
+from macrophages. The enhanced production of RANKL is possibly due to autocrine 
+stimulation, together with paracrine stimulation by factors produced by 
+macrophages.

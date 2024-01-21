@@ -1,0 +1,16 @@
+Impaired apoptosis of rheumatoid arthritis (RA)‑fibroblast‑like synoviocytes 
+(FLS) is pivotal in the process of RA. Peptidyl arginine deiminase type IV 
+(PADI4) is associated with autoantibody regulation via histone citrullination in 
+RA. The present study aimed to investigate the role of PADI4 in the apoptosis of 
+RA‑FLS. FLS were isolated from patients with RA and a rat model. The effects of 
+PADI4 on RA‑FLS were investigated in vitro and in vivo. Hypoxia‑induced 
+autophagy was induced by 1% O2 and was detected by immunohistochemical and 
+immunofluorescence analysis; in addition, apoptosis was detected by flow 
+cytometry. RA‑FLS obtained from RA rat model exhibited significant proliferation 
+under severe hypoxia conditions. Hypoxia also significantly induced autophagy 
+and elevated the expression of PADI4. Subsequently, short hairpin RNA‑mediated 
+PADI4 knockdown was demonstrated to significantly inhibit hypoxia‑induced 
+autophagy and promote apoptosis in RA‑FLS. The results of these in vitro and 
+in vivo studies suggested that PADI4 may be closely associated with 
+hypoxia‑induced autophagy, and the inhibition of hypoxia‑induced autophagy by 
+PADI4 knockdown may contribute to an increase in the apoptosis of RA‑FLS.

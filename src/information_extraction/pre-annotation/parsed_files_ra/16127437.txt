@@ -1,0 +1,15 @@
+Phosphoinositide 3-kinases (PI3K) have long been considered promising drug 
+targets for the treatment of inflammatory and autoimmune disorders as well as 
+cancer and cardiovascular diseases. But the lack of specificity, isoform 
+selectivity and poor biopharmaceutical profile of PI3K inhibitors have so far 
+hampered rigorous disease-relevant target validation. Here we describe the 
+identification and development of specific, selective and orally active 
+small-molecule inhibitors of PI3Kgamma (encoded by Pik3cg). We show that 
+Pik3cg(-/-) mice are largely protected in mouse models of rheumatoid arthritis; 
+this protection correlates with defective neutrophil migration, further 
+validating PI3Kgamma as a therapeutic target. We also describe that oral 
+treatment with a PI3Kgamma inhibitor suppresses the progression of joint 
+inflammation and damage in two distinct mouse models of rheumatoid arthritis, 
+reproducing the protective effects shown by Pik3cg(-/-) mice. Our results 
+identify selective PI3Kgamma inhibitors as potential therapeutic molecules for 
+the treatment of chronic inflammatory disorders such as rheumatoid arthritis.

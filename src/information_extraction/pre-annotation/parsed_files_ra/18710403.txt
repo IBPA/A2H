@@ -1,0 +1,23 @@
+Changes in the glycan structures of some glycoproteins have been observed in 
+autoimmune diseases such as systemic lupus erythematosus (SLE) and rheumatoid 
+arthritis. A deficiency of alpha-mannosidase II, which is associated with 
+branching in N-glycans, has been found to induce SLE-like glomerular nephritis 
+in a mouse model. These findings suggest that the alteration of the 
+glycosylation has some link with the development of SLE. An analysis of glycan 
+alteration in the disordered tissues in SLE may lead to the development of 
+improved diagnostic methods and may help to clarify the carbohydrate-related 
+pathogenic mechanism of inflammation in SLE. In this study, a comprehensive and 
+differential analysis of N-glycans in kidneys from SLE-model mice and control 
+mice was performed by using the quantitative glycan profiling method that we 
+have developed previously. In this method, a mixture of deuterium-labelled 
+N-glycans from the kidneys of SLE-model mice and non-labelled N-glycans from 
+kidneys of control mice was analysed by liquid chromatography/mass spectrometry. 
+It was revealed that the low-molecular-mass glycans with simple structures, 
+including agalactobiantennary and paucimannose-type oligosaccharides, markedly 
+increased in the SLE-model mouse. On the other hand, fucosylated and 
+galactosylated complex type glycans with high branching were decreased in the 
+SLE-model mouse. These results suggest that the changes occurring in the 
+N-glycan synthesis pathway may cause the aberrant glycosylations on not only 
+specific glycoproteins but also on most of the glycoproteins in the SLE-model 
+mouse. The changes in glycosylation might be involved in autoimmune pathogenesis 
+in the model mouse kidney.

@@ -1,0 +1,22 @@
+Saccharomyces boulardii (Sb), a probiotic yeast, protects against intestinal 
+injury and inflammation caused by a wide variety of enteric pathogens, including 
+Clostridium difficile. Given the broad range of protective effects of Sb in 
+multiple gastrointestinal disorders, we hypothesize that Sb modulates host 
+signaling pathways involved in intestinal inflammatory responses. In this study, 
+we found that Sb culture supernatant (SbS) inhibits interleukin-8 production 
+induced by C. difficile toxin A or IL-1beta in human colonocyte NCM460 cells in 
+a dose-dependent fashion. Furthermore, SbS inhibited IL-1beta and toxin A 
+induced Erk1/2 and JNK/SAPK but not p38 activation in NCM460 cells. To test 
+whether this inhibition also occurs in vivo, we used a previously established 
+mouse ileal loop model. On its own, SbS had no significant effect on basal fluid 
+secretion or intestinal histology. However, Erk1/2 activation was significantly 
+inhibited by SbS in toxin A exposed mouse ileal mucosa. In control loops, toxin 
+A increased fluid secretion (2.2-fold), histological score (3.3-fold), and 
+levels of the chemokine KC (4.5-fold). SbS pretreatment completely normalized 
+toxin A mediated fluid secretion (p < 0.01), and histopathologic changes (p < 
+0.01) and substantially inhibited toxin A-associated KC increases (p < 0.001). 
+In summary, the probiotic yeast S. boulardii inhibits C. difficile toxin 
+A-associated enteritis by blocking the activation of Erk1/2 MAP kinases. This 
+study indicates a new mechanism whereby Sb protects against intestinal 
+inflammation and supports the hypothesis that Sb modulates host inflammatory 
+signaling pathways to exert its beneficial effects.

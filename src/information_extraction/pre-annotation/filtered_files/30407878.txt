@@ -1,0 +1,19 @@
+Growth differentiation factor 11 (GDF11), a key member of the TGF-β superfamily, 
+plays critical roles in various medical conditions. Recently, GDF11 was found to 
+suppress the nuclear factor kappa-light-chain-enhancer of activated B cells 
+(NF-κB) signaling pathway and protect against inflammation. This study aimed to 
+investigate the role of GDF11 in the development of rheumatoid arthritis (RA). 
+We demonstrated that GDF11 treatment antagonized TNF-α-induced inflammation in 
+macrophages. Moreover, GDF11 inhibited the development of arthritis in the 
+collagen-induced arthritis and collagen antibody-induced arthritis models. Local 
+gene transfer of GDF11 via adeno-associated virus exerted therapeutic effects, 
+while local knockdown of GDF11 exaggerated inflammation in our collagen-induced 
+arthritis model, as detected by expression levels of inflammatory biomarkers and 
+the destruction of joint structures. Additionally, the results from both in 
+vitro experiments and luciferase reporter gene mouse experiments implied that 
+the NF-κB pathway might play a critical role in the therapeutic effect of GDF11 
+in RA. This study presents GDF11 as a potential target for the treatment of 
+inflammatory arthritis, including RA.-Li, W., Wang, W., Liu, L., Qu, R., Chen, 
+X., Qiu, C., Li, J., Hayball, J., Liu, L., Chen, J., Wang, X., Pan, X., Zhao, Y. 
+GDF11 antagonizes TNF-α-induced inflammation and protects against the 
+development of inflammatory arthritis in mice.

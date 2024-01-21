@@ -1,0 +1,30 @@
+BACKGROUND: Studies have identified that the fibroblast-like synoviocytes (FLS) 
+exhibited tumor-like characteristics and was the key factor in the pathogenesis 
+of Rheumatoid arthritis (RA). GANT61, an antagonist of the sonic hedgehog 
+pathway, has been verified with inhibitory effect on many cancers. Here we 
+investigated the effect of GANT61 on FLS and the development of collagen-induced 
+arthritis (CIA).
+METHODS: 40 Sprague Dawley (SD) rats were randomly divided into four groups: 
+normal, CIA, CIA+10 mg/kg GANT61 and CIA+20 mg/kg GANT61. CIA was induced in rat 
+with collagen injecting. The GANT61 was administered by intraperitoneal 
+injection every 2 days for 3 weeks. The CIA model was identified with the paw 
+swelling, arthritis score and the pathologic changes in joint. The FLS of 
+different group were primary cultured. The proliferative capacity of FLS was 
+detecteded via Cell Counting Kit-8 (CCK-8) method, and the apoptosis was 
+detecteded by flow cytometry. The Bcl-2, Bax, Caspases3 and cleaved Caspases3 in 
+synovium and FLS were detecteded by Western Blot.
+RESULTS: The 20 mg/kg GANT61 treatment reduced the incidence of CIA and relieved 
+the arthritis symptoms in CIA rats. The Bcl-2 was upregulated and the Bax was 
+downregulated in the CIA rats synovium. The 10 mg/kg and 20 mg/kg GANT61 
+diminished the Bcl-2 expression, 20 mg/kg GANT61 increased the Bax and activated 
+the Caspases3 in the CIA synovium. The proliferation of CIA-FLS was 
+significantly higher and the apoptosis of the CIA-FLS was lower than that of the 
+control group. The 10 mg/kg and 20 mg/kg GANT61 treatment can reduce cell 
+proliferation and induce apoptosis by diminishing Bcl-2 and increasing the Bax 
+in CIA-FLS.
+CONCLUSIONS: The GANT61 inhibit the proliferation of FLS and alleviated the 
+arthritic symptoms in CIA rats, this implied the GANT61 may be recommended as a 
+possible candidate for the therapy of RA.
+
+Copyright © 2018 The Japanese Orthopaedic Association. Published by Elsevier 
+B.V. All rights reserved.

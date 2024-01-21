@@ -1,0 +1,17 @@
+Clostridium difficile is the causative agent of C. difficile-associated diarrhea 
+(CDAD), with increased risk in elderly populations. Kibdelomycin, a novel 
+natural-product inhibitor of type II topoisomerase enzymes, was evaluated for 
+activity against C. difficile and gastrointestinal anaerobic organisms. 
+Toxigenic C. difficile isolates (n=168) from U.S. hospitals and anaerobic 
+Gram-positive and Gram-negative organisms (n=598) from Chicago-area hospitals 
+were tested. Kibdelomycin showed potent activity against toxigenic C. difficile 
+(MIC90=0.25 μg/ml) and most Gram-positive aerobic organisms but had little 
+activity against Bacteroides species (MIC50>32 μg/ml; n=270). Potent anti-C. 
+difficile activity was also observed in the hamster model of C. difficile 
+colitis. Dosing at 1.6 mg/kg (twice-daily oral dose) resulted in protection from 
+a lethal infection and a 2-log reduction in C. difficile cecal counts. A 
+6.25-mg/kg twice-daily oral dose completely eliminated detectable C. difficile 
+counts in cecal contents. A single 6.25-mg/kg oral dose showed that cecal 
+contents were exposed to the drug at >2 μM (eightfold higher than the MIC), with 
+no significant plasma exposure. These findings support further exploration of 
+kibdelomycin for development of an anti-C. difficile agent.

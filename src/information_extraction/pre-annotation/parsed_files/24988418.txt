@@ -1,0 +1,32 @@
+BACKGROUND: The intestinal microbiota protect the host against enteric pathogens 
+through a defense mechanism termed colonization resistance. Antibiotics excreted 
+into the intestinal tract may disrupt colonization resistance and alter normal 
+metabolic functions of the microbiota. We used a mouse model to test the 
+hypothesis that alterations in levels of bacterial metabolites in fecal 
+specimens could provide useful biomarkers indicating disrupted or intact 
+colonization resistance after antibiotic treatment.
+METHODS: To assess in vivo colonization resistance, mice were challenged with 
+oral vancomycin-resistant Enterococcus or Clostridium difficile spores at 
+varying time points after treatment with the lincosamide antibiotic clindamycin. 
+For concurrent groups of antibiotic-treated mice, stool samples were analyzed 
+using quantitative real-time polymerase chain reaction to assess changes in the 
+microbiota and using non-targeted metabolic profiling. To assess whether the 
+findings were applicable to another antibiotic class that suppresses intestinal 
+anaerobes, similar experiments were conducted with piperacillin/tazobactam.
+RESULTS: Colonization resistance began to recover within 5 days and was intact 
+by 12 days after clindamycin treatment, coinciding with the recovery bacteria 
+from the families Lachnospiraceae and Ruminococcaceae, both part of the phylum 
+Firmicutes. Clindamycin treatment caused marked changes in metabolites present 
+in fecal specimens. Of 484 compounds analyzed, 146 (30%) exhibited a significant 
+increase or decrease in concentration during clindamycin treatment followed by 
+recovery to baseline that coincided with restoration of in vivo colonization 
+resistance. Identified as potential biomarkers of colonization resistance, these 
+compounds included intermediates in carbohydrate or protein metabolism that 
+increased (pentitols, gamma-glutamyl amino acids and inositol metabolites) or 
+decreased (pentoses, dipeptides) with clindamycin treatment. 
+Piperacillin/tazobactam treatment caused similar alterations in the intestinal 
+microbiota and fecal metabolites.
+CONCLUSIONS: Recovery of colonization resistance after antibiotic treatment 
+coincided with restoration of several fecal bacterial metabolites. These 
+metabolites could provide useful biomarkers indicating intact or disrupted 
+colonization resistance during and after antibiotic treatment.

@@ -1,0 +1,20 @@
+OBJECTIVE: To investigate the role of interleukin-17 (IL-17) in inflammatory 
+arthritis by blockade with an IL-17 receptor/human IgG1 Fc fusion protein 
+(muIL-17R:Fc) in adjuvant-induced arthritis (AIA) in the rat.
+METHODS: AIA was induced in 39 DA rats with the use of Freund's complete 
+adjuvant. Rats received either 7.3 or 20 mg/kg of muIL-17R:Fc or phosphate 
+buffered saline intraperitoneally every other day from the time of arthritis 
+induction for approximately 17 days. Paw volume, arthritis severity, and weight 
+were assessed every 3-4 days. Rats were killed between days 21 and 23 
+post-induction. Ankles were removed for quantitative radiology and histology and 
+for immunohistochemistry for T cells.
+RESULTS: Treatment with muIL-17R:Fc attenuated paw volume in a dose-dependent 
+manner. Both the 7.3 and 20 mg/kg doses of muIL-17R:Fc significantly reduced 
+radiographic scores in the treated rats compared with the controls. The 20 mg/kg 
+dose of muIL-17R:Fc significantly reduced histology scores compared with the 
+controls. T cell numbers were unchanged in the muIL-17R:Fc-treated rats as a 
+function of dose.
+CONCLUSION: In vivo blockade of IL-17 by muIL-17R:Fc treatment attenuated AIA 
+and reduced joint damage, suggesting that IL-17 plays an important role in the 
+inflammation and joint destruction of AIA. IL-17 may be a potential therapeutic 
+target for inflammatory diseases in humans, such as rheumatoid arthritis.

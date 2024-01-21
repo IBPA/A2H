@@ -1,0 +1,22 @@
+Cathepsin S is a major histocompatibility complex (MHC) class II associated 
+invariant chain (Ii) degrading enzyme expressed in antigen presenting cells such 
+as B cells and dendritic cells. This enzyme is essential for MHC class II 
+associated antigen processing and presentation to CD4(+) T cells. Compound I, a 
+selective, reversible and orally bioavailable, inhibitor of cathepsin S, with 
+molecular IC(50)=9 nM, has been recently described. We have tested the effects 
+of compound I in a trans vivo model of delayed-type hypersensitivity. Human 
+peripheral blood mononuclear cells (7-10 x 10(6)) from tetanus-sensitized donors 
+were co-injected with tetanus toxoid (0.25 Lf) into C57Bl/6 mouse footpads. At 
+24 h, significant footpad swelling (+0.024+/-0.001 cm) characterized by an 
+influx of mouse neutrophils and monocytes was observed. Injection of peripheral 
+blood mononuclear cells alone caused negligible swelling (0.002+/-0.0002 cm). 
+Anti-human MHC class II (HLA-DR, DP, DQ) antibody (5 mg/kg, i.p.) inhibited the 
+swelling 91+/-7%, thus demonstrating a role of human antigen presenting cells in 
+this model. Compound I (10, 30, and 100 mg/kg, p.o.) inhibited the response with 
+an ED50 of approximately 18 mg/kg. Compound III, a less active analogue 
+(molecular IC50>20 microM) had no effect. Furthermore, pretreatment of 
+peripheral blood mononuclear cells with 10 nM compound II, an irreversible 
+inhibitor (molecular IC50=11 nM) inhibited swelling 87+/-4%. These findings 
+support the role of cathepsin S in human delayed-type hypersensitivity. 
+Inhibition of cathepsin S with compound I may be useful in the treatment of 
+human autoimmune diseases like rheumatoid arthritis and multiple sclerosis.

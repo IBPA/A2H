@@ -1,0 +1,21 @@
+The incidence of AA amyloidosis is high in humans with rheumatoid arthritis and 
+several animal species, including cats and cattle with prolonged inflammation. 
+AA amyloidosis can be experimentally induced in mice using severe inflammatory 
+stimuli and a coinjection of AA amyloid; however, difficulties have been 
+associated with transmitting AA amyloidosis to a different animal species, and 
+this has been attributed to the "species barrier." The interleukin-1 receptor 
+antagonist knockout (IL-1raKO) mouse, a rodent model of human rheumatoid 
+arthritis, has been used in the transmission of AA amyloid. When IL-1raKO and 
+BALB/c mice were intraperitoneally injected with mouse AA amyloid together with 
+a subcutaneous pretreatment of 2% AgNO3, all mice from both strains that were 
+injected with crude or purified murine AA amyloid developed AA amyloidosis. 
+However, the amyloid index, which was determined by the intensity of AA amyloid 
+deposition, was significantly higher in IL-1raKO mice than in BALB/c mice. When 
+IL-1raKO and BALB/c mice were injected with crude or purified bovine AA amyloid 
+together with the pretreatment, 83% (5/6 cases) and 38% (3/8 cases) of IL-1raKO 
+mice and 17% (1/6 cases) and 0% (0/6 cases) of BALB/c mice, respectively, 
+developed AA amyloidosis. Similarly, when IL-1raKO and BALB/c mice were injected 
+with crude or purified feline AA amyloid, 33% (2/6 cases) and 88% (7/8 cases) of 
+IL-1raKO mice and 0% (0/6 cases) and 29% (2/6 cases) of BALB/c mice, 
+respectively, developed AA amyloidosis. These results indicated that IL-1raKO 
+mice are a useful animal model for investigating AA amyloidogenesis.

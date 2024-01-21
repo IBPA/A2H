@@ -1,0 +1,21 @@
+Allograft inflammatory factor (AIF)-1 has been identified in chronic rejection 
+of rat cardiac allografts and is thought to be involved in the immune response. 
+We previously showed that AIF-1 was strongly expressed in synovial tissues in 
+rheumatoid arthritis and that rAIF-1 increased the IL-6 production of 
+synoviocytes and peripheral blood mononuclear cells. Recently, the expression of 
+AIF-1 has been reported in systemic sclerosis (SSc) tissues, whose clinical 
+features and histopathology are similar to those of chronic graft-vs-host 
+disease (GVHD). To clarify the pathogenic mechanism of fibrosis, we examined the 
+expression and function of AIF in sclerodermatous (Scl) GVHD mice. We 
+demonstrated that immunoreactive AIF-1 and IL-6 were significantly expressed in 
+infiltrating mononuclear cells and fibroblasts in thickened skin of Scl GVHD 
+mice compared with control. The immunohistochemical findings were confirmed by 
+Western blot analysis. Wound healing assay also revealed that rAIF-1 increased 
+the migration of normal human dermal fibroblasts (NHDF) directly, but cell 
+growth assay did not show that rAIF-1 increased the proliferation of them. These 
+findings suggest that AIF-1, which can induce the migration of fibroblasts and 
+the production of IL-6 in affected skin tissues, is an important molecule 
+promoting fibrosis in GVHD. Although the biological function of AIF-1 has not 
+been completely elucidated, AIF-1 can induce IL-6 secretion on mononuclear cells 
+and fibroblast chemotaxis. AIF-1 may accordingly provide an attractive new 
+target for antifibrotic therapy in SSc as well as Scl GVHD.

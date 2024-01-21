@@ -1,0 +1,24 @@
+OBJECTIVE: Rheumatoid arthritis (RA) is a sexually dimorphic inflammatory 
+autoimmune disease with both articular and extraarticular disease 
+manifestations, including RA-associated interstitial lung disease. Low levels of 
+testosterone have been linked to disease severity in men with RA, and 
+supplemental testosterone has been shown to improve RA symptoms in both 
+postmenopausal women and men with low levels of testosterone. The mechanisms by 
+which sex and sex steroids affect the immune system and autoimmunity are poorly 
+understood. The purpose of this study was to examine the protective effects of 
+testicular-derived sex hormones on the development of joint and lung disease in 
+an autoimmune mouse model.
+METHODS: Arthritis prevalence and severity were assessed in orchiectomized, 
+sham-orchiectomized, and intact male SKG mice as well as in female SKG mice over 
+a 12-week period after intraperitoneal injection of zymosan. Lung tissues were 
+evaluated by quantifying cellular accumulation in bronchoalveolar lavage fluid, 
+collagen levels, and histologic changes. An antigen microarray was used to 
+evaluate autoantibody generation under each experimental condition.
+RESULTS: Female SKG mice developed arthritis and lung disease at increased 
+prevalence and severity as compared to intact male mice. The absence of 
+testosterone after orchiectomy led to increased arthritis, lung disease, and 
+autoantibody generation in orchiectomized male mice as compared to intact male 
+mice.
+CONCLUSION: SKG mice represent an authentic sexually dimorphic mouse model of 
+both the joint and lung disease seen in humans with RA. Testosterone protects 
+against the development of joint and lung disease in male SKG mice.

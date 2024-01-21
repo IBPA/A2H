@@ -1,0 +1,31 @@
+OBJECTIVE: Immune complexes (ICs) play a critical role in the pathology of 
+autoimmune diseases. The aim of this study was to generate and characterise a 
+first-in-class anti-FcγRIIA antibody (Ab) VIB9600 (previously known as MEDI9600) 
+that blocks IgG immune complex-mediated cellular activation for clinical 
+development.
+METHODS: VIB9600 was humanised and optimised from the IV.3 Ab. Binding affinity 
+and specificity were determined by Biacore and ELISA. Confocal microscopy, Flow 
+Cytometry-based assays and binding competition assays were used to assess the 
+mode of action of the antibody. In vitro cell-based assays were used to 
+demonstrate suppression of IC-mediated inflammatory responses. In vivo target 
+suppression and efficacy was demonstrated in FcγRIIA-transgenic mice. 
+Single-dose pharmacokinetic (PK)/pharmacodynamic study multiple dose Good 
+Laboratory Practice (GLP) toxicity studies were conducted in non-human primates.
+RESULTS: We generated a humanised effector-deficient anti-FcγRIIA antibody 
+(VIB9600) that potently blocks autoantibody and IC-mediated proinflammatory 
+responses. VIB9600 suppresses FcγRIIA activation by blocking ligand engagement 
+and by internalising FcγRIIA from the cell surface. VIB9600 inhibits IC-induced 
+type I interferons from plasmacytoid dendritic cells (involved in SLE), 
+antineutrophil cytoplasmic antibody (ANCA)-induced production of reactive oxygen 
+species by neutrophils (involved in ANCA-associated vasculitis) and IC-induced 
+tumour necrosis factor α and interleukin-6 production (involved in rheumatoid 
+arthritis). In FcγRIIA transgenic mice, VIB9600 suppressed antiplatelet 
+antibody-induced thrombocytopaenia, acute anti-GBM Ab-induced nephritis and 
+anticollagen Ab-induced arthritis. VIB9600 also exhibited favourable PK and 
+safety profiles in cynomolgus monkey studies.
+CONCLUSIONS: VIB9600 is a specific humanised antibody antagonist of FcγRIIA with 
+null effector function that warrants further clinical development for the 
+treatment of IC-mediated diseases.
+
+© Author(s) (or their employer(s)) 2019. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.

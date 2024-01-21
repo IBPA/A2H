@@ -1,0 +1,21 @@
+The mass and function of bones depend on the maintenance of a complicated 
+balance between osteoclast-mediated bone resorption and osteoblast-mediated bone 
+formation. An inhibitor of osteoclast differentiation and/or function is 
+expected to be useful for treatment of bone lytic diseases such as osteoporosis, 
+rheumatoid arthritis, and tumor metastasis into bone. Biselyngbyaside is a 
+recently isolated macrolide compound from marine cyanobacteria Lyngbya sp. that 
+shows wide-spectrum cytotoxicity toward human tumor cell lines. In this study, 
+we investigated the effects of biselyngbyaside on osteoclast differentiation and 
+function. Biselyngbyaside inhibited receptor activator of nuclear factor-κB 
+ligand (RANKL)-induced osteoclastogenesis in mouse monocytic RAW264 cells and 
+primary bone marrow-derived macrophages at a low concentration. Similarly, 
+biselyngbyaside suppressed osteoblastic cell-mediated osteoclast differentiation 
+in cocultures. In the RANKL-induced signaling pathway, biselyngbyaside inhibited 
+the expression of c-Fos and NFATc1, which are important transcription factors in 
+osteoclast differentiation. In mature osteoclasts, biselyngbyaside decreased 
+resorption-pit formation. Biselyngbyaside also induced apoptosis accompanied by 
+the induction of caspase-3 activation and nuclear condensation, and these 
+effects were negated by the pancaspase inhibitor z-VAD-FMK. Taken together, the 
+present findings indicate that biselyngbyaside suppresses bone resorption via 
+inhibition of osteoclastogenesis and induction of apoptosis. Thus, 
+biselyngbyaside may be useful for the prevention of bone lytic diseases.

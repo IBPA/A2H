@@ -1,0 +1,15 @@
+MicroRNAs (miRNAs) are short noncoding RNA molecules that modulate the 
+expression of multiple target genes at the post-transcriptional level and are 
+implicated in a wide array of cellular and developmental processes. In 
+hematopoietic cells, miRNA levels are dynamically regulated during lineage 
+differentiation and also during the course of the immune response. Mouse models 
+have provided good evidence for miRNAs being key players in the establishment of 
+hematopoietic lineages. Furthermore, miRNA-dependent alterations in gene 
+expression in hematopoietic cells are critical for mounting an appropriate 
+immune response to a wide range of pathogens, spontaneously emerging tumors, and 
+autoimmune cells. Deregulation of hematopoietic-specific miRNA expression 
+results in defects in both central and peripheral tolerance, hematopoietic 
+malignancies, and sometimes both. Abnormal expression of miRNAs-which is 
+implicated in inflammation-has also been found in patients with rheumatoid 
+arthritis. These findings identify miRNAs as critical targets for 
+immunomodulatory drug development.

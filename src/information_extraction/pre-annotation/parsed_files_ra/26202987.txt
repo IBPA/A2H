@@ -1,0 +1,22 @@
+IL-1β is a potent proinflammatory cytokine of the innate immune system that is 
+involved in host defense against infection. However, increased production of 
+IL-1β plays a pathogenic role in various inflammatory diseases, such as 
+rheumatoid arthritis, gout, sepsis, stroke, and transplant rejection. To prevent 
+detrimental collateral damage, IL-1β release is tightly controlled and typically 
+requires two consecutive danger signals. LPS from Gram-negative bacteria is a 
+prototypical first signal inducing pro-IL-1β synthesis, whereas extracellular 
+ATP is a typical second signal sensed by the ATP receptor P2X7 that triggers 
+activation of the NLRP3-containing inflammasome, proteolytic cleavage of 
+pro-IL-1β by caspase-1, and release of mature IL-1β. Mechanisms controlling 
+IL-1β release, even in the presence of both danger signals, are needed to 
+protect from collateral damage and are of therapeutic interest. In this article, 
+we show that acetylcholine, choline, phosphocholine, phosphocholine-modified LPS 
+from Haemophilus influenzae, and phosphocholine-modified protein efficiently 
+inhibit ATP-mediated IL-1β release in human and rat monocytes via nicotinic 
+acetylcholine receptors containing subunits α7, α9, and/or α10. Of note, we 
+identify receptors for phosphocholine-modified macromolecules that are 
+synthesized by microbes and eukaryotic parasites and are well-known modulators 
+of the immune system. Our data suggest that an endogenous anti-inflammatory 
+cholinergic control mechanism effectively controls ATP-mediated release of IL-1β 
+and that the same mechanism is used by symbionts and misused by parasites to 
+evade innate immune responses of the host.

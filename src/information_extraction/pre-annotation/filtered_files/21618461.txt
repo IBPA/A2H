@@ -1,0 +1,19 @@
+OBJECTIVE: To investigate the uptake of a poly(amidoamine) dendrimer (generation 
+5 [G5]) nanoparticle covalently conjugated to polyvalent folic acid (FA) as the 
+targeting ligand into macrophages, and to investigate the activity of an FA- and 
+methotrexate (MTX)-conjugated dendrimer (G5-FA-MTX) as a therapeutic for the 
+inflammatory disease of arthritis.
+METHODS: In vitro studies were performed in macrophage cell lines and in 
+isolated mouse macrophages to check the cellular uptake of fluorescence-tagged 
+G5-FA nanoparticles, using flow cytometry and confocal microscopy. In vivo 
+studies were conducted in a rat model of collagen-induced arthritis to evaluate 
+the therapeutic potential of G5-FA-MTX.
+RESULTS: Folate-targeted dendrimer bound and internalized in a receptor-specific 
+manner into both folate receptor β-expressing macrophage cell lines and primary 
+mouse macrophages. The conjugate G5-FA-MTX acted as a potent antiinflammatory 
+agent and reduced arthritis-induced parameters of inflammation such as ankle 
+swelling, paw volume, cartilage damage, bone resorption, and body weight 
+decrease.
+CONCLUSION: The use of folate-targeted nanoparticles to specifically target MTX 
+into macrophages may provide an effective clinical approach for antiinflammatory 
+therapy in rheumatoid arthritis.

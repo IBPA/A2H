@@ -1,0 +1,21 @@
+In 1996 a new murine model of spontaneous arthritis was described by the group 
+of Benoist and Mathis. Mice transgenic for a T cell receptor recognizing an 
+epitope of bovine RNase and bred onto a NOD background developed severe 
+destructive arthritis, which resembles human rheumatoid arthritis in many 
+respects. The development of disease requires the presence of T and B 
+lymphocytes and is dependent on the MHC class II molecule I-A(g7). B cell 
+activation by antigen and an additional CD40-CD40 ligand interaction was found 
+to give rise to the production of autoantibodies. Glucose-6-phosphate isomerase 
+was identified as the target of the autoantibodies; moreover, the transgenic T 
+cells were demonstrated to exhibit a dual specificity for both bovine RNase and 
+glucose-6-phosphate isomerase. Importantly, the arthritis is serum transferable 
+to normal recipients, enabling the examination of the pathogenic mechanisms of 
+joint inflammation and destruction. Recent studies suggest the crucial 
+involvement of the innate immune system in the development of antibody-induced 
+arthritis. Complement components, Fc receptors and neutrophils are indispensable 
+for disease induction. An overview of the existing data is given and the 
+emerging concepts of the pathogenesis of the K/BxN arthritis are discussed with 
+respect to their relevance for human rheumatoid arthritis. Because of the 
+reliable and robust induction of joint inflammation by serum transfer this new 
+disease model has been and will be a valuable means to address the 
+as-yet-unanswered key questions related to the development of arthritis.

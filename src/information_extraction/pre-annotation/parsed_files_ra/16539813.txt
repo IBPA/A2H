@@ -1,0 +1,25 @@
+OBJECTIVE: The findings of the involvement of tissue transglutaminase (tTg) in 
+the pathogenesis of coeliac disease (CD) have stimulated progress in the field 
+of auto-immune diseases. Another calcium-dependent cysteine enzyme, 
+peptidylarginine deiminase type 4 (PAD4), seems to be involved in the 
+pathogenesis of rheumatoid arthritis (RA). There are obvious similarities 
+between Tgs and PADs.
+METHODS: Using enzyme-linked immuno-sorbent assays, we have measured the 
+occurrence of antibodies against guinea pig (gp) and human recombinant (hr) tTg, 
+PAD and citrulline in 59 controls and 184 RA-patients, of whom 71 were treated 
+with methotrexate (mtx).
+RESULTS: In addition to the expected antibodies against citrulline (62%), sera 
+from the 113 RA-patients without mtx treatment contained significantly increased 
+frequencies of IgG anti-PAD (35%), IgA anti-gp-tTg (34%), IgA anti-hr tTg (20%), 
+IgG anti-gp-tTg (13%) and IgA anti-hr-FXIII (15%) compared to controls. In sera 
+from the mtx-treated RA-patients the expression of antibodies was reduced. In 
+patients not treated with methotrexate there was a statistically significant 
+correlation between, on one hand, IgG anti-PAD and on the other hand, IgG 
+anti-citrulline, IgA anti-gp-tTg, IgA anti-hr-tTg, IgG anti-gp-tTg, IgG 
+anti-hr-tTg, or IgA anti-hr-FXIII. In the mtx-treated group these correlations 
+were less pronounced.
+CONCLUSION: In addition to the expected antibodies against citrulline, sera from 
+RA-patients contained antibodies against PAD and against Tgs of at least two 
+kinds, indicating that the specificity for anti-tTg in CD is far from complete. 
+Most of the patients displayed more than one antibody, a possible indication of 
+epitope spreading. MTX-treatment reduced the expression of antibodies.

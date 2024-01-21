@@ -1,0 +1,25 @@
+Fibroblast-like synoviocytes (FLSs) are a key cell type involved in rheumatoid 
+arthritis (RA) progression. We previously identified the KCa1.1 potassium 
+channel (Maxi-K, BK, Slo 1, KCNMA1) as a regulator of FLSs and found that KCa1.1 
+inhibition reduces disease severity in RA animal models. However, systemic 
+KCa1.1 block causes multiple side effects. In this study, we aimed to determine 
+whether the KCa1.1 β1-3-specific venom peptide blocker iberiotoxin (IbTX) 
+reduces disease severity in animal models of RA without inducing major side 
+effects. We used immunohistochemistry to identify IbTX-sensitive KCa1.1 subunits 
+in joints of rats with a model of RA. Patch-clamp and functional assays were 
+used to determine whether IbTX can regulate FLSs through targeting KCa1.1. We 
+then tested the efficacy of IbTX in ameliorating disease in two rat models of 
+RA. Finally, we determined whether IbTX causes side effects including 
+incontinence or tremors in rats, compared with those treated with the 
+small-molecule KCa1.1 blocker paxilline. IbTX-sensitive subunits of KCa1.1 were 
+expressed by FLSs in joints of rats with experimental arthritis. IbTX inhibited 
+KCa1.1 channels expressed by FLSs from patients with RA and by FLSs from rat 
+models of RA and reduced FLS invasiveness. IbTX significantly reduced disease 
+severity in two rat models of RA. Unlike paxilline, IbTX did not induce tremors 
+or incontinence in rats. Overall, IbTX inhibited KCa1.1 channels on FLSs and 
+treated rat models of RA without inducing side effects associated with 
+nonspecific KCa1.1 blockade and could become the basis for the development of a 
+new treatment of RA.
+
+Copyright © 2018 by The American Society for Pharmacology and Experimental 
+Therapeutics.

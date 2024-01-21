@@ -1,0 +1,19 @@
+The dissemination of antibiotic resistance genes (ARGs), human pathogenic 
+bacteria (HPB), and antibiotic-resistant HPB (ARHPB) from animal feedlot to 
+nearby environment poses a potentially high risk to environmental ecology and 
+public health. Here, a metagenomic analysis was employed to explore the 
+dissemination of ARGs, HPB, and ARHPB from a pig feedlot to surrounding stream 
+and agricultural soils. In total, not detectable (ND)-1,628.4 μg/kg of 
+antibiotic residues, 18 types of ARGs, 48 HPB species, and 216 ARB isolates were 
+detected in all samples. Antibiotic residues from pig feedlot mainly migrated 
+into stream sediments and greenhouse soil. The dominant ARGs and HPB species 
+from pig feedlot spread into stream sediments (tetracycline resistance genes, 
+Clostridium difficile, and Mycobacterium tuberculosis), stream water (multidrug 
+resistance (MDR) genes, Shigella flexneri, and Bordetella pertussis), and 
+greenhouse soil (MDR genes, Bacillus anthracis, and Brucella melitensis). It is 
+concerning that 54.4% of 216 ARB isolates from all samples were potential ARHPB 
+species, and genome sequencing and functional annotation of 4 MDR HPB isolates 
+showed 9 ARG types. Our findings revealed the potential migration and 
+dissemination of antibiotic residues, ARGs, HPB, and ARHPB from pig feedlot to 
+surrounding stream and agricultural soils via pig sewage discharge and manure 
+fertilization.

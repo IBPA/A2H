@@ -1,0 +1,19 @@
+The interleukin-12 (IL-12) cytokine induces the differentiation of naive T cells 
+to the T helper cell type 1 (Th1) phenotype and is integral to the pathogenesis 
+of Th1-mediated immunologic disorders. A more recently discovered IL-12 family 
+member, IL-23, shares the p40 protein subunit with IL-12 and plays a critical 
+role in the generation of effector memory T cells and IL-17-producing T cells. 
+We introduce a novel compound, STA-5326, that down-regulates both IL-12 p35 and 
+IL-12/IL-23 p40 at the transcriptional level, and inhibits the production of 
+both IL-12 and IL-23 cytokines. Oral administration of STA-5326 led to a 
+suppression of the Th1 but not Th2 immune response in mice. In vivo studies 
+using a CD4+CD45Rbhigh T-cell transfer severe combined immunodeficiency (SCID) 
+mouse inflammatory bowel disease model demonstrated that oral administration of 
+STA-5326 markedly reduced inflammatory histopathologic changes in the colon. A 
+striking decrease in interferon-gamma (IFN-gamma) production was observed in ex 
+vivo culture of lamina propria cells harvested from animals treated with 
+STA-5326, indicating a down-regulation of the Th1 response by STA-5326. These 
+results suggest that STA-5326 has potential for use in the treatment of 
+Th1-related autoimmune or immunologic disorders. STA-5326 currently is being 
+evaluated in phase 2 clinical trials in patients with Crohn disease and 
+rheumatoid arthritis.

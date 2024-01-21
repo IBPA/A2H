@@ -1,0 +1,19 @@
+Parasitic worms are receiving much attention as a potential new therapeutic 
+approach to treating autoimmune and allergic conditions but concerns remain 
+regarding their safety. As an alternative strategy, we have focused on the use 
+of defined parasitic worm products and recently taken this one step further by 
+designing drug-like small molecule analogues of one such product, ES-62, which 
+is anti-inflammatory by virtue of covalently attached phosphorylcholine 
+moieties. Previously, we have shown that ES-62 mimics are efficacious in 
+protecting against disease in mouse models of rheumatoid arthritis, systemic 
+lupus erythematosus and skin and lung allergy. Given the potential role of 
+chronic inflammation in fibrosis, in the present study we have focused our 
+attention on lung fibrosis, a debilitating condition for which there is no cure 
+and which in spite of treatment slowly gets worse over time. Two mouse models of 
+fibrosis - bleomycin-induced and LPS-induced - in which roles for inflammation 
+have been implicated were adopted. Four ES-62 analogues were tested - 11a and 
+12b, previously shown to be active in mouse models of allergic and autoimmune 
+disease and 16b and AIK-29/62 both of which are structurally related to 11a. All 
+four compounds were found to significantly reduce disease development in both 
+fibrosis models, as shown by histopathological analysis of lung tissue, 
+indicating their potential as treatments for this condition.

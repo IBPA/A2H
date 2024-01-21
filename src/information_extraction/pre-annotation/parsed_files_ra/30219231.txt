@@ -1,0 +1,19 @@
+Necroptosis, a necrotic cell death pathway regulated by receptor interacting 
+protein (RIP) 1 and 3, plays a key role in pathophysiological processes, 
+including rheumatoid arthritis (RA). However, whether necroptosis is involved in 
+RA articular cartilage damage processes remain unclear. The aim of present study 
+was to investigate the dynamic changes in arthritic chondrocyte necroptosis and 
+the effect of RIP1 inhibitor necrostatin-1 (Nec-1) and acid-sensing ion channels 
+(ASICs) inhibitor amiloride on arthritic cartilage injury and acid-induced 
+chondrocyte necroptosis. Our results demonstrated that the expression of RIP1, 
+RIP3 and mixed lineage kinase domain-like protein phosphorylation (p-MLKL) were 
+increased in adjuvant arthritis (AA) rat articular cartilage in vivo and 
+acid-induced chondrocytes in vitro. High co-expression of ASIC1a and RIP1 showed 
+in AA rat articular cartilage. Moreover, Nec-1 and amiloride could reduce 
+articular cartilage damage and necroinflammation in AA rats. In addition, 
+acid-induced increase in necroptosis markers RIP1/RIP3 were inhibited by Nec-1, 
+ASIC1a-specific blocker psalmotoxin-1 (PcTx-1) or ASIC1a-short hairpin RNA 
+respectively, which revealed that necroptosis is triggered in acid-induced 
+chondrocytes and mediated by ASIC1a. These findings indicated that blocking 
+ASIC1a-mediated chondrocyte necroptosis may provide potential therapeutic 
+strategies for RA treatment.

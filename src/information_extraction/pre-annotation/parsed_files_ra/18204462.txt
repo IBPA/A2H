@@ -1,0 +1,19 @@
+The dendritic cell immunoreceptor (official gene symbol Clec4a2, called Dcir 
+here) is a C-type lectin receptor expressed mainly in dendritic cells (DCs) that 
+has a carbohydrate recognition domain in its extracellular portion and an 
+immunoreceptor tyrosine-based inhibitory motif, which transduces negative 
+signals into cells, in its cytoplasmic portion. We found high Dcir expression in 
+the joints of two mouse rheumatoid arthritis models. Because the structural 
+characteristics of Dcir suggest that it may have an immune regulatory role, and 
+because autoimmune-related genes are mapped to the DCIR locus in humans, we 
+generated Dcir-/- mice to learn more about the pathological roles of this 
+molecule. We found that aged Dcir-/- mice spontaneously develop sialadenitis and 
+enthesitis associated with elevated serum autoantibodies. Dcir-/- mice showed a 
+markedly exacerbated response to collagen-induced arthritis. The DC population 
+was expanded excessively in aged and type II collagen-immunized Dcir-/- mice. 
+Upon treatment with granulocyte-macrophage colony-stimulating factor, Dcir-/- 
+mouse-derived bone marrow cells (BMCs) differentiated into DCs more efficiently 
+than did wild-type BMCs, owing to enhanced signal transducer and activator of 
+transcription-5 phosphorylation. These observations indicate that Dcir is a 
+negative regulator of DC expansion and has a crucial role in maintaining the 
+homeostasis of the immune system.

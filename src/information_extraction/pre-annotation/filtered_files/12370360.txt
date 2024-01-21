@@ -1,0 +1,20 @@
+IL-10 is an immunosuppressive cytokine in the immune system. It was in clinical 
+trial as an anti-inflammatory therapy for inflammatory bowel disease and various 
+autoimmune diseases such as psoriasis, rheumatoid arthritis, and multiple 
+sclerosis. IL-19 belongs to the IL-10 family, which includes IL-10, IL-19, 
+IL-20, IL-22, melanoma differentiation-associated gene (MDA-7, IL-24), and AK155 
+(IL-26). Despite a partial homology in their amino acid sequences, they are 
+dissimilar in their biologic functions. Little is known about the biologic 
+function and gene regulation of IL-19. To understand the gene regulation of 
+human IL-19, we identified a human IL-19 genomic clone and analyzed its promoter 
+region. Five fusion genes containing different regions upstream of exon 1 linked 
+to a luciferase reporter gene were expressed in the canine kidney 
+epithelial-like Madin-Darby canine kidney cells. A fusion gene containing 394 bp 
+showed luciferase activity 7- to 8-fold higher than the negative control of the 
+promoterless fusion gene. We also isolated a full-length mouse cDNA clone. Mouse 
+IL-19 shared 71% amino acid identity with human IL-19. Treatment of monocytes 
+with mouse IL-19 induced the production of IL-6 and TNF-alpha. It also induced 
+mouse monocyte apoptosis and the production of reactive oxygen species. Taken 
+together, our results indicate that mouse IL-19 may play some important roles in 
+inflammatory responses because it up-regulates IL-6 and TNF-alpha and induces 
+apoptosis.

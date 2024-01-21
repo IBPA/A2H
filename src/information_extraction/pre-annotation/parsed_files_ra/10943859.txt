@@ -1,0 +1,25 @@
+OBJECTIVE: The complement system is important in the development of autoimmune 
+inflammation, including rheumatoid arthritis (RA) and collagen-induced arthritis 
+(CIA). Complement receptor 1 (CR1) is involved in regulation of complement 
+activity. Studies on models of autoimmunity have demonstrated that soluble CR1 
+(sCR1) is a potent therapeutic agent. The present study was thus undertaken to 
+investigate the feasibility of antiinflammatory gene therapy to prevent CIA by 
+delivery of genes encoding truncated sCR1 (tsCR1) and dimeric tsCR1-Ig.
+METHODS: Syngeneic fibroblasts or arthritogenic splenocytes, engineered to 
+express tsCR1 using retrovirus-mediated gene transfer, were injected into DBA/1 
+recipients that had been immunized with bovine type II collagen (CII). In 
+separate experiments, naked DNA containing tsCR1 and tsCR1-Ig genes was injected 
+intramuscularly into the immunized animals. The clinical development of 
+arthritis was monitored, anti-CII levels measured, and antigenic T cell response 
+studied. Affinity-purified tsCR1-Ig was assayed for its inhibitory effect on the 
+alternative complement pathway in mouse serum.
+RESULTS: Treatment of CII-immunized mice with the tsCR1-expressing cells 
+inhibited development of CIA, reduced anti-CII antibody levels, and inhibited T 
+cell response to CII in vitro. Intramuscular injections of DNA encoding the CR1 
+genes prevented the progression of disease. Furthermore, compared with 
+full-length sCR1, purified tsCR1-Ig was more active in inhibiting the murine 
+alternative complement pathway.
+CONCLUSION: Our findings demonstrated that tsCR1 and tsCR1-Ig, when delivered 
+via gene therapy, had a beneficial effect on autoimmune inflammation. These 
+results indicate that targeting the complement system in RA patients may be of 
+clinical importance.

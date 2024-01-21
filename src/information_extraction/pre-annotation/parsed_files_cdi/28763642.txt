@@ -1,0 +1,24 @@
+Large amounts of antibiotics are currently used in livestock breeding, which is 
+the main driving factor contributing to the occurrence, spread and proliferation 
+of antibiotic resistant bacteria (ARB) and antibiotic resistance genes (ARGs) in 
+the environment. In this study, high-throughput sequencing based metagenomic 
+approaches were employed to characterize the tempo-spacial changes of antibiotic 
+resistome, bacterial community and their correlations in pig farming wastewater 
+and its receiving river. A total of 194 ARG subtypes within 14 ARG types were 
+detectable in all the samples, and their total relative abundance increased in 
+the river water after receiving wastewater discharge, while decreased in the 
+downstream river water. Network analysis showed that 25.26% ARGs within the same 
+type or among the different types showed higher incidences of non-random 
+co-occurrence. The wastewater discharge evidently increased bacterial diversity 
+and induced bacterial community shift in the receiving river water. The genera 
+of Treponema, Prevotella, Pseudomonas, Bacteroides, Oscillibacter and 
+Acholeplasma dominated in the wastewater samples and almost disappeared in the 
+receiving river water, but bacterial pathogens Clostridium difficile and 
+Arcobacter butzleri still occurred in the receiving water. Correlation analysis 
+and host analysis consistently showed that the changes in the abundances of 
+several key genera like Prevotella and Treponema were significantly and 
+positively correlated with the antibiotic resistome alteration. Variation 
+partitioning analysis indicated that bacterial community played a more important 
+role in the resistome alteration than mobile genetic elements. This study may 
+help to understand the correlations among antibiotic resistome, microbiota and 
+environmental conditions in the wastewater-receiving river water.

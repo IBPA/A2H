@@ -1,0 +1,22 @@
+Clostridium difficile infection (CDI) is the leading cause of hospital and 
+community-acquired antibiotic-associated diarrhoea and currently represents a 
+significant health burden. Although the role and contribution of C. difficile 
+toxins to disease pathogenesis is being increasingly understood, at present 
+other facets of C. difficile-host interactions, in particular, bacterial-driven 
+effects on host immunity remain less studied. Using an ex-vivo model of 
+infection, we report that the human gastrointestinal mucosa elicits a rapid and 
+significant cytokine response to C. difficile. Marked increase in IFN-γ with 
+modest increase in IL-22 and IL-17A was noted. Significant increase in IL-8 
+suggested potential for neutrophil influx while presence of IL-12, IL-23, IL-1β 
+and IL-6 was indicative of a cytokine milieu that may modulate subsequent T cell 
+immunity. Majority of C. difficile-driven effects on murine bone-marrow-derived 
+dendritic cell (BMDC) activation were toxin-independent; the toxins were however 
+responsible for BMDC inflammasome activation. In contrast, human 
+monocyte-derived DCs (mDCs) released IL-1β even in the absence of toxins 
+suggesting host-specific mediation. Infected DC-T cell crosstalk revealed the 
+ability of R20291 and 630 WT strains to elicit a differential DC IL-12 family 
+cytokine milieu which culminated in significantly greater Th1 immunity in 
+response to R20291. Interestingly, both strains induced a similar Th17 response. 
+Elicitation of mucosal IFN-γ/IL-17A and Th1/Th17 immunity to C. difficile 
+indicates a central role for this dual cytokine axis in establishing 
+antimicrobial immunity to CDI.

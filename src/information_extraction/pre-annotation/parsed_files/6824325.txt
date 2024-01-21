@@ -1,0 +1,6 @@
+The mouse lethality test is the most sensitive method for confirming the 
+diagnosis of infant botulism. Both Clostridium difficile and Clostridium 
+botulinum produce heat-labile toxins which are lethal for mice and can be found 
+in the feces of infants. These two toxins can be distinguished from one another 
+in this assay when both are present in the same fecal specimen because they 
+appear to be immunologically distinct toxins.

@@ -1,0 +1,22 @@
+Rheumatoid arthritis (RA) is a disease that is still insufficiently controlled 
+by current treatments. Poly(ADP-ribose) polymerase (PARP) inhibitors ameliorate 
+immune-mediated diseases in several experimental models, including RA, colitis, 
+experimental autoimmune encephalomyelitis and allergy. Together these findings 
+showed that ADP-ribosylating enzymes, in particular PARP-1, play a pivotal role 
+in the regulation of immune responses and may represent a noble target for new 
+therapeutic approaches in immune-mediated diseases. The effect of 
+3-aminobenzamide (3-AB), an inhibitor of poly(ADP-ribose) synthetase activity, 
+was evaluated in a mouse model of adjuvant-induced arthritis (AIA) on 
+pro-inflammatory cytokines, adhesion molecules, inflammatory mediators and 
+chemokine production/expression in serum and knee joint. Histopathological 
+examination was also done on joint section. Our data demonstrates that 3-AB, 
+10mg/kg, intraperitoneally (i.p.) significantly reduces pro-inflammatory 
+cytokine (IL-17, TNF-α and IL-2) and chemokine (MCP-1 and MIP-2) 
+production/expression, accompanied by amelioration of the disease as indicated 
+by reduced paw swelling and arthritic scores and was associated with a 
+significant reduction of VCAM-1 and ICAM-1 expression in the knee joint. 
+Moreover, the expression of inflammatory mediators (iNOS, COX-2, MMP-2, MMP-9) 
+and joint histological inflammatory damage was also markedly decreased. The 
+results of this study suggest that PARP-1 inhibitor may play a role in the 
+inflammatory arthritic process after administration of 3-AB may be a beneficial 
+therapeutic approach.

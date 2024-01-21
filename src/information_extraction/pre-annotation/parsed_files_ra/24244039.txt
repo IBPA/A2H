@@ -1,0 +1,24 @@
+Phosphoinositide 3-kinases γ and δ (PI3Kγ and PI3Kδ) are expressed in rheumatoid 
+arthritis (RA) synovium and regulate innate and adaptive immune responses. We 
+determined the effect of a potent PI3Kδ,γ inhibitor, IPI-145, in two preclinical 
+models of RA. IPI-145 was administered orally in rat adjuvant-induced arthritis 
+(AA) and intraperitoneally in mouse collagen-induced arthritis (CIA). Efficacy 
+was assessed by paw swelling, clinical scores, histopathology and radiography, 
+and microcomputed tomography scanning. Gene expression and Akt phosphorylation 
+in joint tissues were determined by quantitative real-time polymerase chain 
+reaction and Western blot analysis. Serum concentrations of anti-type II 
+collagen (CII) IgG and IgE were measured by immunoassay. T-cell responses to CII 
+were assayed using thymidine incorporation and immunoassay. IPI-145 
+significantly reduced arthritis severity in both RA models using dosing regimens 
+initiated before onset of clinical disease. Treatment of established arthritis 
+with IPI-145 in AA, but not CIA, significantly decreased arthritis progression. 
+In AA, histology scores, radiographic joint damage, and matrix metalloproteinase 
+(MMP)-13 expression were reduced in IPI-145-treated rats. In CIA, joint 
+histology scores and expression of MMP-3 and MMP-13 mRNA were lower in the 
+IPI-145 early treatment group than in the vehicle group. The ratio of anti-CII 
+IgG2a to total IgG in CIA was modestly reduced. Interleukin-17 production in 
+response to CII was decreased in the IPI-145-treated group, suggesting an 
+inhibitory effect on T-helper cell 17 differentiation. These data show that 
+PI3Kδ,γ inhibition suppresses inflammatory arthritis, as well as bone and 
+cartilage damage, through effects on innate and adaptive immunity and that 
+IPI-145 is a potential therapy for RA.

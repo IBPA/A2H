@@ -1,0 +1,22 @@
+ECF-L is a novel autocrine stimulator of osteoclast (OCL) formation that 
+enhances the effects of 1,25-(OH)2D3 and RANK ligand (RANKL) and is increased in 
+inflammatory conditions such as rheumatoid arthritis. ECF-L acts at the later 
+stages of OCL formation and does not increase RANKL expression. Thus, its 
+mechanism of action is unclear. Therefore, RAW 264.7 cells and M-CSF-dependent 
+murine bone marrow macrophage (MDBM) cells were treated with RANKL and/or with 
+recombinant ECF-L expressed as a Fc fusion protein (ECF-L-Fc) to determine their 
+effects on NF-kappaB, AP-1 and JNK activity, and on the expression of the 
+adhesion molecules that have been implicated in OCL formation. These parameters 
+were measured by semiquantitative and PCR and Western blot analysis. In 
+addition, the role of ICAM-1 was further assessed by treating normal mouse 
+marrow cultures with ECF-L-Fc and 10(-10) M 1,25-(OH)2D3 in the presence or 
+absence of a blocking ICAM-1 antibody or treating marrow cultures from ICAM-1 
+knockout mice with ECF-L and 1,25-(OH)2D3. ECF-L-Fc by itself only modestly 
+increased NF-kappaB binding and JNK activity in RAW 264.7 cells, which was 
+further enhanced by RANKL. In contrast, ECF-L-Fc increased LFA-1alpha and ICAM-1 
+mRNA levels 1.8-fold in mouse marrow cultures, and anti-ICAM-1 almost completely 
+inhibited OCL formation induced by 10(-10) M 1,25-(OH)2D3 and ECF-L. 
+Furthermore, ECF-L did not increase OCL formation in marrow cultures from ICAM-1 
+knockout mice. Taken together, these results demonstrate that ECF-L enhances 
+RANKL and 1,25-(OH)2D3-induced OCL formation by increasing adhesive interactions 
+between OCL precursors through increased expression of ICAM-1 and LFA-1.

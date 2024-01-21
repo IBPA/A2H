@@ -1,0 +1,21 @@
+Lowering the gut exposure to antibiotics during treatments can prevent 
+microbiota disruption. We evaluated the effects of an activated charcoal-based 
+adsorbent, DAV131A, on the fecal free moxifloxacin concentration and mortality 
+in a hamster model of moxifloxacin-induced Clostridium difficile infection. A 
+total of 215 hamsters receiving moxifloxacin subcutaneously (day 1 [D1] to D5) 
+were orally infected at D3 with C. difficile spores. They received various doses 
+(0 to 1,800 mg/kg of body weight/day) and schedules (twice a day [BID] or three 
+times a day [TID]) of DAV131A (D1 to D8). Moxifloxacin concentrations and C. 
+difficile counts were determined at D3, and mortality was determined at D12 We 
+compared mortality rates, moxifloxacin concentrations, and C. difficile counts 
+according to DAV131A regimen and modeled the links between DAV131A regimen, 
+moxifloxacin concentration, and mortality. All hamsters that received no DAV131A 
+died, but none of those that received 1,800 mg/kg/day died. Significant 
+dose-dependent relationships between DAV131A dose and (i) mortality, (ii) 
+moxifloxacin concentration, and (iii) C. difficile count were evidenced. 
+Mathematical modeling suggested that (i) lowering the moxifloxacin concentration 
+at D3, which was 58 μg/g (95% confidence interval [CI] = 50 to 66 μg/g) without 
+DAV131A, to 17 μg/g (14 to 21 μg/g) would reduce mortality by 90%; and (ii) this 
+would be achieved with a daily DAV131A dose of 703 mg/kg (596 to 809 mg/kg). In 
+this model of C. difficile infection, DAV131A reduced mortality in a 
+dose-dependent manner by decreasing the fecal free moxifloxacin concentration.

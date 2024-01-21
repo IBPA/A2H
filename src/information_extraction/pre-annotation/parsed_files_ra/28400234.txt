@@ -1,0 +1,15 @@
+A series of substituted tricyclic 
+4,4-dimethyl-3,4-dihydrochromeno[3,4-d]imidazole derivatives have been 
+synthesized and their mPGES-1 biological activity has been disclosed in detail. 
+Structure-activity relationship (SAR) optimization provided inhibitors with 
+excellent mPGES-1 potency and low to moderate PGE2 release A549 cell potency. 
+Among the mPGES-1 inhibitors studied, 7, 9 and 11l provided excellent 
+selectivity over COX-2 (>200-fold) and >70-fold selectivity for COX-1 except 
+11l, which exhibited dual mPGES-1/COX-1 activity. Furthermore, the above tested 
+mPGES-1 inhibitors demonstrated good metabolic stability in liver microsomes, 
+high plasma protein binding (PPB) and no significant inhibition observed in 
+clinically relevant CYP isoforms. Besides, selected mPGES-1 tool compounds 9 and 
+11l provided good in vivo pharmacokinetic profile and oral bioavailability 
+(%F=33 and 85). Additionally, the representative mPGES-1 tool compounds 9 and 
+11l revealed moderate in vivo efficacy in the LPS-induced thermal hyperalgesia 
+guinea pig pain model.

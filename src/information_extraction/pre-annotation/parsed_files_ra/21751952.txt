@@ -1,0 +1,14 @@
+Evaluation of: Nakasa T, Shibuya H, Nagata Y, Niimoto T, Ochi M: The inhibitory 
+effect of microRNA-146a expression on bone destruction in collagen-induced 
+arthritis. Arthritis Rheum. 63(6), 1582-1590 (2011). miRNA-146a (miR-146a) has 
+been shown to play an important role in the negative regulation of inflammatory 
+innate immune responses, and is differentially expressed in a number of human 
+diseases including rheumatoid arthritis. However, evidence for the potential 
+therapeutic use of miR-146a in human disease has been lacking. The current paper 
+demonstrates the potential therapeutic application of miR-146a for rheumatoid 
+arthritis by demonstrating the inhibitory effect of miR-146a on 
+osteoclastogenesis in vitro. Moreover, using a collagen-induced arthritis mouse 
+model, they were able to demonstrate that intravenous administration of 
+double-stranded miR-146a resulted in the suppression of cartilage and bone 
+destruction, despite relatively unaffected immune cell infiltration of the 
+synovium and inflammatory cytokine expression.

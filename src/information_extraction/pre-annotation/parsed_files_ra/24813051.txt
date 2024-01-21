@@ -1,0 +1,24 @@
+Interleukin (IL)-17 plays a critical role in inflammation. Most studies to date 
+have elucidated the inflammatory role of IL-17A, often referred to as IL-17. 
+IL-17F is a member of the IL-17 family bearing 50% homology to IL-17A and can 
+also be present as heterodimer IL-17AF. This study elucidates the distribution 
+and contribution of IL-17A, F and AF in inflammatory arthritis. Neutralizing 
+antibody to IL-17A alone or IL-17F alone or in combination was utilized in the 
+mouse collagen-induced arthritis (CIA) model to elucidate the contribution of 
+each subtype in mediating inflammation. IL-17A, F and AF were all increased 
+during inflammatory arthritis. Neutralization of IL-17A reduced the severity of 
+arthritis, neutralization of IL-17A+IL-17F had the same effect as neutralizing 
+IL-17A, while neutralization of IL-17F had no effect. Moreover, significantly 
+higher levels of IL-17A and IL-17F were detected in peripheral blood mononuclear 
+cells (PBMC) from patients with rheumatoid arthritis (RA) in comparison to 
+patients with osteoarthritis (OA). IL-17A and AF were detected in synovial fluid 
+mononuclear cells (SFMC) in RA and OA, with IL-17A being significantly higher in 
+RA patients. Enriched CD3(+) T cells from RA PBMCs produced singnificantly high 
+levels of IL-17A and IL-17AF in comparison to OA peripheral blood CD3(+) T 
+cells. IL-17A, F and AF were undetectable in T cells from SFMCs from RA and OA. 
+While IL-17A, F, and AF were all induced during CIA, IL-17A played a dominant 
+role. Furthermore, production of IL-17A, and not IL-17F or IL-17AF, was elevated 
+in PBMCs, SFMCs and enriched peripheral blood CD3(+) T in RA.
+
+© 2014 The Authors. Clinical & Experimental Immunology published by John Wiley & 
+Sons Ltd on behalf of British Society for Immunology.

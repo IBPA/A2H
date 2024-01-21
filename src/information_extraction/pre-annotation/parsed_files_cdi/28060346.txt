@@ -1,0 +1,20 @@
+Clostridium difficile is an anaerobic, gram-positive, spore-forming enteric 
+pathogen that is associated with increasing morbidity and mortality and 
+consequently poses an urgent threat to public health. Recurrence of a C. 
+difficile infection (CDI) after successful treatment with antibiotics is high, 
+occurring in 20-30% of patients, thus necessitating the discovery of novel 
+therapeutics against this pathogen. Current animal models of CDI result in high 
+mortality rates and thus do not approximate the chronic, insidious disease 
+manifestations seen in humans with CDI. To evaluate therapeutics against C. 
+difficile, a mouse model approximating human disease utilizing a 
+clinically-relevant strain is needed. This protocol outlines the cefoperazone 
+mouse model of CDI using a clinically-relevant and genetically-tractable strain, 
+R20291. Techniques for clinical disease monitoring, C. difficile bacterial 
+enumeration, toxin cytotoxicity, and histopathological changes throughout CDI in 
+a mouse model are detailed in the protocol. Compared to other mouse models of 
+CDI, this model is not uniformly lethal at the dose administered, allowing for 
+the observation of a prolonged clinical course of infection concordant with the 
+human disease. Therefore, this cefoperazone mouse model of CDI proves a valuable 
+experimental platform to assess the effects of novel therapeutics on the 
+amelioration of clinical disease and on the restoration of colonization 
+resistance against C. difficile.

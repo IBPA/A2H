@@ -1,0 +1,25 @@
+The host response to Clostridium difficile infection in antibiotic-treated mice 
+is characterized by robust recruitment of Gr-1(+) cells, increased expression of 
+inflammatory cytokines including tumour necrosis factor-α (TNF-α), and the 
+development of severe epithelial damage. To investigate the role of Gr-1(+) 
+cells and TNF-α during C. difficile colitis, we treated infected mice with 
+monoclonal antibodies against Gr-1 or TNF-α. Mice were challenged with 
+vegetative cells of C. difficile strain VPI 10463 following treatment with the 
+third-generation cephalosporin ceftriaxone. Ceftriaxone treatment alone was 
+associated with significant changes in cytokine expression within the colonic 
+mucosa but not overt inflammatory histopathological changes. In comparison, 
+C. difficile infection following ceftriaxone treatment was associated with 
+increased expression of inflammatory cytokines and chemokines including Cxcl1, 
+Cxcl2, Il1b, Il17f and Tnfa, as well as robust recruitment of Ly6C(Mid) 
+ Gr-1(High) neutrophils and Ly6C(High) Gr-1(Mid) monocytes and the development 
+of severe colonic histopathology. Anti-Gr-1 antibody treatment resulted in 
+effective depletion of both Ly6C(Mid) Gr-1(High) neutrophils and Ly6C(High) 
+Gr-1(Mid) monocytes: however, we observed no protection from the development of 
+severe pathology or reduction in expression of the pro-inflammatory cytokines 
+Il1b, Il6, Il33 and Tnfa following anti-Gr-1 treatment. By contrast, anti-TNF-α 
+treatment did not affect Gr-1(+) cell recruitment, but was associated with 
+increased expression of Il6 and Il1b. Additionally, Ffar2, Ffar3, Tslp, Tff and 
+Ang4 expression was significantly reduced in anti-TNF-α-treated animals, in 
+association with marked intestinal histopathology. These studies raise the 
+possibility that TNF-α may play a role in restraining inflammation and 
+protecting the epithelium during C. difficile infection.

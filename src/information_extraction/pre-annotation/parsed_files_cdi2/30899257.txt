@@ -1,0 +1,33 @@
+Changes in the intestinal microbiota have been associated with the development 
+of immune-mediated diseases in humans. Additionally, the introduction of defined 
+bacterial species into the mouse intestinal microbiota has been shown to impact 
+on the adaptive immune response. However, how much impact the intestinal 
+microbiota composition actually has on regulating adaptive immunity remains 
+poorly understood. Therefore, we studied aspects of the adaptive immunity in 
+healthy adults possessing distinct intestinal microbiota profiles. The 
+intestinal microbiota composition was determined via Illumina sequencing of 
+bacterial 16S rRNA genes extracted from the feces of 35 individuals. Blood 
+B-cell and T-cell subsets from the same individuals were studied using flow 
+cytometry. Finally, the binding of fecal and plasma Immunoglobulin A (IgA) to 
+intestinal bacteria (associated with health and disease) Bacteroides fragilis, 
+Prevotella copri, Bifidobacterium longum, Clostridium difficile, and Escherichia 
+coli was analyzed using ELISA. Unsupervised clustering of microbiota composition 
+revealed the presence of three clusters within the cohort. Cluster 1 and 2 were 
+similar to previously-described enterotypes with a predominance of Bacteroides 
+in Cluster 1 and Prevotella in Cluster 2. The bacterial diversity (Shannon 
+index) and bacterial richness of Cluster 3 was significantly higher than 
+observed in Clusters 1 and 2, with the Ruminococacceae tending to predominate. 
+Within circulating B- and T-cell subsets, only Th subsets were significantly 
+different between groups of distinct intestinal microbiota. Individuals of 
+Cluster 3 have significantly fewer Th17 and Th22 circulating cells, while Th17.1 
+cell numbers were increased in individuals of Cluster 1. IgA reactivity to 
+intestinal bacteria was higher in plasma than feces, and individuals of Cluster 
+1 had significant higher plasma IgA reactivity against B. longum than 
+individuals of Cluster 2. In conclusion, we identified three distinct fecal 
+microbiota clusters, of which two clusters resembled previously-described 
+"enterotypes". Global T-cell and B-cell immunity seemed unaffected, however, 
+circulating Th subsets and plasma IgA reactivity were significantly different 
+between Clusters. Hence, the impact of intestinal bacteria composition on human 
+B cells, T cells and IgA reactivity appears limited in genetically-diverse and 
+environmentally-exposed humans, but can skew antibody reactivity and Th cell 
+subsets.

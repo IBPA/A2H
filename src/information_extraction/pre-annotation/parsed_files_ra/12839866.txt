@@ -1,0 +1,23 @@
+1. FK506 and cyclosporin A (CsA) are immunosuppressive drugs, that specifically 
+inhibit T-cell activation via calcineurin inhibition. This study was undertaken 
+to investigate whether calcineurin inhibitors exert analgesic actions in rat 
+adjuvant-induced arthritis (AIA), an animal model of rheumatoid arthritis (RA). 
+2. AIA was induced in female Lewis rats. Single doses of FK506 and CsA were 
+orally administered to arthritic rats 17 days after arthritis induction. 
+Intensity of hyperalgesia was assessed by measuring the pain threshold of hind 
+paws. Tumor necrosis factor (TNF)-alpha, IL-1beta and PGE(2) levels in paw 
+extracts were determined by ELISA. TNF activity was measured by L929 cell 
+cytotoxicity assay. IL-1beta and cyclooxygenase (COX) mRNA expression in 
+arthritic paws were measured by RT-PCR. 3. Single doses of FK506 and CsA 
+markedly reduced joint hyperalgesia 24 h after drug administration, without 
+affecting inflammation in an advanced stage of AIA. 4. The calcineurin 
+inhibitors partially reduced the elevated level of TNF-alpha in arthritic paws, 
+however, the analgesic effects of these drugs were not associated with the 
+reduction in TNF-alpha level. 5. Moreover, treatment with anti-rat TNF-alpha 
+antibody did not affect the hyperalgesia, when TNF-alpha activity was suppressed 
+in arthritic paws by that treatment. 6. Both calcineurin inhibitors reduced the 
+elevated level of IL-1beta in arthritic paws to a normal level, 24 h after drug 
+administration. 7. FK506 reduced IL-1beta and COX-2 mRNA expression and PGE(2) 
+level in arthritic paws. 8 In conclusion, calcineurin inhibitors rapidly reduce 
+joint hyperalgesia probably by downregulating IL-1beta, but not TNF-alpha, in 
+AIA. Our findings may provide a new strategy for the treatment of pain in RA.

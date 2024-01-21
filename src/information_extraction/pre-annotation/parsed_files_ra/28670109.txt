@@ -1,0 +1,25 @@
+Sinomenine hydrochloride (SH) is an ideal drug for the treatment of rheumatoid 
+arthritis and osteoarthritis. However, high plasma concentration of systemically 
+administered SH can release histamine, which can cause rash and gastrointestinal 
+side effects. Topical delivery can increase SH concentration in the synovial 
+fluid without high plasma level, thus minimizing systemic side effects. However, 
+passive diffusion of SH was found to be inefficient because of the presence of 
+the stratum corneum layer. Therefore, an effective method is required to 
+compensate for the low efficiency of SH passive diffusion. In this study, 
+transdermal experiments in vitro and clinical tests were utilized to explore the 
+optimized parameters for electroporation of topical delivery for SH. 
+Fluorescence experiment and hematoxylin and eosin staining analysis were 
+performed to reveal the mechanism by which electroporation promoted permeation. 
+In vitro, optimized electroporation parameters were 3 KHz, exponential waveform, 
+and intensity 10. Using these parameters, transdermal permeation of SH was 
+increased by 1.9-10.1 fold in mice skin and by 1.6-47.1 fold in miniature pig 
+skin compared with passive diffusion. After the electroporation stimulation, the 
+intercellular intervals and epidermal cracks in the skin increased. In clinical 
+tests, SH concentration in synovial fluid was 20.84 ng/mL after treatment with 
+electroporation. Therefore, electroporation with optimized parameters could 
+significantly enhance transdermal permeation of SH. The mechanism by which 
+electroporation promoted permeation was that the electronic pulses made the skin 
+structure looser. To summarize, electroporation may be an effective 
+complementary method for transdermal permeation of SH. The controlled release of 
+electroporation may be a promising clinical method for transdermal drug 
+administration.

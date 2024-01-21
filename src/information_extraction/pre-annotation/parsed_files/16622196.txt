@@ -1,0 +1,26 @@
+Clostridium difficile is a spore-forming, anaerobic, gram-positive bacillus that 
+releases two main virulence factors: toxins A and B. Toxin A plays an important 
+pathogenic role in antibiotic-induced diarrhea and pseudomembranous colitis, a 
+condition characterized by intense mucosal inflammation and secretion. Agonist 
+activity at A2A adenosine receptors attenuates inflammation and damage in many 
+tissues. This study evaluated the effects of a new selective A2A adenosine 
+receptor agonist (ATL 313) on toxin A-induced injury in murine ileal loops. ATL 
+313 (0.5 to 5 nM) and/or the A2A adenosine receptor antagonist (ZM241385; 5 nM) 
+or phosphate-buffered saline (PBS) were injected into ileal loops immediately 
+prior to challenge with toxin A (1 to 10 microg/loop) or PBS. Intestinal fluid 
+volume/length and weight/length ratios were calculated 3 h later. Ileal tissues 
+were collected for the measurement of myeloperoxidase, adenosine deaminase 
+activity, tumor necrosis factor alpha (TNF-alpha) production, histopathology, 
+and detection of cell death by the TUNEL (terminal 
+deoxynucleotidyltransferase-mediated dUTP-biotin nick end labeling) method. 
+Toxin A significantly increased volume/length and weight/length ratios in a 
+dose-dependent fashion. ATL 313 treatment significantly (P < 0.05) reduced toxin 
+A-induced secretion and edema, prevented mucosal disruption, and neutrophil 
+infiltration as measured by myeloperoxidase activity. ATL 313 also reduced the 
+toxin A-induced TNF-alpha production and adenosine deaminase activity and 
+prevented toxin A-induced cell death. These protective effects of ATL 313 were 
+reversed by ZM241385. In conclusion, the A2A adenosine receptor agonist, ATL 
+313, reduces tissue injury and inflammation in mice with toxin A-induced 
+enteritis. The finding of increased ileal adenosine deaminase activity following 
+the administration of toxin A is new and might contribute to the pathogenesis of 
+the toxin A-induced enteritis by deaminating endogenous adenosine.

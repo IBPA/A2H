@@ -1,0 +1,13 @@
+Bone homeostasis is achieved through coordinated activities of bone-forming 
+osteoblasts and bone-resorbing osteoclasts. When the balance is skewed in favor 
+of osteoclasts due to hormonal or inflammatory issues, pathologic bone loss 
+occurs leading to conditions such as osteoporosis, rheumatoid arthritis, and 
+periodontitis. Bortezomib is the first in-class of proteasome inhibitors used as 
+an anti-myeloma agent. In the present study, we show that bortezomib directly 
+inhibited the receptor activator of nuclear factor κB ligand (RANKL)-dependent 
+osteoclast differentiation of mouse bone marrow macrophages. Bortezomib 
+significantly reduced the induction of osteoclast marker genes and proteins 
+including nuclear factor of activated T-cells, cytoplasmic 1 (NFATc1). The 
+intraperitoneal injection of bortezomib reduced ovariectomy-induced 
+osteoclastogenesis and protected the mice from bone loss. These data propose 
+novel use of bortezomib as a potential anti-resorptive agent.

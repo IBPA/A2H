@@ -1,0 +1,30 @@
+INTRODUCTION: Targeting joint destruction induced by osteoclasts (OCs) is 
+critical for management of patients with rheumatoid arthritis (RA). Since 
+phosphoinositide 3-kinase (PI3-K) plays a critical role in osteoclastogenesis 
+and bone resorption, we examined the effects of ZSTK474, a novel 
+phosphoinositide 3-kinase (PI3-K)-specific inhibitor, on murine OCs in vitro and 
+in vivo.
+METHODS: The inhibitory effect of ZSTK474 on OC formation was determined and 
+compared with other PI3-K inhibitors by counting tartrate-resistant acid 
+phosphatase (TRAP)-positive multinucleated cells after culturing murine bone 
+marrow monocytic OC precursors, and RAW264.7 cells. Activation of Akt and 
+expression of nuclear factor of activated T cells (NFAT) c1 in cultured RAW264.7 
+cells were examined. The suppressing effect of ZSTK474 on bone resorption was 
+assessed by the pit formation assay. The in vivo effects of ZSTK474 were studied 
+in collagen-induced arthritis (CIA) in the mouse. Oral daily administration of 
+ZSTK474 was started either when more than half or when all mice developed 
+arthritis. Effects of ZSTK474 were evaluated using the arthritis score and 
+histological score of the hind paws.
+RESULTS: ZSTK474 inhibited the differentiation of bone marrow OC precursors and 
+RAW264.7 cells in a dose-dependent manner. The inhibitory effect of ZSTK474 was 
+much stronger than that of LY294002, the most commonly used PI3-K inhibitor. In 
+addition, ZSTK474 suppressed the bone resorbing activity of mature OCs. 
+Moreover, oral daily administration of ZSTK474, even when begun after the 
+development of arthritis, ameliorated CIA in mice without apparent toxicity. 
+Histological examination of the hind paw demonstrated noticeable reduction of 
+inflammation and of cartilage destruction in ZSTK474-treated mice. ZSTK474 also 
+significantly decreased OC formation adjacent to the tarsal bone of the hind 
+paw.
+CONCLUSIONS: These findings suggest that inhibition of PI3-K with ZSTK474 may 
+potentially suppress synovial inflammation and bone destruction in patients with 
+RA.

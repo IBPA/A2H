@@ -1,0 +1,16 @@
+OBJECTIVE: To assess the performance of high-frequency ultrasound in evaluating 
+articular lesions in a rat of model collagen-induced arthritis model (CIA).
+METHODS: Sixty Wistar rats randomized into CIA group (n=50) and the control 
+group (n=10), and in the former group, CIA was induced by immunization with 
+collagen type II. On day 45, the ankle joint was assessed based on the arthritic 
+index (AI) and examined with high-frequency ultrasound in all the rats. 
+Histological evaluations of the joint were performed and the results were 
+compared with ultrasound findings.
+RESULTS: In CIA group, 62 ankles were confirmed pathologically to have synovitis 
+with typical inflammatory cell infiltration and pannus formation. AI score-based 
+diagnosis was confirmed in 42 ankles with a detection rate of 68% (42/62), 
+significantly lower than the rate of 87% (54/62) with high-frequency ultrasound 
+(P<0.05).
+CONCLUSION: High-frequency ultrasound is an ideal method for observing CIA in 
+rats in vivo. High-frequency ultrasound can show blood flow in rheumatoid 
+arthritis and is useful in studies of RA synovial angiogenesis.

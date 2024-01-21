@@ -1,0 +1,13 @@
+A key role for segmented filamentous bacteria (SFB) has recently been 
+demonstrated in several mouse models of autoimmune diseases, including 
+autoimmune arthritis and multiple sclerosis. The mechanism governing the 
+activation of systemic autoreactive T cell responses by such commensals in the 
+gut, however, remained elusive. In this addendum, we discuss recent results 
+addressing the local regulation of autoreactive T cell sensitivity by these 
+unique bacteria. We found that the presence of SFB in the gut microbiota was 
+sufficient to promote a local inflammatory microenvironment altering the T 
+cell-intrinsic desensitization process normally occurring in response to chronic 
+self-antigen stimulation. In the absence of this key tolerance checkpoint, 
+sustained chronic T cell proliferation, IFNγ production, and B cell activation 
+eventually led to the development of enhanced pathologies in a Th1-driven T 
+cell-transfer model of autoimmune arthritis.

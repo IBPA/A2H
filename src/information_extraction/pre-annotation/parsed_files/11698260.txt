@@ -1,0 +1,23 @@
+First published September 5, 2001; 10.1152/ajpcell.00077.2001.-Protective 
+mechanisms for lysophosphatidic acid (LPA) against cell death caused by 
+Clostridium difficile toxin, or tumor necrosis factor-alpha (TNF-alpha) plus 
+D-galactosamine, were investigated in a murine hepatocyte cell line AML12 
+expressing Edg2 LPA receptor. In these models of hepatocellular injury, LPA 
+prevented hepatocyte damage, suppressed apoptosis, and enhanced cell survival in 
+a dose-dependent fashion. The protective effects of LPA were abolished by 
+wortmannin and LY-294002, specific inhibitors of phosphatidylinositol 
+3-phosphate kinase (PI 3-kinase), and by PD-98059 and U-0126, inhibitors of 
+MEK1/MEK2. In nontreated hepatocytes, LPA elicited a gradual and sustained 
+increase in phosphorylation of Erk1/Erk2 over 180 min of stimulation and 
+downstream phosphorylation of p90RSK and transcription factor Elk-1. In C. 
+difficile toxin-treated cells, LPA-induced phosphorylation of Erk1/Erk2 was 
+rapid but transient, while p90RSK and Elk-1 phosphorylation did not change 
+significantly. LPA stimulated phosphorylation of Akt in a time-dependent manner 
+in both intact and toxin-treated AML12 hepatocytes. Wortmannin and LY-294002 
+abolished phosphorylation of Akt, further supporting activation of PI 
+3-kinase/Akt as a signaling pathway, which mediates hepatocyte protection by 
+LPA. Taken together, these results demonstrate that LPA prevents cell apoptosis 
+induced by C. difficile toxin and TNF-alpha/D-galactosamine in the AML12 murine 
+hepatocyte cell line. Cell protection by LPA involves activation of the 
+mitogen-activated protein kinase Erk1/Erk2 cascade and PI 3-kinase-dependent 
+phosphorylation of Akt.

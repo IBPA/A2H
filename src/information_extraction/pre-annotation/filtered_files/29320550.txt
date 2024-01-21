@@ -1,0 +1,26 @@
+INTRODUCTION: Rheumatoid arthritis associated interstitial lung disease (RA-ILD) 
+is a debilitating condition with poor survival prognosis. High resolution 
+computed tomography (CT) is a common clinical tool to diagnose RA-ILD, and is 
+increasingly being adopted in pre-clinical studies. However, murine models 
+recapitulating RA-ILD are lacking, and CT outcomes for inflammatory lung disease 
+have yet to be formally validated. To address this, we validate μCT outcomes for 
+ILD in the tumor necrosis factor transgenic (TNF-Tg) mouse model of RA.
+METHODS: Cross sectional μCT was performed on cohorts of male TNF-Tg mice and 
+their WT littermates at 3, 4, 5.5 and 12 months of age (n = 4-6). Lung μCT 
+outcomes measures were determined by segmentation of the μCT datasets to 
+generate Aerated and Tissue volumes. After each scan, lungs were obtained for 
+histopathology and 3 sections stained with hematoxylin and eosin. Automated 
+histomorphometry was performed to quantify the tissue area (nuclei, cytoplasm, 
+and extracellular matrix) and aerated area (white space) within the tissue 
+sections. Spearman's correlation coefficients were used to evaluate the extent 
+of association between μCT imaging and histopathology endpoints.
+RESULTS: TNF-Tg mice had significantly greater tissue volume, total lung volume 
+and mean intensity at all timepoints compared to age matched WT littermates. 
+Histomorphometry also demonstrated a significant increase in tissue area at 3, 
+4, and 5.5 months of age in TNF-Tg mice. Lung tissue volume was correlated with 
+lung tissue area (ρ = 0.81, p<0.0001), and normalize lung aerated volume was 
+correlated with normalized lung air area (ρ = 0.73, p<0.0001).
+CONCLUSIONS: We have validated in vivo μCT as a quantitative biomarker of ILD in 
+mice. Further, development of longitudinal measures is critical for dissecting 
+pathologic progression of ILD, and μCT is a useful non-invasive method to study 
+lung inflammation in the TNF-Tg mouse model.

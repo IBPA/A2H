@@ -1,0 +1,23 @@
+Glucocorticoids (GCs) are potent drugs to treat rheumatoid arthritis but exert 
+adverse skeletal effects. Compound A (CpdA) is a selective GC receptor modulator 
+with an improved risk/benefit profile in mouse models of inflammation and bone 
+loss. Here we tested whether CpdA also exerts bone-sparing effects under 
+proinflammatory circumstances using the collagen-induced arthritis model, a 
+murine model of rheumatoid arthritis. CpdA decreased disease activity, paw 
+swelling, and the paw temperature by 43%, 12%, and 7%, respectively, but was 
+less potent than dexamethasone (DEX), which reduced these parameters by 72%, 
+22%, and 10%, respectively. Moreover, T cells isolated from CpdA- and 
+DEX-treated animals were less active based on proliferation rates after 
+challenge with type II collagen and produced smaller amounts of interferon-γ and 
+TNF as compared with T cells from PBS-treated mice. Histological assessment of 
+the joints confirmed the weaker potency of CpdA as compared with DEX in 
+preventing infiltration of inflammatory cells, induction of osteoclastogenesis, 
+and destruction of articular cartilage. Due to the lack of GC-susceptible 
+arthritis models, we were not able to fully address the bone-sparing potential 
+of CpdA in inflammatory conditions. Nevertheless, the bone formation marker 
+procollagen type 1 N-terminal peptide, a surrogate marker for GC-mediated 
+suppression of bone formation, was significantly decreased by DEX in arthritic 
+mice but not by CpdA. Our data indicate that CpdA moderately suppresses 
+inflammation, whereas the concurrent effects on bone remain unknown. In light of 
+its narrow therapeutic range, CpdA may be more useful as a molecular tool for 
+dissecting GC actions rather than a therapeutic agent.

@@ -1,0 +1,10 @@
+The synthesis and structure-activity relationship of a series of indole 
+inhibitors of cytosolic phospholipase A2alpha (cPLA2alpha, type IVA 
+phospholipase) are described. Inhibitors of cPLA2alpha are predicted to be 
+efficacious in treating asthma as well as the signs and symptoms of 
+osteoarthritis, rheumatoid arthritis, and pain. The introduction of a benzyl 
+sulfonamide substituent at C2 was found to impart improved potency of these 
+inhibitors, and the SAR of these sulfonamide analogues is disclosed. Compound 
+123 (Ecopladib) is a sub-micromolar inhibitor of cPLA2alpha in the GLU micelle 
+and rat whole blood assays. Compound 123 displayed oral efficacy in the rat 
+carrageenan air pouch and rat carrageenan-induced paw edema models.

@@ -1,0 +1,21 @@
+Glucocorticoids signal through the glucocorticoid receptor (GR) and are 
+administered clinically for a variety of situations, including inflammatory 
+disorders, specific cancers, rheumatoid arthritis, and organ/tissue 
+transplantation. However, glucocorticoid therapy is also associated with 
+additional complications, including steroid-induced diabetes. We hypothesized 
+that modification of the steroid backbone is one strategy to enhance the 
+therapeutic potential of GR activation. Toward this goal, two commercially 
+unavailable, thiobenzothiazole-containing derivatives of hydrocortisone (termed 
+MS4 and MS6) were examined using 832/13 rat insulinoma cells as well as rodent 
+and human islets. We found that MS4 had transrepression properties but lacked 
+transactivation ability, whereas MS6 retained both transactivation and 
+transrepression activities. In addition, MS4 and MS6 both displayed 
+anti-inflammatory activity. Furthermore, MS4 displayed reduced impact on islet 
+β-cell function in both rodent and human islets. Similar to dexamethasone, MS6 
+promoted adipocyte development in vitro, whereas MS4 did not. Moreover, neither 
+MS4 nor MS6 activated the Pck1 (Pepck) gene in primary rat hepatocytes. We 
+conclude that modification of the functional groups attached to the D-ring of 
+the hydrocortisone steroid molecule produces compounds with altered 
+structure-function GR agonist activity with decreased impact on insulin 
+secretion and reduced adipogenic potential but with preservation of 
+anti-inflammatory activity.

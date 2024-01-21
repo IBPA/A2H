@@ -1,0 +1,28 @@
+OBJECTIVE: The proinflammatory cytokine interleukin-17A (IL-17A) is produced 
+primarily by the CD4+ T cell subset called Th17 cells, which is involved in host 
+defense, inflammation, and autoimmune disorders. This study was undertaken to 
+investigate the effect of a high-affinity RNA molecule, called an aptamer, 
+against human IL-17A on IL-17A-induced signal transduction in vitro and its 
+anti-autoimmune efficacy in vivo in 2 mouse models of inflammation.
+METHODS: By screening a large library of nuclease-resistant RNA 
+oligonucleotides, we selected an RNA aptamer, Apt21-2, that binds human and 
+mouse IL-17 and blocks the interaction between IL-17A and its receptor. The 
+inhibition of IL-17A-mediated phosphorylation and marker protein production was 
+analyzed in human and mouse cells. Mice with glucose-6-phosphate isomerase 
+(GPI)-induced rheumatoid arthritis and myelin oligodendrocyte glycoprotein 
+(MOG)-induced experimental autoimmune encephalomyelitis were used to assess 
+efficacy.
+RESULTS: Apt21-2 prevented efficient phosphorylation of the IL-17A signaling 
+factors IκB and JNK and inhibited the production of IL-6 in human and mouse 
+cells. A PEGylated form of Apt21-2 (PEG21-2idT) exhibited a 50% inhibition 
+concentration (IC(50) ) in the range of 1-2 nM and 70-80 nM in human and mouse 
+cells, respectively. When administered immediately after immunization with GPI 
+or MOG, PEG21-2idT inhibited in a dose-dependent manner the development of 
+arthritic or neurologic symptoms. Significantly, PEG21-2idT slowed the 
+progression of arthritis when administered after the onset of GPI-induced 
+arthritis.
+CONCLUSION: Our findings indicate that the chemically processed anti-IL-17A 
+aptamer PEG21-2idT inhibits the actions of IL-17A as well as the development of 
+autoimmunity in 2 mouse models of inflammation. These results offer for the 
+first time an aptamer-based therapeutic approach to the treatment of Th17 
+cell-mediated autoimmune disorders.

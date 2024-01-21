@@ -1,0 +1,17 @@
+This study investigated the use of a newly developed chitosan-Ca pectinate 
+microbead formulation for the colon-targeted delivery of anti-A/B toxin 
+immunoglobulin of egg yolk (IgY) to inhibit toxin binding to colon mucosa cells. 
+The effect of the three components (pectinate, calcium chloride, and chitosan) 
+used for the microbead production was examined with the aim of identifying the 
+optimal levels to improve drug encapsulation efficiency, swelling ratio, and 
+cumulative IgY release rate. The optimized IgY-loaded bead component was pectin 
+5% (w/v), CaCl2 3% (w/v), and chitosan 0.5% (w/v). Formulated beads were 
+spherical with 1.2-mm diameter, and the drug loading was 45%. An in vitro 
+release study revealed that chitosan-Ca pectinate microbeads inhibited IgY 
+release in the upper gastrointestinal tract and significantly improved the 
+site-specific release of IgY in the colon. An in vivo rat study demonstrated 
+that 72.6% of biologically active IgY was released specifically in the colon. 
+These results demonstrated that anti-A/B toxin IgY-loaded chitosan-Ca pectinate 
+oral microbeads improved IgY release behavior in vivo, which could be used as an 
+effective oral delivery platform for the biological treatment of Clostridium 
+difficile infection (CDI).

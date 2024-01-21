@@ -1,0 +1,17 @@
+Interleukin-1β (IL-1β) and interleukin-17A (IL-17A) are inducible factors and 
+important cytokines in the pathogenesis of rheumatoid arthritis (RA). In the 
+present study, three bispecific and neutralizing antibodies (BsAB-1, BsAB-2 and 
+BsAB-3) against both hIL-1β and hIL-17A were constructed, their therapeutic 
+efficacy was compared on collagen induced arthritis (CIA) model mice. In vitro 
+assays demonstrated that the three antibodies could simultaneously bind to 
+target both hIL-1β and hIL-17A. Mice with CIA were subcutaneously administered 
+with one of three antibodies every two days for 29 days, we noticed that, 
+compared with the BsAB-2 and BsAB-3, BsAB-1 antibody therapy resulted in more 
+significant effect on alleviating the severity of arthritis by preventing bone 
+damage and cartilage destruction and substantially decreasing production of 
+CII-specific antibodies. In addition, BsAB-1 antibody was more potent in the 
+inhibition of mRNA expression of IL-2, IL-1β, IL-17A, TNF-α and MMP-3 in the 
+spleen of CIA mice compared to the other two. In summary, BsAB-1 is superior 
+over BsAB-2 and BsAB-3 for the treatment of RA model mice, and may be chosen as 
+an ideal candidate for further development of therapeutic drugs for treatment of 
+RA.

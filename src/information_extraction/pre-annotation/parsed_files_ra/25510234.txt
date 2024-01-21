@@ -1,0 +1,23 @@
+OBJECTIVE: The function of mast cells (MCs) in autoimmune disorders has been a 
+subject of controversy recently. MC-deficient Kit(W/W-v) mice were found to be 
+resistant to K/BxN serum-transfer arthritis, whereas Kit(W-sh/W-sh) mice and a 
+genetic model of MC deficiency independent of the Kit mutation were found to be 
+fully susceptible. This debate might lead to the assumption that MCs are 
+dispensable in autoimmunity in general. Thus, the purpose of this study was to 
+examine the relevance of MCs to arthritis using a genetic model of inducible MC 
+deficiency without compromised Kit signaling.
+METHODS: We compared MC functions in K/BxN serum-induced arthritis and in 
+collagen-induced arthritis (CIA) in a mouse model of inducible MC deficiency by 
+analyzing joint inflammation, parameters of cartilage degradation and bone 
+erosion, and the autoreactive adaptive immune response.
+RESULTS: We observed a redundant role of MCs in K/BxN serum-induced arthritis, 
+where joint inflammation is triggered by cartilage-bound immune complexes 
+independently of T cells. In contrast, we found MCs to be critically relevant in 
+CIA, which is provoked by two arms of autoimmune attack: autoreactive antibodies 
+and effector T cells. In addition to diminished joint inflammation in the 
+absence of MCs, we found a dramatic loss of T cell expansion upon immunization, 
+accompanied by reduced T cell cytokine responses.
+CONCLUSION: In this analysis of an arthritis model in which the cellular arm of 
+adaptive immunity was not bypassed, we identified MCs as important promoters of 
+T cell-conditioned autoimmune disorders and, consequently, as potential 
+therapeutic targets in rheumatoid arthritis.

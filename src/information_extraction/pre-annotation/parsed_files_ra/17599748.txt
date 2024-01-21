@@ -1,0 +1,28 @@
+OBJECTIVE: NF-kappaB inhibitors applied to animal models of rheumatoid arthritis 
+(RA) demonstrate the important role of NF-kappaB in the production of mediators 
+of inflammation in the joint and their antiinflammatory effects. Because 
+NF-kappaB is involved in the differentiation, activation, and survival of almost 
+all cells, its prolonged inhibition might have unwanted adverse effects. 
+Therefore, we sought to apply NF-kappaB inhibitors more specifically, targeting 
+dendritic cell (DC) differentiation, in order to influence the outcome of the 
+autoimmune response, rather than to produce a broad antiinflammatory effect. We 
+tested whether DCs treated with the NF-kappaB inhibitor BAY 11-7082 and exposed 
+to arthritogenic antigen would suppress established arthritis in C57BL/6 mice.
+METHODS: Antigen-induced arthritis was generated in C57BL/6 mice by injection of 
+methylated bovine serum albumin (mBSA). After mBSA challenge, mouse knee joints 
+were injected with antigen-exposed BAY 11-7082-treated DCs or with soluble tumor 
+necrosis factor receptor (sTNFR). Intraarticular injection of interleukin-1 
+(IL-1) was used to induce disease flare.
+RESULTS: Inflammation and erosion were suppressed in mice that received 
+mBSA-exposed BAY 11-7082-treated DCs, but not in those that received keyhole 
+limpet hemocyanin-exposed BAY 11-7082-treated DCs. Clinical improvement was 
+dependent on IL-10 and was associated with antigen-specific suppression of the 
+delayed-type hypersensitivity (DTH) reaction and switching of anti-mBSA antibody 
+isotype from IgG2b to IgG1 and IgA. Suppression of the DTH reaction or arthritic 
+disease was not impaired by concomitant administration of sTNFR. Suppression 
+could be reversed with intraarticular administration of IL-1beta and could be 
+restored by a second injection of mBSA-exposed BAY 11-7082-treated DCs.
+CONCLUSION: BAY 11-7082-treated DCs induce antigen-specific immune suppression 
+in this model of inflammatory arthritis, even after full clinical expression of 
+the disease. Such DCs have potential as antigen-specific therapy for autoimmune 
+inflammatory arthritis, including RA.

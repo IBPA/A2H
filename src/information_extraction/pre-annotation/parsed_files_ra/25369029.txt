@@ -1,0 +1,28 @@
+BACKGROUND: Myeloid-derived suppressor cells (MDSCs) are innate immune cells 
+capable of suppressing T-cell responses. We previously reported the presence of 
+MDSCs with a granulocytic phenotype in the synovial fluid (SF) of mice with 
+proteoglycan (PG)-induced arthritis (PGIA), a T cell-dependent autoimmune model 
+of rheumatoid arthritis (RA). However, the limited amount of SF-MDSCs precluded 
+investigations into their therapeutic potential. The goals of this study were to 
+develop an in vitro method for generating MDSCs similar to those found in SF and 
+to reveal the therapeutic effect of such cells in PGIA.
+METHODS: Murine bone marrow (BM) cells were cultured for 3 days in the presence 
+of granulocyte macrophage colony-stimulating factor (GM-CSF), interleukin-6 
+(IL-6), and granulocyte colony-stimulating factor (G-CSF). The phenotype of 
+cultured cells was analyzed using flow cytometry, microscopy, and biochemical 
+methods. The suppressor activity of BM-MDSCs was tested upon co-culture with 
+activated T cells. To investigate the therapeutic potential of BM-MDSCs, the 
+cells were injected into SCID mice at the early stage of adoptively transferred 
+PGIA, and their effects on the clinical course of arthritis and PG-specific 
+immune responses were determined.
+RESULTS: BM cells cultured in the presence of GM-CSF, IL-6, and G-CSF became 
+enriched in MDSC-like cells that showed greater phenotypic heterogeneity than 
+MDSCs present in SF. BM-MDSCs profoundly inhibited both antigen-specific and 
+polyclonal T-cell proliferation primarily via production of nitric oxide. 
+Injection of BM-MDSCs into mice with PGIA ameliorated arthritis and reduced 
+PG-specific T-cell responses and serum antibody levels.
+CONCLUSIONS: Our in vitro enrichment strategy provides a SF-like, but controlled 
+microenvironment for converting BM myeloid precursors into MDSCs that potently 
+suppress both T-cell responses and the progression of arthritis in a mouse model 
+of RA. Our results also suggest that enrichment of BM in MDSCs could improve the 
+therapeutic efficacy of BM transplantation in RA.

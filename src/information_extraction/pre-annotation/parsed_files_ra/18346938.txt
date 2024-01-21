@@ -1,0 +1,15 @@
+Immune complex (IC) binding to Fc gamma receptors (FcgammaRs) is central for 
+inflammatory reactions seen in autoimmune diseases. Consequently, a therapeutic 
+agent with a possibility to interfere with binding of pathogenic IC to FcgammaRs 
+would be valuable in autoimmune disorders such as rheumatoid arthritis (RA). 
+Here we have explored the therapeutic effect of a recombinant soluble human 
+FcgammaRIIb (sFcgammaRIIb) protein in collagen-induced arthritis (CIA). In vitro 
+studies of the sFcgammaRIIb demonstrated binding to mouse IgG, suggesting that 
+sFcgammaRIIb can absorb pathogenic IgG anti-collagen type II (CII) IC in vivo. 
+Hence, administration of sFcgammaRIIb significantly reduced CIA severity 
+compared to control treated mice. The sFcgammaRIIb treated mice had 
+significantly less IgG anti-CII antibodies in serum and lower mRNA levels of 
+inflammatory cytokines compared to control mice. In conclusion, sFcgammaRIIb 
+treatment ameliorates CIA by reducing IC-stimulated inflammation and joint 
+swelling. This suggests that recombinant sFcgammaRIIb may be useful as 
+therapeutic agent in RA.

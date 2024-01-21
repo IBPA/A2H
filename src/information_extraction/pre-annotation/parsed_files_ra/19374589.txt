@@ -1,0 +1,20 @@
+Mesenchymal stem cells (MSCs) are characterized by their 
+hematopoiesis-supporting and immunosuppressive capacity, while osteoclasts are 
+main cell components in the endosteal hematopoietic stem cell niche and pivotal 
+players in osteoimmunology. To clarify the association of these 2 kinds of 
+cells, mouse CD11b(+) monocytes were cultured onto MSC layers in the presence or 
+absence of macrophage colony-stimulating factor (M-CSF) and receptor activator 
+of NF-kappaB ligand (RANKL). The results showed that MSCs independently 
+supported osteoclast development and this effect was enhanced by M-CSF and 
+RANKL. Interestingly, tumor necrosis factor-alpha (TNF-alpha)-stimulated MSCs 
+turned to inhibit osteoclast formation and protect tusk slices from osteoclastic 
+resorption. Real-time PCR and ELISA assays demonstrated that osteoprotegerin 
+expression at both mRNA and protein levels in TNF-alpha-stimulated MSCs was 
+up-regulated, at least partially by activating the mitogen-activated protein 
+kinase pathway. Furthermore, TNF-alpha-stimulated MSCs maintained their 
+immunophenotypic, multipotential differentiation and immunosuppressive 
+characteristics. Moreover, MSCs treated with synovial fluid from rheumatoid 
+arthritis patients modulated osteoclast generation in close relation with the 
+TNF-alpha levels. This study suggests that MSCs exhibit dual modulatory function 
+on osteoclasts and the result might shed light on understanding the involvement 
+of MSCs in the inflammatory diseases.

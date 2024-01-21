@@ -1,0 +1,22 @@
+Clostridium difficile is associated with antibiotic-associated diarrhea and 
+pseudomembranous colitis in humans. Its 2 major toxins, toxins A and B, enter 
+host cells and inactivate GTPases of the Ras homologue/rat sarcoma family by 
+glucosylation. Pore formation of the toxins in the endosomal membrane enables 
+the translocation of their glucosyltransferase domain into the cytosol, and 
+membrane cholesterol is crucial for this process. Here, we asked whether the 
+activity of the sterol regulatory element-binding protein 2 (SREBP-2) pathway, 
+which regulates the cholesterol content in membranes, affects the susceptibility 
+of target cells toward toxins A and B. We show that the SREBP-2 pathway is 
+crucial for the intoxication process of toxins A and B by using pharmacological 
+inhibitors (PF-429242, 25-hydroxycholesterol) and cells that are specifically 
+deficient in SREBP-2 pathway signaling. SREBP-2 pathway inhibition disturbed the 
+cholesterol-dependent pore formation of toxin B in cellular membranes. 
+Preincubation with the cholesterol-lowering drug simvastatin protected cells 
+from toxin B intoxication. Inhibition of the SREBP-2 pathway was without effect 
+when the enzyme portion of toxin B was introduced into target cells via the cell 
+delivery property of anthrax protective antigen. Taken together, these findings 
+allowed us to identify the SREBP-2 pathway as a suitable target for the 
+development of antitoxin therapeutics against C. difficile toxins A and 
+B.-Papatheodorou, P., Song, S., López-Ureña, D., Witte, A., Marques, F., Ost, G. 
+S., Schorch, B., Chaves-Olarte, E., Aktories, K. Cytotoxicity of Clostridium 
+difficile toxins A and B requires an active and functional SREBP-2 pathway.

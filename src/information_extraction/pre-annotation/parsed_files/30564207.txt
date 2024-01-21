@@ -1,0 +1,24 @@
+Clostridioides difficile is the main cause for nosocomial antibiotic associated 
+diarrhea and has become a major burden for the health care systems of industrial 
+countries. Its main virulence factors, the small GTPase glycosylating toxins 
+TcdA and TcdB, are extensively studied. In contrast, the contribution of other 
+factors to development and progression of C. difficile infection (CDI) are only 
+insufficiently understood. Many bacterial peptidyl-prolyl-cis/trans-isomerases 
+(PPIases) have been described in the context of virulence. Among them are the 
+parvulin-type PrsA-like PPIases of Gram-positive bacteria. On this basis, we 
+identified CD630_35000 as the PrsA2 homolog in C. difficile and conducted its 
+enzymatic and phenotypic characterization in order to assess its involvement 
+during C. difficile infection. For this purpose, wild type CdPrsA2 and mutant 
+variants carrying amino acid exchanges mainly in the PPIase domain were 
+recombinantly produced. Recombinant CdPrsA2 showed PPIase activity toward the 
+substrate peptide Ala-Xaa-Pro-Phe with a preference for positively charged amino 
+acids preceding the proline residue. Mutation of conserved residues in its 
+active site pocket impaired the enzymatic activity. A PrsA2 deficient mutant was 
+generated in the C. difficile 630Δerm background using the ClosTron technology. 
+Inactivation of prsA2 resulted in a reduced germination rate in response to 
+taurocholic acid, and in a slight increase in resistance to the secondary bile 
+acids LCA and DCA. Interestingly, in the absence of PrsA2 colonization of mice 
+by C. difficile 630 was significantly reduced. We concluded that CdPrsA2 is an 
+active PPIase that acts as a virulence modulator by influencing crucial 
+processes like sporulation, germination and bile acid resistance resulting in 
+attenuated mice colonization.

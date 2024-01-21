@@ -1,0 +1,15 @@
+This study investigated if intestinal Clostridioides difficile (CD) causes liver 
+injury. Four-week-old male C3H/HeN mice were treated with phosphate-buffered 
+solution (control), CD, diethylnitrosamine (DEN) to induce liver injury with PBS 
+(DEN+PBS), and DEN with CD (DEN+CD) for nine weeks. After sacrifice, livers and 
+mesenteric lymph nodes (MLNs) were removed and bacterial translocation, 
+transcriptomes, and proteins were analysed. CD was found in 20% of MLNs from the 
+control and DEN+PBS groups, in 30% of MLNs from the CD group, and in 75% of MLNs 
+from the DEN+CD groups, which had injured livers. Also, CD was detected in 50% 
+of the livers in the DEN+CD group with CD-positive MLNs. Elevated IL-1β, HB-EGF, 
+EGFR, TGF-α, PCNA, DES, HMGB1, and CRP expressions were observed in the CD and 
+DEN+CD groups as compared to the control and DEN+PBS groups. Protein levels of 
+IL-6 and HMGB1 were higher in the CD and DEN+CD groups than in the control and 
+DEN+PBS groups. These results indicate that intestinal CD can initiate and 
+aggravate liver injury, and the mechanism of pathogenesis for liver injury 
+should be investigated in further studies.

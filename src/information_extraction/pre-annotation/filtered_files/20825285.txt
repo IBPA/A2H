@@ -1,0 +1,23 @@
+Indoleamine 2,3-dioxygenase (IDO) has been known as an emerging therapeutic 
+target in autoimmunity-related arthritis. The treatment responses of adenoviral 
+vectors encoding IDO (AdIDO) gene therapy in rat collagen-induced arthritis 
+(CIA) were examined in this study. The therapeutic effects on ankle 
+circumference, articular index, and radiographic and histological scores were 
+evaluated in AdIDO-injected ankle joints. We further determined CD4+ T-cell 
+numbers and their apoptotic status, CD68(+) macrophage numbers, kynurenine (a 
+downstream tryptophan metabolite) concentrations, interleukin-17 (IL-17) levels, 
+and retinoic acid-related orphan receptor γt (RORγt) expression in synovial 
+tissues of CIA rats receiving AdIDO treatment. Reduction of ankle circumference, 
+articular index, and radiographic and histological scores were noted in 
+AdIDO-treated ankles, as compared with those receiving injection of control 
+vectors. Furthermore, IDO gene transfer led to decreased infiltrating CD4+ T 
+cells with enhanced apoptosis, reduced CD68+ macrophage numbers, increased 
+kynurenine levels, lower IL-17 concentrations, and decreased RORγt expression 
+within the ankle joints. In addition, such a therapy diminished type II 
+collagen-specific IL-17 production and RORγt expression in CD4+ T cells from 
+draining lymph nodes of CIA rats. Our results demonstrate for the first time 
+that intra-articular delivery of IDO gene ameliorated ankle arthritis of CIA 
+rats by induction of CD4+ T-cell apoptosis and reduction of synovial IL-17 
+production through the supplement of kynurenine. Taken together, these findings 
+implicate the novel strategy of using IDO gene as a therapeutic approach in 
+treating patients with rheumatoid arthritis.

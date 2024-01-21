@@ -1,0 +1,19 @@
+Sj16, a 16-kDa protein produced by Schistosoma japonicum, has been demonstrated 
+to have anti-inflammatory effect. However, the possible mechanism of these 
+phenomena has not been discovered. Here, we tried to touch it with arthritis 
+rats' model induced by injection of complete Freund's adjuvant (CFA). A set of 
+pathogenic characters were observed in CFA-treated rat, including local and 
+systematic read-out, which showed the model successfully set up. After 
+administration of rSj16 (recombinant Sj16) in vivo, paw swelling reduced 
+significantly and in a dose-dependent manner, the level of TNF-α, IL-1β and NO 
+decreased and IL-10 in the serum increased. In vitro, rSj16 reversed the 
+augmented surface expression of CD80, CD86, CD54 and OX6 induced by 
+lipopolysaccharide (LPS) in bone marrow-derived DCs (BMDCs), whereas endocytotic 
+capacity of rSj16-treated dendritic cell (DC) was profoundly increased. IL-12p70 
+released from rSj16-treated BMDC was decreased but IL-10 increased. Further, 
+following incubation with rSj16 primed BMDCs, the sensitized T cells exhibited 
+increased production of anti-inflammatory IL-10 and IL-4 and decreased 
+production of IL-12p70 and IFN-γ. Collectively, these results implied that rSj16 
+alleviated CFA-induced arthritis, and the possible mechanisms may be its 
+interruption of maturation and function of DCs. rSj16 could be a potential 
+therapeutic agent against rheumatoid arthritis.

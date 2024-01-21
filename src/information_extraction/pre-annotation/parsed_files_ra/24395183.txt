@@ -1,0 +1,26 @@
+BACKGROUND: Norisoboldine (NOR) is a benzylisoquinoline alkaloid isolated from 
+Radix Linderae, a traditional Chinese medicine. Our previous studies have 
+demonstrated that it produces anti-inflammatory and anti-rheumatoid arthritis 
+effects.
+METHODS: The present study was undertaken to explore the analgesic effects of 
+NOR and its potential mechanism in the formalin test and the acetic acid 
+writhing test.
+RESULTS: Oral administration of NOR dose dependently attenuated the 
+formalin-induced pain responses in the second phase, and reduced 
+formalin-induced paw oedema. It also diminished acetic acid-induced writhing 
+responses but had no effect on acute thermal pain in the hotplate test. The 
+mechanistic studies suggested that the adenosine system, but not the opioid 
+receptor system, is involved in NOR-induced antinociception. Naloxone, a 
+non-selective opioid receptor antagonist, had no effect on NOR-induced analgesic 
+action. However, caffeine (a non-selective adenosine receptor antagonist) 
+completely reversed the analgesic effect of NOR in formalin-induced nociceptive 
+responses in the second phase, and 8-cyclopentyl-1, 3-dipropylxanthine (DPCPX, a 
+selective adenosine A1 receptor antagonist) completely inhibited NOR-induced 
+analgesia in both formalin-induced nociceptive responses and acetic acid-induced 
+writhing responses. In addition, NOR reduced formalin-induced activation of 
+extracellular signal-regulated kinase and calcium/calmodulin-dependent protein 
+kinase II in the spinal cord, which is also blocked by DPCPX. Furthermore, NOR 
+decreased forskolin-evoked cyclic adenosine monophosphate levels in mouse spinal 
+cord neuronal cultures through the adenosine A1 receptor.
+CONCLUSION: Our data demonstrate that NOR produces the analgesic effect in 
+inflammatory pain by a mechanism related to the adenosine system.

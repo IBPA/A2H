@@ -1,0 +1,24 @@
+BACKGROUND: Interleukin 17 (IL17) is produced by activated T cells and has been 
+implicated in the development of bone lesions and cartilage degradation in 
+rheumatoid arthritis (RA).
+OBJECTIVE: To determine whether IL17, alone or together with tumour necrosis 
+factor alpha (TNFalpha), induces cartilage destruction in vitro.
+METHODS: Fetal mouse metatarsals stripped of endogenous osteoclast precursors 
+were used to study the effect of IL17 on cartilage degradation independently of 
+osteoclastic resorption. Cartilage destruction was analysed histologically by 
+Alcian blue staining.
+RESULTS: IL17 alone, up to 100 ng/ml, had no effect on the cartilage of fetal 
+mouse metatarsals. IL17 (>/=0.1 ng/ml), however, induced severe cartilage 
+degradation when given together with TNFalpha (>/=1 ng/ml). The cytokine 
+combination decreased Alcian blue staining, a marker of proteoglycans, 
+throughout the metatarsals and induced loss of the proliferating and early 
+hypertrophic chondrocyte zones. TNFalpha alone also decreased Alcian blue 
+staining, but not as dramatically as the cytokine combination. In addition, it 
+did not induce loss of chondrocyte zones. Treatment with inhibitors of matrix 
+metalloproteinase (MMP) activity and nitric oxide synthesis showed that MMP 
+activity played a part in cartilage degradation, whereas nitric oxide production 
+did not.
+CONCLUSIONS: IL17, together with TNFalpha, induced cartilage degradation in 
+fetal mouse metatarsals in vitro. IL17 may, therefore, participate in the 
+development of cartilage destruction associated with RA by enhancing the effects 
+of TNFalpha and may provide a potential therapeutic target.

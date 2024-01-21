@@ -1,0 +1,25 @@
+Clostridium difficile infection (CDI) is a serious diarrheal disease that often 
+develops following prior antibiotic usage. One of the major problems with 
+current therapies (oral vancomycin and metronidazole) is the high rate of 
+recurrence. Nitazoxanide (NTZ), an inhibitor of pyruvate:ferredoxin 
+oxidoreductase (PFOR) in anaerobic bacteria, parasites, Helicobacter pylori, and 
+Campylobacter jejuni, also shows clinical efficacy against CDI. From a library 
+of ∼250 analogues of NTZ, we identified leads with increased potency for PFOR. 
+MIC screens indicated in vitro activity in the 0.05- to 2-μg/ml range against C. 
+difficile. To improve solubility, we replaced the 2-acetoxy group with 
+propylamine, producing amixicile, a soluble (10 mg/ml), nontoxic (cell-based 
+assay) lead that produced no adverse effects in mice by oral or intraperitoneal 
+(i.p.) routes at 200 mg/kg of body weight/day. In initial efficacy testing in 
+mice treated (20 mg/kg/day, 5 days each) 1 day after receiving a lethal inoculum 
+of C. difficile, amixicile showed slightly less protection than did vancomycin 
+by day 5. However, in an optimized CDI model, amixicile showed equivalence to 
+vancomycin and fidaxomicin at day 5 and there was significantly greater survival 
+produced by amixicile than by the other drugs on day 12. All three drugs were 
+comparable by measures of weight loss/gain and severity of disease. Recurrence 
+of CDI was common for mice treated with vancomycin or fidaxomicin but not for 
+mice receiving amixicile or NTZ. These results suggest that gut repopulation 
+with beneficial (non-PFOR) bacteria, considered essential for protection against 
+CDI, rebounds much sooner with amixicile therapy than with vancomycin or 
+fidaxomicin. If the mouse model is indeed predictive of human CDI disease, then 
+amixicile, a novel PFOR inhibitor, appears to be a very promising new candidate 
+for treatment of CDI.

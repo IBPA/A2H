@@ -1,0 +1,24 @@
+Radix Linderae, the dry roots of Lindera aggregata (Sims) Kosterm (L. 
+strychnifolia Vill), has been long-term used in traditional Chinese medicine for 
+treating various diseases, and alkaloids are believed to be the main active 
+components. Previously, we reported that the total alkaloids from Radix Linderae 
+(TARL) could effectively alleviate inflammation and protect joints from 
+destruction in mouse collagen-induced arthritis, an animal model of human 
+rheumatoid arthritis (RA). To get insight into the underlying mechanisms of 
+TARL, the present study was performed to investigate the effects of TARL on the 
+activation of macrophages and resultant production of inflammatory mediators. In 
+vitro, TARL concentration-dependently prevented the production of nitric oxide, 
+interleukin-1beta (IL-1beta) and tumor necrosis factor-alpha (TNF-alpha), as 
+well as the expressions of iNOS, IL-1beta and TNF-alpha mRNA in RAW 264.7 cells 
+stimulated by lipopolysaccharide (LPS). However, it showed little effect on the 
+production of interleukin-6 (IL-6) and the expression of IL-6 mRNA. Signal 
+transduction studies showed that TARL significantly down-regulated the 
+phosphorylation of extracellular signal-regulated kinase (ERK) and p38 MAP 
+kinase rather than c-jun NH(2)-terminal kinase (JNK). Additionally, TARL 
+prominently decreased LPS-induced activation of IKKalpha and phosphorylation of 
+p65 on serine 276, but had little impact on the phosphorylation and degradation 
+of IkappaBalpha. In summary, our results demonstrate that TARL exhibits 
+inhibitory effects on the production of inflammatory mediators from macrophages 
+via blocking NF-kappaB and MAPKs signaling pathways. The findings provide a 
+plausible explanation for the therapeutic efficiency of TARL on the inflammation 
+and joint destruction in RA.

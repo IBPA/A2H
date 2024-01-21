@@ -1,0 +1,19 @@
+BACKGROUND: Macrophage migration inhibitory factor (MIF) is a pleiotropic 
+pro-inflammatory mediator that is involved in the progression of rheumatoid 
+arthritis (RA). Previously, we demonstrated a small molecule compound 
+3-[(biphenyl-4-ylcarbonyl) carbamothioyl] amino benzoic acid (Z-590) could 
+inhibit MIF activity with docking-based virtual screening and experimental 
+evaluation.
+METHODS: The LPS activated RAW264.7 macrophage cells were used to determine the 
+anti-inflammatory effects of Z-590 in vitro. A rat adjuvant-induced arthritis 
+(AIA) model was used to determine the anti-arthritic effects of Z-590 in vivo.
+RESULTS: MIF inhibitor Z-590 significantly inhibited the production of NO, TNF-α 
+and IL-6 in LPS-activated RAW 264.7 macrophage cells and markedly inhibited 
+LPS-induced expression of TNF-α, IL-6, inducible nitric oxide synthase (iNOS) 
+and cyclooxygenase-2 (COX-2). Z-590 also significantly reduced paw edema, serum 
+level of TNF-α, IL-6 and spleen index in the adjuvant-induced arthritis (AIA) 
+rat model. Furthermore, Z-590 markedly ameliorated joint inflammation and 
+articular cartilage damage in AIA rat model.
+CONCLUSION: MIF inhibitor Z-590 possesses potent anti-arthritic activity through 
+suppression of macrophage activation, and could be a potential therapeutic 
+treatment for RA.

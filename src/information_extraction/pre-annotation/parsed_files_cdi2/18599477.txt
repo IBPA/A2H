@@ -1,0 +1,22 @@
+AIMS: Vascular smooth muscle cell (VSMC) proliferation contributes to intima 
+formation after angioplasty or venous by-pass grafting, and during 
+atherosclerosis. VSMC proliferation requires degradation of p27(Kip1) promoted 
+by S-phase kinase-associated protein-2 (Skp2), an F-box protein component of the 
+Skp-Cullin-F-box(Skp2) ubiquitin-ligase. We investigated the role of Rac(1) in 
+the regulation of Skp2 in rat VSMC.
+METHODS AND RESULTS: Rat carotid balloon injury increased Rac(1) activity. Rho 
+GTPase inhibition with Clostridium difficile Toxin B or specific Rac(1) 
+inhibition with adenovirus-mediated expression of dominant-negative Rac(1) 
+reduced Skp2 levels, and VSMC proliferation in vitro and intima formation in 
+vivo following carotid balloon injury. Inhibition of Skp2 expression and 
+proliferation by dominant-negative Rac(1) was reversed by exogenous Skp2. 
+Elevation of endogenous adenosine 3',5'-cyclic monophosphate (cAMP) with 
+forskolin-inhibited Rac(1) activity, reduced Skp2, increased p27(Kip1) and 
+inhibited VSMC proliferation, effects that were reversed by constitutively 
+active Rac(1). These effects were independent of Rac(1) Cdc42/Rac interactive 
+binding (CRIB)-domain effector proteins but associated with Rac(1)-dependent 
+actin polymerization.
+CONCLUSION: Rac(1) activity regulates VSMC proliferation by controlling Skp2 
+levels. Activation of Rac(1) induced by balloon injury in vivo increases Skp2 
+levels, which promotes VSMC proliferation and intima formation. Inhibition of 
+this novel pathway underlies the negative effects of cAMP on VSMC proliferation.

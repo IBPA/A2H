@@ -1,0 +1,17 @@
+Periarticular bone loss in rheumatoid arthritis (RA) is considered to be mainly 
+related to synovial inflammation. However, strong bone loss has also described 
+at the time of arthritis onset. Recently, a paradoxical exacerbation of joint 
+damage was described when blocking sclerostin in various arthritis models. Thus, 
+we aimed to determine kinetics of bone loss and its mechanisms in the adjuvant 
+induced arthritis (AIA) rat model of RA. AIA was induced (n = 35) or not 
+(n = 35) at day 0. In addition to well-known arthritis at day 12, we showed with 
+3D-imaging and histomorphometry that bone microstructural alterations occurred 
+early from day 8 post-induction, characterized by cortical porosity and 
+trabecular bone loss. Active osteoclastic surfaces were increased from day 8 
+with RANKL upregulation. More surprisingly SOST and DKK1 were overexpressed from 
+day 6 and followed by a dramatic decrease in bone formation from day 8. At the 
+time of arthritis onset, SOST and DKK1 returned to control values, but frizzled 
+related protein 1 (SFRP1), proinflammatory cytokines, and MMPs started to 
+increase. Bone alterations before arthritis onset reinforce the hypothesis of an 
+early bone involvement in arthritis. Kinetics of osteocyte markers expression 
+should be considered to refine Wnt inhibitor treatment strategies.

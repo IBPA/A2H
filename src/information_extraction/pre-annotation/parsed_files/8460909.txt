@@ -1,0 +1,24 @@
+T-3761, a new quinolone derivative, showed broad and potent antibacterial 
+activity. Its MICs for 90% of the strains tested were 0.20 to 100 micrograms/ml 
+against gram-positive bacteria, including members of the genera Staphylococcus, 
+Streptococcus, and Enterococcus; 0.025 to 3.13 micrograms/ml against 
+gram-negative bacteria, including members of the family Enterobacteriaceae and 
+the genus Haemophilus; 0.05 to 50 micrograms/ml against glucose nonfermenters, 
+including members of the genera Pseudomonas, Xanthomonas, Acinetobacter, 
+Alcaligenes, and Moraxella; 0.025 micrograms/ml against Legionella spp.; and 
+6.25 to 25 micrograms/ml against anaerobes, including Bacteroides fragilis, 
+Clostridium difficile, and Peptostreptococcus spp. The in vitro activity of 
+T-3761 against these clinical isolates was comparable to or 2- to 32-fold 
+greater than those of ofloxacin and norfloxacin and 2- to 16-fold less and 1- to 
+8-fold greater than those of ciprofloxacin and tosulfoxacin, respectively. When 
+administered orally, T-3761 showed good efficacy in mice against systemic, 
+pulmonary, and urinary tract infections with gram-positive and gram-negative 
+bacteria, including quinolone-resistant Serratia marcescens and Pseudomonas 
+aeruginosa. The in vivo activity of T-3761 was comparable to or greater than 
+those of ofloxacin, ciprofloxacin, norfloxacin, and tosufloxacin against most 
+infection models in mice. The activities of T-3761 were lower than those of 
+tosufloxacin against gram-positive bacterial systemic and pulmonary infections 
+in mice but not against infections with methicillin-resistant Staphylococcus 
+aureus. The activities of T-3761 against systemic quinolone-resistant Serratia 
+marcescens and Pseudomonas aeruginosa infections in mice were 2- to 14-fold 
+greater than those of the reference agents.

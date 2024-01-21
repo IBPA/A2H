@@ -1,0 +1,30 @@
+BACKGROUND: The immunosuppressive and anti-inflammatory properties of 
+mesenchymal stromal cells (MSC) have prompted their therapeutic application in 
+several autoimmune diseases, including rheumatoid arthritis. Adult MSC are 
+finite and their clinical use is restricted by the need for long-term expansion 
+protocols that can lead to genomic instability. Inhibition of Smad2/3 signaling 
+in human pluripotent stem cells (hPSC) provides an infinite source of MSC that 
+match the phenotype and functional properties of adult MSC. Here, we test the 
+therapeutic potential of hPSC-MSC of embryonic origin (embryonic stem 
+cell-derived mesenchymal stromal cells, hESC-MSC) in the experimental model of 
+collagen-induced arthritis (CIA).
+METHODS: CIA was induced in DBA/1 mice by immunization with type II collagen 
+(CII) in Complete Freund's Adjuvant (CFA). Mice were treated with either a 
+single dose (10(6) cells/mouse) of hESC-MSC on the day of immunization 
+(prophylaxis) or with three doses of hESC-MSC every other day starting on the 
+day of arthritis onset (therapy). Arthritis severity was evaluated daily for six 
+weeks and ten days, respectively. Frequency of Treg (FoxP3(+)), Th1 (IFNγ(+)) 
+and Th17 (IL17(+)) CD4(+) T cells in inguinal lymph nodes (ILN) was quantified 
+by flow cytometry. Serum levels of anti-CII antibodies were determined by ELISA. 
+Detection of hESC-MSC and quantification of murine and human indoleamine 2,3 
+dioxygenase (IDO1) expression was performed by quantitative real-time PCR. 
+Statistical differences were analyzed by ANOVA and the Mann-Whitney U test.
+RESULTS: Administration of hESC-MSC to mice with established arthritis reduced 
+disease severity compared to control-treated mice. Analysis of CD4 T cell 
+populations in treated mice showed an increase in FoxP3(+) Treg and IFNγ(+) Th1 
+cells but not in Th17 cells in the ILN. Anti-CII antibody levels were not 
+affected by treatment. Migration of hESC-MSC to the ILN in treated mice was 
+associated with the induction of murine IDO1.
+CONCLUSION: Treatment with hESC-MSC ameliorates CIA by inducing IFNγ(+) Th1 
+cells and IDO1 in the host. Thus, hESC-MSC can provide an infinite cellular 
+source for treatment of rheumatoid arthritis.

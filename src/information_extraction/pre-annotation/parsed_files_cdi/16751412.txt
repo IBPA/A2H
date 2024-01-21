@@ -1,0 +1,24 @@
+We present evidence for a novel TLR2 function in transmodulating the adhesive 
+activities of human monocytes in response to the fimbriae of Porphyromonas 
+gingivalis, a pathogen implicated in chronic periodontitis and atherosclerosis. 
+Monocyte recruitment into the subendothelium is a crucial step in 
+atherosclerosis, and we investigated the role of P. gingivalis fimbriae in 
+stimulating monocyte adhesion to endothelial cells and transendothelial 
+migration. Fimbriae induced CD11b/CD18-dependent adhesion of human monocytes or 
+mouse macrophages to endothelial receptor ICAM-1; these activities were 
+inhibited by TLR2 blockade or deficiency or by pharmacological inhibitors of 
+PI3K. Moreover, this inducible adhesive activity was sensitive to the action of 
+Clostridium difficile toxin B, but was not affected by Clostridium botulinum C3 
+exoenzyme, pertussis toxin, or cholera toxin. Accordingly, we subsequently 
+showed through the use of dominant negative signaling mutants of small GTPases, 
+that Rac1 mediates the ability of fimbria-stimulated monocytes to bind ICAM-1. A 
+dominant negative mutant of Rac1 also inhibited the lipid kinase activity of 
+PI3K suggesting that Rac1 acts upstream of PI3K in this proadhesive pathway. 
+Furthermore, fimbriae stimulated monocyte adhesion to HUVEC and transmigration 
+across HUVEC monolayers; both activities required TLR2 and Rac1 signaling and 
+were dependent upon ICAM-1 and the high-affinity state of CD11b/CD18. P. 
+gingivalis-stimulated monocytes displayed enhanced transendothelial migration 
+compared with monocytes stimulated with nonfimbriated isogenic mutants. Thus, P. 
+gingivalis fimbriae activate a novel proadhesive pathway in human monocytes, 
+involving TLR2, Rac1, PI3K, and CD11b/CD18, which may constitute a mechanistic 
+basis linking P. gingivalis to inflammatory atherosclerotic processes.

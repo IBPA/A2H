@@ -1,0 +1,21 @@
+For prophylactic therapy, mice received an oral antibiotic cocktail followed by 
+clindamycin injection, followed by probiotic administration (planktonic vs. 
+biofilm state), followed by C. difficile oral gavage. For treatment therapy, 
+mice received antibiotics and C. difficile first, followed by probiotic 
+administration. Clinical sickness scores (CSS) and intestinal histologic injury 
+scores (HIS) were assigned. In the Prophylactic Therapy model, CSS: 67% of 
+untreated mice exposed to C. difficile demonstrated CSS ≥ 6, which is consistent 
+with C. difficile infection (p< .001 compared to unexposed mice). In mice 
+treated with planktonic Lr, 55% had a CSS ≥ 6, but only 19% of mice treated with 
+Lr in its biofilm state had CSS ≥ 6 (p< .001). Mice receiving Lr + DM-Maltose 
+lost the least amount of weight compared to mice receiving saline (p = .004676) 
+or to mice receiving Lr (p= .003185). HIS: 77% of untreated mice exposed to C. 
+difficile had HIS scores ≥4, which is consistent with C. difficile infection. In 
+mice treated with planktonic Lr, 62% had HIS ≥4, but only 19% of mice treated 
+with Lr in its biofilm state had HIS ≥4. (p< .001). Additionally, mice treated 
+with Lr in its biofilm state had better survival compared to untreated mice and 
+to mice treated with planktonic Lr (p ≤ 0.05). Similar findings for weight loss, 
+CSS, HIS and survival were obtained for Treatment Therapy. A single dose of 
+Lactobacillus reuteri in its biofilm state reduces the severity and incidence of 
+experimental C. difficile infection when administered as both prophylactic and 
+treatment therapy.

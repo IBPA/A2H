@@ -1,0 +1,29 @@
+BACKGROUND: Clostridioides difficile (previously Clostridium difficile) is the 
+leading cause of nosocomial, antibiotic-associated diarrhoea worldwide. 
+Currently, the gold standard of treatment for C. difficile infection (CDI) is 
+vancomycin or metronidazole, although these antibiotics also perturb the 
+protective resident microbiota, often resulting in disease relapse. Thus, an 
+urgent need remains for the development of new treatment strategies. Auranofin 
+is an FDA-approved oral antirheumatic drug that was previously shown to inhibit 
+C. difficile vegetative cell growth, toxin production and spore production in 
+vitro.
+OBJECTIVES: To determine the efficacy of auranofin as a CDI therapeutic by 
+examining the effect of treatment on toxin and spore production in vitro and in 
+vivo, and on disease outcomes in mice.
+METHODS: C. difficile cultures were treated with auranofin and examined for 
+effects on sporulation and toxin production by sporulation assay and ELISA, 
+respectively. Mice were pretreated with auranofin prior to infection with C. 
+difficile and monitored for physiological conditions, survival and gut damage 
+compared with control animals. Faeces from mice were analysed to determine 
+whether auranofin reduces sporulation and toxin production in vivo.
+RESULTS: Auranofin significantly reduces sporulation and toxin production under 
+in vitro conditions and in infected mice in vivo. Mice treated with auranofin 
+lost less weight, displayed a significant increase in survival rates and had 
+significantly less toxin-mediated damage in their colon and caecum compared with 
+control mice.
+CONCLUSIONS: Auranofin shows promise as a prospective therapeutic option for C. 
+difficile infections.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of the 
+British Society for Antimicrobial Chemotherapy. All rights reserved. For 
+permissions, please email: journals.permissions@oup.com.

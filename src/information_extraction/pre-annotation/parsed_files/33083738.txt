@@ -1,0 +1,15 @@
+Clostridioides difficile (C. diff) is the leading cause of antibiotic-associated 
+colitis. Here, we report that lemon exosome-like nanoparticles (LELNs) 
+manipulated probiotics to inhibit C. diff infection (CDI). LELN-manipulated 
+Lactobacillus rhamnosus GG (LGG) and Streptococcus thermophilus ST-21 (STH) 
+(LELN-LS) decrease CDI mortality via an LELN-mediated increase in bile 
+resistance and gut survivability. LELN-LS treatment increases the AhR ligands 
+indole-3-lactic acid (I3LA) and indole-3-carboxaldehyde (I3Ald), leading to 
+induction of IL-22, and increases lactic acid leading to a decrease of C. diff 
+fecal shedding by inhibiting C. diff growth and indole biosynthesis. A 
+synergistic effect between STH and LGG was identified. The STH metabolites 
+inhibit gluconeogenesis of LGG and allow fructose-1,6-bisphosphate (FBP) to 
+accumulate in LGG; accumulated FBP then activates lactate dehydrogenase of LGG 
+(LGG-LDH) and enhances production of lactic acid and the AhR ligand. Our 
+findings provide a new strategy for CDI prevention and treatment with a new type 
+of prebiotics.

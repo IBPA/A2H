@@ -1,0 +1,26 @@
+The aim of the current study was to investigate the role and mechanism of 
+sirtuin 1 (Sirt1) in the regulation of synovial cell invasion and joint 
+destruction in rheumatoid arthritis (RA). The Sirt1 protein and mRNA levels in 
+fibroblast‑like synoviocytes (FLS) isolated from RA synovial tissues were 
+compared with normal tissues by western blot and reverse 
+transcription‑polymerase chain reaction. RA FLS were then treated with the Sirt1 
+agonist resveratrol (1, 3 and 10 µg/ml) for 48 h, and their invasiveness and 
+expression of matrix metalloproteinase (MMP) 1 and MMP13 protein and mRNA were 
+measured. Furthermore, a collagen‑induced arthritis (CIA) rat model was 
+established and the rats were divided into a model group, and low‑ and high‑dose 
+resveratrol (2.5 and 10 mg/kg/day) groups to receive an intraperitoneal 
+injection of resveratrol for 42 consecutive days. The joint morphology, 
+arthritis index (AI), and MMP1 and MMP13 expression in synovial tissues was 
+monitored. The Sirt1 protein and mRNA levels in RA FLS were significantly lower 
+compared with normal FLS (P<0.01). The resveratrol treatment significantly 
+inhibited the invasive ability of RA FLS (P<0.01) and reduced MMP1 and MMP13 
+expression (P<0.01). The AI in low‑ and high‑dose groups was significantly lower 
+compared with the model group from day 28 (P<0.01). Resveratrol also reduced the 
+swelling and damage and decreased MMP1 and MMP13 expression levels in CIA rats 
+(P<0.01). The resveratrol‑induced upregulation of Sirt1 in RA FLS may 
+significantly inhibit the invasion of these cells and reduce the degree of joint 
+damage, which may be mediated through the inhibition of MMP1 and MMP13 
+expression. The present results suggested a regulatory role for Sirt1 in RA 
+pathogenesis, and demonstrated the beneficial effects of resveratrol, which may 
+have potential as an alternative therapeutic strategy for the treatment of 
+patients with RA.

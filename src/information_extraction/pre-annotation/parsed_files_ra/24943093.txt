@@ -1,0 +1,24 @@
+OBJECTIVE: We previously reported that blockade of the Notch ligand delta-like 
+protein 1 (DLL-1) suppressed osteoclastogenesis and ameliorated arthritis in a 
+mouse model of rheumatoid arthritis (RA). However, the mechanisms by which joint 
+inflammation were suppressed have not yet been revealed. This study was 
+undertaken to determine whether DLL-1 regulates the production of RA-related 
+proinflammatory cytokines.
+METHODS: Joint cells from mice with collagen-induced arthritis (CIA) and mouse 
+fibroblast-like synoviocytes (FLS) were cultured with or without stimuli in the 
+presence of neutralizing antibodies against Notch ligands, and the production of 
+proinflammatory cytokines was determined by enzyme-linked immunosorbent assay. 
+The expression of Notch receptors and ligands on mouse joint cells was 
+determined by flow cytometry.
+RESULTS: The production of interleukin-6 (IL-6) and granulocyte-macrophage 
+colony-stimulating factor (GM-CSF) by mouse joint cells with or without 
+stimulation was suppressed by DLL-1 blockade. DLL-1 blockade also suppressed the 
+levels of IL-6 and matrix metalloproteinase 3 (MMP-3) in the joint fluid in a 
+mouse model of RA. However, the production of tumor necrosis factor α and IL-1β 
+was not suppressed by DLL-1 blockade. The production of IL-6 and MMP-3 by mouse 
+FLS was enhanced by DLL-1 stimulation as well as Notch-2 activation. Among joint 
+cells, DLL-1 was not expressed on mouse FLS but was expressed on macrophages.
+CONCLUSION: These results suggest that the interaction of DLL-1 on mouse joint 
+macrophages with Notch-2 on mouse FLS enhances the production of IL-6 and MMP-3. 
+Therefore, suppression of IL-6, GM-CSF, and MMP-3 production by DLL-1 blockade 
+might be responsible for the amelioration of arthritis in a mouse model of RA.

@@ -1,0 +1,23 @@
+In the current study we evaluated the effects of immunoproteasome inhibition 
+using ONX 0914 (formerly PR-957) to ameliorate graft-versus-host disease (GVHD). 
+ONX 0914, an LMP7-selective epoxyketone inhibitor of the immunoproteasome, has 
+been shown to reduce cytokine production in activated monocytes and T cells and 
+attenuate disease progression in mouse models of rheumatoid arthritis, colitis, 
+systemic lupus erythematosus, and, more recently, encephalomyelitis. Inhibition 
+of LMP7 with ONX 0914 in the B10.BR→CBA MHC-matched/minor histocompatibility 
+antigen (miHA)-disparate murine blood and marrow transplant (BMT) model caused a 
+modest but significant improvement in the survival of mice experiencing GVHD. 
+Concomitant with these results, in vitro mixed lymphocyte cultures revealed that 
+stimulator splenocytes, but not responder T cells, treated with ONX 0914 
+resulted in decreased IFN-γ production by allogeneic T cells in both 
+MHC-disparate (B10.BR anti-B6) and miHA-mismatched (B10.BR anti-CBA) settings. 
+In addition, a reduction in the expression of the MHC class I-restricted 
+SIINFEKL peptide was observed in splenocytes from transgenic 
+C57BL/6-Tg(CAG-OVA)916Jen/J mice exposed to ONX 0914. Taken together, these data 
+support that LMP7 inhibition in the context of BMT modulates allogeneic 
+responses by decreasing endogenous miHA presentation and that the consequential 
+reduction in allogeneic stimulation and cytokine production reduces GVHD 
+development.
+
+Copyright © 2015 American Society for Blood and Marrow Transplantation. 
+Published by Elsevier Inc. All rights reserved.

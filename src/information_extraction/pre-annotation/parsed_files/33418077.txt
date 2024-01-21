@@ -1,0 +1,24 @@
+There is an increasing concern about the role of animals as reservoirs of 
+Clostridioides difficile. In this study, we investigated prevalence, 
+antimicrobial resistance and zoonotic potential of C. difficile in dogs. 
+Two-hundred and twenty-five dog faecal deposits were collected from trashcans in 
+nine public gardens. C. difficile was isolated using selective plating and 
+enrichment culture, identified by MALDI-TOF, tested for susceptibility to seven 
+antibiotics by E-test, and sequenced on an Illumina NextSeq platform. Genome 
+sequences were analysed to determine multilocus sequence types and resistance 
+and toxin gene profiles. Zoonotic potential was assessed by measuring genetic 
+variations of core genome (cg)MLST types between canine isolates and 216 
+temporally and spatially related human clinical isolates from a national 
+database. C. difficile was isolated from 11 samples (4.9%). Seven isolates were 
+toxigenic (tcdA+, tcdB+, cdtA/B-) and belonged to the sequence types ST2, ST6, 
+ST10 and ST42. The four non-toxigenic isolates were assigned to ST15, ST26 and 
+one novel ST. ST2, corresponding to PCR ribotype RT014/020, was the dominating 
+lineage (n = 4) and, together with ST26 and ST42 isolates, showed close 
+resemblance to human isolates, i.e. 2-5 allelic differences among the 1999 genes 
+analysed by cgMLST. Three non-toxigenic isolates displayed resistance to 
+clindamycin, erythromycin and tetracycline mediated by erm(B) and tet(M). 
+Resistance to metronidazole, moxifloxacine, rifampicin or vancomycin was not 
+detected. In conclusion, a small proportion of faecal deposits contained 
+toxigenic C. difficile such as ST2 (RT014/020), which is a major cause of 
+community-acquired infections. Our finding suggests that pathogenic strains can 
+be exchanged between dogs and humans.

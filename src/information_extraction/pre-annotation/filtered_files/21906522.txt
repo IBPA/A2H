@@ -1,0 +1,31 @@
+OBJECTIVE: To establish a rat model of rheumatoid arthritis (RA) with kidney 
+deficiency syndrome.
+METHODS: A total of 110 six-week-old specific pathogen-free male and female 
+Sprague-Dawley rats were randomly divided into normal control group, 
+sham-operated group, collagen-induced arthritis (CIA) control group, castration 
+plus CIA group and hydroxyurea plus CIA group. Testiculus or ovary of rats in 
+the castration plus CIA group was cut off, respectively. Rats in the hydroxyurea 
+plus CIA group were given 375 mg/(kg·d) hydroxyurea by gavage administration for 
+17 d. Then rats in the CIA control group, castration plus CIA group and 
+hydroxyurea plus CIA group were subcutaneously injected with mixture of type II 
+collagen and incomplete Freund's adjuvant to induce rheumatoid arthritis. 
+General state, arthritis index and joint swelling of the rats were observed to 
+evaluate the onset of CIA. Contents of anti-type II collagen antibody, 
+interleukin-6 (IL-6), IL-10, interferon-γ (IFN-γ) and corticosterone (CORT) in 
+plasma were detected by enzyme-linked immunosorbent assay, and adrenal cyclic 
+adenylic acid (cAMP) and cyclic guanylic acid (cGMP) levels were detected by 
+radioimmunoassay.
+RESULTS: Compared with the CIA control group, the degrees of joint swelling and 
+joint damage were significantly increased in the kidney-deficiency CIA rats 
+(castration plus CIA group and hydroxyurea plus CIA group), with kidney 
+deficiency syndrome similar to human clinical symptoms, such as depressed, bowed 
+back, dullness, reduced diet and perianal contamination; the rats in those two 
+groups were noted with a significantly decreased ratio of cAMP/cGMP; the content 
+of CORT was increased in male rats while decreased in female rats, with an 
+obvious increase in the content of anti-type II collagen antibody; the contents 
+of IFN-γ, IL-6 and IL-10 were obviously increased in the castration plus CIA 
+group.
+CONCLUSION: The rat model of RA with kidney deficiency syndrome has both obvious 
+kidney deficiency syndrome and characteristics of RA and can reflect part of the 
+patient's characteristics. However, castration is more suitable for inducing RA 
+with kidney deficiency syndrome in rats.

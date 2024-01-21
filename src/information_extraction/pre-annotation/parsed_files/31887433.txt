@@ -1,0 +1,20 @@
+Clostridium difficile infection (CDI) has become a growing health concern, as 
+evident from the increase in the mortality rate among elderly or hospitalized 
+patients. Treatment of CDI is usually based on antibiotics (metronidazole and 
+vancomycin), but it has some limitations, including cost and antibiotic 
+resistance. Probiotics could offer an effective remedy to prevent CDI and could 
+be an auxiliary agent in treatment CDI. Here, the anti-clostridial activity of a 
+newly isolated probiotic strain, Pediococcus acidilactici SPM138 (SPM138) was 
+evaluated. The cultivation of C. difficile (CD) with SPM138, inhibited the 
+growth of CD and significantly reduced CD toxins level. The result of MTT assay 
+showed that, incubation with 25% CD culture supernatant decreased the survival 
+rate of HT-29 cells to less than 20%. However, the survival rate of these cells 
+increased to 98% in the presence of the 25% CD + SPM138 supernatant. The mRNA 
+expression of IL-6, IL-8 and PTGS2 in HT-29 cells decreased by more than 60% 
+upon incubation with CD + SPM138 co-cultures as compared to the levels observed 
+after treatment with CD supernatant only. The concentration of IL-8 also 
+decreased by more than 60% upon treatment with CD + SPM138 co-culture 
+supernatant. In a C. difficile PCR ribotype 027-infected mouse model, the 
+concentration of CD toxin in stool samples of SPM138-fed mice was only 37% of 
+that reported in C. difficile 027-infected group. These findings show that 
+P. acidilactici SPM138 may be a promising probiotic in CDI.

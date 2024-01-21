@@ -1,0 +1,23 @@
+INTRODUCTION: Combination treatment with fingolimod (FTY720) plus pathogenic 
+antigen is thought to prevent glucose-6-phosphate isomerase (GPI)325-339-induced 
+arthritis progression by effective induction of immune tolerance. Here, we 
+examined the efficacy of this combination treatment on remission maintenance.
+METHODS: GPI325-339-induced arthritis mice were treated for 5 days with FTY720 
+(1.0 mg/kg, p.o.) alone, GPI325-339 (10 μg/mouse, i.v.) alone, or with the 
+FTY720 plus GPI325-339 combination. In some experiments, mice were resensitized 
+with GPI325-339.
+RESULTS: Following resensitization with GPI325-339, combination-treated mice 
+exhibited neither severe relapse nor elevated lymphocyte infiltration in joints. 
+Neither anti-human nor mouse GPI325-339 antibody levels were correlated with 
+clinical symptoms. This suggests that combination treatment prevents relapse 
+following resensitization via regulation of pathogenic antigen-specific T cells. 
+The proportion of regulatory T (Treg) cells in inguinal lymph nodes was 
+increased post treatment in the FTY720 alone and FTY720 plus GPI325-339 groups. 
+In contrast, the proportion of glucocorticoid-induced tumor necrosis factor 
+receptor-family-related gene/protein (GITR)(+) non-Treg cells was increased only 
+in combination-treated mice. Furthermore, GITR(+) non-Treg cells, which were 
+induced by the combination treatment in vivo, possess suppressive activity and 
+high ability to produce interleukin (IL)-10.
+CONCLUSION: GITR(+) non-Treg cells might play a key role in relapse prevention 
+following resensitization. Thus, this combination treatment might establish 
+immune tolerance by induction of GITR(+) non-Treg cells.

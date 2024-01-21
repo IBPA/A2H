@@ -1,0 +1,24 @@
+Experimental vaccination to induce antibodies (Abs) capable of cytokine 
+antagonism shows promise as a novel immunotherapy for chronic inflammatory 
+disease. We prepared a hybrid antigen consisting of residues 141-235 of rat 
+TNF-α fused to the C-terminus of glutathione-S-transferase (GST), chemically 
+modified to incorporate aldehyde residues, for development of an auto-vaccine 
+eliciting anti-rTNF-α Abs. In rat immunization the soluble aldehyde-modified 
+fusion protein did not generate observable Ab responses. By contrast, 
+vaccination with the aldehyde-modified fusion protein adsorbed on alum induced 
+anti-TNF-α autoAbs with high titer and neutralizing activity. Induction of 
+adjuvant arthritis in rats pre-immunized with unmodified fusion protein or a 
+control protein in alum resulted in severe inflammation and joint damage, 
+whereas the disease induced in rats immunized with the aldehyde-bearing fusion 
+protein in alum was markedly attenuated. Similar results were obtained in a 
+collagen-induced rat arthritis model. Anti-collagen II IgG Ab titers did not 
+deviate significantly in groups pre-immunized with modified fusion protein and 
+control protein, suggesting that anti-TNF vaccination did not skew the immune 
+response related to disease induction. This study demonstrates synergy between 
+particulate alum and protein bound carbonyl residues for enhancement of protein 
+immunogenicity. The antigen-specific co-adjuvant system could prove advantageous 
+for breaking tolerance in emerging auto-vaccination therapies targeting 
+inflammatory cytokines as well as for enhancing a broader category of subunit 
+vaccines. Aldehyde adduction introduces a minimal modification which, together 
+with the established use of alum as a safe adjuvant for human use, could be 
+favorable for further vaccine development.

@@ -1,0 +1,29 @@
+BACKGROUND Rheumatoid arthritis is an autoimmune disease that causes chronic 
+joint inflammation and there is no cure. Baicalin, as an ingredient in the roots 
+of Scutellaria baicalensis, is supposed to possess an anti-inflammatory effect. 
+However, the protective effect of baicalin on collagen-induced arthritis 
+requires further investigation. MATERIAL AND METHODS A model of rheumatoid 
+arthritis was established in 20 mice (8- to 10-weeks old). The mice were 
+randomly divided into 2 groups after modeling and then injected with saline or 
+baicalin, respectively. The synovial fluids and tissues were collected, and the 
+pressure pain threshold and clinical arthritis score were measured. The levels 
+of tumor necrosis factor (TNF)-α, interlukin-1β (IL-1β), IL-6, matrix 
+metalloproteinases (MMP)-2, MMP-9, nitric oxide synthase (iNOS), 
+cyclooxygenase-2 (COX-2) and their downstream inflammatory mediators Janus 
+kinase 1 (JAK1)/signal transducer and activator of transcription 3 (STAT3), 
+extracellular signal-regulated kinases 1/2 (ERK1/2), p38, Jun N-terminal kinases 
+(JNK) activation were detected using enzyme-linked immunosorbent assay (ELISA), 
+and western blotting analyses. The mononuclear cells apoptosis ratio was 
+calculated by flowcytometry analyses. RESULTS Baicalin significantly reduced 
+disease activities in a rheumatoid arthritis mouse model, which were reflected 
+by pressure pain thresholds and clinical arthritis scores. Relevant 
+proinflammatory cytokines such as TNF-α, IL-1β, IL-6, gelatinases (MMP-2, MMP-9) 
+and inducible enzymes (iNOS, COX-2) were generally suppressed. Moreover, 
+baicalin treatment induced cells apoptosis in synovial fluid monocytes and 
+markedly down regulated JAK1/STAT3 but not mitogen-activated protein kinases 
+(MAPKs) expressions in synovium of arthritis. CONCLUSIONS These observations 
+confirm the relief of rheumatoid arthritis by baicalin. Our results indicate the 
+effect is related with the modulation of decreased proinflammatory cytokines and 
+inflammatory markers. And the apoptosis promotion of monocytes in synovial fluid 
+were also inhibited. Moreover, the molecular mechanism implies suppressed 
+JAK1/STAT3 signaling with baicalin treatment.

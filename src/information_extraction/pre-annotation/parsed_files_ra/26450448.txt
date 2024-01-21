@@ -1,0 +1,20 @@
+Osteoclasts are responsible for bone erosion in diseases such as osteoporosis 
+and rheumatoid arthritis. In the present study, we investigate the effects of 
+eriodictyol, a flavonoid found naturally in citrus fruits, on the receptor 
+activator of nuclear factor-κB ligand (RANKL)-induced osteoclast formation using 
+mouse bone marrow macrophages (BMMs). Eriodictyol inhibited RANKL-induced 
+osteoclast formation in a dose-dependent manner without cytotoxicity. In 
+addition, eriodictyol suppressed bone resorption activity of differentiated 
+osteoclasts. The inhibitory effect of eriodictyol was associated with impaired 
+activation of multiple signaling events downstream of RANK, including 
+extracellular signal-regulated kinase, p38, and c-Jun terminal kinase 
+phosphorylation, followed by decreased nuclear factor of activated T cells 
+(NFAT)c1 expression. Ectopic overexpression of a constitutively active form of 
+NFATc1 completely rescued the anti-osteoclastogenic effect of eriodictyol, 
+suggesting that the anti-osteoclastogenic effect was mainly attributed to the 
+reduction in NFATc1 expression. Consistent with the in vitro 
+anti-osteoclastogenic effect, eriodictyol suppressed lipopolysaccharide-induced 
+osteoclast formation in the calvarial model and ovariectomy-induced bone loss in 
+vivo. Taken together, our data demonstrate that eriodictyol is a new therapeutic 
+agent with the potential to prevent bone destructive diseases by reducing both 
+osteoclast differentiation and function.

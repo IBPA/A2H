@@ -1,0 +1,22 @@
+Folate receptors α (FRα) and β (FRβ) are two isoforms of the cell surface 
+glycoprotein that binds folate. The expression of FRα is rare in normal cells 
+and elevated in cancer cells. Thus, FRα-based tumor-targeted therapy has been a 
+focus area of laboratory research and clinical trials. Recently, it was shown 
+that a significant fraction of tumor-associated macrophages expresses FRβ and 
+that these cells can enhance tumor growth. Although FRα and FRβ share 70% 
+identity in their deduced amino acid sequence, a monoclonal antibody (MAb) 
+reactive with both receptors has not been developed. A MAb that can target both 
+FRα-expressing cancer cells and FRβ-expressing tumor-associated macrophages may 
+provide a more potent therapeutic tool for cancer than individual anti-FRα or 
+anti-FRβ MAbs. In this study, we developed a MAb that recognizes both FRα and 
+FRβ (anti-FRαβ). The anti-FRαβ specifically stained trophoblasts and macrophages 
+from human placenta, synovial macrophages from rheumatoid arthritis patient, 
+liver macrophages from cynomolgus monkey and common marmoset, and cancer cells 
+and tumor-associated macrophages from ovary and lung carcinomas. Surface plasmon 
+resonance showed that the anti-FRαβ bound to soluble forms of the FRα and FRβ 
+proteins with high affinity (KD=6.26×10(-9) M and 4.33×10(-9) M, respectively). 
+In vitro functional analysis of the anti-FRαβ showed that this MAb mediates 
+complement-dependent cytotoxicity, antibody-dependent cellular cytotoxicity, and 
+antibody-dependent cellular phagocytosis of FRα-expressing and FRβ-expressing 
+cell lines. The anti-FRαβ MAb is a promising therapeutic candidate for cancers 
+in which macrophages promote tumor progression.

@@ -1,0 +1,29 @@
+INTRODUCTION: Previously, secretory phospholipase A2 (sPLA2) inhibition has been 
+used as an adjunct to conventional rheumatoid arthritis therapy in human 
+clinical trials without significant improvement of arthritic pathology. In this 
+study, we compared the efficacy of a potent and orally active group IIa 
+secretory phospholipase A2 inhibitor (sPLA2I) to conventional anti-arthritic 
+agents; infliximab, leflunomide and prednisolone, in a rat model of 
+antigen-induced arthritis.
+METHODS: Initially, to establish efficacy and dose-response, rats were orally 
+dosed with the sPLA2I (1 and 5 mg/kg) two days prior to arthritis induction, and 
+then daily throughout the 14-day study period. In the second trial, rats were 
+orally dosed with the sPLA2I (5 and 10 mg/kg/day) beginning two days after the 
+induction of arthritis, at the peak of joint swelling. Separate groups of rats 
+were also dosed with the tumour necrosis factor-alpha (TNF-α) inhibitor 
+infliximab (single 3 mg/kg i.v. injection), leflunomide (10 mg/kg/day, oral) or 
+prednisolone (1 mg/kg/day, oral) at this same time point and used as comparative 
+treatments.
+RESULTS: In the pathology prevention trial, both 1 and 5 mg/kg dose groups of 
+sPLA2I demonstrated a significant reduction in joint swelling and gait 
+disturbances; however, only the higher 5 mg/kg dose resulted in significantly 
+reduced histopathology scores. In the post-induction trial, rats dosed with 
+sPLA2I showed a significant improvement in joint swelling and gait scoring, 
+whereas none of the conventional therapeutics achieved a significant decrease in 
+both of these two disease markers. Histopathological scoring at the end-point of 
+the study demonstrated significantly reduced median scores in rats treated with 
+10 mg/kg sPLA2I and leflunomide.
+CONCLUSIONS: The results from this study suggest a pathogenic role for sPLA2 
+enzymes in this model of arthritis in rats, and the potential clinical utility 
+of sPLA2 inhibition as a safer, and more effective, alternative to conventional 
+anti-arthritic therapeutics.

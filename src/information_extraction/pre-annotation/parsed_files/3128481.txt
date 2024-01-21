@@ -1,0 +1,18 @@
+Hemorrhagic toxin (toxin HT) was purified from Clostridium sordellii culture 
+filtrate. The purification steps included ultrafiltration through an XM-100 
+membrane filter and immunoaffinity chromatography, using a monoclonal antibody 
+to toxin A of Clostridium difficile as the ligand. Toxin HT migrated as a major 
+band with a molecular weight of 525,000 and a minor band at 450,000 on 
+nondenaturing gradient polyacrylamide gel electrophoresis. The molecular weight 
+was estimated at 300,000 by sodium dodecyl sulfate-polyacrylamide gel 
+electrophoresis. Isoelectric focusing indicated an apparent pI of 6.1. Toxin HT 
+was cytotoxic for cultured cells and lethal for mice by intraperitoneal 
+injection, and it elicited an accumulation of hemorrhagic fluid in rabbit ileal 
+loops. Immunodiffusion analysis revealed a reaction of partial identity between 
+toxins A and HT. Immunological cross-reactivity between these toxins was further 
+demonstrated by immunoblotting and by neutralization of toxin HT biological 
+activity with antibodies to toxin A. A sensitive indirect enzyme-linked 
+immunosorbent assay was used to examine the affinity involved in homologous and 
+heterologous antigen-antibody interactions. Our findings show that toxin HT has 
+biological activities and immunological properties similar to those of toxin A; 
+however, the toxins are not identical.

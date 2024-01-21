@@ -1,0 +1,37 @@
+OBJECTIVE: Glucocorticoids are widely used for the management of rheumatoid 
+arthritis. Osteoporosis is a major side effect of glucocorticoid therapy and is 
+attributable to inhibition of bone formation. We developed an osteoblast culture 
+system in which glucocorticoids strongly inhibit development of the osteoblast 
+phenotype, including expression of the bone-specific osteocalcin (OC) gene. 
+Using this gene as a model, the goal of this study was to discover 
+glucocorticoid-sensitive transcriptional mechanisms in osteoblasts.
+METHODS: Dexamethasone (DEX; 1 microM) was administered to murine MC3T3-E1 
+osteoblastic cultures under conditions that inhibit mineralized extracellular 
+matrix formation and OC messenger RNA levels by >10-fold. Because standard 
+(short-term) transient transfection assays with OC promoter-reporter constructs 
+did not recapitulate the strong DEX-mediated repression, mapping of OC negative 
+glucocorticoid response elements (GREs) was performed initially by stable 
+transfection and then with long-term transient transfection assays. 
+Transcription factor binding to the OC negative GRE was studied by 
+electrophoretic mobility shift assays.
+RESULTS: Several-fold repression of OC-luciferase constructs was recapitulated 
+in stable and long-term transient transfection assays, in which the transfected 
+cells were allowed to progress to a sufficiently advanced developmental stage. 
+Analysis of a 5' promoter deletion series mapped an OC negative GRE to a 15-bp 
+G/C-rich motif (-161/-147) located just upstream of the binding site for the 
+osteoblast master transcription factor Runx2. Oligonucleotides encompassing this 
+element and MC3T3-E1 cell extracts formed a protein-DNA complex that contained 
+an Egr/Krox family member(s). Complex formation was competed by either an 
+oligonucleotide containing 2 consensus Egr motifs or by anti-Egr2/Krox20 
+antibodies. Three copies of this Krox-binding element conferred 20-fold 
+transcriptional activation on the 147-bp basal OC promoter in osteoblasts, and 
+the enhancer activity was inhibited by DEX. Enhancer activity was not observed 
+in 10T1/2 fibroblasts unless these cells were cotransfected with Runx2.
+CONCLUSION: An Egr2/Krox20-binding site located immediately upstream of the 
+Runx2 site of the mouse OC promoter was identified as an enhancer in 
+osteoblasts, whose activity is repressed by glucocorticoids. Sequence similarity 
+suggests that such a mechanism is likely operative in both murine and human 
+cells. Because glucocorticoids inhibit Egr2/Krox20 expression in osteoblasts, 
+and because trabecular bone formation is arrested in Egr2/Krox20-knockout mice, 
+the inhibition of Egr2/Krox20 activity likely contributes to 
+glucocorticoid-induced osteoporosis.

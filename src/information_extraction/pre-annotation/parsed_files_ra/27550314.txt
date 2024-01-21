@@ -1,0 +1,23 @@
+BACKGROUND: Excessive osteoclast activity is a major cause of metabolic bone 
+disorders, such as osteopenia, rheumatoid arthritis, and osteoporosis. Thus, 
+discovery of agents targeting osteoclast differentiation and bone resorption is 
+important for development of novel treatments for bone diseases. It has been 
+demonstrated that ethanolic extract of schizonepeta tenuifolia (EEST) has potent 
+anti-oxidant and anti-inflammatory activities. However, the beneficial effects 
+of EEST on bone metabolism have not been studied. Therefore, we intend to 
+investigate the effects of EEST on osteoclast differentiation.
+METHODS: We examined the effects and mechanisms of action of the EEST on 
+osteoclastogenesis in vitro in bone marrow macrophages (BMMs) stimulated with 
+receptor activator of nuclear factor kappa-B ligand (RANKL) and in vivo using a 
+mouse model of lipopolysaccharide (LPS)-induced bone destruction.
+RESULTS: We found that EEST inhibited phosphorylation of Akt and IkB at early 
+stages of RANKL-induced osteoclastogenesis. Furthermore, EEST negatively 
+controlled the transcription and translation levels of nuclear factor of 
+activated T cells c1 (NFATc1) and the translation level of c-Fos at the final 
+stage of osteoclast differentiation. Reflecting these effects, EEST blocked both 
+filamentous actin (F-actin) ring formation and bone resorbing activity of mature 
+osteoclasts in vitro. The inhibitory effects of EEST on osteoclast formation and 
+activity were observed in an LPS-mediated bone erosion mouse model using 
+micro-CT and histological analysis.
+CONCLUSIONS: EEST is a potential agent that is able to treat osteoclast-related 
+bone diseases, such as osteoporosis.

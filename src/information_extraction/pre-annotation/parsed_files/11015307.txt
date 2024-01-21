@@ -1,0 +1,24 @@
+In order to investigate the involvement of Ras and/or Rho proteins in the 
+induction of the inducible isoform of nitric oxide synthase (NOS II) we used 
+HMG-CoA reductase inhibitors (statins) and Clostridium difficile toxin B (TcdB) 
+as pharmacological tools. Statins indirectly inhibit small G proteins by 
+preventing their essential farnesylation (Ras) and/or geranylgeranylation (Rho). 
+In contrast, TcdB is a glucosyltransferase and inactivates Rho-proteins 
+directly. Human A549/8- and DLD-1 cells as well as murine 3T3 fibroblasts were 
+preincubated for 18 h with statins (1 - 100 microM) or TcdB (0.01-10 ng ml(-1)). 
+Then NOS II expression was induced by cytokines. NOS II mRNA was measured after 
+4 - 8 h by RNase protection assay, and NO production were measured by the Griess 
+assay after 24 h. Statins and TcdB markedly increased cytokine-induced NOS II 
+mRNA expression and NO production. Statin-mediated enhancement of NOS II mRNA 
+expression was reversed almost completely by cotreatment with mevalonate or 
+geranylgeranylpyrophosphate. It was only slightly reduced by 
+farnesylpyrophosphate. Therefore, small G proteins of the Rho family are likely 
+to be involved in NOS II induction. In A549/8 cells stably transfected with a 
+luciferase reporter gene under the control of a 16 kb fragment of the human NOS 
+II promoter (pNOS2(16)Luc), statins produced only a small increase in 
+cytokine-induced NOS II promoter activity. In contrast, statins had a 
+considerable superinducing effect in DLD-1 cells stably transfected with 
+pNOS2(16)Luc. In conclusion, our studies provide evidence that statins and TcdB 
+potentiate cytokine-induced NOS II expression via inhibition of small G proteins 
+of the Rho family. This in turn results in an enhanced NOS II promoter activity 
+and/or a prolonged NOS II mRNA stability.

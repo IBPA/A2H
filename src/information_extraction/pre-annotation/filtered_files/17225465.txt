@@ -1,0 +1,20 @@
+Mizoribine (MZR) has been shown to possess immunosuppressive activity that 
+selectively inhibits the proliferation of lymphocytes by interfering with 
+inosine monophosphate dehydrogenase. The efficacy of MZR is not only in patients 
+who have had renal transplantation, but also in patients with rheumatoid 
+arthritis (RA), lupus nephritis, and primary nephritic syndrome. Because the 
+exact mechanism of its immunosuppressive action is not clear, the object of this 
+study was to examine the ability of MZR to regulate the antigen presenting cells 
+(APCs), dendritic cells (DCs). In this work, we tested whether MZR (1-10 
+microg/mL) could inhibit the cross-presentation of DCs. DC2.4 cells (H-2K(b)) or 
+bone marrow-derived DCs (BM-DCs) generated from BM cells of C57BL/6 mouse 
+(H-2K(b)) were cultured in the presence of MZR with OVA-microspheres, and the 
+amount of OVA peptide-class I MHC complexes was measured by a T cell hybridoma, 
+B3Z, that recognizes OVA (257-264 : SIINFEKL)-H-2Kb complex and 
+expresses-galactosidase. MZR profoundly inhibited the expression of 
+SIINFEKL-H-2K(b) complexes. This inhibitory activity of MZR appeared to affect 
+the phagocytic activity of DCs. MZR also decreased IL-2 production when we 
+examined the effects of MZR on CD4+ T cells. These results provide an 
+understanding of the mechanism of immunosuppressive activity of MZR on the 
+inhibition of MHC-restricted antigen presentation and phagocytic activity in 
+relation to their actions on APCs.

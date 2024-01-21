@@ -1,0 +1,29 @@
+BACKGROUND: Xian-Fang-Huo-Ming-Yin (XFHM), a traditional herbal formula, has 
+been used to treat sores and carbuncles for hundreds of years in Asia. Nowadays, 
+its clinical effects in treatment of rheumatoid arthritis (RA) have been 
+validated. In this study, we want to study its possible molecular mechanisms of 
+regulating the differentiation of lymphocytes and production of pro-inflammatory 
+cytokines in collagen-induced arthritis (CIA) mice for RA treatment.
+METHODS: A high performance liquid chromatography-electrospray ionization/mass 
+spectrometer (HPLC-ESI/MSn) system was used to analyze the constituents of XFHM 
+granules. An arthritics mouse model was induced by collagen and leflunomide 
+(LEF) was used as a positive control medicine. Pathological changes at the 
+metatarsophalangeal joint were studied through Safranin O and 
+immunohistochemical staining. The differentiation of T, B and NK cells was 
+examined by flow cytometry and pro-inflammatory cytokines were assayed using an 
+Inflammation Antibody Array assay. The expression of key molecules of the 
+nuclear factor κB (NF-κB) and Janus kinase/signal transducers and activators of 
+transcription (JAK/STAT) signaling pathways in spleen were studied by 
+western-blot analysis.
+RESULTS: In our study. 21 different dominant chemical constituents were 
+identified in XFHM. Treatment with XFHM suppressed the pathological changes in 
+arthrosis of CIA. Additionally, XFHM down-regulated the proliferation and 
+differentiation of CD3+ T cells and CD3-CD19+ B cells significantly. However, 
+XFHM had no significant effect on CD3-NK1.1+ NK cells. Further study showed that 
+the production of pro-inflammatory cytokines had been suppressed by inhibiting 
+the activation of NF-κB and JAK/STAT signaling.
+CONCLUSIONS: XFHM can regulate and maintain the immunologic balance of 
+lymphocytic immunity and inhibit the production of pro-inflammatory cytokines, 
+thus suppressing the pathological changes of RA. Therefore, XFHM may be used as 
+an application of traditional medicine against RA in modern complementary and 
+alternative therapeutics.

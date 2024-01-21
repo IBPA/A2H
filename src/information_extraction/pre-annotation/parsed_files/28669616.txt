@@ -1,0 +1,30 @@
+Clostridium difficile is the number one cause of nosocomial 
+antibiotic-associated diarrhea in developed countries. Historically, 
+pathogenesis was attributed two homologous glucosylating toxins, toxin-A (TcdA) 
+and toxin-B (TcdB). Over the past decade, however, highly virulent epidemic 
+strains of C. difficile (B1/NAP1/027) have emerged and are linked to an increase 
+in morbidity and mortality. Increased virulence is attributed to multiple 
+factors including: increased production of A- and B-toxins; production of binary 
+toxin (CDT); and the emergence of more toxic TcdB variants (TcdB(027)). 
+TcdB(027) is more cytotoxicity to cells; causes greater tissue damage and 
+toxicity in animals; and is antigenically distinct from historical TcdB 
+(TcdB(003)). Broadly protective vaccines and therapeutic antibody strategies, 
+therefore, may target TcdA, TcdB variants and CDT. To facilitate the generation 
+of multivalent toxin-based C. difficile vaccines and therapeutic antibodies, we 
+have generated fusion proteins constructed from the receptor binding domains 
+(RBD) of TcdA, TcdB(003), TcdB(027) and CDT. Herein, we describe the development 
+of a trivalent toxin (T-toxin) vaccine (CDTb/TcdB(003)/TcdA) and quadravalent 
+toxin (Q-toxin) vaccine (CDTb/TcB(003)/TcdA/TcdB(027)) fusion proteins that 
+retain the protective toxin neutralizing epitopes. Active immunization of mice 
+or hamsters with T-toxin or Q-toxin fusion protein vaccines elicited the 
+generation of toxin neutralizing antibodies to each of the toxins. Hamsters 
+immunized with the Q-toxin vaccine were broadly protected against spore 
+challenge with historical C. difficile 630 (toxinotype 0/ribotype 003) and 
+epidemic NAP1 (toxinotype III/ribotype 027) strains. Fully human polyclonal 
+antitoxin IgG was produced by immunization of transgenic bovine with these 
+fusion proteins. In passive transfer studies, mice were protected against lethal 
+toxin challenge. Hamsters treated with human antitoxin IgG were completely 
+protected when challenged with historical or epidemic strains of C. difficile. 
+The use of chimeric fusion proteins is an attractive approach to producing 
+multivalent antitoxin vaccines and therapeutic polyclonal antibodies for 
+prevention and treatment of C. difficile infections (CDI).

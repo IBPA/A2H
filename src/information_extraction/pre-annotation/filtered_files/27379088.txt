@@ -1,0 +1,22 @@
+Heat shock proteins (Hsps) are highly conserved, and their expression is 
+upregulated in cells by heat and other stressful stimuli. These proteins play a 
+vital role in preserving the structural and functional integrity of cells under 
+stress. Despite the ubiquitous expression of Hsps in an individual, the immune 
+system is not fully tolerant to them. In fact, Hsps are highly immunogenic in 
+nature, and immune response to these proteins is observed in various 
+inflammatory and autoimmune diseases. Studies on the immunopathogenesis of 
+autoimmune arthritis in the rat adjuvant arthritis (AA) model of human 
+rheumatoid arthritis (RA) as well as observations in patients with RA and 
+juvenile idiopathic arthritis (JIA) have unraveled immunoregulatory attributes 
+of self-Hsp65-directed immunity. Notable features of Hsp65 immunity in AA 
+include protection rather than disease induction following immunization of Lewis 
+rats with self (rat)-Hsp65; the diversification of T cell response to 
+mycobacterial Hsp65 during the course of AA and its association with spontaneous 
+induction of response to self-Hsp65; the cross-reactive T cells recognizing 
+foreign and self homologs of Hsp65 and their role in disease suppression in 
+rats; the suppressive effect of antibodies to Hsp65 in AA; and the use of Hsp65, 
+its peptides, or altered peptide ligands in controlling autoimmune pathology. 
+The results of studies in the AA model have relevance to RA and JIA. We believe 
+that these insights into Hsp65 immunity would not only advance our understanding 
+of the disease process in RA/JIA, but also lead to the development of novel 
+therapeutic approaches for autoimmune arthritis.

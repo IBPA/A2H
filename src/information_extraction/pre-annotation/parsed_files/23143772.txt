@@ -1,0 +1,15 @@
+A DNA vaccination approach was used in the current study to screen for the 
+immunogenicity of different fragments of toxin A and toxin B from Clostridium 
+difficile. With this approach, protein antigens do not need to be produced in 
+vitro and the immunogenicity of candidate C. difficile antigens can be 
+identified directly in animals. Codon optimized toxin gene fragments were 
+individually cloned into the DNA vaccine vector and tested in mice and rabbits 
+for their ability to elicit C. difficile toxin-specific antibody responses. Only 
+a subset of the C. difficile toxin fragments, including the C-terminal receptor 
+binding domain of toxin A and a novel N-terminal enzymatic domain of toxin B, 
+were able to elicit protective antibody responses as determined by protection of 
+target cells in a cytotoxicity assay or by preventing death of mice in a passive 
+antibody protection study. Significantly, antibodies elicited by the novel 
+N-terminus of the toxin B DNA vaccine were able to increase the level of 
+protection when used in combination with anti-toxin A antibodies in a toxin 
+challenge model in mice.

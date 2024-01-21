@@ -1,0 +1,27 @@
+OBJECTIVE: To explore the anti-angiogenic effects of genistein on synovium in a 
+rat model of type II collagen-induced arthritis (CIA).
+METHODS: Forty SD rats were randomly divided into normal group, model group, 
+genistein group, methotrexate (MTX) group and Gen plus MTX group with 8 rats in 
+each group. Arthritis in rats was induced by subcutaneous injection of type II 
+collagen combined with complete Freund's adjuvant (CFA). On the second day after 
+the injection, 1 mL of suspension liquid of genistein (30 mg/kg body weight, 
+once daily) and MTX (0.2 mg/kg body weight, once a week) were administered by 
+oral gavage respectively. The rats in normal group and model group were 
+administered with normal saline in the same volume. Synovium of knee joints and 
+peripheral serum were collected from the CIA rats. Microvessel density in 
+synovium (MVD) was detected by immunohistochemical method and serum vascular 
+endothelial growth factor (VEGF) and matrix metallopeptidase (MMP)-1, 2 and 9 
+levels were detected by using Western blotting.
+RESULTS: Arthritis index score, paw volume of rats in the model group were 
+significantly higher than those in the normal group (P<0.05), which suggested 
+that a model of CIA induced by injection of type II collagen and CFA was 
+successfully constructed. The arthritis index scores of rats in the treatment 
+groups were decreased compared with the model group. The results of Western 
+blotting showed that genistein obviously attenuate the levels of VEGF and MMP-1, 
+2 and 9 in serum (P<0.05). Immunohistochemical method showed that MVDs in the 
+treatment groups were reduced as compared with the model group.
+CONCLUSION: The expressions of VEGF and MMP-1, 2 and 9 are related to the 
+synovial pannus formation in CIA rats. The anti-angiogenic activity of genistein 
+may correlate to its inhibitory effect on the expressions of VEGF and MMP-1, 2 
+and 9 in serum of CIA rats; genistein plus MTX are superior to single agents in 
+treating rheumatoid arthritis.

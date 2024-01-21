@@ -1,0 +1,14 @@
+As an emerging research direction, nanomedicine has been increasingly utilized 
+to treat inflammatory diseases. In this head-to-head comparison study, four 
+established nanomedicine formulations of dexamethasone, including liposomes 
+(L-Dex), core-cross-linked micelles (M-Dex), slow releasing polymeric prodrugs 
+(P-Dex-slow), and fast releasing polymeric prodrugs (P-Dex-fast), were evaluated 
+in an adjuvant-induced arthritis rat model with an equivalent dose treatment 
+design. It was found that after a single i.v. injection, the formulations with 
+the slower drug release kinetics (i.e., M-Dex and P-Dex-slow) maintained longer 
+duration of therapeutic activity than those with relatively faster drug release 
+kinetics, resulting in better joint protection. This finding will be 
+instructional in the future development and optimization of nanomedicines for 
+the clinical management of rheumatoid arthritis. The outcome of this study also 
+illustrates the value of such head-to-head comparison studies in translational 
+nanomedicine research.

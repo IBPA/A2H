@@ -1,0 +1,26 @@
+OBJECTIVE: To clarify the roles of hyaluronan (HA) in joint inflammation and the 
+process of joint destruction, using 4-methylumbelliferone (4-MU), an inhibitor 
+of HA synthesis, in a mouse model of collagen-induced arthritis (CIA) and in a 
+monolayer culture of fibroblast-like synoviocytes (FLS) derived from patients 
+with rheumatoid arthritis.
+METHODS: DAB/1J mice were immunized with type II collagen. The effects of 4-MU 
+were evaluated by the physiologic arthritis score, paw swelling, the histologic 
+arthritis score, and expression of matrix metalloproteinase 3 (MMP-3) and MMP-13 
+in chondrocytes and synovial tissue. In vitro, the effect of 4-MU on messenger 
+RNA and protein expression of MMP-1 and MMP-3 was determined. The effects of 
+4-MU on HA deposition and on serum/medium concentrations of HA were analyzed 
+using biotinylated HA binding protein staining and an HA binding assay, 
+respectively.
+RESULTS: Treatment with 4-MU in mice with CIA dramatically decreased the 
+severity of arthritis (based on the arthritis score), paw thickness, and 
+histopathologic changes. MMP-3 and MMP-13 expression in chondrocytes and 
+synovial cells was significantly inhibited by 4-MU in vivo. Treatment with 4-MU 
+also inhibited MMP-1 and MMP-3 expression in tumor necrosis factor α-stimulated 
+FLS, in a dose-dependent manner. The 4-MU-induced decreases in the serum HA 
+concentration in mice with CIA and in "medium" and "pericellular" HA 
+concentrations in cultured FLS support the contention that the inhibitory 
+mechanism of 4-MU is mediated by HA suppression.
+CONCLUSION: Reduced disease activity induced by 4-MU in mice with CIA revealed 
+HA to be a crucial regulator in the course of arthritis. Therefore, 4-MU is a 
+potential therapeutic agent in arthritis, and its inhibitory mechanism is 
+possibly mediated by suppression of HA synthesis.

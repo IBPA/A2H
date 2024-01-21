@@ -1,0 +1,24 @@
+Tofacitinib is an oral Janus kinase (JAK) inhibitor for the treatment of 
+rheumatoid arthritis. Tofacitinib preferentially inhibits receptor signaling 
+through JAK3 and JAK1, relative to JAK2. In the 2-year rat carcinogenicity 
+study, there were tofacitinib, dose-related increases in the incidences of 
+testicular Leydig cell hyperplasia and benign adenomas in male rats, and 
+decreased incidences of mammary tumors and duct dilatation/galactocele in female 
+rats. Such findings in rats are typical of agents, such as dopamine agonists, 
+which decrease prolactin (PRL) activity. Since prolactin signals through the 
+JAK2 pathway, we hypothesized that these findings were off-target effects due to 
+inhibition of PRL signaling via JAK2. The studies reported here were designed to 
+investigate the interruption of PRL signaling pathways in Leydig cells. In 
+isolated primary rat Leydig cells, PRL increased phosphorylated Signal 
+Transducer and Activator of Transcription-5 protein, and mRNA levels for 
+luteinizing hormone receptor. Tofacitinib, at concentrations observed in the rat 
+carcinogenicity study, dose-dependently inhibited these effects. These 
+observations illustrate a novel mechanism, the inhibition of prolactin signaling 
+by which modulation of JAK activity can modulate PRL signaling pathways to 
+induce Leydig cell tumors in rats. Since human Leydig cells lack this PRL 
+dependence for normal function, these rodent tumors do not indicate a health 
+risk to human patients.
+
+© The Author 2016. Published by Oxford University Press on behalf of the Society 
+of Toxicology. All rights reserved. For Permissions, please e-mail: 
+journals.permissions@oup.com.

@@ -1,0 +1,24 @@
+C3a exerts multiple biologic functions through activation of its cognate C3a 
+receptor. C3-/- and C3aR-/- mice have been instrumental in defining important 
+roles of the C3a/C3aR axis in the regulation of acute and chronic inflammatory 
+diseases, including ischemia/reperfusion injury, allergic asthma, autoimmune 
+nephritis, and rheumatoid arthritis. Surprisingly little is known about C3aR 
+expression and function in immune and stromal cells. To close this gap, we 
+generated a floxed tandem-dye Tomato (tdTomato)-C3aR reporter knock-in mouse, 
+which we used to monitor C3aR expression in cells residing in the lung, airways, 
+lamina propria (LP) of the small intestine, brain, visceral adipose tissue, bone 
+marrow (BM), spleen, and the circulation. We found a strong expression of 
+tdTomato-C3aR in the brain, lung, LP, and visceral adipose tissue, whereas it 
+was minor in the spleen, blood, BM, and the airways. Most macrophage and 
+eosinophil populations were tdTomato-C3aR+ Interestingly, most tissue 
+eosinophils and some macrophage populations expressed C3aR intracellularly. 
+BM-derived dendritic cells (DCs), lung-resident cluster of differentiation (CD) 
+11b+ conventional DCs (cDCs) and monocyte-derived DCs, LP CD103+, and CD11b+ 
+cDCs but not pulmonary CD103+ cDCs and splenic DCs were tdTomato-C3aR+ 
+Surprisingly, neither BM, blood, lung neutrophils, nor mast cells expressed 
+C3aR. Similarly, all lymphoid-derived cells were tdTomato-C3aR-, except some 
+LP-derived type 3 innate lymphoid cells. Pulmonary and LP-derived epithelial 
+cells expressed at best minor levels of C3aR. In summary, we provide novel 
+insights into the expression pattern of C3aR in mice. The floxed C3aR knock-in 
+mouse will help to reliably track and conditionally delete C3aR expression in 
+experimental models of inflammation.

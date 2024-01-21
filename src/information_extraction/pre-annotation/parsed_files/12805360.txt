@@ -1,0 +1,25 @@
+Clostridium botulinum C2 toxin is the prototype of the binary 
+actin-ADP-ribosylating toxins and consists of the binding component C2II and the 
+enzyme component C2I. The activated binding component C2IIa forms heptamers, 
+which bind to carbohydrates on the cell surface and interact with the enzyme 
+component C2I. This toxin complex is taken up by receptor-mediated endocytosis. 
+In acidic endosomes, heptameric C2IIa forms pores and mediates the translocation 
+of C2I into the cytosol. We report that the heat shock protein (Hsp) 90-specific 
+inhibitors, geldanamycin or radicicol, block intoxication of Vero cells, rat 
+astrocytes, and HeLa cells by C2 toxin. ADP-ribosylation of actin in the cytosol 
+of toxin-treated cells revealed that less active C2I was translocated into the 
+cytosol after treatment with Hsp90 inhibitors. Under control conditions, C2I was 
+localized in the cytosol of toxin-treated rat astrocytes, whereas geldanamycin 
+blocked the cytosolic distribution of C2I. At low extracellular pH (pH 4.5), 
+which allows the direct translocation of C2I via C2IIa heptamers across the cell 
+membrane into the cytosol, Hsp90 inhibitors retarded intoxication by C2I. 
+Geldanamycin did not affect toxin binding, endocytosis, and pore formation by 
+C2IIa. The ADP-ribosyltransferase activity of C2I was not affected by Hsp90 
+inhibitors in vitro. The cytotoxic actions of the actin-ADP-ribosylating 
+Clostridium perfringens iota toxin and the Rho-ADP-ribosylating C2-C3 fusion 
+toxin was similarly blocked by Hsp90 inhibitors. In contrast, radicicol and 
+geldanamycin had no effect on anthrax lethal toxin-induced cytotoxicity of 
+J774-A1 macrophage-like cells or on cytotoxic effects of the glucosylating 
+Clostridium difficile toxin B in Vero cells. The data indicate that Hsp90 is 
+essential for the membrane translocation of ADP-ribosylating toxins delivered by 
+C2II.

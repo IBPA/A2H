@@ -1,0 +1,21 @@
+Tumor necrosis factor alpha (TNFalpha) plays a pivotal role in the pathogenesis 
+of rheumatoid arthritis (RA). Blockage of TNFalpha actions by systemic 
+administration of TNF antagonists has recently been shown to ameliorate joint 
+symptoms in RA patients. In the present study, a streptococcal cell wall 
+(SCW)-induced rat arthritis model was used to evaluate the effect of different 
+gene transfer routes of a TNF antagonist on the development and severity of 
+arthritis. Successful delivery of a plasmid DNA encoding a rat TNF 
+receptor-immunoglobulin Fc (TNFR:Fc) fusion gene prompted the subsequent 
+administration of a recombinant adeno-associated virus (rAAV) vector encoding 
+the antagonist, either locally (intraarticular) or systemically (intramuscular). 
+The TNFR:Fc gene, delivered by either route, resulted in profound suppression of 
+the arthritis as reflected in decreased inflammatory cell infiltration, pannus 
+formation, cartilage and bone destruction, and mRNA expression of joint 
+proinflammatory cytokines. Increased bioactive serum TNFR levels were detected 
+as a result of rAAV-ratTNFR:Fc administration, concomitant with a decrease in 
+circulating TNFalpha. Administration of the rAAV-ratTNFR:Fc vector to one joint 
+also suppressed arthritis in the contralateral joint. Importantly, 
+intraarticular administration resulted in significantly lower systemic 
+distribution of the gene product. Hence, the use of rAAV as the delivery vector 
+for TNFR:Fc effectively suppressed SCW-induced arthritis and may provide an 
+approach for local delivery of antiarthritic therapy.

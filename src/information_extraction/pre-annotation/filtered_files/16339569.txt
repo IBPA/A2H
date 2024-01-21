@@ -1,0 +1,23 @@
+Bone loss is a typical pathological feature of chronic inflammatory bone 
+diseases including rheumatoid arthritis, in which CD4 effector T cells play 
+critical roles. We found that activated mouse Th2 and not Th1 cells produced the 
+parathyroid hormone (PTH). Unlike in the parathyroid cells, PTH expression in 
+Th2 cells was not regulated by the fluctuation of calcium level, but rather it 
+required the full activation of the T cells. Although PTH was expressed in 
+immature Th2 cells, and its receptor was transiently expressed during Th1 and 
+Th2 cell differentiation, PTH did not significantly affect the outcome of the 
+differentiation. In primary osteoblasts cultured in Th2 cell condition medium, 
+the alkaline phosphatase (ALP) activity was maintained at a basal level. 
+However, antagonizing PTH in the condition medium resulted in a significant 
+reduction of the ALP activity. These results demonstrated an important role of 
+the Th2 cell-derived PTH in maintaining the bone-forming activity of the 
+osteoblasts under inflammatory conditions. In osteoblasts cultured in the Th1 
+cell condition medium, the ALP activity was significantly suppressed. 
+Neutralizing IFN-gamma alleviated the suppression. Conversely, treatment of 
+osteoblasts with IFN-gamma suppressed the ALP activity. Unlike ALP, expression 
+of the major bone matrix proteins by the osteoblasts was only minimally affected 
+by either Th1 or Th2 cytokine environment. In addition, the Th2 cytokine 
+environment also regulated to expression of receptor activator of NF-kappaB 
+ligand and osteoprotegerin through both PTH-dependent and -independent 
+mechanisms. Our study therefore identified new regulatory events in bone 
+remodeling under inflammatory conditions.

@@ -1,0 +1,24 @@
+OBJECTIVE: Resistin is a secreted factor that is elevated in rheumatoid 
+arthritis (RA) and believed to drive joint inflammation in vivo. This study was 
+undertaken to determine if resistin is present in the joint following joint 
+injury and to elucidate the role of resistin in cartilage degradation.
+METHODS: The level of resistin was measured in paired synovial fluid (SF) and 
+serum samples from patients following joint injury (anterior cruciate ligament, 
+ACL or meniscus tear). Localization of resistin was visualized by 
+immunohistochemistry of synovial tissue and cartilage from healthy and OA 
+donors. Mouse and human cartilage cultures were used to assess the effect of 
+resistin on cartilage metabolism.
+RESULTS: In trauma patients, resistin levels declined with increasing time post 
+injury. The resistin levels were highest in samples collected up to 1 week 
+following traumatic injury (SF: 2980 pg/ml, serum: 7901 pg/ml) and lowest in 
+samples collected 6-26 years post injury (SF: 686 pg/ml, serum: 5682 pg/ml). 
+Resistin was shown to be expressed in macrophage-like cells in both healthy and 
+OA synovial tissue. Treatment of mouse cartilage cultures with recombinant 
+resistin led to a dose dependent loss of proteoglycan and induction of 
+inflammatory cytokine and PGE(2) production. Recombinant resistin inhibited 
+proteoglycan synthesis in human cartilage explants.
+CONCLUSION: Resistin is elevated both systemically and locally in the weeks 
+immediately following joint injury and has a direct effect on cartilage matrix 
+turnover and cytokine production. Resistin may play a role in the early stages 
+of trauma-induced OA and may represent a new therapeutic target to slow joint 
+destruction in OA.

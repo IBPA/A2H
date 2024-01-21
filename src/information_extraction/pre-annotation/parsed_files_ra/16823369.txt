@@ -1,0 +1,16 @@
+Conventional anti-inflammatory strategies induce multiple side effects, 
+highlighting the need for novel targeted therapies. Here we show that knockdown 
+of the basic-region leucine zipper protein, c-Jun, by a catalytic DNA molecule, 
+Dz13, suppresses vascular permeability and transendothelial emigration of 
+leukocytes in murine models of vascular permeability, inflammation, acute 
+inflammation and rheumatoid arthritis. Treatment with Dz13 reduced vascular 
+permeability due to cutaneous anaphylactic challenge or VEGF administration in 
+mice. Dz13 also abrogated monocyte-endothelial cell adhesion in vitro and 
+abolished leukocyte rolling, adhesion and extravasation in a rat model of 
+inflammation. Dz13 suppressed neutrophil infiltration in the lungs of mice 
+challenged with endotoxin, a model of acute inflammation. Finally, Dz13 reduced 
+joint swelling, inflammatory cell infiltration and bone erosion in a mouse model 
+of rheumatoid arthritis. Mechanistic studies showed that Dz13 blocks 
+cytokine-inducible endothelial c-Jun, E-selectin, ICAM-1, VCAM-1 and VE-cadherin 
+expression but has no effect on JAM-1, PECAM-1, p-JNK-1 or c-Fos. These findings 
+implicate c-Jun as a useful target for anti-inflammatory therapies.

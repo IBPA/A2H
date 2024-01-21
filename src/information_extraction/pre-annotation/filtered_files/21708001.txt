@@ -1,0 +1,34 @@
+INTRODUCTION: Toll-like receptors (TLRs) are likely to play crucial roles in the 
+pathogenesis of rheumatoid arthritis (RA). The aim of this study was to 
+determine the key TLRs in synovium and explore their roles in the activation of 
+fibroblast-like synoviocytes (FLSs) mediated by T cells in arthritis.
+METHODS: Pristane-induced arthritis (PIA) was established by subcutaneous 
+injection with pristane at the base of the rat's tail. TLR expression in 
+synovium from PIA rats was detected at different time points by performing 
+real-time PCR. Polyinosinic:polycytidylic acid (poly(I:C)) was intra-articularly 
+administrated to PIA rats, and arthritis was monitored macroscopically and 
+microscopically. Synovial TLR3 was detected by immunohistochemical staining. Rat 
+FLSs were stimulated with pristane-primed T cells or pristane-primed, T-cell 
+conditioned medium. The intervention of TLR3 in FLSs was achieved by specific 
+short-hairpin RNA (shRNA) or an antibody. The migration ability of FLSs was 
+measured by using the scratch test, and gene expression was detected by using 
+real-time PCR. FLSs from RA patients were stimulated with various cytokines and 
+TLR ligands, and TLR3 expression was detected by performing real-time PCR. In 
+addition, with different concentrations of poly(I:C) stimulation, TLR3 
+expression of FLSs from RA patients and patients with osteoarthritis (OA) was 
+compared.
+RESULTS: Synovium TLR3 displayed early and persistent overexpression in PIA 
+rats. TLR3 was expressed in FLSs, and local treatment with poly(I:C) 
+synergistically aggravated the arthritis. Rat FLSs co-cultured with 
+pristane-primed T cells showed strengthened migration ability and significant 
+upregulation of TLR3, IFN-β, IL-6 and matrix metalloproteinase 3 (MMP3) 
+expression, which could also be induced by pristane-primed, T-cell conditioned 
+medium. The upregulation of cytokines and MMPs was blocked by shRNA or TLR3 
+antibodies. In RA FLSs with cytokine or TLR ligand stimulation, TLR3 expression 
+exhibited remarkable upregulation. Furthermore, RA FLSs showed higher reactivity 
+than OA FLSs to poly(I:C).
+CONCLUSIONS: TLR3 in the synovium of PIA rats was overexpressed, and activation 
+of the TLR3 signaling pathway could aggravate this arthritis. The induction of 
+TLR3 in FLSs resulted from T cell-derived inflammatory stimulation and could 
+further mediate FLS activation in arthritis. We conclude that TLR3 upregulation 
+of FLSs activated by T cells results in articular inflammation.

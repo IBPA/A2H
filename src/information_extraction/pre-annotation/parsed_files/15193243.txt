@@ -1,0 +1,20 @@
+AIM: To prepare monoclonal antibodies (mAbs) against Clostridium difficile toxin 
+A and identify their properties.
+METHODS: BALB/c mice were immunized with C.difficile toxin A. The splenocytes 
+from immunized mice were fused with myeloma cells Sp2/0. The hybridoma cells 
+were screened by indirect ELISA and limiting dilution method. The titer and 
+relative affinity of ascitic mAbs were determined by ELISA. Specificity of mAbs 
+was analyzed by Western blot.
+RESULTS: Six hybridoma cell lines (2H7, 3E9, 4B5, 5C10, 6G8 and 8A1) secreting 
+mAbs against C.difficile toxin A were obtained. The Ig classes and subclasses of 
+mAbs 2H7, 3E9 and 6G8 were IgM, mAbs 4B5 and 8A1 were IgG1, and mAb 5C10 was 
+IgG2a. All 6 mAbs had no neutralization activity. Epitope recognized by 5 
+mAbs(2H7, 4B5, 5C10, 6G8 and 8A1) differed from that by mAb 3E9. Relative 
+affinities of mAbs 8A1 and 4B5 were all above 10(5), and those of other 4 mAbs 
+were 10(4). Western blot analysis no-denatured PAGE showed that all 6 mAbs 
+reacted to C.difficile toxin A with M(r) being 55 x 10(4), and under the 
+condition of denatured SDS-PAGE, Western blot analysis showed that all 6 mAbs 
+reacted to subunits of C.difficile toxin A with M(r) being 5 x 10(4)-24 x 10(4).
+CONCLUSION: Six mAbs against C.difficile toxin A with high titers were obtained 
+successfully with satisfactory specificity and relative affinity, which will be 
+useful for detection of C.difficile toxin A.

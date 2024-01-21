@@ -1,0 +1,24 @@
+Clostridium difficile infection (CDI), a common cause of hospital-acquired 
+infections, typically occurs after disruption of the normal gut microbiome by 
+broad-spectrum antibiotics. Fidaxomicin is a narrow-spectrum antibiotic that 
+demonstrates a reduced impact on the normal gut microbiota and is approved for 
+the treatment of CDI. To further explore the benefits of this property, we used 
+a murine model to examine the effects of fidaxomicin versus vancomycin on gut 
+microbiota and susceptibility to C. difficile colonization while tracking 
+microbiota recovery over time. Mice were exposed to fidaxomicin or vancomycin by 
+oral gavage for 3 days and subsequently challenged with C. difficile spores at 
+predetermined time points up to 21 days postexposure to antibiotics. Fecal 
+samples were subsequently collected for analysis. Twenty-four hours 
+postchallenge, mice were euthanized and the colon contents harvested. The 
+microbiota was characterized using 16S rRNA gene sequencing. All 
+fidaxomicin-exposed mice (except for one at day 8) were resistant to C. 
+difficile colonization. However, 9 of 15 vancomycin-exposed mice were 
+susceptible to C. difficile colonization until day 12. All vancomycin-exposed 
+mice recovered colonization resistance by day 16. Bacterial diversity was 
+similar prior to antibiotic exposure in both arms and decreased substantially 
+after exposure. A shift in taxonomic structure and composition occurred after 
+both exposures; however, the shift was greater in vancomycin-exposed than in 
+fidaxomicin-exposed mice. In summary, compared with vancomycin, fidaxomicin 
+exposure had less impact on microbiota composition, promoted faster microbial 
+recovery, and had less impact on the loss of C. difficile colonization 
+resistance.

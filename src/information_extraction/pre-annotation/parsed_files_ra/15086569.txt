@@ -1,0 +1,24 @@
+The peripheral nervous system, in addition to its sensory and motor functions, 
+can induce a local inflammatory response known as neurogenic inflammation. This 
+phenomenon plays a critical role in several inflammatory diseases, e.g., asthma, 
+atopy, rheumatoid arthritis, psoriasis, and ulcerative colitis. Neurogenic 
+inflammation and the role of nerve growth factor (NGF) have been extensively 
+studied in psoriasis. There are increased levels of NGF in the keratinocytes and 
+upregulation of NGF receptor (NGF-R) in the cutaneous nerves of psoriatic 
+plaques. NGF can influence all the salient pathologic events noticed in 
+psoriasis such as proliferation of keratinocytes, angiogenesis, T cell 
+activation, expression of adhesion molecules, proliferation of cutaneous nerves, 
+and upregulation of neuropeptides. In this double-blinded, placebo-controlled 
+study, we addressed the role of NGF/NGF-R in psoriasis in an in vivo system 
+using the severe combined immunodeficient (SCID) mouse-human skin model of 
+psoriasis. The transplanted psoriatic plaques on the SCID mice (n=12) were 
+treated with K252a, a high-affinity NGF receptor blocker. Psoriasis 
+significantly improved following 2 wk of therapy. The length of the rete pegs 
+changed from 308.57+/-98.72 to 164.64+/-46.78 microm (p<0.01, Student's t test). 
+A similar improvement of psoriasis was observed by directly inhibiting NGF with 
+NGF-neutralizing antibody. NGF-neutralizing antibody in normal saline at 10 ng 
+(n=4) and 20 ng (n=4) per kilogram of body weight doses were used. Both doses of 
+NGF-neutralizing antibody reduced rete peg lengths significantly, e.g., from 
+298.5+/-42.69 to 150.52+/-32.93 microm (p<0.05, Student's t test). This study 
+provides evidence for the role of NGF and its high-affinity receptor in the 
+pathogenesis of psoriasis and insights to develop novel therapeutic modalities.

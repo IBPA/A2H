@@ -1,0 +1,24 @@
+Clostridium difficile infection (CDI) is the most common infectious cause of 
+healthcare-acquired diarrhoea. Outcomes of C. difficile colonization are varied, 
+from asymptomatic carriage to fulminant colitis and death, due in part to the 
+interplay between the pathogenic virulence factors of the bacterium and the 
+counteractive immune responses of the host. Secreted toxins A and B are the 
+major virulence factors of C. difficile and induce a profound inflammatory 
+response by intoxicating intestinal epithelial cells causing proinflammatory 
+cytokine release. Host cell necrosis, vascular permeability and neutrophil 
+infiltration lead to an elevated white cell count, profuse diarrhoea and in 
+severe cases, dehydration, hypoalbuminaemia and toxic megacolon. Other bacterial 
+virulence factors, including surface layer proteins and flagella proteins, are 
+detected by host cell surface signal molecules that trigger downstream 
+cell-mediated immune pathways. Human studies have identified a role for serum 
+and faecal immunoglobulin levels in protection from disease, but the recent 
+development of a mouse model of CDI has enabled studies into the precise 
+molecular interactions that trigger the immune response during infection. Key 
+effector molecules have been identified that can drive towards a protective 
+anti-inflammatory response or a damaging proinflammatory response. The 
+limitations of current antimicrobial therapies for CDI have led to the 
+development of both active and passive immunotherapies, none of which have, as 
+yet been formally approved for CDI. However, recent advances in our 
+understanding of the molecular basis of host immune protection against CDI may 
+provide an exciting opportunity for novel therapeutic developments in the 
+future.

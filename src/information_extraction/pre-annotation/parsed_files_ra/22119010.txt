@@ -1,0 +1,12 @@
+In this review, we discuss our studies on the pathogenesis of collagen-induced 
+arthritis (CIA) and related mouse models for rheumatoid arthritis. Of note, 
+these models invariably rely on the use of complete Freund's adjuvant (CFA). Our 
+analysis has focused on explaining the dichotomous - either protective or 
+disease-promoting - role of endogenous IFN-γ. Induction of a myelopoietic burst 
+by CFA was identified as an important and underestimated factor in mediating the 
+role of IFN-γ and other cytokines (IL-6, IL-17, GCP-2, RANK-L). Myelopoiesis 
+provides an excess in precursors for joint-infiltrating neutrophils and 
+osteoclasts. We postulate that classical CIA is primarily an auto-inflammatory 
+disease, in part because of a strong innate immune response to the adjuvant. 
+Superimposed on this, collagen-specific auto-immunity reinforces inflammatory 
+reactivity in joints.

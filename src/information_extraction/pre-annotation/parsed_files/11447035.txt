@@ -1,0 +1,17 @@
+Toxin A (TxA) of Clostridium difficile induces acute inflammation of the 
+intestine initiated by release of substance P (SP) and activation of the 
+neurokinin-1 receptor. However, the mechanisms that terminate this response are 
+unknown. We determined whether the SP-degrading enzyme neutral endopeptidase 
+(NEP, EC 3.4.24.11) terminates TxA-induced enteritis. We used both genetic 
+deletion and pharmacological inhibition of NEP to test this hypothesis. In 
+wild-type mice, instillation of TxA (0.5-5 microg) into ileal loops for 3 h dose 
+dependently increased ileal fluid secretion, stimulated granulocyte 
+transmigration determined by myeloperoxidase activity, and caused histological 
+damage characterized by depletion of enterocytes, edema, and neutrophil 
+accumulation. Deletion of NEP reduced the threshold secretory and inflammatory 
+dose of TxA and exacerbated the inflammatory responses by more than twofold. 
+This exacerbated inflammation was prevented by pretreatment with recombinant 
+NEP. Conversely, pretreatment of wild-type mice with the NEP inhibitor 
+phosphoramidon exacerbated enteritis. Thus NEP terminates enteritis induced by 
+C. difficile TxA, underlying the importance of SP degradation in limiting 
+neurogenic inflammation.

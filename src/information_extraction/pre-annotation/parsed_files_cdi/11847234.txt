@@ -1,0 +1,17 @@
+RhoA, -B, and -C are ADP-ribosylated and biologically inactivated by Clostridium 
+botulinum C3 exoenzyme and related C3-like transferases. We report that RalA 
+GTPase, which is not ADP-ribosylated by C3, inhibits ADP-ribosylation of RhoA by 
+C3 from C. botulinum (C3bot), Clostridium limosum (C3lim), and Bacillus cereus 
+(C3cer) but not from Staphylococcus aureus (C3stau) in human platelet membranes 
+and rat brain lysate. Inhibition by RalA occurs with the GDP- and guanosine 
+5'-3-O-(thio)triphosphate-bound forms of RalA and is overcome by increasing 
+concentrations of C3. A direct interaction of RalA with C3 was verified by 
+precipitation of the transferase with GST-RalA-Sepharose. The affinity constant 
+(K(d)) of the binding of RalA to C3lim was 12 nm as determined by fluorescence 
+titration. RalA increased the NAD glycohydrolase activity of C3bot by about 
+5-fold. Although RalA had no effect on glucosylation of Rho GTPases by 
+Clostridium difficile toxin B, C3bot and C3lim inhibited glucosylation of RalA 
+by Clostridium sordellii lethal toxin. Furthermore, C3bot decreased activation 
+of phospholipase D by RalA. The data indicate that several C3 exoenzymes 
+directly interact with RalA without ADP-ribosylating the GTPase. The interaction 
+is of high affinity and interferes with essential functions of C3 and RalA.

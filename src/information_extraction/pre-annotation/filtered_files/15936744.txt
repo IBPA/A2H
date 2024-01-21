@@ -1,0 +1,12 @@
+Identifying genes that regulate polygenic diseases influenced by the environment 
+such as rheumatoid arthritis (RA), has so far proven to be difficult. By using 
+an alternative approach, i.e., linkage analysis using relevant animal models we 
+succeeded in finding the Ncf1 gene residing in the Pia4 quantitative trait locus 
+to be responsible for the severity of pristane induced arthritis in rats. The 
+influence of another mutation in the mouse Ncf1 gene showed the same association 
+between decreased oxidative burst and enhanced arthritis. In this case the 
+mutation affected a splice site giving a non-detectable oxidative burst response 
+and enhanced collagen induced arthritis as well as myelin oligodendrocyte 
+protein induced experimental autoimmune encephalomyelitis. These findings open 
+up new possibilities for new treatments for autoimmune diseases, i.e., RA, 
+targeting the NADPH oxidase pathway.

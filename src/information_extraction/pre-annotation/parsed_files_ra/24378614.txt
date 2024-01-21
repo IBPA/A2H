@@ -1,0 +1,25 @@
+Rheumatoid arthritis (RA) is an autoimmune disease, primarily manifesting as 
+inflammatory arthritis. It is associated with chronic inflammation of the 
+synovial joints, mostly in the hands and feet, as well as with systemic 
+extra-articular inflammation. The chimeric anti-interleukin (IL)-17 full-length 
+monoclonal antibody (CMa17Aab) targets IL-17A, which is an important cytokine in 
+the pathogenesis of RA and other inflammatory disorders. In this study, we 
+investigated whether CMa17Aab exerts therapeutic effects in a mouse model of 
+type II collagen-induced arthritis (CIA). Mice with CIA were subcutaneously 
+injected with the humanized CMa17Aab antibody. The effects of treatment were 
+assessed by estimating the arthritis severity score, the extent of histological 
+damage and bone destruction, the autoreactive humoral and cellular immune 
+responses and the production of cytokines. Treatment with CMa17Aab exerted 
+beneficial effects in the mice with CIA as regards clinical and histological 
+parameters. Compared with the controls, treatment with CMa17Aab resulted in a 
+significant alleviation of the severity of the symptoms of arthritis, by 
+preventing bone damage and cartilage destruction, reducing humoral and cellular 
+immune responses, and downregulating the expression of IL-6, IL-8, matrix 
+metalloproteinase (MMP)-3, IL-17, IL-1β, tumor necrosis factor (TNF)-α, receptor 
+activator for nuclear factor-κB ligand (RANKL) and interferon (IFN)-γ in 
+inflamed tissues. In conclusion, our study demonstrates that treatment with 
+CMa17Aab exerts beneficial effects in mice with CIA, by preventing joint 
+inflammation, cartilage destruction and bone damage. These preliminary results 
+suggest that CMa17Aab is an important regulator in RA, and that it may represent 
+a novel therapeutic agent that may prove useful in the treatment of this 
+disease.

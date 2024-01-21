@@ -1,0 +1,20 @@
+AIMS: Systemic diseases often have common characteristics. The aim of this study 
+was to investigate the feasibility of targeting common pathological metabolism 
+to inhibit the progression of malignant and proliferative diseases.
+RESULTS: Gefitinib-resistant (G-R) nonsmall-cell lung cancer (NSCLC) and 
+rheumatoid arthritis (RA) were studied as conditions representative of malignant 
+and proliferative diseases, respectively. Strong lipogenic activity and high 
+expression of sterol regulatory element-binding protein 1 (SREBP1) were found in 
+both G-R NSCLC cells and synovial fibroblasts from RA patients (RASFs). 
+Berberine (BBR), an effective suppressor of SREBP1 and lipogenesis regulated 
+through reactive oxygen species (ROS)/AMPK pathway, selectively inhibited the 
+growth of G-R NSCLC cells and RASFs but not that of normal cells. It effectively 
+caused mitochondrial dysfunction, activated ROS/AMPK pathway, and finally 
+suppressed cellular lipogenesis and cell proliferation. Addition of ROS blocker, 
+AMPK inhibitor, and palmitic acid significantly reduced the effect of BBR. In an 
+in vivo study, treatment of BBR led to significant inhibition of mouse tumor 
+xenograft growth and remarkably slowed down the development of adjuvant-induced 
+arthritis in rats. Innovation and Conclusion: Targeting ROS/AMPK/lipogenesis 
+signaling pathway selectively inhibited the growth of G-R NSCLC cells and the 
+progress of RASFs in vitro and in vivo, which provides a new avenue for treating 
+malignancies and proliferative diseases. Antioxid. Redox Signal. 28, 339-357.

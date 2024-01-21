@@ -1,0 +1,28 @@
+OBJECTIVE: Rheumatoid arthritis (RA) is characterized by profound mononuclear 
+cell (MNC) recruitment into synovial tissue (ST), thought to be due in part to 
+tumor necrosis factor alpha (TNFalpha), a therapeutic target for RA. Although 
+chemokines may also be involved, the mechanisms remain unclear. We undertook 
+this study to examine the participation of CXCL16, a novel chemokine, in 
+recruitment of MNCs to RA ST in vivo and to determine the signal transduction 
+pathways mediating this process.
+METHODS: Using a human RA ST-SCID mouse chimera, immunohistochemistry, 
+enzyme-linked immunosorbent assay, real-time reverse transcription-polymerase 
+chain reaction, flow cytometry, and in vitro chemotaxis assays, we defined the 
+expression and function of CXCL16 and its receptor, CXCR6, as well as the signal 
+transduction pathways utilized by them for MNC homing in vitro and in vivo.
+RESULTS: CXCL16 was markedly elevated in RA synovial fluid (SF) samples, being 
+as high as 145 ng/ml. Intense macrophage and lining cell staining for CXCL16 in 
+RA ST correlated with increased CXCL16 messenger RNA levels in RA ST compared 
+with those in osteoarthritis and normal ST. By fluorescence-activated cell 
+sorting analysis, one-half of RA SF monocytes and one-third of memory 
+lymphocytes expressed CXCR6. In vivo recruitment of human MNCs to RA ST 
+implanted in SCID mice occurred in response to intragraft injection of human 
+CXCL16, a response similar to that induced by TNFalpha. Lipofection of MNCs with 
+antisense oligodeoxynucleotides for ERK-1/2 resulted in a 50% decline in 
+recruitment to engrafted RA ST and a 5-fold decline in recruitment to regional 
+lymph nodes. Interestingly, RA ST fibroblasts did not produce CXCL16 in response 
+to TNFalpha in vitro, suggesting that CXCL16 protein may function in large part 
+independently of TNFalpha.
+CONCLUSION: Taken together, these results point to a unique role for CXCL16 as a 
+premier MNC recruiter in RA and suggest additional therapeutic possibilities, 
+targeting CXCL16, its receptor, or its signaling pathways.

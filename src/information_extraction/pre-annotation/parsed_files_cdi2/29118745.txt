@@ -1,0 +1,22 @@
+Clostridium difficile infection (CDI) is a major healthcare-associated disease 
+with high recurrence rates. Host colonization is critical for the infectious 
+process, both in first episodes and in recurrent disease, with biofilm formation 
+playing a key role. The ability of C. difficile to form a biofilm on abiotic 
+surfaces is established, but has not yet been confirmed in the intestinal tract. 
+Here, four different isolates of C. difficile, which are in vitro biofilm 
+producers, were studied for their ability to colonize germ-free mice. The level 
+of colonization achieved was similar for all isolates in the different parts of 
+the murine gastrointestinal tract, but pathogen burden was higher in the cecum 
+and colon. Confocal laser scanning microscopy revealed that C. difficile 
+bacteria were distributed heterogeneously over the intestinal tissue, without 
+contact with epithelial cells. The R20291 strain, which belongs to the Ribotype 
+027 lineage, displayed a unique behavior compared to the other strains by 
+forming numerous aggregates. By immunochemistry analyses, we showed that 
+bacteria were localized inside and outside the mucus layer, irrespective of the 
+strains tested. Most bacteria were entrapped in 3-D structures overlaying the 
+mucus layer. For the R20291 strain, the cell-wall associated polysaccharide 
+PS-II was detected in large amounts in the 3-D structure. As this component has 
+been detected in the extrapolymeric matrix of in vitro C. difficile biofilms, 
+our data suggest strongly that at least the R20291 strain is organized in the 
+mono-associated mouse model in glycan-rich biofilm architecture, which 
+sustainably maintains bacteria outside the mucus layer.

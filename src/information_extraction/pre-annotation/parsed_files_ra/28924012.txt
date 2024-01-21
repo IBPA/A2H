@@ -1,0 +1,34 @@
+Creutzfeldt-Jakob disease (CJD) is a neurodegenerative disorder caused by prion 
+protein (PrP) misfolding, clinically recognized by cognitive and motor deficits, 
+electroencephalographic abnormalities, and seizures. Its neurophysiological 
+bases are not known. To assess the potential involvement of NMDA receptor 
+(NMDAR) dysfunction, we analyzed NMDA-dependent synaptic plasticity in 
+hippocampal slices from Tg(CJD) mice, which model a genetic form of CJD. Because 
+PrP depletion may result in functional upregulation of NMDARs, we also analyzed 
+PrP knock-out (KO) mice. Long-term potentiation (LTP) at the Schaffer 
+collateral-commissural synapses in the CA1 area of ∼100-d-old Tg(CJD) mice was 
+comparable to that of wild-type (WT) controls, but there was an inversion of 
+metaplasticity, with increased GluN2B phosphorylation, which is indicative of 
+enhanced NMDAR activation. Similar but less marked changes were seen in PrP KO 
+mice. At ∼300 d of age, the magnitude of LTP increased in Tg(CJD) mice but 
+decreased in PrP KO mice, indicating divergent changes in hippocampal synaptic 
+responsiveness. Tg(CJD) but not PrP KO mice were intrinsically more susceptible 
+than WT controls to focal hippocampal seizures induced by kainic acid. 
+IL-1β-positive astrocytes increased in the Tg(CJD) hippocampus, and blocking 
+IL-1 receptor signaling restored normal synaptic responses and reduced seizure 
+susceptibility. These results indicate that alterations in NMDA-dependent 
+glutamatergic transmission in Tg(CJD) mice do not depend solely on PrP 
+functional loss. Moreover, astrocytic IL-1β plays a role in the enhanced 
+synaptic responsiveness and seizure susceptibility, suggesting that targeting 
+IL-1β signaling may offer a novel symptomatic treatment for CJD.SIGNIFICANCE 
+STATEMENT Dementia and myoclonic jerks develop in individuals with 
+Creutzfeldt-Jakob disease (CJD), an incurable brain disorder caused by 
+alterations in prion protein structure. These individuals are prone to seizures 
+and have high brain levels of the inflammatory cytokine IL-1β. Here we show that 
+blocking IL-1β receptors with anakinra, the human recombinant form of the 
+endogenous IL-1 receptor antagonist used to treat rheumatoid arthritis, 
+normalizes hippocampal neurotransmission and reduces seizure susceptibility in a 
+CJD mouse model. These results link neuroinflammation to defective 
+neurotransmission and the enhanced susceptibility to seizures in CJD and raise 
+the possibility that targeting IL-1β with clinically available drugs may be 
+beneficial for symptomatic treatment of the disease.

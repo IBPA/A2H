@@ -1,0 +1,14 @@
+Clostridium difficile is an anaerobic pathogen that forms spores which promote 
+survival in the environment and transmission to new hosts. The regulatory 
+pathways by which C. difficile initiates spore formation are poorly understood. 
+We identified two factors with limited similarity to the Rap sporulation 
+proteins of other spore-forming bacteria. In this study, we show that disruption 
+of the gene CD3668 reduces sporulation and increases toxin production and 
+motility. This mutant was more virulent and exhibited increased toxin gene 
+expression in the hamster model of infection. Based on these phenotypes, we have 
+renamed this locus rstA, for regulator of sporulation and toxins. Our data 
+demonstrate that RstA is a bifunctional protein that upregulates sporulation 
+through an unidentified pathway and represses motility and toxin production by 
+influencing sigD transcription. Conserved RstA orthologs are present in other 
+pathogenic and industrial Clostridium species and may represent a key regulatory 
+protein controlling clostridial sporulation.

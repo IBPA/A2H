@@ -1,0 +1,18 @@
+Tumor necrosis factor alpha (TNF) plays a pivotal role in chronic inflammatory 
+diseases such as rheumatoid arthritis and Crohn's disease. Although anti-TNF 
+antibody therapy is now commonly used to treat patients suffering from these 
+inflammatory conditions, the cost of treatment continues to be a concern. Here, 
+we developed a rice transgenic system for the production of a llama variable 
+domain of a heavy-chain antibody fragment (VHH) specific for mouse TNF in rice 
+seeds (MucoRice-mTNF-VHH). MucoRice-mTNF-VHH was produced at high levels in the 
+rice seeds when we used our most recent transgene-overexpression system with RNA 
+interference technology that suppresses the production of major rice endogenous 
+storage proteins while enhancing the expression of the transgene-derived 
+protein. Production levels of mTNF-VHH in rice seeds reached an average of 1.45% 
+(w/w). Further, approximately 91% of mTNF-VHH was released easily when the 
+powder form of MucoRice-mTNF-VHH was mixed with PBS. mTNF-VHH purified by means 
+of single-step gel filtration from rice PBS extract showed high neutralizing 
+activity in an in vitro mTNF cytotoxicity assay using WEHI164 cells. In 
+addition, purified mTNF-VHH suppressed progression of collagen-induced arthritis 
+in mice. These results show that this rice-expression system is useful for the 
+production of neutralizing VHH antibody specific for mTNF.

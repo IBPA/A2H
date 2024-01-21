@@ -1,0 +1,25 @@
+OBJECTIVE: To define genomic regions that link to rat arthritis and to determine 
+the potential association with rheumatoid arthritis (RA) of the corresponding 
+human genomic regions.
+METHODS: Advanced intercross lines (AIL) between arthritis susceptible DA rats 
+and arthritis resistant PVG.1AV1 rats were injected with differently 
+arthritogenic oils to achieve an experimental situation with substantial 
+phenotypic variation in the rat study population. Genotyping of microsatellite 
+markers was performed over genomic regions with documented impact on arthritis, 
+located on rat chromosomes 4, 10 and 12. Linkage between genotypes and 
+phenotypes were determined by R/quantitative trait loci (QTL). Potential 
+association with RA of single nucleotide polymorphisms (SNPs) in homologous 
+human chromosome regions was evaluated from public Wellcome Trust Case Control 
+Consortium (WTCCC) data derived from 2000 cases and 3000 controls.
+RESULTS: A high frequency of arthritis (57%) was recorded in 422 rats injected 
+with pristane. Maximum linkage to pristane-induced arthritis occurred less than 
+130 kb from the known genetic arthritis determinants Ncf1 and APLEC, 
+demonstrating remarkable mapping precision. Five novel quantitative trait loci 
+were mapped on rat chromosomes 4 and 10, with narrow confidence intervals. Some 
+exerted sex-biased effects and some were linked to chronic arthritis. Human 
+homologous genomic regions contain loci where multiple nearby SNPs associate 
+nominally with RA (eg, at the genes encoding protein kinase Calpha and 
+interleukin 17 receptor alpha).
+CONCLUSIONS: High-resolution mapping in AIL populations defines limited sets of 
+candidate risk genes, some of which appear also to associate with RA and thus 
+may give clues to evolutionarily conserved pathways that lead to arthritis.

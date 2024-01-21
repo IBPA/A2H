@@ -1,0 +1,25 @@
+OBJECTIVE: Macrophages are critical in the pathogenesis of rheumatoid arthritis 
+(RA). We recently demonstrated that FLIP is necessary for the differentiation 
+and/or survival of macrophages. We also showed that FLIP is highly expressed in 
+RA synovial macrophages. This study was undertaken to determine if a reduction 
+in FLIP in mouse macrophages reduces synovial tissue macrophages and ameliorates 
+serum-transfer arthritis.
+METHODS: Mice with Flip deleted in myeloid cells (Flipf/f LysMc/+ mice) and 
+littermate controls were used. Arthritis was induced by intraperitoneal 
+injection of K/BxN serum. Disease severity was evaluated by clinical score and 
+change in ankle thickness, and joints were examined by histology and 
+immunohistochemistry. Cells were isolated from the ankles and bone marrow of the 
+mice and examined by flow cytometry, real-time quantitative reverse 
+transcriptase-polymerase chain reaction, or Western blotting.
+RESULTS: In contrast to expectations, Flipf/f LysMc/+ mice developed more severe 
+arthritis early in the clinical course, but peak arthritis was attenuated and 
+the resolution phase more complete than in control mice. Prior to the induction 
+of serum-transfer arthritis, the number of tissue-resident macrophages was 
+reduced. On day 9 after arthritis induction, the number of F4/80high macrophages 
+in the joints of the Flipf/f LysMc/+ mice was not decreased, but increased. FLIP 
+was reduced in the F4/80high macrophages in the ankles of the Flipf/f LysMc/+ 
+mice, while F4/80high macrophages expressed an antiinflammatory phenotype in 
+both the Flipf/f LysMc/+ and control mice.
+CONCLUSION: Our observations suggest that reducing FLIP in macrophages by 
+increasing the number of antiinflammatory macrophages may be an effective 
+therapeutic approach to suppress inflammation, depending on the disease stage.

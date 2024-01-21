@@ -1,0 +1,38 @@
+OBJECTIVE: To study the immunologic function and determine the fine epitope 
+structure of a synthetic peptide p135H ((2373)TTYKRRLQKRSSRHP) of the G3 domain 
+of human cartilage proteoglycan (aggrecan), which contains a highly homologous 
+sequence motif of the shared epitope (QKRAA), the most common sequence motif in 
+HLA-DR4 alleles, which predispose humans to the development of rheumatoid 
+arthritis (RA).
+METHODS: Synthetic p135 peptides with altered sequences were used for 
+(hyper)immunization of arthritis-susceptible BALB/c mice and then challenged 
+with a single dose of cartilage proteoglycan. Human p135 (p135H) and mouse p135 
+(p135M) synthetic peptides of the G3 domain of aggrecan were used to prime 
+lymphocytes, which were then used for adoptive transfer of arthritis into 
+"presensitized" SCID mice, determining cross-reactivity among p135 peptides and 
+their analogous sequences, and generating T cell hybridomas. T cell hybridomas 
+were also used for arthritis transfer into SCID mice and for characterizing the 
+fine epitope structure of T cell receptor (TCR) and major histo-compatibility 
+complex (MHC) binding sites of the immunogenic/arthritogenic p135H sequence.
+RESULTS: While p135H peptide-(hyper)immunized mice became sensitized, they 
+developed arthritis only after injection of a single dose of cartilage 
+proteoglycan aggrecan. An altered peptide sequence (p135H-AA) carrying the 
+shared epitope motif (QKRAA) was as effective as the natural peptide p135H 
+sequence for inducing arthritis. Mouse p135M-specific lymphocytes induced 
+arthritis with a lower incidence, but synthetic peptides to Escherichia coli 
+heat-shock protein (DnaJ) or HLA-DR4 allele (both having the shared epitope 
+sequence with different flanking regions) were also positive. Fine epitope 
+sequence recognition of an arthritogenic T cell hybridoma derived from 
+p135H-primed lymphocyte population was determined. Interestingly, in the most 
+central position, a basic amino acid triplet of p135H peptide was found to be 
+the MHC-binding motif, whereas the flanking amino acids bound to the TCR.
+CONCLUSION: Peptide p135H, corresponding to the peptide sequence in the G3 
+domain of human cartilage proteoglycan aggrecan, is immunogenic/arthritogenic in 
+BALB/c mice. Peptide p135H includes a highly homologous motif of the shared 
+epitope, a sequence that is overrepresented in bacterial heat-shock proteins, 
+envelope protein of human JC polyomavirus, and numerous HLA-DR4 alleles. Since 
+the G3 domain of cartilage proteoglycan aggrecan with the p135 sequence is 
+"lost" during the normal metabolic turnover of cartilage proteoglycan or in 
+pathologic conditions, an antigenoriented T cell migration into joints of 
+presensitized (susceptible) individuals may contribute to the organ-specificity 
+of RA.

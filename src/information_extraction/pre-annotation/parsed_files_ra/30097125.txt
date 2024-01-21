@@ -1,0 +1,32 @@
+BACKGROUND: Inula helenium L. is an herb whose anti-inflammatory properties are 
+attributed to its active components, the sesquiterpene lactones (SLs). Our 
+previous study demonstrated that the total sesquiterpene lactones isolated from 
+Inula helenium L. (TSL-IHL), consisting mainly of alantolactone (AL) and 
+isoalantolactone (IAL), may have potential in the prevention and treatment of 
+rheumatoid arthritis (RA). However, the effect of TSL-IHL on atopic dermatitis 
+(AD) has not been studied yet.
+AIM OF THE STUDY: The present study evaluates the potential of TSL-IHL as a 
+treatment for AD.
+METHODS/STUDY DESIGNS: The effects of TSL-IHL on the expression of inflammatory 
+genes and the activation of NF-κB signaling pathway in HaCat cells were examined 
+by quantitative real-time PCR and western blotting, respectively, and compared 
+with those of AL and IAL. The protective effect of TSL-IHL against AD was tested 
+in a mouse model induced by 2,4-dinitrochlorobenzene (DNCB), in which AD-like 
+skin lesions were induced in ICR mice by sensitizing once with 100 µl of 7% DNCB 
+painted on their shaved back skin and then challenging with 20 µl of 0.2% DNCB 
+five times on their right ears at 3 day intervals starting on day 5 
+post-sensitization.
+RESULTS: TSL-IHL, as well as AL and IAL, could all inhibit TNF-α-induced 
+activation of NF-κB and the expression of TNF-α, IL-1, and IL-4 in HaCat cells 
+in a dose-dependent manner in the range of 0.6-2.4 µg/ml. The topical 
+application of TSL-IHL (1% W/W in emollient cream) attenuated DNCB-induced 
+dermatitis severity and right ear swelling. The serum levels of IgE, TNF-α and 
+IFN-γ in TSL-IHL-treated mice were reduced by 81.39%, 89.69%, and 87.85%, 
+respectively, while the mRNA levels of IL-4, IL-5 and IL-13, in the back-skin 
+lesions of TSL-IHL-treated mice were reduced by 39.21%, 40.62% and 48.12%, 
+respectively, compared with the untreated controls. Histopathological 
+examination showed that TSL-IHL treatment reduced epidermis/dermis thickening 
+and dermal inflammatory infiltration in both ear and back skins.
+CONCLUSIONS: We suggest that TSL-IHL inhibited the development of AD-like skin 
+symptoms by regulating cytokine expression and may be an effective alternative 
+therapy for AD.

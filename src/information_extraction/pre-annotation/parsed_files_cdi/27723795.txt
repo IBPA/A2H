@@ -1,0 +1,21 @@
+Nosocomial acquisition of Clostridium difficile is well documented, yet recent 
+studies have highlighted the importance of community acquired infections and 
+identified community associated reservoirs for this pathogen. Multiple studies 
+have implicated companion pets and farm animals as possible sources of community 
+acquired C. difficile infections in humans. To explore the potential role of pet 
+dogs in human C. difficile infections we systematically collected canine fecal 
+samples (n = 197) in Flagstaff, AZ. Additionally, nineteen fecal samples were 
+collected at a local veterinary clinic from diarrheic dogs. We used these 
+combined samples to investigate important questions regarding C. difficile 
+colonization in pet canines: 1) What is the prevalence and diversity of C. 
+difficile in this companion pet population, and 2) Do C. difficile isolates 
+collected from canines genetically overlap with isolates that cause disease in 
+humans? We used a two-step sequence typing approach, including multilocus 
+sequence typing to determine the overall genetic diversity of C. difficile 
+present in Flagstaff canines, and whole-genome sequencing to assess the 
+fine-scale diversity patterns within identical multilocus sequence types from 
+isolates obtained within and among multiple canine hosts. We detected C. 
+difficile in 17% of the canine fecal samples with 10% containing toxigenic 
+strains that are known to cause human disease. Sequencing analyses revealed 
+similar genotypes in dogs and humans. These findings suggest that companion pets 
+are a potential source of community acquired C. difficile infections in humans.

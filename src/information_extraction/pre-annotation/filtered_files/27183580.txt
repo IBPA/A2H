@@ -1,0 +1,20 @@
+Piperlongumine (PLM) is a natural product from the plant Piper longum that 
+inhibits platelet aggregation, atherosclerosis plaque formation, and tumor cell 
+growth. It has potential value in immunomodulation and the management of 
+autoimmune diseases. In this study, we investigated the role of PLM in 
+regulating the differentiation and maturation of dendritic cells (DCs), a 
+critical regulator of immune tolerance, and evaluated its clinical effects in a 
+rheumatoid arthritis mouse model. We found that PLM treatment reduced 
+LPS-induced murine bone marrow-derived DC maturation, characterized by reduced 
+expression of CD80/86, secretion of MCP-1, IL-12p70, IL-6, TNFα, IFN-γ, and 
+IL-23, and reduced alloproliferation of T cells; however, PLM does not affect 
+cell differentiation. Furthermore, PLM reduced intracellular reactive oxygen 
+species (ROS) production by DCs and inhibited the activation of p38, JNK, NF-κB, 
+and PI3K/Akt signaling pathways. Conversely, PLM increased the expression of 
+GSTP1 and carbonyl reductase 1, two enzymes that counteract ROS effects. ROS 
+inhibition by exogenous N-acetyl-l-cysteine suppressed DC maturation. PLM 
+treatment improved the severity of arthritis and reduced in vivo splenic DC 
+maturation, collagen-specific CD4(+) T cell responses, and ROS production in 
+mice with collagen-induced arthritis. Taken together, these results suggest that 
+PLM inhibits DC maturation by reducing intracellular ROS production and has 
+potential as a therapeutic agent for rheumatoid arthritis.

@@ -1,0 +1,20 @@
+Peucedanum japonicum Thunberg is an herbal medicine used to treat neuralgia, 
+rheumatoid arthritis, and inflammatory-related diseases. However, its effects on 
+osteoarthritis (OA) and its regulatory mechanisms have not been investigated by 
+network analysis. Here, we investigated the pharmacological effects of 
+Peucedanum japonicum extract (PJE) on OA, by combining in vivo effective 
+verification and network pharmacology prediction. Rats in which OA was induced 
+by monosodium iodoacetate (MIA) were treated with PJE (200 mg/kg), and 
+histopathological parameters, weight bearing distribution and inflammatory 
+factors in serum and joint tissue were measured after 28 days of treatment. 
+Additionally, in silico network analysis was used to predict holistic OA 
+regulatory mechanisms of PJE. The results showed that PJE exerted potential 
+protective effects by recovering hind paw weight bearing distribution, 
+alleviating histopathological features of cartilage and inhibiting inflammatory 
+mediator levels in the OA rat model. Furthermore, network analysis identified 
+caspase-3 (CASP3), caspase-7 (CASP7), and cytochrome P450 2D6 (CYP2D6) as 
+potential target genes; in addition, the TNF (Tumor necrosis factor) signaling 
+pathway was linked to OA therapeutic action. Our combined animal OA model and 
+network analysis confirmed the therapeutic effects of PJE against OA and 
+identified intracellular signaling pathways, active compounds and target genes 
+linked to its therapeutic action.

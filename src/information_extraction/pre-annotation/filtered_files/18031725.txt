@@ -1,0 +1,18 @@
+Recent study suggests that the proinflammatory and nociceptive effects of 
+prostaglandin E(2) are mediated by prostanoid receptor subtype EP(4) and 
+prostanoid EP(4) receptor may be a potential target for the treatment of 
+inflammatory pain. Here we describe pharmacological characterization of a novel 
+prostanoid EP(4) receptor antagonist, CJ-042,794 
+(4-{(1S)-1-[({5-chloro-2-[(4-fluorophenyl) oxy] phenyl} carbonyl) amino] ethyl} 
+benzoic acid) in comparison with piroxicam (non-steroidal anti-inflammatory 
+drug) or rofecoxib (cyclooxygenase-2 inhibitor). CJ-042,794 competitively 
+antagonized cAMP accumulation with a pA(2) value of 8.7 in HEK293 cells 
+overexpressing rat prostanoid EP(4) receptors. Orally administered CJ-042,794 
+dose-dependently inhibited carrageenan-induced mechanical hyperalgesia with an 
+ED(50) value of 4.7 mg/kg (11 micromol/kg) and its maximal activity was somewhat 
+less effective than that of 10 mg/kg piroxicam (30 micromol/kg p.o.). When 
+CJ-042,794 and rofecoxib were administered to adjuvant-induced arthritis rats on 
+Days 12-22 twice daily, both compounds reversed paw swelling to normal levels. 
+These results suggest that a pharmacological blockade of the prostanoid EP(4) 
+receptor may represent a new therapeutic strategy in signs and symptomatic 
+relief of osteoarthritis and/or rheumatoid arthritis.

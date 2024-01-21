@@ -1,0 +1,18 @@
+Increased expression of endogenous Toll-like receptor 4 (TLR4) ligands (e.g., 
+Tenascin-C, S100A8/A9, citrullinated fibrinogen (cFb) immune complexes) has been 
+observed in patients with rheumatoid arthritis (RA). However, their roles in RA 
+pathogenesis are not well understood. Here, we investigated the expression 
+kinetics and role of endogenous TLR4 ligands in the murine model of 
+collagen-induced arthritis (CIA). Tenascin-C was upregulated in blood early in 
+CIA, and correlated positively with the clinical score at day 56. Levels of 
+S100A8/A9 increased starting from day 28, peaking at day 42, and correlated 
+positively with joint inflammation. Levels of anti-cFb antibodies increased 
+during the late phase of CIA and correlated positively with both joint 
+inflammation and cartilage damage. Blockade of TLR4 activation at the time of 
+the first TLR4 ligand upregulation prevented clinical and histological signs of 
+arthritis. A TLR4-dependent role was also observed for Tenascin-C and cFb immune 
+complexes in osteoclast differentiation in vitro. Taken together, our data 
+suggests that the pathogenic contribution of TLR4 in promoting joint 
+inflammation and bone erosion during CIA occurs via various TLR4 ligands arising 
+at different stages of disease. The data also suggests that Blockade of TLR4 
+with monoclonal antibodies is a promising strategy in RA treatment.

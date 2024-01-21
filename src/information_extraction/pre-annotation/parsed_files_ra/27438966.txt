@@ -1,0 +1,22 @@
+This study sought to explore the mechanism of anti-inflammatory effect of 
+triphala in lipopolysaccharide (LPS)-stimulated RAW 264.7 macrophages and in 
+adjuvant-induced arthritic rats. In stimulated RAW 264.7 cells, triphala 
+(100-300 μg/ml) significantly suppressed production of inflammatory mediators 
+(e.g. TNFα, IL-1β, IL-6, MCP-1, VEGF, NO, PGE2), intracellular free radicals and 
+release of lysosomal enzymes (e.g. acid phosphatase, β-galactosidase, N-acetyl 
+glucosamindase and cathepsin D) in a dose-related manner. With triphala, mRNA 
+levels of genes for pro-inflammatory TNFα, IL-1β, IL-6 and MCP-1, inflammatory 
+iNOS and COX-2 enzymes and NF-κBp65 were down-regulated in the stimulated cells; 
+in contrast, there was up-regulation of heme oxygenase-1 (HO-1) expression. 
+Western blot analyses revealed that triphala suppressed the protein expression 
+of NF-κB p65 and p-NF-κB p65 in the stimulated cells, which subsequently reduced 
+over-expression of TNFα, IL-17, iNOS and COX-2 in a manner similar to that 
+observed with BAY 11-7082, an IκB kinase inhibitor. Immunofluorescence analysis 
+revealed inhibition of p-NF-κB p65 nuclear translocation and COX-2 protein 
+expression caused by triphala. Consistent with these findings, the animal 
+studies presented confirmed that triphala exhibited anti-inflammatory effects in 
+a rat adjuvant-induced arthritis model by reducing of inflammatory mediator 
+(e.g. IL-17, COX-2 and RANKL) expression via inhibition of NF-κB activation. 
+Taken together, the results here demonstrated that triphala has potential 
+anti-inflammatory applications that could be used for the treatment of 
+inflammatory disorders, including rheumatoid arthritis.

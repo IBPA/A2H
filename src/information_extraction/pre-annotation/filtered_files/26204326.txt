@@ -1,0 +1,22 @@
+Methotrexate (MTX), a well known drug for the treatment of cancer and rheumatoid 
+arthritis, has gained prominence in the treatment of psoriasis over the period 
+of years. However, the present mode of systemic administration through oral or 
+parenteral route has always proposition, full of compromises. The toxicity of 
+drug to the vital organs and physiological environment is the major concern. 
+Also, its poor skin penetration is one major problem. Hence novel system based 
+on lipid carriers has been considered here to overcome the barriers. 
+Microemulsions (MEs) were prepared using pseudo-ternary phase diagram (PTPD) and 
+they were characterized for various parameters such as size, shape (cryo-SEM), 
+PDI, zeta potential, etc. The chosen MEs system (optimized) was then 
+incorporated into secondary vehicles and characterized for rheological behavior, 
+texture profile analysis, in vitro release, ex vivo permeation and drug 
+distribution into different layers of skin. The developed formulations were 
+further evaluated in ex vivo and in vivo such as cell line study, 
+imiquimod-induced psoriatic model, allergic contact dermatitis, rat tail model 
+(% orthokeratosis) and safety test (Draize test). The MEs based MTX gel has 
+shown its potential in locating the drug at the desired domain of stratum 
+corneum, epidermal and dermal layers of skin and reducing systemic absorption. 
+Our results are suggestive of MEs potential as a novel carrier for topical 
+delivery of MTX in topical therapeutic and safety approaches. In conclusion, 
+developed MEs-based hydrogel has shown promising results in achieving effective 
+delivery of MTX.

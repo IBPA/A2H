@@ -1,0 +1,26 @@
+OBJECTIVES: The heritability of RA has been estimated to be approximately 55%, 
+of which the MHC contributes about one-third. HLA-DRB1 alleles are strongly 
+associated with RA, but it is likely that significant non-DRB1 MHC genetic 
+susceptibility factors are involved. Previously, we identified two three-marker 
+haplotypes in a 106-kb region in the MHC class III region immediately 
+centromeric to TNF, which are strongly associated with RA on HLA-DRB1*0404 
+haplotypes. In the present study, we aimed to refine these associations further 
+using a combination of genotyping and gene expression studies.
+METHODS: Thirty-nine nucleotide polymorphisms (SNPs) were genotyped in 95 
+DRB1*0404 carrying unrelated RA cases, 125 DRB1*0404-carrying healthy controls 
+and 87 parent-case trio RA families in which the affected child carried 
+HLA-DRB1*04. Quantitative RT-PCR was used to assess the expression of the 
+positional candidate MHC class III genes APOM, BAT2, BAT3, BAT4, BAT5, AIF1, 
+C6orf47, CSNK2beta and LY6G5C, and the housekeeper genes, hypoxanthine-guanine 
+phosphoribosyltransferase (HPRT) and beta(2)-microglobulin (B2M) in 31 RA cases 
+and 21 ethnically, age- and sex-matched healthy controls. Synovial membrane 
+specimens from RA, PsA and OA cases were stained by an indirect immunoperoxidase 
+technique using a mouse-anti-human AIF1 monoclonal antibody.
+RESULTS: Association was observed between RA and single markers or two marker 
+haplotypes involving AIF1, BAT3 and CSNK. AIF1 was also significantly 
+overexpressed in RA mononuclear cells (1.5- to 1.9-fold difference, P = 0.02 vs 
+HPRT, P = 0.002 vs B2M). AIF1 protein was clearly expressed by synovial 
+macrophages in all the inflammatory synovial samples in contrast to the 
+non-inflammatory OA samples.
+CONCLUSIONS: The results of the genotyping and expression studies presented here 
+suggest a role for AIF1 in both the aetiology and pathogenesis of RA.

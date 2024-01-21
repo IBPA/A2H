@@ -1,0 +1,29 @@
+OBJECTIVES: Metronidazole, a mainstay treatment for Clostridium difficile 
+infection (CDI), is often ineffective for severe CDI. Whilst this is thought to 
+arise from suboptimal levels of metronidazole in the colon due to rapid 
+absorption, empirical validation is lacking. In contrast, reutericyclin, an 
+antibacterial tetramic acid from Lactobacillus reuteri, concentrates in the 
+gastrointestinal tract. In this study, we modified metronidazole with 
+reutericyclin's tetramic acid motif to obtain non-absorbed compounds, enabling 
+assessment of the impact of pharmacokinetics on treatment outcomes.
+METHODS: A series of metronidazole-bearing tetramic acid substituents were 
+synthesized and evaluated in terms of anti-C. difficile activities, gastric 
+permeability, in vivo pharmacokinetics, efficacy in the hamster model of CDI and 
+mode of action.
+RESULTS: Most compounds were absorbed less than metronidazole in cell-based 
+Caco-2 permeability assays. In hamsters, lead compounds compartmentalized in the 
+colon rather than the bloodstream with negligible levels detected in the blood, 
+in direct contrast with metronidazole, which was rapidly absorbed into the blood 
+and was undetectable in caecum. Accordingly, four leads were more efficacious 
+(P < 0.05) than metronidazole in C. difficile-infected animals. Improved 
+efficacy was not due to an alternative mode of action, as the leads retained the 
+mode of action of metronidazole.
+CONCLUSIONS: This study provides the clearest empirical evidence that the high 
+absorption of metronidazole lowers treatment outcomes for CDI and suggests a 
+role for the tetramic acid motif for colon-specific drug delivery. This approach 
+also has the potential to lower systemic toxicity and drug interactions of 
+nitroheterocyclic drugs for treating gastrointestine-specific diseases.
+
+© The Author 2015. Published by Oxford University Press on behalf of the British 
+Society for Antimicrobial Chemotherapy. All rights reserved. For Permissions, 
+please e-mail: journals.permissions@oup.com.

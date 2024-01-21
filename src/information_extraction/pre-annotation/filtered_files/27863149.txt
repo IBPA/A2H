@@ -1,0 +1,26 @@
+OBJECTIVE: Type I interferon (IFN) is implicated in the pathogenesis of systemic 
+lupus erythematosus (SLE) and interferonopathies such as Aicardi-Goutières 
+syndrome. A recently discovered DNA-activated type I IFN pathway, cyclic GMP-AMP 
+synthase (cGAS), has been linked to Aicardi-Goutières syndrome and mouse models 
+of lupus. The aim of this study was to determine whether the cGAS pathway 
+contributes to type I IFN production in patients with SLE.
+METHODS: SLE disease activity was measured by the Safety of Estrogens in Lupus 
+Erythematosus National Assessment version of the Systemic Lupus Erythematosus 
+Disease Activity Index. Expression of messenger RNA for cGAS and IFN-stimulated 
+genes (ISGs) was determined by quantitative polymerase chain reaction analysis. 
+Cyclic GMP-AMP (cGAMP) levels were examined by multiple reaction monitoring with 
+ultra-performance liquid chromatography tandem mass spectrometry.
+RESULTS: Expression of cGAS in peripheral blood mononuclear cells (PBMCs) was 
+significantly higher in SLE patients than in normal controls (n = 51 and n = 20 
+respectively; P < 0.01). There was a positive correlation between cGAS 
+expression and the IFN score (P < 0.001). The expression of cGAS in PBMCs showed 
+a dose response to type I IFN stimulation in vitro, consistent with it being an 
+ISG. Targeted measurement of cGAMP by tandem mass spectrometry detected cGAMP in 
+15% of the SLE patients (7 of 48) but none of the normal (0 of 19) or rheumatoid 
+arthritis (0 of 22) controls. Disease activity was higher in SLE patients with 
+cGAMP versus those without cGAMP.
+CONCLUSION: Increased cGAS expression and cGAMP in a proportion of SLE patients 
+indicates that the cGAS pathway should be considered as a contributor to type I 
+IFN production. Whereas higher cGAS expression may be a consequence of exposure 
+to type I IFN, detection of cGAMP in patients with increased disease activity 
+indicates potential involvement of this pathway in disease expression.

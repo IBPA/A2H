@@ -1,0 +1,25 @@
+Fibroblast like synoviocyte (FLS) is a crucial in the pathogenesis of rheumatoid 
+arthritis (RA), and involved in inflammation and joint destruction. Sinomenine 
+(SIN), an alkaloid derived from the plant Sinomenium acutum, has 
+anti-inflammatory and analgesic effect and been used for RA treatment in China. 
+Alpha 7 nicotinic acetylcholine receptors (α7nAChR), as the key receptor in 
+cholinergic anti-inflammatory pathway (CAP) to inhibit inflammation, has been 
+detected in RA patients synovium, but its role is still unclear. Here we 
+investigated the association between the aggressive proliferation of FLS and 
+α7nAChR expression and the effect of sinomenine. FLS was isolated from synovial 
+tissues of adjuvant-induced-arthritis (AIA) rat. Tumor necrosis factor(TNF)-α 
+was used to induce the aggressive proliferation of FLS. MTT assay was applied to 
+evaluate the proliferation of FLS. The messenger RNA (mRNA) and protein levels 
+of α7nAChR and early growth response gene-1 (Egr-1) were measured. The results 
+showed that TNF-α induced FLS proliferation in vitro (P < .01) and increased the 
+phosphorylation of ERK1/2 and the expression of Egr-1 and α7nAChR (P < .05 or 
+P < .01). U0126, the inhibitor of ERK1/2 inhibited α7nAChR expression and FLS 
+proliferation significantly (P < .05 or P < .01). Specific short interference 
+RNA(siRNA) of α7nAChR decreased α7nAChR expression and inhibited FLS 
+proliferation as well. SIN inhibited the proliferation of FLS and decreased the 
+phosphorylation of ERK1/2, and the expression of Egr-1 and α7nAChR induced by 
+TNF-α (P < .05). In conclusion, the expression of α7nAChR involved in the 
+aggressive proliferation of FLS induced by TNF-α and was regulated by ERK/Egr-1 
+signal pathway. SIN inhibited FLS proliferation and α7nAChR expression through 
+inhibiting ERK/Egr-1 signal pathway, this may contribute to the 
+anti-inflammatory and anti-arthritic effect of SIN.

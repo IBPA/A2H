@@ -1,0 +1,34 @@
+BACKGROUND & AIMS: Clostridium difficile induces intestinal inflammation by 
+releasing toxins A and B. The antimicrobial compound cationic steroid 
+antimicrobial 13 (CSA13) has been developed for treating gastrointestinal 
+infections. The CSA13-Eudragit formulation can be given orally and releases 
+CSA13 in the terminal ileum and colon. We investigated whether this form of 
+CSA13 reduces C difficile infection (CDI) in mice.
+METHODS: C57BL/6J mice were infected with C difficile on day 0, followed by 
+subcutaneous administration of pure CSA13 or oral administration of 
+CSA13-Eudragit (10 mg/kg/d for 10 days). Some mice were given intraperitoneal 
+vancomycin (50 mg/kg daily) on days 0-4 and relapse was measured after 
+antibiotic withdrawal. The mice were monitored until day 20; colon and fecal 
+samples were collected on day 3 for analysis. Blood samples were collected for 
+flow cytometry analyses. Fecal pellets were collected each day from mice 
+injected with CSA13 and analyzed by high-performance liquid chromatography or 
+16S sequencing; feces were also homogenized in phosphate-buffered saline and fed 
+to mice with CDI via gavage.
+RESULTS: CDI of mice caused 60% mortality, significant bodyweight loss, and 
+colonic damage 3 days after infection; these events were prevented by 
+subcutaneous injection of CSA13 or oral administration CSA13-Eudragit. There was 
+reduced relapse of CDI after administration of CSA13 was stopped. Levels of 
+CSA13 in feces from mice given CSA13-Eudragit were significantly higher than 
+those of mice given subcutaneous CSA13. Subcutaneous and oral CSA13 each 
+significantly increased the abundance of Peptostreptococcaceae bacteria and 
+reduced the abundance of C difficile in fecal samples of mice. When feces from 
+mice with CDI and given CSA13 were fed to mice with CDI that had not received 
+CSA13, the recipient mice had significantly increased rates of survival. CSA13 
+reduced fecal levels of inflammatory metabolites (endocannabinoids) and 
+increased fecal levels of 4 protective metabolites (ie, citrulline, 
+3-aminoisobutyric acid, retinol, and ursodeoxycholic acid) in mice with CDI. 
+Oral administration of these CSA13-dependent protective metabolites reduced the 
+severity of CDI.
+CONCLUSIONS: In studies of mice, we found the CSA13-Eudragit formulation to be 
+effective in eradicating CDI by modulating the intestinal microbiota and 
+metabolites.

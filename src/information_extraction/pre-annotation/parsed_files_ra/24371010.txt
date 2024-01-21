@@ -1,0 +1,21 @@
+Joint damage in rheumatoid arthritis (RA) is characterized by cartilage and bone 
+loss resulting in pain, deformity, and loss of joint function. 
+Anti-citrullinated protein antibody (ACPA) has been implicated in RA 
+pathogenesis and predicts radiographical joint damage and clinical severity. 
+Therefore, the purpose of this study was to assess bone loss by micro-CT, 
+histological joint damage, and ACPA levels using a mouse model of RA. Arthritis 
+was induced by immunizing DBA/1 mice with autologous citrullinated type II mouse 
+collagen (CIT-CII) weekly for 4 weeks. Mice immunized with autologous CII served 
+as controls. At week 5, mice were killed, ACPA levels determined, and micro-CT 
+performed to quantitatively analyze bone damage. Micro-CT analysis revealed 
+significant loss of bone density, volume, and surface (p < 0.05) in bone 
+peripheral to the inflamed joints of CIT-CII animals compared to CII controls. 
+Histological staining demonstrated cartilage, proteoglycan, joint collagen, and 
+bone collagen loss in the CIT-CII group compared to CII. Serum ACPA levels were 
+increased (p = 0.03) in the CIT-CII group compared to CII, and these levels were 
+inversely correlated with bone quantity and quality. In this study, we 
+demonstrate that immunization with autologous CIT-CII initiates significant 
+systemic bone and articular cartilage loss in the absence of adjuvant. 
+Significant inverse correlations of circulating ACPA and bone quality/quantity 
+were present. ACPA levels predict the adverse bone morphological changes in this 
+model of early RA.

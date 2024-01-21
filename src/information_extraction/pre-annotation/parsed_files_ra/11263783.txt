@@ -1,0 +1,26 @@
+OBJECTIVE: In vitro data suggest that the tumor suppressor p53 is critically 
+involved in the regulation of proliferation and apoptosis in fibroblast-like 
+synoviocytes (FLS). Based on evidence that abnormalities in p53 expression and 
+function are found in rheumatoid arthritis (RA), we analyzed whether inhibition 
+of p53 using gene transfer with the human papilloma virus type 18 (HPV-18) E6 
+protein results in an increased cellularity and invasiveness of synovial 
+fibroblasts in vivo.
+METHODS: RA and normal FLS were transduced with a pLXSN-based construct encoding 
+for the HPV-18 E6 protein or with the pLXSN vector alone. After selection with 
+G418, FLS were coimplanted with normal human cartilage under the renal capsule 
+of SCID mice. Parental, nontransduced cells were used as additional controls. 
+After 60 days, the implants were removed, and FLS invasion into the cartilage, 
+perichondrocytic degradation, and cellularity were assessed.
+RESULTS: Nontransduced and mock-transduced RA FLS exhibited characteristic 
+invasion into the cartilage (mean +/- SEM scores 2.2 +/- 0.3 and 2.4 +/- 0.2, 
+respectively). Invasion was increased significantly in the E6-transduced RA FLS 
+(mean score 3.1 +/- 0.3; P < 0.05). Inhibition of p53 also resulted in an 
+increase in cellularity. Parental and mock-transduced normal FLS did not exhibit 
+significant invasion (mean score 1.5 +/- 0.1 and 1.4 +/- 0.3, respectively), but 
+transduction with E6 resulted in clear invasiveness (mean score 2.4 +/- 0.4) as 
+well as increased cellularity.
+CONCLUSIONS: The data suggest that inhibition of endogenous p53 leads to 
+increased invasiveness and cellularity of RA FLS and may also transform normal 
+FLS to cells that display an aggressive, RA FLS-like behavior. Therefore, 
+abnormalities such as somatic mutations in the p53 tumor suppressor may 
+contribute to synovial hyperplasia and invasion in RA.

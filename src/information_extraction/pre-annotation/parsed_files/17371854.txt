@@ -1,0 +1,16 @@
+Clostridium difficile is the leading cause of nosocomial infectious diarrhea. C. 
+difficile produces two toxins (A and B), and systemic and mucosal anti-toxin A 
+antibodies prevent or limit C. difficile-associated diarrhea. To evaluate 
+whether transcutaneous immunization with formalin-treated C. difficile toxin A 
+(CDA) induces systemic and mucosal anti-CDA immune responses, we 
+transcutaneously immunized three cohorts of mice with CDA with or without 
+immunoadjuvantative cholera toxin (CT) on days 0, 14, 28, and 42. Mice 
+transcutaneously immunized with CDA and CT developed prominent anti-CDA and 
+anti-CT immunoglobulin G (IgG) and IgA responses in serum and anti-CDA and 
+anti-CT IgA responses in stool. Sera from immunized mice were able to neutralize 
+C. difficile toxin A activity in an in vitro cell culture assay. CDA itself 
+demonstrated adjuvant activity and enhanced both serum and stool anti-CT IgA 
+responses. Our results suggest that transcutaneous immunization with CDA toxoid 
+may be a feasible immunization strategy against C. difficile, an important cause 
+of morbidity and mortality against which current preventative strategies are 
+failing.

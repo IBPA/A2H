@@ -1,0 +1,22 @@
+BACKGROUND: Antimicrobial susceptibility testing (AST) of Clostridium difficile 
+is increasingly important because of the rise in resistant strains. The standard 
+medium for the AST of C. difficile is supplemented Brucella agar (sBA), but we 
+found that the growth of C. difficile on sBA was not optimal. Because active 
+growth is critical for reliable AST, we developed a new, modified C. difficile 
+(mCD) agar. C. difficile grew better on mCD agar than on sBA.
+METHODS: C. difficile isolates were collected from patients with 
+healthcare-associated diarrhea. sBA medium was prepared according to the CLSI 
+guidelines. Homemade mCD agar containing taurocholate, L-cysteine hydrochloride, 
+and 7% horse blood was used. For 171 C. difficile isolates, we compared the agar 
+dilution AST results from mCD agar with those from sBA.
+RESULTS: No significant differences were observed in the 50% minimal inhibitory 
+concentration (MIC50) and 90% minimal inhibitory concentration (MIC90) of 
+clindamycin (CLI), metronidazole (MTZ), moxifloxacin (MXF), 
+piperacillin-tazobactam (PTZ), and rifaximin (RIX), but the values for 
+vancomycin (VAN) were two-fold higher on mCD agar than on sBA. The MICs of CLI, 
+MXF, and RIX were in 100% agreement within two-fold dilutions, but for MTZ, VAN, 
+and PTZ, 13.7%, 0.6%, and 3.1% of the isolates, respectively, were outside the 
+acceptable range.
+CONCLUSIONS: The MIC ranges, MIC50 and MIC90, were acceptable when AST was 
+performed on mCD agar. Thus, mCD agar could be used as a substitute medium for 
+the AST of C. difficile.

@@ -1,0 +1,31 @@
+Background and Purpose:Polygonum orientale L. (family: Polygonaceae), named 
+Hongcao in China, is a Traditional Chinese Medicinal and has long been used for 
+rheumatic arthralgia and rheumatoid arthritis. However, no pharmacological and 
+mechanism study to confirm these clinic effects have been published. In this 
+investigation, the anti-inflammatory, analgesic effects and representative 
+active ingredient compounds of P. orientale have been studied. Methods: Dried 
+small pieces of the stems and leaves of P. orientale were decocted with water 
+and partitioned successively to obtain ethyl acetate and ethyl ether extract of 
+P. orientale (POEa and POEe). Chemical compositions of them were analyzed by 
+UPLC-Q-Exactive HRMS. Anti-inflammatory and analgesic effects of POEa and POEe 
+were evaluated using xylene induced ear edema, carrageenan induced paw edema, 
+Freunds' complete adjuvant induced arthritis, and formaldehyde induced pain in 
+rat. Their mechanisms of anti-inflammatory and analgesic effects were also 
+studied via assays of TNF-α, IL-1β, IL-6, and PGE2 in serum. Results: 
+UPLC-Q-Exactive HRMS analysis showed that POEa and POEe mainly contained 
+flavonoids including orientin, isoorientin, vitexin, luteolin, and quercetin. 
+Furthermore, anti-inflammatory effects of POEa and POEe were evident in xylene 
+induced ear edema. The paw edema in Freund's complete adjuvant and carrageenan 
+were significantly (P < 0.05, 0.01) inhibited by POEa (5, 7.5 g/kg). POEe (7.5 
+g/kg) was significantly (P < 0.05, 0.01) inhibited Freunds' complete adjuvant 
+induced paw edema and cotton pellet induced granuloma formation. Similarly, POEe 
+significantly (P < 0.05, 0.01) inhibited the pain sensation in acetic acid 
+induced writhing test. POEa (5, 7.5 g/kg) significantly (P < 0.05, 0.01) 
+inhibited formaldehyde induced pain in both phases. POEa (7.5 g/kg) markedly (P 
+< 0.05) prolonged the latency period of hot plate test after 30 and 60 min. The 
+concentrations of TNF-α, IL-1β, IL-6, and PGE2 were significantly (P < 0.01) 
+decreased by POEa (3.75, 5 g/kg). Conclusion: POEa and POEe have 
+anti-inflammatory and analgesic effects, which was mainly relevant to the 
+presence of flavonoids, including orientin, isoorientin, vitexin, luteolin, and 
+quercetin. The mechanism of anti-inflammatory and analgesic effects of POEa may 
+be to decrease the concentrations of TNF-α, IL-1β, IL-6, and PGE2 in serum.

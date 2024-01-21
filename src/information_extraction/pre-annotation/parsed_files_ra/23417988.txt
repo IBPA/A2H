@@ -1,0 +1,27 @@
+OBJECTIVE: Based on previous data that have linked the small ubiquitin-like 
+modifier-1 (SUMO-1) to the pathogenesis of rheumatoid arthritis (RA), we have 
+investigated the expression of the highly homologous SUMO family members 
+SUMO-2/3 in human RA and in the human tumour necrosis factor α transgenic 
+(hTNFtg) mouse model of RA and studied their role in regulating disease specific 
+matrixmetalloproteinases (MMPs).
+METHODS: Synovial tissue was obtained from RA and osteoarthritis (OA) patients 
+and used for histological analyses as well as for the isolation of synovial 
+fibroblasts (SFs). The expression of SUMO-2/3 in RA and OA patients as well as 
+in hTNFtg and wild type mice was studied by PCR, western blot and 
+immunostaining. SUMO-2/3 was knocked down using small interfering RNA in SFs, 
+and TNF-α induced MMP production was determined by ELISA. Activation of nuclear 
+factor-κB (NF-κB) was determined by a luciferase activity assay and a 
+transcription factor assay in the presence of the NF-κB inhibitor BAY 11-7082.
+RESULTS: Expression of SUMO-2 and to a lesser extent of SUMO-3 was higher in RA 
+tissues and RASFs compared with OA controls. Similarly, there was increased 
+expression of SUMO-2 in the synovium and in SFs of hTNFtg mice compared with 
+wild type animals. In vitro, the expression of SUMO-2 but not of SUMO-3 was 
+induced by TNF-α. The knockdown of SUMO-2/3 significantly increased the TNF-α 
+and interleukin (IL)-1β induced expression of MMP-3 and MMP-13, accompanied by 
+increased NF-κB activity. Induction of MMP-3 and MMP-13 was inhibited by 
+blockade of the NF-κB pathway. TNF-α and IL-1β mediated MMP-1 expression was not 
+regulated by SUMO-2/3.
+CONCLUSIONS: Collectively, we show that despite their high homology, SUMO-2/3 
+are differentially regulated by TNF-α and selectively control TNF-α mediated MMP 
+expression via the NF-κB pathway. Therefore, we hypothesise that SUMO-2 
+contributes to the specific activation of RASF.

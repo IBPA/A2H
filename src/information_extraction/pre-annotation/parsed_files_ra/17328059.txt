@@ -1,0 +1,29 @@
+OBJECTIVE: To determine the disease-modifying activity and mechanism of action 
+of the orally available methionine aminopeptidase type 2 inhibitor, 
+[(1R)-1-carbamoyl-2-methyl-propyl]-carbamic 
+acid-(3R,4S,5S,6R)-5-methoxy-4-[(2R,3R)-2-methyl-3-(3-methyl-but-2-enyl)-oxiranyl]-1-oxa-spiro 
+[2.5] oct-6-yl ester (PPI-2458), in a rat model of peptidoglycan-polysaccharide 
+(PG-PS)-induced arthritis.
+METHODS: Arthritis was induced in rats by administration of PG-PS, causing 
+tarsal joint swelling and histopathologic changes characteristic of rheumatoid 
+arthritis (RA). PPI-2458, a potent irreversible methionine aminopeptidase type 2 
+inhibitor, was administered orally every other day at 1, 5, or 10 mg/kg.
+RESULTS: In an in vitro osteoclastogenesis model, PPI-2458 potently inhibited 
+osteoclast differentiation and bone resorption. In the rat PG-PS arthritis 
+model, PPI-2458 afforded significant protection against established disease 
+after therapeutic dosing. This in vivo activity of PPI-2458 was linked to the 
+inhibition of methionine aminopeptidase type 2. Histopathologic assessment of 
+affected joints showed improvement in processes of inflammation, bone 
+resorption, and cartilage erosion, associated with significant improvement in 
+all clinical indices. The protective effects of PPI-2458 against bone 
+destruction in vivo, including the structural preservation of affected hind 
+joints, correlated with improvements in bone histomorphometric markers, as 
+determined by microfocal computed tomography and a significant decrease in 
+systemic C-telopeptide of type I collagen, suggesting decreased osteoclast 
+activity in vivo. Moreover, PPI-2458 prevented cartilage erosion as shown by a 
+significant decrease in systemic cartilage oligomeric matrix protein.
+CONCLUSION: The findings of this study suggest that PPI-2458 exerts 
+disease-modifying activity in experimental arthritis through its direct 
+inhibition of several pathophysiologic processes of this disease. These results 
+provide a rationale for assessing the potential of PPI-2458 as a novel RA 
+therapy.

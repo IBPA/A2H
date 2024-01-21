@@ -1,0 +1,32 @@
+INTRODUCTION: Rheumatoid arthritis (RA) is a chronic disease causing recurring 
+inflammatory joint attacks. These attacks are characterized by macrophage 
+infiltration contributing to joint destruction. Studies have shown that RA 
+treatment efficacy is correlated to synovial macrophage number. The aim of this 
+study was to experimentally validate the use of in vivo superparamagnetic iron 
+oxide nanoparticle (SPION) labeled macrophages to evaluate RA treatment by MRI.
+METHODS: The evolution of macrophages was monitored with and without 
+dexamethasone (Dexa) treatment in rats. Two doses of 3 and 1 mg/kg Dexa were 
+administered two and five days following induction of antigen induced arthritis. 
+SPIONs (7 mg Fe/rat) were injected intravenously and the knees were imaged in 
+vivo on days 6, 10 and 13. The MR images were scored for three parameters: SPION 
+signal intensity, SPION distribution pattern and synovial oedema. Using 3D 
+semi-automated software, the MR SPION signal was quantified. The efficacy of 
+SPIONs and gadolinium chelate (Gd), an MR contrast agent, in illustrating 
+treatment effects were compared. Those results were confirmed through 
+histological measurements of number and area of macrophages and nanoparticle 
+clusters using CD68 immunostaining and Prussian blue staining respectively.
+RESULTS: Results show that the pattern and the intensity of SPION-labeled 
+macrophages on MRI were altered by Dexa treatment. While the Dexa group had a 
+uniform elliptical line surrounding an oedema pocket, the untreated group showed 
+a diffused SPION distribution on day 6 post-induction. Dexa reduced the 
+intensity of SPION signal 50-60% on days 10 and 13 compared to controls 
+(P = 0.00008 and 0.002 respectively). Similar results were found when the signal 
+was measured by the 3D tool. On day 13, the persisting low grade arthritis 
+progression could not be demonstrated by Gd. Analysis of knee samples by 
+Prussian blue and CD68 immunostaining confirmed in vivo SPION uptake by 
+macrophages. Furthermore, CD68 immunostaining revealed that Dexa treatment 
+significantly decreased the area and number of synovial macrophages. Prussian 
+blue quantification corresponded to the macrophage measurements and both were in 
+agreement with the MRI findings.
+CONCLUSIONS: We have demonstrated the feasibility of MRI tracking of in vivo 
+SPION-labeled macrophages to assess RA treatment effects.

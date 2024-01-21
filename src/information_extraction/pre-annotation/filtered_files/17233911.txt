@@ -1,0 +1,21 @@
+Rheumatoid arthritis (RA) is a chronic autoimmune disease of unknown etiology. 
+Effective treatment of this disorder has been hampered by the lack of 
+availability of agents that selectively target affected joint tissue. We 
+developed a novel pH-sensitive drug delivery system of dexamethasone (Dex) based 
+on an N-(2-hydroxypropyl)methacrylamide copolymer (P-Dex) and have shown that 
+the delivery system specifically accumulates in inflamed joints in an animal 
+model of arthritis. We hypothesize that the arthrotropism of the delivery system 
+and the local acidosis-mediated drug release provide superior therapeutic 
+efficacy and potentially reduced side effects in RA treatment. The initial in 
+vitro drug-release study confirmed that the Dex release is indeed dependent upon 
+the environmental pH. At pH 5, 37 degrees C, the conjugate shows the highest 
+level of drug release. When administered systemically in an adjuvant-induced 
+arthritis rat model, P-Dex offers superior and longer-lasting anti-inflammatory 
+effects compared with systemically administered free Dex. In addition, greater 
+bone and cartilage preservation was observed with the P-Dex treatment compared 
+with free Dex treatment. Our data indicate that the differential effect of the 
+conjugate is related to its selective accumulation, potential 
+macrophage-mediated retention, and pH-sensitive drug release (extracellular and 
+intracellular) in arthritic joints. This newly developed drug delivery system 
+provides a unique method for selective targeting of glucocorticoids to inflamed 
+joints which may potentially reduce systemic side effects.

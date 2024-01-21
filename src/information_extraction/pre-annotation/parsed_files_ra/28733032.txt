@@ -1,0 +1,31 @@
+Bones are inflexible yet ever-changing metabolic organs, and bone homeostasis is 
+maintained through two delicately regulated processes: bone construction and 
+bone reabsorption. An imbalance in bone metabolism is linked to most orthopedic 
+diseases, including osteoporosis and rheumatoid arthritis. Importantly, tumor 
+necrosis factor-α (TNF-α) blocks osteoblast differentiation and stimulates 
+osteoclast formation, resulting in delayed deposition of new bone and 
+accelerated bone resorption, especially in rheumatoid arthritis patients with 
+inflammatory conditions. Pilose antler peptide (PAP) isolated and purified from 
+deer antlers has been shown to have beneficial effects on chronic inflammation. 
+In the present study, we studied the impact of PAP on osteoblast differentiation 
+and evaluated the regulatory mechanism, with particular emphasis on the effect 
+of PAP on TNF-α-mediated NF-κB signaling. Mouse primary osteoblast cells were 
+activated with bone morphogenetic protein-2 (BMP-2) for osteoblast 
+differentiation. A significant stimulatory effect of PAP in osteoblastogenesis 
+was observed using ALP activity and Alizarin Red S staining assays. Meanwhile, 
+PAP significantly rescued TNF-α-induced impairment of osteoblast formation as 
+well as mineralization. Furthermore, we found a similar trend upon analyzing 
+osteoblast-specific gene expression. PAP significantly rescued TNF-α-mediated 
+decrease in expression of osteoblast-specific genes. A molecular mechanism assay 
+indicated that PAP significantly inhibited TNF-α-mediated stimulation of NF-κB 
+signaling activity, as well as nuclear translocation of its subunit p65. 
+Moreover, over-expression of p65 reversed the stimulatory effects of PAP on 
+osteoblast differentiation. Furthermore, we also identified that PAP dose 
+dependently inhibit osteoclastogenesis, and this effect might be achieved via 
+suppressing NF-κB activity. In summary, this study shows that PAP promotes 
+osteoblast differentiation and blocks TNF-α-mediated suppression of 
+osteoblastogenesis in vitro via the NF-κB/p65 pathway, as well as inhibits 
+osteoclastsogenesis in vitro. Therefore, PAP, a novel drug with both 
+antiresorptive and osteoanabolic activity, shows therapeutic potential as an 
+alternative treatment for osteolytic diseases, including rheumatoid arthritis 
+and osteoporosis.

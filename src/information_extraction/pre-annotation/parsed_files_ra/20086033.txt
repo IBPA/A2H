@@ -1,0 +1,22 @@
+Diclofenac is an important analgesic and anti-inflammatory drug that is widely 
+used for the treatment of postoperative pain, rheumatoid arthritis, and chronic 
+pain associated with cancer. Diclofenac is extensively metabolized in the liver, 
+and the main metabolites are hydroxylated and/or glucuronidated conjugates. We 
+show here that loss of multidrug resistance protein 2 (MRP2/ABCC2) and breast 
+cancer resistance protein (BCRP/ABCG2) in mice results in highly increased 
+plasma levels of diclofenac acyl glucuronide, after both oral and intravenous 
+administration. The absence of Mrp2 and Bcrp1, localized at the canalicular 
+membrane of hepatocytes, leads to impaired biliary excretion of acyl 
+glucuronides and consequently to elevated liver and plasma levels. Mrp2 also 
+mediates the biliary excretion of two hydroxylated diclofenac metabolites, 
+4'-hydroxydiclofenac and 5-hydroxydiclofenac. We further show that the 
+sinusoidal efflux of diclofenac acyl glucuronide, from liver to blood, is 
+largely dependent on multidrug resistance protein 3 (MRP3/ABCC3). Diclofenac 
+acyl glucuronides are chemically instable and reactive, and in patients, these 
+metabolites are associated with rare but serious idiosyncratic liver toxicity. 
+This might explain why Mrp2/Mrp3/Bcrp1(-/-) mice, which have markedly elevated 
+levels of diclofenac acyl glucuronides in their liver, display acute, albeit 
+very mild, hepatotoxicity. We believe that the handling of diclofenac acyl 
+glucuronides by ATP binding cassette transporters may be representative for the 
+handling of acyl glucuronide metabolites of many other clinically relevant 
+drugs.

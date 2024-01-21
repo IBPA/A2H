@@ -1,0 +1,22 @@
+The KH type splicing regulatory protein (KSRP) is a nucleic acid binding 
+protein, which negatively regulates the stability and/or translatability of many 
+mRNA species encoding immune-relevant proteins. As KSRP is expressed in immune 
+cells including T and B cells, neutrophils, macrophages and dendritic cells, we 
+wanted to analyze its importance for the development of autoimmune diseases. We 
+chose collagen antibody-induced arthritis (CAIA) as an appropriate autoimmune 
+disease mouse model in which neutrophils and macrophages constitute the main 
+effector cell populations. We compared arthritis induction in wild type (WT) and 
+KSRP-/- mice and paws were taken for histological sections and qPCR analysis. 
+Furthermore, we determined the frequencies of spleen immune cells by flow 
+cytometry. Cytokine levels in spleen cell supernatants were determined by 
+cytometric bead array analyses (CBA). After CAIA induction we unexpectedly 
+observed in WT animals much stronger swelling of the paws than in KSRP-/- mice. 
+In accordance, histological staining of paw sections of KSRP-/- animals revealed 
+much lower frequencies of infiltrating immune cells in the joints compared to WT 
+animals. Furthermore, CAIA-treatment resulted in reduced expression of several 
+inflammatory factors (like CXCL-1, iNOS, TNF-α and S100A8) as well as immune 
+cell marker genes (e.g. LFA-1, CD68, Ly6G) in the joints of KSRP-/- mice. Spleen 
+cells of KSRP-/- mice showed lower frequencies of myeloid cells. On cytokine 
+level IFN-γ production was increased in spleen cells of KSRP-/- mice compared to 
+WT samples. These data surprisingly suggest that the absence of KSRP protects 
+against the induction of inflammatory arthritis.

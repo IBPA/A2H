@@ -1,0 +1,21 @@
+Rheumatoid arthritis (RA) is a systemic autoimmune disease, characterized by the 
+irreversible joint destruction resulted from the attack of inflammatory cells to 
+the joints. Recent studies demonstrated that crocin is able to alleviate 
+arthritis and suppress inflammatory responses, implying crocin as a potential 
+promising antiarthritic agent. In this study, we confirmed the effect of crocin 
+on RA and revealed its underlying mechanism by measuring lipopolysaccharides 
+(LPS)-stimulated cytokine production in presence or absence of crocin. The 
+effect of crocin was also tested in vivo using a mouse model of collagen-induced 
+arthritis (CIA). It was found that crocin significantly repressed the 
+LPS-induced expression of tumor necrosis factor (TNF)-α, interleukin (IL)-1β, 
+and IL-6 in human fibroblast-like synoviocytes (FLS). We tested the effect of 
+crocin on nuclear factor-kappa B (NF-κB) signaling and observed that cells 
+pre-treated with 500 μM of crocin exhibited lower levels of LPS-induced p-IκBα, 
+p-IκB kinase (IKK) α/β, and p65 expression than those of untreated cells. In 
+addition, we found when cells were stimulated with IKKβ, crocin pre-treatment 
+showed significantly inhibitory effect on the luciferase activity of IL-1β. In 
+vivo results also showed that crocin treatment dramatically reduced plasma 
+levels of TNF-α, IL-1β, and IL-6 in CIA mice. Crocin is efficient to suppress 
+the productions of TNF-α, IL-6, and IL-1β by blocking NF-κB signal activation 
+through its interaction with IKK, suggesting that crocin could be an efficient 
+treatment for RA.

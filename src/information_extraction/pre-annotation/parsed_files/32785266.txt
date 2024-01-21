@@ -1,0 +1,20 @@
+The intestinal pathogen Clostridioides difficile exhibits heterogeneity in 
+motility and toxin production. This phenotypic heterogeneity is achieved through 
+phase variation by site-specific recombination via the DNA recombinase RecV, 
+which reversibly inverts the "flagellar switch" upstream of the flgB operon. A 
+recV mutation prevents flagellar switch inversion and results in phenotypically 
+locked strains. The orientation of the flagellar switch influences expression of 
+the flgB operon post-transcription initiation, but the specific molecular 
+mechanism is unknown. Here, we report the isolation and characterization of 
+spontaneous suppressor mutants in the non-motile, non-toxigenic recV flg OFF 
+background that regained motility and toxin production. The restored phenotypes 
+corresponded with increased expression of flagellum and toxin genes. The motile 
+suppressor mutants contained single-nucleotide polymorphisms (SNPs) in rho, 
+which encodes the bacterial transcription terminator Rho factor. Analyses using 
+transcriptional reporters indicate that Rho contributes to heterogeneity in 
+flagellar gene expression by preferentially terminating transcription of flg OFF 
+mRNA within the 5' leader sequence. Additionally, Rho is important for initial 
+colonization of the intestine in a mouse model of infection, which may in part 
+be due to the sporulation and growth defects observed in the rho mutants. 
+Together these data implicate Rho factor as a regulator of gene expression 
+affecting phase variation of important virulence factors of C. difficile.

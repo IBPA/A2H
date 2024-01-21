@@ -1,0 +1,28 @@
+OBJECTIVE: Since fibroblasts in the synovium of patients with rheumatoid 
+arthritis (RA) express the serine proteases fibroblast activation protein (FAP) 
+and dipeptidylpeptidase 4 (DPP-4)/CD26, we undertook the current study to 
+determine the functional role of both enzymes in the invasion of RA synovial 
+fibroblasts (RASFs) into articular cartilage.
+METHODS: Expression of FAP and DPP-4/CD26 by RASFs was analyzed using 
+fluorescence-activated cell sorting and immunocytochemistry. Serine protease 
+activity was measured by cleavage of fluorogenic substrates and inhibited upon 
+treatment with L-glutamyl L-boroproline. The induction and expression of matrix 
+metalloproteinases (MMPs) and tissue inhibitors of metalloproteinases (TIMPs) in 
+RASFs were detected using real-time polymerase chain reaction. Densitometric 
+measurements of MMPs using immunoblotting confirmed our findings on the 
+messenger RNA level. Stromal cell-derived factor 1 (SDF-1 [CXCL12]), MMP-1, and 
+MMP-3 protein levels were measured using enzyme-linked immunosorbent assay. The 
+impact of FAP and DPP-4/CD26 inhibition on the invasiveness of RASFs was 
+analyzed in the SCID mouse coimplantation model of RA using 
+immunohistochemistry.
+RESULTS: Inhibition of serine protease activity of FAP and DPP-4/CD26 in vitro 
+led to increased levels of SDF-1 in concert with MMP-1 and MMP-3, which are 
+downstream effectors of SDF-1 signaling. Using the SCID mouse coimplantation 
+model, inhibition of enzymatic activity in vivo significantly promoted invasion 
+of xenotransplanted RASFs into cotransplanted human cartilage. Zones of 
+cartilage resorption were infiltrated by FAP-expressing RASFs and marked by a 
+significantly higher accumulation of MMP-1 and MMP-3, when compared with 
+controls.
+CONCLUSION: Our results indicate a central role for the serine protease activity 
+of FAP and DPP-4/CD26 in protecting articular cartilage against invasion by 
+synovial fibroblasts in RA.

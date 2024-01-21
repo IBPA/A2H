@@ -1,0 +1,17 @@
+Specific delivery of TNF-α antagonist to the inflamed site can increase its 
+efficacy and reduce the side effects. In this study, we constructed a bispecific 
+diabody (BsDb) that targets TNF-α and ED-B-containing fibronectin (B-FN), a 
+fibronectin isoform specifically expressed in the pannus of the inflamed joint 
+in rheumatoid arthritis. BsDb was produced in Escherichia coli as inclusion 
+bodies, purified to homogeneity, and refolded to the functional form. Our data 
+demonstrate that BsDb could simultaneously bind to human TNF-α and B-FN and 
+neutralize TNF-α action. In the collagen-induced arthritis mouse model, we 
+compared the biodistrubtion and therapeutic efficacy of BsDb with those of the 
+anti-TNF-α scFv (TNF-scFv). Similar to TNF-scFv, BsDb penetrated into the 
+synovial tissue quickly, showing a rapid clearance from blood and normal organs. 
+In contrast, BsDb could selectively accumulate and retain in arthritic joints of 
+mice for a long period time, resulting in a much stronger inhibition of 
+arthritis progression in mice than TNF-scFv. The findings described herein 
+indicate that BsDb has a good specificity to the inflamed joint, with low 
+toxicity to normal organs and seems to be an ideal biological agent for the 
+treatment of RA and other chronic inflammatory disease.

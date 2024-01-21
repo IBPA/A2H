@@ -1,0 +1,27 @@
+OBJECTIVES: Antibiotics that are excreted into the intestinal tract and that 
+disrupt the indigenous microbiota may promote infection by Clostridium 
+difficile. We previously demonstrated that oral administration of a 
+proteolysis-resistant, recombinant class A beta-lactamase inactivates ampicillin 
+or piperacillin excreted into the small intestine during parenteral treatment. 
+We hypothesized that oral administration of this beta-lactamase in conjunction 
+with parenteral ampicillin or piperacillin would preserve the colonic 
+microbiota, thus preventing the overgrowth of and toxin production by C. 
+difficile in mice.
+METHODS: Subcutaneous ampicillin, subcutaneous piperacillin or either of these 
+plus oral beta-lactamase or either of these plus tazobactam-inactivated oral 
+beta-lactamase were administered to mice 24 and 12 h prior to harvest of caecal 
+contents. Contents were inoculated with one of four strains of C. difficile, and 
+growth and toxin production were assessed after 24 h of incubation under 
+anaerobic conditions. To assess changes in stool microbiota, denaturing gradient 
+gel electrophoresis (DGGE) of PCR-amplified ribosomal RNA genes was performed.
+RESULTS: Mice treated with ampicillin, piperacillin or either of these plus 
+tazobactam-inactivated oral beta-lactamase developed high-density colonization 
+with C. difficile, whereas those treated with ampicillin or piperacillin plus 
+the beta-lactamase did not. DGGE demonstrated that antibiotic treatment resulted 
+in significant alteration of the indigenous stool microbiota, whereas antibiotic 
+plus beta-lactamase treatment did not.
+CONCLUSIONS: Administration of oral recombinant beta-lactamase preserved the 
+colonic microbiota of mice during parenteral beta-lactam antibiotic treatment 
+and prevented the overgrowth of and toxin production by C. difficile in caecal 
+contents. Oral beta-lactamase therapy may represent a novel approach towards 
+preventing C. difficile infections in healthcare settings.

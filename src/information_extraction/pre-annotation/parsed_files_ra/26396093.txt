@@ -1,0 +1,23 @@
+The CD32a immunoglobulin G (IgG) receptor (Fcγ receptor IIa) is a potential 
+therapeutic target for diseases in which IgG immune complexes (ICs) mediate 
+inflammation, such as heparin-induced thrombocytopenia, rheumatoid arthritis, 
+and systemic lupus erythematosus. Monoclonal antibodies (mAbs) are a promising 
+strategy for treating such diseases. However, IV.3, perhaps the best 
+characterized CD32a-blocking mAb, was recently shown to induce anaphylaxis in 
+immunocompromised "3KO" mice. This anaphylactic reaction required a human CD32a 
+transgene because mice lack an equivalent of this gene. The finding that IV.3 
+induces anaphylaxis in CD32a-transgenic mice was surprising because IV.3 had 
+long been thought to lack the intrinsic capacity to trigger cellular activation 
+via CD32a. Such an anaphylactic reaction would also limit potential therapeutic 
+applications of IV.3. In the present study, we examine the molecular mechanisms 
+by which IV.3 induces anaphylaxis. We now report that IV.3 induces anaphylaxis 
+in immunocompetent CD32a-transgenic "FCGR2A" mice, along with the novel finding 
+that IV.3 and 2 other well-characterized CD32a-blocking mAbs, AT-10 and MDE-8, 
+also induce severe thrombocytopenia in FCGR2A mice. Using recombinant variants 
+of these same mAbs, we show that IgG "Fc" effector function is necessary for the 
+induction of anaphylaxis and thrombocytopenia in FCGR2A mice. Variants of these 
+mAbs lacking the capacity to activate mouse IgG receptors not only failed to 
+induce anaphylaxis or thrombocytopenia, but also very potently protected FCGR2A 
+mice from near lethal doses of IgG ICs. Our findings show that 
+effector-deficient IV.3, AT-10, and MDE-8 are promising candidates for 
+developing therapeutic mAbs to treat CD32a-mediated diseases.

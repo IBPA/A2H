@@ -1,0 +1,22 @@
+ETHNOPHARMACOLOGICAL RELEVANCE: Tripterygium wilfordii multiglycoside (GTW), 
+which is an extract derived from Tripterygium wilfordii Hook.f., has been used 
+for the treatment of rheumatoid arthritis and other immune diseases in China. 
+However, its potential hepatotoxicity has not been completely investigated.
+THE AIM OF THE STUDY: The aim of the study was to determine the hepatotoxicity 
+of GTW in Wistar rats and to investigate the underlying cellular mechanism 
+further by microarray analysis.
+MATERIALS AND METHODS: Doses of GTW at 60, 100 and 120mg/kg/day were 
+administered by oral gavage for subchronic toxicity in Wistar rats. Changes in 
+the hepatic gene expression were identified with oligonucleotide microarrays at 
+the 100-mg/kg/day dose level to study the hepatotoxic mechanism of GTW.
+RESULTS AND CONCLUSIONS: A number of changes in the body weight and food 
+consumption, absolute and relative liver weight, biochemical analysis and 
+histopathology were observed after the subacute exposure to GTW, and a 
+dose-dependent hepatotoxicity was observed. A total of 1312 genes were found to 
+be significantly altered (2-fold, P<0.05), including 582 up-regulated genes and 
+730 down-regulated genes. According to our biological pathway analysis, the GTW 
+resulted in aberrant gene expression in metabolic pathways and the peroxisome 
+proliferator-activated receptor (PPAR) signaling pathway and cellular stress. 
+Real-time PCR analyses of several genes verified these results. Consequently, 
+our gene expression microarray study will be useful for future GTW 
+hepatotoxicity studies.

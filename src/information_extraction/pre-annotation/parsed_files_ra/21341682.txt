@@ -1,0 +1,13 @@
+Through the application of TRAP (target-related affinity profiling), we 
+identified a novel class of heteroaroylphenylureas that inhibit human 
+CCL2-induced chemotaxis of monocytes/macrophages both in vitro and in vivo. This 
+inhibition was concentration-dependent and selective with regard to other 
+chemokines. The compounds, however, did not antagonize the binding of 
+(125)I-labeled CCL2 to the CCR2 receptor nor did they block CCR2-mediated signal 
+transduction responses such as calcium mobilization. Optimization of early leads 
+for potency and pharmacokinetic parameters resulted in the identification of 17, 
+a potent inhibitor of chemotaxis (IC(50) = 80 nM) with excellent oral 
+bioavailability in rats (F = 60%). Compound 17 reduced swelling and joint 
+destruction in two rat models of rheumatoid arthritis and delayed disease onset 
+and produced near complete resolution of symptoms in a mouse model of multiple 
+sclerosis.

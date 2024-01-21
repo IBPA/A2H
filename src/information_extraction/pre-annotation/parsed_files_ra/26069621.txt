@@ -1,0 +1,21 @@
+OBJECTIVE: Apoptosis of chondrocytes in articular cartilage has been observed in 
+rheumatoid arthritis patients. However, molecules involved in such chondrocyte 
+apoptosis in arthritic joints have not been fully understood. We previously 
+observed that apoptosis of chondrocytes is enhanced in a murine arthritis model 
+induced by injection with anti-type II collagen antibodies and 
+lipopolysaccharide (mAbs/LPS), and osteopontin (OPN) deficiency suppresses 
+chondrocyte apoptosis in this arthritis model in vivo. To understand how OPN 
+deficiency renders resistance against chondrocyte apoptosis, we examined the 
+cellular basis for this protection.
+DESIGN: Chondrocytes were prepared from wild-type and OPN-deficient mouse ribs, 
+and tumor necrosis factor (TNF)-α-induced cell death was examined based on 
+lactate dehydrogenase (LDH) release assay and TUNEL assay.
+RESULTS: TNF-α treatment induced LDH release in wild-type chondrocytes, while 
+OPN deficiency suppressed such LDH release in the cultures of these cells. 
+TNF-α-induced increase in the number of TUNEL-positive cells was observed in 
+wild-type chondrocytes, while OPN deficiency in chondrocytes suppressed the 
+TNF-α induction of TUNEL-positive cells. OPN deficiency suppressed TNF-α-induced 
+increase in caspase-3 activity in chondrocytes in culture. Furthermore, OPN 
+overexpression in chondrocytes enhanced TNF-α-induced apoptosis.
+CONCLUSION: These results indicated that the presence of OPN in chondrocytes is 
+involved in the susceptibility of these cells to TNF-α-induced apoptosis.

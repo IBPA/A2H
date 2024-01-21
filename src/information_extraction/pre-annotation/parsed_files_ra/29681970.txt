@@ -1,0 +1,20 @@
+As a traditional Mongolian medicine, Sendeng-4 (SD) has been widely used to 
+treat rheumatoid arthritis (RA) in Inner Mongolia and exhibits a good curative 
+effect. Unfortunately, due to geographical factors, it is difficult to 
+popularize this drug throughout the whole country, and the mechanism of action 
+of SD has been unclear. In this study, a serum metabolite profile analysis was 
+performed to identify potential biomarkers associated with adjuvant-induced RA 
+and investigate the mechanism of action of SD. Ultraperformance liquid 
+chromatography coupled with quadrupole time-of-flight mass spectrometry 
+(UPLC-Q-TOF-MS) was performed for the metabonomics analysis. K nearest neighbor 
+(KNN) models were established in both positive and negative spectra for 
+classifying data from the control, model, and SD administration groups. Accuracy 
+rate for classification was 95.8% in positive ion mode and 91.7% in negative ion 
+mode. Orthogonal partial least squares discriminant analysis (OPLS-DA) enabled 
+the identification of 12 metabolites as potential biomarkers of adjuvant-induced 
+RA. After treatment with SD, the levels of uridine triphosphate, calcitroic 
+acid, dynorphin B (6-9), and docosahexaenoic acid were restored to normal, 
+indicating that SD likely ameliorated RA by regulating the levels of these 
+biomarkers. This study identified early biomarkers of RA and elucidated the 
+underlying mechanism of action of SD, which is worth further investigation for 
+development as a clinical therapy.

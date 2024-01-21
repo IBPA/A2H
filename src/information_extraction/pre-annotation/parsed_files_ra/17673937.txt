@@ -1,0 +1,22 @@
+T cells have a central role in the pathogenesis of autoimmune arthritis, and 
+several abnormalities in T cell homeostasis have been described in rheumatoid 
+arthritis (RA). We hypothesized that T cell phenotypes, including frequencies of 
+different subsets of T regulatory (Treg) cells and in vitro functional responses 
+could be genetically determined. Furthermore, we considered that the genetic 
+contribution would be accounted for by one of the arthritis regulatory 
+quantitative trait loci (QTL), thus providing novel clues to gene mode of 
+action. T cells were isolated from thymus, peripheral blood, and spleen from DA 
+(arthritis-susceptible) and ACI and F344 (arthritis-resistant) strains and from 
+F344.DA(Cia1), DA.F344(Cia5a), and DA.F344(Cia5d) rats congenic for arthritis 
+QTL. T cell subpopulations differed significantly between DA, F344, and ACI. DA 
+rats had an increased frequency of CD4(+) cells, and a reduction in CD8(+) and 
+CD4(+)CD45RC(|o) Treg cells, compared with F344. The differences in CD4/CD8 and 
+CD4(+)CD45RC(|o) Treg cells were accounted for by Cia5a. DA rats also had a 
+reduced frequency of CD8(+)CD45RC(|o) CD25(+) Treg cells compared with F344, and 
+that difference was explained by Cia5d. DA rats also had a significantly lower 
+frequency of CD4(+)CD25(+) and CD8(+)CD25(+) thymocytes, and of peripheral blood 
+CD8(+)CD45RC(|o) Treg cells, compared with F344 rats, and that difference was 
+accounted for by the MHC. This is the first identification of arthritis severity 
+QTL regulating numbers of CD4(+)CD45RC(|o) (Cia5a) and CD8(+)CD45RC(|o) CD25(+) 
+(Cia5d) Treg cells. The MHC effect on CD8(+) Treg cells and CD25(+) thymocytes 
+raises a novel potential explanation for its association with arthritis.

@@ -1,0 +1,23 @@
+There is a compelling need for more effective vaccine adjuvants to augment 
+induction of Ag-specific adaptive immune responses. Recent reports suggested the 
+bacterial second messenger bis-(3'-5')-cyclic-dimeric-guanosine monophosphate 
+(c-di-GMP) acts as an innate immune system modulator. We recently incorporated a 
+Vibrio cholerae diguanylate cyclase into an adenovirus vaccine, fostering 
+production of c-di-GMP as well as proinflammatory responses in mice. In this 
+study, we recombined a more potent diguanylate cyclase gene, VCA0848, into a 
+nonreplicating adenovirus serotype 5 (AdVCA0848) that produces elevated amounts 
+of c-di-GMP when expressed in mammalian cells in vivo. This novel platform 
+further improved induction of type I IFN-β and activation of innate and adaptive 
+immune cells early after administration into mice as compared with control 
+vectors. Coadministration of the extracellular protein OVA and the AdVCA0848 
+adjuvant significantly improved OVA-specific T cell responses as detected by 
+IFN-γ and IL-2 ELISPOT, while also improving OVA-specific humoral B cell 
+adaptive responses. In addition, we found that coadministration of AdVCA0848 
+with another adenovirus serotype 5 vector expressing the HIV-1-derived Gag Ag or 
+the Clostridium difficile-derived toxin B resulted in significant inhibitory 
+effects on the induction of Gag and toxin B-specific adaptive immune responses. 
+As a proof of principle, these data confirm that in vivo synthesis of c-di-GMP 
+stimulates strong innate immune responses that correlate with enhanced adaptive 
+immune responses to concomitantly administered extracellular Ag, which can be 
+used as an adjuvant to heighten effective immune responses for protein-based 
+vaccine platforms against microbial infections and cancers.

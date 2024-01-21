@@ -1,0 +1,30 @@
+The increased incidence of Clostridioides difficile infection (CDI) and the 
+emergence of highly virulent types highlight the need of microbiological 
+characterization to gain insight CDI epidemiological changes. This paper, 
+reporting data obtained by the Istituto Superiore di Sanità Central Laboratory 
+Service for C. difficile (ISS-CLSCD) in 2006-2016, provides a first long-term 
+microbiological analysis of human and animal C. difficile strains circulating in 
+Italy. The number of human isolates analyzed by ISS-CLSCD significantly 
+increased over the time (170 in 2006-2011 vs 661 in 2012-2016). Independently 
+from the year of isolation, 42% of the clinical isolates belonged to the 
+PCR-ribotype (RT) 018-lineage (RT 018, RT 607, RT 541, PR07661 and PR14328), 
+with RT 018 and RT 607 grouping the majority of isolates. This lineage was 
+significantly associated to CDIs occurred in the General Medicine Units, Clinic 
+Units or Long-Term Care Facilities, while it was rarely found in pediatric 
+patients. Although the percentage of isolates positive for the binary toxin 
+(CDT) was stable during the study (20%), several CDT-positive RTs emerged in 
+2012-2016, including RT 027. In total, 32 RTs overlapped between animals and 
+humans and six of these RTs were non-toxigenic. The two lineages prevalent in 
+animals, the RT 078-lineage and the RT 569-lineage (RT 569, RT 049, RT 056 and 
+RT 727), were also found in humans, while the RT 018-lineage was rarely detected 
+in animals, suggesting that it is prevalently associated to human infections. 
+Sixty-two percent of clinical isolates showed a multidrug-resistance (MDR) 
+phenotype, with resistance to rifampicin characterizing successful RTs. A MDR 
+phenotype was also observed in 18% of animal isolates, in particular from dogs, 
+supporting animals as potential reservoirs of resistant C. difficile strains. 
+Interestingly, multiple resistances were observed in both human and animal 
+non-toxigenic isolates suggesting their contribution to antibiotic resistance 
+spread among C. difficile population. All these data indicate that CDI is an 
+issue of growing concern in Italy, highlighting the need for a standardized 
+surveillance in our Country and an interdisciplinary approach to deal 
+successfully with this infection.

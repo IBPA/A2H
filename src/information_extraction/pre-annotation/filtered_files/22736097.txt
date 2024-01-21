@@ -1,0 +1,26 @@
+OBJECTIVES: Patients with rheumatoid arthritis (RA) have a reduced life 
+expectancy due to increased cardiovascular disease. The lack of a suitable 
+animal model resembling both RA and atherosclerosis has hindered studies 
+demonstrating a direct link between systemic inflammation in RA and the 
+development of atherosclerosis. Our objective was to overcome this barrier by 
+generating an animal model (K/BxA(g7)) that spontaneously develops both RA-like 
+disease and atherosclerosis.
+METHODS: Arthritis severity was evaluated using clinical indices and 
+immunohistochemical staining of ankle joint specimens. Aortic atherosclerosis 
+was delineated via Sudan IV staining and immunohistochemical analysis. Serum 
+cholesterol and lipoprotein levels were measured using enzymatic assays. Serum 
+levels of cytokines, chemokines and adipokines were determined by Luminex 
+assays.
+RESULTS: K/BxA(g7) mice developed a destructive arthropathy followed by 
+prominent aortic atherosclerosis. These animals also displayed dyslipidaemia, 
+characterised by reduced serum levels of total cholesterol and high-density 
+lipoprotein, and increased low-density lipoprotein (LDL)/vLDL compared with 
+control mice. Further, there were higher levels of circulating inflammatory 
+mediators, such as interleukin-6, sRANKL and CCL5 in atherosclerotic K/BxA(g7) 
+mice compared with controls. Treatment with etanercept reduced arthritis and 
+atherosclerosis development in K/BxA(g7) mice.
+CONCLUSIONS: K/BxA(g7) mice recapitulate the same sequence of events occurring 
+in patients with RA, namely an erosive, inflammatory arthritis followed by 
+atherosclerosis. These data suggest that the K/BxA(g7) mouse is a novel system 
+for investigating the interplay between systemic inflammation occurring in RA 
+and the development of atherosclerosis.

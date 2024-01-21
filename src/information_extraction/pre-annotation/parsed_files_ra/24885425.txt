@@ -1,0 +1,22 @@
+BACKGROUND: The DA rat strain is particularly susceptible to the induction of a 
+number of chronic inflammatory diseases, such as models for rheumatoid arthritis 
+and multiple sclerosis. Here we sequenced the genomes of two DA sub-strains and 
+two disease resistant strains, E3 and PVG, previously used together with DA 
+strains in genetically segregating crosses.
+RESULTS: The data uncovers genomic variations, such as single nucleotide 
+variations (SNVs) and copy number variations that underlie phenotypic 
+differences between the strains. Comparisons of regional differences between the 
+two DA sub-strains identified 8 genomic regions that discriminate between the 
+strains that together cover 38 Mbp and harbor 302 genes. We analyzed 10 
+fine-mapped quantitative trait loci and our data implicate strong candidates for 
+genetic variations that mediate their effects. For example we could identify a 
+single SNV candidate in a regulatory region of the gene Il21r, which has been 
+associated to differential expression in both rats and human MS patients. In the 
+APLEC complex we identified two SNVs in a highly conserved region, which could 
+affect the regulation of all APLEC encoded genes and explain the polygenic 
+differential expression seen in the complex. Furthermore, the non-synonymous SNV 
+modifying aa153 of the Ncf1 protein was confirmed as the sole causative factor.
+CONCLUSION: This complete map of genetic differences between the most commonly 
+used rat strains in inflammation research constitutes an important reference in 
+understanding how genetic variations contribute to the traits of importance for 
+inflammatory diseases.

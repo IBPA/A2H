@@ -1,0 +1,16 @@
+Activator protein 1 (AP-1) (Fos/Jun) is a transcriptional regulator composed of 
+members of the Fos and Jun families of DNA binding proteins. The functions of 
+AP-1 were initially studied in mouse development as well as in the whole 
+organism through conventional transgenic approaches, but also by gene targeting 
+using knockout strategies. The importance of AP-1 proteins in disease pathways 
+including the inflammatory response became fully apparent through conditional 
+mutagenesis in mice, in particular when employing gene inactivation in a 
+tissue-specific and inducible fashion. Besides the well-documented roles of Fos 
+and Jun proteins in oncogenesis, where these genes can function both as tumor 
+promoters or tumor suppressors, AP-1 proteins are being recognized as regulators 
+of bone and immune cells, a research area termed osteoimmunology. In the present 
+article, we review recent data regarding the functions of AP-1 as a regulator of 
+cytokine expression and an important modulator in inflammatory diseases such as 
+rheumatoid arthritis, psoriasis and psoriatic arthritis. These new data provide 
+a better molecular understanding of disease pathways and should pave the road 
+for the discovery of new targets for therapeutic applications.

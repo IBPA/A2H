@@ -1,0 +1,16 @@
+We found that a novel compound, R-130823 
+{2-(4-fluorophenyl)-4-(1-phenethyl-1,2,3,6-tetrahydropyridin-4-yl)-3-(pyridin-4-yl)-1H-pyrrole}, 
+had highly selective inhibition against mitogen-activated protein kinase 
+p38alpha (IC50=22 nM). The release of tumor necrosis factor-alpha, 
+interleukin-1beta, -6 and -8 was inhibited in lipopolysaccharide-stimulated 
+human blood pretreated by R-130823, with IC50 values of 0.089, 0.066, 0.95 and 
+0.16 microM, respectively. R-130823 reduced the established hind paw swelling in 
+rat adjuvant-induced arthritis, while methotrexate showed no suppression. In the 
+same model, R-130823 ameliorated adjuvant-induced hyperalgesia with rapid onset 
+and long duration comparable to a cyclooxygenase-2 inhibitor, celecoxib. In 
+murine collagen-induced arthritis, R-130823 blocked the progress of arthritis 
+when administered just after the onset of the arthritis. Histological analysis 
+of the knee joints showed that proliferation of fibroblasts and synoviocytes and 
+infiltration of neutrophils were ameliorated. In conclusion, R-130823 is 
+expected to be an efficacious treatment for rheumatoid arthritis by blocking the 
+p38 pathway.

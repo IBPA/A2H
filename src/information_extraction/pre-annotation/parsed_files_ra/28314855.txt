@@ -1,0 +1,21 @@
+Inflammatory bone resorption mediated by osteoclasts is a major cause of 
+morbidity and disability in many inflammatory disorders, including rheumatoid 
+arthritis (RA). The mechanisms that regulate osteoclastogenesis and bone 
+resorption in inflammatory settings are complex and have not been well 
+elucidated. In this study, we identify the immunoregulator differentially 
+expressed in FDCP 6 homolog (Def6) as a novel inhibitor of osteoclastogenesis in 
+physiological and inflammatory conditions. Def6 deficiency in Def6-/- mice 
+enhanced the sensitivity of osteoclast precursors to the physiological 
+osteoclastogenic inducer receptor activator for NF-κB ligand, and Def6-/- 
+osteoclasts formed actin rings. Furthermore, Def6 deficiency markedly increased 
+TNF-α-induced osteoclastogenesis in vitro and in vivo and enhanced bone 
+resorption in an inflammatory osteolysis mouse model. TNF-α serum levels 
+correlated negatively with Def6 expression levels in osteoclast precursors 
+obtained from RA patients, and the osteoclastogenic capacity of the osteoclast 
+precursors was significantly inversely correlated with their Def6 expression 
+levels, indicating that Def6 functions as an inhibitor of excessive osteoclast 
+formation and bone destruction in RA. Mechanistically, Def6 suppressed 
+osteoclastogenesis and the expression of key osteoclastogenic factors NFATc1, B 
+lymphocyte-induced maturation protein-1, and c-Fos by regulating an endogenous 
+IFN-β-mediated autocrine feedback loop. The Def6-dependent pathway may represent 
+a novel therapeutic target to prevent pathological bone destruction.

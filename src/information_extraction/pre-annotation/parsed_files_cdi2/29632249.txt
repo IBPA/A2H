@@ -1,0 +1,15 @@
+Clostridium difficile infection (CDI) is a leading cause of nosocomial and 
+antibiotic-associated diarrhea. A vaccine, based on formalin-inactivated toxins 
+A and B purified from anaerobic cultures of C. difficile strain VPI 10463 
+(toxinotype 0), has been in development for the prevention of symptomatic CDI. 
+We evaluated the breadth of protection conferred by this C. difficile toxoid 
+vaccine in cross-neutralization assessments using sera from vaccinated hamsters 
+against a collection of 165 clinical isolates. Hamster antisera raised against 
+the C. difficile toxoid vaccine neutralized the cytotoxic activity of culture 
+supernatants from several toxinotype 0 strains and heterologous strains from 10 
+different toxinotypes. Further assessments performed with purified toxins 
+confirmed that vaccine-elicited antibodies can neutralize both A and B toxins 
+from a variety of toxinotypes. In the hamster challenge model, the vaccine 
+conferred significant cross-protection against disease symptoms and death caused 
+by heterologous C. difficile strains from the most common phylogenetic clades, 
+including the most prevalent toxinotypes.

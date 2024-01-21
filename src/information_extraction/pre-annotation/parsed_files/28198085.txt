@@ -1,0 +1,17 @@
+Clostridium difficile is a major cause of diarrhoea associated with 
+antibiotherapy. Exposed to stresses in the gut, C. difficile can survive by 
+inducing protection, detoxification and repair systems. In several firmicutes, 
+most of these systems are controlled by the general stress response involving σB 
+. In this work, we studied the role of σB in the physiopathology of C. 
+difficile. We showed that the survival of the sigB mutant during the stationary 
+phase was reduced. Using a transcriptome analysis, we showed that σB controls 
+the expression of ∼25% of genes including genes involved in sporulation, 
+metabolism, cell surface biogenesis and the management of stresses. By contrast, 
+σB does not control toxin gene expression. In agreement with the up-regulation 
+of sporulation genes, the sporulation efficiency is higher in the sigB mutant 
+than in the wild-type strain. sigB inactivation also led to increased 
+sensitivity to acidification, cationic antimicrobial peptides, nitric oxide and 
+ROS. In addition, we showed for the first time that σB also plays a crucial role 
+in oxygen tolerance in this strict anaerobe. Finally, we demonstrated that the 
+fitness of colonisation by the sigB mutant is greatly affected in a dixenic 
+mouse model of colonisation when compared to the wild-type strain.

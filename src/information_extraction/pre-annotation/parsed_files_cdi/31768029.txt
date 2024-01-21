@@ -1,0 +1,18 @@
+Clostridioides (formerly Clostridium) difficile is a leading cause of 
+healthcare-associated infections. Although considerable progress has been made 
+in the understanding of its genome, the epigenome of C. difficile and its 
+functional impact has not been systematically explored. Here, we perform a 
+comprehensive DNA methylome analysis of C. difficile using 36 human isolates and 
+observe a high level of epigenomic diversity. We discovered an orphan DNA 
+methyltransferase with a well-defined specificity, the corresponding gene of 
+which is highly conserved across our dataset and in all of the approximately 300 
+global C. difficile genomes examined. Inactivation of the methyltransferase gene 
+negatively impacts sporulation, a key step in C. difficile disease transmission, 
+and these results are consistently supported by multiomics data, genetic 
+experiments and a mouse colonization model. Further experimental and 
+transcriptomic analyses suggest that epigenetic regulation is associated with 
+cell length, biofilm formation and host colonization. These findings provide a 
+unique epigenetic dimension to characterize medically relevant biological 
+processes in this important pathogen. This study also provides a set of methods 
+for comparative epigenomics and integrative analysis, which we expect to be 
+broadly applicable to bacterial epigenomic studies.

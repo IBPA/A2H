@@ -1,0 +1,20 @@
+The nucleotide binding domain and leucine-rich repeat pyrin 3 domain (NLRP3) 
+inflammasome/interleukin (IL)-1β axis serves an essential role in regulating the 
+development of rheumatoid arthritis (RA). The dysregulation of cellular 
+metabolism, such as mitochondrial dysfunction, results in the activation of the 
+NLRP3 inflammasome. microRNA (miR)‑33 has previously been identified to be a 
+regulator of lipid metabolism and mitochondrial function. However, whether 
+miR‑33 regulates the NLRP3 inflammasome/IL‑1β axis remains unknown. In the 
+present study, it was observed that an miR‑33 mimic or anti‑miR‑33 markedly 
+stimulated or inhibited, respectively, IL‑1β protein expression levels in mouse 
+peritoneal macrophages. Mechanistically, miR‑33 upregulated the expression of 
+NLRP3 mRNA and protein as well as caspase‑1 activity in primary macrophages. In 
+addition, the results demonstrated that miR‑33 impaired mitochondrial oxygen 
+consumption rates, resulting in the accumulation of cellular reactive oxygen 
+species, which stimulated NLRP3 expression, caspase‑1 activity and IL‑1β 
+secretion. The results of the present study demonstrated that miR‑33 levels and 
+NLRP3 inflammasome activity were increased in peripheral blood monocytes from 
+patients with RA patients compared with healthy donors. In conclusion, the 
+present study identified miR‑33 to be a positive regulator of the NLRP3 
+inflammasome in macrophages. The miR‑33/NLRP3 inflammasome pathway may therefore 
+be involved in RA development.

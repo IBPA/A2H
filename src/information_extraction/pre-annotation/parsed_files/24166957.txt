@@ -1,0 +1,18 @@
+The role of leptin in the mucosal immune response to Clostridium difficile 
+colitis, a leading cause of nosocomial infection, was studied in humans and in a 
+murine model. Previously, a mutation in the receptor for leptin (LEPR) was shown 
+to be associated with susceptibility to infectious colitis and liver abscess due 
+to Entamoeba histolytica as well as to bacterial peritonitis. Here we discovered 
+that European Americans homozygous for the same LEPR Q223R mutation (rs1137101), 
+known to result in decreased STAT3 signaling, were at increased risk of C. 
+difficile infection (odds ratio, 3.03; P = 0.015). The mechanism of increased 
+susceptibility was studied in a murine model. Mice lacking a functional leptin 
+receptor (db/db) had decreased clearance of C. difficile from the gut lumen and 
+diminished inflammation. Mutation of tyrosine 1138 in the intracellular domain 
+of LepRb that mediates signaling through the STAT3/SOCS3 pathway also resulted 
+in decreased mucosal chemokine and cell recruitment. Collectively, these data 
+support a protective mucosal immune function for leptin in C. difficile colitis 
+partially mediated by a leptin-STAT3 inflammatory pathway that is defective in 
+the LEPR Q223R mutation. Identification of the role of leptin in protection from 
+C. difficile offers the potential for host-directed therapy and demonstrates a 
+connection between metabolism and immunity.

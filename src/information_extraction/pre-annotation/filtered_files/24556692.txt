@@ -1,0 +1,22 @@
+It is generally believed that some inflammatory antigens can recognize Toll-like 
+receptors on synovial fibroblasts (SFs) and then activate downstream signals, 
+leading to the formation of RASFs and inducing rheumatoid arthritis (RA). The 
+objective of the current work was to study on the hypothesis that outer PAMP 
+(LPS) binds to the inner DAMP (HMGB1) and becomes a complex that recognizes 
+TLRs/RAGE on SFs, thus initiating a signaling cascade that leads to the 
+secretion of inflammatory cytokines and chemokines, production of 
+tissue-destructive enzymes, and formation of RASFs, finally resulting in RA. 
+Osteoarthritis synovial fibroblasts (OASFs) were co-cultured with HMGB1-LPS 
+complex in vitro for five generations to induce the transformation of human SFs 
+to RA-like SFs (tOASFs). Then, changes of tOASFs in cell cycle and 
+apoptosis-autophagy balance were investigated in vitro, and the pathogenicity of 
+tOASFs was evaluated in a SCID mouse model in vivo. In vitro cell cycle analysis 
+showed more tOASFs passing through the G1/S checkpoint and moving to S or G2 
+phase. Flow cytometry and confocal microscopy showed that apoptosis was reduced 
+and autophagy was enhanced significantly in tOASFs as compared with those in 
+OASFs. The expression of certain receptors and adhesion molecules in tOASFs was 
+upregulated. In vivo experiments showed that tOASFs attached to, invaded, and 
+degraded the co-implanted cartilage. In addition, histochemistry showed 
+excessive proliferation of tOASFs and the expression of matrix 
+metalloproteinases (MMPs). Based on the above findings, we conclude that 
+HMGB1-LPS complex could promote the formation of RASFs.

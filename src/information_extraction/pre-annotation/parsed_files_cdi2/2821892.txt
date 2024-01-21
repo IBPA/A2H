@@ -1,0 +1,5 @@
+LY146032, an acidic lipopeptide antibiotic which inhibits the biosynthesis of 
+cell wall peptidoglycan, was found to be effective in delaying death in a 
+hamster model of pseudomembranous colitis. A dose of 0.05 mg/day was effective. 
+The equivalent protection with vancomycin required a dose 100-fold higher, i.e., 
+5 mg/day.

@@ -1,0 +1,20 @@
+BACKGROUND Salvianolic acid B (SB) is a major active phyto-component of the 
+plant Radix Salvia miltiorrhiza, which is traditionally used to treat joint pain 
+and arthritis. The present study examined the anti-rheumatoid arthritis efficacy 
+of SB on collagen-induced rheumatoid arthritis (CIA) in a rat model. MATERIAL 
+AND METHODS Forty-eight rats were divided into 4 groups: Control rats treated 
+with saline (Group I), rats subjected to CIA induction by intradermal injection 
+of bovine collagen II type at the tail (Group II), and rats subjected to CIA and 
+supplemented with either 20 or 40 mg/kg of SB for 28 days (group III or IV). 
+RESULTS Paw swelling, edema, arthritis score, thymus and spleen indexes, and 
+neutrophil infiltration were significantly decreased (p<0.01) by treatment with 
+20 or 40 mg/kg of SB. The levels of inflammatory cytokines (interleukin-1β, -6, 
+and -17, and TNF-α) and anti-collagen II-specific immunoglobulins (IgG1 and 
+IgG2a) were markedly decreased (p<0.01), and those of antioxidant enzymes (SOD, 
+CAT, and GSH) were significantly increased (p<0.01) in SB-treated rats. 
+Administration with SB (20 or 40 mg/kg) resulted in lower phosphorylated IkB-a 
+and NF-κB p65 protein levels and markedly downregulated IκB-a expression. 
+Furthermore, CIA rats revealed the presence of highly diffused polymorphonuclear 
+cells (PMNs) infiltration with eroded cartilage; however, these phenomena were 
+considerably ameliorated by SB. CONCLUSIONS SB alleviates oxidative stress and 
+inflammation in CIA rats, thus verifying its anti-rheumatoid arthritis property.

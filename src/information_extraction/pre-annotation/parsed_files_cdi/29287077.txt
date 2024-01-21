@@ -1,0 +1,23 @@
+BACKGROUND: It has been suggested that the high incidence of ribotype 078 
+Clostridium difficile infections (CDI) in the Netherlands is related to pig 
+farming.
+METHODS: We used data of hospitalised CDI patients (>2yrs of age) diagnosed 
+between May 2009 and May 2015 in 26 hospitals participating in a national 
+sentinel surveillance. We compared clinical and geographical characteristics of 
+078 CDI to other CDI. We investigated the association between 078 CDI incidence 
+and four indicators of pig farming (piglet, pig, piglet farm and pig farm 
+density) by mixed-effects Poisson regression. We used a space-time permutation 
+model to search for community-onset 078 CDI clusters (using SaTScan).
+RESULTS: A total of 4,691 CDI were identified. Ribotype 078 was isolated in 493 
+of 3,756 patients (13.1%) including a typing result. These patients had slightly 
+higher community-onset disease and a 35% increase of 30-day mortality compared 
+to non-078 CDI patients. The pooled overall and 078 incidence rates were 2.82 
+(95% CI, 2.42-3.29) and 0.26 (95% CI, 0.21-0.31) CDI per 10,000 patients-days 
+respectively. Hospital 078 CDI incidence was not associated with provincial pig 
+(IRR, 0.98; 95% CI, 0.89-1.08), piglet (IRR, 0.95; 95% CI, 0.75-1.19), pig farm 
+(IRR, 1.08; 95% CI, 0.84-1.39), or piglet farm density (IRR, 1.00; 95% CI, 
+0.56-1.79). No clusters of community-onset ribotype 078 CDI were found.
+CONCLUSIONS: Our results do not indicate that the ribotype 078 CDI incidence in 
+hospitals is related to pig (farm) or piglet (farm) density. However, 
+transmission beyond provincial borders or in non-hospitalised patients cannot be 
+excluded.

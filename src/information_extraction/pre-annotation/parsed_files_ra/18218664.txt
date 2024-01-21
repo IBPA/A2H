@@ -1,0 +1,24 @@
+OBJECTIVES: The evaluation of joints in arthritis using conventional 
+ultrasonography is not really feasible in mice because of the small size of the 
+animal. However, compared with classical analysis (clinical and histological 
+examination) it is a non-invasive method that allows follow-up of the same 
+animal throughout the whole experiment. Moreover, power Doppler allows the study 
+of blood flow that reflects inflammatory activity within the synovium of 
+arthritic joints. Our aim was to determine whether ultrasonography analysis 
+could accurately detect arthritis lesions in a mouse model of rheumatoid 
+arthritis, namely collagen-induced arthritis.
+METHODS: Collagen-induced arthritis was induced in 28 mice by immunising with 
+collagen type II. Every week for 8 weeks, ultrasonography and Doppler analysis 
+were performed on knees and ankles of all mice using the ultrasound 
+biomicroscope (UBM), which is particularly dedicated to studying the mouse. 
+Clinical and histological evaluations were performed as usual.
+RESULTS: We established a semiquantitative analysis by setting an UBM scoring. 
+UBM grades were correlated to clinical and histological scores of arthritis. 
+Vascularisation within the synovium could be estimated by power Doppler analysis 
+and a semiquantitative vascularisation scale was established, which allowed us 
+to show a good correlation between vascularisation scores and histological or 
+clinical scores of arthritis.
+CONCLUSIONS: This is one of the first studies that shows it is possible to 
+visualise a selected set of joints in a small animal using UBM analysis. It 
+provides new perspectives in evaluating experimental models of rheumatoid 
+arthritis and other joint diseases.

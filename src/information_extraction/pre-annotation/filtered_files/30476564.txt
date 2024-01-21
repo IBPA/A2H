@@ -1,0 +1,33 @@
+Collagen type II-induced arthritis (CIA) in Dark Agouti rats, a model of 
+rheumatoid arthritis (RA), reproduces sexual dimorphism in the incidence and 
+severity of the human disease. Th17 cells are central in the 
+induction/propagation of autoimmune inflammation in CIA and RA. To assess 
+mechanisms underlying this dimorphism in CIA rats, in lymph nodes draining 
+inflamed joints and adjacent tissues (dLNs) from CIA rats of both sexes 
+Th17/CD25+Foxp3+CD4+ T-regulatory cell (Treg) ratio, Th17 cell redifferentiation 
+in functionally distinct subsets and Treg transdifferentiation into 
+IL-17-producing cells (exTregs) were examined. In female rats (developing more 
+severe CIA than their male counterparts) the higher frequency of all Th17 cells 
+(reflecting partly their greater proliferation), followed by the higher 
+frequency of highly pathogenic IFN-γ/GM-CSF-co-producing cells, but lower 
+frequency of less pathogenic/immunoregulatory IL-10-producing cells among them 
+was found. Additionally, compared with male rats, in female rats the lower 
+frequency of Tregs was observed. Moreover, Tregs from female rats exhibited 
+diminished proliferative and suppressive capacity (judging by PD-1 expression) 
+and enhanced conversion into IL-17-producing cells. Given that TGF-β 
+concentration was comparable in collagen-type II-stimulated dLN cell cultures 
+from female and male rats, the shift in Th17/Treg ratio followed by augmented 
+Th17 cell redifferentiation into IFN-γ/GM-CSF-co-producing cells and Treg 
+transdifferentiation into IL-17-producing cells in female rats was associated 
+with increased concentration of IL-6 in female rat dLN cell cultures, and the 
+higher frequency of IL-1β- and IL-23-producing cells among their dLN cells. The 
+lower frequency of IL-10-producing B cells, presumably B regulatory cells 
+(Bregs) could also contribute to the shift in Th17/Treg ratio in female rat 
+compared with male rat dLNs. Consistently, the lower expression of IL-35 (the 
+cytokine promoting Treg expansion directly and indirectly, by favoring Breg 
+expansion and conversion into IL-10/IL-35-producing cells) in female rat dLN 
+cells was detected. Thus, the study identified putative cellular and molecular 
+substrates of the sexual dimorphism in the immunopathogenesis and clinical 
+outcome of CIA and suggested mechanisms to be targeted in females to improve 
+control of Th17 response, and consequently clinical outcome of CIA, and possibly 
+RA.

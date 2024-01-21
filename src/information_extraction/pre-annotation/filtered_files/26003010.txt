@@ -1,0 +1,20 @@
+The purpose of this work was to investigate whether low-frequency, low-intensity 
+(20 kHz, <100 mW/cm(2), spatial-peak, temporal-peak intensity) ultrasound, 
+delivered with a lightweight (<100 g), tether-free, fully wearable, 
+battery-powered applicator, is capable of reducing inflammation in a mouse model 
+of rheumatoid arthritis. The therapeutic, acute, anti-inflammatory effect was 
+estimated from the relative swelling induced in mice hindlimb paws. In an 
+independent, indirect approach, the inflammation was bio-imaged by measuring 
+glycolytic activity with near-infrared labeled 2-deoxyglucose. The outcome of 
+the experiments indicated that the combination of ultrasound exposure and 
+topical application of 0.1% (w/w) betamethasone gel resulted in statistically 
+significantly (p < 0.05) enhanced anti-inflammatory activity in comparison with 
+drug or ultrasound treatment alone. The present study underscores the potential 
+benefits of low-frequency, low-intensity ultrasound-assisted drug delivery. 
+However, the proof of concept presented indicates the need for additional 
+experiments to systematically evaluate and optimize the potential of, and the 
+conditions for, tolerable low-frequency, low-intensity ultrasound-promoted 
+non-invasive drug delivery.
+
+Copyright © 2015 World Federation for Ultrasound in Medicine & Biology. 
+Published by Elsevier Inc. All rights reserved.

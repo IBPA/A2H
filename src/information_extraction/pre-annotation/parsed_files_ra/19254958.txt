@@ -1,0 +1,20 @@
+Proteoglycan (PG) aggrecan-induced arthritis (PGIA) is a murine model of 
+rheumatoid arthritis (RA). Although BALB/c and DBA/2 mice share the same MHC 
+(H-2d) haplotype, the BALB/c strain is susceptible to PGIA, while DBA/2 mice are 
+resistant. Therefore, these two inbred mouse strains provide an opportunity to 
+study arthritis susceptibility factors excluding the effects of MHC-associated 
+genetic components. The goal of this study was to monitor changes in the 
+cellular composition and activation state following intra-peritoneal (i.p.) 
+immunization to induce PGIA; additionally, we sought to identify new 
+susceptibility factors by comparing PG-induced immune responses in BALB/c and 
+DBA/2 mice. Upon i.p. PG injection, resident naive B1 cells are replaced by both 
+T cells and conventional B cells in the peritoneum of BALB/c mice. These 
+peritoneal T cells produce IFNgamma and IL-17, cytokines shown to be important 
+in RA and corresponding arthritis models. Moreover, peritoneal cells can 
+adoptively transfer PGIA to SCID mice, demonstrating their arthritogenic 
+properties. Our results indicate that repeatedly injected antigen leads to the 
+recruitment and activation of immune cells in the peritoneum; these cells then 
+trigger the effector phase of the disease. The migration and activation of 
+T(h)1/T(h)17 cells in the peritoneal cavity in response to PG immunization, 
+which did not occur in the arthritis-resistant DBA/2 strain, may be critical 
+factors of arthritis susceptibility in BALB/c mice.

@@ -1,0 +1,19 @@
+The Clostridium difficile exotoxin, TcdB, which is a major virulence factor, 
+varies between strains of this pathogen. Herein, we show that TcdB from the 
+epidemic BI/NAP1/027 strain of C. difficile is more lethal, causes more 
+extensive brain hemorrhage, and is antigenically variable from TcdB produced by 
+previously studied strains of this pathogen (TcdB003). In mouse intoxication 
+assays, TcdB from a ribotype 027 strain (TcdB027) was at least four fold more 
+lethal than TcdB003. TcdB027 caused a previously undescribed brain hemorrhage in 
+mice and this correlated with a heightened sensitivity of brain microvascular 
+endothelial cells to the toxin. TcdB003 and TcdB027 also differed in their 
+antigenic profiles and did not share cross-neutralizing epitopes in a major 
+immunogenic region of the protein. Solid phase humoral mapping of epitopes in 
+the carboxy-terminal domains (CTD) of TcdB027 and TcdB003 identified 11 reactive 
+epitopes that varied between the two forms of TcdB, and 13 epitopes that were 
+shared or overlapping. Despite the epitope differences and absence of 
+neutralizing epitopes in the CTD of TcdB027, a toxoid form of this toxin primed 
+a strong protective response. These findings indicate TcdB027 is a more potent 
+toxin than TcdB003 as measured by lethality assays and pathology, moreover the 
+sequence differences between the two forms of TcdB alter antigenic epitopes and 
+reduce cross-neutralization by antibodies targeting the CTD.

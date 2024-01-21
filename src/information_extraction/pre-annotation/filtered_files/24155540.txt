@@ -1,0 +1,29 @@
+BACKGROUND: Rheumatoid arthritis (RA) is a systemic autoimmune disorder that 
+involves inflammation and pain of joints. Low-level laser irradiation is being 
+evaluated for treating RA, however, the effectiveness of linear polarized near 
+infrared light (SuperLizer; SL) irradiation is unclear.
+AIM: It has been reported that interleukin 6 (IL-6) plays a key role in the 
+progression of RA. In our previous study, using DNA microarray analysis, we 
+examined the gene expression profiling of human rheumatoid fibroblast-like 
+synoviocyte MH7A in response to IL-1ß administration and SL irradiation. As a 
+result, IL-6 was listed in altered gene as increased by IL-1ß and decreased by 
+SL irradiation.
+MATERIAL AND METHODS: The reduction of IL-6 gene expression in MH7A by SL 
+irradiation was confirmed by reverse transcription polymerase chain reaction 
+(RT-PCR) and real-time PCR. Effect of SL irradiation on the RA inflammation in 
+the collagen induced arthritis (CIA) rats was also studied by measuring 
+temperature. IL-6 production in knee joint of rats was analyzed by 
+immunohisto-chemistry.
+RESULTS: Scatter plot analysis demonstrated that an increase in IL-6 gene 
+expression by IL-1ß was reduced by SL irradiation. The reduction of IL-6 mRNA 
+level by SL irradiation was successfully confirmed by RT-PCR and real-time PCR. 
+SL irradiation treated CIA rat decreased the temperature of knee joints. The 
+immunohistochemical analysis demonstrated a strong IL-6 staining in synovial 
+membrane tissue of CIA rat joint, and SL irradiation significantly reduced the 
+staining.
+DISCUSSION: Since IL-6 has been identified to be an important proinflarnmatory 
+cytokine in the pathogenesis of RA, the reduction of IL-6 expression is one of 
+mechanisms in reduction of inflammation in RA joints by SL irradiation 
+suggesting that SL irradiation may be useful for RA therapy.
+CONCLUSION: SL irradiation reduced IL-6 gene expression in MH7A, and reduced 
+inflammation and IL-6 protein expression in knee joint of CIA rats.

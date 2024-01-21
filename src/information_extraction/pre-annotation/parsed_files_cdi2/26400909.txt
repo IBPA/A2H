@@ -1,0 +1,19 @@
+Clostridium difficile infection (CDI) is a worldwide health threat that is 
+typically triggered by the use of broad-spectrum antibiotics, which disrupt the 
+natural gut microbiota and allow this Gram-positive anaerobic pathogen to 
+thrive. The increased incidence and severity of disease coupled with decreased 
+response, high recurrence rates, and emergence of multiple antibiotic-resistant 
+strains have created an urgent need for new therapies. We describe 
+pharmacological targeting of the cysteine protease domain (CPD) within the C. 
+difficile major virulence factor toxin B (TcdB). Through a targeted screen with 
+an activity-based probe for this protease domain, we identified a number of 
+potent CPD inhibitors, including one bioactive compound, ebselen, which is 
+currently in human clinical trials for a clinically unrelated indication. This 
+drug showed activity against both major virulence factors, TcdA and TcdB, in 
+biochemical and cell-based studies. Treatment in a mouse model of CDI that 
+closely resembles the human infection confirmed a therapeutic benefit in the 
+form of reduced disease pathology in host tissues that correlated with 
+inhibition of the release of the toxic glucosyltransferase domain (GTD). Our 
+results show that this non-antibiotic drug can modulate the pathology of disease 
+and therefore could potentially be developed as a therapeutic for the treatment 
+of CDI.

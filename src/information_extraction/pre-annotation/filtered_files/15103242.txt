@@ -1,0 +1,30 @@
+PURPOSE OF REVIEW: Trials treating human rheumatic diseases with biologic agents 
+and drugs that selectively affect B cells will be reviewed. Rituximab, an 
+anti-CD20 monoclonal mouse/human antibody, will be the primary focus of the 
+review because it has been widely used in several autoimmune and rheumatic 
+conditions, but the limited studies on other reagents such as anti-BlyS, 
+anti-CD154, and B cell tolerogens will also be covered.
+RECENT FINDINGS: The single most important recent development was the completion 
+of a randomized, double-blind, placebo-controlled trial of rituximab in 
+methotrexate-resistant rheumatoid arthritis. In this trial, B cell depletion 
+with rituximab led to a sustained clinical response with an impressive 
+improvement in America College of Rheumatology 50% response (ACR 50) at both 24 
+and 48 weeks. Additional open studies of rituximab showing clinical benefit in 
+systemic lupus erythematosus, cryoglobulinemia, antineutrophil cytoplasmic 
+antibodies+ vasculitis, and dermatomyositis are noteworthy but must be 
+interpreted with caution until randomized control trials are available. Two 
+well-designed studies of anti-CD154 antibodies in systemic lupus erythematosus 
+were reported. Unfortunately, one was halted because of unexpected vascular 
+complications, and the other failed to show any beneficial clinical effect. A 
+phase I study using anti-BlyS in SLE demonstrated a selective effect on B cells 
+and no overt toxicity, but in this very short-term study no effect on serology 
+or clinical activity was seen. Two B cell tolerogens have been used in human 
+trials. The first tolerogen, directed at anti-dsDNA responses in SLE, did 
+significantly decrease titers of high-affinity anti-dsDNA antibodies but had no 
+clinically beneficial effect overall. A phase I trial of a tolerogen directed at 
+anti-beta2-glycoprotein I antibodies demonstrated a decrease in antibody titers 
+after a single injection.
+SUMMARY: Several therapeutic agents targeting B cells have now been tested or 
+are being tested in human trials. The success of rituximab in a well-controlled 
+trial confirms previous preliminary reports indicating that B cell depletion can 
+treat established autoimmune disease.

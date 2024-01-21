@@ -1,0 +1,24 @@
+Acid hydrarthrosis is another important pathological character in rheumatoid 
+arthritis (RA), and acid-sensing ion channel 1a (ASIC1a) plays a destructive 
+role in acidosis-induced articular chondrocyte cytotoxicity. Recently, ASIC2a 
+has been reported to possess neuroprotective effect on acidosis-induced injury 
+of neuronal cells. However, whether ASIC2a has an enhanced effect on the 
+protective effect of blocking ASIC1a and ASIC3 against acid-induced chondrocyte 
+apoptosis is still unclear. The aim of present study was to investigate the 
+chondroprotective effect of ASIC2a with PcTx1 (ASIC1a specific blocker) and 
+APETx2 (ASIC3 specific blocker) on acidosis-induced chondrocyte apoptosis. Our 
+results revealed that acid (pH 6.0) decreased the cell viability and induced 
+apoptosis of articular chondrocytes. PcTx1 and APETx2 combination significantly 
+attenuated acidosis-induced chondrocyte cytotoxicity due to inhibit apoptosis, 
+and this role could be enhanced by ASIC2a overexpression compared with the PcTx1 
+and APETx2 combination alone group. Moreover, both the [Ca2+]i levels and the 
+levels of phosphorylated ERK1/2 as well as p38 were further reduced in 
+acidosis-induced chondrocytes after ASIC2a overexpression in the presence of 
+PcTx1 and APETx2. Furthermore, ASIC2a overexpression also reduced acid-induced 
+the expression of ASIC1a. In addition, ASIC2a overexpression further promoted 
+the PcTx1 and APETx2-increased levels of type II collagen in acidosis-induced 
+chondrocytes. Taken together, the current data suggested that ASIC2a 
+overexpression might enhance the anti-apoptotic and protective role of PcTx1 and 
+APETx2 against acid-induced rat articular chondrocyte apoptosis by regulating 
+ASIC1a expression and the [Ca2+]i levels and at least in part, suppressing p38 
+and ERK1/2 MAPK signaling pathways.

@@ -1,0 +1,18 @@
+Tumor necrosis factor is a major pro-inflammatory cytokine which triggers 
+various physiological consequences by binding to and trimerizing its receptors, 
+and has been the single most sought-after drug target for intervening autoimmune 
+diseases such as rheumatoid arthritis and psoriasis. However, current TNF-α 
+blockers, including soluble receptor-Fc fusion and therapeutic antibodies, are 
+all dimeric in structure, whereas their target TNF-α itself is homotrimeric in 
+nature. Here we describe the development of a trivalent soluble TNF receptor and 
+show that it is a more potent than the dimeric TNF receptor decoys in inhibiting 
+TNF-α signaling both in vitro and in vivo. The process involves gene fusion 
+between a soluble receptor TNFRII with a ligand binding domain and a 
+trimerization tag from the C-propeptide of human collagen (Trimer-Tag), which is 
+capable of self-assembly into a covalently linked trimer. We show that the 
+homotrimeric soluble TNF receptor (TNFRII-Trimer) produced with such method is 
+more potent in ligand binding kinetics and cell based bioassays, as well as more 
+efficacious in attenuating collagen-induced arthritis (CIA) in a mouse model 
+than its dimeric TNFRII-Fc counterpart. Thus, this work demonstrates the proof 
+of concept of Trimer-Tag and provides a new platform for rational designs of 
+next generation biologic drugs.

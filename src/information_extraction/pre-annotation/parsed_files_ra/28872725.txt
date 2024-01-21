@@ -1,0 +1,22 @@
+OBJECTIVES: Electrical stimulation of the dorsal root ganglion (DRG), referred 
+to here as ganglionic field stimulation (GFS), is effective in reducing clinical 
+pain, probably by interrupting transmission of afferent impulse trains on 
+sensory neurons as they pass through the DRG. We therefore tested whether 
+efferent impulse trains conveyed by sensory neurons, which contribute to 
+neurogenic inflammation, may also be interrupted by GFS.
+MATERIALS AND METHODS: Collagen-induced arthritis, a model of clinical 
+rheumatoid arthritis, was initiated in rats concurrently with the insertion of 
+an electrode for GFS at the fourth lumbar DRG. Continuous GFS (20 Hz pulse rate, 
+current at 80% of the motor threshold) was initiated 6 days later and continued 
+for 14 days. Plantar pain sensitivity, ankle arthritis score, and dimensions of 
+the foot and ankle were determined one hour after termination of GFS.
+RESULTS: The foot/ankle contralateral to GFS developed hypersensitivity to 
+threshold and noxious mechanical stimulation, swelling, and high arthritis 
+score, all of which were normalized in the foot/ankle ipsilateral with GFS. 
+Histology showed GFS limited joint destruction. Electrophysiological recording 
+showed GFS can block efferent impulse trains.
+CONCLUSIONS: Our findings show that GFS can reduce neurogenic inflammation and 
+the resulting joint damage in a model of rheumatoid arthritis, probably by 
+blocking the transit of impulse trains through the DRG. GFS may have clinical 
+utility in limiting joint destruction in inflammatory arthritis such as 
+rheumatoid arthritis.

@@ -1,0 +1,41 @@
+OBJECTIVE: Nuclear factor-kappa B (NF-kappaB) is a critical transcription factor 
+governing the expression of many cytokines that are involved in the pathogenesis 
+of inflammatory diseases, such as asthma and rheumatoid arthritis. Melatonin 
+(MT), a relatively safe and potent antioxidant which has shown efficacy in 
+several chronic inflammatory models, may inhibit the expression of NF-kappaB and 
+therefore might have a therapeutic use in asthma. This study aimed at observing 
+the effect of MT on the expression of NF-kappaB and airway inflammation in a rat 
+model of bronchial asthma.
+METHODS: Twenty-four male Sprague-Dawley (SD) rats weighing 120 g to 170 g were 
+randomly divided into three experimental groups (8 in each): (1) Asthmatic 
+group: Rats were immunized on day 1 by intraperitoneal injection of 100 mg 
+ovalbumin (OVA) in 1 ml of saline with 100 mg of alu minum hydroxide. From day 
+15 the animals were challenged with aerosolized OVA (1% in saline) for 20 
+minutes per day for 7 consecutive days. (2) MT group: OVA-sensitized rats were 
+injected intraperitoneally with 10 mg/kg MT 30 minutes before each OVA 
+challenge. (3) CONTROL GROUP: OVA for inhalation and MT for intraperitoneal 
+injection was replaced with normal saline (NS). Airway responsiveness to 
+aerosolized acetylcholine of 24 rats was detected six hours after the last 
+challenge. Then the rats were lavaged and total and differentiated leukocytes 
+counts in bronchoalveolar lavage fluid (BALF) were performed after staining with 
+Wright-Giemsa staining. At the same time, levels of nitric oxide (NO) in BALF, 
+inducible nitric oxide synthesis (iNOS) and constitute nitric oxide synthesis 
+(cNOS) in the lung tissues were assessed with the use of nitrate reductase and 
+chemical colorimetry, respectively. The expression of NF-kappaB in the lung 
+tissues was observed by means of immunohistochemical staining.
+RESULTS: (1) After OVA challenge, there was a significant decrease in airway 
+responsiveness, lymphocytes and eosinophils in BALF in MT group compared with 
+asthmatic group (P < 0.01 respectively); (2) There was a significant decrease in 
+amounts of NO(2)(-)/NO(3)(-) in the BALF and levels of iNOS in the lung tissues 
+in MT group comparing with asthmatic group (P < 0.01 respectively); and the 
+levels of iNOS in the lung tissues was correlated positively with 
+NO(2)(-)/NO(3)(-) in the BALF (P < 0.01), but there were no significant 
+differences in activity of cNOS in any of the groups analyzed. (3) There was a 
+significant increase in expression of NF-kappaB in lung tissues in asthmatic 
+group compared with the other groups (P < 0.01), and so was in MT group compared 
+with control group (P < 0.05).
+CONCLUSIONS: MT could partially inhibit the expression of NF-kappaB and 
+down-regulate the activity of iNOS in lung tissue, decrease the production of NO 
+in BALF. These data suggest that the inhibitory effect of MT probably play a 
+role in decreasing airway hyperresponsiveness and airway inflammation of 
+asthmatic rats model.

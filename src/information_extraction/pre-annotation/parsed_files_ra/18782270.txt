@@ -1,0 +1,17 @@
+Collagen-induced arthritis (CIA) is a well studied mouse model of the human 
+disease rheumatoid arthritis (RA). Both CIA and RA are complex diseases affected 
+by multiple genes as well as environmental factors. Identifying the genes that 
+determine susceptibility to arthritis would give invaluable clues to the largely 
+unknown aetiology of RA. In this study, we dissected a known locus, Cia6, as 
+well as a genomic region on chromosome 14 with no previously known arthritis 
+loci, using a partial advanced intercross and a collection of congenic strains. 
+The chromosome 14 congenic fragment, containing the T-cell receptor alpha (Tcra) 
+locus, was included based on the hypothesis that the Cia6 locus is caused by a 
+polymorphism in the Tcr beta (Tcrb) locus and that the two loci interact. 
+Splitting up the congenic fragments revealed multiple loci affecting arthritis 
+traits as well as production of collagen-specific autoantibodies. In total seven 
+new loci were identified of which four were in the previously unlinked 
+chromosome 14 region. Both Tcr loci were within CIA loci making them candidate 
+susceptibility genes. The results demonstrate the importance of breaking up 
+genetic regions in smaller fragments to identify the underlying complex set of 
+loci.

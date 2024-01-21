@@ -1,0 +1,12 @@
+The increased incidence and severity of Clostridium difficile infection (CDI) in 
+older adults (age, ≥65 years) corresponds with the emergence of the BI/NAP1 
+strain, making elucidation of the host immune response extremely important. We 
+therefore infected germ-free C57BL/6 mice aged 7-14 months with a BI/NAP1 strain 
+and monitored the mice for response. Infected mice were moribund 48-72 h after 
+infection and developed gross and histological cecitis and colitis and elevated 
+concentrations of keratinocyte chemoattractant, interleukin 1β, monocyte 
+chemotactic protein 1, and granulocyte colony-stimulating factor and decreased 
+levels of interferon γ, interleukin 12 p40, interleukin 12 p70, and interleukin 
+10 compared with controls. We conclude that aged, germ-free C57BL/6 mice are 
+susceptible to fulminant CDI from a BI/NAP1 strain and represent a novel model 
+to further elucidate the host immune response to acute CDI.

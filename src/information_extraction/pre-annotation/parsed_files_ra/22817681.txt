@@ -1,0 +1,33 @@
+INTRODUCTION: Dysregulated angiogenesis is implicated in the pathogenesis of 
+rheumatoid arthritis (RA). To provide a more profound understanding of 
+arthritis-associated angiogenesis, we evaluated the expression of 
+angiogenesis-modulating genes at onset, peak and declining phases of 
+collagen-induced arthritis (CIA), a well-established mouse model for RA.
+METHODS: CIA was induced in DBA/1 mice with type II collagen. Functional 
+capillary density in synovial tissue of knee joints was determined by intravital 
+fluorescence microscopy. To assess the ability of arthritic joint homogenates to 
+induce angiogenesis, an endothelial chemotaxis assay and an in vivo matrigel 
+plug assay were employed. The temporal expression profile of 
+angiogenesis-related genes in arthritic paws was analysed by quantitative 
+real-time RT-PCR using an angiogenesis focused array as well as gene specific 
+PCR. Finally, we investigated the therapeutic effect of a monoclonal antibody 
+specifically blocking the binding of VEGF to neuropilin (NRP)-1.
+RESULTS: Although arthritic paw homogenates displayed angiogenic activity in 
+vitro and in vivo, and synovia of arthritic paws appeared highly vascularised on 
+histological examination, the functional capillary density in arthritic knee 
+synovia was significantly decreased, whereas capillary diameter was increased. 
+Of the 84 genes analysed, 41 displayed a differential expression in arthritic 
+paws as compared to control paws. Most significant alterations were seen at the 
+peak of clinical arthritis. Increased mRNA expression could be observed for VEGF 
+receptors (Flt-1, Flk-1, Nrp-1, Nrp-2), as well as for midkine, hepatocyte 
+growth factor, insulin-like growth factor-1 and angiopoietin-1. Signalling 
+through NRP-1 accounted in part for the chemotactic activity for endothelial 
+cells observed in arthritic paw homogenates. Importantly, therapeutic 
+administration of anti-NRP1B antibody significantly reduced disease severity and 
+progression in CIA mice.
+CONCLUSIONS: Our findings confirm that the arthritic synovium in murine CIA is a 
+site of active angiogenesis, but an altered balance in the expression of 
+angiogenic factors seems to favour the formation of non-functional and dilated 
+capillaries. Furthermore, our results validate NRP-1 as a key player in the 
+pathogenesis of CIA, and support the VEGF/VEGF receptor pathway as a potential 
+therapeutic target in RA.

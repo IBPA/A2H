@@ -1,0 +1,24 @@
+INTRODUCTION: The endocannabinoid system modulates function of immune cells and 
+mesenchymal cells such as fibroblasts, which contribute to cartilage destruction 
+in rheumatoid arthritis (RA). The aim of the study was to determine the 
+influence of N-acylethanolamines anandamide (AEA), palmitoylethanolamine (PEA) 
+and oleylethanolamine (OEA) on several features of arthritic inflammation in 
+vitro (human material) and in vivo (a mouse model).
+METHODS: Immunofluorescence and western blotting were used to detect cannabinoid 
+receptors and related enzymes. Cytokines and MMP-3 were measured by ELISA. 
+Intracellular signaling proteins were detected by proteome profiling. 
+Proliferation was quantified by CTB reagent. Adhesion was assessed by the 
+xCELLigence system. After onset of collagen type II arthritis, mice were treated 
+daily with the FAAH inhibitor JNJ1661010 (20 mg/kg) or vehicle.
+RESULTS: IL-6, IL-8 and MMP-3 (determined only in synovial fibroblasts (SFs)) 
+were downregulated in primary synoviocytes and SFs of RA and OA after AEA, PEA 
+and OEA treatment. In SFs, this was due to activation of TRPV1 and TRPA1 in a 
+COX-2-dependent fashion. FAAH inhibition increased the efficacy of AEA in 
+primary synoviocytes but not in SFs. The effects of OEA and PEA on SFs were 
+diminished by FAAH inhibition. Adhesion to fibronectin was increased in a 
+CB1-dependent manner by AEA in OASFs. Furthermore, elevation of endocannabinoids 
+ameliorated collagen-induced arthritis in mice.
+CONCLUSIONS: N-acylethanolamines exert anti-inflammatory effects in SFs. A dual 
+FAAH/COX-2 inhibitor, increasing N-acylethanolamine levels with concomitant TRP 
+channel desensitization, might be a good candidate to inhibit the production of 
+proinflammatory mediators of synovial cells and to reduce erosions.

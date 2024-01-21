@@ -1,0 +1,22 @@
+OBJECTIVE: Down-regulation of fibrinolysis and increased fibrin deposition in 
+joints are hallmarks of rheumatoid arthritis (RA), and are believed to be 
+involved in disease progression. The mouse model of collagen-induced arthritis 
+(CIA) closely resembles RA and has been used to explore mechanism and treatments 
+of RA, but neither the fibrinolytic system nor pro-fibrinolytic therapies were 
+investigated in CIA.
+MATERIALS AND METHODS: Plasmin activity, levels of plasminogen activator 
+inhibitor (PAI-1), D-dimer, and IL-6 were measured in plasma of CIA mice. Fibrin 
+deposition and PAI-1 levels were also measured in inflamed joints. Mice were 
+treated with plasminogen activators uPA (urokinase-type plasminogen activator) 
+or tPA (tissue-type plasminogen activator). Effects of treatment on disease 
+severity and fibrinolytic system were assessed.
+RESULTS: CIA caused decrease in plasmin activity, accompanied by increase in 
+PAI-1 levels, in both blood and inflamed joints. This resulted in massive fibrin 
+deposition in synovium. PAI-1 levels correlated negatively with plasmin activity 
+and positively with IL-6. Treatments with uPA and tPA improved plasmin activity 
+and removed fibrin deposits in inflamed joints. However, disease severity 
+remained unchanged.
+CONCLUSIONS: Fibrinolytic changes in CIA parallel changes in RA, making CIA a 
+suitable model to study fibrinolysis in RA. Normalization of plasmin activity in 
+CIA after treatment with plasminogen activators had no effect on disease 
+severity.

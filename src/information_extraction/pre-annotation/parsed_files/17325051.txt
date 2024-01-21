@@ -1,0 +1,18 @@
+Mucosal hyperplasia is a characteristic component of otitis media. The present 
+study investigated the participation of signaling via the Jun N-terminal protein 
+kinase (JNK) mitogen-activated protein kinase in middle ear mucosal hyperplasia 
+in animal models of bacterial otitis media. Otitis media was induced by the 
+inoculation of nontypeable Haemophilus influenzae into the middle ear cavity. 
+Western blotting revealed that phosphorylation of JNK isoforms in the middle ear 
+mucosa preceded but paralleled mucosal hyperplasia in this in vivo rat model. 
+Nuclear JNK phosphorylation was observed in many cells of both the mucosal 
+epithelium and stroma by immunohistochemistry. In an in vitro model of primary 
+rat middle ear mucosal explants, bacterially induced mucosal growth was blocked 
+by the Rac/Cdc42 inhibitor Clostridium difficile toxin B, the mixed-lineage 
+kinase inhibitor CEP11004, and the JNK inhibitor SP600125. Finally, the JNK 
+inhibitor SP600125 significantly inhibited mucosal hyperplasia during in vivo 
+bacterial otitis media in guinea pigs. Inhibition of JNK in vivo resulted in a 
+diminished proliferative response, as shown by a local decrease in proliferating 
+cell nuclear antigen protein expression by immunohistochemistry. We conclude 
+that activation of JNK is a critical pathway for bacterially induced mucosal 
+hyperplasia during otitis media, influencing tissue proliferation.

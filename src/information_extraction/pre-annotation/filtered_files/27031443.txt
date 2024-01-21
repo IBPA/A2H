@@ -1,0 +1,16 @@
+Human neutrophil peptide 1 (HNP1), a predominant α defensin in the azurophilic 
+granules of human neutrophils, is an alarmin capable of inducing the migration 
+and maturation of human myeloid/conventional dendritic cells. However, it is not 
+determined whether it can activate plasmacytoid dendritic cells (pDCs). Herein, 
+we found that both human pDCs and CAL-1 cells, a pDC-like cell line, produced 
+IFNα upon treatment with HNP1. Additionally, HNP1 could promote CpG ODN-induced 
+pDC production of proinflammatory cytokines including IFNα. HNP1 triggered 
+activation of NF-κB and nuclear translocation of interferon regulatory factor 1 
+(IRF1) in CAL-1 cells. HNP1 upregulation of cytokine expression in pDCs was 
+inhibited by blockade of NF-κB activation or knockdown of IRF1, demonstrating 
+the importance of these two signaling events in HNP1-induced pDC activation. 
+Using a human pDC-nude mouse model, HNP1 was shown to induce IFNα production by 
+human pDCs in vivo. Thus, HNP1 can activate human pDCs using NF-κB and IRF 
+signaling pathways, and HNP-induced IFN production may participate in the 
+inflammatory pathogenesis in certain authoimmune diseases such as rheumatoid 
+arthritis.

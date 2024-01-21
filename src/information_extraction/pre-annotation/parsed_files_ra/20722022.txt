@@ -1,0 +1,29 @@
+OBJECTIVE: CD248 is a transmembrane glycoprotein expressed on the surface of 
+activated perivascular and fibroblast-like cells. This study was undertaken to 
+explore the function of CD248 and its cytoplasmic domain in arthritis.
+METHODS: Synovial tissue biopsy samples from healthy controls, from patients 
+with psoriatic arthritis (PsA), and from patients with rheumatoid arthritis (RA) 
+were stained for CD248. Transgenic mice that were CD248-deficient 
+(CD248-knockout [CD248(KO/KO) ]) or mice with CD248 lacking the cytoplasmic 
+domain (CD248(CyD/CyD) ) were generated. Collagen antibody-induced arthritis 
+(CAIA) was induced in these mice and in corresponding wild-type (WT) mice as 
+controls. Clinical signs and histologic features of arthritis were evaluated. 
+Cytokine levels were determined by enzyme-linked immunosorbent assay, and the 
+number of infiltrating inflammatory cells was quantified by 
+immunohistochemistry. In vitro studies were performed with fibroblasts from 
+CD248-transgenic mouse embryos to explain the observed effects on inflammation.
+RESULTS: Immunostaining of synovium from patients with PsA and patients with RA 
+and that from mice after the induction of CAIA revealed strong CD248 expression 
+in perivascular and fibroblast-like stromal cells. CD248(KO/KO) and 
+CD248(CyD/CyD) mice had less severe arthritis, with lower plasma levels of 
+proinflammatory cytokines, as compared with WT controls. Moreover, the joints of 
+these mice had less synovial hyperplasia, reduced accumulation of inflammatory 
+cells, and less articular cartilage and bone damage. Tumor necrosis factor 
+α-induced monocyte adhesion to CD248(CyD/CyD) fibroblasts was impaired. 
+CD248(CyD/CyD) fibroblasts exhibited reduced expression of hypoxia-inducible 
+factor 1α, placental growth factor, vascular endothelial growth factor, and 
+matrix metalloproteinase 9 activity in response to transforming growth factor β.
+CONCLUSION: CD248 contributes to synovial hyperplasia and leukocyte accumulation 
+in inflammatory arthritis, the effects of which are mediated partly via its 
+cytoplasmic domain. CD248 is therefore a potential new target in the treatment 
+of arthritis.

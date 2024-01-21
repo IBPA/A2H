@@ -1,0 +1,15 @@
+SSR125329A 
+([(Z)-3-(4-Adamantan-2-yl-3,5-dichloro-phenyl)-allyl]-cyclohexyl-ethyl-amine) is 
+a new ligand exhibiting high affinity for sigma(1) and sigma(2) receptors and 
+for the human Delta8-Delta7-sterol isomerase. Here we show that this molecule 
+has potent immunoregulatory properties both in vitro and in vivo. SSR125329A 
+inhibited staphylococcal enterotoxin B-induced mouse splenocyte proliferation in 
+vitro, whereas in vivo it enhanced lipopolysaccharide-induced systemic release 
+of interleukin-10 while simultaneously inhibiting tumor necrosis factor-alpha 
+(TNF-alpha) synthesis. It also prevented graft-versus-host disease in B6D2F1 
+mice and protected Mrl/lpr mice against the development of its spontaneous 
+rheumatoid-like syndrome. There is high interplay of pro- and anti-inflammatory 
+cytokines in inflammatory processes, particularly in human rheumatoid arthritis. 
+The results of this study provide substantial evidence that sigma receptor 
+ligands may represent a new effective approach for rheumatoid arthritis 
+treatment.

@@ -1,0 +1,22 @@
+The transcription factor NF-kappaB is of major importance in the biology of 
+pro-inflammatory cytokines, such as TNF-alpha and IL-1alpha, and thereby is 
+intimately involved in the process of inflammation. Understanding the mechanisms 
+by which NF-kappaB is activated in response to inflammatory stimuli has become a 
+major goal of inflammation research. The discovery of NF-kappaB-inducing kinase 
+(NIK) as a TNFR-associated factor-interacting enzyme and a potential activator 
+of the IkappaBalpha-kinase complex appeared to have identified an important 
+element of the NF-kappaB activation pathway, a view that was supported by 
+several subsequent studies. However, recent experiments in the alymphoplasia 
+(aly/aly) mouse, which has missense point mutation (G885R) in NIK, has 
+challenged that view. The reasons for the discrepancy between the different 
+studies is unclear and could be due to multiple factors, such as cell type, 
+species of cell, or primary vs transformed cell lines. One system that has not 
+been investigated is primary human cells. Using an adenoviral vector encoding 
+kinase-deficient NIK, we have investigated the role of NIK in LPS, IL-1, 
+TNF-alpha, and lymphotoxin (LT) betaR signaling in primary human cells and 
+TNF-alpha expression from rheumatoid tissue. These data show that, in the 
+primary systems tested, NIK has a restricted role in LTbetaR signaling and is 
+not required by the other stimuli tested. Also, there is no apparent role for 
+NIK in the process of TNF-alpha production in human rheumatoid arthritis. These 
+data also highlight the potential problems in extrapolating the function of 
+signaling pathways between primary and transfected cell lines.

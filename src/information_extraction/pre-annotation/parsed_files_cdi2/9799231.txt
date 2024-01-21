@@ -1,0 +1,27 @@
+At the surface of phagocytes, antibody-opsonized particles are recognized by 
+surface receptors for the Fc portion of immunoglobulins (FcRs) that mediate 
+their capture by an actin-driven process called phagocytosis which is poorly 
+defined. We have analyzed the function of the Rho proteins Rac1 and CDC42 in the 
+high affinity receptor for IgE (FcepsilonRI)-mediated phagocytosis using 
+transfected rat basophil leukemia (RBL-2H3) mast cells expressing dominant 
+inhibitory forms of CDC42 and Rac1. Binding of opsonized particles to 
+untransfected RBL-2H3 cells led to the accumulation of F-actin at the site of 
+contact with the particles and further, to particle internalization. This 
+process was inhibited by Clostridium difficile toxin B, a general inhibitor of 
+Rho GTP-binding proteins. Dominant inhibition of Rac1 or CDC42 function severely 
+inhibited particle internalization but not F-actin accumulation. Inhibition of 
+CDC42 function resulted in the appearance of pedestal-like structures with 
+particles at their tips, while particles bound at the surface of the Rac1 mutant 
+cell line were enclosed within thin membrane protrusions that did not fuse. 
+These phenotypic differences indicate that Rac1 and CDC42 have distinct 
+functions and may act cooperatively in the assembly of the phagocytic cup. 
+Inhibition of phagocytosis in the mutant cell lines was accompanied by the 
+persistence of tyrosine-phosphorylated proteins around bound particles. 
+Phagocytic cup closure and particle internalization were also blocked when 
+phosphotyrosine dephosphorylation was inhibited by treatment of RBL-2H3 cells 
+with phenylarsine oxide, an inhibitor of protein phosphotyrosine phosphatases. 
+Altogether, our data show that Rac1 and CDC42 are required to coordinate actin 
+filament organization and membrane extension to form phagocytic cups and to 
+allow particle internalization during FcR-mediated phagocytosis. Our data also 
+suggest that Rac1 and CDC42 are involved in phosphotyrosine dephosphorylation 
+required for particle internalization.

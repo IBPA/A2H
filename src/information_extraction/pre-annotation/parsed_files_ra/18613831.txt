@@ -1,0 +1,18 @@
+Our understanding of the role of T cells in human disease is undergoing revision 
+as a result of the discovery of T-helper 17 (Th17) cells, a unique CD4(+) T-cell 
+subset characterized by production of interleukin-17 (IL-17). IL-17 is a highly 
+inflammatory cytokine with robust effects on stromal cells in many tissues. 
+Recent data in humans and mice suggest that Th17 cells play an important role in 
+the pathogenesis of a diverse group of immune-mediated diseases, including 
+psoriasis, rheumatoid arthritis, multiple sclerosis, inflammatory bowel disease, 
+and asthma. Initial reports also propose a role for Th17 cells in tumorigenesis 
+and transplant rejection. Important differences, as well as many similarities, 
+are emerging when the biology of Th17 cells in the mouse is compared with 
+corresponding phenomena in humans. As our understanding of human Th17 biology 
+grows, the mechanisms underlying many diseases are becoming more apparent, 
+resulting in a new appreciation for both previously known and more recently 
+discovered cytokines, chemokines, and feedback mechanisms. Given the strong 
+association between excessive Th17 activity and human disease, new therapeutic 
+approaches targeting Th17 cells are highly promising, but the potential safety 
+of such treatments may be limited by the role of these cells in normal host 
+defenses against infection.

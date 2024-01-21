@@ -1,0 +1,22 @@
+The 65-kDa mycobacterial heat shock protein (Bhsp65) has been invoked in the 
+pathogenesis of both adjuvant arthritis (AA) in the Lewis rat (RT.1(l)) and 
+human rheumatoid arthritis. Arthritic Lewis rats in the late phase of AA show 
+diversification of the T cell response to Bhsp65 C-terminal determinants (BCTD), 
+and pretreatment of naive Lewis rats with a mixture of peptides representing 
+these neoepitopes affords protection against AA. However, the fine specificity 
+and physiologic significance of the BCTD-directed T cell repertoire, and the 
+role of homologous self (rat) hsp65 (Rhsp65), if any, in spreading of the T cell 
+response to Bhsp65 have not yet been examined. We observed that T cells primed 
+by peptides comprising BCTD can adoptively transfer protection against AA to the 
+recipient Lewis rats. However, these T cells can be activated by preprocessed 
+(peptide) form of BCTD, but not native Bhsp65, showing that BCTD are cryptic 
+epitopes. The BCTD-reactive T cells can be activated by the naturally generated 
+(dominant) C-terminal epitopes of both exogenous and endogenous Rhsp65 and vice 
+versa. Furthermore, certain individual peptides constituting BCTD and their self 
+homologs can also induce protection against AA. These results support a model 
+for the diversification of T cell response to Bhsp65 during the course of AA 
+involving up-regulation of the display of cryptic BCTD coupled with spontaneous 
+induction of T cell response to the cross-reactive dominant C-terminal epitopes 
+of Rhsp65. The identification of disease-regulating cryptic determinants in Ags 
+implicated in arthritis provides a novel approach for immunotherapy of 
+rheumatoid arthritis.

@@ -1,0 +1,19 @@
+Clostridium difficile infection (CDI) is a toxin-mediated intestinal disease. 
+Toxin A, toxin B and binary toxin are believed to be responsible for the 
+pathogenesis of CDI, which is characterized by massive infiltration of 
+neutrophils at the infected intestinal mucosa. IL-17 is one of the cytokines 
+that play critical roles in several inflammatory and immunological diseases 
+through various actions, including promoting neutrophil recruitment. The aim of 
+this study was to examine the role of this cytokine in CDI by employing IL-17 A 
+and F double knockout (IL-17 KO) mice for the CDI model. We demonstrated that 
+IL-17 KO mice were more resistant to CDI than WT mice using several factors, 
+such as diarrhoea score, weight change and survival rate. Although the bacterial 
+numbers of C. difficile in faeces were not different, the inflammatory mediator 
+levels at the large intestine on day 3 post-infection were attenuated in IL-17 
+KO mice. Finally, we showed that infiltration of neutrophils, but not 
+macrophages, in the large intestine was significantly decreased in IL-17 KO mice 
+compared to WT mice. In conclusion, the data demonstrate that endogenous IL-17 
+may be a factor determining the severity of CDI in mice. Although the mechanism 
+is totally unknown, IL-17-mediated inflammatory responses, such as 
+cytokine/chemokine production and neutrophil accumulation, may be plausible 
+targets for future investigations.

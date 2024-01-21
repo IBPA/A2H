@@ -1,0 +1,42 @@
+The increasing clinical importance of human infections (frequently severe) 
+caused by Clostridium difficile PCR ribotype 078 (RT078) was first reported in 
+2008. The severity of symptoms (mortality of ≤30%) and the higher proportion of 
+infections among community and younger patients raised concerns. Farm animals, 
+especially pigs, have been identified as RT078 reservoirs. We aimed to 
+understand the recent changes in RT078 epidemiology by investigating a possible 
+role for antimicrobial selection in its recent evolutionary history. 
+Phylogenetic analysis of international RT078 genomes (isolates from 2006 to 
+2014, n = 400), using time-scaled, recombination-corrected, maximum likelihood 
+phylogenies, revealed several recent clonal expansions. A common ancestor of 
+each expansion had independently acquired a different allele of the tetracycline 
+resistance gene tetM Consequently, an unusually high proportion (76.5%) of RT078 
+genomes were tetM positive. Multiple additional tetracycline resistance 
+determinants were also identified (including efflux pump tet40), frequently 
+sharing a high level of nucleotide sequence identity (up to 100%) with sequences 
+found in the pig pathogen Streptococcus suis and in other zoonotic pathogens 
+such as Campylobacter jejuni and Campylobacter coli Each RT078 tetM clonal 
+expansion lacked geographic structure, indicating rapid, recent international 
+spread. Resistance determinants for C. difficile infection-triggering 
+antimicrobials, including fluoroquinolones and clindamycin, were comparatively 
+rare in RT078. Tetracyclines are used intensively in agriculture; this selective 
+pressure, plus rapid, international spread via the food chain, may explain the 
+increased RT078 prevalence in humans. Our work indicates that the use of 
+antimicrobials outside the health care environment has selected for resistant 
+organisms, and in the case of RT078, has contributed to the emergence of a human 
+pathogen.IMPORTANCE Clostridium difficile PCR ribotype 078 (RT078) has multiple 
+reservoirs; many are agricultural. Since 2005, this genotype has been 
+increasingly associated with human infections in both clinical settings and the 
+community. Investigations of RT078 whole-genome sequences revealed that 
+tetracycline resistance had been acquired on multiple independent occasions. 
+Phylogenetic analysis revealed a rapid, recent increase in numbers of closely 
+related tetracycline-resistant RT078 (clonal expansions), suggesting that 
+tetracycline selection has strongly influenced its recent evolutionary history. 
+We demonstrate recent international spread of emergent, tetracycline-resistant 
+RT078. A similar tetracycline-positive clonal expansion was also identified in 
+unrelated nontoxigenic C. difficile, suggesting that this process may be 
+widespread and may be independent of disease-causing ability. Resistance to 
+typical C. difficile infection-associated antimicrobials (e.g., 
+fluoroquinolones, clindamycin) occurred only sporadically within RT078. 
+Selective pressure from tetracycline appears to be a key factor in the emergence 
+of this human pathogen and the rapid international dissemination that followed, 
+plausibly via the food chain.

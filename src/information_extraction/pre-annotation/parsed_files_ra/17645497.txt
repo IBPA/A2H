@@ -1,0 +1,20 @@
+Auranofin (AF) is a sulphur-containing gold compound. Because of its 
+anti-inflammatory and immunosuppressive activities, AF has been widely used for 
+the therapeutic treatment of rheumatoid arthritis. However, little is known 
+about its mechanism of action. To elucidate the molecular mechanism underlying 
+the anti-inflammatory effect of AF, we studied the effects of AF on cellular 
+responses to interleukin-6 (IL-6). In HepG2 human hepatoma cells, AF markedly 
+inhibited IL-6-induced phosphorylation of janus kinase 1 (JAK1) and signal 
+transducer and activator of transcription 3 (STAT3) and STAT3 translocation into 
+the nucleus. Consistent with this, AF diminished IL-6-induced production of the 
+acute-phase proteins, haptoglobin, fibrinogen, C3 complement and alpha(1)-acid 
+glycoprotein, and gene expression of vascular endothelial growth factor, all of 
+whose transcriptional activities are regulated by STAT3. The inhibitory activity 
+of AF on STAT3 phosphorylation was also demonstrated in primary cells, i.e. 
+fibroblast-like synoviocytes from rheumatoid arthritis patients, human umbilical 
+vein endothelial cells and rat astrocytes. Auranofin-mediated inhibition of 
+STAT3 phosphorylation was recovered by pretreatment with antioxidants containing 
+thiol groups. These findings suggest that the anti-inflammatory action of AF is 
+associated with a blockade of JAK1/STAT3 signalling. Thiol-group-reactive 
+proteins may be involved in AF-induced suppression of JAK1/STAT3 
+phosphorylation.

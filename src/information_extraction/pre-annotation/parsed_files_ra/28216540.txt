@@ -1,0 +1,21 @@
+Recently, health awareness in Japan has been increasing and active exercise is 
+now recommended to prevent lifestyle-related diseases. Cytokine activities have 
+many positive effects in maintaining the health of a number of organs in the 
+body. Myokines are cytokines secreted by skeletal muscles in response to 
+exercise stimulation, and have recently generated much attention. Around 700,000 
+patients in Japan suffer from rheumatoid arthritis, making it the most prevalent 
+autoimmune disease that requires active prevention and treatment. In the present 
+study, a mouse model of spontaneous arthritis (SKG/Jcl) was subjected to 
+continuous exercise stimulation, starting before the disease onset, to examine 
+the effects of anti-inflammatory and inflammatory cytokine secretion on 
+arthritis. For this stimulation, we developed a device that combines shaking and 
+vibration. The results revealed that exercise stimulation delayed the onset of 
+arthritis and slowed its progression. Thickened articular cartilage and multiple 
+aggregates of chondrocytes were also observed. Further, exercise stimulation 
+increased the expression of IL-6, IL-10, and IL-15, and inhibited TNF-α 
+expression. From these results, we infer that the anti-inflammatory effects of 
+IL-6 and IL-10, which showed increased expression upon exercise stimulation, 
+inhibited the inflammatory activity of TNF-α and possibly delayed the onset of 
+arthritis and slowed its progression. Novel methods for preventing and treating 
+arthritis under clinical settings can be developed on the basis of these 
+findings.

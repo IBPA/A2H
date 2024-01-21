@@ -1,0 +1,35 @@
+OBJECTIVE: We evaluated the clinical relevance and pathogenic significance of 
+anti-salivary duct autoantibodies (ASDA) in Sjögren's syndrome (SS) and 
+rheumatoid arthritis (RA) by examining (1) their frequency in healthy controls, 
+patients with sicca symptoms, and patients with various autoimmune and infective 
+disorders; (2) their localization by confocal microscopy; and (3) their tissue 
+distribution and cross reactivity with blood group antigens.
+METHODS: Indirect immunofluorescence (IF) was performed on commercial cryostat 
+sections of monkey parotid salivary gland. Sections were examined by 
+fluorescence and confocal laser scanning microscopy. Sera giving positive 
+staining on the ducts were tested by IF on a range of monkey tissues and 
+salivary glands from several mammalian species. Blocking experiments were 
+performed with human erythrocytes of different ABO blood groups and AB antigens.
+RESULTS: We identified 2 distinct ductal staining patterns. The first resembled 
+ASDA described in earlier studies and showed patchy bright staining of the 
+apical (luminal) surfaces of the ducts and staining of apical cytoplasmic 
+vesicles. The other was only observed with anti-mitochondrial antibody positive 
+sera and stained the mitochondrial-rich ductal epithelium in a distinctive 
+punctate pattern. Antibodies staining the apical surface of ducts were detected 
+rarely in patients with antiRo/La autoantibody-positive primary SS (1/76) and RA 
+(1/36) and were found in only 1115 with RA and secondary SS. ASDA were detected 
+in sera from 13/51 (25.5%) of patients referred to our clinic with limited sicca 
+symptoms who were anti-Ro/La antibody-negative and had no typical clinical or 
+laboratory features of classical primary SS. The apical ductal staining pattern 
+was not observed with sera from 63 healthy controls without sicca symptoms or in 
+patients with autoimmune and infective disorders. Twelve of the 13 patients 
+whose sera gave ASDA-like staining were blood group O and one group A. Ductal 
+staining was abolished in all sera after absorption with blood group AB 
+erythrocytes or AB antigen. In 5 patients ductal staining was removed by 
+absorption with B erythrocytes but not with A erythrocytes; in the remainder 
+ductal reactivity was abolished by both A and B erythrocytes.
+CONCLUSION: ASDA seem to occur rarely in patients with primary SS and RA. 
+However, isotype-switched IgG AB blood group antibodies cross react with primate 
+salivary ducts and may produce false positive ASDA staining. Detection of ASDA 
+may be of value in identifying a subset of patients who present with mild sicca 
+symptoms without other autoimmune features.

@@ -1,0 +1,16 @@
+A novel linear multifunctional polyethylene glycol (PEG)-dexamethasone (Dex) 
+conjugate (click PEG-Dex) was synthesized using facile Cu(I)-catalyzed Huisgen 
+1,3-dipolar cycloaddition (a click reaction). Dex was conjugated to the click 
+PEG via an acid-labile hydrazone bond to allow the drug release in a 
+pathophysiological environment. To evaluate click PEG's potential as a versatile 
+drug delivery platform, the click PEG-Dex conjugates were tested in an 
+adjuvant-induced arthritis (AA) rat model. In vivo optical imaging data 
+confirmed the arthrotropism of the conjugates in the arthritic rats. A long-term 
+treatment study revealed that a single click PEG-Dex conjugate administration 
+provided sustained (>15 days) amelioration of ankle joint inflammation to the AA 
+rats. Treatment with an equivalent dose of dexamethasone phosphate sodium (free 
+Dex) only provided temporal resolution of the arthritis, which recurred upon 
+treatment withdrawal. Further histological and bone mineral density comparison 
+between the ankle joints from both click PEG-Dex and free Dex treatment groups 
+confirmed the superior anti-inflammatory and disease modifying effects of the 
+novel polymer-drug conjugates.

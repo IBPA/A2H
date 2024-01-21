@@ -1,0 +1,32 @@
+Rheumatoid arthritis (RA) and spondyloarthritis (SpA) are chronic diseases 
+characterized by activation of the immune system and production of antibodies. 
+Thus, rheumatoid factor, anti-animal IgG antibodies and heterophilic antibodies 
+in plasma samples from arthritis patients can interfere with immunoassays such 
+as sandwich enzyme-linked immunosorbent assay (ELISA) systems often used in 
+arthritis research. However, standard methodologies on how to test for false 
+results caused by these antibodies are lacking. The objective of this study was 
+to design a simple set of steps to validate a sandwich ELISA before using it for 
+measuring analytes in plasma from arthritis patients. An interleukin-24 (IL-24) 
+sandwich ELISA system was prepared with a monoclonal mouse capture antibody and 
+a polyclonal goat detection antibody and tested for interference by rheumatoid 
+factor, anti-animal IgG antibodies and heterophilic antibodies. Plasma samples 
+from 23 patients with RA and SpA were used. No differences were found between 
+plasma samples measured in wells coated with anti-IL-24 specific antibody and in 
+wells coated with isotype control antibody (false positive results), and 
+recombinant human IL-24 was not recovered in spiked samples (false negative 
+results). This interference was removed after preincubating the plasma samples 
+from patients with arthritis with goat or bovine IgG, suggesting that 
+anti-animal IgG antibodies found in the plasma of the arthritis patients caused 
+the false results. Additional testing showed that the signal-to-noise ratio 
+could be increased by titration of the capture and detection antibodies and by 
+using the ELAST amplification system. Finally, the calculated concentration of 
+IL-24 was increased in ethylenediaminetetraacetic acid (EDTA) plasma compared to 
+heparin plasma and serum and decreased with repetitive freeze/thaw cycles of the 
+samples illustrating how sample handling could additionally contribute to the 
+variations reported by different laboratories in measurement of the same 
+analyte. This study proposes a simple set of validation steps to evaluate and 
+optimize a sandwich ELISA before using it for measuring analytes in plasma from 
+arthritis patients. Anti-animal IgG antibodies are also present in healthy 
+individuals, suggesting that validation of ELISA systems for measuring 
+non-arthritis samples could also be improved by this simple set of validation 
+steps.

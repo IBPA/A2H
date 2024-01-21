@@ -1,0 +1,21 @@
+Collagen-induced arthritis is a mouse model of rheumatoid arthritis (RA) and is 
+commonly induced after immunization with type II collagen (CII) of a non-mouse 
+origin. T cell recognition of heterologous CII epitopes has been shown to be 
+critical in development of arthritis, as mice with cartilage-restricted 
+transgenic expression of the heterologous T cell epitope (MMC mice) are 
+partially tolerized to CII. However, the mechanism responsible for tolerance and 
+arthritis resistance in these mice is unclear. The present study investigated 
+the regulatory mechanisms in naturally occurring self-tolerance in MMC mice. We 
+found that expression of heterologous rat CII sequence in the cartilage of mice 
+positively selects autoreactive CD4(+) T cells with suppressive capacity. 
+Although CD4(+)CD25(+) cells did not play a prominent role in this suppression, 
+CD152-expressing T cells played a crucial role in this tolerance. MMC CD4(+) T 
+cells were able to suppress proliferation of wild-type cells in vitro where this 
+suppression required cell-to-cell contact. The suppressive capability of MMC 
+cells was also demonstrated in vivo, as transfer of such cells into wild-type 
+arthritis susceptible mice delayed arthritis onset. This study also determined 
+that both tolerance and disease resistance were CD152-dependent as demonstrated 
+by Ab treatment experiments. These findings could have relevance for RA because 
+the transgenic mice used express the same CII epitope in cartilage as humans and 
+because autoreactive T cells, specific for this epitope, are present in 
+transgenic mice as well as in patients with RA.

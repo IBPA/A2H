@@ -1,0 +1,27 @@
+OBJECTIVES: Local cryotherapy is widely and empirically used in the adjuvant 
+setting in rheumatoid arthritis treatment, however its own therapeutic and 
+anti-inflammatory effects are poorly characterized. We aimed to evaluate the 
+effects of local cryotherapy on local and systemic inflammation in 
+Adjuvant-induced arthritis, a murine model of rheumatoid arthritis.
+METHODS: The effects of mild hypothermia (30°C for 2 hours) on cytokine protein 
+levels (Multiplex/ELISA) were evaluated in vitro in cultured rat 
+adjuvant-induced arthritis patellae. In vivo, local cryotherapy was applied 
+twice a day for 14 days in arthritic rats (ice: n = 10, cold gas: n = 9, 
+non-treated: n = 10). At day 24 after the induction of arthritis, cytokine 
+expression levels were measured in grinded hind paws (Q-RT-PCR) and in the 
+plasma (Multiplex/ELISA).
+RESULTS: In vitro, punctual mild hypothermia down-regulated IL-6 protein 
+expression. In vivo, ice showed a better efficacy profile on the arthritis score 
+and joint swelling and was better tolerated, while cold gas induced a biphasic 
+response profile with initial, transient arthritis worsening. Local cryotherapy 
+also exerted local and systemic anti-inflammatory effects, both at the gene and 
+the protein levels: IL-6, IL-17A and IL-1β gene expression levels were 
+significantly down-regulated in hind paws. Both techniques decreased plasma 
+IL-17A while ice decreased plasma IL-6 protein levels. By contrast, we observed 
+no effect on local/systemic TNF-α pathway.
+CONCLUSIONS: We demonstrated for the first time that sub-chronically applied 
+local cryotherapy (ice and cold gas) is an effective and well-tolerated 
+treatment in adjuvant-induced arthritis. Furthermore, we provided novel insights 
+into the cytokine pathways involved in Local cryotherapy's local and systemic 
+anti-inflammatory effects, which were mainly IL-6/IL-17A-driven and TNF-α 
+independent in this model.

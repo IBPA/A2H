@@ -1,0 +1,18 @@
+Clostridium difficile is the most important enteropathogen involved in gut 
+nosocomial post-antibiotic infections. The emergence of hypervirulent strains 
+has contributed to increased mortality and morbidity of CDI. The C. difficile 
+toxins contribute directly to CDI-associated lesions of the gut, but other 
+bacterial factors are needed for the bacteria to adhere and colonize the 
+intestinal epithelium. The C. difficile flagella, which confer motility and 
+chemotaxis for successful intestinal colonization, could play an additional role 
+in bacterial pathogenesis by contributing to the inflammatory response of the 
+host and mucosal injury. Indeed, by activating the TLR5, flagella can elicit 
+activation of the MAPK and NF-κB cascades of cell signaling, leading to the 
+secretion of pro-inflammatory cytokines. In the current study, we demonstrate, 
+by using an animal model of CDI, a synergic effect of flagella and toxins in 
+eliciting an inflammatory mucosal response. In this model, the absence of 
+flagella dramatically decreases the degree of mucosal inflammation in mice and 
+the sole presence of toxins without flagella was not enough to elicit epithelial 
+lesions. These results highlight the important role of C. difficile flagella in 
+eliciting mucosal lesions as long as the toxins exert their action on the 
+epithelium.

@@ -1,0 +1,23 @@
+Chronic peripheral inflammation mediated by cytokines such as TNFα, IL-1β, and 
+IL-6 is associated with psychiatric disorders like depression and anxiety. 
+However, it remains elusive which distinct type of peripheral inflammation 
+triggers neuroinflammation and affects hippocampal plasticity resulting in 
+depressive-like behavior. We hypothesized that chronic peripheral inflammation 
+in the human TNF-α transgenic (TNFtg) mouse model of rheumatoid arthritis 
+spreads into the central nervous system and induces depressive state manifested 
+in specific behavioral pattern and impaired adult hippocampal neurogenesis. 
+TNFtg mice showed severe erosive arthritis with increased IL-1β and IL-6 
+expression in tarsal joints with highly elevated human TNF-α levels in the 
+serum. Intriguingly, IL-1β and IL-6 mRNA levels were not altered in the 
+hippocampus of TNFtg mice. In contrast to the pronounced monocytosis in joints 
+and spleen of TNFtg mice, signs of hippocampal microgliosis or astrocytosis were 
+lacking. Furthermore, locomotion was impaired, but there was no 
+locomotion-independent depressive behavior in TNFtg mice. Proliferation and 
+maturation of hippocampal neural precursor cells as well as survival of newly 
+generated neurons were preserved in the dentate gyrus of TNFtg mice despite 
+reduced motor activity and peripheral inflammatory signature. We conclude that 
+peripheral inflammation in TNFtg mice is mediated by chronic activation of the 
+innate immune system. However, severe peripheral inflammation, though impairing 
+locomotor activity, does not elicit depressive-like behavior. These structural 
+and functional findings indicate the maintenance of hippocampal immunity, 
+cellular plasticity, and behavior despite peripheral innate inflammation.

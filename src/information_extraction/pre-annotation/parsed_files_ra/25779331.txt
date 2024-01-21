@@ -1,0 +1,27 @@
+OBJECTIVE: Infiltration of neutrophils into the joints plays an important role 
+in bone erosion and articular destruction in rheumatoid arthritis (RA). 
+Neutrophil trafficking during inflammation is a process that involves activation 
+of chemotactic receptors. Recent findings suggest that changes in chemotactic 
+receptor patterns could occur in neutrophils under certain inflammatory 
+conditions. The aim of this study was to evaluate the gain of responsiveness of 
+neutrophils to CCL2 in RA patients and to assess the role of CCL2 in driving 
+neutrophil infiltration into the joints.
+METHODS: Neutrophils were purified from the peripheral blood of patients with RA 
+or from mice with antigen-induced arthritis (AIA). Expression of CCR2 was 
+evaluated using polymerase chain reaction, flow cytometry, and 
+immunofluorescence analyses. In vitro chemotaxis to CCL2 was assayed to evaluate 
+the functional significance of de novo CCR2 expression. The murine AIA model was 
+used to evaluate the in vivo role of CCR2 in neutrophil infiltration into the 
+joints.
+RESULTS: High CCR2 expression and responsiveness to CCL2 were observed in 
+neutrophils from the blood of patients with early RA and in neutrophils from the 
+blood and bone marrow of mice with AIA. Genetic deficiency or pharmacologic 
+inhibition of CCR2 protected against the infiltration of neutrophils into the 
+joints. This protection was not associated with an impairment of the neutrophil 
+chemotactic ability or CXC chemokine production in the joints. Moreover, 
+adoptive transfer of wild-type mouse neutrophils to CCR2-deficient mice restored 
+neutrophil infiltration and the articular mechanical hyperalgesia associated 
+with joint inflammation.
+CONCLUSION: These findings suggest that CCR2 is directly involved in the 
+detrimental infiltration of neutrophils into the joints in patients with RA, 
+showing a new inflammatory role of CCR2 during RA flares or active disease.

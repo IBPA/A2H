@@ -1,0 +1,22 @@
+Clostridium difficile (C. difficile), an enterobacteria, flourishes and produces 
+potent toxins, toxin A (TcdA) and toxin B (TcdB), after the disruption of the 
+normal colonic microbiota by antibiotic therapy. C. difficile infection (CDI) 
+may induce life-threatening complications such as fulminant colitis through 
+damage of the intestinal wall by the toxins, therefore the prevention of CDI 
+recurrence is the most important in CDI treatment. Bezlotoxumab is a human 
+monoclonal antibody that neutralizes the activity of TcdB directly. The antibody 
+inhibited cytotoxicity by TcdB derived from various ribotypes of C. difficile at 
+a concentration (EC50) of 1/150 or less of the serum concentration (Cmax: 
+169 μg/mL) in CDI patients at the clinical dose. Moreover the anti-cytotoxicity 
+effects of the antibody were also observed against 81 clinically isolated C. 
+difficile strains (incl. 018 [smz] and 369 [trf]: Japanese prevalent ribotypes; 
+027: hypervirulent ribotype) obtained in Japan and western countries. The 
+antibody prolonged survival time of hamster and rat CDI models in a 
+dose-dependent manner. In clinical phase III studies (MODIFY I and II), the 
+recurrence rate of CDI up to 12 weeks after administration of the bezlotoxumab 
+group was significantly lower (P<0.0001) than the placebo group. Bezlotoxumab is 
+the world's first drug with an indication for reduce recurrence of CDI. In 
+Japan, bezlotoxumab was approved for marketing in September, and launched in 
+December in 2017. Bezlotoxumab is effective for broad ribotypes of C. difficile, 
+therefore it expects to contribute to CDI treatment through the reduce 
+recurrence of the CDI.

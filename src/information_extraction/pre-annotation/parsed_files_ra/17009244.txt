@@ -1,0 +1,28 @@
+OBJECTIVE: The IKK complex regulates NF-kappaB activation, an important pathway 
+implicated in the rheumatoid arthritis (RA) disease process. This study was 
+undertaken to assess the efficacy of 
+N-(6-chloro-7-methoxy-9H-beta-carbolin-8-yl)-2-methylnicotinamide (ML120B), a 
+potent and selective small molecule inhibitor of IKKbeta.
+METHODS: Polyarthritis was induced in rats by injection of Freund's complete 
+adjuvant into the hind footpad. ML120B was administered orally twice daily, 
+either prophylactically or therapeutically. Paw volumes and body weights were 
+measured every 2-3 days throughout the study. We assessed bone erosions by 
+several methods: histologic evaluation, quantitative micro-computed tomography 
+(micro-CT) imaging analysis, and measurement of type I collagen fragments in the 
+serum. Quantitative polymerase chain reaction was used to evaluate expression of 
+messenger RNA for genes related to inflammation and to bone and cartilage 
+integrity.
+RESULTS: Oral administration of ML120B inhibited paw swelling in a 
+dose-dependent manner (median effective dosage 12 mg/kg twice daily) and offered 
+significant protection against arthritis-induced weight loss as well as 
+cartilage and bone erosion. We were able to directly demonstrate that NF-kappaB 
+activity in arthritic joints was reduced after ML120B administration. Also, we 
+observed that down-regulation of the NF-kappaB pathway via IKKbeta inhibition 
+dampened the chronic inflammatory process associated with rat adjuvant-induced 
+arthritis.
+CONCLUSION: The results of the present study suggest that IKKbeta inhibition is 
+an effective therapeutic approach to treat both the inflammation and the 
+bone/cartilage destruction observed in RA. Methods for the determination of 
+serum markers for bone and cartilage destruction, as well as micro-CT analysis, 
+may aid in predicting and evaluating the therapeutic efficacy of IKKbeta 
+inhibition therapy in humans.

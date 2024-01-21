@@ -1,0 +1,15 @@
+Interleukin (IL)-6 is a pleiotropic cytokine that has crucial roles in the 
+regulation of immune response, inflammation and hematopoiesis. Recently, a new 
+inflammatory helper T cell subset which produces IL-17A (IL-17), termed Th17 
+cells was identified and has been reported to be involved in the development and 
+pathogenesis of collagen induced arthritis (CIA) and experimental autoimmune 
+encephalomyelitis (EAE), which are known as the mouse model of rheumatoid 
+arthritis and multiple sclerosis, respectively. It has been demonstrated that 
+IL-6 together with TGF-beta induces the differentiation of Th17 cells from naive 
+helper T cells in vitro. However, IL-6 independent pathway of Th17 
+differentiation has also been reported, suggesting that the role of IL-6 in vivo 
+in these diseases remains unclear. With the treatment of anti-IL-6R antibody in 
+CIA and EAE, we could suppress the differentiation of antigen specific Th17 
+cells and the onset of diseases. These results indicate that IL-6 is involved in 
+the induction of Th17 cells in vivo, and anti-IL-6R antibody might be a 
+promising therapy of Th17-mediated autoimmune diseases.

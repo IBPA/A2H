@@ -1,0 +1,24 @@
+Interleukin (IL)-18 is a member of the IL-1 cytokine family. Its expression is 
+increased in rheumatoid arthritis synovium, and its proinflammatory effects have 
+been demonstrated in experimental models of murine arthritis. Here, we 
+investigate the actions of varying doses of recombinant rat IL-18 (rIL-18) on 
+the course of type II collagen-induced arthritis (CIA) in BB rats, including 
+clinical and immune events, plus splenic cytokine production. Small doses of 
+rIL-18 (10 and 50 microg/rat) administered intraperitoneally (i.p.) increased 
+arthritis incidence and severity (P < 0.01) when a low-potency CII preparation 
+was used for immunization. IgG1 and IgG2a anti-CII antibody levels were 
+significantly greater in rats given 10 and 50 microg rIL-18 doses than controls. 
+rIL-18 significantly increased levels of proinflammatory cytokines [interferon 
+(IFN)-gamma, IL-2, tumour necrosis factor (TNF)-alpha and IL-6] produced by 
+splenocyte cultures. Larger doses of rIL-18 (300 microg/rat) suppressed 
+arthritis and immunity. To ascertain whether the pro-arthritic effects of IL-18 
+could be attenuated, rats were treated with neutralizing rabbit anti-rIL-18 IgG 
+before immunization with a high-potency CII preparation. When given serially for 
+3 weeks, the incidence and severity of CIA, in addition to anti-CII IgG2a and 
+splenic IL-6 and IFN-gamma production, were all significantly reduced. Similar 
+results were noted when antibody was given twice, just before arthritis onset. 
+These results demonstrate that IL-18 plays an important proinflammatory role in 
+the pathogenesis of CIA which is achieved, in part, by an immunostimulatory 
+action. Neutralizing endogenous IL-18 with antibodies attenuated CIA, CII 
+immunity and cytokine responses. These studies support the use of IL-18 
+antagonists as treatments for inflammatory arthritis.

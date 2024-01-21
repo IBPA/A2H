@@ -1,0 +1,21 @@
+Clostridium difficile is considered to be one of the major cause of infectious 
+diarrhea in healthcare systems worldwide. Symptoms of C. difficile infection are 
+caused largely by the production of two cytotoxins: toxin A (TcdA) and toxin B 
+(TcdB). Vaccine development is considered desirable as it would decrease the 
+mounting medical costs and mortality associated with C. difficile infections. 
+Biodegradable nanoparticles composed of poly-γ-glutamic acid (γ-PGA) and 
+chitosan have proven to be a safe and effective antigen delivery system for many 
+viral vaccines. However, few studies have used this efficient antigen carrier 
+for bacterial vaccine development. In this study, we eliminated the toxin 
+activity domain of toxin B by constructing a recombinant protein rTcdB consists 
+of residues 1852-2363 of TcdB receptor binding domain. The rTcdB was 
+encapsulated in nanoparticles composed of γ-PGA and chitosan. Three rounds of 
+intraperitoneal vaccination led to high anti-TcdB antibody responses and 
+afforded mice full protection mice from lethal dose of C. difficile spore 
+challenge. Protection was associated with high levels of toxin-neutralizing 
+antibodies, and the rTcdB-encapsulated NPs elicited a longer-lasting antibody 
+titers than antigen with the conventional adjuvant, aluminum hydroxide. 
+Significant reductions in the level of proinflammatory cytokines and chemokines 
+were observed in vaccinated mouse. These results suggested that polymeric 
+nanocomplex-based vaccine design can be useful in developing vaccine against C. 
+difficile infections.

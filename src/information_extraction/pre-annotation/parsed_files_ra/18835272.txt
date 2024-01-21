@@ -1,0 +1,19 @@
+Various experimental and epidemiological studies have demonstrated that helminth 
+infections affect outcomes of allergic or autoimmune disorders. Here, we 
+examined the effects of Schistosoma mansoni infection on mouse collagen-induced 
+arthritis, one of the most widely used animal models for rheumatoid arthritis. 
+Male DBA/1 mice were infected with S. mansoni 2 weeks prior to being immunized 
+with type II collagen (IIC). Cytokine mRNA expression in mouse paws, cytokine 
+production by ConA-stimulated spleen cells, and anti-IIC antibodies were 
+evaluated in addition to the severity of arthritis. S. mansoni infection 
+significantly reduced the severity of arthritis. Anti-IIC IgG and IgG2a levels 
+were lower in infected than uninfected mice. With regard to cytokine producing 
+potentials in the infected mice, the down-regulation of Th1 (IFNgamma) and 
+pro-inflammatory cytokines (TNFalpha and IL-17A), and up-regulation of Th2 
+(IL-4) and an anti-inflammatory cytokine (IL-10) were observed.In addition, 
+real-time PCR revealed that the augmentation of pro-inflammatory mediators such 
+as IL-1 beta, IL-6 and receptor activator of NFkappaB ligand in inflamed paws 
+was abrogated by S. mansoni infection [corrected]. In conclusion, schistosome 
+infection reduced the severity of autoimmune arthritis via systemic and local 
+suppression of pro-inflammatory mediators, suggesting the potential of 
+parasite-derived materials as therapeutic agents against rheumatoid arthritis.

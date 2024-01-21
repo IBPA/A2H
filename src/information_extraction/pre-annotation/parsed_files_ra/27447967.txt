@@ -1,0 +1,21 @@
+BACKGROUND: Ulcerative colitis (UC) is a chronic inflammatory bowel disease that 
+is associated with an increased risk of colorectal cancer in 8-10 years after 
+disease onset. Current colitis treatment strategies do not offer a cure for the 
+disease, but only treat the symptoms with limited success and dangerous 
+side-effects. Also, there is no preventive treatment for either UC or colorectal 
+cancer. Quinacrine is an anti-malarial drug with versatile use in the treatment 
+of diseases involving inflammatory response such as rheumatoid arthritis and 
+lupus erythematosus. It also has putative anti-cancer effect. Quinacrine's 
+anti-inflammatory, anti-oxidant properties, and anti-tumorigenic properties make 
+it a potential small molecule preventive agent for both UC and associated 
+colorectal cancer.
+RESULTS: There were obvious changes in the CDI, histology, and inflammatory load 
+in quinacrine-treated groups in a dose and time dependent manner in both models 
+of UC, induced by chemical or haptenating agent.
+MATERIALS AND METHODS: We tested quinacrine at two different doses as a colitis 
+treatment agent in two mouse models of UC - the dextran sulfate sodium and 
+oxazolone. The clinical disease index (CDI), histological changes of the colon, 
+levels of inflammatory markers (Cox-2, iNOS, p53) and overall health vitals were 
+evaluated.
+CONCLUSIONS: We demonstrate that quinacrine successfully suppresses colitis 
+without any indication of toxicity or side-effects in two mouse models of UC.

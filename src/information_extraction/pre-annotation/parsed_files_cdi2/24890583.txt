@@ -1,0 +1,24 @@
+Clostridium difficile infection (CDI) is a common, debilitating infection with 
+high morbidity and mortality. C. difficile causes diarrhea and intestinal 
+inflammation by releasing two toxins, toxin A and toxin B. The macrolide 
+antibiotic fidaxomicin was recently shown to be effective in treating CDI, and 
+its beneficial effect was associated with fewer recurrent infections in CDI 
+patients. Since other macrolides possess anti-inflammatory properties, we 
+examined the possibility that fidaxomicin alters C. difficile toxin A-induced 
+ileal inflammation in mice. The ileal loops of anesthetized mice were injected 
+with fidaxomicin (5, 10, or 20 μM), and after 30 min, the loops were injected 
+with purified C. difficile toxin A or phosphate-buffered saline alone. Four 
+hours after toxin A administration, ileal tissues were processed for 
+histological evaluation (epithelial cell damage, neutrophil infiltration, 
+congestion, and edema) and cytokine measurements. C. difficile toxin A caused 
+histologic damage, evidenced by increased mean histologic score and ileal 
+interleukin-1β (IL-1β) protein and mRNA expression. Treatment with fidaxomicin 
+(20 μM) or its primary metabolite, OP-1118 (120 μM), significantly inhibited 
+toxin A-mediated histologic damage and reduced the mean histology score and 
+ileal IL-1β protein and mRNA expression. Both fidaxomicin and OP-1118 reduced 
+toxin A-induced cell rounding in human colonic CCD-18Co fibroblasts. Treatment 
+of ileal loops with vancomycin (20 μM) and metronidazole (20 μM) did not alter 
+toxin A-induced histologic damage and IL-1β protein expression. In addition to 
+its well known antibacterial effects against C. difficile, fidaxomicin may 
+possess anti-inflammatory activity directed against the intestinal effects of C. 
+difficile toxins.

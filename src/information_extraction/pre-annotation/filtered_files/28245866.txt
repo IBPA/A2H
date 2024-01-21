@@ -1,0 +1,28 @@
+BACKGROUND: Rheumatoid arthritis synovial fibroblasts (RASFs) are known to 
+travel via the bloodstream from sites of cartilage destruction to new locations 
+where they reinitiate the destructive processes at distant articular cartilage 
+surfaces. In this study, we examined the role of interleukin (IL)-1-induced 
+cartilage changes and their chemotactic effect on RASF transmigratory capacity.
+METHODS: To investigate synovial fibroblast (SF) transmigration through 
+endothelial layers, we used a modified Boyden chamber with an endothelioma cell 
+layer (bEnd.5) as a barrier and IL-1-treated murine cartilage explants as a 
+chemotactic stimulus for SFs from human tumor necrosis factor-transgenic 
+(hTNFtg) mice. We injected recombinant IL-1 or collagenase into knee joints of 
+wild-type mice, followed by tail vein injection of fluorescence-labeled hTNFtg 
+SFs. The distribution and intensity of transmigrating hTNFtg SFs were measured 
+by fluorescence reflectance imaging with X-ray coregistration. Toluidine blue 
+staining was performed to evaluate the amount of cartilage destruction.
+RESULTS: Histomorphometric analyses and in vivo imaging revealed a high degree 
+of cartilage proteoglycan loss after intra-articular IL-1 and collagenase 
+injection, accompanied by an enhanced in vivo extravasation of hTNFtg SFs into 
+the respective knee joints, suggesting that structural cartilage damage 
+contributes significantly to the attraction of hTNFtg SFs into these joints. In 
+vitro results showed that degraded cartilage was directly responsible for the 
+enhanced transmigratory capacity because stimulation with IL-1-treated 
+cartilage, but not with IL-1 or cartilage alone, was required to increase hTNFtg 
+SF migration.
+CONCLUSIONS: The present data indicate that structural cartilage damage 
+facilitates the migration of arthritic SF into affected joints. The prevention 
+of early inflammatory cartilage damage may therefore help prevent the 
+progression of rheumatoid arthritis and its spread to previously unaffected 
+joints.

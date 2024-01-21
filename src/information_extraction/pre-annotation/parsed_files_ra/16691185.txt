@@ -1,0 +1,19 @@
+Cia27 on rat chromosome 10 is a collagen-induced arthritis (CIA) severity 
+quantitative trait locus originally identified in a study of (DA x ACI) F2. As 
+an initial step towards the positional cloning of the Cia27 gene, a 17 cM (21 
+Mb) interval from the DA strain (arthritis-susceptible) containing the 
+two-logarithm of odds support interval comprising Cia27 was introgressed into 
+the ACI (arthritis-resistant) background through genotype-guided congenic 
+breeding. ACI.DA(Cia27) congenics developed a significantly more severe form of 
+arthritis (CIA), with a 5.9-fold increase in median arthritis severity index, a 
+parameter known to correlate with synovial inflammation, and cartilage and bone 
+erosions, compared with ACI (P< or =0.001). The arthritis severity enhancing 
+effect could be detected from day 21 onwards. Rats heterozygous at the congenic 
+interval developed a disease similar to ACI rats, suggesting that DA alleles 
+operate in a recessive manner. Levels of autoantibodies anti-rat type II 
+collagen did not correlate with arthritis severity. Synovial tissue mRNA levels 
+of interleukin-1beta (IL-1beta) were significantly increased in ACI.DA(Cia27) 
+congenics compared with ACI. These results demonstrate that Cia27 harbors a 
+novel arthritis severity regulatory gene. The identification of this gene should 
+facilitate the identification of the rheumatoid arthritis gene mapped to the 
+human syntenic region on chromosome 17q22-q25.

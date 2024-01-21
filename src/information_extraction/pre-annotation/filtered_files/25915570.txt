@@ -1,0 +1,22 @@
+Blockade of the complement cascade at the C5a/C5a receptor (C5aR)-axis is 
+believed to be an attractive treatment avenue in rheumatoid arthritis (RA). 
+However, the effects of such interventions during the early phases of arthritis 
+remain to be clarified. In this study we use the murine delayed-type 
+hypersensitivity arthritis (DTHA) model to study the very early effects of a 
+blocking, non-depleting anti-C5aR mAb on joint inflammation with treatment 
+synchronised with disease onset, an approach not previously described. The DTHA 
+model is a single-paw inflammatory arthritis model characterised by synchronised 
+and rapid disease onset driven by T-cells, immune complexes and neutrophils. We 
+show that a reduction in paw swelling, bone erosion, cartilage destruction, 
+synovitis and new bone formation is apparent as little as 60 h after 
+administration of a single dose of a blocking, non-depleting anti-mouse C5aR 
+mAb. Importantly, infiltration of neutrophils into the joint and synovium is 
+also reduced following a single dose, demonstrating that C5aR signalling during 
+the early stage of arthritis regulates neutrophil infiltration and activation. 
+Furthermore, the number of T-cells in circulation and in the draining popliteal 
+lymph node is also reduced following a single dose of anti-C5aR, suggesting that 
+modulation of the C5a/C5aR axis results in effects on the T cell compartment in 
+inflammatory arthritis. In summary, these data demonstrate that blockade of C5aR 
+leads to rapid and significant effects on arthritic disease development in a 
+DTHA model strengthening the rationale of C5aR-blockade as a treatment strategy 
+for RA, especially during the early stages of arthritis flare.

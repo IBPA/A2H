@@ -1,0 +1,31 @@
+Normal and abnormal extracellular matrix turnover is thought to result, in part, 
+from the balance in the expression of metalloproteinases and tissue inhibitors 
+of metalloproteinases (TIMPs). The clinical manifestations of an imbalance in 
+these relationships are evident in a variety of pathologic states, including 
+osteoarthritis, deficient long-bone growth, rheumatoid arthritis, tumor 
+invasion, and inadequate cartilage repair. Articular cartilage defects commonly 
+heal as fibrocartilage, which is structurally inferior to the normal hyaline 
+architecture of articular cartilage. Transforming growth factor-beta 1 
+(TGF-beta1), a cytokine central to growth, repair, and inflammation, has been 
+shown to upregulate TIMP-1 expression in human and bovine articular cartilage. 
+Additionally, members of the TGF-beta superfamily are thought to play key roles 
+in chondrocyte growth and differentiation. Bone morphogenetic protein-2 (BMP-2), 
+a member of this superfamily, has been shown to regulate chondrocyte 
+differentiation states and extracellular matrix composition. It was proposed 
+that, by optimizing extracellular matrix composition, BMP-2 would enhance 
+articular cartilage healing. After determining the release kinetics of BMP-2 
+from a collagen type I implant (Long-Evans male rats; two implants/rat, n = 14), 
+it was found that, in a tissue engineering application, BMP-2 induced a 
+hyaline-like repair of New Zealand White rabbit knee articular cartilage defects 
+(3-mm full-thickness defects in the femoral trochlea; 2 defects/rabbit, n = 36). 
+The quality of cartilage repair with BMP-2 (with or without chondrocytes) was 
+significantly better than defects treated with BMP-2, as assessed by a 
+quantitative scoring scale. Immunohistochemical staining revealed TIMP-1 
+production in the cartilage defects treated with BMP-2. When studied in vitro, 
+it was found that BMP-2 markedly increased TIMP-1 mRNA by both bovine articular 
+and human rib chondrocytes. Additionally, increased TIMP-1 mRNA was translated 
+into increased TIMP-1 protein production by bovine chondrocytes. Taken together, 
+these data suggest that BMP-2 may be a useful cytokine to improve healing of 
+cartilaginous defects. Furthermore, these data suggest that the beneficial 
+effects of BMP-2 may be, in part, related to alterations in extracellular matrix 
+turnover.

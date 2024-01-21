@@ -1,0 +1,15 @@
+Significant comorbidites and lethality complicate GVHD and its treatment. 
+Targeting the cytokine milieu may improve GVHD control; and IL6 is an attractive 
+candidate, given its role in dendritic cell activation and T-cell 
+differentiation. Tocilizumab is a humanized mAb to IL6-receptor-α (IL6R-α), 
+which is Food and Drug Administration-approved for treatment of rheumatoid 
+arthritis. Mouse transplant models have demonstrated that IL6 blockade also 
+improves GVHD scores and survival. Definitive immunologic effects of IL6 
+inhibition have not emerged given inconsistent alterations in regulatory T cells 
+(Tregs) and suppression of T-cell proliferation. Despite on-target suppression 
+of IL6R-α signaling in human monocyte-derived dendritic cells (moDCs) and T 
+cells, our data show no effect on moDC maturation/activation, alloreactive 
+T-cell proliferation, Treg expansion, or allogeneic Th1/Th17 responses in vitro. 
+These findings merit attention in any clinical trials of tocilizumab for GVHD 
+prevention or treatment and provide a rationale for evaluating more specific 
+inhibitors of downstream JAK2/STAT3 signaling as well.

@@ -1,0 +1,14 @@
+Reactive oxygen species (ROS) are key mediators of mammalian cellular damage and 
+are associated with diseases such as aging, arteriosclerosis, inflammation, 
+rheumatoid arthritis and diabetes. Type 1 diabetes develops upon the destruction 
+of pancreatic β-cells, which is partly due to ROS activity. In this study, we 
+investigated the cytoprotective and anti-oxidative effects of fractionated 
+mulberry extracts in mouse insulin-producing pancreatic β-cells (MIN6N cells). 
+Treatment with hydrogen peroxide (H2O2) induced significant cell death and 
+increased intracellular ROS levels, lipid peroxidation and DNA fragmentation in 
+the MIN6N cells. Fractionated mulberry extracts significantly reduced the 
+H2O2-dependent production of intracellular ROS, 2,2-diphenyl-1-picrylhydrazyl 
+(DPPH) radicals and lipid peroxidation. In addition, mulberry extracts inhibited 
+DNA fragmentation induced by H2O2. Thus, the antioxidant properties of mulberry 
+extracts in pancreatic β-cells may be exploited for the prevention or treatment 
+of type 1 diabetes.

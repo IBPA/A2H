@@ -1,0 +1,20 @@
+BACKGROUND: Anti-inflammatory gene therapy is promising in inflammatory diseases 
+such as rheumatoid arthritis (RA). We have previously demonstrated that 
+intra-muscular (i.m.) electrotransfer (ET) of plasmids encoding three different 
+human tumor necrosis factor-alpha-soluble receptor I variants (hTNFR-Is) exert 
+protective effects in an experimental RA model. However, such a systemic 
+approach could be responsible for side effects. The present study aimed at 
+performing an intra-articular (i.a.) gene therapy by electrotransfer using the 
+hTNFR-Is plasmids.
+METHODS AND RESULTS: We evaluated targeting of mice joints by CCD optical 
+imaging after i.a. ET of a luciferase-encoding plasmid and we showed that ET led 
+to strongly increased transgene expression in a plasmid dose-dependent manner. 
+Moreover, articular and seric hTNFR-Is was detectable for 2 weeks. As expected, 
+systemic hTNFR-Is rates were lower after i.a. ET than after i.m. ET. A longer 
+protein secretion could be achieved with several i.a. ETs. Also, we observed 
+that hTNFR-Is expression within arthritic joints was slightly higher than in 
+normal joints.
+CONCLUSIONS: In collagen-induced arthritis (CIA), a mouse model for RA, we 
+demonstrated that hTNFR-Is/mIgG1-encoding plasmid i.a. ET decreased joint 
+destruction in the ankles. In conclusion, our results suggest that local TNFR-Is 
+gene therapy may play a role in decreasing joint destruction in CIA.

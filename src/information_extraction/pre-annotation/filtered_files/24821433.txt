@@ -1,0 +1,19 @@
+Acid-sensing ion channels (ASICs) are extracellular pH sensors activated by 
+protons, which influence retinal activity and phototransduction. Among all 
+ASICs, ASIC1a is abundantly expressed in the retina and involved in normal 
+retinal activity. Chloroquine, which has been used in the treatment of malaria, 
+rheumatoid arthritis and systemic lupus erythematosus, has been shown to be 
+toxic to the retina. However, the underlying mechanisms remain unclear. In this 
+study, we investigated the role of chloroquine in phototransduction by measuring 
+the electroretinogram (ERG). The effect of chloroquine on acid-evoked currents 
+in either isolated rat retinal ganglion neurons (RGNs) or Chinese hamster ovary 
+(CHO) cells transfected with ASIC1a were assessed using a whole-cell patch-clamp 
+technique. Chloroquine reduced the b-wave of scotopic 0.01 and photopic 3.0 and 
+amplitudes of oscillatory potentials (OPs), an effect which was almost 
+completely reversed by PcTx1, an ASIC1a-specific channel blocker. Further, 
+patch-clamp experiments demonstrated that chloroquine reduced the peak current 
+amplitude and prolonged the activation and desensitization of ASIC1a currents. 
+These chloroquine-induced effects on the kinetics of ASIC 1a were dose-, pH- and 
+Ca(2+)-dependent. Taken together, these results demonstrate that chloroquine 
+affects vision conduction by directly modifying the kinetics of ASIC1a. Such a 
+mechanism, may, in part, explain the retinal toxicity of chloroquine.

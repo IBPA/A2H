@@ -1,0 +1,23 @@
+Epidemiological studies have linked periodontitis to rheumatoid arthritis (RA). 
+Porphyromonas gingivalis (Pg) was reported recently to produce citrullinated 
+protein (CP) and increase anti-cyclic CP antibody (ACPA), both of which have 
+been identified as causative factors of RA. In the present study, we determined 
+the effects of Pg infection on the exacerbation of RA in a mouse model. RA model 
+mice (SKG mice) were established by an intraperitoneal (i.p.) injection of 
+laminarin (LA). Mice were divided into six groups, Ctrl (PBS injection), LA (LA 
+injection), Pg/LA (Pg + LA injection), Pg (Pg injection), Ec/LA (Escherichia 
+coli and LA injection) and Ec (E. coli injection). In order to evaluate RA, 
+joint swelling by the arthritis score, bone morphology by microcomputed 
+tomography (microCT), haematoxylin and eosin staining, ACPA, matrix 
+metalloproteinase-3 (MMP-3) and cytokine level in serum by enzyme-linked 
+immunosorbent assay were determined. Osteoclast differentiation from bone marrow 
+mononuclear cells (BMCs) was examined to clarify the underlying mechanisms of 
+RA. The presence of Pg and CP in joint tissue was also investigated. The 
+arthritis score was threefold higher in the Pg/LA group than in the LA group. 
+Severe bone destruction was observed in joint tissue of the Pg/LA group. A 
+microCT analysis of the Pg/LA group revealed a decrease in bone density. ACPA, 
+MMP-3, interleukin (IL)-2, IL-6, CXCL1 and macrophage inflammatory protein 
+(MIP)-1α levels from the Pg/LA group were the highest. The osteoclastogenesis of 
+BMCs was enhanced in the Pg/LA group. Furthermore, large amounts of Pg 
+components and CP were detected in the Pg/LA group. In conclusion, Pg infection 
+has the potential to exacerbate RA.

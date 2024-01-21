@@ -1,0 +1,15 @@
+Agkistrodon in Chinese medicine has long been used as an effective treatment 
+against rheumatoid arthritis (RA). The present research further investigated the 
+effects of peptides extracted from the crude Agkistrodon on the RA rat model. 
+Extracted peptides were separated by parameter-optimized ion-exchange 
+chromatography (IEC), peptide fractions were further analysed by MALDI-TOF/TOF 
+MS, and nano-LC-MS/MS acquired mass spectra were further characterized using 
+Mascot software, which ranks the best matches in the NCBI database. RT-PCR 
+results in RAW264.7 cells indicated that Agkistrodon peptide components had 
+inhibitory effects against inflammatory cytokines. The therapeutic efficacy of 
+Agkistrodon peptides was evaluated on the Wistar rats with collagen-induced 
+arthritis. Symptom relief and reduced cartilage destruction and bone erosion 
+were observed, which can be explained by the direct suppression of inflammatory 
+cytokines in the joints. Agkistrodon peptides downregulate the expression of 
+TNF-α, IL-1β, and IL-6, which may alleviate cartilage destruction and bone 
+erosion, thus relieving symptoms of RA.

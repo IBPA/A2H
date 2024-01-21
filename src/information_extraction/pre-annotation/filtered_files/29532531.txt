@@ -1,0 +1,25 @@
+BACKGROUND: Rheumatoid arthritis (RA) patients are at increased risk of insulin 
+resistance (IR); however, the specific mechanisms mediating this association are 
+currently unknown.
+OBJECTIVE: To investigate whether the inflammatory activity associated with RA 
+accounts for the observed defective glucose metabolism and lipid metabolism in 
+these patients.
+METHODS: We followed two main strategies: (i) extensive metabolic profiling of a 
+RA cohort of 100 patients and 50 healthy control subjects and (ii) mechanistic 
+studies carried out in both a collagen-induced arthritis mouse model and 3T3-L1 
+adipocytes treated with conditioned serum from RA patients.
+RESULTS: Following the exclusion of obese and diabetic subjects, data from RA 
+patients demonstrated a strong link between the degree of systemic inflammation 
+and the development of IR. These results were strengthened by the observation 
+that induction of arthritis in mice resulted in a global inflammatory state 
+characterized by defective carbohydrate and lipid metabolism in different 
+tissues. Adipose tissue was most susceptible to the RA-induced metabolic 
+alterations. These metabolic effects were confirmed in adipocytes treated with 
+serum from RA patients.
+CONCLUSIONS: Our results show that the metabolic disturbances associated with RA 
+depend on the degree of inflammation and identify inflammation of adipose tissue 
+as the initial target leading to IR and the associated molecular disorders of 
+carbohydrate and lipid homeostasis. Thus, we anticipate that therapeutic 
+strategies based on tighter control of inflammation and flares could provide 
+promising approaches to normalize and/or prevent metabolic alterations 
+associated with RA.

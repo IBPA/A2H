@@ -1,0 +1,20 @@
+There is considerable evidence that osteoclasts are involved in the pathogenesis 
+of focal bone erosion in rheumatoid arthritis. Tumor necrosis factor-related 
+activation-induced cytokine, also known as receptor activator of nuclear 
+factor-kappaB ligand (TRANCE/RANKL) is an essential factor for osteoclast 
+differentiation. In addition to its role in osteoclast differentiation and 
+activation, TRANCE/RANKL also functions to augment T-cell dendritic cell 
+cooperative interactions. To further evaluate the role of osteoclasts in focal 
+bone erosion in arthritis, we generated inflammatory arthritis in the 
+TRANCE/RANKL knockout mouse using a serum transfer model that bypasses the 
+requirement for T-cell activation. These animals exhibit an osteopetrotic 
+phenotype characterized by the absence of osteoclasts. Inflammation, measured by 
+clinical signs of arthritis and histopathological scoring, was comparable in 
+wild-type and TRANCE/RANKL knockout mice. Microcomputed tomography and 
+histopathological analysis demonstrated that the degree of bone erosion in 
+TRANCE/RANKL knockout mice was dramatically reduced compared to that seen in 
+control littermate mice. In contrast, cartilage erosion was present in both 
+control littermate and TRANCE/RANKL knockout mice. These results confirm the 
+central role of osteoclasts in the pathogenesis of bone erosion in arthritis and 
+demonstrate distinct mechanisms of cartilage destruction and bone erosion in 
+this animal model of arthritis.

@@ -1,0 +1,23 @@
+Synthetic glucocorticoids (GCs), including dexamethasone (DEX), are powerful 
+anti-inflammatory drugs. Long-term use of GCs, however, can result in metabolic 
+side effects such as hyperglycemia, hepatosteatosis, and insulin resistance. The 
+GC receptor (GR) and liver X receptors (LXRα and LXRβ) regulate overlapping 
+genes involved in gluconeogenesis and inflammation. We have previously shown 
+that Lxrβ-/- mice are resistant to the diabetogenic effects of DEX but still 
+sensitive to its immunosuppressive actions. To determine whether this finding 
+could be exploited for therapeutic intervention, we treated mice with GSK2033, a 
+pan-LXR antagonist, alone or combined with DEX. GSK2033 suppressed GC-induced 
+gluconeogenic gene expression without affecting immune-responsive GR target 
+genes. The suppressive effect of GSK2033 on DEX-induced gluconeogenic genes was 
+specific to LXRβ, was liver cell autonomous, and occurred in a target 
+gene-specific manner. Compared with DEX treatment alone, the coadministration of 
+GSK2033 with DEX decreased the recruitment of GR and its accessory factors MED1 
+and C/EBPβ to the phosphoenolpyruvate carboxykinase promoter. However, GSK2033 
+had no effect on DEX-mediated suppression of inflammatory genes expressed in the 
+liver or in mouse primary macrophages stimulated with lipopolysaccharides. In 
+conclusion, our study provides evidence that the gluconeogenic and 
+immunosuppressive actions of GR activation can be mechanistically dissociated by 
+pharmacological antagonism of LXRβ. Treatment with an LXRβ antagonist could 
+allow the safer use of existing GC drugs in patients requiring chronic dosing of 
+anti-inflammatory agents for the treatment of diseases such as rheumatoid 
+arthritis and inflammatory bowel disease.

@@ -1,0 +1,20 @@
+Rheumatoid arthritis results from a T cell-driven inflammation in the synovial 
+membrane that is frequently associated with the formation of tertiary lymphoid 
+structures. The significance of this extranodal lymphoid neogenesis is unknown. 
+Microdissection was used to isolate CD4 T cells residing in synovial tissue T 
+cell/B cell follicles. CD4 T cells with identical TCR sequences were represented 
+in independent, nonadjacent follicles, suggesting recognition of the same Ag in 
+different germinal centers. When adoptively transferred into rheumatoid 
+arthritis synovium-SCID mouse chimeras, these CD4 T cell clones enhanced the 
+production of IFN-gamma, IL-1beta, and TNF-alpha. In vivo activity of adoptively 
+transferred CD4 T cells required matching of HLA-DRB1 alleles and also the 
+presence of T cell/B cell follicles. HLA-DRB1-matched synovial tissues that were 
+infiltrated by T cells, macrophages, and dendritic cells, but that lacked B 
+cells, did not support the activation of adoptively transferred CD4 T cell 
+clones, raising the possibility that B cells provided a critical function in T 
+cell activation or harbored the relevant Ag. Dependence of T cell activation on 
+B cells was confirmed in B cell depletion studies. Treatment of chimeric mice 
+with anti-CD20 mAb inhibited the production of IFN-gamma and IL-1beta, 
+indicating that APCs other than B cells could not substitute in maintaining T 
+cell activation. The central role of B cells in synovial inflammation identifies 
+them as excellent targets for immunosuppressive therapy.

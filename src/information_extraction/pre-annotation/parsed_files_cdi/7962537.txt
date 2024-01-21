@@ -1,0 +1,24 @@
+Clostridium difficile toxin A (Tx-A) mediates secretion and inflammation in 
+experimental enterocolitis. Intravital video microscopy was used to define the 
+mechanisms that underlie the inflammatory reactions elicited by direct exposure 
+of the microvasculature to Tx-A. Leukocyte adherence and emigration, 
+leukocyte-platelet aggregation, and extravasation of FITC-albumin were monitored 
+in rat mesenteric venules exposed to Tx-A. Significant increases in leukocyte 
+adherence and emigration (LAE) and albumin leakage were noted within 15-30 min 
+of Tx-A exposure. These responses were accompanied by mast cell degranulation 
+and the formation of platelet-leukocyte aggregates. The Tx-A-induced increases 
+in LAE and albumin leakage were significantly attenuated by pretreatment with 
+either monoclonal antibodies (mAbs) directed against the leukocyte adhesion 
+glycoproteins, CD11/CD18, intercellular adhesion molecule-1, and P-selectin (but 
+not E-selectin) or with sialyl Lewis x, a counter-receptor for P-selectin. The 
+mast cell stabilizer, lodoxamide, an H1- (but not an H2-) receptor antagonist, 
+and diamine oxidase (histaminase) were also effective in reducing the LAE and 
+albumin leakage elicited by Tx-A. The platelet-leukocyte aggregation response 
+was blunted by an mAb against P-selectin, sialyl Lewis x, and the H1-receptor 
+antagonist. These observations indicate that Tx-A induces a leukocyte-dependent 
+leakage of albumin from postcapillary venules. Mast cell-derived histamine 
+appears to mediate at least part of the leukocyte-endothelial cell adhesion and 
+platelet-leukocyte aggregation by engaging H1-receptors on endothelial cells and 
+platelets to increase the expression of P-selectin. The adhesion glycoproteins 
+CD11/CD18 and intercellular adhesion molecule-1 also contribute to the 
+inflammatory responses elicited by toxin A.

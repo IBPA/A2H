@@ -1,0 +1,22 @@
+To evaluate the potential relationship between rheumatoid arthritis and 
+arachidonic acid (AA) metabonomics via cyclooxygenase (COX) and lipoxygenase 
+(LOX) pathways, a UPLC-MS/MS method has been developed and validated for 
+simultaneous and quantitative profiling of eicosanoid metabolome in rat plasma. 
+The analytes were extracted from plasma samples by protein precipitation 
+procedure, and then separated on a Shim-pack XR-ODS column with mobile phase A 
+(0.05% formic acid in water, pH=3.3 adjusted with dilute ammonium hydroxide) and 
+mobile phase B [methanol: acetonitrile (20:80, v/v)]. The detection was 
+performed on UPLC-MS/MS system with an electro spray ion source in the negative 
+ion and multiple reaction-monitoring modes. The developed method was optimized 
+to completely separate all twenty-three analytes and three internal standards in 
+12min. All standard calibration curves were linear and the calibration 
+regression coefficients were ranged from 0.9903 to 0.9992 for all analytes. The 
+recoveries of analytes were all more than 60%. By means of the method developed, 
+the plasma samples from model rats and normal rats had been successfully 
+determined. Results showed that AA and fifteen kinds of metabolites by LOX and 
+COX pathways in model rat plasma were significant higher than those in normal 
+ones(P<0.05), while 5-HpETE and LTD4 in model rat plasma were significantly 
+lower than those in normal ones(P<0.05). The methods demonstrated the changes of 
+eicosanoid metabolome occurring in plasma from rat subjects with rheumatoid 
+arthritis. It could be a powerful manner to diagnostic and/or prognostic values 
+for rheumatoid arthritis.

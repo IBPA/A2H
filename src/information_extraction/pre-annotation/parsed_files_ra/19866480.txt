@@ -1,0 +1,25 @@
+BACKGROUND: Rheumatoid arthritis (RA) is a complex disease characterized by 
+autoimmune inflammation and joint destruction. Despite recent advances in RA 
+treatment, current therapies require further improvement to overcome adverse 
+events and ineffectiveness in some cases. By targeting different 
+pathways/molecules using drug combinations, a better treatment can be obtained, 
+whereas adverse events are reduced. In order to develop a new treatment option, 
+the present study employs a gene therapy-based combination therapy using 
+doxycycline and human alpha-1 antitrypsin (hAAT).
+METHODS: DBA/1 mice were immunized with type II collagen to induce arthritis. 
+Four weeks before immunization, they received a doxycycline containing diet and 
+a single injection of adeno-associated virus vector expressing hAAT under the 
+control of a tetracycline-dependent promoter. Control groups received 
+doxycycline alone or saline. Macroscopic arthritis development as well as 
+histopathological changes in the joint were evaluated. In addition, the effects 
+of hAAT and doxycycline on lipopolysaccharide (LPS)- or tumor necrosis 
+factor-alpha-induced interleukin (IL)-6 production from mouse fibroblast cells 
+were also determined.
+RESULTS: Combination therapy significantly reduced arthritis development and 
+progression compared to the control group in respect to macroscopic as well as 
+histopathological changes. Doxycycline and hAAT in combination also inhibited 
+IL-6 expression from LPS-stimulated NIH/3T3 mouse fibroblast cells, indicating a 
+contributing mechanism of arthritis inhibition.
+CONCLUSIONS: The results obtained in the present study indicate that a 
+combination therapy using AAT and doxycycline holds promising potential as a new 
+therapy for RA.

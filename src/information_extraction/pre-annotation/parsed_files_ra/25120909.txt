@@ -1,0 +1,12 @@
+Glucocorticoids are effective drugs used for the treatment of inflammatory 
+diseases such as rheumatoid arthritis or asthma. Furthermore, they regulate 
+various physiological processes, including bone remodeling. However, long-term 
+high- and even low-dose glucocorticoid use is associated with a compromised bone 
+quality and an increased fracture risk. At the cellular level, glucocorticoids 
+suppress bone formation and stimulate bone resorption, which leads to loss of 
+bone mass. To investigate the underlying mechanisms and new therapeutic 
+strategies, the in vivo model for glucocorticoid-induced bone loss is widely 
+used. This protocol outlines the common procedure that is currently used for the 
+induction of bone loss in mice using glucocorticoids. It further provides useful 
+hints and highlights possible pitfalls to take into account before starting an 
+experiment.

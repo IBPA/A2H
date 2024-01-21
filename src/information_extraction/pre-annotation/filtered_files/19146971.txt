@@ -1,0 +1,22 @@
+The contribution of inducible nitric oxide synthase (iNOS) to 
+oxidative/nitrative stress is well-documented in inflammation, but difficult to 
+quantify. Using a novel, recently developed assay for 3-nitrotyrosine (3-NT), we 
+characterized iNOS activity and its inhibition in preclinical models of 
+inflammation. In particular, we utilized the 3-NT assay to assess the role of 
+iNOS in the disease pathology as well as for proof of pharmacology of iNOS 
+inhibitors in an acute endotoxin challenge model, in models of rheumatoid 
+arthritis (RA) such as rat adjuvant- and collagen-induced arthritis (AIA and 
+CIA) and a model of osteoarthritis (OA) such as rat sodium 
+monoiodoacetate-induced arthritis (MIA). Quantification of nitrotyrosine was 
+performed using immuno-affinity 2-D LC-MS/MS assay. This assay is a very 
+specific and reproducible and is amenable to a number of biological fluids. 
+Plasma levels of 3-NT were significantly elevated in an acute model of 
+inflammation (rat LPS) and in models of rheumatoid arthritis (adjuvant- and 
+collagen-induced arthritis), and osteoarthritis (monoiodoacetate-induced 
+arthritis). Plasma 3-NT correlated with the severity of the inflammatory 
+response; thus, a 20-fold increase was observed in the rat LPS model, a 10-fold 
+increase in AIA, and only a 2.5-fold elevation in CIA. Pharmacological 
+intervention with iNOS inhibitors decreased 3-NT levels and associated 
+pathology. 3-NT determination allowed for better elucidation of the role of iNOS 
+in RA and OA disease pathology and provided proof of pharmacology for NOS 
+inhibitors in animal models of RA and OA.

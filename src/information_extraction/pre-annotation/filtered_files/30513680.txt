@@ -1,0 +1,17 @@
+This study was performed to elucidate the molecular function of the synoviocyte 
+proliferation-associated in collagen-induced arthritis (CIA) 1/serum amyloid 
+A-like 1 (SPACIA1/SAAL1) in mice CIA, an animal model of rheumatoid arthritis 
+(RA), and human RA-synovial fibroblasts (RASFs). SPACIA1/SAAL1-deficient mice 
+were generated and used to create mouse models of CIA in mild or severe disease 
+conditions. Cell cycle-related genes, whose expression levels were affected by 
+SPACIA1/SAAL1 small interfering RNA (siRNA), were screened. Transcriptional and 
+post-transcriptional effects of SPACIA1/SAAL1 siRNA on cyclin-dependent kinase 
+(cdk) 6 gene expression were investigated in human RASFs. 
+SPACIA1/SAAL1-deficient mice showed later onset and slower progression of CIA 
+than wild-type mice in severe disease conditions, but not in mild conditions. 
+Expression levels of cdk6, but not cdk4, which are D-type cyclin partners, were 
+downregulated by SPACIA1/SAAL1 siRNA at the post-transcriptional level. The 
+exacerbation of CIA depends on SPACIA1/SAAL1 expression, although CIA also 
+progresses slowly in the absence of SPACIA1/SAAL1. The CDK6, expression of which 
+is up-regulated by the SPACIA1/SAAL1 expression, might be a critical factor in 
+the exacerbation of CIA.

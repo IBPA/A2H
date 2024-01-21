@@ -1,0 +1,18 @@
+RNA interference (RNAi) provides a powerful means of sequence-specific gene 
+silencing. Several studies show that RNAi may provide promising strategies to 
+treat human diseases by suppressing disease responsible genes in vivo. In 
+locomotor diseases, the progression of collagen-induced arthritis (CIA) is 
+suppressed by tumor necrosis factor-alpha (TNF-alpha)-specific small interfering 
+RNA (siRNA) delivered into the joint. The aim of this study, is to compare the 
+effects of intraarticularly administered siRNAs targeting TNF-alpha, 
+interleukin-1beta (IL-1beta), interleukin-6 (IL-6) and receptor activator of 
+NF-kappaB ligand (RANKL) on CIA in rats. We confirmed that the silencing effects 
+of siRNA duplexes specific for rat TNF-alpha, IL-1beta, IL-6 and RANKL in vitro. 
+Each siRNA was also delivered into the knee joint of CIA rats by the in vivo 
+electroporation method 7, 10, 13 and 16 days after immunization with collagen. 
+Local delivery of TNF-alpha or IL-1beta-specific siRNA ameliorated CIA in rats 
+effectively at the gross morphological, radiographical and histological 
+evaluations. Our results suggested that TNF-alpha and IL-1beta were the 
+cytokines to be targeted in the joint for the treatment of rheumatoid arthritis. 
+The in vivo siRNA transfection method may be useful for selection of target 
+molecules to be silenced for treatment of joint diseases.

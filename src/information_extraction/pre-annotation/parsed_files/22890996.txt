@@ -1,0 +1,25 @@
+The indigenous microbial community of the gastrointestinal (GI) tract determines 
+susceptibility to Clostridium difficile colonization and disease. Previous 
+studies have demonstrated that antibiotic-treated mice challenged with C. 
+difficile either developed rapidly lethal C. difficile infection or were stably 
+colonized with mild disease. The GI microbial community of animals with mild 
+disease was dominated by members of the bacterial family Lachnospiraceae, while 
+the gut community in moribund animals had a predominance of Escherichia coli. We 
+investigated the roles of murine Lachnospiraceae and E. coli strains in 
+colonization resistance against C. difficile in germfree mice. Murine 
+Lachnospiraceae and E. coli isolates were cultured from wild-type mice. The 
+ability of each of these isolates to interfere with C. difficile colonization 
+was tested by precolonizing germfree mice with these bacteria 4 days prior to 
+experimental C. difficile challenge. Mice precolonized with a murine 
+Lachnospiraceae isolate, but not those colonized with E. coli, had significantly 
+decreased C. difficile colonization, lower intestinal cytotoxin levels and 
+exhibited less severe clinical signs and colonic histopathology. Infection of 
+germfree mice or mice precolonized with E. coli with C. difficile strain VPI 
+10463 was uniformly fatal by 48 h, but only 20% mortality was seen at 2 days in 
+mice precolonized with the Lachnospiraceae isolate prior to challenge with VPI 
+10463. These findings confirm that a single component of the GI microbiota, a 
+murine Lachnospiraceae isolate, could partially restore colonization resistance 
+against C. difficile. Further study of the members within the Lachnospiraceae 
+family could lead to a better understanding of mechanisms of colonization 
+resistance against C. difficile and novel therapeutic approaches for the 
+treatment and prevention of C. difficile infection.

@@ -1,0 +1,19 @@
+Several G protein-coupled receptors which stimulate phospholipase C (PLC) also 
+activate phospholipase D (PLD) in cardiomyocytes. Here, we characterized PLD 
+activation in neonatal rat cardiomyocytes by the PLC-stimulatory thrombin 
+receptor PAR1, in comparison to the endothelin-1 receptor ET(A)R, which induces 
+PLD stimulation by activation of protein kinase C (PKC) delta and epsilon. 
+Similar to ET(A)R, activation of PAR1 induced PLD stimulation, which, however, 
+was insensitive to PKC inhibition. Furthermore, in contrast to ET(A)R, PLD 
+stimulation by PAR1 was suppressed by overexpression of regulators of G protein 
+signaling specific for G(12)-type G proteins and treatment with brefeldin A, an 
+inhibitor of guanine nucleotide exchange factors for ADP-ribosylation factor 
+(ARF) GTPases. On the other hand, inactivation of Rho GTPases by Clostridium 
+difficile toxin B and treatment with general tyrosine kinase inhibitors 
+suppressed PAR1- and ET(A)R- as well as phorbol ester-induced PLD stimulation 
+and was associated with a fall in the cellular level of phosphatidylinositol 
+4,5-bisphosphate (PIP(2)). We conclude that, in contrast to ET(A)R-PLD coupling, 
+PAR1-induced cardiomyocyte PLD stimulation is PKC-independent and mediated by 
+G(12)-type G proteins and ARF GTPases, while Rho and tyrosine kinases regulate 
+PLD stimulation by either receptor, apparently by controlling the cellular level 
+of PIP(2), a common regulator of PLD activity.

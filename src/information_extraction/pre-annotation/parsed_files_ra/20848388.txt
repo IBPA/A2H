@@ -1,0 +1,24 @@
+The objective of this investigation was to develop novel colon specific drug 
+delivery. Aceclofenac, a NSAID, was successfully encapsulated into chitosan 
+microspheres. Various formulations were prepared by varying the ratio of 
+chitosan, span-85 and stirring speed and the amount of glutaraldehyde. The SEM 
+study showed that microspheres have smooth surfaces. Microspheres were 
+characterised by Fourier transform infrared (FTIR) spectroscopy and differential 
+scanning calorimetry (DSC) to confirm the absence of chemical interactions 
+between drug and polymer and to know the formation of microspheres structure. 
+The microspheres were evaluated for particle size, encapsulation efficiency, 
+drug loading capacity, mucoadhesion studies, stability studies, in vitro and in 
+vivo drug release studies. Particle sizes, as measured by the laser light 
+scattering technique, were of an average size in the range 41-80 µm. The 
+swelling index was in the range 0.37-0.82 and the entrapment efficiency range 
+was 51-75% for all the formulations. The optimised batch ACM(13) released 83.6% 
+at 8 h and 104% at 24 h in SCF containing rat caecal content. Eudragit coated 
+chitosan microspheres prevented the release of the aceclofenac in the 
+physiological environment of the stomach and small intestine and released 
+95.9±0.34% in the colon. With regard to release kinetics, the data were best 
+fitted with the Higuchi model and showed zero order release with non-Fickian 
+diffusion mechanism. The in vivo findings suggest that aceclofenac microspheres 
+exhibit a prolonged effect of aceclofenac in rats and produce a significant 
+anti-inflammatory effect. The findings of the present study conclusively state 
+that chitosan microspheres are promising for colon targeting of aceclofenac to 
+synchronise with chronobiological symptoms of rheumatoid arthritis.

@@ -1,0 +1,29 @@
+BACKGROUND: The pre-symptomatic stage of Rheumatoid arthritis (RA) is associated 
+with pro-inflammatory cytokines and autoantibodies. High levels and epitope 
+spread by Rheumatoid factors (RhF) and autoantibodies to citrullinated proteins 
+signify progression towards disease expression. In established RA, the 
+persistence of high autoantibody levels reflects production by both long-lived 
+plasma cells and short-lived plasmablasts. Neither the relative contributions to 
+pathogenesis by autoantibodies from either source, nor the factors responsible 
+for deciding the fate of autoantigen specific 'parent' B-cells, is understood. 
+Phenotypic markers identifying subsets of autoreactive B-cells are therefore of 
+interest in understanding the origin and perpetuation of the autoimmune response 
+in RA. One such phenotypic marker is the rat monoclonal antibody, 9G4, which 
+recognises an idiotope on immunoglobuins derived from the inherently 
+autoreactive VH-gene, VH4-34. We therefore investigated whether the 9G4 idiotope 
+was expressed on autoantibodies in patients with RA.
+METHODOLOGY/PRINCIPAL FINDINGS: Sera from 19 patients with established RA and 
+those with <1year history of untreated polyarthritis either resolving into RA 
+(n = 42) or non-RA diagnosis (n = 31) were included. Autoantibodies to cyclic 
+citrullinated peptides (CCP), RhF and co-expression of the 9G4 idiotope were 
+measured by ELISA. 9G4 recognised a population of anti-CCP antibodies in the 
+majority of sera from patients with established disease and also in samples from 
+patients with early disaese. 9G4+RhF levels were generally lower and not 
+associated with positivity for, or levels of 9G4+CCP.
+CONCLUSIONS/SIGNIFICANCE: The persistence of 9G4+ immunoglobulins, of any 
+isotype, in serum is rare. We describe here the novel finding of 9G4 expression 
+on anti-CCP antibodies in patients from the earliest symptoms of RA through to 
+established disease. Our results suggest that 9G4 expression on anti-CCP 
+autoantibodies was not due to polyclonal expansion of VH4-34-encoded 
+immunoglobulins. These studies may therefore provide a new focus for 
+investigation into the evolution of the autoimmune response in RA patients.

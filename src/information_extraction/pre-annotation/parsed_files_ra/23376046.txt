@@ -1,0 +1,52 @@
+ETHNOPHARMACOLOGICAL RELEVANCE: Fuzi (lateral root of Aconitum carmichaeli) is a 
+popular traditional Chinese medicine well known for its both therapeutic and 
+high-toxic activities. Its toxic alkaloid ingredients, mainly aconitine, 
+mesaconitine, and hypaconitine, are responsible for the high toxicity. However, 
+to date, no detoxication strategy is available to completely eliminate Fuzi's 
+toxicity, and, whether Fuzi's efficacy could be kept after detoxication, remain 
+unknown and debatable.
+MATERIALS AND METHODS: The purpose of this study was to establish and validate a 
+complete-detoxication strategy for Fuzi via acute toxicity test, to clarify the 
+detoxication mechanism by HPLC and titrimetric analyses, and to evaluate the 
+therapeutic effect of detoxicated Fuzi on adjuvant arthritis (AA). Three 
+processed Fuzi (Bai-fu-pian) with 30-min, 60-min, and 120-min decoctions, 
+respectively, named dBfp-30, dBfp-60, and dBfp-120, were prepared for this 
+study. For the acute toxicity test, their oral doses to male and female Kunming 
+mice were up to 70-190g/kg body weight, and their toxicological profiles were 
+evaluated by median lethal dose (LD50), maximal tolerance dose (MTD), minimal 
+lethal dose (MLD), no-observed-adverse-effect-level (NOAEL), and 
+time-concentration-mortality (TCM) modeling methods using a 14-day schedule with 
+up to five doses. The HPLC analysis was performed to determine the 
+detoxication-induced changes in composition and amount of aconitine, 
+mesaconitine and hypaconitine in Fuzi, whilst the titrimetric method was adopted 
+to estimate the amount changes of Fuzi's total alkaloids. AA model was 
+established by incomplete Freund's adjuvant injection in Wistar rats, and the 
+animal's physiological (body weight, food intake, etc.), clinical (hind paw 
+volume), and immunological (IL-1 and TNF-α) parameters were assessed as markers 
+of inflammation and arthritis.
+RESULTS: With increasing decoction time, the acute toxicity of detoxicated Fuzi 
+became decreased in the following order: dBfp-30 (LD50 of 145.1g/kg; MTD of 
+70g/kg; MLD of 100g/kg; NOAEL of 70g/kg) >dBfp-60 (too large LD50; MTD of 
+160g/kg; MLD of 190g/kg; NOAEL of 100g/kg) >dBfp-120 (no LD50; unlimited MTD; 
+unlimited MLD; NOAEL of 130g/kg). dBfp-30 and dBfp-60 displayed the toxicity at 
+a dose-dependent manner with maximum mortalities reaching 100% and 50% 
+respectively, whereas no mortality or signs of intoxication was induced by 
+dBfp-120. The chemical analyses revealed a dramatic reduction of the toxic 
+alkaloids as well as total alkaloids in Fuzi after the detoxication, from which 
+no level of aconitine and only minimum residual of mesaconitine (0.56±0.02μg/g) 
+and hypaconitine (8.73±0.13μg/g) were detected in dBfp-120. However, no 
+significant difference of total alkaloid amount was found among dBfp-30, 
+dBfp-60, and dBfp-120 (P>0.05), suggesting an equivalent conversion from toxic 
+alkaloids to its non-toxic derivants in dBfp-120. Further, also no significant 
+differences were seen among dBfp-30, dBfp-60, and dBfp-120 for the therapeutic 
+effects on physiological, clinical, and immunological parameters in AA rat, 
+indicating that dBfp-120 is of non-toxicity and efficacy.
+CONCLUSIONS: A complete-detoxication strategy has been developed successfully 
+for ensuring the safe and effective use of Fuzi. The detoxication mechanism 
+associated with elimination of toxic alkaloids has kept Fuzi's efficacy, 
+indicating a non-interdependent relationship between its efficacy and toxicity. 
+This is the first report on such an optimal detoxication strategy and on the 
+application of detoxicated Fuzi in AA. It may provide in depth understanding to 
+the toxicological and pharmacological profiles of Fuzi and further benefit the 
+herbal drug development with safety and efficacy for disease especially RA 
+therapy.

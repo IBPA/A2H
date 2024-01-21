@@ -1,0 +1,24 @@
+Junctional adhesion molecule-C (JAM-C) is an adhesion molecule involved in 
+transendothelial migration of leukocytes. In this study, we examined JAM-C 
+expression in the synovium and investigated the role of this molecule in two 
+experimental mouse models of arthritis. JAM-C expression was investigated by 
+reverse transcriptase-polymerase chain reaction and immunohistochemistry. The 
+effects of a monoclonal anti-JAM-C antibody were assessed in antigen-induced 
+arthritis (AIA) and K/BxN serum transfer-induced arthritis. JAM-C was expressed 
+by synovial fibroblasts in the lining layer and associated with vessels in the 
+sublining layer in human and mouse arthritic synovial tissue. In human tissue, 
+JAM-C expression was increased in rheumatoid arthritis (RA) as compared to 
+osteoarthritis synovial samples (12.7 +/- 1.3 arbitrary units in RA versus 3.3 
++/- 1.1 in OA; p < 0.05). Treatment of mice with a monoclonal anti-JAM-C 
+antibody decreased the severity of AIA. Neutrophil infiltration into inflamed 
+joints was selectively reduced as compared to T-lymphocyte and macrophage 
+infiltration (0.8 +/- 0.3 arbitrary units in anti-JAM-C-treated versus 2.3 +/- 
+0.6 in isotype-matched control antibody-treated mice; p < 0.05). Circulating 
+levels of the acute-phase protein serum amyloid A as well as antigen-specific 
+and concanavalin A-induced spleen T-cell responses were significantly decreased 
+in anti-JAM-C antibody-treated mice. In the serum transfer-induced arthritis 
+model, treatment with the anti-JAM-C antibody delayed the onset of arthritis. 
+JAM-C is highly expressed by synovial fibroblasts in RA. Treatment of mice with 
+an anti-JAM-C antibody significantly reduced the severity of AIA and delayed the 
+onset of serum transfer-induced arthritis, suggesting a role for JAM-C in the 
+pathogenesis of arthritis.

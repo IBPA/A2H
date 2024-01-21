@@ -1,0 +1,15 @@
+Fecal microbiota transplantation (FMT) is effective in treating recurrent 
+Clostridium difficile infection (CDI). Bacterial colonization in recipients 
+after FMT has been studied, but little is known about the role of the gut fungal 
+community, or mycobiota. Here, we show evidence of gut fungal dysbiosis in CDI, 
+and that donor-derived fungal colonization in recipients is associated with FMT 
+response. CDI is accompanied by over-representation of Candida albicans and 
+decreased fungal diversity, richness, and evenness. Cure after FMT is associated 
+with increased colonization of donor-derived fungal taxa in recipients. 
+Recipients of successful FMT ("responders") display, after FMT, a high relative 
+abundance of Saccharomyces and Aspergillus, whereas "nonresponders" and 
+individuals treated with antibiotics display a dominant presence of Candida. 
+High abundance of C. albicans in donor stool also correlates with reduced FMT 
+efficacy. Furthermore, C. albicans reduces FMT efficacy in a mouse model of CDI, 
+while antifungal treatment reestablishes its efficacy, supporting a potential 
+causal relationship between gut fungal dysbiosis and FMT outcome.

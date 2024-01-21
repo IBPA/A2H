@@ -1,0 +1,22 @@
+Rheumatoid arthritis (RA) is a chronic autoimmune disease with significant 
+morbidity and mortality. Recent studies suggest that modulation of adenosine 
+signaling, a potent immunosuppressive pathway, is a promising approach for 
+treatment of RA. Extracellular adenosine can come from two sources: transport of 
+intracellular adenosine and hydrolysis of extracellular adenine nucleotides by 
+CD73. In this study, we investigated the susceptibility of CD73-deficient 
+C57BL/6 mice to collagen-induced arthritis (CIA), a well-established mouse model 
+of RA. Our data demonstrated that CD73-deficient mice are significantly more 
+susceptible to CIA than wild-type mice. CD73 deficiency resulted in an increased 
+production of proinflammatory cytokines in the joints, increased Th1 T cell 
+responses, and increased joint destruction. Surprisingly, this was accompanied 
+by delayed anticollagen IgG responses, suggesting defective isotype class 
+switching in CD73-deficient mice. Using bone marrow chimera mice, we 
+demonstrated that CD73 expression on nonhematopoietic cells, but not on 
+hematopoietic cells, was important for protection from CIA. We further 
+demonstrated that administration of a selective A2A adenosine receptor agonist 
+to CD73-deficient mice resulted in arthritis incidence similar to wild-type mice 
+in support of a protective role for A2A signaling. Taken together, our study 
+identifies CD73 as an important regulator of CIA in mice. It also strengthens 
+the notion that CD73-generated adenosine by nonhematopoietic cells plays a 
+protective role in RA and suggests that strategies able to enhance CD73 activity 
+or expression levels may be a valid therapeutic option.

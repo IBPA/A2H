@@ -1,0 +1,14 @@
+TNF-alpha, a potent proinflammatory cytokine, is synthesized as a 
+membrane-anchored precursor and proteolytically released from cells. Soluble TNF 
+is the primary mediator of pathologies such as rheumatoid arthritis, Crohn's 
+disease, and endotoxin shock. The TNF-alpha converting enzyme (TACE), a 
+disintegrin and metalloprotease 17 (ADAM17), has emerged as the best candidate 
+TNF sheddase, but other proteinases can also release TNF. Because TACE-deficient 
+mice die shortly after birth, we generated conditional TACE-deficient mice to 
+address whether TACE is the relevant sheddase for TNF in adult mice. In this 
+study, we report that TACE inactivation in myeloid cells or temporal 
+inactivation at 6 wk offers strong protection from endotoxin shock lethality in 
+mice by preventing increased TNF serum levels. These findings corroborate that 
+TACE is the major endotoxin-stimulated TNF sheddase in mouse myeloid cells in 
+vivo, thereby further validating TACE as a principal target for the treatment of 
+TNF-dependent pathologies.

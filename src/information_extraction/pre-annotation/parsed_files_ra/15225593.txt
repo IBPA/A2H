@@ -1,0 +1,30 @@
+A wide range of environmental stress and human disorders involves inappropriate 
+regulation of NF-kappaB, including cancers and numerous inflammatory conditions. 
+We have developed transgenic mice that express luciferase under the control of 
+NF-kappaB, enabling real-time non-invasive imaging of NF-kappaB activity in 
+intact animals. We show that, in the absence of stimulation, strong, intrinsic 
+luminescence is evident in lymph nodes in the neck region, thymus, and Peyer's 
+patches. Treating mice with stressors, such as TNF-alpha, IL-1alpha, or 
+lipopolysaccharide (LPS) increases the luminescence in a tissue-specific manner, 
+with the strongest activity observable in the skin, lungs, spleen, Peyer's 
+patches, and the wall of the small intestine. Liver, kidney, heart, muscle, and 
+adipose tissue exhibit less intense activities. Exposure of the skin to a low 
+dose of UV-B radiation increases luminescence in the exposed areas. In ocular 
+experiments, LPS- and TNF-alpha injected NF-kappaB-luciferase transgenic mice 
+exhibit a 20-40-fold increase in lens NF-kappaB activity, similar to other LPS- 
+and TNF-alpha-responsive organs. Peak NF-kappaB activity occurs 6h after 
+injection of TNF-alpha and 12h after injection of LPS. Peak activities occur, 
+respectively, 3 and 6h later than that in other tissues. Mice exposed to 
+360J/m(2) of UV-B exhibit a 16-fold increase in NF-kappaB activity 6h after 
+exposure, characteristically similar to TNF-alpha-exposed mice. Thus, in 
+NF-kappaB-luciferase transgenic mice, NF-kappaB activity also occurs in lens 
+epithelial tissue and is activated when the intact mouse is exposed to classical 
+stressors. Furthermore, as revealed by real-time non-invasive imaging, induction 
+of chronic inflammation resembling rheumatoid arthritis produces strong 
+NF-kappaB activity in the affected joints. Finally, we have used the model to 
+demonstrate NF-kappaB regulation by manipulating the Vitamin A status in mice. 
+NF-kappaB activity is elevated in mice fed a Vitamin A deficient (VAD) diet, and 
+suppressed by surplus doses of retinoic acid (RA). We thus demonstrate the 
+development and use of a versatile model for monitoring NF-kappaB activation 
+both in tissue homogenates and in intact animals after the use of classical 
+activators, during disease progression and after dietary intervention.

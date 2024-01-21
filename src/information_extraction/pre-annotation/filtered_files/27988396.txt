@@ -1,0 +1,23 @@
+BACKGROUNDS: Inula helenium L. is an herb with anti-inflammatory properties. 
+Sesquiterpene lactones (SLs), mainly alantolactone (AL) and isoalantolactone 
+(IAL), are considered as its active ingredients. However, the anti-inflammatory 
+effects of SL-containing extracts of I. helenium have not been explored. Here we 
+prepared total SLs from I. helenium (TSL-IHL), analyzed its chemical 
+constituents, and performed cellular and animal studies to evaluate its 
+anti-inflammatory activities.
+MATERIALS AND METHODS: The chemical profile of TSL-IHL was analyzed by HPLC-UV. 
+Its in vitro effects on the activation of signaling pathways and expression of 
+inflammatory genes were examined by western blotting and quantitative real-time 
+PCR, respectively, and compared with those of AL and IAL. Its in vivo 
+anti-inflammatory effects were evaluated in adjuvant- and collagen-induced 
+arthritis rat models.
+RESULTS: Chemical analysis showed that AL and IAL represent major constituents 
+of TSL-IHL. TSL-IHL, as well as AL and IAL, could inhibit TNF-α-induced 
+activation of NF-κB and MAPK pathways in b. End3 cells, suppress the expressions 
+of MMP-3, MCP-1, and IL-1 in TNF-α-stimulated synovial fibroblasts, and IL-1, 
+IL-6, and iNOS in LPS-activated RAW 264.7 cells in a dose-dependent manner in 
+the range of 0.6-2.4μg/mL. Oral administration of TSL-IHL at 12.5-50mg/kg could 
+dose-dependently alleviate the arthritic severity and paw swelling in either 
+developing or developed phases of arthritis of rats induced by adjuvant or 
+collagen CONCLUSIONS: These results indicated potentials of TSL-IHL in 
+prevention and therapy of rheumatoid arthritis.

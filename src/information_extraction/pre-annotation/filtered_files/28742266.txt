@@ -1,0 +1,19 @@
+This study was designed to explore the underlying mechanism of p-coumaric acid 
+(CA), a dietary polyphenol in adjuvant-induced arthritis (AIA) rat model with 
+reference to synovitis and osteoclastogenesis. Celecoxib (COX-2 selective 
+inhibitor) (5 mg/kg b.wt) was used as a reference drug. CA remarkably suppressed 
+the paw edema, body weight loss and inflammatory cytokine and chemokine levels 
+(TNF-α, IL-1β, IL-6, and MCP-1) in serum and ankle joint of arthritic rats. 
+Consistently, CA reduced the expression of osteoclastogenic factors (RANKL and 
+TRAP), pro-inflammatory cytokines (TNF-α, IL-1β, IL-6, and IL-17), and 
+inflammatory enzymes (iNOS and COX-2) in arthritic rats. However, OPG expression 
+was found elevated. Besides, the abundance of transcription factors (NF-κB-p65, 
+and p-NF-κB-p65, NFATc-1, and c-Fos) and MAP kinases (JNK, p-JNK, and ERK1/2) 
+expression was alleviated in CA administered arthritic rats. In addition, CA 
+truncated osteoclastogenesis by regulating the RANKL/OPG imbalance in arthritic 
+rats and suppressing the RANKL-induced NFATc-1 and c-Fos expression in vitro. 
+Radiological (CT and DEXA scan) and histological assessments authenticated that 
+CA inhibited TRAP, bone destruction and cartilage degradation in association 
+with enhanced bone mineral density. Taken together, our findings suggest that CA 
+demonstrated promising anti-arthritic effect and could prove useful as an 
+alternative drug in RA therapeutics. © 2017 BioFactors, 43(5):698-717, 2017.

@@ -1,0 +1,29 @@
+OBJECTIVE: Blocking tumor necrosis factor (TNF) effectively inhibits 
+inflammation and joint damage in rheumatoid arthritis (RA), but 40% of RA 
+patients respond only transiently or not at all to the current anti-TNF 
+biotherapies. The purpose of this study was to develop an alternative targeted 
+therapy for this subgroup of RA patients. As proof of concept, we tested the 
+efficiency of an RNA interference (RNAi)-based intervention that targets 
+proinflammatory cytokines in suppressing murine collagen-induced arthritis 
+(CIA).
+METHODS: Two synthetic short interfering RNA (siRNA) sequences were designed for 
+each of the proinflammatory cytokines interleukin-1 (IL-1), IL-6, and IL-18. 
+Their silencing specificity was assessed according to lipopolysaccharide-induced 
+messenger RNA expression in J774.1 mouse macrophages as compared with control 
+siRNA. For in vivo administration, siRNA were formulated as lipoplexes with the 
+RPR209120/DOPE liposome and a carrier DNA and were injected intravenously (0.5 
+mg/kg) into DBA/1 mice with CIA.
+RESULTS: Weekly injections of anti-IL-1, anti-IL-6, or anti-IL-18 siRNA-based 
+lipoplexes significantly reduced the incidence and severity of arthritis, 
+abrogating joint swelling and destruction of cartilage and bone, both in the 
+preventative and the curative settings. The most striking therapeutic effect was 
+observed when the 3 siRNA were delivered in combination. The siRNA lipoplex 
+cocktail reduced all pathologic features of RA, including inflammation, joint 
+destruction, and the Th1 response, and overall parameters of RA were improved as 
+compared with anti-TNF siRNA lipoplex-based treatment.
+CONCLUSION: Our results present a novel option for in vivo RNAi-based 
+antiinflammatory immunotherapy. Our findings indicate that intravenous 
+administration of a lipoplex cocktail containing several anticytokine siRNA is a 
+promising novel antiinflammatory therapy for RA, as well as a useful and simple 
+tool for understanding the pathophysiology of RA and for evaluating new 
+therapeutic candidates.

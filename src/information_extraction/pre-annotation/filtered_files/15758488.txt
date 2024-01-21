@@ -1,0 +1,17 @@
+Animal models of arthritis are used to study pathogenesis of disease and to 
+evaluate potential anti-arthritic drugs for clinical use. Therefore 
+morphological similarities to human disease and capacity of the model to predict 
+efficacy in humans are important criteria in model selection. Animal models of 
+rheumatoid arthritis (RA) with a proven track record of predictability for 
+efficacy in humans include: rat adjuvant arthritis, rat type II collagen 
+arthritis, mouse type II collagen arthritis and antigen-induced arthritis in 
+several species. Agents currently in clinical use (or trials) that are active in 
+these models include: corticosteroids, methotrexate, nonsteroidal 
+anti-inflammatory drugs, cyclosporin A, leflunomide interleukin-1 receptor 
+antagonist (IL-1ra) and soluble TNF receptors. For some of these agents, the 
+models also predict that toxicities seen at higher doses for prolonged dosing 
+periods would preclude dosing in humans at levels that might provide disease 
+modifying effects. Data, conduct and features of the various models of these 
+commonly utilized models of RA as well as some transgenic mouse models and less 
+commonly utilized rodent models will be discussed with emphasis on their 
+similarities to human disease.

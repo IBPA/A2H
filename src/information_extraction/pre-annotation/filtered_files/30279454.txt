@@ -1,0 +1,15 @@
+In oriental medicine, centipede Scolopendra subspinipes mutilans has long been 
+used as a remedy for rheumatoid arthritis (RA), a well-known chronic autoimmune 
+disorder. However, the molecular identities of its bioactive components have not 
+yet been extensively investigated. We sought to identify bioactive molecules 
+that control RA with a centipede. A novel antimicrobial peptide (AMP) 
+(scolopendrasin IX) was identified from Scolopendra subspinipes mutilans. 
+Scolopendrasin IX markedly activated mouse neutrophils, by enhancing cytosolic 
+calcium increase, chemotactic cellular migration, and generation of superoxide 
+anion in neutrophils. As a target receptor for scolopendrasin IX, formyl peptide 
+receptor (FPR)2 mediates neutrophil activation induced by the AMP. Furthermore, 
+scolopendrasin IX administration strongly blocked the clinical phenotype of RA 
+in an autoantibody-injected model. Mechanistically, the novel AMP inhibited 
+inflammatory cytokine synthesis from the joints and neutrophil recruitment into 
+the joint area. Collectively, we suggest that scolopendrasin IX is a novel 
+potential therapeutic agent for the control of RA via FPR2.

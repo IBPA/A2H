@@ -1,0 +1,18 @@
+The bacterial second messenger cyclic di-GMP (c-di-GMP) stimulates inflammation 
+by initiating innate immune cell recruitment and triggering the release of 
+proinflammatory cytokines and chemokines. These properties make c-di-GMP a 
+promising candidate for use as a vaccine adjuvant, and numerous studies have 
+demonstrated that administration of purified c-di-GMP with different antigens 
+increases protection against infection in animal models. Here, we have developed 
+a novel approach to produce c-di-GMP inside host cells as an adjuvant to exploit 
+a host-pathogen interaction and initiate an innate immune response. We have 
+demonstrated that c-di-GMP can be synthesized in vivo by transducing a 
+diguanylate cyclase (DGC) gene into mammalian cells using an adenovirus serotype 
+5 (Ad5) vector. Expression of DGC led to the production of c-di-GMP in vitro and 
+in vivo, and this was able to alter proinflammatory gene expression in murine 
+tissues and increase the secretion of numerous cytokines and chemokines when 
+administered to animals. Furthermore, coexpression of DGC modestly increased 
+T-cell responses to a Clostridium difficile antigen expressed from an adenovirus 
+vaccine, although no significant differences in antibody titers were observed. 
+This adenovirus c-di-GMP delivery system offers a novel method to administer 
+c-di-GMP as an adjuvant to stimulate innate immunity during vaccination.

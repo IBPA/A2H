@@ -1,0 +1,22 @@
+Cluster of differentiation 4(+) (CD4(+)) effector T-cell subsets [e.g., T-helper 
+(Th) 1 and Th17] are implicated in autoimmune and inflammatory disorders such as 
+multiple sclerosis, psoriasis, and rheumatoid arthritis. Interleukin (IL)-6 is a 
+pleiotropic cytokine that induces Th17 polarization via signaling through the 
+membrane-bound transducer glycoprotein 130 (GP130). Previously, we demonstrated 
+that n-3 (ω-3) polyunsaturated fatty acids (PUFAs) reduce CD4(+) T-cell 
+activation and differentiation into pathogenic Th17 cells by 25-30%. Here we 
+report that n-3 PUFAs alter the response of CD4(+) T cells to IL-6 in a lipid 
+raft membrane-dependent manner. Naive splenic CD4(+) T cells from fat-1 
+transgenic mice exhibited 30% lower surface expression of the IL-6 receptor. 
+This membrane-bound receptor is known to be shed during cellular activation, but 
+the release of soluble IL-6 receptor after treatment with anti-CD3 and anti-CD28 
+was not changed in the CD4(+) T cells from fat-1 mice, suggesting that the 
+decrease in surface expression was not due to ectodomain release. We observed a 
+significant 20% decrease in the association of GP130 with lipid rafts in 
+activated fat-1 CD4(+) T cells and a 35% reduction in GP130 homodimerization, an 
+obligate requirement for downstream signaling. The phosphorylation of signal 
+transducer and activator of transcription 3 (STAT3), a downstream target of 
+IL-6-dependent signaling, was also decreased by 30% in response to exogenous 
+IL-6 in fat-1 CD4(+) T cells. Our results suggest that n-3 PUFAs suppress Th17 
+cell differentiation in part by reducing membrane raft-dependent responsiveness 
+to IL-6, an essential polarizing cytokine.

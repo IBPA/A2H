@@ -1,0 +1,12 @@
+Clostridium difficile is emerging worldwide as a major cause of nosocomial 
+infections. The negatively charged PSII polysaccharide has been found in 
+different strains of C. difficile and, thereby, represents an important target 
+molecule for a possible carbohydrate-based vaccine. In order to identify a 
+synthetic fragment that after conjugation to a protein carrier could be able to 
+induce anti-PSII antibodies, we exploited a combination of chemical synthesis 
+with immunochemistry, confocal immunofluorescence microscopy, and solid state 
+NMR. We demonstrate that the phosphate group is crucial in synthetic glycans to 
+mimic the native PSII polysaccharide; both native PSII and a phosphorylated 
+synthetic hexasaccharide repeating unit conjugated to CRM(197) elicit comparable 
+immunogenic responses in mice. This finding can aid design and selection of 
+carbohydrate antigens to be explored as vaccine candidates.

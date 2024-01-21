@@ -1,0 +1,18 @@
+Rheumatoid arthritis is a chronic inflammatory autoimmune disorder, controlled 
+by multiple genes as well as environmental factors. With animal models, like the 
+pristane-induced arthritis (PIA) in rats, it is possible to reduce the 
+environmental effects and the genetic heterogeneity to identify chromosomal 
+regions harboring genes responsible for the arthritis development. The PIA model 
+has proved to be useful for identifying gene regions controlling different 
+phases of the disease based on intercrosses between the resistant E3 and the 
+susceptible DA rat. We have now performed a high-powered backcross analysis that 
+confirms previous intercross-based data but also identifies additional loci. 
+Earlier identified PIA loci were reproduced with high significance; Pia1 (MHC 
+region on chromosome 20), Pia4 (chromosome 12), and Pia7 (chromosome 4) are all 
+major regulators of PIA severity and were also found to operate in concert. 
+These three loci were verified in congenic strains using both disease- and 
+arthritis-inflammatory-related subphenotypes as traits. We were also able to 
+detect five new quantitative trait loci with dominant effects on PIA: Pia10, 
+Pia12, Pia13, Pia14, and Pia15 on chromosomes 10, 6, 7, 8, and 18, respectively. 
+These data highlight the usefulness of the statistical power obtained in a 
+backcross of a complex disease like arthritis.

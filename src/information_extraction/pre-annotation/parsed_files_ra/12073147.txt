@@ -1,0 +1,22 @@
+Collagen-induced arthritis (CIA) in DBA/1 and proteoglycan-induced arthritis 
+(PGIA) in BALB/c mice are the most frequently used mouse models for studying 
+clinical, immunological and genetic factors contributing to rheumatoid 
+arthritis. DBA/1 ( H2(q)) mice are susceptible to CIA but resistant to PGIA, 
+whereas BALB/c mice ( H2 (d)) are susceptible to PGIA and resistant to CIA. To 
+gain insight into the mechanisms of how the major clinical (disease 
+susceptibility, severity and onset of arthritis) and immunological traits 
+(antigen-specific T- and B-cell responses) are influenced by the major 
+histocompatibility complex (MHC), we have generated a unique intercross of 
+BALB/c and DBA/1 parent strains, and the F1 and F2 hybrids were immunized for 
+either CIA or PGIA. The major clinical and immunological traits were identified 
+as either binary (qualitative) or quantitative traits on Chromosome 17 with a 
+peak at MHC when the entire population was analyzed. In contrast, when only 
+arthritic (susceptible) mice were selected and analyzed, the major clinical 
+traits (severity and onset) 'lost' the linkage to MHC. Thus, MHC dictates 
+disease susceptibility, but not the severity of arthritis. This was even more 
+evident in the case of the H2(q) allele, which was clearly responsible for the 
+dominant inheritance of arthritis in F2 hybrids (either CIA or PGIA). In 
+conclusion, while certain MHC alleles strongly affect disease susceptibility and 
+determine the mode of inheritance of a polygenic autoimmune disease, neither the 
+type of inheritance (dominant vs recessive) nor other MHC components have 
+evident effects upon the clinical symptoms of arthritis.

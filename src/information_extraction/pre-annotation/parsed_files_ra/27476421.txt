@@ -1,0 +1,7 @@
+Aberrant Class I PI3K signaling is a key factor contributing to many 
+immunological disorders and cancers. We have identified 4-amino pyrrolotriazine 
+as a novel chemotype that selectively inhibits PI3Kδ signaling despite not 
+binding to the specificity pocket of PI3Kδ isoform. Structure activity 
+relationship (SAR) led to the identification of compound 30 that demonstrated 
+efficacy in mouse Keyhole Limpet Hemocyanin (KLH) and collagen induced arthritis 
+(CIA) models.

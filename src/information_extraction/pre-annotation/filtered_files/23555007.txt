@@ -1,0 +1,17 @@
+Sinomenine (SIN) is a bioactive alkaloid extracted from the Chinese medicinal 
+plant Sinomenium acutum, which is widely used in the clinical treatment of 
+rheumatoid arthritis (RA). However, its role in acute lung injury (ALI) is 
+unclear. In this study, we investigate the role of SIN in lipopolysaccharide 
+(LPS)-induced ALI in mice. After ALI, lung water content and histological signs 
+of pulmonary injury were attenuated, whereas the PaO2/FIO2 (P/F) ratios were 
+elevated significantly in the mice pretreated with SIN. Additionally, SIN 
+markedly inhibited inflammatory cytokine TNF-α and IL-1β expression levels as 
+well as neutrophil infiltration in the lung tissues of the mice. Microarray 
+analysis and real-time PCR showed that SIN treatment upregulated adenosine A(2A) 
+receptor (A(2A)R) expression, and the protective effect of SIN was abolished in 
+A(2A)R knockout mice. Further investigation in isolated mouse neutrophils 
+confirmed the upregulation of A(2A)R by SIN and showed that A(2A)R-cAMP-PKA 
+signaling was involved in the anti-inflammatory effect of SIN. Taken together, 
+these findings demonstrate an A(2A)R-associated anti-inflammatory effect and the 
+protective role of SIN in ALI, which suggests a potential novel approach to 
+treat ALI.

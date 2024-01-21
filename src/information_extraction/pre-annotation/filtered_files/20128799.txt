@@ -1,0 +1,25 @@
+BACKGROUND AND PURPOSE: Current single drug treatments for rheumatoid arthritis 
+have problems of limited efficacy and/or high toxicity. This study investigates 
+the benefits of individual and combined treatments with dexamethasone and 
+substance P and glutamate receptor antagonists in a rat model of arthritis.
+EXPERIMENTAL APPROACH: Arthritis was induced in rats by unilateral 
+intra-articular injection of Freund's complete adjuvant. Separate groups of rats 
+were subjected to the following treatments 15 min before induction of arthritis: 
+(i) control with no drug treatment; (ii) single intra-articular injection of a 
+NK(1) receptor antagonist RP67580; (iii) single intra-articular injection of a 
+NMDA receptor antagonist AP7 plus a non-NMDA receptor antagonist CNQX; (iv) 
+daily oral dexamethasone; and (v) combined treatment with dexamethasone and all 
+of the above receptor antagonists. Knee joint allodynia, swelling, hyperaemia 
+and histological changes were examined over a period of 7 days.
+KEY RESULTS: Treatment with dexamethasone suppressed joint swelling, hyperaemia 
+and histological changes that include polymorphonuclear cell infiltration, 
+synovial tissue proliferation and cartilage erosion in the arthritic rat knees. 
+Treatment with RP67580 or AP7 plus CNQX did not attenuate hyperaemia or 
+histological changes, but reduced joint allodynia and swelling. 
+Co-administration of dexamethasone with these receptor antagonists produced 
+greater inhibition on joint allodynia and swelling than their individual 
+effects.
+CONCLUSIONS AND IMPLICATIONS: The data suggest substance P and glutamate 
+contribute to arthritic pain and joint swelling. The efficacy of dexamethasone 
+in reducing arthritic pain and joint swelling can be improved by 
+co-administration of substance P and glutamate receptor antagonists.

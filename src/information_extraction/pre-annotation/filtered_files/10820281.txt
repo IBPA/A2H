@@ -1,0 +1,22 @@
+Gold compounds are used in the treatment of rheumatoid arthritis. NF-kappa B is 
+a transcription factor implicated in the expression of many inflammatory genes. 
+NF-kappa B is activated by signal-induced phosphorylation and subsequent 
+degradation of inhibitory I kappa B (inhibitory protein that dissociates from 
+NF-kappa B) proteins, and a multisubunit I kappa B kinase (IKK) has been 
+identified previously. We tested the effect of various gold compounds on the 
+activation of NF-kappa B and IKK in LPS-stimulated RAW 264.7 mouse macrophages. 
+A lipophilic gold compound, auranofin, suppressed the LPS-induced increase of 
+nuclear kappa B-binding activity, degradation of I kappa B proteins, and IKK 
+activation. Auranofin also blocked IKK activation induced by TNF and 
+PMA/ionomycin, suggesting that the target of auranofin action is common among 
+these diverse signal pathways. In vitro IKK activity was suppressed by addition 
+of hydrophilic gold compounds, such as aurothiomalate, aurothioglucose, and 
+AuCl3. Other thiol-reactive metal ions such as zinc and copper also inhibited 
+IKK activity in vitro, and induction of IKK in LPS-stimulated macrophages. In 
+vitro IKK activity required the presence of reducing agent and was blocked by 
+addition of thiol group-reactive agents. Two catalytic subunits of IKK complex, 
+IKK alpha and IKK beta, were both inhibited by these thiol-modifying agents, 
+suggesting the presence of a cysteine sulfhydryl group in these subunits, which 
+is critical for enzyme activity. The antiinflammatory activity of gold compounds 
+in the treatment of rheumatoid arthritis may depend on modification of this 
+thiol group by gold.

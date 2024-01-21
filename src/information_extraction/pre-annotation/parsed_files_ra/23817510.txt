@@ -1,0 +1,31 @@
+OBJECTIVE: Arthritis is frequently seen in human lupus, but rarely in lupus 
+models. Pristane-induced lupus (PIL) can be induced in various mouse strains 
+such as BALB/c and C57BL/6. We herein characterize clinical and histological 
+features of arthritis in the context of systemic lupus and provide a prudent 
+comparison with models of rheumatoid arthritis (RA).
+METHODS: A total of 57 BALB/c mice received pristane (PIL group) and were 
+analyzed for serum autoantibodies (anti-chromatin-, -histone, -Sm, -dsDNA), as 
+well as for clinical features and histopathology of joints, lungs and kidneys. 
+Joint pathology was quantified by image analysis and tissue cytometry. Ten 
+C57BL/6 mice (Bl/6-PIL) and historical groups of two different RA models were 
+analyzed accordingly.
+RESULTS: In BALB/c PIL, clinical arthritis started at three months, occurred 
+finally in 79% of PIL (but not in controls, p<0.001) and correlated with areas 
+of inflammation, erosion, cartilage damage, osteoclast numbers and total 
+severity score (for all: r>0.7, p<0.001). After eight months, 58% of PIL (but no 
+controls, p<0.001) had mild-erosive arthritis. In contrast to RA, the most 
+frequent inflammatory cell type of the pannus was granulocytes (17.7%), PIL had 
+lower numbers of osteoclasts, erosions rarely affected both layers of the 
+cortical bone and there was no progression to complete joint destruction (even 
+after one year of observation). Serum autoantibodies (auto-abs) preceded 
+arthritis and became significantly elevated in all PIL; affected joints showed 
+increased deposits of IgG (and IgM) within the inflammatory tissue, indicative 
+of an ab-mediated process. PIL mice with arthritis also showed signs of 
+pulmonary (100%) and renal (46%) lupus. In contrast to BALB/c, Bl/6-PIL mice did 
+not develop any signs of arthritis.
+CONCLUSION: PIL in BALB/c mice is characterized by severe organ involvement, 
+typical autoabs and by a mild-erosive arthritis with similarities to, but also 
+with distinct differences from, RA. PIL may help to study arthritis along with 
+other key features of systemic lupus erythematosus after therapeutic 
+interventions or in knock-out models based on a BALB/c but not on a C57BL/6 
+background.

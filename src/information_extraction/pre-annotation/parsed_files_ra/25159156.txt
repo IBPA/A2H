@@ -1,0 +1,37 @@
+OBJECTIVE: We earlier found that TNFα but not interleukin (IL)-17 is 
+indispensable in the pathogenesis of spontaneously occurring rheumatoid 
+arthritis (RA)-like disease in our newly established FcγRIIB-deficient C57BL/6 
+(B6) mouse model, designated KO1. Here, we examined the role of IL-6 in the 
+pathogenesis of RA features in KO1, with particular reference to cartilage and 
+bone destruction in arthritic joints.
+METHODS: To evaluate the preventive effect of MR16-1, a rat anti-mouse IL-6 
+receptor (IL-6R) mAb, 4-month-old preclinical KO1 mice were divided into three 
+groups: the first treated with MR16-1 for 6 months, the second treated with 
+normal rat IgG, as a control, and the third left untreated. The incidence and 
+severity of arthritis, immunological abnormalities, and transcription levels of 
+receptor activator of NF-κB ligand (RANKL), osteoprotegerin (OPG), and 
+inflammatory cytokines/chemokines in ankle joint tissues were compared among the 
+three groups. The therapeutic effect of MR16-1 was examined by treating 
+7-month-old KO1 mice in the early stages of arthritis for 2 months.
+RESULTS: Compared with the findings in the KO1 mice left untreated or treated 
+with normal rat IgG, the development of arthritis was markedly suppressed in 
+mice with MR16-1 treatment started from preclinical stages. The suppression was 
+associated with the decrease in production of autoantibodies, rheumatoid factors 
+(RF), and anti-cyclic citrullinated peptide (CCP). Histologically, marked 
+synovitis, pannus formation, and cartilage and bone destruction associated with 
+the increase in tartrate-resistant acid phosphatase (TRAP)-positive osteoclast 
+generation were evident in the two control groups; however, these findings were 
+virtually absent in MR16-1-treated mice. Real-time PCR analysis revealed that 
+the up-regulated expression levels of MCP-1, IL-6, and TNFα, and the aberrantly 
+high RANKL/OPG expression ratio in synovial joint tissues from the two control 
+groups of mice with overt arthritis were significantly suppressed in 
+MR16-1-treated mice. In mice with therapeutic MR16-1 treatment, there was no 
+progression in arthritis score and the RANKL/OPG ratio in joint tissues was 
+significantly suppressed.
+CONCLUSIONS: Administration of an anti-IL-6R mAb ameliorated spontaneously 
+occurring RA-like disease features, indicating that IL-6, as well as TNFα, plays 
+a pivotal role in the pathogenesis of RA in KO1 mice. Current studies showed 
+that, in addition to the role in enhancing autoantibody production, IL-6 
+promotes synovial tissue inflammation and osteoclastogenesis, leading to the 
+severe synovitis with pannus formation and the progressive cartilage and bone 
+destruction in multiple joints.

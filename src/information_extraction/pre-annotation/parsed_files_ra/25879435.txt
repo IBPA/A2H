@@ -1,0 +1,28 @@
+BACKGROUND: Homeostatic B Cell-Attracting chemokine 1 (BCA-1) otherwise known as 
+CXCL13 is constitutively expressed in secondary lymphoid organs by follicular 
+dendritic cells (FDC) and macrophages. It is the only known ligand for the CXCR5 
+receptor, which is expressed on mature B cells, follicular helper T cells (Tfh), 
+Th17 cells and regulatory T (Treg) cells. Aberrant expression of CXCL13 within 
+ectopic germinal centers has been linked to the development of autoimmune 
+disorders (e.g. Rheumatoid Arthritis, Multiple Sclerosis, Systemic Lupus 
+Erythematosis). We, therefore, hypothesized that antibody-mediated disruption of 
+the CXCL13 signaling pathway would interfere with the formation of ectopic 
+lymphoid follicles in the target organs and inhibit autoimmune disease 
+progression. This work describes pre-clinical development of human anti-CXCL13 
+antibody MAb 5261 and includes therapeutic efficacy data of its mouse 
+counterpart in murine models of autoimmunity.
+RESULTS: We developed a human IgG1 monoclonal antibody, MAb 5261 that 
+specifically binds to human, rodent and primate CXCL13 with an affinity of 
+approximately 5 nM and is capable of neutralizing the activity of CXCL13 from 
+these various species in in vitro functional assays. For in vivo studies we have 
+engineered a chimeric antibody to contain the same human heavy and light chain 
+variable genes along with mouse constant regions. Treatment with this antibody 
+led to a reduction in the number of germinal centers in mice immunized with 
+4-Hydroxy-3-nitrophenylacetyl hapten conjugated to Keyhole Limpet Hemocyanin 
+(NP-KLH) and, in adoptive transfer studies, interfered with the trafficking of B 
+cells to the B cell areas of mouse spleen. Furthermore, this mouse anti-CXCL13 
+antibody demonstrated efficacy in a mouse model of Rheumatoid arthritis 
+(Collagen-Induced Arthritis (CIA)) and Th17-mediated murine model of Multiple 
+Sclerosis (passively-induced Experimental Autoimmune Encephalomyelitis (EAE)).
+CONCLUSIONS: We developed a novel therapeutic antibody targeting CXCL13-mediated 
+signaling pathway for the treatment of autoimmune disorders.

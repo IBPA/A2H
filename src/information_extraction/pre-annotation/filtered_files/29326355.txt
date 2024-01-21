@@ -1,0 +1,29 @@
+Activated macrophages have been known to play pivotal roles in the pathogenesis 
+of rheumatoid arthritis (RA). 18F-FEDAC 
+(N-benzyl-N-methyl-2-[7,8-dihydro-7-(2-18F-fluoroethyl)-8-oxo-2-phenyl-9H-purin-9-yl]acetamide) 
+is a radiolabeled ligand for the 18-kDa translocator protein (TSPO), which is 
+abundant in activated macrophages. We evaluated the feasibility of using 
+18F-FEDAC in a murine RA model. Methods: RAW 264.7 mouse macrophages were 
+activated by lipopolysaccharide. TSPO expression levels in activated and 
+inactivated macrophages were measured by quantitative polymerase chain reaction 
+and Western blotting. The cellular uptake and specific binding of 18F-FEDAC were 
+measured using a γ-counter. For the in vivo study, collagen-induced arthritis 
+(CIA) was developed in DBA/1 mice, and the clinical score for arthritis was 
+measured regularly. 18F-FEDAC and 18F-FDG PET images were acquired on days 23 
+and 37 after the first immunization. Histologic examinations were performed to 
+evaluate macrophages and TSPO expression. Results: We found increased TSPO 
+messenger RNA and protein expression in activated macrophages. Uptake of 
+18F-FEDAC in activated macrophages was higher than that in nonactivated cells 
+and was successfully blocked by the competitor, PK11195. In CIA mice, joint 
+swelling was apparent on day 26 after the first immunization, and the condition 
+worsened by day 37. 18F-FEDAC uptake by arthritic joints increased early on (day 
+23), whereas 18F-FDG uptake did not. However, 18F-FDG uptake by arthritic joints 
+markedly increased at later stages (day 37) to a higher level than 18F-FEDAC 
+uptake. The 18F-FEDAC uptake correlated weakly with summed severity score (P = 
+0.019, r = 0.313), whereas the 18F-FDG uptake correlated strongly with summed 
+severity score (P < 0.001, r = 0.897). Histologic sections of arthritic joints 
+demonstrated an influx of macrophages compared with that in normal joints. 
+Conclusion:18F-FEDAC enabled the visualization of active inflammation sites in 
+arthritic joints in a CIA model by targeting TSPO expression in activated 
+macrophages. The results suggest the potential usefulness of 18F-FEDAC imaging 
+in the early phase of RA.

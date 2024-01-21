@@ -1,0 +1,26 @@
+Apremilast is a novel phosphodiesterase 4 (PDE4) inhibitor suppressing immune 
+and inflammatory responses. We assessed the anti-inflammatory effects of 
+Apremilast in type II collagen (CII)-induced arthritis (CIA) mouse model. To 
+determine whether Apremilast can ameliorate arthritis onset in this model, 
+Apremilast was given orally at day 14 after CII immunization. Bone erosion was 
+measured by histological and micro-computed tomographic analysis. Anti-mouse CII 
+antibody levels were measured by enzyme-linked immunosorbent assay, and Th17, 
+Th1 cells, and CD4+Foxp3+ regulatory T (Treg) cells were assessed by flow 
+cytometry in the lymph nodes. Human cartilage and rheumatoid arthritis (RA) 
+synovial fibroblasts (RASFs) implantation in the severe combined 
+immunodeficiency mouse model of RA were used to study the role of Apremilast in 
+the suppression of RASF-mediated cartilage destruction in vivo. Compared with 
+untreated and vehicle control groups, we found that Apremilast therapy delayed 
+arthritis onset and reduced arthritis scores in the CIA model. Total serum IgG, 
+IgG1, IgG2a, and IgG2b were all decreased in the Apremilast treatment groups. 
+Moreover, Apremilast markedly prevented the development of bone erosions in CIA 
+mice by CT analysis. Furthermore, in the Apremilast treated group, the frequency 
+of Th17 cells and Th1 cells was significantly decreased while Treg cells' 
+frequency was significantly increased. The high dose of Apremilast (25 mg/kg) 
+was superior to low dose (5 mg/kg) in treating CIA. Apremilast treatment reduced 
+the migratory ability of RASFs and their destructive effect on cartilage. 
+Compared with the model group, Apremilast treatment significantly reduced the 
+RASFs invasion cartilage scores in both primary implant and contralateral 
+implant models. Our data suggest that Apremilast is effective in treating 
+autoimmune arthritis and preventing the bone erosion in the CIA model, 
+implicating its therapeutic potential in patients with RA.

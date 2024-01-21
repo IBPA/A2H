@@ -1,0 +1,21 @@
+Intraarticular gene transfer of cyclin-dependent kinase (CDK) inhibitors to 
+suppress synovial cell cycling has shown efficacy in treating animal models of 
+rheumatoid arthritis. Endogenous CDK inhibitors also modulate immune function 
+via a CDK-independent pathway. Accordingly, systemic administration of small 
+molecules that inhibit CDK may or may not ameliorate arthritis. To address this 
+issue, alvocidib (flavopiridol), known to be tolerated clinically for treating 
+cancers, and a newly synthesized CDK4/6-selective inhibitor were tested for 
+antiarthritic effects. In vitro, they inhibited proliferation of human and mouse 
+synovial fibroblasts without inducing apoptosis. In vivo, treatment of 
+collagen-induced arthritis mice with alvocidib suppressed synovial hyperplasia 
+and joint destruction, whereas serum concentrations of anti-collagen type II 
+(CII) Abs and proliferative responses to CII were maintained. Treatment was 
+effective even when therapeutically administered. Treated mice developed 
+arthritis after termination of treatment. Thus, immune responses to CII were 
+unimpaired. The same treatment ameliorated arthritis induced by K/BxN serum 
+transfer to lymphocyte-deficient mice. Similarly, the CDK4/6-selective inhibitor 
+suppressed collagen-induced arthritis. Both small-molecule CDK inhibitors were 
+effective in treating animal models of rheumatoid arthritis not by suppressing 
+lymphocyte function. Thus, the two small-molecule CDK inhibitors ameliorated 
+arthritis models in a distinctive way, compared with other immunosuppressive 
+drugs.

@@ -1,0 +1,28 @@
+OBJECTIVES: Patients with rheumatoid arthritis (RA) display an increased risk of 
+heart failure independent of traditional cardiovascular risk factors. To 
+elucidate myocardial disease in RA, we have investigated molecular and cellular 
+remodelling of the heart in an established mouse model of RA.
+METHODS: The collagen antibody-induced arthritis (CAIA) RA mouse model is 
+characterised by joint inflammation and increased inflammatory markers in the 
+serum. We used CAIA mice in the postinflammatory phase that resembles medically 
+controlled RA or RA in remission. Hearts were collected for cardiomyocyte 
+isolation, biochemistry and histology analysis.
+RESULTS: Hearts from mice subjected to CAIA displayed hypertrophy (heart/body 
+weight, mean±SD: 5.9±0.8vs 5.1±0.7 mg/g, p<0.05), fibrosis and reduced left 
+ventricular fractional shortening compared with control. Cardiomyocytes from 
+CAIA mice showed reduced cytosolic [Ca2+]i transient amplitudes (F/F0, mean±SD: 
+3.0±1.2vs 3.6±1.5, p<0.05) that was linked to reductions in sarcoplasmic 
+reticulum (SR) Ca2+ store (F/F0, mean±SD: 3.5±1.3vs 4.4±1.3, p<0.01) measured 
+with Ca2+ imaging. This was associated to lower fractional shortening in the 
+cardiomyocytes from the CAIA mice (%FS, mean±SD: 3.4±2.2 vs 4.6%±2.3%, p<0.05). 
+Ca2+ handling proteins displayed oxidation-dependent posttranslational 
+modifications that together with an increase in superoxide dismutase expression 
+indicate a cell environment with oxidative stress.
+CONCLUSIONS: This study shows that inflammation during active RA has long-term 
+consequences on molecular remodelling and contractile function of the heart, 
+which further supports that rheumatology patients should be followed for 
+development of heart failure.
+
+© Article author(s) (or their employer(s) unless otherwise stated in the text of 
+the article) 2018. All rights reserved. No commercial use is permitted unless 
+otherwise expressly granted.

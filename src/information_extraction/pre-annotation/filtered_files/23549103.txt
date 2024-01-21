@@ -1,0 +1,21 @@
+The CTLA4-Ig fusion proteins abatacept and belatacept are clinically proven 
+immunosuppressants used for rheumatoid arthritis and renal transplant, 
+respectively. Given that both biologics are typically administered chronically 
+by infusion, a need exists for a next-generation CTLA4-Ig with more convenient 
+dosing. We used structure-based protein engineering to optimize the affinity of 
+existing CTLA4-Ig therapeutics for the ligands CD80 and CD86, and for the 
+neonatal Fc receptor, FcRn. From a rationally designed library, we identified 
+four substitutions that enhanced binding to human CD80 and CD86. Coupled with 
+two IgG1 Fc substitutions that enhanced binding to human FcRn, these changes 
+comprise the novel CTLA4-Ig fusion protein, XPro9523. Compared with abatacept, 
+XPro9523 demonstrated 5.9-fold, 23-fold, and 12-fold increased binding to CD80, 
+CD86, and FcRn, respectively; compared with belatacept, CD80, CD86, and FcRn 
+binding increased 1.5-fold, 7.7-fold, and 11-fold, respectively. XPro9523 and 
+belatacept suppressed human T cell proliferation and IL-2 production more 
+potently than abatacept. XPro9523 also suppressed inflammation in the mouse 
+collagen-induced arthritis model. In cynomolgus monkeys, XPro9523 saturated CD80 
+and CD86 more effectively than abatacept and belatacept, potently inhibited IgM 
+and IgG immunization responses, and demonstrated longer half-life. 
+Pharmacokinetic modeling of its increased potency and persistence suggests that, 
+in humans, XPro9523 may demonstrate superior efficacy and dosing convenience 
+compared with abatacept and belatacept.

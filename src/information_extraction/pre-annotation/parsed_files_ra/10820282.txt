@@ -1,0 +1,22 @@
+Expression of VCAM-1 on synovial fibroblasts is a clinical hallmark of 
+rheumatoid arthritis. The interaction of VCAM-1 and its integrin receptor very 
+late Ag-4 is believed to be critically involved in the recruitment and retention 
+of immune cells in the inflamed joints. To study the regulation of VCAM-1 in 
+synovial fibroblasts, fibroblast-like synoviocytes (FLS) were isolated from the 
+knee joints of normal mice and passaged repeatedly to obtain a homogeneous cell 
+population. We have found that VCAM-1 is constitutively expressed on mouse FLS 
+(mFLS) and that its surface expression is further increased after exposure to 
+TNF-alpha. Nuclear translocation of transcription factor NF-kappa B including 
+P50/P50 homodimer and P65/P50 heterodimer was activated by TNF-alpha treatment. 
+In mFLS stably expressing a dominant-negative mutant of the inhibitory protein 
+I-kappa B alpha- (mI-kappa B), which does not undergo proteolytic degradation, 
+NF-kappa B remains in the cytosol and its activation in response to TNF-alpha is 
+abolished. VCAM-1 protein expression after TNF-alpha stimulation was blocked in 
+cells expressing the mI-kappa B. This effect is likely due to the loss of 
+NF-kappa B-mediated transcription of VCAM-1, because the 5-fold increase in mRNA 
+levels in response to TNF-alpha is absent in the mutant cells. To confirm these 
+findings, we transduced mFLS with an adenoviral vector containing the mI-kappa B 
+transgene. VCAM-1 expression was also blocked by mI-kappa B in this system, 
+whereas cells transduced with a control adenoviral vector remained responsive to 
+TNF-alpha. These results indicate that NF-kappa B mediates TNF-alpha-induced 
+VCAM-1 expression on mFLS.

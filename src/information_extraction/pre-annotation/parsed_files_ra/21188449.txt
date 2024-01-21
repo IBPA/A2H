@@ -1,0 +1,34 @@
+Imatinib and nilotinib are inhibitors that selectively target a set of protein 
+tyrosine kinases, including abelson kinase (Abl), together with the chimeric 
+oncoprotein, breakpoint cluster region-abelson kinase (Bcr-Abl), as well as stem 
+cell factor receptor (KIT), platelet-derived growth factor receptor (PDGFR), 
+discoidin domain receptor (DDR), and colony stimulating factor-1 receptor 
+(CSF-1R). The aim of the present study was to investigate whether imatinib or 
+nilotinib was effective against arthritis in the glucose-6-phosphate isomerase 
+(GPI)-induced arthritis mouse model. Imatinib or nilotinib was administered 
+orally to the arthritic mice at different time points. Efficacy was evaluated by 
+visual scoring and by determining the production of anti-GPI antibody. 
+Splenocytes from the arthritic mice were cultured with GPI in the presence of 
+imatinib or nilotinib in vitro, and cytokine levels in the culture supernatants 
+were analyzed. To investigate the effects of imatinib and nilotinib on T-cell 
+proliferation, lymph node cells from the arthritic mice were cultured with GPI 
+in the presence of imatinib or nilotinib in vitro. Interleukin (IL)-17 mRNA 
+expression in the arthritic ankle joints from the onset of arthritis was 
+analyzed by real-time polymerase chain reaction (PCR). The administration of 
+imatinib from day 0 showed suppression of arthritis (P < 0.05), the 
+administration of nilotinib from day 0 resulted in pronounced suppression of 
+arthritis (P < 0.01), and that from day 7 showed significant inhibition of the 
+progression of arthritis (P < 0.05). A reduction in anti-GPI antibodies was 
+correlated with the therapeutic efficacy of imatinib, but not with that of 
+nilotinib. Imatinib dose-dependently inhibited tumor necrosis factor (TNF)-α, 
+IL-6, interferon (IFN)-γ, and IL-17 production by splenocytes in vitro, while 
+nilotinib inhibited only IL-17 and IFN-γ production in a dose-dependent fashion. 
+Imatinib at 3 μM exerted a mild antiproliferative effect on CD4+ T cells (P < 
+0.05), whereas imatinib at 10 μM and nilotinib at 3 and 10 μM demonstrated a 
+marked antiproliferative effect (P < 0.01). The IL17 gene expression level on 
+day 7 tended to be higher than that on day 14. These findings suggest that 
+imatinib and nilotinib could prevent autoimmune arthritis, essentially via 
+distinct mechanisms, in that imatinib inhibits both inflammatory and 
+T-cell-derived cytokine production, whereas nilotinib suppresses T-cell-derived 
+cytokine production. Imatinib and nilotinib could have therapeutic potential for 
+rheumatoid arthritis (RA) and other inflammatory diseases.

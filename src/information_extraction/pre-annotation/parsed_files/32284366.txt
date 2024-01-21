@@ -1,0 +1,24 @@
+Clostridioides (formerly Clostridium) difficile is the most common cause of 
+hospital-acquired infection, and advanced age is a risk factor for C. difficile 
+infection. Disruption of the intestinal microbiota and immune responses 
+contribute to host susceptibility and severity of C. difficile infection. 
+However, the specific impact of aging on immune responses during C. difficile 
+infection remains to be well described. This study explores the effect of age on 
+cellular and cytokine immune responses during C. difficile infection. Young mice 
+(2 to 3 months old) and aged mice (22 to 28 months old) were rendered 
+susceptible to C. difficile infection with the antibiotic cefoperazone and then 
+infected with C. difficile strains with varied disease-causing potentials. We 
+observe that the host age and the infecting C. difficile strain influenced the 
+severity of disease associated with infection. Tissue-specific CD45+ immune cell 
+responses occurred at the time of peak disease severity in the ceca and colons 
+of all mice infected with a high-virulence strain of C. difficile; however, 
+significant deficits in intestinal neutrophils and eosinophils were detected in 
+aged mice, with a corresponding decrease in circulating CXCL1, an important 
+neutrophil recruiter and activator. Interestingly, this lack of intestinal 
+granulocyte response in aged mice during severe C. difficile infection was 
+accompanied by a simultaneous increase in circulating white blood cells, 
+granulocytes, and interleukin 17A (IL-17A). These findings demonstrate that 
+age-related alterations in neutrophils and eosinophils and systemic cytokine and 
+chemokine responses are associated with severe C. difficile infection and 
+support a key role for intestinal eosinophils in mitigating C. 
+difficile-mediated disease severity.

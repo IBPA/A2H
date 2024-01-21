@@ -1,0 +1,23 @@
+Collagen-induced arthritis (CIA) is an animal model of autoimmunity that has 
+been studied extensively because of its similarities to rheumatoid arthritis 
+(RA). CIA is induced in genetically susceptible strains of mice by immunization 
+with type II collagen (CII), and both T cell and B cell immunity to CII are 
+required for disease manifestation. Like RA, CIA is primarily an autoimmune 
+disease of articular joints and susceptibility to CIA is linked to specific 
+class II molecules of the major histocompatibility complex (H-2(r) and H-2(q)). 
+Recently, it was demonstrated that transgenic expression of HLA-DR1 (*0101) or 
+DR4 (*0401) molecules associated with susceptibility to RA also conferred 
+susceptibility to CIA in the mouse model. The T cell response to CII has been 
+extensively characterized in both the DR transgenic and naturally susceptible 
+mouse strains, including the antigenic determinants recognized, the role of post 
+transcriptional modifications of these determinants in the pathogenic T cell 
+response, and the cytokines produced. Like most class II-mediated autoimmune 
+diseases, the cytokine production of CII-specific T cells reflects a Th1 
+phenotype of the autoimmune response. While the direct role of T cells in the 
+pathogenesis of CIA is unclear, the B cell response in terms of anti-CII 
+immunoglobulin is critical to the development of the disease. This response, 
+predominated by the IgG2 isotype, requires the activation of the complement 
+cascade for the development of CIA. In recent years, the pathogenesis of this 
+model has been studied extensively and the CIA model is proving to be a valuable 
+asset for the design of new immunotherapeutics for the potential treatment of RA 
+and other autoimmune diseases.

@@ -1,0 +1,14 @@
+Heart failure (HF) is a leading cause of mortality. Inflammation is implicated 
+in HF, yet clinical trials targeting pro-inflammatory cytokines in HF were 
+unsuccessful, possibly due to redundant functions of individual cytokines. 
+Searching for better cardiac inflammation targets, here we link T cells with HF 
+development in a mouse model of pathological cardiac hypertrophy and in human HF 
+patients. T cell costimulation blockade, through FDA-approved rheumatoid 
+arthritis drug abatacept, leads to highly significant delay in progression and 
+decreased severity of cardiac dysfunction in the mouse HF model. The therapeutic 
+effect occurs via inhibition of activation and cardiac infiltration of T cells 
+and macrophages, leading to reduced cardiomyocyte death. Abatacept treatment 
+also induces production of anti-inflammatory cytokine interleukin-10 (IL-10). 
+IL-10-deficient mice are refractive to treatment, while protection could be 
+rescued by transfer of IL-10-sufficient B cells. These results suggest that T 
+cell costimulation blockade might be therapeutically exploited to treat HF.

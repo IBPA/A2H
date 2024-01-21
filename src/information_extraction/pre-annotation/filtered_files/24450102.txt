@@ -1,0 +1,24 @@
+We report two cases of falsely elevated levels of Tacrolimus (TAC) measured by 
+affinity column mediated immunoassay (ACMIA). Potential reasons for this are 
+herein explored. Patient 1, a post-renal transplantation patient, was treated by 
+TAC, while patient 2, a patient with rheumatoid arthritis, was not. TAC levels 
+measured by ACMIA of patients 1 and 2 were greater than 40 and 20 ng/ml, 
+respectively. In patient 2, rheumatoid factor (RF) levels were constantly higher 
+than 1,000 IU/ml, and levels of TAC were shown to be correlated with RF. Results 
+of immunoglobulin adsorption tests and gel filtration suggested that the false 
+positivities for TCA were induced by IgG of patient 1 and IgM of patient 2. 
+After the addition of anti-TAC antibody, levels of TAC decreased to an 
+undetectable range in both cases. TAC levels also became undetectable after the 
+addition of MAK33-Framework IEP in patient 1 and IIR in patient 2. In patient 2, 
+the addition of HBR-1 and MAK absorbent prevented the false positive phenomenon. 
+In both cases, human anti mouse antibodies (HAMAs) reacted to anti-TAC mouse 
+monoclonal antibodies within the reagent and produced falsely elevated results. 
+These results were inhibited by MAK33-Framework IEP binding to the 
+hyper-variable region of immunoglobulin; therefore, the causative agent of this 
+phenomenon in patient 1 was likely an anti-idiotype antibody against the mouse 
+monoclonal anti-TAC antibody used in the assay. Furthermore, a close 
+relationship between measured levels of TAC and RF, along with the finding that 
+the addition of HBR-1 and IRR prevents false positive results, suggests that RF 
+produced false positive results through IgM-HAMA activity in patient 2. These 
+data indicate that false positive results of TAC can be due to the presence of 
+HAMAs with different specificities.

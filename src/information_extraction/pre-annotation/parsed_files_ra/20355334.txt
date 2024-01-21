@@ -1,0 +1,28 @@
+* Author for correspondence and reprint requests Z. Naturforsch. 65c, 141-147 
+(2010); received June 17/July 21, 2009 The superoxide radical (O2-), hydrogen 
+peroxide (H2O2) and nitric oxide (NO) are pleiotropic inflammatory mediators 
+which play an important role in inflammatory joint diseases. They are 
+overproduced during rheumatoid arthritis and its experimental model - 
+adjuvant-induced arthritis in rodents--and may be detected both systemically and 
+intra-articularly. Their secretion is up-regulated by proinflammatory cytokines 
+such as IFN-gamma, IL-12, IL-6 and TNF-alpha, and they are responsible for the 
+destruction of joint tissue. In this work, the effect of superoxide dismutase 
+(SOD) from a thermotolerant yeast strain, Kluyveromyces marxianus, on the 
+production of proinflammatory cytokines, reactive oxygen and nitrogen species 
+was studied. Mice received three intraperitoneal injections of yeast SOD at a 
+dose of 10 mg/ kg body weight (30,000 U/kg) on consecutive days starting on the 
+day after arthritic induction. On days 3, 8 and 14 post induction peritoneal 
+macrophages were isolated and both spontaneous and stimulated production of 
+reactive oxygen and nitrogen metabolites were measured. Early in arthritic 
+development yeast SOD treatment did not influence the O2- production, but on day 
+14 both spontaneous and PMA-induced secretion were dramatically reduced. 
+Spontaneous H2O2 release was inhibited on day 14, while PMA-stimulated 
+production was decreased from the beginning of the arthritic development. Yeast 
+SOD treatment effectively suppressed the spontaneous and recombinant mouse 
+IFN-gamma + LPS induced release of NO as well. Serum levels of proinflammatory 
+cytokines, IL-12, IFN-gamma, IL-6 and TNF-alpha, were also significantly 
+reduced. The obtained results show some of the mechanisms of action of SOD in 
+reducing the severity of arthritic inflammation. Besides direct inhibition of 
+joint tissue destruction exogenous SOD substantially limits the existing 
+positive feedback between secretion of reactive oxygen species and inflammatory 
+cytokine production.

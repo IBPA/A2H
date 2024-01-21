@@ -1,0 +1,22 @@
+For a long time the complement cascade has been believed to be the predominant 
+pathway to inflammation and tissue destruction in autoimmune diseases such as 
+systemic lupus erythematosus. Recently, new evidences show that FcRs may share 
+the primacy with complement cascade, playing an equal or greater role in the 
+disease process. The generation of specific mouse strains deficient in 
+individual components has clarified the different role played by complement and 
+Fc receptors in their interaction with ICs, illustrating that complement is 
+essential for innate immunity against microbial pathogens, requiring natural 
+antibodies to mediate its protective effects, whereas FcyRs have evolved as the 
+principal system for coupling antigen-antibody complexes to effector cells and 
+initiate the inflammatory cascade. Validation of FcRs as new therapeutic targets 
+for autoimmune diseases, in particular for Systemic Lupus Erythematosus (SLE), 
+has been provided by a large number of studies where the biological action of 
+soluble forms of FcyRs or of monoclonal antibodies targeting Fc receptors has 
+been assessed. Additional support to the role of FcRs in SLE has been provided 
+by data obtained with compounds derived from combinatorial chemistry, such as 
+TG19320, a tetrameric tripeptide which interferes with IgG/FcgammaR interaction 
+in vitro and prevents glomerulonephritis in vivo in a SLE susceptible mouse 
+strain. These findings might open the way to new therapeutic approaches for 
+disorders where the role of FcRs has been established, including not only 
+autoimmune diseases like systemic lupus erythematosus, rheumatoid arthritis, 
+multiple myeloma, but also acquired immunodeficiency syndrome (AIDS).

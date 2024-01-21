@@ -1,0 +1,25 @@
+Clostridium difficile is a Gram-positive, spore-forming anaerobic bacterium that 
+infects the colon, causing symptoms ranging from infectious diarrhea to 
+fulminant colitis. In the last decade, the number of C. difficile infections has 
+dramatically risen, making it the leading cause of reported hospital acquired 
+infection in the United States. Bacterial toxins produced during C. difficile 
+infection (CDI) damage host epithelial cells, releasing erythrocytes and heme 
+into the gastrointestinal lumen. The reactive nature of heme can lead to 
+toxicity through membrane disruption, membrane protein and lipid oxidation, and 
+DNA damage. Here we demonstrate that C. difficile detoxifies excess heme to 
+achieve full virulence within the gastrointestinal lumen during infection, and 
+that this detoxification occurs through the heme-responsive expression of the 
+heme activated transporter system (HatRT). Heme-dependent transcriptional 
+activation of hatRT was discovered through an RNA-sequencing analysis of C. 
+difficile grown in the presence of a sub-toxic concentration of heme. HatRT is 
+comprised of a TetR family transcriptional regulator (hatR) and a major 
+facilitator superfamily transporter (hatT). Strains inactivated for hatR or hatT 
+are more sensitive to heme toxicity than wild-type. HatR binds heme, which 
+relieves the repression of the hatRT operon, whereas HatT functions as a heme 
+efflux pump. In a murine model of CDI, a strain inactivated for hatT displayed 
+lower pathogenicity in a toxin-independent manner. Taken together, these data 
+suggest that HatR senses intracellular heme concentrations leading to increased 
+expression of the hatRT operon and subsequent heme efflux by HatT during 
+infection. These results describe a mechanism employed by C. difficile to 
+relieve heme toxicity within the host, and set the stage for the development of 
+therapeutic interventions to target this bacterial-specific system.

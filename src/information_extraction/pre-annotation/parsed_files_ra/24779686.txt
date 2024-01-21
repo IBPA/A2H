@@ -1,0 +1,21 @@
+Asthma is a chronic airway inflammatory disease characterized by intense 
+leukocyte and eosinophilic infiltration accompanied by mucus hypersecretion and 
+tissue hyperresponsiveness. Recent evidence suggests that T-helper (Th)2 cells 
+and their cytokine products orchestrate the pathology of asthma. In addition, 
+Th17 cells are implicated in the pathogenesis of antigen-induced airway 
+inflammation. The Th17 related cytokine interleukin (IL)-23 plays important 
+roles in many immunological diseases, such as experimental autoimmune 
+encephalomyelitis, rheumatoid arthritis, psoriasis and inflammatory bowel 
+disease. Several reports describe the role of IL-23 in the pathogenesis of 
+allergic asthma in both human and mice. IL-23 leads to neutrophil infiltration 
+in the airway of asthmatic mice, which is characteristic of severe asthma 
+resulting from Th17 development and subsequently IL-17 secretion. IL-23 can also 
+promote eosinophil infiltration in the airway, which is a hallmark of allergic 
+asthma. These studies suggest that IL-23 could be a promoting factor in the 
+development of allergic asthma and likewise would be a target for asthma 
+therapy. In support of this view, trials of anti-IL-23 therapy have been 
+attempted in human and mouse asthma models with encouraging outcomes. This 
+review presents the role of IL-23 in asthma according to recent clinical trials 
+and animal model studies. The proposed mechanisms of IL-23-induced airway 
+inflammation and the agents currently being tested that target IL-23 related 
+pathways are discussed.

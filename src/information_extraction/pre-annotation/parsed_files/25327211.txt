@@ -1,0 +1,20 @@
+Our previous work has shown the significant up-regulation of Il22 and increased 
+phosphorylation of signal transducer and activator of transcription 3 (STAT3) as 
+part of the mucosal inflammatory response to Clostridium difficile infection in 
+mice. Others have shown that phosphorylation of STAT3 at mucosal surfaces 
+includes interleukin-22 (IL-22) and CD160-mediated components. The current study 
+sought to determine the potential role(s) of IL-22 and/or CD160 in the mucosal 
+response to C. difficile infection. Clostridium difficile-infected mice treated 
+with anti-IL-22, anti-CD160 or a combination of the two showed significantly 
+reduced STAT3 phosphorylation in comparison to C. difficile-infected mice that 
+had not received either antibody. In addition, C. difficile-infected mice 
+treated with anti-IL-22/CD160 induced a smaller set of genes, and at 
+significantly lower levels than the untreated C. difficile-infected mice. The 
+affected genes included pro-inflammatory chemokines and cytokines, and 
+anti-microbial peptides. Furthermore, histopathological and flow cytometric 
+assessments both showed a significantly reduced influx of neutrophils in 
+C. difficile-infected mice treated with anti-IL-22/CD160. These data demonstrate 
+that IL-22 and CD160 are together responsible for a significant fraction of the 
+colonic STAT3 phosphorylation in C. difficile infection. They also underscore 
+the additive effects of IL-22 and CD160 in mediating both the pro-inflammatory 
+and pro-survival aspects of the host mucosal response in this infection.

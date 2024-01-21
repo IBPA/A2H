@@ -1,0 +1,24 @@
+BACKGROUND AND PURPOSE: Osteoclasts play a pivotal role in diseases such as 
+osteoporosis, rheumatoid arthritis and tumour bone metastasis. Thus, searching 
+for natural compounds that may suppress osteoclast formation and/or function is 
+promising for the treatment of osteoclast-related diseases. Here, we examined 
+changes in osteoclastogenesis and LPS-induced osteolysis in response to 
+andrographolide (AP), a diterpenoid lactone isolated from the traditional 
+Chinese and Indian medicinal plant Andrographis paniculata.
+EXPERIMENTAL APPROACH: Effects of AP on osteoclast differentiation and bone 
+resorption were measured in vitro. Western blots and RT-PCR techniques were used 
+to examine the underlying molecular mechanisms. The bone protective activity of 
+AP in vivo was assessed in a mouse model of osteolysis.
+KEY RESULTS: AP concentration-dependently suppressed RANKL-mediated osteoclast 
+differentiation and bone resorption in vitro and reduced the expression of 
+osteoclast-specific markers, including tartrate-resistant acid phosphatase, 
+calcitonin receptors and cathepsin K. Further molecular analysis revealed that 
+AP impaired RANKL-induced NF-κB signalling by inhibiting the phosphorylation of 
+TGF-β-activated kinase 1, suppressing the phosphorylation and degradation of 
+IκBα, and subsequently preventing the nuclear translocation of the NF-κB p65 
+subunit. AP also inhibited the ERK/MAPK signalling pathway without affecting p38 
+or JNK signalling.
+CONCLUSIONS AND IMPLICATIONS: AP suppressed RANKL-induced osteoclastogenesis 
+through attenuating NF-κB and ERK/MAPK signalling pathways in vitro, thus 
+preventing bone loss in vivo. These data indicated that AP is a promising 
+natural compound for the treatment of osteoclast-related bone diseases.

@@ -1,0 +1,20 @@
+Tumor necrosis factor alpha (TNFalpha) inhibits matrix synthesis by chondrocytes 
+in rheumatoid arthritis and osteoarthritis; however, the underlying signaling 
+pathways are poorly characterized. This study investigated the 
+TNFalpha-activated pathways regulating expression of two key components of the 
+cartilage matrix-link protein and type II collagen. In rat articular 
+chondrocytes, TNFalpha decreased link protein and type II collagen mRNA to 
+undetectable levels within 48 h. Levels of link protein mRNA recovered more 
+readily than type II collagen mRNA following removal of the cytokine. 
+TNFalpha-mediated reduction in mRNA of both matrix molecules occurred at the 
+level of transcription and, for link protein, mRNA stability. Turnover of type 
+II collagen and link protein mRNA was dependent on new protein synthesis. In 
+both prechondrocytes and articular chondrocytes, TNFalpha induced 
+concentration-dependent activation of MEK1/2 and NF-kappaB, but not p38 or JNK. 
+Sustained activation of NF-kappaB was observed for up to 72 h following 
+continuous or transient exposure to TNFalpha. Using pharmacological and 
+molecular approaches, the MEK1/2 and NF-kappaB pathways were found to mediate 
+inhibition of type II collagen and link protein gene expression by TNFalpha. 
+Both prechondrocytes and articular chondrocytes are targets of TNFalpha. This 
+study identifies pathways through which TNFalpha perturbs the synthesis and 
+organization of articular cartilage matrix during inflammation.

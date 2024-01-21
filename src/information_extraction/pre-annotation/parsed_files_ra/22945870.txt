@@ -1,0 +1,12 @@
+Intravenous immunoglobulins (IVIgs) efficiently suppress a variety of autoimmune 
+diseases. Over the past few years several potential mechanisms underlying this 
+antiinflammatory activity have become apparent. Among these, terminal sialic 
+acid residues in the sugar moiety of the immunoglobulin G constant fragment have 
+been shown to be critical for the antiinflammatory activity of IVIgs in models 
+of rheumatoid arthritis and immunothrombocytopenia (ITP). More recently, B cells 
+and the sialic acid-binding protein CD22 were suggested to be involved in this 
+IVIg-dependent immunomodulatory pathway. To study whether B cells are directly 
+involved in IVIg-mediated suppression of acute autoimmune diseases, we tested 
+the activity of IVIgs in mice deficient in B cells or CD22. We show that neither 
+B cells nor CD22 are critical for the immediate antiinflammatory activity of 
+IVIgs in mouse models of rheumatoid arthritis and ITP.

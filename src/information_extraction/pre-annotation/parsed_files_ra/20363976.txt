@@ -1,0 +1,23 @@
+Inhibiting signal transduction induced by inflammatory cytokines offers a new 
+approach for the treatment of autoimmune diseases such as rheumatoid arthritis. 
+Kinase inhibitors have shown promising oral disease-modifying antirheumatic drug 
+potential with efficacy similar to anti-TNF biologics. Direct and indirect 
+inhibition of the JAKs, with small molecule inhibitors like CP-690,550 and 
+INCB018424 or neutralizing Abs, such as the anti-IL6 receptor Ab tocilizumab, 
+have demonstrated rapid and sustained improvement in clinical measures of 
+disease, consistent with their respective preclinical experiments. Therefore, it 
+is of interest to identify optimized JAK inhibitors with unique profiles to 
+maximize therapeutic opportunities. INCB028050 is a selective orally 
+bioavailable JAK1/JAK2 inhibitor with nanomolar potency against JAK1 (5.9 nM) 
+and JAK2 (5.7 nM). INCB028050 inhibits intracellular signaling of multiple 
+proinflammatory cytokines including IL-6 and IL-23 at concentrations <50 nM. 
+Significant efficacy, as assessed by improvements in clinical, histologic and 
+radiographic signs of disease, was achieved in the rat adjuvant arthritis model 
+with doses of INCB028050 providing partial and/or periodic inhibition of 
+JAK1/JAK2 and no inhibition of JAK3. Diminution of inflammatory Th1 and Th17 
+associated cytokine mRNA levels was observed in the draining lymph nodes of 
+treated rats. INCB028050 was also effective in multiple murine models of 
+arthritis, with no evidence of suppression of humoral immunity or adverse 
+hematologic effects. These data suggest that fractional inhibition of JAK1 and 
+JAK2 is sufficient for significant activity in autoimmune disease models. 
+Clinical evaluation of INCB028050 in RA is ongoing.

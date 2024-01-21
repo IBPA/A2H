@@ -1,0 +1,25 @@
+K/BxN T cell receptor transgenic mice are a model of inflammatory arthritis, 
+most similar to rheumatoid arthritis, that is critically dependent on both T and 
+B lymphocytes. Transfer of serum, or just immunoglobulins, from arthritic K/BxN 
+animals into healthy recipients provokes arthritis efficiently, rapidly, and 
+with high penetrance. We have explored the genetic heterogeneity in the response 
+to serum transfer, thereby focussing on the end-stage effector phase of 
+arthritis, leap-frogging the initiating events. Inbred mouse strains showed 
+clear variability in their responses. A few were entirely refractory to disease 
+induction, and those which did develop disease exhibited a range of severities. 
+F1 analyses suggested that in most cases susceptibility was controlled in a 
+polygenic additive fashion. One responder/nonresponder pair (C57Bl/6 x NOD) was 
+studied in detail via a genome scan of F2 mice; supplementary information was 
+provided by the examination of knock-out and congenic strains. Two genomic 
+regions that are major, additive determinants of the rapidity and severity of 
+K/BxN serum-transferred arthritis were highlighted. Concerning the first region, 
+on proximal chromosome (chr)2, candidate assignment to the complement gene C5 
+was confirmed by both strain segregation analysis and functional data. 
+Concerning the second, on distal chr1, coinciding with the Sle1 locus implicated 
+in susceptibility to lupus-like autoimmune disease, a contribution by the fcgr2 
+candidate gene was excluded. Two other regions, on chr12 and chr18 may also 
+contribute to susceptibility to serum-transferred arthritis, albeit to a more 
+limited degree. The contributions of these loci are additive, but gene dosage 
+effects at the C5 locus are such that it largely dominates. The clarity of these 
+results argues that our focus on the terminal effector phase of arthritis in the 
+K/BxN model will bear fruit.

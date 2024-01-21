@@ -1,0 +1,23 @@
+Clostridium difficile is an anaerobic bacterium that has re-emerged as a 
+facultative pathogen and can cause nosocomial diarrhea, colitis or even death. 
+Peroxisome proliferator-activated receptor (PPAR) γ has been implicated in the 
+prevention of inflammation in autoimmune and infectious diseases; however, its 
+role in the immunoregulatory mechanisms modulating host responses to C. 
+difficile and its toxins remains largely unknown. To characterize the role of 
+PPARγ in C. difficile-associated disease (CDAD), immunity and gut pathology, we 
+used a mouse model of C. difficile infection in wild-type and T cell-specific 
+PPARγ null mice. The loss of PPARγ in T cells increased disease activity and 
+colonic inflammatory lesions following C. difficile infection. Colonic 
+expression of IL-17 was upregulated and IL-10 downregulated in colons of T 
+cell-specific PPARγ null mice. Also, both the loss of PPARγ in T cells and C. 
+difficile infection favored Th17 responses in spleen and colonic lamina propria 
+of mice with CDAD. MicroRNA (miRNA)-sequencing analysis and RT-PCR validation 
+indicated that miR-146b was significantly overexpressed and nuclear receptor 
+co-activator 4 (NCOA4) suppressed in colons of C. difficile-infected mice. We 
+next developed a computational model that predicts the upregulation of miR-146b, 
+downregulation of the PPARγ co-activator NCOA4, and PPARγ, leading to 
+upregulation of IL-17. Oral treatment of C. difficile-infected mice with the 
+PPARγ agonist pioglitazone ameliorated colitis and suppressed pro-inflammatory 
+gene expression. In conclusion, our data indicates that miRNA-146b and PPARγ 
+activation may be implicated in the regulation of Th17 responses and colitis in 
+C. difficile-infected mice.

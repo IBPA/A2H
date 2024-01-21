@@ -1,0 +1,23 @@
+SC-236, 
+(4-[5-(4-chlorophenyl)-3-(trifluoromethyl)-1-pyrazol-1-]benzenesulfonamide; 
+C(16)H(11)ClF(3)N(3)O(2)S), is a highly selective cyclooxygenase (COX)-2 
+inhibitor. Recently, there have been reports that SC-236 protects against 
+cartilage damage in addition to reducing inflammation and pain in 
+osteoarthritis. However, the mechanism involved in the inflammatory allergic 
+reaction has not been examined. Mast cells accumulation can be related to 
+inflammatory conditions, including allergic rhinitis, asthma, and rheumatoid 
+arthritis. The aim of the present study is to investigate the effects of SC-236 
+on stem cell factor (SCF)-induced migration, morphological alteration, and 
+cytokine production of rat peritoneal mast cells (RPMCs). We observed that SCF 
+significantly induced the migration and morphological alteration. The ability of 
+SCF to enhance migration and morphological alteration was abolished by treatment 
+with SC-236. In addition, production of tumor necrosis factor (TNF)-alpha, 
+interleukin (IL)-1beta, and vascular endothelial growth factor (VEGF) production 
+induced by SCF was significantly inhibited by treatment with SC-236. Previous 
+work has demonstrated that SCF-induced migration and cytokine production of mast 
+cells require p38 MAPK activation. We also showed that SC-236 suppresses the 
+SCF-induced p38 MAPK activation in RPMCs. These data suggest that SC-236 
+inhibits migration and cytokine production through suppression of p38 MAPK 
+activation. These results provided new insight into the pharmacological actions 
+of SC-236 and its potential therapeutic role in the treatment of inflammatory 
+allergic diseases.

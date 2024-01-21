@@ -1,0 +1,19 @@
+Allograft inflammatory factor-1 (Aif-1) is a 17 kDa EF hand motif-bearing 
+protein expressed primarily in developing spermatids and cells of 
+monocyte/macrophage lineage. Increased Aif-1 expression has been identified in 
+clinically important conditions, including rheumatoid arthritis, systemic 
+sclerosis, endometriosis, and transplant-associated arteriosclerosis. Largely 
+similar gene products arising from the same locus are known as ionized Ca(2+) 
+binding adapter-1 (Iba1), microglial response factor-1 (MRF1), and daintain; 
+Iba1 in particular has emerged as a histologic marker of microglia and their 
+activation in pathologic CNS conditions, including the response to facial nerve 
+axotomy and stroke, uveitis, and experimental autoimmune neuritis and 
+encephalomyelitis. Nevertheless, how aif-1 gene products affect cellular 
+function is only partly understood, and the physiologic significance of these 
+products for male fertility, immune system development, and inflammation has not 
+been described. To permit such investigations, we generated a mouse line with 
+targeted deletion of the coding regions of the aif-1 gene. Here we report that 
+mice lacking Aif-1 breed well and show normal post-natal growth, but show 
+resistance to disease in a model of collagen-induced arthritis. We anticipate 
+that these mice will be useful for studies of Aif-1 function in a variety of 
+immune and inflammatory disease models.

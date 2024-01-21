@@ -1,0 +1,19 @@
+To explore the potential applicability of recombinant adeno-associated virus 
+(rAAV) vectors in the treatment of rheumatoid arthritis (RA), primary human 
+fibroblast-like synoviocytes (FLS) derived from patients with RA were infected 
+with rAAV encoding mouse IL-10 under the control of the CMV promoter. Addition 
+of the proteasome inhibitor carbobenzoxy-l-leucyl-l-leucyl-l-leucinal (zLLL) to 
+the cultures dramatically enhanced expression of the IL-10 transgene, in a 
+dose-dependent manner. The increased expression was transient, peaking at 3 days 
+and returning to near baseline by 7 days. The enhancement was observed even when 
+zLLL was added 13 days after infection with rAAV. The effect of zLLL was not 
+specific to either the mIL-10 transgene or the CMV promoter, as similar findings 
+were observed using an rAAV construct encoding alpha1-anti-trypsin under the 
+control of the chick beta-actin promoter or GFP, driven by the CMV promoter. 
+Transgene expression could be repeatedly induced by reexposure to zLLL. 
+Transgene mRNA levels increased in parallel with protein levels. Transgene 
+expression could also be repeatedly induced in vivo by administering zLLL to 
+SCID mice previously injected with rAAV-infected FLS. These data demonstrate 
+that proteasome inhibition can dramatically enhance transgene expression in 
+human RA FLS following infection with rAAV and suggest a possible approach to 
+regulating synovial transgene expression in vivo.

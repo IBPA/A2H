@@ -1,0 +1,23 @@
+Periodontal disease affects about 80% of adults in America, and is characterized 
+by oral bacterial infection-induced gingival inflammation, oral bone resorption, 
+and tooth loss. Periodontitis is also associated with other diseases such as 
+rheumatoid arthritis, diabetes, and heart disease. Although many efforts have 
+been made to develop effective therapies for this disease, none have been very 
+effective and there is still an urgent need for better treatments and 
+preventative strategies. Herein we explored for the first time the possibility 
+that adeno-associated virus (AAV)-mediated RNAi knockdown could be used to treat 
+periodontal disease with improved efficacy. For this purpose, we used 
+AAV-mediated RNAi knockdown of Atp6i/TIRC7 gene expression to target bone 
+resorption and gingival inflammation simultaneously. Mice were infected with the 
+oral pathogen Porphyromonas gingivalis W50 (P. gingivalis) in the maxillary 
+periodontium to induce periodontitis. We found that Atp6i depletion impaired 
+extracellular acidification and osteoclast-mediated bone resorption. 
+Furthermore, local injection of AAV-shRNA-Atp6i/TIRC7 into the periodontal 
+tissues in vivo protected mice from P. gingivalis infection-stimulated bone 
+resorption by >85% and decreased the T-cell number in periodontal tissues. 
+Notably, AAV-mediated Atp6i/TIRC7 knockdown also reduced the expression of 
+osteoclast marker genes and inflammation-induced cytokine genes. Atp6i(+/-) mice 
+with haploinsufficiency were similarly protected from P. gingivalis 
+infection-stimulated bone loss and gingival inflammation. This suggests that 
+AAV-shRNA-Atp6i/TIRC7 therapeutic treatment may significantly improve the health 
+of millions who suffer from P. gingivalis-mediated periodontal disease.

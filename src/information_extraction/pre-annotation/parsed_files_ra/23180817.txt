@@ -1,0 +1,20 @@
+Particular alleles of HLA contribute to disease susceptibility and severity in 
+many autoimmune conditions, but the mechanisms underlying these associations are 
+often unknown. In this study, we demonstrate that the shared epitope (SE), an 
+HLA-DRB1-coded sequence motif that is the single most significant genetic risk 
+factor for erosive rheumatoid arthritis, acts as a signal transduction ligand 
+that potently activates osteoclastogenesis, both in vitro and in vivo. The SE 
+enhanced the production of several pro-osteoclastogenic factors and facilitated 
+osteoclast (OC) differentiation in mouse and human cells in vitro. Transgenic 
+mice expressing a human HLA-DRB1 allele that code the SE motif demonstrated 
+markedly higher propensity for osteoclastogenesis and enhanced bone degradation 
+capacity ex vivo. In addition, the SE enhanced the differentiation of Th17 cells 
+expressing the receptor activator for NF-κB ligand. When the two agents were 
+combined, IL-17 and the SE enhanced OC differentiation synergistically. When 
+administered in vivo to mice with collagen-induced arthritis, the SE ligand 
+significantly increased arthritis severity, synovial tissue OC abundance, and 
+bone erosion. Thus, the SE contributes to arthritis severity by activating an 
+OC-mediated bone-destructive pathway. These findings suggest that besides 
+determining the target specificity of autoimmune responses, HLA molecules may 
+influence disease outcomes by shaping the pathogenic consequences of such 
+responses.

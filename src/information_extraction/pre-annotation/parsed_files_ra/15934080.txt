@@ -1,0 +1,26 @@
+OBJECTIVE: Although studies have suggested that human cartilage (HC) gp-39 may 
+be an antigen recognized by autoreactive CD4(+) T cells in rheumatoid arthritis, 
+we previously failed to identify specific CD4(+) T cells in patients' synovial 
+fluid or blood using a class II major histocompatibility complex-peptide 
+tetramer composed of the immunodominant HC gp-39(263-275) epitope covalently 
+linked to DR4. We undertook this study to better understand the parameters for 
+specific binding of this tetramer.
+METHODS: DR4-transgenic mice were immunized with the HC gp-39 peptide, and a set 
+of peptide-responsive hybridomas was derived. Hybridomas were stained with the 
+DR4-gp-39 tetramer and cultured with increasing amounts of peptide in the 
+presence of DR4-expressing antigen-presenting cells to determine functional 
+avidity.
+RESULTS: Great variability was apparent in the ability of the tetramer to stain 
+the hybridomas, and there was a strong correlation between the intensity of 
+tetramer staining and functional avidity. Importantly, nearly 30% of the 
+hybridomas did not stain with tetramer, and these cells exhibited relatively low 
+functional avidity. Although the addition of an anti-T cell receptor (anti-TCR) 
+monoclonal antibody during the staining procedure enhanced binding of the 
+tetramer to a number of the hybridomas, a significant percentage remained 
+unstainable. Analysis of TCR expression showed that >90% of the hybridomas 
+expressed the same TCR beta-chain variable region (V(beta)10), and sequencing of 
+the TCR junctional regions showed diversity in the third 
+complementarity-determining region.
+CONCLUSION: These results suggest that immune responses dominated by relatively 
+low-affinity TCR interactions, such as those that may occur in autoimmune 
+disease, will be difficult to detect using standard tetramer techniques.

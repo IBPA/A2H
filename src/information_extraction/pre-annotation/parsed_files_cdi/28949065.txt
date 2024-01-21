@@ -1,0 +1,19 @@
+Many reports have shown that crude extracts of the American cockroach have 
+therapeutic effects on inflammation. In a previous study, our research group 
+showed that an antimicrobial peptide (Periplanetasin-2) derived from the 
+American cockroach via de novo transcriptome analysis inhibited apoptosis of 
+human colonocytes and inflammatory responses of the mouse gut caused by 
+Clostridium difficile toxin A. Here, we examined whether Periplanetasin-4 
+(Peri-4), another antimicrobial peptide identified via de novo transcriptome 
+analysis of the American cockroach, could also inhibit the various toxicities 
+induced by C. difficile toxin A. We found that Peri-4 significantly reduced the 
+cell viability loss and cell apoptosis caused by toxin A in vitro. Peri-4 also 
+ameliorated the severe inflammatory responses seen in the toxin A-induced mouse 
+enteritis model, rescuing the villus disruption and interleukin-6 production 
+induced by luminal injection of toxin A into the mouse gut. Mechanistically, we 
+found that Peri-4 could reduce toxin A-induced reactive oxygen species 
+production to inhibit the activations of p38MAPK and p21Cip1/Waf1 , which are 
+critical for the cell damages induced by toxin A. These results collectively 
+suggest that the Peri-4 may be a potential therapeutic agent for treating toxin 
+A-induced pseudomembranous colitis. Copyright © 2017 European Peptide Society 
+and John Wiley & Sons, Ltd.

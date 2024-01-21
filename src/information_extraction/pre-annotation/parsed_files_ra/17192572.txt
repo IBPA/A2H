@@ -1,0 +1,25 @@
+Glucocorticoids are widely used to treat chronic inflammatory conditions 
+including rheumatoid arthritis. They promote mechanisms important for normal 
+resolution of inflammation, notably macrophage phagocytosis of leukocytes 
+undergoing apoptosis. Prereceptor metabolism of glucocorticoids by 
+11beta-hydroxysteroid dehydrogenase type 1 (11beta-HSD1) amplifies intracellular 
+levels of glucocorticoids by oxoreduction of intrinsically inert cortisone (in 
+humans, 11-dehydrocorticosterone in mice) into active cortisol (corticosterone 
+in mice) within cells expressing the enzyme. Recently, we have shown in a mouse 
+model of acute inflammation, high expression of 11beta-HSD oxoreductase but not 
+dehydrogenase activity in cells elicited rapidly in the peritoneum by a single 
+thioglycollate injection. 11beta-HSD oxoreductase activity remained high in 
+peritoneal cells until the inflammation resolved. In vitro, the 11beta-HSD1 
+substrate, 11-dehydrocorticosterone, increased macrophage phagocytosis of 
+apoptotic neutrophils to the same extent as corticosterone. This effect was 
+dependent upon 11beta-HSD1: these cells solely expressed the type 1 11beta-HSD 
+isozyme (not 11beta-HSD2), and carbenoxolone, an 11beta-HSD inhibitor, prevented 
+the increase in phagocytosis elicited by 11-dehydrocorticosterone. Macrophages 
+from 11beta-HSD1-deficient mice failed to respond to 11-dehydrocorticosterone. 
+In vivo, 11beta-HSD1-deficient mice showed a delay in acquisition of macrophage 
+phagocytic competence and had an increased number of free apoptotic neutrophils 
+during sterile peritonitis. Importantly, in preliminary experiments, 
+11beta-HSD1-deficient mice exhibited delayed resolution of inflammation in 
+experimental arthritis. These findings suggest 11beta-HSD1 may be a component of 
+mechanisms engaged early during the inflammatory response that promote its 
+subsequent resolution.

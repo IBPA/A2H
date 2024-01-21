@@ -1,0 +1,25 @@
+OBJECTIVE: Rheumatoid arthritis (RA) is an inflammatory autoimmune disease 
+characterized by severe joint erosion and systemic osteoporosis. Chronic T cell 
+activation is a hallmark of RA, and agents that target the CD28 receptor on T 
+cells, which is required for T cell activation, are being increasingly used as 
+therapies for RA and other inflammatory diseases. Lymphocytes play complex roles 
+in the regulation of the skeleton, and although activated T cells and B cells 
+secrete cytokines that promote skeletal decline, under physiologic conditions 
+lymphocytes also have key protective roles in the stabilization of skeletal 
+mass. Consequently, disruption of T cell costimulation may have unforeseen 
+consequences for physiologic bone turnover. This study was undertaken to 
+investigate the impact of pharmacologic CD28 T cell costimulation blockade on 
+physiologic bone turnover and structure.
+METHODS: C57BL6 mice were treated with CTLA-4Ig, a pharmacologic CD28 antagonist 
+or with irrelevant control antibody (Ig), and serum biochemical markers of bone 
+turnover were quantified by enzyme-linked immunosorbent assay. Bone mineral 
+density and indices of bone structure were further measured by dual x-ray 
+absorptiometry and micro-computed tomography, respectively, and static and 
+dynamic indices of bone formation were quantified using bone histomorphometry.
+RESULTS: Pharmacologic disruption of CD28 T cell costimulation in mice 
+significantly increased bone mass and enhanced indices of bone structure, a 
+consequence of enhanced bone formation, concurrent with enhanced secretion of 
+the bone anabolic factor Wnt-10b by T cells.
+CONCLUSION: Inhibition of CD28 costimulation by CTLA-4Ig promotes T cell Wnt-10b 
+production and bone formation and may represent a novel anabolic strategy for 
+increasing bone mass in osteoporotic conditions.

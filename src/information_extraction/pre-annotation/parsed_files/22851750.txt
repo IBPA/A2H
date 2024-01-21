@@ -1,0 +1,19 @@
+We show in this study that toxin production in Clostridium difficile is altered 
+in cells which can no longer form flagellar filaments. The impact of 
+inactivation of fliC, CD0240, fliF, fliG, fliM, and flhB-fliR flagellar genes 
+upon toxin levels in culture supernatants was assessed using cell-based 
+cytotoxicity assay, proteomics, immunoassay, and immunoblotting approaches. Each 
+of these showed that toxin levels in supernatants were significantly increased 
+in a fliC mutant compared to that in the C. difficile 630 parent strain. In 
+contrast, the toxin levels in supernatants secreted from other flagellar mutants 
+were significantly reduced compared with that in the parental C. difficile 630 
+strain. Transcriptional analysis of the pathogenicity locus genes (tcdR, tcdB, 
+tcdE, and tcdA) revealed a significant increase of all four genes in the fliC 
+mutant strain, while transcription of all four genes was significantly reduced 
+in fliM, fliF, fliG, and flhB-fliR mutants. These results demonstrate that toxin 
+transcription in C. difficile is modulated by the flagellar regulon. More 
+significantly, mutant strains showed a corresponding change in virulence 
+compared to the 630 parent strain when tested in a hamster model of C. difficile 
+infection. This is the first demonstration of differential flagellum-related 
+transcriptional regulation of toxin production in C. difficile and provides 
+evidence for elaborate regulatory networks for virulence genes in C. difficile.

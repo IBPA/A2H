@@ -1,0 +1,23 @@
+Clostridium difficile is the primary cause of nosocomial diarrhea and 
+pseudomembranous colitis. It produces dormant spores, which serve as an 
+infectious vehicle responsible for transmission of the disease and persistence 
+of the organism in the environment. In Bacillus subtilis, the sin locus coding 
+SinR (113 aa) and SinI (57 aa) is responsible for sporulation inhibition. In B. 
+subtilis, SinR mainly acts as a repressor of its target genes to control 
+sporulation, biofilm formation, and autolysis. SinI is an inhibitor of SinR, so 
+their interaction determines whether SinR can inhibit its target gene 
+expression. The C. difficile genome carries two sinR homologs in the operon that 
+we named sinR and sinR', coding for SinR (112 aa) and SinR' (105 aa), 
+respectively. In this study, we constructed and characterized sin locus mutants 
+in two different C. difficile strains R20291 and JIR8094, to decipher the 
+locus's role in C. difficile physiology. Transcriptome analysis of the sinRR' 
+mutants revealed their pleiotropic roles in controlling several pathways 
+including sporulation, toxin production, and motility in C. difficile. Through 
+various genetic and biochemical experiments, we have shown that SinR can 
+regulate transcription of key regulators in these pathways, which includes sigD, 
+spo0A, and codY. We have found that SinR' acts as an antagonist to SinR by 
+blocking its repressor activity. Using a hamster model, we have also 
+demonstrated that the sin locus is needed for successful C. difficile infection. 
+This study reveals the sin locus as a central link that connects the gene 
+regulatory networks of sporulation, toxin production, and motility; three key 
+pathways that are important for C. difficile pathogenesis.

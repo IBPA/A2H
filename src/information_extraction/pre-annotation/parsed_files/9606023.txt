@@ -1,0 +1,22 @@
+The role of the actin cytoskeleton and/or GTPases of the Rho/Rac-family in 
+glucose transport regulation was investigated in 3T3-L1 cells with clostridial 
+toxins which depolymerize actin by inactivation of Rho/Rac (Clostridium 
+difficile toxin B and Clostiridium sordellii lethal toxin (LT)) or by direct 
+ADP-ribosylation (Clostridium botulinum C2 toxin). Toxin B and C2 reduced 
+insulin-stimulated, but not basal, 2-deoxyglucose (2-DOG) uptake rates in 3T3-L1 
+fibroblasts. In parallel, the toxins produced morphological alterations of the 
+cells reflecting disruption of the actin cytoskeleton. Both toxins reduced the 
+maximum response to insulin but failed to alter the half-maximally stimulating 
+concentrations of insulin. In 3T3-L1 adipocytes, the lethal toxin reduced the 
+effect of insulin on 2-DOG uptake, whereas toxin B and C2 failed to affect 
+glucose transport or cell morphology. When cells were exposed to the toxins 
+after treatment with insulin, both toxin B and the lethal toxin, in contrast to 
+the phosphatidylinositol (PI) 3-kinase inhibitor wortmannin, failed to reduce 
+the 2-DOG uptake rates. Thus, both translocation to the plasma membrane and 
+internalization of glucose transporters were inhibited by the toxins, whereas 
+the PI 3-kinase inhibitor selectively affects translocation. The data suggest 
+that the effects of the clostridial toxins on trafficking of glucose 
+transporters are mediated by the depolymerization of the actin cytoskeleton and 
+are an indirect consequence of Rho or Rac inactivation. It is suggested that 
+pathways signalling through Rac or Rho may play a modulatory role in glucose 
+transport regulation through their effects on the actin network.

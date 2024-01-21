@@ -1,0 +1,24 @@
+OBJECTIVE: Arthritis in the K/BxN mouse model results from pathogenic 
+immunoglobulins that recognize glucose-6-phosphate isomerase (GPI), a glycolytic 
+enzyme residing in the cytoplasm of all cells. Antibodies directed against GPI 
+can, alone, transfer arthritis to healthy recipients. Previous experiments have 
+revealed significant titers of anti-GPI antibodies in the serum of many patients 
+with rheumatoid arthritis (RA). We evaluated the generality of these 
+observations in cohorts of patients with 12 different arthritic and chronic 
+autoimmune diseases and in population-matched healthy control subjects.
+METHODS: Anti-GPI antibodies were assayed in 811 individual serum samples by 
+enzyme-linked immunosorbent assay with 2 forms of GPI, recombinant and native. 
+Results were confirmed by immunoblotting.
+RESULTS: Several patients had significantly elevated anti-GPI antibody titers, 
+but without the prevalence or the specificity reported previously. Only 15% of 
+RA patients had anti-GPI antibodies (range 12-29% in different cohorts), with a 
+higher prevalence in patients with active disease. Psoriatic arthritis, 
+undifferentiated arthritis, and spondylarthropathy patients also displayed 
+anti-GPI antibodies at similar frequencies (12-25%). Similar titers were 
+detected in a proportion (5-10%) of control subjects or patients with Crohn's 
+disease or sarcoidosis. Very high titers were found in rare cases of RA and 
+systemic lupus erythematosus.
+CONCLUSION: No disease-specific pattern of antibody positivity to GPI was 
+apparent. While the antibody-mediated mechanism at play in the mouse model may 
+exemplify a generic mechanism for some forms of arthritis in humans, GPI itself 
+does not appear to be a target common to the majority of RA patients.

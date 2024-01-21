@@ -1,0 +1,25 @@
+Interactions of commensal bacteria within the gut microbiota and with invading 
+pathogens are critical in determining the outcome of an infection. While murine 
+studies have been valuable, we lack in vitro models to monitor community 
+responses to pathogens at a single-species level. We have developed a 
+multispecies community of nine representative gut species cultured together as a 
+mixed biofilm and tracked numbers of individual species over time using a 
+quantitative PCR (qPCR)-based approach. Introduction of the major nosocomial gut 
+pathogen, Clostridioides difficile, to this community resulted in increased 
+adhesion of commensals and inhibition of C. difficile multiplication. 
+Interestingly, we observed an increase in individual Bacteroides species 
+accompanying the inhibition of C. difficile Furthermore, Bacteroides dorei 
+reduced C. difficile growth within biofilms, suggesting a role for Bacteroides 
+spp. in prevention of C. difficile colonization. We report here an in vitro tool 
+with excellent applications for investigating bacterial interactions within a 
+complex community.IMPORTANCE Studying interactions between bacterial species 
+that reside in the human gut is crucial for gaining a better insight into how 
+they provide protection from pathogen colonization. In vitro models of 
+multispecies bacterial communities wherein behaviors of single species can be 
+accurately tracked are key to such studies. Here, we have developed a synthetic, 
+trackable, gut microbiota community which reduces growth of the human gut 
+pathogen Clostridioides difficile We report that Bacteroides spp. within this 
+community respond by multiplying in the presence of this pathogen, resulting in 
+reduction of C. difficile growth. Defined in vitro communities that can be 
+tailored to include different species are well suited to functional genomic 
+approaches and are valuable tools for understanding interbacterial interactions.

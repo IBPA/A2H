@@ -1,0 +1,24 @@
+Coenzyme Q10 (CoQ10) is a lipid-soluble antioxidant synthesized in human body. 
+This enzyme promotes immune system function and can be used as a dietary 
+supplement. Rheumatoid arthritis (RA) is an autoimmune disease leading to 
+chronic joint inflammation. RA results in severe destruction of cartilage and 
+disability. This study aimed to investigate the effect of CoQ10 on inflammation 
+and Th17 cell proliferation on an experimental rheumatoid arthritis (RA) mice 
+model. CoQ10 or cotton seed oil as control was orally administrated once a day 
+for seven weeks to mice with zymosan-induced arthritis (ZIA). Histological 
+analysis of the joints was conducted using immunohistochemistry. Germinal center 
+(GC) B cells, Th17 cells and Treg cells of the spleen tissue were examined by 
+confocal microscopy staining. mRNA expression was measured by real-time PCR and 
+protein levels were estimated by enzyme-linked immunosorbent assay (ELISA). Flow 
+cytometric analysis (FACS) was used to evaluate Th17 cells and Treg cells. CoQ10 
+mitigated the severity of ZIA and decreased serum immunoglobulin concentrations. 
+CoQ10 also reduced RANKL-induced osteoclastogenesis, inflammatory mediators and 
+oxidant factors. Th17/Treg axis was reciprocally controlled by CoQ10 treatment. 
+Moreover, CoQ10 treatment on normal mouse and human cells cultured in Th17 
+conditions decreased the number of Th17 cells and enhanced the number of Treg 
+cells. CoQ10 alleviates arthritis in mice with ZIA declining inflammation, Th17 
+cells and osteoclast differentiation. These findings suggest that CoQ10 can be a 
+potential therapeutic substance for RA.
+
+Copyright © 2015 European Federation of Immunological Societies. Published by 
+Elsevier B.V. All rights reserved.

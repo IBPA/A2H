@@ -1,0 +1,22 @@
+INTRODUCTION: Rituximab (RTX), a chimeric mouse anti-human CD20 monoclonal 
+antibody, is indicated for the treatment of patients with non-Hodgkin's 
+lymphoma, chronic lymphocytic leukemia, granulomatosis with polyangiitis and 
+microscopic polyangiitis, and rheumatoid arthritis, but nowadays it is 
+increasingly used for the treatment of many other immune-mediated disorders. 
+Hepatitis B virus (HBV) reactivation in RTX-treated patients, eventually leading 
+to fatal liver failure, has been reported more often among hepatitis B surface 
+antigen (HBsAg)-positive patients (overt infection) than in HBsAg-negative, 
+antibody to hepatitis B core antigen (anti-HBc) seropositive patients (resolved 
+infection).
+AREAS COVERED: This paper reviews the safety of RTX in patients with overt or 
+resolved HBV infection, providing recommendations for its safe use in such 
+patients.
+EXPERT OPINION: Prior to starting RTX treatment, all patients should be screened 
+for HBV infection. While HBsAg-positive active carriers should receive long-term 
+antiviral treatment with entecavir (ETV) or tenofovir, inactive carriers are 
+candidates for universal prophylaxis with lamivudine, or ETV or tenofovir in 
+selected cases, to prevent hepatitis reactivation. Conversely, for 
+HBsAg-negative anti-HBc positive carriers, that is, those with resolved HBV 
+infection, universal prophylaxis with lamivudine is recommended for those with 
+onco-hematological diseases, whereas watchful monitoring of HBsAg/HBV DNA levels 
+is advisable for all the other indications.

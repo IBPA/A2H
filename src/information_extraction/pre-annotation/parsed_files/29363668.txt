@@ -1,0 +1,18 @@
+Clostridium difficile is the leading cause of nosocomial infections in the 
+United States. Clinical disease outcomes after C. difficile infection (CDI) are 
+dependent on intensity of host inflammatory responses. Specifically, peak 
+peripheral white blood cell (WBC) count >20 × 109 l-1 is an indicator of adverse 
+outcomes in CDI patients, and is associated with higher 30-day mortality. We 
+show that homozygosity for a common single nucleotide polymorphism (Q to R 
+mutation in leptin receptor that is present in up to 50% of people), 
+significantly increases the risk of having peak peripheral WBC count >20 × 
+109 l-1 (odds ratio=5.41; P=0.0023) in CDI patients. In a murine model of CDI, 
+we demonstrate that mice homozygous for the same single nucleotide polymorphism 
+(RR mice) have more blood and tissue leukocytes (specifically neutrophils), 
+exaggerated tissue inflammation, and higher mortality as compared with control 
+mice, despite similar pathogen burden. Further, we show that neutrophilia in RR 
+mice is mediated by gut microbiota-directed expression of CXC chemokine receptor 
+2 (CXCR2), which promotes the release of neutrophils from bone marrow reservoir. 
+Overall these studies provide novel mechanistic insights into the role of human 
+genetic polymorphisms and gut microbiota in regulating the fundamental 
+biological process of CDI-induced neutrophilia.

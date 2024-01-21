@@ -1,0 +1,21 @@
+The toxicity of Clostridium difficile large clostridial toxin B (TcdB) can be 
+reduced by many orders of magnitude by a combination of targeted point 
+mutations. However, a TcdB mutant with five point mutations (referred to herein 
+as mTcdB) still has residual toxicity that can be detected in cell-based assays 
+and in-vivo mouse toxicity assays. This residual toxicity can be effectively 
+removed by treatment with formaldehyde in solution. Storage of the 
+formaldehyde-treated mTcdB as a liquid can result in reversion over time back to 
+the mTcdB level of toxicity, with the rate of reversion dependent on the storage 
+temperature. We found that for both the "forward" mTcdB detoxification reaction 
+with formaldehyde, and the "reverse" reversion to toxicity reaction, mouse 
+toxicity correlated with several biochemical assays including anion exchange 
+chromatography retention time and appearance on SDS-PAGE. Maintenance of a low 
+concentration of formaldehyde prevents reversion to toxicity in liquid 
+formulations. However, when samples with 0.016% (v/v) formaldehyde were 
+lyophilized and stored at 37 °C, formaldehyde continued to react with and modify 
+the mTcdB in the lyophilized state. Lyophilization alone effectively prevented 
+reversion to toxicity for formaldehyde-treated, formaldehyde-removed mTcdB 
+samples stored at 37 °C for 6 months. Formaldehyde-treated, formaldehyde-removed 
+lyophilized mTcdB showed no evidence of reversion to toxicity, appeared stable 
+by several assays, and was immunogenic in mice, even after storage for 6 months 
+at 37 °C.

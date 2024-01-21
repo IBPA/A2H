@@ -1,0 +1,18 @@
+Intestinal epithelial cell culture is important for biological, functional, and 
+immunological studies. Since enterocytes have a short in vivo life span due to 
+anoikis, we aimed to establish a novel and reproducible method to prolong the 
+survival of mouse and human cells. Cells were isolated following a standard 
+procedure, and cultured on ordered-cow's collagen membranes. A prolonged cell 
+life span was achieved; cells covered the complete surface of bio-membranes and 
+showed a classical enterocyte morphology with high expression of enzymes 
+supporting the possibility of cryopreservation. Apoptosis was dramatically 
+reduced and cultured enterocytes expressed cytokeratin and LGR5 (low frequency). 
+Cells exposed to LPS or flagellin showed the induction of TLR4 and TLR5 
+expression and a functional phenotype upon exposure to the probiotic 
+Bifidobacterium bifidum or the pathogenic Clostridium difficile. The secretion 
+of the homeostatic (IL-25 and TSLP), inhibitory (IL-10 and TGF-β), or 
+pro-inflammatory mediators (IL-1β and TNF) were induced. In conclusion, this 
+novel protocol using cow's collagen-ordered membrane provides a simple and 
+reproducible method to maintain intestinal epithelial cells functional for 
+cell-microorganism interaction studies and stem cell expansion. J. Cell. 
+Physiol. 232: 2489-2496, 2017. © 2016 Wiley Periodicals, Inc.

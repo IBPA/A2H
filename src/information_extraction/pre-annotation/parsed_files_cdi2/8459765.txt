@@ -1,0 +1,31 @@
+Experiments reported in this communication showed that the highly toxinogenic Cd 
+79685, Cd 4784, and Wilkins Clostridium difficile strains and the moderately 
+toxinogenic FD strain grown in the presence of blood adhere to polarized 
+monolayers of two cultured human intestinal cell lines: the human colonic 
+epithelial Caco-2 cells and the human mucus-secreting HT29-MTX cells. Scanning 
+electron microscopy revealed that the bacteria interacted with well-defined 
+apical microvilli of differentiated Caco-2 cells and that the bacteria strongly 
+bind to the mucus layer that entirely covers the surface of the HT29-MTX cells. 
+The binding of C. difficile to Caco-2 cells developed in parallel with the 
+differentiation features of the Caco-2 cells, suggesting that the protein(s) 
+which constitute C. difficile-binding sites are differentiation-related brush 
+border protein(s). To better define this interaction, we tentatively 
+characterized the mechanism(s) of adhesion of C. difficile with adherence 
+assays. It was shown that heating of C. difficile grown in the presence of blood 
+enhanced the bacterial interaction with the brush border of the enterocyte-like 
+Caco-2 cells and the human mucus-secreting HT29-MTX cells. A labile 
+surface-associated component was involved in C. difficile adhesion since washes 
+of C. difficile grown in the presence of blood without heat shock decreased 
+adhesion. After heating, washes of C. difficile grown in the presence of blood 
+did not modify adhesion. Analysis of surface-associated proteins of C. difficile 
+subjected to different culture conditions was conducted. After growth of C. 
+difficile Cd 79685, Cd 4784, FD and Wilkins strains in the presence of blood and 
+heating, two predominant SDS-extractable proteins with molecular masses of 12 
+and 27 kDa were observed and two other proteins with masses of 48 and 31 kDa 
+disappeared. Direct involvement of the 12 and 27 kDa surface-associated proteins 
+in the adhesion of C. difficile strains was demonstrated by using rat 
+polycolonal antibodies pAb 12 and pAb 27 directed against the 12 and 27 kDa 
+proteins. Indeed, adhesion to Caco-2 cell monolayers of C. difficile strains 
+grown in the presence of blood, without or with heat-shock, was blocked. Taken 
+together, our results suggest that C. difficile may utilize blood components as 
+adhesins to adhere to human intestinal cultured cells.

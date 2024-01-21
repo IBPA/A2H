@@ -1,0 +1,24 @@
+CONTEXT: Withaferin A (WFA) exhibits diverse pharmaceutical applications on 
+human diseases, including rheumatoid arthritis, cancers and microbial infection.
+OBJECTIVE: We evaluated the neuroprotective role of WFA using a mouse model of 
+spinal cord injury (SCI).
+MATERIALS AND METHODS: BALB/c mice were administrated 10 mg/kg of WFA. Gene 
+expression was measured by real-time PCR, western blot and immunohistochemistry. 
+Cell morphology and apoptosis were determined by H&E staining and TUNEL assay. 
+Motor function was evaluated by the BBB functional scale for continuous 7 weeks.
+RESULTS: WFA significantly improved neurobehavioural function and alleviated 
+histological alteration of spinal cord tissues in traumatized mice. 
+Brain-derived neurotrophic factor (BDNF) and glial cell line-derived 
+neurotrophic factor (GDNF) significantly increased in WFA-treated mice. 
+Meanwhile, the expression of Nogo-A and RhoA remarkably decreased in the 
+presence of WFA. Furthermore, the apoptotic cell death was attenuated in mice 
+treated with WFA (31.48 ± 2.50% vs. 50.08 ± 2.08%) accompanied by decreased bax 
+and increased bcl-2. In addition, WFA decreased the expression of 
+pro-inflammatory mediators such as IL-1β (11.20 ± 1.96 ng/mL vs. 
+17.59 ± 1.42 ng/mL) and TNF-α (57.38 ± 3.57 pg/mL vs. 95.06 ± 9.13 pg/mL). The 
+anti-inflammatory cytokines including TGF-β1 (14.32 ± 1.04 pg/mL vs. 
+9.37 ± 1.17 pg/mL) and IL-10 (116.80 ± 6.91 pg/mL vs. 72.33 ± 9.35 pg/mL) were 
+elevated after WFA administration.
+DISCUSSION AND CONCLUSION: This study demonstrated that WFA has a 
+neuroprotective role by inhibition of apoptosis and inflammation after SCI in 
+mice.

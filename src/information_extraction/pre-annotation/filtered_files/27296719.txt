@@ -1,0 +1,23 @@
+BACKGROUND: Rheumatoid arthritis (RA) is a multifactorial autoimmune disease, 
+which is characterized by inflammation of synovial joints leading to the 
+destruction of cartilage and bone. Infiltrating mast cells can be found within 
+the inflamed synovial tissue, however their role in disease pathogenesis is 
+unclear. Therefore we have studied the role of mast cells during different 
+phases of experimental arthritis.
+METHODS: We induced collagen-induced arthritis (CIA), the most frequently used 
+animal model of arthritis, in an inducible mast cell knock-out mouse and 
+determined the effect of mast cell depletion on the development and severity of 
+arthritis.
+RESULTS: Depletion of mast cells in established arthritis did not affect 
+clinical outcome. However, depletion of mast cells during the preclinical phase 
+resulted in a significant reduction in arthritis. This reduction coincided with 
+a decrease in circulating CD4(+) T cells and inflammatory monocytes but not in 
+the collagen-specific antibody levels. Mast cell depletion resulted in reduced 
+levels of IL-6 and IL-17 in serum. Furthermore, stimulation of splenocytes from 
+mast cell-depleted mice with collagen type II resulted in reduced levels of 
+IL-17 and enhanced production of IL-10.
+CONCLUSIONS: Here we show that mast cells contribute to the preclinical phase of 
+CIA. Depletion of mast cells before disease onset resulted in an altered 
+collagen-specific T cell and cytokine response. These data may suggest that mast 
+cells play a role in the regulation of the adaptive immune response during the 
+development of arthritis.

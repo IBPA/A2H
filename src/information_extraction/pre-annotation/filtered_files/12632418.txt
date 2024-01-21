@@ -1,0 +1,27 @@
+OBJECTIVE: Pleiotrophin (PTN), a 15.3-kd heparin-binding peptide, is expressed 
+in mesodermal and neuroectodermal cells during development, but rarely in adult 
+tissues. Since developmentally regulated factors often reappear during disease, 
+we sought to determine whether there was PTN expression in the synovial 
+membranes of patients with rheumatoid arthritis (RA).
+METHODS: PTN messenger RNA expression was assayed by quantitative reverse 
+transcriptase-polymerase chain reaction. The protein was localized by 
+immunohistochemistry and quantified by enzyme-linked immunosorbent assay 
+(ELISA). Effects of PTN on cell proliferation in vitro were determined by DNA 
+measurements.
+RESULTS: PTN expression in normal adult synovial membranes and cartilage was 
+barely detectable. However, PTN was strongly up-regulated in synovial tissues 
+from patients with RA. In contrast, samples from patients with pyogenic 
+arthritis had moderate PTN levels, and those from patients with osteoarthritis 
+had only a slight increase in PTN, as measured by ELISA. In RA patients, PTN was 
+localized primarily in synoviocytes but was also found in endothelial cells of 
+blood vessels. In cultured mouse fibroblasts used as a model, PTN expression was 
+up-regulated by tumor necrosis factor alpha and was more weakly up-regulated by 
+epidermal growth factor. Recombinant PTN stimulated the proliferation of 
+cultured human synoviocytes and the monocyte cell line THP-1, but not human 
+dermal fibroblasts, in which PTN increased the synthesis of vascular endothelial 
+growth factor.
+CONCLUSION: In addition to certain types of cancer, the embryonic growth and 
+differentiation factor PTN is expressed in adults with inflammatory diseases, in 
+particular, RA. Proinflammatory cytokines enhance the expression of PTN. Thus, 
+we propose that PTN is a further paracrine angiogenesis and growth factor for 
+synovial cells in RA.

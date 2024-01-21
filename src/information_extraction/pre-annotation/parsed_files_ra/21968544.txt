@@ -1,0 +1,24 @@
+OBJECTIVE: Bone destruction is a critical pathology involved in the functional 
+disability caused by rheumatoid arthritis (RA). Osteoclasts, which are 
+specialized bone-resorbing cells regulated by cytokines such as RANKL, are 
+implicated in bone destruction in RA. The aim of this study was to determine 
+whether interleukin-21 (IL-21), a potent immunomodulatory 4-α-helical bundle 
+type 1 cytokine, has osteoclastogenic activity in patients with RA and in mice 
+with collagen-induced arthritis (CIA).
+METHODS: The expression of IL-21 in synovial tissue was examined using 
+immunohistochemistry. The concentrations of IL-21 in serum and synovial fluid 
+were determined by enzyme-linked immunosorbent assay. The levels of RANKL and 
+osteoclastogenic markers were measured using real-time polymerase chain 
+reaction. CD14+ monocytes from patients with RA or mouse bone marrow cells were 
+cocultured with fibroblast-like synoviocytes (FLS) from patients with RA or CD4+ 
+T cells from mice with CIA in the presence of IL-21 and subsequently stained for 
+tartrate-resistant acid phosphatase activity to determine osteoclast formation.
+RESULTS: IL-21 was up-regulated in the synovium, synovial fluid, and serum of 
+patients with RA and in the synovium and serum of mice with CIA. IL-21 induced 
+RANKL expression in mixed joint cells and CD4+ T cells from mice with CIA and in 
+CD4+ T cells and FLS from patients with RA. Moreover, IL-21 enhanced in vitro 
+osteoclastogenesis without the presence of RANKL-providing cells and by inducing 
+RANKL expression in CD4+ T cells and FLS.
+CONCLUSION: Our data suggest that IL-21 promotes osteoclastogenesis in RA. We 
+believe that therapeutic strategies targeting IL-21 might be effective for the 
+treatment of patients with RA, especially in preventing bone destruction.

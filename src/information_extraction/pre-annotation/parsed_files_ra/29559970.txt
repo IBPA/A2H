@@ -1,0 +1,17 @@
+M2 macrophage (Mφ) promotes pathologic angiogenesis through a release of 
+pro-angiogenic mediators or the direct cell-cell interaction with endothelium in 
+the micromilieu of several chronic inflammatory diseases, including rheumatoid 
+arthritis and cancer, where interleukin (IL)-18 also contributes to excessive 
+angiogenesis. However, the detailed mechanism remains unclear. The aim of this 
+study is to investigate the mechanism by which M2 Mφs in the micromilieu 
+containing IL-18 induce excessive angiogenesis in the in vitro experimental 
+model using mouse Mφ-like cell line, RAW264.7 cells, and mouse endothelial cell 
+line, b.End5 cells. We discovered that IL-18 acts synergistically with IL-10 to 
+amplify the production of Mφ-derived mediators like osteopontin (OPN) and 
+thrombin, yielding thrombin-cleaved form of OPN generation, which acts through 
+integrins α4/α9, thereby augmenting M2 polarization of Mφ with characteristics 
+of increasing surface CD163 expression in association with morphological 
+alteration. Furthermore, the results of visualizing temporal behavior and 
+morphological alteration of Mφs during angiogenesis demonstrated that M2-like 
+Mφs induced excessive angiogenesis through the direct cell-cell interaction with 
+endothelial cells, possibly mediated by CD163.

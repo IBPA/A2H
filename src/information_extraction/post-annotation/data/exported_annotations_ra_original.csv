@@ -1,0 +1,958 @@
+,doc_name,disease,induction method,species,conclusive_statement,therapeutic effect,intervention,MoA,strain,mechanism_of_action,induction
+0,10738648.txt,rheumatoid arthritis,carrageenan-induced,rat,"In both these models, anti-inflammatory activity of 
+liposomal indomethacin was significantly higher than that of free indomethacin 
+(p < .01).",anti-inflammatory,liposomal indomethacin,,,,
+1,10738648.txt,rheumatoid arthritis,adjuvant arthritis,rat,"In both these models, anti-inflammatory activity of 
+liposomal indomethacin was significantly higher than that of free indomethacin 
+(p < .01).",anti-inflammatory,liposomal indomethacin,,,,
+2,11145023.txt,rheumatoid arthritis,adjuvant arthritis,rat,"These data demonstrate that IL-4 and IL-10 can exert powerful 
+regulatory effects on neutrophil function that translate into a therapeutic 
+response in a disease model of arthritis.",regulatory effects on neutrophil function,IL-4,,,,
+3,11145023.txt,rheumatoid arthritis,adjuvant arthritis,rat,"These data demonstrate that IL-4 and IL-10 can exert powerful 
+regulatory effects on neutrophil function that translate into a therapeutic 
+response in a disease model of arthritis.",regulatory effects on neutrophil function,IL-10,,,,
+4,11235018.txt,,collagen-induced arthritis,rat,"KF20444 
+suppressed the development of arthritis",immunosuppressant,KF20444,"inhibitor 
+of dihydroorotate dehydrogenase",Sprague Dawley,,
+5,11237555.txt,rheumatoid arthritis.,"Collagen-induced 
+arthritis",monkey,MRA may be an attractive agent for the treatment of rheumatoid arthritis.,,"humanized 
+anti-human IL-6 receptor (IL-6R) antibody",,cynomolgus,react with monkey IL-6R,
+6,11237555.txt,rheumatoid arthritis.,"Collagen-induced 
+arthritis",monkey,MRA may be an attractive agent for the treatment of rheumatoid arthritis.,,"humanized 
+anti-human IL-6 receptor (IL-6R) antibody",,cynomolgus,block signal transduction of IL-6,
+7,11237555.txt,rheumatoid arthritis.,"Collagen-induced 
+arthritis",monkey,MRA may be an attractive agent for the treatment of rheumatoid arthritis.,,MRA,,cynomolgus,react with monkey IL-6R,
+8,11237555.txt,rheumatoid arthritis.,"Collagen-induced 
+arthritis",monkey,MRA may be an attractive agent for the treatment of rheumatoid arthritis.,,MRA,,cynomolgus,block signal transduction of IL-6,
+9,11249145.txt,rheumatoid arthritis,,mice,"The data from the SCW disease model suggests that RPR200765A 
+could exhibit a profile of disease modifying activity in rheumatoid arthritis 
+(RA) patients which is not observed with current drug therapies.",,RPR200765A,inhibitor of p38 MAP kinase,Balb/c,,streptococcal cell wall
+10,11249145.txt,rheumatoid arthritis,,rat,"The data from the SCW disease model suggests that RPR200765A 
+could exhibit a profile of disease modifying activity in rheumatoid arthritis 
+(RA) patients which is not observed with current drug therapies.",,RPR200765A,inhibitor of p38 MAP kinase,Balb/c,,streptococcal cell wall
+11,11249145.txt,rheumatoid arthritis,,mice,"The data from the SCW disease model suggests that RPR200765A 
+could exhibit a profile of disease modifying activity in rheumatoid arthritis 
+(RA) patients which is not observed with current drug therapies.",,RPR200765A,LPS-stimulated,Balb/c,,streptococcal cell wall
+12,11249145.txt,rheumatoid arthritis,,rat,"The data from the SCW disease model suggests that RPR200765A 
+could exhibit a profile of disease modifying activity in rheumatoid arthritis 
+(RA) patients which is not observed with current drug therapies.",,RPR200765A,LPS-stimulated,Balb/c,,streptococcal cell wall
+13,11359452.txt,rheumatoid arthritis,CIA,monkey,"Daclizumab has clinical potential for the treatment of RA during periods of 
+active inflammation and suppression of the destruction of the joint tissues",joint-inflammation,Daclizumab,CD25,rhesus,,
+14,11359452.txt,rheumatoid arthritis,CIA,monkey,"Daclizumab has clinical potential for the treatment of RA during periods of 
+active inflammation and suppression of the destruction of the joint tissues",joint-erosion,Daclizumab,CD25,rhesus,,
+15,11435459.txt,rheumatoid arthritis,"adjuvant-induced 
+arthritis",rat,"Administration of 
+SP600125 modestly decreased the rat paw swelling in rat adjuvant-induced 
+arthritis.",,SP600125,,,JNK inhibitor,
+16,11440118.txt,,Collagen-induced arthritis,mice,"Preimmunization of the mice with an extract of the house dust mite 
+Dermatophagoides farinae (mite antigen), chicken ovalbumin, or keyhole limpet 
+hemocyanin strongly inhibited CIA development",,Dermatophagoides farinae,,DBA/1J,,
+17,11440118.txt,,Collagen-induced arthritis,mice,"Preimmunization of the mice with an extract of the house dust mite 
+Dermatophagoides farinae (mite antigen), chicken ovalbumin, or keyhole limpet 
+hemocyanin strongly inhibited CIA development",,mite antigen,,DBA/1J,,
+18,11440118.txt,,Collagen-induced arthritis,mice,"Preimmunization of the mice with an extract of the house dust mite 
+Dermatophagoides farinae (mite antigen), chicken ovalbumin, or keyhole limpet 
+hemocyanin strongly inhibited CIA development",,"chicken ovalbumin,",,DBA/1J,,
+19,11440118.txt,,Collagen-induced arthritis,mice,"Preimmunization of the mice with an extract of the house dust mite 
+Dermatophagoides farinae (mite antigen), chicken ovalbumin, or keyhole limpet 
+hemocyanin strongly inhibited CIA development",,"keyhole limpet 
+hemocyanin",,DBA/1J,,
+20,11440118.txt,,Collagen-induced arthritis,mice,"Preimmunization of the mice with an extract of the house dust mite 
+Dermatophagoides farinae (mite antigen), chicken ovalbumin, or keyhole limpet 
+hemocyanin strongly inhibited CIA development",,hen egg lysozyme,,DBA/1J,,
+21,11440118.txt,,Collagen-induced arthritis,mice,"Preimmunization of the mice with an extract of the house dust mite 
+Dermatophagoides farinae (mite antigen), chicken ovalbumin, or keyhole limpet 
+hemocyanin strongly inhibited CIA development",,beta-lactoglobulin,,DBA/1J,,
+22,11440118.txt,,Collagen-induced arthritis,mice,"Preimmunization of the mice with an extract of the house dust mite 
+Dermatophagoides farinae (mite antigen), chicken ovalbumin, or keyhole limpet 
+hemocyanin strongly inhibited CIA development",,myelin basic protein,,DBA/1J,,
+23,11440118.txt,,Collagen-induced arthritis,mice,"hen egg lysozyme, 
+beta-lactoglobulin from bovine milk or myelin basic protein from guinea pig 
+brain did not substantially affect CIA development",,Dermatophagoides farinae,,DBA/1J,,
+24,11440118.txt,,Collagen-induced arthritis,mice,"hen egg lysozyme, 
+beta-lactoglobulin from bovine milk or myelin basic protein from guinea pig 
+brain did not substantially affect CIA development",,mite antigen,,DBA/1J,,
+25,11440118.txt,,Collagen-induced arthritis,mice,"hen egg lysozyme, 
+beta-lactoglobulin from bovine milk or myelin basic protein from guinea pig 
+brain did not substantially affect CIA development",,"chicken ovalbumin,",,DBA/1J,,
+26,11440118.txt,,Collagen-induced arthritis,mice,"hen egg lysozyme, 
+beta-lactoglobulin from bovine milk or myelin basic protein from guinea pig 
+brain did not substantially affect CIA development",,"keyhole limpet 
+hemocyanin",,DBA/1J,,
+27,11440118.txt,,Collagen-induced arthritis,mice,"hen egg lysozyme, 
+beta-lactoglobulin from bovine milk or myelin basic protein from guinea pig 
+brain did not substantially affect CIA development",,hen egg lysozyme,,DBA/1J,,
+28,11440118.txt,,Collagen-induced arthritis,mice,"hen egg lysozyme, 
+beta-lactoglobulin from bovine milk or myelin basic protein from guinea pig 
+brain did not substantially affect CIA development",,beta-lactoglobulin,,DBA/1J,,
+29,11440118.txt,,Collagen-induced arthritis,mice,"hen egg lysozyme, 
+beta-lactoglobulin from bovine milk or myelin basic protein from guinea pig 
+brain did not substantially affect CIA development",,myelin basic protein,,DBA/1J,,
+30,11469449.txt,rheumatoid arthritis,adjuvant arthritis,rat,"Tissue destruction, 
+measured by radiographic and histopathologic scores, was reduced in a dose 
+dependent manner with increasing MTX dose",,methotrexate,,Lewis,,
+31,11469449.txt,rheumatoid arthritis,adjuvant arthritis,rat,"Suppression of tissue destruction and inflammation in rat AA does 
+not occur in a concerted fashion as the dose of MTX increases.",,methotrexate,,Lewis,,
+32,11550975.txt,rheumatoid arthritis,adjuvant arthritis,rat,"ML3000 is an antiarthritic drug with a high gastrointestinal 
+tolerability, which can reduce synovial cell proliferation and joint erosion and 
+is capable of markedly suppressing prostaglandin synthesis.",,ML3000,5-LOX,Lewis,,
+33,11550975.txt,rheumatoid arthritis,adjuvant arthritis,rat,"ML3000 is an antiarthritic drug with a high gastrointestinal 
+tolerability, which can reduce synovial cell proliferation and joint erosion and 
+is capable of markedly suppressing prostaglandin synthesis.",,ML3000,COX-1 and COX-2,Lewis,,
+34,11588111.txt,rheumatoid arthritis,(LPS)-stimulated,mouse,"Treatment with AF significantly inhibited IL-12 production in lipopolysaccharide 
+(LPS)-stimulated macrophages and also in CD40L-stimulated dendritic cells.",,auranofin,inhibition of IL-12 production,macrophages,,
+35,11588111.txt,rheumatoid arthritis,CD40L-stimulated,mouse,"Treatment with AF significantly inhibited IL-12 production in lipopolysaccharide 
+(LPS)-stimulated macrophages and also in CD40L-stimulated dendritic cells.",,auranofin,inhibition of IL-12 production,macrophages,,
+36,11588111.txt,rheumatoid arthritis,(LPS)-stimulated,mouse,"Treatment with AF significantly inhibited IL-12 production in lipopolysaccharide 
+(LPS)-stimulated macrophages and also in CD40L-stimulated dendritic cells.",,auranofin,inhibition of IL-12 production,dendritic,,
+37,11588111.txt,rheumatoid arthritis,CD40L-stimulated,mouse,"Treatment with AF significantly inhibited IL-12 production in lipopolysaccharide 
+(LPS)-stimulated macrophages and also in CD40L-stimulated dendritic cells.",,auranofin,inhibition of IL-12 production,dendritic,,
+38,11592381.txt,rheumatoid arthritis,collagen-induced arthritis,mice,"Mice treated with the transgene exhibited significant suppression of 
+clinical symptoms such as disabling joint swelling, deformity, and hind paw 
+thickness, compared with the untreated group",,Superoxide dismutase,,DBA/1,,
+39,11592384.txt,rheumatoid arthritis,ovariectomy-induced,mouse,"These data indicate that HCT1026 is a potent inhibitor of bone 
+resorption in vitro and protects against ovariectomy-induced bone loss in vivo",antiinflammatory,"flurbiprofen 
+nitroxybutylester",Inhibitors of prostaglandin production,,,
+40,11592385.txt,rheumatoid arthritis,interleukin-1alpha,mouse,demonstrated for the first time that the therapeutic effects,,triptolide,suppression of the production of proMMPs 1 and 3,J774A.1,,
+41,11592385.txt,rheumatoid arthritis,interleukin-1alpha,mouse,demonstrated for the first time that the therapeutic effects,,triptolide,up-regulation of TIMPs,J774A.1,,
+42,11592385.txt,rheumatoid arthritis,lipopolysaccharide,mouse,demonstrated for the first time that the therapeutic effects,,triptolide,suppression of the production of proMMPs 1 and 3,J774A.1,,
+43,11592385.txt,rheumatoid arthritis,lipopolysaccharide,mouse,demonstrated for the first time that the therapeutic effects,,triptolide,up-regulation of TIMPs,J774A.1,,
+44,11748266.txt,rheumatoid arthritis.,collagen-induced arthritis,mice,"These results demonstrate that neutralizing endogenous IL-18 is 
+therapeutically efficacious in the murine model of collagen-induced arthritis",,"rabbit polyclonal anti-mouse 
+IL-18 IgG",,DBA/1,,
+45,11748266.txt,rheumatoid arthritis.,collagen-induced arthritis,mice,"These results demonstrate that neutralizing endogenous IL-18 is 
+therapeutically efficacious in the murine model of collagen-induced arthritis",,recombinant human IL-18 binding protein,,DBA/1,,
+46,11762952.txt,"rheumatoid 
+arthritis.",collagen-induced arthritis,rats,"low molecular weight mimetic of SOD, M40403, 
+attenuates the degree of chronic inflammation, tissue damage, and bone damage 
+associated with CIA in the rat, and supports the possible use of SOD mimetics as 
+therapeutic agents for the management of chronic diseases such as rheumatoid 
+arthritis.",,M40403,,Lewis,,
+47,11762952.txt,"rheumatoid 
+arthritis.",collagen-induced arthritis,rats,"low molecular weight mimetic of SOD, M40403, 
+attenuates the degree of chronic inflammation, tissue damage, and bone damage 
+associated with CIA in the rat, and supports the possible use of SOD mimetics as 
+therapeutic agents for the management of chronic diseases such as rheumatoid 
+arthritis.",,superoxide dismutase,,Lewis,,
+48,11791634.txt,rheumatoid arthritis,collagen-induced arthritis,mice,"L-asparaginase is a 
+potent antiarthritic agent and may represent an effective second line agent for 
+future treatment studies in juvenile and adult rheumatoid arthritis.",immunosuppressive,L-asparaginase,,DBA/1,,
+49,11795518.txt,rheumatoid arthritis,TNF-alpha transgenic,mice,"Expressions of 
+TNF-alpha and IL-6 were inhibited in the lungs of these mice after treatment",,Green tea,"inhibition of NF-kappaB and AP-1 
+activation",,,
+50,11822787.txt,rheumatoid arthritis,Adjuvant arthritis,rat,"Both monoclonal antibodies to PECAM-1 
+and prednisolone significantly reduced adherent, but not rolling leukocytes in 
+arthritic animals.",leukocyte adhesion,prednisolone,CD31,CD-rats,,
+51,11822787.txt,rheumatoid arthritis,Adjuvant arthritis,rat,"Both monoclonal antibodies to PECAM-1 
+and prednisolone significantly reduced adherent, but not rolling leukocytes in 
+arthritic animals.",leukocyte adhesion,monoclonal antibodies to PECAM-1,CD31,CD-rats,,
+52,11822787.txt,rheumatoid arthritis,Adjuvant arthritis,rat,"Both monoclonal antibodies to PECAM-1 
+and prednisolone significantly reduced adherent, but not rolling leukocytes in 
+arthritic animals.",leukocyte adhesion,prednisolone,CD31,CD-rats,,
+53,11840456.txt,"rheumatoid 
+arthritis",,mouse,"Vitamin E seems to uncouple joint inflammation and joint destruction 
+in this model of RA, with a beneficial effect on joint destruction.",antioxidant,alpha-tocopherol,,KRN/NOD,,
+54,11920418.txt,rheumatoid arthritis,adjuvant-induced arthritis,rat,"In vivo blockade of IL-17 by muIL-17R:Fc treatment attenuated AIA 
+and reduced joint damage",,muIL-17R:Fc,,DA,,
+55,11949889.txt,rheumatoid arthritis,collagen-induced arthritis,mice,"an inhibitor of PECAM-1 might have therapeutic value for clinical 
+treatment of rheumatoid arthritis.",,"anti-murine PECAM-1 
+monoclonal antibody",,DBA/1J,PECAM-1,
+56,11949889.txt,rheumatoid arthritis,collagen-induced arthritis,mice,"an inhibitor of PECAM-1 might have therapeutic value for clinical 
+treatment of rheumatoid arthritis.",,2H8,,DBA/1J,PECAM-1,
+57,11949889.txt,rheumatoid arthritis,collagen-induced arthritis,mice,"an inhibitor of PECAM-1 might have therapeutic value for clinical 
+treatment of rheumatoid arthritis.",,dexamethasone,,DBA/1J,PECAM-1,
+58,11958283.txt,rheumatoid arthritis,collagen-induced arthritis,mice,"The 
+efficacy of NM-3 was greater than those of disease-modifying anti-rheumatoid 
+drugs (DMARDs), auranofin (40 mg/kg/day) and bucillamine (10 mg/kg/day).",antiangiogenic,NM-3,,DBA/1J,,
+59,11966757.txt,rheumatoid arthritis,Adjuvant arthritis,rats,"Early administration of PEG sTNF-RI did 
+not attenuate AA, in contrast to an anti-TNF antibody, which suppressed disease",,PEG sTNF-RI,,DA,Anti-TNF,
+60,11966757.txt,rheumatoid arthritis,Adjuvant arthritis,rats,"Early administration of PEG sTNF-RI did 
+not attenuate AA, in contrast to an anti-TNF antibody, which suppressed disease",,anti-TNF antibody,,DA,Anti-TNF,
+61,12012021.txt,rheumatoid arthritis,adjuvant-induced arthritis,rat,"This compound 
+thus offers a therapeutic potential for the treatment of chronic inflammatory 
+diseases with an angiogenic component",anti-inflammatory,DTD,"inhibition of cytokine 
+and PGE(2) production by interfering with NF-kappaB activation.",,,
+62,12012021.txt,rheumatoid arthritis,adjuvant-induced arthritis,rat,"This compound 
+thus offers a therapeutic potential for the treatment of chronic inflammatory 
+diseases with an angiogenic component",antiangiogenic,DTD,"inhibition of cytokine 
+and PGE(2) production by interfering with NF-kappaB activation.",,,
+63,12126975.txt,rheumatoid arthritis.,"carrageenin-, 
+zymosan-, or dextran-induced",rats,"diacerein inhibited the 
+rat paw edema induced by various agents.",,Diacerein,,,,
+64,12126975.txt,rheumatoid arthritis.,"carrageenin-, 
+zymosan-, or dextran-induced",rats,"In the adjuvant-induced arthritic rats, 
+diacerein at 100 mg/kg/day significantly suppressed the paw edema and the 
+increase in serum mucoprotein.",,Diacerein,,,,
+65,12126975.txt,rheumatoid arthritis.,"carrageenin-, 
+zymosan-, or dextran-induced",rats,"In the ovariectomized rats, 
+diacerein (10, 100 mg/kg/day) also significantly prevented bone loss and reduced 
+the serum alkaline phosphatase and decreased the excretion of urinary 
+hydroxyproline.",,Diacerein,,,,
+66,12126975.txt,rheumatoid arthritis.,adjuvant-induced arthritis,rats,"diacerein inhibited the 
+rat paw edema induced by various agents.",,Diacerein,,,,
+67,12126975.txt,rheumatoid arthritis.,adjuvant-induced arthritis,rats,"In the adjuvant-induced arthritic rats, 
+diacerein at 100 mg/kg/day significantly suppressed the paw edema and the 
+increase in serum mucoprotein.",,Diacerein,,,,
+68,12126975.txt,rheumatoid arthritis.,adjuvant-induced arthritis,rats,"In the ovariectomized rats, 
+diacerein (10, 100 mg/kg/day) also significantly prevented bone loss and reduced 
+the serum alkaline phosphatase and decreased the excretion of urinary 
+hydroxyproline.",,Diacerein,,,,
+69,12126975.txt,rheumatoid arthritis.,ovariectomized,rats,"diacerein inhibited the 
+rat paw edema induced by various agents.",,Diacerein,,,,
+70,12126975.txt,rheumatoid arthritis.,ovariectomized,rats,"In the adjuvant-induced arthritic rats, 
+diacerein at 100 mg/kg/day significantly suppressed the paw edema and the 
+increase in serum mucoprotein.",,Diacerein,,,,
+71,12126975.txt,rheumatoid arthritis.,ovariectomized,rats,"In the ovariectomized rats, 
+diacerein (10, 100 mg/kg/day) also significantly prevented bone loss and reduced 
+the serum alkaline phosphatase and decreased the excretion of urinary 
+hydroxyproline.",,Diacerein,,,,
+72,12142347.txt,rheumatoid arthritis,"vascular endothelial growth 
+factor-stimulated",chick,dose-dependently inhibited capillary growth,antiangiogenic,simvastatin,,chorioallantoic membranes,HMG-CoA reductase inhibitor,
+73,12142347.txt,rheumatoid arthritis,"vascular endothelial growth 
+factor-stimulated",chick,dose-dependently inhibited capillary growth,antiangiogenic,simvastatin,,corneas,HMG-CoA reductase inhibitor,
+74,12142347.txt,rheumatoid arthritis,"vascular endothelial growth 
+factor-stimulated",mouse,dose-dependently inhibited capillary growth,antiangiogenic,simvastatin,,chorioallantoic membranes,HMG-CoA reductase inhibitor,
+75,12142347.txt,rheumatoid arthritis,"vascular endothelial growth 
+factor-stimulated",mouse,dose-dependently inhibited capillary growth,antiangiogenic,simvastatin,,corneas,HMG-CoA reductase inhibitor,
+76,12142347.txt,rheumatoid arthritis,"vascular endothelial growth 
+factor-stimulated",chick,dose-dependently inhibited capillary growth,antiangiogenic,simvastatin,,chorioallantoic membranes,"fibroblast growth 
+factor-stimulated",
+77,12142347.txt,rheumatoid arthritis,"vascular endothelial growth 
+factor-stimulated",chick,dose-dependently inhibited capillary growth,antiangiogenic,simvastatin,,corneas,"fibroblast growth 
+factor-stimulated",
+78,12142347.txt,rheumatoid arthritis,"vascular endothelial growth 
+factor-stimulated",mouse,dose-dependently inhibited capillary growth,antiangiogenic,simvastatin,,chorioallantoic membranes,"fibroblast growth 
+factor-stimulated",
+79,12142347.txt,rheumatoid arthritis,"vascular endothelial growth 
+factor-stimulated",mouse,dose-dependently inhibited capillary growth,antiangiogenic,simvastatin,,corneas,"fibroblast growth 
+factor-stimulated",
+80,12180723.txt,"rheumatoid 
+arthritis",,mice,"ISA(TX)247 demonstrates efficacy and safety in the treatment of 
+established collagen induced arthritis.",,ISA(TX)247,calcineurin inhibitor,DBA/Lac J,,collagen induced arthritis
+81,12355496.txt,rheumatoid arthritis.,intraarticular injection of methylated bovine serum albumin,rats,"Rats receiving AcF-[OPdChaWR] had significant reductions in right knee 
+swelling, gait disturbance, lavaged joint cell numbers, and right knee 
+histopathology, as well as in serum levels of tumor necrosis factor alpha 
+(TNFalpha) and intraarticular levels of interleukin-6 and TNFalpha on day 14.",,AcF-[OPdChaWR],C5a receptor antagonist,,,
+82,12355496.txt,rheumatoid arthritis.,intraarticular injection of methylated bovine serum albumin,rats,"In 
+the 14- and 28-day studies, ibuprofen resulted in a similar reduction in gait 
+abnormalities and intraarticular inflammatory cells compared with the C5a 
+antagonist, but was less effective in reducing knee swelling over the course of 
+the study and had no effect on knee histopathology.",,AcF-[OPdChaWR],C5a receptor antagonist,,,
+83,12355496.txt,rheumatoid arthritis.,intraarticular injection of methylated bovine serum albumin,rats,"Rats receiving AcF-[OPdChaWR] had significant reductions in right knee 
+swelling, gait disturbance, lavaged joint cell numbers, and right knee 
+histopathology, as well as in serum levels of tumor necrosis factor alpha 
+(TNFalpha) and intraarticular levels of interleukin-6 and TNFalpha on day 14.",,ibuprofen,C5a receptor antagonist,,,
+84,12355496.txt,rheumatoid arthritis.,intraarticular injection of methylated bovine serum albumin,rats,"In 
+the 14- and 28-day studies, ibuprofen resulted in a similar reduction in gait 
+abnormalities and intraarticular inflammatory cells compared with the C5a 
+antagonist, but was less effective in reducing knee swelling over the course of 
+the study and had no effect on knee histopathology.",,ibuprofen,C5a receptor antagonist,,,
+85,12396022.txt,,,mouse,"The 
+MC-stabilizer had efficacy in a mouse model.",,Rheumatoid arthritis,"MC-stabilizing compound,",,,
+86,12396022.txt,,,mouse,"The 
+MC-stabilizer had efficacy in a mouse model.",,cromoglicate lisetil,"MC-stabilizing compound,",,,
+87,12510369.txt,"rheumatoid 
+arthritis","collagen 
+inducing arthritis",monkeys,These evidence suggest that MRA has anti-arthritic effects.,,MRA,,cynomolgus,inhibits IL-6,
+88,12516467.txt,"rheumatoid 
+arthritis",Adjuvant arthritis,rats (,"The Prescription at high and medium dosages significantly decreased the 
+rising level of hydrogen peroxide and interleukin-1",,prednisone,,,,
+89,12528470.txt,rheumatoid arthritis,adjuvant arthritis,rat,"The therapeutic range of meloxicam in the rat, with 
+regard to inhibition of adjuvant arthritis, was several times greater than that 
+of other NSAIDs.",NSAID,Meloxicam,cyclooxygenase,,,
+90,12658918.txt,rheumatoid arthritis,CIA,rats,"BZX decoction and MTX could decrease the expression of VEGF, but the 
+curative effect of BZX decoction is significantly better than that of MTX.",,bizhongxiao,,SD,,
+91,12688421.txt,rheumatoid arthritis,CIA,rats,"The results indicate that the GAGs HYA and C4S 
+significantly reduce free radical production in CIA",antioxidant,hyaluronic acid,,Lewis,,
+92,12688421.txt,rheumatoid arthritis,CIA,rats,"The results indicate that the GAGs HYA and C4S 
+significantly reduce free radical production in CIA",antioxidant,chondroitin-4-sulphate,,Lewis,,
+93,12699411.txt,rheumatoid arthritis,IFN-gamma + LPS-stimulated,mouse,MPA exerted dose-dependent inhibition of NO synthesis,,mycophenolic acid,"inhibit the enzymatic activity of inducible NO synthase 
+(iNOS) and subsequent production of the cytotoxic free radical nitric oxide (NO)",L929,,
+94,12699411.txt,rheumatoid arthritis,IFN-gamma + LPS-stimulated,rat,MPA exerted dose-dependent inhibition of NO synthesis,,mycophenolic acid,"inhibit the enzymatic activity of inducible NO synthase 
+(iNOS) and subsequent production of the cytotoxic free radical nitric oxide (NO)",L929,,
+95,12709543.txt,rheumatoid arthritis.,collagen-induced arthritis,mice,Administration of PG201 has therapeutic effects on CIA,anti-inflammatory,PG201,,DBA/1,,
+96,12723984.txt,rheumatoid arthritis.,"collagen-induced 
+arthritis",rat,"Treatment with HYA and C4S, starting at the onset of arthritis for 10 days, 
+limited the erosive action of the disease in the articular joints of knee and 
+paw, reduced lipid peroxidation, restored the endogenous antioxidants reduced 
+glutathione (GSH) and superoxide dismutase, decreased plasma TNF-alpha levels, 
+and limited synovial neutrophil infiltration.",antioxidant,hyaluronic acid,,Lewis,,
+97,12723984.txt,rheumatoid arthritis.,"collagen-induced 
+arthritis",rat,"Treatment with HYA and C4S, starting at the onset of arthritis for 10 days, 
+limited the erosive action of the disease in the articular joints of knee and 
+paw, reduced lipid peroxidation, restored the endogenous antioxidants reduced 
+glutathione (GSH) and superoxide dismutase, decreased plasma TNF-alpha levels, 
+and limited synovial neutrophil infiltration.",antioxidant,chondroitin-4-sulphate,,Lewis,,
+98,14561094.txt,rheumatoid arthritis,carrageenan paw edema,rat,"IC(50) = 
+0.47 nM, 47% inhibition of paw swelling at 10 mg/kg in rat carrageenan paw edema 
+model)",antiinflammatory,GP790,adenosine kinase inhibitors,,,
+99,14568965.txt,rheumatoid arthritis,,mice,Treatment with anti-VEGF-RII had no effect.,,anti-mouse VEGF Ab,VEGF,K/BxN,,
+100,14568965.txt,rheumatoid arthritis,,mice,"Anti-VEGF-RI reduced the intensity 
+of clinical manifestations",,anti-mouse VEGF Ab,VEGF,K/BxN,,
+101,14568965.txt,rheumatoid arthritis,,mice,"Treatment with a VEGF-RI tyrosine 
+kinase inhibitor almost abolished the disease.",,anti-mouse VEGF Ab,VEGF,K/BxN,,
+102,14568965.txt,rheumatoid arthritis,,mice,Treatment with anti-VEGF-RII had no effect.,,"anti-mouse 
+VEGF-RI and -RII Abs",VEGF,K/BxN,,
+103,14568965.txt,rheumatoid arthritis,,mice,"Anti-VEGF-RI reduced the intensity 
+of clinical manifestations",,"anti-mouse 
+VEGF-RI and -RII Abs",VEGF,K/BxN,,
+104,14568965.txt,rheumatoid arthritis,,mice,"Treatment with a VEGF-RI tyrosine 
+kinase inhibitor almost abolished the disease.",,"anti-mouse 
+VEGF-RI and -RII Abs",VEGF,K/BxN,,
+105,14568965.txt,rheumatoid arthritis,,mice,Treatment with anti-VEGF-RII had no effect.,,inhibitor of VEGF-RI tyrosine kinase.,VEGF,K/BxN,,
+106,14568965.txt,rheumatoid arthritis,,mice,"Anti-VEGF-RI reduced the intensity 
+of clinical manifestations",,inhibitor of VEGF-RI tyrosine kinase.,VEGF,K/BxN,,
+107,14568965.txt,rheumatoid arthritis,,mice,"Treatment with a VEGF-RI tyrosine 
+kinase inhibitor almost abolished the disease.",,inhibitor of VEGF-RI tyrosine kinase.,VEGF,K/BxN,,
+108,14568965.txt,rheumatoid arthritis.,,mice,Treatment with anti-VEGF-RII had no effect.,,anti-mouse VEGF Ab,VEGF,K/BxN,,
+109,14568965.txt,rheumatoid arthritis.,,mice,"Anti-VEGF-RI reduced the intensity 
+of clinical manifestations",,anti-mouse VEGF Ab,VEGF,K/BxN,,
+110,14568965.txt,rheumatoid arthritis.,,mice,"Treatment with a VEGF-RI tyrosine 
+kinase inhibitor almost abolished the disease.",,anti-mouse VEGF Ab,VEGF,K/BxN,,
+111,14568965.txt,rheumatoid arthritis.,,mice,Treatment with anti-VEGF-RII had no effect.,,"anti-mouse 
+VEGF-RI and -RII Abs",VEGF,K/BxN,,
+112,14568965.txt,rheumatoid arthritis.,,mice,"Anti-VEGF-RI reduced the intensity 
+of clinical manifestations",,"anti-mouse 
+VEGF-RI and -RII Abs",VEGF,K/BxN,,
+113,14568965.txt,rheumatoid arthritis.,,mice,"Treatment with a VEGF-RI tyrosine 
+kinase inhibitor almost abolished the disease.",,"anti-mouse 
+VEGF-RI and -RII Abs",VEGF,K/BxN,,
+114,14568965.txt,rheumatoid arthritis.,,mice,Treatment with anti-VEGF-RII had no effect.,,inhibitor of VEGF-RI tyrosine kinase.,VEGF,K/BxN,,
+115,14568965.txt,rheumatoid arthritis.,,mice,"Anti-VEGF-RI reduced the intensity 
+of clinical manifestations",,inhibitor of VEGF-RI tyrosine kinase.,VEGF,K/BxN,,
+116,14568965.txt,rheumatoid arthritis.,,mice,"Treatment with a VEGF-RI tyrosine 
+kinase inhibitor almost abolished the disease.",,inhibitor of VEGF-RI tyrosine kinase.,VEGF,K/BxN,,
+117,14648391.txt,rheumatoid arthritis,Freund's complete adjuvant reagent FCA-treated,rats,"significantly decreased RA and CRP factors, the former being more 
+active than the latter.",,Rhus verniciflua,inhibiting reactive oxygen species,,,
+118,14648391.txt,rheumatoid arthritis,Freund's complete adjuvant reagent FCA-treated,rats,"significantly decreased RA and CRP factors, the former being more 
+active than the latter.",,sulfuretin,inhibiting reactive oxygen species,,,
+119,14648391.txt,rheumatoid arthritis,Freund's complete adjuvant reagent FCA-treated,rats,"significantly decreased RA and CRP factors, the former being more 
+active than the latter.",,fustin,inhibiting reactive oxygen species,,,
+120,14696674.txt,rheumatoid arthritis,collagen-induced arthritis,rat,"It was observed that the articular morphological alterations, the 
+over-expression of MMP-3 mRNA and the reduced production of TIMP-1 in CIA rats 
+were significantly ameliorated by QLY.","suppressive effect 
+on the angiogenesis",Qing-Luo-Yin,,,,
+121,14872511.txt,rheumatoid arthritis,"anti-type II collagen 
+monoclonal antibody",mice,"Treatment with recombinant FRP showed significant amelioration of the 
+arthritis severity.",,follistatin-related protein,,BALB/c,,
+122,14872511.txt,rheumatoid arthritis,lipopolysaccharide,mice,"Treatment with recombinant FRP showed significant amelioration of the 
+arthritis severity.",,follistatin-related protein,,BALB/c,,
+123,14991082.txt,,collagen-induced arthritis,rats,"These results show that FK506 is effective in suppressing 
+inflammation, TNF-alpha expression in joint, and damage to bone and cartilage in 
+rat CIA, and may be useful in the treatment of rheumatoid arthritis.",,tacrolimus,,Lewis,,
+124,15022325.txt,rheumatoid arthritis,Antigen-induced arthritis,mice,"These results suggest that ChM-I suppresses T cell responses and 
+synovial cell proliferation, implying that this cartilage matrix protein has a 
+therapeutic potential in RA.","promotes the 
+growth and proteoglycan synthesis of chondrocytes",Chondromodulin I,,,,
+125,15022325.txt,rheumatoid arthritis,Antigen-induced arthritis,mice,"These results suggest that ChM-I suppresses T cell responses and 
+synovial cell proliferation, implying that this cartilage matrix protein has a 
+therapeutic potential in RA.","inhibits 
+angiogenesis",Chondromodulin I,,,,
+126,15031542.txt,rheumatoid arthritis,LPS-induced,rat,"In 
+both experiments, BLF suppressed the development of arthritis and the 
+hyperalgesia in the adjuvant-injected paw.",immunomodulator,Lactoferrin,,,,
+127,15031542.txt,rheumatoid arthritis,"adjuvant 
+arthritis",rat,"In 
+both experiments, BLF suppressed the development of arthritis and the 
+hyperalgesia in the adjuvant-injected paw.",immunomodulator,Lactoferrin,,,,
+128,15031542.txt,rheumatoid arthritis,LPS-induced,rat,"In 
+both experiments, BLF suppressed the development of arthritis and the 
+hyperalgesia in the adjuvant-injected paw.",anti-nociceptive,Lactoferrin,,,,
+129,15031542.txt,rheumatoid arthritis,"adjuvant 
+arthritis",rat,"In 
+both experiments, BLF suppressed the development of arthritis and the 
+hyperalgesia in the adjuvant-injected paw.",anti-nociceptive,Lactoferrin,,,,
+130,15031542.txt,rheumatoid arthritis,LPS-induced,rat,"In 
+both experiments, BLF suppressed the development of arthritis and the 
+hyperalgesia in the adjuvant-injected paw.",anti-inflammatory,Lactoferrin,,,,
+131,15031542.txt,rheumatoid arthritis,"adjuvant 
+arthritis",rat,"In 
+both experiments, BLF suppressed the development of arthritis and the 
+hyperalgesia in the adjuvant-injected paw.",anti-inflammatory,Lactoferrin,,,,
+132,15059273.txt,rheumatoid arthritis.,collagen-induced arthritis,mouse,"The therapeutic effect of dTNFR expressed from a 
+constitutive or regulated plasmid was dependent on the degree of disease 
+activity at the time of DNA injection.",,dTNFR,inhibit TNF-alpha,,,
+133,15060719.txt,,antigen-induced arthritis,mice,"PTK787/ZK222584 treatment caused dose dependent reduction in the 
+vascularity of the granulomatous air pouch model.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA-1,,
+134,15060719.txt,,antigen-induced arthritis,mice,"It inhibited knee swelling by 
+40% in antigen-induced arthritis, at the dose of 30 mg/kg p.o., once daily 
+(s.i.d). and inhibited both severity scores (by 51%) and global histological 
+scores in mice with collagen-induced arthritis following oral treatment (45 
+mg/kg p.o.), as compared to control animals.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA-1,,
+135,15060719.txt,,antigen-induced arthritis,mice,"PTK787/ZK222584 demonstrated no 
+effects on inflammatory mediators in the VEGF-independent rat carrageenan model 
+and displayed interesting analgesic activity in the Randall Selitto test in the 
+acute setting.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA-1,,
+136,15060719.txt,,antigen-induced arthritis,mice,"PTK787/ZK222584 treatment caused dose dependent reduction in the 
+vascularity of the granulomatous air pouch model.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA-1,,
+137,15060719.txt,,antigen-induced arthritis,mice,"It inhibited knee swelling by 
+40% in antigen-induced arthritis, at the dose of 30 mg/kg p.o., once daily 
+(s.i.d). and inhibited both severity scores (by 51%) and global histological 
+scores in mice with collagen-induced arthritis following oral treatment (45 
+mg/kg p.o.), as compared to control animals.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA-1,,
+138,15060719.txt,,antigen-induced arthritis,mice,"PTK787/ZK222584 demonstrated no 
+effects on inflammatory mediators in the VEGF-independent rat carrageenan model 
+and displayed interesting analgesic activity in the Randall Selitto test in the 
+acute setting.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA-1,,
+139,15060719.txt,,antigen-induced arthritis,rats,"PTK787/ZK222584 treatment caused dose dependent reduction in the 
+vascularity of the granulomatous air pouch model.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA-1,,
+140,15060719.txt,,antigen-induced arthritis,rats,"It inhibited knee swelling by 
+40% in antigen-induced arthritis, at the dose of 30 mg/kg p.o., once daily 
+(s.i.d). and inhibited both severity scores (by 51%) and global histological 
+scores in mice with collagen-induced arthritis following oral treatment (45 
+mg/kg p.o.), as compared to control animals.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA-1,,
+141,15060719.txt,,antigen-induced arthritis,rats,"PTK787/ZK222584 demonstrated no 
+effects on inflammatory mediators in the VEGF-independent rat carrageenan model 
+and displayed interesting analgesic activity in the Randall Selitto test in the 
+acute setting.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA-1,,
+142,15060719.txt,,antigen-induced arthritis,mice,"PTK787/ZK222584 treatment caused dose dependent reduction in the 
+vascularity of the granulomatous air pouch model.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",DBA/1LacJ,,
+143,15060719.txt,,antigen-induced arthritis,mice,"It inhibited knee swelling by 
+40% in antigen-induced arthritis, at the dose of 30 mg/kg p.o., once daily 
+(s.i.d). and inhibited both severity scores (by 51%) and global histological 
+scores in mice with collagen-induced arthritis following oral treatment (45 
+mg/kg p.o.), as compared to control animals.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",DBA/1LacJ,,
+144,15060719.txt,,antigen-induced arthritis,mice,"PTK787/ZK222584 demonstrated no 
+effects on inflammatory mediators in the VEGF-independent rat carrageenan model 
+and displayed interesting analgesic activity in the Randall Selitto test in the 
+acute setting.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",DBA/1LacJ,,
+145,15060719.txt,,antigen-induced arthritis,mice,"PTK787/ZK222584 treatment caused dose dependent reduction in the 
+vascularity of the granulomatous air pouch model.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",DBA/1LacJ,,
+146,15060719.txt,,antigen-induced arthritis,mice,"It inhibited knee swelling by 
+40% in antigen-induced arthritis, at the dose of 30 mg/kg p.o., once daily 
+(s.i.d). and inhibited both severity scores (by 51%) and global histological 
+scores in mice with collagen-induced arthritis following oral treatment (45 
+mg/kg p.o.), as compared to control animals.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",DBA/1LacJ,,
+147,15060719.txt,,antigen-induced arthritis,mice,"PTK787/ZK222584 demonstrated no 
+effects on inflammatory mediators in the VEGF-independent rat carrageenan model 
+and displayed interesting analgesic activity in the Randall Selitto test in the 
+acute setting.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",DBA/1LacJ,,
+148,15060719.txt,,antigen-induced arthritis,rats,"PTK787/ZK222584 treatment caused dose dependent reduction in the 
+vascularity of the granulomatous air pouch model.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",DBA/1LacJ,,
+149,15060719.txt,,antigen-induced arthritis,rats,"It inhibited knee swelling by 
+40% in antigen-induced arthritis, at the dose of 30 mg/kg p.o., once daily 
+(s.i.d). and inhibited both severity scores (by 51%) and global histological 
+scores in mice with collagen-induced arthritis following oral treatment (45 
+mg/kg p.o.), as compared to control animals.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",DBA/1LacJ,,
+150,15060719.txt,,antigen-induced arthritis,rats,"PTK787/ZK222584 demonstrated no 
+effects on inflammatory mediators in the VEGF-independent rat carrageenan model 
+and displayed interesting analgesic activity in the Randall Selitto test in the 
+acute setting.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",DBA/1LacJ,,
+151,15060719.txt,,antigen-induced arthritis,mice,"PTK787/ZK222584 treatment caused dose dependent reduction in the 
+vascularity of the granulomatous air pouch model.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA,,
+152,15060719.txt,,antigen-induced arthritis,mice,"It inhibited knee swelling by 
+40% in antigen-induced arthritis, at the dose of 30 mg/kg p.o., once daily 
+(s.i.d). and inhibited both severity scores (by 51%) and global histological 
+scores in mice with collagen-induced arthritis following oral treatment (45 
+mg/kg p.o.), as compared to control animals.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA,,
+153,15060719.txt,,antigen-induced arthritis,mice,"PTK787/ZK222584 demonstrated no 
+effects on inflammatory mediators in the VEGF-independent rat carrageenan model 
+and displayed interesting analgesic activity in the Randall Selitto test in the 
+acute setting.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA,,
+154,15060719.txt,,antigen-induced arthritis,mice,"PTK787/ZK222584 treatment caused dose dependent reduction in the 
+vascularity of the granulomatous air pouch model.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA,,
+155,15060719.txt,,antigen-induced arthritis,mice,"It inhibited knee swelling by 
+40% in antigen-induced arthritis, at the dose of 30 mg/kg p.o., once daily 
+(s.i.d). and inhibited both severity scores (by 51%) and global histological 
+scores in mice with collagen-induced arthritis following oral treatment (45 
+mg/kg p.o.), as compared to control animals.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA,,
+156,15060719.txt,,antigen-induced arthritis,mice,"PTK787/ZK222584 demonstrated no 
+effects on inflammatory mediators in the VEGF-independent rat carrageenan model 
+and displayed interesting analgesic activity in the Randall Selitto test in the 
+acute setting.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA,,
+157,15060719.txt,,antigen-induced arthritis,rats,"PTK787/ZK222584 treatment caused dose dependent reduction in the 
+vascularity of the granulomatous air pouch model.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA,,
+158,15060719.txt,,antigen-induced arthritis,rats,"It inhibited knee swelling by 
+40% in antigen-induced arthritis, at the dose of 30 mg/kg p.o., once daily 
+(s.i.d). and inhibited both severity scores (by 51%) and global histological 
+scores in mice with collagen-induced arthritis following oral treatment (45 
+mg/kg p.o.), as compared to control animals.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA,,
+159,15060719.txt,,antigen-induced arthritis,rats,"PTK787/ZK222584 demonstrated no 
+effects on inflammatory mediators in the VEGF-independent rat carrageenan model 
+and displayed interesting analgesic activity in the Randall Selitto test in the 
+acute setting.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA,,
+160,15060719.txt,,collagen-induced arthritis,mice,"PTK787/ZK222584 treatment caused dose dependent reduction in the 
+vascularity of the granulomatous air pouch model.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA-1,,
+161,15060719.txt,,collagen-induced arthritis,mice,"It inhibited knee swelling by 
+40% in antigen-induced arthritis, at the dose of 30 mg/kg p.o., once daily 
+(s.i.d). and inhibited both severity scores (by 51%) and global histological 
+scores in mice with collagen-induced arthritis following oral treatment (45 
+mg/kg p.o.), as compared to control animals.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA-1,,
+162,15060719.txt,,collagen-induced arthritis,mice,"PTK787/ZK222584 demonstrated no 
+effects on inflammatory mediators in the VEGF-independent rat carrageenan model 
+and displayed interesting analgesic activity in the Randall Selitto test in the 
+acute setting.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA-1,,
+163,15060719.txt,,collagen-induced arthritis,mice,"PTK787/ZK222584 treatment caused dose dependent reduction in the 
+vascularity of the granulomatous air pouch model.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA-1,,
+164,15060719.txt,,collagen-induced arthritis,mice,"It inhibited knee swelling by 
+40% in antigen-induced arthritis, at the dose of 30 mg/kg p.o., once daily 
+(s.i.d). and inhibited both severity scores (by 51%) and global histological 
+scores in mice with collagen-induced arthritis following oral treatment (45 
+mg/kg p.o.), as compared to control animals.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA-1,,
+165,15060719.txt,,collagen-induced arthritis,mice,"PTK787/ZK222584 demonstrated no 
+effects on inflammatory mediators in the VEGF-independent rat carrageenan model 
+and displayed interesting analgesic activity in the Randall Selitto test in the 
+acute setting.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA-1,,
+166,15060719.txt,,collagen-induced arthritis,rats,"PTK787/ZK222584 treatment caused dose dependent reduction in the 
+vascularity of the granulomatous air pouch model.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA-1,,
+167,15060719.txt,,collagen-induced arthritis,rats,"It inhibited knee swelling by 
+40% in antigen-induced arthritis, at the dose of 30 mg/kg p.o., once daily 
+(s.i.d). and inhibited both severity scores (by 51%) and global histological 
+scores in mice with collagen-induced arthritis following oral treatment (45 
+mg/kg p.o.), as compared to control animals.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA-1,,
+168,15060719.txt,,collagen-induced arthritis,rats,"PTK787/ZK222584 demonstrated no 
+effects on inflammatory mediators in the VEGF-independent rat carrageenan model 
+and displayed interesting analgesic activity in the Randall Selitto test in the 
+acute setting.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA-1,,
+169,15060719.txt,,collagen-induced arthritis,mice,"PTK787/ZK222584 treatment caused dose dependent reduction in the 
+vascularity of the granulomatous air pouch model.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",DBA/1LacJ,,
+170,15060719.txt,,collagen-induced arthritis,mice,"It inhibited knee swelling by 
+40% in antigen-induced arthritis, at the dose of 30 mg/kg p.o., once daily 
+(s.i.d). and inhibited both severity scores (by 51%) and global histological 
+scores in mice with collagen-induced arthritis following oral treatment (45 
+mg/kg p.o.), as compared to control animals.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",DBA/1LacJ,,
+171,15060719.txt,,collagen-induced arthritis,mice,"PTK787/ZK222584 demonstrated no 
+effects on inflammatory mediators in the VEGF-independent rat carrageenan model 
+and displayed interesting analgesic activity in the Randall Selitto test in the 
+acute setting.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",DBA/1LacJ,,
+172,15060719.txt,,collagen-induced arthritis,mice,"PTK787/ZK222584 treatment caused dose dependent reduction in the 
+vascularity of the granulomatous air pouch model.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",DBA/1LacJ,,
+173,15060719.txt,,collagen-induced arthritis,mice,"It inhibited knee swelling by 
+40% in antigen-induced arthritis, at the dose of 30 mg/kg p.o., once daily 
+(s.i.d). and inhibited both severity scores (by 51%) and global histological 
+scores in mice with collagen-induced arthritis following oral treatment (45 
+mg/kg p.o.), as compared to control animals.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",DBA/1LacJ,,
+174,15060719.txt,,collagen-induced arthritis,mice,"PTK787/ZK222584 demonstrated no 
+effects on inflammatory mediators in the VEGF-independent rat carrageenan model 
+and displayed interesting analgesic activity in the Randall Selitto test in the 
+acute setting.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",DBA/1LacJ,,
+175,15060719.txt,,collagen-induced arthritis,rats,"PTK787/ZK222584 treatment caused dose dependent reduction in the 
+vascularity of the granulomatous air pouch model.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",DBA/1LacJ,,
+176,15060719.txt,,collagen-induced arthritis,rats,"It inhibited knee swelling by 
+40% in antigen-induced arthritis, at the dose of 30 mg/kg p.o., once daily 
+(s.i.d). and inhibited both severity scores (by 51%) and global histological 
+scores in mice with collagen-induced arthritis following oral treatment (45 
+mg/kg p.o.), as compared to control animals.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",DBA/1LacJ,,
+177,15060719.txt,,collagen-induced arthritis,rats,"PTK787/ZK222584 demonstrated no 
+effects on inflammatory mediators in the VEGF-independent rat carrageenan model 
+and displayed interesting analgesic activity in the Randall Selitto test in the 
+acute setting.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",DBA/1LacJ,,
+178,15060719.txt,,collagen-induced arthritis,mice,"PTK787/ZK222584 treatment caused dose dependent reduction in the 
+vascularity of the granulomatous air pouch model.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA,,
+179,15060719.txt,,collagen-induced arthritis,mice,"It inhibited knee swelling by 
+40% in antigen-induced arthritis, at the dose of 30 mg/kg p.o., once daily 
+(s.i.d). and inhibited both severity scores (by 51%) and global histological 
+scores in mice with collagen-induced arthritis following oral treatment (45 
+mg/kg p.o.), as compared to control animals.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA,,
+180,15060719.txt,,collagen-induced arthritis,mice,"PTK787/ZK222584 demonstrated no 
+effects on inflammatory mediators in the VEGF-independent rat carrageenan model 
+and displayed interesting analgesic activity in the Randall Selitto test in the 
+acute setting.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA,,
+181,15060719.txt,,collagen-induced arthritis,mice,"PTK787/ZK222584 treatment caused dose dependent reduction in the 
+vascularity of the granulomatous air pouch model.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA,,
+182,15060719.txt,,collagen-induced arthritis,mice,"It inhibited knee swelling by 
+40% in antigen-induced arthritis, at the dose of 30 mg/kg p.o., once daily 
+(s.i.d). and inhibited both severity scores (by 51%) and global histological 
+scores in mice with collagen-induced arthritis following oral treatment (45 
+mg/kg p.o.), as compared to control animals.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA,,
+183,15060719.txt,,collagen-induced arthritis,mice,"PTK787/ZK222584 demonstrated no 
+effects on inflammatory mediators in the VEGF-independent rat carrageenan model 
+and displayed interesting analgesic activity in the Randall Selitto test in the 
+acute setting.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA,,
+184,15060719.txt,,collagen-induced arthritis,rats,"PTK787/ZK222584 treatment caused dose dependent reduction in the 
+vascularity of the granulomatous air pouch model.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA,,
+185,15060719.txt,,collagen-induced arthritis,rats,"It inhibited knee swelling by 
+40% in antigen-induced arthritis, at the dose of 30 mg/kg p.o., once daily 
+(s.i.d). and inhibited both severity scores (by 51%) and global histological 
+scores in mice with collagen-induced arthritis following oral treatment (45 
+mg/kg p.o.), as compared to control animals.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA,,
+186,15060719.txt,,collagen-induced arthritis,rats,"PTK787/ZK222584 demonstrated no 
+effects on inflammatory mediators in the VEGF-independent rat carrageenan model 
+and displayed interesting analgesic activity in the Randall Selitto test in the 
+acute setting.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA,,
+187,15060719.txt,,carrageenan,mice,"PTK787/ZK222584 treatment caused dose dependent reduction in the 
+vascularity of the granulomatous air pouch model.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA-1,,
+188,15060719.txt,,carrageenan,mice,"It inhibited knee swelling by 
+40% in antigen-induced arthritis, at the dose of 30 mg/kg p.o., once daily 
+(s.i.d). and inhibited both severity scores (by 51%) and global histological 
+scores in mice with collagen-induced arthritis following oral treatment (45 
+mg/kg p.o.), as compared to control animals.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA-1,,
+189,15060719.txt,,carrageenan,mice,"PTK787/ZK222584 demonstrated no 
+effects on inflammatory mediators in the VEGF-independent rat carrageenan model 
+and displayed interesting analgesic activity in the Randall Selitto test in the 
+acute setting.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA-1,,
+190,15060719.txt,,carrageenan,mice,"PTK787/ZK222584 treatment caused dose dependent reduction in the 
+vascularity of the granulomatous air pouch model.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA-1,,
+191,15060719.txt,,carrageenan,mice,"It inhibited knee swelling by 
+40% in antigen-induced arthritis, at the dose of 30 mg/kg p.o., once daily 
+(s.i.d). and inhibited both severity scores (by 51%) and global histological 
+scores in mice with collagen-induced arthritis following oral treatment (45 
+mg/kg p.o.), as compared to control animals.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA-1,,
+192,15060719.txt,,carrageenan,mice,"PTK787/ZK222584 demonstrated no 
+effects on inflammatory mediators in the VEGF-independent rat carrageenan model 
+and displayed interesting analgesic activity in the Randall Selitto test in the 
+acute setting.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA-1,,
+193,15060719.txt,,carrageenan,rats,"PTK787/ZK222584 treatment caused dose dependent reduction in the 
+vascularity of the granulomatous air pouch model.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA-1,,
+194,15060719.txt,,carrageenan,rats,"It inhibited knee swelling by 
+40% in antigen-induced arthritis, at the dose of 30 mg/kg p.o., once daily 
+(s.i.d). and inhibited both severity scores (by 51%) and global histological 
+scores in mice with collagen-induced arthritis following oral treatment (45 
+mg/kg p.o.), as compared to control animals.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA-1,,
+195,15060719.txt,,carrageenan,rats,"PTK787/ZK222584 demonstrated no 
+effects on inflammatory mediators in the VEGF-independent rat carrageenan model 
+and displayed interesting analgesic activity in the Randall Selitto test in the 
+acute setting.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA-1,,
+196,15060719.txt,,carrageenan,mice,"PTK787/ZK222584 treatment caused dose dependent reduction in the 
+vascularity of the granulomatous air pouch model.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",DBA/1LacJ,,
+197,15060719.txt,,carrageenan,mice,"It inhibited knee swelling by 
+40% in antigen-induced arthritis, at the dose of 30 mg/kg p.o., once daily 
+(s.i.d). and inhibited both severity scores (by 51%) and global histological 
+scores in mice with collagen-induced arthritis following oral treatment (45 
+mg/kg p.o.), as compared to control animals.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",DBA/1LacJ,,
+198,15060719.txt,,carrageenan,mice,"PTK787/ZK222584 demonstrated no 
+effects on inflammatory mediators in the VEGF-independent rat carrageenan model 
+and displayed interesting analgesic activity in the Randall Selitto test in the 
+acute setting.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",DBA/1LacJ,,
+199,15060719.txt,,carrageenan,mice,"PTK787/ZK222584 treatment caused dose dependent reduction in the 
+vascularity of the granulomatous air pouch model.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",DBA/1LacJ,,
+200,15060719.txt,,carrageenan,mice,"It inhibited knee swelling by 
+40% in antigen-induced arthritis, at the dose of 30 mg/kg p.o., once daily 
+(s.i.d). and inhibited both severity scores (by 51%) and global histological 
+scores in mice with collagen-induced arthritis following oral treatment (45 
+mg/kg p.o.), as compared to control animals.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",DBA/1LacJ,,
+201,15060719.txt,,carrageenan,mice,"PTK787/ZK222584 demonstrated no 
+effects on inflammatory mediators in the VEGF-independent rat carrageenan model 
+and displayed interesting analgesic activity in the Randall Selitto test in the 
+acute setting.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",DBA/1LacJ,,
+202,15060719.txt,,carrageenan,rats,"PTK787/ZK222584 treatment caused dose dependent reduction in the 
+vascularity of the granulomatous air pouch model.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",DBA/1LacJ,,
+203,15060719.txt,,carrageenan,rats,"It inhibited knee swelling by 
+40% in antigen-induced arthritis, at the dose of 30 mg/kg p.o., once daily 
+(s.i.d). and inhibited both severity scores (by 51%) and global histological 
+scores in mice with collagen-induced arthritis following oral treatment (45 
+mg/kg p.o.), as compared to control animals.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",DBA/1LacJ,,
+204,15060719.txt,,carrageenan,rats,"PTK787/ZK222584 demonstrated no 
+effects on inflammatory mediators in the VEGF-independent rat carrageenan model 
+and displayed interesting analgesic activity in the Randall Selitto test in the 
+acute setting.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",DBA/1LacJ,,
+205,15060719.txt,,carrageenan,mice,"PTK787/ZK222584 treatment caused dose dependent reduction in the 
+vascularity of the granulomatous air pouch model.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA,,
+206,15060719.txt,,carrageenan,mice,"It inhibited knee swelling by 
+40% in antigen-induced arthritis, at the dose of 30 mg/kg p.o., once daily 
+(s.i.d). and inhibited both severity scores (by 51%) and global histological 
+scores in mice with collagen-induced arthritis following oral treatment (45 
+mg/kg p.o.), as compared to control animals.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA,,
+207,15060719.txt,,carrageenan,mice,"PTK787/ZK222584 demonstrated no 
+effects on inflammatory mediators in the VEGF-independent rat carrageenan model 
+and displayed interesting analgesic activity in the Randall Selitto test in the 
+acute setting.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA,,
+208,15060719.txt,,carrageenan,mice,"PTK787/ZK222584 treatment caused dose dependent reduction in the 
+vascularity of the granulomatous air pouch model.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA,,
+209,15060719.txt,,carrageenan,mice,"It inhibited knee swelling by 
+40% in antigen-induced arthritis, at the dose of 30 mg/kg p.o., once daily 
+(s.i.d). and inhibited both severity scores (by 51%) and global histological 
+scores in mice with collagen-induced arthritis following oral treatment (45 
+mg/kg p.o.), as compared to control animals.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA,,
+210,15060719.txt,,carrageenan,mice,"PTK787/ZK222584 demonstrated no 
+effects on inflammatory mediators in the VEGF-independent rat carrageenan model 
+and displayed interesting analgesic activity in the Randall Selitto test in the 
+acute setting.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA,,
+211,15060719.txt,,carrageenan,rats,"PTK787/ZK222584 treatment caused dose dependent reduction in the 
+vascularity of the granulomatous air pouch model.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA,,
+212,15060719.txt,,carrageenan,rats,"It inhibited knee swelling by 
+40% in antigen-induced arthritis, at the dose of 30 mg/kg p.o., once daily 
+(s.i.d). and inhibited both severity scores (by 51%) and global histological 
+scores in mice with collagen-induced arthritis following oral treatment (45 
+mg/kg p.o.), as compared to control animals.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA,,
+213,15060719.txt,,carrageenan,rats,"PTK787/ZK222584 demonstrated no 
+effects on inflammatory mediators in the VEGF-independent rat carrageenan model 
+and displayed interesting analgesic activity in the Randall Selitto test in the 
+acute setting.",angiogenesis inhibitor,PTK787/ZK222584,"receptor tyrosine 
+kinase inhibitor",OFA,,
+214,15182735.txt,,collagen-induced arthritis,rat,"Treatment with 300 mg/kg/day of DAA 
+completely prevented the development of CIA based on the reduction of the 
+arthritis score.",immunosuppressive,deer antler aqua-acupuncture,inhibitor of dihydroorotate dehydrogenase,Sprague-Dawley,,
+215,15182735.txt,,collagen-induced arthritis,rat,"Treatment with 300 mg/kg/day of DAA 
+completely prevented the development of CIA based on the reduction of the 
+arthritis score.",immunoactivating,deer antler aqua-acupuncture,inhibitor of dihydroorotate dehydrogenase,Sprague-Dawley,,
+216,15205911.txt,rheumatoid arthritis,collagen-induced arthritis,mouse,"These results 
+indicate that the HIV vector-mediated expression of angiostatin efficiently 
+inhibits the progression of collagen-induced arthritis.",,HIV-angiostatin,,,,
+217,15249666.txt,rheumatoid arthritis,peptidoglycan-polysaccharide arthritis,rat,"PPI-2458 significantly 
+attenuated paw swelling when therapeutically administered after the onset of 
+chronic disease.",,PPI-2458,,,"methionine aminopeptidase-2 (MetAP-2) 
+inhibitors",
+218,15336954.txt,rheumatoid arthritis,adjuvant-induced arthritis,rat,"The increase 
+in hindpaw volume and joint destruction was suppressed by single therapeutic 
+administration (days 15-20) of Y-40138 (30 mg/kg, p.o.), but not by prophylactic 
+administration (days 1-9).",,Y-40138,,,,
+219,15336954.txt,rheumatoid arthritis,adjuvant-induced arthritis,rat,"arthritic progression was suppressed by 
+single prophylactic administration of methotrexate (0.3 mg/kg, p.o.), but not by 
+therapeutic administration.",,Y-40138,,,,
+220,15336954.txt,rheumatoid arthritis,adjuvant-induced arthritis,rat,"The increase 
+in hindpaw volume and joint destruction was suppressed by single therapeutic 
+administration (days 15-20) of Y-40138 (30 mg/kg, p.o.), but not by prophylactic 
+administration (days 1-9).",,methotrexate,,,,
+221,15336954.txt,rheumatoid arthritis,adjuvant-induced arthritis,rat,"arthritic progression was suppressed by 
+single prophylactic administration of methotrexate (0.3 mg/kg, p.o.), but not by 
+therapeutic administration.",,methotrexate,,,,
+222,15338486.txt,rheumatoid arthritis.,adjuvant arthritis,rat,"MTX prevents loss of BMD in the tibia in the rat AA model compared 
+to positive controls.",,methotrexate,,Lewis,,
+223,15494349.txt,Rheumatoid arthritis,collagen-induced arthritis,mice,etoposide completely inhibited development of arthritis,immunosuppressive,mitoxantrone,topoisomerase II inhibition,DBA/1,,
+224,15494349.txt,Rheumatoid arthritis,collagen-induced arthritis,mice,"mitoxantrone after collagen II immunization or high-dose treatment after 
+collagen II booster delayed the onset of arthritis",immunosuppressive,mitoxantrone,topoisomerase II inhibition,DBA/1,,
+225,15494349.txt,Rheumatoid arthritis,collagen-induced arthritis,mice,etoposide completely inhibited development of arthritis,immunosuppressive,etoposide,topoisomerase II inhibition,DBA/1,,
+226,15494349.txt,Rheumatoid arthritis,collagen-induced arthritis,mice,"mitoxantrone after collagen II immunization or high-dose treatment after 
+collagen II booster delayed the onset of arthritis",immunosuppressive,etoposide,topoisomerase II inhibition,DBA/1,,
+227,15542040.txt,rheumatoid arthritis,ovariectomized,rat,"everolimus directly inhibits bone 
+resorption by osteoclasts and thus could at least be neutral or protective for 
+bone in vivo",proliferation inhibitor of the macrolide class,everolimus,,,,
+228,15627439.txt,rheumatoid arthritis,"collagen-induced arthritis,",rat,methotrexate showed no suppression,,R-130823,"highly selective inhibition against mitogen-activated protein kinase 
+p38alpha",,,adjuvant-induced arthritis
+229,15627439.txt,rheumatoid arthritis,"collagen-induced arthritis,",rat,"R-130823 is 
+expected to be an efficacious treatment",,R-130823,"highly selective inhibition against mitogen-activated protein kinase 
+p38alpha",,,adjuvant-induced arthritis
+230,15627439.txt,rheumatoid arthritis,"collagen-induced arthritis,",murine,methotrexate showed no suppression,,R-130823,"highly selective inhibition against mitogen-activated protein kinase 
+p38alpha",,,adjuvant-induced arthritis
+231,15627439.txt,rheumatoid arthritis,"collagen-induced arthritis,",murine,"R-130823 is 
+expected to be an efficacious treatment",,R-130823,"highly selective inhibition against mitogen-activated protein kinase 
+p38alpha",,,adjuvant-induced arthritis
+232,15627439.txt,rheumatoid arthritis,"collagen-induced arthritis,",rat,methotrexate showed no suppression,,methotrexate,"highly selective inhibition against mitogen-activated protein kinase 
+p38alpha",,,adjuvant-induced arthritis
+233,15627439.txt,rheumatoid arthritis,"collagen-induced arthritis,",rat,"R-130823 is 
+expected to be an efficacious treatment",,methotrexate,"highly selective inhibition against mitogen-activated protein kinase 
+p38alpha",,,adjuvant-induced arthritis
+234,15627439.txt,rheumatoid arthritis,"collagen-induced arthritis,",murine,methotrexate showed no suppression,,methotrexate,"highly selective inhibition against mitogen-activated protein kinase 
+p38alpha",,,adjuvant-induced arthritis
+235,15627439.txt,rheumatoid arthritis,"collagen-induced arthritis,",murine,"R-130823 is 
+expected to be an efficacious treatment",,methotrexate,"highly selective inhibition against mitogen-activated protein kinase 
+p38alpha",,,adjuvant-induced arthritis
+236,15680277.txt,rheumatoid arthritis,"adjuvant 
+induced arthritis",rat,"successfully 
+suppressed joint destruction and suggest that FR217840 may have potential as a 
+novel anti-rheumatic drug",,FR217840,MMP inhibitor,Lewis,,
+237,15693002.txt,rheumatoid arthritis,Collagen-induced arthritis,monkey,"might have a strong clinical potential for treatment during periods of active 
+inflammation",,SCH-X,antagonist of CCR5,rhesus,,
+238,15844831.txt,rheumatoid arthritis,carrageenan,rats,did not have any anti-nociceptive action,anti-inflammatory,CML-1,,,,
+239,15844831.txt,rheumatoid arthritis,carrageenan,rats,"CML-1 has a potent anti-inflammatory 
+activity",anti-inflammatory,CML-1,,,,
+240,15844831.txt,rheumatoid arthritis,Freund's adjuvant,rats,did not have any anti-nociceptive action,anti-inflammatory,CML-1,,,,
+241,15844831.txt,rheumatoid arthritis,Freund's adjuvant,rats,"CML-1 has a potent anti-inflammatory 
+activity",anti-inflammatory,CML-1,,,,
+242,15844831.txt,rheumatoid arthritis,carrageenan,rats,did not have any anti-nociceptive action,analgesic,CML-1,,,,
+243,15844831.txt,rheumatoid arthritis,carrageenan,rats,"CML-1 has a potent anti-inflammatory 
+activity",analgesic,CML-1,,,,
+244,15844831.txt,rheumatoid arthritis,Freund's adjuvant,rats,did not have any anti-nociceptive action,analgesic,CML-1,,,,
+245,15844831.txt,rheumatoid arthritis,Freund's adjuvant,rats,"CML-1 has a potent anti-inflammatory 
+activity",analgesic,CML-1,,,,
+246,15844831.txt,rheumatoid arthritis,carrageenan,rats,did not have any anti-nociceptive action,anti-inflammatory,CML-1,,,,
+247,15844831.txt,rheumatoid arthritis,carrageenan,rats,"CML-1 has a potent anti-inflammatory 
+activity",anti-inflammatory,CML-1,,,,
+248,15844831.txt,rheumatoid arthritis,Freund's adjuvant,rats,did not have any anti-nociceptive action,anti-inflammatory,CML-1,,,,
+249,15844831.txt,rheumatoid arthritis,Freund's adjuvant,rats,"CML-1 has a potent anti-inflammatory 
+activity",anti-inflammatory,CML-1,,,,
+250,15844831.txt,rheumatoid arthritis,carrageenan,rats,did not have any anti-nociceptive action,analgesic,CML-1,,,,
+251,15844831.txt,rheumatoid arthritis,carrageenan,rats,"CML-1 has a potent anti-inflammatory 
+activity",analgesic,CML-1,,,,
+252,15844831.txt,rheumatoid arthritis,Freund's adjuvant,rats,did not have any anti-nociceptive action,analgesic,CML-1,,,,
+253,15844831.txt,rheumatoid arthritis,Freund's adjuvant,rats,"CML-1 has a potent anti-inflammatory 
+activity",analgesic,CML-1,,,,
+254,15862805.txt,"rheumatoid 
+arthritis,",adjuvant-induced arthritis,rats,"Celecoxib significantly inhibited 
+paw swelling, hyperalgesic response, and joint destruction (radiographic and 
+histopathological findings) in these arthritic rats.",,celecoxib,"celecoxib, a specific cyclooxygenase (COX)-2 
+inhibitor",Lewis,,
+255,15862805.txt,"rheumatoid 
+arthritis,",adjuvant-induced arthritis,rats,"These effects of celecoxib 
+were superior to those of loxoprofen.",,celecoxib,"celecoxib, a specific cyclooxygenase (COX)-2 
+inhibitor",Lewis,,
+256,15862805.txt,"rheumatoid 
+arthritis,",adjuvant-induced arthritis,rats,"Celecoxib significantly inhibited 
+paw swelling, hyperalgesic response, and joint destruction (radiographic and 
+histopathological findings) in these arthritic rats.",,celecoxib,"loxoprofen, a non-selective COX inhibitor.",Lewis,,
+257,15862805.txt,"rheumatoid 
+arthritis,",adjuvant-induced arthritis,rats,"These effects of celecoxib 
+were superior to those of loxoprofen.",,celecoxib,"loxoprofen, a non-selective COX inhibitor.",Lewis,,
+258,15862805.txt,"rheumatoid 
+arthritis,",adjuvant-induced arthritis,rats,"Celecoxib significantly inhibited 
+paw swelling, hyperalgesic response, and joint destruction (radiographic and 
+histopathological findings) in these arthritic rats.",,loxoprofen,"celecoxib, a specific cyclooxygenase (COX)-2 
+inhibitor",Lewis,,
+259,15862805.txt,"rheumatoid 
+arthritis,",adjuvant-induced arthritis,rats,"These effects of celecoxib 
+were superior to those of loxoprofen.",,loxoprofen,"celecoxib, a specific cyclooxygenase (COX)-2 
+inhibitor",Lewis,,
+260,15862805.txt,"rheumatoid 
+arthritis,",adjuvant-induced arthritis,rats,"Celecoxib significantly inhibited 
+paw swelling, hyperalgesic response, and joint destruction (radiographic and 
+histopathological findings) in these arthritic rats.",,loxoprofen,"loxoprofen, a non-selective COX inhibitor.",Lewis,,
+261,15862805.txt,"rheumatoid 
+arthritis,",adjuvant-induced arthritis,rats,"These effects of celecoxib 
+were superior to those of loxoprofen.",,loxoprofen,"loxoprofen, a non-selective COX inhibitor.",Lewis,,
+262,15883746.txt,"rheumatoid 
+arthritis.",adjuvant arthritis,rat,"These observations suggest that glucosamine is able to suppress the 
+progression of adjuvant arthritis in rats.",anti-inflammatory,glucosamine,,Wistar,,
+263,15899029.txt,Rheumatoid arthritis,adjuvant-induced,HLA-B27,"In both models, a near complete reversal in hindpaw scores 
+was observed as well as marked improvements in the histological scores.",suppression of inflammation,WAY-169916,"inhibits 
+NF-kappaB transcriptional activity",Lewis,,
+264,15899029.txt,Rheumatoid arthritis,adjuvant-induced,rat,"In both models, a near complete reversal in hindpaw scores 
+was observed as well as marked improvements in the histological scores.",suppression of inflammation,WAY-169916,"inhibits 
+NF-kappaB transcriptional activity",Lewis,,
+265,15912568.txt,rheumatoid arthritis,adjuvant arthritis,,"The results of this study indicate that SA can be considered to be a good 
+therapeutic agent for inflammation and arthritis.",,"milk extract of Semecarpus anacardium 
+Linn. nuts (SA)",,,,
+266,15921024.txt,Rheumatoid arthritis,adjuvant arthritis,rat,"Our data demonstrate that MTX was able 
+to significantly suppress cytokine and chemokine release in the inflamed joints 
+in a dose-dependent fashion, accompanied by amelioration of the disease as 
+indicated by reduced paw swelling and arthritic scores.",anti-inflammatory,Methotrexate,,,,
+267,15934059.txt,rheumatoid arthritis,"collagen-induced 
+arthritis",rats,"combination therapy with M40403 and DEX 
+reduced the degree of chronic inflammation and tissue and bone damage",,"combination therapy with M40403, a 
+superoxide dismutase mimetic (SODm), and dexamethasone (DEX)",,Lewis,,
+268,15971419.txt,rheumatoid arthritis,"adjuvant-induced 
+arthritis",rats,"fenofibrate 
+inhibits the development of arthritis",,fenofibrate,ligand for PPAR-alpha,Lewis,,
+269,16049391.txt,rheumatoid arthritis,,rats,"M2000 significantly 
+reduces paw edema and histopathological parameters in arthritic rats.",anti-inflammatory,"M2000 
+(beta-D-mannuronic acid)",,,,
+270,16049391.txt,rheumatoid arthritis,,rats,"M2000 significantly 
+reduces paw edema and histopathological parameters in arthritic rats.",immunosuppressive,"M2000 
+(beta-D-mannuronic acid)",,,,
+271,16049391.txt,rheumatoid arthritis,,rats,"M2000 significantly 
+reduces paw edema and histopathological parameters in arthritic rats.",non-steroidal anti-inflammatory drug,"M2000 
+(beta-D-mannuronic acid)",,,,
+272,16059892.txt,rheumatoid arthritis,carrageenan,mice,observed resistance to MTX in DBA/1J mice.,,methotrexate,,C57BL/6J,,
+273,16059892.txt,rheumatoid arthritis,carrageenan,mice,observed resistance to MTX in DBA/1J mice.,,methotrexate,,BALB/cJ,,
+274,16059892.txt,rheumatoid arthritis,carrageenan,mice,observed resistance to MTX in DBA/1J mice.,,methotrexate,,DBA/1J,,
+275,16059892.txt,rheumatoid arthritis,carrageenan,mice,observed resistance to MTX in DBA/1J mice.,,methotrexate,,DBA/2J,,
+276,16095110.txt,rheumatoid arthritis,adjuvant arthritis,rat,"LY329201 as well 
+as methotrexate demonstrated a dose dependent reduction in both paw and spleen 
+weight and improved joint histology following 2 weeks of dosing in a rat 
+adjuvant arthritis study.",,LY329201,"glycinamide ribonucleotide 
+formyltransferase (GARFT) inhibitor",,,
+277,16095110.txt,rheumatoid arthritis,adjuvant arthritis,rat,"LY329201 as well 
+as methotrexate demonstrated a dose dependent reduction in both paw and spleen 
+weight and improved joint histology following 2 weeks of dosing in a rat 
+adjuvant arthritis study.",,methotrexate,"glycinamide ribonucleotide 
+formyltransferase (GARFT) inhibitor",,,
+278,18612926.txt,rheumatoid arthritis,collagen-induced arthritis,mouse,"AD significantly mitigated the severity of the arthritis and 
+histopathological findings indicative of RA in CIA mice.",inflammation modulator,Adiponectin,,DBA/1,,
+279,18652917.txt,"rheumatoid 
+arthritis.",collagen II (CII)-induced arthritis (CIA),mice,"It was concluded that 
+madecassoside substantially prevented mouse CIA, and might be the major active 
+constituent of C. asiatica herbs responsible for clinical uses for rheumatoid 
+arthritis.","regulating 
+the abnormal humoral and cellular immunity as well as protecting joint 
+destruction.",madecassoside,,,,
+280,18668557.txt,rheumatoid arthritis,collagen-induced arthritis,mice,"Our findings indicate that intravenous 
+administration of a lipoplex cocktail containing several anticytokine siRNA is a 
+promising novel antiinflammatory therapy for RA",antiinflammatory,"RNA interference (RNAi)-based intervention that targets 
+proinflammatory cytokines",,DBA/1,,
+281,18685219.txt,"rheumatoid 
+arthritis.",adjuvant arthritis,rat,"suggest that CH had 
+a suppressive effect on adjuvant arthritis","inhibiting the acute and chronic 
+inflammatory reactions.","casein hydrolysate (CH) prepared from Aspergillus 
+oryzae protease",,,,
+282,18758904.txt,rheumatoid arthritis,adjuvant-induced arthritis,rat,"This inflammatory bone 
+destruction was suppressed potently by celecoxib, only moderately by loxoprofen, 
+and not at all by SC-58560.",,celecoxib,"COX-2-specific (celecoxib), COX-nonselective (loxoprofen), and COX-1-specific 
+agents (SC-58560)",Lewis,,
+283,18758904.txt,rheumatoid arthritis,adjuvant-induced arthritis,rat,"This inflammatory bone 
+destruction was suppressed potently by celecoxib, only moderately by loxoprofen, 
+and not at all by SC-58560.",,loxoprofen,"COX-2-specific (celecoxib), COX-nonselective (loxoprofen), and COX-1-specific 
+agents (SC-58560)",Lewis,,
+284,18758904.txt,rheumatoid arthritis,adjuvant-induced arthritis,rat,"This inflammatory bone 
+destruction was suppressed potently by celecoxib, only moderately by loxoprofen, 
+and not at all by SC-58560.",,SC-58560,"COX-2-specific (celecoxib), COX-nonselective (loxoprofen), and COX-1-specific 
+agents (SC-58560)",Lewis,,
+285,18792999.txt,Rheumatoid arthritis,collagen-induced arthritis,rat,"Our results indicate that 2ME2 may represent a novel agent for the 
+treatment of inflammatory autoimmune diseases such as RA.",antiangiogenic,2-Methoxyestradiol (2ME2),,,,
+286,18792999.txt,Rheumatoid arthritis,collagen-induced arthritis,rat,"Our results indicate that 2ME2 may represent a novel agent for the 
+treatment of inflammatory autoimmune diseases such as RA.",antiproliferative,2-Methoxyestradiol (2ME2),,,,
+287,18796608.txt,rheumatoid arthritis,adjuvant-induced arthritis,rat,"The results of 
+these studies provide previously undescribed evidence of IL-6 synthesis and 
+transsignaling inhibition by EGCG with a unique mechanism of sgp130 
+up-regulation, and thus hold promise as a potential therapeutic agent for RA.",anti-inflammatory,epigallocatechin-3-gallate (EGCG),"inhibits IL-1beta-induced IL-6 production and transsignaling 
+in RA synovial fibroblasts by inducing alternative splicing of gp130 mRNA, 
+resulting in enhanced sgp130 production.",,,

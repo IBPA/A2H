@@ -1,0 +1,24 @@
+Type II collagen (CII) in joint cartilage is known to be a major auto-antigen in 
+human rheumatoid arthritis. Several animal model- and clinical-studies on 
+tolerance-based immunotherapy for the arthritis have been conducted by 
+administrating synthetic immunodominant peptides through an oral route. In the 
+present study, to produce a tolerogenic peptide with therapeutic potential in 
+transgenic rice plants, a gene construct producing glutelin fusion protein with 
+tandem four repeats of a CII(250-270) peptide (residues 250-270) 
+(GluA-4XCII(250-270)) containing a human T-cell epitope was introduced with a 
+selection marker, hygromycin phosphotransferase gene (hygromycin-resistance 
+gene) (hph), by co-transformation. Several transgenic plants with high and 
+stable expression of gluA-4XCII ( 250-270 ), but no hph, were selected based on 
+both DNA and protein analyses. The GluA-4XCII(250-270) fusion proteins were 
+detected as both precursor and processed forms mainly in a glutelin fraction of 
+rice endosperm protein extracts and in protein-body rich fractions prepared by 
+density gradient ultracentrifugation. The amount of accumulated CII(250-270) 
+peptide was immunochemically estimated to be about 1 microg per seed. Feeding 
+DBA/1 mice the transgenic rice seeds (25 microg of the peptide per mouse a day) 
+for 2 weeks showed tendencies lowering and delaying serum specific-IgG2a 
+response against subsequent and repeated intraperitoneal-injection of type II 
+collagen. Taken these together, the CII-immunodominant peptide could effectively 
+be produced and accumulated as a glutelin-fusion protein in the transgenic rice 
+seeds, which might be useful as pharmaceutical materials and functional food for 
+prevention and therapy for anti-CII autoimmune diseases like human rheumatoid 
+arthritis.

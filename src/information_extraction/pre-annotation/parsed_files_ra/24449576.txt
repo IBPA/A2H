@@ -1,0 +1,24 @@
+OBJECTIVE: Inducible costimulator (ICOS)-ICOSL interactions are necessary for 
+activation of Teff cells and follicular helper T (Tfh) cells. ICOSL is expressed 
+on B cells, macrophages, and dendritic cells and can be induced on 
+nonhematopoietic cells. The aim of this study was to determine whether 
+expression of ICOSL on B cells is necessary for the development of proteoglycan 
+(PG)-induced arthritis (PGIA).
+METHODS: PGIA was initiated by immunizing wild-type and ICOSL-deficient 
+(ICOSL(-/-) ) or B cell-specific ICOSL(-/-) chimeric BALB/c mice with human PG 
+in adjuvant. The onset and severity of arthritis were monitored over time. CD4+ 
+T cell proliferation and CD4+ T cell cytokine production were measured in vitro 
+after the cells were restimulated with PG. Germinal center (GC) B cells, plasma 
+cells, Tfh cells, and Treg cells were identified by staining with specific 
+antibodies.
+RESULTS: Arthritis progression was completely inhibited in both ICOSL(-/-) mice 
+and B cell-specific ICOSL(-/-) chimeric mice. Production of the Teff 
+cell-produced cytokines interferon-γ and interleukin-17 (IL-17) and the 
+antiinflammatory cytokine IL-4 was suppressed. The reduced percentages of GCs 
+and Tfh cells and the decreased production of IL-21 correlated with a decrease 
+in the anti-mouse PG antibody response. However, the percentage of plasma cells 
+was not reduced despite a reduction in IgG responses.
+CONCLUSION: These data indicate that the signals provided by ICOSL-expressing B 
+cells to Teff cells and Tfh cells are necessary for the development of 
+arthritis. Thus, therapeutic blockade of ICOSL-ICOS interactions may be an 
+effective strategy for the treatment of rheumatoid arthritis.

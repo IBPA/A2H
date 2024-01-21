@@ -1,0 +1,19 @@
+The 4A11 antigen is a unique cytokine-inducible antigen up-regulated on 
+rheumatoid arthritis (RA) synovial endothelial cells (ECs) compared with normal 
+ECs. Previously, we showed that in soluble form, this antigen, Lewis(y)-6/H-5-2 
+(Le(y)/H) or its glucose analog, 2-fucosyl lactose (H-2g), induced the 
+expression of EC intercellular adhesion molecule-1 (ICAM-1) and 
+leukocyte-endothelial adhesion through the Janus kinase 2 (JAK2)-signal 
+transducer and activator of transcription 3 (STAT3) pathway. Currently, we show 
+that H-2g induces release of EC angiogenic basic fibroblast growth factor (bFGF) 
+and vascular endothelial growth factor (VEGF), an effect inhibited by decoy 
+nuclear factor kappaB (NFkappaB) oligodeoxynucleotide (ODN). JAK2 and 
+phosphoinositide-3 kinase (PI3K) are 2 upstream kinases of NFkappaB activated by 
+H-2g, as confirmed by an inhibitor of kappa B kinase (IKKbeta) assay. In vitro, 
+H-2g induces vascular sprouting in the rat aortic ring model, whereas blockade 
+of JAK2, PI3K, or NFkappaB inhibits sprouting. Likewise, in the in vivo mouse 
+Matrigel plug angiogenesis assay, chemical inhibitors and antisense or decoy 
+ODNs of JAK2, PI3K, or NFkappaB decrease angiogenesis, confirming the importance 
+of these pathways in H-2g-induced EC signaling. The critical role of Le(y)/H 
+involvement in angiogenesis and its signaling pathways may provide new targets 
+for therapy of diseases characterized by pathologic neovascularization.

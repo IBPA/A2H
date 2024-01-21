@@ -1,0 +1,26 @@
+OBJECTIVE: To evaluate the ability of SNX-7081, a novel small molecule inhibitor 
+of Hsp90, to block components of inflammation, including cytokine production, 
+protein kinase activity, and angiogenic signaling. A close analog was evaluated 
+in preclinical in vivo models of rheumatoid arthritis (RA).
+METHODS: SNX-7081 binding to Hsp90 was characterized in Jurkat cells and RA 
+synovial fibroblasts (RASFs). Inhibition of NF-kappaB nuclear translocation was 
+evaluated in cellular systems, using lipopolysaccharide (LPS), tumor necrosis 
+factor alpha, or interleukin-1beta stimulation. Suppression of cytokine 
+production in THP-1 cells, human umbilical vein endothelial cells, and RASFs was 
+studied. Disruption of MAPK signaling cascades by SNX-7081 following growth 
+factor stimulation was assessed. SNX-7081 was tested in 2 relevant angiogenesis 
+assays: platelet-derived growth factor activation of fibroblasts and LPS-induced 
+nitric oxide (NO) release in J774 macrophages. A close analog, SNX-4414, was 
+evaluated in rat collagen-induced arthritis and adjuvant-induced arthritis, 
+following oral treatment.
+RESULTS: SNX-7081 showed strong binding affinity to Hsp90 and expected induction 
+of Hsp70. NF-kappaB nuclear translocation was blocked by SNX-7081 at nanomolar 
+concentrations, and cytokine production was potently inhibited. Growth factor 
+activation of ERK and JNK signaling was significantly reduced by SNX-7081. NO 
+production was also sharply inhibited. In animal models, SNX-4414 fully 
+inhibited paw swelling and improved body weight. Scores for inflammation, pannus 
+formation, cartilage damage, and bone resorption returned to normal.
+CONCLUSION: The present results demonstrate that a small molecule Hsp90 
+inhibitor can impact inflammatory disease processes. The strong in vivo efficacy 
+observed with SNX-4414 provides preclinical validation for consideration of 
+Hsp90 inhibitors in the treatment of RA.

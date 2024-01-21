@@ -1,0 +1,27 @@
+Cebranopadol 
+(trans-6'-fluoro-4',9'-dihydro-N,N-dimethyl-4-phenyl-spiro[cyclohexane-1,1'(3'H)-pyrano[3,4-b]indol]-4-amine) 
+is a novel analgesic nociceptin/orphanin FQ peptide (NOP) and opioid receptor 
+agonist [Ki (nM)/EC50 (nM)/relative efficacy (%): human NOP receptor 
+0.9/13.0/89; human mu-opioid peptide (MOP) receptor 0.7/1.2/104; human 
+kappa-opioid peptide receptor 2.6/17/67; human delta-opioid peptide receptor 
+18/110/105]. Cebranopadol exhibits highly potent and efficacious antinociceptive 
+and antihypersensitive effects in several rat models of acute and chronic pain 
+(tail-flick, rheumatoid arthritis, bone cancer, spinal nerve ligation, diabetic 
+neuropathy) with ED50 values of 0.5-5.6 µg/kg after intravenous and 25.1 µg/kg 
+after oral administration. In comparison with selective MOP receptor agonists, 
+cebranopadol was more potent in models of chronic neuropathic than acute 
+nociceptive pain. Cebranopadol's duration of action is long (up to 7 hours after 
+intravenous 12 µg/kg; >9 hours after oral 55 µg/kg in the rat tail-flick test). 
+The antihypersensitive activity of cebranopadol in the spinal nerve ligation 
+model was partially reversed by pretreatment with the selective NOP receptor 
+antagonist 
+J-113397[1-[(3R,4R)-1-cyclooctylmethyl-3-hydroxymethyl-4-piperidyl]-3-ethyl-1,3-dihydro-2H-benzimidazol-2-one] 
+or the opioid receptor antagonist naloxone, indicating that both NOP and opioid 
+receptor agonism are involved in this activity. Development of analgesic 
+tolerance in the chronic constriction injury model was clearly delayed compared 
+with that from an equianalgesic dose of morphine (complete tolerance on day 26 
+versus day 11, respectively). Unlike morphine, cebranopadol did not disrupt 
+motor coordination and respiration at doses within and exceeding the analgesic 
+dose range. Cebranopadol, by its combination of agonism at NOP and opioid 
+receptors, affords highly potent and efficacious analgesia in various pain 
+models with a favorable side effect profile.

@@ -1,0 +1,24 @@
+BACKGROUND: Rheumatoid arthritis (RA) is an autoimmune disease that results in a 
+chronic, systemic inflammation that may affect many tissues and organs, but 
+principally the synovial joints. The tendency for joint destruction is greatest 
+in the early stages of disease hence current trend is to introduce a 
+disease-modifying anti-rheumatic drug (DMARD) immediately after the diagnosis of 
+RA in a step- up approach which is generally followed by its combination with a 
+corticosteroid or NSAID.
+OBJECTIVE: Hydroxychloroquine (HCQ) is a slow acting DMARD used in the early 
+stage of RA. NSAIDs if given in combination with HCQ would provide immediate 
+symptomatic relief from pain and inflammation even before HCQ starts showing its 
+disease modifying effects. Long half life of HCQ results in its accumulation in 
+the body while frequent intake of NSAIDs results in severe GI side effects. 
+Present project aims at minimizing these shortcomings by designing co-drugs of 
+HCQ and NSAIDs as a potential combination RA therapy.
+METHOD: Synthesis of two co-drugs was achieved by CDI coupling, followed by 
+their spectral characterization. In vitro release kinetics was studied by HPTLC 
+in aqueous buffers and tissue homogenates of upper GIT.
+RESULTS: Prodrugs were resistant to hydrolysis in buffers (pH 1.2 and 7.4) and 
+stomach homogenates of Wistar rat but 32- 65% hydrolysis was observed in small 
+intestinal homogenates.
+CONCLUSION: We propose that the mutual prodrug strategy of a DMARD with NSAID 
+could be useful in initial management of RA wherein NSAIDs would produce their 
+anti-inflammatory effect and simultaneously the process of joint reconstruction 
+by hydroxychloroquine could be initiated.

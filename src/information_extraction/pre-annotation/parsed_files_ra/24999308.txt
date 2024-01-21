@@ -1,0 +1,16 @@
+Interleukin-32 (IL-32) is a cytokine inducing crucial inflammatory cytokines 
+such as tumor necrosis factor-α (TNFα) and IL-6 and its expression is elevated 
+in various inflammatory autoimmune diseases, certain cancers, as well as viral 
+infections. IL-32 gene was first cloned from activated T cells, however IL-32 
+expression was also found in other immune cells and non-immune cells. IL-32 gene 
+was identified in most mammals except rodents. It is transcribed as 
+multiple-spliced variants in the absence of a specific activity of each isoform. 
+IL-32 has been studied mostly in clinical fields such as infection, autoimmune, 
+cancer, vascular disease, and pulmonary diseases. It is difficult to investigate 
+the precise role of IL-32 in vivo due to the absence of IL-32 gene in mouse. The 
+lack of mouse IL-32 gene restricts in vivo studies and restrains further 
+development of IL-32 research in clinical applications although IL-32 new 
+cytokine getting a spotlight as an immune regulatory molecule processing 
+important roles in autoimmune, infection, and cancer. In this review, we discuss 
+the regulation and function of IL-32 in inflammatory bowel diseases and 
+rheumatoid arthritis.

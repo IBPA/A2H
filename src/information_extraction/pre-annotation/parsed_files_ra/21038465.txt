@@ -1,0 +1,14 @@
+The rat model is a widely used animal model in research, its popularity perhaps 
+only surpassed by the mouse model. Rats are the preferred models for the study 
+of transplantation and certain tumor and autoimmune diseases. In particular, the 
+understanding of cardiovascular-related diseases and chronic inflammation has 
+depended widely on the rat, from which models for both multiple sclerosis and 
+rheumatoid arthritis have been derived. Until now, research in the rat has been 
+hampered by a lack of precise gene-targeting technology in this model. This 
+limitation, however, is rapidly changing; a recent example is the availability 
+of B-cell-deficient rat strains obtained by the newly established zinc finger 
+nucleases-targeting technology. As described in this issue of the European 
+Journal of Immunology, genetic targeting of the rat, for example, using zinc 
+finger nucleases-targeting technology, is likely to rapidly drive progress in 
+the understanding of not only B-cell biology but also in the general 
+understanding of rat disease models.

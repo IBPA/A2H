@@ -1,0 +1,25 @@
+Interleukin-17 (IL-17) is a proinflammatory cytokine secreted by the newly 
+described CD4(+) Th17 subset, which is distinct from classic Th1 and Th2 
+lineages. IL-17 contributes to bone destruction in rheumatoid arthritis but is 
+essential in host defense against pathogens that are susceptible to neutrophils. 
+Periodontal disease (PD) is a chronic inflammatory condition initiated by 
+anaerobic oral pathogens such as Porphyromonas gingivalis, and it is 
+characterized by host-mediated alveolar bone destruction due primarily to the 
+immune response. The role of IL-17 in PD is controversial. Whereas elevated 
+IL-17 levels have been found in humans with severe PD, we recently reported that 
+female C57BL/6J mice lacking the IL-17 receptor (IL-17RA(KO)) are significantly 
+more susceptible to PD bone loss due to defects in the chemokine-neutrophil axis 
+(J. J. Yu, M. J. Ruddy, G. C. Wong, C. Sfintescu, P. J. Baker, J. B. Smith, R. 
+T. Evans, and S. L. Gaffen, Blood 109:3794-3802, 2007). Since different mouse 
+strains exhibit differences in susceptibility to PD as well as Th1/Th2 cell 
+skewing, we crossed the IL-17RA gene knockout onto the BALB/c background and 
+observed a similar enhancement in alveolar bone loss following P. gingivalis 
+infection. Unexpectedly, in both strains IL-17RA(KO) female mice were much more 
+susceptible to PD bone loss than males. Moreover, female BALB/c-IL-17RA(KO) mice 
+were defective in producing anti-P. gingivalis immunoglobulin G and the 
+chemokines KC/Groalpha and MIP-2. In contrast, male mice produced normal levels 
+of chemokines and anti-P. gingivalis antibodies, but they were defective in 
+granulocyte colony-stimulating factor upregulation. This study demonstrates a 
+gender-dependent effect of IL-17 signaling and indicates that gender differences 
+should be taken into account in the preclinical and clinical safety testing of 
+anti-IL-17 biologic therapies.

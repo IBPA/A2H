@@ -1,0 +1,33 @@
+The study aimed to investigate the relationship between tumor necrosis factor 
+receptor-associated factor 6 (TRAF6) and a differentially mature dendritic cell 
+(mDC) in collagen-induced arthritis (CIA) mice and to determine whether or not 
+TRAF6 regulates the activation of an immature dendritic cell (iDC) and inhibits 
+iDC maturation to induce immune tolerance. The mouse bone marrow stem cells were 
+induced with recombinant granulocyte-macrophage colony-stimulating factor 
+(rmGM-CSF) and recombinant interleukin-4 (rmIL-4) to differentiate immature 
+dendritic cells (DCs), which were divided into four groups with different 
+maturation states: rmGM-CSF, rmIL-4; TNF-α; LPS; and FK506 group. The levels of 
+the cell surfaces of CD80, CD86, and MHI-II were analyzed by flow cytometry to 
+prove DCs at different levels of maturity. The expression of IL-12 in DCs at 
+different maturation states was detected by enzyme-linked immunosorbent assay 
+(ELISA). The expression of TRAF6 mRNA and protein in each group of DCs was 
+detected by a reverse transcription-polymerase chain reaction (RT-PCR) and 
+western blot analysis. The results revealed that the differentiation of bone 
+marrow cells into iDCs was significantly induced by cytokines (rmGM-CSF, IL-4). 
+CD80, CD86, MHC-II were expressed in the four groups, and the difference between 
+them was statistically significant (P<0.05). A higher degree of DC 
+differentiation led to a gradual increase of IL-12 secretion in the four groups. 
+The difference was statistically significant (P<0.05) for this secretion (group 
+D, 10,620.73±276.73 pg/ml). The expression levels of TRAF6 mRNA were 
+significantly higher in group D than those in the other three groups (P<0.01). 
+Although there was no significant difference in the expression levels of TRAF6 
+mRNA between groups B and C, the expression levels of TRAF6 mRNA between groups 
+B and C were higher than those of the control group. The TRAF6 protein 
+expression was higher in group D than that in the other three groups (P<0.01), 
+and the difference was statistically significant. There was a statistically 
+significant difference in the TRAF6 protein expression between group A and 
+groups B and C, but the expression in group C was higher than that in group B 
+(P<0.01). In conclusion, the expression of co-stimulatory molecules gradually 
+increased in the DCs of different maturation states, and the expression of 
+IL-12, TRAF6 mRNA, and TRAF6 protein positively correlated with the degree of DC 
+maturation. TRAF6 is important in iDC polarity and maturation.

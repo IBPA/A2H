@@ -1,0 +1,20 @@
+Clostridium difficile (C. difficile) is an opportunistic bacteria that 
+flourishes in intestinal flora is altered by antibiotic use and can cause large 
+intestinal colitis if left untreated. The mechanism of MAVS-mediated innate 
+immune signaling in response to C. difficile infection remains unclear. This 
+knowledge gap was addressed in the present research by administration of an 
+antibiotic cocktail to WT and MAVS-deficient (MAVS-/-) mice for five days, 
+followed by the oral administration of C. difficile VPI 10,463 strain (1 × 107 
+colony forming units). Subjects were subsequently observed for another eight 
+days for signs of colitis. Colon and cecum tissue samples were harvested from 
+naive and infected mice two days post-infection for histopathologic analysis. 
+Colon tissue samples were harvested to analyze cytokine gene expression and 
+RegIIIβ/γ gene expression. MAVS-deficient mice suffered significantly higher 
+mortality rates as well as increased mucosal tissue inflammation and damage 
+after C. difficile infection (P <0.05). MAVS-/- mice displayed a significantly 
+greater increase in IL-6, IL-1β, TNF-α and IFN-β expression in colon tissues in 
+contrast to WT mice challenged with C. difficile (P <0.05). RegIIIβ/γ gene 
+expression was severely attenuated in the colons of MAVS-/- mice (P <0.05). 
+These findings underscore MAVS as a vital innate immune system mediator in the 
+intestinal mucosa and further suggests that MAVS-mediated maintenance of the 
+intestinal epithelial barrier is an important defense against enteric pathogens.

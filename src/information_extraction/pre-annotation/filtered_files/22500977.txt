@@ -1,0 +1,13 @@
+Targeting the complement component 3a receptor (C3aR) with selective agonists or 
+antagonists is believed to be a viable therapeutic option for several diseases 
+such as stroke, heart attack, reperfusion injuries, and rheumatoid arthritis. We 
+designed a number of agonists, partial agonists, and antagonists of C3aR using 
+our two-stage de novo protein design framework. Of the peptides tested using a 
+degranulation assay in C3aR-transfected rat basophilic leukemia cells, two were 
+prominent agonists (EC(50) values of 25.3 and 66.2 nM) and two others were 
+partial agonists (IC(50) values of 15.4 and 26.1 nM). Further testing of these 
+lead compounds in a calcium flux assay in U937 cells yielded similar results 
+although with reduced potencies compared to transfected cells. The partial 
+agonists also displayed full antagonist activity when tested in a C3aR 
+inhibition assay. In addition, the electrostatic potential profile was shown to 
+potentially discriminate between full agonists and partial agonists.

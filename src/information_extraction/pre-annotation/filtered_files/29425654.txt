@@ -1,0 +1,36 @@
+BACKGROUND: Blocking the formation and invasive growth of pannus and its 
+secretion of inflammatory cytokines and MMPs is important for treating 
+rheumatoid arthritis.
+HYPOTHESIS/PURPOSE: Anti-arthritic activity of Aralia continentalis Kitag., an 
+oriental herbal medicine, and the underlying mechanisms involved were 
+investigated.
+STUDY DESIGN: Anti-inflammatory and anti-nocicpetive activities of the ethanolic 
+extract (50% v/v) of Aralia continentalis Kitag. harvested from Imsil, Korea 
+(ACI) were investigated in IL-1β-stimulated human fibroblast-like synoviocyte 
+(FLS) cells and rodent models of collagen-induced polyarthritis and 
+carrageenan-induced acute paw pain.
+METHODS: In IL-1β-stimulated FLS cells derived from rheumatoid arthritis 
+patients, the anti-inflammatory activity of ACI was examined by analyzing the 
+expression levels of inflammatory mediators such as TNF-α, IL-6, IL-8, MMP-1, 
+MMP-3, MMP-13, PGE2, and COX-2 using ELISA and RT-PCR analysis. The 
+anti-arthritic activity of ACI was investigated by measuring body weight, 
+squeaking score, paw volume, and arthritis index in collagen-induced 
+polyarthritis mice. The anti-nociceptive activity of ACI was examined in the 
+paw-pressure test and Tail-flick latency test in rats.
+RESULTS: The ethanolic extract (50% v/v) of ACI reduced the levels of TNF-α, 
+IL-6, IL-8, MMP-1, and MMP-13 secreted by IL-1β-stimulated FLS cells, whereas 
+MMP-3, COX-2, and PGE2 were not significantly affected. ACI inhibited the 
+migration of NF-κB into the nucleus through the inhibition of ERK- and 
+JNK-dependent MAP kinase pathways in IL-1β-stimulated FLS cells. In 
+collagen-induced polyarthritis mice, oral administration of ACI extract 
+(200 mg/kg) significantly alleviated arthritic behaviors. Histological 
+observations of arthritic mouse knees were consistent with their behaviors. The 
+anti-arthritic and anti-inflammatory activities of 200 mg/kg ACI extract were 
+comparable to those of 10 mg/kg prednisolone when administered to mice. However, 
+ACI administration did not significantly affect carrageenan-induced hyperalgesia 
+or thermal nociception in rats.
+CONCLUSION: These results suggest that the ethanolic extract of ACI have 
+significant anti-inflammatory and anti-arthritic effects in a rodent arthritis 
+model and in IL-1β-stimulated FLS cells. Thus, ACI may be a useful candidate for 
+developing pharmaceuticals or dietary supplements for the treatment of 
+inflammatory arthritis.

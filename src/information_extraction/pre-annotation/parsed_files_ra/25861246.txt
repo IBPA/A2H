@@ -1,0 +1,22 @@
+OBJECTIVE: To explore the immunological mechanisms underlying the effect of 
+chronic intermittent hypobaric hypoxia (CIHH) pretreatment on collagen-induced 
+arthritis (CIA) in rat.
+METHODS: Fifty-four adult male Sprague-Dawley rats were used in the experiment. 
+Arthritis in CIA rats (n=18) was induced by injection of collagen. The CIHH+CIA 
+rats (n=18) were treated with CIHH (simulated 3000 m altitude, 5 hours per day 
+for 28 days, PO2=108.8 mmHg) before CIA. The control rats (n=18) were not given 
+any treatment.
+RESULTS: (1) Incidence rate of CIA in CIHH+CIA rats was significantly lower than 
+that in CIA rats (P<0.05). (2) The paw thickness and arthritis index (AI) value 
+in CIHH+CIA rats were lower than those in CIA rats (P<0.05). (3) The hyperplasia 
+with inflammatory infiltration in synovial tissue of joints in CIHH+CIA rats was 
+much alleviative compared with CIA rats. (4) TNF-α, IFN-γ, IL-4 and IL-17 in 
+synovial tissue of joint and serum in CIHH+CIA rats were decreased compared with 
+CIA rats (P<0.05). (5) The number of CD4-positive T-lymphocytes and the ratio of 
+CD4/CD8 T-lymphocytes in peripheral blood in CIHH+CIA rats were lower than those 
+in CIA rats (P<0.05). (6) The protein expression of HIF-1α and NF-κB in synovial 
+tissue of joint in CIHH+CIA rats was decreased compared with CIA rats (P<0.05).
+CONCLUSION: CIHH pretreatment has a protective effect against collagen-induced 
+arthritis in rat through down-regulation of HIF-1α and NF-κB, inhibition of 
+inflammatory cytokines TNF-α and IL-17, and balance in CD4/CD8 and Th1/Th2 T 
+lymphocytes.

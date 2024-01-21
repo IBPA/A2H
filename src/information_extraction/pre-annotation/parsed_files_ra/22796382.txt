@@ -1,0 +1,27 @@
+The adenosine 2A receptor (A(2A)R) is greatly involved in inflammation 
+pathologies such as rheumatoid arthritis. By interacting with A(2A)R, the purine 
+nucleoside adenosine acts as a potent endogenous inhibitor of the inflammatory 
+process in a variety of tissues. Hyaluronan (HA) fragments act to prime 
+inflammation via CD44 and the toll-like receptor 4 (TLR-4). The aim of this 
+study was to investigate whether the inhibition/stimulation of A(2A)R modulates 
+the inflammation cascade primed by small HA fragments in mouse articular 
+chondrocytes. 6-mer HA treatment induced up-regulation of CD44, TLR4 and A(2A)R 
+mRNA expression and the related protein levels, and NF-kB activation, that in 
+turn increased TNF-α, IL-1β, and IL-6 and production. Treatment with a selective 
+(2)A adenosine receptor agonist (2-phenylaminoadenosine) enhanced A(2A)R 
+increase, as well as the inhibition of CD44 and TLR4 activity using two specific 
+antibodies abolished up-regulation of CD44 and TLR4, and significantly reduced, 
+especially by antibody inhibition, NF-kB activation and pro-inflammatory 
+cytokine production. Furthermore, the exposure of chondrocytes to A(2A)R 
+specific interference mRNA (A(2A)R siRNA) enhanced HA 6-mer induced NF-kB 
+activation and inflammatory cytokine increase. Finally, the use of an exchange 
+protein activated by cAMP (EPAC) siRNA and a specific PKA inhibitor showed a 
+predominant EPAC involvement in the mediation of the anti-inflammatory activity 
+exerted by A(2A)R stimulation. These data suggest that HA depolymerization 
+occurring during inflammation contributes to priming of the inflammatory 
+cascade, while endogenous adenosine, by exerting anti-inflammatory response via 
+A(2A)R, could be a modulatory mechanism that attempts to attenuate the 
+inflammation process.
+
+Copyright © 2012 International Society of Matrix Biology. Published by Elsevier 
+B.V. All rights reserved.

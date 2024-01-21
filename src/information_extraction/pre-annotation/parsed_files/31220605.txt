@@ -1,0 +1,16 @@
+Clostridium difficile infection (CDI) is one of the most common nosocomial 
+infections worldwide and an urgent public health threat. Epidemiological and 
+experimental studies have demonstrated an association between nonsteroidal 
+anti-inflammatory drug (NSAID) exposure and enhanced susceptibility to, and 
+severity of, CDI. NSAIDs target cyclooxygenase enzymes and inhibit the 
+production of prostaglandins (PGs), but the therapeutic potential of exogenous 
+introduction of PGs for the treatment of CDI has not been explored. In this 
+study, we report that treatment with the FDA-approved stable PGE1 analogue, 
+misoprostol, protects mice against C. difficile-associated mortality, intestinal 
+pathology, and CDI-mediated intestinal permeability. Furthermore, we report that 
+the effect of misoprostol on the gastrointestinal tract contributes to increased 
+recovery of the gut microbiota following antibiotic perturbation. Together, 
+these data implicate PGs as an important host-factor associated with recovery to 
+C. difficile-associated disease and demonstrate the potential for misoprostol in 
+the treatment of CDI. Further studies to explore the safety and efficacy of 
+misoprostol treatment of CDI in humans is needed.

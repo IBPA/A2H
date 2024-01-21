@@ -1,0 +1,24 @@
+Overgrowth of the synovium plays an important role in the pathogenesis of 
+rheumatoid arthritis (RA). Platelet-derived growth factor (PDGF) is one of the 
+most potent mitogenic factors of synovial cells, and imatinib mesylate 
+(imatinib) is a specific inhibitor of the PDGF receptor tyrosine kinase. The aim 
+of this study was to elucidate the anti-rheumatic activity of imatinib. The in 
+vivo effects of imatinib were assessed by evaluating the sequential 
+manifestation of adjuvant-induced arthritis in rats using paw volume and 
+clinical scores. Imatinib was found to inhibit rat adjuvant-induced arthritis, 
+but the inhibitory effects were incomplete. To confirm the mechanism of 
+anti-rheumatic-activity of imatinib, we assessed the in vitro effects of 
+imatinib on the proliferation of RA synovial fibroblast-like cells (RASFs) using 
+a MTT assay. Intracellular signaling of PDGF was evaluated by Western blot 
+analysis. Platelet-derived growth factor was found to induce a significant 
+proliferation of RASFs, while imatinib inhibited PDGF-induced proliferation of 
+RASF. Imatinib also inhibited PDGF-induced phosphorylation of the PDGF receptor 
+and Akt, whereas constitutive activated extracellular signal-regulated kinase 
+was not inhibited by imatinib. In contrast, imatinib did not inhibit 
+transforming growth factor beta- and basic fibroblast growth factor-induced 
+proliferation of RASF. Oral administration of imatinib ameliorated 
+adjuvant-induced arthritis in rats, and it inhibited PDGF-induced RASF 
+proliferation through disruption of the PDGF-R to Akt kinase signaling pathway. 
+Because imatinib cannot inhibit the non-PDGF-dependent proliferation of RASFs, 
+the anti-rheumatic effect of imatinib may be incomplete. The development of 
+inhibitors of RASF proliferation may lead to the successful treatment of RA.

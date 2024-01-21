@@ -1,0 +1,26 @@
+Transmembrane activator and calcium modulator and cyclophilin ligand 
+interactor-immunoglobulin (TACI-Ig) is a human fusion protein that binds and 
+neutralizes both B lymphocyte stimulator (BLyS), a cytokine shown to be a key 
+regulator of B cell maturation, proliferation and survival, and a 
+proliferation-inducing ligand (APRIL). Rat adjuvant arthritis (AA) is an 
+experimental animal model of rheumatoid arthritis (RA), which is mainly 
+dependent on T cells and neutrophil-mediated cytokine production. The purpose of 
+the present study was to investigate the effects of TACI-Ig on rat AA. Rat AA 
+was induced by intradermal injection of 0·1 ml complete Freund's adjuvant (CFA). 
+TACI-Ig (0·7, 2·1 and 6·3 mg/kg), recombinant human tumour necrosis factor-α 
+receptor (rhTNFR) : Fc (2·8 mg/kg) and IgG-Fc (6·3 mg/kg) were administered 
+subcutaneously every other day from days 16 to 34 after immunization. Arthritis 
+was evaluated by arthritis global assessment and swollen joint count (SJC). The 
+ankle joint and spleen were harvested for histopathological examination. Spleen 
+index and thymus index were calculated. The levels of BLyS, interleukin (IL)-17, 
+interferon (IFN)-γ, IgG1, IgG2a and IgM in AA rat spleen were measured by 
+enzyme-linked immunosorbent assay. Administration of TACI-Ig significantly 
+reduced the arthritis global assessment and SJC, decreased spleen index and 
+ameliorated histopathological manifestations of rat AA. Suppressing the levels 
+of BLyS, IL-17, IFN-γ and Ig in AA rat spleen were observed after administration 
+of TACI-Ig. These results showed that TACI-Ig significantly inhibited the degree 
+of rat AA, and the inhibitory effects might be associated with its ability to 
+reduce BLyS, proinflammatory cytokines and Ig levels in spleen.
+
+© 2010 The Authors. Clinical and Experimental Immunology © 2010 British Society 
+for Immunology.

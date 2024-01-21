@@ -1,0 +1,18 @@
+The acid-sensing ion channel 1a (ASIC1a), which is activated by extracellular 
+acid, contributes to the pathogenesis of rheumatoid arthritis. However, it 
+remains unclear whether ASIC1a mediates acid-induced matrix metabolism in rat 
+articular chondrocytes via activation of the MAPK signaling pathway. In the 
+current study, we found that extracellular acidification (pH 6.0) inhibited 
+proliferation and induced apoptosis of articular chondrocytes in a 
+dose-dependent manner, while the expression of phosphorylated ERK1/2 and P38 
+MAPK increased, but, this effect was blocked by the Ca2+ chelator BAPTA-AM and 
+the ASIC1a-specific blocker PcTx-1. In addition, extracellular acidification 
+increased the expression of c-fos, GAG, HYP, and TIM1/2. These effects were 
+inhibited by the Ca2+ chelator BAPTA-AM, ERK1/2 inhibitor PD98059, and 
+ASIC1a-specific blocker PcTx-1, but not the P38 MAPK inhibitor SB203580. 
+Finally, extracellular acidification increased the expression of c-jun and 
+MMP-2/9, and these effects were blocked by the Ca2+ chelator BAPTA-AM, P38 MAPK 
+inhibitor SB203580, and ASIC1a-specific blocker PcTx-1, but not the ERK1/2 
+inhibitor PD98059. In conclusion, ASIC1a inhibits the expression of MMP-2/9, 
+GAG, HYP, and TIMP-1/2 by the Ca2+-dependent P38 MAPK/c-jun and ERK/c-fos 
+signaling pathways.

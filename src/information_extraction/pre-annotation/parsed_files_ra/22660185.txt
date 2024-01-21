@@ -1,0 +1,18 @@
+Bones cannot properly form or be maintained without cell-cell interactions 
+through ephrin ligands and Eph receptors. Cell culture analysis and evaluation 
+of genetic mouse models and human diseases reveal various ephrins and Eph 
+functions in the skeletal system. Migration, attachment and spreading of 
+mesenchymal stem cells are regulated by ephrinB ligands and EphB receptors. 
+ephrinB1 loss-of-function is associated with craniofrontonasal syndrome (CFNS) 
+in humans and mice. In bone remodeling, ephrinB2 is postulated to act as a 
+"coupling stimulator." In that case, bidirectional signaling between 
+osteoclastic ephrinB2 and osteoblastic EphB4 suppresses osteoclastic bone 
+resorption and enhances osteoblastic bone formation, facilitating the transition 
+between these two states. Parathyroid hormone (PTH) induces ephrinB2 in 
+osteoblasts and enhances osteoblastic bone formation. In contrast to ephrinB2, 
+ephrinA2 acts as a "coupling inhibitor," since ephrinA2 reverse signaling into 
+osteoclasts enhances osteoclastogenesis and EphA2 forward signaling into 
+osteoblasts suppresses osteoblastic bone formation and mineralization. 
+Furthermore, ephrins and Ephs likely modulate pathological conditions such as 
+osteoarthritis, rheumatoid arthritis, multiple myeloma and osteosarcoma. This 
+review focuses on ephrin/Eph-mediated cell-cell interactions in bone biology.

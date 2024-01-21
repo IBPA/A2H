@@ -1,0 +1,30 @@
+BACKGROUND: Significant restriction in the ability to participate in home, work 
+and community life results from pain, fatigue, joint damage, stiffness and 
+reduced joint range of motion and muscle strength in people with rheumatoid 
+arthritis or osteoarthritis of the hand. With modest evidence on the therapeutic 
+effectiveness of conventional hand exercises, a task-oriented training program 
+via real life object manipulations has been developed for people with arthritis. 
+An innovative, computer-based gaming platform that allows a broad range of 
+common objects to be seamlessly transformed into therapeutic input devices 
+through instrumentation with a motion-sense mouse has also been designed. 
+Personalized objects are selected to target specific training goals such as 
+graded finger mobility, strength, endurance or fine/gross dexterous functions. 
+The movements and object manipulation tasks that replicate common situations in 
+everyday living will then be used to control and play any computer game, making 
+practice challenging and engaging.
+METHODS/DESIGN: The ongoing study is a 6-week, single-center, parallel-group, 
+equally allocated and assessor-blinded pilot randomized controlled trial. Thirty 
+people with rheumatoid arthritis or osteoarthritis affecting the hand will be 
+randomized to receive either conventional hand exercises or the task-oriented 
+training. The purpose is to determine a preliminary estimation of therapeutic 
+effectiveness and feasibility of the task-oriented training program. Performance 
+based and self-reported hand function, and exercise compliance are the study 
+outcomes. Changes in outcomes (pre to post intervention) within each group will 
+be assessed by paired Student t test or Wilcoxon signed-rank test and between 
+groups (control versus experimental) post intervention using unpaired Student t 
+test or Mann-Whitney U test.
+DISCUSSION: The study findings will inform decisions on the feasibility, safety 
+and completion rate and will also provide preliminary data on the treatment 
+effects of the task-oriented training compared with conventional hand exercises 
+in people with rheumatoid arthritis or osteoarthritis of the hand.
+TRIAL REGISTRATION: ClinicalTrials.gov: NCT01635582.

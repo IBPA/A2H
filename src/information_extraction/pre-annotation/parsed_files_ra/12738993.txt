@@ -1,0 +1,18 @@
+Arsenic compounds have been used to treat angiogenic diseases such as cancer, 
+psoriasis, and rheumatoid arthritis in traditional oriental medicine. In recent 
+years, arsenic trioxide (As2O3, diarsenic oxide) has been successfully used to 
+treat acute promyelocytic leukemia. We investigated the antiangiogenic 
+properties of tetraarsenic oxide (As4O6), another trivalent arsenic compound. In 
+in vitro studies, tetraarsenic oxide inhibited the proliferation (IC50 = 99.7 
+nM), migration into the denuded area (IC50 = 27.4 nM), and invasion through a 
+layer of Matrigel (IC50 = 73.5 nM) of basic fibroblast growth factor 
+(bFGF)-stimulated bovine capillary endothelial (BCE) cells in a dose-dependent 
+manner. Tetraarsenic oxide also inhibited the tube formation of human umbilical 
+vein endothelial cells. Tetraarsenic oxide induced cell cycle arrest of 
+bFGF-stimulated BCE cells in the G2/M phase and inhibited the secretion of 
+matrix metalloproteinase-2 from BCE cells. Orally administered tetraarsenic 
+oxide (50 mg/kg/day) inhibited bFGF-induced new-vessel formation in a rat 
+corneal micropocket assay, and reduced by about 54% the number of experimental 
+pulmonary metastatic nodules in mice implanted with B16F10 melanoma cells. Thus, 
+we provide evidence that tetraarsenic oxide has effective antiangiogenic 
+activities.

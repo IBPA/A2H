@@ -1,0 +1,23 @@
+Glucocorticoids (GCs), despite having many undesirable side effects, remain 
+effective for the treatment of many inflammatory diseases and are commonly used 
+as benchmark drugs in animal models of disease. However, the molecular 
+mechanisms underling systemic GC effects in these models are poorly 
+characterized. In this study, prednisolone and dexamethasone were evaluated in 
+the fully established Lewis rat adjuvant-induced arthritis (AIA) model. In AIA, 
+adjuvant administration induced polyarticular and systemic inflammation, which 
+included spleen and liver. In the liver, multifocal hepatic granulomas were 
+observed. To characterize the systemic response and the pathways responsible for 
+GC effects, histology, transcriptional profiling, and immunohistochemistry (IHC) 
+were performed. There was a decrease in the incidence and histologic severity 
+score for granulomas with GC treatment. There was no effect on cellular 
+composition of granulomas as assessed by IHC for CD3+ lymphocytes, macrophages, 
+and B cells, but there was a significant reduction in infiltrating lymphocytes 
+in the hepatic parenchyma. By Affymetrix microarray analysis, 10% of hepatic 
+transcripts were altered (P<.01) in livers from AIA rats, with ~31% of them 
+partially reversed with treatment with dexamethasone and ~13% with prednisolone. 
+Many of these altered hepatic transcripts correspond to human genes that are 
+dysregulated in the synovium in human rheumatoid arthritis (RA), indicating that 
+the rat AIA model shares features with human RA. These data establish molecular 
+changes in the liver and the effect of GCs in rat AIA, which can be used to aid 
+in understanding the mechanism of action of novel anti-inflammatory compounds in 
+this animal model.

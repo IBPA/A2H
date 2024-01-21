@@ -1,0 +1,24 @@
+BACKGROUND: Clostridium difficile is a leading cause of healthcare-associated 
+infections worldwide. Prevention of C. difficile transmission is challenging 
+because spores are not killed by alcohol-based hand sanitizers or many commonly 
+used disinfectants. One strategy to control spores is to induce germination, 
+thereby rendering the spores more susceptible to benign disinfection measures 
+and ambient stressors.
+METHODS/RESULTS: C. difficile spores germinated on skin after a single 
+application of cholic acid-class bile salts and co-germinants; for 4 C. 
+difficile strains, recovery of viable spores from skin was reduced by ~0.3 
+log10CFU to 2 log10CFU after 2 hours and ~1 log10CFU to > 2.5 log10CFU after 24 
+hours. The addition of taurocholic acid to 70% and 30% ethanol significantly 
+enhanced reduction of viable spores on skin and on surfaces. Desiccation, and to 
+a lesser extent the presence of oxygen, were identified as the stressors 
+responsible for reductions of germinated spores on skin and surfaces. 
+Additionally, germinated spores became susceptible to killing by pH 1.5 
+hydrochloric acid, suggesting that germinated spores that remain viable on skin 
+and surfaces might be killed by gastric acid after ingestion. Antibiotic-treated 
+mice did not become colonized after exposure to germinated spores, whereas 100% 
+of mice became colonized after exposure to the same quantity of dormant spores.
+CONCLUSIONS: Germination could provide a new approach to reduce C. difficile 
+spores on skin and in the environment and to render surviving spores less 
+capable of causing infection. Our findings suggest that it may be feasible to 
+develop alcohol-based hand sanitizers containing germinants that reduce spores 
+on hands.

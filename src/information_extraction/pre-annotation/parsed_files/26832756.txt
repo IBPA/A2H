@@ -1,0 +1,27 @@
+OBJECTIVES: Clostridium difficile infection (CDI) is a primary cause of 
+antibiotic-associated diarrhoeal illness. Current therapies are insufficient as 
+relapse rates following antibiotic treatment range from 25% for initial 
+treatment to 60% for treatment of recurrence. In this study, we looked at the 
+efficacy of SQ641 in a murine model of CDI. SQ641 is an analogue of capuramycin, 
+a naturally occurring nucleoside-based compound produced by Streptomyces 
+griseus.
+METHODS: In a series of experiments, C57BL/6 mice were treated with a cocktail 
+of antibiotics and inoculated with C. difficile strain VPI10463. Animals were 
+treated orally with SQ641 for 5 days at a dose range of 0.1-300 mg/kg/day, 20 
+mg/kg/day vancomycin or drug vehicle. Animals were monitored for disease 
+severity, clostridial shedding and faecal toxin levels for 14 days 
+post-infection.
+RESULTS: Five day treatment of CDI with SQ641 resulted in higher 14 day survival 
+rates in mice compared with either vancomycin or vehicle alone. CDI survival 
+rates were 100% (13 of 13) and 94% (32 of 34), respectively, in the 1 and 10 
+mg/kg/day SQ641 treatment groups, 37% (7 of 19) with vancomycin treatment at 20 
+mg/kg/day and 32% (14 of 44) in the vehicle-only control group. Secondary 
+measures of efficacy, such as prevention of weight loss, decreased disease 
+severity, decreased C. difficile shedding and decreased toxin in faeces, were 
+observed with SQ641 and vancomycin treatment.
+CONCLUSIONS: SQ641 is effective for CDI treatment with prevention of relapse in 
+the murine model of CDI.
+
+© The Author 2016. Published by Oxford University Press on behalf of the British 
+Society for Antimicrobial Chemotherapy. All rights reserved. For Permissions, 
+please e-mail: journals.permissions@oup.com.

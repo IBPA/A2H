@@ -1,0 +1,18 @@
+Microdialysis, a sampling method for pharmacokinetics⁻pharmacodynamics (PK⁻PD) 
+modeling in preclinical and clinical studies, is a convenient in vivo sampling 
+technique. Geniposide (GE), an iridoid glycoside compound, is the major active 
+ingredient of Gardenia jasminoides Ellis fruit which has an anti-inflammatory 
+effect. In this study, an articular cavity microdialysis sampling system for 
+adjuvant arthritic (AA) rats was established to study the effect of GE on the 
+release of prostaglandin E₂ (PGE₂) in AA rats induced by Freund's complete 
+adjuvant (FCA). An UHPLC-MS/MS method was developed to determine the 
+concentrations of GE and PGE₂ in the dialysate. Through the determination of 
+drug concentrations and PGE₂ efficacy levels in the dialysate, the developed 
+methods were successfully applied to set up concentration⁻time and effect⁻time 
+profiles followed by PK⁻PD modeling of GE's effect on decreasing PGE₂ release 
+after oral administration of GE. The effect was well described by the developed 
+PK⁻PD modeling, indicating that GE may play an anti-inflammatory role via 
+decreasing AA-induced elevated PGE₂ levels. In the selection of suitable 
+endogenous small molecules as effect markers, the establishment of AA rat 
+joint-cavity microdialysis is an attractive technique for rational PK⁻PD 
+studies.

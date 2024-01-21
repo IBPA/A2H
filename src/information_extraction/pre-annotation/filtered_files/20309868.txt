@@ -1,0 +1,28 @@
+OBJECTIVE: To determine whether blood vessel growth at the onset of resolving 
+synovitis leads to its subsequent persistence and whether inhibiting this 
+angiogenesis at the onset of persistent inflammation leads to its subsequent 
+resolution.
+METHODS: Inflammation and angiogenesis were induced by injection of 0.03% 
+carrageenan and/or 6 pmoles of fibroblast growth factor 2 (FGF-2) into rat 
+knees. A brief treatment with the angiogenesis inhibitor PPI-2458 (5 mg/kg 
+orally on alternate days) was administered 1 day before and up to 3 days after 
+synovitis induction. Controls comprised naive and vehicle-treated rats. Synovial 
+angiogenesis was measured using the endothelial cell proliferation index, and 
+inflammation was determined by measuring joint swelling and macrophage 
+percentage area. Data are presented as the geometric mean (95% confidence 
+interval).
+RESULTS: Intraarticular injection of 0.03% carrageenan into rat knees produced 
+acute synovitis, which was not associated with synovial angiogenesis and which 
+resolved within 29 days. Injection of FGF-2 (6 pmoles) induced synovial 
+angiogenesis without significant synovitis. Stimulation of angiogenesis with 
+FGF-2 at the time of carrageenan injection was followed by synovitis that 
+persisted for 29 days. Persistence of carrageenan/FGF-2-induced synovitis was 
+prevented by systemic administration of 3 doses of the angiogenesis inhibitor 
+PPI-2458 during the acute phase.
+CONCLUSION: Our findings indicate that conversion of acute inflammation to 
+chronic inflammation may be due to the stimulation of angiogenesis, and brief 
+antiangiogenic treatment during the acute phase of synovitis may prevent its 
+subsequent progression. Clinical studies will be needed to determine whether 
+brief antiangiogenic treatment may reduce the burden of inflammatory joint 
+diseases such as rheumatoid arthritis by facilitating the resolution of early 
+synovitis.

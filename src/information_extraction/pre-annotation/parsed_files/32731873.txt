@@ -1,0 +1,28 @@
+BACKGROUND: Zika virus (ZIKV) infection is a global health problem, and its 
+complications, including congenital Zika syndrome and Guillain-Barré syndrome, 
+constitute a continued threat to humans. Unfortunately, effective therapeutics 
+against ZIKV infection are not available thus far.
+METHODS: We screened the compounds collection consisting of 1789 FDA-approved 
+drugs by a computational docking method to obtain anti-ZIKV candidate compounds 
+targeting ZIKV RNA-dependent RNA polymerase (RdRp). SPR (BIAcore) assay was 
+employed to demonstrate the candidate compounds' direct binding to ZIKV RdRp, 
+and polymerase activity assay was used to determine the inhibitory effect on 
+ZIKV RdRp-catalyzed RNA synthesis. The antiviral effects on ZIKV in vitro and in 
+vivo were detected in infected cultured cells and in Ifnar1-/- mice infected by 
+ZIKV virus using plaque assay, western blotting, tissue immunofluorescence, and 
+immunohistochemistry.
+RESULTS: Here, we report that a first-in-class macrocyclic antibiotic, which has 
+been clinically used to treat Clostridium difficile infection, fidaxomicin, 
+potently inhibits ZIKV replication in vitro and in vivo. Our data showed that 
+fidaxomicin was effective against African and Asian lineage ZIKV in a wide 
+variety of cell lines of various tissue origins, and prominently suppressed ZIKV 
+infection and significantly improved survival of infected mice. In addition, 
+fidaxomicin treatment reduced the virus load in the brains and testes, and 
+alleviated ZIKV-associated pathological damages, such as paralysis, hunching, 
+and neuronal necrosis in the cerebra. Furthermore, our mechanistic study showed 
+that fidaxomicin directly bound ZIKV NS5 protein and inhibited the RNA 
+synthesis-catalyzing activity of ZIKV RdRp.
+CONCLUSIONS: Our data suggest that fidaxomicin may represent an effective 
+anti-ZIKV agent. In the light that fidaxomicin is already a clinically used 
+drug, there might be a promising prospect in the development of fidaxomicin to 
+be an antiviral therapeutic.

@@ -1,0 +1,24 @@
+This study investigated the effect of carvacrol (CR), a phytophenolic compound 
+on antibiotic-associated gut dysbiosis and C. difficile infection in a mouse 
+model. Five to six-week-old C57BL/6 mice were randomly divided into seven 
+treatment groups (challenge and control) of eight mice each. Mice were fed with 
+irradiated feed supplemented with CR (0, 0.05, and 0.1%); the challenge groups 
+were made susceptible to C. difficile by orally administering an antibiotic 
+cocktail in water and an intra-peritoneal injection of clindamycin. Both 
+challenge and control groups were infected with 105CFU/ml of hypervirulent C. 
+difficile (ATCC 1870) spores or PBS, and observed for clinical signs for 10 
+days. Respective control groups for CR, antibiotics, and their combination were 
+included for investigating their effect on mouse enteric microflora. Mouse body 
+weight and clinical and diarrhea scores were recorded daily post infection. 
+Fecal samples were collected for microbiome analysis using rRNA sequencing in 
+MiSeq platform. Carvacrol supplementation significantly reduced the incidence of 
+diarrhea and improved the clinical and diarrhea scores in mice (p < 0.05). 
+Microbiome analysis revealed a significant increase in Proteobacteria and 
+reduction in the abundance of protective bacterial flora in antibiotic-treated 
+and C. difficile-infected mice compared to controls (p < 0.05). However, CR 
+supplementation positively altered the microbiome composition, as revealed by an 
+increased abundance of beneficial bacteria, including Firmicutes, and 
+significantly reduced the proportion of detrimental flora such as 
+Proteobacteria, without significantly affecting the gut microbiome diversity 
+compared to control. Results suggest that CR could potentially be used to 
+control gut dysbiosis and reduce C. difficile infection.

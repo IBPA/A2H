@@ -1,0 +1,11 @@
+AIM: To investigate the effect of overall alkali of Tongbiling(TBL) on CD69 
+expression on activated mouse T lymphocytes and its possible mechanism.
+METHODS: Phorbol 12,13-dibutyrate(PDB) or concanavalin (ConA) were added 
+successively into mouse lymphocytic culture with various concentration of 
+overall alkali TBL. After 24 hours, CD69 expression rate on mouse T lymphocytes 
+activated with PDB or ConA was analyzed by flow cytometry.
+RESULTS: Overall alkali TBL could significantly down-regulate CD69 expression in 
+a dose-dependent manner.
+CONCLUSION: Overall alkali TBL can significantly inhibit CD69 expression on 
+activated mouse T lymphocytes. This study provided an experimental basis for 
+application of overall alkali TBL to treatment of rheumatoid arthritis.

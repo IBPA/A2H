@@ -1,0 +1,29 @@
+Rheumatoid arthritis (RA) is characterised by the presence of an inflammatory 
+synovitis accompanied by destruction of joint cartilage and bone. Destruction of 
+cartilage matrix results predominantly from the action of connective tissue 
+proteinases released by RA synovial tissues, chondrocytes, and pannus tissue. 
+Several lines of evidence in RA and in animal models of arthritis support a role 
+for osteoclasts in the pathogenesis of bone erosions. RA synovial tissues 
+produce a variety of cytokines and growth factors that may increase osteoclast 
+formation, activity, and/or survival. These include interleukin 1alpha 
+(IL1alpha) and beta, tumour necrosis factor alpha (TNFalpha), IL11, IL17, and 
+macrophage colony stimulating factor (M-CSF). Receptor activator of NFkappaB 
+ligand (RANKL) is an essential factor for osteoclast differentiation and also 
+functions to augment T cell-dendritic cell cooperative interactions. CD4+ T 
+cells and synovial fibroblasts derived from RA synovium are sources of RANKL. 
+Furthermore, in collagen induced arthritis (CIA), blockade with osteoprotegerin 
+(OPG), a decoy receptor for RANKL, results in protection from bone destruction. 
+To further evaluate the role of osteoclasts in focal bone erosion in arthritis, 
+arthritis was generated in the RANKL knockout mouse using a serum transfer 
+model. Despite ongoing inflammation, the degree of bone erosion in arthritic 
+RANKL knockout mice, as assessed by microcomputed tomography and correlated 
+histopathological analysis, was dramatically reduced compared with that seen in 
+arthritic control mice. Cartilage damage was present in both the arthritic RANKL 
+knockout mice and in arthritic control littermates, with a trend toward milder 
+cartilage damage in the RANKL knockout mice. This study supports the hypothesis 
+that osteoclasts play an important part in the pathogenesis of focal bone 
+erosion in arthritis, and reveals distinct mechanisms of cartilage destruction 
+and bone erosion in this animal model of arthritis. Future directions for 
+research in this area include the further investigation of a possible direct 
+role for the RANKL/RANK/OPG system in cartilage metabolism, and the possible 
+role of other cell types and cytokines in bone erosion in arthritis.

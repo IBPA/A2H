@@ -1,0 +1,21 @@
+The objective of this study was to investigate the effects of leukotriene B4 
+(LTB4) on the expression of interleukin-32 (IL-32) interferon-γ (IFN-γ) and 
+chemokine monocyte chemoattractant protein (MCP-1) and macrophage inhibitory 
+protein (MIP-1α) in rheumatoid arthritis (RA). The rat model of RA collagen 
+induced-arthritis (CIA) was established. The levels of LTB4, interleukin-32, 
+IFN-γ and chemokines MCP-1 and MIP-1α in CIA rats were detected by ELISA. After 
+the rat synovial cells were isolated and treated with different concentrations 
+of LTB4, the effect of LTB4 the expression of IL-32, IFN-γ and chemokines MCP-1 
+and MIP-1α mRNA in synovial cells was detected by real-time quantitative PCR, 
+the effect of LTB4 on protein expression was detected by immunoblotting. The 
+effects of different concentrations of LTB4 on the viability and apoptosis of 
+synovial cells were detected by LDH and cell proliferation reagent WST-1. 
+Compared with the control group, the levels of LTB4, IL-32, IFN-γ and chemokines 
+MCP-1 and MIP-1α were significantly increased in the serum of the CIA group. 
+After treatment of CIA rat synovial cells with different concentrations of LTB4, 
+the expression of IL-32, IFN-γ and chemokines MCP-1 and MIP-1α mRNA and protein 
+were increased with significant differences among groups. WST-1 and flow 
+cytometry showed that LTB4 had significant toxic effects on synovial cells and 
+promoted apoptosis. In conclusion, LTB4 promotes the expression of 
+interleukin-32, IFN-γ and chemokines MCP-1 and MIP-1α in synovial cells and 
+facilitates apoptosis of synovial cells.

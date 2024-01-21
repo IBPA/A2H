@@ -1,0 +1,29 @@
+OBJECTIVE: Faecal microbiota transplant (FMT) effectively treats recurrent 
+Clostridioides difficile infection (rCDI), but its mechanisms of action remain 
+poorly defined. Certain bile acids affect C. difficile germination or vegetative 
+growth. We hypothesised that loss of gut microbiota-derived bile salt hydrolases 
+(BSHs) predisposes to CDI by perturbing gut bile metabolism, and that BSH 
+restitution is a key mediator of FMT's efficacy in treating the condition.
+DESIGN: Using stool collected from patients and donors pre-FMT/post-FMT for 
+rCDI, we performed 16S rRNA gene sequencing, ultra performance liquid 
+chromatography mass spectrometry (UPLC-MS) bile acid profiling, BSH activity 
+measurement, and qPCR of bsh/baiCD genes involved in bile metabolism. Human data 
+were validated in C. difficile batch cultures and a C57BL/6 mouse model of rCDI.
+RESULTS: From metataxonomics, pre-FMT stool demonstrated a reduced proportion of 
+BSH-producing bacterial species compared with donors/post-FMT. Pre-FMT stool was 
+enriched in taurocholic acid (TCA, a potent C. difficile germinant); TCA levels 
+negatively correlated with key bacterial genera containing BSH-producing 
+organisms. Post-FMT samples demonstrated recovered BSH activity and bsh/baiCD 
+gene copy number compared with pretreatment (p<0.05). In batch cultures, 
+supernatant from engineered bsh-expressing E. coli and naturally BSH-producing 
+organisms (Bacteroides ovatus, Collinsella aerofaciens, Bacteroides vulgatus and 
+Blautia obeum) reduced TCA-mediated C. difficile germination relative to culture 
+supernatant of wild-type (BSH-negative) E. coli. C. difficile total viable 
+counts were ~70% reduced in an rCDI mouse model after administration of E. coli 
+expressing highly active BSH relative to mice administered BSH-negative E. coli 
+(p<0.05).
+CONCLUSION: Restoration of gut BSH functionality contributes to the efficacy of 
+FMT in treating rCDI.
+
+© Author(s) (or their employer(s)) 2019. Re-use permitted under CC BY. Published 
+by BMJ.

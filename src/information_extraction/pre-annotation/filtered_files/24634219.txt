@@ -1,0 +1,14 @@
+Overexpression of tumor necrosis factor α (TNFα) is a hallmark of many 
+inflammatory diseases, including rheumatoid arthritis, inflammatory bowel 
+disease, and septic shock and hepatitis, making it a potential therapeutic 
+target for clinical interventions. To explore chemical inhibitors against TNFα 
+activity, we applied computer-aided drug design combined with in vitro and 
+cell-based assays and identified a lead chemical compound, 
+(E)-4-(2-(4-chloro-3-nitrophenyl) (named as C87 thereafter), which directly 
+binds to TNFα, potently inhibits TNFα-induced cytotoxicity (IC50 = 8.73 μM) and 
+effectively blocks TNFα-triggered signaling activities. Furthermore, by using a 
+murine acute hepatitis model, we showed that C87 attenuates TNFα-induced 
+inflammation, thereby markedly reducing injuries to the liver and improving 
+animal survival. Thus, our results lead to a novel and highly specific 
+small-molecule TNFα inhibitor, which can be potentially used to treat 
+TNFα-mediated inflammatory diseases.

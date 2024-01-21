@@ -1,0 +1,20 @@
+Toxins produced by Clostridium difficile have been implicated in the etiology of 
+antibiotic-induced colitis. Clostridium difficile antitoxin is not available, 
+but recent studies have shown that toxins present in the feces of patients with 
+this disease are neutralized by Clostridium sordellii antitoxin. We found that 
+C. sordellii antitoxin neutralized toxins produced in broth cultures of either 
+C. sordellii or C. difficile and that passive immunization with C. sordellii 
+antitoxin before challenge with clindamycin prevented colitis in hamsters. 
+Significantly fewer antitoxin-treated animals than unimmunized controls 
+developed diarrhea and died with hemorrhagic colitis. Administration of 300 U of 
+antitoxin parenterally either on the day of challenge with clindamycin or 24 hr 
+later provided significant protection (25% mortality vs. 100% mortality in 
+controls, P less than 0.01). None of eight animals given antitoxin (300 U) both 
+on the day of challenge and 24 hr later died. Filtrates prepared from cecal 
+contents of dead or killed hamsters were tested for toxicity by intraperitoneal 
+injection into hamsters and by addition to monolayers of monkey kidney cells. 
+Fecal filtrates from antitoxin-protected animals were not toxic in these assays, 
+but filtrates from control animals were uniformly toxic. Passive immunization 
+against clostridial toxins was protective against clindamycin-associated colitis 
+in this model. This finding further substantiates the importance of these toxins 
+in the pathogenesis of antibiotic-induced colitis.

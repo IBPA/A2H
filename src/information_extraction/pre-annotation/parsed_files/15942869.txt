@@ -1,0 +1,27 @@
+Probiotics are defined as viable microorganisms that exhibit a beneficial effect 
+on the host's health when they are ingested. Two important criteria are used for 
+selection of probiotic microorganisms: they must be able to survive in the 
+gastrointestinal environment and to present at least one beneficial function 
+(colonization resistance, immunomodulation or nutritional contribution). 
+Generally, in vitro assays demonstrating these properties were used to select 
+probiotics but it is unclear if the data can be extrapolated to in vivo 
+conditions. In the present work, twelve Saccharomyces cerevisiae strains 
+isolated from different environments (insect association, tropical fruit, cheese 
+and "aguardente" production) and pre-selected for in vitro resistance to 
+simulated gastrointestinal conditions were inoculated in germ-free mice to 
+evaluate their real capacity to colonize the mammal digestive tract. Using these 
+data, one of the yeasts (S. cerevisiae 905) was selected and tested in 
+gnotobiotic (GN) and conventional (CV) mice for its capacity to protect against 
+oral challenge with two enteropathogenic bacteria (Salmonella Typhimurium and 
+Clostridium difficile). The yeast reached populational levels potentially 
+functional in the gastrointestinal portions where the enteropathogens tested 
+act. No antagonism against either pathogenic bacterium by the yeast was observed 
+in the digestive tract of GN mice but, after challenge with S. Typhimurium, 
+mortality was lower and liver tissue was better preserved in CV animals treated 
+with the yeast when compared with a control group (p<0.05). Histopathological 
+results of intestines showed that the yeast also presented a good protective 
+effect against oral challenge with C. difficile in GN mice (p<0.05). In 
+conclusion, among the 12 S. cerevisiae tested, strain 905 showed the best 
+characteristics to be used as a probiotic as demonstrated by survival capacity 
+in the gastrointestinal tract and protective effect of animals during 
+experimental infections.

@@ -1,0 +1,21 @@
+OBJECTIVE: To investigate the genetic regulation of rheumatoid factor (RF) in a 
+rat model of rheumatoid arthritis, in order to gain understanding of the 
+enigmatic role of RF in the disease.
+METHODS: IgM-RF and IgG-RF, as well as total levels of immunoglobulins of 
+different subclasses, were measured in sera from rats with pristane-induced 
+arthritis (PIA). The major gene regions were identified by linkage analysis of 
+genetically segregating crosses.
+RESULTS: The production of RF was found to correlate with development of 
+arthritis and to be higher in females than in males. Surprisingly, the 
+relatively arthritis-resistant E3 strain had higher levels of RF than the 
+arthritis-susceptible DA strain. In an (E3 x DA)F(2) cohort a major locus 
+controlling the levels of IgM-RF in serum was identified on chromosome 11 (Rf1) 
+and another on chromosome 16 (Rf3), and these were not related to arthritis 
+susceptibility. However, the Rf2 locus on chromosome 4 controlled IgG-RF levels, 
+IgG2a levels, and chronic arthritis in males (Pia5). Some previously defined 
+arthritis loci (Pia4, Pia6, Pia7, and Pia8) were found to also control 
+immunoglobulin levels in serum.
+CONCLUSION: RFs are produced in the rat PIA model and correlate with development 
+of arthritis. Gene regions controlling RF and serum immunoglobulin levels were 
+identified, of which some cosegregated with arthritis. This suggests a new focus 
+of study to elucidate the role of RF in the pathogenesis of arthritis.

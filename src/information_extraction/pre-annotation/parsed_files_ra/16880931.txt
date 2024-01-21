@@ -1,0 +1,16 @@
+Pseudomonas aeruginosa produces the quorum sensing signalling molecule 
+N-(3-oxododecanoyl)-L-homoserine lactone (OdDHL). This natural product not only 
+coordinates production of virulence factors by the bacterium, but also has 
+immunomodulatory effects on the host organism. Immunomodulatory small molecules 
+are valuable for immunology research and are potential therapeutics for 
+autoimmune diseases such as rheumatoid arthritis, and immunosuppressive drugs 
+following organ transplants. We describe the total synthesis of OdDHL using 
+solid-supported reagents and scavengers, which has the potential to be used for 
+automated analogue synthesis. OdDHL and four analogues were tested for their 
+ability to activate or inhibit release of the pro-inflammatory mediators tumour 
+necrosis factor alpha (TNFalpha) and nitric oxide (NO) from equine or murine 
+macrophages (immune cells). Two of the analogues showed substantial 
+immunomodulatory activity with these macrophages. One analogue showed differing 
+species selectivity, being a potent antagonist in mouse cells, but a partial 
+agonist in horse-derived macrophages. These compounds have the therapeutic 
+potential to be used for protecting animals from bacterial septic shock.

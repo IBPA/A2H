@@ -1,0 +1,17 @@
+Myeloid-derived suppressor cells (MDSCs) are of myeloid origin and are able to 
+suppress T cell responses. The role of MDSCs in autoimmune diseases remains 
+controversial, and little is known about the function of MDSCs in autoimmune 
+arthritis. In this study, we clarify that MDSCs play crucial roles in the 
+regulation of proinflammatory immune response in a collagen-induced arthritis 
+(CIA) mouse model. MDSCs accumulated in the spleens of mice with CIA when 
+arthritis severity peaked. These MDSCs inhibited the proliferation of CD4(+) T 
+cells and their differentiation into Th17 cells in vitro. Moreover, MDSCs 
+inhibited the production of IFN-γ, IL-2, TNF-α, and IL-6 by CD4(+) T cells in 
+vitro, whereas they promoted the production of IL-10. Adoptive transfer of MDSCs 
+reduced the severity of CIA in vivo, which was accompanied by a decrease in the 
+number of CD4(+) T cells and Th17 cells in the draining lymph nodes. However, 
+depletion of MDSCs abrogated the spontaneous improvement of CIA. In conclusion, 
+MDSCs in CIA suppress the progression of CIA by inhibiting the proinflammatory 
+immune response of CD4(+) T cells. These observations suggest that MDSCs play 
+crucial roles in the regulation of autoimmune arthritis, which could be 
+exploited in new cell-based therapies for human rheumatoid arthritis.

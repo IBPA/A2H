@@ -1,0 +1,18 @@
+Multiple sclerosis (MS) is a complex disorder of the central nervous system, 
+causing inflammation, demyelination and axonal damage. A limited number of 
+genetic risk factors for MS have been identified, but the etiology of the 
+disease remains largely unknown. For the identification of genes regulating 
+neuroinflammation we used a rat model of MS, myelin oligodendrocyte glycoprotein 
+(MOG)-induced experimental autoimmune encephalomyelitis (EAE), and carried out a 
+linkage analysis in an advanced intercross line (AIL). We thereby redefine the 
+Eae18b locus to a 0.88 Mb region, including a cluster of chemokine genes. 
+Further, we show differential expression of Ccl2, Ccl11 and Ccl11 during EAE in 
+rat strains with opposite susceptibility to EAE, regulated by genotype in 
+Eae18b. The human homologous genes were tested for association to MS in 3841 
+cases and 4046 controls from four Nordic countries. A haplotype in CCL2 and 
+rs3136682 in CCL1 show a protective association to MS, whereas a haplotype in 
+CCL13 is disease predisposing. In the HLA-DRB1* 15 positive subgroup, we also 
+identified an association to a risk haplotype in CCL2, suggesting an influence 
+from the human leukocyte antigen (HLA) locus. We further identified association 
+to rheumatoid arthritis in CCL2, CCL8 and CCL13, indicating common regulatory 
+mechanisms for complex diseases.

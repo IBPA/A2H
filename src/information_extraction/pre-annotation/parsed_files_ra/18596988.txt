@@ -1,0 +1,19 @@
+Rheumatoid arthritis (RA), a chronic and systemic autoimmune disease that leads 
+to progressive articular destruction, is evoked by the concerted action of 
+RA-related cells, such as T cells, synovial fibroblasts and macrophages. 
+Although anticytokine biologics block the intercellular signal transduction of 
+these RA-related cells and thereby exert a strong ameliorative effect on RA, 
+there still remains a significant percentage of nonresponsive patients. In 
+addition to these biologics that disrupt specific intercellular signals, 
+extracellular signal-regulated kinase (ERK) inhibitors, which are believed to 
+target the intracellular signals common to the diverse RA-related cells, are 
+also used as a treatment for RA patients, including those who are nonresponsive 
+to the anticytokine therapies. Recently, potent and selective inhibitors for ERK 
+with the co-crystal structures have been reported. FR180204, an ERK inhibitor, 
+has been shown to be effective against mouse collagen-induced arthritis, a 
+representative animal model of RA. This compound also suppresses the 
+antigen-specific activation of T cells, which play a central role in the 
+initiation and progress of the disease. Information obtained from the co-crystal 
+structures would contribute to the improvement of the chemical characteristics. 
+Thus, with the discovery of new potential chemical entities, ERK inhibitors may 
+emerge as a new therapeutic approach for the treatment of RA.

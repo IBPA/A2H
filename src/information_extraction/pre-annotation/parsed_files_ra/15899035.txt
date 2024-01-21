@@ -1,0 +1,28 @@
+Rat models are frequently used for finding genes contributing to the arthritis 
+phenotype. In most studies, however, limitations in the number of animals result 
+in a low resolution. As a result, the linkage between the autoimmune 
+experimental arthritis phenotype and the genomic region, that is, the 
+quantitative trait locus, can cover several hundred genes. The purpose of this 
+work was to facilitate the search for candidate genes in such regions by 
+introducing a web tool called Candidate Gene Capture (CGC) that takes advantage 
+of free text data on gene function. The CGC tool was developed by combining 
+genomic regions in the rat, associated with the autoimmune experimental 
+arthritis phenotype, with rat/human gene homology data, and with descriptions of 
+phenotypic gene effects and selected keywords. Each keyword was assigned a 
+value, which was used for ranking genes based on their description of phenotypic 
+gene effects. The application was implemented as a web-based tool and made 
+public at http://ratmap.org/cgc. The CGC application ranks gene candidates for 
+37 rat genomic regions associated with autoimmune experimental arthritis 
+phenotypes. To evaluate the CGC tool, the gene ranking in four regions was 
+compared with an independent manual evaluation. In these sample tests, there was 
+a full agreement between the manual ranking and the CGC ranking for the four 
+highest-ranked genes in each test, except for one single gene. This indicates 
+that the CGC tool creates a ranking very similar to that made by human 
+inspection. The exceptional gene, which was ranked as a gene candidate by the 
+CGC tool but not in the manual evaluation, was found to be closely associated 
+with rheumatoid arthritis in additional literature studies. Genes ranked by the 
+CGC tools as less likely gene candidates, as well as genes ranked low, were 
+generally rated in a similar manner to those done manually. Thus, to find genes 
+contributing to experimentally induced arthritis, we consider the CGC 
+application to be a helpful tool in facilitating the evaluation of large amounts 
+of textual information.

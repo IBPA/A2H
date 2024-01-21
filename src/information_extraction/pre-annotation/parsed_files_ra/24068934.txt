@@ -1,0 +1,18 @@
+Rheumatoid arthritis and periodontitis are two prevalent chronic inflammatory 
+diseases in humans and are associated with each other both clinically and 
+epidemiologically. Recent findings suggest a causative link between periodontal 
+infection and rheumatoid arthritis via bacteria-dependent induction of a 
+pathogenic autoimmune response to citrullinated epitopes. Here we showed that 
+infection with viable periodontal pathogen Porphyromonas gingivalis strain W83 
+exacerbated collagen-induced arthritis (CIA) in a mouse model, as manifested by 
+earlier onset, accelerated progression and enhanced severity of the disease, 
+including significantly increased bone and cartilage destruction. The ability of 
+P. gingivalis to augment CIA was dependent on the expression of a unique P. 
+gingivalis peptidylarginine deiminase (PPAD), which converts arginine residues 
+in proteins to citrulline. Infection with wild type P. gingivalis was 
+responsible for significantly increased levels of autoantibodies to collagen 
+type II and citrullinated epitopes as a PPAD-null mutant did not elicit similar 
+host response. High level of citrullinated proteins was also detected at the 
+site of infection with wild-type P. gingivalis. Together, these results suggest 
+bacterial PAD as the mechanistic link between P. gingivalis periodontal 
+infection and rheumatoid arthritis.

@@ -1,0 +1,22 @@
+The most commonly used animal model for rheumatoid arthritis (RA) is 
+collagen-induced arthritis (CIA), induced by immunization with type II collagen 
+(CII), a cartilage restricted protein. In this work we show that type XI 
+collagen (CXI), which is a minor component in cartilage, induces a different 
+form of erosive and chronic relapsing polyarthritis in rats. Using a series of 
+inbred rat strains involving various genetic backgrounds (DA, LEW, E3), and 
+congenic MHC regions (a, u, f, n, c, d), we found that CXI induced arthritis 
+(C(XI)IA) is associated with the RT1f haplotype in contrast to CII induced 
+arthritis (C(II)IA), which is associated with the RT1a and RT1u haplotypes. The 
+C(XI)IA follows a chronic disease course affecting peripheral joints with both 
+progression and relapses, which appear not to cease (occurring >800 days). 
+Susceptible strains showed a sustained antibody response to CXI with time 
+indicating that the autoimmune response was self-perpetuated. Microscopic 
+analysis of the joints at different stages demonstrated the severe destruction 
+of bone and cartilage by pannus tissue consisting of activated macrophages and T 
+cells. The main difference to joints from rats with C(II)IA was larger numbers 
+of infiltrating lymphocytes and these tended to form follicle-like aggregates. 
+Surprisingly, males were more susceptible to C(XI)IA than females whereas the 
+opposite has been observed in other rat arthritis models, including C(II)IA. 
+Taken together, C(XI)IA is a chronic relapsing and erosive polyarthritis that is 
+MHC associated, which in fact fulfills the criteria for diagnosis of RA. Thus 
+the C(XI)IA model will be useful as a novel and relevant animal model for RA.

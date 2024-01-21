@@ -1,0 +1,24 @@
+Dehydroepiandrosterone (DHEA) has attracted much interest because of its many 
+antiaging, metabolic and immune-modulating effects in rodents. Synthetic 
+derivatives, such as 5-androstene-16alpha-fluoro-17-one (HE2500) and certain 
+natural metabolites also provide benefit in various animal models of autoimmune 
+and metabolic diseases. But, like DHEA, low potency and low oral bioavailability 
+suggested limited usefulness of these compounds in humans. We hypothesized that 
+HE3286, a novel 17-ethynyl derivative would be orally bioavailable, more potent, 
+and chemically more useful in man than its parent compound. We found that on a 
+dose/mass basis, HE3286 demonstrated up to 25% oral bioavailability in mice. In 
+the DBA mouse model of collagen-induced arthritis (CIA), animals receiving oral 
+treatment with HE3286 (50 mg/kg), beginning at onset of disease, significantly 
+decreased CIA peak scores and daily severity of arthritis scores. Benefit was 
+associated with decreases in: (1) production of TNF-alpha, IL-6, and IL-17; and 
+(2) decreases in joint inflammation, erosion, and synovial proliferation as 
+judged by histological analysis. HE3286 was not found to be immune suppressive 
+in any of the classical models tested, including mitogen-induced proliferation, 
+delayed-type hypersensitivity, or mixed lymphocyte reaction. Instead, benefit 
+was associated with increases in numbers and function of CD4+CD25+FOXp3+CD127- 
+regulatory T cells (T reg). To our knowledge, this is probably the first study 
+to report that an orally bioavailable synthetic analogue of DHEA can ameliorate 
+ongoing disease in a CIA mouse model with relevance to rheumatoid arthritis (RA) 
+and to correlate that finding with decreases in proinflammatory cytokines and 
+increases in T reg cells. Hormones targeting T reg cells hold the intriguing 
+potential to treat autoimmune, infectious, and neoplastic diseases.

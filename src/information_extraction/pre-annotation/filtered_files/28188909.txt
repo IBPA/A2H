@@ -1,0 +1,15 @@
+Infliximab is therapeutic monoclonal antibody (mAb) against TNF-α employed in 
+the treatment of immunoinflammatory diseases. The development of biosimilar mAbs 
+is a global strategy to increase drug accessibility and reduce 
+therapy-associated costs. Herein we compared key physicochemical characteristics 
+and biological activities produced by infliximab and infliximab-Probiomed in 
+order to identify functionally relevant differences between the mAbs. Binding of 
+infliximab-Probiomed to TNF-α was specific and had kinetics comparable to that 
+of the reference product. Both mAbs had highly similar neutralizing efficacy in 
+HUVEC cell cultures stimulated with TNF-α. In vitro induction of CDC and ADCC 
+were also similar between the evaluated products. In vivo comparability was 
+assessed using a transgenic mouse model of arthritis that expresses human TNF-α 
+in a 13-week multiple-administration study. Infliximab and infliximab-Probiomed 
+showed comparable efficacy, safety, and pharmacokinetic profiles. Our results 
+indicate that infliximab-Probiomed has highly similar activities to infliximab 
+in preclinical models, warranting a clinical evaluation of its biosimilarity.

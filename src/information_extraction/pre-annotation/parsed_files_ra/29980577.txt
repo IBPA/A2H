@@ -1,0 +1,30 @@
+Tetraspanins function as membrane adaptors altering cell-cell fusion, antigen 
+presentation, receptor-mediated signal transduction and cell motility via 
+interaction with membrane proteins including other tetraspanins and adhesion 
+molecules such as integrins. CD82 is expressed in several malignant cells and 
+well described as tumour metastasis suppressor. Rheumatoid arthritis (RA) is 
+based on persistent synovial inflammation and joint destruction driven to a 
+large extent by transformed-appearing activated synovial fibroblasts (SF) with 
+an increased migratory potential.
+OBJECTIVE: CD82 is upregulated in RA synovial fibroblasts (RASF) compared with 
+osteoarthritis (OA) SF as well as within RA compared with OA synovial lining 
+layer (LL) and the role of CD82 in RASF was evaluated.
+METHODS: CD82 and integrin immunofluorescence was performed. Lentiviral CD82 
+overexpression and siRNA-mediated knockdown was confirmed (realtime-PCR, Western 
+blot, immunocytochemistry). RASF migration (Boyden chamber, scrape assay), 
+attachment towards plastic/Matrigel, RASF-binding to endothelial cells (EC) and 
+CD82 expression during long-term invasion in the SCID-mouse-model were 
+evaluated.
+RESULTS: CD82 was induced by proinflammatory stimuli in SF. In RA-synovium, CD82 
+was expressed in RASF close to blood vessels, LL, sites of cartilage invasion 
+and colocalised with distinct integrins involved in tumour metastasis 
+suppression but also in RA-synovium by RASF. CD82 overexpression led to reduced 
+RASF migration, cell-matrix and RASF-EC adhesion. Reduced CD82 expression 
+(observed in the sublining) increased RASF migration and matrix adhesion whereas 
+RASF-EC-interaction was reduced. In SCID mice, the presence of CD82 on 
+cartilage-invading RASF was confirmed.
+CONCLUSION: CD82 could contribute to RASF migration to sites of inflammation and 
+tissue damage, where CD82 keeps aggressive RASF on site.
+
+© Author(s) (or their employer(s)) 2018. No commercial re-use. See rights and 
+permissions. Published by BMJ.

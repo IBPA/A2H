@@ -1,0 +1,16 @@
+The risk of rheumatoid arthritis (RA), an autoimmune disease, in the elderly 
+population increases along with that of atherosclerosis, cardiovascular disease, 
+type 2 diabetes, and Alzheimer's disease. Identifying specific biomarkers for RA 
+can clarify the underlying molecular mechanisms and can aid diagnosis and 
+patient care. To this end, the present study investigated the genes and proteins 
+that are differentially expressed in RA using a mouse collagen-induced arthritis 
+(CIA) model. We performed gene microarray and proteome array analyses using 
+blood samples from the mice and found that 50 genes and 24 proteins were 
+upregulated and 48 genes were downregulated by more than 2-fold in the CIA model 
+relative to the control. The gene microarray and proteome array results were 
+validated by evaluating the expression levels of select genes and proteins by 
+real-time PCR and western blotting, respectively. We found that the level of 
+integrin α2, which has not been previously reported as a biomarker of RA, was 
+significantly increased in CIA mice as compared to controls. These findings 
+provide a set of novel biomarkers that can be useful for diagnosing and 
+evaluating the progression of RA.

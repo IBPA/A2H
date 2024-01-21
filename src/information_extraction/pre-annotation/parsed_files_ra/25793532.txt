@@ -1,0 +1,25 @@
+Traditional treatments, including a variety of thermal therapies have been known 
+since ancient times to provide relief from rheumatoid arthritis (RA) symptoms. 
+However, a general absence of information on how heating affects molecular or 
+immunological targets relevant to RA has limited heat treatment (HT) to the 
+category of treatments known as "alternative therapies". In this study, we 
+evaluated the effectiveness of mild HT in a collagen-induced arthritis (CIA) 
+model which has been used in many previous studies to evaluate newer 
+pharmacological approaches for the treatment of RA, and tested whether 
+inflammatory immune activity was altered. We also compared the effect of HT to 
+methotrexate, a well characterized pharmacological treatment for RA. CIA mice 
+were treated with either a single HT for several hours or daily 30 minute HT. 
+Disease progression and macrophage infiltration were evaluated. We found that 
+both HT regimens significantly reduced arthritis disease severity and macrophage 
+infiltration into inflamed joints. Surprisingly, HT was as efficient as 
+methotrexate in controlling disease progression. At the molecular level, HT 
+suppressed TNF-α while increasing production of IL-10. We also observed an 
+induction of HSP70 and a reduction in both NF-κB and HIF-1α in inflamed tissues. 
+Additionally, using activated macrophages in vitro, we found that HT reduced 
+production of pro-inflammatory cytokines, an effect which is correlated to 
+induction of HSF-1 and HSP70 and inhibition of NF-κB and STAT activation. Our 
+findings demonstrate a significant therapeutic benefit of HT in controlling 
+arthritis progression in a clinically relevant mouse model, with an efficacy 
+similar to methotrexate. Mechanistically, HT targets highly relevant 
+anti-inflammatory pathways which strongly support its increased study for use in 
+clinical trials for RA.

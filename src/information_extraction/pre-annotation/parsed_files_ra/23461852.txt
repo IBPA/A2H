@@ -1,0 +1,26 @@
+Sirolimus is an immunosupressive drug that specifically inhibit the activation 
+of T-lymphocytes. This study was undertaken to investigate whether treatment 
+with sirolimus exert analgesic effect in rat adjuvant-induced arthritis, an 
+animal model of rheumatoid arthritis. Arthritis was induced by a single 
+subcutaneous injection of Freund's complete adjuvant to male Wistar rats that 
+were divided into four groups; control (saline), vehicle (ethanol), sirolimus 
+0.75 and sirolimus 1.5. Sirolimus (0.75 and 1.5mg/kg/day) was administered 
+intraperitoneally using Monday-Wednesday-Friday dosing schedule for 29 days, 
+this dosing regimen revealed acceptable trough blood concentrations in arthritic 
+rats. Adjuvant inoculation resulted in paw inflammation, hyperalgesia and 
+allodynia as assessed by pletismometer, analgesymeter and dynamic plantar 
+aesthesiometer respectively. Light microscopic evaluation of the arthritic 
+metacarpophalangeal joints revealed synovial hypertrophy with inflammatory 
+cellular infiltration, cartilage destruction and partial subchondral bone 
+resorption. ELISA tests of serum TNF-α, IL-1β or IL-6 did not show any change in 
+arthritic rats, while Western blotting analysis revealed a significant increase 
+in TNF-α (P<0.001), but not IL-1β or IL-6, protein expression in the lumbar 
+spinal cord of arthritic rats. Treatment with sirolimus significantly decreased 
+the arthritic lesions (P<0.001) and paw swelling (P<0.05), alleviated the 
+histological features in the metacarpophalangeal joint, resulted in 
+antihyperalgesic and antiallodynic effects without affecting the locomotor 
+activity and prevented the increased spinal cord TNF-α level (P<0.05). It seems 
+that prevention of the increased TNF-α expression in the spinal cord may 
+partially contribute to the antihyperalgesic effect of sirolimus in adjuvant 
+arthritic rats and sirolimus could be a promising immunosupressive agent in the 
+treatment of arthritic pain.

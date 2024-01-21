@@ -1,0 +1,27 @@
+15-deoxy-Δ(12,14)-prostaglandin J2 (15d-PGJ2) is an anti-inflammatory downstream 
+product of the cyclooxygenase enzymes. It has been implicated to play a 
+protective role in a variety of inflammatory mediated diseases, including 
+rheumatoid arthritis, neural damage, and myocardial infarctions. Here we show 
+that 15d-PGJ2 also plays a role in Salmonella infection. Salmonella enterica 
+Typhimurium is a Gram-negative facultative intracellular pathogen that is able 
+to survive and replicate inside phagocytic immune cells, allowing for bacterial 
+dissemination to systemic sites. Salmonella species cause a wide range of 
+morbidity and mortality due to gastroenteritis and typhoid fever. Previously we 
+have shown that in mouse models of typhoid fever, Salmonella infection causes a 
+major perturbation in the prostaglandin pathway. Specifically, we saw that 
+15d-PGJ2 production was significantly increased in both liver and feces. In this 
+work we show that 15d-PGJ2 production is also significantly increased in 
+macrophages infected with Salmonella. Furthermore, we show that the addition of 
+15d-PGJ2 to Salmonella infected RAW264.7, J774, and bone marrow derived 
+macrophages is sufficient to significantly reduce bacterial colonization. We 
+also show evidence that 15d-PGJ2 is reducing bacterial uptake by macrophages. 
+15d-PGJ2 reduces the inflammatory response of these infected macrophages, as 
+evidenced by a reduction in the production of cytokines and reactive nitrogen 
+species. The inflammatory response of the macrophage is important for full 
+Salmonella virulence, as it can give the bacteria cues for virulence. The 
+reduction in bacterial colonization is independent of the expression of 
+Salmonella virulence genes SPI1 and SPI2, and is independent of the 15d-PGJ2 
+ligand PPAR-γ. 15d-PGJ2 also causes an increase in ERK1/2 phosphorylation in 
+infected macrophages. In conclusion, we show here that 15d-PGJ2 mediates the 
+outcome of bacterial infection, a previously unidentified role for this 
+prostaglandin.

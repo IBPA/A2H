@@ -1,0 +1,6 @@
+We evaluated the operating characteristics of 2 comparably trained dogs as a 
+"point-of-care" diagnostic tool to detect toxin gene-positive Clostridium 
+difficile. Although each dog could detect toxin gene-positive C difficile in 
+stool specimens with sensitivities of 77.6 and 92.6 and specificities of 85.1 
+and 84.5, respectively, interrater reliability is only modest (Cohen's kappa 
+0.52), limiting widespread application.

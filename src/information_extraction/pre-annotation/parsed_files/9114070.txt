@@ -1,0 +1,23 @@
+Previously we reported that pretreatment of rats with the substance P (SP) 
+antagonist CP-96,345 inhibits the enterotoxic responses following administration 
+of toxin A from Clostridium difficile into ileal loops, indicating that SP 
+participates in the intestinal responses to this toxin. We now report that 
+injection of toxin A into rat ileum causes a rapid increase in SP content in 
+lumbar dorsal root ganglia (DRG) and mucosal scrapings 30-60 min after toxin A 
+administration. Toxin A-mediated fluid secretion, mannitol permeability, and 
+ileal histologic damage is significantly increased only after 2 hr. Toxin A also 
+causes an increase in the abundance of SP mRNA in lumbar DRG and ileal mucosa as 
+measured by reverse transcription-PCR. Lamina propria macrophages (LPMs) 
+obtained from toxin A-injected loops release greater amounts of tumor necrosis 
+factor alpha (TNFalpha) and SP as compared with LPMs isolated from 
+buffer-injected loops (P < 0.01). Pretreatment of rats with the SP antagonist 
+CP-96,345 inhibits toxin A-mediated TNFalpha release from isolated LPMs, whereas 
+an inactive enantiomer (CP-96,344) of the SP antagonist has no effect. LPMs 
+obtained from toxin A-injected ileal loops incubated in vitro with SP (10(-8) to 
+10(-9) M) show enhanced TNFalpha secretion, whereas LPMs isolated from 
+buffer-injected loops do not respond to SP. In addition, LPMs obtained from 
+toxin A-injected ileal loops incubated in vitro with CP-96,345 showed a 
+diminished TNFalpha release. Our results indicate that activated LPMs secrete SP 
+during toxin A enteritis that can lead to secretion of cytokines, suggesting an 
+autocrine/paracrine regulation of cytokine secretion by SP from LPMs during 
+intestinal inflammation.

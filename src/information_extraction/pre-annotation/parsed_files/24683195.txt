@@ -1,0 +1,18 @@
+The incidence of Clostridium difficile infection (CDI) and associated mortality 
+have increased rapidly worldwide in recent years. Therefore, it is critical to 
+develop new therapies for CDI. In this study, we generated a novel, potently 
+neutralizing, tetravalent, and bispecific antibody composed of 2 
+heavy-chain-only VH (VHH) binding domains against both TcdA and TcdB (designated 
+"ABA") that reverses fulminant CDI in mice infected with an epidemic 027 strain 
+after a single injection of the antibody. We demonstrated that ABA bound to both 
+toxins simultaneously and displayed a significantly enhanced neutralizing 
+activity both in vitro and in vivo. Additionally, ABA was able to broadly 
+neutralize toxins from clinical C. difficile isolates that express both TcdA and 
+TcdB but failed to neutralize the toxin from TcdA(-)TcdB(+) C. difficile 
+strains. This study thus provides a rationale for the development of multivalent 
+VHHs that target both toxins and are broadly neutralizing for treating severe 
+CDI.
+
+© The Author 2014. Published by Oxford University Press on behalf of the 
+Infectious Diseases Society of America. All rights reserved. For Permissions, 
+please e-mail: journals.permissions@oup.com.

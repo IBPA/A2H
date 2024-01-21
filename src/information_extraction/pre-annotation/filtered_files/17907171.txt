@@ -1,0 +1,29 @@
+OBJECTIVE: In postmenopausal rheumatoid arthritis (RA), both estrogen deficiency 
+and the inflammatory disease contribute to the development of generalized 
+osteoporosis. Hormone replacement therapy (HRT) with estradiol preserves bone 
+mineral density (BMD) and ameliorates arthritis, but long-term therapy is no 
+longer an option due to significant side effects. We therefore used a mouse 
+model of human RA to test the hypothesis that a selective estrogen receptor 
+modulator (SERM), the raloxifene analog LY117018, could be beneficial in the 
+treatment of both arthritis and osteoporosis.
+METHODS: Female DBA/1 mice were ovariectomized and arthritis was induced with 
+collagen immunization. Mice received an injection of raloxifene, estradiol, or 
+vehicle control, administered prophylactically or therapeutically, and 
+thereafter the clinical arthritis score was evaluated continuously. At 
+termination, BMD was analyzed with peripheral quantitative computed tomography. 
+Paws were collected for histology, and sera were analyzed for cytokines and 
+markers of bone and cartilage turnover. Levels of cytokine messenger RNA (mRNA) 
+were investigated with real-time polymerase chain reaction.
+RESULTS: Treatment with raloxifene dramatically decreased the frequency and 
+severity of arthritis. Effective preservation of bone and cartilage was seen in 
+raloxifene-exposed mice, as demonstrated by increased BMD and decreased serum 
+levels of cartilage oligomeric matrix protein in the raloxifene-treated mice 
+compared with controls. Decreased levels of mRNA for both tumor necrosis factor 
+alpha and RANKL in spleen cells from raloxifene-treated arthritic mice indicated 
+an immunosuppressive action of this SERM.
+CONCLUSION: In a well-established model of postmenopausal RA, the raloxifene 
+analog LY117018 potently inhibits the progression of arthritis and the 
+associated development of osteoporosis, both in a prophylactic and in a 
+therapeutic regimen. Since long-term HRT has been associated with significant 
+side effects, raloxifene may be a useful adjuvant treatment for postmenopausal 
+RA.

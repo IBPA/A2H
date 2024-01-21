@@ -1,0 +1,30 @@
+Colorectal carcinogenesis is a multistep process involving genetic mutations and 
+alterations in rigorously controlled signaling pathways and gene expression that 
+control intestinal epithelial cell proliferation, differentiation, and 
+apoptosis. Cyclooxygenase-2 (COX-2) is aberrantly expressed in premalignant 
+adenomatous polyps and colorectal carcinomas and is associated with increased 
+epithelial cell proliferation, decreased apoptosis, and increased cell 
+invasiveness. Currently, knowledge of the regulation of expression of COX-2 by 
+endogenous cell-surface receptors is inadequate. Recently, in a non-transformed 
+rat intestinal epithelial cell line (IEC-18), we showed induction of cell 
+proliferation and DNA synthesis by angiotensin II (Ang II) via the endogenous 
+Ang II type 1 receptor (Chiu, T., Santiskulvong, C., and Rozengurt, E. (2003) 
+Am. J. Physiol. 285, G1-G11). We report that Ang II potently stimulated 
+expression of COX-2 mRNA and protein as an immediate-early gene response through 
+the Ang II type 1 receptor, correlating with an increase in prostaglandin I2 
+production. Ang II induced Cdc42 activation and filopodial formation. COX-2 
+expression was induced by epidermal growth factor (EGF), which activated Rac 
+with lamellipodial formation. Inhibition of small GTPases by Clostridium 
+difficile toxin B blocked COX-2 expression by Ang II and EGF. Inhibition of ERK 
+activation by U0126 or PD98059 significantly decreased EGF-dependent COX-2 
+expression, but did not affect Ang II-dependent COX-2 expression. Conversely, 
+inhibition of p38MAPK by SB202190 or PD169316 inhibited COX-2 expression by Ang 
+II, but did not block COX-2 induction by EGF. Ang II caused Ca2+ mobilization. 
+Inhibition of Ca2+ signaling by 2-aminobiphenyl borate blocked Ang II-dependent 
+COX-2 expression. EGF did not induce Ca2+ mobilization, and 2-aminobiphenyl 
+borate did not inhibit EGF-dependent COX-2 expression. Inhibition of COX-2 
+expression correlated with inhibition of prostaglandin I2 production. Luciferase 
+promoter assays showed that Ang II-dependent transcriptional activation of the 
+COX-2 promoter was dependent on activation of small GTPases and p38(MAPK) and on 
+Ca2+ signaling via the cAMP-responsive element/activating transcription factor 
+cis-acting element.

@@ -1,0 +1,30 @@
+OBJECTIVE: Antibodies directed to citrulline-containing proteins are highly 
+specific for rheumatoid arthritis (RA) and can be detected in up to 80% of 
+patients with RA. Citrulline is a nonstandard amino acid that can be 
+incorporated into proteins only by posttranslational modification of arginine by 
+peptidylarginine deiminase (PAD) enzymes. The objective of this study was to 
+investigate the presence of anticitrulline antibodies, PAD enzymes, and 
+citrullinated antigens in mouse models of both acute and chronic destructive 
+arthritis: streptococcal cell wall (SCW)-induced arthritis and collagen-induced 
+arthritis (CIA), respectively.
+METHODS: Synovial tissue biopsy specimens were obtained from naive mice, mice 
+with CIA, and mice with SCW-induced arthritis. The expression of messenger RNA 
+(mRNA) for PAD enzymes was analyzed by reverse transcriptase-polymerase chain 
+reaction; the presence of PAD proteins and their products (citrullinated 
+proteins) was analyzed by Western blotting and by immunolocalization. The 
+presence of anticitrullinated protein antibodies was investigated by an 
+anti-cyclic citrullinated peptide (anti-CCP) enzyme-linked immunosorbent assay 
+(ELISA) and an ELISA using in vitro citrullinated fibrinogen.
+RESULTS: In both mouse models, PAD type 2 (PAD2) mRNA was present in the 
+synovium but was not translated into PAD2 protein. In contrast, PAD4 mRNA, 
+although absent from healthy synovium, was readily transcribed and translated by 
+polymorphonuclear neutrophils infiltrating the synovial tissue during 
+inflammation. As a consequence, several synovial proteins were subjected to 
+citrullination. One of these proteins was identified as fibrin, which has been 
+reported to be citrullinated also in synovium of patients with RA. Although 
+generation of citrullinated antigens during synovial inflammation in the mice 
+was eminent, no anti-CCP antibodies could be detected.
+CONCLUSION: Citrullination of synovial antigens is an active process during 
+joint inflammation in both mice and humans, but the induction of autoantibodies 
+directed to these proteins is a more specific phenomenon, detectable only in 
+human RA patients.

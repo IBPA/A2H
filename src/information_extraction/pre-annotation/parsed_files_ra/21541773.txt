@@ -1,0 +1,18 @@
+Rheumatoid arthritis (RA) is an inflammatory joint disorder whose progression 
+leads to the destruction of cartilage and bone. Although low-level laser 
+irradiation (LLLI) is currently being evaluated for the treatment of RA, the 
+molecular mechanisms underlying its effectiveness remain unclear. To investigate 
+possible LLLI-mediated antiinflammatory effects, we utilized a collagen-induced 
+arthritis (CIA) rat model and analyzed gene expression profiles in the synovial 
+membranes of the knee joint. Total RNA was isolated from the synovial membrane 
+tissue of the joints of untreated CIA rats or CIA rats treated with LLLI (830 nm 
+Ga-Al-As diode), and gene expression profiles were analyzed by DNA microarray 
+(41,000 rat genes), coupled with Ingenuity pathways analysis (IPA). DNA 
+microarray analysis showed that CCL2 gene expression was increased in CIA 
+tissue, and that LLLI treatment significantly decreased CIA-induced CCL2 mRNA 
+levels. IPA revealed that chemokine signal pathways were involved in the 
+activation of CCL2 production. These microarray data were further validated 
+using real-time PCR and reverse transcription PCR. Immunohistochemistry 
+confirmed that CCL2 production was decreased in CIA rats treated with LLLI. 
+These findings suggest that decreased CCL2 expression may be one of the 
+mechanisms involved in LLLI-mediated RA inflammation reduction.

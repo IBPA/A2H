@@ -1,0 +1,21 @@
+FcepsilonRI signaling in rat basophilic leukemia cells depends on 
+phosphatidylinositol 3-kinase (PI3-kinase) and the small GTPase Rac. Here, we 
+studied the functional relationship among PI3-kinase, its effector protein 
+kinase B (PKB), and Rac using inhibitors of PI3-kinase and toxins inhibiting 
+Rac. Wortmannin, an inhibitor of PI3-kinase, blocked FcepsilonRI-mediated 
+tyrosine phosphorylation of phospholipase Cgamma, inositol phosphate formation, 
+calcium mobilization, and secretion of hexosaminidase. Similarly, Clostridium 
+difficile toxin B, which inactivates all Rho GTPases including Rho, Rac and 
+Cdc42, and Clostridium sordellii lethal toxin, which inhibits Rac (possibly 
+Cdc42) but not Rho, blocked these responses. Stimulation of the FcepsilonRI 
+receptor induced a rapid increase in the GTP-bound form of Rac. Whereas toxin B 
+inhibited the Rac activation, PI3-kinase inhibitors (wortmannin and LY294002) 
+had no effect on activation of Rac. In line with this, wortmannin had no effect 
+on tyrosine phosphorylation of the guanine nucleotide exchange factor Vav. 
+Wortmannin, toxin B, and lethal toxin inhibited phosphorylation of PKB on 
+Ser(473). Similarly, translocation of the pleckstrin homology domain of PKB 
+tagged with the green fluorescent protein to the membrane, which was induced by 
+activation of the FcepsilonRI receptor, was blocked by inhibitors of PI3-kinase 
+and Rac inactivation. Our results indicate that in rat basophilic leukemia cells 
+Rac and PI3-kinase regulate PKB and suggest that Rac is functionally located 
+upstream and/or parallel of PI3-kinase/PKB in FcepsilonRI signaling.

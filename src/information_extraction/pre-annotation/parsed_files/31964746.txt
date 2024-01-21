@@ -1,0 +1,23 @@
+The complex bacterial populations that constitute the gut microbiota can harbor 
+antibiotic resistance genes (ARGs), including those encoding β-lactamase enzymes 
+(BLA), which degrade commonly prescribed antibiotics such as ampicillin. The 
+prevalence of such genes in commensal bacteria has been increased in recent 
+years by the wide use of antibiotics in human populations and in livestock. 
+While transfer of ARGs between bacterial species has well-established dramatic 
+public health implications, these genes can also function in trans within 
+bacterial consortia, where antibiotic-resistant bacteria can provide 
+antibiotic-sensitive neighbors with leaky protection from drugs, as shown both 
+in vitro and in vivo, in models of lung and subcutaneous coinfection. However, 
+whether the expression of ARGs by harmless commensal bacterial species can 
+destroy antibiotics in the intestinal lumen and shield antibiotic-sensitive 
+pathogens is unknown. To address this question, we colonized germfree or 
+wild-type mice with a model intestinal commensal strain of Escherichia coli that 
+produces either functional or defective BLA. Mice were subsequently infected 
+with Listeria monocytogenes or Clostridioides difficile, followed by treatment 
+with oral ampicillin. The production of functional BLA by commensal E. coli 
+markedly reduced clearance of these pathogens and enhanced systemic 
+dissemination during ampicillin treatment. Pathogen resistance was independent 
+of ARG acquisition via horizontal gene transfer but instead relied on antibiotic 
+degradation in the intestinal lumen by BLA. We conclude that commensal bacteria 
+that have acquired ARGs can mediate shielding of pathogens from the bactericidal 
+effects of antibiotics.

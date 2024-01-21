@@ -1,0 +1,23 @@
+Autoreactive B cells are associated with the development of several autoimmune 
+diseases, including systemic lupus erythematosus and rheumatoid arthritis. The 
+low frequency of these cells represents a major barrier to their analysis. Ag 
+tetramers prepared from linear epitopes represent a promising strategy for the 
+identification of small subsets of Ag-reactive immune cells. This is challenging 
+given the requirement for identification and validation of linear epitopes and 
+the complexity of autoantibody responses, including the broad spectrum of 
+autoantibody specificities and the contribution of isotype to pathogenicity. 
+Therefore, we tested a two-tiered peptide microarray approach, coupled with 
+epitope mapping of known autoantigens, to identify and characterize autoepitopes 
+using the BXD2 autoimmune mouse model. Microarray results were verified through 
+comparison with established age-associated profiles of autoantigen specificities 
+and autoantibody class switching in BXD2 and control (C57BL/6) mice and 
+high-throughput ELISA and ELISPOT analyses of synthetic peptides. Tetramers were 
+prepared from two linear peptides derived from two RNA-binding proteins (RBPs): 
+lupus La and 70-kDa U1 small nuclear ribonucleoprotein. Flow cytometric analysis 
+of tetramer-reactive B cell subsets revealed a significantly higher frequency 
+and greater numbers of RBP-reactive marginal zone precursor, transitional T3, 
+and PDL-2(+)CD80(+) memory B cells, with significantly elevated CD69 and CD86 
+observed in RBP(+) marginal zone precursor B cells in the spleens of BXD2 mice 
+compared with C57BL/6 mice, suggesting a regulatory defect. This study 
+establishes a feasible strategy for the characterization of autoantigen-specific 
+B cell subsets in different models of autoimmunity and, potentially, in humans.

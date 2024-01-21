@@ -1,0 +1,21 @@
+Squalene is a cholesterol precursor, which stimulates the immune system 
+nonspecifically. We demonstrate that one intradermal injection of this adjuvant 
+lipid can induce joint-specific inflammation in arthritis-prone DA rats. 
+Histopathological and immunohistochemical analyses revealed erosion of bone and 
+cartilage, and that development of polyarthritis coincided with infiltration of 
+alphabeta(+) T cells. Depletion of these cells with anti-alphabeta TcR 
+monoclonal antibody (R73) resulted in complete recovery, whereas anti-CD8 and 
+anti-gammadelta TcR injections were ineffective. The apparent dependence on 
+CD4(+) T cells suggested a role for genes within the major histocompatibility 
+complex (MHC), and this was concluded from comparative studies of MHC congenic 
+rat strains, in which DA.1H rats were less susceptible than DA rats. 
+Furthermore, LEW.1AV1 and PVG.1AV1 rats with MHC identical to DA rats were 
+arthritis-resistant, demonstrating that non-MHC genes also determine 
+susceptibility. Some of these genetic influences could be linked to previously 
+described arthritis susceptibility loci in an F2 intercross between DA and 
+LEW.1AV1 rats (ie, Cia3, Oia2 and Cia5). Interestingly, some F2 hybrid rats 
+developed chronic arthritis, a phenotype not apparent in the parental inbred 
+strains. Our demonstration that an autoadjuvant can trigger chronic, 
+immune-mediated joint-specific inflammation may give clues to the pathogenesis 
+of rheumatoid arthritis, and it raises new questions concerning the role of 
+endogenous molecules with adjuvant properties in chronic inflammatory diseases.

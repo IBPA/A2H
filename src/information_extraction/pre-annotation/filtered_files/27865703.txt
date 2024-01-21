@@ -1,0 +1,14 @@
+The discovery and SAR of potent, selective dioxane-fused tricyclic 
+benz[d]imidazole derivatives as mPGES-1 inhibitor are herein described. Various 
+amide modifications in this series afforded many potent mPGES-1 inhibitors, of 
+which 17d proved to be suitable for further profiling in vivo. Compound 17d 
+{2-((2-chloro-6-fluorophenyl)amino)-N-(3-fluoro-5-(trifluoromethyl)phenyl)-1-methyl-7,8-dihydro-1H-[1,4]dioxino[2',3':3,4]benzo[1,2-d]imidazole-5-carboxamide} 
+exhibited excellent mPGES-1 enzyme (IC50: 8nM), cell (A549 IC50: 16.24nM) and 
+human whole blood potency (IC50: 249.9nM). In rodent species, 17d strongly 
+inhibited guinea pig mPGES-1 (IC50: 10.79nM), but not the rat and mouse enzyme. 
+Furthermore 17d displayed excellent in vitro selectivity over mPGES-2, cPGES, 
+COX-enzymes (COX-1, 2), selectivity against other prostanoid synthases, 
+favorable hERG and CEREP panel profile. Likewise, our lead 17d demonstrated good 
+oral pharmacokinetic profiles and good CNS B/P ratio in rat and guinea pig. Lead 
+17d also unveiled good efficacy in LPS-induced thermal hyperalgesia pain model 
+with ED50 of 36.7mg/kg, respectively.

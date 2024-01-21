@@ -1,0 +1,24 @@
+Cardiovascular events are important co-morbidities in patients with chronic 
+inflammatory diseases like rheumatoid arthritis. Tristetraprolin (TTP) regulates 
+pro-inflammatory processes through mRNA destabilization and therefore 
+TTP-deficient mice (TTP(-/-) mice) develop a chronic inflammation resembling 
+human rheumatoid arthritis. We used this mouse model to evaluate molecular 
+signaling pathways contributing to the enhanced atherosclerotic risk in chronic 
+inflammatory diseases. In the aorta of TTP(-/-) mice we observed elevated mRNA 
+expression of known TTP targets like tumor necrosis factor-α (TNF-α) and 
+macrophage inflammatory protein-1α, as well as of other pro-atherosclerotic 
+mediators, like Calgranulin A, Cathepsin S, and Osteopontin. Independent of 
+cholesterol levels TTP(-/-) mice showed a significant reduction of 
+acetylcholine-induced, nitric oxide-mediated vasorelaxation. The endothelial 
+dysfunction in TTP(-/-) mice was associated with increased levels of reactive 
+oxygen and nitrogen species (RONS), indicating an enhanced nitric oxide 
+inactivation by RONS in the TTP(-/-) animals. The altered RONS generation 
+correlates with increased expression of NADPH oxidase 2 (Nox2) resulting from 
+enhanced Nox2 mRNA stability. Although TNF-α is believed to be a central 
+mediator of inflammation-driven atherosclerosis, genetic inactivation of TNF-α 
+neither improved endothelial function nor normalized Nox2 expression or RONS 
+production in TTP(-/-) animals. Systemic inflammation caused by TTP deficiency 
+leads to endothelial dysfunction. This process is independent of cholesterol and 
+not mediated by TNF-α solely. Thus, other mediators, which need to be 
+identified, contribute to enhanced cardiovascular risk in chronic inflammatory 
+diseases.

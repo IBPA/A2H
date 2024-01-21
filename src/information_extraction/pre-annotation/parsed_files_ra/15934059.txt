@@ -1,0 +1,25 @@
+OBJECTIVE: To investigate the effects of combination therapy with M40403, a 
+superoxide dismutase mimetic (SODm), and dexamethasone (DEX) on collagen-induced 
+arthritis (CIA) in rats.
+METHODS: CIA was elicited in Lewis rats by an intradermal injection of 100 mul 
+of an emulsion of bovine type II collagen (CII) in Freund's incomplete adjuvant 
+(IFA) at the base of the tail. On day 21, a second injection of CII in IFA was 
+administered at the base of the tail.
+RESULTS: Lewis rats developed erosive arthritis of the hind paw when immunized 
+with an emulsion of CII in IFA. The histopathology of CIA included erosion of 
+the articular cartilage at the joint margins and subchondral bone resorption. 
+Immunohistochemical analysis for nitrotyrosine, poly(ADP-ribose) polymerase 
+(PARP), inducible nitric oxide synthase (iNOS), and cyclooxygenase 2 (COX-2) 
+revealed positive staining in inflamed joints of collagen-treated rats. The 
+combination therapy with M40403 2 mg/kg and DEX 0.01 mg/kg significantly reduced 
+the development of the inflammatory process and reduced the degree of staining 
+for iNOS, COX-2, nitrotyrosine, and PARP. No significant difference in the 
+degree of staining between the combination therapy and the higher dose of DEX 
+(0.1 mg/kg) was found. Furthermore, radiographic evidence of protection from 
+bone resorption was apparent in the tibiotarsal joints of rats that received the 
+combination therapy.
+CONCLUSION: This study shows that combination therapy with M40403 and DEX 
+reduced the degree of chronic inflammation and tissue and bone damage associated 
+with CIA in the rat. It supports the possible use of SODm in combination with 
+steroids to reduce the dose necessary and the side effects related to the use of 
+steroids in the management of chronic diseases such as rheumatoid arthritis.

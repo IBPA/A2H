@@ -1,0 +1,18 @@
+For the human pathogen Clostridioides (also known as Clostridium) difficile, the 
+ability to adapt to nutrient availability is critical for its proliferation and 
+production of toxins during infection. Synthesis of the toxins is regulated by 
+the availability of certain carbon sources, fermentation products and amino 
+acids (e.g. proline, cysteine, isoleucine, leucine and valine). The effect of 
+proline is attributable at least in part to its role as an inducer and substrate 
+of D-proline reductase (PR), a Stickland reaction that regenerates NAD+ from 
+NADH. Many Clostridium spp. use Stickland metabolism (co-fermentation of pairs 
+of amino acids) to generate ATP and NAD+ . Synthesis of PR is activated by PrdR, 
+a proline-responsive regulatory protein. Here we report that PrdR, in the 
+presence of proline, represses other NAD+ -generating pathways, such as the 
+glycine reductase and succinate-acetyl CoA utilization pathways leading to 
+butyrate production, but does so indirectly by affecting the activity of Rex, a 
+global redox-sensing regulator that responds to the NAD+ /NADH ratio. Our 
+results indicate that PR activity is the favored mechanism for NAD+ regeneration 
+and that both Rex and PrdR influence toxin production. Using the hamster model 
+of C. difficile infection, we revealed the importance of PrdR-regulated 
+Stickland metabolism in the virulence of C. difficile.

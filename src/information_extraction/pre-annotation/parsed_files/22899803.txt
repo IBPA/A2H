@@ -1,0 +1,27 @@
+OBJECTIVES: To evaluate the relative propensities of oritavancin and vancomycin 
+to induce Clostridium difficile infection (CDI) in hamster and in vitro human 
+gut models.
+METHODS: Hamsters received clindamycin (100 mg/kg orally or subcutaneously), 
+oritavancin (50 mg/kg orally) or vancomycin (50 mg/kg orally). C. difficile 
+spores were administered orally the next day. Control hamsters received vehicle 
+only (polyethylene glycol 400) plus spores or clindamycin but no spores. 
+Hamsters were monitored for clinical signs for 20 days. Caecal contents were 
+analysed for C. difficile cells, spores and the presence of (cyto)toxin. 
+Oritavancin and vancomycin were instilled over 7 days into separate in vitro gut 
+models primed with pooled human faeces and inoculated with C. difficile ribotype 
+027 spores. Gut flora, C. difficile total viable and spore counts, toxin titres 
+and antimicrobial concentrations were determined.
+RESULTS: All hamsters treated with oritavancin survived up to 20 days, with no 
+evidence of C. difficile spores, vegetative cells or toxin in their caeca. No 
+hamsters treated with clindamycin or vancomycin survived >6 days after spore 
+administration. Death was associated with high C. difficile counts and toxin in 
+caecal contents. In the gut model, oritavancin dosing elicited a rapid, marked 
+decrease in total viable C. difficile and spore counts to below the limit of 
+detection. Vancomycin did not elicit germination or toxin production in the gut 
+model, but C. difficile remained present as spores throughout.
+CONCLUSIONS: Oritavancin exposure, unlike exposure to vancomycin or clindamycin, 
+did not lead to CDI in hamsters. In both models, oritavancin reduced C. 
+difficile total counts and spores to below detectable limits. The data indicate 
+the potential of oritavancin for CDI treatment, since exposure did not induce C. 
+difficile germination and toxin production, which are known to exacerbate the 
+disease state.

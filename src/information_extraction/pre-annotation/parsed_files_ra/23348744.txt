@@ -1,0 +1,18 @@
+iRHOM2, encoded by the gene Rhbdf2, regulates the maturation of the TNF-α 
+convertase (TACE), which controls shedding of TNF-α and its biological activity 
+in vivo. TACE is a potential target to treat TNF-α-dependent diseases, such as 
+rheumatoid arthritis, but there are concerns about potential side effects, 
+because TACE also protects the skin and intestinal barrier by activating EGFR 
+signaling. Here we report that inactivation of Rhbdf2 allows tissue-specific 
+regulation of TACE by selectively preventing its maturation in immune cells, 
+without affecting its homeostatic functions in other tissues. The related 
+iRHOM1, which is widely expressed, except in hematopoietic cells, supported TACE 
+maturation and shedding of the EGFR ligand TGF-α in Rhbdf2-deficient cells. 
+Remarkably, mice lacking Rhbdf2 were protected from K/BxN inflammatory arthritis 
+to the same extent as mice lacking TACE in myeloid cells or Tnfa-deficient mice. 
+In probing the underlying mechanism, we found that two main drivers of K/BxN 
+arthritis, complement C5a and immune complexes, stimulated iRHOM2/TACE-dependent 
+shedding of TNF-α in mouse and human cells. These data demonstrate that iRHOM2 
+and myeloid-expressed TACE play a critical role in inflammatory arthritis and 
+indicate that iRHOM2 is a potential therapeutic target for selective 
+inactivation of TACE in myeloid cells.

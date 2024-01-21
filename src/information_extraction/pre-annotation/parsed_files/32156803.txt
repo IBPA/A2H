@@ -1,0 +1,36 @@
+Clostridioides difficile is an important nosocomial pathogen that causes 
+approximately 500,000 cases of C. difficile infection (CDI) and 29,000 deaths 
+annually in the United States. Antibiotic use is a major risk factor for CDI 
+because broad-spectrum antimicrobials disrupt the indigenous gut microbiota, 
+decreasing colonization resistance against C. difficile Vancomycin is the 
+standard of care for the treatment of CDI, likely contributing to the high 
+recurrence rates due to the continued disruption of the gut microbiota. Thus, 
+there is an urgent need for the development of novel therapeutics that can 
+prevent and treat CDI and precisely target the pathogen without disrupting the 
+gut microbiota. Here, we show that the endogenous type I-B CRISPR-Cas system in 
+C. difficile can be repurposed as an antimicrobial agent by the expression of a 
+self-targeting CRISPR that redirects endogenous CRISPR-Cas3 activity against the 
+bacterial chromosome. We demonstrate that a recombinant bacteriophage expressing 
+bacterial genome-targeting CRISPR RNAs is significantly more effective than its 
+wild-type parent bacteriophage at killing C. difficile both in vitro and in a 
+mouse model of CDI. We also report that conversion of the phage from temperate 
+to obligately lytic is feasible and contributes to the therapeutic suitability 
+of intrinsic C. difficile phages, despite the specific challenges encountered in 
+the disease phenotypes of phage-treated animals. Our findings suggest that 
+phage-delivered programmable CRISPR therapeutics have the potential to leverage 
+the specificity and apparent safety of phage therapies and improve their potency 
+and reliability for eradicating specific bacterial species within complex 
+communities, offering a novel mechanism to treat pathogenic and/or 
+multidrug-resistant organisms.IMPORTANCE Clostridioides difficile is a bacterial 
+pathogen responsible for significant morbidity and mortality across the globe. 
+Current therapies based on broad-spectrum antibiotics have some clinical 
+success, but approximately 30% of patients have relapses, presumably due to the 
+continued perturbation to the gut microbiota. Here, we show that phages can be 
+engineered with type I CRISPR-Cas systems and modified to reduce lysogeny and to 
+enable the specific and efficient targeting and killing of C. difficile in vitro 
+and in vivo. Additional genetic engineering to disrupt phage modulation of toxin 
+expression by lysogeny or other mechanisms would be required to advance a 
+CRISPR-enhanced phage antimicrobial for C. difficile toward clinical 
+application. These findings provide evidence into how phage can be combined with 
+CRISPR-based targeting to develop novel therapies and modulate microbiomes 
+associated with health and disease.

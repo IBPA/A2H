@@ -1,0 +1,23 @@
+OBJECTIVE: Fcγ receptor type IIb (FcγRIIb) is a major negative regulator of B 
+cells, and the lack of FcγRIIb expression has been reported to induce systemic 
+lupus erythematosus (SLE) in mice of the C57BL/6 (B6) genetic background. The 
+129 strain-derived Sle16 locus on the telomeric region of chromosome 1 including 
+polymorphic Fcgr2b confers the predisposition to systemic autoimmunity when 
+present on the B6 background. We undertook this study to examine the effect of 
+the Sle16 locus on autoimmune disease in FcγRIIb-deficient B6 mice.
+METHODS: We established 2 lines of FcγRIIb-deficient B6 congenic mouse strains 
+(KO1 and KO2) by selective backcrossing of the originally constructed 
+FcγRIIb-deficient mice on a hybrid (129×B6) background into a B6 background. 
+Although both lack FcγRIIb expression, the KO1 and KO2 strains carry different 
+lengths of the 129 strain-derived telomeric chromosome 1 segment flanked to the 
+null-mutated Fcgr2b gene; the KO1 strain carries a 129 strain-derived ∼6.3-Mb 
+interval distal from the null-mutated Fcgr2b gene within the Sle16 locus, while 
+this interval in the KO2 strain is of B6 origin.
+RESULTS: Unexpectedly, both strains failed to develop SLE; instead, the KO1 
+strain, but not the KO2 strain, spontaneously developed severe rheumatoid 
+arthritis (RA) with an incidence reaching >90% at age 12 months.
+CONCLUSION: The current study shows evidence that the epistatic interaction 
+between the Fcgr2b-null mutation and a polymorphic gene(s) in the 129 
+strain-derived interval located in the distal Sle16 locus contributes to RA 
+susceptibility in a new mouse model with the B6 genetic background, although the 
+participation of other genetic polymorphisms cannot be totally excluded.

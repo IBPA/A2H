@@ -1,0 +1,24 @@
+Invariant natural killer T (iNKT) cells are innate lymphocytes with unique 
+reactivity to glycolipid antigens bound to non-polymorphic CD1d molecules. They 
+are capable of rapidly releasing pro- and/or anti-inflammatory cytokines and 
+constitute attractive targets for immunotherapy of a wide range of diseases 
+including autoimmune disorders. In this study, we have explored the beneficial 
+effects of OCH, a Th2-polarizing glycolipid agonist of iNKT cells, in a 
+humanized mouse model of rheumatoid arthritis (RA) in which citrullinated human 
+proteins are targeted by autoaggressive immune responses in mice expressing an 
+RA susceptibility human leukocyte antigen (HLA) DR4 molecule. We found for the 
+first time that treatment with OCH both prevents and cures citrulline-induced 
+autoimmune arthritis as evidenced by resolved ankle swelling and reversed 
+histopathological changes associated with arthritis. Also importantly, OCH 
+treatment blocked the arthritogenic capacity of citrullinated 
+antigen-experienced splenocytes without compromising their global responsiveness 
+or altering the proportion of splenic naturally occurring CD4(+)CD25(+)FoxP3(+) 
+regulatory T cells. Interestingly, administering the Th1-promoting iNKT cell 
+glycolipid ligand α-C-galactosylceramide into HLA-DR4 transgenic mice increased 
+the incidence of arthritis in these animals and exacerbated their clinical 
+symptoms, strongly suggesting a role for Th1 responses in the pathogenesis of 
+citrulline-induced arthritis. Therefore, our findings indicate a role for 
+Th1-mediated immunopathology in citrulline-induced arthritis and provide the 
+first evidence that iNKT cell manipulation by Th2-skewing glycolipids may be of 
+therapeutic value in this clinically relevant model, a finding that is 
+potentially translatable to human RA.

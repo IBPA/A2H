@@ -1,0 +1,20 @@
+An unknown cytotoxin was identified in the culture supernatant of Clostridium 
+perfringens type C. The cytotoxin, named TpeL, which was purified using 
+mAb-based affinity chromatography, had a lethal activity of 62 minimum lethal 
+dose (MLD) mg(-1) in mice and a cytotoxic activity of 6.2x10(5) cytotoxic units 
+(CU) mg(-1) in Vero cells. The nucleotide sequence of TpeL was determined. The 
+entire ORF had a length of 4953 bases, and the same nucleotide sequence was not 
+recorded in the GenBank/EMBL/DDBJ databases. The molecular mass calculated from 
+the deduced amino acid sequence was 191 kDa, and a signal peptide region was not 
+found within the ORF. The deduced amino acid sequence exhibited 30-39 % homology 
+to Clostridium difficile toxins A (TcdA) and B (TcdB), Clostridium sordellii 
+lethal toxin (TcsL) and Clostridium novyi alpha-toxin (TcnA). The amino acid 
+sequence of TpeL is shorter than these toxins, and the homologous region was 
+located at the N-terminal site. Eighteen strains of C. perfringens types A, B 
+and C were surveyed for the presence of the tpeL gene by PCR. The tpeL gene was 
+detected in all type B (one strain) and C strains (five strains), but not in any 
+type A strains (12 strains). TpeL was detected in culture filtrates of the five 
+type C strains by dot-blot analysis, but not in the type B strain. It was 
+concluded that TpeL is a novel toxin similar to the known large clostridial 
+cytotoxins. Furthermore, the data indicated that TpeL is produced by many C. 
+perfringens type C strains.

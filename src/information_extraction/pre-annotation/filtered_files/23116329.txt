@@ -1,0 +1,33 @@
+INTRODUCTION: Immune responses against collagen type II (CII) are crucial for 
+the development of collagen-induced arthritis (CIA). The aim of the present 
+study was to evaluate and compare the CII-directed T cell and antibody 
+specificity at different time points in the course of CIA using two mouse 
+strains on the B10 genetic background - B10.Q, expressing Aq MHC class II 
+molecules, and B10.DR4.Ncf1*/*, expressing human rheumatoid arthritis-associated 
+MHC II DR4 molecules (DRA*0101/DRB*0401).
+METHODS: B10.Q and B10.DR4.Ncf1*/* mice were immunized with CII emulsified in 
+adjuvant and development of CIA was assessed. T cells from draining lymph nodes 
+were restimulated in vitro with CII peptides and interferon-gamma (IFN-γ) levels 
+in culture supernatants were evaluated by ELISA. CII-specific antibody levels in 
+serum samples were measured by ELISA.
+RESULTS: At four different CIA time points we analyzed T cell specificity to the 
+immunodominant CII epitope 259-273 (CII259-273) and several posttranslationally 
+modified forms of CII259-273 as well as antibody responses to three B cell 
+immunodominant epitopes on CII (C1, U1, J1). Our data show that CII-specific T 
+and B cell responses increase dramatically after disease onset in both strains 
+and are sustained during the disease course. Concerning anti-CII antibody fine 
+specificity, during all investigated stages of CIA the B10.Q mice responded 
+predominantly to the C1 epitope, whereas the B10.DR4.Ncf1*/* mice also 
+recognized the U1 epitope. In the established disease phase, T cell reactivity 
+toward the galactosylated CII259-273 peptide was similar between the DR4- and 
+the Aq-expressing strains whereas the response to the non-modified CII peptide 
+was dramatically enhanced in the DR4 mice compared with the B10.Q. In addition, 
+we show that the difference in the transgenic DR4-restricted T cell specificity 
+to CII259-273 is not dependent on the degree of glycosylation of the collagen 
+used for immunization.
+CONCLUSIONS: The present study provides important evaluation of CII-specific 
+immune responses at different phases during CIA development as well as a 
+comparative analysis between two CIA mouse models. We indicate significant 
+differences in CII T cell and antibody specificities between the two strains and 
+highlight a need for improved humanized B10.DR4 mouse model for rheumatoid 
+arthritis.

@@ -1,0 +1,29 @@
+BACKGROUND: The fecal microbiota, fecal bile acid concentrations, and abundance 
+of Clostridium perfringens and Clostridium difficile are altered in acute and 
+chronic gastrointestinal disease in adult dogs. However, less is known in young 
+puppies.
+HYPOTHESIS/OBJECTIVES: To determine composition of the fecal microbiota, assess 
+development of fecal bile acid profiles, and determine the abundance of 
+Clostridial species in puppies, young adult dogs, and adult dogs.
+ANIMALS: Healthy puppies from a whelping kennel (n = 53) and healthy 
+client-owned dogs <1 year old (n = 20) were separated into 6 age groups, then 
+compared to client-owned dogs over 1 year of age (n = 13).
+METHODS: Prospective observational study. Naturally voided fecal samples were 
+analyzed by quantitative polymerase chain reaction to measure bacterial 
+abundances. Fecal bile acids were quantified using gas chromatography-mass 
+spectrometry.
+RESULTS: Puppies up to 5 to 6 weeks of age had increased Dysbiosis Index (median 
+[min-max]: 5.39 [1.32-8.6], P < .001), increased abundance of C. difficile (4.1 
+[0.01-4.85] log DNA, P < .001), decreased secondary bile acid concentrations 
+(0.61 [0.28-5.06] μg/mg, P = .006), and decreased abundance of C. hiranonis 
+(0.84 [0.01-6.71], P = .005) compared to adult dogs (-4.62 [-8.36 to -0.61], 
+0.01 [0.01-0.01], 4.12 [0.32-8.94], and 6.02 [5.06-7.00], respectively). 
+Secondary bile acid concentration positively correlated with C. hiranonis 
+abundance (ρ = 0.77; P < .001).
+CONCLUSIONS AND CLINICAL IMPORTANCE: The increase in secondary bile acids and 
+simultaneous decrease of C. difficile and C. perfringens after 5 to 6 weeks of 
+age warrants further investigation into regulatory impacts that secondary bile 
+acids could have on clostridial species in dogs.
+
+© 2020 The Authors. Journal of Veterinary Internal Medicine published by Wiley 
+Periodicals LLC on behalf of American College of Veterinary Internal Medicine.

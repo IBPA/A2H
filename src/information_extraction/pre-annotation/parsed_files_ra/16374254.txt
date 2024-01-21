@@ -1,0 +1,29 @@
+BACKGROUND: Adalimumab is a fully human monoclonal antibody to tumor necrosis 
+factor (TNF), which was recently introduced as a therapy for Crohn's disease and 
+rheumatoid arthritis. Besides neutralization, induction of apoptosis of 
+monocytes/macrophages and T cells is thought to be an important mechanism of 
+action of the anti-tumor necrosis factor monoclonal antibody infliximab, at 
+least in Crohn's disease therapy.
+AIM: To study caspase activation and the induction of apoptosis by adalimumab 
+and the effect of a caspase inhibitor in vivo.
+METHODS: For in vitro studies, THP-1 cells (human monocytic cell line) were 
+incubated with adalimumab, infliximab, or human immunoglobulin G, and annexin V 
++ propidium iodide, Apo2.7, and 7-amino actinomycin-D were used to study 
+apoptosis on the cell membrane, mitochodrial, and DNA level, respectively. 
+Active caspase-3 was detected by intracellular staining. For in vivo studies, a 
+chimeric human-mouse model was used, in which THP-1 cells were injected 
+intraperitoneally in SCID-Beige mice followed by treatment with adalimumab, 
+infliximab, or human immunoglobulin G. Effects of a pan-caspase inhibitor 
+N-benzyloxycarbonyl-Val-Ala-Asp-fluoromethyketone on apoptosis induction were 
+evaluated.
+RESULTS: In vitro analysis revealed that apoptosis could be induced in THP-1 
+cells by both adalimumab and infliximab. Activation of caspase-3 after 
+incubation with adalimumab was demonstrated by intracellular staining. In 
+addition, in the chimeric mouse model, a higher percentage of residual THP-1 
+cells were apoptotic, and lower cell numbers were recovered in the adalimumab- 
+or infliximab-treated mouse. Apoptosis induction by adalimumab could be 
+abrogated through in vivo pretreatment of mice with the pan-caspase inhibitor.
+CONCLUSIONS: Adalimumab, besides neutralizing tumor necrosis factor, also 
+induces apoptosis of transmembrane tumor necrosis factor-positive THP-1 cells by 
+activating intracellular caspases. This activity is likely to be important for 
+the clinical effect of this biodrug.

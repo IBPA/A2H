@@ -1,0 +1,28 @@
+Duchenne muscular dystrophy (DMD) is an X-linked muscle disease caused by 
+mutations in the dystrophin gene. The pathology of DMD manifests in patients 
+with progressive muscle weakness, loss of ambulation and ultimately death. One 
+of the characteristics of DMD is muscle inflammation, and dystrophin-deficient 
+skeletal muscles produce higher levels of the pro-inflammatory cytokine 
+interleukin 1β (IL-1β) in response to toll like receptor (TLR) stimulation 
+compared to controls; therefore, blocking the IL-1β pathway could improve the 
+disease phenotype in mdx mice, a mouse model of DMD. Kineret® or IL-1Ra is a 
+recombinant IL-1 receptor antagonist approved by the FDA for treating rheumatoid 
+arthritis. To determine the efficacy of IL-1Ra in a DMD model, we administered 
+subcutaneous injections of saline control or IL-1Ra (25 mg/kg/day) to mdx mice 
+daily for 45 days beginning at 5 weeks of age. Functional and histological 
+parameters were measured at the conclusion of the study. IL-1Ra only partially 
+inhibited this signaling pathway in this study; however, there were still 
+interesting observations to be noted. For example, although not significantly 
+changed, splenocytes from the IL-1Ra-treated group secreted less IL-1β after LPS 
+stimulation compared to control mice indicating a blunted response and 
+incomplete inhibition of the pathway (37% decrease). In addition, normalized 
+forelimb grip strength was significantly increased in IL-1Ra-treated mice. There 
+were no changes in EDL muscle-specific force measurements, histological 
+parameters, or motor coordination assessments in the dystrophic mice after 
+IL-1Ra treatment. There was a significant 27% decrease in the movement time and 
+total distance traveled by the IL-1Ra treated mice, correlating with previous 
+studies examining effects of IL-1 on behavior. Our studies indicate partial 
+blocking of IL-1β with IL-1Ra significantly altered only a few behavioral and 
+strength related disease parameters; however, treatment with inhibitors that 
+completely block IL-1β, pathways upstream of IL-1β production or combining 
+various inhibitors may produce more favorable outcomes.

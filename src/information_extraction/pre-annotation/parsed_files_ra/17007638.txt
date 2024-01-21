@@ -1,0 +1,20 @@
+Synovial tissue of rheumatoid arthritis (RA) patients is characterised by an 
+influx and retention of CD97-positive inflammatory cells. The ligands of CD97, 
+CD55, chondroitin sulfate B, and alpha5beta1 (very late antigen [VLA]-5) are 
+expressed abundantly in the synovial tissue predominantly on fibroblast-like 
+synoviocytes, endothelium, and extracellular matrix. Based upon this expression 
+pattern, we hypothesise CD97 expression to result in accumulation of 
+inflammatory cells in the synovial tissue of RA patients. To determine the 
+therapeutic effect of blocking CD97 in an animal model of RA, collagen-induced 
+arthritis was induced in a total of 124 DBA/J1 mice. Treatment was started on 
+day 21 (early disease) or on day 35 (longstanding disease) with the blocking 
+hamster anti-mouse CD97 monoclonal antibody (mAb) 1B2, control hamster 
+immunoglobulin, or NaCl, applied intraperitoneally three times a week. The paws 
+were evaluated for clinical signs of arthritis and, in addition, examined by 
+radiological and histological analysis. Mice receiving 0.5 mg CD97 mAb starting 
+from day 21 had significantly less arthritis activity and hind paw swelling. 
+Furthermore, joint damage and inflammation were reduced and granulocyte 
+infiltration was decreased. When treatment was started on day 35, CD97 mAb 
+treatment had similar effects, albeit less pronounced. The results support the 
+notion that CD97 contributes to synovial inflammation and joint destruction in 
+arthritis.

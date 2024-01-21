@@ -1,0 +1,15 @@
+Retinoic acid receptor-related orphan receptor C (RORc, RORγ, or NR1F3) is a 
+nuclear receptor that plays a major role in the production of interleukin 
+(IL)-17. Considerable efforts have been directed toward the discovery of 
+selective RORc inverse agonists as potential treatments of inflammatory diseases 
+such as psoriasis and rheumatoid arthritis. Using the previously reported 
+tertiary sulfonamide 1 as a starting point, we engineered structural 
+modifications that significantly improved human and rat metabolic stabilities 
+while maintaining a potent and highly selective RORc inverse agonist profile. 
+The most advanced δ-sultam compound, GNE-3500 (27, 
+1-{4-[3-fluoro-4-((3S,6R)-3-methyl-1,1-dioxo-6-phenyl-[1,2]thiazinan-2-ylmethyl)-phenyl]-piperazin-1-yl}-ethanone), 
+possessed favorable RORc cellular potency with 75-fold selectivity for RORc over 
+other ROR family members and >200-fold selectivity over 25 additional nuclear 
+receptors in a cell assay panel. The favorable potency, selectivity, in vitro 
+ADME properties, in vivo PK, and dose-dependent inhibition of IL-17 in a PK/PD 
+model support the evaluation of 27 in preclinical studies.

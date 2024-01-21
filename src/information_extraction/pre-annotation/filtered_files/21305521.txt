@@ -1,0 +1,25 @@
+OBJECTIVE: Certain HLA class II alleles are associated with susceptibility to 
+the development of arthritis. However, the development of arthritis in some 
+persons carrying non-rheumatoid arthritis (RA)-associated alleles remains 
+unexplained. An individual who is heterozygous for the DQA1 and DQB1 genes can 
+express the DQ molecule in cis or trans heterodimers. In a cis heterodimer, the 
+α-chain interacts with the β-chain coded by the same chromosome, while in a 
+trans heterodimer it interacts with the β-chain on the other chromosome. In this 
+study, we used a humanized mouse model of arthritis in an attempt to determine 
+whether a trans heterodimer of 2 nonassociated alleles, DQB1*0601 and DQB1*0604, 
+can predispose to arthritis.
+METHODS: DQB1*0601 and *0604 occur in linkage with DQA1*0103 and *0102, 
+respectively. To understand the role of trans heterodimers, we generated 
+DQB1*0604/DQA1*0103-transgenic mice lacking endogenous HLA class II molecules.
+RESULTS: Severe arthritis developed in the DQB1*0604/A1*0103-trangenic mice, and 
+an antigen-specific response was generated in vitro. DQB1*0604/DQA1*0103 
+presented type II collagen-derived peptides that were not presented by the 
+arthritis-resistant DQB1*0601 allele, suggesting that trans heterodimer 
+molecules between 2 DQB1 and DQA1 molecules may result in the presentation of 
+unique antigens and susceptibility to the development of arthritis. Molecular 
+modeling of type II collagen peptides showed that DQB1*0604/DQA1*0103 shares a 
+p4 pocket with the arthritis-susceptible DQB1*0302 allele, suggesting a critical 
+role of the p4 and p9 pockets in susceptibility to arthritis.
+CONCLUSION: These results provide a possible explanation for the parental 
+inheritance of nonsusceptibility alleles in some patients with RA and a 
+mechanism by which they can predispose to the development of arthritis.

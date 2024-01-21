@@ -1,0 +1,19 @@
+Interleukin-1 receptor antagonist (IL-1Ra), is a natural blocker of the 
+inflammatory cytokine interleukin-1. Using a rat adjuvant-induced arthritis 
+(AIA) model of rheumatoid arthritis (RA), we examined the protective effects of 
+IL-1Ra in bone metabolism in vivo after folate-mediated nonviral gene delivery. 
+We detected secreted human IL-1Ra protein in serum and cultured primary 
+osteoblasts of rats that were treated with chitosan-IL-1Ra and 
+folate-IL-1Ra-chitosan nanoparticles, respectively. In vivo, IL-1Ra gene 
+delivery significantly reverted alterations in bone turnover observed in 
+arthritic animals by modulating the level of osteocalcin (OC) as well as the 
+activities of alkaline phosphatase and tartrate-resistant acid phosphatase. The 
+protective effects of these nanoparticles were evident from the decrease in the 
+expression levels of interleukine-1beta and prostaglandin E(2) as well as 
+osteoclast number and other histopathological findings. Compared to naked DNA 
+and chitosan-DNA, folate-chitosan-DNA nanoparticles were less cytotoxic and 
+enhanced IL-1Ra protein synthesis in vitro and offered a better protection 
+against inflammation and abnormal bone metabolism in vivo. Nonviral gene therapy 
+with folate-chitosan-DNA nanoparticles containing the IL-1 Ra gene seemed to 
+protect against bone damage and inflammation in rat adjuvant-induced arthritis 
+model.

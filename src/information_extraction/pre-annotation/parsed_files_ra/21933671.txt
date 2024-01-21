@@ -1,0 +1,25 @@
+Effective detection of potential nephrotoxicity is crucial for pre-clinical drug 
+development. We evaluated a sensitive animal model for drug-induced kidney 
+injury, which includes hemi-nephrectomy of mice. Although bucillamine and 
+d-penicillamine are used for the treatment of rheumatoid arthritis in Japan, 
+drug-related adverse effects on the kidney can limit their therapeutic 
+utilities. When bucillamine (1000 or 2000 mg/kg/day) or d-penicillamine (2000 
+mg/kg/day) were orally administered to hemi-nephrectomised BALB/c mice, the 
+urinary protein levels of bucillamine-treated mice, but not of those treated 
+with d-penicillamine, the vehicle, or in bucillamine treated unnephrectomized 
+mice, were significantly increased and remained high during the 4-week 
+drug-loading period. Membranous glomerulonephropathy occasionally seen in 
+bucillamine/d-penicillamine-treated arthritis patients was not reproduced in 
+mice. Instead, our mouse model showed proximal tubular injury and podocyte foot 
+process effacement in the bucillamine-treated kidneys. These two cell types are 
+also the primary targets of the experimental Heymann membranous 
+glomerulonephropathy. Gene expression profiling of the bucillamine-treated mice 
+identified lipocalin 2 as a significantly up-regulated transcript together with 
+cytochrome P450 CYP4a14, a group-specific component, and proprotein convertase 
+subtilisin/kexin type 9. Moreover, large amounts of lipocalin 2 were detected in 
+the urine of the bucillamine-treated mice, but not in the hemi-nephrectomised 
+control mice. These results indicate that hemi-nephrectomy effectively promotes 
+acute kidney injury by bucillamine, which is accompanied by up-regulation of the 
+urinary biomarker lipocalin 2. Our mouse model with initial stage of kidney 
+injury should be useful to analyse the pathogenesis of drug-induced glomerular 
+and tubular injuries.

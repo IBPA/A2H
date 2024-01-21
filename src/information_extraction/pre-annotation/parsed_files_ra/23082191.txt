@@ -1,0 +1,17 @@
+Survivin is known as an inhibitor of apoptosis and a positive regulator of cell 
+division. We have recently identified survivin as a predictor of joint 
+destruction in patients with rheumatoid arthritis (RA). Flt3 ligand (Flt3L) is 
+expressed in the inflamed joints and has adjuvant properties in arthritis. 
+Studies on 90 RA patients (median age 60.5 years [range, 24-87], disease 
+duration 10.5 years [range, 0-35]) show a strong positive association between 
+the levels of survivin and Flt3L in blood. Here, we present experimental 
+evidence connecting survivin and Flt3L signaling. Treatment of BALB/c mice with 
+Flt3L led to an increase of survivin in the bone marrow and in splenic dendritic 
+cells. Flt3L changed the profile of survivin splice variants, increasing 
+transcription of the short survivin40 in the bone marrow. Treatment with an Flt3 
+inhibitor reduced total survivin expression in bone marrow and in the dendritic 
+cell population in spleen. Inhibition of survivin transcription in mice, by 
+shRNA lentiviral constructs, reduced the gene expression of Flt3L. We conclude 
+that expression of survivin is a downstream event of Flt3 signaling, which 
+serves as an essential mechanism supporting survival of leukocytes during their 
+differentiation, and maturation of dendritic cells, in RA.

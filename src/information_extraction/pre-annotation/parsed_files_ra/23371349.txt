@@ -1,0 +1,29 @@
+OBJECTIVE: To investigate the role of the antiinflammatory neuropeptide 
+cortistatin in chronic pain evoked by joint inflammation.
+METHODS: Thermal and mechanical hyperalgesia was evoked in mouse knee joints by 
+intraplantar injection of tumor necrosis factor α and intraarticular infusion of 
+Freund's complete adjuvant, and the analgesic effects of cortistatin, 
+administered centrally, peripherally, and systemically, were assessed. In 
+addition, the effects of cortistatin on the production of nociceptive peptides 
+and the activation of pain signaling were assayed in dorsal root ganglion 
+cultures and in inflammatory pain models. The role of endogenous cortistatin in 
+pain sensitization and perpetuation of chronic inflammatory states was evaluated 
+in cortistatin-deficient mice. Finally, the effect of noxious/inflammatory 
+stimuli in the production of cortistatin by the peripheral nociceptive system 
+was assayed in vitro and in vivo.
+RESULTS: Expression of cortistatin was observed in peptidergic nociceptors of 
+the peripheral nociceptive system, and endogenous cortistatin was found to 
+participate in the tuning of pain sensitization, especially in pathologic 
+inflammatory conditions. Results showed that cortistatin acted both peripherally 
+and centrally to reduce the tactile allodynia and heat hyperalgesia evoked by 
+arthritis and peripheral tissue inflammation in mice, via mechanisms that were 
+independent of its antiinflammatory action. These mechanisms involved direct 
+action on nociceptive neurons and regulation of central sensitization. The 
+analgesic effects of cortistatin in murine arthritic pain were linked to binding 
+of the neuropeptide to somatostatin and ghrelin receptors, activation of the G 
+protein subunit Gαi , impairment of ERK signaling, and decreased production of 
+calcitonin gene-related peptide in primary nociceptors.
+CONCLUSION: These findings indicate that cortistatin is an antiinflammatory 
+factor with potent analgesic effects that may offer a new approach to pain 
+therapy in pathologic inflammatory states, including osteoarthritis and 
+rheumatoid arthritis.

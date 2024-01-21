@@ -1,0 +1,21 @@
+Rheumatoid arthritis (RA) is a chronic autoimmune disease associated with a 
+combination of synovium joint inflammation, synovium hyperplasia, and 
+destruction of cartilage and bone. Oleanolic acid acetate (OAA), a compound 
+isolated from Vigna angularis, has been known to possess pharmacological 
+activities, including anti-inflammation and anti-bone destruction. In this 
+study, we investigated the effects of OAA on RA and the underlying mechanisms of 
+action by using a type-II collagen-induced arthritis (CIA) mouse model and tumor 
+necrosis factor (TNF)-α-stimulated RA synovial fibroblasts. Oral administration 
+of OAA decreased the clinical arthritis symptoms, paw thickness, histologic and 
+radiologic changes, and serum total and anti-type II collagen IgG, IgG1, and 
+IgG2a levels. OAA administration reduced Th1/Th17 phenotype CD4(+) T lymphocyte 
+expansions and inflammatory cytokine productions in T cell activated draining 
+lymph nodes and spleen. OAA reduced the expression and production of 
+inflammatory mediators, such as cytokines and matrix metalloproteinase 
+(MMP)-1/3, in the ankle joint tissue and RA synovial fibroblasts by 
+down-regulating Akt, mitogen-activated protein kinases, and nuclear factor-κB. 
+Our results clearly support that OAA plays a therapeutic role in RA pathogenesis 
+by modulating helper T cell immune responses and matrix-degrading enzymes. The 
+immunosuppressive effects of OAA were comparable to dexamethasone and 
+ketoprofen. We provide evidences that OAA could be a potential therapeutic 
+candidate for RA.

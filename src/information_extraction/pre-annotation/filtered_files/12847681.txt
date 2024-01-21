@@ -1,0 +1,38 @@
+OBJECTIVE: To characterize the morphologic and immunologic features of adherent 
+synovial fluid cells derived from patients with rheumatoid arthritis (RA), and 
+to explore their potential function in vitro and in vivo by focusing on 
+cartilage destruction.
+METHODS: Synovial fluid adherent cells obtained from patients with RA and from 
+control subjects were characterized by immunohistochemistry, flow cytometry, and 
+electron microscopy. In vitro, these cells were cultured in the presence of 
+cartilage particles. Cartilage destruction was monitored by the release of 
+sulfated glycosaminoglycans (sGAG) into the medium, and the level of matrix 
+metalloproteinase 1 (MMP-1) in the cell culture supernatant was measured by 
+enzyme-linked immunosorbent assay. To inhibit cartilage destruction in vitro, 
+the MMP inhibitor marimastat was tested in this system. In vivo, in the SCID 
+mouse coimplantation model, RA synovial fluid adherent cells and RA synovial 
+fibroblasts (as positive controls) were coimplanted with human cartilage under 
+the kidney capsule and maintained there for 60 days.
+RESULTS: In vitro, the synovial fluid adherent cells consisted of 2 
+subpopulations, large round-shaped macrophage-like cells (CD68+) and 
+spindle-shaped fibroblast-like cells (Thy-1+). When passaged, the latter cells 
+proliferated and organized themselves into 3-dimensional formations. This 
+allowed them to reach collagen particles fixed with agarose. Fibroblasts derived 
+from synovial tissues could not be used in this assay because they grew only in 
+monolayers and not on agarose. The majority (>90%) of passaged RA synovial fluid 
+adherent cells expressed the Thy-1+,CD45-,CD68-,CD86- phenotype. Electron 
+microscopy did not reveal important morphologic differences between the 2 types 
+of fibroblasts, those from synovial tissue or those from synovial fluid. 
+However, synovial fluid adherent cells expressed lower levels of adhesion 
+molecules, including CD54 and galectin 3, as well as the complement-regulatory 
+molecule CD55. The in vitro release of sGAG associated with cell activity was 
+2.5-fold higher from RA synovial fluid adherent cells in comparison with that 
+from negative control cells. The release of sGAG correlated with the 
+concentration of MMP-1 and was inhibited by the broad-range MMP inhibitor 
+marimastat in a dose-dependent manner. RA synovial fluid adherent cells 
+coimplanted with cartilage in SCID mice showed the same invasive behavior as 
+that displayed by tissue-derived RA synovial fibroblasts.
+CONCLUSION: Similar to tissue-derived RA synovial fibroblasts, RA synovial fluid 
+adherent cells, which contain "floating" anchorage-independent fibroblast-like 
+cells, mediate cartilage destruction independent of the hyperplastic synovial 
+tissue.

@@ -1,0 +1,25 @@
+Traditional Chinese medicine (TCM) syndromes have been regarded as the crucial 
+clinical manifestations for individualized diagnosis and treatment of complex 
+diseases, including rheumatoid arthritis (RA) and cancer. Especially, RA 
+patients are classified into cold and hot syndromes with different clinical 
+manifestations, interventions and molecular mechanisms. Better effectiveness of 
+a classic cold syndrome-specific herbal formula Wu-tou decoction (WTD) has been 
+achieved. To explore molecular mechanisms of syndrome-specific formulae is of 
+great clinical significance to improve the effectiveness and pertinence of 
+treatment for the complex diseases with personalized conditions. However, the 
+scientific basis of WTD treatment on RA with the cold syndrome remains unclear. 
+Here, we predicted the putative targets for composite compounds contained in WTD 
+using drugCIPHER-CS and constructed a WTD herbs-putative targets-RA related 
+genes network. Next, a list of major WTD targets was identified based on their 
+topological features, including the degree, node betweenness, closeness and 
+k-coreness in the above pharmacological network. Importantly, pathway enrichment 
+analysis revealed that these major WTD targets were significantly associated 
+with the pathway of peroxisome proliferator-activated receptor (PPAR)-gamma 
+(PPAR-γ) coactivators in thermogenesis. These computational findings were 
+subsequently verified by experiments on a rat model of collagen-induced 
+arthritis (CIA) with cold or hot syndromes, and on human fibroblast-like 
+synoviocytes-rheumatoid arthritis (HFLS-RA) cell line. In conclusion, the 
+pathway of PPAR-γ coactivators in thermogenesis might be one of the potential 
+pharmacological targets of WTD to alleviate RA with the TCM cold syndrome. These 
+findings may open new avenues for designing individualized treatment regimens 
+for RA patients.

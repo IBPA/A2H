@@ -1,0 +1,15 @@
+It has been reported that taxifolin inhibit osteoclastogenesis in RAW264.7 
+cells. In our research, the inhibition effects of taxifolin on the 
+osteoclastogenesis of human bone marrow-derived macrophages (BMMs) induced by 
+receptor activator of NF-κB ligand (RANKL) as well as the protection effects in 
+lipopolysaccharide-induced bone lysis mouse model have been demonstrated. In 
+vitro, taxifolin inhibited RANKL-induced osteoclast differentiation of human 
+BMMs without cytotoxicity. Moreover, taxifolin significantly suppressed 
+RANKL-induced gene expression, including tartrate-resistant acid phosphatase, 
+matrix metalloproteinase-9 nuclear factor of activated T cells 1 and cathepsin 
+K, and F-actin ring formation. Further studies showed that taxifolin inhibit 
+osteoclastogenesis via the suppression of the NF-κB signaling pathway. In vivo, 
+taxifolin prevented bone loss in mouse calvarial osteolysis model. In 
+conclusion, the results suggested that taxifolin has a therapeutic potential for 
+osteoclastogenesis-related diseases such as osteoporosis, osteolysis, and 
+rheumatoid arthritis.

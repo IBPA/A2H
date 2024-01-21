@@ -1,0 +1,17 @@
+The endogenously activated rheumatoid arthritis (RA) synovial fibroblasts (RSFs) 
+are likely to be the key to curing the disease. RSFs express Toll‑like receptors 
+(TLRs) rendering them prone to activation by exogenous and endogenous TLR 
+ligands, resulting in the production of chemokines and cytokines Germline 
+deletion of tumor necrosis factor‑α‑induced protein‑8 like 2 (TIPE2, also known 
+as TNFAIP8L2) results in fatal inflammation and hypersensitivity to TLR and 
+T cell receptor stimulation. The present study demonstrates an inverse 
+association between TIPE2 and cytokine gene expression in RSFs following 
+lipopolysaccharide (LPS) stimulation. Enhanced TIPE2 expression decreased 
+Ras‑related C3 botulinum toxin substrate (Rac) activation and interferon 
+regulatory factor 3 phosphorylation, and phosphoinositide 3‑kinase and Rac 
+inhibition significantly diminished LPS‑induced cytokine gene expression in 
+RSFs. In conclusion, the findings of the present study demonstrate that TIPE2 
+serves a negative role in activating the Rac signaling pathway and in the 
+initiation of the immune response by decreasing the activity of proinflammatory 
+cytokines. These results may be useful in designing novel strategies for the 
+prevention and treatment of RA.

@@ -1,0 +1,14 @@
+Clostridioides difficile infection (CDI) causes serious and sometimes fatal 
+symptoms like diarrhea and pseudomembranous colitis. Although antibiotics for 
+CDI exist, they are either expensive or cause recurrence of the infection due to 
+their altering the colonic microbiota, which is necessary to suppress the 
+infection. Here, we leverage a class of known membrane-targeting compounds that 
+we previously showed to have broad inhibitory activity across multiple 
+Clostridioides difficile strains while preserving the microbiome to develop an 
+efficacious agent. A new series of salicylanilides was synthesized, and the most 
+potent analog was selected through an in vitro inhibitory assay to evaluate its 
+pharmacokinetic parameters and potency in a CDI mouse model. The results 
+revealed reduced recurrence of CDI and diminished disturbance of the microbiota 
+in mice compared to standard-of-care vancomycin, thus paving the way for novel 
+therapy that can potentially target the cell membrane of C. difficile to 
+minimize relapse in the recovering patient.

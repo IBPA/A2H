@@ -1,0 +1,22 @@
+Experimental rat models of arthritis are extensively studied with a view to 
+understand the genetic underpinnings of rheumatoid arthritis (RA). Genome scans 
+using these models have led to the detection of arthritis regulatory 
+quantitative trait loci (QTLs) on all but three chromosomes of the rat. Whereas 
+some of the QTLs are model specific, others overlap between models. Some 
+arthritis susceptibility and/or severity QTLs identified by genetic linkage 
+analyses are corroborated by substitution mapping using congenic strains, 
+whereas others are not. In these cases, testing alternate arthritis models 
+proved to be useful to identify QTL effects. Nevertheless, development and 
+testing of congenic substrains containing progressively shorter introgressed 
+regions have not only fine mapped the location of the arthritis QTLs but also 
+resulted in the identification of multiple QTLs within several originally 
+identified individual QTL. Most of these studies progressed rapidly since 2001, 
+when the rat genome sequence was published. Proof of principle for substitution 
+mapping as a successful method for QTL gene discovery is provided by the 
+positional cloning of Ncf1 as one of the arthritis QTLs in rats. This finding is 
+encouraging for similar sustained dissection of all the other arthritis QTLs 
+mapped in the rat. Identification of rat arthritis QTLs is expected to pave the 
+way for discovery of yet-unidentified arthritis-causative genetic elements 
+and/or pathways for RA in humans and potential development of targeted 
+therapeutics. This review catalogs some of the recent advances made in QTL 
+discovery projects of experimentally induced rat models of arthritis.

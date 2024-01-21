@@ -1,0 +1,27 @@
+ETHNOPHARMACOLOGICAL RELEVANCE: Tripterygium wilfordii (lei gong teng; Thunder 
+of God Vine), which belongs to the Celastraceae family, has long been used in 
+traditional Chinese medicine to treat inflammation and rheumatoid arthritis. 
+Celastrol is a bioactive compound isolated from T. wilfordii.
+AIM OF THE STUDY: We investigated whether celastrol suppressed binding of 
+lipopolysaccharides (LPS) to myeloid differentiation factor 2 (MD2), thereby 
+downregulating Toll-like receptor4 (TLR4) activation in mouse primary 
+macrophages.
+MATERIALS AND METHODS: Cytokine expression was determined by polymerase chain 
+reaction analysis and enzyme-linked immunosorbent assay in bone marrow-derived 
+primary macrophages (BMDMs). The kinase activity of tank-binding kinase 1 (TBK1) 
+was examined by a luciferase reporter assay and an in vitro kinase assay. LPS 
+binding to MD2 was examined by an in vitro binding assay and confocal microscopy 
+analysis.
+RESULTS: Celastrol reduced LPS-induced expression of inflammatory cytokines, 
+such as tumor necrosis factor (TNF)-α, interleukin (IL)-6, IL-12, and IL-1β, at 
+both the mRNA and protein levels in BMDMs. Celastrol suppressed LPS binding to 
+MD2, as shown by the in vitro binding assay, whereas it did not inhibit TBK1. In 
+addition, co-localization of LPS with MD2 in BMDMs was blocked by celastrol. The 
+inhibitory effects of celastrol on LPS binding to MD2 were reversed by thiol 
+donors (N-acetyl-L-cysteine and dithiothreitol), suggesting that the thiol 
+reactivity of celastrol contributes to its inhibitory effects on TLR4 activation 
+in macrophages.
+CONCLUSION: Our results demonstrate that celastrol suppresses TLR4 activation 
+through the inhibition of LPS binding to the TLR4/MD2 complex. These results 
+provide a novel mechanism of action by which celastrol contributes to the 
+anti-inflammatory activity of T. wilfordii.

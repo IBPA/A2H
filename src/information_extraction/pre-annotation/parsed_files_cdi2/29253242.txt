@@ -1,0 +1,23 @@
+OBJECTIVES: To establish the role of specific, non-synonymous SNPs in the RNA 
+polymerase β subunit (rpoB) gene in reducing the susceptibility of Clostridium 
+difficile to fidaxomicin and to explore the potential in vivo significance of 
+rpoB mutant strains.
+METHODS: Allelic exchange was used to introduce three different SNPs into the 
+rpoB gene of an erythromycin-resistant derivative (CRG20291) of C. difficile 
+R20291. The genome sequences of the created mutants were determined and each 
+mutant analysed with respect to growth and sporulation rates, toxin A/B 
+production and cytotoxicity against Vero cells, and in competition assays. Their 
+comparative virulence and colonization ability was also assessed in a hamster 
+infection model.
+RESULTS: The MIC of fidaxomicin displayed by three mutants CRG20291-TA, 
+CRG20291-TG and CRG20291-GT was substantially increased (>32, 8 and 2 mg/L, 
+respectively) relative to that of the parent strain (0.25 mg/L). Genome 
+sequencing established that the intended mutagenic substitutions in rpoB were 
+the only changes present. Relative to CRG20291, all mutants had attenuated 
+growth, were outcompeted by the parental strain, had lower sporulation and toxin 
+A/B production capacities, and displayed diminished cytotoxicity. In a hamster 
+model, virulence of all three mutants was significantly reduced compared with 
+the progenitor strain, whereas the degree of caecum colonization was unaltered.
+CONCLUSIONS: Our study demonstrates that particular SNPs in rpoB lead to reduced 
+fidaxomicin susceptibility. These mutations were associated with a fitness cost 
+in vitro and reduced virulence in vivo.

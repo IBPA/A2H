@@ -1,0 +1,22 @@
+BACKGROUND: Clostridium difficile disease is the leading antibiotic-associated 
+cause of diarrhea and nosocomial acquired infection in the western world. The 
+per annum burden in the USA alone amounts to 250,000 cases with 14,000 ascribed 
+deaths and medical costs in excess of a billion dollars. Novel models for the 
+study of C. difficile infection are therefore pertinent.
+RESULTS: Germ free C57BL/6 mice gavaged with a healthy human fecal microbiota 
+maintained a stable "humanized" microbiota over multiple generations when housed 
+under specific pathogen-free (SPF) conditions. As with mice containing a 
+conventional microbiota, treatment with a five-antibiotic cocktail followed by a 
+single dose of clindamycin renders the animals susceptible to C. difficile 
+infection (CDI). Interestingly, after recovery from the initial CDI infection, a 
+single intraperitoneal injection of clindamycin is sufficient to induce CDI 
+relapse. Relapse of CDI can be induced up to 35 days postinfection after 
+recovery from the initial infection, and multiple episodes of relapse can be 
+induced.
+CONCLUSIONS: This model enables the study of recurrent C. difficile disease in a 
+host containing a human-derived microbiota. Probiotic treatments using 
+human-derived microbes, either prophylactic or curative, can be tested within 
+the model. The identification and testing of human-derived microbial communities 
+within a humanized microbiota mouse model may enable a higher rate of successful 
+transfer of bacteria-based treatments from the lab to human patients due to the 
+microbes involved initiating from, and being adapted to, the human GI tract.

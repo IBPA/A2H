@@ -1,0 +1,18 @@
+Temporomandibular joint (TMJ) disorders and rheumatoid arthritis are two 
+conditions in which neurogenic mechanisms may play a critical role. We 
+investigated the neurogenic contribution underlying acute TMJ inflammation by 
+evaluating effects of local anesthetic blockade of afferent innervation on the 
+development of mustard oil (MO)-induced edema in the rat TMJ area. Groups of 
+eight adult male Sprague-Dawley rats were anesthetized by intraperitoneal 
+alpha-chloralose and urethane. A saline injection into the right TMJ followed by 
+MO (1% to 60%) 6 min later elicited dose-dependent edema development (P < 0.05, 
+repeated measures analysis of variance). Lidocaine (5%) or bupivacaine (0.5%) 
+followed by MO (1% or 40%) did not produce edema development different from 
+saline controls (P > 0.05, repeated measures analysis of variance). The failure 
+of local anesthetic blockade to prevent MO-induced edema is not consistent with 
+MO acting through a neurogenic mechanism, as traditionally perceived.
+IMPLICATIONS: Inflammation found in temporomandibular disorders and rheumatoid 
+arthritis may result from mediators released by pain-sensing neurons. Local 
+anesthesia failed to block simulated neurogenic temporomandibular inflammation 
+in a rat model, suggesting that functional neuronal input may not be necessary 
+for the promotion of inflammation.

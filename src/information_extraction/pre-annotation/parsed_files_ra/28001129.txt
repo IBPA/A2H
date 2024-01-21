@@ -1,0 +1,15 @@
+Quantification of blood oxygen saturation (SO2) in vivo is essential for 
+understanding the pathogenesis of diseases in which hypoxia is thought to play a 
+role, including inflammatory disorders such as multiple sclerosis (MS) and 
+rheumatoid arthritis (RA). We describe a low-cost multispectral microscope and 
+oximetry technique for calibration-free absolute oximetry of surgically exposed 
+blood vessels in vivo. We imaged the vasculature of the dorsal spinal cord in 
+healthy rats, and varied inspired oxygen (FiO2) in order to evaluate the 
+sensitivity of the imaging system to changes in SO2. The venous SO2 was 
+calculated as 67.8  ±  10.4% (average  ±  standard deviation), increasing to 
+83.1  ±  11.6% under hyperoxic conditions (100% FiO2) and returning to 
+67.4  ±  10.9% for a second normoxic period; the venous SO2 was 50.9  ±  15.5% 
+and 29.2  ±  24.6% during subsequent hypoxic states (18% and 15% FiO2 
+respectively). We discuss the design and performance of our multispectral 
+imaging system, and the future scope for extending this oximetry technique to 
+quantification of hypoxia in inflamed tissue.

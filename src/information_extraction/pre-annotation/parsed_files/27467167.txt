@@ -1,0 +1,13 @@
+Clostridium difficile is the principal cause of antibiotic-associated diarrhea. 
+Major metabolic requirements for colonization and expansion of C. difficile 
+after microbiota disturbance have not been fully determined. In this study, we 
+show that glutamate utilization is important for C. difficile to establish 
+itself in the animal gut. When the gluD gene, which codes for glutamate 
+dehydrogenase (GDH), was disrupted, the mutant C. difficile was unable to 
+colonize and cause disease in a hamster model. Further, from the complementation 
+experiment it appears that extracellular GDH may be playing a role in promoting 
+C. difficile colonization and disease progression. Quantification of free amino 
+acids in the hamster gut during C. difficile infection showed that glutamate is 
+among preferred amino acids utilized by C. difficile during its expansion. This 
+study provides evidence of the importance of glutamate metabolism for C. 
+difficile pathogenesis.

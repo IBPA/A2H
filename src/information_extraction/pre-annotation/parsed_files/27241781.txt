@@ -1,0 +1,5 @@
+Clostridium difficile is an anaerobic bacterium that causes diarrheal illnesses. 
+Disease onset is linked with exposure to oral antibiotics and consequent 
+depletion of secondary bile acids. Here we investigate the relationship between 
+in vitro secondary bile acid tolerance and in vivo disease scores of diverse C. 
+difficile strains in mice.

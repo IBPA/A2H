@@ -1,0 +1,22 @@
+Clostridium difficile is a major nosocomial pathogen in humans with an 
+increasing incidence in the community. The "one-health" approach of research is 
+needed to investigate possible reservoirs of C. difficile and route of its 
+transmission. The objective of this study is to investigate the occurrence of C. 
+difficile in pigs in the Czech Republic with characterisation of the isolates to 
+determine their genetic relatedness to C. difficile isolates from European and 
+Asian pigs. A total of 198 pig faeces samples from 23 farms were investigated 
+and of those 57 samples (55 piglets, 2 sows) from 11 farms were confirmed as C. 
+difficile positive. The majority of C. difficile isolates belonged to the 
+sequence type 11 and clade 5. The predominant ribotypes were 078 (n = 23), 
+078-variant (n = 5), 033 (n = 10) followed by RTs 150 (n = 7), 011 (n = 5), 045 
+(n = 4), 126, 014, 002 (n = 1, each). All isolates were susceptible to 
+metronidazole, vancomycin and tetracycline. Isolates of RTs 150 and 078-variant 
+were moxifloxacin resistant (MIC≥32 mg/L) and carried the amino acid 
+substitution Thr82Ile in the GyrA. A multi-locus variable number tandem-repeats 
+analysis (MLVA) revealed a clonal relatedness of isolates within individual 
+farms and in C. difficile RT078 isolates between two Czech farms. Czech C. 
+difficile RT078 isolates clustered with German C. difficile RT078 isolates and 
+Czech C. difficile 078-variant isolates clustered with C. difficile RT078 
+isolates from Japan and Taiwan. This study found an emergence of C. difficile 
+RT078 in Czech piglets that was related genetically to C. difficile RT078 
+isolates from Germany, Japan and Taiwan.

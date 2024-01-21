@@ -1,0 +1,26 @@
+The availability of a large variety of specific blockers, which inhibit 
+different K(+) currents, would help to elucidate their differences in 
+physiological function. Short peptide toxins isolated from scorpion venoms are 
+able to block voltage-dependent or Ca(2+)-activated K(+) channels. Here, we have 
+studied the venom of the Moroccan scorpion Buthus occitanus Paris (BoP) in order 
+to find new peptides, which could enlarge our structure-function relationship 
+knowledge on the Kv1.3 blocker Kaliotoxin (KTX) that belongs to the α-KTx3.1 
+family. Indeed and since more a decade, KTX is widely used by international 
+investigators because it exhibits a quite sharp specificity and a high-affinity 
+for the Kv1.3 channel, which is not only a neuronal channel but also a 
+therapeutic target for diverse autoimmune diseases such as multiple sclerosis, 
+type 1 diabetes, and rheumatoid arthritis. The BoP venom was first investigated 
+using HPLC and MALDI-TOF/MS. Further, the HPLC fractions were screened by ELISA 
+with antibodies raised against KTX. These antibodies recognized at least three 
+components toxic in mice by intracerebroventricular injection. They were further 
+pharmacologically characterized by competition using (125)I-KTX bound to its 
+specific binding sites on rat brain synaptosomes. A single component (4161 Da) 
+inhibited totally the (125)I-KTX binding and with high-affinity (IC50 = 0.1 nM), 
+while the two other components poorly competed with (IC50 > 100 nM). These 
+toxins were sequenced in full by Edman's degradation. The high-affinity ligand 
+(BoPKTX) shares 86% sequence identity with KTX and was classified as toxin 
+α-KTx3.17. The two others peptides (BoP1 and BoP2, 4093 Da and 4121 Da, 
+respectively) only differ by a Lys/Arg mutation. Their amino acid sequences were 
+related to Martentoxin, which has been characterized from the Chinese scorpion 
+Buthus martenzi Karch and described as both a BKCa and Kv1.3 blocker. 
+Accordingly, they belong to the α-KTx16 family.

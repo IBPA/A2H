@@ -1,0 +1,22 @@
+The relevance of large clostridial toxin-negative, binary toxin-producing 
+(A-B-CDT+) Clostridium difficile strains in human infection is still 
+controversial. In this study, we investigated putative virulence traits that may 
+contribute to the role of A-B-CDT+C. difficile strains in idiopathic diarrhea. 
+Phenotypic assays were conducted on 148 strains of C. difficile comprising 10 
+different A-B-CDT+C. difficile ribotypes (RTs): 033, 238, 239, 288, 585, 586, 
+QX143, QX444, QX521 and QX629. A subset of these isolates (n = 53) was 
+whole-genome sequenced to identify genetic loci associated with virulence and 
+survival. Motility studies showed that with the exception of RT 239 all RTs 
+tested were non-motile. C. difficile RTs 033 and 288 had deletions in the F2 and 
+F3 regions of their flagella operon while the F2 region was absent from strains 
+of RTs 238, 585, 586, QX143, QX444, QX521 and QX629. The flagellin and flagella 
+cap genes, fliC and fliD, respectively, involved in adherence and host 
+colonization, were conserved in all strains, including reference strains. All 
+A-B-CDT+C. difficile strains produced at least three extracellular enzymes 
+(deoxyribonuclease, esterase and mucinase) indicating that these are important 
+extracellular proteins. The toxicity of A-B-CDT+C. difficile strains in Vero 
+cells was confirmed, however, pathogenicity was not demonstrated in a mouse 
+model of disease. Despite successful colonization by most strains, there was no 
+evidence of disease in mice. This study provides the first in-depth analysis of 
+A-B-CDT+C. difficile strains and contributes to the current limited knowledge of 
+these strains as a cause of C. difficile infection.

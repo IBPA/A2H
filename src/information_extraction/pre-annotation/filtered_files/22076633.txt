@@ -1,0 +1,27 @@
+OBJECTIVE: Cia3 is a locus on rat chromosome 4 that regulates severity and joint 
+damage in collagen- and pristane-induced arthritis (CIA and PIA). This study was 
+undertaken to refine the Cia3 gene-containing interval toward gene 
+identification and obtain insights into its mode of action.
+METHODS: Five DA.F344(Cia3) subcongenic rat strains were generated and studied 
+using the PIA and CIA models. Levels of antibodies against type II collagen 
+(both allo- and autoantibodies) were measured. Joints and synovial tissue were 
+collected 32 days after the induction of PIA (chronic stage) for histologic and 
+quantitative polymerase chain reaction analysis of interleukin-1β (IL-1β) and 
+matrix metalloproteinase (MMP) levels.
+RESULTS: Three subcongenic strains sharing the centromeric Cia3d interval were 
+protected and 2 subcongenic strains sharing the telomeric Cia3g interval, which 
+did not overlap with Cia3d, were also protected, developing significantly less 
+severe CIA and PIA. Normal joint architecture was preserved in DA.F344(Cia3) and 
+DA.F344(Cia3d) congenic rats with PIA, while DA rats had pronounced synovial 
+hyperplasia, angiogenesis, inflammatory infiltration, and bone or cartilage 
+erosions. The DA.F344(Cia3d) and DA.F344(Cia3g) strains had significantly lower 
+synovial levels of IL-1β (5-fold and nearly 2-fold, respectively [the latter not 
+reaching statistical significance]), MMP-1 (expressed predominantly in DA rats), 
+MMP-3 (79-fold and 8-fold, respectively), and MMP-14 (21-fold and 1.4-fold, 
+respectively) and reduced levels of pathogenic autoantibodies against type II 
+collagen, compared with DA rats.
+CONCLUSION: We have identified 2 new arthritis severity and articular damage 
+loci within Cia3. These loci regulate pathogenic processes in 2 different models 
+of rheumatoid arthritis, and the identification of these genes has the potential 
+to generate new targets for therapies aimed at reducing disease severity and 
+articular damage, and may additionally have prognostic value.

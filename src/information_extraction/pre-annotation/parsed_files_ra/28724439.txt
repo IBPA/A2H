@@ -1,0 +1,30 @@
+BACKGROUND: Rheumatoid arthritis (RA) is a common autoimmune disease 
+characterized by chronic inflammation of the joints, leading to bone erosion and 
+joint dysfunction. Despite the recent successes of disease-modifying 
+anti-rheumatic drugs (DMARDs), there is still clinical need for understanding 
+the development and molecular etiology of RA. Wnts are developmental morphogens 
+whose roles in adult pathology are poorly characterized. Wnt5a is a member of 
+the non-canonical family of Wnts that modulates a wide range of cell processes, 
+including differentiation, migration, and inflammation. Wnt5a has been 
+implicated as a possible contributor to arthritis and it is upregulated in 
+synovial fibroblasts from RA patients.
+METHODS: We investigated the role of endogenous Wnt5a in RA. 
+Tamoxifen-inducible, Wnt5a knockout (Wnt5a cKO) mice and littermate controls 
+were monitored for arthritis development and joint pathology using the K/BxN 
+serum transfer-induced arthritis (STIA) model. To explore a role of Wnt5a in 
+osteoclast fusion, bone marrow-derived monocytes (BMDMs) were differentiated in 
+vitro.
+RESULTS: Wnt5a cKO mice were resistant to arthritis development compared to 
+control littermates as assessed by ankle thickness and histologic measurements. 
+Some parameters of inflammation were reduced in the Wnt5a cKO mice, including 
+the extent of polymononuclear cell infiltration and extra-articular 
+inflammation. Wnt5a cKO mice also exhibited less cartilage destruction and a 
+reduction in osteoclast activity with concomitant reduction in 
+tartrate-resistant acid phosph﻿atase (TRAP), cathepsin K (CTSK), macrophage 
+colony-stimulating factor (MCSF), matrix metalloproteinase (MMP)2 and MMP9 in 
+the arthritic joints. Treatment of BMDMs with Wnt5a enhanced osteoclast fusion 
+and increased the expression of dendrocyte-expressed seven transmembrane protein 
+(DCSTAMP) and MMP9, that are necessary for osteoclast formation and activity.
+CONCLUSIONS: These data suggest that Wnt5a modulates the development of 
+arthritis by promoting inflammation and osteoclast fusion, and provide the first 
+mouse genetic evidence of a role for endogenous Wnt5a in autoimmune disease.

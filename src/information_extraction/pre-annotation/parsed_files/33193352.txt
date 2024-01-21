@@ -1,0 +1,30 @@
+OBJECTIVES: Rheumatoid arthritis is an autoimmune disease with multifactorial 
+etiopathogenesis. Among the environmental factors, mucosal infections and the 
+inducing pathobionts are gaining increasing attention. We here set out to 
+explore the gut-joint-axis and the impact of Clostridioides difficile infection 
+on subsequent arthritis.
+METHODS: We combined C. difficile infection in DBA/1J × B10.Q F1 mice with 
+collagen induced arthritis (CIA). Mice were infected via oral gavage and 
+infection was monitored by weight loss, colonic histology, and antibodies 
+against bacteria. Scoring of arthritis was performed macroscopically. Intestinal 
+microbiomes were analyzed and immune responses were monitored via quantification 
+of transcription factor-specific mRNA isolated from the inguinal and mesenteric 
+lymph nodes.
+RESULTS: Infection with C. difficile VPI 10463 resulted in significant weight 
+loss and severe colitis yet accelerated the reversal towards the original 
+microbiome after antibiotic treatment. Spontaneous clearance of VPI 10463 
+infection reduced the incidence of subsequent CIA and led to mesenteric Treg and 
+Th2 polarization. However, this attenuating effect was abrogated if VPI 10463 
+was eradicated via vancomycin followed by fecal microbiota transplantation. 
+Moreover, VPI 10463 infection following the onset of CIA lacked therapeutic 
+potential.
+CONCLUSION: Our results demonstrate that infection with C. difficile VPI10463 
+induced an inflammation of the gut that protected from subsequent arthritis 
+development in mice. Both, microbial changes to the gut and immune cell 
+mobilization and/or polarization may have contributed to arthritis protection. 
+The prospect of potential therapeutic benefits resulting from C. difficile 
+infections or some byproduct thereof call for further experiments that help 
+elucidate exact mechanisms.
+
+Copyright © 2020 Schmidt, Wenndorf, Ebbers, Volzke, Müller, Strübing, Kriebel, 
+Kneitz, Kreikemeyer and Müller-Hilke.

@@ -1,0 +1,26 @@
+Background: The proliferation of publicly accessible large-scale biological data 
+together with increasing availability of bioinformatics tools have the potential 
+to transform biomedical research. Here we report a crowdsourcing Jamboree that 
+explored whether a team of volunteer biologists without formal bioinformatics 
+training could use OMiCC, a crowdsourcing web platform that facilitates the 
+reuse and (meta-) analysis of public gene expression data, to compile and 
+annotate gene expression data, and design comparisons between disease and 
+control sample groups. Methods: The Jamboree focused on several common human 
+autoimmune diseases, including systemic lupus erythematosus (SLE), multiple 
+sclerosis (MS), type I diabetes (DM1), and rheumatoid arthritis (RA), and the 
+corresponding mouse models. Meta-analyses were performed in OMiCC using 
+comparisons constructed by the participants to identify 1) gene expression 
+signatures for each disease (disease versus healthy controls at the gene 
+expression and biological pathway levels), 2) conserved signatures across all 
+diseases within each species (pan-disease signatures), and 3) conserved 
+signatures between species for each disease and across all diseases 
+(cross-species signatures). Results: A large number of differentially expressed 
+genes were identified for each disease based on meta-analysis, with observed 
+overlap among diseases both within and across species. Gene set/pathway 
+enrichment of upregulated genes suggested conserved signatures (e.g., 
+interferon) across all human and mouse conditions. Conclusions: Our Jamboree 
+exercise provides evidence that when enabled by appropriate tools, a "crowd" of 
+biologists can work together to accelerate the pace by which the increasingly 
+large amounts of public data can be reused and meta-analyzed for generating and 
+testing hypotheses. Our encouraging experience suggests that a similar 
+crowdsourcing approach can be used to explore other biological questions.

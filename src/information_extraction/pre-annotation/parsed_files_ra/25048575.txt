@@ -1,0 +1,33 @@
+OBJECTIVE: Pituitary adenylate cyclase-activating polypeptide (PACAP) expressed 
+in capsaicin-sensitive sensory neurons and immune cells has divergent functions 
+in inflammatory and pain processes. This study was undertaken to investigate the 
+involvement of PACAP in a mouse model of rheumatoid arthritis.
+METHODS: Arthritis was induced in PACAP(-/-) and wild-type (PACAP(+/+) ) mice by 
+K/BxN serum transfer. General features of the disease were investigated by 
+semiquantitative scoring, plethysmometry, and histopathologic analysis. Mechano- 
+and thermonociceptive thresholds and motor functions were also evaluated. 
+Metabolic activity was assessed by positron emission tomography. Bone morphology 
+was measured by in vivo micro-computed tomography, myeloperoxidase activity and 
+superoxide production by bioluminescence imaging with luminol and lucigenin, 
+respectively, and vascular permeability by fluorescent indocyanine green dye 
+study.
+RESULTS: PACAP(+/+) mice developed notable joint swelling, reduced grasping 
+ability, and mechanical (but not thermal) hyperalgesia after K/BxN serum 
+transfer. In PACAP(-/-) mice clinical scores and edema were significantly 
+reduced, and mechanical hyperalgesia and motor impairment were absent, 
+throughout the 2-week period of observation. Metabolic activity and superoxide 
+production increased in the tibiotarsal joints of wild-type mice but were 
+significantly lower in PACAP(-/-) animals. Myeloperoxidase activity in the ankle 
+joints of PACAP(-/-) mice was significantly reduced in the early phase of 
+arthritis, but increased in the late phase. Synovial hyperplasia was also 
+significantly increased, and progressive bone spur formation was observed in 
+PACAP-deficient mice only.
+CONCLUSION: In PACAP-deficient mice with serum-transfer arthritis, joint 
+swelling, vascular leakage, hyperalgesia, and early inflammatory cell 
+accumulation are reduced; in the later phase of the disease, immune cell 
+function and bone neoformation are increased. Elucidation of the underlying 
+pathways of PACAP activity may open promising new avenues for development of 
+therapy in inflammatory arthritis.
+
+© 2014 The Authors. Arthritis & Rheumatology is published by Wiley Periodicals, 
+Inc. on behalf of the American College of Rheumatology.

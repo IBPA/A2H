@@ -1,0 +1,22 @@
+In this report, we show that apoptosis signal-regulating kinase 1(-/-) (ASK1 KO) 
+mice were resistant to inflammatory arthritis induced in the K/BxN serum 
+transfer model of rheumatoid arthritis (RA). The p38 inhibitor, SD-0006 was 
+administered to wild type (WT) mice as a comparator. Both ASK1 KO and p38 
+inhibition resulted in marked attenuation of edema, cartilage damage, bone 
+resorption, and general inflammatory responses. Transcriptional profiling of 
+mRNA prepared from paw tissue demonstrated that the production of many 
+proinflammatory genes including cytokines, chemokines, and extracellular matrix 
+degradative enzymes were maintained at basal levels by either ASK1 KO or 
+prophylactic p38 MAPK inhibition. In the mouse whole blood (MWB) assay, tumor 
+necrosis factor-α (TNF-α)-induced KC and CCL2 levels and also LPS-induced 
+interleukin-6 (IL-6), CCL2, and KC levels in MWB from ASK1 KO were significantly 
+lower than those from WT. Furthermore, both p38 and JNK were activated by TNF-α 
+in human synovial fibroblasts isolated from RA patients (RASF). SD-0006 or 
+SP600125, a JNK inhibitor, partially blocked the elevation of IL-6 production in 
+RASF following stimulation with TNF-α. In contrast, dual inhibition with both 
+p38/JNK inhibitors almost completely abolished TNF-α-induced IL-6 production 
+from these cells. Ablation of ASK1 expression in RASF using siRNA for ASK1 
+resulted in inhibition of TNF-α-induced IL-6 and PGE(2) production. This study 
+is the first to suggest that ASK1 is critical for the development of RA and that 
+ASK1 may be involved in the production of proinflammatory mediators in response 
+to TNF-α stimulation in the RA joint.

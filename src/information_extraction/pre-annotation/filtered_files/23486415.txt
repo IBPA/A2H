@@ -1,0 +1,23 @@
+OBJECTIVE: To investigate the effect of lysophosphatidic acid (LPA) receptor 
+inhibition in a mouse model of autoantibody-mediated arthritis.
+METHODS: Arthritis was induced in C57BL/6 mice by K/BxN serum transfer. 
+Arthritic mice were treated with the LPA receptor antagonist, Ki16425 and 
+arthritis severity was assessed clinically and histologically. Expression of 
+inflammatory mediators in joints was identified by a mouse cytokine array and 
+validated by western blot and real-time PCR assays. Effects of treatment with 
+LPA receptor antagonist or with small interfering RNA on bone metabolism were 
+assessed by in vitro assays of osteoclastogenesis, bone resorption, osteoblasts 
+differentiation and bone mineralisation.
+RESULTS: Mice treated with the LPA receptor antagonist Ki16425 showed attenuated 
+arthritis characterised by reduction of synovial inflammation, cartilage damage 
+and, more markedly, bone erosion. We detected increased apoptosis, reduction of 
+inflammatory mediators and of bone remodelling proteins in arthritic joints from 
+mice treated with Ki16425. In addition, we demonstrated that inhibition or 
+suppression of LPA1 receptor reduces osteoclast differentiation and bone 
+resorption and, on the contrary, it promotes differentiation of osteoblasts and 
+bone mineralisation.
+CONCLUSIONS: Pharmacological inhibition of LPA1 receptor in the K/BxN 
+serum-transfer arthritis model led to reduction of severity of arthritis 
+involving multiple mechanisms, increased apoptosis, reduced inflammatory 
+mediators and proteins involved in bone remodelling, that show LPA1 as a very 
+promising target in rheumatoid arthritis treatment.

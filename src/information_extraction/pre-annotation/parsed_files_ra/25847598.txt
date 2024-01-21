@@ -1,0 +1,20 @@
+Cas-L/NEDD9 is a cytoplasmic docking protein downstream of β1 integrin-mediated 
+signaling pathway and is essential for cellular migration and β1 
+integrin-mediated costimulation of T cells. We previously found that increased 
+number of Cas-L positive leukocytes migrated into the inflamed joints of HTLV-I 
+tax transgenic mice which spontaneously develop polyarthritis, suggesting a role 
+of Cas-L in rheumatoid arthritis (RA) pathophysiology. Our current study 
+expanded these findings on the role of Cas-L/NEDD9 in the development of RA by 
+analyzing the pathophysiological changes in a Nedd9(-/-) mouse collagen-induced 
+arthritis (CIA) model. Nedd9(-/-) mice exhibited a decrease in arthritis 
+severity as compared to Nedd9(+/+) mice. In addition, as being conducted bone 
+marrow transplantation experiments with a CIA model, Nedd9(-/-)→Nedd9(+/+) 
+transplant showed a decrease in the incidence and severity score of arthritis, 
+compared to those of Nedd9(+/+)→Nedd9(-/-) transplant. For analysis of serum 
+levels of various cytokines, IL-1β, IL-6, IL-17, TNF-α, IFN-γ and anti-collagen 
+antibody were decreased, while IL-4 and IL-10 levels were increased, in 
+Nedd9(-/-) mice as compared to those in Nedd9(+/+) mice. Furthermore, 
+collagen-mediated cellular responses of lymphocytes isolated from spleen or 
+affected lymph nodes of Nedd9(-/-) mice were reduced. Our results strongly 
+suggest that Cas-L/NEDD9 plays a pivotal role in the pathophysiology of CIA, and 
+that Cas-L/NEDD9 may be a potential molecular target for the treatment of RA.

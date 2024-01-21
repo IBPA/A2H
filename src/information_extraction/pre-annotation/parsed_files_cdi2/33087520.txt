@@ -1,0 +1,38 @@
+The gut microbiota has a key role in determining susceptibility to 
+Clostridioides difficile infections (CDIs). However, much of the mechanistic 
+work examining CDIs in mouse models uses animals obtained from a single source. 
+We treated mice from 6 sources (2 University of Michigan colonies and 4 
+commercial vendors) with clindamycin, followed by a C. difficile challenge, and 
+then measured C. difficile colonization levels throughout the infection. The 
+microbiota were profiled via 16S rRNA gene sequencing to examine the variation 
+across sources and alterations due to clindamycin treatment and C. difficile 
+challenge. While all mice were colonized 1 day postinfection, variation emerged 
+from days 3 to 7 postinfection with animals from some sources colonized with C. 
+difficile for longer and at higher levels. We identified bacteria that varied in 
+relative abundance across sources and throughout the experiment. Some bacteria 
+were consistently impacted by clindamycin treatment in all sources of mice, 
+including Lachnospiraceae, Ruminococcaceae, and Enterobacteriaceae To identify 
+bacteria that were most important to colonization regardless of the source, we 
+created logistic regression models that successfully classified mice based on 
+whether they cleared C. difficile by 7 days postinfection using community 
+composition data at baseline, post-clindamycin treatment, and 1 day 
+postinfection. With these models, we identified 4 bacterial taxa that were 
+predictive of whether C. difficile cleared. They varied across sources 
+(Bacteroides) or were altered by clindamycin (Porphyromonadaceae) or both 
+(Enterobacteriaceae and Enterococcus). Allowing for microbiota variation across 
+sources better emulates human interindividual variation and can help identify 
+bacterial drivers of phenotypic variation in the context of CDIs.IMPORTANCE 
+Clostridioides difficile is a leading nosocomial infection. Although 
+perturbation to the gut microbiota is an established risk, there is variation in 
+who becomes asymptomatically colonized, develops an infection, or has adverse 
+infection outcomes. Mouse models of C. difficile infection (CDI) are widely used 
+to answer a variety of C. difficile pathogenesis questions. However, the 
+interindividual variation between mice from the same breeding facility is less 
+than what is observed in humans. Therefore, we challenged mice from 6 different 
+breeding colonies with C. difficile We found that the starting microbial 
+community structures and C. difficile persistence varied by the source of mice. 
+Interestingly, a subset of the bacteria that varied across sources were 
+associated with how long C. difficile was able to colonize. By increasing the 
+interindividual diversity of the starting communities, we were able to better 
+model human diversity. This provided a more nuanced perspective of C. difficile 
+pathogenesis.

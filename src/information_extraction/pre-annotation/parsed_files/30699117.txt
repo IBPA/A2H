@@ -1,0 +1,20 @@
+Toxin synthesis and endospore formation are two of the most critical factors 
+that determine the outcome of infection by Clostridioides difficile. The two 
+major toxins, TcdA and TcdB, are the principal factors causing damage to the 
+host. Spores are the infectious form of C. difficile, permit survival of the 
+bacterium during antibiotic treatment and are the predominant cell form that 
+leads to recurrent infection. Toxin production and sporulation have their own 
+specific mechanisms of regulation, but they share negative regulation by the 
+global regulatory protein CodY. Determining the extent of such regulation and 
+its detailed mechanism is important for understanding the linkage between two 
+apparently independent biological phenomena and raises the possibility of 
+creating new ways of limiting infection. The work described here shows that a 
+codY null mutant of a hypervirulent (ribotype 027) strain is even more virulent 
+than its parent in a mouse model of infection and that the mutant expresses most 
+sporulation genes prematurely during exponential growth phase. Moreover, 
+examining the expression patterns of mutants producing CodY proteins with 
+different levels of residual activity revealed that expression of the toxin 
+genes is dependent on total CodY inactivation, whereas most sporulation genes 
+are turned on when CodY activity is only partially diminished. These results 
+suggest that, in wild-type cells undergoing nutrient limitation, sporulation 
+genes can be turned on before the toxin genes.

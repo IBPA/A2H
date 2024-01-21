@@ -1,0 +1,18 @@
+Loss-of-function mutations in the tyrosine kinase JAK3 cause autosomal recessive 
+severe combined immunodeficiency (SCID). Defects in this form of SCID are 
+restricted to the immune system, which led to the development of 
+immunosuppressive JAK inhibitors. We find that the B6.Cg-Nr1d1tm1Ven/LazJ mouse 
+line purchased from Jackson Laboratories harbors a spontaneous mutation in Jak3, 
+generating a SCID phenotype and an inability to generate antigen-independent 
+professional cytokine-producing innate lymphoid cells (ILCs). Mechanistically, 
+Jak3 deficiency blocks ILC differentiation in the bone marrow at the ILC 
+precursor and the pre-NK cell progenitor. We further demonstrate that the 
+pan-JAK inhibitor tofacitinib and the specific JAK3 inhibitor PF-06651600 impair 
+the ability of human intraepithelial ILC1 (iILC1) to produce IFN-γ, without 
+affecting ILC3 production of IL-22. Both inhibitors impaired the proliferation 
+of iILC1 and ILC3 and differentiation of human ILC in vitro. Tofacitinib is 
+currently approved for the treatment of moderate-to-severely active rheumatoid 
+arthritis. Both tofacitinib and PF-06651600 are currently in clinical trials for 
+several other immune-mediated conditions. Our data suggest that therapeutic 
+inhibition of JAK may also impact ILCs and, to some extent, underlie clinical 
+efficacy.

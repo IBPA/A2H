@@ -1,0 +1,11 @@
+Thirty stool filtrates known to contain Clostridium difficile toxin based on 
+previous testing on McCoy cells were tested for toxicity on primary African 
+green monkey kidney (AGMK), McCoy, MRC-5, primary rhesus monkey kidney (RMK), 
+and Vero cells. All 30 filtrates showed cytotoxic effect at greater than or 
+equal to 1:100 dilution on McCoy and Vero cells. A total of 22 filtrates were 
+positive on MRC-5 monolayers, while only 16 and 10 filtrates showed positive 
+cytotoxic effect on AGMK and RMK cells, respectively. Another 630 stool 
+specimens were tested on McCoy and Vero cells only. Of these stool filtrates, 70 
+were positive and 560 were negative with both cell lines, which thus gave 100% 
+agreement. Vero cells can be used interchangeably with McCoy cells for the 
+detection of C. difficile toxin in stool filtrates.

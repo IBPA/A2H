@@ -1,0 +1,16 @@
+The calpains form a growing family of structurally related intracellular 
+multidomain cysteine proteinases containing a papain-related catalytic domain, 
+whose activity depends on calcium. The calpains are believed to play important 
+roles in cytoskeletal remodeling processes, cell differentiation, apoptosis and 
+signal transduction, but are also implicated in muscular dystrophy, cardiac and 
+cerebral ischemia, platelet aggregation, restenosis, neurodegenerative diseases, 
+rheumatoid arthritis and cataract formation. The best characterized calpains, 
+the ubiquitously expressed mu- and m-calpains, are heterodimers consisting of a 
+common 30-kDa small and a variable 80-kDa subunit. The recently determined 
+crystal structures of human and rat m-calpain crystallized in the absence of 
+calcium essentially explain the inactivity of the apoform by catalytic domain 
+disruption, indicate several sites where calcium could bind causing reformation 
+of a papain-like catalytic domain, and additionally reveal modes by which 
+phospholipid membranes could reduce the calcium requirement. Current evidence 
+points to a cooperative interaction of several sites, which, upon calcium 
+binding, trigger the reformation of a papain-similar catalytic domain.

@@ -1,0 +1,20 @@
+Mycoplasma arthritidis causes arthritis in rodents that resembles human 
+rheumatoid arthritis. It produces a superantigen (MAM) that stimulates 
+production of cytokines by making a bridge between lymphocyte T-cell receptor 
+with the appropriate Vbeta chain, and H-2 1-Ealpha MHC class II molecules. Here 
+we studied MAM-induced nitric oxide (NO) production in mouse peritoneal 
+macrophages and found that it was: (1) time and concentration dependent, (2) 
+possibly derived from inducible NOS synthase since it was reduced significantly 
+by amino guanidine pretreatment, (3) restricted to H-2(K) (C3H/HePas and 
+C3H/HeJ) and H-2(d) strains (BALB/c), (4) independent of TLR4 signaling since 
+the coisogenic strains C3H/HePas and C3H/HeJ (TLR4 deficient) produced similar 
+levels of NO following MAM stimulation, (5) potentiated by lipopolysaccharide, 
+and (6) dependent on the presence of nonadherent peritoneal cells. 
+Neutralization of interferon-gamma (IFNgamma in the peritoneal cell cultures 
+with monoclonal antibodies abolished MAM-induced NO production. Addition of 
+rIFNgamma to the adherent cells substituted the nonadherent cells for 
+MAM-induced NO production. A macrophage cell line, J774A.1 (H-2(d)), also 
+produced NO upon MAM stimulation but only when BALB/c spleen lymphocytes were 
+added. Thus, in murine macrophages, MAM induces NO production that is dependent 
+on signaling through MHC class II molecules and IFNgamma but independent of TLR4 
+expression.

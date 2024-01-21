@@ -1,0 +1,23 @@
+OBJECTIVE: The histamine H4 receptor (H4R) has been shown to drive inflammatory 
+responses in models of asthma, colitis and dermatitis, and in these models it 
+appears to affect both innate and adaptive immune responses. In this study, we 
+used both H4R-deficient mice and a specific H4R antagonist, JNJ 28307474, to 
+investigate the involvement of the H4R in mouse arthritis models.
+METHODS: H4R-deficient mice and wild-type mice administered the H4R antagonist 
+were studied in models of collagen antibody-induced arthritis (CAIA) and 
+collagen-induced arthritis (CIA). The impact on Th17 cells was assessed by 
+restimulation of inguinal lymphocytes in the disease or immunisation models and 
+with in vitro stimulation of whole blood.
+RESULTS: Both H4R-deficient mice and mice treated with the H4R antagonist 
+exhibited reduced arthritis disease severity in both CAIA and CIA models. This 
+was evident from the reduction in disease score and in joint histology. In the 
+CIA model, treatment with the H4R antagonist reduced the number of interleukin 
+(IL)-17 positive cells in the lymph node and the total production of IL-17. Th17 
+cell development in vivo was reduced in H4R-deficient mice or in mice treated 
+with an H4R antagonist. Finally, treatment of both mouse and human blood with an 
+H4R antagonist reduced the production of IL-17 when cells were stimulated in 
+vitro.
+CONCLUSIONS: These results implicate the H4R in disease progression in arthritis 
+and in the production of IL-17 from Th17 cells. This work supports future 
+clinical exploration of H4R antagonists for the treatment of rheumatoid 
+arthritis.

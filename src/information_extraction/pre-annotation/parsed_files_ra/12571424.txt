@@ -1,0 +1,21 @@
+A major problem in inflammatory bowel disease (IBD) is the accumulation of 
+highly activated T-helper cells that are refractory to apoptosis induction. 
+Hence, persistent inflammatory lesions are prevalent and are the basis of 
+chronic disease. In IBD upregulation of costimulatory molecules on lamina 
+propria lymphocytes has been described leading to apoptosis resistance. CD44 is 
+a cell adhesion molecule and a signalling receptor that functions as a 
+costimulatory molecule in T-cell activation. Several variant isoforms of CD44 
+(CD44v) are expressed by alternative splicing of variant exons encoding 
+extracellular regions. Particularly isoforms containing CD44v7 are expressed on 
+T cells and macrophages in T-helper-1 (Th1)-mediated chronic inflammation and 
+autoimmune diseases. In this review recent data on the functional involvement of 
+CD44v7 isoforms in IBD are discussed. In a mouse model of experimental colitis 
+blockade or deletion of CD44v7 protects mice from severe intestinal inflammation 
+by inducing apoptosis in lamina propria mononuclear cells. Recently, we observed 
+that in lamina propria mononuclear cells from the inflamed but not uninflamed 
+mucosa of patients with Crohn's disease, blockade of CD44v7 isoforms also 
+induces apoptosis. The finding that obstruction of CD44v7 isoforms can 
+antagonize Th1-cytokine-dependent immune pathology identifies CD44v7 as a target 
+in the treatment of inflammatory diseases such as IBD, rheumatoid arthritis, 
+multiple sclerosis and other autoimmune diseases in which CD44v7 isoforms are 
+upregulated.

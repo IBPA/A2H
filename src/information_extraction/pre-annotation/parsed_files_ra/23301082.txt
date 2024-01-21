@@ -1,0 +1,23 @@
+Sphingosine-1-phosphate (S1P), a potent bioactive lipid, is emerging as a 
+central mediator in inflammation and immune responses. We have previously 
+implicated S1P and its synthetic enzyme sphingosine kinase (SK) in inflammatory 
+and autoimmune disorders, including inflammatory bowel disease and rheumatoid 
+arthritis. Generation of S1P requires phosphorylation of sphingosine by SK, of 
+which there are two isoforms. Numerous studies have implicated SK1 in immune 
+cell trafficking, inflammation and autoimmune disorders. In this study, we set 
+out to determine the role of SK and S1P in lupus nephritis (LN). To this end, we 
+examined S1P and dihydro-S1P (dh-S1P) levels in serum and kidney tissues from a 
+mouse model of LN. Interestingly dh-S1P was significantly elevated in serum and 
+kidney tissue from LN mice, which is more readily phosphorylated by SK2. 
+Therefore, we employed the use of the specific SK2 inhibitor, ABC294640 in our 
+murine model of LN. Treatment with ABC294640 did not improve vascular or 
+interstitial pathology associated with LN. However, mice treated with the SK2 
+inhibitor did demonstrate decreases in glomerular pathology and accumulation of 
+B and T cells in the spleen these were not statistically different from lpr mice 
+treated with vehicle. LN mice treated with ABC294640 did not have improved urine 
+thromboxane levels or urine proteinuria measurements. Both S1P and dh-S1P levels 
+in circulation were significantly reduced with ABC294640 treatment; however, 
+dh-S1P was actually elevated in kidneys from LN mice treated with ABC294640. 
+Together these data demonstrate a role for SKs in LN; however, they suggest that 
+inhibition of SK1 or perhaps both SK isoforms would better prevent elevations in 
+S1P and dh-S1P and potentially better protect against LN.

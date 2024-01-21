@@ -1,0 +1,23 @@
+Clostridium difficile is a frequent cause of severe, recurrent, post-antibiotic 
+diarrhoea and pseudomembranous colitis. Its pathogenicity is mediated mainly by 
+two toxins, TcdA and TcdB. However, different adhesins have also been described 
+as important colonization factors which are implicated in the first step of the 
+intestinal infection. In this study, we focused our interest on one of these 
+adhesins, fibronectin-binding protein A (FbpA), and on its role in the 
+intestinal colonization process. A mutant of FbpA (CDΔFbpA) was constructed in 
+C. difficile strain 630Δerm by using ClosTron technology. This mutant was 
+characterized in vitro and in vivo and compared to the isogenic wild-type 
+strain. Adhesion of the CDΔFbpA mutant to the human colonic epithelial cell line 
+Caco-2 and to mucus-secreting HT29-MTX cells was examined. Surprisingly, the 
+CDΔFbpA mutant adhered more than the wild-type parental strain. The CDΔFbpA 
+mutant was also analysed in three different mouse models by following the 
+intestinal implantation kinetics (faecal shedding) and caecal colonization (7 
+days post-challenge). We showed that in monoxenic mice, CDΔFbpA shed C. 
+difficile in faeces at the same rate as that of the isogenic wild-type strain 
+but its colonization of the caecal wall was significantly reduced. In dixenic 
+mice, the shedding rate was slower for the CDΔFbpA mutant than for the isogenic 
+wild-type strain during the first days of infection, but no significant 
+difference was observed in caecal colonization. Similar rates of intestinal 
+implantation and caecal colonization were observed for both strains in assays 
+performed in human microbiota-associated mice. Taken together, our data suggest 
+that FbpA plays a role in intestinal colonization by C. difficile.

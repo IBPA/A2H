@@ -1,0 +1,22 @@
+BACKGROUND: Genetic studies have pointed out that CD226 variants, encoding 
+DNAM-1, could be associated with susceptibility to rheumatoid arthritis. 
+Therefore, we aimed to determine the influence of DNAM-1 on the development of 
+arthritis using the collagen-induced arthritis (CIA) mouse model.
+METHODS: CIA was induced in mice on a DBA/1 background, treated in parallel with 
+a DNAM-1 neutralizing monoclonal antibody, a control IgG and PBS, respectively. 
+CIA was also induced in mice deficient for DNAM-1(dnam1-/-) and control 
+dnam-1+/+ mice on a C57/BL6 background. Mice were monitored for clinical and 
+ultrasound signs of arthritis. Histological analysis was performed to search for 
+inflammatory infiltrates and erosions. The Mann-Whitney U test for non-related 
+samples was used for statistical analysis.
+RESULTS: There was a non-significant trend for a less arthritic phenotype in 
+mice receiving anti-DNAM-1 mAb at both clinical, ultrasound and histological 
+assessments. But, we did not observe any difference between dnam1+/+ and 
+dnam1-/- mice for incidence nor severity of clinical arthritis. Histological 
+analysis revealed inflammatory scores similar in both groups, without evidence 
+of erosion. Collagen antibodies levels were similar in all mice, confirming 
+immunization with collagen.
+CONCLUSION: Despite some clues suggesting a role of DNAM-1 in arthritis, these 
+complementary approaches demonstrate no contribution of CD226/DNAM-1 in the 
+arthritic phenotype. These results contrast with previous studies showing a role 
+in vivo of DNAM-1 in some autoimmune disorders.

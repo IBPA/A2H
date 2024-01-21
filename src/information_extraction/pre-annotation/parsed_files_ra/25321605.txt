@@ -1,0 +1,25 @@
+Fenclozic acid (Myalex) was developed by ICI pharmaceuticals in the 1960s for 
+the treatment of rheumatoid arthritis and was a promising compound with a good 
+preclinical safety profile and efficacy. While it did not show adverse hepatic 
+effects in preclinical animal tests or initial studies in man [ Chalmers et al. 
+Ann. Rheum. Dis. 1969 , 28 , 595 and Chalmers et al. Ann. Rheum. Dis. 1969 , 28 
+, 590 ], it was later withdrawn from clinical development. Hepatotoxicity was 
+observed in humans at daily doses of 400 mg but was not replicated in any of the 
+animal species tested. Rodrigues et al. [ Arch. Toxicol. 2013 , 87 , 1569 ] 
+published a mechanistic investigation using modern in vitro assays/techniques in 
+order to investigate the hepatotoxicity; however, only the covalent binding in 
+rat, dog, and human microsomes was identified as a potential indicator for 
+hepatoxicity. Metabolites associated with or responsible for covalent binding 
+could not be detected, likely due to the low in vitro metabolic turnover of 
+fenclozic acid in microsomes. Foulkes [ J. Pharmacol. Exp. Ther. 1970 , 172 , 
+115 ] investigated the in vivo metabolism of fenclozic acid which included a rat 
+bile duct cannulated (BDC) study characterizing the biliary and urinary 
+metabolites; however, no reactive metabolites were identified. This study aimed 
+to reinvestigate the in vivo metabolism of fenclozic acid in rat, with a focus 
+on identifying any reactive metabolites that could explain the in vitro covalent 
+binding in microsomes observed across the species. Using modern analytical 
+techniques, we were successful in identifying an epoxide reactive metabolite, 
+which upon conjugation with glutathione (GSH), formed up to 16 GSH-related 
+products including positional and diastereoisomers. Not including the GSH 
+related conjugates, 7 additional metabolites were identified compared to these 
+previous metabolism studies.

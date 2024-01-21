@@ -1,0 +1,25 @@
+OBJECTIVE: To determine the mechanism of action of interleukin-27 (IL-27) 
+against rheumatoid arthritis (RA).
+METHODS: Adenovirus containing IL-27 transcript was constructed and was locally 
+delivered into the ankles of mice with collagen-induced arthritis (CIA). 
+Progression of arthritis was determined in treated and untreated mice by 
+measuring ankle circumference and through histologic analysis. IL-17 and its 
+downstream targets as well as cytokines promoting Th17 cell differentiation were 
+quantified by enzyme-linked immunosorbent assay in CIA mouse ankles locally 
+expressing adenoviral IL-27 as well as in control-treated mouse ankles. Ankles 
+from both treatment groups were immunostained for neutrophil and monocyte 
+migration (macrophages in the tissue). Finally, vascularization was quantified 
+by histology and by determining ankle hemoglobin levels.
+RESULTS: Ectopic expression of IL-27 in CIA mice ameliorated inflammation, 
+lining hypertrophy, and bone erosion as compared with control-treated CIA mice. 
+Serum and joint levels of IL-17 were significantly reduced in the IL-27-treated 
+group compared with the control-treated group. Two of the main cytokines that 
+induce Th17 cell differentiation and IL-17 downstream target molecules were 
+greatly down-regulated in CIA mouse ankles receiving forced expression of IL-27. 
+The control mice had higher levels of vascularization and monocyte trafficking 
+than did mice ectopically expressing IL-27.
+CONCLUSION: Our results suggest that increased levels of IL-27 relieve arthritis 
+in CIA mouse ankles. This amelioration of arthritis involves a reduction in CIA 
+mouse serum and joint levels of IL-17 and results in decreased IL-17-mediated 
+monocyte recruitment and angiogenesis. Hence, the use of IL-27 may be a strategy 
+for treatment of patients with RA.

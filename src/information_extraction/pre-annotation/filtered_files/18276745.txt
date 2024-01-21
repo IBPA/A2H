@@ -1,0 +1,23 @@
+OBJECTIVES: To assess the human complement inhibitor C4b-binding protein (C4BP) 
+for treatment of arthritis.
+METHODS: We have used two mouse models of rheumatoid arthritis (RA) to assess 
+the therapeutic effect of C4BP on different phases of arthritis, the collagen 
+antibody-induced arthritis (CAIA), an acute antibody-induced disease and the 
+collagen-induced arthritis (CIA), which carries the full complexity of 
+arthritis.
+RESULTS: Purified human C4BP injected intraperitoneally alleviated CAIA 
+significantly in a manner similar to cobra venom factor that depletes complement 
+due to massive activation. Furthermore, C4BP was injected before and after the 
+disease development into CIA mice. In the former case, the disease onset was 
+delayed and in the latter, the severity of the disease was reduced in animals 
+treated with C4BP. However, C4BP did not affect the anti-CII antibody synthesis. 
+C4BP present in mouse sera decreased activity of the classical but not the 
+alternative pathway of the complement system when these were assessed in a fluid 
+phase. However, C4BP was efficiently inhibiting the alternative pathway when 
+present on the activating surface. Taken together, the disease ameliorating 
+effect of C4BP appears to be related to inhibition of both pathways of 
+complement.
+CONCLUSIONS: Although human C4BP was cleared relatively fast from the 
+circulation and was only moderately affecting complement activity, its effect on 
+the disease severity was substantial, suggesting that minor alterations in 
+complement activity can have significant therapeutic value in RA.

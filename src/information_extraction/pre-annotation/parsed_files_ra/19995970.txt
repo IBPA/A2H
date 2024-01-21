@@ -1,0 +1,19 @@
+Although(,) vascular remodeling is a hallmark of many chronic inflammatory 
+disorders such as rheumatoid arthritis, inflammatory bowel disease, and 
+psoriasis, anti-vascular strategies to treat these conditions have received 
+little attention to date. We investigated the anti-inflammatory activity of 
+systemic blockade of VEGF-A by the inhibitory monoclonal antibody G6-31, 
+employing a therapeutic trial in a mouse model of psoriasis. Simultaneous 
+deletion of JunB and c-Jun (DKO*) in the epidermis of adult mice leads to a 
+psoriasis-like phenotype with hyper- and parakeratosis and increased 
+subepidermal vascularization. Moreover, an inflammatory infiltrate and elevated 
+levels of cytokines/chemokines including TNFalpha, IL-1alpha/beta, IL-6, and the 
+innate immune mediators IL-22, IL-23, IL-23R, and IL-12p40 are detected. Here we 
+show that anti-VEGF antibody treatment of mice already displaying disease 
+symptoms resulted in an overall improvement of the psoriatic lesions leading to 
+a reduction in the number of blood vessels and a significant decrease in the 
+size of dermal blood and lymphatic vessels. Importantly, anti-VEGF-treated mice 
+showed a pronounced reduction of inflammatory cells within the dermis and a 
+normalization of epidermal differentiation. These results demonstrate that 
+systemic blockade of VEGF by an inhibitory antibody might be used to treat 
+patients who have inflammatory skin disorders such as psoriasis.

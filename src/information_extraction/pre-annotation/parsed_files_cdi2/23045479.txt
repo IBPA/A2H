@@ -1,0 +1,20 @@
+Clostridium difficile toxins A (TcdA) and B (TcdB) induce a pronounced systemic 
+and intestinal inflammatory response. A(2B) adenosine receptors (A(2B)ARs) are 
+the predominant adenosine receptors in the intestinal epithelium. We 
+investigated whether A(2B)ARs are upregulated in human intestinal cells by TcdA 
+or TcdB and whether blockade of A(2B)ARs can ameliorate C. difficile 
+TcdA-induced enteritis and alter the outcome of C. difficile infection (CDI). 
+Adenosine receptor subtype (A(1), A(2A), A(2B), and A(3)) mRNAs were assayed in 
+HCT-8 cells. Ileal loops from wild-type rabbits and mice and A(2B)AR(-/-) mice 
+were treated with TcdA, with or without the selective A(2B)AR antagonist ATL692 
+or PSB1115. A murine model of CDI was used to determine the effect of A(2B)AR 
+deletion or blockade with the orally available agent ATL801, on clinical 
+outcome, histopathology and intestinal interleukin-6 (IL-6) expression from 
+infection. TcdA and TcdB upregulated A(2B)AR gene expression in HCT-8 cells. 
+ATL692 decreased TcdA-induced secretion and epithelial injury in rabbit ileum. 
+Deletion of A(2B)ARs reduced secretion and histopathology in TcdA-challenged 
+mouse ileum. Deletion or blockade of A(2B)ARs reduced histopathology, IL-6 
+expression, weight loss, diarrhea, and mortality in C. difficile-infected mice. 
+A(2B)ARs mediate C. difficile toxin-induced enteritis and disease. Inhibition of 
+A(2B)AR activation may be a potential strategy to limit morbidity and mortality 
+from CDI.

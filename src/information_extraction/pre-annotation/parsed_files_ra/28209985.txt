@@ -1,0 +1,17 @@
+Tumor necrosis factor alpha (TNFα)-induced angiogenesis plays important roles in 
+the progression of various diseases, including cancer, wet age-related macular 
+degeneration, and rheumatoid arthritis. However, the relevance and role of 
+vascular cell adhesion molecule-1 (VCAM-1) in angiogenesis have not yet been 
+clearly elucidated. In this study, VCAM-1 knockdown shows VCAM-1 involvement in 
+TNFα-induced angiogenesis. Through competitive blocking experiments with VCAM-1 
+Ig-like domain 6 (VCAM-1-D6) protein, we identified VCAM-1-D6 as a key domain 
+regulating TNFα-induced vascular tube formation. We demonstrated that a 
+monoclonal antibody specific to VCAM-1-D6 suppressed TNFα-induced endothelial 
+cell migration and tube formation and TNFα-induced vessel sprouting in rat 
+aortas. We also found that the antibody insignificantly affected endothelial 
+cell viability, morphology and activation. Finally, the antibody specifically 
+blocked VCAM-1-mediated cell-cell contacts by directly inhibiting 
+VCAM-1-D6-mediated interaction between VCAM-1 molecules. These findings suggest 
+that VCAM-1-D6 may be a potential novel therapeutic target in TNFα-induced 
+angiogenesis and that antibody-based modulation of VCAM-1-D6 may be an effective 
+strategy to suppress TNFα-induced angiogenesis.

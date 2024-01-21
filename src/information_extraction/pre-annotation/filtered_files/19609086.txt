@@ -1,0 +1,24 @@
+OBJECTIVE: Food intake is activated by hypothalamic orexigenic neuropeptide Y 
+(NPY), which is mainly under the dual control of leptin and ghrelin. Rat 
+adjuvant arthritis (AA), similarly as human rheumatoid arthritis, is associated 
+with cachexia caused by yet unknown mechanisms. The aim of our study was to 
+evaluate NPY expression in hypothalamic arcuate nuclei (nARC) under the 
+conditions of AA-induced changes in leptin, ghrelin and adiponectin. Since 
+IL-1beta is involved in the central induction of anorexia, we studied its 
+expression in the nARC as well.
+METHODS: AA was induced to Lewis rats using complete Freund's adjuvant. On days 
+12, 15 and 18 after complete Freund's adjuvant injection, the levels of leptin, 
+adiponectin, ghrelin and IL-1beta were determined by RIA or ELISA. The mRNA 
+expressions for NPY, leptin receptor (OB-R), ghrelin receptor (Ghsr) and 
+IL-1beta were determined by TaqMan RT-PCR from isolated nARC.
+RESULTS: In AA rats, decreased appetite, body mass and epididymal fat stores 
+positively correlated with reduced circulating and epididymal fat leptin and 
+adiponectin. Ghrelin plasma levels were increased. In nARC, mRNA for OB-R, Ghsr 
+and NPY were overexpressed in AA rats. AA rats showed overexpression of mRNA for 
+IL-1beta in nARC while circulating, and spleen IL-1beta was unaltered.
+CONCLUSION: During AA, overexpression of orexigenic NPY mRNA in nARC along with 
+enhanced plasma ghrelin and lowered leptin levels occur. Decreased food intake 
+indicates a predominant effect of the anorexigenic pathway. Activated expression 
+of IL-1beta in nARC suggests its role in keeping AA-induced anorexia in 
+progress. The reduction in adiponectin may also contribute to AA-induced 
+anorexia.

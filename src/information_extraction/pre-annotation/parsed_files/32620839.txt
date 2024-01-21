@@ -1,0 +1,16 @@
+Human gut microbiota plays critical roles in physiology and disease. Our 
+understanding of ecological principles that govern the dynamics and resilience 
+of this highly complex ecosystem remains rudimentary. This knowledge gap becomes 
+more problematic as new approaches to modifying this ecosystem, such as fecal 
+microbiota transplantation (FMT), are being developed as therapeutic 
+interventions. Here we present an ecological framework to understand the 
+efficacy of FMT in treating conditions associated with a disrupted gut 
+microbiota, using the recurrent Clostridioides difficile infection as a 
+prototype disease. This framework predicts several key factors that determine 
+the efficacy of FMT. Moreover, it offers an efficient algorithm for the rational 
+design of personalized probiotic cocktails to decolonize pathogens. We analyze 
+data from both preclinical mouse experiments and a clinical trial of FMT to 
+validate our theoretical framework. The presented results significantly improve 
+our understanding of the ecological principles of FMT and have a positive 
+translational impact on the rational design of general microbiota-based 
+therapeutics.

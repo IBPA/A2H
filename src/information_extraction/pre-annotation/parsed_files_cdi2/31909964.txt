@@ -1,0 +1,15 @@
+Clostridioides difficile is the leading cause of nosocomial diarrhea in the 
+United States. The primary virulence factors are two homologous 
+glucosyltransferase toxins, TcdA and TcdB, that inactivate host Rho-family 
+GTPases. The glucosyltransferase activity has been linked to a "cytopathic" 
+disruption of the actin cytoskeleton and contributes to the disruption of tight 
+junctions and the production of pro-inflammatory cytokines. TcdB is also a 
+potent cytotoxin that causes epithelium necrotic damage through an NADPH oxidase 
+(NOX)-dependent mechanism. We conducted a small molecule screen to identify 
+compounds that confer protection against TcdB-induced necrosis. We identified an 
+enrichment of "hit compounds" with a dihydropyridine (DHP) core which led to the 
+discovery of a key early stage calcium signal that serves as a mechanistic link 
+between TcdB-induced NOX activation and reactive oxygen species (ROS) 
+production. Disruption of TcdB-induced calcium signaling (with both DHP and 
+non-DHP molecules) is sufficient to ablate ROS production and prevent subsequent 
+necrosis in cells and in a mouse model of intoxication.

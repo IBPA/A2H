@@ -1,0 +1,24 @@
+Hydrocarbon oils such as pristane or hexadecane induce arthritis and lupus in 
+rodents sharing clinical and pathological features with the human diseases 
+rheumatoid arthritis and systemic lupus erythematosus, respectively. In 
+pristane-induced lupus in the mouse induction of apoptosis and augmentation of 
+type-I Interferon signalling by pristane have been suggested to contribute to 
+pathology, whereas in pristane-induced arthritis (PIA) in the rat the 
+pathological mechanisms are still elusive. Here we show that pristane induces 
+cell death in rat and human cells. Increased numbers of apoptotic cells were 
+found in draining lymph nodes of pristane-injected rats and increased 
+percentages of apoptotic and necrotic cells were observed in peripheral blood. 
+In addition, neutrophil extracellular trap formation was triggered by pristane 
+and hexadecane in neutrophils. Because levels of interleukin (IL)-1β were 
+elevated in sera of pristane-injected rats, with levels mirroring the course of 
+PIA, we examined the effect of pristane at single cell level in vitro, using rat 
+splenocytes and the human monocytic cell line THP-1. Pristane and other 
+hydrocarbon oils induced IL-1β secretion in THP-1 cells as well as in rat 
+splenocytes. The potassium channel inhibitor glibenclamide partly inhibited 
+IL-1β induction, suggesting involvement of the inflammasome. Elevated levels of 
+IL-1α were also found in supernatants of cells treated with pristane and 
+hexadecane. In conclusion, autoimmunogenic hydrocarbon oils induce various forms 
+of cell death in rat and human cells. The higher serum IL-1β levels in 
+pristane-injected animals might be caused by both inflammasome-dependent and 
+-independent mechanisms, such as passive release from dying-cells and probably 
+extracellular maturation of pro-IL-1β.

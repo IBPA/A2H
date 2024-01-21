@@ -1,0 +1,26 @@
+OBJECTIVE: The rheumatoid synovium displays characteristics of Toll-like 
+receptor (TLR) activation and antiviral gene expression, including production of 
+RANTES and interferon-beta (IFNbeta). The mechanism of this activation in 
+rheumatoid synovial tissue is unknown. This study was designed to investigate 
+the role of the IKK-related kinase IKKepsilon and IFN regulatory factor 3 
+(IRF-3) in the activation of antiviral genes in rheumatoid arthritis (RA).
+METHODS: Kinase assay and immunostaining were performed on synovial tissue. 
+Dominant-negative (DN) IKKepsilon adenoviral infection of human fibroblast-like 
+synoviocytes (FLS) was followed by poly(I-C) stimulation and Western blotting. 
+Quantitative polymerase chain reaction was performed on DN IKKepsilon-infected 
+FLS and IKKepsilon(-/-) and IKKepsilon(+/+) mouse FLS.
+RESULTS: Western blotting showed that IKKepsilon phosphorylation was 
+significantly greater in RA synovium compared with osteoarthritis synovium. 
+Kinase assay confirmed that IKKepsilon was activated in RA synovium, and 
+immunostaining showed localization of pIKKepsilon to the intimal lining. Western 
+blot analysis demonstrated that activation of IRF-3 was also increased in RA 
+synovium. Poly(I-C), lipopolysaccharide, and tumor necrosis factor alpha 
+(TNFalpha) activated phosphorylation of IKKepsilon and IRF-3 in FLS. DN 
+IKKepsilon inhibited IRF-3 phosphorylation as well as RANTES and IFNbeta protein 
+production in synoviocytes. Antiviral gene expression was also reduced in FLS 
+from IKKepsilon(-/-) mice compared with IKKepsilon(+/+) mice.
+CONCLUSION: Antiviral gene expression in RA, especially due to TLR ligands and 
+TNFalpha, is dependent on IKKepsilon and IRF-3, and this pathway plays a key 
+role in the production of type I IFNs and chemokines such as RANTES. These 
+findings indicate that the IKKepsilon pathway may have potential as a 
+therapeutic target in RA.

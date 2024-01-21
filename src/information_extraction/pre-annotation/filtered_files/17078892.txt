@@ -1,0 +1,27 @@
+IL-32 is a newly described cytokine in the human found to be an in vitro inducer 
+of tumor necrosis factor alpha (TNFalpha). We examined the in vivo relationship 
+between IL-32 and TNFalpha, and the pathologic role of IL-32 in the 
+TNFalpha-related diseases - arthritis and colitis. We demonstrated by 
+quantitative PCR assay that IL-32 mRNA was expressed in the lymphoid tissues, 
+and in stimulated peripheral T cells, monocytes, and B cells. Activated T cells 
+were important for IL-32 mRNA expression in monocytes and B cells. 
+Interestingly, TNFalpha reciprocally induced IL-32 mRNA expression in T cells, 
+monocyte-derived dendritic cells, and synovial fibroblasts. Moreover, IL-32 mRNA 
+expression was prominent in the synovial tissues of rheumatoid arthritis 
+patients, especially in synovial-infiltrated lymphocytes by in situ 
+hybridization. To examine the in vivo relationship of IL-32 and TNFalpha, we 
+prepared an overexpression model mouse of human IL-32beta (BM-hIL-32) by bone 
+marrow transplantation. Splenocytes of BM-hIL-32 mice showed increased 
+expression and secretion of TNFalpha, IL-1beta, and IL-6 especially in response 
+to lipopolysaccharide stimulation. Moreover, serum TNFalpha concentration showed 
+a clear increase in BM-hIL-32 mice. Cell-sorting analysis of splenocytes showed 
+that the expression of TNFalpha was increased in resting F4/80+ macrophages, and 
+the expression of TNFalpha, IL-1beta and IL-6 was increased in 
+lipopolysaccharide-stimulated F4/80+ macrophages and CD11c+ dendritic cells. In 
+fact, BM-hIL-32 mice showed exacerbation of collagen-antibody-induced arthritis 
+and trinitrobenzen sulfonic acid-induced colitis. In addition, the transfer of 
+hIL-32beta-producing CD4+ T cells significantly exacerbated collagen-induced 
+arthritis, and a TNFalpha blockade cancelled the exacerbating effects of 
+hIL-32beta. We therefore conclude that IL-32 is closely associated with 
+TNFalpha, and contributes to the exacerbation of TNFalpha-related inflammatory 
+arthritis and colitis.

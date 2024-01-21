@@ -1,0 +1,16 @@
+Bone-resorbing osteoclasts play an essential role in normal bone homeostasis, as 
+well as in various bone disorders such as osteoporosis and rheumatoid arthritis. 
+Previously we showed that the Tec family of tyrosine kinases is essential for 
+the differentiation of osteoclasts and the inhibition of Btk is a promising 
+strategy for the prevention of the bone loss in osteoclast-associated bone 
+disorders. Here we demonstrate that an orally available Btk inhibitor, ibrutinib 
+(PCI-32765), suppresses osteoclastic bone resorption by inhibiting both 
+osteoclast differentiation and function. Ibrutinib downregulated the expression 
+of NFATc1, the key transcription factor for osteoclastogenesis, and disrupted 
+the formation of the actin ring in mature osteoclasts. In addition, genome-wide 
+screening revealed that Btk regulates the expression of the genes involved in 
+osteoclast differentiation and function in both an NFATc1-dependent and 
+-independent manner. Finally, we showed that ibrutinib administration 
+ameliorated the bone loss that developed in a RANKL-induced osteoporosis mouse 
+model. Thus, this study suggests ibrutinib to be a promising therapeutic agent 
+for osteoclast-associated bone diseases.

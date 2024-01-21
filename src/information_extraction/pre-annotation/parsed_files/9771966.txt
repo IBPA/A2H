@@ -1,0 +1,15 @@
+The murine TS1alphabeta T cell line expresses the anti-apoptotic protein Bcl-2 
+upon IL-2 stimulation, whereas IL-4-mediated growth of this cell line proceeds 
+in the absence of Bcl-2 expression. In addition, IL-4 stimulation inhibits Bcl-2 
+expression and modulates its mRNA level. IL-2-induced DNA binding activity for 
+these transcription factors is sensitive to phosphatidylinositol 3 kinase 
+inhibitor wortmannin and to Rho inhibitor Clostridium difficile toxin B, which 
+inhibit IL-2-induced Bcl-2 expression. NF-AT transcription factor appears to be 
+the most important in the control Bcl-2 expression, since inhibition of the 
+calcium-calmodulin-dependent phosphatase calcineurin, which regulates NF-AT 
+activity, downregulates Bcl-2 expression in IL-2-stimulated cells. Constitutive 
+expression of this phosphatase also upregulates Bcl-2 expression in 
+IL-4-stimulated cells. In addition, a dominant negative NF-AT expression vector 
+downregulates Bcl-2 expression in IL-2-stimulated cells. These results suggest 
+that IL-2 induction of Bcl-2 expression may be directly or indirectly mediated 
+by NF-AT.

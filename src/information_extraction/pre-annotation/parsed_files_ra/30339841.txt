@@ -1,0 +1,15 @@
+Rheumatoid arthritis (RA) is a chronic inflammatory disorder characterized by 
+destructive polyarthritis and systemic complications. It increases 
+cardiovascular morbidity and mortality. However, the mechanism underlying 
+RA-related cardiac damage remains largely unknown. Here, we found and 
+characterized a non-human primate (NHP) model with spontaneous RA similar to the 
+human conditions. Compared with the control group, the cardiac function in RA 
+monkeys showed progressively deterioration; histologically, we found 
+significantly increased inflammatory cell infiltration, cell death, and fibrosis 
+in RA monkey heart tissue. Mechanistically, the upregulated receptor-interacting 
+protein kinase 1 (RIPK1) in RA monkey heart tissue bound to voltage-dependent 
+anion-selective channel 1 (VDAC1), increased VDAC1 oligomerization, and 
+subsequently induced cardiac cell death and functional impairment. These 
+findings identified that RIPK1-VDAC1 pathway is a promising target to treat 
+cardiac impairment in RA. This unique model of RA will provide a valuable tool 
+for mechanistic and translational studies.

@@ -1,0 +1,26 @@
+OBJECTIVE: Histone deacetylase inhibitors have shown suppressive effects on 
+tumor growth and in some autoimmune diseases. However, the molecular mechanisms 
+of their effects are not very clear. The purpose of this study was to 
+investigate the effects of trichostatin A (TSA) on collagen-induced rheumatoid 
+arthritis (CIA) in a mouse model and its underlying mechanisms.
+METHODS: CIA was induced in DBA/1 mice with type II collagen. Paws were scored 
+to assess disease severity. Inflammation of joints was evaluated by histological 
+examination. Real-time PCR was used to determine cytokine mRNA levels. Cytokine 
+production in serum and in supernatants from dendritic to T cell co-cultures was 
+measured by ELISA. T cell proliferation was determined using [(3)H] 
+incorporation. Intracellular cytokine staining was used to measure interferon 
+gamma (IFN-γ)- and interleukin (IL)-4-producing T cells in splenocytes. 
+Chromatin immunoprecipitation was used to examine histone H3 and H4 acetylation.
+RESULTS: TSA potently suppressed the severity of arthritis and type II 
+collagen-specific T cell responses in CIA. IFN-γ expression was high in CIA 
+mice, but was inhibited by TSA treatment either at the same time as immunization 
+or at the onset of arthritis manifestation. T cells from TSA-treated mice 
+produced higher levels of IL-4 than cells from the control group. TSA 
+predominantly suppressed Th1 cell proliferation in vitro by induction of 
+apoptosis. In addition, TSA enhanced IL-4 gene expression of in vitro 
+differentiated Th2 cells, and the mechanism is associated with an increased 
+level of histone acetylation in the IL-4 gene promoter.
+CONCLUSIONS: While TSA selectively suppresses a Th1 response by inducing 
+apoptosis, it upregulates IL-4 expression probably by increasing histone H3 and 
+H4 acetylation of the IL-4 gene promoter. We conclude that TSA can induce a 
+Th1/Th2 balance in vivo and exert protective effects on CIA.

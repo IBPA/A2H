@@ -1,0 +1,26 @@
+BACKGROUND: Clostridium difficile toxins alter permeability in cultured 
+enterocytes and may alter intestinal epithelial permeability to bacteria in 
+vivo. Experiments were designed to test the effects of C. difficile toxins on in 
+vitro interactions of Enterococcus gallinarum with cultured enterocytes, as well 
+as on translocation of E. gallinarum in mice.
+MATERIALS AND METHODS: Mature Caco-2 and HT-29 enterocytes were pretreated with 
+C. difficile toxin A or toxin B followed by incubation with E. gallinarum. E. 
+gallinarum-enterocyte interactions were assessed by quantitative culture. For in 
+vivo experiments, antibiotic-treated mice were orally inoculated with C. 
+difficile or saline, and all mice were orally inoculated 24 h later with E. 
+gallinarum and sacrificed after another 24 h for analysis of cecal bacteria, 
+cecal C. difficile toxin, and enterococcal translocation. Cecal C. difficile 
+toxin was assayed as cytopathic effects on human foreskin fibroblasts.
+RESULTS: Although neither toxin had a noticeable effect on bacterial 
+internalization by cultured enterocytes, C. difficile toxins were associated 
+with increased E. gallinarum transmigration across confluent enterocyte 
+cultures. Mice orally inoculated with saline rather than C. difficile (n = 29) 
+had no detectable cecal toxin, while mice orally inoculated with C. difficile (n 
+= 30) had detectable cecal toxin. Viable E. gallinarum was recovered from the 
+mesenteric lymph nodes of 97% of mice orally inoculated with saline followed by 
+oral E. gallinarum, but only 37% of mice orally inoculated with C. difficile 
+followed by oral E. gallinarum (P < 0.01).
+CONCLUSIONS: These results suggested that observations with cultured 
+enterocytes, demonstrating that C. difficile toxins facilitated bacterial 
+migration across the intestinal epithelium, might have little in vivo relevance 
+in a mouse model of antibiotic-induced C. difficile overgrowth.

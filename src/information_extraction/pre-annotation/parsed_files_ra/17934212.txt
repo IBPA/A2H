@@ -1,0 +1,28 @@
+Identification of specific protein phosphorylation sites provides predicative 
+signatures of cellular activity and specific disease states such as cancer, 
+diabetes, Alzheimer disease, and rheumatoid arthritis. Recent progress in 
+phosphopeptide isolation technology and tandem mass spectrometry has provided 
+the means to identify thousands of phosphorylation sites from a single 
+biological sample. These advances now make it possible to profile global changes 
+in the phosphoproteome at an unprecedented level. However, although this 
+technology is generating a wealth of information, there is currently no 
+efficient means to identify phosphoprotein signatures shared among large 
+phosphoprotein databases. Identification of common phosphoprotein signatures 
+found in biologically relevant systems and their conservation throughout 
+evolution would provide valuable insight into mechanisms of signal transduction 
+and cell function. Here we describe the development of a computational program 
+(PhosphoBlast) that can rapidly match thousands of phosphopeptides that share 
+phosphorylation sites within and across species. PhosphoBlast analysis of 
+several large phosphoprotein datasets from the literature revealed common 
+phosphorylation signatures shared across diverse experimental platforms and 
+species. Moreover PhosphoBlast is a powerful analysis tool to identify specific 
+phosphosite mutations. Comparison of the mouse and human phosphoproteomes 
+revealed more than 130 specific phosphoamino acid mutations, some of which are 
+predicted to alter protein function. Further analysis revealed that known 
+phosphorylated amino acids are more evolutionally conserved than the Ser/Thr/Tyr 
+amino acids not known to be phosphorylated. Together our results demonstrate 
+that PhosphoBlast is a versatile mining tool capable of identifying related 
+phosphorylation signatures and phosphoamino acid mutations among complex 
+proteomics datasets in a highly efficient and accurate manner. PhosphoBlast will 
+aid in the informatics analysis of the phosphoproteome and the identification of 
+phosphoprotein biomarkers of disease.

@@ -1,0 +1,21 @@
+The anaerobic gastrointestinal pathogen Clostridium difficile must form a 
+metabolically dormant spore to survive in oxygenic environments and be 
+transmitted from host to host. The regulatory factors by which C. difficile 
+initiates and controls the early stages of sporulation in C. difficile are not 
+highly conserved in other Clostridium or Bacillus species. Here, we investigated 
+the role of two conserved oligopeptide permeases, Opp and App, in the regulation 
+of sporulation in C. difficile. These permeases are known to positively affect 
+sporulation in Bacillus species through the import of sporulation-specific 
+quorum-sensing peptides. In contrast to other spore-forming bacteria, we 
+discovered that inactivating these permeases in C. difficile resulted in the 
+earlier expression of early sporulation genes and increased sporulation in 
+vitro. Furthermore, disruption of opp and app resulted in greater virulence and 
+increased the amounts of spores recovered from feces in the hamster model of C. 
+difficile infection. Our data suggest that Opp and App indirectly inhibit 
+sporulation, likely through the activities of the transcriptional regulator SinR 
+and its inhibitor, SinI. Taken together, these results indicate that the Opp and 
+App transporters serve a different function in controlling sporulation and 
+virulence in C. difficile than in Bacillus subtilis and suggest that nutrient 
+availability plays a significant role in pathogenesis and sporulation in vivo. 
+This study suggests a link between the nutritional status of the environment and 
+sporulation initiation in C. difficile.

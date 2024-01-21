@@ -1,0 +1,21 @@
+Clostridium difficile infection (CDI) is a major cause of infectious diarrhea 
+among hospitalized patients. Probiotics could be instrumental in restoring the 
+intestinal dysbiosis caused by CDI. Here, we examined the protective effect of 
+Pediococcus pentosaceus LI05 in a mouse CDI model. C57BL/6 mice were 
+administrated P. pentosaceus LI05 (LI05 group) or sterile anaerobic PBS (CDI 
+group) everyday for 14 days. Mice were exposed to antibiotics cocktail for 5 
+days; then challenged with C. difficile strain VPI10463. Mice were monitored 
+daily for survival and weight loss. Colonic tissue and serum samples were 
+assessed for intestinal histopathology, intestinal barrier function and systemic 
+inflammation. The oral administration of P. pentosaceus LI05 improved the 
+survival rate and alleviated the histopathological impact of C. difficile. 
+Compared to the CDI group, the levels of inflammatory mediators in the colon as 
+well as inflammatory cytokines and chemokines in serum were substantially 
+attenuated in the LI05 group. P. pentosaceus LI05 alleviated the CDI-induced of 
+disruption of ZO-1, occludin and claudin-1. Additionally, fecal microbiome 
+analysis showed an enrichment in the abundance of the Porphyromonadaceae and 
+Rikenellaceae, while, the relative abundance of Enterobacteriaceae were 
+decreased. Our results demonstrated that the preventive effect of P. pentosaceus 
+LI05 against CDI was mediated via improving tight junction proteins and 
+down-regulating the inflammatory response. Therefore, P. pentosaceus LI05 could 
+be a promising probiotic in CDI.

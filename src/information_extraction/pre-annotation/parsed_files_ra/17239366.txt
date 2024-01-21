@@ -1,0 +1,20 @@
+Rheumatoid arthritis is characterized by chronic inflammation of the synovial 
+tissue. We examined the effect of interleukin (IL)-6 neutralization on the 
+expression of cytochrome P450 or metallothionein-1/2 (metallothionein) during 
+chronic phase inflammatory disease using rheumatoid arthritis model mice, human 
+T-cell leukemia virus type I (HTLV-I) transgenic mice. Serum IL-6 concentrations 
+of arthritis-developed HTLV-I transgenic mice were 129.9+/-26.1 pg/ml. Moreover, 
+signal transducer and activator of transcription (STAT) 1/3 phosphorylations was 
+observed in arthritic HTLV-I transgenic mouse livers. CYP3A11 mRNA was more 
+strongly reduced by the development of arthritis in HTLV-I transgenic mouse 
+livers as compared with CYP2C29 or CYP2E1 mRNAs. CYP3A protein and testosterone 
+6beta-hydroxylation activity also changed in a similar manner to the 
+corresponding CYP3A11 mRNA level. On the other hand, metallothionein mRNA was 
+significantly induced as compared with that of wild-type or non-arthritic mice. 
+CYP3A suppression and metallothionein mRNA overexpression activity seen in the 
+developed arthritic mice returned to the gene conditions of the non-arthritic 
+HTLV-I transgenic mice by IL-6 antibody at 48 h after treatment. The present 
+study has revealed that CYP3A11 and metallothionein expressions are affected by 
+the release of IL-6 by arthritis and its systemic circulation, and 
+neutralization of IL-6 recovered from the down-regulation of CYP3A11 mRNA and 
+the induction of metallothionein mRNA in arthritic HTLV-I transgenic mice.

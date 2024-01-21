@@ -1,0 +1,22 @@
+This study is to investigate the regulation of Toll-like receptor (TLR) 
+expression in systemic immune reactions in different arthritis rat models, which 
+will provide evidence to understand the mechanisms of rheumatoid arthritis 
+further. Arthritis-susceptible DA rats were used to induce arthritis by pristane 
+or collagen type II, and TLR2, 3, 4 and 7 expression levels in spleen were 
+detected by real-time quantitative polymerase chain reaction. TLR3 mRNA 
+expression in spleen of both collagen-induced arthritis and pristane-induced 
+arthritis (PIA) rats was increased significantly at 26 and 70 days after 
+arthritis induction. The overexpression of TLR3 was confirmed by Western 
+blotting. Methotrexate was administrated peritoneally to PIA rats, and phytol 
+was applied subcutaneously to PIA rats. Both methotrexate and phytol treatment 
+could alleviate arthritis severity and block TLR3 induction. However, in 
+arthritis-resistant E3 rats injected with pristane, TLR3 expression of spleen 
+was unaltered. PIA in MHC congenic DA.1U rats had mild symptoms, whereas TLR3 
+mRNA expression in spleen of DA.1U rats showed an impaired induction at D26. So 
+we conclude that overexpression of splenic TLR3 is strongly associated with 
+arthritis in rats, which suggests that TLR3 should be a most vital TLR in spleen 
+to regulate the initiation and development of experimental arthritis and may be 
+as an intriguing therapeutic opportunity for human rheumatoid arthritis.
+
+© 2012 The Authors. Scandinavian Journal of Immunology © 2012 Blackwell 
+Publishing Ltd.

@@ -1,0 +1,23 @@
+Currently, 14 intact, unconjugated, monoclonal antibodies (Mabs) are approved 
+for therapeutic use in the United States, and more than 100 Mabs are presently 
+undergoing clinical development or regulatory review. Mabs are large molecular 
+weight glycoproteins that embody structural, biochemical, and pharmacologic 
+properties distinct from other biologics or chemically synthesized compounds. 
+Early therapeutic Mabs were murine proteins, and clinical testing of these 
+agents revealed serious immune-mediated toxicities. The side effect profile of 
+murine Mab therapeutic agents restricted the clinical development of these 
+agents to indications with high morbidity and/or mortality (ie, oncology, graft 
+vs host rejection). Advances in genetic engineering and protein expression 
+technologies resulted in the development of Mabs composed either predominately 
+(ie, mouse/human chimeric, "humanized") or completely (ie, "fully human" Mabs) 
+of the human amino acid sequence. The production of chimeric, humanized, and 
+fully human Mabs significantly reduced the immune-mediated toxicities and 
+expanded the utility for these agents in numerous therapeutic areas, 
+particularly in chronic disorders requiring either long-term administration (ie, 
+rheumatoid arthritis) or treatment upon the flare up of disease (Crohn's 
+disease, psoriasis). This review provides an overview of the molecular, 
+biochemical, and pharmacokinetic properties and clinical development history of 
+Mabs and details how these factors currently affect the scope and design of 
+early clinical development strategies for these drug candidates. Emphasis is 
+placed on the criteria for selecting appropriate subject populations for phase I 
+testing of Mabs.

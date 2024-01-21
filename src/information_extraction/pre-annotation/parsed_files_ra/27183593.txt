@@ -1,0 +1,27 @@
+Increased osteoclastogenesis is responsible for osteolysis, which is a severe 
+consequence of inflammatory diseases associated with bone destruction, such as 
+rheumatoid arthritis and periodontitis. The mechanisms that limit 
+osteoclastogenesis under inflammatory conditions are largely unknown. We 
+previously identified transcription factor RBP-J as a key negative regulator 
+that restrains TNF-α-induced osteoclastogenesis and inflammatory bone 
+resorption. In this study, we tested whether RBP-J suppresses inflammatory 
+osteoclastogenesis by regulating the expression of microRNAs (miRNAs) important 
+for this process. Using high-throughput sequencing of miRNAs, we obtained the 
+first, to our knowledge, genome-wide profile of miRNA expression induced by 
+TNF-α in mouse bone marrow-derived macrophages/osteoclast precursors during 
+inflammatory osteoclastogenesis. Furthermore, we identified miR-182 as a novel 
+miRNA that promotes inflammatory osteoclastogenesis driven by TNF-α and whose 
+expression is suppressed by RBP-J. Downregulation of miR-182 dramatically 
+suppressed the enhanced osteoclastogenesis program induced by TNF-α in 
+RBP-J-deficient cells. Complementary loss- and gain-of-function approaches 
+showed that miR-182 is a positive regulator of osteoclastogenic transcription 
+factors NFATc1 and B lymphocyte-induced maturation protein-1. Moreover, we 
+identified that direct miR-182 targets, Foxo3 and Maml1, play important 
+inhibitory roles in TNF-α-mediated osteoclastogenesis. Thus, RBP-J-regulated 
+miR-182 promotes TNF-α-induced osteoclastogenesis via inhibition of Foxo3 and 
+Maml1. Suppression of miR-182 by RBP-J serves as an important mechanism that 
+restrains TNF-α-induced osteoclastogenesis. Our results provide a novel 
+miRNA-mediated mechanism by which RBP-J inhibits osteoclastogenesis and suggest 
+that targeting of the newly described RBP-J-miR-182-Foxo3/Maml1 axis may 
+represent an effective therapeutic approach to suppress inflammatory 
+osteoclastogenesis and bone resorption.

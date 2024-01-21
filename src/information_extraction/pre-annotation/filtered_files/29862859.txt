@@ -1,0 +1,21 @@
+OBJECTIVES: Bruton's tyrosine kinase (BTK) is a non-receptor tyrosine kinase 
+required for intracellular signaling downstream of multiple immunoreceptors. We 
+evaluated ABBV-105, a covalent BTK inhibitor, using in vitro and in vivo assays 
+to determine potency, selectivity, and efficacy to validate the therapeutic 
+potential of ABBV-105 in inflammatory disease.
+METHODS: ABBV-105 potency and selectivity were evaluated in enzymatic and 
+cellular assays. The impact of ABBV-105 on B cell function in vivo was assessed 
+using mechanistic models of antibody production. Efficacy of ABBV-105 in chronic 
+inflammatory disease was evaluated in animal models of arthritis and lupus. 
+Measurement of BTK occupancy was employed as a target engagement biomarker.
+RESULTS: ABBV-105 irreversibly inhibits BTK, demonstrating superior kinome 
+selectivity and is potent in B cell receptor, Fc receptor, and TLR-9-dependent 
+cellular assays. Oral administration resulted in rapid clearance in plasma, but 
+maintenance of BTK splenic occupancy. ABBV-105 inhibited antibody responses to 
+thymus-independent and thymus-dependent antigens, paw swelling and bone 
+destruction in rat collagen induced arthritis, and reduced disease in an 
+IFNα-accelerated lupus nephritis model. BTK occupancy in disease models 
+correlated with in vivo efficacy.
+CONCLUSION: ABBV-105, a selective BTK inhibitor, demonstrates compelling 
+efficacy in pre-clinical mechanistic models of antibody production and in models 
+of rheumatoid arthritis and lupus.

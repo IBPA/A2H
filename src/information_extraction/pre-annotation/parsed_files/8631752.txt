@@ -1,0 +1,19 @@
+Treatment of rat basophilic leukemia (RBL) 2H3-hm1 cells with Clostridium 
+difficile toxin B (2 ng/ml), which reportedly depolymerizes the actin 
+cytoskeleton, blocked [3H]serotonin release induced by 2,4-dinitrophenyl-bovine 
+serum albumin, carbachol, mastoparan, and reduced ionophore A23187-stimulated 
+degranulation by about 55-60%. In lysates of RBL cells, toxin B 14C-glucosylated 
+two major and one minor protein. By using two-dimensional gel electrophoresis 
+and immunoblotting, RhoA and Cdc42 were identified as protein substrates of 
+toxin B. In contrast to toxin B, Clostridium botulinum transferase C3 that 
+selectively inactivates RhoA by ADP-ribosylation did not inhibit degranulation 
+up to a concentration of 150 microg/ml. Antigen-stimulated tyrosine 
+phosphorylation of a 110-kDa protein was inhibited by toxin B as well as by the 
+phosphatidylinositol 3-kinase inhibitor wortmannin. Depolymerization of the 
+microfilament cytoskeleton of RBL cells by C. botulinum C2 toxin or cytochalasin 
+D resulted in an increased [3H]serotonin release induced by antigen, carbachol, 
+mastoparan, or by calcium ionophore A23187, but without affecting toxin 
+B-induced inhibition of degranulation. The data indicate that toxin B inhibits 
+activation of RBL cells by glucosylation of low molecular mass GTP-binding 
+proteins of the Rho subfamily (most likely Cdc42) by a mechanism not involving 
+the actin cytoskeleton.

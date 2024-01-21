@@ -1,0 +1,24 @@
+OBJECTIVES: The aim of this study was to describe expression of parathyroid 
+hormone-related peptide (PTHrP) in collagen-induced arthritis (CIA), a 
+well-established animal model for rheumatoid arthritis.
+METHODS: CIA was induced in female dark agouti rats. Inguinal (ILNs) and 
+popliteal (PLNs) lymph nodes and distal interphalangeal joints (DIP) were 
+retrieved at different time points. Tissues were processed for detection of 
+PTHrP and cell marker proteins by immunohistochemistry. Lymph node RNA was 
+extracted, and PTHrP mRNA quantified using competitive reverse transcriptase 
+polymerase chain reaction.
+RESULTS: Hyperplasia of ILNs was observed 2 days after injection, coinciding 
+with the peak in PTHrP expression in ILNs (1240 +/- 373 gene copies/ng RNA vs 
+normal 339 +/- 120, P < 0.05). Hyperplasia of PLNs was first seen at 1 day after 
+onset of arthritis, coinciding with the peak in PTHrP expression in PLNs (2267 
++/- 697 vs normal 781 +/- 136, P < 0.01). PTHrP expression in PLNs remained 
+increased 5 days after onset (1361 +/- 302 vs normal 781 +/- 136, P < 0.05). In 
+both PLNs and ILNs PTHrP protein was localized to high endothelial venules, 
+lymphocytes and monocytes/macrophages. In DIP joint synovium PTHrP staining was 
+first detected on day 10 after onset, and was most abundant at day 20 after 
+onset, at sites of bone resorption and deposition, where it was localized to 
+neutrophils, cells of monocyte lineage and osteoblasts.
+CONCLUSIONS: Changes in ILN and PLN PTHrP mRNA expression suggest that elevated 
+levels of the cytokine are associated with aggravation of the inflammatory 
+immune response. Changes in PTHrP in DIP joints indicate its involvement in late 
+rather than early pathogenic events in CIA joints.

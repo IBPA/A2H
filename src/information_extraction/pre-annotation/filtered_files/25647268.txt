@@ -1,0 +1,21 @@
+Macrophage migration inhibitory factor (MIF) enhances activation of leukocytes, 
+endothelial cells and fibroblast-like synoviocytes (FLS), thereby contributing 
+to the pathogenesis of rheumatoid arthritis (RA). A MIF promoter polymorphism in 
+RA patients resulted in higher serum MIF concentration and worsens bone erosion; 
+controversially current literature reported an inhibitory role of MIF in 
+osteoclast formation. The controversial suggested that the precise role of MIF 
+and its putative receptor CD74 in osteoclastogenesis and RA bone erosion, 
+mediated by locally formed osteoclasts in response to receptor activator of 
+NF-κB ligand (RANKL), is unclear. We reported that in an in vivo K/BxN serum 
+transfer arthritis, reduced clinical and histological arthritis in MIF(-/-) and 
+CD74(-/-) mice were accompanied by a virtual absence of osteoclasts at the 
+synovium-bone interface and reduced osteoclast-related gene expression. 
+Furthermore, in vitro osteoclast formation and osteoclast-related gene 
+expression were significantly reduced in MIF(-/-) cells via decreasing 
+RANKL-induced phosphorylation of NF-κB-p65 and ERK1/2. This was supported by a 
+similar reduction of osteoclastogenesis observed in CD74(-/-) cells. 
+Furthermore, a MIF blockade reduced RANKL-induced osteoclastogenesis via 
+deregulating RANKL-mediated NF-κB and NFATc1 transcription factor activation. 
+These data indicate that MIF and CD74 facilitate RANKL-induced 
+osteoclastogenesis, and suggest that MIF contributes directly to bone erosion, 
+as well as inflammation, in RA.

@@ -1,0 +1,24 @@
+Rat Chromosome 10 (RNO10) harbors Cia5, a non-MHC quantitative trait locus (QTL) 
+that regulates the severity of type II collagen-induced arthritis (CIA) in 
+DAxF344 and DAxBN F2 rats. CIA is an animal model with many features that 
+resemble rheumatoid arthritis. To facilitate analysis of Cia5 independently of 
+the other CIA regulatory loci on other chromosomes, DA recombinant QTL speed 
+congenic rats, DA.F344(Cia5), were generated. These QTL congenic rats have a 
+large chromosomal segment containing Cia5 (interval size < or =80.1 cM) from 
+CIA-resistant F344 rats introgressed into their genome. Phenotypic analyses of 
+these rats for susceptibility and severity of CIA confirmed that Cia5 is an 
+important disease-modifying locus. CIA severity was significantly lower in the 
+Cia5 congenic rats than in DA controls. We also generated DA Cia5 speed 
+sub-congenic rats, DA.F344(Cia5a), which had a smaller segment of the F344 
+genome, Cia5a, comprising only the distal q-telomeric end (interval size < or = 
+22.5 cM) of Cia5, introgressed into their genome. DA.F344(Cia5a) sub-congenic 
+rats also exhibited reduced CIA disease severity compared with the parental DA 
+rats. The regulatory effects in both congenic strains were sex influenced. The 
+disease-ameliorating effect of the larger fragment, Cia5, was greater in males 
+than in females, but the effect of the smaller fragment, Cia5a, was greater in 
+females. We also present an improved genetic linkage map covering the Cia5/Cia5a 
+region, which we have integrated with two rat radiation hybrid maps. Comparative 
+homology analysis of this genomic region with mouse and human chromosomes was 
+also undertaken. Regulatory loci for multiple autoimmune/inflammatory diseases 
+in rats (RNO10), mice (MMU11), and humans (HSA17 and HSA5q23-q31) map to 
+chromosomal segments homologous to Cia5 and Cia5a.

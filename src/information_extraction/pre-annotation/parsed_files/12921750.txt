@@ -1,0 +1,20 @@
+Sperm-egg interaction was investigated in mouse eggs freed from the zona 
+pellucida and injected with Clostridium difficile toxin B, the inhibitor of Rho 
+family small G proteins. Toxin B reduced in a dose-dependent manner the 
+percentage of eggs associated with sperm fusion on the surface or sperm nucleus 
+decondensation in the ooplasm, examined by injection of a DNA-staining dye into 
+the egg and transfer of the dye to the fused sperm head after recording 
+intracellular Ca(2+) responses for 100 min postinsemination. The mean number of 
+decondensed sperm nuclei per egg was remarkably decreased by approximately 1 
+microg/ml toxin B in the ooplasm. This was because spermatozoa were arrested at 
+the fusion state without developing to sperm incorporation and tended to lose 
+cytoplasmic continuity to the egg. The fusion-arrested spermatozoa caused 
+transient small Ca(2+) oscillations in most of eggs, while an injected 
+spermatozoon produced repetitive large Ca(2+) spikes unaffected by toxin B. A 
+decrease in the rate of fused spermatozoa and decondensed sperm nuclei was also 
+caused by 20-40 microM cytochalasin D, the inhibitor of actin polymerization. 
+Immunostaining of Rho proteins showed that Rac1 and RhoB are present in the 
+cortical ooplasm, but Cdc42 is absent. Actin filaments in the cortex appeared to 
+be reduced in toxin B-injected eggs. This study suggests that Rho protein(s) 
+regulating actin-based cytoskeletal reorganization is involved in the process 
+leading to sperm incorporation.

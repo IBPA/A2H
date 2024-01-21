@@ -1,0 +1,14 @@
+Dendritic cells (DCs) play important roles in initiation of the pathogenic 
+processes of autoimmune disorders, such as rheumatoid arthritis (RA). 
+Tolerogenic dendritic cells (tolDCs) are generated from naïve DCs and induce T 
+cell tolerance; thus, they represent a promising strategy for specific cellular 
+therapy for autoimmune diseases. In this study, we generated green fluorescent 
+protein (GFP)-labeled tolDCs and confirmed their phenotypes and biological 
+functions. We found that tolDCs suppressed the memory lymphocyte response and 
+exhibited strong tolerogenic potential; thus, these cells show promise for the 
+treatment of autoimmune diseases. Additionally, a collagen-induced arthritis 
+(CIA) mouse model was used to test the role of tolDCs in vivo. The results of a 
+further mechanistic experiment revealed that tolDCs suppressed inflammatory 
+arthritis at least partially by up-regulating regulatory T (Treg) cells. 
+Collectively, our data suggest that tolDCs may be used as a promising 
+alternative therapy for inflammatory arthritis.

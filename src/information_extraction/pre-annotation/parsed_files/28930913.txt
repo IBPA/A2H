@@ -1,0 +1,21 @@
+Clostridium difficile infections (CDI) have recently increased worldwide. Some 
+CDI progress to fulminant and recurrent CDI and are associated with high 
+mortality and morbidity. CD produces toxins A and B, which cause intestinal 
+mucosal damage, although toxin B exhibits greater cytotoxicity. Pepsin-treated 
+lactoferrin (PLF) is the decomposed product of lactoferrin (LF), a 
+multifunctional glycoprotein with anti-inflammatory properties. Here, we 
+investigate the effects of LF and PLF in toxin B-stimulated rat intestinal 
+epithelial (IEC-6) cells. Different toxin B concentrations were added to IEC-6 
+cells with or without LF or PLF. Mitochondrial function and cell cytotoxicity 
+were assessed by measuring WST-1 and LDH levels, respectively. WST-1 levels were 
+higher in IEC-6 cells treated with toxin B and LF or PLF than in the toxin 
+B-only control (P < 0.05). Compared with the toxin B-only control, LDH levels 
+significantly decreased after toxin B and LF or PLF addition (P < 0.05). Wound 
+restitution measurement using microscopy demonstrated significantly greater 
+levels of wound restitution in cells treated with toxin B and LF or PLF than in 
+those treated with toxin B alone after 12 h (P < 0.001). Furthermore, changes in 
+IEC-6 cell tight junctions (TJs) were evaluated by immunofluorescence microscopy 
+and zonula occludens-1 (ZO-1) protein expression. When LF or PLF were added to 
+IEC-6 cells, TJ structures were maintained, and ZO-1 and occludin expression was 
+upregulated. Taken together, these results demonstrate that LF and PLF prevent 
+the cytotoxicity of toxin B and might have the potential to control CDI.

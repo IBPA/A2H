@@ -1,0 +1,18 @@
+Sinomenine is one of the alkaloids extracted from Chinese medical plant, 
+Sinomenium acutum Rehder et Wilson. Sinomenine has been used for Rheumatoid 
+arthritis as an anti-inflammatory and immunomodulative drugs. We have so far 
+been investigated the cardiovascular pharmacological actions of sinomenine. 
+Sinomenine dilated NE (5 μM)-, KCl (60 mM)- and PDB (300 nM)-induced 
+vasoconstrictions. The pretreatment with nicardipine (0.1 μM), staurosporine (30 
+nM), L-NMMA (100 μM), indomethacin (10 μM) or propranolol significantly 
+attenuated the sinomenine-induced vasorelaxation. Therefore, these results 
+indicate that sinomenine causes the vasorelaxation by the involvement with the 
+inhibitions of Ca(2+) current (I(Ca)) and PK-C, β-adrenoceptor stimulation, and 
+the activation of NO and PGI(2) syntheses in endothelium. On the other hand, in 
+the ventricular cardiomyocytes of guinea pig, sinomenine inhibits I(Ca) and 
+simultaneously decreases the delayed rectifier K(+) current (I(K)), resulting in 
+the prolongation of action potential duration. Sinomenine also suppresses the 
+dysrhysmias induced by triggered activities under the Ca(2+) overload condition. 
+Therefore, sinomenine may be expected as one of effective therapeutic drugs for 
+heart failure and dysrhythmias, and may maintain the cardiovascular functions 
+due to modulation of cardiac ionic channels and blood vessels.

@@ -1,0 +1,12 @@
+AIM: To study the effects of total alkaloid of Tongbiling prescription(TBL) on 
+Th1 type cytokine expression in T cells in order to elucidate the 
+anti-inflammatory mechanism of TBL.
+METHODS: The lymphocytes were isolated from mouse mesenteric lymph nodes and 
+cultured in-vitro. Various concentrations of TBL were added to the culture 
+followed by phorbol ester and inomycin treatment and then incubated for another 
+4 hours. The expressions of IFN-gamma and TNF-alpha in the lymphocytes were 
+analyzed by flow cytometry.
+RESULTS: 200 mg/L and 100 mg/L TBL could obviously inhibit IFN-gamma and 
+TNF-alpha expressions in T lymphocytes.
+CONCLUSION: Inhibiting Th1 cytokine expression may be one mechanism by which TBL 
+can treat rheumatoid arthritis.

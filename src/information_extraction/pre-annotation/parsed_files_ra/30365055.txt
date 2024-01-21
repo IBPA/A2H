@@ -1,0 +1,19 @@
+Synoviolin (Syvn1), an E3 ubiquitin ligase in endoplasmic reticulum‑associated 
+protein degradation, is involved in rheumatoid arthritis, fibrosis, liver 
+cirrhosis and obesity. We previously demonstrated that Syvn1 negatively 
+regulates the function of peroxisome proliferator‑activated receptor gamma 
+coactivator‑1β (PGC‑1β). In addition, treatment with a Syvn1 inhibitor 
+suppressed weight gain in a mouse model of obesity by activating PGC‑1β via 
+Syvn1 inhibition. It has been suggested that the Syvn1 inhibitors may have 
+therapeutic benefits in obese patients. The present study tested the inhibitory 
+activity of walnut extract, a natural product, on Syvn1 activity. Walnut extract 
+inhibited the effect of Syvn1 on the cell proliferation of rheumatoid synovial 
+cells and repressed the interaction between PGC‑1β and Syvn1 in an in vitro 
+binding assay. Polyubiquitination of PGC‑1β by Syvn1 was suppressed by walnut 
+extract in a concentration‑dependent manner, but walnut extract did not have an 
+inhibitory effect on the autoubiquitination of Syvn1. Treatment with walnut 
+extract in mouse embryonic fibroblasts increased the number of mitochondria, 
+suggesting that exposure to the extract recovered PGC‑1β function. These results 
+demonstrated that constituents of walnut extract may serve as lead compounds in 
+drug development efforts aiming to produce drugs to treat patients with obesity 
+and obesity‑associated metabolic diseases.

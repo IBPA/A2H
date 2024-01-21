@@ -1,0 +1,27 @@
+OBJECTIVE: There is increasing evidence of a role for Toll-like receptors (TLRs) 
+in inflammatory arthritis. The extra domain A (ED-A)-containing isoform of 
+fibronectin is generated under pathologic conditions such as rheumatoid 
+arthritis, and ED-A has been identified as an endogenous TLR-4 ligand. 
+Leukotriene B4 (LTB4) and polymorphonuclear neutrophils (PMNs) play a critical 
+role in murine models of inflammatory arthritis. The aim of this study was 
+therefore to investigate the putative effects of ED-A on leukotriene 
+biosynthesis and PMN migration through TLR signaling.
+METHODS: The effect of recombinant human ED-A (rhED-A) on leukotriene 
+biosynthesis was evaluated in isolated human blood PMNs and monocytes by 
+high-performance liquid chromatography. The capacity of rhED-A to stimulate PMN 
+migration was evaluated using a transendothelial/matrix migration assay in vitro 
+and the mouse air-pouch model in vivo.
+RESULTS: Recombinant human ED-A efficiently primed the biosynthesis of LTB4 in 
+PMN and monocyte suspensions. This priming effect was dependent on TLR-4 
+activation, since the TLR-4-signaling inhibitor CLI-095 completely blocked the 
+effect of rhED-A but not that of other TLR ligands (R-848, Pam2 CSK4) or 
+cytokines. Moreover, rhED-A stimulated transendothelial migration of PMNs in 
+vitro, which was inhibited by 50-60% with the LTB4 receptor 1 (BLT1) antagonist 
+CP105,696 or the cytosolic phospholipase A2 α inhibitor pyrrophenone. In vivo, 
+rhED-A induced a significant PMN recruitment into the air pouch of C3H/HeOuJ 
+mice (expressing functional TLR-4), but not in C3H/HeJ mice (expressing 
+nonsignaling TLR-4).
+CONCLUSION: These results demonstrate the ability of rhED-A to promote LTB4 
+biosynthesis and PMN migration through TLR-4 activation, thus providing new 
+insights on TLR-dependent mechanisms of regulation of LTB4 biosynthesis and PMN 
+infiltration in inflammatory joint diseases.

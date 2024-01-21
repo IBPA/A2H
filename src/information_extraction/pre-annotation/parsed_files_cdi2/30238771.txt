@@ -1,0 +1,14 @@
+AIM: To evaluate the effect on the nonsteroidal anti-inflammatory drug 
+indomethacin on Clostridium difficile infection (CDI) severity.
+MATERIALS & METHODS: Indomethacin was administered in two different mouse models 
+of antibiotic-associated CDI in two different facilities, using a low and high 
+dose of indomethacin.
+RESULTS: Indomethacin administration caused weight loss, increased the signs of 
+severe infection and worsened histopathological damage, leading to 100% 
+mortality during CDI. Indomethacin-treated, antibiotic-exposed mice infected 
+with C. difficile had enhanced intestinal inflammation with increased expression 
+of KC, IL-1β and IL-22 compared with infected mice unexposed to indomethacin.
+CONCLUSION: These results demonstrate a negative impact of nonsteroidal 
+anti-inflammatory drugs on antibiotic-associated CDI in mice and suggest that 
+targeting the synthesis or signaling of prostaglandins might be an approach to 
+ameliorating the severity of CDI.

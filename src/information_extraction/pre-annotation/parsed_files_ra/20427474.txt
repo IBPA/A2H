@@ -1,0 +1,25 @@
+Tumor necrosis factor alpha (TNF-alpha) is a major inflammatory cytokine that 
+plays an important role in the development of various inflammatory diseases. 
+TNF-alpha has been considered as a potential therapeutic target for the 
+treatment of chronic inflammatory diseases, including rheumatoid arthritis and 
+inflammatory bowel disease. In this study, we report that 
+cyclopropyl-{4-[4-(4-fluorophenyl)-2-piperidin-4-yl-thiazol-5-yl]pyrimidin-2-yl}amine 
+(DBM1285) is a novel inhibitor of TNF-alpha production. DBM1285 
+concentration-dependently inhibited lipopolysaccharide (LPS)-induced TNF-alpha 
+secretion in various cells of macrophage/monocyte lineage, including mouse bone 
+marrow macrophages, THP-1 cells, and RAW 264.7 cells. However, LPS-induced mRNA 
+expression of TNF-alpha was not affected by DBM1285 in these cells. Further 
+studies demonstrated that the inhibitory effect of DBM1285 on TNF-alpha 
+production might be mediated by post-transcriptional regulation through the 
+modulation of the p38 mitogen-activated protein kinase (MAPK)/MAPK-activated 
+protein kinase 2 (MK2) signaling pathway. We also confirmed that DBM1285 
+directly inhibits p38 MAPK enzymatic activity. In vivo administration of DBM1285 
+inhibited LPS-induced increase in the plasma level of TNF-alpha in mice. 
+Whole-blood in vivo target inhibition assay also revealed that DBM1285 
+attenuates p38 MAPK activity after oral administration in mice. Moreover, 
+DBM1285 suppressed zymosan-induced inflammation and adjuvant-induced arthritis 
+in murine models. Collectively, these results suggest that DBM1285 inhibits 
+TNF-alpha production, at least in part, by blocking the p38 MAPK/MK2 pathway. 
+Furthermore, in vivo results suggest that DBM1285 might be a possible 
+therapeutic candidate for the treatment of TNF-alpha-related chronic 
+inflammatory diseases.

@@ -1,0 +1,23 @@
+Infection with the Epstein-Barr virus (EBV) has been associated with several 
+autoimmune diseases including rheumatoid arthritis (RA). We have previously 
+reported that DNA from this virus enhances production of the pro-autoimmune 
+interleukin 17A (IL-17A) in mice. In this study we assessed the effect of EBV 
+DNA on regulatory T cell programming and examined whether it mediated its 
+effects via Toll-like receptor 9 (TLR9) in mice; moreover, we evaluated whether 
+EBV DNA in humans had similar effects to those seen in mice. For this purpose, 
+we assessed the linearity of the correlation between EBV DNA and IL-17A levels 
+in RA subjects and matched controls. A modulatory effect for the viral DNA was 
+observed for regulatory T cell markers with an inhibitory effect observed for 
+CTLA4 expression in the EBV DNA-treated mice. To examine whether TLR9 mediated 
+the detection of EBV DNA and enhancement of IL-17A production, mouse peripheral 
+blood mononuclear cells were treated with the DNA in the presence or absence of 
+the TLR9 inhibitor ODN 2088. Subsequently, IL-17A production from these cells 
+was assessed. Treatment with the TLR9 inhibitor resulted in a significant 
+decrease in IL-17A production indicating that TLR9 is involved in this pathway. 
+In human subjects, examining the linearity of the correlation between EBV DNA 
+and IL-17A levels in RA subjects showed a propensity for linearity that was not 
+observed in controls. Our data thus indicates that EBV DNA itself acts as a 
+modulator of the Th17 compartment as well as that of regulatory T cell 
+mechanisms. The involvement of TLR9 in the EBV DNA-triggered induction of IL-17A 
+suggests therapeutic targeting of this endosomal receptor in EBV positive 
+subjects with an autoimmune flare-up or possibly for prophylactic purposes.

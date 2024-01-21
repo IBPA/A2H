@@ -1,0 +1,22 @@
+Clostridium difficile infection (CDI) is principally responsible for hospital 
+acquired, antibiotic-induced diarrhea and colitis and represents a significant 
+financial burden on our healthcare system. Little is known about C. difficile 
+proliferation requirements, and a better understanding of these parameters is 
+critical for development of new therapeutic targets. In cell lines, C. difficile 
+toxin B has been shown to inhibit Na(+)/H(+) exchanger 3 (NHE3) and loss of NHE3 
+in mice results in an altered intestinal environment coupled with a transformed 
+gut microbiota composition. However, this has yet to be established in vivo in 
+humans. We hypothesize that C. difficile toxin inhibits NHE3, resulting in 
+alteration of the intestinal environment and gut microbiota. Our results 
+demonstrate that CDI patient biopsy specimens have decreased NHE3 expression and 
+CDI stool has elevated Na(+) and is more alkaline compared with stool from 
+healthy individuals. CDI stool microbiota have increased Bacteroidetes and 
+Proteobacteria and decreased Firmicutes phyla compared with healthy subjects. In 
+vitro, C. difficile grows optimally in the presence of elevated Na(+) and 
+alkaline pH, conditions that correlate to changes observed in CDI patients. To 
+confirm that inhibition of NHE3 was specific to C. difficile, human intestinal 
+organoids (HIOs) were injected with C. difficile or healthy and CDI stool 
+supernatant. Injection of C. difficile and CDI stool decreased NHE3 mRNA and 
+protein expression compared with healthy stool and control HIOs. Together these 
+data demonstrate that C. difficile inhibits NHE3 in vivo, which creates an 
+altered environment favored by C. difficile.

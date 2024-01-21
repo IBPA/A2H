@@ -1,0 +1,25 @@
+Recent studies indicate that IL-1alpha functions intracellularly in pathways 
+independent of its cell surface receptors by translocating to the nucleus and 
+regulating transcription. Similarly, the chromatin-associated protein HMGB1 acts 
+as both a nuclear factor and a secreted proinflammatory cytokine. Here, we show 
+that IL-33, an IL-1-like cytokine that signals via the IL-1 receptor-related 
+protein ST2 and induces T helper type 2-associated cytokines, is an 
+endothelium-derived, chromatin-associated nuclear factor with transcriptional 
+repressor properties. We found that IL-33 is identical to NF-HEV, a nuclear 
+factor preferentially expressed in high endothelial venules (HEV), that we 
+previously characterized. Accordingly, in situ hybridization demonstrated that 
+endothelial cells constitute a major source of IL-33 mRNA in chronically 
+inflamed tissues from patients with rheumatoid arthritis and Crohn's disease. 
+Immunostaining with three distinct antisera, directed against the N-terminal 
+part and IL-1-like C-terminal domain, revealed that IL-33 is a 
+heterochromatin-associated nuclear factor in HEV endothelial cells in vivo. 
+Association of IL-33 with heterochromatin was also observed in human and mouse 
+cells under living conditions. In addition, colocalization of IL-33 with mitotic 
+chromatin was noted. Nuclear localization, heterochromatin-association, and 
+targeting to mitotic chromosomes were all found to be mediated by an 
+evolutionarily conserved homeodomain-like helix-turn-helix motif within the 
+IL-33 N-terminal part. Finally, IL-33 was found to possess transcriptional 
+repressor properties, associated with the homeodomain-like helix-turn-helix 
+motif. Together, these data suggest that, similarly to IL1alpha and HMGB1, IL-33 
+is a dual function protein that may function as both a proinflammatory cytokine 
+and an intracellular nuclear factor with transcriptional regulatory properties.

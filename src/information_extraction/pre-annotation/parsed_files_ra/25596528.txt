@@ -1,0 +1,23 @@
+Muscle inflammation is often associated with its expansion. Bladder smooth 
+muscle inflammation-induced cell death is accompanied by hyperplasia and 
+hypertrophy as the primary cause for poor bladder function. In mice, DNA damage 
+initiated by chemotherapeutic drug cyclophosphamide activated caspase 1 through 
+the formation of the NLRP3 complex resulting in detrusor hyperplasia. A 
+cyclophosphamide metabolite, acrolein, caused global DNA methylation and 
+accumulation of DNA damage in a mouse model of bladder inflammation and in 
+cultured bladder muscle cells. In correlation, global DNA methylation and NLRP3 
+expression was up-regulated in human chronic bladder inflammatory tissues. The 
+epigenetic silencing of DNA damage repair gene, Ogg1, could be reversed by the 
+use of demethylating agents. In mice, demethylating agents reversed 
+cyclophosphamide-induced bladder inflammation and detrusor expansion. The 
+transgenic knock-out of Ogg1 in as few as 10% of the detrusor cells tripled the 
+proliferation of the remaining wild type counterparts in an in vitro co-culture 
+titration experiment. Antagonizing IL-1β with Anakinra, a rheumatoid arthritis 
+therapeutic, prevented detrusor proliferation in conditioned media experiments 
+as well as in a mouse model of bladder inflammation. Radiation treatment 
+validated the role of DNA damage in the NLRP3-associated caspase 1-mediated 
+IL-1β secretory phenotype. A protein array analysis identified IGF1 to be 
+downstream of IL-1β signaling. IL-1β-induced detrusor proliferation and 
+hypertrophy could be reversed with the use of Anakinra as well as an IGF1 
+neutralizing antibody. IL-1β antagonists in current clinical practice can 
+exploit the revealed mechanism for DNA damage-mediated muscular expansion.

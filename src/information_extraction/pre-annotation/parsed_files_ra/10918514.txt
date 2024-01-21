@@ -1,0 +1,18 @@
+The preclinical safety assessment of biopharmaceuticals necessitates that 
+studies be conducted in species in which the products are pharmacologically 
+active. Monoclonal antibodies are a promising class of biopharmaceuticals for 
+many disease indications; however, by design, these agents tend to have limited 
+species cross-reactivity and tend to only be active in primates. Keliximab is a 
+human-cynomolgus monkey chimeric (Primatized) monoclonal antibody with 
+specificity for human and chimpanzee CD4. In order to conduct a comprehensive 
+preclinical safety assessment of this antibody to support chronic treatment of 
+rheumatoid arthritis in patients, a human CD4 transgenic mouse was used for 
+chronic and reproductive toxicity studies and for genotoxic studies. In 
+addition, immunotoxicity studies were conducted in these mice with Candida 
+albicans, Pneumocystis carinii and B16 melanoma cells to assess the effects of 
+keliximab on host resistance to infection and immunosurveillance to neoplasia. 
+The results of these studies found keliximab to be well tolerated with the only 
+effects observed being related to its pharmacologic activity on CD4+ T 
+lymphocytes. The use of transgenic mice expressing human proteins provides a 
+useful alternative to studies in chimpanzees with biopharmaceutical agents 
+having limited species cross-reactivity.

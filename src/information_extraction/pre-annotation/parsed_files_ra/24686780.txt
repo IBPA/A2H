@@ -1,0 +1,25 @@
+An accurate and noninvasive tracer able to detect molecular events underlying 
+the development of rheumatoid arthritis (RA) would be useful for RA diagnosis 
+and drug efficacy assessment. A complement receptor of the Ig superfamily (CRIg) 
+is expressed on synovial macrophages of RA patients, making it an interesting 
+target for molecular imaging of RA. We aim to develop a radiotracer for the 
+visualization of CRIg in a mouse model for RA using radiolabeled single-domain 
+variable antibody VHH fragments (Nanobodies).
+METHODS: Quantitative polymerase chain reaction was used to locate CRIg 
+expression in mice with collagen-induced arthritis (CIA). A Nanobody, NbV4m119, 
+was generated to specifically target CRIg. Flow cytometry, phosphorimaging, and 
+confocal microscopy were used to confirm NbVm119 binding to CRIg-positive cells. 
+SPECT (SPECT/CT) was used to image arthritic lesions in the inflamed paws of 29 
+mice using (99m)Tc-NbV4m119 Nanobody.
+RESULTS: CRIg is constitutively expressed in the liver and was found to be 
+upregulated in synovial tissues of CIA mice. SPECT/CT imaging revealed that 
+(99m)Tc-NbV4m119 specifically targeted CRIg-positive liver macrophages in naïve 
+wild-type but not in CRIg(-/-) (CRIg knockout) mice. In CIA mice, 
+(99m)Tc-NbV4m119 accumulation in arthritic lesions increased according to the 
+severity of the inflammation. In the knees of mice with CIA, (99m)Tc-NbV4m119 
+was found to accumulate even before the onset of macroscopic clinical symptoms.
+CONCLUSION: SPECT/CT imaging with (99m)Tc-NbV4m119 visualizes joint inflammation 
+in CIA. Furthermore, imaging could predict which mice will develop clinical 
+symptoms during CIA. Consequently, imaging of joint inflammation with 
+CRIg-specific Nanobodies offers perspectives for clinical applications in RA 
+patients.

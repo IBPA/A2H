@@ -1,0 +1,18 @@
+The polypeptide toxin ShK is a potent blocker of Kv1.3 potassium channels, which 
+play a crucial role in the activation of human effector memory T-cells (T(EM)). 
+Selective blockers constitute valuable therapeutic leads for the treatment of 
+autoimmune diseases mediated by T(EM) cells, such as multiple sclerosis, 
+rheumatoid arthritis, and type-1 diabetes. We have established a recombinant 
+peptide expression system in order to generate isotopically-labelled ShK and 
+various ShK analogues for in-depth biophysical and pharmacological studies. ShK 
+was expressed as a thioredoxin fusion protein in Escherichia coli BL21 (DE3) 
+cells and purified initially by Ni²⁺ iminodiacetic acid affinity chromatography. 
+The fusion protein was cleaved with enterokinase and purified to homogeneity by 
+reverse-phase HPLC. NMR spectra of ¹⁵N-labelled ShK were similar to those 
+reported previously for the unlabelled synthetic peptide, confirming that 
+recombinant ShK was correctly folded. Recombinant ShK blocked Kv1.3 channels 
+with a K(d) of 25 pM and inhibited the proliferation of human and rat T 
+lymphocytes with a preference for T(EM) cells, with similar potency to synthetic 
+ShK in all assays. This expression system also enables the efficient production 
+of ¹⁵N-labelled ShK for NMR studies of peptide dynamics and of the interaction 
+of ShK with Kv1.3 channels.

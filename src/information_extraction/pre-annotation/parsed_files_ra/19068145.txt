@@ -1,0 +1,29 @@
+INTRODUCTION: Interleukin-6 (IL-6) is thought to play a pathogenic role in 
+rheumatoid arthritis and synovium is a major source of IL-6 release. We 
+investigated the ability of retinoids to suppress IL-6 expression in 
+IL-1-stimulated synovial fibroblasts, with special care to the contribution of 
+retinoic acid receptor (RAR) and retinoid X receptor (RXR) subtypes, and the 
+implication of the mitogen-activated protein kinase (MAPK) pathway.
+METHODS: RAR-alpha, -beta, and -gamma and RXR-alpha, -beta, and -gamma levels 
+were determined by reverse transcription-quantitative polymerase chain reaction 
+(RT-qPCR) or Western blot in rat synovial fibroblasts stimulated with 10 ng/mL 
+of IL-1beta. Stimulated levels of IL-6 were assessed by RT-qPCR or immunoassays 
+in the presence or absence of 1 microM all-trans retinoic acid (ATRA) (RAR 
+agonist) or 0.3 microM BMS-649 (RXR agonist). The contribution of RAR subtypes 
+was checked with selective agonists or small interfering RNAs. The effect of 
+ATRA on upstream MAPK (p38 MAPK, c-Jun N-terminal kinase [JNK], and 
+extracellularly regulated kinase 1/2 [ERK1/2]) was assessed by Western blot, and 
+the contribution of the ERK1/2 pathway to the activation of pro-inflammatory 
+transcription factors was studied by TransAm assays.
+RESULTS: Synovial fibroblasts expressed all RAR and RXR subtypes except 
+RXR-gamma. In IL-1-stimulated cells, ATRA, but not BMS-649, reduced IL-6 
+expression whereas selective RAR agonists were inactive. The inhibitory effect 
+of ATRA on IL-6 was not affected by the silencing of RAR subtypes. ATRA also 
+reduced the phosphorylation of ERK1/2, but not of p38 MAPK or of JNK. The 
+suppressive effect of ATRA on the activation of activator protein-1 (AP-1) and 
+nuclear factor-IL-6 (NF-IL-6) was reproduced by the MEK1 (mitogen-activated 
+protein extracellularly regulated kinase kinase 1) inhibitor PD-98059, whereas 
+ATRA and PD-98059 had no effect on NF-kappaB activation.
+CONCLUSIONS: Among RAR and RXR agonists, only ATRA inhibited IL-1-induced IL-6 
+expression in rat synovial fibroblasts by inhibiting ERK1/2 pathway and 
+subsequent activation of AP-1 and NF-IL-6 independently of RAR.

@@ -1,0 +1,24 @@
+OBJECTIVE: To study the specific contribution of MAP kinase activator c-Raf-1 
+and one of its downstream transcription factors, c-Myc, to the growth and 
+invasive behavior of rheumatoid arthritis synovial fibroblasts (RASFs).
+METHODS: RASFs were transduced with retroviral constructs expressing 
+dominant-negative mutants of c-Raf-1 or c-Myc (DN c-Raf-1 or DN c-Myc, 
+respectively) or with the mock vector. The expression of wild-type and mutant 
+proteins was confirmed by Western blotting. Growth curves of RASFs were 
+recorded, and apoptosis was measured by flow cytometry. Invasiveness of RASFs 
+was assessed in the SCID mouse model of RA. Immunohistochemistry was used to 
+study the effects of DN c-Raf-1 on phosphorylated c-Jun and matrix 
+metalloproteinase 1 (MMP-1) in RASFs implanted into SCID mice. The 
+phosphorylation of ERK and JNK in DN c-Raf-1- and mock-transduced RASFs was 
+determined in vitro by Western blotting. The levels of MMPs in these cells were 
+measured by quantitative polymerase chain reaction (PCR).
+RESULTS: Neither DN c-Raf-1 alone nor DN c-Myc alone significantly altered 
+proliferation or apoptosis of RASFs, but both mutants together rapidly induced 
+apoptosis. Inhibition of c-Raf-1 or c-Myc significantly reduced the invasiveness 
+of RASFs in the SCID mouse model. DN c-Raf-1 decreased the phosphorylation of 
+ERK and JNK in vitro and reduced the in vivo expression of phosphorylated c-Jun 
+as well as the expression of disease-relevant MMPs. As determined by 
+quantitative PCR, the inhibition was most pronounced for MMP-1 and MMP-3.
+CONCLUSION: The data demonstrate that Ras- and c-Myc-dependent signaling events 
+cooperate to regulate the growth and invasiveness of RASFs. Targeting of both 
+c-Raf-1 and c-Myc may constitute an interesting therapeutic approach in RA.

@@ -1,0 +1,13 @@
+We investigated the effects and mechanisms by which FTY720 (FTY) inhibits 
+arthritis development in the SKG mouse rheumatoid arthritis (RA) model. FTY 
+(1mg/kg/day) administration suppressed the progression of laminarin-induced 
+arthritis in SKG mice. FTY treatment decreased IL-6 and TNF-alpha expression in 
+synovial fibroblast cells and the number of inflammatory cells overall. Bone 
+destruction was also suppressed by treatment with FTY. The numbers of CD4(+) and 
+CD8(+) T cells were significantly increased in the thymus and decreased in the 
+spleen in FTY-treated SKG mice. FTY enhanced IL-4 production by CD4(+) T cells 
+stimulated by allogeneic spleen cells and inhibited prostaglandin E(2) (PGE(2)) 
+production by a TNF-alpha-stimulated synovial fibroblast cell line. These 
+results indicate that FTY can inhibit arthritis in SKG mice via sequestration of 
+autoimmune CD4(+) T cells in the thymus, enhancement of Th2 immune responses, 
+and inhibition of PGE(2) production by synovial cells.

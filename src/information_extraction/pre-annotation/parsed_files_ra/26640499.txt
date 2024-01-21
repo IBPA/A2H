@@ -1,0 +1,19 @@
+Background. Shikonin is a major chemical component of zicao that possesses 
+anti-inflammatory properties and the ability to mediate cellular and humoral 
+immunity, especially in rheumatoid arthritis (RA). We investigated the impact of 
+shikonin on inflammatory response in RA synovial fibroblasts using the CAIA 
+model. Methods. Severe polyarticular arthritis was induced in Balb/c female 
+mice. Expressions of lncRNA-NR024118, SOCS3, proinflammatory cytokines, and MMPs 
+were evaluated using RT-RCR. Histone acetylation and SOCS3 protein expression 
+were assessed by ChIP assay and western blot, respectively. Results. Mice 
+treated with shikonin showed an abrogation of soft tissue and bone lesions. 
+Shikonin remarkably enhanced the expression of NR024118 and SOCS3 and suppressed 
+the secretion and expression of IL-6, IL-8, and MMPs. Proliferation of cultured 
+RA synovial fibroblasts in the presence of IL-1β was also significantly 
+inhibited by shikonin. Moreover, shikonin dose-dependently increased acetylation 
+of histone H3 at the promoter of NR024118. Finally, NR024118 overexpression and 
+interference significantly changed SOCS3 expression and NR024118 interference 
+could reverse regulation of shikonin on SOCS3, proinflammatory cytokines, and 
+MMPs expression level in MH7A cells. Conclusion. Our results reveal that, in the 
+CAIA mouse model of RA, shikonin has disease modifying activity that is 
+attributable to the inhibition of inflammatory response via lncRNA-NR024118.

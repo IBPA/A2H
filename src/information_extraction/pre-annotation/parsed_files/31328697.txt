@@ -1,0 +1,16 @@
+Storage procedures are known to affect the detectability of Clostridium 
+difficile toxins in equine and human feces. We assessed the impact of different 
+storage conditions on the detectability of C. difficile toxins in swine feces. 
+Specimens were inoculated with toxins, 112 ng/g of toxin A (TcdA) and 16 ng/g of 
+toxin B (TcdB) and subjected to the following 3 storage treatments: 4°C, -30°C, 
+repetitive freezing at -30°C and thawing. Toxin determination was assessed at 1, 
+2, 7, 14, and 21 d with ELISA. A decrease in concentrations of TcdA with time 
+was observed for samples stored at 4°C and repetitive freezing-thawing (p 
+≤0.05). On day 14, storage at 4°C resulted in decreased TcdA concentration as 
+opposed to storage at -30°C and repetitive freezing-thawing (p ≤0.05). On day 
+21, storage at 4°C resulted in decreased TcdA detectability compared with 
+storage at -30°C (p ≤0.05). The TcdB concentration was unaffected. These results 
+on toxin detectability in swine feces should be carefully considered in in vitro 
+studies on toxigenic C. difficile. Our results also offer valuable information 
+for microbiologists and veterinarians monitoring the presence of virulent C. 
+difficile in pigs.

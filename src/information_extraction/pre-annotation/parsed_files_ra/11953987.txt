@@ -1,0 +1,25 @@
+OBJECTIVE: To evaluate the regulatory potential of genetic loci controlling 
+Mycobacterium butyricum adjuvant-induced arthritis (Mbt-AIA) using mono- and 
+polycongenic rats.
+METHODS: Of 4 quantitative trait loci (QTLs) that regulate Mbt-AIA, F344 alleles 
+at 3 of these loci, Aia1, Aia2, and Aia3, are associated with lower arthritis 
+severity, whereas F344 alleles at Aia4 are associated with greater arthritis 
+severity. In this study, we constructed congenic lines by transferring 1 or more 
+of the F344 genomic segments containing Aia1, Aia2, and Aia3 onto the DA genome. 
+We comparatively evaluated their responses to Mbt-AIA with the responses of 
+parental DA and F344 rats.
+RESULTS: Aia1, encompassing the rat major histocompatibility complex, reduced 
+arthritis severity in monocongenic rats of both sexes. The arthritis-lowering 
+effects of Aia2 and Aia3 were sex-influenced and were therefore observed in only 
+males and only females, respectively. Polycongenic rats containing F344 genomic 
+regions at Aia1, Aia2, and Aia3 developed Mbt-AIA of relatively greater severity 
+than did F344 rats, implying that in DA and F344 rats, there could be other 
+Mbt-AIA loci in addition to Aia1, Aia2, Aia3, and Aia4. To test the possibility 
+that some of these Mbt-AIA-regulatory loci may colocalize with other arthritis 
+QTLs, we evaluated Mbt-AIA in DA.F344 monocongenic rats containing 
+collagen-induced arthritis QTLs. Cia5 (the QTL region on chromosome 10), but not 
+Cia5a, Cia4, or Cia6, also regulated Mbt-AIA, and was named Aia5.
+CONCLUSION: F344 genomic regions at Aia1, Aia2, and Aia3 and the newly 
+identified Aia5 contain genes that reduce Mbt-AIA severity in DA rats. These 
+Mbt-AIA-regulatory loci overlap rheumatoid arthritis-susceptibility loci in 
+humans.

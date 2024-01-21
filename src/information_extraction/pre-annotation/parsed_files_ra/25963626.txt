@@ -1,0 +1,14 @@
+Dendritic cells (DCs) are critical for immune homeostasis. To target DCs, we 
+generated a mouse line with Flip deficiency in cells that express cre under the 
+CD11c promoter (CD11c-Flip-KO). CD11c-Flip-KO mice spontaneously develop 
+erosive, inflammatory arthritis, resembling rheumatoid arthritis, which is 
+dramatically reduced when these mice are crossed with Rag(-/-) mice. The CD8α(+) 
+DC subset is significantly reduced, along with alterations in NK cells and 
+macrophages. Autoreactive CD4(+) T cells and autoantibodies specific for joint 
+tissue are present, and arthritis severity correlates with the number of 
+autoreactive CD4(+) T cells and plasmablasts in the joint-draining lymph nodes. 
+Reduced T regulatory cells (Tregs) inversely correlate with arthritis severity, 
+and the transfer of Tregs ameliorates arthritis. This KO line identifies a model 
+that will permit in depth interrogation of the pathogenesis of rheumatoid 
+arthritis, including the role of CD8α(+) DCs and other cells of the immune 
+system.

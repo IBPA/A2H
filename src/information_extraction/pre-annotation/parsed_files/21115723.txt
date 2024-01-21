@@ -1,0 +1,25 @@
+Toxin A (TxA) is able to induce most of the classical features of Clostridium 
+difficile-associated disease in animal models. The objective of this study was 
+to determine the effect of an inhibitor of adenosine deaminase, EHNA 
+[erythro-9-(2-hydroxy-3-nonyl)-adenine], on TxA-induced enteritis in C57BL6 mice 
+and on the gene expression of adenosine receptors. EHNA (90 μmol/kg) or 
+phosphate-buffered saline (PBS) was injected intraperitoneally (i.p.) 30 min 
+prior to TxA (50 μg) or PBS injection into the ileal loop. A(2A) adenosine 
+receptor agonist (ATL313; 5 nM) was injected in the ileal loop immediately 
+before TxA (50 μg) in mice pretreated with EHNA. The animals were euthanized 3 h 
+later. The changes in the tissue were assessed by the evaluation of ileal loop 
+weight/length and secretion volume/length ratios, histological analysis, 
+myeloperoxidase assay (MPO), the local expression of inducible nitric oxide 
+synthase (NOS2), pentraxin 3 (PTX3), NF-κB, tumor necrosis factor alpha (TNF-α), 
+and interleukin-1β (IL-1β) by immunohistochemistry and/or quantitative reverse 
+transcription-PCR (qRT-PCR). The gene expression profiles of A₁, A(2A), A(2B), 
+and A₃ adenosine receptors also were evaluated by qRT-PCR. Adenosine deaminase 
+inhibition, by EHNA, reduced tissue injury, neutrophil infiltration, and the 
+levels of proinflammatory cytokines (TNF-α and IL-1β) as well as the expression 
+of NOS2, NF-κB, and PTX3 in the ileum of mice injected with TxA. ATL313 had no 
+additional effect on EHNA action. TxA increased the gene expression of A₁ and 
+A(2A) adenosine receptors. Our findings show that the inhibition of adenosine 
+deaminase by EHNA can prevent Clostridium difficile TxA-induced damage and 
+inflammation possibly through the A(2A) adenosine receptor, suggesting that the 
+modulation of adenosine/adenosine deaminase represents an important tool in the 
+management of C. difficile-induced disease.

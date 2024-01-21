@@ -1,0 +1,25 @@
+OBJECTIVE: The pathogenesis of rheumatoid arthritis (RA) reflects an ongoing 
+imbalance between proinflammatory and antiinflammatory cytokines. Interleukin-20 
+(IL-20) has proinflammatory properties for keratinocytes. In this study, we 
+sought to determine whether IL-20 is involved in RA.
+METHODS: We analyzed IL-20 levels in synovial fluid from RA patients. IL-20 and 
+its receptors were detected in RA synovial fibroblasts (RASFs), using 
+immunohistochemical staining. The effect of IL-20 on endothelial cells, 
+neutrophils, and RASFs was investigated using MTT and migration assays. The 
+expression of IL-20 and its receptors in healthy rats and in rats with 
+collagen-induced arthritis (CIA) was also analyzed. Soluble IL-20 receptor type 
+I (sIL-20RI) or sIL-20RII was administered to rats with CIA by intramuscular 
+electroporation, and the severity of arthritis was monitored.
+RESULTS: RA patients expressed significantly higher levels of synovial fluid 
+IL-20 than did the rheumatic disease controls. IL-20 and its receptors were 
+expressed in the synovial membranes and RASFs. IL-20 induced RASFs to secrete 
+monocyte chemoattractant protein 1, IL-6, and IL-8, and it promoted neutrophil 
+chemotaxis, RASF migration, and endothelial cell proliferation. Both IL-20 and 
+IL-20RI were up-regulated in the rat CIA model. In vivo, electroporated sIL-20RI 
+plasmid DNA decreased the severity of arthritis in the rats with CIA.
+CONCLUSION: IL-20 was up-regulated in the synovial fluid of RA patients and 
+acted as a chemokine that attracted the migration of neutrophils and RASFs in 
+vitro. The rat CIA model demonstrated that IL-20 was involved in the 
+pathogenesis of arthritis, because sIL-20RI significantly reduced arthritis in 
+rats with CIA. Thus, IL-20 may modulate the incidence and severity of arthritis 
+and play important roles at local sites of inflammation.

@@ -1,0 +1,19 @@
+Inactivation of Rho GTPases inhibited the neurite outgrowth of PC12 cells. The 
+role of Cdc42 in neurite outgrowth was then studied by selective inhibition of 
+Cdc42 signals. Overexpression of ACK42, Cdc42 binding domain of ACK-1, inhibited 
+NGF-induced neurite outgrowth in PC12 cells. ACK42 also inhibited the neurite 
+outgrowth of PC12 cells induced by constitutively activated mutant of Cdc42, but 
+not Rac. These results suggest that Cdc42 plays an important role in mediating 
+NGF-induced neurite outgrowth of PC12 cells. Inhibition of neurite outgrowth was 
+also demonstrated using a cell permeable chimeric protein, penetratin-ACK42. A 
+dominant negative mutant of Rac, RacN17 inhibited Cdc42-induced neurite 
+outgrowth of PC12 cells suggesting that Rac acts downstream of Cdc42. Further 
+studies, using primary-cultures of rat cerebellar granule neurons, showed that 
+Cdc42 is also involved in the neurite outgrowth of cerebellar granule neurons. 
+Both penetratin-ACK42 and Clostridium difficile toxin B, which inactivates all 
+members of Rho GTPases strongly inhibited the neurite outgrowth of cerebellar 
+granule neurons. These results show that Cdc42 plays a similar and essential 
+role in the development of neurite outgrowth of PC12 cells and cerebellar 
+granule neurons. These results provide evidence that Cdc42 produces signals that 
+are essential for the neurite outgrowth of PC12 cells and cerebellar granule 
+neurons.

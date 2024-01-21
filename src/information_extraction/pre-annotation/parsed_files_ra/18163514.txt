@@ -1,0 +1,27 @@
+OBJECTIVE: The pathogenesis of rheumatoid arthritis is often linked to bacterial 
+infections. The present study was undertaken to develop a mouse model of chronic 
+destructive arthritis induced by repeated intraarticular (IA) exposure to 
+bacterial cell wall fragments and to investigate the cytokine dependence of this 
+model.
+METHODS: Mice that were deficient in various cytokines were injected IA with 
+cell wall fragments of Streptococcus pyogenes on days 0, 7, 14, and 21. The 
+development of chronic destructive arthritis was compared between groups of mice 
+lacking different cytokines, to assess which cytokines were crucial for 
+development of chronic destructive arthritis.
+RESULTS: Repeated exposure of a joint to S pyogenes cell wall fragments resulted 
+in the development of chronic destructive arthritis. In mice deficient in 
+recombination-activating gene 2, streptococcal cell wall (SCW)-directed T cell 
+reactivity was found and chronic arthritis did not develop, implicating T cells 
+in the generation of chronic SCW-induced arthritis. Interleukin-17 (IL-17) 
+receptor-deficient mice showed a reduction of joint destruction in the chronic 
+stage, implicating a detrimental role of the recently discovered IL-17-producing 
+T helper cells (Th17 cells). IL-23 expression was apparent during the late 
+stages of arthritis. Joint swelling was no longer dependent on tumor necrosis 
+factor alpha (TNFalpha) after the last flare, and pronounced cartilage damage 
+was found after 28 days in TNFalpha-deficient mice. In contrast, 
+IL-1beta-deficient mice were fully protected against joint swelling and 
+cartilage and bone destruction during the late stages of disease.
+CONCLUSION: These findings indicate that the TNFalpha dependence of arthritis is 
+lost during the erosive stage, when Th17 cells become crucial. IL-1beta 
+dependence remains strong, consistent with its pivotal role in the generation of 
+Th17 cells.

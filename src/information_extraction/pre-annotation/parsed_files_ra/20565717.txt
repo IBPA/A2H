@@ -1,0 +1,25 @@
+INTRODUCTION: The function of interleukin-18 (IL-18) was investigated in 
+pertinent animal models of rodent rheumatoid arthritis (RA) to determine its 
+proinflammatory and monocyte recruitment properties.
+METHODS: We used a modified Boyden chemotaxis system to examine monocyte 
+recruitment to recombinant human (rhu) IL-18 in vitro. Monocyte recruitment to 
+rhuIL-18 was then tested in vivo by using an RA synovial tissue (ST) severe 
+combined immunodeficient (SCID) mouse chimera. We defined monocyte-specific 
+signal-transduction pathways induced by rhuIL-18 with Western blotting analysis 
+and linked this to in vitro monocyte chemotactic activity. Finally, the ability 
+of IL-18 to induce a cytokine cascade during acute joint inflammatory responses 
+was examined by inducing wild-type (Wt) and IL-18 gene-knockout mice with 
+zymosan-induced arthritis (ZIA).
+RESULTS: We found that intragraft injected rhuIL-18 was a robust monocyte 
+recruitment factor to both human ST and regional (inguinal) murine lymph node 
+(LN) tissue. IL-18 gene-knockout mice also showed pronounced reductions in joint 
+inflammation during ZIA compared with Wt mice. Many proinflammatory cytokines 
+were reduced in IL-18 gene-knockout mouse joint homogenates during ZIA, 
+including macrophage inflammatory protein-3alpha (MIP-3alpha/CCL20), vascular 
+endothelial cell growth factor (VEGF), and IL-17. Signal-transduction 
+experiments revealed that IL-18 signals through p38 and ERK1/2 in monocytes, and 
+that IL-18-mediated in vitro monocyte chemotaxis can be significantly inhibited 
+by disruption of this pathway.
+CONCLUSIONS: Our data suggest that IL-18 may be produced in acute inflammatory 
+responses and support the notion that IL-18 may serve a hierarchic position for 
+initiating joint inflammatory responses.

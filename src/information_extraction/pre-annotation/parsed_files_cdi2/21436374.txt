@@ -1,0 +1,20 @@
+Clostridium difficile strains of toxinotypes III (n = 13) and V (n = 45) were 
+typed by agarose gel-based PCR ribotyping, capillary gel electrophoresis-based 
+PCR ribotyping and PFGE using two different restriction enzymes, SmaI and SacII. 
+With conventional agarose gel-based PCR ribotyping, toxinotype III strains were 
+distributed among six different PCR ribotypes and toxinotype V strains into 
+three different PCR ribotypes. Capillary gel electrophoresis-based ribotyping 
+was more discriminatory for toxinotype V strains, with six different ribotypes 
+found. With PFGE using SmaI, all toxinotype III strains grouped together into a 
+single pulsotype. Using SacII, ribotype 027 strains grouped together with >90 % 
+similarity and were <83 % similar to other ribotypes of toxinotype III strains. 
+Within ribotype 078, seven (SmaI) and eight (SacII) different pulsotypes were 
+found, whilst ribotype 126 strains belonged to one (SmaI) and two (SacII) 
+pulsotypes. Within ribotype 066, it was possible to distinguish between pig and 
+human isolates. Using SacII, a further distinction could also be made between 
+pig isolates from two different farms. PFGE (SmaI and SacII) clustered strains 
+according to their toxinotype; however, correlation of PFGE and ribotyping was 
+better with SacII. These data suggest that toxinotype III strains are a more 
+heterogeneous group than toxinotype V strains and that SacII is more 
+discriminatory than SmaI. Alternatively, the use of both enzymes simultaneously 
+could improve PFGE typing of C. difficile.

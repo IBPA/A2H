@@ -1,0 +1,24 @@
+OBJECTIVE: Monocyte recruitment by proinflammatory cytokines is a hallmark of 
+rheumatoid arthritis (RA). Lewis(y-6) and H (Le(y)/H) are blood group antigens 
+up-regulated on RA synovial endothelium. We have previously shown that both 
+soluble Le(y)/H and a glucose analog of H, H-2g, are angiogenic and 
+mediateleukocyte-endothelial adhesion via induction of intercellular adhesion 
+molecule 1. We hypothesized that soluble Le(y)/H plays an important role in 
+monocyte recruitment in RA.
+METHODS: We examined the role of H-2g in monocyte chemotaxis in vitro. We used 
+an RA synovial tissue (ST)-SCID mouse chimera model to evaluate the role of H-2g 
+in monocyte recruitment in vivo. We used Western blots to examine signaling 
+molecules activated by H-2g in monocytes.
+RESULTS: H-2g induced human monocyte migration in vitro, which was mediated by 
+Src and phosphatidylinositol 3-kinase (PI 3-kinase), since inhibitors and 
+antisense oligodeoxynucleotides (ODNs) of Src and PI 3-kinase significantly 
+decreased H-2g-induced monocyte migration (P < 0.05). H-2g significantly 
+increased mononuclear cell (MNC) homing in vivo into an RA ST-SCID mouse chimera 
+(P < 0.05). Transfection of MNCs with Src antisense ODNs blocked H-2g-induced 
+MNC recruitment into the RA ST-SCID mouse chimera. Additionally, H-2g induced 
+marked phosphorylation of protein kinase CalphaI/betaII (PKCalphaI/betaII), Src, 
+IkappaBalpha, and Akt in monocytes. Src, Akt, and NF-kappaB were shown to be 
+downstream targets of PKCalphaI/betaII, since an inhibitor of PKCalphaI/betaII 
+reduced H-2g-mediated phosphorylation of Src, Akt, and NF-kappaB in monocytes.
+CONCLUSION: These data suggest that H-2g may be a novel mediator of monocyte 
+recruitment in chronic inflammatory diseases like RA.

@@ -1,0 +1,18 @@
+The influence of different ADP-ribosylating and glucosylating cytotoxins on 
+stimulated protein tyrosine phosphorylation and secretion in rat basophilic 
+leukemia (RBL) cells was studied. Treatment of RBL cells with Clostridium 
+botulinum C2 toxin, which specifically ADP-ribosylated monomeric G-actin and 
+caused complete depolymerization of the actin cytoskeleton in intact cells, 
+inhibited Fc epsilon RI receptor-mediated tyrosine phosphorylation of various 
+proteins in a time- and concentration-dependent manner with maximal effects at 
+100 ng/ml C2I and 200 ng/ml C2I. C2 toxin (10 ng/ml C2I and 20 ng/ml C2II) 
+increased antigen- or calcium ionophore (A23187)-stimulated [3H]serotonin 
+release maximally by about 3 fold. Clostridium botulinum C3, which 
+ADP-ribosylated Rho in intact RBL cells, had no effect on protein tyrosine 
+phosphorylation and stimulated secretion. In contrast, the cytotoxic Clostridium 
+difficile toxin B (ToxB), which glucosylated the Rho-subtype family members RhoA 
+and Cdc42, blocked or reduced antigen- or calcium ionophore-mediated 
+[3H]serotonin release, respectively, and decreased tyrosine phosphorylation of a 
+110 kDa protein. The data indicate that different actin pools control tyrosine 
+phosphorylation and secretion in RBL cells and suggest that Rho subfamily 
+proteins regulate secretion independently of the actin cytoskeleton.

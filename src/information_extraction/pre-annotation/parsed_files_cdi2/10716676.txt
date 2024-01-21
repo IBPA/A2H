@@ -1,0 +1,25 @@
+BACKGROUND AND AIMS: Evidence suggests that the intestinal actions of 
+Clostridium difficile toxin A-stimulation of secretion and motility, and an 
+acute inflammatory response-have a neurally mediated component.
+METHODS: Direct intracellular electrophysiological recording of electrical and 
+synaptic behaviour in enteric neurones was performed in the submucous plexus of 
+guinea pig small intestine during exposure to the toxin.
+RESULTS: Application of toxin A affected both the electrical behaviour of the 
+neuronal cell bodies and inhibitory noradrenergic neurotransmission to the cell 
+bodies. Altered electrical behaviour included depolarisation and increased 
+excitability. Tetrodotoxin or a histamine H(2) receptor antagonist did not 
+affect the depolarisation evoked by toxin A. Failure of the histamine antagonist 
+to suppress the actions of toxin A is evidence that its actions were not 
+mediated by degranulation of intramural mast cells. The action of toxin A on 
+neurotransmission was suppression of inhibitory postsynaptic potentials evoked 
+in the neuronal cell bodies by stimulation of sympathetic nerve fibres that 
+synapsed with the cell bodies. The inhibitory postsynaptic potentials were 
+mediated by norepinephrine (noradrenaline) acting at postsynaptic alpha 
+adrenoceptors on the cell bodies. Hyperpolarising responses evoked in the cell 
+bodies by micropressure application of norepinephrine were unaffected by toxin 
+A. This fulfils criteria for a presynaptic inhibitory action of toxin A to 
+suppress release of norepinephrine from sympathetic postganglionic axons.
+CONCLUSIONS: Results suggest that the neural component of the action of toxin A 
+involves both direct excitation of enteric neurones and suppression of 
+norepinephrine release from postganglionic sympathetic nerve fibres in the 
+enteric nervous system.

@@ -1,0 +1,21 @@
+Clostridium difficile is the etiological agent of antibiotic-associated 
+diarrhoea (AAD) and pseudomembranous colitis in humans. The role of the surface 
+layer proteins (SLPs) in this disease has not yet been fully explored. The aim 
+of this study was to investigate a role for SLPs in the recognition of C. 
+difficile and the subsequent activation of the immune system. Bone marrow 
+derived dendritic cells (DCs) exposed to SLPs were assessed for production of 
+inflammatory cytokines, expression of cell surface markers and their ability to 
+generate T helper (Th) cell responses. DCs isolated from C3H/HeN and C3H/HeJ 
+mice were used in order to examine whether SLPs are recognised by TLR4. The role 
+of TLR4 in infection was examined in TLR4-deficient mice. SLPs induced 
+maturation of DCs characterised by production of IL-12, TNFα and IL-10 and 
+expression of MHC class II, CD40, CD80 and CD86. Furthermore, SLP-activated DCs 
+generated Th cells producing IFNγ and IL-17. SLPs were unable to activate DCs 
+isolated from TLR4-mutant C3H/HeJ mice and failed to induce a subsequent Th cell 
+response. TLR4⁻/⁻ and Myd88⁻/⁻, but not TRIF⁻/⁻ mice were more susceptible than 
+wild-type mice to C. difficile infection. Furthermore, SLPs activated NFκB, but 
+not IRF3, downstream of TLR4. Our results indicate that SLPs isolated from C. 
+difficile can activate innate and adaptive immunity and that these effects are 
+mediated by TLR4, with TLR4 having a functional role in experimental C. 
+difficile infection. This suggests an important role for SLPs in the recognition 
+of C. difficile by the immune system.

@@ -1,0 +1,17 @@
+Type 17 T helper (TH17) cells are a population of CD4+ effector T cells that are 
+distinct from TH1 and TH2 cells owing to their ability to produce interleukin 
+(IL)-17. Although TH1 and TH2 cells are similar in mice and humans, TH17 cells 
+differ in several ways. The differentiation of mouse TH17 cells requires 
+transforming growth factor beta and IL-6, whereas human naive T cells can 
+develop into TH17 cells in the presence of IL-1beta and IL-23 alone, 
+transforming growth factor beta having an indirect role in their development via 
+the selective inhibition of TH1 cell expansion. in both mice and humans, a late 
+developmental plasticity of TH17 cells towards the TH1 lineage has been shown. 
+Mainly based on mouse gene knockout studies, TH17 lymphocytes have been found to 
+have a pathogenic role in several autoimmune disorders; however, whether human 
+autoimmune disorders, including rheumatoid arthritis (RA) and psoriasis, are 
+prevalently TH1-mediated or TH17-mediated, is still unclear. research suggests 
+that both TH1 and TH17 cells are involved in RA pathogenesis, raising the 
+possibility that interventions that target both the IL-23-IL-17 (TH17) and the 
+IL-12-interferon gamma (TH1) axes might be successful future therapeutic 
+approaches for RA.

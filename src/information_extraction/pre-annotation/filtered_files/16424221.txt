@@ -1,0 +1,20 @@
+TLR-induced innate immunity and inflammation are mediated by signaling cascades 
+leading to activation of the MAPK family of Ser/Thr protein kinases, including 
+p38 MAPK, which controls cytokine release during innate and adoptive immune 
+responses. Failure to terminate such inflammatory reactions may lead to 
+detrimental systemic effects, including septic shock and autoimmunity. In this 
+study, we provide genetic evidence of a critical and nonredundant role of MAPK 
+phosphatase (MKP)-1 in the negative control of MAPK-regulated inflammatory 
+reactions in vivo. MKP-1-/- mice are hyperresponsive to low-dose LPS-induced 
+toxicity and exhibit significantly increased serum TNF-alpha, IL-6, IL-12, 
+MCP-1, IFN-gamma, and IL-10 levels after systemic administration of LPS. 
+Furthermore, absence of MKP-1 increases systemic levels of proinflammatory 
+cytokines and exacerbates disease development in a mouse model of rheumatoid 
+arthritis. When activated through TLR2, TLR3, TLR4, TLR5, and TLR9, bone 
+marrow-derived MKP-1-/- macrophages exhibit increased cytokine production and 
+elevated expression of the differentiation markers B7.2 (CD86) and CD40. 
+MKP-1-deficient macrophages also show enhanced constitutive and TLR-induced 
+activation of p38 MAPK. Based on these findings, we propose that MKP-1 is an 
+essential component of the intracellular homeostasis that controls the threshold 
+and magnitude of p38 MAPK activation in macrophages, and inflammatory conditions 
+accentuate the significance of this regulatory function.

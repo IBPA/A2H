@@ -1,0 +1,24 @@
+Saccharomyces boulardii is a nonpathogenic yeast used in the treatment of 
+Clostridium difficile diarrhea and colitis. We have reported that S. boulardii 
+inhibits C. difficile toxin A enteritis in rats by releasing a 54-kDa protease 
+which digests the toxin A molecule and its brush border membrane (BBM) receptor 
+(I. Castagliuolo, J. T. LaMont, S. T. Nikulasson, and C. Pothoulakis, Infect. 
+Immun. 64:5225-5232, 1996). The aim of this study was to further evaluate the 
+role of S. boulardii protease in preventing C. difficile toxin A enteritis in 
+rat ileum and determine whether it protects human colonic mucosa from C. 
+difficile toxins. A polyclonal rabbit antiserum raised against purified S. 
+boulardii serine protease inhibited by 73% the proteolytic activity present in 
+S. boulardii conditioned medium in vitro. The anti-protease immunoglobulin G 
+(IgG) prevented the action of S. boulardii on toxin A-induced intestinal 
+secretion and mucosal permeability to [3H]mannitol in rat ileal loops, while 
+control rabbit IgG had no effect. The anti-protease IgG also prevented the 
+effects of S. boulardii protease on digestion of toxins A and B and on binding 
+of [3H]toxin A and [3H]toxin B to purified human colonic BBM. Purified S. 
+boulardii protease reversed toxin A- and toxin B-induced inhibition of protein 
+synthesis in human colonic (HT-29) cells. Furthermore, toxin A- and B-induced 
+drops in transepithelial resistance in human colonic mucosa mounted in Ussing 
+chambers were reversed by 60 and 68%, respectively, by preexposing the toxins to 
+S. boulardii protease. We conclude that the protective effects of S. boulardii 
+on C. difficile-induced inflammatory diarrhea in humans are due, at least in 
+part, to proteolytic digestion of toxin A and B molecules by a secreted 
+protease.

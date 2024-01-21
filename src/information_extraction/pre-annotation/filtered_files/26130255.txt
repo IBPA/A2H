@@ -1,0 +1,20 @@
+Healthy bone is maintained by the coordinated activities of osteoblast-mediated 
+bone formation and osteoclast-dependent bone resorption. Pathologic conditions 
+such as hormonal imbalance and inflammation cause increased osteoclastogenesis 
+resulting in osteoporosis, rheumatoid arthritis, and periodontitis. Bortezomib 
+is novel antimyeloma agent that has a direct beneficial effect on bone 
+formation. However, the role of bortezomib in osteoclastogenesis and underlying 
+mechanisms remains to be fully comprehended. In the present study, we show that 
+bortezomib directly inhibited the receptor activator of nuclear factor κB ligand 
+(RANKL)- and lipopolysaccharide-dependent osteoclast differentiation. 
+Interestingly, the bortezomib-mediated inhibition of osteoclastogenesis was 
+transient, since the removal of bortezomib from culture completely restored 
+osteoclast differentiation. Bortezomib impeded the induction and nuclear 
+localization of nuclear factor of activated T cells, cytoplasmic 1 and reduced 
+both macrophage colony-stimulating factor- and RANKL-induced 
+extracellular-signal-regulated kinase (ERK) phosphorylation. In a mouse model of 
+periodontitis, bortezomib prevented alveolar bone erosion induced by 
+Porphyromonas gingivalis lipopolysaccharide. These data not only suggest a 
+previously unappreciated mechanism by which bortezomib regulates bone resorption 
+but also propose novel applications of bortezomib beyond its use as an 
+antimyeloma agent.

@@ -1,0 +1,23 @@
+OBJECTIVE: Surfactant Proteins (SPs) are well known from lung and form, along 
+with phospholipids, a surface-active-layer at the liquid-air-interface of the 
+alveolar lining. They play a major protective role by lowering surface tension, 
+activating innate and adaptive immune defense at the lung mucosal interface, 
+especially during infection. We analyzed the regulation of SPs in human and 
+mouse articular chondrocytes, synoviocytes, and synovial fluid under healthy and 
+inflammatory conditions, as well as in tissues of patients suffering from 
+osteoarthritis and rheumatoid arthritis.
+METHODS: Immunohistochemistry, RT-PCR, qRT-PCR, ELISA, Western blotting were 
+performed in cell cultures and tissue samples to determine localization, 
+regulation, and concentration of SPs.
+RESULTS: All four SPs, were expressed by healthy human and mouse articular 
+chondrocytes and synoviocytes and were also present in synovial fluid. Treatment 
+with inflammatory mediators like IL-1β and TNF-α led to short-term upregulation 
+of individual SPs in vitro. In tissues from patients with osteoarthritis and 
+rheumatoid arthritis, protein levels of all four SPs increased significantly 
+compared to the controls used.
+CONCLUSION: These results show the distribution and amount of SPs in tissues of 
+articular joints. They are produced by chondrocytes and synoviocytes and occur 
+in measurable amounts in synovial fluid. All four SPs seem to be differently 
+regulated under pathologic conditions. Their physiological functions in lowering 
+surface tension and immune defense need further elucidation and make them 
+potential candidates for therapeutic intervention.

@@ -1,0 +1,24 @@
+Recently, there has been an interest in the use of tacrolimus for the treatment 
+of rheumatoid arthritis (RA). The role of rheumatoid factor (RF) as a cause of 
+immunoassay interferences is well known. This study is the first to investigate 
+the susceptibility of a tacrolimus immunoassay to interference by RF. Tacrolimus 
+apparent concentrations were determined using the antibody conjugated magnetic 
+immunoassay (ACMIA) run on the Dimension RxL Immunoassay System in 100 randomly 
+selected samples previously submitted for routine diagnostic or monitoring of RA 
+in patients not receiving tacrolimus. Fifty of them had an RF concentration 
+exceeding 100 IU/L and 50 had an RF concentration below 20 IU/L. Samples with 
+tacrolimus apparent whole-blood concentrations above 2.3 ng/mL (limit of 
+quantification of the ACMIA assay alleged by the vendor) were considered as 
+potential false positives. No positive tacrolimus result was found among the 50 
+samples with serum RF < 20 IU/mL. Among the 50 selected samples from patients 
+with RF > 100 IU/mL (RF range 110-2650 IU/mL), 2 were positive for tacrolimus 
+with ACMIA. In both cases, the pretreatment of these samples with an 
+immunoglobulin blocking agent reduced the apparent tacrolimus concentrations to 
+below the limit of detection. This was confirmed using the alternative and 
+reference tacrolimus assays, both of which reported results below their 
+respective limits of detection. The measured human anti-mouse antibodies levels 
+were found to be elevated. These results show that certain patients with 
+positive RF can have false-positive tacrolimus results using the tacrolimus 
+ACMIA-Flex immunoassay on a Dimension RXL analyzer, which was not the case with 
+2 other techniques. The interference with the tacrolimus ACMIA results was 
+suppressed after preincubation with an immunoglobulin blocking reagent.

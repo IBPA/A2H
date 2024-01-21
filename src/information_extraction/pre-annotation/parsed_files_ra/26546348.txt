@@ -1,0 +1,22 @@
+BACKGROUND: Rheumatoid arthritis (RA) is a chronic inflammatory disease that 
+leads to joint destruction, disability, and decreased quality of life (QOL). 
+Inhibition of Janus kinase (JAK) signaling ameliorates articular inflammation 
+and joint destruction in animal models of RA, but its effects on behaviors 
+indicating well-being are poorly understood. In this study, we evaluated the 
+effect of JAK inhibition on spontaneous locomotor activity in rats with 
+adjuvant-induced arthritis, a rodent model of RA.
+METHODS: Arthritis was induced in male Lewis rats by a single subcutaneous 
+injection of Freund's complete adjuvant. The novel JAK inhibitor JTE-052 was 
+orally administered for 7 days after the onset of arthritis.
+RESULTS: Induction of arthritis suppressed the spontaneous locomotor activity of 
+the rats. Administration of JTE-052 completely improved the spontaneous 
+locomotor activity, with partial reductions in articular inflammation and joint 
+destruction. Hyperalgesia and motor functions were also improved, but the 
+efficacy was not complete. However, serum interleukin (IL)-6 levels were 
+completely decreased at 4 h after administration of the first dose of JTE-052.
+CONCLUSIONS: This study demonstrated that JAK inhibition improved the 
+spontaneous locomotor activity of rats with adjuvant-induced arthritis, in 
+association with amelioration of pain and physical dysfunction as a consequence 
+of suppression of joint inflammation. Moreover, although further studies are 
+needed, there was possible participation of IL-6 downregulation in the 
+improvement of locomotor activity by JAK inhibition.

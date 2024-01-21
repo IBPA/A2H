@@ -1,0 +1,21 @@
+OBJECTIVE: To assess the therapeutic potential of anti-CD3 monoclonal antibodies 
+(mAb) for rheumatoid arthritis, using collagen-induced arthritis as an animal 
+model.
+METHODS: Arthritis was induced in DBA/1 mice by immunization with type II 
+collagen. After disease onset, a single injection of anti-CD3 mAb (20 
+microg/mouse) was administered, and arthritis severity was monitored over a 
+10-day period.
+RESULTS: Anti-CD3 mAb treatment resulted in a sustained reduction in disease 
+activity, which was associated with an increase in the proportion of naturally 
+occurring CD4+CD25+FoxP3+ regulatory T (Treg) cells and the generation of a 
+population of CD8+CD25+FoxP3+ Treg cells. Anti-CD3 mAb treatment did not alter 
+the capacity of CD4+ Treg cells to suppress effector T cell proliferation and 
+interferon-gamma (IFNgamma) production in vitro. However, CD4+ Treg cells from 
+both anti-CD3 mAb-treated and control mice were unable to suppress 
+interleukin-17 (IL-17) production. In contrast, CD8+ Treg cells induced by 
+anti-CD3 therapy suppressed IL-17 production as well as CD4+ T cell 
+proliferation and IFNgamma production.
+CONCLUSION: These results show that anti-CD3 mAb treatment has important 
+therapeutic potential for rheumatoid arthritis and has the capacity to generate 
+antiarthritic CD8+ Treg cells and expand the relative numbers of CD4+ Treg 
+cells.

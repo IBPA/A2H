@@ -1,0 +1,26 @@
+Advancements in rheumatoid-arthritis-(RA) therapies have shown considerable 
+progresses in the comprehension of disease. However, the development of new 
+potential agents with relative safety and efficacy continues and natural 
+compounds have been considered as alternatives to identify new entities. Since 
+previous in-vivo data and our in-vitro findings showed that torilin has a strong 
+anti-inflammatory property, we further investigated its effect against 
+collagen-induced-arthritis-(CIA) in mice. CIA-induced DBA/1J mice were treated 
+with torilin or methotrexate (MTX) for 5-weeks. Arthritis severity was evaluated 
+by arthritic score and joint histopathology. Draining lymph node (dLN), joint 
+and peripheral-blood mononuclear-cell (PBMC) counts, and activation/localization 
+of T-/B-lymphocytes, dendritic cells (DCs) and neutrophils were examined by FACS 
+analysis. Serum anti-type-II-collagen-(CII) antibody levels and 
+cultured-splenocyte and serum cytokines were also evaluated. Torilin markedly 
+reduced CIA-induced arthritic score, histopathology and leukocyte counts. 
+Besides, torilin suppressed CIA-activated T-cells including CD3+, CD3+/CD69+, 
+CD8+, CD4+ and CD4+/CD25+ in dLNs or joints. It also modified CD19+ or 
+CD20+/CD23+ (B-cells), MHCII+/CD11c+ (DCs) and Gr-1+/CD11b+ (neutrophil) 
+subpopulations. It further depressed total anti-CII-IgG, anti-CII-IgG1 and 
+anti-CII-IgG2a antibody productions. Moreover, while IFN-γ and IL-10 were not 
+affected, torilin suppressed CIA-induced serum TNF-α, IL-1β and IL-6 levels. 
+Interestingly, torilin also blocked IFN-γ, IL-17 and IL-6 cytokines while it did 
+not affect IL-10 but enhanced IL-4 in splenocytes. These results show that 
+torilin attenuated arthritis severity, modified leukocyte activations in dLNs or 
+joints, and restored serum and splenocyte cytokine imbalances. Torilin may have 
+immunomodulatory and anti-inflammatory properties with the capacity to 
+ameliorate the inflammatory response in CIA-mice.

@@ -1,0 +1,24 @@
+BACKGROUND & AIMS: Clostridium difficile toxin A causes marked apoptosis of 
+colonocytes in vivo and in vitro, which contributes to the formation of ulcers 
+and pseudomembranes. We investigated the role of p53-dependent pathways and p38 
+mitogen-activated protein kinase (p38) in toxin A-induced colonocyte apoptosis.
+METHODS: The effects of the activation of p53 and p53-dependent pathways 
+including p21(WAF1/CIP1) were assessed in nontransformed human colonic NCM460 
+epithelial cells exposed to toxin A. Phosphorylation of p53 protein by p38 was 
+measured by in vitro kinase assay, whereas p21 induction by activated p53 was 
+determined by gel shift assays and RNA silencing (small interfering RNA). The 
+relationship between colonocyte apoptosis and p38/p53-dependent pathways was 
+studied in intact mice.
+RESULTS: Toxin A stimulated p38 and p53 activation and induced cell cycle arrest 
+(G(2)-M) with persistent expression of p21(WAF1/CIP1). Blockage of p38 by 
+SB203580 inhibited p53 phosphorylation and induction of p21(WAF1/CIP1). In 
+intact mice, p38 blockade suppressed toxin A-mediated destruction of intestinal 
+villi, p21(WAF1/CIP1) expression, and enterocyte apoptosis. In addition, toxin 
+A-mediated p21(WAF1/CIP1) and Bak induction, cytochrome c release, and caspase-3 
+activation were markedly attenuated in p53-silenced colonocytes, despite active 
+p38. Overexpression of p21(WAF1/CIP1) triggered apoptosis and increased toxin 
+A-associated colonocyte apoptosis.
+CONCLUSIONS: The signaling pathway for colonocyte apoptosis following toxin A 
+exposure involves p38-dependent activation of p53 and subsequent induction of 
+p21(WAF1/CIP1), resulting in cytochrome c release and caspase-3 activation 
+through Bak induction.

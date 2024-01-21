@@ -1,0 +1,25 @@
+OBJECTIVE: To provide an intermediate step between classic arthritis models and 
+clinical trials, the rheumatoid arthritis (RA) synovium SCID mouse model is a 
+valuable tool for use during preclinical research. We undertook this study to 
+investigate the validity of this humanized mouse model using anti-tumor necrosis 
+factor (anti-TNF) and anti-interleukin-1 (anti-IL-1) treatment and to 
+investigate the direct effect of T cells- and B cell-related therapies on the 
+transplanted RA synovial tissue.
+METHODS: CB17/SCID mice were engrafted with human RA synovial tissue and 
+systemically treated with anti-TNF, anti-IL-1, anti-IL-17, CTLA-4Ig, anti-CD20, 
+or isotype control antibodies.
+RESULTS: Validation of the model with anti-TNF treatment significantly reduced 
+serum cytokine levels and decreased histologic inflammation, whereas anti-IL-1 
+therapy did not show any effect on the RA synovial grafts. In mice engrafted 
+with B cell-rich synovial tissue, anti-CD20 treatment showed clear therapeutic 
+effects. Surprisingly, CTLA-4Ig treatment did not show any effects in this 
+transplantation model, despite prescreening of the synovial tissue for the 
+presence of CD3+ T cells and the costimulatory molecules CD80 and CD86. In 
+contrast, great therapeutic potential was observed for anti-IL-17 treatment, but 
+only when CD3+ T cells were abundantly present in the RA synovial tissue.
+CONCLUSION: This human RA synovium SCID mouse model enabled us to show that 
+CTLA-4Ig lacks direct effects on T cell activation processes in the synovial 
+tissue. Further evidence was obtained that IL-17 might indeed be an interesting 
+therapeutic target in RA patients with CD3-rich synovial tissue. Further 
+characterization of the RA patients' individual synovial profiles is of great 
+importance for achieving tailored therapy.

@@ -1,0 +1,25 @@
+In this report we describe the purification of human superficial zone protein 
+(SZP), the generation of cross-species monoclonal antibodies (MAbs) and the 
+detection of this protein in human and animal body fluids. Human SZPs, used as 
+immunizing antigens, were purified either from culture media of human cartilage 
+organ cultures or from human synovial fluids. The immunizing antigens were mixed 
+with RIBI adjuvant in one of three forms: nonmodified SZP, superficial zone 
+protein-keyhole limpet hemocyanin conjugate (SZP-KLH), or a mixture of 
+superficial zone protein and hyaluronic acid (SZP-HA). A panel of MAbs including 
+GW4.23, S6.79, S13.52, S13.233, and S17.109 were generated and characterized. 
+Monoclonal antibody (MAb) S6.79, an IgG2b with K(D) 3.14 x 10(-9) M from SZP-KLH 
+immunization, is of particular interest. It reacts strongly to a large molecular 
+weight form of SZP in both enzyme-linked immunosorbent assay (ELISA) and Western 
+blotting. It stains the most superficial layer of articular cartilage in 
+immunohistochemistry, whereas the middle and deep zones of cartilage are not 
+stained. When MAb S6.79 was applied to Western blots of human body fluids, a 
+strong 345-kDa band was detected in samples of synovial fluid and weaker bands 
+of similar size were detected in samples of plasma and serum. MAb S6.79 also 
+showed cross-species immunoreactivity with SZP in samples of synovial fluids 
+harvested from bovine, dog, guinea pig, and rabbit, as demonstrated by Western 
+blotting and antibody absorption experiments. This cross-species MAb will be a 
+useful tool in human and animal model studies for monitoring SZP levels and 
+tissue distribution. It may help define the roles of SZP in normal articular 
+joints and may be of diagnostic or prognostic value for the measurement of SZP 
+in pathological conditions such as osteoarthritis, rheumatoid arthritis, and 
+camptodactyly-arthropathy-coxa vara-pericarditis.

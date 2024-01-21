@@ -1,0 +1,25 @@
+BACKGROUND: The prevalence of atrial fibrillation (AF) is significantly higher 
+in rheumatoid arthritis (RA) patients, but the underlying mechanisms remain 
+poorly understood. The goal of this study was to assess the effects of RA on AF 
+susceptibility and atrial arrhythmogenic remodeling in a rat model of RA.
+METHODS AND RESULTS: Collagen-induced arthritis was induced in rats by 
+immunization with type II collagen in Freund's incomplete adjuvant. Among the 
+rats that developed arthritis, AF susceptibility and atrial remodeling were 
+examined 8 weeks after the primary immunization. AF inducibility and duration 
+were substantially increased in collagen-induced arthritis rats, and AF duration 
+was significantly and positively correlated with the serum IL-6 and TNF-α 
+levels. Rats with collagen-induced arthritis showed prolonged atrial conduction 
+time with no changes in the atrial effective refractory period. Atrial 
+conduction delay was accompanied by significantly increased atrial fibrosis. In 
+addition, atrial structural and autonomic remodeling, including left atrial 
+dilation, apoptosis and autophagy of atrial myocytes, and atrial heterogeneous 
+sympathetic hyperinnervation, was observed. Interestingly, we found that 
+collagen-induced arthritis had no significant effects on connexins, Nav1.5, and 
+the main ion channels' protein expressions in atria.
+CONCLUSIONS: We demonstrated that RA increased AF susceptibility by inducing 
+AF-promoting atrial remodeling. This study may provide insights into mechanisms 
+underlying RA-induced AF and validate a model that is suitable for further 
+mechanistic and therapeutic exploration.
+
+© 2017 The Authors. Published on behalf of the American Heart Association, Inc., 
+by Wiley.

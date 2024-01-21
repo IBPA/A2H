@@ -1,0 +1,21 @@
+Glucosylation of RhoA, Rac1, and Cdc42 by Clostridium difficile toxin B from 
+strain VPI 10463 (TcdB) results in actin reorganization (cytopathic effect) and 
+apoptosis (cytotoxic effect). Toxin B from variant C. difficile strain 1470 
+serotype F (TcdBF) differs from TcdB with regard to substrate proteins, as it 
+glucosylates Rac1 and R-Ras but not RhoA and Cdc42. In this study, we addressed 
+the question of whether the cellular effects of the toxins depend on their 
+protein substrate specificity. Rat basophilic leukemia (RBL) cells were 
+synchronized using the thymidine double-block technique. We show that cells were 
+most sensitive to the cytotoxic effect of TcdB in S phase, as analyzed in terms 
+of phosphatidyl serine externalization, fragmentation of nuclei, and activation 
+of caspase-3; in contrast, TcdBF induced only a marginal cytotoxic effect, 
+suggesting that inactivation of RhoA (but not of Rac1) was required for the 
+cytotoxic effect. The glucosylation of Rac1 was correlated to the cytopathic 
+effect of either toxin, suggesting a close connection of the two effects. The 
+cytotoxic effect of TcdB was executed by caspase-3, as it was responsive to 
+inhibition by acetyl-Asp-Met-Gln-Asp-aldehyde (Ac-DMQD-CHO), an inhibitor of 
+caspase-3. The viability of TcdB-treated RBL cells was reduced, whereas the 
+viability of TcdBF-treated cells was unchanged, further confirming that 
+inactivation of RhoA is required for the cytotoxic effect. In conclusion, the 
+protein substrate specificity of the glucosylating toxins determines their 
+biological activity.

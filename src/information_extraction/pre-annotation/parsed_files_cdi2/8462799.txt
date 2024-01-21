@@ -1,0 +1,17 @@
+BACKGROUND: Saccharomyces boulardii is a nonpathogenic yeast used for the 
+prevention and treatment of Clostridium difficile-associated diarrhea and 
+colitis. However, the mechanism by which S. boulardii exerts its protective 
+effects remains unclear.
+METHODS: The binding of [3H]toxin A to its brush border receptor preincubated 
+with S. boulardii-cultured suspension or filtered conditioned medium was 
+measured in vitro. The effect of toxin A on secretion, epithelial permeability, 
+and morphology in rat ileal loops in vivo was also examined in rats pretreated 
+with S. boulardii.
+RESULTS: S. boulardii reduced [3H]toxin A-receptor binding in a dose-dependent 
+fashion. Sodium dodecyl sulfate polyacrylamide gel electrophoresis of ileal 
+brush border exposed to S. boulardii-conditioned medium revealed a diminution of 
+all brush border proteins. Treatment of rats with S. boulardii suspension 
+reduced fluid secretion and mannitol permeability caused by toxin A.
+CONCLUSIONS: S. boulardii may reduce some of the enterotoxic effects of toxin A 
+by inhibiting toxin A-receptor binding. This effect appears to be manifested by 
+a secreted product of the yeast, possibly a protease.

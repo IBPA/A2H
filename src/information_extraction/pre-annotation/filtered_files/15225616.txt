@@ -1,0 +1,14 @@
+Several recent papers support the involvement of an interaction between stromal 
+cell-derived factor-1 (SDF-1/CXCL12) and its receptor, chemokine receptor CXCR4, 
+in memory T cell migration in the inflamed rheumatoid arthritis (RA) synovium. 
+Analogs of the 14-mer peptide T140 were previously found to be specific CXCR4 
+antagonists that were characterized as not only HIV-entry inhibitors but also 
+anti-cancer-metastatic agents. In this study, a T140 analog, 4F-benzoyl-TN14003, 
+was proven to inhibit CXCL12-mediated migration of human Jurkat cells and mouse 
+splenocyte in a dose-dependent manner in vitro (IC(50)=0.65 and 0.54 nM, 
+respectively). Furthermore, slow release administration by subcutaneous 
+injection (s.c.) of 4F-benzoyl-TN14003 using an Alzet osmotic pump significantly 
+suppressed the delayed-type hypersensitivity response induced by sheep red blood 
+cells in mice, and significantly ameliorated clinical severity in 
+collagen-induced arthritis in mice. As such, T140 analogs might be attractive 
+lead compounds for chemotherapy of RA.

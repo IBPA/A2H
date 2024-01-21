@@ -1,0 +1,11 @@
+Nine monoclonal antibodies (mAb) to Clostridium difficile toxin A were produced. 
+The isotype of one mAb (37B5) was IgG2b, kappa, and that of the other eight mAbs 
+was IgM, kappa. Immunoblot analysis after non-denatured PAGE showed that with 
+the exception of one mAb (112G6) all mAbs gave a positive reaction with the 540 
+kDa band of toxin A. Immunoblot analysis showed that four mAbs (2E15, 3B4, 37B5 
+and 49C4) gave a positive reaction with the 240 kDa major band of toxin A. In 
+neutralisation tests with these mAbs for enterotoxicity, mouse lethality, 
+haemagglutination activity and cytotoxicity, 37B5 neutralised enterotoxicity in 
+a rabbit ileal loop response test but did not neutralise any other biological 
+activities. None of the other eight mAbs showed any neutralising activities at 
+all.

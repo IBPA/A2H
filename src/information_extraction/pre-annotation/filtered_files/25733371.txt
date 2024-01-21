@@ -1,0 +1,25 @@
+OBJECTIVE: A hallmark of rheumatoid arthritis (RA) is the chronic pain that 
+accompanies inflammation and joint deformation. Patients with RA rate pain 
+relief as the highest priority; however, few studies have addressed the efficacy 
+and safety of therapies directed specifically toward pain pathways. The 
+ω-conotoxin MVIIA (ziconotide) is used in humans to alleviate persistent pain 
+syndromes, because it specifically blocks the voltage-gated calcium 2.2 (CaV 
+2.2) channel, which mediates the release of neurotransmitters and 
+proinflammatory mediators from peripheral nociceptor nerve terminals. The aims 
+of this study were to investigate whether blockade of CaV 2.2 can suppress 
+arthritis pain, and to examine the progression of induced arthritis during 
+persistent CaV 2.2 blockade.
+METHODS: Transgenic mice expressing a membrane-tethered form of MVIIA under the 
+control of a nociceptor-specific gene (MVIIA-transgenic mice) were used in the 
+experiments. The mice were subjected to unilateral induction of joint 
+inflammation using a combination of antigen and collagen.
+RESULTS: CaV 2.2 blockade mediated by tethered MVIIA effectively suppressed 
+arthritis-induced pain; however, in contrast to their wild-type littermates, 
+which ultimately regained use of their injured joint as inflammation subsided, 
+MVIIA-transgenic mice showed continued inflammation, with up-regulation of the 
+osteoclast activator RANKL and concomitant joint and bone destruction.
+CONCLUSION: Taken together, our results indicate that alleviation of peripheral 
+pain by blockade of CaV 2.2- mediated calcium influx and signaling in nociceptor 
+sensory neurons impairs recovery from induced arthritis and point to the 
+potentially devastating effects of using CaV 2.2 channel blockers as analgesics 
+during inflammation.

@@ -1,0 +1,25 @@
+Rheumatoid arthritis is an autoimmune disease characterized by synovial 
+hyperplasia and progressive joint destruction. As reported previously, 
+recombinant human endostatin (rhEndostatin) is associated with inhibition of 
+joint bone destruction present in rat adjuvant-induced arthritis; however, the 
+effect of rhEndostatin on bone destruction is not known. This study was designed 
+to assess the inhibitory effect and mechanisms of rhEndostatin on formation and 
+function of osteoclasts in vitro, and to gain insight into the mechanism 
+underlying the inhibitory effect of bone destruction. Bone marrow-derived 
+macrophages isolated from BALB/c mice were stimulated with receptor activator of 
+NF-κB ligand (RANKL) and macrophage colony-stimulating factor to establish 
+osteoclast formation. Osteoclast formation was determined by TRAP staining. Cell 
+viability of BMMs affected by rhEndostatin was determined using a MTT assay. 
+Bone resorption was examined with a bone resorption pits assay. The expression 
+of osteoclast-specific markers was analyzed using quantitative real-time PCR. 
+The related signaling pathways were examined using a Luciferase reporter assay 
+and western blot analysis. Indeed, rhEndostatin showed a significant reduction 
+in the number of osteoclast-like cells and early-stage bone resorption. 
+Moreover, molecular analysis demonstrated that rhEndostatin attenuated 
+RANKL-induced NF-κB signaling by inhibiting the phosphorylation of IκBα and 
+NF-κB p65 nuclear translocation. Furthermore, rhEndostatin significantly 
+inhibited the activation of RANKL-dependent mitogen-activated protein kinases, 
+such as ERK1/2, JNK, and p38. Hence, we demonstrated for the first time that 
+preventing the formation and function of osteoclasts is an important anti-bone 
+destruction mechanism of rhEndostatin, which might be useful in the prevention 
+and treatment of bone destruction in RA.

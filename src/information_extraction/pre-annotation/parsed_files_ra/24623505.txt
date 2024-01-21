@@ -1,0 +1,24 @@
+OBJECTIVE: Colony-stimulating factor 1 receptor (CSF-1R) essentially modulates 
+monocyte proliferation, migration, and activation, which are considered 
+important for the pathogenesis of rheumatoid arthritis (RA). We undertook this 
+study to determine CSF-1R expression in human RA as well as the efficacy of a 
+specific anti-CSF-1R monoclonal antibody (AFS98) in 2 different animal models of 
+RA.
+METHODS: CSF-1R expression was examined in blood, synovium, and bone samples 
+from RA patients, osteoarthritis (OA) patients, and healthy subjects. The 
+efficacy of AFS98 was examined by clinical assessment, histology, and bone 
+histomorphometry in collagen-induced arthritis (CIA) and serum-transfer 
+arthritis.
+RESULTS: CSF-1R expression was increased in the synovium of RA patients compared 
+to OA patients and healthy controls in fibroblast-like synoviocytes, follicular 
+dendritic cells, macrophages, and osteoclasts. Circulating RA monocytes and 
+neutrophils but not lymphocytes were CSF-1R+. In mice, blockade of CSF-1R 
+abrogated cartilage damage, bone erosion, and systemic bone loss, and this was 
+associated with the depletion of osteoclasts in both models. While blockade of 
+CSF-1R did not affect inflammation in passive serum-transfer arthritis, it 
+significantly reduced inflammation in CIA, and this was associated with the 
+absence of synovial macrophages and reduced splenic CD11b+Gr-1- monocytes.
+CONCLUSION: CSF-1R was broadly expressed in human RA. Blockade of CSF-1R 
+protected against bone and cartilage destruction in both mouse models and also 
+showed significant antiinflammatory effects in the CIA model. These data provide 
+evidence for CSF-1R as a therapeutic target in RA.

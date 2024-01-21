@@ -1,0 +1,26 @@
+Many joint and bone diseases are caused by, or associated with vascular changes. 
+Particularly in rheumatoid arthritis, vascular sprouting of synovial vessels 
+plays a major role in the generation of joint pathology. To assess the effects 
+of pharmaceuticals that are designed to inhibit neovascularization, we developed 
+a quantitative procedure to measure vascular changes in cross-sections of the 
+mouse knee joint during arthritic inflammation. Arthritis was induced in the 
+knee joint of C57Black6 mice by a single subpatellar injection of methylated BSA 
+after previous immunization. Total vascularity was visualized with a specific 
+monoclonal rat anti-mouse antibody (9F1). Functional vessels were detected with 
+the fluorescent perfusion marker Hoechst 33342. The localization of Hoechst and 
+the vascular marker 9F1 were analyzed in separate images with an automated 
+digital image processing system. By combining the two images, total vascularity 
+and the perfusion status of the vessels during arthritis could be established. 
+The digital image system measures synovial area (SA), number of all blood 
+vessels (NBV) and the number of perfused blood vessels (NpBV). From these 
+parameters the percentage of perfused vessels (perfusion fraction; PF), the 
+vessel density (VD = NBV/SA) and the density of perfused vessels (VDp = NpBV/SA) 
+can be calculated. The measurements showed that the area of synovial tissue had 
+increased during arthritis. Moreover, both the number of blood vessels (NBV) and 
+the number of perfused vessels (NpBV) in the synovial area had increased 
+significantly on Days 4 and 7 after arthritis induction. This procedure enabled 
+quantitation of total vascularity and of functional blood vessels in 
+cross-sections of synovial tissue. It is expected to be a powerful tool, not 
+only to analyze the effects of anti-angiogenic therapies in animal models of 
+arthritis, but could also be applicable to study vascular and perfusion changes 
+in vascular related diseases of the skeleton.

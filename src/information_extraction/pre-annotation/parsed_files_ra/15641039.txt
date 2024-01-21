@@ -1,0 +1,24 @@
+OBJECTIVE: Because thrombospondin 1 (TSP-1) inhibits angiogenesis and activates 
+latent transforming growth factor beta (TGFbeta), a potent immunosuppressive and 
+antiinflammatory cytokine, we investigated the prophylactic and therapeutic 
+effects of TSP-1 gene transfer in the collagen-induced arthritis (CIA) model in 
+rats.
+METHODS: Adenoviral vectors encoding mouse TSP-1 (AdTSP-1) or beta-galactosidase 
+(AdLacZ) as the control were administered by intraarticular injection into CIA 
+rats. The treated ankles were assessed clinically, radiographically, and 
+histologically. Furthermore, expression levels of TSP-1, TGFbeta, vascular 
+endothelial growth factor (VEGF), and interleukin-1beta (IL-1beta) were examined 
+in the synovial tissue.
+RESULTS: Intraarticular administration of AdTSP-1 reduced the severity of CIA as 
+revealed by examination of the clinical, radiographic, and histologic aspects. 
+Rats treated with AdTSP-1, as compared with AdLacZ-treated controls, were found 
+to have fewer blood vessels (mean +/- SEM 21.0 +/- 0.6 versus 45.3 +/- 
+2.3/mm(2); P < 0.001) and lower production of VEGF (17 +/- 4 versus 45 +/- 10 
+pg/mg of total protein; P < 0.05) and IL-1beta (374 +/- 41 versus 526 +/- 39 
+pg/mg of total protein; P < 0.05), as well as higher levels of TSP-1 and TGFbeta 
+in the synovial tissue.
+CONCLUSION: Direct intraarticular administration of adenoviral vectors encoding 
+TSP-1 significantly ameliorated the clinical course of CIA, accompanied by 
+reduction of synovial hypertrophy and fewer blood vessels. These results suggest 
+that TSP-1 gene therapy may have therapeutic potential for the management of 
+rheumatoid arthritis.

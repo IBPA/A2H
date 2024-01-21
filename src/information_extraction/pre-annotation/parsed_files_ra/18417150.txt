@@ -1,0 +1,16 @@
+Drugs that target tumor necrosis factor-alpha (TNF) are particularly important 
+in the treatment of severe inflammatory progression in rheumatoid arthritis, 
+Crohn's disease and psoriasis. Despite the central role of the TNF/TNF receptor 
+(TNFR) in various disease states, there is a paucity of information concerning 
+TNFR2 signaling. In this study, we have developed a simple and highly sensitive 
+cell-death based assay system for analyzing TNFR2-mediated bioactivity that can 
+be used to screen for TNFR2-selective drugs. Using a lentiviral vector, a 
+chimeric receptor was engineered from the extracellular and transmembrane domain 
+of human TNFR2 and the intracellular domain of mouse Fas and the recombinant 
+protein was then expressed in TNFR1(-/-)R2(-/-) mouse preadipocytes. Our results 
+demonstrate that this chimeric receptor is capable of inducing apoptosis by 
+transmembrane- as well as soluble-TNF stimuli. Moreover, we found that our 
+bioassay based on cell death phenotype had an approximately 80-fold higher 
+sensitivity over existing bioassays. We believe our assay system will be an 
+invaluable research tool for studying TNFR2 and for screening TNFR2-targeted 
+drugs.

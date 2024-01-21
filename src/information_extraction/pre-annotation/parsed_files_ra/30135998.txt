@@ -1,0 +1,23 @@
+Rheumatoid arthritis (RA) causes atrial remodeling that induces the occurrence 
+and maintenance of atrial fibrillation (AF). In this study, we explored the 
+influence of RA on atrial fibrillation and the potential therapeutic effects of 
+resveratrol in a rat model. The following three groups of female Wistar rats 
+(8 weeks old) were used in this study: control, collagen-induced arthritis 
+(CIA), and resveratrol. Rats in the CIA and resveratrol groups were injected 
+twice with type II collagen in Freund's incomplete adjuvant. Three weeks after 
+the second injection, resveratrol (10 mg kg-1 day-1) was administered for 
+4 weeks. Subsequently, atrial electrophysiological parameters were measured. 
+Levels of inflammatory factors in the atria and serum were measured. Atrial 
+histopathological changes were assessed using microscopy, and cardiomyocyte 
+apoptosis and fibrosis were assessed using TUNEL and Masson's staining. 
+Apoptosis-related and fibrosis-related proteins were assessed using Western 
+blotting. Atrial adenosine triphosphate (ATP) and free fatty acid (FFA) levels 
+were tested using ELISA. Glycogen accumulation and metabolism-related protein 
+expression were assessed. AF inducibility and duration were markedly increased 
+in CIA rats and were reduced by resveratrol. CIA also increased the atrial and 
+serum IL-6 and TNF-a levels and induced atrial apoptosis and fibrosis, which 
+were attenuated by resveratrol. Moreover, CIA induced the impairment of atrial 
+energy metabolism by inhibiting the AMPK/PGC-1α pathway, which was reversed by 
+resveratrol. Resveratrol protects against RA-induced atrial structural and 
+metabolic remodeling, which may provide a new potential therapeutic treatment 
+for RA-related AF.

@@ -1,0 +1,18 @@
+TNF-alpha plays critical roles in bone-resorbing diseases, such as rheumatoid 
+arthritis. Recent evidence suggests that thiazolidinediones (TZDs), which are 
+peroxisome proliferator-activated receptor gamma agonists, have 
+anti-inflammatory effects. The aim of this study was to evaluate the effect of 
+TZDs on the TNF-alpha-mediated osteoclastogenesis of osteoclast precursor cells. 
+TNF-alpha treatment of RAW264.7 murine macrophages or mouse bone marrow cells 
+induced significant multinuclear osteoclast formation, and these differentiated 
+osteoclast cells possessed bone-resorbing activity. The TZD drugs, rosiglitazone 
+and pioglitazone, significantly inhibited TNF-alpha-induced osteoclast 
+differentiation from both cell types and subsequent bone resorption. Reverse 
+transcriptase-polymerase chain reaction, reporter gene assays, and Western blot 
+results revealed that TZD treatment significantly suppressed NFATc1 expression. 
+Moreover, GW9662 (a peroxisome proliferator-activated receptor gamma antagonist) 
+prevented the inhibitory effect of TZDs on NFATc1 expression and osteoclast 
+differentiation. In summary, our results demonstrate that TZDs inhibit 
+TNF-alpha-mediated osteoclast differentiation by downregulation of NFATc1 
+expression. This observation increases the therapeutic applications of TZDs in 
+inflammatory bone-resorbing diseases.

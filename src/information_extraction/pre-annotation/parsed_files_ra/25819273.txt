@@ -1,0 +1,19 @@
+The in vitro differentiation and immunosuppressive capacity of mesenchymal stem 
+cells (MSCs) derived from synovial fluid (SF-MSCs) and bone marrow extract 
+(BM-MSCs) in an isogenic background of minipigs were comparatively analyzed in a 
+collagen-induced arthritis (CIA) mouse model of rheumatoid arthritis (RA). The 
+proliferation capacity and expression of pluripotent transcription factors 
+(Oct3/4 and Sox2) were significantly (P<0.05) higher in SF-MSCs than in BM-MSCs. 
+The differentiation capacity of SF-MSCs into adipocytes, osteocytes and 
+neurocytes was significantly (P<0.05) lower than that of BM-MSCs, and the 
+differentiation capacity of SF-MSCs into chondrocytes was significantly (P<0.05) 
+higher than that of BM-MSCs. Systemic injection of BM- and SF-MSCs significantly 
+(P<0.05) ameliorated the clinical symptoms of CIA mice, with SF-MSCs having 
+significantly (P<0.05) higher clinical and histopathological recovery scores 
+than BM-MSCs. Furthermore, the immunosuppressive properties of SF-MSCs in CIA 
+mice were associated with increased levels of the anti-inflammatory cytokine 
+interleukin (IL)-10, and decreased levels of the pro-inflammatory cytokine IL-1β 
+and osteoclast-related sRANKL. In conclusion, SF-MSCs exhibited eminent 
+pluripotency and differentiation capacity into chondrocytes, addition to 
+substantial in vivo immunosuppressive capacity by elevating IL-10 and reducing 
+IL-1β levels in CIA mice.

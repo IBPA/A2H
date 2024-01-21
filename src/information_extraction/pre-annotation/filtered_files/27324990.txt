@@ -1,0 +1,20 @@
+Spleen tyrosine kinase (Syk) is a nonreceptor tyrosine kinase that is an 
+important signaling enzyme downstream of immunoreceptors containing an 
+intracellular immunoreceptor tyrosine activating motif (ITAM). These receptors 
+encompass a wide variety of biological functions involved in autoimmune disease 
+pathogenesis. There has been considerable interest in the development of 
+inhibitors of the Syk pathway for the treatment of rheumatoid arthritis and 
+systemic lupus erythematosus. We report that Syk inhibition mechanistically 
+caused peri-islet hemorrhages and fibrin deposition in the rat pancreas and that 
+this finding is due to a homeostatic functional defect in platelets. In more 
+limited studies, similar lesions could not be induced in mice, dogs, and 
+cynomolgus monkeys at similar or higher plasma drug concentrations. 
+Irradiation-induced thrombocytopenia caused a phenotypically similar peri-islet 
+pancreas lesion and the formation of this lesion could be prevented by platelet 
+transfusion. In addition, Syk inhibitor-induced lesions were prevented by the 
+coadministration of prednisone. A relatively greater sensitivity of rat 
+platelets to Syk inhibition was supported by functional analyses demonstrating 
+rat-specific differences in response to convulxin, a glycoprotein VI agonist 
+that signals through Syk. These data demonstrate that the Syk pathway is 
+critical in platelet-endothelial cell homeostasis in the peri-islet pancreatic 
+microvasculature in rats.

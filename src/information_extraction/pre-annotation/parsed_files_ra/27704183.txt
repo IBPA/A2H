@@ -1,0 +1,27 @@
+This study showed that autoimmune arthritis induces especially severe 
+osteoporosis in the periarticular region adjacent to inflamed joints, suggesting 
+that arthritis increases the fragility fracture risk near inflamed joints, which 
+is frequently observed in patients with RA.
+INTRODUCTION: Periarticular osteoporosis near inflamed joints is a hallmark of 
+early rheumatoid arthritis (RA). Here we show that rheumatic inflammation 
+deteriorates the bone quality and bone quantity of periarticular bone, thereby 
+decreasing bone strength and toughness in a mouse model of RA.
+METHODS: Female BALB/c mice and SKG mice, a mutant mouse model of autoimmune 
+arthritis on the BALB/c background, were used. At 12 weeks of age, BALB/c mice 
+underwent either Sham surgery or bilateral ovariectomy (OVX), and SKG mice 
+underwent intraperitoneal injection of mannan to induce arthritis. Eight weeks 
+later, the mice were killed and the femurs and tibias were subjected to 
+micro-computed tomography, Fourier transform infrared (FTIR) spectroscopic 
+imaging, X-ray diffraction, histology, and mechanical testing.
+RESULTS: SKG mice developed significant trabecular bone loss in both the distal 
+metaphysis of the femur and the lumbar vertebral body, but the extent of the 
+bone loss was more severe in the distal metaphysis. Neither SKG nor OVX mice 
+exhibited changes in the geometry and matrix properties of the diaphysis of the 
+femur, whereas SKG mice, but not OVX mice, did exhibit changes in these 
+properties in the distal metaphysis of the femur. Bone strength and fracture 
+toughness of the distal metaphysis of the tibia adjacent to the inflamed ankle 
+joint were significantly decreased in SKG mice.
+CONCLUSIONS: Autoimmune arthritis induces periarticular osteoporosis, 
+characterized by deterioration of cortical bone geometry and quality as well as 
+by trabecular bone loss, leading to severe bone fragility in periarticular bone 
+adjacent to inflamed joints.

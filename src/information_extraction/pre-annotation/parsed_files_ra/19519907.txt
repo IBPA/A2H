@@ -1,0 +1,23 @@
+INTRODUCTION: Recent epidemiologic studies have implicated smoking as an 
+environmental risk factor for the development of rheumatoid arthritis (RA). The 
+aim of the present study is the evaluation of the role of cigarette smoke (CS) 
+in the pathogenesis of collagen-induced arthritis in mice.
+METHODS: DBA/1 mice exposed to CS for 16 weeks (n = 25) and mice exposed to 
+nicotine in drinking water (n = 10) were immunized with collagen type II (CII). 
+Severity of arthritis was evaluated clinically and morphologically and compared 
+with control mice (n = 35). Intensity of inflammation was evaluated by serum 
+IL-6 and TNF-alpha levels. Additionally, antibody response to CII (anti-CII) and 
+citrullinated peptides (aCCP) was measured.
+RESULTS: Clinical evaluation of arthritis showed a delayed onset of arthritis in 
+CS-exposed mice compared with non-smoking controls (P < 0.05). Histologic index 
+and weight changes were comparable between the groups; however, smoking mice 
+presented less weight loss during the acute phase of the disease and gained 
+weight significantly faster in the recovery phase (P < 0.05). Similar results 
+were obtained in the mice exposed to nicotine. Nicotine also showed a direct 
+anti-inflammatory effect diminishing IL-6 production by stimulated splenocytes 
+in vitro (P < 0.001). Additionally, smoking mice had lower levels of aCCP and 
+anti-CII antibodies compared with non-smoking (P < 0.05).
+CONCLUSIONS: Neither smoking nor nicotine exposure aggravates development of 
+CII-induced arthritis in mouse model. Moreover, CS exposure was associated with 
+a lower level of anti-CII antibodies, providing a possible explanation for a 
+delay of arthritis onset in this group.

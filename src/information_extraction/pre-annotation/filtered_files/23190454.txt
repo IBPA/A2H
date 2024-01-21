@@ -1,0 +1,24 @@
+TNF-α-blocking agents such as infliximab, adalimumab and etanercept are widely 
+used for the treatment of severe inflammatory diseases including rheumatoid 
+arthritis and psoriasis. The currently used TNF-α blockers have Fc regions of 
+the human IgG1 subtype, which is advantageous in terms of in vivo half-life but 
+also raise the potential for unwanted effector-mediated effects, such as 
+antibody dependent cellular cytotoxicity (ADCC) or complement-dependent 
+cytotoxicity (CDC). To address this issue, we constructed a novel hybrid protein 
+by fusing the TNF receptor (TNFR) with a hybrid Fc (hyFc) consisting of the CH2 
+and CH3 regions of IgG4 and the highly flexible hinge regions of IgD which would 
+not have ADCC and CDC activity. The resulting fusion protein, TNFR-hyFc, was 
+over-expressed in CHO and pharmacological characteristics were evaluated in 
+comparison with the structurally similar etanercept. TNFR-hyFc effectively 
+neutralized TNF-α in L929 bioassay and showed a 1.5-fold higher neutralizing 
+activity compared to etanercept. In a pharmacokinetic study in cynomolgus 
+monkeys, TNFR-hyFc showed plasma half-life and AUC comparable to etanercept. In 
+a mouse collagen induced arthritis model, TNFR-hyFc showed significant 
+amelioration of arthritis compared to etanercept or vehicle control. In an 
+LPS-induced septic shock model, TNFR-hyFc showed a similar level of protection 
+against mortality as etanercept. These results confirm the feasibility of the 
+TNFR-hyFc as an effective TNF-α blocker for the treatment of inflammatory 
+diseases.
+
+Copyright © 2012 The International Alliance for Biological Standardization. 
+Published by Elsevier Ltd. All rights reserved.

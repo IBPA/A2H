@@ -1,0 +1,19 @@
+OBJECTIVE: To investigate the influence of a combined therapy consisting of 
+dexamethasone and osteoprotegerin (OPG) on bone alterations and disease activity 
+in antigen-induced arthritis (AIA) in the rat.
+METHODS: AIA rats received dexamethasone (0.25 mg kg(-1) day(-1), i.p.), OPG 
+(2.5 mg kg(-1) day(-1), i.p.), or a combination of both at regular intervals for 
+21 consecutive days. At the end of the treatment, bone structure was analyzed by 
+histomorphometry. Primary spongiosa was measured using linear scanning.
+RESULTS: AIA led to significant periarticular and axial bone loss. Dexamethasone 
+monotherapy substantially suppressed joint swelling without inhibiting bone loss 
+of the secondary spongiosa, whereas OPG monotherapy showed no anti-inflammatory 
+effect. Despite reduction of bone resorption, OPG did not inhibit AIA-induced 
+bone loss. In contrast, the combination of dexamethasone and OPG not only 
+produced an anti-inflammatory effect, but also resulted in inhibition of 
+periarticular and axial bone loss. OPG increased trabecular number of the 
+primary spongiosa whilst combination therapy led to an increase in both 
+trabecular number and trabecular width.
+CONCLUSION: The principle of combining a glucocorticoid together with inhibition 
+of the receptor activator of NF-kappaB ligand (RANKL) may be an effective 
+bone-saving therapy in rheumatoid arthritis.

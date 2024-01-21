@@ -1,0 +1,25 @@
+OBJECTIVE: Polymorphisms in the transcription factor interferon regulatory 
+factor 5 (IRF5) are associated with an increased risk of developing rheumatoid 
+arthritis (RA). This study was undertaken to determine the role of IRF5 in a 
+mouse model of arthritis development.
+METHODS: K/BxN serum-transfer arthritis was induced in mice deficient in IRF5, 
+or lacking IRF5 only in myeloid cells, and arthritis severity was evaluated. 
+K/BxN arthritis was also induced in mice deficient in TRIF, Toll-like receptor 2 
+(TLR2), TLR3, TLR4, and TLR7 to determine the pathways through which IRF5 might 
+promote arthritis. In vitro studies were performed to determine the role of IRF5 
+in interleukin-1 (IL-1) receptor and TLR signaling.
+RESULTS: Arthritis severity was reduced in IRF5-deficient, TRIF-deficient, 
+TLR3-deficient, and TLR7-deficient mice. The expression of multiple genes 
+regulating neutrophil recruitment or function and bioactive IL-1β formation was 
+reduced in the joints during active arthritis in IRF5-deficient mice. In vitro 
+studies showed that TLR7 and the TRIF-dependent TLR3 pathway induce 
+proinflammatory cytokine production in disease-relevant cell types in an 
+IRF5-dependent manner.
+CONCLUSION: Our findings indicate that IRF5 contributes to disease pathogenesis 
+in inflammatory arthritis. This is likely due at least in part to the role of 
+IRF5 in mediating proinflammatory cytokine production downstream of TLR7 and 
+TLR3. Since TLR7 and TLR3 are both RNA-sensing TLRs, this suggests that 
+endogenous RNA ligands present in the inflamed joint promote arthritis 
+development. These findings may be relevant to human RA, since RNA capable of 
+activating TLR7 and TLR3 is present in synovial fluid and TLR7 and TLR3 are 
+up-regulated in the joints of RA patients.

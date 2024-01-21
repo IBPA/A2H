@@ -1,0 +1,16 @@
+We previously established an IgG Fc receptor IIB (FcγRIIB)-deficient C57BL/6 
+(B6)-congenic mouse strain (KO1), which spontaneously develops rheumatoid 
+arthritis (RA), but not systemic lupus erythematosus (SLE). Here, we show that 
+when Y chromosome-linked autoimmune acceleration (Yaa) mutation was introduced 
+in KO1 strain (KO1.Yaa), the majority of KO1.Yaa mice did not develop RA, but 
+instead did develop SLE. This phenotype conversion did not depend on 
+autoantibody specificity, since KO1.Yaa mice, compared with KO1, showed a marked 
+increase in serum levels of both lupus-related and RA-related autoantibodies. 
+The increase in frequencies of CD69(+) activated B cells and T cells, and the 
+spontaneous splenic GC formation with T follicular helper cell generation were 
+manifest early in life of KO1.Yaa, but not KO1 and B6.Yaa, mice. Activated 
+CD4(+) T cells from KO1.Yaa mice showed upregulated production of IL-21 and 
+IL-10, compared with the finding in KO1 mice, indicating the possibility that 
+this aberrant cytokine milieu relates to the disease phenotype conversion. Thus, 
+our model is useful to clarify the shared and the disease-specific mechanisms 
+underlying the clinically distinct systemic autoimmune diseases RA and SLE.

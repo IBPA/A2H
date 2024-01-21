@@ -1,0 +1,22 @@
+Rheumatoid arthritis (RA) is a human systemic autoimmune disease with a 
+prevalence of about 1%. Although an important role for B cells has been 
+demonstrated in animal models of autoimmune, inflammatory arthritis, the 
+importance of B cells in RA has been controversial for decades. The development 
+of therapies targeting B cells may help to resolve this debate. Rituximab, a 
+mouse-human chimeric monoclonal antibody against the B cell-specific antigen 
+CD20, was the first B cell-targeted therapy tested in double-blind, 
+placebo-controlled trials for RA. On the basis of the data from three separate 
+trials, addition of rituximab to methotrexate appears to reduce significantly 
+the signs and symptoms of rheumatoid factor-seropositive RA, as assessed by 
+American College of Rheumatology (ACR) 20, 50 and 70 response criteria, and to 
+be relatively safe. Significant questions about rituximab therapy still need to 
+be addressed, including whether or not treatment with rituximab reduces 
+radiographic progression of joint damage, the safety and efficacy of repeated 
+courses of rituximab, and the long-term effects of rituximab on the immune 
+system. Preliminary data on treatment of RA with belimumab, a fully human 
+monoclonal antibody against B lymphocyte stimulator (a growth and survival 
+factor for B cells) is now available. In a double-blind, placebo-controlled, 
+phase II trial, belimumab was well tolerated and had a significant beneficial 
+effect on the ACR 20 response. Thus, therapies specifically targeting B cells do 
+appear to be effective in the treatment of RA, providing direct evidence that B 
+cells are important in the pathogenesis of RA.

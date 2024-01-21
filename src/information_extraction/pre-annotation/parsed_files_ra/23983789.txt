@@ -1,0 +1,18 @@
+Rheumatoid arthritis (RA) is a chronic inflammatory disease of autoimmune 
+origin. Huo-luo-xiao-ling dan (HLXL) is an herbal mixture that has been used in 
+traditional Chinese medicine over several decades to treat chronic inflammatory 
+diseases including RA. However, the mechanism of the anti-arthritic action of 
+this herbal remedy is poorly understood at the molecular level. In this study, 
+we determined by microarray analysis the effects of HLXL on the global gene 
+expression profile of the draining lymph node cells (LNC) in the rat adjuvant 
+arthritis (AA) model of human RA. In LNC restimulated in vitro with the 
+disease-related antigen mycobacterial heat-shock protein 65 (Bhsp65), 84 
+differentially expressed genes (DEG) (64 upregulated and 20 downregulated) 
+versus 120 DEG (94 upregulated and 26 downregulated) were identified in 
+HLXL-treated versus vehicle (Water)-treated rats, respectively, and 62 DEG (45 
+upregulated and 17 downregulated) were shared between the two groups. The most 
+affected pathways in response to HLXL treatment included immune response, 
+inflammation, cellular proliferation and apoptosis, and metabolic processes, 
+many of which are directly relevant to arthritis pathogenesis. These results 
+would advance our understanding of the mechanisms underlying the anti-arthritic 
+activity of HLXL.

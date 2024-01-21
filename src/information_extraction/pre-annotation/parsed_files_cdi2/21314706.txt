@@ -1,0 +1,23 @@
+Gastrointestinal survival of the bacteriocin-producing strain, Lactococcus 
+lactis DPC6520, was evaluated systematically in vitro and in vivo with a view to 
+using this strain to deliver biologically active lacticin 3147, a broad-spectrum 
+bacteriocin, to the gut. The activity of the lacticin 3147 producer was also 
+evaluated against two clinically relevant pathogens: Clostridium difficile and 
+Listeria monocytogenes. When suspended in an appropriate matrix, the lactococcal 
+strain is capable of surviving simulated gastrointestinal juices similar to the 
+porcine probiotic, Lactobacillus salivarius DPC6005. Upon administration of L. 
+lactis DPC6520 to pigs (n=4), excretion rates of ∼10(2) -10(5) CFU g(-1) faeces 
+were observed by day 5. Although passage through the gastrointestinal tract 
+(GIT) did not affect lacticin 3147 production by L. lactis DPC6520 isolates, 
+activity was undetectable in faecal samples by an agar well diffusion assay. 
+Furthermore, L. lactis DPC6520 had no inhibitory effect on C. difficile or other 
+bacterial populations in a human distal colon model, while lactococcal counts 
+declined 10,000-fold over 24 h. The lacticin 3147 producer failed to prevent L. 
+monocytogenes infection in a mouse model, even though a mean L. lactis DPC6520 
+count of 4.7 × 10(4) CFU g(-1) faeces was obtained over the 5-day administration 
+period. These data demonstrate that L. lactis DPC6520 is capable of surviving 
+transit through the GIT, and yet lacks antimicrobial efficacy in the models of 
+infection used.
+
+© 2011 TEAGASC Food Research Centre. FEMS Microbiology Ecology © 2011 Federation 
+of European Microbiological Societies. Published by Blackwell Publishing Ltd.

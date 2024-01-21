@@ -1,0 +1,22 @@
+BACKGROUND: In the postgenome era, G-protein-coupled receptor families have been 
+recognized as significant drug targets in medicinal chemistry. A specific 
+chemokine receptor, CXCR4, has multiple critical functions in normal 
+physiologies including embryonic development of the cardiovascular, hemopoietic 
+and central nervous systems, and underlies problematic pathologies such as HIV 
+infection, cancer metastasis, leukemia progression and rheumatoid arthritis.
+METHODS AND RESULTS: A tetradecamer peptide, T140, derived from the horseshoe 
+crab, and its biologically stable derivative, 4F-benzoyl-TN14003, were found to 
+be powerful CXCR4 antagonists that block HIV entry to cells. These peptides have 
+also shown remarkable inhibitory activity against cancer metastasis and 
+progression in a variety of cancers. Slow release administration of 
+4F-benzoyl-TN14003, for example, was found to significantly reduce pulmonary 
+metastasis of breast cancer cells in severe combined immunodeficient mice. This 
+peptide also shows inhibitory effects against melanoma metastasis and 
+Epstein-Barr virus-associated lymphoproliferation in mice, suppresses the 
+delayed-type hypersensitivity response induced by sheep red blood cells and 
+reduced collagen-induced arthritis in both mouse models of arthritis.
+CONCLUSION: T140 analogues have the potential to become promising agents for 
+chemotherapy of AIDS, cancer and rheumatoid arthritis. This review summarizes 
+the development of low molecular weight CXCR4 antagonists based on pharmacophore 
+identification in T140 analogues and also provides an opinion on the future of 
+the development of CXCR4 antagonists.

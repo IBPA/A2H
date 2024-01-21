@@ -1,0 +1,21 @@
+Semaphorin-3A (Sema3A), a member of a large family of conserved proteins 
+originally implicated in axon guidance, is expressed by activated T cells and 
+downmodulates T cell activation in vitro. This study examined the effect and 
+mechanism of action of Sema3A overexpression in a mouse model of 
+collagen-induced arthritis. Prophylactic i.p. administration of plasmid DNA 
+encoding Sema3A markedly reduced the incidence, disease severity, and articular 
+inflammation compared with control plasmid without insert. Treatment of Sema3A 
+reduced anticollagen IgG levels and suppressed collagen-specific proinflammatory 
+cytokine (IFN-γ and IL-17) release, but increased IL-10 concentration in the 
+serum. In line with results in arthritic mice, Sema3A expression is defective in 
+CD4(+) T cells derived from patients with rheumatoid arthritis. In contrast, 
+increased expression of the Sema3A receptor neuropilin-1 (NP-1) is detected in 
+the same cells. The CD4(+)NP-1(+) T cells are a T cell subset involved in the 
+control of the immune responses. They express greater amounts of IL-10 and show 
+suppressive activities on autologous CD4(+) T cells. Sema3A acted directly on 
+CD4(+)NP-1(+) T cells, because it could increase IL-10 production and influence 
+the regulatory function on CD4(+) T cell growth. Therefore, I propose that 
+Sema3A increases the CD4(+)NP-1(+) T cell ability to suppress alloresponses, 
+that its transient expression is altered in rheumatoid inflammation, and that 
+reintroduction of Sema3A is sufficient to attenuate collagen-induced arthritis, 
+supporting its therapeutic potential in the treatment of autoimmune disorders.

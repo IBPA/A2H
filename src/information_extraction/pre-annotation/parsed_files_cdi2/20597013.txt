@@ -1,0 +1,8 @@
+Mouse models have been developed to study the pathogenic process of Clostridium 
+difficile infections, first the intestinal colonization and second the toxin 
+production. These models have also been used to test the role of environmental 
+conditions that modulate infection. Different mouse models have been used 
+successfully to study C. difficile infections such as conventional mice, 
+gnotobiotic mouse models including the monoxenic C. difficile mouse model, and 
+the human microbiota-associated mouse model. The advantages and disadvantages of 
+these models are discussed.

@@ -1,0 +1,31 @@
+BACKGROUND: Inflammation is a normal and necessary prerequisite to healing of 
+the injured tissues. Inflammation contributes to all disease process including 
+immunity, vascular pathology, trauma, sepsis, chemical, and metabolic injuries. 
+The secretory phospholipase A2 (sPLA2) is a key enzyme in the production of 
+pro-inflammatory mediators in chronic inflammatory disorders such as rheumatoid 
+arthritis, coronary heart disease, diabetes, and asthma. The sPLA2 also 
+contribute to neuroinflammatory disorders such as Parkinson's, Alzheimer's, and 
+Crohn's disease.
+AIMS: The present study aims to investigate the inhibition of human sPLA2 by a 
+popular medicinal herb Boerhaavia diffusa Linn. as a function of 
+anti-inflammatory activity.
+MATERIALS AND METHODS: The aqueous and different organic solvents extracts of B. 
+diffusa were prepared and evaluated for human synovial fluid, human pleural 
+fluid, as well as Vipera russelli and Naja naja venom sPLA2 enzyme inhibition.
+RESULTS: Among the extracts, the ethanol extract of B. diffusa (EEBD) showed the 
+highest sPLA2 inhibition and IC50 values ranging from 17.8 to 27.5 μg. Further, 
+antioxidant and lipid peroxidation activities of B. diffusa extract were checked 
+using 2,2-diphenyl-1-picrylhydrazyl radical, thiobarbituric acid, and rat liver 
+homogenate. The antioxidant activity of EEBD was more or less directly 
+proportional to in vitro sPLA2 inhibition. Eventually, the extract was subjected 
+to neutralize sPLA2-induced mouse paw edema and indirect hemolytic activity. The 
+EEBD showed similar potency in both the cases.
+CONCLUSIONS: The findings suggest that the bioactive molecule/s from the EEBD 
+is/are potentially responsible for the observed in vitro and in vivo sPLA2 
+inhibition and antioxidant activity.
+SUMMARY: The present study aims to investigate the inhibition of human sPLA2 by 
+a popular medicinal herb Boerhaavia diffusa Linn. as a function of anti 
+inflammatory activity. Abbreviation Used: EEBD: Ethanolic extract of boerhaavia 
+diffusa, sPLA2: Secretory phospholipase A2, HSF: Human synovial fluid, HPF: 
+Human pleural fluid, VRV-PLA2-V: Vipera russelli phospholipase A2, NN-PLA2-I: 
+Naja naja phospholipase A2.

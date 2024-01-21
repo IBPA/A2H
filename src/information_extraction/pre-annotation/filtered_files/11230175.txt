@@ -1,0 +1,22 @@
+Several quantitative trait loci (QTLs) regulating the risk of experimental 
+arthritis have been identified by genome-wide linkage analyses, but only the MHC 
+has thus far been reported to transfer arthritis susceptibility in congenic 
+animals. We have produced a congenic strain for Oia3, a genetic factor 
+originally identified as an oil-induced arthritis (OIA) QTL in arthritis-prone 
+DA rats. A 46 cM telomeric region of chromosome 10 encompassing Oia3 was 
+transferred from DA rats to MHC-identical but minutely arthritis-susceptible 
+LEW.1AV1 rats by selective breeding. Arthritis development was provoked in 
+Oia3-congenic rats by intradermal injection of different adjuvant oils. One 
+successful arthritis trigger was squalene, which is approved for vaccinations in 
+humans and has been implicated in Gulf War syndrome. The endogenous cholesterol 
+precursor squalene induced T cell infiltration into joints and macroscopic 
+arthritis in Oia3-congenic rats and DA rats, whereas LEW.1AV1 rats were almost 
+resistant. Arthritis onset, approximately 14 days post-injection, coincided with 
+arrested body-weight gain and increased plasma levels of the inflammation 
+markers fibrinogen and alpha 1-acid glycoprotein. Congenic rats displayed 
+intermediate phenotypes compared with the two parental strains, and similar to 
+rheumatoid arthritis in humans, female preponderance was observed in 
+Oia3-congenic rats. Finally, recombinant rat strains were constructed and were 
+used to map a susceptibility gene(s) in females to a telomeric 4--19 cM Oia3 
+subregion. The experimental system described allows transformation of 
+multifactorial arthritis susceptibility into dichotomous phenotypes.

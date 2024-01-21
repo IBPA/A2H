@@ -1,0 +1,32 @@
+OBJECTIVE: To explore the effect of bizhongxiao decoction (BZXD) on the protein 
+maps of BZXD-treated synovitis of collagen-induced arthritis (CIA) in rats in 
+2-dimensional gel electrophoresis (2-DE), and to provide new clues for 
+illuminating the active mechanism of BZXD in treating the rheumatoid arthritis 
+(RA).
+METHODS: Seventy SD rats were randomly divided into nor- mal group, model group 
+and BZXD group. The experimental arthritis rat model was established by 
+subcutaneouly injecting Type II collagen and complete Freunds adjuvant. The 
+total proteins of synovial tissue of rat joints in the normal group, model group 
+and BZXD group were seperated by 2-DE respectively. The gels of the 3 groups 
+were stained by Coomassie brilliant blue. Electron pictures were obtained by 
+scanning the gels, and then the differential proteins among the normal group, 
+model group and BZXD group were examined by comparing the spots density volume 
+in the gels. The electrophoregrams of the gels were analyzed in Pdquest 
+software.
+RESULTS: The incidence of arthritis in the rats was approximately 88%. The 2-DE 
+maps of rat synovial tissue in the normal group, model group and BZXD group were 
+well duplicated. The average protein spots in the normal group, model group and 
+BZXD group were 947 +/- 39, 994 +/- 41, and 1031 +/- 52, and the match rates 
+were 92%, 91%, and 94.2% respectively. The average deviations of spot position 
+were (0.896 +/- 0.217) mm in isoelectric focusing (IEF) and (1.102 +/- 0.104) mm 
+in sodiumdo-decylsufate-polyacrylamide gel electrophoresis (SDS-PAGE), 
+respectively. Three hundred twenty-eight differential proteins were observed 
+between the model group and BZXD group, of which 174 were up-regulated, 147 were 
+down-regulated in the BZXD group, and 7 proteins were expressed only in the 
+model group. One hundred ninty-three differential proteins were displayed 
+between the model group and the normal group, of which 123 proteins were 
+up-regulated and 70 were down-regulated in the model group.
+CONCLUSION: 2-DE protein expression profiles of synovial tissue in CIA rats are 
+established, and many differential proteins are discovered. Further analysis on 
+the differential proteins may serve as a new method to study the moleculer 
+mechanism of BZXD in treating the rheumatoid arthritis.

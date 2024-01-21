@@ -1,0 +1,21 @@
+Clostridium difficile is a Gram-positive spore-forming pathogen and a leading 
+cause of nosocomial diarrhea. C. difficile infections are transmitted when 
+ingested spores germinate in the gastrointestinal tract and transform into 
+vegetative cells. Germination begins when the germinant receptor CspC detects 
+bile salts in the gut. CspC is a subtilisin-like serine pseudoprotease that 
+activates the related CspB serine protease through an unknown mechanism. 
+Activated CspB cleaves the pro-SleC zymogen, which allows the activated SleC 
+cortex hydrolase to degrade the protective cortex layer. While these regulators 
+are essential for C. difficile spores to outgrow and form toxin-secreting 
+vegetative cells, the mechanisms controlling their function have only been 
+partially characterized. In this study, we identify the lipoprotein GerS as a 
+novel regulator of C. difficile spore germination using targeted mutagenesis. A 
+gerS mutant has a severe germination defect and fails to degrade cortex even 
+though it processes SleC at wildtype levels. Using complementation analyses, we 
+demonstrate that GerS secretion, but not lipidation, is necessary for GerS to 
+activate SleC. Importantly, loss of GerS attenuates the virulence of C. 
+difficile in a hamster model of infection. Since GerS appears to be conserved 
+exclusively in related Peptostreptococcaeace family members, our results 
+contribute to a growing body of work indicating that C. difficile has evolved 
+distinct mechanisms for controlling the exit from dormancy relative to B. 
+subtilis and other spore-forming organisms.

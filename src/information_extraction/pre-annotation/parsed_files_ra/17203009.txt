@@ -1,0 +1,17 @@
+High-mobility group protein 1 (HMG1) is a nonhistone nuclear protein that is a 
+prototype of a dual-function alarmin whose immune activity is dependent upon its 
+cellular location. Inside the cell, HMG1 binds to DNA and has a role in 
+transcriptional regulation. Outside the cell, HMG1 acts as a cytokine and has 
+activities that resemble those of tumor necrosis factor. The cytokine activities 
+of HMG1 become manifest when this protein translocates from the nucleus to the 
+cytoplasm and, eventually, into the external milieu; this translocation occurs 
+during cell activation and cell death. Given its cytokine activity, HMG1 has 
+been implicated in the pathogenesis of a broad range of immune-mediated diseases 
+including arthritis. The role for this protein in arthritis was established by 
+observations of the expression of HMG1 in synovial tissue of patients with 
+rheumatoid arthritis as well as in the joints of animals used to model 
+arthritis. Furthermore, in the mouse model of collagen-induced arthritis, 
+treatment with antibodies to HMG1 or to an inhibitory domain of HMG1 can 
+attenuate joint inflammation and damage. These studies identify a novel pathway 
+in the pathogenesis of inflammatory arthritis, as well as a new target for 
+biologic therapy.

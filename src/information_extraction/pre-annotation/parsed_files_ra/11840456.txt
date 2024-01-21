@@ -1,0 +1,19 @@
+OBJECTIVE: Reactive oxygen species are thought to play a role in rheumatoid 
+arthritis (RA) in humans. We postulated that antioxidant treatment could have a 
+beneficial effect in this disease. We therefore investigated the effects of 
+vitamin E in the transgenic KRN/NOD mouse model of RA.
+METHODS: Mice were treated by gavage with oral vitamin E (alpha-tocopherol). 
+Clinical, histologic, and biochemical parameters were assessed for 6 weeks.
+RESULTS: Vitamin E treatment did not modify the clinical features of the disease 
+(date of onset or disease intensity, as measured by the articular index), but it 
+did prevent joint destruction, as measured by qualitative and semiquantitative 
+analyses. Redox status did not differ between treated and control mice. White 
+blood cell chemiluminescence was higher in transgenic KRN/NOD mice than in 
+controls, but vitamin E treatment attenuated this difference. Vitamin E 
+treatment of the transgenic animals led to a significant decrease in the levels 
+of interleukin-(IL-1beta) but not tumor necrosis factor alpha.
+CONCLUSION: Vitamin E seems to uncouple joint inflammation and joint destruction 
+in this model of RA, with a beneficial effect on joint destruction. Since many 
+investigations are currently in progress to evaluate the benefit of 
+interventions targeted toward anti-IL-1beta, our findings suggest opportunities 
+of therapeutic interest in human RA.

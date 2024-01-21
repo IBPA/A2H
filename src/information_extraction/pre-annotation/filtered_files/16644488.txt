@@ -1,0 +1,18 @@
+Several studies demonstrate that opioids modulate the immune response via opioid 
+receptors expressed directly on the immune cells themselves. Recently, it has 
+been suggested that the kappa opioid system has a modulatory role in various 
+inflammatory diseases including rheumatoid arthritis. This modulation may occur 
+via changes in cytokine secretion by monocyte-derived cells. To further study 
+this opioid-immune relationship, we stimulated P388D1 cells, a mouse 
+monocyte-like cell line, with lipopolysaccharide (LPS) in the presence or 
+absence of the kappa opioid-selective ligand, U50,488. Pretreatment with U50,488 
+significantly reduced LPS-stimulated interleukin-6 (IL-6) production as measured 
+by ELISA. This effect was mediated by the kappa opioid receptor, because 
+nor-binaltorphimine (nor-BNI), a kappa-selective antagonist, blocked this 
+inhibition. It is likely that this reduction of IL-6 protein by U50,488 
+treatment is attributed to decreases in IL-6 mRNA. RT-PCR experiments 
+demonstrated that U50,488 treatment significantly reduced the LPS-mediated 
+increase in IL-6 mRNA and that this effect was also blocked by nor-BNI. 
+Understanding the mechanism behind the reduction of proinflammatory cytokine 
+production by opioids may lead to the development of more effective therapeutics 
+for inflammatory diseases.

@@ -1,0 +1,26 @@
+OBJECTIVE: The advent of tumor necrosis factor (TNF)-blocking drugs has provided 
+rheumatologists with an effective, but highly expensive, treatment for the 
+management of established rheumatoid arthritis (RA). Our aim was to explore 
+preclinically the application of camelid anti-TNF VHH proteins, which are 
+single-domain antigen binding (VHH) proteins homologous to human immunoglobulin 
+V(H) domains, as TNF antagonists in a mouse model of RA.
+METHODS: Llamas were immunized with human and mouse TNF, and antagonistic 
+anti-TNF VHH proteins were isolated and cloned for bacterial production. The 
+resulting anti-TNF VHH proteins were recombinantly linked to yield bivalent 
+mouse and human TNF-specific molecules. To increase the serum half-life and 
+targeting properties, an anti-serum albumin anti-TNF VHH domain was incorporated 
+into the bivalent molecules. The TNF-neutralizing potential was analyzed in 
+vitro. Mouse TNF-specific molecules were tested in a therapeutic protocol in 
+murine collagen-induced arthritis (CIA). Disease progression was evaluated by 
+clinical scoring and histologic evaluation. Targeting properties were evaluated 
+by 99mTc labeling and gamma camera imaging.
+RESULTS: The bivalent molecules were up to 500 times more potent than the 
+monovalent molecules. The antagonistic potency of the anti-human TNF VHH 
+proteins exceeded even that of the anti-TNF antibodies infliximab and adalimumab 
+that are used clinically in RA. Incorporation of binding affinity for albumin 
+into the anti-TNF VHH protein significantly prolonged its serum half-life and 
+promoted its targeting to inflamed joints in the murine CIA model of RA. This 
+might explain the excellent therapeutic efficacy observed in vivo.
+CONCLUSION: These data suggest that because of the flexibility of their format, 
+camelid anti-TNF VHH proteins can be converted into potent therapeutic agents 
+that can be produced and purified cost-effectively.

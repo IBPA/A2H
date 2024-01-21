@@ -1,0 +1,23 @@
+There is a medical need for antibacterial agents that do not damage the resident 
+gut microbiota or promote the spread of antibiotic resistance. We recently 
+described a prototypic precision bactericidal agent, Av-CD291.2, which 
+selectively kills specific Clostridium difficile strains and prevents them from 
+colonizing mice. We have since selected two Av-CD291.2-resistant mutants that 
+have a surface (S)-layer-null phenotype due to distinct point mutations in the 
+slpA gene. Using newly identified bacteriophage receptor binding proteins for 
+targeting, we constructed a panel of Avidocin-CDs that kills diverse C. 
+difficile isolates in an S-layer sequence-dependent manner. In addition to 
+bacteriophage receptor recognition, characterization of the mutants also 
+uncovered important roles for S-layer protein A (SlpA) in sporulation, 
+resistance to innate immunity effectors, and toxin production. Surprisingly, 
+S-layer-null mutants were found to persist in the hamster gut despite a complete 
+attenuation of virulence. These findings suggest antimicrobials targeting 
+virulence factors dispensable for fitness in the host force pathogens to trade 
+virulence for viability and would have clear clinical advantages should 
+resistance emerge. Given their exquisite specificity for the pathogen, 
+Avidocin-CDs have substantial therapeutic potential for the treatment and 
+prevention of C. difficile infections.
+
+Copyright © 2017 The Authors, some rights reserved; exclusive licensee American 
+Association for the Advancement of Science. No claim to original U.S. Government 
+Works.

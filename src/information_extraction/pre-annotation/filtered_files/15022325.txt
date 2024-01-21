@@ -1,0 +1,27 @@
+OBJECTIVE: Chondromodulin I (ChM-I), a cartilage matrix protein, promotes the 
+growth and proteoglycan synthesis of chondrocytes. However, it also inhibits 
+angiogenesis. Since ChM-I is expressed not only in cartilage, but also in the 
+thymus, we investigated the modulation of T cell function by ChM-I to assess its 
+therapeutic potential in rheumatoid arthritis (RA).
+METHODS: The localization of ChM-I expression in mouse thymus tissue was 
+examined by in situ hybridization. The proliferative response of peripheral 
+blood T cells and synovial cells obtained from patients with RA was evaluated by 
+(3)H-thymidine incorporation assay. The effects of ChM-I were examined using 
+recombinant human ChM-I (rHuChM-I). Modulation of the antigen-specific immune 
+response was evaluated by the recall response of splenic T cells and the 
+delayed-type hypersensitivity response induced in the ear of mice primed with 
+ovalbumin (OVA). Antigen-induced arthritis (AIA) was induced in mice by 
+injecting methylated bovine serum albumin into the ankle joints 2 weeks after 
+the priming.
+RESULTS: ChM-I was expressed in the cortex of the thymus. Recombinant human 
+ChM-I suppressed the proliferative response of mouse splenic T cells and human 
+peripheral blood T cells stimulated with anti-CD3/CD28 antibodies, in a 
+dose-dependent manner. Production of interleukin-2 was decreased in 
+rHuChM-I-treated mouse CD4 T cells. Ten micrograms of rHuChM-I injected 
+intraperitoneally into OVA-primed mice suppressed the induction of the 
+antigen-specific immune response. Finally, rHuChM-I suppressed the development 
+of AIA, and also suppressed the proliferation of synovial cells prepared from 
+the joints of patients with RA.
+CONCLUSION: These results suggest that ChM-I suppresses T cell responses and 
+synovial cell proliferation, implying that this cartilage matrix protein has a 
+therapeutic potential in RA.

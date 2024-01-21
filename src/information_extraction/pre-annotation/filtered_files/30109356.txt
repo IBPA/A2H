@@ -1,0 +1,25 @@
+OBJECTIVE AND DESIGN: To investigate the amelioration effects of quetiapine on 
+rheumatoid arthritis with RAW 264.7 macrophage and collagen-induced arthritis 
+(CIA) DBA/1J mouse model.
+SUBJECTS: RAW 264.7 macrophage and DBA/1J mice.
+TREATMENT: Lipopolysaccharide and collagen.
+METHODS: RAW 264.7 macrophages stimulated by lipopolysaccharide (LPS) followed 
+by quetiapine treatments were investigated. Activations of CD80 and CD86 were 
+analyzed by flow cytometry. Pro-inflammatory cytokines such as IL-6, TNF-α and 
+IL-1β were analyzed by ELISA. Proteins involved in signaling pathways related to 
+the formation of rheumatoid arthritis were assayed by Western blotting. 
+Therapeutic efficacy of quetiapine in CIA mouse model was also assayed. 
+18F-FDG/micro-PET was used to monitor the inflammation status in the joints, and 
+the severity of bone erosion was evaluated with micro-CT and H&E staining.
+RESULTS: The inhibition of pro-inflammatory cytokines by quetiapine was found 
+through the ERK and AKT phosphorylation and subsequent NF-κB and CREB signaling 
+pathways. Pro-inflammatory cytokines such as IL-17, IL-6 and IL-1β were 
+decreased, while immunosuppressive factors such as TGF-β and IL-10 were 
+increased in CIA mice treated with quetiapine. Notably, no uptake of 18F-FDG and 
+bone erosion was found with micro-PET images on days 32 and 43 in the 
+quetiapine-treated and normal control groups. However, significant uptake of 
+18F-FDG could be observed in the CIA group during the same time course. Similar 
+results were further verified with ex vivo autoradiography.
+CONCLUSION: Taken together, these results suggest that quetiapine is a potential 
+anti-inflammatory drug, and may be used as an adjuvant for the treatment of 
+rheumatoid arthritis.

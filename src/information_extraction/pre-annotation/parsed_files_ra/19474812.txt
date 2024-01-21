@@ -1,0 +1,15 @@
+Recent advances of biotechnology have laid the groundwork for potent and 
+specific molecular-targeting therapies including RNA interference. The largest 
+remaining hurdle for widespread use of this technology in skin is an effective 
+delivery system. Here, we demonstrate an effective topical delivery system using 
+a cream formulation containing a small-interfering RNA (siRNA) that specifically 
+targets osteopontin (OPN). OPN is a validated target in numerous inflammatory 
+diseases, including rheumatoid arthritis (RA). The siRNA targeting OPN was 
+incorporated into a cream formulation GeneCream that penetrates the stratum 
+corneum, depositing siRNA in the epidermis, dermis, and to a lesser extent, 
+subcutaneous tissue. In addition, when the OPN siRNA cream was topically applied 
+to the skin of a collagen antibody-induced RA mouse model, the siRNA cream 
+prevented the occurrence of severe, irreversible damage to bone and cartilage. 
+Thus, the siRNA cream provides effective delivery of active OPN siRNA, 
+suggesting this formulation may represent a platform technology for delivery of 
+siRNAs for treating various disorders including RA.

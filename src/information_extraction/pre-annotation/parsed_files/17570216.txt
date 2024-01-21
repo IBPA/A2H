@@ -1,0 +1,25 @@
+BACKGROUND & AIMS: We studied the role of protease-activated receptor 2 (PAR(2)) 
+and its activating enzymes, trypsins and tryptase, in Clostridium difficile 
+toxin A (TxA)-induced enteritis.
+METHODS: We injected TxA into ileal loops in PAR(2) or dipeptidyl peptidase I 
+(DPPI) knockout mice or in wild-type mice pretreated with tryptase inhibitors 
+(FUT-175 or MPI-0442352) or soybean trypsin inhibitor. We examined the effect of 
+TxA on expression and activity of PAR(2) and trypsin IV messenger RNA in the 
+ileum and cultured colonocytes. We injected activating peptide (AP), trypsins, 
+tryptase, and p23 in wild-type mice, some pretreated with the neurokinin 1 
+receptor antagonist SR140333.
+RESULTS: TxA increased fluid secretion, myeloperoxidase activity in fluid and 
+tissue, and histologic damage. PAR(2) deletion decreased TxA-induced ileitis, 
+reduced luminal fluid secretion by 20%, decreased tissue and fluid 
+myeloperoxidase by 50%, and diminished epithelial damage, edema, and neutrophil 
+infiltration. DPPI deletion reduced secretion by 20% and fluid myeloperoxidase 
+by 55%. In wild-type mice, FUT-175 or MPI-0442352 inhibited secretion by 24%-28% 
+and tissue and fluid myeloperoxidase by 31%-71%. Soybean trypsin inhibitor 
+reduced secretion to background levels and tissue myeloperoxidase by up to 50%. 
+TxA increased expression of PAR(2) and trypsin IV in enterocytes and colonocytes 
+and caused a 2-fold increase in Ca(2+) responses to PAR(2) AP. AP, tryptase, and 
+trypsin isozymes (trypsin I/II, trypsin IV, p23) caused ileitis. SR140333 
+prevented AP-induced ileitis.
+CONCLUSIONS: PAR(2) and its activators are proinflammatory in TxA-induced 
+enteritis. TxA stimulates existing PAR(2) and up-regulates PAR(2) and activating 
+proteases, and PAR(2) causes inflammation by neurogenic mechanisms.

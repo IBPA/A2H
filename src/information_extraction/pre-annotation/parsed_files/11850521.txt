@@ -1,0 +1,24 @@
+Previous experiments using cultured endothelial monolayers indicate that 
+Rho-family small GTPases are involved in modulation of endothelial monolayer 
+permeability by regulating assembly of the cellular actin filament scaffold, 
+activity of myosin-based contractility and junctional distribution of the 
+Ca2+-dependent endothelial cell adhesion molecule, VE-cadherin. We investigated 
+these mechanisms using both cultured endothelial cells (from porcine pulmonary 
+artery and mouse heart) and vascular endothelium in situ (mouse aorta, and 
+individually perfused venular microvessels of mouse and rat mesentery). Exposure 
+to Clostridium difficile toxin B (100 ng x ml(-1)) inactivated 50-90% of all 
+endothelial Rho proteins within 60-90 min. This was accompanied by considerable 
+reduction of actin filament stress fibres and junctional F-actin in cultured 
+endothelial monolayers and in mouse aortic endothelium in situ. Also, 
+VE-cadherin became discontinuous along endothelial junctions. Inhibition of Rho 
+kinase with Y-27632 (30 microM) for 90-120 min induced F-actin reduction both in 
+vitro and in situ but did not cause redistribution or reduction of VE-cadherin 
+staining. Perfusion of microvessels with toxin B increased basal hydraulic 
+permeability (L(p)) but did not attenuate the transient increase in L(p) of 
+microvessels exposed to bradykinin. Perfusion of microvessels with Y-27632 (30 
+microM) for up to 100 min reduced basal L(p) but did not attenuate the 
+permeability increase induced by platelet activating factor (PAF) or bradykinin. 
+These results show that toxin B-mediated reduction of endothelial barrier 
+properties is due to inactivation of small GTPases other than RhoA. Rho proteins 
+as well as RhoA-mediated contractile mechanisms are not involved in bradykinin- 
+or PAF-induced hyperpermeability of intact microvessels.

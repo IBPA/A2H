@@ -1,0 +1,20 @@
+Rheumatoid arthritis (RA) is one of the major autoimmune diseases of global 
+prevalence. Irrespective of much research in RA disease, no drugs with capable 
+safety profiles are yet available. Poly(ADP-ribose) polymerase-1 (PARP-1) 
+synthesizes and transfers ADP ribose polymers to target proteins, and regulates 
+DNA repair and genomic integrity maintenance. PARP-1 also plays a crucial role 
+in the progression of the inflammatory response, and its inhibition confers 
+protection in several models of inflammatory disorders. We investigated the 
+possible anti-arthritic effects of the PARP-1 inhibitor 5-aminoisoquinolinone 
+(5-AIQ) in a mouse model of adjuvant induced arthritis (AIA). In this study, we 
+examined the effects of 5-AIQ on the key mediators of arthritic inflammation, 
+namely, edema and arthritic score, T cell subsets, regulatory T (Treg) cells, 
+IL-17A, GITR expressing cells, NF-kB p65, IkB-α and pro and anti-inflammatory 
+mediators mRNA expression levels. PARP-1 inhibition 5-AIQ treatment 
+significantly attenuated the severity of AIA, reduced the arthritis scores, a 
+substantial reduction in the levels of T cell subsets, IL-17A, NF-kB p65, GITR 
+expressing cells, and as well as the pro-inflammatory mediators. However, 5-AIQ 
+significantly up-regulated the number of Tregs cells, IkB-α levels and mRNA 
+expression of anti-inflammatory mediators. Our results suggest that treatment 
+with 5-AIQ attenuated AIA in mice might offer a promising alternative/adjunct 
+treatment for RA.

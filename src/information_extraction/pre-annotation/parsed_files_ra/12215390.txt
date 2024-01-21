@@ -1,0 +1,19 @@
+Endogenous heterophilic antibodies in blood are known to interfere with two-site 
+enzyme-linked immunosorbent assays (ELISAs) evoking false positive signals. In 
+the present study, we describe an assay for the assessment of components of the 
+plasminogen activation system (uPA, tPA and PAI-1, and their complexes) in blood 
+which is not susceptible to interference by heterophilic antibodies. In the 
+ELISA format, two avian (duck, chicken) antibodies are employed in the 
+pre-analyte and two mammalian (rabbit, goat) antibodies in the post-analyte 
+stage. The assay is compared to our earlier reported ELISA for measuring uPA, 
+tPA and PAI-1 components in tumor tissue extracts. Applying the so-called 
+"nonsense formats", designed against non-existent components, to the NIBSC 
+reference preparation of rheumatoid factor (RF), no response was found with the 
+new assay, whereas a clear RF dose-dependent interfering signal was observed 
+with the original assay designed for tumor tissue extracts. Analysis of 
+tumor-tissue based international reference preparations (RBG EORTC 101094 and 
+040297), human anti-mouse antibodies (HAMA) containing sera, and sera from 
+patients with rheumatoid arthritis (RA), also displayed no false positive 
+signals. In conclusion, we have developed an ELISA that permits the 
+determination of blood levels of components in the urokinase system, free from 
+disturbance by endogenous heterophilic antibodies.

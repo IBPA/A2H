@@ -1,0 +1,25 @@
+Glucocorticoids (GC) are steroid hormones, which regulate metabolism and immune 
+function. Synthetic GCs, or corticosteroids (CS), have appreciable clinical 
+utility via their ability to suppress inflammation in immune-mediated diseases 
+like asthma and rheumatoid arthritis. Recent work has provided insight to novel 
+GC-induced genes that mediate their anti-inflammatory effects, including 
+glucocorticoid-induced leucine zipper (GILZ). Since GILZ comprises an important 
+part of GC action, its regulation by both drug and hormone will influence CS 
+therapy. In addition, GILZ expression is often employed as a biomarker of GC 
+action, which requires judicious selection of sampling time. Understanding the 
+in vivo regulation of GILZ mRNA expression over time will provide insight into 
+both the physiological regulation of GILZ by endogenous GC and the dynamics of 
+its enhancement by CS. A highly quantitative qRT-PCR assay was developed for 
+measuring GILZ mRNA expression in tissues obtained from normal and CS-treated 
+rats. This assay was applied to measure GILZ mRNA expression in eight tissues; 
+to determine its endogenous regulation over time; and to characterize its 
+dynamics in adipose tissue, muscle, and liver following treatment with CS. We 
+demonstrate that GILZ mRNA is expressed in several tissues. GILZ mRNA expression 
+in adipose tissue displayed a robust circadian rhythm that was entrained with 
+the circadian oscillation of endogenous corticosterone; and is strongly enhanced 
+by acute and chronic dosing. Single dosing also enhanced GILZ mRNA in muscle and 
+liver, but the dynamics varied. In conclusion, GILZ is widely expressed in the 
+rat and highly regulated by endogenous and exogenous GCs.
+
+© 2015 The Authors. Physiological Reports published by Wiley Periodicals, Inc. 
+on behalf of the American Physiological Society and The Physiological Society.

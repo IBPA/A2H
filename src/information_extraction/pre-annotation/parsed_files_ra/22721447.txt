@@ -1,0 +1,27 @@
+BACKGROUND: Non-invasive imaging of inflammation to measure the progression of 
+autoimmune diseases, such as rheumatoid arthritis (RA), and to monitor responses 
+to therapy is critically needed. V-Sense, a perfluorocarbon (PFC) contrast agent 
+that preferentially labels inflammatory cells, which are then recruited out of 
+systemic circulation to sites of inflammation, enables detection by 19F MRI. 
+With no 19F background in the host, detection is highly-specific and can act as 
+a proxy biomarker of the degree of inflammation present.
+METHODS: Collagen-induced arthritis in rats, a model with many similarities to 
+human RA, was used to study the ability of the PFC contrast agent to reveal the 
+accumulation of inflammation over time using 19F MRI. Disease progression in the 
+rat hind limbs was monitored by caliper measurements and 19F MRI on days 15, 22 
+and 29, including the height of clinically symptomatic disease. Naïve rats 
+served as controls. The capacity of the PFC contrast agent and 19F MRI to assess 
+the effectiveness of therapy was studied in a cohort of rats administered oral 
+prednisolone on days 14 to 28.
+RESULTS: Quantification of 19F signal measured by MRI in affected limbs was 
+linearly correlated with disease severity. In animals with progressive disease, 
+increases in 19F signal reflected the ongoing recruitment of inflammatory cells 
+to the site, while no increase in 19F signal was observed in animals receiving 
+treatment which resulted in clinical resolution of disease.
+CONCLUSION: These results indicate that 19F MRI may be used to quantitatively 
+and qualitatively evaluate longitudinal responses to a therapeutic regimen, 
+while additionally revealing the recruitment of monocytic cells involved in the 
+inflammatory process to the anatomical site. This study may support the use of 
+19F MRI to clinically quantify and monitor the severity of inflammation, and to 
+assess the effectiveness of treatments in RA and other diseases with an 
+inflammatory component.

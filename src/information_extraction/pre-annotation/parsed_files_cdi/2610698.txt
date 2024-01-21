@@ -1,0 +1,9 @@
+Toxin A (enterotoxin) and toxin B (cytotoxin) of Clostridium difficile were both 
+inactivated by the arginine specific reagent 1,2-cyclohexanedione. Molecular 
+stability during the inactivation process was demonstrated by SDS-PAGE analysis 
+showing the same migration rates for modified and unmodified forms of the 230 
+kDa toxin A and of the 250 kDa toxin B. Cytotoxicity of both toxins as well as 
+mouse lethality of the enterotoxin were drastically decreased as a result of the 
+arginine modification. The reaction followed pseudo-first-order kinetics. 
+Analysis of the data suggested that modification of a single arginine residue 
+was sufficient to abolish the activity of both toxins.

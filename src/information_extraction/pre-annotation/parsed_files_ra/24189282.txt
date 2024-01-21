@@ -1,0 +1,13 @@
+Protein tyrosine phosphatase nonreceptor 22 (PTPN22) represents a strong 
+susceptibility gene which is shared by many autoimmune diseases. Exploring the 
+mechanism behind this association could help to understand their pathogenesis as 
+well as to identify novel therapeutical targets. Recently, multiple mouse models 
+including knock-out, knock-in, knock-down and transgenic mice were generated to 
+delineate PTPN22s function in this context. Depending on the genetic background, 
+mouse PTPN22_619W mutation results in spontaneous autoimmunity, essentially 
+replicating the risk effect of the PTPN22_620W in human autoimmune diseases. 
+Furthermore, findings from mouse models shed new light on both cellular as well 
+as molecular mechanisms of the effect of PTPN22 on adaptive and innate immunity. 
+Here we review recently emerged evidence of the interconnection between mouse 
+PTPN22 and autoimmunity. We also discuss the consistence and discrepancy between 
+findings derived from human and mouse studies.

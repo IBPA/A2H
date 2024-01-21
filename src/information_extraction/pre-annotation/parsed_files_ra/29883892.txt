@@ -1,0 +1,23 @@
+Bi qi capsule (BQC) is a traditional Chinese medicine prescription that is 
+clinically used for the treatment of rheumatoid arthritis. Strychnine and 
+brucine, as two typical kinds of alkaloids, are the primary active and 
+neurotoxic constituents of BQC. In this study, a sensitive and reliable rapid 
+resolution liquid chromatography-tandem mass spectrometry (RRLC-MS/MS) 
+quantitative method was used to determine the concentrations of brucine and 
+strychnine in rat brain and blood dialysates. The blood-brain barrier (BBB) 
+penetration of free brucine and strychnine and their pharmacokinetic 
+characteristics were investigated by the validated RRLC-MS/MS method coupled 
+with in vivo microdialysis for the first time. The dialysate brain-blood AUC 
+ratios of brucine were 0.098, 0.44 and 0.40 respectively at 0.4, 0.8 and 
+1.6 g kg-1 doses of BQC, and the dialysate brain-blood AUC ratios of strychnine 
+were 0.20, 1.25 and 2.06 respectively at 0.4, 0.8 and 1.6 g kg-1 doses of BQC. 
+The high brain-blood AUC ratios of brucine and strychnine were observed in 
+medium and high dose groups of BQC. In addition, the effects of P-glycoprotein 
+(P-gp) and breast cancer resistance protein (BCRP) on brucine and strychnine 
+across BBB were also studied using the above method as well as molecular 
+docking. The results prompted that brucine was the substrate of P-gp, and 
+strychnine might be the inhibitor of P-gp. Brucine and strychnine showed high 
+brain penetration, so it is very important to well control the clinic dosage of 
+BQC and manufactory quality for avoiding the side effects and obtaining good 
+therapeutic efficacy. Our study could be further used in investigating BBB 
+penetration for other drugs caused neurotoxicity.

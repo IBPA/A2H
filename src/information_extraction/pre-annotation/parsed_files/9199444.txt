@@ -1,0 +1,26 @@
+Clostridium difficile produces a potent enterotoxin and cytotoxin, toxins A and 
+B, respectively, which appear to be responsible for pseudomenbranous colitis and 
+antibiotic-associated diarrhea. In the present study we explored the neutrophil 
+migration evoked by toxin A in the peritoneal cavities and subcutaneous air 
+pouches of rats and examined the role of macrophages and their inflammatory 
+mediators in this process. Toxin A causes a significant dose-dependent 
+neutrophil influx into the peritoneal cavity, with a maximal response at 0.1 
+microg/ml and at 4 h. The depletion of macrophages by peritoneal washing 
+prevents the toxin A-induced neutrophil migration into the peritoneal cavity. In 
+contrast, an increase in macrophages induced by peritoneal injection of 
+thioglycolate amplifies this toxin effect on neutrophil migration. Furthermore, 
+the injection of supernatants from toxin A-stimulated macrophages into the rat 
+peritoneal cavity causes significant neutrophil migration. Pretreatment of rats 
+with BWA4C, nordihydroguaiaretic acid, mepacrine, or dexamethasone inhibits the 
+neutrophil migration evoked by toxin A in the peritoneal cavities. However, 
+pretreatment with the cyclooxygenase inhibitor indomethacin or the 
+platelet-activating factor antagonist BN52021 fails to alter toxin A-induced 
+neutrophil migration. Toxin A was also injected into air pouches of normal rats 
+or rats pretreated with anti-interleukin-1beta (anti-IL-1beta) or anti-tumor 
+necrosis factor alpha (anti-TNF-alpha) antibodies. Anti-TNF-alpha or 
+anti-IL-1beta antibodies significantly reduce the neutrophil migration induced 
+by toxin A. These data suggest that neutrophil migration evoked by toxin A is in 
+part dependent on macrophage-derived cytokines, such as TNF-alpha and IL-1beta, 
+and leukotrienes. These mediators may help to explain the intense inflammatory 
+colitis caused by C. dificile toxin A in an experimental animal model of this 
+disease.

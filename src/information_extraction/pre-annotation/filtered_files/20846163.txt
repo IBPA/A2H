@@ -1,0 +1,28 @@
+Pulmonary fibrosis is characterized by progressive worsening of pulmonary 
+function leading to a high incidence of death. Currently, however, there has 
+been little progress in therapeutic strategies for pulmonary fibrosis. There 
+have been several reports on cytokines being associated with lung fibrosis, 
+including interleukin (IL)-6 and transforming growth factor (TGF)-β1. We 
+reported recently that two substances (ATRA and thalidomide) have preventive 
+effects on pulmonary fibrosis by inhibiting IL-6-dependent proliferation and 
+TGF-β1-dependent transdifferentiation of lung fibroblasts. Rheumatoid arthritis 
+is a chronic autoimmune disorder, and its pathogenesis is also characterized by 
+an association with several cytokines. It has been reported that calpain, a 
+calcium-dependent intracellular cysteine protease, plays an important role in 
+the progression of rheumatoid arthritis. In this study, we examined the 
+preventive effect of Calpeptin, a calpain inhibitor, on bleomycin-induced 
+pulmonary fibrosis. We performed histological examinations and quantitative 
+measurements of IL-6, TGF-β1, collagen type Iα1 and angiopoietin-1 in 
+bleomycin-treated mouse lung tissues with or without the administration of 
+Calpeptin. Calpeptin histologically ameliorated bleomycin-induced pulmonary 
+fibrosis in mice. Calpeptin decreased the expression of IL-6, TGF-β1, 
+angiopoietin-1 and collagen type Iα1 mRNA in mouse lung tissues. In vitro 
+studies disclosed that Calpeptin reduced (i) production of IL-6, TGF-β1, 
+angiopoietin-1 and collagen synthesis from lung fibroblasts; and (ii) both 
+IL-6-dependent proliferation and angiopoietin-1-dependent migration of the 
+cells, which could be the mechanism underlying the preventive effect of 
+Calpeptin on pulmonary fibrosis. These data suggest the clinical use of 
+Calpeptin for the prevention of pulmonary fibrosis.
+
+© 2010 Authors. Clinical and Experimental Immunology © 2010 British Society for 
+Immunology.

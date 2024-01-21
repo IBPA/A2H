@@ -1,0 +1,27 @@
+AIM: The cellular joint infiltrate in rheumatoid arthritis patients is rich in 
+CD4-positive T-helper lymphocytes and macrophages, rendering anti-CD4 monoclonal 
+antibodies (mAbs) suitable for specific immunoscintigraphy of human/experimental 
+arthritis. Following intravenous injection, however, mAbs are present both in 
+the free form and bound to CD4-positive, circulating monocytes and T-cells. 
+Thus, the present study aimed at analyzing the relative contribution of the free 
+and the cell-bound component to the imaging of inflamed joints in experimental 
+adjuvant arthritis (AA).
+METHODS: AA rat peritoneal macrophages or lymph node l-cells were incubated in 
+vitro with saturating amounts of 99mTc-anti-CD4 mAb (W3/25) and injected i.v. 
+into rats with AA.
+RESULTS: In vitro release of 99mTc-anti-CD4 mAb from the cells was limited (on 
+average 1.57%/h for macrophages and 0.84%/h for T-cells). Following i.v. 
+injection, whole body/joint scans and tissue measurements showed only negligible 
+accumulation of radioactivity in inflamed ankle joints (tissue: 0.22 and 0.34% 
+of the injected activity, respectively), whereas the radioactivity was 
+concentrated in liver (tissue: 79% and 71%, respectively), kidney, and urinary 
+bladder. Unlike macrophages, however, anti-CD4 mAb-coated T-cells significantly 
+accumulated in lymphoid organs, the inflamed synovial membrane of the ankle 
+joints, as well as in elbow and knee joints.
+CONCLUSION: While the overall contribution of cell-bound mAbs to the imaging of 
+arthritic joints with anti-CD4 mAbs is minimal, differential accumulation of 
+macrophages and T-cells in lymphoid organs and the inflamed synovial membrane 
+indicates preferential migration patterns of these 2 cell populations in 
+arthritic rats. Although only validated for 99mTc-anti-CD4 mAbs, extrapolation 
+of the results to other anticellular mAbs with similar affinity for their 
+antigen may be possible.

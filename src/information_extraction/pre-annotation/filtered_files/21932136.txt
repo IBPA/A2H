@@ -1,0 +1,19 @@
+The root of Clematis chinensis Osbeck has been used widely in rheumatoid 
+arthritis in Chinese traditional medicine, and AR-6 is a triterpene saponin 
+isolated from it. In this present study, we investigated the in vivo effects of 
+oral AR-6 in chronic rat with collagen-induced arthritis (CIA) and possible 
+molecular mechanism. CIA was induced by immunizing 56 female Sprague-Dawley (SD) 
+rats with chicken typeIIcollagen (CII). Following eighteen days, the 
+immunization rats with CIA were treated with AR-6 (32, 16, 8 mg/kg), 
+cyclophosphamide (7 mg/kg), and TGP (Total Glucosides of Paeonia) (180 mg/kg) 
+for 7 days, and rats without CIA were given the same volume of purified water. 
+TNF-α and IL-1β levels in peripheral blood will be measured by ELISA, and 
+Western blot analysis will be used to detect the expression of NF-κB p65 
+subunits, TNF-α and COX-2, in synovial membrane. We found that therapeutic 
+treatment with AR-6 markedly improves the paw swelling and histopathological 
+changes. Moreover, the serum levels of pro-inflammatory cytokines TNF-α and 
+IL-1β were markedly lowered, and the expression of NF-κB p65 subunits, TNF-α and 
+COX-2, in the synovial membrane of CIA rats was significantly inhibited in the 
+AR-6-treated groups. These results enable to prove that AR-6 has a potential 
+anti-inflammatory effect in CIA rats, and its mechanism may relate to the 
+inhibition of the expression of NF-κB p65 subunits, TNF-α and COX-2.

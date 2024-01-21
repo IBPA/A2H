@@ -1,0 +1,21 @@
+The P70-84 peptide (also called 5/4E8 epitope) of the human cartilage 
+proteoglycan (PG) aggrecan is the dominant/arthritogenic epitope in both humans 
+and arthritis-prone BALB/c mice (PG-induced arthritis, PGIA). An elevated T cell 
+reactivity was demonstrated to a citrullinated version of the P70-84 epitope in 
+most of the patients with rheumatoid arthritis (RA). The goal of this study was 
+to understand better how a T cell epitope, if citrullinated, may affect 
+antigenicity/arthritogenicity in PGIA, a murine model of RA. T cell reactivity 
+to differentially citrullinated versions of either the human PG aggrecan P70-84 
+peptide or the corresponding mouse sequence was assessed in peptide or 
+aggrecan-immunized and arthritic BALB/c mice as well as in T cell receptor 
+transgenic mice specific for peptide P70-84 sequence. Peripheral T cell 
+responses were induced by priming BALB/c mice with either the human wild-type or 
+its citrullinated versions. Unexpectedly, priming with the citrullinated 
+self-peptide induced a higher T cell response compared to the wild-type sequence 
+(p<0.001), and the citrullination of the human peptide abolished T cell 
+reactivity in PGIA. Our data suggest that T cells reactive to the citrullinated 
+P70-84 peptide escaped thymic selection and are present in the peripheral T cell 
+repertoire. Results of this study provide evidence that citrullination of an 
+immunodominant T cell epitope may substantially alter, either increase or 
+abolish, T cell recognition at the periphery in an experimental model of 
+arthritis.

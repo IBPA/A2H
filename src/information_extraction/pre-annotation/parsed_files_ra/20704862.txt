@@ -1,0 +1,20 @@
+Extract: Autoreactive T cells are part of the normal immune system and are kept 
+under control by mechanisms known as anergy. Autoimmune diseases are caused by 
+the breakdown of this tolerance, and T cell activation leads to severe 
+inflammation and tissue damage. For example, in rheumatoid arthritis, synovial 
+joints will be destroyed whereas in insulin-dependent diabetes mellitus (IDDM, 
+type 1 diabetes), insulin-producing beta cells in the pancreatic islets of 
+Langerhans will be the focus of the attack. The genetic makeup of susceptible 
+individuals and the environmental factors leading to autoimmunity are complex 
+and largely unknown. In many instances, the main genetic locus that has been 
+determined is the MHC (major histocompatibility complex) class II locus. In the 
+case of IDDM this locus encodes alleles such as HLA-DR4, -DR3, and -DQ8 in 
+humans and I-Ag7 in the non-obese diabetic (NOD) mouse. Since MHC class II 
+molecules present peptides to CD4 positive T cells, it is tempting to link genes 
+and function and to study closely CD4+ T cells in the context of autoimmunity. 
+It is now well established that, indeed, these cells are essential for the 
+initiation and development of autoimmunity, however, in-depth investigation of 
+them has been impeded by two major roadblocks. First, potential antigens, and 
+therefore relevant peptides, are scarce and difficult to isolate. Secondly, 
+reagents able to detect T cells in an antigen-specific fashion have remained 
+elusive.

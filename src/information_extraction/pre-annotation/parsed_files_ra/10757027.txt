@@ -1,0 +1,18 @@
+Synovial cells in the rheumatoid synovium show abnormal proliferation, leading 
+to joint destruction. Rheumatoid synovial cells express functional Fas antigen 
+and are susceptible to Fas-mediated apoptosis. We have proposed the induction of 
+apoptosis by Fas/Fas ligand system of proliferative rheumatoid synovium as a 
+novel therapy for rheumatoid arthritis (RA). We have recently reported that 
+Fas-associated death domain protein (FADD) plays a key role in Fas-mediated 
+apoptosis of synovial cells in patients with RA. In this study, we determined 
+whether FADD gene transfer could induce apoptosis of RA synoviocytes in vitro 
+and in vivo. Transfection of FADD gene by adenoviral vector into cultured RA 
+synoviocytes induced up-regulation of FADD expression and apoptosis. In 
+addition, local injection of FADD adenovirus (Ad-FADD) eliminated synoviocytes 
+in vivo by induction of apoptosis of proliferating human rheumatoid synovium 
+engrafted in severe combined immunodeficiency mouse, which is the most suitable 
+animal model of RA for the evaluation of treatment strategy in vivo. In 
+addition, Ad-FADD-induced apoptosis was limited to cells of the synovium tissue 
+and did not affect chondrocytes. Our results strongly suggest that FADD gene 
+transfer can induce apoptosis of RA synoviocytes both in vitro and in vivo, 
+suggesting that FADD gene transfer might be effective in the treatment of RA.

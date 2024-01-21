@@ -1,0 +1,18 @@
+DING proteins comprise an intriguing phosphate-binding protein family present in 
+all animal phyla. Five different DING representatives have been described in 
+humans. Eukaryotic DING proteins are mostly involved in cellular processes such 
+as cell cycle regulation, and also in pathological process such as rheumatoid 
+arthritis and kidney stone formation. Although these proteins are ubiquitous in 
+eukaryotes, no relevant locus or ORF has yet been found in sequenced genomes. 
+This lack of sequence information has considerably hampered functional and 
+structural studies of these proteins, and has required the use of novel and 
+original techniques such as ab initio protein sequencing based on a combination 
+of X-ray crystallography and mass spectrometry. Sub-Angstrom structural 
+resolution has elucidated the molecular binding mechanism of phosphate ions by 
+these high-affinity proteins. Immunohistochemical studies show that these 
+proteins are present in a wide variety of mouse tissues. Some DING proteins, 
+particularly human phosphate binding protein (HPBP), can inhibit HIV 
+replication. This inhibition takes place at the transcriptional step, which is 
+not targeted by any current antiretroviral drug. Initial studies suggest that 
+HPBP warrants animal testing. This recent discovery opens new possibilities for 
+the treatment of HIV infection.

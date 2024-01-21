@@ -1,0 +1,21 @@
+The rat Natural Killer cell gene Complex (NKC) encodes molecules that can 
+regulate immunity. It is located within an interval on DA rat chromosome 4 
+(RNO4) that is linked to immune-mediated inflammatory joint diseases, including 
+oil-induced arthritis (OIA). We aimed to test the hypothesis that NKC regulates 
+arthritis, by performing advanced mapping of arthritis and additional phenotypes 
+induced by an intradermal injection of incomplete Freund's adjuvant-oil. 
+Reciprocal transfer of RNO4 intervals established that alleles from DA confer 
+arthritis susceptibility to inbred LEW.1AV1 and PVG.1AV1 rats, whereas LEW.1AV1 
+and PVG.1AV1 alleles confer resistance to inbred DA. Subcongenic strains with 
+PVG.1AV1 alleles introduced on DA allowed mapping of disease predisposition to 
+0.8 cM on the cytogenetic band 4q42, within the quantitative trait locus 
+oil-induced arthritis-2 (Oia2), but outside the NKC. Alleles in Oia2 regulated 
+arthritis in an additive fashion, and determined arthritis incidence, severity 
+and day of onset, in both males and females. Besides macroscopic 
+joint-inflammation, Oia2 also regulated other oil-induced phenotypes, including 
+lymphoplasia and plasma levels of the inflammation marker alpha1-acid 
+glycoprotein. The high-impact Oia2 region harbors gene sequences similar to 
+human C3AR1, Ribosomal protein L7, DNAJA2, C-type lectins, C1s and CD163. These 
+candidate disease genes may be of general interest, given that rat 4q42, and the 
+syntenic mouse 6F2 and human 12p13 regions are linked to several inflammatory 
+diseases, including rheumatoid arthritis.

@@ -1,0 +1,34 @@
+Chronic inflammation is associated with a broad spectrum of neurodegenerative 
+diseases of aging. Included are such disorders as Alzheimer's disease (AD), 
+Parkinson's disease (PD), amyotrophic lateral sclerosis, the Parkinson-dementia 
+complex of Guam, all of the tauopathies, and age-related macular degeneration. 
+Also included are such peripheral conditions as osteoarthritis, rheumatoid 
+arthritis, atherosclerosis, and myocardial infarction. Inflammation is a 
+two-edged sword. In acute situations, or at low levels, it deals with the 
+abnormality and promotes healing. When chronically sustained at high levels, it 
+can seriously damage viable host tissue. We describe this latter phenomenon as 
+autotoxicity to distinguish it from autoimmunity. The latter involves a 
+lymphocyte-directed attack against self proteins. Autotoxicity, on the other 
+hand, is determined by the concentration and degree of activation of 
+tissue-based monocytic phagocytes. Microglial cells are the brain 
+representatives of the monocyte phagocytic system. Biochemically, the intensity 
+of their activation is related to a spectrum of inflammatory mediators generated 
+by a variety of local cells. The known spectrum includes, but is not limited to, 
+prostaglandins, pentraxins, complement components, anaphylotoxins, cytokines, 
+chemokines, proteases, protease inhibitors, adhesion molecules, and free 
+radicals. This spectrum offers a huge variety of targets for new 
+anti-inflammatory agents. It has been suggested, largely on the basis of 
+transgenic mouse models, that stimulating inflammation rather than inhibiting it 
+can be beneficial in such diseases as AD. If this were the case, administration 
+of NSAIDs, or other anti-inflammatory drugs, would be expected to exacerbate 
+conditions such as AD, PD, and atherosclerosis. However, epidemiological 
+evidence overwhelmingly demonstrates that the reverse is true. This indicates 
+that, at least in these diseases, the inflammation is harmful. So far, advantage 
+has not been taken of opportunities indicated by these epidemiological studies 
+to treat AD and PD with appropriate anti-inflammatory agents. Based on this 
+evidence, classical NSAIDs are the most logical choice. Dosage, though, must be 
+sufficient to combat the inflammation. Analysis of mRNA levels of inflammatory 
+mediators indicates that the intensity of inflammation is considerably higher in 
+AD hippocampus and in PD substantia nigra than in osteoarthritic joints. Thus, 
+full therapeutic doses of NSAIDs, or combinations of anti-inflammatory agents, 
+are needed to achieve the suggested neurological benefits.

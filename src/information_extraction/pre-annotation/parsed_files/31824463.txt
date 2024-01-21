@@ -1,0 +1,32 @@
+Fecal microbiota transplantation (FMT) is an effective therapy for recurrent 
+Clostridioides difficile infection (rCDI) and is also considered a potential 
+treatment for a wide range of intestinal and systemic diseases. FMT corrects the 
+microbial dysbiosis associated with rCDI, and the engraftment of donor 
+microbiota is likely to play a key role in treatment efficacy. For disease 
+indications other than rCDI, FMT treatment efficacy has been moderate. This may 
+be partly due to stronger resilience of resident host microbiota in patients who 
+do not suffer from rCDI. In rCDI, patients typically have undergone several 
+antibiotic treatments prior to FMT, depleting the microbiota. In this study, we 
+addressed the effect of broad-spectrum antibiotics (Ab) as a pre-treatment to 
+FMT on the engraftment of donor microbiota in recipients. We conducted a 
+pre-clinical study of FMT between two healthy mouse strains, Balb/c as donors 
+and C57BL/6 as recipients, to perform FMT within the same species and to mimic 
+interindividual FMT between human donors and patients. Microbiota composition 
+was assessed with high-throughput 16S rDNA amplicon sequencing. The microbiota 
+of Balb/c and C57BL/6 mice differed significantly, which allowed for the 
+assessment of microbiota transplantation from the donor strain to the recipient. 
+Our results showed that Ab-treatment depleted microbiota in C57BL/6 recipient 
+mice prior to FMT. The diversity of microbiota did not recover spontaneously to 
+baseline levels during 8 weeks after Ab-treatment, but was restored already at 2 
+weeks in mice receiving FMT. Interestingly, pre-treatment with antibiotics prior 
+to FMT did not increase the overall similarity of the recipient's microbiota to 
+that of the donor's, as compared with mice receiving FMT without Ab-treatment. 
+Pre-treatment with Ab improved the establishment of only a few donor-derived 
+taxa, such as Bifidobacterium, in the recipients, thus having a minor effect on 
+the engraftment of donor microbiota in FMT. In conclusion, pre-treatment with 
+broad-spectrum antibiotics did not improve the overall engraftment of donor 
+microbiota, but did improve the engraftment of specific taxa. These results may 
+inform future therapeutic studies of FMT.
+
+Copyright © 2019 Freitag, Hartikainen, Jouhten, Sahl, Meri, Anttila, Mattila, 
+Arkkila, Jalanka and Satokari.

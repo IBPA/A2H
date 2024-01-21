@@ -1,0 +1,18 @@
+Depletion of B cells with the anti-CD20 antibody rituximab is an established 
+therapy for rheumatoid arthritis. However, rituximab has only moderate efficacy, 
+most likely due to insufficient depletion of B cells in lymphoid organs and 
+expansion of pathogenic B cells. We found that an antibody against mouse CD79b 
+profoundly blocks B-cell proliferation induced via the B-cell receptor, CD40, 
+CD180, and chondroitin sulfate, but not via TLR4 or TLR9. Treatment with 
+anti-CD79b also induces death in resting and activated B cells. B-cell 
+inhibition is mediated by cross-linkage of CD79b, but independent of Fc-receptor 
+engagement. In the model of collagen-induced arthritis, an antibody against 
+mouse CD20 depletes B cells very efficiently but fails to suppress the humoral 
+immune response against collagen and the development of arthritis. In contrast, 
+the antibody against CD79b, and a deglycosylated variant of this antibody, 
+almost completely inhibits the increase in anti-collagen antibodies and the 
+development of arthritis. In mice with established arthritis only the fully 
+glycosylated antibody against CD79b is effective. Our data show that targeting B 
+cells via CD79b is much more effective than B-cell depletion with anti-CD20 
+antibodies for therapy of arthritis. These findings may have important 
+implications for treatment of B-cell-mediated autoimmune diseases.

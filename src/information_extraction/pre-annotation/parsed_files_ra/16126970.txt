@@ -1,0 +1,23 @@
+The key pathologic mechanism in rheumatoid arthritis (RA) is the destruction of 
+cartilage by fibroblasts. In a severe combined immunodeficient (SCID) mouse 
+model, this process can be modulated by gene transfer using invasive LS48 
+fibroblasts. This study aims to investigate the effect of interleukins (IL) -11 
+and -12 on cartilage destruction when transferred into LS48, and of IL-15 when 
+transfected into non-invasive 3T3 cells; to compare three transduction systems 
+(a lentiviral vector system, a retroviral vector system, and a particle-mediated 
+gene transfer); and to establish an in vitro cartilage destruction system based 
+on LS48 cells. Transduced fibroblasts were injected into SCID mice knee joints, 
+and disease progression assessed microscopically. Distinctive morphologic 
+pattern revealed invasion of fibroblasts into the articular cartilage by 
+transfected, as well as non-transfected, LS48 cells. IL-12 and IL-15 did not 
+alter swelling or cartilage destruction. Animals treated with IL-11-transfected 
+cells showed reduced cartilage damage but no changes in swelling. Efficacy of 
+gene transfer to establish transfected fibroblasts was shown to be >85% for 
+lentiviral transfer, compared to <10% for retroviral transfer and gene gun. 
+Furthermore, cells were co-incubated with porcine cartilage. Transduction of 
+IL-11 led to a reduction of apoptosis in chondrocytes. These findings suggest 
+that cartilage destruction by invasive fibroblasts can be modulated by gene 
+transfer. Lentiviral vector systems offer the most effective approach for gene 
+transduction. In vitro fibroblast/cartilage co-cultures present a convenient 
+system for the assessment of novel therapeutic strategies toward reduction of 
+articular destruction.

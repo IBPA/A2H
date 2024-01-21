@@ -1,0 +1,13 @@
+Rheumatoid arthritis (RA)-associated IgG antibodies such as anti-citrullinated 
+protein antibodies (ACPAs) have diverse glycosylation variants; however, key 
+sugar chains modulating the arthritogenic activity of IgG remain to be 
+clarified. Here, we show that reduced sialylation is a common feature of 
+RA-associated IgG in humans and in mouse models of arthritis. Genetically 
+blocking sialylation in activated B cells results in exacerbation of joint 
+inflammation in a collagen-induced arthritis (CIA) model. On the other hand, 
+artificial sialylation of anti-type II collagen antibodies, including ACPAs, not 
+only attenuates arthritogenic activity, but also suppresses the development of 
+CIA in the antibody-infused mice, whereas sialylation of other IgG does not 
+prevent CIA. Thus, our data demonstrate that sialylation levels control the 
+arthritogenicity of RA-associated IgG, presenting a potential target for 
+antigen-specific immunotherapy.

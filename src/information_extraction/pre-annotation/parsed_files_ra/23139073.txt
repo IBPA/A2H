@@ -1,0 +1,23 @@
+Low-level laser therapy (LLLT) can reduce inflammation in a variety of clinical 
+conditions, including trauma, postherpetic neuralgia, and rheumatoid arthritis. 
+However, the effect of LLLT on internal organs has not been elucidated. The goal 
+of the present study was to investigate the anti-inflammatory effect of daily 
+external LLLT in an animal model of crescentic glomerulonephritis. Crescentic 
+glomerulonephritis was induced in male Wister Kyoto rats by intravenous 
+injection of antibody for glomerular basement membrane (GBM). The rats were 
+irradiated with a low-reactive level diode laser with an infrared wavelength of 
+830 nm from the shaved skin surface once a day for 14 days (irradiation spot 
+size on the skin surface, 2.27 cm(2); power intensity, 880 mW/cm(2); irradiation 
+mode, continuous mode; irradiation time, 250 s; energy, 500 J; energy density, 
+220 J/cm(2)). After laser irradiation for 14 days, animals were killed, and the 
+extent of inflammation was evaluated. Expression of gene for inflammatory 
+cytokines including interleukin (IL)-1β and tumor necrosis factor alpha (TNF-α) 
+was assessed by reverse transcription polymerase chain reaction. Crescent 
+formation in glomeruli and infiltration of macrophages and lymphocytes were 
+assessed by histochemical observation. Injection of anti-GBM antibody induced 
+severe glomerulonephritis with crescent formation. Histological observations 
+indicated that LLLT suppressed crescent formation and infiltration of ED1+ 
+macrophages and CD8+ lymphocytes into the glomeruli. LLLT attenuated the levels 
+of IL-1β and TNF-α messenger RNA in the renal cortex. Externally directed LLLT 
+suppresses the activity of rat anti-GBM crescentic glomerulonephritis in rats. 
+LLLT has the potential to be used for direct treatment of glomerulonephritis.

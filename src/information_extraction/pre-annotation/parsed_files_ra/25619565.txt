@@ -1,0 +1,25 @@
+Whether the rheumatoid arthritis (RA) pathogenesis is regulated by microRNA 
+(miRNA) is not entirely clear. In this study, we found that miR-375 was 
+down-regulated significantly in fibroblast-like synoviocytes (FLS) in 
+adjuvant-induced arthritis (AIA) rat model compared with control. Because the 
+web-based software TargetScan and PicTar predict Frizzled 8 (FZD8) as the target 
+of miR-375, we investigated whether up-regulated miR-375 plays a role in the 
+activation of the canonical Wnt signaling by targeting the FZD8. Furthermore, 
+the purpose of the present experiments was also to determine the role of miR-375 
+in the pathogenesis of AIA rat model and to ascertain the effects of FZD8 in 
+this process. Real time qPCR, Western blotting, ELISA and ChIP assay were used 
+to assess the inhibited role of miR-375 in the pathogenesis of AIA rat model and 
+the canonical Wnt signaling. RNA interference was also used to detect the role 
+of knockdown of dephosphorylated β-catenin. Luciferase reporter gene and related 
+methods were performed to determine the FZD8 as the target of miR-375. The 
+increased miR-375 inhibited the pathogenesis of AIA rat model as indicated by 
+decreases in the several disease markers, such as MMP3 and fibronectin. 
+Interestingly, miR-375 also inhibited the canonical Wnt signaling, and the 
+stabilized form of β-catenin blocked the miR-375 effects. FZD8 was identified as 
+the target of miR-375 in AIA rat model by the firefly luciferase reporter gene. 
+In summary, our results demonstrate that miR-375 regulates the pathogenesis of 
+AIA rat model through the canonical Wnt signaling pathway. This discovery may 
+provide new targets for therapeutic intervention to benefit RA patients.
+
+Copyright © 2015 European Federation of Immunological Societies. Published by 
+Elsevier B.V. All rights reserved.

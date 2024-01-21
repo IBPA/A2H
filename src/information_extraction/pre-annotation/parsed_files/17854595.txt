@@ -1,0 +1,24 @@
+BACKGROUND & AIMS: Clostridium difficile toxin A causes acute inflammation and 
+fluid secretion in experimental animals and patients with C difficile infection. 
+We previously reported that toxin A increased cyclooxygenase-2/prostaglandin 
+E(2) (PGE(2)) expression and apoptosis in human colonocytes. Here, we assessed 
+the role of secreted PGE(2) in inflammation and enterocyte apoptosis in toxin A 
+enteritis.
+METHODS: Effects of PGE(2) and PGE(2) blockade on toxin A-induced apoptosis of 
+human colonocytes (NCM460) and of PGE(2) or toxin A on the Fas ligand (FasL) 
+induction were analyzed by flow cytometry and Western blot. Functional activity 
+of elevated FasL on colonocytes was assessed by coculture of colonocytes with 
+Fas bearing Jurkat T cells. The involvement of PGE(2)-dependent Fas/FasL 
+activation in toxin A enteritis was further assessed in either scid or FasL and 
+Fas deficient mice.
+RESULTS: Inhibition of cyclooxygenase-2 by NS-398 and of PGE(2) using a blocking 
+antibody markedly attenuated apoptosis in colonocytes exposed to toxin A. 
+Enhanced expression and release of FasL followed PGE(2) or toxin A exposure in 
+vivo and in vitro and also was significantly attenuated by treatment with NS-398 
+and PGE(2) blocking antibody. PGE(2) acting through an EP1 receptor activated 
+nuclear factor-kappaB, which induced transcription of FasL. Toxin A enteritis 
+was accompanied by increased cellular infiltration, fluid secretion, and mucosal 
+damage in control mice, but this response was markedly reduced in both Fas(-/-) 
+and FasL(-/-) mice.
+CONCLUSIONS: Toxin A enteritis involves release of PGE(2), which activates the 
+Fas/FasL system, causing enterocyte apoptosis and inflammation.

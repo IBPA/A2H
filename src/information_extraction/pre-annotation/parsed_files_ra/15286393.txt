@@ -1,0 +1,18 @@
+This chapter describes the major principals, methods, and immunization protocols 
+for the induction of a systemic autoimmune arthritis in genetically susceptible 
+murine strains. The model is called proteoglycan-induced arthritis (PGIA) 
+because the antigenic/arthritogenic material is isolated from cartilage. This 
+autoimmune systemic disease is induced by intraperitoneal immunization of either 
+BALB/c or certain C3H colonies with cartilage proteoglycan, an abundant 
+component in articular cartilage. The chapter presents (a) methodological 
+details on how to purify cartilage proteoglycan aggrecan by cesium chloride 
+gradient centrifugation; (b) substitution of this highly purified 
+antigenic/arthritogenic material with a crude cartilage extract obtained from 
+knee joint cartilages removed during joint replacement surgery; and (c) 
+substitution of human cartilage proteoglycan with pig, dog, sheep, or bovine 
+cartilage proteoglycans for arthritis induction. The cartilage proteoglycan 
+aggrecan requires partial deglycosylation, and necessary materials, methods, and 
+protocols are described. In addition, basic methods for measuring 
+antigen-specific T-cell-dependent immune responses, antibody production, serum 
+cytokine levels, and alternative solutions for adoptive transfers are also 
+described.

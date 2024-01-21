@@ -1,0 +1,31 @@
+Poligoni Multiflori Radix (PMR) is a traditional Korean medicinal herb that is 
+known to have various pharmacological effects, including antihyperlipidemic, 
+anticancer, and anti‑inflammatory effects. However, the effects of PMR on bone 
+metabolism have not been elucidated to date. The present study aimed to 
+investigate the in vitro and in vivo effect of PMR water extract on the 
+regulation of osteoblast and osteoclast activity. Effects of PMR water extract 
+on receptor activator of nuclear factor‑kB ligand (RANKL)‑induced osteoclast 
+differentiation and survival of mouse bone marrow macrophages (BMMs) obtained 
+from femurs were investigated by tartrate‑acid resistant acid phosphatase 
+(TRAP)‑positive cells and XTT assay. Expression of osteoclast‑related genes was 
+assayed by western blot analysis and reverse transcription‑quantitative 
+polymerase chain reaction. Additionally, the effects of PMR water extract on 
+osteoblastic proliferation and differentiation were investigated by alkaline 
+phosphatase (ALP) activity assay, alizarin red staining, and levels of mRNA 
+encoding known osteoblast markers. Furthermore, the effects of PMR water extract 
+on lipopolysaccharide (LPS)‑induced bone loss were examined in a mouse model. 
+PMR inhibited RANKL‑induced osteoclast differentiation of BMMs in a 
+dose‑dependent manner without significant cytotoxicity, and suppressed 
+expression of the main osteoclast differentiation markers Fos proto‑oncogene and 
+nuclear factor of activated T‑cell. In addition, PMR decreased the mRNA 
+expression levels of NFATc1 target genes, including TRAP, osteoclast‑associated 
+receptor, ATPase H+ transporting, lysosomal 38 kDa V0 subunit d2, and 
+Cathepsin K. These inhibitory effects were mediated by the p38 and extracellular 
+signal‑regulated kinase/nuclear factor‑κB pathway. Simultaneously, PMR enhanced 
+the differentiation of primary osteoblasts, and increased the mRNA expression of 
+runt‑related transcription factor 2, ALP, osterix, and osteocalcin. Notably, PMR 
+improved LPS‑induced trabecular bone loss in mice. Collectively, the present 
+findings demonstrated that PMR may regulate bone remodeling by reducing 
+osteoclast differentiation and stimulating osteoblast formation. These results 
+suggest that PMR may be used for the treatment of bone diseases, such as 
+osteoporosis and rheumatoid arthritis.

@@ -1,0 +1,30 @@
+INTRODUCTION: Thermal imaging has been utilized, both preclinically and 
+clinically, as a tool for assessing inflammation and arthritis. However, 
+previous studies have employed large, relatively immobile devises to obtain the 
+thermal signature of the tissue of interest. The present study describes the 
+characterization of a hand-held thermal imaging device in a preclinical model of 
+general inflammation and a model of rheumatoid arthritis (RA).
+METHODS: A hand-held ThermoView Ti30 portable thermal imager was utilized to 
+detect the temporal changes in thermal signatures in rat model of 
+carrageenan-induced paw edema (CFE) and a model of collagen-induced arthritis 
+(CIA). In both in vivo models, the kinetics of the thermal changes were 
+correlated to footpad swelling. In addition, the CFE model was utilized to 
+examine the ability of this technology to delineate pharmacodynamic changes in 
+thermal signature in response to the non-steroidal anti-inflammatory drug 
+indomethacin (10 mg/kg; p.o.).
+RESULTS: Thermal analysis of rat paws in the CFE model demonstrated a 
+significant increase in the mean temperature difference between the inflamed and 
+contralateral control paw by two hours post-carrageenan (8.3 +/-0.5 degrees F). 
+Indomethacin significantly decreased the mean temperature difference in treated 
+animals as compared to vehicle. In the rat CIA model, increases in footpad 
+temperature, as determined by thermal imaging, were significantly elevated by 
+Day 11 and remained elevated throughout the duration of the 28 day protocol. 
+Thermal changes were also found to precede increases in footpad edema 
+(swelling).
+DISCUSSION: The results of this study demonstrate that the hand-held thermal 
+imaging technology represents a rapid, highly-reproducible method by which to 
+quantitate the degree of inflammation in rat models of general inflammation and 
+rheumatoid arthritis. The ability to detect pharmacodynamic responses in paw 
+temperature suggests that this technology may be a useful tool for the 
+development of pharmacologic interventions for the treatment 
+inflammation-related pathologies.

@@ -1,0 +1,16 @@
+CXCR4 is the receptor of the chemokine CXCL12, which is involved in progression 
+and metastasis of several types of cancer cells, HIV infection and rheumatoid 
+arthritis. The authors developed selective CXCR4 antagonists, T22 and T140, 
+initially as anti-HIV agents, which inhibit T cell line-tropic (X4-) HIV-1 
+infection through their specific binding to CXCR4. Recently, T140 analogues have 
+also been shown to inhibit CXCL12-induced migration of breast cancer cells, 
+leukaemia T cells, pancreatic cancer cells, small cell lung cancer cells, 
+chronic lymphocytic leukaemia B cells, pre-B acute lymphoblastic leukaemia cells 
+and so on in vitro. Biostable T140 analogues significantly suppressed pulmonary 
+metastasis of breast cancer cells and melanoma cells in mice. Furthermore, these 
+compounds significantly suppressed the delayed-type hypersensitivity response 
+induced by sheep red blood cells and collagen-induced arthritis, which represent 
+in vivo mouse models of arthritis. Thus, T140 analogues proved to be attractive 
+lead compounds for chemotherapy of these problematic diseases. This article 
+reviews recent research on T140 analogues, referring to several other CXCR4 
+antagonists.

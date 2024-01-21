@@ -1,0 +1,22 @@
+OBJECTIVE: Injection of agonistic anti-Fas antibody has been shown to decrease 
+disease symptoms in mouse models of arthritis. Additionally, membrane-bound FasL 
+(mFasL) has been shown to induce cell death in fibroblast-like synoviocytes 
+(FLS) from rheumatoid arthritis (RA) patients. However, levels of soluble FasL 
+(sFasL) are increased in the joints of RA patients and have been associated with 
+disease severity, indicating that mFasL and sFasL play opposing roles in RA. The 
+purpose of this study was to analyze the effects of FasL on RA FLS responses.
+METHODS: The responses of FLS from RA and osteoarthritis (OA) patients to 
+soluble and oligomeric FasL, the latter mimicking mFasL, were analyzed by 
+fluorescence-activated cell sorting and proliferation assays, using 3 different 
+FasL variants. The signaling pathways that trigger FasL responses were 
+characterized by Western blotting.
+RESULTS: We found that mFasL and sFasL have distinct roles in RA FLS. 
+Crosslinked FasL preferentially induced apoptosis, whereas sFasL stimulated 
+proliferation. Moreover, sFasL activated several signaling pathways in RA FLS, 
+such as ERK-1/2, phosphatidylinositol 3-kinase, caspase 8, and JNK, with a 
+prominent role of JNK, since only the blockade of this pathway rendered FLS more 
+susceptible to FasL-induced apoptosis. Crosslinked FasL induced apoptosis in FLS 
+from OA patients, but sFasL failed to stimulate their proliferation.
+CONCLUSION: Our findings suggest that sFasL is a disease promoter in RA, a 
+finding consistent with previous reports describing a tumor-promoting role of 
+FasL. Therefore, blocking of sFasL could be a therapeutic strategy for RA.

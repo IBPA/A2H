@@ -1,0 +1,14 @@
+Rapid detection of toxigenic Clostridium difficile in fecal samples was 
+accomplished with the magnetic immuno PCR assay (MIPA). Elaborate DNA extraction 
+techniques were unnecessary. First, we generated a mouse monoclonal antibody 
+(MAb) reactive with only C. difficile, Clostridium sordellii, and Clostridium 
+bifermentans. Then, magnetic beads were coated with the MAb, incubated with 
+fecal samples to allow binding with C. difficile, extracted from the stool with 
+a magnet, and processed in the PCR with primers specific for the toxin B gene. 
+After optimizing MIPA by raising the number of PCR cycles from 35 to 40 and 
+adding Chelex 100 to the PCR mixture, we found a sensitivity of 96.7%, a 
+specificity of 100%, a positive predictive value of 100%, and a negative 
+predictive value of 94.1% when compared with the culture of cytotoxic C. 
+difficile from fecal samples. MIPA is a rapid, easy, and sensitive PCR method 
+for demonstrating the presence of toxigenic C. difficile in stool samples and 
+avoids the disadvantage of elaborate extraction of DNA from fecal samples.

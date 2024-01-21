@@ -1,0 +1,24 @@
+Rheumatoid arthritis (RA), a systemic disease, is characterized by a chronic 
+inflammatory reaction in the synovium of joints and is associated with 
+degeneration of cartilage and erosion of juxta-articular bone. Many 
+pro-inflammatory cytokines including TNF alpha, chemokines, and growth factors 
+are expressed in diseased joints. The rationale that TNF alpha played a central 
+role in regulating these molecules, and their pathophysiological potential, was 
+initially provided by the demonstration that anti-TNF alpha antibodies added to 
+in vitro cultures of a representative population of cells derived from diseased 
+joints inhibited the spontaneous production of IL-1 and other pro-inflammatory 
+cytokines. Systemic administration of anti-TNF alpha antibody or sTNFR fusion 
+protein to mouse models of RA was shown to be anti-inflammatory and joint 
+protective. Clinical investigations in which the activity of TNF alpha in RA 
+patients was blocked with intravenously administered infliximab, a chimeric 
+anti-TNF alpha monoclonal antibody (mAB), has provided evidence that TNF 
+regulates IL-6, IL-8, MCP-1, and VEGF production, recruitment of immune and 
+inflammatory cells into joints, angiogenesis, and reduction of blood levels of 
+matrix metalloproteinases-1 and -3. Randomized, placebo-controlled, multi-center 
+clinical trials of human TNF alpha inhibitors have demonstrated their consistent 
+and remarkable efficacy in controlling signs and symptoms, with a favorable 
+safety profile, in approximately two thirds of patients for up to 2 years, and 
+their ability to retard joint damage. Infliximab (a mAB), and etanercept (a 
+sTNF-R-Fc fusion protein) have been approved by regulatory authorities in the 
+United States and Europe for treating RA, and they represent a significant new 
+addition to available therapeutic options.

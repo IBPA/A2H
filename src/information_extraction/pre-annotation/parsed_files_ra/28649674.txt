@@ -1,0 +1,17 @@
+Rheumatoid arthritis (RA) is characterized by synovial joint inflammation and by 
+development of pathogenic humoral and cellular autoimmunity to citrullinated 
+proteins. Neutrophil extracellular traps (NETs) are a source of citrullinated 
+autoantigens and activate RA synovial fibroblasts (FLS), cells crucial in joint 
+damage. We investigated the molecular mechanisms by which NETs promote 
+proinflammatory phenotypes in FLS, and whether these interactions generate 
+pathogenic anti-citrulline adaptive immune responses. NETs containing 
+citrullinated peptides are internalized by FLS through a RAGE-TLR9 pathway 
+promoting FLS inflammatory phenotype and their upregulation of MHC class II. 
+Once internalized, arthritogenic NET-peptides are loaded into FLS MHC class II 
+and presented to Ag-specific T cells. HLADRB1*0401 transgenic mice immunized 
+with mouse FLS loaded with NETs develop antibodies specific to citrullinated 
+forms of relevant RA autoantigens implicated in RA pathogenesis as well as 
+cartilage damage. These results implicate FLS as mediators in RA pathogenesis, 
+through the internalization and presentation of NET citrullinated peptides to 
+the adaptive immune system leading to pathogenic autoimmunity and cartilage 
+damage.

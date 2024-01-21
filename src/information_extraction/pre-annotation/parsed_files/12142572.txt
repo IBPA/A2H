@@ -1,0 +1,19 @@
+This study assessed the mechanism(s) by which the autoregulatory vasodilation of 
+rat pial artery in response to acute hypotension during the acute phase of 
+subarachnoid hemorrhage (SAH) was markedly blunted. Increased superoxide 
+production from the cerebral vessels in response to NAD(P)H at 24 hours after 
+SAH + NG-nitro-l-arginine methyl ester (l-NAME) (10 mg/kg) was inhibited by 
+intracisternal administration of a tyrosine kinase inhibitor genistein (10 
+micromol/L) and Rac inhibitor Clostridium difficile toxin B (1 ng/mL) and a 
+flavoenzyme inhibitor diphenyleneiodonium (10 micromol/L). The expression of 
+gp91phox was enhanced by SAH + l-NAME from 12 to 24 hours, which was inhibited 
+by genistein and toxin B, but not the p22phox. Increased membrane translocation 
+of Rac after SAH + l-NAME was attenuated by both genistein and toxin B, whereas 
+increased tyrosine kinase activity was blocked by genistein, but not by toxin B. 
+The blunted autoregulatory vasodilation to acute hypotension was effectively 
+recovered by genistein and C. difficile toxin B as well as by 
+diphenyleneiodonium. In conclusion, SAH during acute stage causes an increase in 
+NAD(P)H oxidase-dependent superoxide formation in cerebral vessels, which is due 
+to activation of tyrosine phosphorylation-dependent increased expression of 
+gp91phox mRNA and translocation of Rac protein, thereby resulting in a 
+significant reduction of autoregulatory vasodilation.

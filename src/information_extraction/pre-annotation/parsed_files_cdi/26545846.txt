@@ -1,0 +1,19 @@
+Multilocus sequence typing (MLST), multilocus variable-number tandem-repeat 
+analysis (MLVA) and antimicrobial susceptibility were performed on 37 animal and 
+human C. difficile isolates belonging to 15 different PCR-ribotypes in order to 
+investigate the relatedness of human and animal isolates and to identify 
+possible transmission routes. MLVA identified a total of 21 different types 
+while MLST only distinguished 12 types. Identical C. difficile strains were 
+detected in the same animal species for PCR-ribotypes 014, 078, UCL 16U and UCL 
+36, irrespective of their origin or the isolation date. Non clonal strains were 
+found among different hosts; however, a high genetic association between pig and 
+cattle isolates belonging to PCR-ribotype 078 was revealed. MLVA also showed 
+genetic differences that clearly distinguished human from animal strains. For a 
+given PCR-ribotype, human and animal strains presented a similar susceptibility 
+to the antimicrobials tested. All strains were susceptible to vancomycin, 
+metronidazole, chloramphenicol and rifampicin, while PCR-ribotypes 078, UCL 5a, 
+UCL 36 and UCL 103 were associated with erythromycin resistance. The data 
+suggest a wide dissemination of clones at hospitals and breeding-farms or a 
+contamination at the slaughterhouse, but less probability of interspecies 
+transmission. However, further highly discriminatory genotyping methods are 
+necessary to elucidate interspecies and zoonotic transmission of C. difficile.

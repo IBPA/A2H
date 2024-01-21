@@ -1,0 +1,27 @@
+BACKGROUND AND PURPOSE: Rheumatoid arthritis (RA) is an autoimmune disorder 
+involving subsets of activated T cells, in particular T helper (Th) 1 and Th17 
+cells, which infiltrate and damage tissues and induce inflammation. 
+Prostaglandin E(2) (PGE(2)) enhances the Th17 response, exacerbates 
+collagen-induced arthritis (CIA) and promotes inflammatory pain. The current 
+study investigated whether selective antagonism of the PGE(2) EP(4) receptor 
+would suppress Th1/Th17 cell development and inflammatory arthritis in animal 
+models of RA.
+EXPERIMENTAL APPROACH: Effects of PGE(2) and a novel EP(4) receptor antagonist 
+ER-819762 on Th1 differentiation, interleukin-23 (IL-23) production by dendritic 
+cells (DCs), and Th17 development were assessed in vitro. The effect of 
+ER-819762 was evaluated in CIA and glucose-6-phosphate isomerase (GPI)-induced 
+arthritis models. In addition, the effects of ER-819762 on pain were evaluated 
+in a model of chronic inflammatory pain induced by complete Freund's adjuvant 
+(CFA) in the rat.
+KEY RESULTS: Stimulation of the EP(4) receptor enhanced Th1 differentiation via 
+phosphatidylinositol 3 kinase signalling, selectively promoted Th17 cell 
+expansion, and induced IL-23 secretion by activated DCs, effects suppressed by 
+ER-819762 or anti-PGE(2) antibody. Oral administration of ER-19762 suppressed 
+Th1 and Th17 cytokine production, suppressed disease in collagen- and 
+GPI-induced arthritis in mice, and suppressed CFA-induced inflammatory pain in 
+rats.
+CONCLUSION AND IMPLICATIONS: PGE(2) stimulates EP(4) receptors to promote Th1 
+differentiation and Th17 expansion and is critically involved in development of 
+arthritis in two animal models. Selective suppression of EP(4) receptor 
+signalling may have therapeutic value in RA both by modifying inflammatory 
+arthritis and by relieving pain.

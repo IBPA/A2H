@@ -1,0 +1,28 @@
+OBJECTIVE: The chemokine receptor CXCR6 is highly expressed on lymphocytes 
+isolated from the synovium of patients with rheumatoid arthritis, psoriatic 
+arthritis, or juvenile idiopathic arthritis, suggesting that CXCR6 regulates 
+immune cell activation or infiltration into arthritic joints. This study was 
+undertaken to examine the role of CXCR6 in T cell activation and arthritis 
+development.
+METHODS: A collagen-induced arthritis model was used to examine arthritis 
+development in wild-type and CXCR6(-/-) mice. CXCR6 expression, lymphocyte 
+accumulation, and intracellular cytokine production were examined by flow 
+cytometry. Collagen-specific antibodies were measured in the serum. 
+Collagen-specific recall responses were examined in vitro via proliferation and 
+cytokine release assays. T cell homing to inflamed joints was examined using 
+competitive adoptive transfer of dye-labeled lymphocytes from wild-type and 
+CXCR6(-/-) mice.
+RESULTS: The numbers of CXCR6+ T cells were increased in the paws and draining 
+lymph nodes of arthritic mice. The incidence of arthritis, disease severity, 
+extent of T cell accumulation, and levels of collagen-specific IgG2a antibodies 
+were significantly reduced in CXCR6(-/-) mice compared to wild-type mice. T 
+cells from wild-type mice exhibited Th1 (interferon-γ [IFNγ]) polarization in 
+the inguinal lymph nodes following immunization. At disease peak, this shifted 
+to a Th17 (interleukin-17A [IL-17A]) response in the popliteal lymph nodes. T 
+cells in CXCR6(-/-) mice exhibited impaired cytokine polarization, resulting in 
+a decreased frequency and number of IL-17A- and IFNγ-producing cells. 
+Recruitment of activated CXCR6(-/-) mouse T cells to the inflamed paws was 
+impaired compared to recruitment of wild-type mouse T cells.
+CONCLUSION: These experiments demonstrate that CXCR6 plays important roles in 
+the pathogenesis of arthritis through its effects on both T cell cytokine 
+polarization and homing of T cells to inflamed joints.

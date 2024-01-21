@@ -1,0 +1,24 @@
+OBJECTIVE: Urokinase plasminogen activator (uPA), uPA receptor (uPAR), and PA 
+inhibitor 1 (PAI-1) have pivotal roles in the proliferation and invasion of 
+several cell types, including synovial fibroblasts (SFs). The aim of this study 
+was to investigate the possibility of controlling the invasion of rheumatoid 
+arthritis (RA) SFs in vitro and in vivo by inhibiting uPA and uPAR.
+METHODS: Normal SFs, SFs from patients with RA, and SFs from patients with 
+psoriatic arthritis (PsA) were used. The levels of uPA, uPAR, and PAI-1 were 
+measured by enzyme-linked immunosorbent assay and reverse 
+transcription-polymerase chain reaction analysis of messenger RNA. The activity 
+of uPA was studied by zymography. Proliferation was measured by cell counting, 
+and cell invasion was measured with a Boyden chamber assembled with 
+Matrigel-coated porous filters. Human cartilage and RA SF implantation in the 
+SCID mouse model of RA were used to study cartilage invasion in vivo.
+RESULTS: RA SFs and PsA SFs overexpressed uPAR and as a result were more active 
+than their normal counterparts in terms of both Matrigel invasion and 
+proliferation. This effect was counteracted by a specific inhibitor of uPA 
+enzymatic activity (WX-340) and by uPAR antisense treatment. The use of both 
+WX-340 and uPAR antisense treatment in vitro showed cooperative effects in RA 
+SFs that were more intense than the effects of either treatment alone. 
+Significant inhibition of cartilage invasion was obtained in vivo with uPAR 
+antisense treatment, while uPA inhibition was inefficient, either alone or in 
+combination with antisense treatment.
+CONCLUSION: The decrease in uPAR expression in RA SFs reduced invasion of human 
+cartilage in vitro and in the SCID mouse model.

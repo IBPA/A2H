@@ -1,0 +1,16 @@
+ARAP3, a GTPase activating protein for Rho and Arf family GTPases, is one of 
+many phosphoinositide 3-OH kinase (PI3K) effectors. In this study, we 
+investigate the regulatory input of PI3K upstream of ARAP3 by analyzing 
+neutrophils from an ARAP3 pleckstrin homology (PH) domain point mutation 
+knock-in mouse (R302, 303A), in which ARAP3 is uncoupled from activation by 
+PI3K. ARAP3 PH domain point mutant neutrophils are characterized by disturbed 
+responses linked to stimulation by either integrin ligands or immobilized immune 
+complexes. These cells exhibit increased β2 integrin inside-out signaling 
+(binding affinity and avidity), and our work suggests the disturbed responses to 
+immobilized immune complexes are secondary to this. In vitro, neutrophil 
+chemotaxis is affected in the mutant. In vivo, ARAP3 PH domain point mutant bone 
+marrow chimeras exhibit reduced neutrophil recruitment to the peritoneum on 
+induction of sterile peritonitis and also reduced inflammation in a model for 
+rheumatoid arthritis. The current work suggests a dramatic regulatory input of 
+PI3K into the regulation of β2 integrin activity, and processes dependent on 
+this, by signaling through its effector ARAP3.

@@ -1,0 +1,26 @@
+The aim of the present study was to identify the effectiveness of 
+lentivirus-mediated RNA interference (RNAi) targeting mouse tumor necrosis 
+factor-α (TNF-α). RNAi lentivirus was used in vitro to transfect RAW264.7 cells, 
+and the expression of TNF-α, interleukin (IL)-1β and IL-6 mRNAs and TNF-α 
+protein in RAW264.7 cells was measured by reverse transcription quantitative 
+polymerase chain reaction (RT-qPCR) and enzyme-linked immunosorbent assay, 
+respectively. In vivo, mice with collagen-induced arthritis (CIA) were injected 
+intravenously with RNAi lentivirus, and CIA arthritis scores and the serum 
+levels of TNF-α were detected. Additionally, joint tissues were subjected to 
+pathological examination. In the cells, the expression level of TNF-α mRNA in 
+the RNAi lentivirus group was 0.29±0.02, which was significantly lower than that 
+of the lentivirus negative control (0.93±0.01; t=25.4, P<0.001). In the mice, 
+the serum TNF-α level in the RNAi lentivirus group was 249.25±11.22 ng/ml, which 
+was significantly lower than that of the negative control group (381.86±6.28 
+ng/ml; P<0.05). However, no difference in IL-1α and IL-6 mRNA levels was 
+identified among the groups (t=1.00, P=0.37; t=1.22, P=0.29). The CIA arthritis 
+score in the RNAi lentivirus group was significantly reduced compared with those 
+in the control and negative control groups (P<0.05). Furthermore, the arthritis 
+scores in the RNAi lentivirus and positive control groups continued to decrease 
+for ≥2 weeks, and the serum TNF-α levels in the RNAi lentivirus and positive 
+control groups were 31.58±2.18 and 35.21±2.25 pg/ml, which were significantly 
+lower than those in the negative control group (46.62±3.02 pg/ml; P<0.05). Thus, 
+targeting of the TNF-α gene in mice via lentivirus-mediated RNAi in vitro and in 
+vivo achieved TNF-α gene downregulation, which indicates that 
+lentivirus-mediated RNA interference may be an effective form of gene therapy 
+against rheumatoid arthritis.

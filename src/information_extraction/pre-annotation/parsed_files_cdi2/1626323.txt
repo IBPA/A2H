@@ -1,0 +1,16 @@
+The effect of toxins A and B from Clostridium difficile on human colon carcinoma 
+cells (HT-29, epithelial), rhesus monkey kidney cells (MA-104, epithelial) and 
+green monkey kidney cells (VERO, fibroblast) was studied. Both toxins caused 
+rounding of HT-29 cells and rounding with projections remaining attached to the 
+substrate in MA-104 and VERO cells; however, the sensitivity to each toxin 
+varies considerably. Toxin A was detected in ng by VERO, pg by HT-29 and 
+fractions of pg by MA-104 cells; for toxin B, pg were detected by VERO, ng by 
+MA-104 and micrograms by HT-29 cells. HT-29 cells were grown with galactose to 
+allow their differentiation to enterocytes, and their sensitivity to the toxins 
+during the process was studied. At early stages, the sensitivity to both toxins 
+was similar, and as the differentiation proceeded, the response to both toxins 
+decreased continuously, and after 16 days no evident morphological effect was 
+observed, even with micrograms amounts of either toxin. In contrast to all cell 
+lines reported to date, HT-29 and MA-104 epithelial cells are exquisitely 
+sensitive to toxin A and less responsive to toxin B. The rounding of HT-29 by 
+these toxins depends on the degree of differentiation of the cell.

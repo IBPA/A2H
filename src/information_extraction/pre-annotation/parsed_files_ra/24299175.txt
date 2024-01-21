@@ -1,0 +1,26 @@
+INTRODUCTION: Targeting the CD20 antigen has been a successful therapeutic 
+intervention in the treatment of rheumatoid arthritis (RA). However, in some 
+patients with an inadequate response to anti-CD20 therapy, a persistence of 
+CD20- plasmablasts is noted. The strong expression of CD319 on CD20- plasmablast 
+and plasma cell populations in RA synovium led to the investigation of the 
+potential of CD319 as a therapeutic target.
+METHODS: PDL241, a novel humanized IgG1 monoclonal antibody (mAb) to CD319, was 
+generated and examined for its ability to inhibit immunoglobulin production from 
+plasmablasts and plasma cells generated from peripheral blood mononuclear cells 
+(PBMC) in the presence and absence of RA synovial fibroblasts (RA-SF). The in 
+vivo activity of PDL241 was determined in a human PBMC transfer into NOD scid 
+IL-2 gamma chain knockout (NSG) mouse model. Finally, the ability of PDL241 to 
+ameliorate experimental arthritis was evaluated in a collagen-induced arthritis 
+(CIA) model in rhesus monkeys.
+RESULTS: PDL241 bound to plasmablasts and plasma cells but not naïve B cells. 
+Consistent with the binding profile, PDL241 inhibited the production of IgM from 
+in vitro PBMC cultures by the depletion of CD319+ plasmablasts and plasma cells 
+but not B cells. The activity of PDL241 was dependent on an intact Fc portion of 
+the IgG1 and mediated predominantly by natural killer cells. Inhibition of IgM 
+production was also observed in the human PBMC transfer to NSG mouse model. 
+Treatment of rhesus monkeys in a CIA model with PDL241 led to a significant 
+inhibition of anti-collagen IgG and IgM antibodies. A beneficial effect on joint 
+related parameters, including bone remodeling, histopathology, and joint 
+swelling was also observed.
+CONCLUSIONS: The activity of PDL241 in both in vitro and in vivo models 
+highlights the potential of CD319 as a therapeutic target in RA.

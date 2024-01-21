@@ -1,0 +1,7 @@
+A humanized version of the apoptosis-inducing mouse anti-human Fas monoclonal 
+antibody, HFE7A, is under further development for the treatment of autoimmune 
+diseases such as rheumatoid arthritis. We have crystallized the antigen-binding 
+fragment (Fab) of the humanized HFE7A. The crystals belong to the orthorhombic 
+space group P2(1)2(1)2(1) with cell dimensions a = 54.4 A, b = 82.7 A, c = 104.9 
+A and contain one Fab molecule in the asymmetric unit. X-ray diffraction data 
+were collected to 2.8 A resolution.

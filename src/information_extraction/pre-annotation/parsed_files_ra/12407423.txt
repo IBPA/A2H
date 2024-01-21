@@ -1,0 +1,17 @@
+The objective of the study was to determine the effects and the molecular 
+background of interleukin-1 receptor antagonist (IL-1Ra) and vIL-10 double gene 
+transfer into human synovial fibroblasts from patients with rheumatoid arthritis 
+(RA) using the SCID mouse model for cartilage erosion in RA. RA synovial 
+fibroblasts were transduced with retro- or adenoviruses encoding IL-1Ra and/or 
+viral IL-10 (vIL-10). SCID mice were engrafted subcutaneously with IL-1Ra and 
+vIL-10 transduced human rheumatoid synovial fibroblasts and normal cartilage. In 
+parallel, gene expression analysis before and after gene transfer using RNA 
+arbitrarily primed PCR in combination with cDNA array was performed. vIL-10 and 
+IL-1Ra double gene transfer resulted in inhibition of cartilage invasion and 
+degradation by RA synovial fibroblasts when compared with control transduced and 
+non-transduced implants. Expression of key genes that were altered after double 
+gene transfer were related to the activin pathway. The results demonstrate not 
+only that virus-based gene transfer using a combination of two joint-protective 
+genes is a feasible approach to inhibit cartilage degradation by activated RA 
+synovial fibroblasts, but also that the underlying molecular effects include 
+modulation of the activin pathway.

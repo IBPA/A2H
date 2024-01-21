@@ -1,0 +1,29 @@
+Heat shock proteins are a family of approximately 25 highly conserved proteins 
+upregulated in response to various forms of stress. They play an active role in 
+the development autoimmune diseases in animals, and have been incriminated in 
+human autoimmune diseases (i.e. rheumatoid arthritis, multiple sclerosis). It 
+has been previously shown, that an induced immune response against Heat shock 
+protein 65 (HSP-65) results in atherosclerotic lesions in normocholesterolemic 
+rabbits. We have supported these findings showing that C57BL/6 mice immunized 
+with HSP-65 and fed a high-fat diet develop enhanced fatty streaks. To create a 
+model that will eliminate the need for exogenous supplementation of a high-fat 
+diet, we have immunized LDL receptor deficient (LDL-RD) mice with HSP-65 or with 
+heat-killed Mycobacterium tuberculosis (Mt). Seven groups of LDL-RD mice (n=10), 
+were immunized subcutaneously with different concentrations of HSP-65, Mt or 
+bovine serum albumin (BSA). All mice were fed a normal chow-diet for 3 months. 
+The mice immunized with the higher doses of Mt developed significantly larger 
+fatty streaks when compared with their BSA immunized littermates. The size of 
+the lesions in the aortic sinus were: 31,562+/-5,994 microm(2)in the 10 microg 
+Mt and 52,777+/-5,245 microm(2)in the 100 microg Mt vs. 11, 500+/-3,750 
+microm(2)in the BSA group (P<0.05). In the HSP-65-immunized mice, only the group 
+injected with the highest dose (5 microg, twice) developed significantly larger 
+fatty streaks when compared with the BSA-immunized group (28,611+/-4,716 
+microm(2)vs. 11,500+/-3,750 microm(2)respectively, (P<0.05). The HSP-65-but not 
+the Mt- or BSA-immunized mice developed high titers of anti HSP-65 antibodies, 
+beginning 10 days after the immunization, which persisted until they were 
+killed. Immunohistochemical staining showed CD3-positive lymphocytes in the 
+aortic sinus of mice immunized with Mt or HSP-65, but not in the control group. 
+Thus, we established a mouse model of HSP-65 immune mediated atherosclerosis 
+devoid of high fat diet supplementation. This model will enable us to further 
+study the role of the immune system in atherosclerosis, via HSP-65 and raise 
+novel immunomodulatory therapeutic modalities.

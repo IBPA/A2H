@@ -1,0 +1,24 @@
+The most rigorous scenario for testing a candidate rheumatoid arthritis 
+therapeutic would be to use clinically relevant biomarkers and readouts to 
+monitor disease development in an animal model that has a mechanism of disease 
+that reflects the human condition. Treatment should begin when the full spectrum 
+of arthritic processes, including bone damage, is present. We have tried to take 
+this approach to evaluate a novel EP4 receptor antagonist (ER-886046) for its 
+anti-arthritic potential. This work aimed not only to test a potential drug, but 
+to also demonstrate a strategy for performing a more clinically relevant 
+evaluation of future candidate arthritis treatments. A variety of biomarkers 
+including: radiographic evaluation, clinical scoring, histology analysis, F4/80 
+macrophage immunohistochemistry, luminol bioluminescent imaging and 
+(99m)Tc-MDP-SPECT imaging were evaluated as disease readouts in the mouse 
+anti-collagen antibody induced arthritis model (CAIA). CAIA mice were treated 
+either prophylactically or therapeutically with ER-886046 and the compound's 
+efficacy was probed using the various biomarkers and compared to the reference 
+drugs prednisolone and celecoxib. The various biomarkers effectively measured 
+different aspects of arthritis pathology and consistently demonstrated the 
+efficacy of ER-886046. The compound was found to be effective even when dosed 
+therapeutically after bone damaging processes had initiated. The results 
+presented herein demonstrate how biomarkers and a clinically relevant 
+experimental design can be used to evaluate a candidate therapeutic. Utilization 
+of clinically relevant biomarkers may provide a means for more translatable 
+pre-clinical testing of candidate therapeutics and may provide information on 
+their mechanism of action.

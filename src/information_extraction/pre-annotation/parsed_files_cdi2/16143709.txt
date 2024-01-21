@@ -1,0 +1,23 @@
+OBJECTIVES: Treatment of Clostridium difficile infection (CDI) is limited 
+primarily to either metronidazole or vancomycin. We compared vancomycin and a 
+novel glycolipodepsipeptide, ramoplanin, in both hamster and in vitro gut models 
+of clindamycin-induced CDI.
+METHODS: We used an in vitro triple-stage chemostat model that simulates the 
+human gut, and an in vivo hamster model, both primed with clindamycin.
+RESULTS: Clindamycin exposure elicited symptomatic disease in the hamster model, 
+and promoted C. difficile germination and toxin production in the gut model. C. 
+difficile germination and toxin production were not associated with depletion of 
+gut microflora in the gut model, but were temporarily associated with 
+subinhibitory concentrations of clindamycin. Both ramoplanin and vancomycin were 
+associated with rapid symptom resolution in the hamster model, and rapid toxin 
+titre decrease in the in vitro gut model. In both models of CDI, vancomycin was 
+associated with greater persistence of C. difficile spores. C. difficile spores 
+were recovered significantly more often from the caecal contents of 
+vancomycin-treated (n = 19/23) compared with ramoplanin-treated (n = 6/23) 
+hamsters (P < 0.05).
+CONCLUSIONS: Results from the in vitro gut and hamster models were concordant. 
+Ramoplanin and vancomycin were similarly effective at reducing cytotoxin 
+production in the gut CDI model and in resolving symptoms in the hamster model. 
+Ramoplanin may be more effective than vancomycin at killing spores and 
+preventing spore recrudescence. These findings suggest a potential therapeutic 
+role for ramoplanin in CDI that requires further clinical investigation.

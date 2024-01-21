@@ -1,0 +1,31 @@
+Clostridium difficile is a frequent cause of severe, recurrent post-antibiotic 
+diarrhoea and pseudomembranous colitis. The surface layer (S-layer) is the 
+predominant outer surface component of C. difficile which is involved in 
+pathogen-host interactions critical to pathogenesis. In this study, we 
+characterized the S-layer protein A (SlpA) of animal and human strains belonging 
+to different PCR-ribotypes (PR) and compared the in vitro adherence and in vivo 
+colonization properties of strains showing different SlpA variants. Since each 
+SlpA variant has been recently associated with an S-layer cassette, we were able 
+to deduce the cassette for each of our strains. In this study, an identity of 
+99-100 % was found among the SlpA of isolates belonging to PR 012, 014/020, 045 
+and 078. One exception was the SlpA of a poultry isolate, PR 014/020, which 
+showed 99 % identity with that of strain 0160, another PR 014/020 which contains 
+an S-layer cassette 6. Interestingly, this cassette has also been found in a PR 
+018 strain, an emerging virulent type currently predominant in Italy. Five other 
+SlpA variants (v014/020a-e) were identified in strains PR 014/020. In vitro 
+adherence assays and in vivo colonization experiments were performed on five PR 
+014/020 strains: human 1064 (v014/020e), human 4684/08 (v014/020b), human IT1106 
+(v078a), poultry P30 (v014/020d) and poultry PB90 (v014/020b) strains. Adhesion 
+assays indicate that C. difficile strains vary in their capacity to adhere to 
+cells in culture and that adhesion seems to be independent of the SlpA variant. 
+Colonization properties were assessed in vivo using a dixenic mouse model of 
+colonization. The kinetics of faecal shedding and caecal colonization were 
+similar when human 4684/08 (v014/020b) strain was compared with human 1064 
+(v014/020e) and poultry PB90 (v014/020b) strain. In contrast, poultry P30 
+(v014/020d) strain outcompeted both human 4684/08 (v014/020b) and IT1106 (v078a) 
+strains and its adherence to caeca at day 7 was significantly higher. The 
+peculiar characteristics of C. difficile P30 seem to advantage it in colonizing 
+the intestinal mice niche, increasing its ability to compete and adapt. The 
+results obtained underline the need of an increased attention to the genetic 
+evolution of C. difficile to prevent and limit the consequences of the emergence 
+of increasingly virulent strains.

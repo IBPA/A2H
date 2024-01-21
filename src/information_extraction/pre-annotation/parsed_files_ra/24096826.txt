@@ -1,0 +1,18 @@
+Synovial fibroblast proliferation is a hallmark of the invasive pannus in the 
+rheumatoid joint. Activated protein C (APC) is a natural anticoagulant that 
+exerts antiinflammatory and cyto-protective effects in various diseases via 
+endothelial protein C receptor (EPCR) and proteinase-activated receptor 
+(PAR)-mediated pathways. In this study, we investigated the effect and the 
+underlying cellular signaling mechanisms of APC on proliferation of human 
+rheumatoid synovial fibroblasts (RSFs). We found that APC stimulated 
+proliferation of mouse dermal fibroblasts (MDFs) and normal human dermal 
+fibroblasts (HDFs) by up to 60%, but robustly downregulated proliferation of 
+RSFs. APC induced the phosphorylation of extracellular signal-regulated protein 
+kinase (ERK) and enhanced expression of p21 and p27 in a dose-dependent manner 
+in RSFs. The latter effect was inhibited by pre-treatment with the ERK 
+inhibitors PD98059 and U0126 but not by p38 inhibitor SB203580. In addition, APC 
+significantly downregulated tumor necrosis factor (TNF)α-stimulated cell 
+proliferation and activation of p38, c-Jun NH2-terminal kinase (JNK) and Akt in 
+RSFs. These results provide the first evidence that APC selectively inhibits 
+proliferation and the inflammatory signaling pathways of RSFs. Thus, APC may 
+reduce synovial hyperplasia and pannus invasion in rheumatoid arthritis.

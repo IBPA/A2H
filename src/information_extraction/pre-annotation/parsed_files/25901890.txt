@@ -1,0 +1,23 @@
+Previous studies have shown bismuth subsalicylate (BSS) has antimicrobial 
+properties, but few studies have addressed the mechanism of action. Furthermore, 
+following BSS ingestion other bismuth salts form throughout the gastrointestinal 
+tract including bismuth oxychloride (BiOCl) that also act upon enteric 
+pathogens. To further understand the antimicrobial activity of bismuth in 
+infectious diarrhea, the antimicrobial effect of BSS and BiOCl on Clostridium 
+difficile, Salmonella, Shigella, Shiga toxin-producing Escherichia coli strains 
+and norovirus (NoV) were measured. Bacterial enteric pathogens in pure culture 
+or in human fecal material were exposed to 35mg/ml BSS or BiOCl with or without 
+a vehicle suspension. BSS and BiOCl treated samples were quantified and 
+visualized by transmission electron microscopy. To measure the effect on NoV, 
+reduction of infectious murine NoV (MNV), a surrogate for human NoV, and Norwalk 
+virus RNA levels were measured by viral plaque assay and RT-qPCR, respectively. 
+BSS and BiOCl reduced bacterial growth by 3-9 logs in all strains with majority 
+resulting in populations of <10 cfu/ml within 24 h. Similar results were found 
+when fecal material was included. Microscopy images detected bismuth on 
+bacterial membranes and within the bacterial organisms at 30 min post-treatment. 
+At 8.8mg/ml BSS and BiOCl reduced infectivity of MNV significantly by 2.7 and 
+2.0 log after 24 h of exposure. In addition, both BSS and BiOCl slightly reduced 
+the level of Norwalk replicon-bearing cells suggesting that bismuth may inhibit 
+NoV in vivo. Collectively, our results confirm and build on existing data that 
+BSS has antimicrobial properties against a wide-range of diarrhea-causing 
+pathogens.

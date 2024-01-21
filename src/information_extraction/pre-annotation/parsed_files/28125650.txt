@@ -1,0 +1,20 @@
+Clostridium difficile infections (CDI) are a leading cause of nosocomial 
+diarrhea in the developed world. The main virulence factors of the bacterium are 
+the large clostridial toxins (LCTs), TcdA and TcdB, which are largely 
+responsible for the symptoms of the disease. Recent outbreaks of CDI have been 
+associated with the emergence of hypervirulent strains, such as NAP1/BI/027, 
+many strains of which also produce a third toxin, binary toxin (CDTa and CDTb). 
+These hypervirulent strains have been associated with increased morbidity and 
+higher mortality. Here we present pre-clinical data describing a novel 
+tetravalent vaccine composed of attenuated forms of TcdA, TcdB and binary toxin 
+components CDTa and CDTb. We demonstrate, using the Syrian golden hamster model 
+of CDI, that the inclusion of binary toxin components CDTa and CDTb 
+significantly improves the efficacy of the vaccine against challenge with NAP1 
+strains in comparison to vaccines containing only TcdA and TcdB antigens, while 
+providing comparable efficacy against challenge with the prototypic, 
+non-epidemic strain VPI10463. This combination vaccine elicits high neutralizing 
+antibody titers against TcdA, TcdB and binary toxin in both hamsters and rhesus 
+macaques. Finally we present data that binary toxin alone can act as a virulence 
+factor in animal models. Taken together, these data strongly support the 
+inclusion of binary toxin in a vaccine against CDI to provide enhanced 
+protection from epidemic strains of C. difficile.

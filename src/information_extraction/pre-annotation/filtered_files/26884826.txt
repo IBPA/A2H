@@ -1,0 +1,33 @@
+Focal adhesion kinase (FAK) is known to promote the proliferation, migration and 
+survival of synovial cells and plays an important role in the occurrence, 
+development and pathological process of rheumatoid arthritis (RA). The aim of 
+the present study was to observe FAK changes in synovial cells of rats with 
+collagen-induced arthritis (CIA) and after intervention with disease modifying 
+anti-rheumatic drugs (DMARDs) alone or in combination in a CIA female SD rat 
+model induced by collagen type II. The rats were randomized to 8 groups: normal 
+control group, CIA model control group, methotrexate (MTX, 0.9 mg/kg/w) group, 
+cyclophosphamide (CTX, 24 mg/kg/3 w) group, leflunomide (LEF, 1.2 mg/kg/d) 
+group, MTX + CTX group, LEF + CTX group, and MTX + LEF group. They were 
+intervened with DMARDs alone or in combination for six weeks. The experiment 
+lasted a total of 9 weeks in vivo. Articular inflammation was measured during 
+the process of drug intervention in terms of the degree of swelling degree in 
+the right hind foot using a venire caliper. All animals were sacrificed by 
+breaking the neck after 9 weeks. Then, the ankle was fixed, decalcified, 
+embedded, and HE stained, and prepared into slices to observe pathological 
+changes in the synovial tissue. FAK expression in synovial cells was assayed by 
+immunohistochemistry and the mean optical density (OD) value was measured using 
+the HPIAS-2000 image analysis system. It was found that FAK expression was 
+negative in normal control group, positive in CIA model control group, and 
+decreased in the three DMARD combination treatment groups significantly as 
+compared with that in the three single-drug groups (P < 0.05). FAK expression in 
+LEF + CTX group or MTX + CTX group decreased more significantly than that in MTX 
++ LEF group (P < 0.05), and there was no statistically significant difference 
+between LEF + CTX and MTX + CTX groups. The arthritis index and pathological 
+change in the synovial tissue in LEF + CTX group or MTX + CTX group were 
+improved more significantly than those in MTX + LEF group or single-drug groups. 
+Our results showed that FAK expression was positive in CIA rats, indicating that 
+it played an important role in the pathogenesis of RA, and that intervention 
+with DMARDs could reduce the FAK expression in synovial cells of CIA rats. We 
+hope these findings would contribute to the treatment of RA and other rheumatic 
+diseases by reducing adhesion, proliferation and migration of synovial cells and 
+inhibiting the over-expression of FAK.

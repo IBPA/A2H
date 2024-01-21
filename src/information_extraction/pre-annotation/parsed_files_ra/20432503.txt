@@ -1,0 +1,15 @@
+Phospholipase A2 (PLA2) catalyses the release of arachidonic acid for generation 
+of lipid mediators of inflammation and is crucial in diverse inflammatory 
+processes. The functions of the secretory PLA2 enzymes (sPLA2), numbering nine 
+members in humans, are poorly understood, though they have been shown to 
+participate in lipid mediator generation and the associated inflammation. To 
+further understand the roles of sPLA2 in disease, we quantified the expression 
+of these enzymes in the synovial fluid in rheumatoid arthritis and used 
+gene-deleted mice to examine their contribution in a mouse model of autoimmune 
+erosive inflammatory arthritis. Contrary to expectation, we find that the group 
+V sPLA2 isoform plays a novel anti-inflammatory role that opposes the 
+pro-inflammatory activity of group IIA sPLA2. Mechanistically, group V sPLA2 
+counter-regulation includes promotion of immune complex clearance by regulating 
+cysteinyl leukotriene synthesis. These observations identify a novel 
+anti-inflammatory function for a PLA2 and identify group V sPLA2 as a potential 
+biotherapeutic for treatment of immune-complex-mediated inflammation.

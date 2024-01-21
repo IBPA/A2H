@@ -1,0 +1,18 @@
+We previously reported that the inflammatory effects of Clostridium difficile 
+toxin A on rat intestine can be significantly inhibited with a specific 
+neurokinin-1 receptor (NK-1R) antagonist. In this study we investigated the 
+localization and expression of NK-1R mRNA and protein in rat intestine by in 
+situ hybridization, Northern blot analysis, and immunohistochemistry, 
+respectively, after exposure to toxin A. Northern blot analysis showed increased 
+mucosal levels of NK-1R mRNA starting 30 min after toxin A administration. In 
+situ hybridization showed that toxin A increased NK-1R mRNA expression in 
+intestinal epithelial cells after 30, 120, and 180 min. In rats pretreated with 
+the NK-1R antagonist CP-96345 the increase in NK-1R mRNA levels after exposure 
+to toxin A was inhibited, indicating that NK-1R upregulation is substance P (SP) 
+dependent. One hour after exposure to toxin A many of the intestinal epithelial 
+cells showed staining for NK-1R compared with controls. Specific 125I-SP binding 
+to purified epithelial cell membranes obtained from ileum exposed to toxin A for 
+15 min was increased twofold over control and persisted for 4 h. This report 
+provides evidence that NK-1R expression is increased in the intestinal 
+epithelium shortly after exposure to toxin A and may be important in toxin 
+A-induced inflammation.

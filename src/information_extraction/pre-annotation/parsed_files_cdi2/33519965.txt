@@ -1,0 +1,23 @@
+Urban Norway rats (Rattus norvegicus) carry several pathogens transmissible to 
+people. However, pathogen prevalence can vary across fine spatial scales (i.e., 
+by city block). Using a population genomics approach, we sought to describe rat 
+movement patterns across an urban landscape and to evaluate whether these 
+patterns align with pathogen distributions. We genotyped 605 rats from a single 
+neighborhood in Vancouver, Canada, and used 1,495 genome-wide single nucleotide 
+polymorphisms to identify parent-offspring and sibling relationships using 
+pedigree analysis. We resolved 1,246 pairs of relatives, of which only 1% of 
+pairs were captured in different city blocks. Relatives were primarily caught 
+within 33 meters of each other leading to a highly leptokurtic distribution of 
+dispersal distances. Using binomial generalized linear mixed models, we 
+evaluated whether family relationships influenced rat pathogen status with the 
+bacterial pathogens Leptospira interrogans, Bartonella tribocorum, and 
+Clostridium difficile, and found that an individual's pathogen status was not 
+predicted any better by including disease status of related rats. The spatial 
+clustering of related rats and their pathogens lends support to the hypothesis 
+that spatially restricted movement promotes the heterogeneous patterns of 
+pathogen prevalence evidenced in this population. Our findings also highlight 
+the utility of evolutionary tools to understand movement and rat-associated 
+health risks in urban landscapes.
+
+© 2020 The Authors. Evolutionary Applications published by John Wiley & Sons 
+Ltd.

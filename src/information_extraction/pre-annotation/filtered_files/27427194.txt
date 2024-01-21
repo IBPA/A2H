@@ -1,0 +1,34 @@
+BACKGROUND: Probiotics have been considered as an approach to addressing the 
+consequences of different inflammatory disorders. The spore-forming probiotic 
+strain Bacillus coagulans has demonstrated anti-inflammatory and 
+immune-modulating effects in both animals and humans. The prebiotic inulin also 
+potentially affects the immune system as a result of the change in the 
+composition or fermentation profile of the gastrointestinal microbiota.
+OBJECTIVE: In the present study, an in vivo model was conducted to investigate 
+the possible influences of probiotic B. coagulans and prebiotic inulin, both in 
+combination and/or separately, on the downregulation of immune responses and the 
+progression of rheumatoid arthritis (RA), using arthritis-induced rat model.
+DESIGN: Forty-eight healthy male Wistar rats were randomly categorized into six 
+experimental groups as follows: 1) control: normal healthy rats fed with 
+standard diet, 2) disease control (RA): arthritis-induced rats fed with standard 
+diet, 3) prebiotic (PRE): RA+ 5% w/w long-chain inulin, 4) probiotic (PRO): RA+ 
+10(9) spores/day B. coagulans by orogastric gavage, 5) synbiotic (SYN): RA+ 5% 
+w/w long-chain inulin and 10(9) spores/day B. coagulans, and 6) treatment 
+control: (INDO): RA+ 3 mg/kg/day indomethacin by orogastric gavage. Feeding with 
+the listed diets started on day 0 and continued to the end of study. On day 14, 
+rats were injected with complete Freund's adjuvant (CFA) to induce arthritis. 
+Arthritis activity was evaluated by the biochemical parameters and paw 
+thickness. Biochemical assay for fibrinogen (Fn), serum amyloid A (SAA), and 
+TNF-α and alpha-1-acid glycoprotein (α1AGp) was performed on day 21, 28, and 35 
+(7, 14 and 21 days post RA induction), respectively.
+RESULTS: Pretreatment with PRE, PRO, and SYN diets significantly inhibits SAA 
+and Fn production in arthritic rats (P < 0.001). A significant decrease in the 
+production of pro-inflammatory cytokines, such as TNF-α, was seen in the PRE, 
+PRO, and SYN groups (P < 0.001), which was similar to the anti-inflammatory 
+effect of indomethacin. Furthermore, no significant anti-inflammatory effects 
+were observed following different treatments using α1 AGp as an RA indicator. 
+Pretreatment with all supplied diets significantly inhibited the development of 
+paw swelling induced by CFA (P < 0.001).
+CONCLUSION: The results of this study indicate that the oral intake of probiotic 
+B. coagulans and prebiotic inulin can improve the biochemical and clinical 
+parameters of induced RA in rat.

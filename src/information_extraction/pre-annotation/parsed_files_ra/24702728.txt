@@ -1,0 +1,23 @@
+AIMS: In rheumatoid arthritis (RA), pain and inflammation are initial symptoms 
+followed by various degrees of bone and cartilage destruction. Previously, we 
+have shown that reversible proteasome inhibitor MG132 attenuates pain and joint 
+inflammation in a rat model of adjuvant-arthritis. Our present study aims to 
+study the effects of MG132 on molecular changes in the dorsal root ganglia (DRG) 
+and in the spinal cord (SC) using the same animal model.
+METHODS: Arthritis was induced by heat-killed Mycobacterium butyricum in rats. 
+The expression of substance P (SP) was analyzed by quantitative reverse 
+transcription polymerase chain reaction and immunohistochemistry in DRG and in 
+the SC. The nuclear factor-κB (NF-κB) DNA-binding activity in the SC was 
+analyzed by electromobility shift assay.
+RESULTS: Arthritic rats treated daily with MG132 demonstrated a marked reduction 
+of SP gene expression in the DRG and number of SP-positive cells was reduced. In 
+the spinal cord of arthritic rats elevated SP messenger RNA levels were 
+normalized and NF-κB-DNA-binding activity was down-regulated in arthritic rats 
+treated with MG132.
+CONCLUSION: Our results indicate that proteasome inhibitor MG132 attenuates pain 
+in adjuvant arthritis by targeting the sensory neuropeptide substance P in the 
+peripheral and central nervous systems. These effects may be mediated through 
+the inhibition of NF-κB activation.
+
+© 2014 Asia Pacific League of Associations for Rheumatology and Wiley Publishing 
+Asia Pty Ltd.

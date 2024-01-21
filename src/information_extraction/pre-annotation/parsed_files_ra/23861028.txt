@@ -1,0 +1,13 @@
+Methyl-CpG-binding protein 2 (MeCP2) is a key transcriptional regulator that can 
+induce either silencing or activation of target genes. Genetic polymorphisms in 
+the MECP2/IRAK1 locus have been associated with increased susceptibility to 
+multiple autoimmune diseases such as lupus, primary Sjogren's syndrome, and more 
+recently rheumatoid arthritis. Data from our group suggest that the disease risk 
+variant in this locus is associated with gain of MeCP2 function. Recent findings 
+indicate that MECP2 duplication in human results in defective T helper cell type 
+1 (TH1) response and IFN-γ production. Herein, we discuss the data from children 
+with MECP2 duplication, human lupus, and from the human MECP2 transgenic and 
+Mecp2 deficient mice to support a link between MECP2 overexpression and 
+autoimmunity. We also provide findings from an Mecp2 deficient mouse that 
+independently support a role for MeCP2 in the immune response and specifically 
+in IFN-γ expression.

@@ -1,0 +1,22 @@
+BACKGROUND/AIMS: Stabilization of the hypoxia-inducible factor (HIF-1α) is 
+proposed to provide a protective host-response to C. difficile intoxication. 
+Here, we aimed to elucidate whether nitric oxide and/or reactive oxygen species 
+produced during C. difficile toxin exposure could influence HIF-1α stability and 
+initiate protection against epithelial cell damage.
+METHODS/RESULTS: HIF-1α and inducible nitric oxide synthase (iNOS) proteins were 
+up-regulated whereas factor-inhibiting HIF-1 (FIH-1) protein was down-regulated 
+in Caco-2 epithelial cell monolayers with in vitro toxin exposure. We 
+demonstrate using the biotin-switch assay that the stabilization of HIF-1α 
+protein occurred via iNOS-dependent nitrosylation. Inhibition of iNOS activity 
+by selective inhibitor (1400W) attenuated HIF-1α stabilization and exacerbated 
+toxin-dependent disruptions in Caco-2 monolayer morphology and tight junctional 
+integrity in vitro. Treatment of Caco-2 cell monolayers with N-actylcysteine 
+(NAC), a scavenger of reactive oxygen species (ROS), attenuated toxin-dependent 
+increases in iNOS and HIF-1α protein levels but had no effect on FIH-1 
+responses. In addition, mice that were exposed to C. difficile toxin in vivo 
+also demonstrated a significant increase in HIF-1α protein and nitrosylation 
+levels.
+CONCLUSION: Taken together, these data suggest that important synergistic 
+actions exist between nitric oxide and ROS to stabilize HIF-1α and its innate, 
+protective actions in the context of C. difficile toxin-mediated epithelial 
+injury.

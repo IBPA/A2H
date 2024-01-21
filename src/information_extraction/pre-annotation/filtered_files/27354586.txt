@@ -1,0 +1,19 @@
+BACKGROUND/AIM: Angiogenesis is a known factor for the development of 
+hepatocellular carcinoma (HCC). The aim of this study was to assess the property 
+of iguratimod, that is an anti-inflammatory drug for rheumatoid arthritis, on 
+anti-angiogenesis and anti-carcinogensis for HCC.
+MATERIALS AND METHODS: In vitro, human umbilical vein endothelial cells were 
+cultured under interleukin-8 (IL-8) with or without iguratimod. In vivo, a rat 
+model with HCC received iguratimod or distilled water for 6 weeks. Diameter of 
+the largest tumor, number of tumors and serum interleukin-8 concentration were 
+compared between iguratimod and control groups.
+RESULTS: By an in vitro angiogenesis assay, it was found angiogenesis in 
+iguratimod group was significantly lower than that in control group (p=0.013). 
+In vivo, largest tumor diameter (p=0.036), number of the tumor (p=0.011) and 
+serum interleukin-8 concentration (p=0.036) in the iguratimod group were 
+significantly smaller and lower than those in the control group.
+CONCLUSION: Iguratimod may inhibit hepatocellular carcinogensis by inhibition of 
+interleukin-8 production in a rat model.
+
+Copyright© 2016 International Institute of Anticancer Research (Dr. John G. 
+Delinassios), All rights reserved.

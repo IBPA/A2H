@@ -1,0 +1,32 @@
+Clostridium difficile infection (CDI) arises in the setting of antibiotic 
+administration where disruption of the normal indigenous gut microbiota leads to 
+susceptibility to C. difficile colonization and colitis. Using a murine model of 
+CDI, we demonstrate that changes in the community structure of the indigenous 
+gut microbiota are associated with the loss of colonization resistance against 
+C. difficile. Several antibiotic regimens were tested in combination for the 
+ability to overcome colonization resistance, including a five antibiotic 
+cocktail consisting of kanamycin, gentamicin, colistin, metronidazole, and 
+vancomycin administered in drinking water for three days, a single 
+intraperitoneal dose of clindamycin or 10 days of cefoperazone in drinking 
+water. Following antibiotic treatment animals were challenged with 105 colony 
+forming units of C. difficile strain VPI 10463 via oral gavage. Animals that 
+received the antibiotic cocktail and clindamycin prior to C. difficile challenge 
+followed one of two clinical courses, either becoming clinically ill and 
+moribund within 2-4 days post challenge, or remaining clinically well. Animals 
+that became clinically ill developed histologically severe colitis. These 
+histopathologic findings were significantly less severe in animals that remained 
+clinically well. Analysis of 16S rRNA gene sequences retrieved from gut tissue 
+at necropsy demonstrated that Proteobacteria dominated the gut microbiota in 
+clinically ill animals. In contrast, the gut microbial community of clinically 
+well animals more closely resembled untreated animals, which were dominated by 
+members of the Firmicutes. All animals that received cefoperazone treatment 
+prior to C. difficile challenge were clinically ill and moribund by 2-5 days 
+post challenge in a dose dependent manner. The gut communities in these animals 
+were dominated by C.difficile suggesting that cefoperazone treatment resulted in 
+a greater loss in colonization resistance. Thus, the severity of colitis that 
+arises in this system reflects the interplay between the expansion of C. 
+difficile in the gut community and the ecologic dynamics of the indigenous 
+microbial community as it recovers from antibiotic perturbation. We demonstrate 
+that altering the balance of these two opposing processes alters clinical 
+outcome and thus may lead to novel preventative and therapeutic approaches for 
+CDI.

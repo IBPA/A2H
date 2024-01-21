@@ -1,0 +1,23 @@
+Electrotransfer is a simple and efficient strategy of nonviral gene delivery. We 
+have used this method to deliver plasmids encoding three human tumor necrosis 
+factor-alpha soluble receptor I variants (hTNFR-Is) a monomeric hTNFR-Is, a 
+chimeric hTNFR-Is/mIgG1, and a dimeric (hTNFR-Is)(2) form. Electrotransfer 
+parameters were studied and because anti-TNF strategies have proven efficient 
+for the treatment of rheumatoid arthritis in clinics, we used a collagen-induced 
+arthritis (CIA) mouse model to assess the efficacy of our constructs in the 
+treatment of the disease. All proteins were proven bioactive, both in vitro and 
+ex vivo. Plasmid intramuscular electrotransfer in mice resulted in a local 
+expression of the three variants for at least 6 months; systemic expression 
+lasted also more than 6 months for the hTNFR-Is/mIgG1 form, while it was shorter 
+for the two other forms. This expression was plasmid dose-dependent. 
+Electrotransfer of 50 microg of hTNFR-Is/mIgG1 at the onset of a CIA induced a 
+clear-cut decrease in both clinical and histologic signs of the disease; the 
+dimeric form also showed some efficacy. Moreover, the long-lasting protective 
+effect was observed for more than 5 weeks. Comparison of this electrotransfer 
+approach with repeated recombinant protein (etanercept) injections highlighted 
+the potential practical interest of gene therapy approach for CIA, which leads 
+to sustained therapeutic effect after single treatment. These results show that 
+electrotransfer may be a useful method to deliver cytokine or anticytokine 
+therapy in rheumatoid arthritis and also illustrate the potentiality of plasmid 
+intramuscular electrotransfer for the rapid screening and assessment of 
+different variant forms of secreted proteins.

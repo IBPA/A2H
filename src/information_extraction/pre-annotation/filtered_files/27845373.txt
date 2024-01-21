@@ -1,0 +1,18 @@
+Rheumatoid arthritis (RA) is a severely debilitating chronic autoimmune disease 
+that leads to long-term joint damage. Signal transducer and activator of 
+transcription 3 (STAT3)-targeted small molecules have shown promise as 
+therapeutic drugs for treating RA. We previously identified 
+(E)-2,4-bis(p-hydroxyphenyl)-2-butenal (BHPB), a tyrosine-fructose Maillard 
+reaction product, as a small molecule with potent anti-inflammatory and 
+anti-arthritic properties, mediated through the inhibition of STAT3 activation. 
+The aim of this study was to develop a novel BHPH derivative with improved 
+anti-arthritic properties and drug-likeness. We designed and synthesised 
+(E)-2-methoxy-4-(3-(4-methoxyphenyl) prop-1-en-1-yl) phenol (MMPP), a novel 
+synthetic BHPB analogue, and investigated its anti-inflammatory and 
+anti-arthritic activities in experimentally-induced RA. We showed that MMPP 
+strongly inhibited pro-inflammatory responses by inhibiting in vitro STAT3 
+activation and its downstream signalling in murine macrophages and human 
+synoviocytes from patients with RA. Furthermore, we demonstrated that MMPP 
+exhibited potent anti-arthritic activity in a collagen antibody-induced 
+arthritis (CAIA) mouse model in vivo. Collectively, our results suggest that 
+MMPP has great potential for use in the treatment of RA.

@@ -1,0 +1,18 @@
+A blood group B-specific lectin from the mushroom Marasmius oreades (MOA) was 
+investigated with respect to its molecular structure and carbohydrate binding 
+properties. SDS-PAGE mass spectrometric analysis showed it to consist of an 
+intact (H; 33 kDa) and truncated (L; 23 kDa) subunit in addition to a small 
+polypeptide (P; 10 kDa). Isolation in the presence of EDTA produced only the H 
+subunits, indicating that the latter two are formed by metalloprotease cleavage 
+of the intact H subunit. Tryptic digestion of the H, L, and P polypeptide chains 
+followed by mass spectral analysis supports this view. The lectin strongly 
+precipitated blood group type B substance, was nonreactive with type A 
+substance, and reacted weakly with type H substance. Carbohydrate binding 
+studies reveal a high affinity for Galalpha1,3Gal (but not for the isomeric 
+alpha1,2-, alpha1,4-, and alpha1,6-disaccharides); Galalpha1,3Galbeta1,4GlcNAc; 
+and the type B branched trisaccharide. MOA also reacts strongly with murine 
+laminin from the Engelbreth-Holm-Swarm sarcoma and bovine thyroglobulin, both of 
+which contain multiple Galalpha1,3Galbeta1,4GlcNAc end groups. This linear B 
+trisaccharide is a component of porcine tissues and organs, preventing their 
+transplantation into humans. MOA also shares carbohydrate recognition of this 
+trisaccharide with toxin A elaborated by Clostridium difficile.

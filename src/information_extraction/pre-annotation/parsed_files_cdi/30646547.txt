@@ -1,0 +1,19 @@
+Wounds frequently become infected or contaminated with bacteria. Potassium 
+oleate (C18:1K), a type of fatty acid potassium, caused >4 log colony-forming 
+unit (CFU)/mL reductions in the numbers of Staphylococcus aureus and Escherichia 
+coli within 10 min and a >2 log CFU/mL reduction in the number of Clostridium 
+difficile within 1 min. C18:1K (proportion removed: 90.3%) was significantly 
+more effective at removing Staphylococcus aureus biofilms than the synthetic 
+surfactant detergents sodium lauryl ether sulfate (SLES) (74.8%, p < 0.01) and 
+sodium lauryl sulfate (SLS) (78.0%, p < 0.05). In the WST (water-soluble 
+tetrazolium) assay, mouse fibroblasts (BALB/3T3 clone A31) in C18:1K (relative 
+viability vs. control: 102.8%) demonstrated a significantly higher viability 
+than those in SLES (30.1%) or SLS (18.1%, p < 0.05). In a lactate dehydrogenase 
+(LDH) leakage assay, C18:1K (relative leakage vs. control: 108.9%) was found to 
+be associated with a significantly lower LDH leakage from mouse fibroblasts than 
+SLES or SLS (720.6% and 523.4%, respectively; p < 0.05). Potassium oleate 
+demonstrated bactericidal effects against various species including 
+Staphylococcus aureus, Escherichia coli, Bacillus cereus, and Clostridium 
+difficile; removed significantly greater amounts of Staphylococcus aureus 
+biofilm material than SLES and SLS; and maintained fibroblast viability; 
+therefore, it might be useful for wound cleaning and peri-wound skin.

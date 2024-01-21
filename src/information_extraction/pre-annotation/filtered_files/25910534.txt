@@ -1,0 +1,31 @@
+AIM: Clematis terniflora DC. has been widely used as a traditional Chinese 
+medicine for the treatment of tonsillitis, rheumatoid arthritis, and 
+prostatitis. Despite its widespread use in China, there are currently no studies 
+systematically examined its therapeutic effects and mechanism of action. As 
+such, the present study was conducted to evaluate the anti-inflammatory, 
+antinociceptive, and immunomodulatory effects of C. terniflora DC. using rodent 
+and cellular models.
+METHODS: The anti-inflammatory properties of the 70% ethanol eluted fraction of 
+the 70% ethanol extract of C. terniflora DC. (EECTD) were evaluated using the 
+xylene-induced ear swelling test, the carrageenan-induced edema model, and the 
+cotton pellet granuloma method. Its antinociceptive activities were determined 
+using both the acetic acid-induced writhing test and the hot plate assay. In 
+parallel, we conducted an in vitro assay in LPS-induced RAW264.7 cells to 
+examine the anti-inflammatory effects of EECTD and its purified form, 
+aurantiamide acetate (AA) on inhibition of nitric oxide (NO) and prostaglandin 
+E2 (PGE2) release.
+RESULTS: EECTD (300mg/kg) significantly reduced the number of writhing, extended 
+the pain response latency, and suppressed xylene-induced ear swelling. Each 
+EECTD treatment group also had significant inhibition of cotton granulation 
+formation in addition to reduced carrageenan-induced paw edema. EECTD was also 
+shown to alleviate signs of inflammation in histopathological paw sections. 
+However, it had a less noticeable effect on mouse ear swelling in the delayed 
+type hypersensitivity test. A purified compound was isolated from EECTD and its 
+structure was identified as AA. In vitro experimental results showed that both 
+EECTD and AA were able to significantly inhibit the release of pro-inflammatory 
+cytokines NO and PGE2 on LPS-induced RAW264.7 cells.
+CONCLUSION: These results suggest that EECTD has significant anti-inflammatory 
+and antinociceptive activities, partially related to one of the active 
+substances identified as AA. We hypothesize that these effects are related to 
+its ability to inhibit the production of cytokines NO and PGE2. However, further 
+work will be needed to determine its exact mechanism of action.

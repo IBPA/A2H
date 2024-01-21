@@ -1,0 +1,25 @@
+ETHNOPHARMACOLOGICAL RELEVANCE: The Naja atra (Chinese cobra), primarily 
+distributing in the low or medium altitude areas of southern China and Taiwan, 
+was considered as a medicine in traditional Chinese medicine and used to treat 
+pain, inflammation and arthritis.
+AIM OF THE STUDY: To study the anti-inflammatory and anti-arthritic activities 
+of cobrotoxin (CTX), an active component of the venom from Naja atra.
+MATERIALS AND METHODS: Adjuvant-induced arthritis (AA) rats were used as the 
+animal model of rheumatoid arthritis. The anti-arthritic effects of CTX were 
+evaluated through the arthritis score, paw edema and histopathology changes of 
+joints. The anti-inflammation effects were assayed by the level of IL-6, TNF-α, 
+IL-1β and the number of inflammatory cells in peripheral blood, as well as the 
+proliferation of fibroblast-like synoviocytes (FLS). The immune level was valued 
+by the proliferation of T cells and the level of CD4 and CD8.
+RESULTS: CTX alleviated the disease development of AA rats according to the 
+ameliorating arthritis score, paw edema and histopathology character. At the 
+meanwhile, CTX decreased the levels of IL-6, TNF-α, IL-1β and the numbers of 
+inflammatory cells in peripheral blood. CTX also suppressed the abnormal 
+increasing of CD4+ T cells/ CD8+ T cells ratio, and could significantly inhibit 
+T cell proliferation. Consistent with its effects on inhibiting granuloma's 
+formation, CTX inhibited the proliferation of the cultured FLSs. Further studies 
+on inflammatory signaling in FLSs revealed that CTX could inhibit the NF-κB 
+signaling pathway.
+CONCLUSIONS: CTX has beneficial effects on rheumatoid arthritis by its immune 
+regulation effects and anti-inflammation effects. The inhibition of NF-κB 
+pathway partly contributes to the anti-inflammatory properties of CTX.

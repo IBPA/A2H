@@ -1,0 +1,22 @@
+INTRODUCTION: Tumor necrosis factor-alpha (TNFalpha) participates in many 
+inflammatory processes. TNFalpha modulators show beneficial effects for the 
+treatment of many diseases including rheumatoid arthritis. The purpose of this 
+study was to validate a rat pharmacokinetic/pharmacodynamic (PK/PD) model for 
+rapid assessment of drug candidates that intended to interrupt TNFalpha 
+synthesis or release.
+METHODS: Rats received intravenous (IV) or oral administrations of test article 
+or dose vehicle, followed by LPS challenge. Plasma levels of test article and 
+TNFalpha were determined. The areas under the concentration-time curves 
+(AUC(drug) and AUC(TNFalpha)) were calculated. The overall percentage of 
+inhibition on TNFalpha release in vivo was calculated by comparing AUC(TNFalpha) 
+of the test article treated group against that for the vehicle control group.
+RESULTS: The dosing vehicles tested in this study did not increase plasma 
+TNFalpha level. At IV dose of up to 100 microg/kg, LPS did not alter the 
+pharmacokinetics of the compound tested. Using a selective TNFalpha converting 
+enzyme (TACE) inhibitor as model compound, this PK/PD model demonstrated its 
+ability to correlate plasma test article concentration with its biological 
+activity of lowering the LPS-induced TNFalpha plasma levels in vivo.
+DISCUSSION: A rat PK/PD model for evaluation of the effect of drug candidates on 
+LPS-induced TNFalpha synthesis and/or release has been investigated. This model 
+provides integrated information on pharmacokinetics and in vivo potency of the 
+test articles.

@@ -1,0 +1,24 @@
+OBJECTIVE: Increased numbers of mast cells (MCs) that express beta tryptases 
+bound to heparin have been detected in the synovium of patients with rheumatoid 
+arthritis (RA). The corresponding tryptases in mice are mouse MC protease 6 
+(mMCP-6) and mMCP-7. Although MCs have been implicated in RA and some animal 
+models of arthritis, no direct evidence for a MC-restricted tryptase in the 
+pathogenesis of inflammatory arthritis has been shown. We created transgenic 
+mice that lack heparin and different combinations of mMCP-6 and mMCP-7, to 
+evaluate the roles of MC-restricted tryptase-heparin complexes in an 
+experimental model of arthritis.
+METHODS: The methylated bovine serum albumin/interleukin-1beta (mBSA/IL-1beta) 
+experimental protocol was used to induce inflammatory monarthritis in different 
+mouse strains. Mice were killed at the time of peak disease on day 7, and 
+histochemical methods were used to assess joint pathology.
+RESULTS: Arthritis was induced in the knee joints of mBSA/IL-1beta-treated 
+mMCP-6(+)/mMCP-7(-) and mMCP-6(-)/mMCP-7(+) C57BL/6 mice, and numerous activated 
+MCs that had exocytosed the contents of their secretory granules were observed 
+in the diseased mice. In contrast, arthritis was markedly reduced in 
+heparin-deficient mice and in mMCP-6(-)/mMCP-7(-) C57BL/6 mice.
+CONCLUSION: MC-derived tryptase-heparin complexes play important roles in 
+mBSA/IL-1beta-induced arthritis. Because mMCP-6 and mMCP-7 can compensate for 
+each other in this disease model, the elimination of both tryptases is necessary 
+to reveal the prominent roles of these serine proteases in joint inflammation 
+and destruction. Our data suggest that the inhibition of MC-restricted tryptases 
+could have therapeutic potential in the treatment of RA.

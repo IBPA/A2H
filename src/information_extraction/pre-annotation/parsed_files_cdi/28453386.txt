@@ -1,0 +1,13 @@
+Clostridium difficile infection (CDI) is one of the most common causes of 
+healthcare-associated infections but an even bigger problem for the aging 
+population. Advanced age leads to higher incidence, higher mortality, and higher 
+recurrences. In our study, recently published in the Journal of Infectious 
+Diseases, we investigated the effect of aging on CDI using a mouse model. We 
+were able to demonstrate that aging leads to worse clinical outcomes, as well as 
+lead to changes in microbiota composition and lower antibody production against 
+C. difficile toxin A, but not toxin B. An association between advanced age and 
+lower antibody production against C. difficile is a new finding which would 
+explain the effect of aging on CDI outcome. Vancomycin, an anti-C. difficile 
+antibiotic, led to similar changes in antibody response, suggesting a connection 
+between microbiome and antibody response in the context of aging, which would 
+require a much more nuanced look at the treatment of CDI.

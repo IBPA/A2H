@@ -1,0 +1,23 @@
+OBJECTIVES: Early and rapid identification of Clostridium difficile infections 
+(CDI) is important to prevent transmission. In this study we assessed the 
+diagnostic accuracy of a trained detection dog for detecting CDI cases on 
+hospital wards in an outbreak setting.
+METHODS: During a CDI outbreak in a large Dutch university hospital, we screened 
+affected hospital wards repeatedly with a trained detection dog. The dog's 
+response was compared to the clinical diagnosis, supported by laboratory 
+results.
+RESULTS: During a total of 9 hospital visits, the dog performed 651 screenings 
+involving 371 participants. The dog correctly identified 12 out of 14 CDI cases 
+[sensitivity 86% (95% confidence interval (CI): 56-97%)] and 346 out of 357 CDI 
+negative participants [specificity of 97% (95% CI: 94-98%)]. Interestingly, of 
+the 11 CDI negative participants that were 'falsely' indicated by the dog as 
+positive, 2 (18%) did actually developed CDI during the 3 months of follow-up 
+after the detection period; compared to only 12 of the 346 participants (3.5%) 
+that the dog identified as C. difficile negative (p = 0.06).
+CONCLUSION: A trained detection dog can accurately detect CDI in hospitalized 
+patients during an outbreak. A (repeated) positive dog response is a strong 
+indication of a CDI episode coming, be it the next day or possibly up to a 
+month.
+
+Copyright © 2014 The British Infection Association. Published by Elsevier Ltd. 
+All rights reserved.

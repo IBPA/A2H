@@ -1,0 +1,19 @@
+The interplay between dendritic cells (DC) and T cells is a dynamic process 
+critically depending on DC maturation. Ca(2+) influx is one of the initial 
+events occurring during DC/T cell contacts. To determine how DC maturation 
+influences DC/T cell contacts, time-lapse video microscopy was established using 
+TCR-transgenic CD8(+) T cells from P14 mice. DC maturation shifted DC/T cell 
+contacts from short-lived interactions with transient Ca(2+) influx in T cells 
+to long-lasting interactions and sustained Ca(2+) influx of 30 min and more. 
+Follow-up of DC/T cell interactions after 2 h using confocal microscopy revealed 
+that long-lasting Ca(2+) responses in T cells were preferentially associated 
+with the formation of an immunological synapse involving CD54 and H2-K(b) at the 
+DC/T cell interface. Such synapse formation preceded MHC or B7 up-regulation, 
+since DC developed into potent Ca(2+) stimulators 7 h after initiation of 
+maturation. Instead, the enhanced capacity of 7 h-matured DC to induce sustained 
+Ca(2+) responses in CD8(+) T cells is critically dependent on the polarization 
+and rearrangement of the cytoskeleton, as shown by Clostridium difficile toxin B 
+inhibitor experiments. These data indicate that already very early after 
+receiving a maturation stimulus, DC display enhanced cytoskeletal activity 
+resulting in the rapid formation of immunological synapses and effective CD8(+) 
+T cell stimulation.

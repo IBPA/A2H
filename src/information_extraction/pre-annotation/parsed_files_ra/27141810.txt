@@ -1,0 +1,19 @@
+OBJECTIVES: The early diagnosis and treatment of rheumatoid arthritis (RA) is 
+important to reduce joint destruction. Many of the current imaging techniques 
+have disadvantages, such as the need for contrast agents and interpretation by 
+specialists. Fluorescence imaging is an emerging technique that overcomes some 
+of these problems. The aim of this study was to determine whether near-infrared 
+(NIR) fluorescence imaging of indocyanine green (ICG)-lactosomes can detect 
+joint inflammation in a mouse model of RA.
+METHODS: Control and arthritic SKG/Jcl mice were injected with ICG alone or 
+ICG-lactosomes and examined by NIR fluorescence imaging. Arthritis severity was 
+assessed macroscopically and histopathologically.
+RESULTS: ICG fluorescence was detected in the liver soon after injection and 
+then decreased over the next several hours. ICG was not detected in the joints 
+of control or arthritic mice. In contrast, ICG-lactosomes remained in mice for 
+at least 48 h and accumulated specifically at inflamed joints. ICG-lactosome 
+fluorescence was higher in arthritic versus normal joints at all times examined 
+and was maximal at 24 h after injection.
+CONCLUSIONS: NIR fluorescence imaging of ICG-lactosomes detects arthritic joints 
+in a mouse model of RA. ICG-lactosomes may preferentially localize to inflamed 
+joints via enhanced permeability and retention.

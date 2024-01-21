@@ -1,0 +1,19 @@
+The purpose of this study was to characterize the surface receptor for toxin A, 
+the enterotoxin from Clostridium difficile, on rabbit intestinal brush borders 
+(BB) and on rat basophilic leukemia (RBL) cells. Purified toxin A was 
+radiolabeled using a modified Bolton-Hunter method to sp act 2 
+microCi/micrograms, with retention of full biologic activity. 3H-Toxin A bound 
+specifically to a single class of receptors on rabbit BB and on RBL cells with 
+dissociation constants of 5.4 x 10(-8) and 3.5 x 10(-8) M, respectively. RBL 
+cells were highly sensitive to toxin A (cell rounding) and had 180,000 specific 
+binding sites per cell, whereas IMR-90 fibroblasts were far less sensitive to 
+toxin A and lacked detectable specific binding sites. Exposure of BB to trypsin 
+or chymotrypsin significantly reduced 3H-toxin A specific binding. Preincubation 
+of BB with Bandeirea simplicifolia (BS-1) lectin also reduced specific binding, 
+and CHAPS-solubilized receptors could be immobilized with WGA-agarose. The 
+addition of 100 nM toxin A accelerated the association of 35S-GTP gamma S with 
+rabbit ileal BB, and preincubation of BB with the GTP analogues GTP gamma S or 
+Gpp(NH)p, significantly reduced 3H-toxin A specific binding. Our data indicate 
+that the membrane receptor for toxin A is a galactose and 
+N-acetyl-glucosamine-containing glycoprotein which appears to be coupled to a G 
+protein.

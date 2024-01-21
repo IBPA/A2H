@@ -1,0 +1,19 @@
+Synovial angiogenesis plays an important role in the inflammation in rheumatoid 
+arthritis (RA). Vascular endothelial growth factor (VEGF) is a key molecule in 
+angiogenesis and binds to specific receptors, known as vascular endothelial 
+growth factor receptor I (VEGF RI). In this study, we investigated the 
+therapeutic efficacy of anti-VEGF RI antibody (Ab) on RA using a 
+collagen-induced arthritis (CIA) mouse model. Twelve DBA/1 mice were divided 
+into three groups. All mice except controls were injected with type II collagen. 
+Mice in the anti-VEGF-RI-Ab-treated groups were injected on one posterior paw 
+with 50 microg anti-VEGF RI Ab twice weekly for 3 weeks. Arthritis score and paw 
+thickness were measured and histopathologic assessment of joint sections was 
+performed by hematoxylin-eosin. The infiltration of CD45+ inflammatory cells and 
+neovascularization were evaluated by immunohistochemical staining. Anti-VEGF RI 
+Ab significantly attenuated the arthritis severity and histopathologic findings 
+in the CIA mice model. The infiltration of CD45+ cells decreased in 
+anti-VEGF-RI-Ab-treated joint tissues. Staining for CD31 revealed reduced 
+synovial neovascularization after anti-VEGF RI Ab treatment. The data showing 
+that in vivo administration of anti-VEGF RI Ab suppressed arthritis in 
+established CIA mice suggest anti-VEGF RI Ab treatment may serve as a new 
+therapeutic modality for RA.

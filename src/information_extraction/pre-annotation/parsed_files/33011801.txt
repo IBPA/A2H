@@ -1,0 +1,11 @@
+Clostridioides difficile infection (CDI) represents a significant burden on the 
+health care system, one that is exacerbated by the emergence of binary toxin 
+(CDT)-producing hypervirulent C. difficile strains. Previous work from our lab 
+has shown that TLR2 recognizes CDT to induce inflammation. Here we explore the 
+interactions of CDT with TLR2 and the impact on host immunity during CDI. We 
+found that the TLR2/6 heterodimer, not TLR2/1, is responsible for CDT 
+recognition, and that gene pathways including NF-κB and MAPK downstream of 
+TLR2/6 are upregulated in mice with intact TLR2/6 signaling during CDI.
+
+© The Author(s) 2020. Published by Oxford University Press for the Infectious 
+Diseases Society of America.

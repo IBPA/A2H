@@ -1,0 +1,21 @@
+The aim of this study was to examine the therapeutic potential of sulfasalazine 
+and prednisolone in a mouse collagen antibody-induced arthritis (CAIA) model. 
+Twenty-five male BALB/c mice were randomly divided into five groups: group 1 
+(G1): control, group 2 (G2): probe control, group 3 (G3): CAIA, group 4 (G4): 
+CAIA+sulfasalazine (10 mg/kg, oral), and group 5 (G5): CAIA+prednisolone (100 
+mg/kg, oral). Fluorescence bioimaging was performed in vivo 24 and 48 h after 
+treatment with a fluorescence probe (OsteoSense® 680 EX), and all mice were 
+sacrificed. The hind knee joints were fixed in 10% neutral phosphate-buffered 
+formalin, and micro-computed tomography (micro-CT) and histopathological 
+analyses were performed. The paw thickness increased in a time-dependent manner 
+in G3 mice, but trended toward a decrease in both G4 and G5 mice. Fluorescence 
+intensity increased in G3 mice at 24 and 48 h after fluorescence probe 
+treatment, but the fluorescence intensity in G4 and G5 mice was lower than that 
+in G3. Micro-CT analyses showed that the joint surfaces of G3 mice had a rough 
+and irregular articular appearance, but the occurrence of these irregularities 
+was lower in G4 and G5. Hematoxylin and eosin and Safranin O-fast green staining 
+confirmed that destruction of the cartilage and bony structures, synovial 
+hyperplasia, and inflammatory cell infiltration all occurred in G3, and that the 
+occurrence of these phenomena was lower in G4 and G5 than in G3. Taken together, 
+these results suggest that sulfasalazine and prednisolone can reduce acute 
+rheumatoid arthritis in mice.

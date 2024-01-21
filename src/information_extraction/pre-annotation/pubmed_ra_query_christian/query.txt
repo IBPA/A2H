@@ -1,0 +1,1 @@
+rheumatoid arthritis [tiab] AND (mouse [tiab] OR rat [tiab] OR pig [tiab] or monkey [tiab] or dog [tiab])

@@ -1,0 +1,17 @@
+As the major cause of antibiotic-associated diarrhea, Clostridium difficile is a 
+serious problem in health care facilities worldwide. C. difficile produces two 
+large toxins, TcdA and TcdB, which are the primary virulence factors in disease. 
+The respective functions of these toxins have been difficult to discern, in part 
+because the cytotoxicity profiles for these toxins differ with concentration and 
+cell type. The goal of this study was to develop a cell culture model that would 
+allow a side-by-side mechanistic comparison of the toxins. Conditionally 
+immortalized, young adult mouse colonic (YAMC) epithelial cells demonstrate an 
+exquisite sensitivity to both toxins with phenotypes that agree with 
+observations in tissue explants. TcdA intoxication results in an apoptotic cell 
+death that is dependent on the glucosyltransferase activity of the toxin. In 
+contrast, TcdB has a bimodal mechanism; it induces apoptosis in a 
+glucosyltransferase-dependent manner at lower concentrations and 
+glucosyltransferase-independent necrotic death at higher concentrations. The 
+direct comparison of the responses to TcdA and TcdB in cells and colonic 
+explants provides the opportunity to unify a large body of observations made by 
+many independent investigators.

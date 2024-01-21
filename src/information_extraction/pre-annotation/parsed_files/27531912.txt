@@ -1,0 +1,31 @@
+Clostridium difficile infection (CDI) is responsible for most of the definable 
+cases of antibiotic- and hospital-associated diarrhea worldwide and is a 
+frequent cause of morbidity and mortality in older patients. C. difficile, a 
+multidrug-resistant anaerobic pathogen, causes disease by producing toxins A and 
+B, which are controlled by an accessory gene regulator (Agr) quorum signaling 
+system. Some C. difficile strains encode two Agr loci in their genomes, 
+designated agr1 and agr2 The agr1 locus is present in all of the C. difficile 
+strains sequenced to date, whereas the agr2 locus is present in a few strains. 
+The functional roles of agr1 and agr2 in C. difficile toxin regulation and 
+pathogenesis were unknown until now. Using allelic exchange, we deleted 
+components of both agr loci and examined the mutants for toxin production and 
+virulence. The results showed that the agr1 mutant cannot produce toxins A and 
+B; toxin production can be restored by complementation with wild-type agr1 
+Furthermore, the agr1 mutant is able to colonize but unable to cause disease in 
+a murine CDI model. These findings have profound implications for CDI treatment 
+because we have uncovered a promising therapeutic target for the development of 
+nonantibiotic drugs to treat this life-threatening emerging pathogen by 
+targeting the toxins directly responsible for disease.
+IMPORTANCE: Within the last decade, the number of cases of C. difficile 
+infections has been increasing exponentially in the United States, resulting in 
+about 4.8 billion U.S. dollars in health care costs annually. As a 
+multidrug-resistant, spore-forming, anaerobic pathogen, C. difficile 
+overpopulates the colon after the gut microbiota has been altered by antibiotic 
+therapy. With increasing resistance to antibiotic treatment of C. difficile 
+infections, patients are experiencing higher costs of health care and a lower 
+quality of life as treatment options decrease. During infection, C. difficile 
+produces toxins A and B, which directly cause disease. As a result, the toxins 
+have become promising nonantibiotic treatment targets. Here, we have identified 
+a pathway responsible for activating the production of the toxins. This 
+important finding opens up a unique therapeutic target for the development of a 
+novel nonantibiotic therapy for C. difficile infections.

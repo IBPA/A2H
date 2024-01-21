@@ -1,0 +1,24 @@
+Periodontitis has been associated with rheumatoid arthritis. In experimental 
+arthritis, concomitant periodontitis caused by oral infection with Porphyromonas 
+gingivalis enhances articular bone loss. The aim of this study was to 
+investigate how lipopolysaccharide (LPS) from P. gingivalis stimulates bone 
+resorption. The effects by LPS P. gingivalis and four other TLR2 ligands on bone 
+resorption, osteoclast formation, and gene expression in wild type and 
+Tlr2-deficient mice were assessed in ex vivo cultures of mouse parietal bones 
+and in an in vivo model in which TLR2 agonists were injected subcutaneously over 
+the skull bones. LPS P. gingivalis stimulated mineral release and matrix 
+degradation in the parietal bone organ cultures by increasing differentiation 
+and formation of mature osteoclasts, a response dependent on increased RANKL 
+(receptor activator of NF-κB ligand). LPS P. gingivalis stimulated RANKL in 
+parietal osteoblasts dependent on the presence of TLR2 and through a MyD88 and 
+NF-κB-mediated mechanism. Similarly, the TLR2 agonists HKLM, FSL1, Pam2, and 
+Pam3 stimulated RANKL in osteoblasts and parietal bone resorption. LPS P. 
+gingivalis and Pam2 robustly enhanced osteoclast formation in 
+periosteal/endosteal cell cultures by increasing RANKL. LPS P. gingivalis and 
+Pam2 also up-regulated RANKL and osteoclastic genes in vivo, resulting in an 
+increased number of periosteal osteoclasts and immense bone loss in wild type 
+mice but not in Tlr2-deficient mice. These data demonstrate that LPS P. 
+gingivalis stimulates periosteal osteoclast formation and bone resorption by 
+stimulating RANKL in osteoblasts via TLR2. This effect might be important for 
+periodontal bone loss and for the enhanced bone loss seen in rheumatoid 
+arthritis patients with concomitant periodontal disease.

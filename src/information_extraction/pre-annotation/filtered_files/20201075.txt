@@ -1,0 +1,30 @@
+OBJECTIVE: The multikinase inhibitor META060 has been shown to inhibit NF-kappaB 
+activation and expression of markers of inflammation. This study was undertaken 
+to investigate the effect of META060 on biomarkers associated with bone and 
+cartilage degradation in vitro and its antiinflammatory efficacy in vivo in both 
+acute and chronic inflammation models.
+METHODS: Glycogen synthase kinase 3beta (GSK3beta)-dependent beta-catenin 
+phosphorylation was evaluated in RAW 264.7 macrophages to assess kinase 
+inhibition. The inhibition of osteoclastogenesis and tartrate-resistant acid 
+phosphatase (TRAP) activity was evaluated in RANKL-treated RAW 264.7 cells. The 
+inhibition of interleukin-1beta (IL-1beta)-mediated markers of inflammation was 
+analyzed in human rheumatoid arthritis synovial fibroblasts (RASFs). Mice with 
+carrageenan-induced acute inflammation and collagen-induced arthritis (CIA) were 
+used to assess efficacy.
+RESULTS: META060 inhibited the activity of kinases (spleen tyrosine kinase 
+[Syk], Bruton's tyrosine kinase [Btk], phosphatidylinositol 3-kinase [PI 
+3-kinase], and GSK3) associated with RA and inhibited beta-catenin 
+phosphorylation. META060 inhibited osteoclastogenesis, as indicated by decreased 
+transformation of RAW 264.7 cells to osteoclasts and reduced TRAP activity, and 
+inhibited IL-1beta-activated prostaglandin E(2), matrix metalloproteinase 3, 
+IL-6, IL-8, and monocyte chemotactic protein 1 in RASFs. In mice with acute 
+inflammation, oral administration of META060 reduced paw swelling similar to the 
+effect of aspirin. In mice with CIA, META060 significantly reduced the arthritis 
+index and decreased bone, joint, and cartilage degradation. Serum IL-6 
+concentrations in these mice were inhibited in a dose-dependent manner.
+CONCLUSION: Our findings indicate that META060 reduces swelling in a model of 
+acute inflammation and inhibits bone and cartilage destruction in a model of 
+chronic inflammation. Its efficacy is associated with the inhibition of multiple 
+protein kinases, including Syk, Btk, PI 3-kinase, and GSK3. These results 
+warrant further clinical testing of META060 for its therapeutic potential in the 
+treatment of inflammatory diseases.

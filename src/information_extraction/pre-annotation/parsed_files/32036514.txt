@@ -1,0 +1,22 @@
+BACKGROUND: Clostridium difficile infection (CDI) is one of the most common 
+hospital-acquired infections and is associated with significant morbidity and 
+mortality. Since owning a cat or dog could enrich the gut microbiome, we 
+hypothesized that it would be protective against CDI.
+AIMS: We conducted a survey study on patients tested for CDI in order to assess 
+whether living in the presence of a pet is associated with a decreased risk of 
+CDI.
+METHODS: We surveyed subjects aged 18-90 over a 14-month period using a 
+retrospective case-control design. Subjects with CDI were matched by gender and 
+age to patients who tested negative and had no prior history of CDI. A web-based 
+survey was provided to subjects by mail or assisted by phone. Conditional 
+logistic regression was used to assess for associations between CDI and the 
+various risk factors.
+RESULTS: 205 CDI positive and 205 CDI negative subjects (response rate of 50.2%) 
+were included. After matching for age and sex, living with a cat or dog was not 
+associated with negative CDI testing. Exploratory multivariable modeling 
+identified an unexpected association between positive CDI testing and high meat 
+intake (OR 2.13, 95% CI 1.21-3.77) as well as between positive CDI testing and 
+cat allergies (OR 1.88, 95% CI 1.02-3.46).
+CONCLUSION: Living with a cat or dog was not associated with negative CDI 
+testing. Several novel risk factors for CDI have been identified including high 
+meat intake and cat allergies.

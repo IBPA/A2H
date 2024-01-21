@@ -1,0 +1,26 @@
+OBJECTIVE: The use of glucocorticoids (GCs) in rheumatoid arthritis is limited 
+by side effects related to unfavorable pharmacokinetics and biodistribution. 
+Liposomal GC formulations have been studied since the 1970s in an attempt to 
+overcome this obstacle, but none has entered clinical use. We undertook this 
+study to determine whether a novel approach could overcome the limitations that 
+have thus far prevented the clinical use of these formulations: low drug:lipid 
+ratio, low encapsulation efficiency, and lack of controlled release.
+METHODS: We used approximately 80-nm sterically stabilized (pegylated) 
+nanoliposomes (NSSLs), which were remote-loaded with an amphipathic weak acid GC 
+(such as methyl prednisolone hemisuccinate) utilizing an intraliposome (aqueous 
+compartment)-high/extraliposome (bulk medium)-low transmembrane calcium acetate 
+gradient. This unique method actually "traps" the GC in the liposomal aqueous 
+phase as a calcium-GC precipitate.
+RESULTS: Our liposome formulation exhibited high encapsulation efficiency (94%) 
+and a high drug:lipid mole ratio (0.41) and demonstrated controlled release of 
+the encapsulated GC during systemic circulation and in inflamed paws in rats 
+with adjuvant-induced arthritis. In addition, both in arthritic rats and in a 
+Beagle dog, we showed the pharmacokinetic advantage of using liposomes as GC 
+carriers. Finally, we demonstrated the superior therapeutic efficacy of our 
+liposome formulation over that of free GCs in arthritic rats, both in early and 
+in peak disease stages.
+CONCLUSION: Amphipathic weak acid GCs remote-loaded into approximately 80-nm 
+NSSLs overcome past limitations of liposomal GC formulations. The unique loading 
+method, which also leads to controlled release, improves the therapeutic effect 
+both systemically and locally. Such a development has great potential for 
+improving GC therapy.

@@ -1,0 +1,25 @@
+Levetiracetam (LEV), a novel anti-epileptic drug that has been demonstrated with 
+an anti-inflammatory effect, but the exact mechanisms of its action remain to be 
+fully defined. The present study aimed to evaluate the possible effects of LEV 
+on lipopolysaccharides (LPS)-induced Janus kinase-signal transducers and 
+activators of transcription (JAK/STAT) as well as toll-like receptor 4 (TLR4)/ 
+mitogen activated protein kinase (MAPK) signaling pathways activation in 
+adjuvant induced arthritis (AIA). Rats were allocated into normal control, three 
+arthritic control groups: Complete Freund's Adjuvant (CFA) 
+(0.4 ml/3days/12days), LPS (100 µg/kg/day), CFA+LPS, and three treated groups: 
+CFA+LEV, LPS+LEV and CFA+LPS+LEV. LEV was administered in a dose 50 mg/kg/day 
+for 15 day. After 28 days, tissue samples were collected for assessment of 
+phosphorylated JAK2, STAT3, TLR4, MAPK and cathepsin K quantitative expression 
+in synovium. Additionally, Serum samples were used for biochemical evaluation of 
+interleukin-6 (IL-6), interleukin-1beta (IL-1B), LPS, anti-citrullinated protein 
+antibody (ACPA) and 8-hydroxydeoxyguanosine (8-OHdG). Histopathological and 
+macroscopical examinations of joints were also performed to support our study. 
+Results indicated that LEV exerted its anti-inflammatory effect through 
+inhibiting LPS-dependent phosphorylation of JAK2/STAT3 signaling. It 
+significantly suppressed TLR4 and MAPK expressions, thereby decreasing release 
+of inflammatory cytokines IL-1β, IL-6.LEV exhibited a potent inhibitory effect 
+on cathepsin K and 8-OHdG parallel to confirmatory histopathological and 
+macroscopical findings. In conclusion, LEV has a powerful therapeutic effect on 
+adjuvant induced arthritis in rats and its mechanisms are strongly related to 
+inhibiting excessive activation of JAK2-STAT3 and TLR4 pathways. This may add a 
+new approach for treatment of RA.

@@ -1,0 +1,18 @@
+Heat-shock proteins (Hsps) have been invoked in the pathogenesis of a variety of 
+autoimmune diseases. The mycobacterial heat-shock protein 65 (Bhsp65) has been 
+studied extensively as one of the antigenic triggers of autoimmunity in 
+experimental models of, as well as patients with, rheumatoid arthritis. As Hsps 
+are highly conserved and immunogenic, it is generally anticipated that self Hsps 
+might serve as the endogenous targets of the immune response initiated by the 
+homologous foreign Hsps. Contrary to this expectation, studies in the rat 
+adjuvant arthritis (AA) model have revealed that priming of the self (rat) hsp65 
+(Rhsp65)-directed T cells in the Lewis rat leads to protection against AA 
+instead of disease induction or aggravation. The arthritis-protective attribute 
+of the self hsp65 is also evident following spontaneous priming of the 
+anti-Rhsp65 T cells during the natural course of AA. Furthermore, immunization 
+of rats with human hsp60, or with Bhsp65 peptides that are crossreactive with 
+the corresponding self hsp65 peptides, leads to protection against AA. 
+Importantly, high levels of T cell reactivity against self hsp60 in patients 
+with juvenile idiopathic arthritis positively correlate with a favorable outcome 
+of the disease. Thus, immune response against self hsp65 in autoimmune arthritis 
+is protective rather than being pathogenic.

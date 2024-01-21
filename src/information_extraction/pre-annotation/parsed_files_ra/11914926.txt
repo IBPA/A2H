@@ -1,0 +1,21 @@
+Rheumatoid arthritis (RA) is a systemic disorder characterized by synovial 
+inflammation and subsequent destruction and deformity of synovial joints. The 
+articular lesions start with synovitis, focal erosion of unmineralized 
+cartilage, and then culminate in the destruction of subarticular bone by pannus 
+tissue. Periarticular osteopenia and systemic osteoporosis follow as late 
+complications of RA. Osteoclasts, specialized cells that resorb bone, play a 
+central role in developing these osteolytic lesions. To elucidate the mechanism 
+of osteoclastogenesis and bone destruction in autoimmune arthritis, we 
+investigated the expression of RANK ligand (RANKL), RANK, and osteoprotegerin 
+(OPG) mRNA in a mouse type II collagen-induced arthritis (CIA) model by in situ 
+hybridization. The results indicated that most of the TRAP-positive mono- and 
+multinucleated cells in the inflamed and proliferating synovium and in the 
+pannus were RANK-positive authentic osteoclasts and their precursors. In the 
+inflamed synovium and pannus of the mouse CIA model, synovial fibroblastic cells 
+around these RANK-positive cells were strongly positive for RANKL. Moreover, 
+RANKL-positive osteoblasts on the endosteal bone surface, at a distance from the 
+affected synovial joints, increased significantly in the mouse CIA model prior 
+to periarticular osteopenia and systemic osteoporosis. These data indicated that 
+the RANKL-RANK system plays an important role for osteoclastogenesis in both 
+local and systemic osteolytic lesions in autoimmune arthritis, and can therefore 
+be a good target for therapeutic intervention.

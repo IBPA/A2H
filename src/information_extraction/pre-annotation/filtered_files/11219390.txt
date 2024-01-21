@@ -1,0 +1,67 @@
+AIMS: PTEN is a novel tumour suppressor which exhibits tyrosine phosphatase 
+activity as well as homology to the cytoskeletal proteins tensin and auxilin. 
+Mutations of PTEN have been described in several human cancers and associated 
+their invasiveness and metastatic properties. Although not malignant, rheumatoid 
+arthritis synovial fibroblasts (RA-SF) exhibit certain tumour-like features such 
+as attachment to cartilage and invasive growth. In the present study, we 
+analyzed whether mutant transcripts of PTEN were present in RA-SF. In addition, 
+we used in situ hybridization to study the expression of PTEN messenger (m)RNA 
+in tissue samples of RA and normal individuals as well as in cultured RA-SF and 
+in the severe combined immunodeficiency (SCID) mouse model of RA. Synovial 
+tissue specimens were obtained from seven patients with RA and from two 
+nonarthritic individuals. Total RNA was isolated from synovial fibroblasts and 
+after first strand complementary (c)DNA synthesis, polymerase chain reaction 
+(PCR) was performed to amplify a 1063 base pair PTEN fragment that encompassed 
+the coding sequence of PTEN including the phosphatase domain and all mutation 
+sites described so far. The PCR products were subcloned in Escherichia coli, and 
+up to four clones were picked from each plate for automated sequencing. For in 
+situ hybridization, digoxigenin-labelled PTEN-specific RNA probes were generated 
+by in vitro transcription. For control in situ hybridization, a matrix 
+metalloproteinase (MMP)-2-specific probe was prepared. To investigate the 
+expression of PTEN in the absence of human macrophage or lymphocyte derived 
+factors, we implanted RA-SF from three patients together with normal human 
+cartilage under the renal capsule of SCID mice. After 60 days, mice were 
+sacrificed, the implants removed and embedded into paraffin.
+RESULTS: PCR revealed the presence of the expected 1063 base pair PTEN fragment 
+in all (9/9) cell cultures (Fig.1). No additional bands that could account for 
+mutant PTEN variants were detected. Sequence analysis revealed 100% homology of 
+all RA-derived PTEN fragments to those from normal SF as well as to the 
+published GenBank sequence (accession number U93051). However, in situ 
+hybridization demonstrated considerable differences in the expression of PTEN 
+mRNA within the lining and the sublining layers of RA synovial membranes. As 
+shown in Figure 2a, no staining was observed within the lining layer which has 
+been demonstrated to mediate degradation of cartilage and bone in RA. In 
+contrast, abundant expression of PTEN mRNA was found in the sublining of all RA 
+synovial tissues (Figs 2a and b). Normal synovial specimens showed homogeneous 
+staining fo PTEN within the thin synovial membrane (Fig. 2c). In situ 
+hybridization using the sense probe gave no specific staining (Fig. 2d). We also 
+performed in situ hybridization on four of the seven cultured RA-SF and followed 
+one cell line from the first to the sixth passage. Interestingly, only 40% of 
+cultured RA-SF expressed PTEN mRNA (Fig. 3A), and the proportion of PTEN 
+expressing cells did not change throughout the passages. In contrast, control 
+experiments using a specific RNA probe fo MMP-2 revealed mRNA expression by 
+nearly all cultured cells (Fig. 3B). As seen before, implantation of RA-SF into 
+the SCID mice showed considerable cartilage degradation. Interestingly, only 
+negligible PTEN expression was found in those RA-SF aggressively invading the 
+cartilage (Fig. 3c). In situ hybridization for MMP-2 showed abundant staining in 
+these cells (Fig. 3d).
+DISCUSSION: Although this study found no evidence for mutations of PTEN in RA 
+synovium, the observation that PTEN expression is lacking in the lining layer of 
+RA synovium as well as in more that half of cultured RA-SF is of interest. It 
+suggests that loss of PTEN function may not exclusively be caused by genetic 
+alterations, yet at the same time links the low expression of PTEN to a 
+phenotype of cells that have been shown to invade cartilage aggressively. It has 
+been proposed that the tyrosine phosphatase activity of counteracting th actions 
+o protein tyrosine kinases. As some studies have demonstrated an upregulation of 
+tyrosine kinase activity in RA synovial cells, it might be speculated that the 
+lack of PTEN expression in aggressive RA-SF contributes to the imbalance of 
+tyrosine kinases and phosphatases in this disease. However, the extensive 
+amino-terminal homology of the predicted protein to the cytoskeletal proteins 
+tensin and auxilin suggests a complex regulatory function involving cellular 
+adhesion molecules and phosphatase-mediated signalling. The tyrosine phosphatase 
+TEP1 has been shown to be identical to the protein encoded by PTEN, and gene 
+transcription of TEP1 has been demonstrated to be downregulated by transforming 
+growth factor (TGF)-beta. Therefore, it could be hypothesized that TGF-beta 
+might be responsible for the downregulation of PTEN. Low expression of PTEN may 
+belong to the features that distinguish between the activated phenotype of RA-SF 
+and the sublining, proliferating but nondestructive cells.

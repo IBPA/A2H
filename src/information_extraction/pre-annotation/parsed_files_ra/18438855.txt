@@ -1,0 +1,29 @@
+OBJECTIVE: The antigen-presenting lectin-like receptor complex (APLEC) was 
+recently identified as a genetic determinant for arthritis susceptibility. We 
+undertook this study to define mechanisms underlying the impact of APLEC on 
+arthritis, to determine whether sex effects occur, and to determine whether 
+APLEC influences different types of arthritis and phenotypes other than 
+susceptibility.
+METHODS: Arthritis-susceptible DA rats were compared with sex-matched congenic 
+rats in which APLEC alleles were substituted with alleles from 
+arthritis-resistant PVG rats. Six different arthritogenic agents were injected 
+at the base of the tail: Freund's incomplete adjuvant, pristane, squalene, 
+killed mycobacteria, yeast beta-glucan, or rat type II collagen (CII). Arthritis 
+was visually scored, body weight was measured, and anti-CII IgG and cytokine 
+messenger RNA (mRNA) levels were determined by enzyme-linked immunosorbent assay 
+and reverse transcription-polymerase chain reaction, respectively.
+RESULTS: In 5 models of rheumatoid arthritis (RA), congenic rats deviated 
+profoundly from DA rats by having reduced arthritis susceptibility, delayed 
+onset, decreased severity, and/or reduced body weight loss. Paradoxical opposite 
+genetic effects were noted, including a more severe disease course in congenic 
+males in pristane-induced arthritis and decreased clinical signs in 
+collagen-induced arthritis despite increased autoantibody levels. Interestingly, 
+the anti-CII IgG isotype profile was skewed in congenic rats, and markedly 
+reduced lymph node mRNA levels for interleukin-17 suggested that the cytokine 
+profile of autoreactive T helper cells was also skewed in a less pathogenic 
+direction.
+CONCLUSION: Rat APLEC regulates autoimmunity and multiple phenotypes in several 
+types of arthritis. However, delineating the genetic impact may require 
+stratification for sex or mode of arthritis induction. This pathogenetic 
+complexity should be considered when evaluating APLEC in inflammatory and 
+autoimmune diseases, including RA.

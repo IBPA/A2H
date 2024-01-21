@@ -1,0 +1,20 @@
+Clostridium difficile toxins cause acute colitis by disrupting the enterocyte 
+barrier and promoting inflammation. ToxB from C. difficile inactivates Rho 
+family GTPases and causes release of cytokines and eicosanoids by macrophages. 
+We studied the effects of ToxB on GPCR signaling in murine RAW264.7 macrophages 
+and found that ToxB elevated Ca(2+) responses to Galphai-linked receptors, 
+including the C5aR, but reduced responses to Galphaq-linked receptors, including 
+the UDP receptors. Other Rho inhibitors also reduced UDP Ca(2+) responses, but 
+they did not affect C5a responses, suggesting that ToxB inhibited UDP responses 
+by inhibiting Rho but enhanced C5a responses by other mechanisms. By using 
+PLCbeta isoform-deficient BMDM, we found that ToxB inhibited Ca(2+) signaling 
+through PLCbeta4 but enhanced signaling through PLCbeta3. Effects of ToxB on 
+GPCR Ca(2+) responses correlated with GPCR use of PLCbeta3 versus PLCbeta4. ToxB 
+inhibited UDP Ca(2+) signaling without reducing InsP3 production or the 
+sensitivity of cellular Ca(2+) stores to exogenous InsP3, suggesting that ToxB 
+impairs UDP signaling at the level of InsP3/Ca(2+)coupling. In contrast, ToxB 
+elevated InsP3 production by C5a, and the enhancement of Ca(2+) signaling by C5a 
+was prevented by inhibition of PLA(2) or 5-LOX but not COX, implicating LTs but 
+not prostanoids in the mechanism. In sum, ToxB has opposing, independently 
+regulated effects on Ca(2+) signaling by different GPCR-linked PLCbeta isoforms 
+in macrophages.

@@ -1,0 +1,30 @@
+OBJECTIVE: Genetic variation in FOXO3 (tagged by rs12212067) has been associated 
+with a milder course of rheumatoid arthritis (RA) and shown to limit 
+monocyte-driven inflammation through a transforming growth factor β1-dependent 
+pathway. This genetic association, however, has not been consistently observed 
+in other RA cohorts. We sought to clarify the contribution of FOXO3 to prognosis 
+in RA by combining detailed analysis of nonradiographic disease severity 
+measures with an in vivo model of arthritis.
+METHODS: Collagen-induced arthritis, the most commonly used mouse model of RA, 
+was used to assess how Foxo3 contributes to arthritis severity. Using clinical, 
+serologic, and biochemical methods, the arthritis that developed in mice 
+carrying a loss-of-function mutation in Foxo3 was compared with that which 
+occurred in littermate controls. The association of rs12212067 with 
+nonradiographic measures of RA severity, including the C-reactive protein level, 
+the swollen joint count, the tender joint count, the Disease Activity Score in 
+28 joints, and the Health Assessment Questionnaire score, were modeled 
+longitudinally in a large prospective cohort of patients with early RA.
+RESULTS: Loss of Foxo3 function resulted in more severe arthritis in vivo (both 
+clinically and histologically) and was associated with higher titers of 
+anticollagen antibodies and interleukin-6 in the blood. Similarly, rs12212067 (a 
+single-nucleotide polymorphism that increases FOXO3 transcription) was 
+associated with reduced inflammation, both biochemically and clinically, and 
+with lower RA activity scores.
+CONCLUSION: Consistent with its known role in restraining inflammatory 
+responses, FOXO3 limits the severity of in vivo arthritis and, through genetic 
+variation that increases its transcription, is associated with reduced 
+inflammation and disease activity in RA patients, effects that result in less 
+radiographic damage.
+
+© 2016 The Authors. Arthritis & Rheumatology published by Wiley Periodicals, 
+Inc. on behalf of the American College of Rheumatology.

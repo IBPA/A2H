@@ -1,0 +1,23 @@
+OBJECTIVE: To investigate the effect of interleukin-35 (IL-35) on vascular 
+endothelial growth factor (VEGF) and its receptors, Flt-1 and Flk-1, in a 
+collagen-induced arthritis (CIA) mouse model of rheumatoid arthritis (RA).
+METHODS: We established a CIA mouse model and injected IL-35 intraperitoneally. 
+The articular index (AI) was measured based on the amount of erythema, swelling, 
+or joint rigidity and synovial histology was measured by hematoxylin and eosin 
+staining (HE staining). The levels of VEGF, Flt-1, Flk-1, and von Willebrand 
+factor (vWF) expression in CIA synovial tissue were determined by 
+immunohistochemistry. The mRNA and protein expression levels of VEGF, Flt-1, 
+Flk-1, TNF-α, and INF-γ were detected by reverse transcription PCR (RT-PCR) and 
+western blots, respectively.
+RESULTS: The IL-35 treatment decreased the AI and the synovial histological 
+scores of CIA mice. Immunohistochemistry results revealed that the IL-35 
+treatment downregulated VEGF, Flt-1, Flk-1, and vWF expression in the CIA mice. 
+RT-PCR results showed that the IL-35-treated mice had lower levels of VEGF, 
+Flt-1, Flk-1, and TNF-α mRNA expression than those of the PBS-treated mice. 
+While there was no significant difference in the level of INF-γ mRNA expression 
+between IL-35-treated and PBS-treated mice. Western blot results showed that the 
+IL-35 treatment downregulated the levels of VEGF, Flt-1, Flk-1, and TNF-α in CIA 
+mice, but the level of INF-γ was not significantly affected.
+CONCLUSION: These findings show that IL-35 may represent a novel therapeutic 
+agent for RA, and the probable mechanisms may rely on inhibiting VEGF and its 
+receptors Flt-1 and Flk-1.

@@ -1,0 +1,11 @@
+Description of the molecular phenotypes of pathobiological processes in vivo is 
+a pressing need in genomic biology. We have implemented a high-throughput 
+real-time PCR strategy to establish quantitative expression profiles of a 
+customized set of target genes. It enables rapid, reproducible data acquisition 
+from limited quantities of RNA, permitting serial sampling of mouse blood during 
+disease progression. We developed an easy to use statistical algorithm--Global 
+Pattern Recognition--to readily identify genes whose expression has changed 
+significantly from healthy baseline profiles. This approach provides unique 
+molecular signatures for rheumatoid arthritis, systemic lupus erythematosus, and 
+graft versus host disease, and can also be applied to defining the molecular 
+phenotype of a variety of other normal and pathological processes.

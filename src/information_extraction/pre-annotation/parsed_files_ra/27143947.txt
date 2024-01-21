@@ -1,0 +1,20 @@
+Interleukin (IL)-17A exists as a homodimer (A/A) or as a heterodimer (A/F) with 
+IL-17F. IL-17A is expressed by a subset of T-cells, called Th17 cells, at 
+inflammatory sites. Most cell types can respond to the local production of 
+IL-17A because of the near ubiquitous expression of IL-17A receptors, IL-17RA 
+and IL-17RC. IL-17A stimulates the release of cytokines and chemokines designed 
+to recruit and activate both neutrophils and memory T-cells to the site of 
+injury or inflammation and maintain a proinflammatory state. IL-17A-producing 
+pathogenic T-cells contribute to the pathogenesis of autoimmune diseases, 
+including psoriasis, psoriatic arthritis, rheumatoid arthritis, and ankylosing 
+spondylitis. This study describes the generation and characterization of 
+ixekizumab, a humanized IgG4 variant IL-17A-neutralizing antibody. Ixekizumab 
+binds human and cynomolgus monkey IL-17A with high affinity and binds rabbit 
+IL-17A weakly but does not bind to rodent IL-17A or other IL-17 family members. 
+Ixekizumab effectively inhibits the interaction between IL-17A and its receptor 
+in binding assays and potently blocks IL-17A-induced GRO or KC secretion in 
+cell-based assays. In an in vivo mouse pharmcodynamic model, ixekizumab blocks 
+human IL-17A-induced mouse KC secretion. These data provide a comprehensive 
+preclinical characterization of ixekizumab, for which the efficacy and safety 
+have been demonstrated in human clinical trials in psoriasis and psoriatic 
+arthritis.

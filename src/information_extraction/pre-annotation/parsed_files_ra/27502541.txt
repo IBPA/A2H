@@ -1,0 +1,14 @@
+Cancer Osaka thyroid (COT) kinase is an important regulator of pro-inflammatory 
+cytokines in macrophages. Thus, pharmacologic inhibition of COT should be a 
+valid approach to therapeutically intervene in the pathogenesis of 
+macrophage-driven inflammatory diseases such as rheumatoid arthritis. We report 
+the discovery and chemical optimization of a novel series of COT kinase 
+inhibitors, with unprecedented nanomolar potency for the inhibition of TNFα. 
+Pharmacological profiling in vivo revealed a high metabolism of these compounds 
+in rats which was demonstrated to be predominantly attributed to aldehyde 
+oxidase. Due to the very low activity of hepatic AO in the dog, the selected 
+candidate 32 displayed significant blood exposure in dogs which resulted in a 
+clear prevention of inflammation-driven lameness. Taken together, the described 
+compounds both potently and selectively inhibit COT kinase in primary human 
+cells and ameliorate inflammatory pathologies in vivo, supporting the notion 
+that COT is an appropriate therapeutic target for inflammatory diseases.

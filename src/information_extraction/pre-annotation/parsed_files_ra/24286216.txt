@@ -1,0 +1,28 @@
+INTRODUCTION: Spleen tyrosine kinase (SYK) is a key integrator of intracellular 
+signals triggered by activated immunoreceptors, including Bcell receptors (BCR) 
+and Fc receptors, which are important for the development and function of 
+lymphoid cells. Given the clinical efficacy of Bcell depletion in the treatment 
+of rheumatoid arthritis and multiple sclerosis, pharmacological modulation of 
+Bcells using orally active small molecules that selectively target SYK presents 
+an attractive alternative therapeutic strategy.
+METHODS: A SYK inhibitor was developed and assayed in various in vitro systems 
+and in the mouse model of collagen-induced arthritis (mCIA).
+RESULTS: A novel ATP-competitive inhibitor of SYK, 
+6-[(1R,2S)-2-Amino-cyclohexylamino]-4-(5,6-dimethyl-pyridin-2-ylamino)-pyridazine-3-carboxylic 
+acid amide, designated RO9021, with an adequate kinase selectivity profile and 
+oral bioavailability, was developed. In addition to suppression of BCR signaling 
+in human peripheral blood mononuclear cells (PBMC) and whole blood, FcγR 
+signaling in human monocytes, and FcϵR signaling in human mast cells, RO9021 
+blocked osteoclastogenesis from mouse bone marrow macrophages in vitro. 
+Interestingly, Toll-like Receptor (TLR) 9 signaling in human Bcells was 
+inhibited by RO9021, resulting in decreased levels of plasmablasts, 
+immunoglobulin (Ig) M and IgG upon B-cell differentiation. RO9021 also potently 
+inhibited type I interferon production by human plasmacytoid dendritic cells 
+(pDC) upon TLR9 activation. This effect is specific to TLR9 as RO9021 did not 
+inhibit TLR4- or JAK-STAT-mediated signaling. Finally, oral administration of 
+RO9021 inhibited arthritis progression in the mCIA model, with observable 
+pharmacokinetics (PK)-pharmacodynamic (PD) correlation.
+CONCLUSIONS: Inhibition of SYK kinase activity impinges on various innate and 
+adaptive immune responses. RO9021 could serve as a starting point for the 
+development of selective SYK inhibitors for the treatment of 
+inflammation-related and autoimmune-related disorders.

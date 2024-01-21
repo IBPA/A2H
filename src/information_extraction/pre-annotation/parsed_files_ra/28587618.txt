@@ -1,0 +1,29 @@
+BACKGROUND: Increasing evidences indicate that an unbalance between tryptases 
+and their endogenous inhibitors, leading to an increased proteolytic activity, 
+is implicated in the pathophysiology of rheumatoid arthritis. The aim of the 
+present study was to evaluate the impact of tryptase inhibition on experimental 
+arthritis.
+METHODS: Analysis of gene expression and regulation in the mouse knee joint was 
+performed by RT-qPCR and in situ hybridization. Arthritis was induced in male 
+C57BL/6 mice with mBSA/IL-1β. Tryptase was inhibited by two approaches: a 
+lentivirus-mediated heterologous expression of the human endogenous tryptase 
+inhibitor, sperm-associated antigen 11B isoform C (hSPAG11B/C), or a chronic 
+treatment with the synthetic tryptase inhibitor APC366. Several inflammatory 
+parameters were evaluated, such as oedema formation, histopathology, production 
+of IL-1β, -6, -17A and CXCL1/KC, myeloperoxidase and tryptase-like activities.
+RESULTS: Spag11c was constitutively expressed in chondrocytes and cells from the 
+synovial membrane in mice, but its expression did not change 7 days after the 
+induction of arthritis, while tryptase expression and activity were upregulated. 
+The intra-articular transduction of animals with the lentivirus phSPAG11B/C or 
+the treatment with APC366 inhibited the increase of tryptase-like activity, the 
+late phase of oedema formation, the production of IL-6 and CXCL1/KC. In 
+contrast, neutrophil infiltration, degeneration of hyaline cartilage and erosion 
+of subchondral bone were not affected.
+CONCLUSIONS: Tryptase inhibition was effective in inhibiting some inflammatory 
+parameters associated to mBSA/IL-1β-induced arthritis, notably late phase oedema 
+formation and IL-6 production, but not neutrophil infiltration and joint 
+degeneration. These results suggest that the therapeutic application of tryptase 
+inhibitors to rheumatoid arthritis would be restrained to palliative care, but 
+not as disease-modifying drugs. Finally, this study highlighted lentivirus-based 
+gene delivery as an instrumental tool to study the relevance of target genes in 
+synovial joint physiology and disease.

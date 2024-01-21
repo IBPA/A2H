@@ -1,0 +1,24 @@
+Surotomycin (formerly called CB-183,315) is a novel, orally administered cyclic 
+lipopeptide antibacterial in development for the treatment of Clostridium 
+difficile infection (CDI) that has potent activity against vancomycin-resistant 
+enterococci (VRE) but limited activity against Gram-negative bacilli, including 
+Bacteroides spp. We used a mouse model to investigate the impact of surotomycin 
+exposure on the microbiome, and to test the consequences of the disruption on 
+colonization by vancomycin-resistant enterococci (VRE) and extended-spectrum 
+β-lactamase-producing Klebsiella pneumoniae (ESBL-KP), in comparison with the 
+effects of oral vancomycin and metronidazole. Mice (8 per group) received 
+saline, vancomycin, metronidazole, or surotomycin through an orogastric tube 
+daily for 5 days and were challenged with 10(5) CFU of VRE or ESBL-KP 
+administered through an orogastric tube on day 2 of treatment. The 
+concentrations of the pathogens in stool were determined during and after 
+treatment by plating on selective media. A second experiment was conducted to 
+determine if the antibiotics would inhibit established VRE colonization. In 
+comparison to controls, oral vancomycin promoted VRE and ESBL-KP overgrowth in 
+stool (8 log10 to 10 log10 CFU/g; P < 0.001), whereas metronidazole did not (<4 
+log10 CFU/g; P > 0.5). Surotomycin promoted ESBL-KP overgrowth (>8 log10 CFU/g; 
+P, <0.001 for comparison with saline controls) but not VRE overgrowth. 
+Surotomycin suppressed preexisting VRE colonization, whereas metronidazole and 
+vancomycin did not. These results suggest that treatment of CDI with surotomycin 
+could reduce levels of VRE acquisition and overgrowth from those with agents 
+such as vancomycin and metronidazole. However, surotomycin and vancomycin may 
+promote colonization by antibiotic-resistant Gram-negative bacilli.

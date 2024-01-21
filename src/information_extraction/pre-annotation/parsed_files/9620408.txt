@@ -1,0 +1,23 @@
+Bacteroides fragilis constitutes about 1% of the bacterial flora in intestines 
+of normal humans. Enterotoxigenic strains of B. fragilis have been associated 
+with diarrheal diseases in humans and animals. The enterotoxin produced by these 
+isolates induces fluid changes in ligated intestinal loops and an in vitro 
+cytotoxic response in HT-29 cells. We developed a nested PCR to detect the 
+enterotoxin gene of B. fragilis in stool specimens. After DNA extraction, a 
+367-bp fragment was amplified with two outer primers. The amplicon from this 
+reaction was subjected to a second round of amplification with a set of internal 
+primers. With these inner primers, a 290-bp DNA fragment was obtained which was 
+confirmed as part of the B. fragilis enterotoxin gene by Southern blotting with 
+a nonradioactive internal probe and a chemiluminescence system. By this 
+approach, B. fragilis enterotoxin gene sequences were detected in eight known 
+enterotoxigenic human isolates and nine enterotoxigenic horse isolates. No 
+amplification products were obtained from DNA extracted from 28 
+nonenterotoxigenic B. fragilis isolates or B. distasonis, B. thetaiotaomicron, 
+B. uniformis, B. ovatus, Escherichia coli, or Clostridium difficile. The 
+sensitivity of this assay allowed us to detect as little as 1 pg of enterotoxin 
+DNA sequences or 100 to 1,000 cells of enterotoxigenic B. fragilis/g of stool. 
+Enterotoxin production of all isolates was confirmed in vitro in HT-29 cells. A 
+100% correlation was obtained between enterotoxin detection by cytotoxin assay 
+and the nested PCR assay. This rapid and sensitive assay can be used to identify 
+enterotoxigenic B. fragilis and may be used clinically to determine the role of 
+B. fragilis in diarrheal diseases.

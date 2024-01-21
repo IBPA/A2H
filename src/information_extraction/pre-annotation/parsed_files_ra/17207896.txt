@@ -1,0 +1,18 @@
+Activation of the hypothalamic-pituitary-adrenal gland (HPA) axis can modulate 
+the immune system. Cytokines and neuropeptide Y (NPY) are potent regulators of 
+the HPA axis and are both produced by the adrenal medulla. The cytokine 
+interleukin-1beta (IL-1beta) belongs to the interleukin-1 family along with 
+interleukin-1alpha and the interleukin receptor antagonist (IL-1ra). The aim of 
+the present study was to determine the interaction between NPY and IL-1beta in 
+catecholamine (norepinephrine, NE and epinephrine, EP) release from mouse 
+chromaffin cells in culture. We found that IL-1beta increased the constitutive 
+release of NPY, NE and EP from mouse chromaffin cells. This IL-1beta stimulatory 
+effect was blocked by IL-1ra. The immunoneutralization of NPY and the use of the 
+NPY Y(1) receptor antagonist (BIBP 3226) inhibited the stimulatory effect of 
+IL-1beta on catecholamine release from these cells. The present work shows that 
+IL-1beta induces catecholamine release, and in turn this peptide will induce an 
+additional increase in catecholamine release acting through the Y(1) receptor. 
+This work suggests that NPY is involved in the regulatory loop between the 
+immune and the adrenal system in some pathophysiological conditions where 
+plasmatic IL-1beta increases, like in sepsis, rheumatoid arthritis, stress or 
+hypertension.

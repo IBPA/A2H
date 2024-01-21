@@ -1,0 +1,22 @@
+The production of autoreactive antibodies from self-reactive B cells results in 
+the formation of immune complexes that deposit in tissue and fix complement, 
+contributing to the pathogenesis of rheumatoid arthritis (RA). Earlier mouse 
+models emphasize the importance of autoreactive antibodies formed against "self" 
+proteins that serve as a source for T cell-mediated immune response, stemming 
+from cross-reactivity and resulting in B cell activity. However, more recent 
+models suggest the need for both autoantibodies and the initiation of the 
+inflammatory cascade via the alternative complement pathway, which is unbridled 
+as the cartilage lacks the usual regulatory proteins of the complement system. 
+Furthermore, deficiencies in specific complement proteins could lead to an 
+escape from negative selection by these self-reactive B cells. Moreover, the 
+classical complement pathway establishes chemotactic gradients by which 
+inflammatory cells follow and accumulate in the synovial fluid where they engulf 
+immune complexes and release proteolytic enzymes. In addition, the processing of 
+circulating immune complexes either via Fc receptor or CR1 and opsonization by 
+complement fragments plays a key role in determining the fate of immune status. 
+In addition, complement proteins are a major determinant in the size and 
+solubility of an immune complex, which also affects clearance. The evidence 
+regarding intra-articular activation of the complement system in RA provides the 
+possibility to pharmacologically manipulate various parts of the complement 
+system for therapeutic purposes and potential therapeutic targets for the 
+control of inflammation and the prevention of joint destruction.

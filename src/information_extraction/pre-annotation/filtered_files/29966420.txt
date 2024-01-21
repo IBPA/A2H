@@ -1,0 +1,24 @@
+While highly efficacious in treating rheumatoid arthritis (RA), the approved 
+Janus kinase (JAK) inhibitor, Tofacitinib (Tofa, CP-690 550), has dose-dependent 
+toxicities that limit its clinical application. In this study, we have examined 
+whether a prodrug design that targets arthritic joints would enhance Tofa's 
+therapeutic efficacy, which may provide an opportunity for future development of 
+safer Tofa dosing regimens. A prodrug of Tofa (P-Tofa) was synthesized by 
+conjugating the drug to the N-(2-hydroxypropyl)methacrylamide (HPMA) copolymer 
+via an acid cleavable carbamate linker. The therapeutic efficacy of a single 
+dose of P-Tofa was compared to the dose-equivalent daily oral administration of 
+Tofa in an adjuvant-induced arthritis (AA) rat model. Saline treated AA rats and 
+age-matched healthy rats were used as controls. Observational analyses support 
+the superior and sustained efficacy of a single dose P-Tofa treatment compared 
+to the dose-equivalent daily Tofa administration in ameliorating joint 
+inflammation. Micro-CT and histological analyses demonstrated that the P-Tofa 
+treatment provided a structural preservation of the joints better than that of 
+the dose-equivalent Tofa. Optical imaging, immunohistochemistry, and 
+fluorescence-activated cell sorting analyses attribute P-Tofa's superior 
+therapeutic efficacy to its passive targeting to arthritic joints and 
+inflammatory cell-mediated sequestration. In vitro cell culture studies reveal 
+that the P-Tofa treatment produced sustained the inhibition of JAK/STAT6 
+signaling in IL-4-treated murine bone marrow macrophages, consistent with a 
+gradual subcellular release of Tofa. Collectively, a HPMA-based nanoscale 
+prodrug of P-Tofa has the potential to enhance the therapeutic efficacy and 
+widen the therapeutic window of Tofa therapy in RA.

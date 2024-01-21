@@ -1,0 +1,22 @@
+BACKGROUND & AIMS: Clostridium difficile toxin A (TcdA) and C difficile toxin 
+toxin B (TcdB), the major virulence factors of the bacterium, cause intestinal 
+tissue damage and inflammation. Although the 2 toxins are homologous and share a 
+similar domain structure, TcdA is generally more inflammatory whereas TcdB is 
+more cytotoxic. The functional domain of the toxins that govern the 
+proinflammatory activities of the 2 toxins is unknown.
+METHODS: Here, we investigated toxin domain functions that regulate the 
+proinflammatory activity of C difficile toxins. By using a mouse ilea loop 
+model, human tissues, and immune cells, we examined the inflammatory responses 
+to a series of chimeric toxins or toxin mutants deficient in specific domain 
+functions.
+RESULTS: Blocking autoprocessing of TcdB by mutagenesis or chemical inhibition, 
+while reducing cytotoxicity of the toxin, significantly enhanced its 
+proinflammatory activities in the animal model. Furthermore, a noncleavable 
+mutant TcdB was significantly more potent than the wild-type toxin in the 
+induction of proinflammatory cytokines in human colonic tissues and immune 
+cells.
+CONCLUSIONS: In this study, we identified a novel mechanism of regulating the 
+biological activities of C difficile toxins in that cysteine protease-mediated 
+autoprocessing regulates toxins' proinflammatory activities. Our findings 
+provide new insight into the pathogenesis of C difficile infection and the 
+design of therapeutics against the disease.

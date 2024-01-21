@@ -1,0 +1,23 @@
+AIMS: The Dark-Agouti (DA) rat is very susceptible to pristane-induced arthritis 
+(PIA) and represents a suitable model for rheumatoid arthritis. In the present 
+study, we examined the pain sensitivity and the effect of local administration 
+of octreotide (OCT) on mechanical hyperalgesia in PIA DA rats.
+MAIN METHODS: Arthritis was induced by intradermal injection of pristane (300 
+microl). The mechanical withdrawal threshold (MWT) and heat withdrawal latency 
+(HWL) were used to evaluate the pain sensitivity. In addition, we recorded the 
+discharge firings in the tibial nerve sensory C-fibers innervating the inflamed 
+toe joints of arthritic DA rats.
+KEY FINDINGS: Two weeks after injection of pristane, all DA rats developed 
+severe arthritis. This symptom was associated with a decreased MWT (78.50+/-5.68 
+mN before pristane injection, 19.50+/-6.27 mN on day 14 after pristane 
+injection), indicating a mechanical hyperalgesia in PIA. In contrast, HWL was 
+comparable before and after pristane injection (10.25+/-0.70 s before injection; 
+9.45+/-1.23 s on day 14 after injection). Local injection of OCT markedly 
+increased MWT and relieved the hyperalgesia in PIA. In addition, OCT 
+significantly decreased the discharge rate of afferent C units evoked by both 
+non-noxious and noxious joint movements.
+SIGNIFICANCE: Taken together, the results demonstrate that mechanical 
+hyperalgesia, but not thermal hyperalgesia is associated with PIA and that the 
+mechanical hyperalgesia and the discharge of afferent C units are attenuated by 
+local administration of OCT. These observations provide evidence for a novel 
+therapeutic strategy for pain control in rheumatoid arthritis.

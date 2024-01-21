@@ -1,0 +1,27 @@
+Clostridium difficile is emerging as pathogen in both humans and animals. In 
+2000 it was described as one of the causes of neonatal enteritis in piglets, and 
+it is now the most common cause of neonatal diarrhea in the United States. In 
+Europe, C. difficile infection (CDI) in both neonatal piglets and adult sows has 
+also been reported. Diagnosis of this infection is based on detection of the 
+bacterium C. difficile or its toxins A and B. Most detection methods, however, 
+are only validated for diagnosing human infections. In this study three 
+commercially available enzyme immunoassays (EIAs) and a commercial real-time-PCR 
+(Becton, Dickinson, and Company) were evaluated by testing 172 pig fecal 
+specimens (139 diarrheic and 33 nondiarrheic piglets). The results of each test 
+were compared to those of cytotoxicity assays (CTAs) and toxigenic culture as 
+the "gold standards." Compared to CTAs, the sensitivity, specificity, positive 
+predictive value (PPV), and negative predictive value (NPV) were, respectively, 
+as follows: for real-time PCR, 91.6, 37.1, 57.6, and 82.5%; for Premier Toxins 
+A&B (Meridian), 83.1, 31.5, 53.1, and 66.7%; for ImmunoCard Toxins A&B kit 
+(ICTAB; Meridian), 86.6, 56.8, 66.9, and 80.7%; and for VIDAS (bioMérieux), 
+54.8, 92.6, 85.0, and 72.8%. Compared to toxigenic culture, the sensitivity, 
+specificity, PPV, and NPV were, respectively, as follows: for real-time PCR, 
+93.0, 34.7, 50.0, and 87.5%; for Premier Toxins A&B, 80.3, 27.7, 43.8, and 
+66.7%; and for ICTAB, 80.0, 46.2, 52.8, and 75.4%; and for VIDAS, 56.4, 89.8, 
+77.5, and 76.7%. We conclude that all tests had an unacceptably low performance 
+as a single test for the detection of C. difficile in pig herds and that a 
+two-step algorithm is necessary, similar to that in cases of human CDI. Of all 
+of the assays, the real-time PCR had the highest NPV compared to both reference 
+methods and is therefore the most appropriate test to screen for the absence of 
+C. difficile in pigs as a first step in the algorithm. The second step would be 
+a confirmation of the positive results by toxigenic culture.

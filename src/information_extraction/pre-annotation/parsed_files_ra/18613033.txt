@@ -1,0 +1,18 @@
+Dexamethasone (DEX) is often given for the treatment of rheumatoid arthritis and 
+clinical dosing regimens of DEX have often been based empirically. This study 
+tests whether the inflammation processes in a rat model of rheumatoid arthritis 
+alters the clearance and volume of distribution of DEX when compared with 
+healthy controls. Groups of healthy and arthritic male Lewis rats received 
+either a low (0.225 mg/kg) or high (2.25 mg/kg) intramuscular dose of DEX. 
+Arthritis was induced by intradermal injection of type II porcine collagen in 
+incomplete Freund's adjuvant emulsion at the base of the tail. DEX was dosed in 
+the arthritic animals 22 days post arthritis induction. Plasma DEX 
+concentrations were determined by HPLC. Plasma concentration versus time data 
+were analysed by non-compartmental analysis and pharmacokinetic model fitting 
+using the population pharmacokinetic software NONMEM V. A linear bi-exponential 
+pharmacokinetic model with extravascular input described the data for both 
+healthy and arthritic animals. Clearance was the only parameter determined 
+statistically different between both groups (healthy=1.05 l/h/kg, arthritic=1.19 
+l/h/kg). The steady-state volume of distribution for both groups was 4.85 l/kg. 
+The slight difference in clearance was visibly undetectable and unlikely to 
+produce meaningful changes in DEX disposition in arthritic rats.

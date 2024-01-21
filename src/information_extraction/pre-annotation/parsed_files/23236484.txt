@@ -1,0 +1,16 @@
+Various pathogenic clostridia produce binary protein toxins associated with 
+enteric diseases of humans and animals. Separate binding/translocation (B) 
+components bind to a protein receptor on the cell surface, assemble with 
+enzymatic (A) component(s), and mediate endocytosis of the toxin complex. 
+Ultimately there is translocation of A component(s) from acidified endosomes 
+into the cytosol, leading to destruction of the actin cytoskeleton. Our results 
+revealed that CD44, a multifunctional surface protein of mammalian cells, 
+facilitates intoxication by the iota family of clostridial binary toxins. 
+Specific antibody against CD44 inhibited cytotoxicity of the prototypical 
+Clostridium perfringens iota toxin. Versus CD44(+) melanoma cells, those lacking 
+CD44 bound less toxin and were dose-dependently resistant to C. perfringens 
+iota, as well as Clostridium difficile and Clostridium spiroforme iota-like, 
+toxins. Purified CD44 specifically interacted in vitro with iota and iota-like, 
+but not related Clostridium botulinum C2, toxins. Furthermore, CD44 knockout 
+mice were resistant to iota toxin lethality. Collective data reveal an important 
+role for CD44 during intoxication by a family of clostridial binary toxins.

@@ -1,0 +1,26 @@
+We have previously reported that the statin mevastatin (compactin) reversibly 
+inhibits the fusion of TRAP-positive mononuclear preosteoclasts (pOCs) into 
+multinucleated osteoclasts and disrupts the actin ring in mature osteoclasts 
+through the inhibition of protein prenylation. Protein geranylgeranylation, 
+specifically, is known to be required for pOC fusion and for the function and 
+survival of mature osteoclasts. However, it has not been determined whether 
+protein geranylgeranylation is involved in early differentiation of osteoclasts 
+(pOC formation). The current study shows that statins and the geranylgeranyl 
+transferase I inhibitor GGTI-2166 inhibit the pOC formation induced by RANKL or 
+TNF-alpha in cultures of both mouse marrow-derived macrophage-colony-stimulating 
+factor (M-CSF) dependent monocytes (MD cells) and the mouse monocyte cell line 
+RAW 264.7 (RAW cells). Mevastatin, 0.1-0.6 microM, inhibited the formation of 
+pOCs induced by receptor activator of nuclear factor-kappaB ligand (RANKL) or 
+tumor necrosis factor (TNF-alpha) in both cell cultures. The inhibitory effects 
+of mevastatin were overcome by the addition of mevalonate, farnesyl 
+pyrophosphate or geranylgeranyl pyrophosphate. GGTI-2166 inhibited TRAP activity 
+induced by RANKL or TNF-alpha in both cell cultures and prevented the 
+incorporation of [3H]all-trans geranylgeraniol into prenylated proteins in RAW 
+cells. However, the farnesyl transferase inhibitor FTI-2153 did not inhibit TRAP 
+activity although FTI prevented the incorporation of [14C]mevalonate into 
+farnesylated proteins in RAW cells. Clostridium difficile cytotoxin B (toxin B) 
+inhibited pOC formation induced by RANKL or TNF-alpha in both cell cultures. The 
+inhibitory effects of statins and GGTI-2166 on pOC formation may result from the 
+inhibition of the geranylgeranylation of G-proteins, such as Rho or Rac, 
+suggesting that the geranylgeranylation of these proteins is involved in the 
+early differentiation of progenitor cells into pOCs.

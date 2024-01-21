@@ -1,0 +1,21 @@
+ETHNOPHARMACOLOGICAL RELEVANCE: Evening primrose (Oenothera biennis L.) is a 
+wild medicinal herb of Central American origin that is now globally widespread. 
+Its traditional uses include treatment of rheumatoid arthritis and premenopausal 
+pain both of which have an inflammatory component. The present study 
+demonstrates the in vitro anti-inflammatory activity of three Oenothera biennis 
+compounds.
+MATERIALS AND METHODS: Oenotheralanosterol A and B (Oen-A & Oen-B) along with 
+gallic acid (GA) were isolated and characterized using column chromatography and 
+NMR. The compounds were tested with LPS stimulated peritoneal mouse macrophages 
+assaying for suppression of IL-6, TNF-α and NO synthesis. An HILIC method for 
+the simultaneous quantitation of GA, Oen-A, and Oen-B in Oenothera biennis plant 
+material was also developed as a means of monitoring quality of plant material.
+RESULTS: Significant inhibition of TNF-α and IL-6 by GA, Oen-A and Oen-B was 
+observed (p<0.05). Inhibition was concentration dependent and no synergistic or 
+antagonistic effect on pro-inflammatory cytokines was found when used in 
+combination (1:1) (p>0.05). The HILIC analysis method was validated using 
+Oenothera biennis root.
+CONCLUSION: The study demonstrates the anti-inflammatory activity of Oenothera 
+biennis root compounds and supports its traditional use in arthritis management. 
+Active anti-inflammatory compounds were identified and quantified by the HILIC 
+method.

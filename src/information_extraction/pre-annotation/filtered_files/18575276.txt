@@ -1,0 +1,21 @@
+The endoplasmic reticulum chaperone and stress protein BiP has hitherto been 
+considered as having only crucial intracellular cell protective functions. 
+However, we have shown that BiP can be present in the extracellular environment 
+and that it binds to a putative but as yet uncloned cell surface receptor. It 
+will stimulate human monocytes via this receptor to express a gene profile that 
+is anti-inflammatory. It will generate T cells with a regulatory function from 
+human peripheral blood most likely by altering dendritic cell development. 
+Intravenous BiP will both prevent and treat ongoing collagen induced arthritis 
+in the DBA/1 mouse. Part of the suppression of arthritis is linked to 
+interleukin (IL)4 as BiP-specific lymph node and spleen cells from these mice 
+secrete IL4, and BiP has no suppressive effect on collagen induced arthritis in 
+IL4 knockout mice. Lymph node and spleen cells isolated from mice administered 
+intravenous BiP will suppress arthritis when transferred intravenously into 
+recipient arthritic mice without any further BiP having to be given. Thus, both 
+in vitro work with human peripheral blood mononuclear cells and in vivo work in 
+the collagen arthritis model lead to the conclusion that BiP induces regulatory 
+cells. Finally, intravenous BiP will ablate the inflammatory cell infiltrate and 
+inflammatory cytokine expression in rheumatoid synovial membrane tissue 
+transplanted subcutaneously into SCID mice. The conclusion from all this 
+experimental work is that BiP may be a novel therapy for the treatment of 
+patients with rheumatoid arthritis.

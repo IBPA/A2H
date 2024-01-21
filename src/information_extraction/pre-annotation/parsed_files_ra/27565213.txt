@@ -1,0 +1,28 @@
+New folic acid (FA) coupled three layered micelles (3LM) were designed to 
+encapsulate DNA, and their application as delivery system that specifically 
+targets activated macrophages was investigated for new treatment options in 
+rheumatoid arthritis (RA). FA coupled poly(l-lactide)-b-poly(ethylene glycol) 
+(FA-PEG-PLLA) was synthesized via the NHS-ester activated/amine coupling method. 
+Fluorescein labeled folic acid was used for flow cytometric detection of the 
+expression of functional folic receptor β in LPS-activated and resting 
+macrophages. FA coupled 3LM were formulated in a two-step procedure and 
+characterized regarding hydrodynamic diameters and zeta potentials. The presence 
+of the targeting ligand was shown not to increase the size of the 3LM compared 
+to their non-targeted counterparts. Targeted and non-targeted 3LM were used in 
+vitro to optimize uptake conditions in the RAW 264.7 macrophage cell line. The 
+amount of FA coupled polymer in the final formulation was found to be optimal at 
+75% FA-PEG-PLLA and 25% PLLA-PEG-PLLA. Subsequently, transgene expression in 
+vitro in RAW 264.7 cells and ex vivo in primary activated and resting mouse 
+macrophages was determined as a function of FR-mediated internalization of 3LM 
+encapsulating GFP expressing plasmid. FR-overexpressing activated cells, as 
+successfully identified by internalization of FA-fluorescein, showed 
+significantly higher GFP expression in vitro and ex vivo than resting 
+macrophages with only a basal level of FR expression. Lastly, injectable 
+hydrogels as depot formulation were formed by stereocomplexation, and their 
+degradation, DNA release profiles, and dissociation into intact 3LM were found 
+to be beneficial for potential in vivo application. Our findings confirm that 
+FA-3LM are taken up by activated macrophages via folate receptor mediated 
+endocytosis and that their hydrogels release intact 3LM for efficient 
+transfection of primary macrophages. Therefore, FA-3LM could become a promising 
+delivery system for receptor-mediated drug or gene delivery and novel therapy 
+for rheumatoid arthritis in an in situ forming gel formulation.

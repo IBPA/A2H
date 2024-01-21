@@ -1,0 +1,27 @@
+Vascular endothelial growth factor (VEGF) is a critical angiogenic factor 
+affecting endothelial cells, inflammatory cells and neuronal cells. In addition 
+to its well-defined positive role in wound healing, pathological roles for VEGF 
+have been described in cancer and inflammatory diseases (i.e. atherosclerosis, 
+rheumatoid arthritis, inflammatory bowel disease and osteoarthritis). Recently, 
+we showed that transcription factors LITAF and STAT6B affected the inflammatory 
+response. This study builds upon our previous results in testing the role of 
+mouse LITAF and STAT6B in the regulation of VEGF-mediated processes. Cells 
+cotransfected with a series of VEGF promoter deletions along with truncated 
+forms of mLITAF and/or mSTAT6B identified a DNA binding site (between -338 and 
+-305 upstream of the transcription site) important in LITAF and/or 
+STAT6B-mediated transcriptional regulation of VEGF. LITAF and STAT6B 
+corresponding protein sites were identified. In addition, siRNA-mediated 
+knockdown of mLITAF and/or mSTAT6B leads to significant reduction in VEGF mRNA 
+levels and inhibits LPS-induced VEGF secretion in mouse RAW 264.7 cells. 
+Furthermore, VEGF treatment of mouse macrophage or endothelial cells induces 
+LITAF/STAT6B nuclear translocation and cell migration. To translate these 
+observations in vivo, VEGF164-soaked matrigel were implanted in whole-body 
+LITAF-deficient animals (TamLITAF(-/-) ), wild-type mice silenced for STAT6B, 
+and in respective control animals. Vessel formation was found significantly 
+reduced in TamLITAF(-/-) as well as in STAT6B-silenced wild-type animals 
+compared with control animals. The present data demonstrate that VEGF regulation 
+by LITAF and/or STAT6B is important in angiogenesis signalling pathways and may 
+be a useful target in the treatment of VEGF diseases.
+
+© 2013 The Authors. Published by Foundation for Cellular and Molecular 
+Medicine/Blackwell Publishing Ltd.

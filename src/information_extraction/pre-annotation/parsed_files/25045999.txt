@@ -1,0 +1,20 @@
+Clostridium difficile infection in antibiotic-treated mice results in acute 
+colitis characterized by severe intestinal histopathology, robust neutrophil 
+influx, and increased expression of numerous inflammatory cytokines, including 
+GM-CSF. We utilized a neutralizing monoclonal antibody (mAb) against GM-CSF in a 
+murine model to study the role of GM-CSF during acute C. difficile colitis. 
+Cefoperazone-treated mice were challenged with C. difficile (strain 630) spores. 
+Expression of GM-CSF was significantly increased in animals challenged with C. 
+difficile. Treatment with an anti-GM-CSF mAb did not alter C. difficile 
+colonization levels, weight loss, or expression of IL-22 and RegIIIγ. However, 
+expression of the inflammatory cytokines TNFα and IL-1β, as well as iNOS, was 
+significantly reduced following anti-GM-CSF treatment. Expression of the 
+neutrophil chemokines CXCL1 and CXCL2, but not the chemokines CCL2, CCL4, CXCL9, 
+and CXCL10, was significantly reduced by anti-GM-CSF treatment. Consistent with 
+a decrease in neutrophil-attractant chemokine expression, there were fewer 
+neutrophils in histology sections and a reduction in the expression of secretory 
+leukocyte protease inhibitor (SLPI), a tissue anti-protease that protects 
+against damage by secreted neutrophil elastase. These data indicate that GM-CSF 
+plays a role in the inflammatory signaling network that drives neutrophil 
+recruitment in response to C. difficile infection but does not appear to play a 
+role in clearance of the infection.

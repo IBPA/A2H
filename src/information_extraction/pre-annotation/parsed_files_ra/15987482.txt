@@ -1,0 +1,21 @@
+Therapies directed against tumour necrosis factor (TNF) are effective for the 
+treatment of rheumatoid arthritis and reduce pain scores in this condition. In 
+this study, we sought to explore mechanisms by which TNF contributes to 
+inflammatory pain in an experimental model of arthritis. The effects of an 
+anti-TNF agent, etanercept, on behavioural pain responses arising from rat 
+monoarthritis induced by complete Freund's adjuvant were assessed and compared 
+with expression of TNF receptors (TNFRs) by dorsal root ganglion (DRG) cells at 
+corresponding time points. Etanercept had no effect on evoked pain responses in 
+normal animals but exerted a differential effect on the thermal and mechanical 
+hyperalgesia associated with rat arthritis induced by complete Freund's adjuvant 
+(CFA). Joint inflammation was associated with increased TNFR1 and TNFR2 
+expression on DRG cells, which was maintained throughout the time course of the 
+model. TNFR1 expression was increased in neuronal cells of the DRG bilaterally 
+after arthritis induction. In contrast, TNFR2 expression occurred exclusively on 
+non-neuronal cells of the macrophage-monocyte lineage, with cell numbers 
+increasing in a TNF-dependent fashion during CFA-induced arthritis. A strong 
+correlation was observed between numbers of macrophages and the development of 
+mechanical hyperalgesia in CFA-induced arthritis. These results highlight the 
+potential for TNF to play a vital role in inflammatory hyperalgesia, both by a 
+direct action on neurons via TNFR1 and by facilitating the accumulation of 
+macrophages in the DRG via a TNFR2-mediated pathway.

@@ -1,0 +1,24 @@
+OBJECTIVE: To investigate the role of p21-activated kinase 1 (PAK1) in 
+regulating migration, invasion and MMP expression in RA fibroblast-like 
+synoviocytes (FLS).
+METHODS: RA FLS migration and invasion in vitro were measured by the Boyden 
+chamber method. Invasion of RA FLS into cartilage was detected in the severe 
+combined immunodeficiency (SCID) mouse co-implantation model of RA in vivo. PAK1 
+and MT1-MMP expression were examined by western blotting. ELISA was used to 
+measure the production and activity of MMPs.
+RESULTS: Phosphorylated PAK1 (p-PAK1) protein expression was increased in ex 
+vivo synovial membrane cells from RA patients. Stimulation with IL-1β or TNF-α 
+up-regulated p-PAK1 expression. Inhibition of PAK1 by transfection with dominant 
+negative PAK1 mutant (dnPAK1) reduced in vitro migration and invasion of RA FLS. 
+In the SCID mouse model, RA FLS invasion into cartilage was attenuated by 
+transfection with dnPAK1 in vivo. PAK1 regulated IL-1β-induced production and 
+activity of MMP-13 and MT1-MMP. Inhibition of MMP-13 or MT1-MMP activity also 
+reduced RA FLS invasion. Furthermore, dnPAK1 transfection inhibited c-Jun 
+N-terminal kinase (JNK) activation, but did not affect the activities of 
+extracellular signal-regulated kinases and p38. Inhibition of the JNK activity 
+by chemical inhibitor significantly reduced the migration, invasion and 
+production of MMP-13 and MT1-MMP.
+CONCLUSION: PAK1 plays an important role in regulating the migration, invasion 
+and production and activity of MMPs in RA FLS, which is mediated by the JNK 
+pathway. This suggests a novel strategy targeting PAK1 to prevent joint 
+destruction of RA.

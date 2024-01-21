@@ -1,0 +1,14 @@
+The mechanosensing ability of lymphocytes regulates their activation in response 
+to antigen stimulation, but the underlying mechanism remains unexplored. Here, 
+we report that B cell mechanosensing-governed activation requires BCR signaling 
+molecules. PMA-induced activation of PKCβ can bypass the Btk and PLC-γ2 
+signaling molecules that are usually required for B cells to discriminate 
+substrate stiffness. Instead, PKCβ-dependent activation of FAK is required, 
+leading to FAK-mediated potentiation of B cell spreading and adhesion responses. 
+FAK inactivation or deficiency impaired B cell discrimination of substrate 
+stiffness. Conversely, adhesion molecules greatly enhanced this capability of B 
+cells. Lastly, B cells derived from rheumatoid arthritis (RA) patients exhibited 
+an altered BCR response to substrate stiffness in comparison with healthy 
+controls. These results provide a molecular explanation of how initiation of B 
+cell activation discriminates substrate stiffness through a PKCβ-mediated FAK 
+activation dependent manner.

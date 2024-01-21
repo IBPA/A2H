@@ -1,0 +1,20 @@
+Rheumatoid arthritis (RA) is a chronic inflammatory disease that produces 
+synovial proliferation and joint erosions. The pathologic lesions of RA are 
+driven through the production of inflammatory mediators in the synovium 
+mediated, in part, by the transcription factor NF-kappaB. We have identified a 
+non-steroidal estrogen receptor ligand, WAY-169916, that selectively inhibits 
+NF-kappaB transcriptional activity but is devoid of conventional estrogenic 
+activity. The activity of WAY-169916 was monitored in two models of arthritis, 
+the HLA-B27 transgenic rat and the Lewis rat adjuvant-induced model, after daily 
+oral administration. In both models, a near complete reversal in hindpaw scores 
+was observed as well as marked improvements in the histological scores. In the 
+Lewis rat adjuvant model, WAY-169916 markedly suppresses the adjuvant induction 
+of three serum acute phase proteins: haptoglobin, alpha1-acid glycoprotein 
+(alpha1-AGP), and C-reactive protein (CRP). Gene expression experiments also 
+demonstrate a global suppression of adjuvant-induced gene expression in the 
+spleen, liver, and popliteal lymph nodes. Finally, WAY-169916 was effective in 
+suppressing tumor necrosis factor-alpha-mediated inflammatory gene expression in 
+fibroblast-like synoviocytes isolated from patients with RA. Together, these 
+data suggest the utility of WAY-169916, and other compounds in its class, in 
+treating RA through global suppression of inflammation via selective blockade of 
+NF-kappaB transcriptional activity.

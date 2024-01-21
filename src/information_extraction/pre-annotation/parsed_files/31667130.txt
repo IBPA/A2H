@@ -1,0 +1,31 @@
+Immunotherapy that targets N-linked glycans has not yet been developed due in 
+large part to the lack of specificity of N-linked glycans between normal and 
+malignant cells. N-Glycan chains are synthesized by the sequential action of 
+glycosyl transferases in the Golgi apparatus. It is an overwhelming task to 
+discover drug-like inhibitors of glycosyl transferases that block the synthesis 
+of specific branching processes in cancer cells, killing tumor cells 
+selectively. It has long been known that N-glycan biosynthesis can be inhibited 
+by disruption of the first committed enzyme, dolichyl-phosphate 
+N-acetylglucosaminephosphotransferase 1 (DPAGT1). Selective DPAGT1 inhibitors 
+have the promising therapeutic potential for certain solid cancers that require 
+increased branching of N-linked glycans in their growth progressions. Recently, 
+we discovered that an anti-Clostridium difficile molecule, aminouridyl 
+phenoxypiperidinbenzyl butanamide (APPB) showed DPAGT1 inhibitory activity with 
+the IC50 value of 0.25 μM. It was confirmed that APPB inhibits N-glycosylation 
+of β-catenin at 2.5 nM concentration. A sharp difference between APPB and 
+tunicamycin was that the hemolytic activity of APPB is significantly attenuated 
+(IC50 > 200 μM RBC). Water solubility of APPB is >350-times greater than that of 
+tunicamycin (78.8 mg/mL for APPB, <0.2 mg/mL for tunicamycin). A novel DPAGT1 
+inhibitor, APPB selectively inhibits growth of the solid tumors (e.g. KB, LoVo, 
+SK-OV-3, MDA-MB-432S, HCT116, Panc-1, and AsPC-1) at low μM concentrations, but 
+does not inhibit growth of a leukemia cell (L1210) and the healthy cells (Vero 
+and HPNE) at these concentrations. In vitro metabolic stability using rat liver 
+microsomes indicated that a half-life (t 1/2) of APPB is sufficiently long 
+(>60 min) for in vivo studies (PK/PD, safety profiles, and in vivo efficacy) 
+using animal models. We have refined all steps in the previously reported 
+synthesis for APPB for larger-scale. This article summarizes protocols of 
+gram-scale synthesis of APPB and its physicochemical data, and a convenient 
+DPAGT1 assay. •Remember that the abstract is what readers see first in 
+electronic abstracting & indexing services.•This is the advertisement of your 
+article. Make it interesting, and easy to be understood.•Be accurate and 
+specific, keep it as brief as possible.

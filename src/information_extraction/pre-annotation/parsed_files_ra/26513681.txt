@@ -1,0 +1,26 @@
+OBJECTIVE: The objective of the present study was to investigate the effect of 
+rheumatoid arthritis and functional loading through diet modification on the 
+biochemical properties of the mandibular condyle in a transgenic mouse model and 
+compare with healthy littermates.
+DESIGN: Twenty three, 4-week old hybrid male mice were used. Eleven were of 
+transgenic line hTNF 197 (Tg 197 - with rheumatoid arthritis - RA) and 12 
+healthy littermates, both from mixed background CBAxC57BL/6. Four groups of mice 
+were formed. Group 1 [n =5, RA-hard] included transgenic mice and received 
+ordinary (hard) diet; group 2 [n=6, RA-soft] included transgenic line and 
+received soft diet; group 3 [n=6, control-hard] were healthy littermates 
+receiving ordinary (hard) diet and group 4 [n=6, control-soft] were healthy 
+littermates with soft diet. Experimental period was 28 days. Following 
+sacrifice, the mandibular condyles were subjected to micro-attenuated reflection 
+Fourier transform infrared spectroscopy (micro-ATR FTIR) to reveal 
+collagen/proteoglycan conformation of the condylar cartilage, while 
+resin-embedded and metallographically polished specimens were evaluated through 
+reflection FTIR microscopy to identify mineralization status of the 
+corresponding condylar bone.
+RESULTS: The multivariable analysis revealed significantly lower a-helix to 
+amide I percentage area ratio for the transgenic animals after adjusting for 
+diet (β=-4.29, 95% CIs: -8.52, -0.06; p=0.04). Mineral phase indices did not 
+differ significantly between RA and control groups regardless the type of diet.
+CONCLUSIONS: Internal derangement of the anatomical structure with denaturation 
+in the collagen structural components of the mandibular condyles of the RA 
+animals was found, while no association with functional loading through diet 
+modification was recorded.

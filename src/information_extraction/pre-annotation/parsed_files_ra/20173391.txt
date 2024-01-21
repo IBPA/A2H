@@ -1,0 +1,19 @@
+TNF-alpha (TNF) is a pleiotropic cytokine which can have proinflammatory or 
+immunosuppressive effects, depending on the context, duration of exposure and 
+disease state. The basis for the opposing actions of TNF remains elusive. The 
+growing appreciation of CD4+FoxP3+ regulatory T cells (Tregs), which comprise 
+approximately 10% of peripheral CD4 cells, as pivotal regulators of immune 
+responses has provided a new framework to define the cellular and molecular 
+basis underlying the contrasting action of TNF. TNF by itself can overcome the 
+profound anergic state of T cell receptor-stimulated Tregs. Furthermore, in 
+concert with IL-2, TNF selectively activates Tregs, resulting in proliferation, 
+upregulation of FoxP3 expression and increases in their suppressive activity. 
+Both human and mouse Tregs predominantly express TNFR2, making it possible for 
+TNF to enhance Treg activity, which helps limit the collateral damage caused by 
+excessive immune responses and eventually terminates immune response. 
+TNFR2-expressing CD4+FoxP3+ Tregs comprise approximately 40% of peripheral Tregs 
+in normal mice and present the maximally suppressive subset of Tregs. In this 
+review, studies describing the action of TNF on Treg function will be discussed. 
+The role of Tregs in the autoimmune disorders and cancer as well as the effect 
+of anti-TNF therapy on Tregs, especially in rheumatoid arthritis, will also be 
+considered.

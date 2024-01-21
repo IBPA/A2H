@@ -1,0 +1,17 @@
+Classical immunotoxins compromise a binding component (for example, a ligand, 
+antibody or fragment thereof) and a cytotoxic component, usually derived from 
+bacteria or plants (for example, Pseudomonas exotoxin A or ricin). Despite 
+successful testing in vitro, the clinical development of immunotoxins has been 
+hampered by immunogenicity and unsatisfactory safety profiles. Therefore, 
+research has focused on fully human pro-apoptotic components suitable for the 
+development of cytolytic fusion proteins (CFP). We recently reported that human 
+microtubule-associated protein tau (MAP) can induce apoptosis when delivered to 
+rapidly proliferating cancer cells. Here, we describe a new fully human CFP 
+called H22(scFv)-MAP, which specifically targets CD64(+) cells. We show that 
+H22(scFv)-MAP can efficiently kill proliferating HL-60 pro-monocytic cells in 
+vitro. In addition, the human CFP specifically eliminates polarized M1 
+macrophages in a transgenic mouse model of cutaneous chronic inflammation. 
+Because M1 macrophages promote the pathogenesis of many chronic inflammatory 
+diseases, targeting this cell population with H22(scFv)-MAP could help to treat 
+diseases such as atopic dermatitis, rheumatoid arthritis and inflammatory bowel 
+disease.

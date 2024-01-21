@@ -1,0 +1,24 @@
+BACKGROUND: Drug resistance mediated by P-glycoprotein (P-gp) is one of the 
+major reasons for the failure of rheumatoid arthritis (RA) therapy with disease 
+modifying anti-rheumatic drugs and glucocorticoids. In the present study, we 
+aimed to investigate the in vitro effectiveness of small interfering RNA (siRNA) 
+to render rat fibroblast-like synoviocytes (FLS) susceptible to drugs. We also 
+attempted the electroporation-mediated transfer of siRNA against multidrug 
+resistance (MDR) genes into rat knee joints.
+METHODS: FLS were transfected with siRNAs corresponding to MDR1a and MDR1b 
+genes. FLS were treated with dexamethasone (DEX) and lipopolysaccharide. The 
+mRNA and protein levels of tumor necrosis factor-alpha, interleukin (IL)-6 and 
+IL-1beta were measured. Both siRNAs were co-transduced into rat knee joints by 
+an electroporation method and evaluated the target gene expressions in the 
+synovium.
+RESULTS: Each siRNA could sequence-specifically reduce the target gene 
+expression by over 70% and effectively suppressed P-gp expression and function 
+in the FLS. Both gene expression and protein production of the inflammatory 
+cytokines in the cells transfected with siRNA were reduced by a greater amount 
+compared to in control cells. The in vivo electroporation-mediated transduction 
+of siRNA could significantly inhibit the target gene expressions.
+CONCLUSIONS: MDR1a/1b gene silencing by siRNA could effectively inhibit P-gp in 
+rat FLS, resulting in a significant enhancement of the anti-inflammatory effects 
+of DEX. The in vivo siRNA transduction could successfully silence MDR gene 
+expression in the rat synovium. These findings indicate that the siRNA targeting 
+MDR gene could be a useful tool for treating refractory arthritis in RA.

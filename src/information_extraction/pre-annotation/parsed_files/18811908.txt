@@ -1,0 +1,32 @@
+Dogs that participate in animal-assisted interventions (AAIs), often called 
+'therapy dogs', commonly interact with humans whose immune systems are not 
+functioning optimally. The advisability of feeding raw meat (including poultry) 
+to these animals remains a highly contentious issue, in spite of increasing 
+evidence that raw meat is frequently contaminated with Salmonella. We set out to 
+determine if consuming raw meat influences the risk of therapy dogs shedding 
+Salmonella and other pathogens. Two hundred healthy therapy dogs from Ontario 
+and Alberta were enrolled. Between May 2005 and November 2006, fecal specimens 
+were collected from each dog every 2 months for 1 year, along with a log of 
+places visited, antimicrobial use within the home, dog health status and diet. 
+Specimens were cultured for Salmonella, methicillin-resistant Staphylococcus 
+aureus (MRSA), vancomycin-resistant enterococci (VRE), extended-spectrum 
+cephalosporinase (ESC) Escherichia coli and Clostridium difficile. Forty (20%) 
+of the dogs were reported to have been fed raw meat at some point during the 
+year. The incidence rate of Salmonella shedding in the raw meat-fed dogs was 
+0.61 cases/dog-year, compared with 0.08 cases/dog-year in dogs that were not fed 
+raw meat (P<0.001). Controlling for therapy dog group, the repeated measures, 
+and pig ear consumption and diarrhoea in the 2 months prior to specimen 
+submission, dogs that consumed raw meat were significantly more likely to test 
+positive for Salmonella at least once during the year than dogs that did not eat 
+raw meat [odds ratio (OR) 22.7; 95% confidence interval (CI) 3.1-58.8; P<0.001]. 
+Specific Salmonella serovars were more common among dogs that consumed raw meat 
+versus those that did not include S. Typhimurium, S. Heidelberg and S. Kentucky. 
+Raw meat consumption was also significantly associated with shedding ESC E. coli 
+(OR 17.2; 95% CI 9.4-32.3). No associations between C. difficile, MRSA or VRE 
+and consumption of raw meat were detected. We recommend that dogs fed raw meat 
+should be excluded from AAI programmes, particularly when the programmes involve 
+interaction with humans at high risk of infection or adverse sequelae 
+attributable to infection. Furthermore, although AAI dogs may not be 
+representative of the general population of dogs, we also recommend that feeding 
+of raw meat to dogs is to be avoided in homes where immunocompromised people 
+live.

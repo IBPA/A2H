@@ -1,0 +1,17 @@
+In this paper we study antibiotic-induced C. difficile infection (CDI), caused 
+by the toxin-producing C. difficile (CD), and implement clinically-inspired 
+simulated treatments in a computational framework that synthesizes a generalized 
+Lotka-Volterra (gLV) model with SIR modeling techniques. The gLV model uses 
+parameters derived from an experimental mouse model, in which the mice are 
+administered antibiotics and subsequently dosed with CD. We numerically identify 
+which of the experimentally measured initial conditions are vulnerable to CD 
+colonization, then formalize the notion of CD susceptibility analytically. We 
+simulate fecal transplantation, a clinically successful treatment for CDI, and 
+discover that both the transplant timing and transplant donor are relevant to 
+the the efficacy of the treatment, a result which has clinical implications. We 
+incorporate two nongeneric yet dangerous attributes of CD into the gLV model, 
+sporulation and antibiotic-resistant mutation, and for each identify relevant 
+SIR techniques that describe the desired attribute. Finally, we rely on the 
+results of our framework to analyze an experimental study of fecal transplants 
+in mice, and are able to explain observed experimental results, validate our 
+simulated results, and suggest model-motivated experiments.

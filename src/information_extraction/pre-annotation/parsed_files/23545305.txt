@@ -1,0 +1,23 @@
+Clostridium difficile is a spore-forming bacillus that produces toxin-mediated 
+enteric disease. C. difficile expresses two major virulence factors, toxin A 
+(TcdA) and toxin B (TcdB). Human and animal studies demonstrate a clear 
+association between humoral immunity to these toxins and protection against C. 
+difficile infection (CDI). The receptor binding-domains (RBDs) of TcdA and TcdB 
+are known to be immunogenic. Here, we tested the immunoadjuvant properties of 
+Salmonella enterica serovar Typhimurium flagellin (FliC) subunit D1 as an innate 
+immune agonist expressed as a recombinant fusion vaccine targeting the RBDs of 
+TcdA and TcdB in mice. Intraperitoneally immunized mice developed prominent 
+anti-TcdA and anti-TcdB immunoglobulin G in serum. The protective efficacy of 
+the recombinant vaccines, with or without an adjuvant, was tested in a mouse 
+model of CDI that closely represents the human disease. Following 
+intraperitoneal immunization equivalent to two doses of toxoid A and toxoid B 
+vaccine adjuvanted with alum and oral challenge with C. difficile VPI 10463, 
+C57BL/6 mice were able to mount a protective immune response that prevented 
+diarrhea and death compared to mice immunzed with alum alone. These results are 
+significantly different from those for control mice (P < 0.001). These results 
+provide evidence that a recombinant protein-based vaccine targeting the RBDs of 
+the C. difficile toxins adjuvanted with S. Typhimurium flagellin can induce 
+rapid, high-level protection in a mouse model of CDI when challenged with the 
+homologous strain from which the vaccine antigens were derived and warrant 
+further preclinical testing against clinically relevant C. difficile strains in 
+the mouse and hamster models of CDI.

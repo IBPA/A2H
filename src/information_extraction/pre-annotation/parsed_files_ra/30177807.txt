@@ -1,0 +1,16 @@
+Rheumatoid arthritis is a common chronic inflammatory disorder and a major cause 
+of disability. Despite the progress made with recent clinical use of 
+anti-cytokine biologics, the response rate of rheumatoid arthritis treatment 
+remains unsatisfactory, owing largely to the complexity of cytokine interactions 
+and the multiplicity of cytokine targets. Here, we show a nanoparticle-based 
+broad-spectrum anti-inflammatory strategy for rheumatoid arthritis management. 
+By fusing neutrophil membrane onto polymeric cores, we prepare neutrophil 
+membrane-coated nanoparticles that inherit the antigenic exterior and associated 
+membrane functions of the source cells, which makes them ideal decoys of 
+neutrophil-targeted biological molecules. It is shown that these nanoparticles 
+can neutralize proinflammatory cytokines, suppress synovial inflammation, target 
+deep into the cartilage matrix, and provide strong chondroprotection against 
+joint damage. In a mouse model of collagen-induced arthritis and a human 
+transgenic mouse model of arthritis, the neutrophil membrane-coated 
+nanoparticles show significant therapeutic efficacy by ameliorating joint damage 
+and suppressing overall arthritis severity.

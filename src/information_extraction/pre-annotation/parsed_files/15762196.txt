@@ -1,0 +1,25 @@
+OBJECTIVES: The H2O2 generating system of the thyrocyte and the O2- generating 
+system of macrophages and leukocytes present numerous functional analogies. The 
+main constituent enzymes belong to the NADPH oxidase (NOX) family (Duox/ThOX for 
+the thyroid and NOX2 /gp91phox for the leukocytes and macrophages), and in both 
+cell types, H2O2 generation is activated by the intracellular generation of Ca2+ 
+and diacylglycerol signals. Nevertheless, although the controls involved in 
+these two systems are similar, their mechanisms are different. The main factors 
+controlling O2- production by NOX2 are the cytosolic proteins p67phox and 
+p47phox, and Rac, a small GTP-binding protein. We have previously reported that 
+there is no expression of p67phox and p47phox in thyrocytes. Here, we 
+investigated whether Rac1 is an actor in the thyroid H2O2-generating system.
+DESIGN AND METHODS: Ionomycin- and carbamylcholine-stimulated H2O2 generation 
+was measured in dog thyroid cells pretreated with the Clostridium difficile 
+toxin B, which inhibits Rac proteins. Activation of Rac1 was measured in 
+response to agents stimulating H2O2 production, using the CRIB domain of PAK1 as 
+a probe in a glutathione S-transferase (GST) pull-down assay.
+RESULTS: Among the various agents inducing H2O2 generation in dog thyrocytes, 
+carbamylcholine is the only one which activates Rac1, whereas phorbol ester and 
+calcium increase alone have no effect, and cAMP inactivates it. Moreover, 
+whereas toxin B inhibits the stimulation of O2- generation by phorbol ester in 
+leukocytes, it does not inhibit H2O2 generation induced by carbamylcholine and 
+ionomycin in dog thyrocytes.
+CONCLUSIONS: Unlike in leukocytes, Rac proteins do not play a role in H2O2 
+generation in thyroid cells. A different regulatory cascade for the control of 
+H2O2 generation remains to be defined.

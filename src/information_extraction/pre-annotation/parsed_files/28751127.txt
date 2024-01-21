@@ -1,0 +1,19 @@
+Understanding the dynamics of secondary bile acid (SBA) formation in the gut by 
+SBA-producing bacteria is important for host health, as SBAs have been shown to 
+affect host pathophysiology and gut microbiota composition. However, our 
+knowledge of SBA producers is limited in light of the diversity of gut microbes. 
+Here, we isolated six novel SBA-producing bacteria from rat cecal contents, all 
+of which were members of known species of gut microbes. Anaerostipes caccae D10, 
+Bacteroides nordii C5, Clostridioides difficile D7, and Clostridium cadaveris 
+G11 were capable of oxidizing cholic acid and chenodeoxycholic acid into 
+7-oxo-derivatives with varying yields. B. nordii C5 and its type strain JCM 
+12987T had the highest molar yield, ∼90%. Clostridium disporicum F4 and 
+Clostridium subterminale C4 epimerized cholic acid into ursocholic acid with 
+yields of ∼85%; the corresponding type strains lacked epimerization activity. 
+Furthermore, although not novel as an SBA producer, Clostridium scindens G10 
+that produced deoxycholic acid from cholic acid was isolated for the first time 
+from rodents. These findings will contribute to elucidation of SBA formation in 
+the gut.
+
+Copyright © 2017 The Society for Biotechnology, Japan. Published by Elsevier 
+B.V. All rights reserved.

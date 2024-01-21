@@ -1,0 +1,19 @@
+Clostridium difficile toxin A causes acute colitis associated with intense 
+infiltrating neutrophils. Although dendritic cells (DCs) play an important role 
+in the regulation of inflammation, little is known about the effects of toxin A 
+on the maturation and neutrophil-attracting chemokine expression in DCs. This 
+study investigated whether C. difficile toxin A could influence the maturation 
+of mouse bone-marrow-derived DCs and chemokine CXCL2 expression. Toxin A 
+increased the DC maturation which was closely related to CXCL2 upregulation. 
+Concurrently, toxin A activated the signals of p65/p50 nuclear factor kappa B 
+(NF-kappaB) heterodimers and phospho-I kappa B kinase (IKK) in DCs. The 
+increased DC maturation, CXCL2 expression, and neutrophil chemoattraction were 
+significantly downregulated in the NF-kappaB knockout mice. In addition, toxin A 
+activated the phosphorylated signals of mitogen-activated protein kinases 
+(MAPKs), such as ERK, p38, and JNK. Of all three MAPK signals, p38 MAPK was 
+significantly related to DC maturation. Thus, suppression of p38 activity using 
+SB203580 and siRNA transfection resulted in the significant reduction of IKK 
+activity, DC maturation, and CXCL2 upregulation by toxin A. These results 
+suggest that p38 MAPK may lead to the activation of IKK and NF-kappaB signaling, 
+resulting in enhanced DC maturation and CXCL2 expression in response to C. 
+difficile toxin A stimulation.

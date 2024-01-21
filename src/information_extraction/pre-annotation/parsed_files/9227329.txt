@@ -1,0 +1,28 @@
+Clostridium difficile (Cd) toxins appear to mediate the inflammatory response in 
+pseudomembranous colitis and/or colitis associated with the use of antibiotics. 
+In contrast to Cd Toxin A (TxA), Cd Toxin B (TxB) has been reported not to 
+promote fluid secretion or morphological damage in rabbits and hamsters and also 
+does not induce neutrophil chemotaxis in vitro. However, TxB is about 1000 times 
+more potent than TxA in stimulating the release of tumour necrosis factor-alpha 
+(TNF-alpha) by cultured monocytes. In the present study, we investigated the 
+ability of TxB to promote neutrophil migration into peritoneal cavities and 
+subcutaneous air-pouches of rats. We also examined the role of resident 
+peritoneal cells in this process as well as the inflammatory mediators involved. 
+TxB caused a significant and dose-dependent neutrophil influx with a maximal 
+response at 0.1 microgram/cavity after 4 hr. Depleting the peritoneal resident 
+cell population by washing the peritoneal cavity or increasing this population 
+by pretreating the animals with thioglycollate blocked and amplified the 
+TxB-induced neutrophil migration, respectively. Pretreating the animals with 
+MK886 (a lipoxygenase inhibitor), NDGA (a dual cyclo- and lipoxygenase 
+inhibitor) or the glucocorticoid, dexamethasone, but not with indomethacin (a 
+cyclo-oxygenase inhibitor), or BN52021 (a platelet-activating factor 
+antagonist), inhibited the neutrophil migration evoked by TxB. Pretreatment with 
+dexamethasone or the administration of anti-TNF-alpha serum into the air-pouches 
+also significantly reduced the TxB-induced neutrophil migration. Supernatants 
+from TxB-stimulated macrophages induced neutrophil migration when injected into 
+the rat peritoneal cavity. This effect was attenuated by the addition of either 
+MK886 or dexamethasone to the macrophage monolayer and by preincubating the 
+supernatants with anti-TNF-alpha serum. TxB also stimulated the release of 
+TNF-alpha by macrophages. Overall, these results suggest that TxB induces an 
+intense neutrophil migration which is mediated by macrophage-derived TNF-alpha 
+and lipoxygenase products.

@@ -1,0 +1,17 @@
+An antibody response to defined epitopes located on the triple helical portion 
+of type II collagen (CII) is associated with the development of collagen-induced 
+arthritis (CIA) and rheumatoid arthritis (RA). Monoclonal antibodies to epitopes 
+associated with arthritis, but not antibodies specific for epitopes not 
+associated with arthritis, induce arthritis in mice, the so-called collagen 
+antibody induced arthritis (CAIA) model. We have selected monoclonal IgG 
+antibodies specific for four well-defined major epitopes on triple helical CII, 
+the C1, J1, D3 and U1 epitopes. These antibodies bind the epitopes specifically 
+as determined using recombinant or synthetic triple helical epitopes. They are 
+encoded from somatically mutated V genes. They all bind cartilage in vivo in 
+normal mice. All of the antibodies induce mild arthritis after injection 
+intravenously and if injected as a cocktail they induce severe clinical 
+arthritis. Intravenous injection of a total of 4 mg antibodies (0.5 mg 
+antibodies per clone) induced arthritis in several different mouse strains 
+without any secondary immune stimulus and intraperitoneal injection of LPS 7 
+days later dramatically raised the severity. Thus, this method is recommended as 
+a new protocol for the induction of CAIA.

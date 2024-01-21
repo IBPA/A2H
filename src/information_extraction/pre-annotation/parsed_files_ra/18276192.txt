@@ -1,0 +1,14 @@
+The pathogenesis of T cell-mediated diseases like rheumatoid arthritis (RA) has 
+typically been explained in the context of the Th1-Th2 paradigm: the 
+initiation/propagation by pro-inflammatory cytokines, and downregulation by Th2 
+cytokines. However, in our study based on the adjuvant-induced arthritis (AA) 
+model of RA, we observed that Lewis (LEW) (RT.1(l)) rats at the recovery phase 
+of AA showed the highest level of IFN-gamma in recall response to mycobacterial 
+heat-shock protein 65 (Bhsp65), whereas AA-resistant Wistar-Kyoto (WKY) 
+(RT.1(l)) rats secreted high levels of IFN-gamma much earlier following disease 
+induction. However, no significant secretion of IL-10 or TGF-beta was observed 
+in either strain. Furthermore, pre-treatment of LEW rats with a peptide of self 
+(rat) hsp65 (R465), which induced T cells secreting predominantly IFN-gamma, 
+afforded protection against AA and decreased IL-17 expression by the 
+arthritogenic epitope-restimulated T cells. These results provide a novel 
+perspective on the pathogenesis of autoimmune arthritis.

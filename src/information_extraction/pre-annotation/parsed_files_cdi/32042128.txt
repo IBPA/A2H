@@ -1,0 +1,23 @@
+Although Clostridium difficile is widely considered an antibiotic- and 
+hospital-associated pathogen, recent evidence indicates that this is an 
+insufficient depiction of the risks and reservoirs. A common thread that links 
+all major risk factors of infection is their association with gastrointestinal 
+disturbances, but this relationship to C. difficile colonization has never been 
+tested directly. Here, we show that disturbances caused by diarrhoeal events 
+trigger susceptibility to C. difficile colonization. Using survey data of the 
+human gut microbiome, we detected C. difficile colonization and blooms in people 
+recovering from food poisoning and Vibrio cholerae infections. Carriers remained 
+colonized for year-long time scales and experienced highly variable patterns of 
+C. difficile abundance, where increased shedding over short periods of 1-2 d 
+interrupted week-long periods in which C. difficile was undetectable. Given that 
+short shedding events were often linked to gastrointestinal disturbances, our 
+results help explain why C. difficile is frequently detected as a co-infecting 
+pathogen in patients with diarrhoea. To directly test the impact of diarrhoea on 
+susceptibility to colonization, we developed a mouse model of variable 
+disturbance intensity, which allowed us to monitor colonization in the absence 
+of disease. As mice exposed to avirulent C. difficile spores ingested increasing 
+quantities of laxatives, more individuals experienced C. difficile blooms. Our 
+results indicate that the likelihood of colonization is highest in the days 
+immediately following acute disturbances, suggesting that this could be an 
+important window during which transmission could be interrupted and the 
+incidence of infection lowered.

@@ -1,0 +1,24 @@
+OBJECTIVES: The aim of the study was to assess the role of extracellular 
+cytochrome c as an inducer of joint inflammation and to examine its levels in 
+sera and synovial fluids of rheumatoid arthritis (RA) patients.
+METHODS: Mice were injected intra-articularly with different doses of cytochrome 
+c and joints were evaluated histopathologically and immunohistochemically 3 and 
+10 days later. In addition, mouse spleen cells were stimulated with different 
+concentrations of cytochrome c, followed by assessment of NF-kappaB activation 
+and cytokine production. Sera and synovial fluid from RA patients and sera from 
+healthy individuals were assessed with respect to cytochrome c levels by an 
+enzyme-linked immunoassay technique.
+RESULTS: Histopathological signs of arthritis were evident in 75% of animals 
+following intra-articular injection of cytochrome c. Synovitis was characterized 
+by influx of Mac-1+ cells. In vivo depletion of neutrophils and monocytes led to 
+abrogation of arthritis. Stimulation of mouse spleen cells in vitro with 
+cytochrome c resulted in activation of NF-kappaB and release of proinflammatory 
+cytokines and chemokines. Cytochrome c levels in RA patients' sera were 
+significantly lower than in healthy controls. Further, cytochrome c levels in 
+synovial fluid were significantly lower than in corresponding blood samples.
+CONCLUSIONS: Our findings demonstrate that extracellular cytochrome c displays 
+direct proinflammatory properties mediated by activation of NF-kappaB and 
+causing neutrophil and monocyte triggered inflammation. We hypothesize that 
+decreased levels of cytochrome c in RA patients reflect consumption of this 
+molecule in the synovial tissue, decreasing apoptosis and shifting the balance 
+towards inflammation.

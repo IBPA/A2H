@@ -1,0 +1,17 @@
+Oritavancin is a novel glycopeptide antibiotic with concentration-dependent 
+killing of Gram-positive cocci and pharmacokinetics characterized by extensive 
+tissue distribution and a long terminal half-life. Its development was hindered 
+by a 16- to 32-fold underestimation of activity against staphylococci and 
+enterococci because of oritavancin's sticking to vials and tubes. 
+Dose-fractionation studies in animal models suggested the peak concentration was 
+the major index for efficacy. Once-daily intravenous administration of 
+oritavancin was effective in methicillin-resistant Staphylococcus aureus (MRSA) 
+endocarditis, penicillin-susceptible and cephalosporin-resistant pneumococcal 
+meningitis in rabbits, staphylococcal and enterococcal central venous catheter 
+infections in rats, and 24-hour postprophylaxis of inhaled anthrax in mice. 
+Orally administered oritavancin was more effective than vancomycin in 
+Clostridium difficile infection in hamsters. Pharmacodynamics suggested that a 
+single dose of oritavancin at 1200 mg would be efficacious in humans. Simulation 
+of this dose in neutropenic mice was highly effective in methicillin-sensitive 
+S. aureus and MRSA thigh and bacteremia infections and pneumococcal lung 
+infections.

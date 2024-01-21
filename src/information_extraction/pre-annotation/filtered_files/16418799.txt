@@ -1,0 +1,22 @@
+CD166 is an Ig superfamily molecule that binds homotypically to itself and 
+heterotypically to CD6. Interactions between CD6 and CD166 are important during 
+immune development and in alloreactivity. CD166 is expressed at increased levels 
+in selected cancers and in rheumatoid arthritis synovium. Knowledge that CD166 
+was expressed in normal human salivary epithelium led to these studies of CD166 
+and CD6 in diseased mouse salivary glands, that resemble pathology seen in the 
+human disease, Sjögren's syndrome. We showed that in mouse salivary epithelium 
+CD166 was expressed but that expression of CD166 did not necessarily predict its 
+function. Recombinant soluble CD6-Ig bound to CD6 ligands (CD6L) on transformed 
+and freshly isolated salivary epithelial cells. Cross-blocking studies showed 
+that binding of CD6-Ig to salivary epithelium was in part dependent on CD166, 
+but that CD6-Ig binding may also involve additional CD6L. Binding of CD6-Ig was 
+sensitive to trypsin digestion but resistant to digestion by collagenase and 
+sialidase. Anti-CD166 ab precipitated CD166 from salivary epithelium pre- and 
+post-treatment with the pro-inflammatory cytokine IFN-gamma. In contrast CD6-Ig 
+only precipitated CD166 from IFN-gamma treated cells. More extensive 
+colocalization between CD166 and the actin cytoskeleton was observed in 
+sialoadenitis epithelium compared to control. We conclude that during 
+sialoadenitis, CD166 undergoes a gain of function, resulting in closer 
+association with the actin cytoskeleton and increased capacity to bind CD6. We 
+suggest that altered CD166 function may contribute to the pro-inflammatory 
+milieu during sialoadenitis seen in Sjögren's syndrome.

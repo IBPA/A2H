@@ -1,0 +1,25 @@
+AIMS: Quantitative data on the doses needed to inactivate micro-organisms on 
+fomites are not available for ultraviolet applications. The goal of this study 
+was to determine the doses of UV light needed to reduce bacteria and murine 
+norovirus (MNV) on hard surface fomites through experimentation and to identify 
+appropriate models for predicting targeted levels of reduction.
+METHODS AND RESULTS: Stainless steel and Formica laminate coupons were selected 
+as they are common surfaces found in healthcare settings. Test organisms 
+included methicillin-resistant Staphylococcus aureus (MRSA), 
+vancomycin-resistant Enterococcus (VRE), Clostridium difficile and MNV. The 
+fomites were inoculated with 105 -107 bacteria or virus and exposed to a range 
+of UV doses. The order of resistance to UV irradiation was virus, bacterial 
+spore and vegetative cell. The best fitting inactivation curves suggested 
+nonlinear responses to increasing doses after a 3-4 log reduction in the test 
+organisms. The average UV doses required for a 3 log reduction in the C. 
+difficile, MRSA and VRE were 16 000, 6164 and 11 228 (mJ-s cm-2 ) for stainless 
+steel, respectively, and 16 000, 11 727 and 12 441 (mJ-s cm-2 ) for Formica 
+laminate, respectively.
+CONCLUSIONS: Higher UV light doses are required to inactivate bacteria and 
+viruses on hard surfaces than in suspension. Greater doses are needed to 
+inactivate bacterial spores and MNV compared to vegetative bacteria.
+SIGNIFICANCE AND IMPACT OF THE STUDY: Quantitative data and models on UV light 
+doses needed to inactivate bacteria and MNV on hard surfaces are now available. 
+The generalizable results of this study can be used to estimate required UV 
+dosages to achieve targeted levels of inactivation based on estimated levels of 
+contamination or to support quantitative microbial risk assessments.

@@ -1,0 +1,18 @@
+Pathogenic mechanisms relevant to rheumatoid arthritis occur in the mouse model 
+of collagen-induced arthritis (CIA). Cytosolic phospholipase A2alpha 
+(cPLA2alpha) releases arachidonic acid from cell membranes to initiate the 
+production of prostaglandins and leukotrienes. These inflammatory mediators have 
+been implicated in the development of CIA. To test the hypothesis that 
+cPLA2alpha plays a key role in the development of CIA, we backcrossed 
+cPLA2alpha-deficient mice on the DBA/1LacJ background that is susceptible to 
+CIA. The disease severity scores and the incidence of disease were markedly 
+reduced in cPLA2alpha-deficient mice compared with wild-type littermates. At 
+completion of the study, >90% of the wild-type mice had developed disease 
+whereas none of the cPLA2alpha-deficient mice had more than one digit inflamed. 
+Furthermore, visual disease scores correlated with severity of disease 
+determined histologically. Pannus formation, articular fibrillation, and 
+ankylosis were all dramatically reduced in the cPLA2alpha-deficient mice. 
+Although the disease scores differed significantly between cPLA2alpha mutant and 
+wild-type mice, anti-collagen antibody levels were similar in the wild-type mice 
+and mutant littermates. These data demonstrate the critical role of cPLA2alpha 
+in the pathogenesis of CIA.

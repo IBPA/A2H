@@ -1,0 +1,17 @@
+Clostridium difficile CD37, a clinical isolate from the USA, does not produce 
+toxin A, B or binary toxin. The aim of this study was to determine whether 
+strain CD37 can protect mice against infection from a challenge with a toxigenic 
+C. difficile strain. Three groups of mice (n = 10) were pretreated with a 
+antibiotics cocktail for 5 days, switched to sterile water for 2 days, and given 
+one dose of clindamycin (10 mg/kg) one day (day-1) before challenge (day 0) with 
+a toxigenic C. difficile strain. Group 1 (CD37 + UK6) was given 10(7)C. 
+difficile CD37 vegetative cells by gavage twice a day on days -1 and -2, 
+followed by challenge with 10(6) spores of the toxigenic C. difficile UK6 
+(BI/NAPI/027) on day 0; Group 2 (UK6) was infected with 10(6)C. difficile UK6 
+spores on day 0; Group 3 (CD37) was challenged with 10(6) CD37 vegetative cells 
+on day 0. Our data show that pre-inoculation of strain CD37 provided mice 
+significant protection (survival, p < 0.001 between groups CD37 + UK6 and UK6) 
+against subsequent infection with the strain UK6, while mice infected with CD37 
+only did not develop any symptoms of C. difficile infection (CDI). Our results 
+highlight the potential use of CD37 as a therapeutic strain for the prevention 
+of primary and recurrent CDI in humans.

@@ -1,0 +1,21 @@
+Toxin A released by Clostridium difficile interacts with the single layer of 
+intestinal epithelial cells that lines the host's intestinal tract and leads to 
+mucosal damage and inflammation that manifests clinically as 
+antibiotic-associated diarrhea and pseudomembranous colitis. Activation of the 
+transcription factor NF-kappaB in intestinal epithelial cells is important for 
+regulating the expression of epithelial cell proinflammatory genes and cell 
+survival. However, the role of NF-kappaB activation in the pathogenesis of C. 
+difficile toxin A-induced colitis is unknown. To determine the functional 
+importance in vivo of NF-kappaB activation in intestinal epithelium in the 
+pathogenesis of C. difficile-induced colitis, we used mutant mice that do not 
+activate the classical NF-kappaB signaling pathway in intestinal epithelial 
+cells due to a conditional deficiency in those cells of the IkappaB-kinase beta 
+(IKKbeta) subunit of IKK. C. difficile toxin A challenge of intestinal loops in 
+intestinal epithelial cell IKKbeta-deficient mice induced a rapid and 
+significant increase in intestinal epithelial apoptosis compared with littermate 
+controls. This was accompanied by a significant increase in acute mucosal 
+inflammation, mucosal injury, luminal fluid secretion, and bacterial 
+translocation. We conclude that activation of intestinal epithelial cell 
+NF-kappaB by toxin A plays an important host mucosal protective role after C. 
+difficile toxin A exposure that is mediated, at least in part, through promoting 
+epithelial cell survival by abrogating epithelial cell apoptosis.

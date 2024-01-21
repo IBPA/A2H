@@ -1,0 +1,10 @@
+Eosinophilia is a characteristic feature of many inflammatory diseases including 
+inflammatory bowel disease and asthma. It also occurs in a subtype of rheumatoid 
+arthritis but the role of eosinophils has been unclear and animal models have 
+been lacking. Here, we introduce a new mouse model to study the role of 
+eosinophilia in arthritis. Intraperitoneal injection of type II collagen alone, 
+without any adjuvant, was sufficient to induce chronic arthritis in a mouse with 
+transgenic T cells specific for type II collagen. The arthritis was accompanied 
+by infiltration of eosinophils into the synovial tissue and the disease could be 
+blocked with neutralizing anti-IL-5 antibodies. To our knowledge, this is the 
+first description of an eosinophilic disease form of destructive arthritis.

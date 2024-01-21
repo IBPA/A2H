@@ -1,0 +1,22 @@
+Macrophage colony-stimulating factor (M-CSF) is a key factor for 
+osteoclastogenesis at the bone-pannus interface in patients with rheumatoid 
+arthritis as well as a receptor activator of NF-kappaB ligand (RANKL). Imatinib 
+mesylate inhibits the phosphorylation of c-fms, a receptor for M-CSF. The 
+present study investigates the effect of imatinib mesylate on joint destruction 
+in rats with collagen-induced arthritis (CIA) and on osteoclastogenesis in 
+vitro. Imatinib mesylate (50 or 150 mg/kg), dexamethasone, or vehicle was 
+administered daily to CIA rats for 4 weeks from the onset of arthritis. Hind-paw 
+swelling and body weight were measured weekly. At weeks 2 and 4, the 
+metatarsophalangeal (MTP) joints and the ankle and subtalar joints were 
+radiographically and histologically assessed. The effect of imatinib mesylate on 
+osteoclast formation from rat bone marrow cells with M-CSF and soluble RANKL 
+(sRANKL) in vitro was also examined. Radiographic assessment showed that 150 
+mg/kg imatinib mesylate suppressed the destruction of the MTP and the ankle and 
+subtalar joints at week 2, and MTP joint destruction at week 4 in CIA rats, 
+although hind-paw swelling was not suppressed. The number of TRAP-positive cells 
+at the bone-pannus interface was significantly reduced in the group administered 
+with 150 mg/kg imatinib mesylate compared with that given vehicle at week 4. 
+Imatinib mesylate dose-dependently inhibited the proliferation of 
+M-CSF-dependent osteoclast precursor cells in vitro as well as osteoclast 
+formation induced by M-CSF and sRANKL. These findings suggest that imatinib 
+mesylate could prevent joint destruction in patients with rheumatoid arthritis.

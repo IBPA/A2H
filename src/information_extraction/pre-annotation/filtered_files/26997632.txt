@@ -1,0 +1,25 @@
+C1q/TNF-related protein 3 (CTRP3) is a secreted hormone that modulates hepatic 
+glucose and lipid metabolism. Its circulating levels are reduced in human and 
+rodent models of obesity, a metabolic state accompanied by chronic low-grade 
+inflammation. Recent studies have demonstrated an anti-inflammatory role for 
+recombinant CTRP3 in attenuating LPS-induced systemic inflammation, and its 
+deficiency markedly exacerbates inflammation in a mouse model of rheumatoid 
+arthritis. We used genetic mouse models to explore the immunomodulatory function 
+of CTRP3 in response to acute (LPS challenge) and chronic (high-fat diet) 
+inflammatory stimuli. In a sublethal dose of LPS challenge, neither CTRP3 
+deficiency nor its overexpression in transgenic mice had an impact on IL-1β, 
+IL-6, TNF-α, or MIP-2 induction at the serum protein or mRNA levels, contrary to 
+previous findings based on recombinant CTRP3 administration. In a metabolic 
+context, we measured 71 serum cytokine levels in wild-type and CTRP3 transgenic 
+mice fed a high-fat diet or a matched control low-fat diet. On a low-fat diet, 
+CTRP3 transgenic mice had elevated circulating levels of multiple chemokines 
+(CCL11, CXCL9, CXCL10, CCL17, CX3CL1, CCL22 and sCD30). However, when obesity 
+was induced with a high-fat diet, CTRP3 transgenic mice had lower circulating 
+levels of IL-5, TNF-α, sVEGF2, and sVEGFR3, and a higher level of soluble gp130. 
+Contingent upon the metabolic state, CTRP3 overexpression altered chemokine 
+levels in lean mice, and attenuated systemic inflammation in the setting of 
+obesity and insulin resistance. These results highlight a context-dependent 
+immunomodulatory role for CTRP3.
+
+© 2016 The Authors. Physiological Reports published by Wiley Periodicals, Inc. 
+on behalf of the American Physiological Society and The Physiological Society.

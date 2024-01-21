@@ -1,0 +1,29 @@
+OBJECTIVE: To investigate the effects of M40403, a synthetic mimetic of 
+superoxide dismutase (SOD), on collagen-induced arthritis (CIA) in rats.
+METHODS: CIA was elicited in Lewis rats by intradermal injection of 100 microl 
+of an emulsion of bovine type II collagen (CII) in Freund's incomplete adjuvant 
+at the base of the tail. A second injection was given on day 21.
+RESULTS: Immunization induced an erosive arthritis of the hind paws. Macroscopic 
+evidence of CIA first appeared as periarticular erythema and edema in the hind 
+paws by days 24-26 after the first injection, with a 100% incidence by days 27. 
+Severity progressed over a 35-day period. Radiography revealed soft tissue 
+swelling and focal resorption of bone, together with osteophyte formation in the 
+tibiotarsal joint. Histopathologic features included erosion of the articular 
+cartilage at the joint margins and subchondral bone resorption associated with 
+bone-derived multinucleated cell-containing granulomatous lesions. Treatment 
+with M40403 (2-10 mg/kg/day) starting at the onset of arthritis (day 25) 
+ameliorated the clinical signs on days 26-35 and improved the histologic 
+findings in the joint and paw. Immunohistochemical analysis for nitrotyrosine (a 
+marker of peroxynitrite formation) and poly(ADP-ribose) polymerase (PARP; a 
+nuclear enzyme activated by DNA single-strand damage) revealed positive staining 
+in the inflamed joints of CII-treated rats, suggestive of the formation of 
+peroxynitrite and DNA damage, both of which were markedly reduced by M40403 
+treatment. Radiographic evidence of protection from bone resorption, osteophyte 
+formation, and soft tissue swelling was apparent in the tibiotarsal joints of 
+M40403-treated rats. Arthritic rats treated with M40403 gained weight at the 
+same rate and to the same extent as normal, nonarthritic rats.
+CONCLUSION: This study shows that a low molecular weight mimetic of SOD, M40403, 
+attenuates the degree of chronic inflammation, tissue damage, and bone damage 
+associated with CIA in the rat, and supports the possible use of SOD mimetics as 
+therapeutic agents for the management of chronic diseases such as rheumatoid 
+arthritis.

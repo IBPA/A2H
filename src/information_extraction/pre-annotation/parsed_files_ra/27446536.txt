@@ -1,0 +1,14 @@
+The culture of synovial fibroblasts (SFs) is one of the most effective tools for 
+investigating the pathology and physiology of synovial tissues and should prove 
+useful for identifying the importance of SFs in disease as well as for the 
+development of novel therapeutic approaches for several chronic joint diseases, 
+such as rheumatoid arthritis. However, thus far, a detailed protocol for the 
+primary culture and isolation of murine SFs has not been established. Therefore, 
+the present study describes an easy and convenient method for isolating and 
+culturing SFs from C57BL/6 mice. This protocol can be divided into 4 stages: 
+Isolation of synovial tissues, isolation of SFs, seeding of SFs for growth in 
+culture and purity analysis of SFs using the four cell markers, vimentin, 
+cluster of differentiation 90.2 (CD90.2; Thy-1.2), intracellular adhesion 
+molecule 1 (CD54) and vascular cell adhesion molecule 1 (CD106). This method is 
+efficient and a purified population of SFs can be obtained 10 days after the 
+initiation of culture.

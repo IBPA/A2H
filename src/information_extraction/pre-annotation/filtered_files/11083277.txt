@@ -1,0 +1,32 @@
+OBJECTIVE: To determine the role of chondrocytes and factors released from 
+chondrocytes in cartilage destruction by fibroblast-like synoviocytes (FLS) 
+derived from patients with rheumatoid arthritis (RA).
+METHODS: RA FLS from 2 patients were implanted into SCID mice, together with 
+fresh articular cartilage or with cartilage that had been stored for 24 hours at 
+4 degrees C or at 37 degrees C. The invasion of the same RA FLS into the fresh 
+and stored cartilage was compared histologically using a semiquantitative 
+scoring system. In addition, we investigated whether protein synthesis in 
+chondrocytes affects the invasion of RA FLS in vitro. A 3-dimensional 
+cartilage-like matrix formed by cultured chondrocytes was labeled with 35S. 
+After formation of the cartilage-like matrix, protein synthesis was blocked with 
+cycloheximide. The invasion of RA FLS from 6 patients into cycloheximide-treated 
+and untreated matrix was assessed by measuring the released radioactivity in 
+coculture with and without interleukin-1beta (IL-1beta) and tumor necrosis 
+factor alpha (TNFalpha).
+RESULTS: The SCID mouse experiments showed a significant invasion of RA FLS into 
+the cartilage (overall mean score 3.2) but revealed significant differences when 
+the invasion of the same RA FLS into fresh and stored cartilage was compared. RA 
+FLS that were implanted with fresh articular cartilage showed a significantly 
+higher invasiveness than those implanted with pieces of cartilage that had been 
+stored for 24 hours (overall mean score 2.3). Storage at 37 degrees C and 4 
+degrees C resulted in the same reduction of invasion (35% and 37%, 
+respectively). In the in vitro experiments, RA FLS rapidly destroyed the 
+cartilage-like matrix. Blocking of chondrocyte protein biosynthesis 
+significantly decreased the invasion of RA FLS, as shown by a decreased release 
+of radioactivity. Addition of IL-1beta, but not TNFalpha, to the cocultures 
+partially restored the invasiveness of RA FLS.
+CONCLUSION: These data underline the value of the SCID mouse in vivo model of 
+rheumatoid cartilage destruction and demonstrate that chondrocytes contribute 
+significantly to the degradation of cartilage by releasing factors that 
+stimulate RA FLS. Among those, IL-1beta-mediated mechanisms might be of 
+particular importance.

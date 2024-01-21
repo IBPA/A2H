@@ -1,0 +1,32 @@
+Diclofenac (DCLF) is a nonsteroidal anti-inflammatory drug that is widely used 
+for the treatment of osteoarthritis, rheumatoid arthritis, ankylosing 
+spondylitis, and acute muscle pain conditions. Toxic doses of DCLF can cause 
+nephrotoxicity in humans and experimental animals. However, whether this 
+DCLF-induced nephrotoxicity involves apoptotic cell death in addition to 
+necrosis is unknown. The goals of this investigation were to determine whether 
+DCLF-induced nephrotoxicity involves oxidative stress and apoptotic type genomic 
+DNA fragmentation, and if so, whether DCLF-induced oxidative stress and DNA 
+fragmentation cause apoptotic cell death in mouse kidneys. Male ICR mice (CD-1; 
+25-45 g), fed ad libitum, were administered nephrotoxic doses of DCLF (100, 200, 
+300 mg/Kg, po) and sacrificed 24 h later. Blood was collected to evaluate renal 
+injury (BUN), lipid peroxidation (MDA: malondialdehyde levels), and superoxide 
+dismutase (SOD) activity (a marker of oxidative stress). Kidney tissues were 
+analyzed both quantitatively and qualitatively to determine the degree and type 
+of DNA damage, and evaluated histopathologically for the presence of apoptotic 
+characteristics in the nucleus of diverse types of kidney cells. Results show 
+that diclofenac is a powerful nephrotoxicant (at 100, 200, and 300 mg/kg: 4.7-, 
+4.9-, and 5.0-fold increases in BUN compared to the control, respectively) and a 
+strong inducer of oxidative stress (significant increase in MDA levels). 
+Oxidative stress induced by DCLF was also coupled with massive kidney DNA 
+fragmentation (100, 200, and 300 mg/kg: 3-, 8-, and 10-fold increases compared 
+to control, respectively). A dose-dependent increase in MDA levels and SOD 
+activity was also observed, which indicated a link between oxidative stress and 
+nephrotoxicity. Qualitative analysis of DNA fragmentation by gel electrophoresis 
+showed a DNA ladder indicative of Ca2+-Mg2+-endonuclease activation. 
+Histopathological examination of kidney sections revealed numerous apoptotic 
+nuclei across proximal and distal tubular cell linings. Collectively, these data 
+for the first time suggest that DCLF-induced nephrotoxicity may involve 
+production of reactive oxygen species leading to oxidative stress and massive 
+genomic DNA fragmentation, and these two free radical mediated events may 
+ultimately translate into apoptotic cell death of kidney cells in vivo, and 
+reveal a DNA-active role for DCLF.

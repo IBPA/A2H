@@ -1,0 +1,24 @@
+OBJECTIVE: Glucocorticoid-induced leucine zipper (GILZ) is a 
+glucocorticoid-induced protein, the reported molecular interactions of which 
+suggest that it functions to inhibit inflammation. However, the role of 
+endogenous GILZ in the regulation of inflammation in vivo has not been 
+established. This study was undertaken to examine the expression and function of 
+GILZ in vivo in collagen-induced arthritis (CIA), a murine model of rheumatoid 
+arthritis (RA), and in RA synoviocytes.
+METHODS: GILZ expression was detected in mouse and human synovium by 
+immunohistochemistry and in cultured cells by real-time polymerase chain 
+reaction and permeabilization flow cytometry. GILZ function was assessed in vivo 
+by small interfering RNA (siRNA) silencing using cationic liposome-encapsulated 
+GILZ or control nontargeting siRNA and was assessed in vitro using transient 
+overexpression.
+RESULTS: GILZ was readily detectable in the synovium of mice with CIA and was 
+up-regulated by therapeutic doses of glucocorticoids. Depleting GILZ expression 
+in vivo increased the clinical and histologic severity of CIA and increased 
+synovial expression of tumor necrosis factor and interleukin-1 (IL-1), without 
+affecting the levels of circulating cytokines or anticollagen antibodies. GILZ 
+was highly expressed in the synovium of patients with active RA and in cultured 
+RA synovial fibroblasts, and GILZ overexpression in synovial fibroblasts 
+inhibited IL-6 and IL-8 release.
+CONCLUSION: Our findings indicate that GILZ functions as an endogenous inhibitor 
+of chronic inflammation via effects on cytokine expression and suggest that 
+local modulation of GILZ expression could be a beneficial therapeutic strategy.

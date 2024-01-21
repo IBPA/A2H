@@ -1,0 +1,19 @@
+BACKGROUND & AIMS: Nerves have been suggested to mediate the effects of 
+bacterial toxins in intestinal diseases. However, the mechanisms involved are 
+unknown. This study examined endogenous substance P (SP) activation of the 
+substance P receptor (SPR) on enteric neurons in the rat ileum after exposure to 
+intraluminal Clostridium difficile toxin A.
+METHODS: After intraluminal injection of toxin A in ileal loops, tissue was 
+examined for pathological changes by histology and for SPR activation by 
+immunocytochemical analysis of SP-induced SPR endocytosis.
+RESULTS: After toxin A administration, > 70% of enteric neurons showed SPR 
+endocytosis and became swollen with thickened dendrites. In contrast, SPRs in 
+control rats were largely confined to the plasma membrane. Rats denervated of 
+primary afferent fibers with neonatal capsaicin injection and animals pretreated 
+with a nonpeptide SPR antagonist showed few endosomal SPRs, and the pathological 
+inflammatory effects of toxin A were ablated.
+CONCLUSIONS: Intraluminal toxin A causes the release of SP from primary afferent 
+neurons: this endogenous SP then acts on enteric neurons in the submucosal and 
+myenteric plexuses. SP is the primary mediator of an axon reflex mediating 
+neurogenic inflammation in the intestine. SPR blockade may prove to be a novel 
+therapy used to prevent intestinal inflammation.

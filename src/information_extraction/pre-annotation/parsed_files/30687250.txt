@@ -1,0 +1,19 @@
+Clostridioides difficile is the leading cause of worldwide 
+antibiotics-associated diarrhea. In this study, we report the construction and 
+evaluation of a novel bacteriophage lysin-human defensin fusion protein 
+targeting C. difficile. The fusion protein, designated LHD, is composed of two 
+parts connected by a 3-repeating unit linker "(GGGGS)3": the catalytic domain of 
+a lysin protein from a C. difficile bacteriophage phiC2 (LCD), and the 
+functional domain of a human defensin protein HD5. Lytic assays showed that LHD 
+protein had a potent lytic activity against different types of clinical C. 
+difficile strains, including the epidemic 027, 078, 012, and 087 strains. The 
+minimum inhibitory concentration (MIC) of LHD was 0.78 μg/ml, which was lower 
+than the MIC of the protein LCD (1.56 μg/ml), and the MICs of metronidazole (4 
+μg/ml) and vancomycin (4 μg/ml). In addition, the LHD protein could lyse C. 
+different strains in different pHs (6.0, 7.0, and 8.0). Evaluation of LHD 
+potency in vivo using mouse model of C. difficile infection (CDI) showed that 
+administration of the LHD protein (twice daily for 7 days) was effective in 
+mitigating the symptoms and reducing the death from CDI. Treatment with LHD also 
+significantly decreased the number of C. difficile spores and the toxin level in 
+feces from the infected mice. Our data suggest that this novel lysin-human 
+defensin fusion protein has a potential on CDI control.

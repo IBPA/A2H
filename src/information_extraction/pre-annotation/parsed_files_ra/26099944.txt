@@ -1,0 +1,27 @@
+INTRODUCTION: Rheumatoid arthritis (RA) is a chronic inflammatory autoimmune 
+disease that affects around 1% of the human population worldwide. RA diagnosis 
+can be difficult as there is no definitive test for its detection. Therefore, 
+the aim of this study was to identify biomarkers that could be used for RA 
+diagnosis.
+METHODS: Sera from a collagen-induced arthritis mouse model were used to select 
+potential biomarkers for RA diagnosis by phage display technology. In silico and 
+in vitro analyses were performed to characterize and validate the selected 
+peptides. Samples were classified into three groups: RA; two other 
+immune-mediated rheumatic diseases (systemic lupus erythematosus (SLE) and 
+ankylosing spondylitis (AS)); and healthy controls (HC). Enzyme-linked 
+immunosorbent assay (ELISA) was carried out to determine antibody levels, and 
+diagnostic parameters were determined by constructing receiver operating 
+characteristic curves. Mass spectrometry and Western blot were performed to 
+identify the putative autoantigen that was mimicked by a highly reactive 
+mimotope.
+RESULTS: After three rounds of selection, 14 clones were obtained and tested for 
+immunoreactivity analysis against sera from RA and HC groups. The phage-fused 
+peptide with the highest immunoreactivity (M12) was synthesized, and was able to 
+efficiently discriminate RA patients from SLE, AS and HCs (p < 0.0001) by ELISA. 
+The specificity and sensitivity of anti-M12 antibodies for RA diagnosis were 91 
+% and 84.3 %, respectively. The M12 peptide was identified as one that mimics a 
+predicted antigenic site of the carbonic anhydrase III (CAIII) protein, a 
+ubiquitous biomarker that has been identified in patients with other diseases.
+CONCLUSION: M12 is the first peptide associated with the CAIII protein that may 
+be used as an antigen for antibody detection to aid in RA diagnosis with high 
+sensitivity and specificity.

@@ -1,0 +1,23 @@
+BACKGROUND Norepinephrine (NE), a neurotransmitter released from the sympathetic 
+nerves, has been shown to be involved in rheumatoid arthritis (RA). However, its 
+role in the sympathetic nervous system in RA is divergent. Herein, we 
+demonstrate that the sympathetic neurotransmitter NE exerts an anti-inflammatory 
+effect in collagen-induced arthritis (CIA), a mouse model of RA, by inhibiting 
+Th17 cell differentiation and function via β2-adrenergic receptor (β2-AR) 
+signaling. MATERIAL AND METHODS CIA was prepared by intradermal injection of 
+collagen type II in the tail base of DBA1/J mice. On the 41st day 
+post-immunization, the mice were used as CIA models. CD4+ T cells from the 
+spleen were purified using magnetic cell sorting and activated with anti-CD3 
+anti-CD28 antibodies. Th17 cells were polarized from the CD4+ T cells using 
+various antibodies and cytokines. RESULTS Co-expression of CD4 and β2-AR was 
+observed in spleens of both intact and CIA mice. The β2-AR expression in the 
+ankle and spleen was downregulated in CIA mice. CIA induced increases in 
+production of interleukin (IL)-17 and IL-22, CD25-IL-17+ cell percentage, and 
+ROR-γt expression in CD4+ T cells. Importantly, NE reduced the CIA-induced CD4+ 
+T cell shift towards Th17 phenotype, and the β2-AR antagonist ICI118551 blocked 
+the NE effect. Moreover, the β2-AR agonist terbutaline (Terb) inhibited 
+CIA-induced CD4+ T cell proliferation and shift towards Th17 phenotype, and the 
+protein kinase A (PKA) inhibitor H-89 abolished the agonist effect. Terb also 
+reduced CIA-induced Th17 enhancement, and H-89 impaired the Terb effect. 
+CONCLUSIONS NE inhibits Th17 cell differentiation and function in CIA condition 
+by activation of β2-AR/PKA signaling.

@@ -1,0 +1,17 @@
+A major challenge for chemotherapy of bacterial infections is perturbation of 
+the intestinal microbiota. Clostridioides difficile is a Gram-positive bacterium 
+of the gut that can thrive under this circumstance. Its production of dormant 
+and antibiotic-impervious spores results in chronic disruption of normal gut 
+flora and debilitating diarrhea and intestinal infection. C. difficile is 
+responsible for 12,800 deaths per year in the United States. Here, we report the 
+discovery of 
+2-(4-(3-(trifluoromethoxy)phenoxy)picolinamido)benzo[d]oxazole-5-carboxylate as 
+an antibacterial with potent and selective activity against C. difficile. Its 
+MIC50 and MIC90 (the concentration required to inhibit the growth of 50% and 90% 
+of all the tested strains, respectively) values, documented across 101 strains 
+of C. difficile, are 0.12 and 0.25 μg/mL, respectively. The compound targets 
+cell wall biosynthesis, as assessed by macromolecular biosynthesis assays and by 
+scanning electron microscopy. Animals infected with a lethal dose of 
+C. difficile and treated with compound 1 had a similar survival compared to 
+treatment with vancomycin, which is the frontline antibiotic used for 
+C. difficile infection.

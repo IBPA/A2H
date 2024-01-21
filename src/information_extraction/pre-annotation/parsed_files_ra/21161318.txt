@@ -1,0 +1,17 @@
+β1,4-galactosyltransferase-I (β1,4-GalT-I), which is one of the best-studied 
+glycosyltransferases, plays a key role in the synthesis of selectin ligands such 
+as sialyl Lewis (sLe(x)) and sulfated sLe(x). Previous studies showed that 
+inflammatory responses of β1,4-GalT-I-deficient mice were impaired because of 
+the defect in selectin-ligand biosynthesis. However, the expression of 
+β1,4-GalT-I and its biological function in rheumatoid arthritis (RA) remain to 
+be elucidated. The mRNA and protein expression of β1,4-GalT-I increased in 
+synovial tissue of the RA group compared with the Normal group at 10d and 15d 
+after collagen-induced. Double staining indicated β1,4-GalT-I overlapped with 
+macrophage-like synoviocytes (MLSs), fibroblast-like synoviocytes (FLSs), 
+neutrophils and tumor necrosis factor-α (TNF-α). Moreover, β1,4-GalT-I mRNA in 
+FLSs in vitro was affected in a dose- and time-dependent manner in response to 
+TNF-α stimulation. ELISA revealed that expression of TNF-α was attenuated in 
+FLSs in vitro treated with β1,4-GalT-I-Ab. We therefore suggest that β1,4-GalT-I 
+may play an important role in the inflammation process of RA synovial tissue, 
+which would provide the foundation for further researching into the concrete 
+mechanism of β1,4-GalT-I in RA.

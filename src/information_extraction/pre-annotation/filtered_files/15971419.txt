@@ -1,0 +1,23 @@
+OBJECTIVES: Inflammatory mediators such as interleukin-6 and tumor necrosis 
+factor-alpha play an important role in the pathogenesis of rheumatoid arthritis 
+(RA) by promoting chronic inflammation and joint damage. NF-kappaB is a 
+transcriptional activator of genes for these cytokines. It also plays an 
+important role in the regulation of osteoclast differentiation which plays a key 
+role in joint destruction in RA. Ligands for peroxisome proliferator-activated 
+receptor (PPAR) -gamma have recently been reported to inhibit the development of 
+RA. In this study, we investigated the role of PPARalpha in RA.
+METHODS: We analyzed the protein expression of PPAR-alpha and -gamma in 
+rheumatoid synovial fibroblasts (RSF) from RA patients and analyzed the effects 
+of ligands for PPAR-alpha and -gamma on cytokine production from RSF NF-kappaB 
+activations in RSF and osteoclast differentiation from osteocalst progenitor in 
+the peripheral blood. Moreover, we analyzed the effects of oral administration 
+of PPAR-alpha and -gamma ligands on the development of adjuvant-induced 
+arthritis (AIA) in female Lewis rats.
+RESULTS: We confirmed the expression of PPAR-alpha in RSF and also demonstrated 
+that fenofibrate, a ligand for PPAR-alpha, inhibited cytokine production from 
+RSF, NF- kappaB activation in RSF, and osteoclast differentiation from 
+osteoclast progenitor cells. Furthermore, we demonstrated that fenofibrate 
+inhibits the development of arthritis in a rat model of human RA.
+CONCLUSIONS: These results indicate that fenofibrate suppresses the development 
+of arthritis by inhibition of NF-kappaB signaling; therefore, this compound 
+offers possible anti-rheumatic drug.

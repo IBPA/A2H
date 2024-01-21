@@ -1,0 +1,23 @@
+Some immune system disorders, such as type 1 diabetes, multiple sclerosis (MS), 
+and rheumatoid arthritis (RA), share common features: the presence of 
+autoantibodies and self-reactive T-cells, and a genetic association with the 
+major histocompatibility complex. We have previously published evidence, from 
+1,708 families, for linkage and association of a haplotype of three markers in 
+the D18S487 region of chromosome 18q21 with type 1 diabetes. Here, the three 
+markers were typed in an independent set of 627 families and, although there was 
+evidence for linkage (maximum logarithm of odds score [MLS] = 1.2; P = 0.02), no 
+association was detected. Further linkage analysis revealed suggestive evidence 
+for linkage of chromosome 18q21 to type 1 diabetes in 882 multiplex families 
+(MLS = 2.2; lambdas = 1.2; P = 0.001), and by meta-analysis the orthologous 
+region (also on chromosome 18) is linked to diabetes in rodents (P = 9 x 
+10(-4)). By meta-analysis, both human chromosome 18q12-q21 and the rodent 
+orthologous region show positive evidence for linkage to an autoimmune phenotype 
+(P = 0.004 and 2 x 10(-8), respectively, empirical P = 0.01 and 2 x 10(-4), 
+respectively). In the diabetes-linked region of chromosome 18q12-q21, a 
+candidate gene, deleted in colorectal carcinoma (DCC), was tested for 
+association with human autoimmunity in 3,380 families with type 1 diabetes, MS, 
+and RA. A haplotype ("2-10") of two newly characterized microsatellite markers 
+within DCC showed evidence for association with autoimmunity (P = 5 x 10(-6)). 
+Collectively, these data suggest that a locus (or loci) exists on human 
+chromosome 18q12-q21 that influences multiple autoimmune diseases and that this 
+association might be conserved between species.

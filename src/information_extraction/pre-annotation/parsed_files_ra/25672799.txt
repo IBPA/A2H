@@ -1,0 +1,18 @@
+OBJECTIVE: It was tested as to why low-dose methotrexate (MTX) effective against 
+rheumatoid arthritis poses considerable health risk at higher doses.
+METHODS: The tumorigenic potential of My1/De blast cells was followed by 
+cytology and by the kinetics of (18)FDG uptake. The toxicity of MTX on chromatin 
+condensation was compared to predictive normal intermediates of chromosome 
+condensation in control cells.
+RESULTS: MTX below 0.1 µg/ml did not cause visible changes in interphase 
+chromatin structure. At its lowest toxic concentration (0.1 µg/ml) chromatin 
+margination was confined to the outer edge of the nucleus. Between 0.1 and 5 
+µg/ml concentrations apoptotic chromatin shrinkage correlated with the dose of 
+MTX. Apoptosis was exerted in early S phase excluding the mitotic effect. At 
+higher MTX concentrations (>10 µg/ml) necrotic disruption and expansion took 
+place. The lowest necrotic concentration (10 µg/ml) was close to highest 
+apoptotic MTX concentration (5 µg/ml).
+CONCLUSIONS: The switch from apoptosis to inflammatory necrosis taking place 
+within a narrow concentration range supports the notion of a narrow therapeutic 
+spectrum. Chromatin changes are early markers of genotoxicity at much lower 
+concentrations than citogenetic changes in properly chosen sensitive cells.

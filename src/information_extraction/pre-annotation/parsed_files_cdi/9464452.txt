@@ -1,0 +1,29 @@
+We utilized clostridial toxins (with known specificities for inhibition of 
+GTPases) to ascertain the contribution of candidate GTPases in physiologic 
+insulin secretion from beta cells. Exposure of normal rat islets or isolated 
+beta (HIT-T15) cells to Clostridium difficile toxins A and B catalyzed the 
+glucosylation (and thereby the inactivation) of Rac, Cdc42, and Rho endogenous 
+to beta cells; concomitantly, either toxin reduced glucose- or potassium-induced 
+insulin secretion from rat islets and HIT cells. Treatment of beta cells with 
+Clostridium sordellii lethal toxin (LT; which modified only Ras, Rap, and Rac) 
+also reduced glucose- or potassium-induced secretion. However, clostridial toxin 
+C3-exoenzyme (which ADP-ribosylates and inactivates only Rho) was without any 
+effect on either glucose- or potassium-induced insulin secretion. These data 
+suggest that Cdc42, Rac, Ras, and/or Rap (but not Rho) may be needed for 
+glucose- or potassium-mediated secretion. The effects of these toxins appear to 
+be specific on stimulus-secretion coupling, since no difference in metabolic 
+viability (assessed colorimetrically by quantitating the conversion of the 
+tetrazolium salt into a formazan in a reduction reaction driven by nutrient 
+metabolism) was demonstrable between control and toxin (A or LT)-treated beta 
+cells. Toxin (A or LT) treatment also did not alter glucose- or 
+potassium-mediated rises in cytosolic free calcium concentrations ([Ca2+]i), 
+suggesting that these GTPases are involved in steps distal to elevations in 
+[Ca2+]i. Recent findings indicate that the carboxyl methylation of Cdc42 is 
+stimulated by only glucose, whereas that of Rap (Kowluru et al., J Clin Invest 
+98: 540-555, 1996) and Rac (present study) are regulated by glucose or 
+potassium. Together, these findings provide direct evidence, for the first time, 
+that the Rho subfamily of GTPases plays a key regulatory role(s) in insulin 
+secretion, and they suggest that Cdc42 may be required for early steps in 
+glucose stimulation of insulin release, whereas Rap and/or Rac may be required 
+for a later step(s) in the stimulus-secretion coupling cascade (i.e. 
+Ca2+-induced exocytosis of insulin).

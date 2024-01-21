@@ -1,0 +1,19 @@
+OBJECTIVE: To investigate the expression of discoidin domain receptor 2 (DDR2) 
+of fibroblast-like synovial cells in improved adjuvant-induced animal (AIA) 
+model for rheumatoid arthritis (RA) and to provide evidence for DDR2's 
+antagonist use clinically.
+METHODS: AIA was modified by administrating 0.1 mL of complete Freund's adjuvant 
+(CFA, mixed with 5 mg Bacillus Calmette-Guerin vaccine/mL) into rats' right hind 
+paws and 0.125 mL tumor necrosis factor-alpha (2 U/mL) into right ankles and 
+subpatellar fatty tissue. The expression of DDR2 in fibroblast-like synovial 
+cells was assessed using immunohistochemistry, immunofluorescence 
+histochemistry, and in situ hybridization methods. Levels of anti-collagen II 
+antibody were measured using enzyme-linked immunosorbent assay.
+RESULTS: Given the terms mentioned above, we found a more practical rat model, 
+apparently decreasing immunization time (average 3-5 days). DDR2 can be detected 
+upon the 15th day of immunization; expression gradually increased with time 
+going on, and reaching a peak 35 days after immunization before gradually 
+decreasing. Serum anti-collagen II antibody showed similar expression patterns 
+as DDR2, but reached peak later than DDR2, about 40 days after immunization.
+CONCLUSION: Regular expression of DDR2 in animal models infers its important 
+role in the pathological process of RA.

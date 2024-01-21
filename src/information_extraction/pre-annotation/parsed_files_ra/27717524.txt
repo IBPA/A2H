@@ -1,0 +1,21 @@
+We set out to investigate the influence of STA-21, a dynamic STAT-3 inhibitor, 
+on the expansion and progression of rheumatoid arthritis (RA), and to determine 
+its potential mechanisms of action in a mouse model of collagen antibody-induced 
+arthritis (CAIA). To this end, arthritis was induced via intravenous (IV) 
+injection of Balb/c mice with a cocktail of antibodies directed against type II 
+collagen (1.5μg/mouse, IV), followed by lipopolysaccharide (LPS) at a dose of 
+(25μg/mouse, i.p.) on day 3. Mice were then left untreated or were 
+simultaneously treated with STA-21 (0.5mg/kg, i.p., once daily for 2 weeks) 
+followed by evaluation for clinical and histological features of arthritic 
+inflammation and flow cytometric analysis of cytokines and transcription factors 
+in peripheral blood. STA-21 enhanced the clinical course of arthritis in CAIA 
+mice and decreased CD8+RORγt+ and CD8+IL-21+ cells while inducing the production 
+of CD8+Foxp3+ cells. Furthermore, STA-21 prevented the production of TNF-α and 
+IL-6 in peripheral blood and increased IL-27 production by CD14+ cells. 
+Moreover, STA-21 not only regulates Th1/Th2 serum cytokine levels but also the 
+mRNA and protein expression of key factors including NF-κB p65, RORγt, T-bet, 
+IL-4, GATA-3, JAK1, Stat3, and IL-21. Thus, administration of the Stat3 
+inhibitor STA-21 inhibits cellular signaling pathways and downstream activation 
+of key transcription factors previously shown to play key roles in the 
+pathogenesis of RA. Therefore, these data suggest that STA-21 could be 
+considered as a potential treatment for patients with RA.

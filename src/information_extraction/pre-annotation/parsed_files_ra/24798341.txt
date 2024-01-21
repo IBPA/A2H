@@ -1,0 +1,23 @@
+Rheumatoid arthritis (RA) is an inflammatory autoimmune disease with no known 
+cure. Current strategies to treat RA, including methotrexate (MTX), target the 
+later inflammatory stage of disease. Recently, we showed that inhibiting 
+indoleamine-2,3-dioxygenase (IDO) with 1-methyl-tryptophan (1MT) targets 
+autoantibodies and cytokines that drive the initiation of the autoimmune 
+response. Therefore, we hypothesized that combining 1MT with MTX would target 
+both the initiation and chronic inflammatory phases of the autoimmune response 
+and be an effective co-therapeutic strategy for arthritis. To test this, we used 
+K/BxN mice, a pre-clinical model of arthritis that develops joint-specific 
+inflammation with many characteristics of human RA. Mice were treated with 1MT, 
+MTX, alone or in combination, and followed for arthritis, autoantibodies, and 
+inflammatory cytokines. Both 1MT and MTX were able to partially inhibit 
+arthritis when used individually; however, combining MTX + 1MT was significantly 
+more effective than either treatment alone at delaying the onset and alleviating 
+the severity of joint inflammation. We went on to show that combination of 
+MTX + 1MT did not lower inflammatory cytokine or autoantibody levels, nor could 
+the synergistic co-therapeutic effect be reversed by the adenosine receptor 
+antagonist theophylline or be mimicked by inhibition of polyamine synthesis. 
+However, supplementation with folinic acid did reverse the synergistic 
+co-therapeutic effect, demonstrating that, in the K/BxN model, MTX synergizes 
+with 1MT by blocking folate metabolism. These data suggest that pharmacological 
+inhibition of IDO with 1MT is a potential candidate for use in combination with 
+MTX to increase its efficacy in the treatment of RA.

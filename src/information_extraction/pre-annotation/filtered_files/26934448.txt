@@ -1,0 +1,19 @@
+The membrane-associated matrix metalloproteinase-14, MT1-MMP, has been 
+implicated in pericellular proteolysis with an important role in cellular 
+invasion of collagenous tissues. It is substantially upregulated in various 
+cancers and rheumatoid arthritis, and has been considered as a potential 
+therapeutic target. Here, we report the identification of antibody fragments to 
+MT1-MMP that potently and specifically inhibit its cell surface functions. Lead 
+antibody clones displayed inhibitory activity towards pro-MMP-2 activation, 
+collagen-film degradation and gelatin-film degradation, and were shown to bind 
+to the MT1-MMP catalytic domain outside the active site cleft, inhibiting 
+binding to triple helical collagen. Affinity maturation using CDR3 randomization 
+created a second generation of antibody fragments with dissociation constants 
+down to 0.11 nM, corresponding to an improved affinity of 332-fold with the 
+ability to interfere with cell-surface MT1-MMP functions, displaying IC50 values 
+down to 5 nM. Importantly, the new inhibitors were able to inhibit collagen 
+invasion by tumor-cells in vitro and in vivo primary tumor growth and metastasis 
+of MDA-MB-231 cells in a mouse orthotopic xenograft model. Herein is the first 
+demonstration that an inhibitory antibody targeting sites outside the catalytic 
+cleft of MT1-MMP can effectively abrogate its in vivo activity during 
+tumorigenesis and metastasis.

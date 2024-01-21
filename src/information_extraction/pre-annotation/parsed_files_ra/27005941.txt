@@ -1,0 +1,20 @@
+Autoimmune rheumatoid arthritis is characterized by chronic inflammation and 
+hyperplasia in the synovial joints. Although the cause of rheumatoid arthritis 
+is largely unknown, substantial evidence has supported the importance of immune 
+cells and inflammatory cytokines in the initiation and progression of this 
+disease. Herein, we demonstrated that the benzoxathiole derivative 
+2-cyclohexylimino-6-methyl-6,7-dihydro-5H-benzo[1,3]oxathiol-4-one (BOT-4-one) 
+alleviated type II collagen-induced arthritis in a mouse model. The levels of 
+pro-inflammatory cytokines are elevated in both human patients with rheumatoid 
+arthritis and mice with collagen-induced arthritis. BOT-4-one treatment reduced 
+the levels of pro-inflammatory cytokines in mice and endotoxin-stimulated 
+macrophages. BOT-4-one treatment suppressed the polarization of Th1- and 
+Th17-cell subsets by inhibiting the expression and production of their 
+lineage-specific master transcription factors and cytokines, as well as 
+activation of signal transducer and activator of transcription proteins. In 
+addition, BOT-4-one inhibited mitogen-activated protein kinase and NF-kappaB 
+signaling as well as the transcriptional activities and DNA-binding of 
+transcription factors, including activator protein-1, cAMP response 
+element-binding protein and NF-kappaB. Our results suggest that BOT-4-one may 
+have therapeutic potential for the treatment of chronic inflammation associated 
+with autoimmune rheumatoid arthritis.

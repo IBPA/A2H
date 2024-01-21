@@ -1,0 +1,20 @@
+Clostridium difficile toxin A causes severe intestinal inflammation and fluid 
+secretion in rabbit ileum and is chemotactic for neutrophils in vitro. The 
+mechanism of intestinal injury produced by toxin A appears to involve direct 
+epithelial cell damage as well as recruitment of an inflammatory cell response. 
+The current study was undertaken to determine if toxin A can directly stimulate 
+a proliferative response in lymphocytes. Highly purified toxin A, in the 
+presence of the calcium ionophore, ionomycin, stimulated substantial 
+[3H]thymidine incorporation by murine splenic lymphocytes, which was maximal at 
+10(-9) M toxin A and 800 ng/ml ionomycin. Removal of T cells with anti-Thy-1.2 
+antibody plus complement had no effect on the proliferative response induced by 
+toxin A. However, [3H]thymidine incorporation in response to toxin A was 
+significantly inhibited (P less than 0.001) by the removal of macrophages from 
+splenocyte suspensions and was restored by the addition of peritoneal 
+macrophages or cell-free supernatant from toxin A-treated macrophage cultures. 
+Analysis of the toxin A-treated macrophage supernatants showed high levels of 
+IL-1, but not IL-2 or IL-4. The combination of recombinant IL-1 plus ionomycin 
+was found to stimulate [3H]thymidine incorporation by T cell-depleted splenic 
+lymphocytes. These results suggest that toxin A stimulates the release of IL-1, 
+and possibly other factors, from macrophages which can costimulate murine B 
+lymphocytes.

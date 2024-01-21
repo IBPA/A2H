@@ -1,0 +1,20 @@
+Clostridium difficile toxin B (269 kDa), which is one of the causative agents of 
+antibiotic-associated diarrhea and pseudomembranous colitis, inactivates Rho 
+GTPases by glucosylation. Here we studied the uptake and membrane interaction of 
+the toxin with eukaryotic target cells. Bafilomycin A1, which prevents 
+acidification of endosomal compartments, blocked the cellular uptake of toxin B 
+in Chinese hamster ovary cells cells. Extracellular acidification (pH </= 5.2) 
+induced uptake of toxin B into the cytosol even in the presence of bafilomycin 
+A1. Toxin B increased (86)Rb(+) release when preloaded Chinese hamster ovary 
+cells were exposed to low pH (pH </= 5.6) for 5 min. Release of (86)Rb(+) 
+depended on the concentration of toxin B and on the pH of the extracellular 
+medium. An antibody directed against the holotoxin prevented channel formation, 
+whereas an antibody against the N-terminal enzyme domain was without effect. The 
+N-terminally truncated toxin B fragment consisting of amino acids 547-2366 
+increased (86)Rb(+) efflux when cells were exposed to low pH. Toxin B also 
+induced pH-dependent channel formation in artificial lipid bilayer membranes. 
+Clostridium sordellii lethal toxin, another member of the family of large 
+clostridial cytotoxins, also induced increased (86)Rb(+) release at low pH. The 
+results suggest that large clostridial cytotoxins including C. difficile toxin B 
+and C. sordellii lethal toxin undergo structural changes at low pH of endosomes 
+that are accompanied by membrane insertion and channel formation.

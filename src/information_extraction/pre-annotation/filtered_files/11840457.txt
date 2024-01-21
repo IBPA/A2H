@@ -1,0 +1,25 @@
+OBJECTIVE: To elucidate the roles of interleukin-1 (IL-1) in the development of 
+2 etiologically different rheumatoid arthritis (RA) models: the type II collagen 
+(CII)-induced arthritis (CIA) model and the human T cell leukemia virus type I 
+transgenic (HTLV-I Tg) mouse model.
+METHODS: For the CIA model, DBA/1J-background IL-1alpha-/-, IL-1beta-/-, 
+IL-1alpha/beta-/-, and wild-type littermate mice were immunized with CII. For 
+the HTLV-I Tg model, BALB/c IL-1beta-/- or IL-1alpha/beta-/- mice were crossed 
+with HTLV-I Tg mice. The effects of IL-1 deficiency were assessed as follows: 
+Development of arthritis was assessed both macroscopically and microscopically. 
+Serum antibody titer was measured by enzyme-linked immunosorbent assay. 
+Proliferative response of lymph node cells was assayed by measurement of 
+(3)H-thymidine incorporation. Expression of T cell surface molecule CD40 ligand 
+(CD40L) and OX40 was determined by multicolor flow cytometric analysis.
+RESULTS: The development of arthritis was markedly suppressed in 
+IL-1alpha/beta-/- mice in both models, although the effect was less prominent in 
+HTLV-I Tg mice. Deficiency of only IL-1alpha or only IL-1beta was also 
+associated with disease suppression. Antibody production after immunization with 
+CII was normal in IL-1alpha/beta-/- mice, while autoantibody production was 
+suppressed in IL-1alpha/beta-/- HTLV-I Tg mice. In IL-1alpha/beta-/- mice, the T 
+cell proliferative response against CII was greatly reduced in both the CIA and 
+the HTLV-I Tg models, suggesting inefficiency of T cell activation. Furthermore, 
+expression of CD40L and OX40 on T cells was greatly reduced in IL-1alpha/beta-/- 
+mice.
+CONCLUSION: These observations suggest that T cell activation by IL-1 is 
+important for the development of autoimmunity and arthritis in these mice.

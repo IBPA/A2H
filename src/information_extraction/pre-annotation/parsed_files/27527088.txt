@@ -1,0 +1,25 @@
+Clostridium difficile causes infections of the colon in susceptible patients. 
+Specifically, gut dysbiosis induced by treatment with broad-spectrum antibiotics 
+facilitates germination of ingested C. difficile spores, expansion of vegetative 
+cells, and production of symptom-causing toxins TcdA and TcdB. The current 
+standard of care for C. difficile infections (CDI) consists of administration of 
+antibiotics such as vancomycin that target the bacterium but also perpetuate gut 
+dysbiosis, often leading to disease recurrence. The monoclonal antitoxin 
+antibodies actoxumab (anti-TcdA) and bezlotoxumab (anti-TcdB) are currently in 
+development for the prevention of recurrent CDI. In this study, the effects of 
+vancomycin or actoxumab/bezlotoxumab treatment on progression and resolution of 
+CDI were assessed in mice and hamsters. Rodent models of CDI are characterized 
+by an early severe phase of symptomatic disease, associated with high rates of 
+morbidity and mortality; high intestinal C. difficile burden; and a disrupted 
+intestinal microbiota. This is followed in surviving animals by gradual recovery 
+of the gut microbiota, associated with clearance of C. difficile and resolution 
+of disease symptoms over time. Treatment with vancomycin prevents disease 
+initially by inhibiting outgrowth of C. difficile but also delays microbiota 
+recovery, leading to disease relapse following discontinuation of therapy. In 
+contrast, actoxumab/bezlotoxumab treatment does not impact the C. difficile 
+burden but rather prevents the appearance of toxin-dependent symptoms during the 
+early severe phase of disease, effectively preventing disease until the 
+microbiota (the body's natural defense against C. difficile) has fully 
+recovered. These data provide insight into the mechanism of recurrence following 
+vancomycin administration and into the mechanism of recurrence prevention 
+observed clinically with actoxumab/bezlotoxumab.

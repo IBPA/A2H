@@ -1,0 +1,21 @@
+The roles of the c-Jun N-terminal kinases (JNKs) in inflammatory arthritis have 
+been investigated; however, the roles of each isotype (ie, JNK1 and JNK2) in 
+rheumatoid arthritis and conclusions about whether inhibition of one or both is 
+necessary for amelioration of disease are unclear. By using JNK1- or 
+JNK2-deficient mice in the collagen-induced arthritis and the KRN T-cell 
+receptor transgenic mouse on C57BL/6 nonobese diabetic (K/BxN) serum transfer 
+arthritis models, we demonstrate that JNK1 deficiency results in protection from 
+arthritis, as judged by clinical score and histological evaluation in both 
+models of inflammatory arthritis. In contrast, abrogation of JNK2 exacerbates 
+disease. In collagen-induced arthritis, the distinct roles of the JNK isotypes 
+can, at least in part, be explained by altered regulation of CD86 expression in 
+JNK1- or JNK2-deficient macrophages in response to microbial products, thereby 
+affecting T-cell-mediated immunity. The protection from K/BxN serum-induced 
+arthritis in Jnk1(-/-) mice can also be explained by inept macrophage function 
+because adoptive transfer of wild-type macrophages to Jnk1(-/-) mice restored 
+disease susceptibility. Thus, our results provide a possible explanation for the 
+modest therapeutic effects of broad JNK inhibitors and suggest that future 
+therapies should selectively target the JNK1 isoform.
+
+Copyright © 2011 American Society for Investigative Pathology. Published by 
+Elsevier Inc. All rights reserved.

@@ -1,0 +1,24 @@
+OBJECTIVE: To investigate the molecular mechanisms of the antiarthritic effects 
+of bee venom (BV) and melittin (a major component of BV) in a murine macrophage 
+cell line (Raw 264.7) and in synoviocytes obtained from patients with rheumatoid 
+arthritis.
+METHODS: We evaluated the antiarthritic effects of BV in a rat model of 
+carrageenan-induced acute edema in the paw and in a rat model of chronic 
+adjuvant-induced arthritis. The inhibitory effects of BV and melittin on 
+inflammatory gene expression were measured by Western blotting, and the 
+generation of prostaglandin E(2) (PGE(2)) and nitric oxide (NO) and the 
+intracellular calcium level were assayed. NF-kappaB DNA binding and 
+transcriptional activity were determined by gel mobility shift assay or by 
+luciferase assay. Direct binding of BV and melittin to the p50 subunit of 
+NF-kappaB was determined with a surface plasmon resonance analyzer.
+RESULTS: BV (0.8 and 1.6 mug/kg) reduced the effects of carrageenan- and 
+adjuvant-induced arthritis. This reducing effect was consistent with the 
+inhibitory effects of BV (0.5, 1, and 5 mug/ml) and melittin (5 and 10 mug/ml) 
+on lipopolysaccharide (LPS; 1 mug/ml)-induced expression of cyclooxygenase 2, 
+cytosolic phospholipase A(2), inducible NO synthase, generation of PGE(2) and 
+NO, and the intracellular calcium level. BV and melittin prevented LPS-induced 
+transcriptional and DNA binding activity of NF-kappaB via the inhibition of 
+IkappaB release and p50 translocation. BV (affinity [K(d)] = 4.6 x 10(-6)M) and 
+melittin (K(d) = 1.2 x 10(-8)M) bound directly to p50.
+CONCLUSION: Target inactivation of NF-kappaB by directly binding to the p50 
+subunit is an important mechanism of the antiarthritic effects of BV.

@@ -1,0 +1,25 @@
+Fissistigma oldhamii (Hemsl.) Merr [F. oldhamii], a traditional Chinese herb 
+medicine, is widely used for treating rheumatoid arthritis (RA) in China. 
+Following bioactivity-guided isolation, a representative immunosuppressive 
+compound with low cytotoxicity, 
+7'-(3',4'-dihydroxyphenyl)-N-[(4-methoxyphenyl)ethyl]propenamide (Z23), was been 
+identified in this herb medicine. We investigated the immunosuppressive effects 
+of Z23 on T cells in vitro and in vivo. The results showed that Z23 in a 
+dose-dependent manner significantly inhibited the proliferation of splenocytes 
+induced by concanavalin A (ConA) and by the mixed lymphocyte culture reaction 
+(MLR), with half inhibitive concentration (IC(50)) values of 6.22 microM and 
+0.78 microM, respectively. Z23 also dose-dependently inhibited the proliferation 
+and type 1 cytokine (IFN-gamma and IL-2) production of primary T cells 
+stimulated by anti-CD3/CD28 mAbs, but did not affect IL-12 production by mouse 
+peritoneal macrophages (pMphi) stimulated with LPS plus IFN-gamma in vitro. 
+Administration of Z23 (6.25 mg/kg, 12.5 mg/kg, 25 mg/kg, i.p.) dose-dependently 
+suppressed 2,4-dinitrofluorobenzene (DNFB)-induced delayed-type hypersensitivity 
+(DTH) reactions. Furthermore, administration of Z23 (25 mg/kg, i.p.) 
+significantly reduced the incidence and severity of type II bovine collagen 
+(CII)-induced arthritis (CIA), which was associated with the inhibition of 
+CII-specific T cell proliferation and type 1 cytokine (IFN-gamma and IL-2) 
+production. In this study, we report that a representative immunosuppressive 
+compound from F. oldhamii, Z23, effectively inhibits murine immune responses in 
+vitro and in vivo, and that the immunosuppressive effects of Z23 might be 
+attributed to suppression of T cell activation and function and Th1 type 
+cytokine production.

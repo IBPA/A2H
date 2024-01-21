@@ -1,0 +1,26 @@
+Clostridioides difficile infection (CDI) is associated with increasing morbidity 
+and mortality posing an urgent threat to public health. Recurrence of CDI after 
+successful treatment with antibiotics is high, thus necessitating discovery of 
+novel therapeutics against this enteric pathogen. Administration of the 
+secondary bile acid ursodeoxycholic acid (UDCA; ursodiol) inhibits the life 
+cycles of various strains of C. difficile in vitro, suggesting that the 
+FDA-approved formulation of UDCA, known as ursodiol, may be able to restore 
+colonization resistance against C. difficile in vivo However, the mechanism(s) 
+by which ursodiol is able to restore colonization resistance against C. 
+difficile remains unknown. Here, we confirmed that ursodiol inhibits C. 
+difficile R20291 spore germination and outgrowth, growth, and toxin activity in 
+a dose-dependent manner in vitro In a murine model of CDI, exogenous 
+administration of ursodiol resulted in significant alterations in the bile acid 
+metabolome with little to no changes in gut microbial community structure. 
+Ursodiol pretreatment resulted in attenuation of CDI pathogenesis early in the 
+course of disease, which coincided with alterations in the cecal and colonic 
+inflammatory transcriptome, bile acid-activated receptors nuclear farnesoid X 
+receptor (FXR) and transmembrane G-protein-coupled membrane receptor 5 (TGR5), 
+which are able to modulate the innate immune response through signaling pathways 
+such as NF-κB. Although ursodiol pretreatment did not result in a consistent 
+decrease in the C. difficile life cycle in vivo, it was able to attenuate an 
+overly robust inflammatory response that is detrimental to the host during CDI. 
+Ursodiol remains a viable nonantibiotic treatment and/or prevention strategy 
+against CDI. Likewise, modulation of the host innate immune response via bile 
+acid-activated receptors FXR and TGR5 represents a new potential treatment 
+strategy for patients with CDI.

@@ -1,0 +1,20 @@
+PURPOSE: The authors investigated whether circulating autoantibodies against 
+M(3) muscarinic acetylcholine receptors (mAChRs) could be a new marker for 
+diagnosis for primary and secondary Sjögren syndrome (SS) dry eye.
+METHODS: Enzyme-linked immunosorbent assay (ELISA) using both rat exorbital 
+lacrimal gland acinar cell membranes and synthetic 25-mer peptide as antigens 
+was used to determine autoantibodies against acinar cells and M(3) mAChRs. Also, 
+nitric oxide synthase (NOS) activity was assessed to determine the biological 
+effect of these autoantibodies in relation to the M(3) mAChR.
+RESULTS: Sera from dry eye primary SS (pSS) or secondary SS (sSS) patients 
+tested by ELISA recognized membrane lacrimal gland acinar cells antigens and the 
+synthetic 25-mer peptide, corresponding to the second extracellular loop of 
+human M(3) mAChRs. Moreover, the IgG fraction and the corresponding 
+affinity-purified anti-M(3) peptide autoantibodies from the same patients were 
+able to activate NOS coupled to lacrimal gland M(3) mAChRs. As controls, IgG and 
+sera from women without dry eye with or without rheumatoid arthritis and from 
+normal control subjects gave negative results on ELISA and biological assay; 
+thus demonstrating the specificity of the reaction.
+CONCLUSIONS: Autoantibodies against mAChR may be considered among the serum 
+factors implicated in the pathophysiology of the development of pSS dry eyes and 
+could be a new marker to differentiate SS dry eyes from non-SS dry eyes.

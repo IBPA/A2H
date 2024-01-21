@@ -1,0 +1,18 @@
+We describe a copy-number variant (CNV) for which deletion alleles confer a 
+protective affect against rheumatoid arthritis (RA). This CNV reflects net unit 
+deletions and expansions to a normal two-unit tandem duplication located on 
+human chr12p13.31, a region with conserved synteny to the rat RA susceptibility 
+quantitative trait loci Oia2. Genotyping, using the paralogue ratio test and SNP 
+intensity data, in Swedish samples (2,403 cases, 1,269 controls) showed that the 
+frequency of deletion variants is significantly lower in cases (P = 0.0012, 
+OR = 0.442 [95%CI 0.258-0.755]). Reduced frequencies of deletion variants were 
+also seen in replication materials comprising 9,201 UK samples (1,846 cases, 
+7,355 controls) and 2,963 US samples (906 controls, 1,967 cases) 
+(Mantel-Haenszel P = 0.036, OR = 0.559 [95%CI 0.323-0.966]). Combining the three 
+datasets produces a Mantel-Haenszel OR of 0.497 (P < 0.0002). The deletion 
+variant lacks 129-kb of DNA containing SLC2A3, NANOGP1, and SLC2A14. SLC2A3 
+encodes a high-affinity glucose transporter important in the immune response and 
+chondrocyte metabolism, both key aspects of RA pathogenesis. The large effect 
+size of this association, its potential relevance to other diseases in which 
+SLC2A3 is implicated, and the possibility of targeting drugs to inhibit SLC2A3, 
+argue for further examination of the genetics and the biology of this CNV.

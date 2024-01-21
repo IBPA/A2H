@@ -1,0 +1,15 @@
+Leukocytes are central regulators of inflammation and the target cells of 
+therapies for key diseases, including autoimmune, cardiovascular, and malignant 
+disorders. Efficient in vivo delivery of small interfering RNA (siRNA) to immune 
+cells could thus enable novel treatment strategies with broad applicability. In 
+this report, we develop systemic delivery methods of siRNA encapsulated in lipid 
+nanoparticles (LNP) for durable and potent in vivo RNA interference 
+(RNAi)-mediated silencing in myeloid cells. This work provides the first 
+demonstration of siRNA-mediated silencing in myeloid cell types of nonhuman 
+primates (NHPs) and establishes the feasibility of targeting multiple gene 
+targets in rodent myeloid cells. The therapeutic potential of these formulations 
+was demonstrated using siRNA targeting tumor necrosis factor-α (TNFα) which 
+induced substantial attenuation of disease progression comparable to a potent 
+antibody treatment in a mouse model of rheumatoid arthritis (RA). In summary, we 
+demonstrate a broadly applicable and therapeutically relevant platform for 
+silencing disease genes in immune cells.

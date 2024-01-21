@@ -1,0 +1,18 @@
+The TNF signaling pathway is a valuable target in the therapy of autoimmune 
+diseases, and anti-TNF drugs are successfully used to treat diseases such as 
+rheumatoid arthritis, Crohn's disease and psoriasis. By their ability to 
+interfere with inflammatory processes at multiple levels, these TNF blockers 
+have become invaluable tools to inhibit the inflammation induced damage and 
+allow recovery of the affected tissues. Unfortunately this therapy has some 
+drawbacks, including increased risk of infection and malignancy, and remarkably, 
+the onset of new auto-immune diseases. Some of these effects are caused by the 
+unwanted abrogation of beneficial TNF signaling. More specific targeting of the 
+pathological TNF-induced signaling might lead to broader applicability and 
+improved safety. Specificity might be increased by inhibiting the soluble 
+TNF/TNFR1 axis while leaving the often beneficial transmembrane TNF/TNFR2 
+signaling untouched. This approach looks promising because it inhibits the 
+pathological effects of TNF and reduces the side effects, and it opens the way 
+for the treatment of other diseases in which TNFR2 inhibition is detrimental. In 
+this review we give an overview of in vivo mouse studies of TNF mediated 
+pathologies demonstrating that the blockade or genetic deletion of sTNF or TNFR1 
+is preferable over total TNF blockade.

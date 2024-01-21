@@ -1,0 +1,21 @@
+Tumor progression locus 2 (TPL2), a serine/threonine protein kinase, is a major 
+inflammatory mediator in immune cells. The predominant inflammatory actions of 
+TPL2 depend on the activation of mitogen-activated protein kinases (MAPK) and 
+the upregulated production of the cytokines tumor necrosis factor alpha (TNF-α) 
+and interleukin 1β (IL-1β) in macrophages and dendritic cells in response to 
+lipopolysaccharide (LPS). Significant increases in TNF-α, IL-6, IL-β, and IL-8 
+levels in patients with Clostridium difficile infection (CDI) have been 
+reported. Both TNF-α and IL-6 have been postulated to play key roles in the 
+systemic inflammatory response in CDI, and IL-8 is essential for the development 
+of local intestinal inflammatory responses in CDI. The objective of this study 
+was to elucidate the role of TPL2 in the pathogenesis of CDI. We found that TPL2 
+was significantly activated in human and mouse intestinal tissues upon C. 
+difficile toxin exposure or CDI. We further demonstrated that TPL2 knockout 
+(TPL2-KO) mice were significantly more resistant to CDI than wild-type mice, 
+with significantly reduced production of TNF-α, IL-6, IL-1β, KC (a mouse 
+homologue of IL-8), and myeloperoxidase (MPO) in the ceca and colons of TPL2-KO 
+mice. Finally, we found that TPL2 inhibition by a specific inhibitor or TPL2 
+gene ablation significantly reduced TcdB-induced production of TNF-α, IL-6, 
+IL-β, and KC by inhibiting the activation of p38, extracellular signal-regulated 
+kinase (ERK), and c-Jun NH2-terminal kinase (JNK). Taken together, our data 
+suggest that TPL2 represents a potential therapeutic target for CDI treatment.

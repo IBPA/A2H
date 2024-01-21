@@ -1,0 +1,20 @@
+The aim of the present study was to assess the effects of pro-protein convertase 
+subtilisin/kexin type 6 (PCSK6), a proteinase implicated in the proteolytic 
+activity of various precursor proteins and involved in the regulation of protein 
+maturation, in fibroblast‑like synoviocytes (FLS) of a rat model of 
+collagen‑induced arthritis (CIA). Cultured FLS from CIA models were subjected to 
+small interfering RNA mediated PCSK6 knockdown, followed by assessment of the 
+proliferation, invasive and migratory capacity, the secretion of inflammation 
+factors and the cell cycle. Expression of genes associated with proliferation, 
+invasion, migration and inflammation was detected by reverse transcription 
+polymerase chain reaction. The results showed that PCSK6 knockdown significantly 
+decreased the cell proliferation, invasion and migration of FLS from rats with 
+CIA. ELISA showed an obvious decrease of tumor necrosis factor α and interleukin 
+1β secretion, and flow cytometric analysis revealed G0/G1 arrest of FLS 
+following PCSK6 knockdown. Furthermore, a decrease in the mRNA levels of 
+inflammation‑associated chemokine CXCL9, angiogenesis‑associated genes MMP‑2, 
+MMP‑9 and NOSTRIN, hypoxia‑associated gene HIF‑1α, adhesion‑associated gene 
+MPZL2, proliferation‑associated gene IGF‑2 and citrullination‑associated gene 
+PADI4 was detected after PCSK6 knockdown. The results of the present study 
+indicated that inhibition of PCSK6 may have a protective role against synovitis 
+in rheumatoid arthritis.

@@ -1,0 +1,20 @@
+In addition to the proinflammatory cytokines tumor necrosis factor-α, 
+interleukin-6 and interleukin-1ß, the cytokine interleukin-17 (IL-17) is 
+considered an important mediator of autoimmune diseases such as rheumatoid 
+arthritis. Because tumor necrosis factor-α and interleukin-1ß have the potential 
+to influence the expression of transduction molecules such as transient receptor 
+potential vanilloid 1 (TRPV1) in dorsal root ganglion (DRG) neurons and thus to 
+contribute to pain we explored in the present study whether IL-17A activates DRG 
+neurons and influences the expression of TRPV1. The IL-17A receptor was 
+visualized in most neurons in dorsal root ganglion (DRG) sections as well as in 
+cultured DRG neurons. Upon long-term exposure to IL-17A, isolated and cultured 
+rat DRG neurons showed a significant upregulation of extracellular-regulated 
+kinase (ERK) and nuclear factor κB (NFκB). Long-term exposure of neurons to 
+IL-17A did not upregulate the expression of TRPV1. However, we found a 
+pronounced upregulation of transient receptor potential vanilloid 4 (TRPV4) 
+which is considered a candidate transduction molecule for mechanical 
+hyperalgesia. Upon the injection of zymosan into the paw, IL-17A-deficient mice 
+showed less mechanical hyperalgesia than wild type mice but thermal hyperalgesia 
+was not attenuated in IL-17A-deficient mice. These data show, therefore, a 
+particular role of IL-17 in mechanical hyperalgesia, and they suggest that this 
+effect is linked to an activation and upregulation of TRPV4.

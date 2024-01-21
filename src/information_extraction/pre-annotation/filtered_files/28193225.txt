@@ -1,0 +1,32 @@
+BACKGROUND: Leflunomide is a low-molecular-weight compound that is widely used 
+in the treatment of rheumatoid arthritis. Although leflunomide is thought to act 
+through the inhibition of the de novo pyrimidine synthesis, the molecular 
+mechanism of the drug remains largely unknown. We investigated the antiarthritis 
+effects and mechanisms of action of the active metabolite of leflunomide, A77 
+1726, in interleukin-1 receptor antagonist-knockout (IL-1Ra-KO) mice.
+METHODS: 14- to 15-week-old male IL-1Ra-KO mice were treated with 10 or 30 mg/kg 
+A77 1726 via intraperitoneal injection three times per week for 6 weeks. The 
+effects of A77 1726 on arthritis severities were assessed by clinical scoring 
+and histological analysis. The serum concentrations of IL-1β, tumor necrosis 
+factor-α (TNF-α), and malondialdehyde were measured by enzyme-linked 
+immunosorbent assay. Histologic analysis of the joints was performed using 
+Safranin O, and immunohistochemical staining. The frequencies of 
+interleukin-17-producing CD4+ T (Th17) cells were analyzed by flow cytometry. 
+Heme oxygenase-1 (HO-1) expression in splenic CD4+ T cells isolated from A77 
+1726-treated arthritis mice were assessed by western blotting.
+RESULTS: A77 1726 treatment induced heme oxygenase-1 (HO-1) in Jurkat cells and 
+primary mouse T cells. Interestingly, A77 1726 inhibited Th17 cell 
+differentiation. In vivo, A77 1726 reduced the clinical arthritis severity of 
+histological inflammation and cartilage destruction. The joints isolated from 
+A77 1726-treated mice showed decreased expression of inducible nitric oxide 
+synthase, nitrotyrosine, TNF-α, and IL-1β. The serum levels of TNF-α, IL-1β, and 
+malondialdehyde were also decreased in A77 1726-treated mice. Whereas the number 
+of Th17 cells in spleens was decreased in A77 1726-treated arthritis mice, a 
+significant increase in the number of Treg cells in spleens was observed. 
+Interestingly, HO-1 expression was significantly higher in splenic CD4+ T cells 
+isolated from A77 1726-treated mice compared with those from vehicle-treated 
+mice, whereas HO-1 expression of splenic non-CD4+ T cells did not differ between 
+groups.
+CONCLUSION: The inhibitory effects of A77 1726 on joint inflammation and 
+oxidative stress in autoimmune arthritis may be associated with HO-1 induction 
+in CD4+ T cells.

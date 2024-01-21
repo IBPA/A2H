@@ -1,0 +1,24 @@
+OBJECTIVE: Myeloid-derived suppressor cells (MDSCs) are a heterogeneous 
+population of cells that have the ability to suppress T cell responses. The aim 
+of this study was to evaluate the effects of the JAK inhibitor tofacitinib on 
+MDSCs in a mouse model of rheumatoid arthritis.
+METHODS: Arthritis was induced in SKG mice by zymosan A (ZyA) injection. MDSCs 
+isolated from the bone marrow (BM) of donor SKG mice with arthritis were 
+adoptively transferred to recipient mice with arthritis. In a separate 
+experiment, tofacitinib was administered to arthritic SKG mice subcutaneously 
+via osmotic pump, in some cases followed by injection of an anti-Gr-1 monoclonal 
+antibody (mAb). BM cells from untreated mice were cultured for 5 days with 
+granulocyte-macrophage colony-stimulating factor, with or without tofacitinib, 
+and then analyzed by flow cytometry.
+RESULTS: The numbers of MDSCs and polymorphonuclear MDSCs (PMN-MDSCs) were 
+significantly increased in the spleens of SKG mice following ZyA injection. 
+Adoptive transfer of MDSCs to recipient arthritic mice reduced the severity of 
+arthritis compared to that in untreated control mice. Treatment with tofacitinib 
+also ameliorated the progression of arthritis in SKG mice and induced 
+significantly higher numbers of MDSCs and PMN-MDSCs in the BM of these animals. 
+Furthermore, administration of an anti-Gr-1 mAb reduced the antiarthritic effect 
+of tofacitinib in SKG mice. In vitro, tofacitinib facilitated the 
+differentiation of BM cells to MDSCs, and inhibited their differentiation to 
+dendritic cells.
+CONCLUSION: Tofacitinib facilitates the expansion of MDSCs and ameliorates 
+arthritis in SKG mice.

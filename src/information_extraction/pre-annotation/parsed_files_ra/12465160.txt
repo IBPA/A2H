@@ -1,0 +1,28 @@
+OBJECTIVE: To compare the potency of 2 cytokines, interleukin 17 (IL-17) and 
+IL-1beta, on rat cartilage proteoglycan synthesis with special attention to 
+nitric oxide (NO) and peroxynitrite formation.
+METHODS: Chondrocytes in alginate beads were stimulated with human recombinant 
+(rh) IL-17 (0.03 to 300.0 ng/ml) and/or rhIL-1beta (0.25 to 25.0 ng/ml) in the 
+presence or not of L-NMMA or CuDips. Alternatively, rats were injected with 
+either IL-17 (10.0 micro g) or IL-1beta (1.0 micro g) into each knee joint. NO 
+concentrations were determined by a spectrofluorimetric assay, proteoglycan 
+synthesis by 35SO4-2 incorporation, peroxynitrite generation by immunostaining 
+for 3-nitrotyrosine, and IL-1beta mRNA expression by reverse 
+transcription-polymerase chain reaction.
+RESULTS: IL-17 inhibited proteoglycan synthesis and increased NO production, 
+both in vitro and in vivo, without inducing expression of IL-1beta mRNA in 
+cartilage. Additive effects were observed when IL-17 was combined with low 
+concentrations of IL-1. Surprisingly, a similar NO synthesis between IL-1 and 
+IL-17 led to a less suppressive effect of IL-17 on cartilage anabolism than with 
+IL-1. Both in vitro and in vivo, peroxynitrite formation was extensive with 
+IL-1beta, but negligible or nonexistent with IL-17. L-NMMA and CuDips completely 
+corrected the suppressive effect of IL-1beta on proteoglycan synthesis, unlike 
+with IL-17.
+CONCLUSION: These data showed that NO is weakly involved in the IL-17 mediated 
+inhibition of proteoglycan synthesis in rat. NO overload may not be predictive 
+of any inhibitory effect on cartilage anabolism, but instead superoxide is a key 
+regulator of NO contribution to chondrocyte dysfunction. Since IL-17 is a 
+NO-producing cytokine with additive effects when combined with IL-1, it may play 
+a pivotal role in cartilage destruction during rheumatoid arthritis, for which 
+infiltrating cells produce high levels of superoxide and proinflammatory 
+cytokines.

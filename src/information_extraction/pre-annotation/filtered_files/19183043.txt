@@ -1,0 +1,13 @@
+Monocyte infiltration is implicated in a variety of diseases including multiple 
+myeloma, rheumatoid arthritis, and multiple sclerosis. C-C chemokine receptor 1 
+(CCR1) is a chemokine receptor that upon stimulation, particularly by macrophage 
+inflammatory protein 1alpha (MIP-1alpha) and regulated on normal T-cell 
+expressed and secreted (RANTES), mediates monocyte trafficking to sites of 
+inflammation. High throughput screening of our combinatorial collection 
+identified a novel, moderately potent CCR1 antagonist 3. The library hit 3 was 
+optimized to the advanced lead compound 4. Compound 4 inhibited CCR1 mediated 
+chemotaxis of monocytes with an IC(50) of 20 nM. In addition, the compound was 
+highly selective over other chemokine receptors. It had good microsomal 
+stability when incubated with rat and human liver microsomes and showed no 
+significant cytochrome P450 (CYP) inhibition. Pharmacokinetic evaluation of the 
+compound in the rat showed good oral bioavailability.

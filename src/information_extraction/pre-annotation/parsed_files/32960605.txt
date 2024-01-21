@@ -1,0 +1,17 @@
+Clostridioides difficile is the leading cause of healthcare-associated infection 
+in the U.S. and considered an urgent threat by the Centers for Disease Control 
+and Prevention (CDC). Only two antibiotics, vancomycin and fidaxomicin, are 
+FDA-approved for the treatment of C. difficile infection (CDI), but these 
+therapies still suffer from high treatment failure and recurrence. Therefore, 
+new chemical entities to treat CDI are needed. Trifluoromethylthio-containing 
+N-(1,3,4-oxadiazol-2-yl)benzamides displayed very potent activities [sub-μg/mL 
+minimum inhibitory concentration (MIC) values] against Gram-positive bacteria. 
+Here, we report remarkable antibacterial activity enhancement via halogen 
+substitutions, which afforded new anti-C. difficile agents with ultrapotent 
+activities [MICs as low as 0.003 μg/mL (0.007 μM)] that surpassed the activity 
+of vancomycin against C. difficile clinical isolates. The most promising 
+compound in the series, HSGN-218, is nontoxic to mammalian colon cells and is 
+gut-restrictive. In addition, HSGN-218 protected mice from CDI recurrence. Not 
+only does this work provide a potential clinical lead for the development of C. 
+difficile therapeutics but also highlights dramatic drug potency enhancement via 
+halogen substitution.

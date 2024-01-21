@@ -1,0 +1,15 @@
+CD40, a member of the tumor necrosis factor receptor superfamily, is an 
+important costimulatory molecule during the immune response. Here, we report a 
+blocking mouse antihuman CD40 monoclonal antibody, mAb 3G3, of which the 
+specificity was verified by flow cytometry and Western blot. It was shown by 
+competition test that 3G3 bound to a different site (epitope) of CD40 from the 
+reported CD40 mAbs, including clone mAb89, 3B2, and 5C11. It was also found that 
+mAb 3G3 could inhibit homotypic aggregation of Daudi cells induced by the 
+agonistic anti-CD40 mAb 5C11. Furthermore, mAb 3G3 effectively inhibited the 
+proliferation of peripheral blood mononuclear cells in mixed lymphocyte reaction 
+assay. Finally, a sensitive and specific soluble CD40 (sCD40) ELISA kit was 
+established by matching mAb 3G3 with 5C11, and it was found that the levels of 
+sCD40 in sera from patients with immune disorders such as hyperthyroidism, 
+chronic nephritis, and rheumatoid arthritis were obviously higher than those 
+from normal individuals. Thus, this blocking anti-CD40 mAb provides a novel tool 
+for the study of CD40.

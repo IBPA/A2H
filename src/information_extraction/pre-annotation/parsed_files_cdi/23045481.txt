@@ -1,0 +1,24 @@
+Clostridium difficile, a major cause of hospital-acquired diarrhea, triggers 
+disease through the release of two toxins, toxin A (TcdA) and toxin B (TcdB). 
+These toxins disrupt the cytoskeleton of the intestinal epithelial cell, 
+increasing intestinal permeability and triggering the release of inflammatory 
+mediators resulting in intestinal injury and inflammation. The most prevalent 
+animal model to study TcdA/TcdB-induced intestinal injury involves injecting 
+toxin into the lumen of a surgically generated "ileal loop." This model is 
+time-consuming and exhibits variability depending on the expertise of the 
+surgeon. Furthermore, the target organ of C. difficile infection (CDI) in humans 
+is the colon, not the ileum. In the current study, we describe a new model of 
+CDI that involves intrarectal instillation of TcdA/TcdB into the mouse colon. 
+The administration of TcdA/TcdB triggered colonic inflammation and neutrophil 
+and macrophage infiltration as well as increased epithelial barrier permeability 
+and intestinal epithelial cell death. The damage and inflammation triggered by 
+TcdA/TcdB isolates from the VPI and 630 strains correlated with the 
+concentration of TcdA and TcdB produced. TcdA/TcdB exposure increased the 
+expression of a number of inflammatory mediators associated with human CDI, 
+including interleukin-6 (IL-6), gamma interferon (IFN-γ), and IL-1β. Finally, we 
+were able to demonstrate that TcdA was much more potent at inducing colonic 
+injury than was TcdB but TcdB could act synergistically with TcdA to exacerbate 
+injury. Taken together, our data indicate that the intrarectal murine model 
+provides a robust and efficient system to examine the effects of TcdA/TcdB on 
+the induction of inflammation and colonic tissue damage in the context of human 
+CDI.

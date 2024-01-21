@@ -1,0 +1,7 @@
+A specific monoclonal antibody against toxin A from Clostridium difficile was 
+generated that did not show thermolabile binding. Nonspecific murine monoclonal 
+antibodies bound toxin A at 4 degrees C, but less effectively at 37 degrees C. 
+Nonspecific human monoclonal antibodies did not bind to toxin A at 4 degrees C. 
+Cytotoxic properties of purified toxin A were not inhibited by Bandeiraea 
+simplicifolia lectin. This points to a carbohydrate moiety on the cell surface 
+and a multivalent nonspecific carbohydrate binding ligand on toxin A.

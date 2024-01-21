@@ -1,0 +1,30 @@
+Rheumatoid arthritis (RA) is a chronic autoimmune inflammatory arthropathy 
+associated with articular damage and attendant comorbidities. Even although RA 
+treatment has advanced remarkably over the last decade, a significant proportion 
+of patients still do not achieve sustained remission. The cause of RA is not yet 
+known despite the many potential mechanisms proposed. It has been confirmed that 
+RA is associated with dysregulated immune system and persistent inflammation. 
+Therefore, management of inflammation is always the target of therapy. 
+Sinomenine (SIN) is the prescription drug approved by the Chinese government for 
+RA treatment. A previous study found that SIN was a robust anti-inflammation 
+drug. In this study, we screened the different secretory cytokines using 
+inflammation antibody arrays and qRT-PCR in both LPS-induced and SIN-treated 
+RAW264.7 cells followed by evaluation of the ability of SIN to modulate cytokine 
+secretion in a cell model, collagen-induced arthritis (CIA) mouse model, and RA 
+patients. Several clinical indexes affecting the 28-joint disease activity score 
+(DAS28) were determined before and after SIN treatment. Clinical indexes, 
+inflammatory cytokine secretion, and DAS28 were compared among RA patients 
+treated with either SIN or methotrexate (MTX). To explore the mechanism of SIN 
+anti-inflammatory function, RA-associated monocyte/macrophage subsets were 
+determined using flow cytometry in CIA mouse model and RA patients, both treated 
+with SIN. The results demonstrated that SIN regulated IL-6, GM-CSF, IL-12 p40, 
+IL-1α, TNF-α, IL-1β, KC (CXCL1), Eotaxin-2, IL-10, M-CSF, RANTES, and MCP-1 
+secretion in vivo and in vitro and reduced RA activity and DAS28 in a clinical 
+setting. Furthermore, SIN attenuated CD11b+F4/80+CD64+ resident macrophages in 
+the synovial tissue, CD11b+Ly6C+CD43+ macrophages in the spleen and draining 
+lymph nodes of CIA mice. The percentage of CD14+CD16+ peripheral blood 
+mononuclear cells was reduced by SIN in RA patients. These data indicated that 
+SIN regulates the secretion of multiple inflammatory cytokines and 
+monocyte/macrophage subsets, thereby suppressing RA progression. Therefore, 
+along with MTX, SIN could be an alternative cost-effective anti-inflammatory 
+agent for treating RA.

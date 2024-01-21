@@ -1,0 +1,16 @@
+Rheumatoid arthritis (RA) is a chronic systemic autoimmune disease mainly 
+affecting synovial joints. The clinical presentation of RA shows the 
+heterogeneity of this disease with its underlying complex interactions between 
+the innate and adaptive immune system and flare-ups of disease. Different 
+disease models such as collagen induced arthritis, antigen induced arthritis, 
+and Streptococcal cell wall induced arthritis can be exploited to investigate 
+different aspects of the pathogenesis of arthritis. The disease can be monitored 
+macroscopically over time via scoring systems. For histological examination, 
+paraffin embedded knee sections can be used for hematoxylin and eosin staining 
+to visualize cellular infiltration as well as for tartrate-resistant acid 
+phosphatase (TRAP) staining to identify osteoclast-like cells. Cellular 
+infiltration of the synovium by different myeloid cells such as tissue resident 
+macrophages, dendritic cells and neutrophils can be monitored using flow 
+cytometry. Here, we describe the methods for inducing the different mouse models 
+for arthritis, including scoring systems per model, histological and flow 
+cytometric analysis.

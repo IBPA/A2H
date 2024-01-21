@@ -1,0 +1,24 @@
+Mesenchymal stem cells (MSC) are characterized by their potent immuno-regulatory 
+activity, however our previous data have shown that MSC have no therapeutic 
+effects on collagen-induced arthritis (CIA). To further clarify the complexity, 
+the effects of tumor necrosis factor-alpha (TNF-α) on the in vitro and in vivo 
+immunoregulatory activity of MSC were investigated in this study, as TNF-α is 
+recognized as the key factor in the development of rheumatoid arthritis. The 
+nuclear translocation of the inflammation-associated factor NF-κB was observed 
+after human umbilical cord MSC were treated with TNF-α and the cell 
+proliferation status was assessed by MTT test. The inhibitory effects of MSC or 
+TNF-α-treated MSC on the mixed lymphocyte reaction, in which Wistar rat spleen 
+mononuclear cells were served as the responders and the splenocytes from SD rat 
+spleens as the stimulators, were also determined by the MTT test. Further, the 
+therapeutic potentials of MSC or TNF-α-treated MSC were observed in a Wistar rat 
+CIA model. The results showed that NF-κB translocated into the nuclei promptly 
+after TNF-α treatment, though TNF-α had little effect on the MSC proliferation. 
+MSC, whether pre-stimulated by TNF-α or not and when different doses were 
+tested, exhibited obviously inhibitory effects on the proliferation of the 
+lymphocytes (P < 0.001 for all groups tested), while MSC-treated by TNF-α 
+displayed more potent suppression especially when low-density were used. 
+Unexpectedly, the infiltration of inflammatory cells into the involved knees was 
+aggravated by cell treatment and the pathological scores were significantly 
+higher than those of controls (P < 0.05). It is concluded that the TNF-α 
+exhibits different effects on immune regulation activity of MSC, and its 
+underlying mechanism needs to further investigate.

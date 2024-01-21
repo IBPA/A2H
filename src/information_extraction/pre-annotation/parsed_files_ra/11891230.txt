@@ -1,0 +1,22 @@
+Mannose-binding lectin (MBL) plays a critical role in innate immunity. Point 
+mutations in the collagen-like domain (R32C, G34D, or G37E) of MBL cause a serum 
+deficiency, predisposing patients to infections and diseases such as rheumatoid 
+arthritis. We examined whether MBL mutants show enhanced susceptibility to 
+proteolysis by matrix metalloproteinases (MMPs), which are important mediators 
+in inflammatory tissue destruction. Human and rat MBL were resistant to 
+proteolysis in the native state but were cleaved selectively within the 
+collagen-like domain by multiple MMPs after heat denaturation. In contrast, rat 
+MBL with mutations homologous to those of the human variants (R23C, G25D, or 
+G28E) was cleaved efficiently without denaturation in the collagen-like domain 
+by MMP-2 and MMP-9 (gelatinases A and B) and MMP-14 (membrane type-1 MMP), as 
+well as by MMP-1 (collagenase-1), MMP-8 (neutrophil collagenase), MMP-3 
+(stromelysin-1), neutrophil elastase, and bacterial collagenase. Sites and order 
+of cleavage of the rat MBL mutants for MMP-2 and MMP-9 were: Gly(45)-Lys(46) --> 
+Gly(51)-Ser(52) --> Gly(63)-Gln(64) --> Asn(80)-Met(81) which differed from that 
+of MMP-14, Gly(39)-Leu(40) --> Asn(80)-Met(81), revealing that the MMPs were not 
+functionally interchangeable. These sites were homologous to those cleaved in 
+denatured human MBL. Hence, perturbation of the collagen-like structure of MBL 
+by natural mutations or by denaturation renders MBL susceptible to MMP cleavage. 
+MMPs are likely to contribute to MBL deficiency in individuals with variant 
+alleles and may also be involved in clearance of MBL and modulation of the host 
+response in normal individuals.

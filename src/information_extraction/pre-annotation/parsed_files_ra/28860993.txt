@@ -1,0 +1,22 @@
+Background: Tamarixinin A, a natural tannin isolated from Myricaria bracteata, 
+has been confirmed to have moderate anti-inflammatory effects in vitro and in 
+vivo. However, how it effects rheumatoid arthritis (RA) is still unknown. 
+Therefore, the aim of this study is to investigate the therapeutic effects of 
+tamarixinin A on experimental RA, and explore the underlying mechanism. Methods: 
+The anti-arthritic effects of tamarixinin A were evaluated on collagen-induced 
+arthritis (CIA) mice and adjuvant-induced arthritis (AIA) rats. The hind paw 
+thickness, inflammatory cytokine levels in serum, and histopathological 
+assessments were determined. The arthritis score was evaluated. Activation of 
+p38 and p65 in AIA rats was also determined. The anti-inflammatory effect in 
+vitro was also tested in LPS induced macrophages, and its related 
+anti-inflammatory signaling pathways were explored. Results: Treatment with 
+tamarixinin A significantly suppressed the progression and development of RA in 
+CIA mice and AIA rats. Both in CIA mice and AIA rats, arthritis scores 
+decreased, paw swelling and thickness were reduced, and joint destruction was 
+alleviated. In AIA rats, tamarixinin A significantly inhibited the expression of 
+p38, p-p38 and p65. In addition, tamarixinin A inhibited the production of 
+pro-inflammatory mediators, the phosphorylation of p38, ERK, JNK and p65, as 
+well as the nuclear translocation of p38 in LPS- induced macrophages. 
+Conclusion: Tamarixinin A is a potential effective candidate compound for human 
+RA treatment, which executes anti-arthritic effects potentially through 
+down-regulating MAPK and NF-κB signal pathway activation.

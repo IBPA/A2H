@@ -1,0 +1,27 @@
+Clostridium difficile is the main agent responsible for hospital acquired 
+antibiotic associated diarrhoea. In recent years, epidemic strains have emerged 
+causing more severe infections. Whilst C. difficile has two major virulence 
+factors, toxins TcdA and TcdB, it is generally accepted that other virulence 
+components of the bacterium contribute to disease. Previously, it has been 
+suggested that flagella expression from pathogenic bacteria might be implicated 
+in virulence. In a recent study, we observed an increased mortality in a 
+gnotobiotic mouse model when animals were colonized with an isogenic fliC mutant 
+constructed in the PCR-ribotype 027 (B1/NAP1) strain R20291, while animals 
+survived when colonized by the parental strain or after colonization by other 
+high-toxin-producing C. difficile strains. To understand the reasons for this 
+increased virulence, we compared the global gene expression profiles between the 
+fliC-R20291 mutant and its parental strain using an in vitro and in vivo 
+transcriptomic approach. The latter made use of the gnotobiotic mouse model. 
+Interestingly, in the fliC mutant, we observed considerable up-regulation of 
+genes involved in mobility, membrane transport systems (PTS, ABC transporters), 
+carbon metabolism, known virulence factors and sporulation. A smaller but 
+significant up-regulation of genes involved in cell growth, fermentation, 
+metabolism, stress and antibiotic resistance was also apparent. All of these 
+genes may be associated with the increased virulence of the fliC-R20921 mutant. 
+We confirmed that the fliC mutation is solely responsible for the observed 
+changes in gene expression in the mutant strain since expression profiles were 
+restored to that of the wild-type strain in the fliC-complemented strain. Thus, 
+the absence of FliC is directly or indirectly involved in the high mortality 
+observed in the fliC mutant infected animals. Therefore, we provide the first 
+evidence that when the major structural component of the flagellum is 
+neutralized, deregulation of gene expression can occur during infection.

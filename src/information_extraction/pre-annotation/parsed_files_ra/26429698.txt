@@ -1,0 +1,27 @@
+BACKGROUND AND AIMS: Anti-tumour necrosis factor [TNF] monoclonal antibodies 
+[infliximab, adalimumab] induce complete mucosal healing in a proportion of 
+patients with Crohn's disease whereas a TNF receptor fusion protein [etanercept] 
+is not effective and the anti-TNF F[ab']2 fragment [certolizumab] shows a very 
+low rate of complete mucosal healing. In contrast, all four TNF-neutralising 
+drugs have demonstrated efficacy in the treatment of rheumatoid arthritis. These 
+observations suggest that factors other than neutralisation of TNF may 
+contribute to clinical outcomes in Crohn's disease. Here we tested the 
+hypothesis that Fc receptor [FcR]-mediated effects may contribute to the 
+therapeutic response of anti-TNF antibodies in inflammatory bowel disease.
+METHODS: We modified an IgG2c mouse anti-TNF antibody that binds the 
+high-affinity FcRs to generate an IgG1 isotype with strongly diminished binding. 
+We examined the therapeutic effects of both antibodies in the T cell transfer 
+model of inflammatory bowel disease and the collagen-induced arthritis model.
+RESULTS: The IgG2c anti-TNF antibody prevented colonic inflammation in the T 
+cell transfer model of colitis, whereas the IgG1 anti-TNF did not. Conversely, 
+both the IgG2c and IgG1 anti-TNFs were similarly effective in reducing the 
+severity of articular inflammation in mouse collagen-induced arthritis.
+CONCLUSION: These data support the concept that the mechanism of action for 
+TNF-neutralising drugs may differ across immune-mediated diseases and, 
+potentially, between therapeutics within a particular disease. Our data suggest 
+a specific role of Fc-mediated immune regulation in the resolution of intestinal 
+inflammation by anti-TNF monoclonal antibodies.
+
+Copyright © 2015 European Crohn’s and Colitis Organisation (ECCO). Published by 
+Oxford University Press. All rights reserved. For permissions, please email: 
+journals.permissions@oup.com.

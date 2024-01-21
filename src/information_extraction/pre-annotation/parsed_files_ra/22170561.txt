@@ -1,0 +1,26 @@
+OBJECTIVE: Rheumatoid arthritis (RA) is an inflammatory and angiogenic disease. 
+However, the molecular mechanisms that promote angiogenesis in RA have not been 
+clearly identified. Our objective was to study the role of CD147 in angiogenesis 
+and determine whether the strategy in which CD147 is suppressed might be useful 
+in reducing angiogenesis in RA.
+METHODS: Correlations among expression levels of CD147, vascular endothelial 
+growth factor (VEGF), and hypoxia-inducible factor 1α (HIF-1α) were determined 
+by immunohistochemistry staining. RA fibroblast-like synoviocytes (FLS) cells 
+were cultured under various conditions, and the production of VEGF and HIF-1α 
+was examined by real-time polymerase chain reaction and enzyme-linked 
+immunosorbent assay. The SCID mouse coimplantation model of RA (SCID-HuRAg) was 
+established, mice were treated with CD147 monoclonal antibody, infliximab, or 
+both CD147 and infliximab, and the volume of the grafts and the average vascular 
+density were measured and analyzed. Western blot analyses were performed to 
+examine the potential signaling pathways.
+RESULTS: The expression levels of CD147 showed significantly positive 
+correlations with VEGF and HIF-1α levels, as well as with vascular density, in 
+RA synovium. After small interfering RNA transfection or after addition of 
+specific antibodies for CD147, the production of VEGF and HIF-1α were 
+significantly reduced. The expression of VEGF and HIF-1α decreased more after 
+CD147 inhibition than after infliximab treatment in the engrafted tissues in 
+SCID-HuRAg mice. The phosphatidylinositol 3-kinase/Akt pathway may be involved 
+in this process.
+CONCLUSION: CD147 induces up-regulation of VEGF and HIF-1α in RA FLS, further 
+promotes angiogenesis, and leads to the persistence of synovitis. Inhibition of 
+CD147 may be a promising target for novel therapeutic strategies.

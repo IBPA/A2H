@@ -1,0 +1,20 @@
+Salmonella typhimurium is a major cause of diarrhea and causes significant 
+morbidity and mortality worldwide, and perturbations of the gut microbiota are 
+known to increase susceptibility to enteric infections. The purpose of this 
+study was to investigate whether a Microbial Ecosystem Therapeutic (MET-1) 
+consisting of 33 bacterial strains, isolated from human stool and previously 
+used to cure patients with recurrent Clostridium difficile infection, could also 
+protect against S. typhimurium disease. C57BL/6 mice were pretreated with 
+streptomycin prior to receiving MET-1 or control, then gavaged with S. 
+typhimurium. Weight loss, serum cytokine levels, and S. typhimurium splenic 
+translocation were measured. NF-κB nuclear staining, neutrophil accumulation, 
+and localization of tight junction proteins (claudin-1, ZO-1) were visualized by 
+immunofluorescence. Infected mice receiving MET-1 lost less weight, had reduced 
+serum cytokines, reduced NF-κB nuclear staining, and decreased neutrophil 
+infiltration in the cecum. MET-1 also preserved cecum tight junction protein 
+expression, and reduced S. typhimurium translocation to the spleen. Notably, 
+MET-1 did not decrease CFUs of Salmonella in the intestine. MET-1 may attenuate 
+systemic infection by preserving tight junctions, thereby inhibiting S. 
+typhimurium from gaining access to the systemic circulation. We conclude that 
+MET-1 may be protective against enteric infections besides C. difficile 
+infection.

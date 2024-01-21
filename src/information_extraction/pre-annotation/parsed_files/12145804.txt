@@ -1,0 +1,20 @@
+BACKGROUND & AIMS: Corticotropin-releasing hormone (CRH) released at local sites 
+of inflammation promotes inflammation in the periphery. We investigated its 
+effects in the intestinal responses caused by toxin A from Clostridium 
+difficile, the causative agent of antibiotic-associated colitis.
+METHODS: Ileal loops were injected with 10 microg of toxin A, and enterotoxic 
+responses were measured at various time points.
+RESULTS: Pretreatment of mice with 2.5 microg/kg of the CRH receptor antagonist 
+alpha-helical CRH((9-41)) that blocks both CRH receptor subtypes reduced toxin 
+A-mediated ileal secretion, epithelial cell damage, mucosal edema, neutrophil 
+infiltration, and mucosal content of interleukin 1 beta and tumor necrosis 
+factor alpha. Pretreatment with the specific CRH(1) receptor antagonist 
+antalarmin (20 mg/kg, IP) also inhibited toxin A-induced fluid secretion and 
+toxin A-associated histologic changes. CRH messenger RNA and protein were 
+increased in mouse ileum 30 minutes after intraluminal toxin A administration. 
+In situ hybridization and immunohistochemistry demonstrated that toxin A at 1 
+hour caused a substantial increase in the expression of both CRH receptor 
+subtypes in the ileal mucosa.
+CONCLUSIONS: Peripheral CRH may play a proinflammatory role in toxin A-induced 
+intestinal secretion and inflammation and that CRH(1) receptor, at least in 
+part, is important in the mediation of these responses.

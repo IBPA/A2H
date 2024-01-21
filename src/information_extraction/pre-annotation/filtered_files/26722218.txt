@@ -1,0 +1,21 @@
+Chronic inflammatory diseases, such as rheumatoid arthritis and 
+periodontitis-caused bone destruction, results from an increase of 
+bone-resorbing osteoclasts (OCs) induced by inflammation. However, the detailed 
+mechanisms underlying this disorder remain unclear. We herein investigated that 
+the effect of urokinase-type plasminogen activator (uPA) on inflammatory 
+osteoclastogenesis induced by lipopolysaccharide (LPS), which is a potent 
+stimulator of bone resorption in inflammatory diseases. We found that the uPA 
+deficiency promoted inflammatory osteoclastogenesis and bone loss induced by 
+LPS. We also showed that LPS induced the expression of uPA, and the uPA 
+treatment attenuated the LPS-induced inflammatory osteoclastogenesis of RAW264.7 
+mouse monocyte/macrophage lineage cells. Additionally, we showed that the 
+uPA-attenuated inflammatory osteoclastgenesis is associated with the activation 
+of plasmin/protease-activated receptor (PAR)-1 axis by uPA. Moreover, we 
+examined the mechanism underlying the effect of uPA on inflammatory 
+osteoclastogenesis, and found that uPA/plasmin/PAR-1 activated the adenosine 
+monophosphate-activated protein kinase (AMPK) pathway through Ca2+/calmodulin 
+dependent protein kinase kinase (CaMKK) activation, and attenuated inflammatory 
+osteoclastogenesis by inactivation of NF-κB in RAW264.7 cells. These data 
+suggest that uPA attenuated inflammatory osteoclastogenesis through the 
+plasmin/PAR-1/Ca2+/CaMKK/AMPK axis. Our findings may provide a novel therapeutic 
+approach to bone loss caused by inflammatory diseases.

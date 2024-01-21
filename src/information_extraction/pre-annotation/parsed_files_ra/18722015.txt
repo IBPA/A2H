@@ -1,0 +1,23 @@
+The mammalian immune system applies somatic hypermutation to select for 
+antibodies with improved dissociation rates in vivo up to an intrinsic limit, 
+previously termed as affinity ceiling. However, for certain therapeutic 
+applications it may be desirable to further improve antibody affinities beyond 
+that limit. In this study the selection of antibodies specific for the 
+pro-inflammatory cytokine granulocyte-macrophage colony-stimulating factor 
+(GM-CSF) from the HuCAL GOLD human antibody library is described. In order to 
+increase affinity and also functional activity, in vitro affinity maturation of 
+a pool of lead Fab candidates was carried out. CDR-L3 and parallel CDR-H2 
+diversification using trinucleotide consensus cassettes were followed by the 
+combination of optimized CDR-L3 and CDR-H2 leading to a 5000-fold improved 
+affinity finally reaching a K(D) of 400 fM. Cytokine neutralizing potential of 
+MOR04357 was evaluated in a TF-1 proliferation assay. Along with affinity 
+optimization a 2000-fold increase in potency was observed compared to the 
+parental antibody. Due to species cross-reactivity MOR04357 also blocks rat 
+GM-CSF induced proliferation of FDCP-1 cells. Receptor inhibition studies showed 
+that MOR04357 prevents the interaction of GM-CSF with the GM-CSF receptor alpha 
+chain. As a consequence this leads to a blockade in signal transduction as 
+measured by abolished STAT5 phosphorylation in the presence of GM-CSF and 
+antibody. Due to its pro-inflammatory role GM-CSF has been implicated in the 
+pathophysiology of inflammatory diseases like rheumatoid arthritis or asthma. 
+Based on the mode of action described herein MOR04357 shows favourable antibody 
+features as a potential drug candidate.

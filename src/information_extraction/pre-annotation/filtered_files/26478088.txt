@@ -1,0 +1,19 @@
+Fructose 1,6-bisphosphate (FBP) is an endogenous intermediate of the glycolytic 
+pathway. Exogenous administration of FBP has been shown to exert protective 
+effects in a variety of ischemic injury models, which are attributed to its 
+ability to sustain glycolysis and increase ATP production. Here, we demonstrated 
+that a single treatment with FBP markedly attenuated arthritis, assessed by 
+reduction of articular hyperalgesia, joint swelling, neutrophil infiltration and 
+production of inflammatory cytokines, TNF and IL-6, while enhancing IL-10 
+production in two mouse models of arthritis. Our mechanistic studies showed that 
+FBP reduces joint inflammation through the systemic generation of extracellular 
+adenosine and subsequent activation of adenosine receptor A2a (A2aR). Moreover, 
+we showed that FBP-induced adenosine generation requires hydrolysis of 
+extracellular ATP through the activity of the ectonucleosides triphosphate 
+diphosphohydrolase-1 (ENTPD1, also known as CD39) and ecto-5'-nucleotidase 
+(E5NT, also known as CD73). In accordance, inhibition of CD39 and CD73 abolished 
+anti-arthritic effects of FBP. Taken together, our findings provide a new 
+insight into the molecular mechanism underlying the anti-inflammatory effect of 
+FBP, showing that it effectively attenuates experimental arthritis by activating 
+the anti-inflammatory adenosinergic pathway. Therefore, FBP may represent a new 
+therapeutic strategy for treatment of rheumatoid arthritis (RA).

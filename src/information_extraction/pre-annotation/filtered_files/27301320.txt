@@ -1,0 +1,16 @@
+BACKGROUND: The mechanisms underlying tolerance induction and maintenance in 
+autoimmune arthritis remain elusive. In a mouse model of rheumatoid arthritis, 
+collagen type II (CII)-induced arthritis, we explore the contribution of B cells 
+to antigen-specific tolerance.
+METHODS: To generate expression of the CII-peptide specifically on B-cell major 
+histocompatibility complex type II, lentiviral-based gene therapy including a 
+B-cell-specific Igk promoter was used.
+RESULTS: Presentation of the CII-peptide on B cells significantly reduced the 
+frequency and severity of arthritis as well as the serum levels of CII -specific 
+IgG antibodies. Further, both frequency and suppressive function of regulatory T 
+cells were increased in tolerized mice. Adoptive transfer of regulatory T cells 
+from tolerized mice to naïve mice ameliorated the development of CII-induced 
+arthritis.
+CONCLUSION: Our data suggest that endogenous presentation of the CII-peptide on 
+B cells is one of the key contributors to arthritis tolerance induction and 
+maintenance.

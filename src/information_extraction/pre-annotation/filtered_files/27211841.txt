@@ -1,0 +1,23 @@
+Renal fibrosis is the common feature of chronic kidney disease and mainly 
+mediated by TGFβ-associated pro-fibrogenic signaling, which causes excessive 
+extracellular matrix accumulation and successive loss of kidney functions. 
+Sinomenine (SIN), an alkaloid derived from medicinal herb extensively used in 
+treatment of rheumatoid arthritis and various inflammatory disorders, displays 
+renal protective properties in experimental animals; however its pharmacological 
+potency against renal fibrosis is not explored. In this study we report that SIN 
+possesses strong anti-renal fibrosis functions in kidney cell and in mouse 
+fibrotic kidney. SIN beneficially modulated the pro-fibrogenic protein 
+expression in TGFβ-treated kidney cells and attenuated the renal fibrotic 
+pathogenesis incurred by unilateral ureteral obstruction (UUO), which correlated 
+with its activation of Nrf2 signaling - the key defender against oxidative 
+stress with anti-fibrotic potentials. Further investigation on its regulation of 
+Nrf2 downstream events revealed that SIN significantly balanced oxidative stress 
+via improving the expression and activity of anti-oxidant and detoxifying 
+enzymes, and interrupted the pro-fibrogenic signaling of TGFβ/Smad and 
+Wnt/β-catenin. Even more impressively SIN achieved its anti-fibrotic activities 
+in an Nrf2-dependent manner, suggesting that SIN regulation of Nrf2-associated 
+anti-fibrotic activities constitutes a critical component of SIN's 
+renoprotective functions. Collectively our studies have demonstrated a novel 
+anti-fibrotic property of SIN and its upstream events and provided a molecular 
+basis for SIN's potential applications in treatment of renal fibrosis-associated 
+kidney disorders.

@@ -1,0 +1,30 @@
+OBJECTIVE: Caspase 1, a known cysteine protease, is a critical component of the 
+inflammasome. Both caspase 1 and neutrophil serine proteases such as proteinase 
+3 (PR3) can process pro-interleukin-1beta (proIL-1beta), a crucial cytokine 
+linked to the pathogenesis of rheumatoid arthritis. This study was undertaken to 
+establish the relative importance of caspase 1 and serine proteases in mouse 
+models of acute and chronic inflammatory arthritis.
+METHODS: Acute and chronic arthritis were induced in caspase 1-/- mice, and the 
+lack of caspase 1 was investigated for its effects on joint swelling, cartilage 
+metabolism, and histopathologic features. In addition, caspase 1 activity was 
+inhibited in mice lacking active cysteine proteases, and the effects of dual 
+blockade of caspase 1 and serine proteases on arthritis severity and 
+histopathologic features were evaluated.
+RESULTS: Surprisingly, caspase 1-/- mice, in a model of acute 
+(neutrophil-dominated) arthritis, developed joint swelling to an extent similar 
+to that in wild-type control mice. Joint fluid concentrations of bioactive 
+IL-1beta were comparable in caspase 1-/- mice and controls. In contrast, 
+induction of chronic arthritis (characterized by minimal numbers of neutrophils) 
+in caspase 1-/- mice led to reduced joint inflammation and less cartilage 
+damage, implying a caspase 1-dependent role in this process. In mice lacking 
+neutrophil serine PR3, inhibition of caspase 1 activity resulted in decreased 
+bioactive IL-1beta concentrations in the synovial tissue and less suppression of 
+chondrocyte anabolic function. In addition, dual blockade of both PR3 and 
+caspase 1 led to protection against cartilage and bone destruction.
+CONCLUSION: Caspase 1 deficiency does not affect neutrophil-dominated joint 
+inflammation, whereas in chronic arthritis, the lack of caspase 1 results in 
+reduced joint inflammation and cartilage destruction. These findings suggest 
+that inhibitors of caspase 1 are not able to interfere with the whole spectrum 
+of IL-1beta production, and therefore such inhibitors may be of therapeutic 
+value only in inflammatory conditions in which limited numbers of neutrophils 
+are present.

@@ -1,0 +1,22 @@
+Clostridium difficile is a major and growing problem as a hospital-associated 
+infection that can cause severe, recurrent diarrhea. The mechanism by which the 
+bacterium colonizes the gut during infection is poorly understood but 
+undoubtedly involves protein components within the surface layer (S-layer), 
+which play a role in adhesion. In C. difficile, the S-layer is composed of two 
+principal components, the high and low molecular weight S-layer proteins, which 
+are formed from the post-translational cleavage of a single precursor, SlpA. In 
+the present study, we demonstrate that a recently characterized cysteine 
+protease, Cwp84 plays a role in maturation of SlpA. Using a gene knock-out 
+approach, we show that inactivation of the Cwp84 gene in C. difficile 
+630DeltaErm results in a bacterial phenotype in which only immature, single 
+chain SlpA comprises the S-layer. The Cwp84 knock-out mutants (CDDeltaCwp84) 
+displayed significantly different colony morphology compared with the wild-type 
+strain and grew more slowly in liquid medium. SlpA extracted from CDDeltaCwp84 
+was readily cleaved into its mature subunits by trypsin treatment. Addition of 
+trypsin to the growth medium also cleaved SlpA on CDDeltaCwp84 and increased the 
+growth rate of the bacterium in a dose-dependent manner. Using the hamster model 
+for C. difficile infection, CDDeltaCwp84 was found to be competent at causing 
+disease with a similar pathology to the wild-type strain. The data show that 
+whereas Cwp84 plays a role in the cleavage of SlpA, it is not an essential 
+virulence factor and that bacteria expressing immature SlpA are able to cause 
+disease.

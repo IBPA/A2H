@@ -1,0 +1,21 @@
+Preclinical evidence supports targeting the C5a receptor (C5aR) in rheumatoid 
+arthritis (RA). To support ongoing clinical development of an anti-C5aR 
+monoclonal antibody, we have investigated for the first time the mechanism of 
+action and the pharmacodynamics of a blocking anti-murine C5aR (anti-mC5aR) 
+surrogate antibody in mouse collagen-induced arthritis (CIA). First, efficacy 
+was demonstrated in a multiple-dose treatment study. Almost complete inhibition 
+of clinical disease progression was obtained, including reduced bone and 
+cartilage destruction in anti-mC5aR-treated mice. Then, the mechanism of action 
+was examined by looking for early effects of anti-mC5aR treatment in single-dose 
+treatment studies. We found that 48 h after single-dose treatment with 
+anti-mC5aR, the neutrophil and macrophage infiltration into the paws was already 
+reduced. In addition, several inflammatory markers, including tumour necrosis 
+factor (TNF)-α, interleukin (IL)-6 and IL-17A were reduced locally in the paws, 
+indicating reduction of local inflammation. Furthermore, dose-setting 
+experiments supported a beneficial clinical effect of dosing above the C5aR 
+saturation level. In conclusion, these preclinical data demonstrated rapid onset 
+effects of antibody blockade of C5aR. The data have translational value in 
+supporting the Novo Nordisk clinical trials of an anti-C5aR antibody in 
+rheumatoid arthritis patients, by identifying potential biomarkers of treatment 
+effects as well as by providing information on pharmacodynamics and novel 
+insights into the mechanism of action of monoclonal antibody blockade of C5aR.

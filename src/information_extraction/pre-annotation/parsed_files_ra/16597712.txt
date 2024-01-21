@@ -1,0 +1,20 @@
+Destruction of cartilage and bone is a poorly managed hallmark of human 
+rheumatoid arthritis (RA). p38 Mitogen-activated protein kinase (MAPK) has been 
+shown to regulate key proinflammatory pathways in RA, including tumor necrosis 
+factor alpha, interleukin (IL)-1beta, and cyclooxygenase-2, as well as the 
+process of osteoclast differentiation. Therefore, we evaluated whether a 
+p38alpha MAPK inhibitor, indole-5-carboxamide (SD-282), could modulate cartilage 
+and bone destruction in a mouse model of RA induced with bovine type II collagen 
+[collagen-induced arthritis (CIA)]. In mice with early disease, SD-282 treatment 
+significantly improved clinical severity scores, reduced bone and cartilage 
+loss, and reduced mRNA levels of proinflammatory genes in paw tissue, including 
+IL-1beta, IL-6, and cyclooxygenase-2. Notably, SD-282 treatment of mice with 
+advanced disease resulted in significant improvement in clinical severity 
+scoring and paw swelling, a reversal in bone and cartilage destruction as 
+assessed by histology, bone volume fraction and thickness, and three-dimensional 
+image analysis. These changes were accompanied by reduced osteoclast number and 
+lowered levels of serum cartilage oligomeric matrix protein, a marker of 
+cartilage breakdown. Thus, in a model of experimental arthritis associated with 
+significant osteolysis, p38alpha MAPK inhibition not only attenuates disease 
+progression but also reverses cartilage and bone destruction in mice with 
+advanced CIA disease.

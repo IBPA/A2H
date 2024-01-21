@@ -1,0 +1,9 @@
+Injection of adjuvant (Mycobacterium butyricum suspended in mineral oil) into 
+rats produces an immune reaction that characteristically involves inflammatory 
+destruction of cartilage and bone of the distal joints with concomitant swelling 
+of surrounding tissues. Adjuvant-induced arthritis in rats is commonly used to 
+evaluate compounds that might be of potential use as drugs for treatment of 
+rheumatoid arthritis and other chronic inflammatory conditions. This unit 
+describes a method for inducing arthritis by injecting adjuvant into the tail 
+and evaluating a test compound for the ability to inhibit the inflammatory 
+response.

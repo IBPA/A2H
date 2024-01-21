@@ -1,0 +1,26 @@
+Tristetraprolin (TTP) is the best-studied member of a small family of three 
+proteins in humans that is characterized by a tandem CCCH zinc finger (TZF) 
+domain with highly conserved sequences and spacing. Although initially 
+discovered as a gene that could be induced rapidly and transiently by the 
+stimulation of fibroblasts with growth factors and mitogens, it is now known 
+that TTP can bind to AU-rich elements in mRNA, leading to the removal of the 
+poly(A) tail from that mRNA and increased rates of mRNA turnover. This activity 
+was discovered after TTP-deficient mice were created and found to have a 
+systemic inflammatory syndrome with severe polyarticular arthritis and 
+autoimmunity, as well as medullary and extramedullary myeloid hyperplasia. The 
+syndrome seemed to be due predominantly to excess circulating tumor necrosis 
+factor-alpha (TNF-alpha), resulting from the increased stability of the 
+TNF-alpha mRNA and subsequent higher rates of secretion of the cytokine. The 
+myeloid hyperplasia might be due in part to increased stability of 
+granulocyte-macrophage colony-stimulating factor (GM-CSF). This review 
+highlights briefly the characteristics of the TTP-deficiency syndrome in mice 
+and its possible genetic modifiers, as well as recent data on the 
+characteristics of the TTP-binding site in the TNF-alpha and GM-CSF mRNAs. 
+Recent structural data on the characteristics of the complex between RNA and one 
+of the TTP-related proteins are reviewed, and used to model the TTP-RNA binding 
+complex. We review the current knowledge of TTP sequence variants in humans and 
+discuss the possible contributions of the TTP-related proteins in mouse 
+physiology and in human monocytes. The TTP pathway of TNF-alpha and GM-CSF mRNA 
+degradation is a possible novel target for anti-TNF-alpha therapies for 
+rheumatoid arthritis, and also for other conditions proven to respond to 
+anti-TNF-alpha therapy.

@@ -1,0 +1,29 @@
+ETHNOPHARMACOLOGICAL RELEVANCE: Gnaphalium affine D. Don (GA) has been 
+traditionally used as a medicinal herb in China for the treatment of many 
+ailments including rheumatoid arthritis. However, the anti-arthritic mechanism 
+of GA has still not been demonstrated. This study aims to reveal the 
+anti-inflammatory activity and anti-arthritic mechanism of ethanol extract of G. 
+affine D. Don.
+MATERIALS AND METHODS: Anti-inflammatory potential of GA was analyzed in vivo in 
+carrageenan induced mice paw edema (acute study). Also, in vivo study was 
+applied in collagen-induced arthritis (CIA) rats. In vitro experiments for 
+analyzing the anti-inflammatory potential of GA were performed on rat alveolar 
+macrophages cell line (NR8383). Analysis of nitric oxide release in NR8383 cells 
+was done by Griess reaction. RT-PCR and western blotting experiment was 
+performed to analyze the expression of phosphorylated p65 and IκBα/β-actin in 
+NF-κB pathway. The production of TNF-α, IL-1β, and COX-2 in NR8383 cells were 
+measured by enzyme-linked immunosorbent assay. The chemical profile of GA was 
+analyzed by HPLC-VWD.
+RESULTS: GA significantly reduced the paw volume in carrageenan induced rat paw 
+edema rat at different doses (300 and 600 mg/kg), compared with the standard 
+indomethacin treatment. In CIA, GA can obviously ameliorate the inflammatory 
+symptom, including cytokine, histological symptom and paw swelling. In the vitro 
+study, GA was able to reduce the nitric oxide (NO) levels in NR8383 cells that 
+had been stimulated with lipopolysaccharide (LPS). The level of TNF-α, IL-1β, 
+and COX-2 was also decreased with GA treatment in NR8383 cells that had been 
+stimulated with lipopolysaccharide (LPS). Interestingly, GA was found to 
+decrease the level of phosphorylated p65 and IκBα in NR8383 cells. Fifteen 
+compounds were identified by HPLC-VWD with the reference substances and verified 
+by LC-MS.
+CONCLUSIONS: The results of the experiment scientifically validated its 
+traditional use in inflammatory conditions.

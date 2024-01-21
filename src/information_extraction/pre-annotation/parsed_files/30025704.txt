@@ -1,0 +1,32 @@
+BACKGROUND & AIMS: Fecal microbiota transplantation (FMT) is effective for 
+treating recurrent Clostridioides difficile infection (CDI), but there are 
+concerns about its long-term safety. Understanding the mechanisms of the effects 
+of FMT could help us design safer, targeted therapies. We aimed to identify 
+microbial metabolites that are important for C difficile growth.
+METHODS: We used a CDI chemostat model as a tool to study the effects of FMT 
+in vitro. The following analyses were performed: C difficile plate counts, 16S 
+rRNA gene sequencing, proton nuclear magnetic resonance spectroscopy, and 
+ultra-performance liquid chromatography and mass spectrometry bile acid 
+profiling. FMT mixtures were prepared using fresh fecal samples provided by 
+donors enrolled in an FMT program in the United Kingdom. Results from chemostat 
+experiments were validated using human stool samples, C difficile batch 
+cultures, and C57BL/6 mice with CDI. Human stool samples were collected from 16 
+patients with recurrent CDI and healthy donors (n = 5) participating in an FMT 
+trial in Canada.
+RESULTS: In the CDI chemostat model, clindamycin decreased valerate and 
+deoxycholic acid concentrations and increased C difficile total viable counts 
+and valerate precursors, taurocholic acid, and succinate concentrations. After 
+we stopped adding clindamycin, levels of bile acids and succinate recovered, 
+whereas levels of valerate and valerate precursors did not. In the CDI chemostat 
+model, FMT increased valerate concentrations and decreased C difficile total 
+viable counts (94% decrease), spore counts (86% decrease), and valerate 
+precursor concentrations; concentrations of bile acids were unchanged. In stool 
+samples from patients with CDI, valerate was depleted before FMT but restored 
+after FMT. Clostridioides difficile batch cultures confirmed that valerate 
+decreased vegetative growth, and that taurocholic acid was required for 
+germination but had no effect on vegetative growth. Clostridioides difficile 
+total viable counts were decreased by 95% in mice with CDI given glycerol 
+trivalerate compared with phosphate buffered saline.
+CONCLUSIONS: We identified valerate as a metabolite that is depleted with 
+clindamycin and only recovered with FMT. Valerate is a target for a rationally 
+designed recurrent CDI therapy.

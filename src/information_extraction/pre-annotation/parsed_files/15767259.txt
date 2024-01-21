@@ -1,0 +1,19 @@
+Clostridium difficile toxin A induces acute colitis with neutrophil infiltration 
+and up-regulation of numerous pro-inflammatory mediators, but the contribution 
+of cyclooxygenase-2 (COX-2) induction in this infection is unknown. We report 
+here that toxin A induces expression of COX-2 and secretion of prostaglandin E2 
+(PGE2) in a dose- and time-dependent manner in cultured NCM460 human colonocytes 
+and in human intestinal xenografts. This induction was blocked by SB203580, a 
+p38 MAPK inhibitor, which also decreased the phosphorylation of MSK-1, 
+CREB/ATF-1, and COX-2 promoter activity following toxin A stimulation. Gel shift 
+assays indicated that CREB/ATF-1 was the major proteins binding to the 
+COX-2-CRE. Moreover, colonocytes exposed to toxin A produced reactive oxygen 
+species (ROS), which activated p38 MAPK, MSK-1, and CREB/ATF-1, leading to 
+subsequent COX-2 induction and PGE2 secretion. In intact mice, blockage of p38 
+MAPK inhibited toxin A-mediated induction of COX-2 in enterocytes as well as 
+lamina propria cells, and significantly blocked the toxin A-induced ileal 
+secretion of fluid and PGE2. Furthermore, a selective COX-2 inhibitor also 
+diminished toxin A-associated ileal fluid and PGE2 secretion. The main signaling 
+pathway for toxin A induction of human COX-2 involves ROS-mediated activation of 
+p38 MAPK, MSK-1, CREB, and ATF-1. Toxin A triggers ileal inflammation and 
+secretion of fluid via COX-2 induction and release of PGE2.

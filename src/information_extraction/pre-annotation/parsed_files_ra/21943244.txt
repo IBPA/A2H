@@ -1,0 +1,27 @@
+BACKGROUND: In 2009, xenotropic murine leukemia virus-related virus (XMRV) was 
+reported in 67% of patients with chronic fatigue syndrome (CFS) compared to 4% 
+of controls. Since then numerous reports failed to detect XMRV in other cohorts 
+of CFS patients, and some studies suggested that XMRV sequences in human samples 
+might be due to contamination of these samples with mouse DNA.
+RESULTS: We determined the prevalence of XMRV in patients with CFS from similar 
+areas in the United States as the original 2009 study, along with patients with 
+chronic inflammatory disorders and healthy persons. Using quantitative PCR, we 
+initially detected very low level signals for XMRV DNA in 15% of patients with 
+CFS; however, the frequency of PCR positivity was no different between patients 
+with CFS and controls. Repeated attempts to isolate PCR products from these 
+reactions were unsuccessful. These findings were supported by our observations 
+that PHA and IL-2 stimulation of peripheral blood mononuclear cells from 
+patients with apparently low levels of XMRV, which induced virus replication in 
+the 2009 report, resulted in the disappearance of the signal for XMRV DNA in the 
+cells. Immunoprecipitation of XMRV-infected cell lysates using serum from 
+patients from whom we initially detected low levels of XMRV DNA followed by 
+immunoblotting with antibodies to XMRV gp70 protein failed to detect antibody in 
+the patients, although one control had a weak level of reactivity. Diverse 
+murine leukemia virus (MLV) sequences were obtained by nested PCR with a similar 
+frequency in CFS patients and controls. Finally, we did not detect XMRV 
+sequences in patients with several chronic inflammatory disorders including 
+rheumatoid arthritis, Bechet's disease, and systemic lupus erythematosus.
+CONCLUSIONS: We found no definitive evidence for XMRV DNA sequences or antibody 
+in our cohort of CFS patients, which like the original 2009 study, included 
+patients from diverse regions of the United States. In addition, XMRV was not 
+detected in a cohort of patients with chronic inflammatory disorders.

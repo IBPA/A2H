@@ -1,0 +1,14 @@
+Thymidine phosphorylase (TP) over expression plays an important role in several 
+pathological conditions, such as rheumatoid arthritis, chronic inflammatory 
+diseases, psoriasis, and tumor angiogenesis. In this regard, a series of 
+twenty-five 2-arylquinazolin-4(3H)-one derivatives 1-25 were evaluated for 
+thymidine phosphorylase inhibitory activity. Six compounds 5, 6, 20, 2, 23, and 
+3 were found to be active against thymidine phosphorylase enzyme with IC50 
+values in the range of 42.9-294.6μM. 7-Deazaxanthine (IC50=41.0±1.63μM) was used 
+as a standard inhibitor. Compound 5 showed a significant activity 
+(IC50=42.9±1.0μM), comparable to the standard. The enzyme kinetic studies on the 
+most active compounds 5, 6, and 20 were performed for the determination of their 
+modes of inhibition, and dissociation constants Ki. All active compounds were 
+found to be largely non-cytotoxic against the mouse fibroblast 3T3 cell line. 
+This study identifies a novel class of thymidine phosphorylase inhibitors which 
+may be further investigated as leads to develop therapeutic agents.

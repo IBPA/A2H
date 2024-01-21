@@ -1,0 +1,27 @@
+In spite of their adverse side effects, natural and synthetic glucocorticoids 
+(GCs) occupy a unique role in several fields of medicine. They are potent 
+regulators of bone cell growth and differentiation and the actions on the 
+skeleton and related tissues depend on several factors including the dose, 
+duration of the exposure, the steroid type and the species. In humans some of 
+the effects are indirect, such as the regulation of intestinal calcium 
+absorption and PTH secretion. Other effects are due to the cellular response 
+that occurs within the bone microenvironment. It has been well established in in 
+vitro studies that GCs can promote osteoblast differentiation from mesenchymal 
+osteoprogenitors both in rat calvarial culture and in adherent marrow stromal 
+cells. Moreover, GCs are able to enhance expression of the mature osteoblast 
+phenotype, increasing mineralized nodules, osteocalcin secretion, and the bone 
+morphogenetic protein-6 message level. However, the mechanisms by which GCs 
+affect bone metabolism are still unclear. Recent studies with GCs on bone cells 
+suggested that the production of cytokines and growth factors and the expression 
+of their receptors may also be influenced by GCs. In fact, GCs are able to 
+inhibit the synthesis of cytokines, such as interleukin-1 which stimulates bone 
+remodeling by monocytes and macrophages. Moreover, osteoprotegerin, a recently 
+cloned member of the tumor necrosis factor receptor family, is down-regulated by 
+GCs, offering a possible interpretation for the induction of bone resorption by 
+GCs. GC-induced inhibition of bone resorbing cytokines may contribute to explain 
+the therapeutic actions of GCs in several diseases such as rheumatoid arthritis 
+and myeloma. Furthermore, GCs modulate osteoclast recruitment, even if there is 
+no clear explanation for a direct effect of GCs on osteoclastic precursors. 
+Sustained stimulation of matrix degradation by isolated avian osteoclasts 
+incubated with GCs has been reported, as well as cytotoxic effects on 
+osteoclastic cells from neonatal rat long bones.

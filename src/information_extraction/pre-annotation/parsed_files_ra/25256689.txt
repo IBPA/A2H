@@ -1,0 +1,27 @@
+ETHNOPHARMACOLOGICAL RELEVANCE: Rhododendri Mollis Flos (RMF), termed as 
+Naoyanghua in Chinese, is a traditional anti-rheumatoid arthritis and bruises 
+herb with associated cardiotoxicity. The predominant rhodojaponins occurring in 
+RMF are responsible for its efficacy and toxicity. The narrow therapeutic window 
+of rhodojaponins necessitates monitoring the pharmacokinetics and 
+pharmacodynamics so as to ensure the safety in practical applications of RMF.
+MATERIALS AND METHODS: Fifty-four male Sprague-Dawley rats were divided into a 
+control group, a low-dose group and a high-dose group. After oral administration 
+of RMF extract, the cardiotoxicity of RMF was evaluated by assessing ventricular 
+function and by measuring the plasma levels of LDH, CK-MB and AST. Then, an 
+LC-MS method was established to determine the rat plasma concentrations of three 
+major rhodojaponins including rhodojaponin I, II and III (R-I, II and III) and 
+was applied to pharmacokinetic study. Finally, based on an AUC-weighting 
+approach, the integrated pharmacokinetics of three rhodojaponins was determined.
+RESULTS: Compared with control group, cardiotoxicity was observed in RMF-treated 
+rats with left ventricular dysfunction and with the continuously increased 
+levels of LDH and CK-MB in a dose-dependent manner. The pharmacokinetic 
+parameters (AUC0-t, AUC0-∞, t1/2, Tmax and Cmax) for R-I, II and III were 
+markedly different, and the integrated pharmacokinetics was therefore converted 
+to describe the holistic pharmacokinetic profiles of R-I, II and III, which 
+correlated pretty well with cardiotoxicity.
+CONCLUSIONS: It was found that myocardial damage was elicited by RMF extract in 
+a dose-dependent manner and the plasma levels of LDH and CK-MB could reveal the 
+severity of myocardial injury as potential markers. This study also highlighted 
+the potential of integrated pharmacokinetics to provid a more comprehensive 
+understanding of the relationship between the pharmacokinetic behaviors of 
+traditional Chinese herbal medicine and its efficacy.

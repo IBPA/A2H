@@ -1,0 +1,20 @@
+The cytoplasmic phosphatase, protein tyrosine phosphatase nonreceptor type 22 
+(PTPN22), is a negative regulator of T cell signaling. Genome-wide association 
+studies have shown that single-nucleotide polymorphisms in PTPN22 confer an 
+increased risk of developing multiple autoimmune diseases in humans. The precise 
+function of PTPN22 and how the variant protein contributes to autoimmunity is 
+not well understood. To address this issue, we investigated the effect of PTPN22 
+deficiency on disease susceptibility in a mouse model of autoimmune arthritis. 
+The SKG mouse expresses a hypomorphic mutant allele of ZAP70, which, upon 
+exposure to fungal Ags, predisposes the mice to a CD4(+) T cell-mediated 
+autoimmune arthritis that closely resembles rheumatoid arthritis in humans. 
+Surprisingly, SKG Ptpn22(-/-) mice developed less severe mannan-induced 
+arthritis compared with SKG mice. Diminution of disease was not due to 
+significant alterations in thymocyte development or repertoire selection in SKG 
+Ptpn22(-/-) mice, even though T cell-mediated signal transduction was improved. 
+Instead, Ptpn22 deficiency appeared to bias CD4 Th cell differentiation away 
+from the Th17 lineage, which is pathogenic in this setting, to a more Th1/T 
+regulatory-focused response. These data show that even small perturbations in 
+TCR signal transduction pathways can have profound consequences on the 
+differentiation of T cell lineages and thus for the development of autoimmune 
+diseases.

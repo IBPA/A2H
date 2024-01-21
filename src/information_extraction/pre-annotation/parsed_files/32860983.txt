@@ -1,0 +1,23 @@
+Clostridioides difficile infections (CDI) has emerged worldwide as a serious 
+antimicrobial-resistant healthcare-associated disease resulting in diarrhea and 
+pseudomembranous colitis. The two cytotoxic proteins, toxin A (TcdA) and toxin B 
+(TcdB) are the major virulence factor responsible for the disease symptoms. We 
+examined time-dependent oxidative detoxification of TcdA and TcdB using 
+different molar ratios of protein:Cu2+:H2O2. The metal-catalyzed oxidation (MCO) 
+reaction in molar ratios of 1:60:1000 for protein:Cu2+:H2O2 at pH 4.5 resulted 
+in a significant 6 log10 fold reduction in cytotoxicity after 120-min incubation 
+at 37 °C. Circular dichroism revealed that MCO-detoxified TcdA and TcdB had 
+secondary and tertiary structural folds similar to the native proteins. The 
+conservation of immunogenic epitopes of both proteins was tested using 
+monoclonal antibodies in an ELISA, comparing our MCO-detoxification approach to 
+a conventional formaldehyde-detoxification method. The oxidative detoxification 
+of TcdA and TcdB led to an average 2-fold reduction in antibody binding relative 
+to native proteins, whereas formaldehyde cross-linking resulted in 3-fold and 
+5-fold reductions, respectively. Finally, we show that mice immunized with a 
+vaccine consisting of MCO-detoxified TcdA and TcdB were fully protected against 
+disease symptoms and death following a C. difficile infection and elicited 
+substantial serum IgG responses against both TcdA and TcdB. The results of this 
+study present copper ion-catalyzed oxidative detoxification of toxic proteins as 
+a method highly suitable for the rapid production of safe, immunogenic and 
+irreversible toxoid antigens for future vaccine development and may have the 
+potential for replacing cross-linking reagents like formaldehyde.

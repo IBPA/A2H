@@ -1,0 +1,22 @@
+To investigate effects of a 16.8-Mb region on rat chromosome 4q42-43 on 
+encephalomyelitis, we performed a high-resolution mapping using a 10th 
+generation advanced intercross line between the susceptible DA strain and the 
+MHC identical but resistant PVG.1AV1 strain. Clinical signs of myelin 
+oligodendrocyte glycoprotein-induced experimental autoimmune encephalomyelitis 
+(EAE) developed in 29% of 772 F(10) rats. Three regions controlling disease, 
+Eae20, Eae21, and Eae22, were mapped using 15 microsatellite markers spanning 
+16.8 Mb. Eae20 was a major genetic determinant within the region whereas Eae21 
+modified disease severity. Eae22 was identified as an epistatic region because 
+it only displayed an effect together with Piebald Virol Glaxo (PVG) alleles on 
+Eae20. Disease down-regulation by PVG alleles in the telomeric part of Eae20 was 
+also demonstrated in DA rats made congenic for a approximately 1.44-Mb 
+chromosomal region from PVG. As the region containing Eae20-Eae22 also regulates 
+arthritis, together with the fact that the syntenic mouse 6F(2)-F(3) region 
+regulates experimental lupus and diabetes, and the syntenic human 12p13.31-13.2 
+region regulates multiple sclerosis and rheumatoid arthritis, the present data 
+point to genes that control several inflammatory diseases. The pairscan analyses 
+of interaction, which here identified Eae22, are novel in the encephalomyelitis 
+field and of importance in the design of further studies of this region in other 
+diseases and species. The limited number of genes identified in Eae20, Eae21, 
+and Eae22 enables focused examination of their relevance in mechanistic animal 
+studies and screening of their association to human diseases.

@@ -1,0 +1,29 @@
+AIM: To investigate the effects of Tubastatin A, a selective histone 
+deacetylase-6 inhibitor, on synovial inflammation and joint destruction in a 
+collagen antibody-induced arthritis (CAIA) mouse model.
+METHODS: Collagen antibody-induced arthritis mice were given daily 
+intraperitoneal injections of various concentrations of Tubastatin A (0, 10, 50, 
+100 mg/kg). The clinical score and paw thickness were measured. Mice were 
+sacrificed on day 15, and the expression of tumor necrosis factor (TNF)-α, 
+interleukin (IL)-1 and IL-6 in the serum were analyzed using enyme-linked 
+immunosorbent assay (ELISA). Two pathologists independently measured the 
+synovitis score. Micro-computed tomography (CT) scans of the joints were 
+performed to quantify joint destruction. The expression of IL-6 from human 
+fibroblast-like synoviocytes (FLSs) after incubation with various doses of 
+Tubastatin A (0, 0.75, 1.5, 3 μmol/L) was measured using ELISA.
+RESULTS: The clinical arthritis score was significantly attenuated and paw 
+thickness was lower in the group treated with 100 mg/kg Tubastatin A compared 
+with those treated with vehicle alone. The synovitis score was significantly 
+reduced in the 100 mg/kg Tubastatin A-treated group compared with the control 
+group. Micro-CT showed that quantitative measures of joint destruction were 
+significantly attenuated in the 100 mg/kg Tubastatin A-treated group compared 
+with the control. The expression of IL-6 in the sera was lower in the mice 
+treated with Tubastatin A compared with the control. The expression of IL-6 in 
+human FLSs decreased dose-dependently after incubation with Tubastatin A without 
+affecting cell viability.
+CONCLUSIONS: Tubastatin A successfully ameliorated synovial inflammation and 
+protected against joint destruction in CAIA mice, at least in part, by 
+modulating IL-6 expression.
+
+© 2014 Asia Pacific League of Associations for Rheumatology and Wiley Publishing 
+Asia Pty Ltd.

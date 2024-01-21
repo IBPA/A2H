@@ -1,0 +1,21 @@
+CONTEXT: VX-702 is a novel p38 mitogen-activated protein kinase inhibitor being 
+developed to treat rheumatoid arthritis.
+OBJECTIVE: To characterize the renal excretion profile of VX-702 using the 
+isolated perfused rat kidney (IPRK) model.
+METHODS: Studies were performed to assess the dose linearity of VX-702 excretion 
+and to evaluate the effect of inhibitors of organic anion (probenecid) and 
+organic cation (cimetidine) transport systems on VX-702 disposition. VX-702 
+excretion was studied over a range of doses targeting concentrations between 100 
+and 600 ng/mL. VX-702 (600 ng/mL) was also co-perfused with probenecid (1 mM) 
+and cimetidine (2 mM). The results were compared to parallel experiments 
+performed with methotrexate (MTX).
+RESULTS: VX-702 excretion was linear over the range of doses studied, and 
+clearance data were consistent with net reabsorption by the kidney. Transport 
+inhibition studies indicate that VX-702 is not a substrate for renal organic 
+anion and organic cation transport systems. MTX (500 ng/mL) also displayed net 
+reabsorption in the IPRK, but secretory transport was inhibited upon 
+co-administration with probenecid. This finding is consistent with previous IPRK 
+studies that demonstrated inhibitory effects of NSAIDS on MTX excretion.
+CONCLUSION: Overall, this study suggests that a renal drug-drug interaction 
+between VX-702 and MTX would be unlikely if these medications were 
+co-administered.

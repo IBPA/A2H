@@ -1,0 +1,18 @@
+Activation Induced Cell Death of T helper cells is central to maintaining immune 
+homeostasis and a perturbation often manifests in aberrant T helper cells that 
+is associated with immunopathologies. Significant presence of T cells positive 
+for IL-17A (Th17) and dual positive for IFN-γ/IL-17A (Th1/Th17) in both effector 
+(CD45RA+RO+) and memory (CD45RA-RO+) compartments with differential FasL protein 
+in RA peripheral blood suggested their differential TCR AICD sensitivity. 
+Lowered active caspase-3 in Th17 and Th1/Th17 over Th1 cells confirmed their 
+capability to resist AICD and pointed to early upstream events. Differential 
+MAPK activities, FasL protein and downstream caspase-3 activities in murine Th1 
+and Th17 cells established distinct TCR mediated signaling pathways and 
+suggested low Erk and p38 activity as pivotal for AICD sensitivity. We 
+extrapolated our mouse and human data and report that Fas-FasL is the preferred 
+death pathway for both Th1 and Th17 and that inherently low Erk2 activity 
+protected Th17 cells from TCR AICD. The presence of significantly higher numbers 
+of aberrant T helper cells in RA also suggest an inflammatory cytokine milieu 
+and AICD insensitive T cell link to sustained inflammation. Re sensitization to 
+apoptosis by targeting MAPK activity especially Erk2 in RA might be of 
+therapeutic value.

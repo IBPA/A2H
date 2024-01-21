@@ -1,0 +1,24 @@
+BACKGROUND & AIMS: Leptin regulates energy homeostasis and participates in the 
+regulation of the hypothalamic-pituitary-adrenal axis. Although hyperleptinemia 
+is described in experimental colitis, its role in the pathophysiology of 
+enterotoxin-mediated diarrhea and inflammation remains unclear. We examined the 
+role of leptin in the inflammatory diarrhea induced by toxin A from Clostridium 
+difficile, the causative agent of antibiotic-related colitis.
+METHODS: Toxin A (10 microg) or buffer were administered in ileal loops of 
+leptin-deficient (ob/ob), leptin-resistant (db/db), or wild-type mice and 
+enterotoxic responses were measured.
+RESULTS: In toxin A-treated wild-type mice, circulating leptin and 
+corticosterone levels were increased compared with buffer-injected animals. 
+Toxin A also stimulated increased mucosal expression of the Ob-Rb at the 
+messenger RNA (mRNA) and protein level. Ob/ob and db/db mice were partially 
+protected against toxin A-induced intestinal secretion and inflammation, and 
+this effect was reversed by leptin administration in ob/ob, but not db/db, mice. 
+Basal- and toxin A-stimulated plasma corticosterone levels in ob/ob and db/db 
+mice were higher compared with toxin A-treated wild-type mice. To assess whether 
+the effect of leptin in intestinal inflammation is mediated by corticosteroids 
+we performed adrenalectomy experiments in db/db and wild-type mice. Our results 
+suggested that the diminished intestinal response to toxin A in db/db mice was 
+related only in part to increased levels of corticosteroids.
+CONCLUSIONS: Leptin plays an important role in regulating the severity of 
+enterotoxin-mediated intestinal secretion and inflammation by activating both 
+corticosteroid-dependent and -independent mechanisms.

@@ -1,0 +1,25 @@
+Antibiotics that are excreted into the intestinal tract may disrupt the 
+indigenous intestinal microbiota and promote colonization by health 
+care-associated pathogens. β-Lactam, or penicillin-type, antibiotics are among 
+the most widely utilized antibiotics worldwide and may also adversely affect the 
+microbiota. Many bacteria are capable, however, of producing β-lactamase enzymes 
+that inactivate β-lactam antibiotics. We hypothesized that prior establishment 
+of intestinal colonization with a β-lactamase-producing anaerobe might prevent 
+these adverse effects of β-lactam antibiotics, by inactivating the portion of 
+antibiotic that is excreted into the intestinal tract. Here, mice with a 
+previously abolished microbiota received either oral normal saline or an oral 
+cephalosporinase-producing strain of Bacteroides thetaiotaomicron for 3 days. 
+Mice then received 3 days of subcutaneous ceftriaxone, followed by either oral 
+administration of vancomycin-resistant Enterococcus (VRE) or sacrifice and 
+assessment of in vitro growth of epidemic and nonepidemic strains of Clostridium 
+difficile in murine cecal contents. Stool concentrations of VRE and ceftriaxone 
+were measured, cecal levels of C. difficile 24 h after incubation were 
+quantified, and denaturing gradient gel electrophoresis (DGGE) of microbial 16S 
+rRNA genes was performed to evaluate the antibiotic effect on the microbiota. 
+The results demonstrated that establishment of prior colonization with a 
+β-lactamase-producing intestinal anaerobe inactivated intraintestinal 
+ceftriaxone during treatment with this antibiotic, allowed recovery of the 
+normal microbiota despite systemic ceftriaxone, and prevented overgrowth with 
+VRE and epidemic and nonepidemic strains of C. difficile in mice. These findings 
+describe a novel probiotic strategy to potentially prevent pathogen colonization 
+in hospitalized patients.

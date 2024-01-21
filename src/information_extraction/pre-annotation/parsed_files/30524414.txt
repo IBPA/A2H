@@ -1,0 +1,29 @@
+Introduction: Bile acids (BA) influence germination and growth of Clostridium 
+difficile. Ursodeoxycholic acid (UDCA), a BA minor in human, used for 
+cholestatic liver diseases, inhibits germination and growth of C. difficile in 
+vitro, but was never tested in vivo with an infectious challenge versus control. 
+We hypothesized that UDCA could prevent CDI. We evaluated the effects of UDCA on 
+C. difficile in vitro and in hamsters, with pharmacokinetics study and with an 
+infectious challenge. Then, we studied CDI incidence in UDCA-treated patients. 
+Methods: We evaluated germination and growth of C. difficile, with 0.01, 0.05, 
+and 0.1% UDCA. We analyzed fecal BA of hamsters receiving antibiotics and UDCA 
+(50 mg/kg/day), antibiotics, or UDCA alone. Then, we challenged with spores of 
+C. difficile at D6 hamsters treated with UDCA (50 mg/kg/day) from D1 to D13, 
+versus control. In human, we analyzed the database of a cohort on CDI in acute 
+flares of inflammatory bowel disease (IBD). As PSC-IBD patients were under UDCA 
+treatment, we compared PSC-IBD patients to IBD patients without PSC. Results: In 
+vitro, UDCA inhibited germination and growth of C. difficile at 0.05 and 0.1%, 
+competing with 0.1% TCA (with 0.1%: 0.05% ± 0.05% colony forming unit versus 
+100% ± 0%, P < 0.0001). In hamsters, UDCA reached high levels only when 
+administered with antibiotics (43.5% UDCA at D5). Without antibiotics, UDCA was 
+in small amount in feces (max. 4.28%), probably because of UDCA transformation 
+into LCA by gut microbiota. During infectious challenge, mortality was similar 
+in animals treated or not with UDCA (62.5%, n = 5/8, P = 0.78). UDCA percentage 
+was high, similar and with the same kinetics in dead and surviving hamsters. 
+However, dead hamsters had a higher ratio of primary over secondary BA compared 
+to surviving hamsters. 9% (n = 41/404) of IBD patients without PSC had a CDI, 
+versus 25% (n = 4/12) of PSC-IBD patients treated with UDCA. Conclusion: We 
+confirmed the inhibitory effect of UDCA on growth and germination of C. 
+difficile in vitro, with 0.05 or 0.1% UDCA. However, in our hamster model, UDCA 
+was inefficient to prevent CDI, despite high levels of UDCA in feces. Patients 
+with PSC-IBD treated with UDCA did not have less CDI than IBD patients.

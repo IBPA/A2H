@@ -1,0 +1,28 @@
+OBJECTIVES: SMT19969 is a novel narrow-spectrum antimicrobial under development 
+for the treatment of Clostridium difficile infection (CDI). The objectives were 
+to assess the relative efficacies of SMT19969, vancomycin and fidaxomicin in the 
+hamster model of CDI.
+METHODS: Hamsters were infected with either C. difficile BI1 (ribotype 027) or 
+C. difficile 630 (ribotype 012) prior to treatment with vehicle, SMT19969, 
+fidaxomicin or vancomycin for 5 days. Animals were further monitored through to 
+day 28 and survival recorded. Plasma and gastrointestinal concentrations of 
+SMT19969 following single and repeat administration in infected hamsters were 
+determined.
+RESULTS: Following infection with C. difficile BI1, treatment with SMT19969, 
+vancomycin and fidaxomicin resulted in 100% survival during the 5 day dosing 
+period, with 90%-100% of animals receiving SMT19969 and fidaxomicin surviving 
+during the post-dosing follow-up period. Whilst protective during treatment, 
+onset of mortality was observed on day 11 in animals treated with vancomycin, 
+with a 10% survival recorded by day 28. Similar results were observed for 
+SMT19969 and vancomycin following infection with C. difficile 630, with day 28 
+survival rates of 80%-100% and 0%, respectively. Fidaxomicin protected animals 
+infected with C. difficile 630 from mortality during dosing, although day 28 
+survival rates varied from 0% to 40% depending on dose. Plasma levels of 
+SMT19969 were typically below the limit of quantification, but levels in the 
+gastrointestinal tract remained far in excess of the MIC.
+CONCLUSIONS: These data show that SMT19969 is highly effective at treating both 
+acute infection and preventing recurrent disease and support continued 
+investigation of SMT19969 as a potential therapy for CDI.
+
+© The Author 2015. Published by Oxford University Press on behalf of the British 
+Society for Antimicrobial Chemotherapy.

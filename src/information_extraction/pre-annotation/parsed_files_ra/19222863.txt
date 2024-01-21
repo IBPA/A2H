@@ -1,0 +1,29 @@
+INTRODUCTION: The lymphotoxin-beta receptor (LTbetaR) pathway is important in 
+the development and maintenance of lymphoid structures. Blocking this pathway 
+has proven beneficial in murine models of autoimmune diseases such as diabetes 
+and rheumatoid arthritis. The aim of this study was to determine the effects of 
+LTbetaR pathway blockade on Sjögren syndrome (SS)-like salivary gland disease in 
+non-obese diabetic (NOD) mice.
+METHODS: The course of SS-like disease was followed in NOD mice that were given 
+lymphotoxin-beta receptor-immunoglobulin fusion protein (LTbetaR-Ig) starting at 
+9 weeks of age. Treatment was given as a single weekly dose for 3, 7, or 10 
+weeks. Age-matched NOD mice treated with mouse monoclonal IgG1, or not treated 
+at all, were used as controls. The severity of inflammation, cellular 
+composition, and lymphoid neogenesis in the submandibular glands were determined 
+by immunohistochemistry. Mandibular lymph nodes were also studied. Saliva flow 
+rates were measured, and saliva was analyzed by a multiplex cytokine assay. The 
+salivary glands were analyzed for CXCL13, CCL19, and CCL21 gene expression by 
+quantitative polymerase chain reaction.
+RESULTS: Treatment with LTbetaR-Ig prevented the increase in size and number of 
+focal infiltrates normally observed in this SS-like disease. Compared with the 
+controls, the submandibular glands of LTbetaR-Ig-treated mice had fewer and 
+smaller T- and B-cell zones and fewer high endothelial venules per given 
+salivary gland area. Follicular dendritic cell networks were lost in 
+LTbetaR-Ig-treated mice. CCL19 expression was also dramatically inhibited in the 
+salivary gland infiltrates. Draining lymph nodes showed more gradual changes 
+after LTbetaR-Ig treatment. Saliva flow was partially restored in mice treated 
+with 10 LTbetaR-Ig weekly injections, and the saliva cytokine profile of these 
+mice resembled that of mice in the pre-disease state.
+CONCLUSIONS: Our findings show that blocking the LTbetaR pathway results in 
+ablation of the lymphoid organization in the NOD salivary glands and thus an 
+improvement in salivary gland function.

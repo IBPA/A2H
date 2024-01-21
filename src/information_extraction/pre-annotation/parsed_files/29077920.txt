@@ -1,0 +1,28 @@
+Metronidazole, a nitroimidazole, remains a front-line choice for treatment of 
+infections related to inflammatory disorders of the gastrointestinal tract 
+including colitis linked to Clostridium difficile. Despite >60 years of 
+research, the metabolism of metronidazole and associated cytotoxicity is not 
+definitively characterized. Nitroimidazoles are prodrugs that are reductively 
+activated (the nitro group is reduced) under low oxygen tension, leading to 
+imidazole fragmentation and cytotoxicity. It remains unclear if nitroimidazole 
+reduction (activation) contributes to the cytotoxicity profile, or whether 
+subsequent fragmentation of the imidazole ring and formed metabolites alone 
+mediate cytotoxicity. A molecular mechanism underpinning high level (>256 mg/L) 
+bacterial resistance to metronidazole also remains elusive. Considering the 
+widespread use of metronidazole and other nitroimidazoles, this review was 
+undertaken to emphasize the structure-cytotoxicity profile of the numerous 
+metabolites of metronidazole in human and murine models and to examine 
+conflicting reports regarding metabolite-DNA interactions. An alternative 
+hypothesis, that DNA synthesis and repair of existing DNA is indirectly 
+inhibited by metronidazole is proposed. Prokaryotic metabolism of metronidazole 
+is detailed to discuss new resistance mechanisms. Additionally, the review 
+contextualizes the history and current use of metronidazole, rates of 
+metronidazole resistance including metronidazole MDR as well as the biosynthesis 
+of azomycin, the natural precursor of metronidazole. Changes in the 
+gastrointestinal microbiome and the host after metronidazole administration are 
+also reviewed. Finally, novel nitroimidazoles and new antibiotic strategies are 
+discussed.
+
+© The Author 2017. Published by Oxford University Press on behalf of the British 
+Society for Antimicrobial Chemotherapy. All rights reserved. For Permissions, 
+please email: journals.permissions@oup.com.

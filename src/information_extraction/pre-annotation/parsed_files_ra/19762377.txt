@@ -1,0 +1,17 @@
+Systemic lupus erythematosus (SLE) is a representative autoimmune disease, which 
+is frequently associated with lymphopenia. Biobreeding (BB) rat is a typical 
+animal model which develops autoimmune diseases with lymphopenia which results 
+from a frame-shift mutation in the immune-associated nucleotide (IAN) 5 gene. 
+IAN5 is involved in the regulation of T-cell activation and survival. To examine 
+the association of IAN5 gene with SLE, we scrutinised the single nucleotide 
+polymorphisms (SNPs) in the IAN5 gene. We conducted a case-control study where 
+132 SLE patients, 505 rheumatoid arthritis (RA) patients, and 546 controls were 
+genotyped for four SNPs in the IAN5 gene. Two SNPs (+2071C > T and +2677G > A) 
+were associated with susceptibility to SLE (P = 0.040 and 0.045, respectively), 
+and -4432G > A SNP was associated with the development of leukopenia (P = 0.028) 
+and the requirement of steroid pulse therapy (P = 0.040) in SLE patients. 
+Haplotype analyses showed that Ht1(CTCG) was associated with susceptibility to 
+SLE (P = 0.036), and Ht4(ACCG), Ht5(ACTA) and Ht6(GCCG) were associated with the 
+development of nephritis (P = 0.017, 0.019, 0.022, respectively). In conclusion, 
+the IAN5 polymorphisms were associated with susceptibility to SLE and the 
+development of clinical disease manifestations in a strictly Korean population.

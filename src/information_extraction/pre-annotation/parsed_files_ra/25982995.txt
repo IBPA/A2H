@@ -1,0 +1,22 @@
+Our aim is to elucidate the effects of osteoproteogerin (OPG) on cartilage 
+destruction in rats as a model of collagen-induced arthritis (CIA). To establish 
+the CIA model, Sprague Dawley rats were injected with bovine type II collagen 
+solution subcutaneously via the tails. Adenovirus-mediated OPG (Ad-OPG) was then 
+injected intra-articularly either at the beginning of CIA (early OPG treatment) 
+or one week after CIA establishment (late OPG treatment); vehicle or Ad-green 
+fluorescent protein were injected as controls. The rats were killed 4 weeks 
+after treatment. Ankle-joint sections were obtained for histology. Serum samples 
+were collected for enzyme-linked immunosorbent assay. Safranin O staining showed 
+that proteoglycan loss was inhibited in the early and late Ad-OPG groups. 
+Terminal deoxynucleotidyl transferase-mediated dUTP nick-end labeling staining 
+revealed that both early and late Ad-OPG treatments significantly prevented 
+chondrocyte apoptosis in CIA rats. Furthermore, disintegrin and 
+metalloproteinase with thrombospondin motif-5 expression decreased remarkably in 
+the early and late OPG treatment groups. However, the cartilage destruction 
+score, cartilage oligomeric matrix protein level and caspase-3 expression were 
+only decreased in the early Ad-OPG treatment group. Additionally, ankle-joint 
+swelling and the interleukin-1β expression level in CIA rats were not notably 
+altered by Ad-OPG treatment. Taken together, our results suggest that early 
+Ad-OPG treatment has potent protective effects against cartilage destruction 
+during rheumatoid arthritis progression, mainly by reducing proteoglycan loss 
+and chondrocyte apoptosis.

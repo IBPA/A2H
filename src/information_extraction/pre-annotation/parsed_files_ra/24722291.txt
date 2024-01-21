@@ -1,0 +1,19 @@
+The pathology of rheumatoid arthritis includes synoviocyte proliferation and 
+inflammatory mediator expression, which may result from dysregulated epigenetic 
+control by histone deacetylase (HDAC). Thus, HDAC inhibitors may be useful for 
+treating inflammatory disease. This was a preclinical study of the HDAC 
+inhibitor, MPT0G009. The IC50 values of MPT0G009 for HDAC1, 2, 3, 6 and 8 
+enzymatic activities were significantly lower than those for the currently 
+marketed HDAC inhibitor suberoylanilide hydroxamic acid (SAHA; vorinostat). In 
+addition, MPT0G009 markedly inhibited cytokine secretion and macrophage 
+colony-stimulating factor/receptor activator of nuclear factor kappa B 
+ligand-induced osteoclastogenesis by macrophages (50 ng/ml each). These MPT0G009 
+effects on cytokine secretion and osteoclast formation were reduced by the 
+overexpression of HDAC 1 (class I HDAC) and 6 (class II HDAC) in cells, 
+suggesting that these effects were due to the inhibition of its activity. In an 
+in vivo rat model, oral administration of MPT0G009 (25 mg/kg) significantly 
+inhibited paw swelling and bone destruction. Furthermore, compared with SAHA, 
+MPT0G009 exhibited longer half-life (9.53 h for oral administration) and higher 
+oral bioavailability (13%) in rats. These results established the preclinical 
+anti-arthritic efficacy and pharmacokinetic parameters of MPT0G009, which may 
+provide a new therapeutic approach for treating inflammatory arthritis.

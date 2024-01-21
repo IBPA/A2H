@@ -1,0 +1,25 @@
+Dehydroepiandrosterone (DHEA) treatment provides diverse anti-inflammatory 
+benefits in rodent models of diseases, including rheumatoid arthritis (RA), but 
+only limited benefits to patients. In rodents, DHEA is metabolized to (among 
+others) androstene-3beta,7beta,17beta-triol (AET), which retains potent 
+anti-inflammatory activity. 
+17Alpha-ethynyl-5-androstene-3beta,7beta,17beta-triol (HE3286) is a novel, 
+metabolically stabilized, orally bioavailable derivative of AET. In the DBA 
+mouse model of collagen-induced arthritis (CIA), once-daily oral treatments 
+(gavage) with HE3286 (40 mg/kg), beginning at onset of disease, significantly 
+decreased disease. Benefit was associated with reduction in joint inflammation, 
+erosion, and synovial proliferation as measured by histological analysis and 
+mRNA of proinflammatory cytokines, including tumor necrosis factor-alpha, 
+interleukin (IL)-6, IL-1beta, and IL-23. Significant benefit was also observed 
+in the CIA model even when treatments were delayed until 7 days after the onset 
+of arthritis. Furthermore, dose-dependent benefit was observed in the DBA mouse 
+model of collagen antibody-induced arthritis, as well as reductions in IL-6 and 
+matrix metalloproteinase-3 mRNA levels in joints at the peak of disease and at 
+the end of the study. HE3286, in contrast to dexamethasone, was not 
+immune-suppressive in several classic animal models of immune function. Instead, 
+HE3286 treatment was associated with reduced nuclear factor-kappaB activation 
+and in our previous studies, with increased regulatory T cells. We hypothesize 
+that HE3286 may represent a novel, perhaps first-in-class, anti-inflammatory 
+agent and may more fully translate the benefits of DHEA, heretofore largely 
+limited to rodents, into treatments for human diseases, including autoimmune 
+disorders such as RA.

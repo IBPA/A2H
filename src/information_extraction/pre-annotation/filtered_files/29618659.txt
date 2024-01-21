@@ -1,0 +1,20 @@
+Mesenchymal TNF signaling is etiopathogenic for inflammatory diseases such as 
+rheumatoid arthritis and spondyloarthritis (SpA). The role of Tnfr1 in arthritis 
+has been documented; however, Tnfr2 functions are unknown. Here, we investigate 
+the mesenchymal-specific role of Tnfr2 in the TnfΔARE mouse model of SpA in 
+arthritis and heart valve stenosis comorbidity by cell-specific, 
+Col6a1-cre-driven gene targeting. We find that TNF/Tnfr2 signaling in resident 
+synovial fibroblasts (SFs) and valvular interstitial cells (VICs) is detrimental 
+for both pathologies, pointing to common cellular mechanisms. In contrast, 
+systemic Tnfr2 provides protective signaling, since its complete deletion leads 
+to severe deterioration of both pathologies. SFs and VICs lacking Tnfr2 fail to 
+acquire pathogenic activated phenotypes and display increased expression of 
+antiinflammatory cytokines associated with decreased Akt signaling. Comparative 
+RNA sequencing experiments showed that the majority of the deregulated pathways 
+in TnfΔARE mesenchymal-origin SFs and VICs, including proliferation, 
+inflammation, migration, and disease-specific genes, are regulated by Tnfr2; 
+thus, in its absence, they are maintained in a quiescent nonpathogenic state. 
+Our data indicate a pleiotropy of Tnfr2 functions, with mesenchymal Tnfr2 
+driving cell activation and arthritis/valve stenosis pathogenesis only in the 
+presence of systemic Tnfr2, whereas nonmesenchymal Tnfr2 overcomes this 
+function, providing protective signals and, thus, containing both pathologies.

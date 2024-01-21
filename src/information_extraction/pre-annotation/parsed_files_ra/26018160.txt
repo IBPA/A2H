@@ -1,0 +1,39 @@
+Arthritogenic alphaviruses such as Ross River virus (RRV) and chikungunya virus 
+(CHIKV) cause large-scale epidemics of severe musculoskeletal disease and have 
+been progressively expanding their global distribution. Since its introduction 
+in July 2014, CHIKV now circulates in the United States. The hallmark of 
+alphavirus disease is crippling pain and inflammation of the joints, a similar 
+immunopathology to rheumatoid arthritis. The use of glycans as novel 
+therapeutics is an area of research that has increased in recent years. Here, we 
+describe the promising therapeutic potential of the glycosaminoglycan (GAG)-like 
+molecule pentosan polysulfate (PPS) to alleviate virus-induced arthritis. Mouse 
+models of RRV and CHIKV disease were used to characterize the extent of 
+cartilage damage in infection and investigate the potential of PPS to treat 
+disease. This was assessed using histological analysis, real-time PCR, and 
+fluorescence-activated cell sorting (FACS). Alphaviral infection resulted in 
+cartilage destruction, the severity of which was alleviated by PPS therapy 
+during RRV and CHIKV clinical disease. The reduction in cartilage damage 
+corresponded with a significant reduction in immune infiltrates. Using multiplex 
+bead arrays, PPS treatment was found to have significantly increased the 
+anti-inflammatory cytokine interleukin-10 and reduced proinflammatory cytokines, 
+typically correlated with disease severity. Furthermore, we reveal that the 
+severe RRV-induced joint pathology, including thinning of articular cartilage 
+and loss of proteoglycans in the cartilage matrix, was diminished with 
+treatment. PPS is a promising new therapy for alphavirus-induced arthritis, 
+acting to preserve the cartilage matrix, which is damaged during alphavirus 
+infection. Overall, the data demonstrate the potential of glycotherapeutics as a 
+new class of treatment for infectious arthritis.
+IMPORTANCE: The hallmark of alphavirus disease is crippling pain and joint 
+arthritis, which often has an extended duration. In the past year, CHIKV has 
+expanded into the Americas, with approximately 1 million cases reported to date, 
+whereas RRV continues to circulate in the South Pacific. Currently, there is no 
+licensed specific treatment for alphavirus disease, and the increasing spread of 
+infection highlights an urgent need for therapeutic intervention strategies. 
+Pentosan polysulfate (PPS) is a glycan derivative that is orally bioavailable, 
+has few toxic side effects, and is currently licensed under the name Elmiron for 
+the treatment of cystitis in the United States. Our findings show that RRV 
+infection damages the articular cartilage, including a loss of proteoglycans 
+within the joint. Furthermore, treatment with PPS reduced the severity of both 
+RRV- and CHIKV-induced musculoskeletal disease, including a reduction in 
+inflammation and joint swelling, suggesting that PPS is a promising candidate 
+for drug repurposing for the treatment of alphavirus-induced arthritis.

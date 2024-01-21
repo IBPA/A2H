@@ -1,0 +1,23 @@
+Antibiotic treatment of patients undergoing complex medical treatments can 
+deplete commensal bacterial strains from the intestinal microbiota, thereby 
+reducing colonization resistance against a wide range of antibiotic-resistant 
+pathogens. Loss of colonization resistance can lead to marked expansion of 
+vancomycin-resistant Enterococcus faecium (VRE), Klebsiella pneumoniae, and 
+Escherichia coli in the intestinal lumen, predisposing patients to bloodstream 
+invasion and sepsis. The impact of intestinal domination by these 
+antibiotic-resistant pathogens on mucosal immune defenses and epithelial and 
+mucin-mediated barrier integrity is unclear. We used a mouse model to study the 
+impact of intestinal domination by antibiotic-resistant bacterial species and 
+strains on the colonic mucosa. Intestinal colonization with K. pneumoniae, 
+Proteus mirabilis, or Enterobacter cloacae promoted greater recruitment of 
+neutrophils to the colonic mucosa. To test the hypothesis that the residual 
+microbiota influences the severity of colitis caused by infection with 
+Clostridioides difficile, we coinfected mice that were colonized with 
+ampicillin-resistant bacteria with a virulent strain of C. difficile and 
+monitored colonization and pathogenesis. Despite the compositional differences 
+in the gut microbiota, the severity of C. difficile infection (CDI) and 
+mortality did not differ significantly between mice colonized with different 
+ampicillin-resistant bacterial species. Our results suggest that the virulence 
+mechanisms enabling CDI and epithelial destruction outweigh the relatively minor 
+impact of less-virulent antibiotic-resistant intestinal bacteria on the outcome 
+of CDI.

@@ -1,0 +1,24 @@
+OBJECTIVE: Tolerization of T cells directed against a target autoantigen is a 
+desired goal of experimental approaches for the treatment of autoimmune 
+diseases, and novel and improved methods of tolerance induction are continuously 
+being sought. Because most traditional methods of tolerance induction using 
+soluble antigen are effective in the prevention of autoimmunity but fail to 
+control established disease, this study was carried out to explore an innovative 
+tolerogenic approach for the treatment of ongoing disease, using the rat 
+adjuvant-induced arthritis (AIA) model of human rheumatoid arthritis.
+METHODS: Lewis (RT.1(l)) rats were injected subcutaneously with heat-killed 
+Mycobacterium tuberculosis H37Ra to induce AIA. Before or after AIA induction, 
+Lewis rats were treated intraperitoneally (IP) with tolerogenic B cells 
+expressing a fusion construct of mycobacterial 65-kd heat-shock protein (Hsp65) 
+and IgG heavy-chain. For comparison, control rats were treated IP with ovalbumin 
+(OVA)-IgG-expressing B cells or soluble mycobacterial Hsp65, and the effects on 
+AIA were observed. We also tested the immune response to mycobacterial Hsp65 in 
+B cell-tolerized rats.
+RESULTS: Administration of tolerogenic mycobacterial Hsp65-expressing B cells as 
+well as soluble mycobacterial Hsp65, but not OVA-expressing B cells, resulted in 
+a significant decrease in the severity of subsequent AIA. However, in rats with 
+established disease, only the B cell regimen of mycobacterial Hsp65, but not the 
+soluble antigen, suppressed ongoing AIA.
+CONCLUSION: Mycobacterial Hsp65-IgG-expressing B cells can successfully 
+attenuate the progression of AIA. This study introduces a promising approach for 
+the treatment of arthritis that should be further explored.

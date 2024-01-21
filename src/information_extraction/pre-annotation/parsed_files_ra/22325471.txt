@@ -1,0 +1,22 @@
+Fibroblast-like synoviocytes (FLSs) contribute significantly to the pathogenesis 
+of Rheumatoid arthritis (RA). Through introducing apoptosis inducer FasL to 
+suppress the proliferation of arthritic FLSs may provide an efficient approach 
+for treatment of RA. CTLA4-FasL, a fusion product integrating two inhibitory 
+elements of CTLA4 (which can induce T cell anergy through blocking costimulatory 
+signal) and FasL (which may upregulate Fas-mediated apoptosis in inflammatory 
+synoviocytes) into one molecule, might be a desirable engineered derivative of 
+soluble FasL which exerts severe side effects and poor activities. In present 
+study, we investigated the possible effect of CTLA4-FasL protein on suppressing 
+the proliferation of inflammatory FLSs and inflammation in experimental model of 
+RA. The purified CTLA4-FasL protein exerted a significant 
+proliferation-inhibition activity to activated arthritic FLSs through both 
+unbounded free and membrane-anchorage manners. CTLA4-FasL gene delivery by 
+recombinant adeno-associated virus (rAAV) vector in joint, provided more 
+powerfully preventive effects than mature FasL on rat adjuvant-induced arthritis 
+(AIA) as reflected in clinical signs and typically histological characters. 
+Treatment with rAAV.CTLA4-FasL also significantly decreased the levels of key 
+proinflammatory cytokines in AIA joints. Our observations indicate that 
+CTLA4-FasL protein represents a significantly suppressive effect on inflammatory 
+FLSs' proliferation and CTLA4-FasL gene transfer profoundly suppresses AIA, 
+implicating potential application for treatment of RA by local joint delivery of 
+CTLA4-FasL.

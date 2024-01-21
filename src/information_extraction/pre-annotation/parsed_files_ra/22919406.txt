@@ -1,0 +1,16 @@
+Rituximab, a chimeric mouse-human monoclonal antibody directed to the CD20 
+antigen expressed on pre-B lymphocytes and mature lymphocytes, causes a profound 
+B-cell depletion. Due to its peculiar characteristics, this drug has been used 
+to treat oncohaematological diseases, B cell-related autoimmune diseases, 
+rheumatoid arthritis, and, more recently, HCV-associated mixed cryoglobulinaemic 
+vasculitis. Rituximab-based treatment, however, may induce an increased 
+replication of several viruses such as hepatitis B virus, cytomegalovirus, 
+varicella-zoster virus, echovirus, and parvovirus B19. Recent data suggest that 
+rituximab-based chemotherapy induces an increase in HCV expression in hepatic 
+cells, which may become a target for a cell-mediated immune reaction after the 
+withdrawal of treatment and the restoration of the immune control. Only a few 
+small studies have investigated the occurrence of HCV reactivation and an 
+associated hepatic flare in patients with oncohaematological diseases receiving 
+R-CHOP (rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone). 
+These studies suggest that the hepatic flares are frequently asymptomatic, but 
+life-threatening liver failure occurs in nearly 10% of cases.

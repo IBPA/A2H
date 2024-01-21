@@ -1,0 +1,22 @@
+OBJECTIVE: To explore the associations between impairments in hand function 
+associated with rheumatoid arthritis (RA) and limitations in computer peripheral 
+use.
+METHODS: A total of 45 computer users with RA were recruited from the Arthritis 
+Network Research Registry. Impairments in hand function were measured using the 
+Keitel Hand Function Index, and the Arthritis Hand Function Test, while general 
+activity limitations were measured with the Health Assessment Questionnaire. 
+Speed of computer peripheral device use was obtained at a laboratory work 
+station using the Assessment of Computer Task Performance (ACTP).
+RESULTS: Multiple regression models suggested that keyboarding speed was 
+significantly associated with touch typing training and age, while mouse speed 
+was significantly associated with age. Impairments in hand function were 
+significantly associated with only 2 of 7 keyboarding tasks and no mouse tasks. 
+General activity limitations were associated with 2 of 7 keyboarding tasks and 2 
+of 5 significant mouse tasks. A comparison of this study's sample with a 
+normative sample reported for the ACTP suggested that this sample's keyboarding 
+speed was similar to a nonimpaired sample, while mouse speed was much slower.
+CONCLUSION: Reduced keyboarding speed is most strongly associated with touch 
+typing skill. General activity limitations appear to be the strongest 
+arthritis-related predictor of decreased computer use speeds. Many computer 
+users with RA will not experience reduced productivity in typing speeds, 
+although many may be slower than their nonimpaired counterparts for mouse use.

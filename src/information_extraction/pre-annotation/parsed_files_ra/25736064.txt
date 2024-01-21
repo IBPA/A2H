@@ -1,0 +1,29 @@
+OBJECTIVE: Density of sympathetic nerve fibers decreases in inflamed arthritic 
+tissue tested by immunoreactivity towards tyrosine-hydroxylase (TH, 
+catecholaminergic key enzyme). Since sympathetic nerve fibers may change 
+phenotype from catecholaminergic to cholinergic (example: sweat glands), loss of 
+nerve fibers may relate to undetectable TH. We aimed to investigate possible 
+catecholaminergic-to-cholinergic transition of sympathetic nerve fibers in 
+synovial tissue of animals with arthritis, and patients with rheumatoid 
+arthritis (RA) and osteoarthritis (OA), and we wanted to find a possible 
+transition factor.
+METHODS: Nerve fibers were detected by immunofluorescence towards TH 
+(catecholaminergic) and vesicular acetylcholine transporter (cholinergic). 
+Co-culture experiments with sympathetic ganglia and lymphocytes or osteoclast 
+progenitors were designed to find stimulators of 
+catecholaminergic-to-cholinergic transition (including gene expression 
+profiling).
+RESULTS: In mouse joints, an increased density of cholinergic relative to 
+catecholaminergic nerve fibers appeared towards day 35 after immunization, but 
+most nerve fibers were located in healthy joint-adjacent skin or muscle and 
+almost none in inflamed synovial tissue. In humans, cholinergic fibers are more 
+prevalent in OA synovial tissue than in RA. Co-culture of sympathetic ganglia 
+with osteoclast progenitors obtained from healthy but not from arthritic animals 
+induced catecholaminergic-to-cholinergic transition. Osteoclast mRNA microarray 
+data indicated that leukemia inhibitory factor (LIF) is a candidate transition 
+factor, which was confirmed in ganglia experiments, particularly, in the 
+presence of progesterone.
+CONCLUSION: In humans and mice, catecholaminergic-to-cholinergic sympathetic 
+transition happens in less inflamed tissue but not in inflamed arthritic tissue. 
+Under healthy conditions, presence of cholinergic sympathetic nerve fibers may 
+support the cholinergic anti-inflammatory influence recently described.

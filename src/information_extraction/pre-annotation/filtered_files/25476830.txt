@@ -1,0 +1,24 @@
+AIMS: The aim of this study was to evaluate the antinociceptive (acute assays) 
+and anti-inflammatory (chronic assays) effects of kramecyne (KACY), a peroxide 
+isolated from Krameria cytisoides.
+MAIN METHODS: The antinociceptive activity of KACY was evaluated using the hot 
+plate, acetic acid and formalin tests. The effects of KACY on heat-induced 
+hemolysis in rat erythrocytes were also evaluated. The in vivo anti-inflammatory 
+assays were performed using the chronic TPA (12-O-tetradecanoylphorbol 
+13-acetate) method to induce ear edema and carrageenan-kaolin induced arthritis 
+(CKIA). In the CKIA model, the hot plate test was performed, serum samples were 
+obtained for the quantitation of pro-inflammatory (IL-1β, IL-6, IL-12 and TNF-α) 
+and anti-inflammatory (IL-4 and IL-10) cytokines.
+KEY FINDINGS: KACY possess antinociceptive effects with comparable activity to 
+naproxen (NPX). KACY inhibited hemolysis (EC50 = 180 μg/mL), in comparison to 
+the untreated group and with a higher potency than NPX (EC50 = 263 μg/mL). KACY 
+at 50 mg/kg decreased inflammation by 38% (chronic TPA-induced edema model) and 
+by 26% (CKIA model), in comparison with the vehicle group and with similar 
+activity to the positive controls 8 mg/kg indomethacin (IND) and 1 mg/kg 
+methotrexate (MTX), respectively. In the CKIA model, KACY increased the release 
+of anti-inflammatory (IL-4 and IL-10) cytokines but reduced the production of 
+pro-inflammatory cytokines (IL-1β, IL-6, IL-12 and TNF-α). KACY at 50 and 100 
+mg/kg showed antinociceptive effects by 27% and 23%, respectively, in mice with 
+mono-arthritis.
+SIGNIFICANCE: KACY might be a good alternative for the treatment of rheumatoid 
+arthritis (RA) due its antinociceptive and anti-inflammatory activities.

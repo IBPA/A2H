@@ -1,0 +1,30 @@
+Clostridium difficile is a Gram-positive spore-forming anaerobe and a major 
+cause of antibiotic-associated diarrhoea. Disruption of the commensal 
+microbiota, such as through treatment with broad-spectrum antibiotics, is a 
+critical precursor for colonisation by C. difficile and subsequent disease. 
+Furthermore, failure of the gut microbiota to recover colonisation resistance 
+can result in recurrence of infection. An unusual characteristic of C. difficile 
+among gut bacteria is its ability to produce the bacteriostatic compound 
+para-cresol (p-cresol) through fermentation of tyrosine. Here, we demonstrate 
+that the ability of C. difficile to produce p-cresol in vitro provides a 
+competitive advantage over gut bacteria including Escherichia coli, Klebsiella 
+oxytoca and Bacteroides thetaiotaomicron. Metabolic profiling of competitive 
+co-cultures revealed that acetate, alanine, butyrate, isobutyrate, p-cresol and 
+p-hydroxyphenylacetate were the main metabolites responsible for differentiating 
+the parent strain C. difficile (630Δerm) from a defined mutant deficient in 
+p-cresol production. Moreover, we show that the p-cresol mutant displays a 
+fitness defect in a mouse relapse model of C. difficile infection (CDI). 
+Analysis of the microbiome from this mouse model of CDI demonstrates that 
+colonisation by the p-cresol mutant results in a distinctly altered intestinal 
+microbiota, and metabolic profile, with a greater representation of 
+Gammaproteobacteria, including the Pseudomonales and Enterobacteriales. We 
+demonstrate that Gammaproteobacteria are susceptible to exogenous p-cresol in 
+vitro and that there is a clear divide between bacterial Phyla and their 
+susceptibility to p-cresol. In general, Gram-negative species were relatively 
+sensitive to p-cresol, whereas Gram-positive species were more tolerant. This 
+study demonstrates that production of p-cresol by C. difficile has an effect on 
+the viability of intestinal bacteria as well as the major metabolites produced 
+in vitro. These observations are upheld in a mouse model of CDI, in which 
+p-cresol production affects the biodiversity of gut microbiota and faecal 
+metabolite profiles, suggesting that p-cresol production contributes to C. 
+difficile survival and pathogenesis.

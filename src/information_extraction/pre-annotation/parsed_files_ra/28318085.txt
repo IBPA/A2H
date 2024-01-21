@@ -1,0 +1,31 @@
+BACKGROUND: Patients with temporomandibular joint disorders (TMD), reactive 
+arthritis and rheumatoid arthritis often have combined etiology of hereditary 
+and microenvironmental factors contributing to joint pain. Multiple clinical and 
+animal studies indicate 'double-hit' inflammatory insults can cause chronic 
+inflammation. The first inflammatory insult primes the immune system and 
+subsequent insults elicit amplified responses. The present 'double hit' study 
+produced a chronic orofacial pain model in mice with genetic deletion of both 
+TNFα receptors (TNFR1/R2-/-), investigating the main nociceptive signalling 
+pathways in comparisons to wild type mice.
+METHODS: An initial inflammatory insult was given unilaterally into the 
+temporomandibular joint (TMJ). Secondary hypersensitivity was tested on the skin 
+over the TMJ throughout the experiment. Three weeks later after complete 
+reversal of hypersensitivity, a second inflammatory insult was imposed on the 
+colon. Pharmacological interventions were tested for efficacy after week 10 when 
+hypersensitivity was chronic in TNFR1/R2-/- mice. Serum cytokines were analysed 
+at Days 1, 14, and Week 18.
+RESULTS: The double hit insult produced chronic hypersensitivity continuing 
+through the 4-month experimental timeline in the absence of TNFα signalling. 
+P2X7 and NMDA receptor antagonists temporarily attenuated chronic 
+hypersensitivity. Serum cytokine/chemokine analysis on Day 14 when CFA induced 
+hypersensitivity was resolved identified increased levels of pro-inflammatory 
+cytokines CCL2, CXCL9, CXCL10, RANTES and decreased levels of anti-inflammatory 
+cytokines IL-1ra and IL-4 in TNFR1/R2-/- compared to WT mice.
+CONCLUSIONS: These data suggest a causal feed-forward signalling cascade of 
+these little studied cytokines have the potential to cause recrudescence in this 
+orofacial inflammatory pain model in the absence of TNFα signalling.
+SIGNIFICANCE: Using a mouse model of chronic inflammatory temporomandibular 
+joint disorder, we determined that absence of functional TNFR1/R2 induces 
+aberrant inflammatory signalling caused by other increased pro-inflammatory and 
+decreased anti-inflammatory cytokines that could serve as blood biomarkers and 
+may predict disease progression.

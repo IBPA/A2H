@@ -1,0 +1,20 @@
+IL-10 is an anti-inflammatory cytokine produced in the joint in rheumatoid 
+arthritis by macrophages and infiltrating blood lymphocytes. Regulation of its 
+expression is poorly understood, but previous findings have suggested that 
+physical interactions with T cells may play a role. This report investigates 
+signalling mechanisms involved in the production of macrophage IL-10 upon 
+interaction with fixed, cytokine-stimulated T cells (Tck). Elutriated monocytes 
+were differentiated to macrophages by macrophage-colony-stimulating factor 
+(M-CSF) and co-cultured with fixed T cells chronically stimulated in a cytokine 
+cocktail of IL-2/IL-6/tumour necrosis factor (TNF)-alpha in the presence or 
+absence of wortmannin and LY294002, inhibitors of phosphatidylinositol 3-kinase 
+(PI3K), or of rapamycin, an inhibitor of p70 S6-kinase (p70S6K). Spontaneous 
+IL-10 production by rheumatoid arthritis synovial-membrane mononuclear cells 
+(RA-SMCs) and co-cultures of rheumatoid arthritis T cells (RA-Ts) and 
+macrophages was also assessed. RA-T and Tck induction of macrophage IL-10 
+production was suppressed by cell separation and inhibition of PI3K and p70S6K. 
+PI3K involvement was also shown by phosphorylation of the downstream effector 
+protein kinase B. Spontaneous IL-10 production by RA-SMCs was also inhibited by 
+LY294002 and depletion of the nonadherent (T-cell-enriched) fraction of the cell 
+population. IL-10 production in RA-SMCs and M-CSF-primed macrophages, activated 
+by interaction with Tck, is PI3K- and p70S6K-dependent.

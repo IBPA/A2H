@@ -1,0 +1,10 @@
+Due to the complex biological pathways involved in rheumatoid arthritis, 
+discovery of multi-targeting small molecules provides an effective strategy to 
+achieve better efficacy and lower toxicity. Herein the first Syk/PDGFR-α/c-Kit 
+inhibitors were designed and evaluated. Dihydrofuropyrimidine derivative 13 
+showed potent inhibitory activity against the three targets. Importantly, 
+compound 13 exhibited good cellular efficacy against fibroblast-like 
+synoviocytes (IC50 = 3.21 μM) and mouse bone marrow-derived mast cells 
+(IC50 = 2.03 μM) and significantly decreased the secretion of inflammatory 
+cytokines. Thus, Syk/PDGFR-α/c-Kit triple inhibitor 13 represented a promising 
+lead compound for the treatment of RA.

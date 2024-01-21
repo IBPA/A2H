@@ -1,0 +1,22 @@
+The A(3) adenosine receptor (A(3)AR) is over-expressed in inflammatory cells and 
+was defined as a target to combat inflammation. Synthetic agonists to this 
+receptor, such as IB-MECA and Cl-IB-MECA, exert an anti-inflammatory effect in 
+experimental animal models of adjuvant- and collagen-induced arthritis. In this 
+study we present a novel A(3)AR agonist, CF502, with high affinity and 
+selectivity at the human A(3)AR. CF502 induced a dose dependent inhibitory 
+effect on the proliferation of fibroblast-like synoviocytes (FLS) via 
+de-regulation of the nuclear factor-kappa B (NF-kappaB) signaling pathway. 
+Furthermore, CF502 markedly suppressed the clinical and pathological 
+manifestations of adjuvant-induced arthritis (AIA) in a rat experimental model 
+when given orally at a low dose (100 microg/kg). As is typical of other 
+G-protein coupled receptors, the A(3)AR expression level was down-regulated 
+shortly after treatment with agonist CF502 in paw and in peripheral blood 
+mononuclear cells (PBMCs) derived from treated AIA animals. Subsequently, a 
+decrease in the expression levels of protein kinase B/Akt (PKB/Akt), IkappaB 
+kinase (IKK), I kappa B (IkappaB), NF-kappaB and tumor necrosis factor-alpha 
+(TNF-alpha) took place. In addition, the expression levels of glycogen synthase 
+kinase-3 beta (GSK-3beta), beta-catenin, and poly(ADP-ribose)polymerase (PARP), 
+known to control the level and activity of NF-kappaB, were down-regulated upon 
+treatment with CF502. Taken together, CF502 inhibits FLS growth and the 
+inflammatory manifestations of arthritis, supporting the development of A(3)AR 
+agonists for the treatment of rheumatoid arthritis.

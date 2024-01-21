@@ -1,0 +1,17 @@
+Clostridium difficile causes antibiotic-associated diarrhea and pseudomembranous 
+colitis mainly through two exotoxins TcdA and TcdB that target intestinal 
+epithelial cells. Dendritic cells (DCs) play an important role in regulating 
+intestinal inflammatory responses. In the current study, we explored the 
+interaction of TcdB-intoxicated epithelial cells with mouse bone marrow-derived 
+DCs. TcdB induced cell death and heat shock protein translocation in mouse 
+intestinal epithelial CT26 cells. The intoxicated epithelial cells promoted the 
+phagocytosis and the TNF-α secretion by DCs. Incubation with TcdB-intoxicated 
+CT26 cells stimulated DC maturation. Moreover, TcdB-treated CT26 cells induced 
+DC immigration when they were injected into mice subcutaneously. Taken together, 
+these data demonstrate that TcdB-intoxicated intestinal epithelial cells are 
+able to stimulate DC activation in vitro and attract DCs in vivo, indicating 
+that epithelial cells may be able to regulate DC activation under the exposure 
+of TcdB during C. difficile infection.
+
+© FEMS 2015. All rights reserved. For permissions, please e-mail: 
+journals.permissions@oup.com.

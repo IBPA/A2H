@@ -1,0 +1,31 @@
+BACKGROUND AND AIMS: Sigma ligands display antisecretory activity against 
+various secretagogues, suggesting antidiarrhoeal properties. In this study, we 
+evaluated: (i) the antidiarrhoeal effect of JO 2871, a high affinity sigma 
+ligand, in three models of toxigenic diarrhoea in mice; and (ii) the site and 
+mechanism of action of this compound.
+METHODS: Faeces were collected after toxin or vehicle administration in male 
+DBA2 or NMRI mice. Diarrhoea was determined by cumulative stool weight (mg) over 
+a 120 minute period. Diarrhoea was induced by intravenous administration of 
+Salmonella enteriditis lipopolysaccharide (LPS), or oral administration of 
+Escherichia coli heat stable (E coli-sta) or Clostridium difficile toxins. Two 
+sigma ligands, igmesine and JO 2871, were administered either orally or 
+intravenously, 60 and 30 minutes before the toxins, respectively. JO 2871 was 
+also given orally 30 minutes after E coli-sta. In addition, JO 2871 was 
+administered intracerebroventricularly five minutes before LPS and E coli-sta. 
+BMY 14802 (1000 microg/kg orally), a sigma receptor antagonist, or 
+cyclosomatostatin (CSS 1 microg/kg intravenously), a somatostatin antagonist, 
+were given five minutes prior to JO 2871 in LPS, E coli-sta, and C difficile 
+toxin treated mice. Gastric emptying and intestinal transit were evaluated after 
+oral JO 2871 and BMY 14802 and intravenous CSS.
+RESULTS: Stool weight measured 120 minutes after administration of the toxins 
+was significantly increased. Oral JO 2871 and igmesine dose dependently 
+inhibited toxigenic diarrhoea in all models. ED(50) values obtained using JO 
+2871 (1-20 microg/kg) were more than 40 times lower than those obtained with 
+igmesine. Oral JO 2871 given after E coli-sta also inhibited diarrhoea in a dose 
+dependent manner (ED(50) 50 microg/kg). Both sigma ligands were active by the 
+intravenous route on LPS and E coli-sta induced stool weight increases. JO 2871 
+administered intracerebroventricularly failed to block this effect at any dose 
+tested. Both BMY 14802 and CSS reversed the antidiarrhoeal effect of oral JO 
+2871. JO 2871, BMY 14802, and CSS did not affect transit parameters.
+CONCLUSIONS: JO 2871 exerts a potent oral antidiarrhoeal effect, acting 
+peripherally through sigma sites and somatostatin release.

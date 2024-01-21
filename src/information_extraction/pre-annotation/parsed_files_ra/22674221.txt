@@ -1,0 +1,28 @@
+OBJECTIVE: CD248 (tumor endothelial marker 1/endosialin) is found on stromal 
+cells and is highly expressed during malignancy and inflammation. Studies have 
+shown a reduction in inflammatory arthritis in CD248-knockout (CD248(-/-) ) 
+mice. The aim of the present study was to investigate the functional effect of 
+genetic deletion of CD248 on bone mass.
+METHODS: Western blotting, polymerase chain reaction, and immunofluorescence 
+were used to investigate the expression of CD248 in humans and mice. 
+Micro-computed tomography and the 3-point bending test were used to measure bone 
+parameters and mechanical properties of the tibiae of 10-week-old wild-type (WT) 
+or CD248(-/-) mice. Human and mouse primary osteoblasts were cultured in medium 
+containing 10 mM β-glycerophosphate and 50 μg/ml ascorbic acid to induce 
+mineralization, and then treated with platelet-derived growth factor BB 
+(PDGF-BB). The mineral apposition rate in vivo was calculated by identifying 
+newly formed bone via calcein labeling.
+RESULTS: Expression of CD248 was seen in human and mouse osteoblasts, but not 
+osteoclasts. CD248(-/-) mouse tibiae had higher bone mass and superior 
+mechanical properties (increased load required to cause fracture) compared to WT 
+mice. Primary osteoblasts from CD248(-/-) mice induced increased mineralization 
+in vitro and produced increased bone over 7 days in vivo. There was no decrease 
+in bone mineralization and no increase in proliferation of osteoblasts in 
+response to stimulation with PDGF-BB, which could be attributed to a defect in 
+PDGF signal transduction in the CD248(-/-) mice.
+CONCLUSION: There is an unmet clinical need to address rheumatoid 
+arthritis-associated bone loss. Genetic deletion of CD248 in mice results in 
+high bone mass due to increased osteoblast-mediated bone formation, suggesting 
+that targeting CD248 in rheumatoid arthritis may have the effect of increasing 
+bone mass in addition to the previously reported effect of reducing 
+inflammation.

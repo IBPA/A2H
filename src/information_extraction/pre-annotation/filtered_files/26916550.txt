@@ -1,0 +1,32 @@
+BACKGROUND: Anoectochilus formosanus has been used as a Chinese folk medicine 
+and is known as the "King of medicine" in Chinese society due to its versatile 
+pharmacological effects such as anti-hypertension, anti-diabetes, anti-heart 
+disease, anti-lung and liver diseases, anti-nephritis and anti-Rheumatoid 
+arthritis. Kinsenoside is an essential and active compound of A. formosanus 
+(Orchidaceae). However, the anti-arthritic activity of kinsenoside has still not 
+been demonstrated. In the present study, we confirmed that the kinsenoside 
+treatment rheumatoid arthritis induced by collagen-induced arthritis in mice.
+METHODS: Male DBA/1 J mice were immunized by intradermal injection of 100 μg of 
+type II collagen in CFA. Kinsenoside was administered orally at a dose of 100 
+and 300 mg/kg once a day after 2nd booster injection. Paw swelling, arthritic 
+score and histological change were measured. ELISA was used to measure cytokines 
+including tumor necrosis factor alpha (TNF-α), interleukin-10 (IL-10), 
+interleukin-17 (IL-17) and interferon-γ (IFN-γ) in the splenocyte according to 
+the manufacturer's instructions.
+RESULTS: Compared with model group, kinsenoside significantly inhibited paw 
+edema and decreased the arthritis score and disease incidence. Histopathological 
+examination demonstrated that kinsenoside effectively protected bone and 
+cartilage of knee joint from erosion, lesion and deformation versus those from 
+the CIA group. Kinsenoside also decreased IL-1β, TNF-α, and MMP-9 expression, 
+and increased the expression of IL-10 in inflamed joints. The administration of 
+kinsenoside significantly suppressed levels of TNF-α, IFN-γ, and IL-17, but 
+increased concentrations of IL-10 in the supernatants of each of the splenocytes 
+in CIA mice compared with that in the H2O-treated mice with CIA. Using flow 
+cytometric analysis, we demonstrated that kinsenoside increases the population 
+of CD4(+)CD25(+) regulatory T cells, thereby inhibiting the Th1 cell and B cell 
+populations. Anticollagen IgG1 and IgG2a levels decreased in the serum of 
+kinsenoside-treated mice.
+CONCLUSIONS: These results suggest that the administration of kinsenoside 
+effectively suppressed inflammatory mediators' production and bone erosion in 
+mice with collagen-induced arthritis showing the potential as an anti-arthritis 
+agent.

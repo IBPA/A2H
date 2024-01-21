@@ -1,0 +1,22 @@
+Clostridium difficile is a leading cause of nosocomial infection in the 
+developed world. Two toxins, A and B, produced by most strains of C. difficile 
+are implicated as virulence factors, yet only recently has the requirement of 
+these for infection been investigated by genetic manipulation. Current vaccine 
+strategies are focused mostly on parenteral delivery of toxoids. In this work, 
+we have used bacterial spores (Bacillus subtilis) as a delivery vehicle to 
+evaluate the carboxy-terminal repeat domains of toxins A and B as protective 
+antigens. Our findings are important and show that oral immunization of the 
+repeat domain of toxin A is sufficient to confer protection in a hamster model 
+of infection designed to closely mimic the human course of infection. 
+Importantly, neutralizing antibodies to the toxin A repeat domain were shown to 
+be cross-reactive with the analogous domain of toxin B and, being of high 
+avidity, provided protection against challenge with a C. difficile strain 
+producing toxins A and B (A(+)B(+)). Thus, although many strains produce both 
+toxins, antibodies to only toxin A can mediate protection. Animals vaccinated 
+with recombinant spores were fully able to survive reinfection, a property that 
+is particularly important for a disease with which patients are prone to 
+relapse. We show that mucosal immunization, not parenteral delivery, is required 
+to generate secretory IgA and that production of these neutralizing polymeric 
+antibodies correlates with protection. This work demonstrates that an effective 
+vaccine against C. difficile can be designed around two attributes, mucosal 
+delivery and the repeat domain of toxin A.

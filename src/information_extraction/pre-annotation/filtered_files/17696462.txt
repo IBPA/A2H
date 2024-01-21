@@ -1,0 +1,25 @@
+Rheumatoid arthritis, a debilitating, systemic inflammatory joint disease, is 
+likely accompanied by alterations in circulating metabolites. Here, an 1H NMR 
+spectroscopy-based metabolomics approach was developed to establish a metabolic 
+'biomarker pattern' in a model of rheumatoid arthritis, the K/BxN transgenic 
+mouse. Sera obtained from arthritic K/BxN mice (N = 15) and a control population 
+(N = 19) having the same genetic background, but lacking the arthritogenic 
+T-cell receptor KRN transgene, were compared by 1H NMR spectroscopy. A unique 
+method was developed by combining technologies such as ultrafiltration to remove 
+proteins from serum samples, quantitative 'targeted profiling' of known 
+metabolites, pseudo-quantitative profiling of unknown resonances, a supervised 
+O-PLS-DA pattern recognition analysis, and a metabolic-pathway based network 
+analysis for interpretation of results. In total, 88 spectral features were 
+profiled (59 metabolites and 28 unknown resonances). A highly significant subset 
+of 18 spectral features (15 known compounds and 3 unknown resonances) was 
+identified (p = 0.00075 using MANOVA) that we term a 'metabolic bioprofile'. We 
+identified metabolites relating to nucleic acid, amino acid, and fatty acid 
+metabolism, as well as lipolysis, reactive oxygen species generation, and 
+methylation. Pathway analysis suggested a shift from metabolites involved in 
+numerous reactions (hub-metabolites) toward intermediates and metabolic 
+endpoints associated with arthritis. The results attest to the metabolic 
+complexity of systemic inflammation and to the power of the experimental 
+approach for identifying a wide variety of disease-associated marker candidates. 
+The diagnostic and prognostic implications of monitoring a spectrum of metabolic 
+events simultaneously using serum samples is discussed with respect to the 
+potential for individualized medicine.

@@ -1,0 +1,14 @@
+Rheumatoid arthritis (RA) is a chronic autoimmune inflammatory disease and its 
+pathogenesis remains unclear. Fibroblast-like synoviocytes (FLSs) play an 
+important role in the pathogenesis of RA. Proline-serine-threonine phosphatase 
+interacting protein 2 (PSTPIP2) is an adaptor protein, which is associated with 
+auto-inflammatory disease. In this study, we selected adjuvant-induced arthritis 
+(AIA) as animal model to study the role of PSTPIP2 in FLSs. We found that the 
+expression of PSTPIP2 was significantly down-regulated in synovial tissues and 
+FLSs of AIA rat compared with normal group. And overexpression of PSTPIP2 could 
+inhibit the proliferation and inflammatory response of FLSs. Moreover, the 
+proliferation and inflammatory response of FLSs were promoted with PSTPIP2 
+silencing treatment. In terms of mechanism, we found that the expression of 
+PSTPIP2 was closely related to NF-κB signaling pathway. Overall, our results 
+suggested that PSTPIP2 inhibits the proliferation and inflammatory response of 
+FLSs, which might be closely related to NF-κB signaling pathway.

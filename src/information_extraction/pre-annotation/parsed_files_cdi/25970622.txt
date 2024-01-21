@@ -1,0 +1,25 @@
+The adverse impact of antibiotics on the gut microbiota has attracted extensive 
+interest, particularly due to the development of microbiome research techniques 
+in recent years. However, a direct comparison of the dynamic effects of various 
+types of antibiotics using the same animal model has not been available. In the 
+present study, we selected six antibiotics from four categories with the 
+broadest clinical usage, namely, β-lactams (Ceftriaxone Sodium, 
+Cefoperazone/Sulbactam and meropenem), quinolones (ofloxacin), glycopeptides 
+(vancomycin), and macrolides (azithromycin), to treat BALB/c mice. Stool samples 
+were collected during and after the administration of antibiotics, and microbial 
+diversity was analyzed through Illumina sequencing and bioinformatics analyses 
+using QIIME. Both α and β diversity analyses showed that ceftriaxone sodium, 
+cefoperazone/sulbactam, meropenem and vancomycin changed the gut microbiota 
+dramatically by the second day of antibiotic administration whereas the 
+influence of ofloxacin was trivial. Azithromycin clearly changed the gut 
+microbiota but much less than vancomycin and the β-lactams. In general, the 
+community changes induced by the three β-lactam antibiotics showed consistency 
+in inhibiting Papillibacter, Prevotella and Alistipes while inducing massive 
+growth of Clostridium. The low diversity and high Clostridium level might be an 
+important cause of Clostridium difficile infection after usage of β-lactams. 
+Vancomycin was unique in that it inhibited Firmicutes, mainly the genus 
+Clostridium. On the other hand, it induced the growth of Escherichia and effect 
+lasted for months afterward. Azithromycin and meropenem induced the growth of 
+Enterococcus. These findings will be useful for understanding the potential 
+adverse effects of antibiotics on the gut microbiome and ensuring their better 
+usage.

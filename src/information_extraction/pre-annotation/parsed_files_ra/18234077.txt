@@ -1,0 +1,22 @@
+INTRODUCTION: CP-690550 is a small molecule inhibitor of Janus kinase 3 (JAK3), 
+a critical enzyme in the signaling pathway of multiple cytokines (interleukin 
+(IL)-2, -7, -15 and -21) that are important in various T cell functions 
+including development, activation and homeostasis. The purpose of this study was 
+to evaluate CP-690550 in murine collagen-induced (CIA) and rat adjuvant-induced 
+(AA) models of rheumatoid arthritis (RA).
+METHODS: CIA and AA were induced using standard protocols and animals received 
+the JAK3 inhibitor via osmotic mini-pump infusion at doses ranging from 1.5-15 
+mg/kg/day following disease induction. Arthritis was assessed by clinical scores 
+in the CIA models and paw swelling monitored using a plethysmometer in the AA 
+model until study conclusion, at which time animals were killed and evaluated 
+histologically.
+RESULTS: CP-690550 dose-dependently decreased endpoints of disease in both RA 
+models with greater than 90% reduction observed at the highest administered 
+dose. An approximate ED50 of approximately 1.5 mg/kg/day was determined for the 
+compound based upon disease endpoints in both RA models examined and corresponds 
+to CP-690550 serum levels of 5.8 ng/ml in mice (day 28) and 24 ng/ml in rats 
+(day 24). The compound also reduced inflammatory cell influx and joint damage as 
+measured histologically. Animals receiving a CP-690550 dose of 15 mg/k/d showed 
+no histological evidence of disease.
+CONCLUSION: The efficacy observed with CP-690550 in CIA and AA suggests JAK3 
+inhibition may represent a novel therapeutic target for the treatment of RA.

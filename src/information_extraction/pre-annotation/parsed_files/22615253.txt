@@ -1,0 +1,10 @@
+Clostridium difficile is a major cause of chronic antibiotic-associated diarrhea 
+and a significant health care-associated pathogen that forms highly resistant 
+and infectious spores. Spo0A is a highly conserved transcriptional regulator 
+that plays a key role in initiating sporulation in Bacillus and Clostridium 
+species. Here, we use a murine model to study the role of the C. difficile spo0A 
+gene during infection and transmission. We demonstrate that C. difficile spo0A 
+mutant derivatives can cause intestinal disease but are unable to persist within 
+and effectively transmit between mice. Thus, the C. difficile Spo0A protein 
+plays a key role in persistent infection, including recurrence and host-to-host 
+transmission in mice.

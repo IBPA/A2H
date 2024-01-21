@@ -1,0 +1,15 @@
+Matrix-degrading proteases play a key role in normal development, wound healing, 
+many diseases such as rheumatoid arthritis and, in particular, tumour invasion. 
+In invasive tumours, these enzymes are expressed by fibroblasts of the tumour 
+stroma. Their expression and activity are tightly regulated at several levels, 
+an important one being transcription. Previous in vitro and in vivo findings 
+pointed to a major role of the Ets-1 transcription factor for this level of 
+regulation. In the present study, we tried to prove this role in fibroblasts. We 
+stimulated wild-type mouse fibroblasts with physiological doses of basic 
+fibroblast growth factor (bFGF, known to induce different proteases and 
+expressed by tumour cells) and compared the results to those obtained in Ets-1 
+-/- fibroblasts derived from Ets-1 knock-out mice. We found that basal Ets-1 
+levels are necessary not only for a fast induction of MMPs 2, 3 and 13 by bFGF 
+but also for maintenance of the bFGF-induced expression of tissue inhibitors of 
+metalloproteinases (TIMPs) 1, 2 and 3, which are known not only to inhibit but 
+also participate as activators of certain pro-MMPs.

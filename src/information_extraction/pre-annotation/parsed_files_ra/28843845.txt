@@ -1,0 +1,17 @@
+Bergenin is a unique C-glycoside natural product possessing anti-inflammatory 
+and anti-arthritic activity. It is hydrophilic molecule and stable under acidic 
+conditions however is unstable at neutral-basic pH conditions. The rate of 
+degradation is directly proportional to the increase in pH which might be one of 
+the reasons for its low oral bioavailability. Thus, herein our objective was to 
+improve its stability using prodrug strategy. Various ester and ether prodrugs 
+were synthesized and studied for lipophilicity, chemical stability and enzymatic 
+hydrolysis in plasma/esterase. The stability of synthesized prodrugs was 
+evaluated in buffers at different pH, in biorelevant media such as SGF, SIF, rat 
+plasma and in esterase enzyme. All prodrugs displayed significantly improved 
+lipophilicity compared with bergenin, which was in accordance with the criteria 
+of drug-like compounds. Acetyl ester 4a2 appeared to be the most promising 
+prodrug as it remained stable at gastric/intestinal pH and was completely 
+transformed to the parent compound bergenin in plasma as desired for an ideal 
+prodrug. The data presented herein, will help in designing stable prodrugs of 
+unstable molecules with desired physicochemical properties in structurally 
+similar chemotypes.

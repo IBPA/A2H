@@ -1,0 +1,26 @@
+OBJECTIVES: IL-1beta is a potent proinflammatory, pro-fibrogenetic and 
+pro-athrosclerosis cytokine which has been shown to play an important role in an 
+expanding number of noninfectious, chronic inflammatory conditions including 
+cardiovascular disease, renal fibrosis, rheumatoid arthritis and even type 2 
+diabetes. Losartan is an angiotensin II receptor antagonist widely used for the 
+treatment of hypertension, diabetic nephropathy and congestive heart failure. In 
+this study, we attempted to clarify whether losartan has an inhibitory effect on 
+IL-1beta. To further elucidate the molecular mechanism underlying the 
+anti-IL-1beta property of losartan, we studied the LPS+ATP-induced activation of 
+NALP3 inflammasome which controls the muturation and secretion of IL-1beta.
+METHODS: LPS and ATP were used to stimulate the release of IL-1beta from 
+thioglycollate-elicited macrophages from BALB/c mice. The production of IL-1beta 
+was evaluated by ELISA assay and NALP3, caspase-1, IL-beta mRNA levels were 
+determined by reverse transcription-polymerase chain reaction.
+RESULTS: In cultured thioglycollate-elicited macrophages, we observed that LPS + 
+ATP greatly enhanced IL-1 beta secretion (6938.00 +/- 83.45; P < 0.05) and the 
+mRNA levels of NALP3, caspase-1 which are two main components of NALP3 
+inflammasome (60.88 +/- 8.28; 1.31 +/- 0.04, P < 0.05 for both). The macrophages 
+co-cultured with losartan showed low production of IL-1beta (3907.50 +/- 143.61; 
+P < 0.05) and low production of NALP3, caspase-1mRNA (29.82 +/- 6.92; 1.12 +/- 
+0.05, P < 0.05 for both). Losartan did not reduce IL-1beta mRNA(P > 0.05).
+CONCLUSIONS: Our results show that the NALP3 inflammasome is up-regulated and 
+activated in the mouse macrophage in response to LPS + ATP stimulation. Losartan 
+is able to suppress the LPS + ATP-induced production of IL-1beta protein. In 
+addition, this effectmay be partially mediated by suppressing NALP3 inflammasome 
+activation.

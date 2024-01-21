@@ -1,0 +1,31 @@
+OBJECTIVE: To observe the effect of moxibustion intervention on the expression 
+of toll-like receptor-4 (TLR 4), myeloid differentiation factor 88(MyD 88), and 
+nuclear factor kappa B p 65 (NF-κB p 65) genes of knee-joint synovial cells in 
+rheumatoid arthritis (RA) rats, so as to explore its molecular mechanism 
+underlying improving RA.
+METHODS: Forty SD rats were randomly divided into normal control, RA model, 
+moxibustion and medication groups (n = 10). The RA model was duplicated by 
+raising the rats in a windy, cold and wet environment, followed by injecting 
+Freund's complete adjuvant (0. 15 mL) into the rat's foot. Moxibustion was 
+applied to "Shenshu" (BL 23) and "Zusanli" (ST 36) for 20 min, once daily for 15 
+days. Rats of the medication group were treated by intragastric administration 
+of tripterygium wilfordii (8. 75 mL/kg), once daily for 15 days. Pathological 
+changes of the synovial tissues were detected by H. E. stain, the contents of 
+serum TNF-α and IL-1 detected by radioimmunoassay, and the expression levels of 
+TLR 4 mRNA, MyD 88 mRNA and TRAF-6 mRNA of synovial tissue were analyzed by real 
+time-PCR, and the NF-κB p 65 immunoactivity was assayed by immunohistochemistry.
+RESULTS: In comparison with the normal control group, the synovial tissue of the 
+knee-joint was impaired remarkably and infiltrated by numerous inflammatory 
+cells, and the synovial surface got thickening because of hyperplasia in the 
+model group. Following moxibustion and medication, these situations such as 
+synovial infiltration of inflammatory, synovial cell proliferation were 
+alleviated. The serum TNF-α and IL-1 contents and synovial TLR 4 mRNA, MyD 88 
+mRNA, TRAF-6 mRNA and NF-κB p 65 expression levels were remarkably higher in the 
+model group than in the control group(P<0. 01). After moxibustion and 
+medication, the contents of serum TNF-α and IL-1, the expression levels of TLR 4 
+mRNA, MyD 88 mRNA, TRAF-6 mRNA and NF-κB p 65 were significantly 
+down-regulated(P<0. 01, P<0. 05).
+CONCLUSION: Moxibustion intervention can improve pathological changes of the 
+knee-joint synovial membrane tissue in RA rats, which may be related with its 
+effect in inhibiting abnormal activation of TLR 4-MyD 88-NF-κB pathway in 
+synovial tissue.

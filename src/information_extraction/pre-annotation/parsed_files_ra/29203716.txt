@@ -1,0 +1,21 @@
+Experimental models of autoimmune diseases have revealed the disease protective 
+role of heat shock proteins (HSPs). Both the administration of exogenous 
+extracellular, mostly recombinant, HSP and the experimental co-induction of 
+endogenous intracellular HSP in models have been shown to lead to production of 
+disease protective regulatory T cells (Tregs). Similar to HSP taken up from 
+extracellular bodily fluids, due to stress-related autophagy upregulated HSP 
+also from intracellular sources is a major provider for the major 
+histocompatibility class II (MHCII) ligandome; therefore, both extracellular and 
+intracellular HSP can be prominent targets of Treg. The development of 
+therapeutic peptide vaccines for the restoration of immune tolerance in 
+inflammatory diseases is an area of intensive research. In this area, HSPs are a 
+target for tolerance-inducing T-cell therapy, because of their wide expression 
+in inflamed tissues. In humans, in whom the actual disease trigger is frequently 
+unknown, HSP peptides offer chances for tolerance-promoting interventions 
+through induction of HSP-specific Treg. Recently, we have shown the ability of a 
+bacterial HSP70-derived peptide, HSP70-B29, to induce HSP-specific Tregs that 
+suppressed arthritis by cross-recognition of their mammalian HSP70 homologues, 
+abundantly present in the MHCII ligandome of stressed mouse and human 
+antigen-presenting cells in inflamed tissues.This article is part of the theme 
+issue 'Heat shock proteins as modulators and therapeutic targets of chronic 
+disease: an integrated perspective'.

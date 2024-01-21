@@ -1,0 +1,25 @@
+Changes in the intestinal microbiota have been linked to diabetes, obesity, 
+inflammatory bowel disease, and Clostridium difficile (C. difficile)-associated 
+disease. Despite this, it remains unclear how the intestinal environment, set by 
+ion transport, affects luminal and mucosa-associated bacterial composition. 
+Na(+)/H(+)-exchanger isoform 3 (NHE3), a target of C. difficile toxin B, plays 
+an integral role in intestinal Na(+) absorption. Thus the NHE3-deficient mouse 
+model was chosen to examine the effect of pH and ion composition on bacterial 
+growth. We hypothesized that ion transport-induced change in the intestinal 
+environment would lead to alteration of the microbiota. Region-specific changes 
+in ion composition and pH correlated with region-specific alteration of luminal 
+and mucosal-associated bacteria with general decreases in Firmicutes and 
+increases in Bacteroidetes members. Bacteroides thetaiotaomicron (B. 
+thetaiotaomicron) increased in NHE3(-/-) terminal ileum and was examined in 
+vitro to determine whether altered Na(+) was sufficient to affect growth. 
+Increased in vitro growth of B. thetaiotaomicron occurred in 43 mM Na(+) 
+correlating with the NHE3(-/-) mouse terminal ileum [Na(+)]. NHE3(-/-) terminal 
+ileum displayed increased fut2 mRNA and fucosylation correlating with B. 
+thetaiotaomicron growth. Inoculation of B. thetaiotaomicron in wild-type and 
+NHE3(-/-) terminal ileum organoids displayed increased fut2 and fucosylation, 
+indicating that B. thetaiotaomicron alone is sufficient for the increased 
+fucosylation seen in vivo. These data demonstrate that loss of NHE3 alters the 
+intestinal environment, leading to region-specific changes in bacteria, and shed 
+light on the growth requirements of some gut microbiota members, which is vital 
+for creating better treatments of complex diseases with an altered gut 
+microbiota.

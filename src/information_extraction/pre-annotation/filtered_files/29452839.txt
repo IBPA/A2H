@@ -1,0 +1,12 @@
+A series of 3(R)-aminopyrrolidine derivatives were designed and synthesized for 
+JAK1-selective inhibitors through the modification of tofacitinib's core 
+structure, (3R,4R)-3-amino-4-methylpiperidine. From the new core structures, we 
+selected (R)-N-methyl-N-(pyrrolidin-3-yl)-7H-pyrrolo[2,3-d]pyrimidin-4-amine as 
+a scaffold for further SAR studies. From biochemical enzyme assays and liver 
+microsomal stability tests, 
+(R)-3-(3-(methyl(7H-pyrrolo[2,3-d]pyrimidin-4-yl)amino)pyrrolidin-1-yl)-3-oxopropanenitrile 
+(6) was chosen for further in vivo test through oral administration. Compound 6 
+showed improved selectivity for JAK1 compared to that of tofacitinib (IC50 11, 
+2.4 × 102, 2.8 × 103, and 1.1 × 102 nM for JAK1, JAK2, JAK3, and TYK2, 
+respectively). In CIA and AIA model tests, compound 6 exhibited similar efficacy 
+to tofacitinib citrate.

@@ -1,0 +1,24 @@
+Clostridium difficile is an opportunistic diarrhoeal pathogen, and C. difficile 
+infection (CDI) represents a major health care concern, causing an estimated 
+15,000 deaths per year in the United States alone 1 . Several enteric pathogens, 
+including C. difficile, leverage inflammation and the accompanying microbial 
+dysbiosis to thrive in the distal gut 2 . Although diet is among the most 
+powerful available tools for affecting the health of humans and their 
+relationship with their microbiota, investigation into the effects of diet on 
+CDI has been limited. Here, we show in mice that the consumption of 
+microbiota-accessible carbohydrates (MACs) found in dietary plant 
+polysaccharides has a significant effect on CDI. Specifically, using a model of 
+antibiotic-induced CDI that typically resolves within 12 days of infection, we 
+demonstrate that MAC-deficient diets perpetuate CDI. We show that C. difficile 
+burdens are suppressed through the addition of either a diet containing a 
+complex mixture of MACs or a simplified diet containing inulin as the sole MAC 
+source. We show that switches between these dietary conditions are coincident 
+with changes to microbiota membership, its metabolic output and 
+C. difficile-mediated inflammation. Together, our data demonstrate the outgrowth 
+of MAC-utilizing taxa and the associated end products of MAC metabolism, namely, 
+the short-chain fatty acids acetate, propionate and butyrate, are associated 
+with decreased C. difficile fitness despite increased C. difficile toxin 
+expression in the gut. Our findings, when placed into the context of the known 
+fibre deficiencies of a human Western diet, provide rationale for pursuing 
+MAC-centric dietary strategies as an alternate line of investigation for 
+mitigating CDI.

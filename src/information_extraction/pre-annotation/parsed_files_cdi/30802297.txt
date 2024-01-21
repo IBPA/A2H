@@ -1,0 +1,18 @@
+Infection with Clostridium difficile is one of the major causes of health care 
+acquired diarrhea and colitis. Signaling though MyD88 downstream of TLRs is 
+critical for initiating the early protective host response in mouse models of C. 
+difficile infection (CDI). In the intestine, MyD88 is expressed in various 
+tissues and cell types, such as the intestinal epithelium and mononuclear 
+phagocytes (MNP), including DC or macrophages. Using a genetic gain-of-function 
+system, we demonstrate here that restricting functional MyD88 signaling to the 
+intestinal epithelium, but also to MNPs is sufficient to protect mice during 
+acute CDI by upregulation of the intestinal barrier function and recruitment of 
+neutrophils. Nevertheless, we also show that mice depleted for CD11c-expressing 
+MNPs in the intestine display no major defects in mounting an effective 
+inflammatory response, indicating that the absence of these cells is irrelevant 
+for inducing host protection during acute infection. Together, our results 
+highlight the importance of epithelial-specific MyD88 signaling and demonstrate 
+that although functional MyD88 signaling in DC and macrophages alone is 
+sufficient to correct the phenotype of MyD88-deficiency, these cells do not seem 
+to be essential for host protection in MyD88-sufficient animals during acute 
+infection with C. difficile.

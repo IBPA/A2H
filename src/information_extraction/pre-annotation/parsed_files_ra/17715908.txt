@@ -1,0 +1,21 @@
+Tumor progression loci-2 (Tpl2) (Cot/MAP3K8) is a serine/threonine kinase in the 
+MAP3K family directly upstream of MEK. Recent studies using Tpl2 knockout mice 
+have indicated an important role for Tpl2 in the lipopolysaccharide (LPS) 
+induced production of tumor necrosis factor alpha (TNF-alpha) and other 
+proinflammatory cytokines involved in diseases such as rheumatoid arthritis. 
+Initial 4-anilino-6-aminoquinoline-3-carbonitrile leads showed poor selectivity 
+for Tpl2 over epidermal growth factor receptor (EGFR) kinase. Using molecular 
+modeling and crystallographic data of the EGFR kinase domain with and without an 
+EGFR kinase-specific 4-anilinoquinazoline inhibitor (erlotinib, Tarceva), we 
+hypothesized that we could diminish the inhibition of EGFR kinase by 
+substitution at the C-8 position of our 
+4-anilino-6-aminoquinoline-3-carbonitrile leads. The 
+8-substituted-4-anilino-6-aminoquinoline-3-carbonitriles were prepared from the 
+appropriate 2-substituted 4-nitroanilines. Modifications to the C-6 and C-8 
+positions led to the identification of compounds with increased inhibition of 
+TNF-alpha release from LPS-stimulated rat and human blood, and these analogues 
+were also highly selective for Tpl2 kinase over EGFR kinase. Further 
+structure-activity based modifications led to the identification of 
+8-bromo-4-(3-chloro-4-fluorophenylamino)-6-[(1-methyl-1H-imidazol-4-yl)methylamino]quinoline-3-carbonitrile, 
+which demonstrated in vitro as well as in vivo efficacy in inhibition of 
+LPS-induced TNF-alpha production.

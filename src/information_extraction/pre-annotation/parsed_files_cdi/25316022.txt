@@ -1,0 +1,23 @@
+Recent studies suggest animals, in particular farm and companion animals, as 
+possible reservoir for Clostridium difficile human pathogenic strains. The aim 
+of this study was to give a first characterization of C. difficile isolates from 
+Italian swine and dogs. In total, 10 different PCR-ribotypes were identified 
+among porcine strains and six among canine strains. The predominant type found 
+among porcine strains was 078 (50%), whereas the most frequently detected among 
+canine strains was the non-toxinogenic 010 (64%). Considering the CLSI 
+breakpoints, 60% of porcine isolates was resistant to ERY, 35% to MXF, 15% to 
+CLI, 5% to RIF, and none to MTZ or VAN. Among dogs, 51% of strains was resistant 
+to CLI, 46% to ERY, 21% to MTZ and 5% to MXF or RIF, and none to VAN. Five 
+porcine strains (10%) and 9 canine isolates (41%) were MDR. Interestingly, 8 MDR 
+canine strains were highly resistant to MTZ, with MICs ≥32 mg/L. Considering the 
+EUCAST cut-off for MTZ (MIC >2 mg/L), 13 canine isolates and one porcine strain 
+were found with reduced susceptibility to MTZ (MICs ranging from 3 to 
+≥256 mg/L). Swine and canine strains showing resistance or reduced 
+susceptibility to MTZ belonged to PCR-ribotype 010 and 078. These PCR-ribotypes 
+have been associated to reduced susceptibility to MTZ also in human, suggesting 
+a potential risk for the emergence of C. difficile strains resistant to the 
+current first-line antibiotic for CDI treatment. The agar incorporation method 
+(AIM) was confirmed as the best method to detect C. difficile strains with this 
+phenotype also after strains manipulations. The results obtained add further 
+evidences about the possible role of animals as source of MDR C. difficile 
+strains and reservoir of antibiotic resistance determinants.

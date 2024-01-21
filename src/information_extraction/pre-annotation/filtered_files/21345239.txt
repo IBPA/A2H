@@ -1,0 +1,23 @@
+BACKGROUND: Alpha-1 antitrypsin (AAT) is a multi-functional protein that has 
+anti-inflammatory and tissue protective properties. We previously reported that 
+human AAT (hAAT) gene therapy prevented autoimmune diabetes in non-obese 
+diabetic (NOD) mice and suppressed arthritis development in combination with 
+doxycycline in mice. In the present study we investigated the feasibility of 
+hAAT monotherapy for the treatment of chronic arthritis in collagen-induced 
+arthritis (CIA), a mouse model of rheumatoid arthritis (RA).
+METHODS: DBA/1 mice were immunized with bovine type II collagen (bCII) to induce 
+arthritis. These mice were pretreated either with hAAT protein or with 
+recombinant adeno-associated virus vector expressing hAAT (rAAV-hAAT). Control 
+groups received saline injections. Arthritis development was evaluated by 
+prevalence of arthritis and arthritic index. Serum levels of B-cell activating 
+factor of the TNF-α family (BAFF), antibodies against both bovine (bCII) and 
+mouse collagen II (mCII) were tested by ELISA.
+RESULTS: Human AAT protein therapy as well as recombinant adeno-associated virus 
+(rAAV8)-mediated hAAT gene therapy significantly delayed onset and ameliorated 
+disease development of arthritis in CIA mouse model. Importantly, hAAT therapies 
+significantly reduced serum levels of BAFF and autoantibodies against bCII and 
+mCII, suggesting that the effects are mediated via B-cells, at least partially.
+CONCLUSION: These results present a new drug for arthritis therapy. Human AAT 
+protein and gene therapies are able to ameliorate and delay arthritis 
+development and reduce autoimmunity, indicating promising potential of these 
+therapies as a new treatment strategy for RA.

@@ -1,0 +1,26 @@
+BACKGROUND: The T-helper 17 (Th17) cells have a prominent role in inflammation 
+as well as in bone and join destruction in both rheumatoid and psoriatic 
+arthritis (RA and PsA). Here, we studied Th17 cell differentiation in RA and 
+PsA.
+METHODS: Blood samples from healthy donors, RA and PsA patients were collected. 
+CD45RO- (naive) and CD45RO+ (memory) T cells were isolated from peripherial 
+blood mononuclear cell by magnetic separation. Naive T cells were stimulated 
+with anti-CD3, anti-CD28, and goat anti-mouse IgG antibodies and treated with 
+transforming grow factor beta, interleukin (IL)-6, IL-1β, and IL-23 cytokines 
+and also with anti-IL-4 antibody. IL-17A and IL-22 production were measured by 
+enzyme linked immunosorbent assay, RORC, and T-box 21 (TBX21) expression were 
+analyzed by quantitative polymerase chain reaction and flow cytometry. C-C 
+chemokine receptor 6 (CCR6), CCR4, and C-X-C motif chemokine receptor 3 
+expression were determined by flow cytometry. Cell viability was monitored by 
+impedance-based cell analyzer (CASY-TT).
+RESULTS: RORC, TBX21, CCR6, and CCR4 expression of memory T cells of healthy 
+individuals (but not RA or PsA patients) were increased (p < 0.01; p < 0.001; 
+p < 0.05; p < 0.05, respectively) compared to the naive cells. Cytokine-induced 
+IL-17A production was different in both RA and PsA patients when compared to 
+healthy donors (p = 0.0000026 and p = 0.0001047, respectively). By contrast, 
+significant differences in IL-22 production were observed only between RA versus 
+healthy or RA versus PsA patients (p = 0.000006; p = 0.0013454, respectively), 
+but not between healthy donors versus PsA patients.
+CONCLUSION: The naive CD4 T-lymphocytes are predisposed to differentiate into 
+Th17 cells and the in vitro Th17 cell differentiation is profoundly altered in 
+both RA and PsA.

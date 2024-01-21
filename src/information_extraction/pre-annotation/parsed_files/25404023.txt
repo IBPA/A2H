@@ -1,0 +1,23 @@
+TcdB is one of the key virulence factors of Clostridium difficile that is 
+responsible for causing serious and potentially fatal colitis. The toxin 
+contains at least two enzymatic domains: an effector glucosyltransferase domain 
+for inactivating host Rho GTPases and a cysteine protease domain for the 
+delivery of the effector domain into host cytosol. Here, we describe a novel 
+intrabody approach to examine the role of these enzymes of TcdB in cellular 
+intoxication. By screening a single-domain heavy chain (V(H)H) library raised 
+against TcdB, we identified two V(H)H antibodies, 7F and E3, that specifically 
+inhibit TcdB cysteine protease and glucosyltransferase activities, respectively. 
+Cytoplasmic expression of 7F intrabody in Vero cells inhibited TcdB 
+autoprocessing and delayed cellular intoxication, whereas E3 intrabody 
+completely blocked the cytopathic effects of TcdB holotoxin. These data also 
+demonstrate for the first time that toxin autoprocessing occurs after cysteine 
+protease and glucosyltransferase domains translocate into the cytosol of target 
+cells. We further determined the role of the enzymatic activities of TcdB in in 
+vivo toxicity using a sensitive systemic challenge model in mice. Consistent 
+with these in vitro results, a cysteine protease noncleavable mutant, 
+TcdB-L543A, delayed toxicity in mice, whereas glycosyltransferase-deficient TcdB 
+demonstrated no toxicity up to 500-fold of the 50% lethal dose (LD50) when it 
+was injected systemically. Thus, glucosyltransferase but not cysteine protease 
+activity is critical for TcdB-mediated cytopathic effects and TcdB systemic 
+toxicity, highlighting the importance of targeting toxin glucosyltransferase 
+activity for future therapy.

@@ -1,0 +1,18 @@
+Collagen-induced arthritis (CIA) is an experimental autoimmune disease that can 
+be elicited in susceptible strains of rodents (rat and mouse) and nonhuman 
+primates by immunization with type II collagen (CII), the major constituent 
+protein of articular cartilage. Following immunization, these animals develop an 
+autoimmune polyarthritis that shares several clinical and histological features 
+with rheumatoid arthritis. Susceptibility to CIA in rodents is linked to the 
+class II molecules of the major histocompatibility complex (MHC), and the immune 
+response to CII is characterized by both the stimulation of collagen-specific T 
+cells and the production of high titers of antibody specific for both the 
+immunogen (heterologous CII) and the autoantigen (mouse CII). Histologically, 
+murine CIA is characterized by an intense synovitis that corresponds precisely 
+with the clinical onset of arthritis. Because of the pathological similarities 
+between CIA and rheumatoid arthritis, the CIA model has been the subject of 
+extensive investigation. Here, we describe the specifics for establishing the 
+murine model of CIA, including specific requirements for the handling and 
+preparation of the CII antigen, procedures for immunization, selection of 
+susceptible mouse strains for study, and procedures for the evaluation and 
+quantitation of the autoimmune arthritis.

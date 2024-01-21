@@ -1,0 +1,21 @@
+OBJECTIVE: To determine the effects of a glycinamide ribonucleotide 
+formyltransferase (GARFT) inhibitor on macrophage inflammatory processes and in 
+vivo in rat adjuvant arthritis.
+METHODS: GARFT inhibitors, LY309886 (6S-2',5'-thienyl-5, 
+10-dideazatetrahydrofolic acid) and LY329201 
+(R)-N-[[5-[2-(2-amino-1,4,5,6,7,8-hexahydro-4-oxopyrido[2,3-d]pyrimidin-6-yl)ethyl]-2-thienyl]carbonyl]-L-glutamatic 
+acid disodium salt, were investigated in vitro and ex vivo on primary murine 
+peritoneal macrophages and in the RAW macrophage cell line for both purine 
+depletion and inhibition of LPS induced monokine secretion. In vivo efficacy 
+following GARFT inhibition was evaluated in modified rat adjuvant arthritis.
+RESULTS: LY309886 inhibited purine biosynthesis in the RAW cell line with an 
+EC50 of 90 nM, an effect readily reversible with exogenous hypoxanthine. 
+LY309886 and LY329201 also inhibited LPS induced TNF alpha and MIP1 alpha in 
+these cells and in primary macrophages. A similar effect could be demonstrated 
+ex vivo with mice dosed for two days with 3 mg/kg of LY329201. LY329201 as well 
+as methotrexate demonstrated a dose dependent reduction in both paw and spleen 
+weight and improved joint histology following 2 weeks of dosing in a rat 
+adjuvant arthritis study.
+CONCLUSION: These results suggest that GARFT inhibitors should be tested in the 
+treatment of rheumatoid arthritis by considering their mechanism of action, here 
+successfully tested on activated macrophages.

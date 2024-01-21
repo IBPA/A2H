@@ -1,0 +1,31 @@
+This study was undertaken to determine whether a binding site for Clostridium 
+difficile enterotoxin (toxin A) exists in the brush border membranes (BBMs) of 
+the hamster, an animal known to be extremely sensitive to the action of the 
+toxin. Toxin A was the only antigen adsorbed by the BBMs from the culture 
+filtrate of C. difficile. The finding that binding activity could not be 
+destroyed by heat indicated that a carbohydrate moiety might be involved. We 
+therefore examined erythrocytes from various animal species for binding activity 
+since erythrocytes provide a variety of carbohydrate sequences on their cell 
+surfaces. Only rabbit erythrocytes bound the toxin, and the cells agglutinated. 
+A binding assay based on an enzyme-linked immunosorbent assay method for 
+quantifying C. difficile toxin A was used to compare binding of the toxin to 
+hamster BBMs, rabbit erythrocytes, and BBMs from rats, which are less 
+susceptible to the action of C. difficile toxin A than hamsters. Results of this 
+comparison indicated the following order of toxin-binding frequency: rabbit 
+erythrocytes greater than hamster BBMs greater than rat BBMs. Binding of toxin A 
+to hamster BBMs at 37 degrees C was comparable to what has been observed with 
+cholera toxin, but binding was enhanced at 4 degrees C. A similar binding 
+phenomenon was observed with rabbit erythrocytes. Examination of the cell 
+surfaces of hamster BBMs and rabbit erythrocytes with lectins and specific 
+glycosidases revealed a high concentration of terminal alpha-linked galactose. 
+Treatment of both membrane types with alpha-galactosidase destroyed the binding 
+activity. The glycoprotein, calf thyroglobulin, also bound the toxin and 
+inhibited toxin binding to cells. Toxin A did not bind to human erythrocytes 
+from blood group A, B, or O donors. However, after fucosidase treatment of human 
+erythrocytes, only blood group B erythrocytes, which possess the blood group B 
+structure Gal alpha 1-3[Fuc alpha 1-2]Gal beta 1-4GlcNAc-R, bound the toxin. 
+This indicated that toxin A was likely binding to Gal alpha 1-3Gal beta 
+1-4GlcNAc, a carbohydrate sequence also found on calf thyroglobulin and rabbit 
+erythrocytes. All of the results indicate that hamster BBMs contain a 
+carbohydrate-binding site for toxin A that has at least a Gal alpha 1-3Gal beta 
+1-4GlcNAc nonreducing terminal sequence.

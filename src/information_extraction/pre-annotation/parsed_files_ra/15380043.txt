@@ -1,0 +1,18 @@
+The pathogenesis of chronic inflammatory joint diseases such as adult and 
+juvenile rheumatoid arthritis and Lyme arthritis is still poorly understood. 
+Central to the various hypotheses in this respect is the notable involvement of 
+T and B cells. Here we develop the premise that the nominal antigen-independent, 
+polyclonal activation of preactivated T cells via Toll-like receptor (TLR)-2 has 
+a pivotal role in the initiation and perpetuation of pathogen-induced chronic 
+inflammatory joint disease. We support this with the following evidence. Both 
+naive and effector T cells express TLR-2. A prototypic lipoprotein, Lip-OspA, 
+from the etiological agent of Lyme disease, namely Borrelia burgdorferi, but not 
+its delipidated form or lipopolysaccharide, was able to provide direct 
+antigen-nonspecific co-stimulatory signals to both antigen-sensitized naive T 
+cells and cytotoxic T lymphocyte (CTL) lines via TLR-2. Lip-OspA induced the 
+proliferation and interferon (IFN)-gamma secretion of purified, 
+anti-CD3-sensitized, naive T cells from C57BL/6 mice but not from 
+TLR-2-deficient mice. Induction of proliferation and IFN-gamma secretion of CTL 
+lines by Lip-OspA was independent of T cell receptor (TCR) engagement but was 
+considerably enhanced after suboptimal TCR activation and was inhibitable by 
+monoclonal antibodies against TLR-2.

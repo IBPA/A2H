@@ -1,0 +1,26 @@
+BACKGROUND: The inhibition of tumorangiogenesis may be of importance in the 
+additive treatment of various cancers. Leflunomide, a drug which has been 
+approved in Germany for the therapy of rheumatoid arthritis, inhibits the 
+activity of several growth factors in vitro. The aim of this study was to 
+investigate the effects of the drug on tumor angiogenesis in a nude mouse model.
+MATERIALS AND METHODS: A total of 40 nude mice were injected with human colon 
+carcinoma cells. Following randomization in 4 groups, therapy started on day 
+five. Group 1 was treated daily with orally administered Leflunomide (35 mg/kg) 
+dissolved in 1.5% Carboxymethylcellulose (CMC). Group 2 served as a control 
+group and received 1 ml CMC orally per day. The animals of group 3 were treated 
+daily with 35 mg Leflunomide/kg KG and 500 mg Uridine/kg dissolved in 1 ml Nacl 
+0.9% intraperitoneally. The 4th group again served as a control group and 
+received only 500 mg Uridine/kg intraperitoneally each day. The main outcome 
+criterion was the angiogenesis score (AS). In addition, the tumor volume and 
+tumor weight were also assessed. The AS was determined by immunohistochemistry 
+using an antibody against factor VIII related antigen.
+RESULTS: All animals tolerated the procedure well. In the Leflunomide and the 
+Leflunomide/Uridine group the angiogenesis score (p < 0.01), the tumor volume (p 
+< 0.01) and the tumor weight (p < 0.01) were lower compared to the respective 
+control groups.
+CONCLUSION: The administration of Leflunomide leads to a significant reduction 
+of tumor weight and tumor volume following subcutaneous injection of human colon 
+carcinoma cells in a nude mouse model. This could be due to the reduction of 
+tumor angiogenesis. Following further experimental and clinical studies, 
+Leflunomide may come to play a role in the additive treatment of colonic 
+carcinoma.

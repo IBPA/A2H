@@ -1,0 +1,16 @@
+In order to investigate the regulation of presynaptic phospholipase D (PLD) 
+activity by calcium and G proteins, we established a permeabilization procedure 
+for rat cortical synaptosomes using Staphylococcus aureus alpha-toxin (30-100 
+microg/ml). In permeabilized synaptosomes, PLD activity was significantly 
+stimulated when the concentration of free calcium was increased from 0.1 microM 
+to 1 microM. This activation was inhibited in the presence of KN-62 (1 microM), 
+an inhibitor of calcium/calmodulin-dependent kinase II (CaMKII), but not by the 
+protein kinase C inhibitor, Ro 31-8220 (1-10 microM). Synaptosomal PLD activity 
+was also stimulated in the presence of 1 microM GTPgammaS. When Rho proteins 
+were inhibited by pretreatment of the synaptosomes with Clostridium difficile 
+toxin B (TcdB; 1-10 ng/ml), the effect of GTPgammaS was significantly reduced; 
+in contrast, brefeldin A (10-100 microM), an inhibitor of ARF activation, was 
+ineffective. Calcium stimulation of PLD was inhibited by TcdB, but 
+GTPgammaS-dependent activation was insensitive to KN-62. We conclude that 
+synaptosomal PLD is activated in a pathway which sequentially involves CaMKII 
+and Rho proteins.

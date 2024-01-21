@@ -1,0 +1,24 @@
+Interleukin (IL)-36α, IL-36β and IL-36γ are expressed highly in skin and are 
+involved in the pathogenesis of psoriasis, while the antagonists IL-36Ra or 
+IL-38, another potential IL-36 inhibitor, limit uncontrolled inflammation. The 
+expression and role of IL-36 cytokines in rheumatoid arthritis (RA) and Crohn's 
+disease (CD) is currently debated. Here, we observed that during 
+imiquimod-induced mouse skin inflammation and in human psoriasis, expression of 
+IL-36α, γ and IL-36Ra, but not IL-36β and IL-38 mRNA, was induced and correlated 
+with IL-1β and T helper type 17 (Th17) cytokines (IL-17A, IL-22, IL-23, CCL20). 
+In mice with collagen-induced arthritis and in the synovium of patients with RA, 
+IL-36α, β, γ, IL-36Ra and IL-38 were all elevated and correlated with IL-1β, 
+CCL3, CCL4 and macrophage colony-stimulating factor (M-CSF), but not with Th17 
+cytokines. In the colon of mice with dextran sulphate sodium-induced colitis and 
+in patients with CD, only IL-36α, γ and IL-38 were induced at relatively low 
+levels and correlated with IL-1β and IL-17A. We suggest that only a minor 
+subgroup of patients with RA (17-29%) or CD (25%) had an elevated IL-36 
+agonists/antagonists ratio, versus 93% of patients with psoriasis. By 
+immunohistochemistry, IL-36 cytokines were produced by various cell types in 
+skin, synovium and colonic mucosa such as keratinocytes, CD68⁺ macrophages, 
+dendritic/Langerhans cells and CD79α⁺ plasma cells. In primary cultures of 
+monocytes or inflammatory macrophages (M1), IL-36β and IL-36Ra were produced 
+constitutively, but IL-36α, γ and IL-38 were produced after lipopolysaccharide 
+stimulation. These distinct expression profiles may help to explain why only 
+subgroups of RA and CD patients have a potentially elevated IL-36 
+agonists/antagonists ratio.

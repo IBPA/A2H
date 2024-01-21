@@ -1,0 +1,26 @@
+BACKGROUND: Rheumatoid arthritis (RA) is a chronic immune-mediated inflammatory 
+disease characterized by cellular infiltration into the joints, 
+hyperproliferation of synovial cells and bone damage. Available treatments for 
+RA only induce remission in around 30% of the patients, have important adverse 
+effects and its use is limited by their high cost. Therefore, compounds that can 
+control arthritis, with an acceptable safety profile and low production costs 
+are still an unmet need. We have shown, in vitro, that celastrol inhibits both 
+IL-1β and TNF, which play an important role in RA, and, in vivo, that celastrol 
+has significant anti-inflammatory properties. Our main goal in this work was to 
+test the effect of celastrol in the number of sublining CD68 macrophages (a 
+biomarker of therapeutic response for novel RA treatments) and on the overall 
+synovial tissue cellularity and joint structure in the adjuvant-induced rat 
+model of arthritis (AIA).
+METHODS: Celastrol was administered to AIA rats both in the early (4 days after 
+disease induction) and late (11 days after disease induction) phases of 
+arthritis development. The inflammatory score, ankle perimeter and body weight 
+were evaluated during treatment period. Rats were sacrificed after 22 days of 
+disease progression and blood, internal organs and paw samples were collected 
+for toxicological blood parameters and serum proinflammatory cytokine 
+quantification, as well as histopathological and immunohistochemical evaluation, 
+respectively.
+RESULTS: Here we report that celastrol significantly decreases the number of 
+sublining CD68 macrophages and the overall synovial inflammatory cellularity, 
+and halted joint destruction without side effects.
+CONCLUSIONS: Our results validate celastrol as a promising compound for the 
+treatment of arthritis.

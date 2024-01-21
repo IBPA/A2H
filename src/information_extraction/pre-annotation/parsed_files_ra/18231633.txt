@@ -1,0 +1,19 @@
+15-deoxy-Delta(12,14)-prostaglandin J(2) (15d-PGJ(2)) and an anti-diabetic 
+thiazolidinedione, troglitazone (TRO) are peroxisome proliferator-activated 
+receptor (PPAR)-gamma ligands, which regulate immuno-inflammatory reactions as 
+well as adipocyte differentiation. We previously reported that 15d-PGJ(2) can 
+suppress interleukin (IL)-1beta-induced prostaglandin E(2) (PGE(2)) synthesis in 
+synoviocytes of rheumatoid arthritis (RA). IL-1 also stimulates PGE(2) synthesis 
+in osteoblasts by regulation of cyclooxygenase (COX)-2 and regulates 
+osteoclastic bone resorption in various diseases such as RA and osteoporosis. In 
+this study, we investigated the feedback mechanism of the arachidonate cascade 
+in mouse osteoblastic cells, MC3T3-E1 cells, which differentiate into mature 
+osteoblasts. Treatment with 15d-PGJ(2) led to a significant increase in 
+IL-1alpha-induced COX-2 expression and PGE(2) production in a dose dependent 
+manner. The effect of 15d-PGJ(2) was stronger than that of TRO. However, it did 
+not affect the expression of COX-1. In addition, cell viability of MC3T3-E1 
+cells was not changed in the condition we established. This means that 
+15d-PGJ(2) exerts a positive feedback regulation of the arachidonate cascade of 
+PGE(2) in osteoblastic cells. These results may provide important information 
+about the pathogenesis and treatment of bone resorption in a variety of diseases 
+such as RA and osteoporosis.

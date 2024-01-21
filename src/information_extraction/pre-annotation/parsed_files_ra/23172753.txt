@@ -1,0 +1,27 @@
+BACKGROUND: In rheumatoid arthritis (RA), neutrophil granulocytes fuel 
+inflammation and damage tissue in the joint by releasing cytotoxic agents, 
+antimicrobial peptides, proteases and other inflammatory mediators. The human 
+cathelicidin LL-37 has recently been implicated in the development of systemic 
+lupus erythematosus and psoriasis.
+OBJECTIVE: To elucidate if antimicrobial peptides (AMPs) contribute to the 
+pathogenesis of arthritis.
+METHODS: Expression of LL-37 was determined in synovial membranes from patients 
+with arthritis and control subjects. Expression of the rat cathelicidin rCRAMP 
+and defensins was characterised in joints, blood and secondary lymphoid organs 
+during pristane-induced arthritis (PIA) in rats and in a transfer model of PIA 
+induced by CD4 T cells. Serum samples of rats with arthritis were tested for IgG 
+and IgM autoantibodies against rCRAMP by immunoblot and for interferon (IFNα) by 
+ELISA.
+RESULTS: Cathelicidins are strongly upregulated in RA synovial membranes and in 
+joints from rats with arthritis as compared with healthy joints. Expression was 
+most prominent in neutrophil granulocytes and macrophages/osteoclasts. 
+Cathelicidin expression is also upregulated in the blood and spleen of 
+pristane-injected rats, with strongest expression detected in activated CD62L- 
+cells coexpressing granulocyte and monocyte markers. Pristane injection caused 
+accumulation of low-density granulocytes in the blood. After pristane injection, 
+the increased expression of rCRAMP coincided with higher levels of cell death, 
+raised levels of interferon (IFN)α and development of autoantibodies.
+CONCLUSIONS: Our results show strong upregulation of cathelicidins and 
+β-defensins coinciding with pathological events of arthritis. Higher expression 
+and release of AMPs might contribute to development and/or maintenance of 
+disease by systemic or local mechanisms.

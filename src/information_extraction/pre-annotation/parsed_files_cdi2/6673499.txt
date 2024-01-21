@@ -1,0 +1,12 @@
+Clostridium difficile produces one diarrhoeogenic toxin designed A, and one 
+cytopathogenic toxin designed B. Toxin A was purified in a 
+four-step-fractionation procedure. In the last purification step the toxin was 
+separated by elution with galactose from an agarose gel. The purified toxin A 
+induced a clear and watery hypersecretion in intestinal loops of mouse, while 
+mixtures of toxin A and B induced a haemorrhagic secretion. At an ED50 value for 
+the purified toxin A of 0.5 microgram there was a brief, optimal hypersecretion 
+after four hours. Like the fluid secretion induced by cholera toxin, that 
+induced by toxin A could be inhibited by chlorpromazine or by depletion of 
+intestinal bile. In contrast to cholera toxin, however, toxin A did not activate 
+intestinal adenylate cyclase--at least not permanently. Antisera which 
+neutralized cholera toxin did not neutralize toxin A, and vice versa.

@@ -1,0 +1,14 @@
+Clostridium difficile disease is mediated primarily by toxins A and B (TcdA and 
+TcdB, respectively). The receptor binding domains (RBD) of TcdA and TcdB are 
+immunogenic, and anti-RBD antibodies are protective. Since these toxins act 
+locally, an optimal C. difficile vaccine would generate both systemic and 
+mucosal responses. We have repurposed an attenuated Salmonella enterica serovar 
+Typhimurium strain (YS1646) to produce such a vaccine. Plasmid-based candidates 
+expressing either the TcdA or TcdB RBD were screened. Different vaccine routes 
+and schedules were tested to achieve detectable serum and mucosal antibody 
+titers in C57BL/6J mice. When given in a multimodality schedule over 1 week 
+(intramuscularly and orally [p.o.] on day 0 and p.o. on days 2 and 4), several 
+candidates provided 100% protection against lethal challenge. Substantial 
+protection (82%) was achieved with combined p.o. TcdA and TcdB vaccination alone 
+(days 0, 2, and 4). These data demonstrate the potential of the YS1646-based 
+vaccines for C. difficile and strongly support their further development.

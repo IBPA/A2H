@@ -1,0 +1,34 @@
+OBJECTIVE: To construct rats congenic for the chromosome 2 arthritis-regulatory 
+quantitative trait locus Cia10, originally identified in a (DA x ACI)F(2) 
+intercross rat strain that had been assessed for collagen-induced arthritis 
+(CIA), and to determine the effect of this congenic interval on arthritis 
+severity, joint histologic structure, and cytokine transcription in rats with 
+pristane-induced arthritis (PIA).
+METHODS: A 52.6-MB interval derived from the ACI (CIA- and PIA-resistant) strain 
+and containing the Cia10 interval was introgressed into the DA 
+(arthritis-susceptible) background through genotype-guided congenic breeding. 
+Homozygous male and female DA.ACI(Cia10) congenic rats were studied for their 
+susceptibility to and severity of PIA, and were compared with same-sex DA rats. 
+Histologic analyses were done on hind paws collected on day 32 following the 
+pristane injection. Levels of interleukin-1beta (IL-1beta) and tumor necrosis 
+factor alpha (TNFalpha) messenger RNA (mRNA) were measured with real-time 
+polymerase chain reaction on synovial tissues from day-32 ankles.
+RESULTS: Both male and female DA.ACI(Cia10) congenic rats developed a 
+significantly milder form of arthritis, with a 95% and 92% reduction in the 
+arthritis severity index compared with DA male and female controls, respectively 
+(males P < or = 0.001 and females P = 0.003). DA.ACI(Cia10) congenic rat 
+synovial tissue was more likely to preserve its normal histologic architecture, 
+including minimal to no cartilage and bone erosions, synovial hyperplasia, and 
+pannus formation, and reduced numbers of vessels (angiogenesis), when compared 
+with DA synovial tissue. There was a 2.7- and 2.4-fold reduction in the amount 
+of IL-1beta and TNFalpha mRNA, respectively, in the synovial tissue of 
+DA.ACI(Cia10) congenic rats compared with DA rats. Sequencing analyses of 
+complementary DNA for the Cia10-predicted candidate gene Ptpn8, the rat homolog 
+of the rheumatoid arthritis (RA)-susceptibility gene PTPN22, revealed no 
+polymorphisms between the DA and ACI strains.
+CONCLUSION: This study determined that Cia10 harbors a major autoimmune 
+arthritis-regulatory gene. This gene regulates clinical disease severity, 
+histologic damage, and the levels of at least two central proinflammatory 
+cytokines. We are in the process of narrowing down the critical region for 
+positional cloning of the Cia10 gene. The identification of this gene will 
+provide novel targets or pathways for focused candidate-gene studies in RA.

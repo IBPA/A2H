@@ -1,0 +1,19 @@
+Angiogenesis is an early and a critical event in the pathogenesis of rheumatoid 
+arthritis (RA). Neovascularization is dependent on endothelial cell activation, 
+migration and proliferation, and inhibition of angiogenesis may provide a novel 
+therapeutic approach in RA. In this study, we document a novel role of IL-17 in 
+mediating angiogenesis. Local expression of IL-17 in mouse ankles increases 
+vascularity. We further demonstrate that IL-17 is angiogenic by showing its 
+ability to promote blood vessel growth in Matrigel plugs in vivo. Additionally, 
+IL-17, in concentrations present in the RA joint, induces human lung 
+microvascular endothelial cell (HMVEC) migration mediated through the PI3K/AKT1 
+pathway. Furthermore, suppression of the PI3K pathway markedly reduces 
+IL-17-induced tube formation. We also show that both IL-17-induced HMVEC 
+chemotaxis and tube formation are mediated primarily through IL-17 receptor C. 
+Neutralization of either IL-17 in RA synovial fluids or IL-17 receptor C on 
+HMVECs significantly reduces the induction of HMVEC migration by RA synovial 
+fluid. Finally, RA synovial fluid immunoneutralized with anti-IL-17 and 
+antivascular endothelial growth factor does not reduce HMVEC migration beyond 
+the effect detected by immunodepleting each factor alone. These observations 
+identify a novel function for IL-17 as an angiogenic mediator in RA, supporting 
+IL-17 as a therapeutic target in RA.

@@ -1,0 +1,14 @@
+BAFF has a critical role in B-cell survival, maturation and function, which 
+makes its pathway a prime therapeutic target for various autoimmune diseases, 
+such as systemic lupus erythematosus (SLE), rheumatoid arthritis and Sjögren's 
+syndrome. A cell-based assay that measures the functional activity of BAFF is 
+required for many high throughput purposes, such as lead target screening and 
+BAFF quantification. We report here the development of a sensitive BAFF 
+responsive cell line via stable transfection of the BAFFR-TNFR1 hybrid receptor 
+into monkey kidney epithelial COS-1 cells. The cellular response to BAFF can be 
+detected by measuring the secretion of IL-8. This BAFF bioassay is not only 
+reproducible and sensitive, but also responsive to a wide concentration range of 
+BAFF stimulation in sera from various species. This cell line is useful in the 
+development of sensitive bioassays to measure the levels of bioactive BAFF, 
+inhibition of BAFF and neutralizing antibodies against any BAFF pathway-mediated 
+therapeutic proteins.

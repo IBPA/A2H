@@ -1,0 +1,30 @@
+Methotrexate (MTX) is frequently used in the treatment of several diseases 
+including cancers, rheumatoid arthritis, psoriatic arthritis, systemic lupus 
+erythematosus, and dermatomyositis. Previously, chemotherapeutic agents have 
+been reported to cause permanent azoospermia and infertility in men. 
+Methotrexate has been also shown to damage the seminiferous tubules of the 
+testicles, lower the sperm count, and cause genetic mutations (in DNA) in sperm. 
+In this study, we aimed to investigate the protective effects of alpha lipoic 
+acid (ALA) on MTX-induced testicle damage in a rat model. A total of 40 male 
+Wistar Albino rats were used in this study. The rats were divided into four 
+groups including 10 rats in each. The first group (control group) received only 
+saline intraperitoneal (i.p.); the second group (ALA group) was given ALA 
+100 mg/kg i.p.; the third group (MTX group) received single dose MTX 20 mg/kg 
+i.p.; and the fourth group (MTX + ALA group) received single dose MTX 20 mg/kg 
+i.p. and ALA 100 mg/kg i.p. Malondialdehyde (MDA), superoxide dismutase (SOD), 
+catalase (CAT), glutathione peroxidase (GPx), myeloperoxidase (MPO) levels in 
+the testicular tissue and serum testosterone, serum total antioxidant status 
+(TAS) and total oxidant status (TOS) levels were biochemically evaluated. 
+Testicular tissues histopathologically evaluated. In the MTX group, the MDA, TAS 
+and TOS levels were higher, while the SOD, CAT, GPx, MPO and serum testosterone 
+levels decreased. Compared to the MTX group, the MDA, TAS and TOS levels were 
+lower and the SOD, CAT, GPx, MPO and serum testosterone levels increased in the 
+MTX + ALA group. In the histopathological examination, the mean seminiferous 
+tubule length (MSTD), germinal epithelial cell thickness (GECT), and mean 
+testicular biopsy score (MTBS) were found to significantly decrease in the MTX 
+group, compared to the control group. These values were significantly higher in 
+the MTX + ALA group, compared to the MTX group (p < 0.05). In our experimental 
+study, MTX caused severe tissue destruction in testicles by increasing the 
+formation of free oxygen radicals. Based on our study results, we suggest that, 
+as a potent free radical scavenger, ALA can reduce MTX-induced testicular tissue 
+damage thanks to its antioxidant and anti-inflammatory properties.

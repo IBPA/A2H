@@ -1,0 +1,70 @@
+Bone marrow transplantation is becoming a powerful strategy for the treatment of 
+hematologic disorders (leukemia, aplastic anemia, etc.), congenital 
+immunodeficiencies, metabolic disorders and also autoimmune diseases. Using 
+various animal models for autoimmune diseases, we have previously found that 
+allogeneic (not autologous) bone marrow transplantation can be used to treat 
+autoimmune diseases such as systemic lupus erythematosus, rheumatoid arthritis, 
+immune thrombocytic purpura, insulin-dependent diabetes mellitus, chronic 
+glomerulonephritis and certain types of non-insulin-dependent diabetes mellitus. 
+In contrast, we have found that the transplantation of T-cell-depleted bone 
+marrow cells or partially purified hemopoietic stem cells from autoimmune-prone 
+mice to normal mice leads to the induction of autoimmune diseases in the 
+recipients. These findings have recently been confirmed even in humans; 
+autoimmune diseases such as rheumatoid arthritis, systemic lupus erythematosus, 
+multiple sclerosis and Crohn's disease were resolved after allogeneic bone 
+marrow transplantation. However, there have recently been reports on the rapid 
+recurrence or persistence of autoimmune diseases after autologous bone marrow 
+transplantation. Conversely, the adoptive transfer of autoimmune diseases such 
+as myasthenia gravis, insulin-dependent diabetes mellitus and Graves' disease by 
+allogeneic bone marrow transplantation from donors to recipients has been 
+reported. Owing to these findings, we have proposed that autoimmune diseases are 
+"stem cell disorders." We have thus succeeded in treating autoimmune diseases in 
+various autoimmune-prone mice, except MRL/lpr mice, by conventional bone marrow 
+transplantation. The MRL/lpr mouse itself is radiosensitive (<8.5 Gy), while the 
+abnormal hemopoietic stem cells of the MRL/lpr mouse are radioresistant (>8.5 
+Gy); conventional bone marrow transplantation (8.5 Gy plus bone marrow 
+transplantation) has a transient effect on autoimmune diseases, which recur 
+three months after the bone marrow transplantation. However, bone marrow 
+transplantation plus bone grafts (to recruit donor stromal cells) completely 
+prevents the recurrence of autoimmune diseases in MRL/lpr mice. Donor-derived 
+stromal cells (including mesenchymal stem cells) thus seem to play a crucial 
+role in successful allogeneic bone marrow transplantation, since there is a 
+major histocompatibility complex restriction between hemopoietic stem cells and 
+stromal cells. We have, however, found that the combination of bone marrow 
+transplantation plus bone grafts has no effect on the treatment of autoimmune 
+diseases in MRL/lpr mice, since MRL/lpr mice become more radiosensitive after 
+the onset of lupus nephritis due to the development of uremic enterocolitis. To 
+reduce the cytotoxic effect of radiation on the intestine, we carried out 
+fractionated irradiation and devised a new strategy. We injected allogeneic 
+whole bone marrow cells (including a small number [<3%] of T cells, hemopoietic 
+stem cells and stromal cells) from donors directly into the intra-bone marrow of 
+recipients so that donor-derived hemopoietic cells including stromal cells could 
+effectively accumulate in the bone marrow. All the MRL/lpr mice survived more 
+than one year (>60 weeks after birth) without the recurrence of autoimmune 
+diseases, and immunological functions were completely restored even when the 
+radiation dose was reduced to 5 Gy x 2. These findings suggest that intra-bone 
+marrow injection-bone marrow transplantation can be used to treat intractable 
+autoimmune diseases under reduced radiation doses without using any 
+immunosuppressants.Intra-bone marrow injection-bone marrow transplantation seems 
+to be the best strategy for allogeneic bone marrow transplantation: 1) no 
+graft-versus-host disease develops even if T cells are not depleted from the 
+bone marrow; 2) no graft failure occurs even if the dose of radiation as the 
+conditioning for bone marrow transplantation is reduced to 5 Gy x 2; 3) 
+hemopoietic recovery is rapid; and 4) T-cell functions are completely restored 
+even in donor-recipient combinations across the major histocompatibility complex 
+barriers. Using cynomolgus monkeys, we have recently established a new method 
+(the "perfusion method") for collecting bone marrow cells from the long bones 
+(femur, humerus, etc.) without peripheral blood contamination. This method has 
+various advantages: 1) no graft-versus-host disease develops even in cynomolgus 
+monkeys, since the percentage of T cells in the bone marrow cells collected is 
+less than 3%; 2) a large number of bone marrow cells can be collected quickly 
+and safely; and 3) the bone marrow cells collected contain stromal cells 
+including mesenchymal stem cells. We therefore believe that this method 
+(intra-bone marrow injection-bone marrow transplantation in conjunction with the 
+perfusion method) will become a powerful new strategy for not only allogeneic 
+bone marrow transplantation but also organ transplantation in conjunction with 
+bone marrow transplantation. Furthermore, this method could become a valuable 
+strategy in regeneration therapy for injured organs and tissues (myocardial 
+infarction, cerebral infarction, Alzheimer's disease, etc.), since it can 
+efficiently reconstitute the recipient with both donor-derived hemopoietic stem 
+cells and mesenchymal stem cells.

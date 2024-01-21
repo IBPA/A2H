@@ -1,0 +1,17 @@
+Hyaluronan (HA) oligosaccharides stimulate pro-inflammatory responses in 
+different cell types by modulating both cluster determinant 44 (CD44) and TLR4. 
+The activation of these receptors is also mediated by collagen-induced arthritis 
+(CIA) that, via two different pathways, culminates in the liberation of NF-κB. 
+This then stimulates the production of pro-inflammatory cytokines, including 
+IL-18 and IL-33, that are greatly involved in rheumatoid arthritis. The aim of 
+this study was to investigate the effects of 6-mer HA oligosaccharides on mouse 
+synovial fibroblasts obtained from normal DBA/J1 mice or mice subjected to CIA. 
+Compared with normal synovial fibroblasts (NSF), rheumatoid arthritis synovial 
+fibroblasts (RASF) showed no up-regulation of CD44 and TLR4 mRNA expression and 
+the related proteins, as well as no activation of NF-κB. Very low levels of both 
+mRNA and related proteins were also detected for IL-18 and IL-33. Treatment of 
+NSF and RASF with 6-mer HA oligosaccharides significantly increased all the 
+parameters in both fibroblast groups, although to a greater extent in RASF. The 
+addition of hyaluronan binding protein to both NSF and RASF inhibited HA 
+activity and was able to reduce the effects of 6-mer HA oligosaccharides and the 
+consequent inflammatory response.

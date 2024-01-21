@@ -1,0 +1,19 @@
+BACKGROUND: Clostridium difficile infection (CDI) is a leading cause of 
+antibiotic-associated diarrhea. The infective form of C. difficile is the spore, 
+but the vegetative bacterium causes the disease. Because C. difficile spore 
+germination is required for symptomatic infection, antigermination approaches 
+could lead to the prevention of CDI. We recently reported that CamSA, a bile 
+salt analog, inhibits C. difficile spore germination in vitro.
+METHODS: Mice infected with massive inocula of C. difficile spores were treated 
+with different concentrations of CamSA and monitored for CDI signs. C. difficile 
+spore and vegetative cells were counted in feces from infected mice.
+RESULTS: A single 50-mg/kg dose of CamSA prevented CDI in mice without any 
+observable toxicity. Lower CamSA doses resulted in delayed CDI onset and less 
+severe signs of disease. Ingested C. difficile spores were quantitatively 
+recovered from feces of CamSA-protected mice.
+CONCLUSIONS: Our results support a mechanism whereby the antigermination effect 
+of CamSA is responsible for preventing CDI signs. This approach represents a new 
+paradigm in CDI treatment. Instead of further compromising the microbiota of CDI 
+patients with strong antibiotics, antigermination therapy could serve as a 
+microbiota surrogate to curtail C. difficile colonization of antibiotic-treated 
+patients.

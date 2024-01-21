@@ -1,0 +1,19 @@
+It has recently been shown that the cell line Don Q obtained by mutagenesis of 
+wild type Chinese hamster lung fibroblasts (Don wt), presents a point mutation 
+in the gene coding for UDP-glucose pyrophosphorylase. The persistent low level 
+of UDP-glucose makes Don Q clone resistant to Clostridium difficile toxin B. 
+Starting from the observation that Don Q cells exhibit many large hydrophobic 
+cytoplasmic inclusions, that we have found to be made of neutral lipids, the 
+aerobic metabolism of the two cell lines has been examined. The specific 
+activity of cytochrome oxidase in Don Q cells is more than 5 times lower than 
+that found in Don wt. Also, the activity of Complexes II + III, expressed by the 
+activity of succinate-cytochrome c oxido-reductase, has been found to be lower 
+in Don Q compared to wt cells. On the other hand, NADH-cytochrome c 
+oxido-reductase activity, insensitive to rotenone, is more than doubled in Don 
+Q. In these cells the activity of lactate dehydrogenase is very high, being able 
+to oxidise more than 3,000 nmoles of NADH/min/mg of protein. The results 
+obtained indicate that Don Q cells, in addition to a decreased ability to 
+synthesise UDP-glucose, have an impairment in the respiratory chain. Such an 
+impairment could be correlated to the increased capacity to generate a higher 
+amount of reducing equivalents through the glycolytic activity, which can then 
+be utilised for the synthesis of fatty acids stored in lipid droplets.

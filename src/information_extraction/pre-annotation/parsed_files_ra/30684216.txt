@@ -1,0 +1,23 @@
+TSH receptor (TSHR) autoantibody (TRAb) is the serological hallmark of Graves' 
+disease (GD). Third-generation enzyme-linked immunosorbent assays (ELISAs) using 
+monoclonal TRAbs instead of TSH have been found useful for TRAb analysis 
+recently. For the first time, a mouse monoclonal antibody (mAb) against TSHR was 
+analyzed for TRAb detection and compared with human mAb M22 and TSH by the same 
+competitive binding assay technique. A mouse monoclonal antibody (T7) binding to 
+the TSH receptor and inhibiting TSH binding was generated and used for TRAb 
+analysis in a third-generation ELISA. Obtained TRAb levels were compared with a 
+second-generation TRAb assay employing bovine TSH and a third-generation assay 
+with human mAb M22 as TSHR-binding reagents by investigating 89 patients with 
+GD, 56 with Hashimoto's thyroiditis (HT), 73 with non-autoimmune thyroid 
+diseases, 17 with rheumatoid arthritis, and 100 healthy subjects. The T7-based 
+TRAb ELISA did not reveal a significantly different assay performance (area 
+under the curve [AUC]) in contrast to the TSH and M22-based TRAb ELISAs by 
+receiver operating characteristic (ROC) curve analysis (AUC-T7 0.967, AUC-TSH 
+0.972, AUC-M22 0.958, p > 0.05, respectively). After adjustment of cutoffs by 
+ROC, all three TRAb ELISAs demonstrated sensitivities and specificities above 
+89.9% and 96.0%, respectively. Both third-generation TRAb ELISAs showed a 
+tendency for a higher prevalence of TRAb positives in HT in contrast to the 
+second-generation ELISA. Mouse mAbs against the TSHR may be used for the 
+reliable detection of TRAb by third-generation TRAb ELISA. The earlier reported 
+higher sensitivity of third-generation TRAb ELISA in GD needs to be considered 
+in the context of a slightly lower specificity regarding HT.

@@ -1,0 +1,27 @@
+OBJECTIVE: It has been reported that ADAMTS-12 is a susceptibility gene for 
+rheumatoid arthritis (RA) development, and its level is significantly increased 
+in RA patients. In addition, ADAMTS-12 is reported to be required for 
+inflammation in otherwise healthy subjects. This study was undertaken to 
+determine the role of ADAMTS-12 and the underlying mechanisms in the 
+pathogenesis of inflammatory arthritis.
+METHODS: The collagen-induced arthritis (CIA) model was established in 
+ADAMTS-12-deficient mice and their control littermates to determine the role of 
+ADAMTS-12 in vivo. Micro-computed tomography scanning was used to demonstrate 
+the destruction of the ankle joint; histologic analysis illustrated synovitis, 
+pannus formation, and bone and cartilage destruction; enzyme-linked 
+immunosorbent assay was performed to measure serum levels of inflammatory 
+cytokines; and protein-protein interaction assays were performed to detect the 
+interactions of ADAMTS-12 and its various deletion mutants with connective 
+tissue growth factor (CTGF).
+RESULTS: Deficiency of ADAMTS-12 led to accelerated inflammatory arthritis in 
+the CIA mouse model. Loss of ADAMTS-12 caused enhanced osteoclastogenesis. In 
+vitro and in vivo protein-protein interaction assays demonstrated that ADAMTS-12 
+bound and processed CTGF, a previously unrecognized substrate of ADAMTS-12. In 
+addition, deletion of ADAMTS-12 enhanced, while overexpression of ADMATS-12 
+reduced, CTGF-mediated inflammation. Furthermore, ADAMTS-12 regulation of 
+inflammation was largely lost in CTGF-deficient macrophages. Importantly, 
+blocking of CTGF attenuated elevated inflammatory arthritis seen in the 
+ADAMTS-12-deficient CIA mouse model.
+CONCLUSION: This study provides evidence that ADAMTS-12 is a critical regulator 
+of inflammatory arthritis and that this is mediated, at least in part, through 
+control of CTGF turnover.

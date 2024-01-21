@@ -1,0 +1,19 @@
+Commonly used antibiotics were compared for their ability to induce Clostridium 
+difficile enterocecitis and death in hamsters. Susceptibility to infection with 
+C. difficile was measured by calculating 50% lethal doses (in CFU) for hamsters 
+for various intervals after antibiotic treatment. Infection occurred after very 
+small doses of C. difficile were given to hamsters treated with clindamycin, 
+ampicillin, flucloxacillin, and cefuroxime; there was little difference between 
+the antibiotics in the degree of susceptibility that they induced. A large 
+difference in the duration of susceptibility was observed, however, with 
+susceptibility being temporary following ampicillin, flucloxacillin, and 
+cefuroxime administration but long-lived following clindamycin administration. A 
+larger dose of ampicillin, multiple doses of ampicillin, and a combination of 
+antibiotics had comparatively small effects on the duration of susceptibility. 
+C. difficile growth and toxin production in in vitro suspensions of cecal 
+contents were found to correlate closely with in vivo hamster infectivity. A 
+persisting loss of colonization resistance following antibiotic treatment may be 
+a type of postantibiotic effect. Although these results cannot be applied 
+directly to humans, they suggest lines of further investigation into how 
+antibiotics may differ in producing risks of C. difficile infection and 
+pseudomembranous colitis in patients.

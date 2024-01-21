@@ -1,0 +1,23 @@
+Tetrandrine is an alkaloid constituent of the root of Stephania tetrandra S. 
+Moore. The long-term clinical uses of tetrandrine for treatments of rheumatalgia 
+and arthralgia as well as the inhibition of rat adjuvant-induced arthritis imply 
+that tetrandrine may have therapeutic potential in rheumatoid arthritis (RA). 
+Here, we explored its anti-RA mechanism in collagen-induced arthritis (CIA) in 
+relation to the balance between T helper (Th) 17 cells and regulatory T (Treg) 
+cells. DBA/1 mice were immunized with chicken type II collagen and were orally 
+administered tetrandrine for 14 consecutive days. Then, the mice were 
+sacrificed, their joints were removed for histological analysis, and spleens and 
+mesenteric lymph nodes (MLNs) were removed to examine the Th17 and Treg cells. 
+Tetrandrine markedly alleviated the severity of arthritis, reduced the serum 
+levels of pro-inflammatory cytokines, and restored the Th17/Treg balance, as 
+demonstrated by the serum levels of their related cytokines (IL-17 and IL-10) 
+and the proportion of each cell type. Tetrandrine inhibited Th17 cell 
+differentiation and induced Treg cell differentiation in vitro . Notably, aryl 
+hydrocarbon receptor (AhR) was proven to play a crucial role in 
+tetrandrine-mediated T cell differentiation. The correlation between AhR 
+activation, regulation of Th17/Treg and amelioration of arthritis by tetrandrine 
+was verified in the CIA mice. Moreover, tetrandrine might be a ligand of AhR 
+because it facilitated the expression of the AhR target gene cytochrome P450 1A1 
+(CYP1A1) and the activation of its downstream signaling pathways. Taken 
+together, tetrandrine exerts its anti-arthritis efficacy by restoring Th17/Treg 
+balance via AhR.

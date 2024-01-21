@@ -1,0 +1,22 @@
+Increased risk of bone fractures is observed in patients with chronic 
+inflammatory conditions, such as inflammatory bowel disease and rheumatoid 
+arthritis. Members of the Interferon Response Factor family of transcriptional 
+regulators, IRF1 and IRF8, have been identified as genetic risk factors for 
+several chronic inflammatory and autoimmune diseases. We have investigated a 
+potential role for the Irf1 gene in bone metabolism. Here, we report that 
+Irf1(-/-) mutant mice show altered bone morphology in association with altered 
+trabecular bone architecture and increased cortical thickness and cellularity. 
+Ex vivo studies on cells derived from bone marrow stimulated with Rank ligand 
+revealed an increase in size and resorptive activity of tartrate-resistant 
+acid-positive cells from Irf1(-/-) mutant mice compared with wild-type control 
+mice. Irf1 deficiency was also associated with decreased proliferation of bone 
+marrow-derived osteoblast precursors ex vivo, concomitant with increased 
+mineralization activity compared with control cells. We show that Irf1 plays a 
+role in bone metabolism and suggest that Irf1 regulates the maturation and 
+activity of osteoclasts and osteoblasts. The altered bone phenotype of Irf1(-/-) 
+mutants is strikingly similar to that of Stat1(-/-) mice, suggesting that the 
+two interacting proteins play a critical enabling role in the common regulation 
+of these two cell lineages.
+
+© 2014 The Authors. Journal of Cellular and Molecular Medicine published by John 
+Wiley & Sons Ltd and Foundation for Cellular and Molecular Medicine.

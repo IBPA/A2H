@@ -1,0 +1,15 @@
+With the clinical success of CTLA-4 and PD-1 blockade in treating malignancies, 
+there is tremendous interest in finding new ways to augment antitumor responses 
+by targeting other inhibitory molecules. In this review, we describe one such 
+molecule. B7-H4, a member of the B7 family of immunoregulatory proteins, 
+inhibits T cell proliferation and cytokine production through ligation of an 
+unknown receptor expressed by activated T cells. Notably, B7-H4 protein 
+expression is observed in a high proportion of patients' tumors across a wide 
+variety of malignancies. This high expression by tumors in combination with its 
+low or absent protein expression in normal tissues makes B7-H4 an attractive 
+immunotherapeutic target. Preclinical investigation into B7-H4-specific chimeric 
+antigen receptor (CAR) T cells, antibody-mediated blockade of B7-H4, and 
+anti-B7-H4 drug conjugates has shown antitumor efficacy in mouse models. The 
+first clinical trials have been completed to assess the safety and efficacy of a 
+B7-H4 fusion protein in ameliorating rheumatoid arthritis. Clin Cancer Res; 
+23(12); 2934-41. ©2017 AACR.

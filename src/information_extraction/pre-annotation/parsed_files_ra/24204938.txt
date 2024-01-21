@@ -1,0 +1,26 @@
+OBJECTIVE: Tolerogenic dendritic cells (tDCs) are immunosuppressive cells with 
+potent tolerogenic ability and are promising immunotherapeutic tools for 
+treating rheumatoid arthritis (RA). However, it is currently unknown whether 
+allogeneic tDCs (allo-tDCs) induce tolerance in RA, and whether the numbers of 
+adoptively transferred allo-tDCs, or the requirement for pulsing with relevant 
+auto-antigens are important.
+METHODS: tDCs were derived from bone marrow precursors of C57BL/B6 mice, which 
+were induced in vitro by GM-CSF, IL-10 and TGF-β1. Collagen-induced arthritis 
+(CIA) was modeled in D1 mice by immunization with type II collagen (CII) to test 
+the therapeutic ability of allo-tDCs against CIA. Clinical and histopathologic 
+scores, arthritic incidence, cytokine and anti-CII antibody secretion, and 
+CD4(+)Th subsets were analyzed.
+RESULTS: tDCs were characterized in vitro by a stable immature phonotype and a 
+potent immunosuppressive ability. Following adoptive transfer of low doses 
+(5×10(5)) of CII-loaded allo-tDCs, a remarkable anti-arthritic activity, 
+improved clinical scores and histological end-points were found. Serological 
+levels of inflammatory cytokines and anti-CII antibodies were also significantly 
+lower in CIA mice treated with CII-pulsed allo-tDCs as compared with allo-tDCs. 
+Moreover, treatment with allo-tDCs altered the proportion of Treg/Th17 cells.
+CONCLUSION: These findings suggested that allo-tDCs, especially following 
+antigen loading, reduced the severity of CIA in a dose-dependent manner. The 
+dampening of CIA was associated with modulated cytokine secretion, Treg/Th17 
+polarization and inhibition of anti-CII secretion. This study highlights the 
+potential therapeutic utility of allo-tDCs in autoimmune arthritis and should 
+facilitate the future design of allo-tDC immunotherapeutic strategies against 
+RA.

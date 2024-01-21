@@ -1,0 +1,24 @@
+Osteoclasts are responsible for physiological bone remodeling as well as 
+pathological bone destruction in osteoporosis, periodontitis and rheumatoid 
+arthritis, and thus represent a pharmacological target for drug development. We 
+aimed to characterize and compare the cytokine-induced osteoclastogenesis of 
+bone marrow and spleen precursors. Established protocols used to generate 
+osteoclasts from bone marrow were modified to examine osteoclastogenesis of the 
+spleen cells of healthy mice. Osteoclast formation was successfully induced from 
+spleen precursors using receptor activator of nuclear factor κB ligand 
+(50 ng/ml) and macrophage colony stimulating factor (50 ng/ml). Compared to bone 
+marrow cultures, differentiation from spleen required a longer cultivation time 
+(9 days for spleen, as compared to 5 days for marrow cultures) and a higher 
+plating density of non-adherent cells (75,000/cm(2) for spleen, as compared to 
+50,000/cm(2) for bone marrow). Osteoclasts generated from spleen precursors 
+expressed osteoclast marker genes calcitonin receptor, cathepsin K and matrix 
+metalloproteinase 9 and were capable of resorbing hydroxyapatite. The 
+differentiation capacity of spleen and bone marrow precursors was comparable for 
+BALB/c, C57BL/6 and FVB mice. We also developed and tested a cryopreservation 
+protocol for the osteoclast precursors. While 70-80 % of cells were lost during 
+the first week of freezing, during the subsequent 5 weeks the losses were within 
+2-5 % per week. Osteoclastogenesis from the recovered bone marrow precursors was 
+successful up to 5 weeks after freezing. Spleen precursors retained their 
+osteoclastogenic capacity for 1 week after freezing, but not thereafter. The 
+described protocol is useful for the studies of genetically modified animals as 
+well as for screening new osteoclast-targeting therapeutics.

@@ -1,0 +1,15 @@
+Clostridium difficile causes increasing numbers of life-threatening intestinal 
+infections. Symptoms associated with C. difficile infection (CDI) are mediated 
+by secreted protein toxins, whose virulence is modulated by intracellular 
+auto-proteolysis following allosteric activation of their protease domains by 
+inositol hexakisphosphate (IP6). Here, we explore the possibility of 
+inactivating the C. difficile toxin B (TcdB) by triggering its auto-proteolysis 
+in the gut lumen prior to cell uptake using gain-of-function small molecules. We 
+anticipated that high calcium concentrations typically found in the gut would 
+strongly chelate IP6, precluding it from pre-emptively inducing toxin 
+auto-proteolysis if administered exogenously. We therefore designed IP6 analogs 
+with reduced susceptibility to complexation by calcium, which maintained 
+allosteric activity at physiological calcium concentrations. We found that oral 
+administration of IP6 analogs attenuated inflammation and promoted survival in 
+mouse models of CDI. Our data provide impetus to further develop small-molecule 
+allosteric triggers of toxin auto-proteolysis as a therapeutic strategy.

@@ -1,0 +1,32 @@
+BACKGROUND: Scents and odours characterize some microbes when grown in the 
+laboratory, and experienced clinicians can diagnose patients with some 
+infectious diseases based on their smell. Animal sniffing is an innate 
+behaviour, and animals' olfactory acuity is used for detecting people, weapons, 
+bombs, narcotics and food.
+OBJECTIVES: We briefly summarized current knowledge regarding the use of 
+sniffing animals to diagnose some infectious diseases and the potential use of 
+scent-based diagnostic instruments in microbiology.
+SOURCES: Information was sought through PubMed and extracted from peer-reviewed 
+literature published between January 2000 and September 2019 and from reliable 
+online news. The search terms 'odour', 'scent', 'bacteria', 'diagnostics', 
+'tuberculosis', 'malaria' and 'volatile compounds' were used.
+CONTENT: Four major areas of using sniffing animals are summarized. Dogs have 
+been used to reliably detect stool associated with toxigenic Clostridioides 
+difficile and for surveillance. Dogs showed high sensitivity and moderate 
+specificity for detecting urinary tract infections in comparison to culture, 
+especially for Escherichia coli. African giant pouched rats showed superiority 
+for diagnosing tuberculosis over microscopy, but inferiority to 
+culture/molecular methods. Several approaches for detecting malaria by analysing 
+host skin odour or exhaled breath have been explored successfully. Some 
+microbial infections produce specific volatile organic compounds (VOCs), which 
+can be analysed by spectrometry, metabolomics or other analytical approaches to 
+replace animal sniffing.
+IMPLICATIONS: The results of sniffing animal studies are fascinating, and animal 
+sniffing can provide intermediate diagnostic solutions for some infectious 
+diseases. Lack of reproducibility, and cost of animal training and housing are 
+major drawbacks for wider implementation of sniffing animals. The ultimate goal 
+is to understand the biological background of this animal ability and to 
+characterize the specific VOCs that animals are recognizing. VOC identification, 
+improvement of odour sampling methods and development of point-of-care 
+instruments could allow implementation of scent-based tests for major human 
+pathogens.

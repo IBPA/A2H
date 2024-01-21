@@ -1,0 +1,23 @@
+The invasive properties of fibroblast-like synoviocytes (FLS) correlate with 
+radiographic and histologic damage in rheumatoid arthritis (RA) and 
+pristane-induced arthritis (PIA). We previously determined that highly invasive 
+FLS obtained from PIA-susceptible DA (blood type D, Agouti) rats have increased 
+expression of genes associated with invasive cancers, including Villin-2/ezrin. 
+Villin-2/ezrin mediates invasion via mTOR. In the present study we used the mTOR 
+inhibitor rapamycin to assess the role of the ezrin-mTOR pathway on the invasive 
+properties of FLS. FLS were isolated from synovial tissues from arthritic DA 
+rats, and from RA patients. FLS were treated with rapamycin or dimethyl 
+sulfoxide (DMSO) for 24 h and then studied in a Matrigel-invasion assay. 
+Supernatants were assayed for matrix metalloproteinase (MMP) activity, and cell 
+lysates were used for quantification of mTOR, p70S6K1, 4EBP1 and FAK, as well as 
+their respective phosphorylated subsets. Actin filament and FAK localization 
+were determined by immunofluorescence. Rapamycin decreased FLS invasion in DA 
+and RA tissues by 93% and 82%, respectively. Rapamycin treatment reduced the 
+phosphorylation of mTOR and its substrates, p70S6K1 and 4EBP1, confirming mTOR 
+inhibition. In conclusion, rapamycin prevented actin reorganization in both DA 
+and RA FLS, and inhibited the directional formation of lamellipodia. 
+Phosphorylation of the lamellipodia marker FAK was also reduced by rapamycin. 
+MMPs were not significantly affected by rapamycin. Rapamycin significantly 
+reduced RA and DA rat FLS invasion via the suppression of the mTOR signaling 
+pathway. This discovery suggests that rapamycin could have a role in RA therapy 
+aimed at reducing the articular damage and erosive changes mediated by FLS.

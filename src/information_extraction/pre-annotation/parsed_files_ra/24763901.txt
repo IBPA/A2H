@@ -1,0 +1,26 @@
+Interleukin (IL)-20 is a proinflammatory cytokine of the IL-10 family and 
+involved in rheumatoid arthritis, atherosclerosis, stroke, and osteoporosis. 
+However, the pathophysiological roles of IL-20 in liver injury have not been 
+extensively studied. We explored the involvement of IL-20 in liver injury and 
+the therapeutic potential of IL-20 antagonists for treating liver fibrosis. 
+Compared with normal liver tissue from healthy individuals, the amount of IL-20 
+was much higher in hepatocytes and hepatic stellate cells in liver biopsies from 
+patients with fibrosis, cirrhosis, and hepatocellular carcinoma. Carbon 
+tetrachloride (CCl4) treatment induced IL-20 that further up-regulated the 
+expression of transforming growth factor (TGF)-β1 and p21(WAF1) and resulted in 
+cell cycle arrest in the Clone-9 rat hepatocyte cell line. IL-20 activated 
+quiescent rat hepatic stellate cells (HSCs) and up-regulated TGF-β1 expression. 
+IL-20 also increased TGF-β1, tumor necrosis factor (TNF)-α, and type I collagen 
+(Col-I) expression, and promoted the proliferation and migration of activated 
+HSCs. Serum IL-20 was significantly elevated in mice with short-term and 
+long-term CCl4 -induced liver injury. In mice with short-term liver injury, 
+anti-IL-20 monoclonal antibody (7E) and anti-IL-20 receptor (IL-20R1) monoclonal 
+antibody (51D) attenuated hepatocyte damage caused by CCl4, TGF-β1, and 
+chemokine production. In mice with long-term liver injury, 7E and 51D inhibited 
+CCl4 -induced cell damage, TGF-β1 production, liver fibrosis, HSC activation, 
+and extracellular matrix accumulation, which was caused by the reduced 
+expression of tissue inhibitors of metalloproteinases as well as increased 
+metalloproteinase expression and Col-I production. IL-20R1-deficient mice were 
+protected from short-term and long-term liver injury.
+CONCLUSION: We identified a pivotal role of IL-20 in liver injury and showed 
+that 7E and 51D may be therapeutic for liver fibrosis.

@@ -1,0 +1,24 @@
+INTRODUCTION: Rheumatoid arthritis (RA) is a chronic autoimmune disease 
+characterized by synovial hyperplasia and progressive cartilage and bone 
+destruction that leads to a substantial loss of general functions and/or a 
+decline in physical activities such as walking speed in humans. The K/BxN serum 
+transfer arthritis in mice shares many immunological and pathological features 
+with human RA. Very few studies are available in mice that investigate the 
+changes in physical activity in relation to arthritis development. In this study 
+we investigate the effect of arthritis on the locomotor activity of mice during 
+K/BxN sera transfer arthritis.
+METHODS: Arthritis was induced in Balb/c mice by injecting intraperitoneally 
+with 200ul of K/BxN sera; Balb/c mice injected with phosphate buffered saline 
+(PBS) served as control. Progress of arthritis was estimated by daily 
+measurements of joint thickness. Each mouse's locomotor activity (travel 
+distance and travel time) was assessed every day for duration of 20 minute 
+period using the SmartCage™ platform. Data were analyzed using the SmartCage™ 
+analysis software (CageScore™).
+RESULTS: Arthritic Balb/c mice showed a reduction in distance covered and travel 
+speed when compared to arthritis-free, control Balb/c mice. Maximum decline in 
+locomotor activity was observed during the peak period of the disease and 
+correlated to the increase in joint thickness in the arthritic mice.
+CONCLUSION: This report demonstrates that measuring locomotor activity of mice 
+during progression of K/BxN sera-induced arthritis using the SmartCage™ platform 
+offers a quantitative method to assess physical activity in mice during 
+arthritis.

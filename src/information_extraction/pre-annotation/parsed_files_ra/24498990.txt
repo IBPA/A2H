@@ -1,0 +1,21 @@
+OBJECTIVES: To evaluate the therapeutic efficacy of a novel inhibitor for IκB 
+kinase alpha (IKKα), noraristeromycin (NAM), for murine experimental model of 
+rheumatoid arthritis, collagen- induced arthritis (CIA).
+METHODS: NAM has been chemically synthesized as reported earlier. CIA was 
+induced in DBA/1JNCrlj mice by intradermal inoculation of bovine type II 
+collagen (col II) together with Freund Complete Adjuvant. Following the Day 21 
+booster injection of col II with Freund Incomplete Adjuvant, the animals were 
+monitored for the development of arthritis and clinically evaluated. NAM was 
+administered orally at different doses prior to induction (prophylactic 
+protocol) or after the emergence of definitive arthritis (therapeutic protocol).
+RESULTS: Here we demonstrate the experimental evidence that oral administration 
+of NAM could completely prevent the occurrence of experimental arthritis in CIA 
+mouse model at 0.3 mg/kg with ED50 value of approximately 0.1 mg/kg twice daily. 
+Moreover, twice daily oral therapeutic dosage of 1 mg/kg of NAM significantly 
+inhibited the paw swelling and disease progression even after the occurrence of 
+experimental CIA. In addition, NAM exhibited an excellent pharmacokinetics in 
+mice and oral administration of NAM could suppress the production of TNFα 
+elicited by lipopolysaccharide (LPS) in a dose-dependent manner.
+CONCLUSIONS: These results indicated that IKKα inhibition is an effective novel 
+therapy for the treatment of chronic inflammatory processes such as those 
+associated with RA and other related conditions.

@@ -1,0 +1,22 @@
+Chemokines, including RANTES/CCL5 and MCP-1/CCL2, are highly expressed in the 
+joints of patients with rheumatoid arthritis, and they promote leukocyte 
+migration into the synovial tissue. This study was conducted to determine 
+whether the inhibition of RANTES and MCP-1 therapeutically was capable of 
+ameliorating rat of adjuvant-induced arthritis (AIA). Postonset treatment of AIA 
+using a novel inhibitor for endogenous MCP-1 (P8A-MCP-1) improved clinical signs 
+of arthritis and histological scores measuring joint destruction, synovial 
+lining, macrophage infiltration, and bone erosion. Using immunohistochemistry, 
+ELISA, real-time RT-PCR, and Western blot analysis, we defined joint 
+inflammation, bony erosion, monocyte migration, proinflammatory cytokines, and 
+bone markers, and p-p38 levels were reduced in rat AIA treated with P8A-MCP-1. 
+In contrast, neither the dominant-negative inhibitor for endogenous RANTES 
+(44AANA47-RANTES) nor the CCR1/CCR5 receptor antagonist, methionylated-RANTES, 
+had an effect on clinical signs of arthritis when administered after disease 
+onset. Additionally, therapy with the combination of 44AANA47-RANTES plus 
+P8A-MCP-1 did not ameliorate AIA beyond the effect observed using P8A-MCP-1 
+alone. Treatment with P8A-MCP-1 reduced joint TNF-alpha, IL-1beta, and vascular 
+endothelial growth factor levels. P8A-MCP-1 also decreased p38 MAPK activation 
+in the joint. Our results indicate that inhibition of MCP-1 with P8A-MCP-1 after 
+the onset of clinically detectable disease ameliorates AIA and decreases 
+macrophage accumulation, cytokine expression, and p38 MAPK activation within the 
+joint.

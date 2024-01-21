@@ -1,0 +1,26 @@
+Rheumatoid arthritis (RA) is a systemic autoimmune disease with unknown etiology 
+where tumor necrosis factor-α (TNFα) plays a critical role. Etanercept, a 
+recombinant fusion protein of human soluble tumor necrosis factor receptor II 
+(hsTNFR) linked to the Fc portion of human IgG1, is used to treat RA based on 
+the rationale that sTNFR binds TNFα and blocks TNFα-mediated inflammation. We 
+compared hsTNFR protein delivery from genetically engineered human mesenchymal 
+stem cells (hMSCs) with etanercept. Blocking TNFα-dependent intercellular 
+adhesion molecule-1 expression on transduced hMSCs and inhibition of nitric 
+oxide production from TNFα-treated bovine chondrocytes by conditioned culture 
+media from transduced hMSCs demonstrated the functionality of the hsTNFR 
+construction. Implanted hsTNFR-transduced mesenchymal stem cells (MSCs) reduced 
+mouse serum circulating TNFα generated from either implanted TNFα-expressing 
+cells or lipopolysaccharide induction more effectively than etanercept (TNFα, 
+100%; interleukin [IL]-1α, 90%; and IL-6, 60% within 6 hours), suggesting faster 
+clearance of the soluble tumor necrosis factor receptor (sTNFR)-TNFα complex 
+from the animals. In vivo efficacy of sTNFR-transduced MSCs was illustrated in 
+two (immune-deficient and immune-competent) arthritic rodent models. In the 
+antibody-induced arthritis BalbC/SCID mouse model, intramuscular injection of 
+hsTNFR-transduced hMSCs reduced joint inflammation by 90% compared with 
+untransduced hMSCs; in the collagen-induced arthritis Fischer rat model, both 
+sTNFR-transduced rat MSCs and etanercept inhibited joint inflammation by 30%. In 
+vitro chondrogenesis assays showed the ability of TNFα and IL1α, but not 
+interferon γ, to inhibit hMSC differentiation to chondrocytes, illustrating an 
+additional negative role for inflammatory cytokines in joint repair. The data 
+support the utility of hMSCs as therapeutic gene delivery vehicles and their 
+potential to be used in alleviating inflammation within the arthritic joint.

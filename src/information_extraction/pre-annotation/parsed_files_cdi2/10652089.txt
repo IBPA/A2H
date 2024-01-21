@@ -1,0 +1,25 @@
+Enterohaemorrhagic Escherichia coli (EHEC) are food-borne intestinal pathogens 
+with a low infectious dose. Adhesion of some EHEC strains to epithelial cells is 
+attributed, in part, to intimin, but other factors may be required for the 
+intestinal colonizing ability of these bacteria. In order to identify additional 
+adherence factors of EHEC, we generated transposon mutants of a clinical EHEC 
+isolate of serotype O111:H-, which displayed high levels of adherence to 
+cultured Chinese hamster ovary (CHO) cells. One mutant was markedly deficient in 
+CHO cell adherence, human red blood cell agglutination and autoaggregation. 
+Sequence analysis of the gene disrupted in this mutant revealed a 9669 bp novel 
+chromosomal open reading frame (ORF), which was designated efa1, for EHEC factor 
+for adherence. efa1 displayed 28% amino acid identity with the predicted product 
+of a recently described ORF from the haemolysin-encoding plasmid of EHEC 
+O157:H7. The amino termini of the putative products of these two genes exhibit 
+up to 38% amino acid similarity to Clostridium difficile toxins A and B. efa1 
+occurred within a novel genetic locus, at least 15 kb in length, which featured 
+a low G+C content, several insertion sequence homologues and a homologue of the 
+Shigella flexneri enterotoxin ShET2. DNA probes prepared from different regions 
+of efa1 hybridized with all of 116 strains of attaching-effacing E. coli (AEEC) 
+of a variety of serotypes, including enteropathogenic E. coli (EPEC) and EHEC, 
+but with none of 91 non-AEEC strains. Nevertheless, efa1 was not required for 
+the attachment-effacement phenotype, and the efa1 locus was not physically 
+linked to the locus for enterocyte effacement (LEE) pathogenicity island, which 
+is responsible for this phenotype in EPEC. These findings suggest that efa1 
+encodes a novel virulence-associated determinant of AEEC, which contributes to 
+the adhesive capacity of these bacteria.

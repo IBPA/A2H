@@ -1,0 +1,22 @@
+Clostridium difficile is the causative agent of primary and recurrent 
+antibiotic-associated diarrhea and colitis in hospitalized patients. The disease 
+is caused mainly by two exotoxins, TcdA and TcdB, produced by the bacteria. 
+Recurrent C. difficile infection (CDI) constitutes one of the most significant 
+clinical issues of this disease, occurs in more than 20% of patients after the 
+first episode, and may be increasing in frequency. However, there is no 
+well-established animal model of CDI relapse currently available for studying 
+disease pathogenesis, prevention, and therapy. Here we report the establishment 
+of a conventional mouse model of recurrence/relapse CDI. We found that the 
+primary episode of CDI induced little or no protective antibody response against 
+C. difficile toxins and mice continued shedding C. difficile spores. Antibiotic 
+treatment of surviving mice induced a second episode of diarrhea, while a 
+simultaneous reexposure of animals to C. difficile bacteria or spores elicited a 
+full spectrum of CDI similar to that of the primary infection. Moreover, mice 
+treated with immunosuppressive agents were prone to more severe and fulminant 
+recurrent disease. Finally, utilizing this model, we demonstrated that 
+vancomycin only delayed disease recurrence, whereas neutralizing polysera 
+against both TcdA and TcdB completely protected mice against CDI relapse. In 
+conclusion, we have established a mouse relapse CDI model that allows for future 
+investigations of the role of the host immune response in the disease's 
+pathogenesis and permits critical testing of new therapeutics targeting 
+recurrent disease.

@@ -1,0 +1,14 @@
+Rheumatoid arthritis (RA) significantly affects quality of life. We recently 
+cloned synoviolin, a RING-type E3 ubiquitin ligase implicated in the endoplasmic 
+reticulum-associated degradation (ERAD) pathway. Synoviolin is highly expressed 
+in rheumatoid synovial cells and may be involved in the pathogenesis of RA. 
+Inhibition of synoviolin activity is a potentially useful therapeutic approach 
+for the treatment of RA. We conducted a high-throughput screen of small 
+molecules to find inhibitors of synoviolin autoubiquitination activity. We 
+identified two classes of small molecules, named LS-101 and LS-102, which 
+inhibited synoviolin activity. LS-102 selectively inhibited synoviolin enzymatic 
+activity, while LS-101 inhibited a broad array of RING-type E3 ligases. 
+Moreover, these inhibitors suppressed the proliferation of rheumatoid synovial 
+cells, and significantly reduced the severity of disease in a mouse model of RA. 
+Our results suggest that inhibition of synoviolin is a potentially useful 
+approach in the treatment of RA.

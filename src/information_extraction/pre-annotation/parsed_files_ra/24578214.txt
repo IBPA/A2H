@@ -1,0 +1,27 @@
+OBJECTIVE: Changes in polyamine-modulated factor 1 (PMF-1) promoter methylation 
+might favor the expression of spermidine/spermine N1-acetyltransferase 1 
+(SSAT-1), causing excessive consumption of S-adenosyl methionine (SAM). This 
+study was undertaken to evaluate the effect of SSAT-1 activity inhibition, 
+either alone or in combination with SAM.
+METHODS: Synovial fibroblasts were isolated from patients with rheumatoid 
+arthritis (RA) or osteoarthritis (OA). PMF-1 promoter methylation was determined 
+by pyrosequencing. Small interfering RNAs (siRNAs) against SSAT-1 were 
+transfected weekly in RA synovial fibroblasts (RASFs). In addition, synovial 
+fibroblasts were treated with diminazene aceturate (DA), an inhibitor of SSAT-1. 
+SSAT-1, 5-methylcytosine (5-MeC), adenosyl methionine decarboxylase (AMD), 
+PMF-1, DNA methyltransferase 1 (DNMT-1), CXCL12, β1 integrin, and CD44 levels 
+were measured by flow cytometry. Putrescine levels were determined by 
+colorimetry. Levels of matrix metalloproteinases were measured by enzyme-linked 
+immunosorbent assay. Cell adhesion was tested. The SCID mouse model of RA was 
+used to monitor the invasiveness of RASFs.
+RESULTS: RASFs showed elevated SSAT-1, AMD, and PMF-1 levels. However, PMF-1 
+promoter methylation was unchanged. Transfection of siRNA targeting SSAT-1 
+increased 5-MeC levels within 21 days. Similarly, DA increased 5-MeC levels in 
+RASFs. In addition, DA increased the levels of DNMT-1, decreased the levels of 
+AMD, putrescine, activation markers, and MMP-1, and altered the adhesion of 
+RASFs. DA was more efficient in RASFs with higher levels of SSAT-1. Most 
+interestingly, the combination of DA and SAM reduced the invasiveness of RASFs 
+by 70%.
+CONCLUSION: The use of DA alone or in combination with SAM/L-methionine might 
+introduce a new therapeutic concept in RA. This is the first therapy that would 
+directly target RASFs and thereby inhibit ongoing joint destruction.

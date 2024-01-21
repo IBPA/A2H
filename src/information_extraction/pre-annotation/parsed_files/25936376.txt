@@ -1,0 +1,22 @@
+Clostridium difficile is a leading cause of death from gastrointestinal 
+infections in North America. Antibiotic therapy is effective, but the high 
+incidence of relapse and the rise in hypervirulent strains warrant the search 
+for novel treatments. Surface layer proteins (SLPs) cover the entire C. 
+difficile bacterial surface, are composed of high-molecular-weight (HMW) and 
+low-molecular-weight (LMW) subunits, and mediate adherence to host cells. 
+Passive and active immunization against SLPs has enhanced hamster survival, 
+suggesting that antibody-mediated neutralization may be an effective therapeutic 
+strategy. Here, we isolated a panel of SLP-specific single-domain antibodies 
+(VHHs) using an immune llama phage display library and SLPs isolated from C. 
+difficile hypervirulent strain QCD-32g58 (027 ribotype) as a target antigen. 
+Binding studies revealed a number of VHHs that bound QCD-32g58 SLPs with high 
+affinity (K D = 3-6 nM) and targeted epitopes located on the LMW subunit of the 
+SLP. The VHHs demonstrated melting temperatures as high as 75 °C, and a few were 
+resistant to the gastrointestinal protease pepsin at physiologically relevant 
+concentrations. In addition, we demonstrated the binding specificity of the VHHs 
+to the major C. difficile ribotypes by whole cell ELISA, where all VHHs were 
+found to bind 001 and 027 ribotypes, and a subset of antibodies were found to be 
+broadly cross-reactive in binding cells representative of 012, 017, 023, and 078 
+ribotypes. Finally, we showed that several of the VHHs inhibited C. difficile 
+QCD-32g58 motility in vitro. Targeting SLPs with VHHs may be a viable 
+therapeutic approach against C. difficile-associated disease.

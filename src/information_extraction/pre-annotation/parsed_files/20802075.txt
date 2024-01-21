@@ -1,0 +1,19 @@
+Clostridium difficile is a major cause of antibiotic-associated diarrheal 
+disease in many parts of the world. In recent years, distinct genetic variants 
+of C. difficile that cause severe disease and persist within health care 
+settings have emerged. Highly resistant and infectious C. difficile spores are 
+proposed to be the main vectors of environmental persistence and host 
+transmission, so methods to accurately monitor spores and their inactivation are 
+urgently needed. Here we describe simple quantitative methods, based on purified 
+C. difficile spores and a murine transmission model, for evaluating health care 
+disinfection regimens. We demonstrate that disinfectants that contain strong 
+oxidizing active ingredients, such as hydrogen peroxide, are very effective in 
+inactivating pure spores and blocking spore-mediated transmission. Complete 
+inactivation of 10⁶ pure C. difficile spores on indicator strips, a six-log 
+reduction, and a standard measure of stringent disinfection regimens require at 
+least 5 min of exposure to hydrogen peroxide vapor (HPV; 400 ppm). In contrast, 
+a 1-min treatment with HPV was required to disinfect an environment that was 
+heavily contaminated with C. difficile spores (17 to 29 spores/cm²) and block 
+host transmission. Thus, pure C. difficile spores facilitate practical methods 
+for evaluating the efficacy of C. difficile spore disinfection regimens and 
+bringing scientific acumen to C. difficile infection control.

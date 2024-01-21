@@ -1,0 +1,22 @@
+Clostridium difficile is the main cause of antibiotic-associated disease, a 
+disease of high socio-economical importance that has recently been compounded by 
+the global spread of the 027 (BI/NAP1/027) ribotype. C. difficile cases 
+attributed to ribotype 027 strains have high recurrence rates (up to 36 %) and 
+increased disease severity. The hamster model of infection is widely accepted as 
+an appropriate model for studying aspects of C. difficile host-pathogen 
+interactions. Using this model we characterized the infection kinetics of the UK 
+2006 outbreak strain, R20291. Hamsters were orally given a dose of clindamycin, 
+followed 5 days later with 10, 000 C. difficile spores. All 100 % of the 
+hamsters succumbed to infection with a mean time to the clinical end point of 
+46.7 h. Colonization of the caecum and colon were observed 12 h post-infection 
+reaching a maximum of approximately 3×10(4) c.f.u. per organ, but spores were 
+not detected until 24 h post-infection. At 36 h post-infection C. difficile 
+numbers increased significantly to approximately 6×10(7) c.f.u. per organ where 
+numbers remained high until the clinical end point. Increasing levels of in vivo 
+toxin production coincided with increases in C. difficile numbers in organs 
+reaching a maximum at 36 h post-infection in the caecum. Epithelial destruction 
+and polymorphonuclear leukocyte (PMN) recruitment occurred early on during 
+infection (24 h) accumulating as gross microvilli damage, luminal PMN influx, 
+and blood associated with mucosal muscle and microvilli. These data describe the 
+fatal infection kinetics of the clinical UK epidemic C. difficile strain R20291 
+in the hamster infection model.

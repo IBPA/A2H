@@ -1,0 +1,19 @@
+Clostridium difficile causes mucosal damage and diarrhea by releasing two 
+exotoxins: toxin A and toxin B. C. difficile colitis is associated with 
+alterations in bowel flora and the failure to mount an effective antibody 
+response. The aim of the current study was to investigate whether antitoxin sera 
+prevent toxin-A-induced apoptosis, cytoskeletal disaggregation, cell detachment, 
+and tight junction loss in cultured colonic epithelial cells. Serum samples were 
+isolated from mice that survived a C. difficile infection following antibiotic 
+treatment, and the antitoxin effects of these samples were investigated in 
+toxin-A-exposed HT29 colonic epithelial cells and a toxin-A-induced animal model 
+of gut inflammation. Unchallenged mice did not produce IgG against toxin A, 
+whereas serum (antiserum) from C. difficile-challenged mice showed significant 
+IgG responses against toxin A. Treatment with the antiserum markedly inhibited 
+mucosal damage and inflammation in the toxin-A-treated mouse model. In contrast 
+to control mouse serum, the antiserum also markedly inhibited toxin-A-induced 
+DNA fragmentation, dephosphorylation of paxillin and Epo receptor (EpoR), 
+deacetylation of tubulin, and upregulation of p21(WAF1/CIP1) and p53. Taken 
+together, these results reveal that the generated antitoxin serum has 
+biotherapeutic effects in preventing various C. difficile toxin-A-induced 
+cellular toxicities.

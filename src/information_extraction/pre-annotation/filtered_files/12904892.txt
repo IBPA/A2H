@@ -1,0 +1,28 @@
+The hallmark of rheumatoid arthritis (RA) is progressive destruction of the 
+joints, preceded and accompanied by synovial hyperplasia and chronic 
+inflammation. Spontaneous and induced animal models of RA reflect predominantly 
+the inflammatory aspects of the disease. To reproduce the destruction of 
+cartilage and bone mediated by an activated synovium, it was desirable to 
+develop models that allow the dissection of cellular and molecular components 
+derived from human tissue. The SCID mouse co-implantation model of human RA 
+focuses on RA synovial fibroblasts (RA-SF) and their role in cartilage 
+destruction. The model has provided the best evidence that RA-SF contribute 
+significantly to matrix degradation, even in the absence of human lymphocytes 
+and macrophages, since highly purified RA-SF invade the co-implanted normal 
+human cartilage. Moreover, it became clear that they maintained their aggressive 
+phenotype over long periods of time, particularly at sites of invasion into the 
+co-implanted human cartilage. Targeting different signaling molecules, cytokines 
+and matrix-degrading enzymes by soluble receptors, antagonists or negative 
+mutants in the SCID mouse model of RA has implicated many of them in the 
+mechanisms leading to cartilage destruction. However, since inhibition of a 
+single molecule or pathway is not sufficient to inhibit the aggressive behavior 
+of RA-SF it appears necessary to co-express in the synoviocytes genes for two or 
+even more antagonists of e.g. cytokines, matrix-degrading enzymes or molecules 
+interfering specifically with signaling pathways involved in the apoptosis of 
+RA-SF. Based on the recent observation that the L1 (line-1) endogenous 
+retroviral element appears responsible for the cytokine- independent activation 
+via the MAPK p38delta, the current understanding of disease pathogenesis 
+suggests that both the cytokine-dependent as well as the cytokine-independent 
+pathways of joint destruction must be inhibited. Modulation of both pathways by 
+gene transfer approaches in the SCID mouse model is a feasible method aimed at 
+identifying novel targets for the prevention of cartilage destruction in RA.

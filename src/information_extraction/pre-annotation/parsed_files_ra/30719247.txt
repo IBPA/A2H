@@ -1,0 +1,25 @@
+INTRODUCTION: Rheumatoid Arthritis (RA) is a chronic autoimmune disease, which 
+is accompanied with pain, hyperalgesia, and edema. Overproduction of 
+pro-inflammatory cytokines and activation of intracellular signaling pathways 
+sustain the RA symptoms considerably. There is a strong correlation between the 
+expression of cytokines and opioid receptors in the arthritis process. Studies 
+have shown that probiotics via different pathways such as reducing the levels of 
+pro-inflammatory cytokines can alleviate inflammatory symptoms. Therefore, based 
+on the crucial role of cellular and humoral immunity in induction of RA symptoms 
+and potency of probiotics in modulation of immune responses, the purpose of this 
+study was to investigate the effect of orally administered probiotics on the 
+behavioral, cellular and molecular aspects of adjuvant-induced arthritis in male 
+Wistar rats.
+METHODS: Complete Freund's Adjuvant (CFA)-induced arthritis was caused by single 
+subcutaneous injection of CFA into the rat's hind paw on day 0. Different doses 
+of probiotics (1/250, 1/500 and 1/1000 [109 CFU/g]) were administered daily 
+(gavage) after CFA injection. Hyperalgesia, edema, serum IL-1β levels, μ-Opioid 
+Receptor (MOR) expression, and p38MAPK (Mitogen-Activated Protein Kinase) 
+activities were assessed on days 0, 7, 14 and 21 of the study.
+RESULTS: The results of this study indicated the efficacy of probiotics in 
+reducing hyperalgesia, edema, serum levels of Interleukin-1β, and p38MAPK 
+pathway activity during different phases of arthritis as well as increasing the 
+expression of MORs during chronic phase of CFA-induced arthritis.
+CONCLUSION: It seems that probiotics can effectively reduce inflammatory 
+symptoms by inhibiting the intracellular signaling pathway and cytokine 
+production.

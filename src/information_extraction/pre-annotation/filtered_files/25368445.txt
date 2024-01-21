@@ -1,0 +1,23 @@
+BACKGROUND AND AIMS: Rheumatoid arthritis (RA) is an auto-immune disease 
+afflicting multiple joints of the body, where as a result of the increase in 
+inflammatory cytokines and tissue destructive factors such as matrix 
+metalloproteinase (MMP)-3, deterioration of the bones and cartilages of the 
+joints occurs. The present investigation was carried out to study the 
+anti-inflammatory activities of light emitting diode (LED) irradiation on hind 
+paw inflammation in collagen-induced arthritis (CIA) mice models.
+MATERIALS AND METHOD: RA in the CIA mouse model was induced by immunization of 
+DBA/1J mice with intradermal injections of an emulsion of bovine type II 
+collagen and complete Freund's adjuvant. A total of 20 CIA mice were subdivided 
+into the following groups: control group, CIA group and 2 groups of LED 
+irradiated CIA mice (LED groups) (n=5 per group). The mouse knee joint area in 
+the LED groups (the 570 nm and 940 nm groups) was irradiated with LED energy, 
+three times a week for 500 s per session over 8 weeks at a dose of 5 J/cm(2). 
+The hind paw swelling was assessed by the increase in hind paw thickness. The 
+serum levels of the inflammatory cytokines and arthritic factor MMP-3 were 
+determined with an enzyme-linked immunosorbent assay (ELISA).
+RESULTS: In the LED-570 and LED-940 groups at 4 weeks after arthritis induction, 
+the swelling inhibition index was 18.1±4.9 and 29.3±4.0 respectively. 
+Interleukin (IL)-1β, IL-6 and MMP-3 serum levels were significantly lower in the 
+LED-940 group.
+CONCLUSIONS: LED irradiation, particularly in the near-infrared was effective 
+for inhibition of the inflammatory reactions caused by RA.

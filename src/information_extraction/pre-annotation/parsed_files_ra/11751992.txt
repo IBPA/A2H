@@ -1,0 +1,21 @@
+Rheumatoid arthritis (RA), a systemic inflammatory disease of unknown etiology, 
+mainly affects synovial joints. Although angiogenic growth factors, including 
+fibroblast growth factor-2 (FGF-2) and vascular endothelial growth factor 
+(VEGF), may play a critical role in the development and progression of RA joint 
+disease, little information is now available regarding their exact role in 
+initiation and/or progression of RA. In this study, we show that both 
+polypeptides were up-regulated in the rat joint synovial tissue of an 
+adjuvant-induced model of arthritis (AIA), as well as human subjects with RA. 
+FGF-2 overexpression via Sendai virus-mediated gene transfer significantly 
+worsened clinical symptoms and signs of rat AIA, including hind paw swelling and 
+radiological bone destruction, as well as histological findings based on 
+inflammatory reaction, synovial angiogenesis, pannus formation, and 
+osteocartilaginous destruction, associated with up-regulation of endogenous 
+VEGF. FGF-2 gene transfer to non-AIA joints was without effect. These findings 
+suggested that FGF-2 modulated disease progression, but did not affect 
+initiation. Reverse experiments using anti-FGF-2-neutralizing rabbit IgG 
+attenuated clinical symptoms and histopathological abnormalities of AIA joints. 
+To our knowledge, this is the first report indicating direct in vivo evidence of 
+disease-modulatory effects of FGF-2 in AIA, as probably associated with 
+endogenous VEGF function. FGF-2 may prove to be a possible therapeutic target to 
+treat subjects with RA.

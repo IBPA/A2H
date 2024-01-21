@@ -1,0 +1,22 @@
+BACKGROUND: Clostridium difficile is a leading cause of nosocomial infection. 
+The role of cytokine interleukin-27 (IL-27) in the immunopathology of C. 
+difficile infection (CDI) remains unknown.
+METHODS: The production of IL-27 was determined in human and murine CDI. 
+Furthermore, wild-type (WT) and IL-27 receptor-deficient (WSX-1-/-) mice were 
+treated with an antibiotic mixture and infected with C. difficile to investigate 
+the effects of IL-27 on host response to CDI.
+RESULTS: IL-27 production was elevated during CDI in humans and mice. Infected 
+WSX-1-/- mice experienced increased weight loss, enhanced colonic histology 
+damage, less C. difficile clearance, and decreased survival compared to WT 
+controls during CDI. IL-27 administration reduced CDI-associated mortality and 
+tissue pathology with improved C. difficile clearance in WT mice after C. 
+difficile challenge. Mechanistically, IL-27-mediated host defense against CDI 
+was associated with downregulation of IL-17A and IL-23, but upregulation of 
+IL-10 and interferon-gamma during CDI.
+CONCLUSIONS: Our data suggest a previously unrecognized role for IL-27 in the 
+pathogenesis of CDI, potentially providing new insight for IL-27-mediated 
+protection against C. difficile-induced pathology.
+
+© The Author 2017. Published by Oxford University Press for the Infectious 
+Diseases Society of America. All rights reserved. For permissions, e-mail: 
+journals.permissions@oup.com.

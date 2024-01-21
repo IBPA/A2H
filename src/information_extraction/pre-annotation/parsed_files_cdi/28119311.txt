@@ -1,0 +1,22 @@
+Clostridium difficile (C. difficile) is considered to be the major cause of the 
+antibiotic-associated diarrhea and pseudomembranous colitis in animals and 
+humans. The prevalence of C. difficile infections (CDI) has been increasing 
+since 2000. Two exotoxins of C. difficile, Toxin A (TcdA) and Toxin B (TcdB), 
+are the main virulence factors of CDI, which can induce glucosylation of Rho 
+GTPases in host cytosol, leading to cell morphological changes, cell apoptosis, 
+and cell death. The mechanism of TcdB-induced cell death has been investigated 
+for decades, but it is still not completely understood. It has been reported 
+that TcdB induces endoplasmic reticulum stress via PERK-eIF2α signaling pathway 
+in CT26 cell line (BALB/C mouse colon tumor cells). In this study, we found that 
+salubrinal, a selective inhibitor of eIF2α dephosphorylation, efficiently 
+protects CT26 cell line against TcdB-induced cell death and tried to explore the 
+mechanism underlying in this protective effect. Our results demonstrated that 
+salubrinal protects CT26 cells from TcdB-mediated cytotoxic and cytopathic 
+effect, inhibits apoptosis and death of the toxin-exposed cells via 
+caspase-9-dependent pathway, eIF2α signaling pathway, and autophagy. These 
+findings will be helpful for the development of CDI therapies.
+
+© The Author 2017. Published by Oxford University Press on behalf of the 
+Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological 
+Sciences, Chinese Academy of Sciences. All rights reserved. For permissions, 
+please e-mail: journals.permissions@oup.com.

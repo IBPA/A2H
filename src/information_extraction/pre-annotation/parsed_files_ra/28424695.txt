@@ -1,0 +1,32 @@
+Deimination, a posttranslational modification of arginine to citrulline carried 
+out by peptidylarginine deiminases, may compromise tolerance of self-antigens. 
+Patients with connective tissue autoimmunity, particularly rheumatoid arthritis 
+(RA), systemic lupus erythematosus (SLE), or Felty's syndrome, present with 
+autoantibodies to deiminated histones (dH), which thus form a category of 
+antibodies to citrullinated protein antigens (ACPA). In general, ACPA are a 
+sensitive diagnostic for RA and may form in response to the release of nuclear 
+chromatin (DNA plus dH) from granulocytes, usually referred to as neutrophil 
+extracellular traps. The aim of this study was to examine spontaneously 
+autoimmune mice for autoantibodies and T cell responses to dH. We compared IgG 
+binding to deiminated and non-deiminated histones (nH) by ELISA and Western 
+blotting in spontaneously autoimmune strains of (NZB × NZW) F1 and NZM2410 
+together with their derivative congenic strains, C57BL/6.Sle1 and 
+C57BL/6.Sle1.Sle3, which display profound autoreactivity against nuclear 
+self-antigens. The splenocyte proliferation against the two antigens was 
+determined in the spontaneously autoimmune (NZB × NZW) F1 strain from which 
+other autoimmune strains used in the study were derived. Immunizations with dH 
+and nH were attempted in BALB/c mice to assess their splenocyte response. 
+Splenocytes from BALB/c mice and from autoimmune mice at the time of conversion 
+to autoimmunity proliferated strongly in response to dH, yet serum IgG from 
+autoimmune (NZB × NZW) F1, NZM2410, and C57BL/6.Sle1.Sle3 mice displayed a 
+remarkable bias against binding to dH. At the time of seroconversion, the 
+antibodies already exhibited preference for nH, and only nH were recovered from 
+circulating immune complexes. Analysis of histone deimination showed 
+constitutive deimination in thymic extracts from C57BL/6 and 
+C57BL/6.Sle1.Sle2.Sle3 triply congenic mice and in spleens of autoimmune triply 
+congenic mice. Our study demonstrates that tolerance mechanisms against dH are 
+intact in BALB/c and C57BL/6 mice and continue to be effective in mice with 
+overt autoimmunity to nH. We conclude that, in contrast to human RA and SLE 
+patients, where we frequently observe autoantibodies against dH, autoimmune mice 
+maintain strong tolerance mechanisms to prevent the development of 
+autoantibodies to dH.

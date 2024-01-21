@@ -1,0 +1,27 @@
+The basal and lateral regions of the plasma membrane of cochlear outer hair 
+cells are structurally and functionally distinct. The lateral region contains 
+thousands of motor proteins but few voltage-gated channels. The basal region, 
+conversely, contains a high number of voltage-gated channels but is devoid of 
+motor proteins. It has been suggested that the cortical cytoskeleton is 
+responsible for maintaining this regional distinction. Toward elucidating the 
+structure of the outer hair cell's electromotile mechanism, we investigated the 
+physical organization of the lateral plasma membrane in living guinea pig outer 
+hair cells by analyzing the distribution pattern of the anionic long-chain 
+carbocyanine SP-DiIC18(3) within this area, before and after electrical 
+stimulation and with an intact and a disrupted cytoskeleton. We observed 
+punctate, intensely fluorescent patches as well as areas of weaker fluorescence, 
+with clear local maxima and minima, upon labeling the cells with this 
+membrane-soluble probe. This discrete distribution of SP-DilC18(3) suggests that 
+the lateral plasma membrane of guinea pig outer hair cells may be composed of 
+small structural domains (microdomains). Disrupting the cytoskeleton with either 
+trypsin or toxin B from Clostridium difficile did not change this pattern of 
+distribution, thus indicating that this treatment did not facilitate the lateral 
+diffusion of the probes. Electrical stimulation using whole-cell patch-clamp 
+techniques, on the other hand, induced two responses: fast motility and 
+reversible displacement of the fluorescent probes. Both responses were inhibited 
+by internal perfusion with salicylate, while disruption of the cytoskeleton did 
+not inhibit OHC fast motility but affected the electrically induced 
+redistribution of fluorescent probes. Together, these results suggest that the 
+lateral plasma membrane of guinea pig outer hair cells contains structural 
+microdomains and that the cytoskeleton does not appear to be playing a major 
+role in maintaining the lateral separation of these distinct molecular regions.

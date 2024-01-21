@@ -1,0 +1,29 @@
+OBJECTIVE: To examine whether the B cell tropic γ-herpesvirus Epstein-Barr virus 
+(EBV) is aberrantly expressed in its latent and lytic forms within ectopic 
+lymphoid structures (ELS) in the salivary glands of patients with Sjögren's 
+syndrome (SS), and to investigate the relationship between EBV dysregulation, B 
+cell activation, in situ differentiation of autoreactive plasma cells, 
+disease-specific autoantibody production, and cytotoxicity.
+METHODS: Latent and lytic EBV infection in the salivary glands of 28 patients 
+with SS and 38 patients with nonspecific chronic sialadenitis (NSCS), 
+characterized for the presence or absence of ELS, was investigated by reverse 
+transcription-polymerase chain reaction, in situ hybridization, and 
+immunohistochemical/immunofluorescence staining. Glandular versus synovial 
+production of anti-Ro 52, anti-citrullinated protein antibodies (ACPAs), and 
+anti-EBV peptide antibodies was analyzed in situ or in vivo in human SS/SCID and 
+human rheumatoid arthritis/SCID mouse chimeras.
+RESULTS: EBV dysregulation within inflammatory infiltrates was observed 
+exclusively in ELS+ SS salivary gland tissue, as revealed by latent EBV 
+infection and lytic EBV infection in B cells and plasma cells, respectively. 
+Conversely, epithelial latent membrane protein 2A expression was observed in 
+both patients with SS and patients with NSCS. Importantly, perifollicular plasma 
+cells displaying Ro 52 immunoreactivity were frequently infected by EBV. 
+Furthermore, ELS-containing SS salivary gland tissue that was transplanted into 
+SCID mice supported the production of anti-Ro 52/anti-La 48 and anti-EBV 
+antibodies but not ACPAs. Analysis of CD4+ and CD8+ T cell localization and 
+granzyme B expression demonstrated that the persistence of EBV in ELS-containing 
+SS salivary glands was associated with follicular exclusion of CD8+ T cells and 
+impaired CD8-mediated cytotoxicity.
+CONCLUSION: Active EBV infection is selectively associated with ELS in the 
+salivary glands of patients with SS and appears to contribute to local growth 
+and differentiation of disease-specific autoreactive B cells.

@@ -1,0 +1,19 @@
+γ-Secretase inhibitors which prevent Notch activation are emerging as potent 
+therapeutics for various inflammatory diseases, including ischemic stroke and 
+rheumatoid arthritis. However, their indiscriminate distribution in the body 
+causes serious side effects after systemic administration, since Notch proteins 
+are ubiquitous receptors that play an important role in cellular functions such 
+as differentiation, proliferation, and apoptosis. In this study, hyaluronan 
+nanoparticles (HA-NPs) bearing a γ-secretase inhibitor (DAPT) were prepared as 
+potential therapeutics for rheumatoid arthritis. In vivo biodistribution of the 
+DAPT-loaded HA-NPs (DNPs), labeled with near-infrared dye, were observed using a 
+non-invasive optical imaging system after systemic administration to a 
+collagen-induced arthritis (CIA) mouse model. The results demonstrated that DNPs 
+were effectively accumulated at the inflamed joint of the CIA mice. From the in 
+vivo therapeutic efficacy tests, DNPs (1mg DAPT/kg) significantly attenuated the 
+severity of RA induction compared to DAPT alone (2mg/kg), which was judged from 
+clinical scores, tissue damage, and neutrophil infiltration. In addition, DNPs 
+dramatically reduced the production of pro-inflammatory cytokines (TNF-α, IFN-γ, 
+MCP-1, and IL-6, -12, -17) and collagen-specific auto-antibodies (IgG1 and 
+IgG2a) in the serum of the CIA mice. These results suggest that DNPs have 
+potential as therapeutics for rheumatoid arthritis.

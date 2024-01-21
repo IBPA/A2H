@@ -1,0 +1,18 @@
+Angiogenesis, the formation of new capillaries from preexisting blood vessels, 
+is involved in many pathological conditions, for example, tumorigenesis, 
+diabetic retinopathy, and rheumatoid arthritis. Angiostatin, which contains the 
+kringle 1-4 domains of plasminogen, is known to be a potent inhibitor of 
+angiogenesis and a strong suppressor of various solid tumors. In this study, we 
+expressed recombinant protein containing the kringle 1-3 domains of human 
+plasminogen in Escherichia coli and investigated its biological activities. The 
+protein was successfully refolded from inclusion bodies and purified at a 30% 
+overall yield, as a single peak by HPLC. The purified recombinant protein had 
+biochemical properties that were similar to those of the native form, which 
+included molecular size, lysine-binding capacity, and immunoreactivity with a 
+specific antibody. The recombinant protein was also found to strongly inhibit 
+the proliferation of bovine capillary endothelial cells in vitro, and the 
+formation of new capillaries on chick embryos. In addition, it suppressed the 
+growth of primary Lewis lung carcinoma and B16 melanoma in an in vivo mouse 
+model. Our findings suggest that the recombinant kringle 1-3 domains in a 
+prokaryote expression system have anti-angiogenic activities, which may be 
+useful in clinical and basic research in the field of angiogenesis.

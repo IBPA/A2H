@@ -1,0 +1,22 @@
+Conversion of arginyl to citrullyl residues (citrullination) is essential for 
+the formation of the epitopes recognized by rheumatoid arthritis (RA)-associated 
+autoantibodies to citrullinated proteins (ACPA). ACPA are secreted by plasma 
+cells of the rheumatoid synovial tissue where their major target, citrullinated 
+fibrin, is abundant. Although numerous arguments suggest that ACPA play an 
+important role in RA, their pathological relevance remains to be established. In 
+the present study, we assessed the immunogenicity and arthritogenicity of 
+complete Freund's adjuvant-emulsified autologous citrullinated (C-rFBG) or 
+non-citrullinated (NC-rFBG) fibrinogen in Lewis (LEW) and Brown-Norway rats, 
+which exhibit drastic differences in their susceptibility to induced autoimmune 
+diseases. NC-rFBG induced no antibody response. In contrast, a single injection 
+of C-rFBG induced an IgG response directed mainly to citrullinated determinants 
+of rFBG. However, all rat strains remained devoid of clinical and histological 
+signs of arthritis up to 3 months after C-rFBG inoculation. Next, in LEW rats, 
+we tested whether autoimmunity to C-rFBG could aggravate acute ankle arthritis 
+triggered by intra-articular injection of incomplete Freund's adjuvant (IFA). 
+However, such arthritis evolved identically in the presence or absence of 
+anti-C-rFBG autoantibodies. However, IFA-injected joints were devoid of 
+citrullinated fibrin deposits. Therefore, citrullination allows breakdown of 
+immunological tolerance but the autoimmune response developed is not 
+spontaneously arthritogenic. Whether or not it can aggravate arthritis with 
+citrullinated fibrin deposits remains to be evaluated.

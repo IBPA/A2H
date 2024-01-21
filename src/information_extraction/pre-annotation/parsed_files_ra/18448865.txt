@@ -1,0 +1,23 @@
+A mechanism-based model was developed to describe the time course of arthritis 
+progression in the rat. Arthritis was induced in male Lewis rats with type II 
+porcine collagen into the base of the tail. Disease progression was monitored by 
+paw swelling, bone mineral density (BMD), body weights, plasma corticosterone 
+(CST) concentrations, and tumor necrosis factor (TNF)-alpha, interleukin 
+(IL)-1beta, IL-6, and glucocorticoid receptor (GR) mRNA expression in paw 
+tissue. Bone mineral density was determined by PIXImus II dual energy X-ray 
+densitometry. Plasma CST was assayed by high-performance liquid chromatography. 
+Cytokine and GR mRNA were determined by quantitative real-time polymerase chain 
+reaction. Disease progression models were constructed from transduction and 
+indirect response models and applied using S-ADAPT software. A delay in the 
+onset of increased paw TNF-alpha and IL-6 mRNA concentrations was successfully 
+characterized by simple transduction. This rise was closely followed by an 
+up-regulation of GR mRNA and CST concentrations. Paw swelling and body weight 
+responses peaked approximately 21 days after induction, whereas bone mineral 
+density changes were greatest at 23 days after induction. After peak response, 
+the time course in IL-1beta, IL-6 mRNA, and paw edema slowly declined toward a 
+disease steady state. Model parameters indicate TNF-alpha and IL-1beta mRNA most 
+significantly induce paw edema, whereas IL-6 mRNA exerted the most influence on 
+BMD. The model for bone mineral density captures rates of turnover of cancellous 
+and cortical bone and the fraction of each in the different regions analyzed. 
+This small systems model integrates and quantitates multiple factors 
+contributing to arthritis in rats.

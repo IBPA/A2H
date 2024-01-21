@@ -1,0 +1,24 @@
+Chlamydia trachomatis (CT) and the Chlamydophila species (CS) Chlamydophila 
+pneumoniae (CPn), and Chlamydophila psittaci (CPs) are suggested to induce 
+autoantibodies causative of several human autoimmune disorders like rheumatoid 
+arthritis and systemic lupus erythematosus (SLE). The aim of the present study 
+was therefore to identify cellular protein interaction partners with antisera to 
+CT (α-CT) or CS (α-CS) and to identify functional consequences of such 
+interaction in vitro. As detected with a commercial first trimester human 
+prenatal brain multiprotein array (hEXselect, Engine, Germany), the most 
+frequent interaction partner with both α-CT and α-CS was the ribosomal small 
+subunit protein RPS27a. This could be confirmed by Western blot analysis with a 
+recombinant RPS27a sample. In addition, immunocytochemistry with both antisera 
+in the human choroid plexus papilloma cell line HIBCPP revealed a granular 
+cytoplasmic staining, and Western blot analysis with whole-cell protein samples 
+of HIBCPP cells revealed both antisera to label protein bands of different 
+molecular weights and intensity. By 2D Western blot analysis and mass 
+spectrometry, one of the protein spots interacting with α-CT could be identified 
+as the RPS27a. Finally, two different methods for the detection of protein 
+synthesis activity, the SUnSET technique and an HPG fluorescence assay revealed 
+both antisera to cause reduced translational activity in HIBCPP cells. Together 
+with previous findings of RPS27a as an autoimmune target in a mouse model of 
+systemic lupus erythematosus (SLE), these results suggest that infections with 
+CT and/or CS could induce SLE-associated immune modifications. However, direct 
+evidence for a pathogenic role of these interactions for SLE demands further 
+investigations.

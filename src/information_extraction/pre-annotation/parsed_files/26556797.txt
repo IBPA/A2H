@@ -1,0 +1,23 @@
+Clostridium difficile infection (CDI) is the most prevalent cause of 
+health-care-associated infections. CDI-related health-care costs and deaths are 
+both increasing annually on a global scale. C. difficile have been reported in 
+food products in Canada, Europe, and the United States; however, the systematic 
+transmission of C. difficile between humans and animals is yet to be understood. 
+Because of the limitations of current therapeutic options, there is a need for 
+the development of new patient treatments. Epigallocatechin gallate (EGCG) is a 
+major catechin compound found in green tea extracts and exhibits antioxidant and 
+antimicrobial activities. This study was conducted to investigate the inhibitory 
+effects of EGCG on the expression of virulence genes in C. difficile and in C. 
+difficile-associated diseases by inhibition of quorum sensing. The protein 
+expression of autoinducer-2 (AI-2) was evaluated by AI-2 activity. EGCG at 
+various concentrations had an inhibitory effect on AI-2 production, especially 
+at 10 μg/mL. EGCG also significantly repressed the transcription of virulence 
+genes, including luxS and tcdA, and prolonged the survival of Caenorhabditis 
+elegans infected with C. difficile. Furthermore, treatment with EGCG effectively 
+protected C. difficile-infected mice from C. difficile-induced death. 
+Histological analysis of the colon and cecum of these mice revealed that EGCG 
+protected tissues of the lower intestinal tract from damage. EGCG exerted 
+growth-inhibitory and bactericidal activities on C. difficile in C. 
+difficile-infected mice. Our results suggest that EGCG has significant 
+antipathogenic effects on C. difficile and can be used to prevent or treat C. 
+difficile-associated diseases or C. difficile infections.

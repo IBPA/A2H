@@ -1,0 +1,28 @@
+The induction of apoptosis-resistant rheumatoid synovial tissue cells has been 
+related to constitutively active Janus kinase/signal transducers and activators 
+of transcription (JAK/STAT) signaling in rheumatoid arthritis (RA). The 
+excessive proliferation and inherent resistance to apoptosis of fibroblast-like 
+synoviocytes (FLS) is an important mechanism by which RA originates. However, 
+the effects of matrine on FLS in RA is unclear. The present study aimed to 
+investigate the mechanism of action of matrine in a rat model of 
+collagen‑induced arthritis (CIA). The CIA model was established using bovine 
+type II collagen. FLS were isolated from control and CIA rats, cultured 
+in vitro, and confirmed to harbor fibroblast‑like characteristics. After 
+treatment of FLS with varying conc-entrations of matrine, the JAK2 inhibitor 
+AG490, or a combination of both drugs, cell proliferation, apoptosis rate, 
+expression of apoptotic markers and the activation of the JAK/STAT pathway were 
+assessed. Additionally, CIA rats were administered either matrine or 
+methotrexate by oral gavage to examine the effects of therapeutic intervention 
+on arthritis pathogenesis. The arthritis index (AI) was measured and ankle joint 
+structure was analyzed histologically to determine the severity of CIA. 
+Furthermore, expression levels of apoptotic markers and members of the 
+JAK/STAT family were also examined in vivo. Compared with the CIA group, matrine 
+reduced AI and improved ankle pathology. Matrine also inhibited FLS 
+proliferation, induced G0/G1 cell cycle arrest, and increased the rate of 
+apoptosis in vitro. The effects of matrine on apoptosis induction were further 
+confirmed by observations that Bcl-2 levels were decreased, whereas Bax and 
+caspase-3 levels were increased in the matrine-treated synovial tissues and FLS. 
+Finally, matrine treatment also diminished the phosphorylation, and hence 
+activation of JAK2, STAT1 and STAT3. Our results suggest that matrine induces 
+the apoptosis of FLS from rats with CIA by inhibiting activation of the JAK/STAT 
+signaling pathway.

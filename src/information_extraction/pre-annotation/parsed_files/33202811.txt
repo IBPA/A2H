@@ -1,0 +1,18 @@
+In a previous monocentric study in preterm neonates (PN), we described a high 
+Clostridioides difficile colonization rate (74%) with two uncommon non-toxigenic 
+strains (NTCD) belonging to PCR-ribotype (RT) (CE)847 and (CE)032. To determine 
+the extent of carriage of both NTCD in other spatio-temporal settings, strains 
+isolated in PN stools from two multicenter cohorts were characterized by 
+PCR-ribotyping, MLVA and MLST. We also evaluated the protective role of two NTCD 
+from these RT against C. difficile infection in a hamster caecitis model. 
+Animals were administered either each NTCD alone (n = 7), or followed by a 027 
+strain (n = 9). A control group received only the 027 strain (n = 8). Clinical 
+activity and colonization by C. difficile in stools were monitored daily until 
+death or sacrifice at D20. We isolated 18 RT(CE)032 (ST-83) strains and 2 
+RT(CE)847 (ST-26) strains among 247 PN from both cohorts. Within each RT, 
+strains were genetically related. The survival rate was significantly increased 
+when animals received a RT(CE)847 or (CE)032 strain before the 027 strain (4/9 
+deaths, p = 0.029; 1/9 death, p = 0.0004, respectively). We describe two 
+predominant uncommon NTCD strains, in a PN population from different healthcare 
+facilities. Both NTCD provide a potential protection against C. difficile 
+infection.

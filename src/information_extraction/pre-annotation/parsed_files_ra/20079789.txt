@@ -1,0 +1,13 @@
+IL-21 is a type I cytokine that like IL-2, IL-4, IL-7, IL-9, and IL-15 uses the 
+common gamma chain of cytokine receptor. IL-21 has been shown to regulate the 
+function of T cells, B cells, natural killer cells, and dendritic cells in 
+immune responses. Although activated CD4(+) T cells produce IL-21, recent data 
+suggest that novel subsets of effector T cells are the major producers in immune 
+responses. In this study, we show that IL-21 expression correlates with the 
+presence of Th17 cells in synovial fluid (SF) and peripheral blood in rheumatoid 
+arthritis patients. Human CCR6+ CD4(+) T cells produce high levels of both IL-21 
+and IL-17. Similar to mouse T cells, IL-21 auto-regulates its own production in 
+human CD4(+) T cells. IL-21 potently enhances Th17 proliferation and suppresses 
+Foxp3 expression, leading to the expression of RORC. IL-21 is therefore an 
+autocrine cytokine that regulates human Th17 cells in rheumatoid arthritis, and 
+serves as a good target for treating this autoimmune disease.

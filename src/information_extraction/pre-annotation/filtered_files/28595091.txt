@@ -1,0 +1,22 @@
+Rheumatoid arthritis (RA) is an autoimmune disease in which chronic inflammation 
+of the synovial joints can lead to destruction of cartilage and bone. 
+Pre-clinical studies attempt to uncover the underlying causes by emulating the 
+disease in genetically different mouse strains and characterising the nature and 
+severity of bone shape changes as indicators of pathology. This paper presents a 
+fully automated method for obtaining quantitative measurements of bone 
+destruction from volumetric micro-CT images of a mouse hind paw. A statistical 
+model of normal bone morphology derived from a training set of healthy examples 
+serves as a template against which a given pathological sample is compared. 
+Abnormalities in bone shapes are identified as deviations from the model 
+statistics, characterised in terms of type (erosion / formation) and quantified 
+in terms of severity (percentage affected bone area). The colour-coded 
+magnitudes of the deviations superimposed on a three-dimensional rendering of 
+the paw show at a glance the severity of malformations for the individual bones 
+and joints. With quantitative data it is possible to derive population 
+statistics characterising differences in bone malformations for different mouse 
+strains and in different anatomical regions. The method was applied to data 
+acquired from three different mouse strains. The derived quantitative indicators 
+of bone destruction have shown agreement both with the subjective visual scores 
+and with the previous biological findings. This suggests that pathological bone 
+shape changes can be usefully and objectively identified as deviations from the 
+model statistics.

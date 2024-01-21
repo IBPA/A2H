@@ -1,0 +1,27 @@
+Antiangiogenic therapy using drugs and food components is a recognized strategy 
+for the prevention of various angiogenesis-mediated disorders such as tumor 
+growth, diabetic retinopathy, and rheumatoid arthritis. Our preliminary cell 
+culture studies, using both bovine aortic endothelial cells and human umbilical 
+vein endothelial cells (HUVEC) on screening for food-derived antiangiogenic 
+compounds, showed tocotrienol (T3), an unsaturated version of vitamin E, to be a 
+potential angiogenic inhibitor. We therefore investigaged the in vivo 
+antiangiogenic properties of T3 using 2 well-characterized angiogenic models 
+[mouse dorsal air sac (DAS) assay and the chick embryo chorioallantoic membrane 
+(CAM) assay]. In the DAS assay, the increased neovascularization (angiogenesis 
+index, 4.8 +/- 0.6) in tumor cell-implanted mice was suppressed (angiogenesis 
+index, 2.7 +/- 0.6) by dietary supplementation of 10 mg T3-rich oil/d 
+(equivalent to 4.4 mg T3/d). In the CAM assay, T3 (500-1000 microg/egg) 
+inhibited new blood vessel formation on the growing CAM and increased the 
+frequency of avascular zone (36-50%). To evaluate the antiangiogenic mechanism, 
+we conducted cell-culture studies and found that T3 significantly reduced 
+fibroblast growth factor -induced proliferation, migration, and tube formation 
+in HUVEC (P < 0.05), with delta-T3 having the highest activity. Western blot 
+analysis revealed that delta-T3 suppressed the phosphorylation of 
+phosophoinositide-dependent protein kinase (PDK) and Akt, and increased the 
+phosphorylation of apoptosis signal-regulating kinase and p38 in fibroblast 
+growth factor-treated HUVEC, indicating that the antiangiogenic effects of T3 
+are associated with changes in growth factor-dependent phosphatidylinositol-3 
+kinase /PDK/Akt signaling as well as induction of apoptosis in endothelial 
+cells. Our findings suggest that T3 has potential as a therapeutic dietary 
+supplement for preventing angiogenic disorders, and therefore future clinical 
+study will be required to evaluate the efficacy and safety of T3.

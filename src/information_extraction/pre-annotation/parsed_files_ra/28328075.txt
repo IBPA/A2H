@@ -1,0 +1,22 @@
+BACKGROUND: Rheumatoid arthritis (RA) is a complex, chronic autoimmune disease 
+characterized by various inflammatory symptoms, including joint swelling, joint 
+pain, and both structural and functional joint damage. The most commonly used 
+animal model for studying RA is mice with collagen-induced arthritis (CIA); the 
+wide use of this model is due primarily to many similarities with RA in human 
+patients. Metabolomics is used increasingly in biological studies for diagnosing 
+disease and for predicting and evaluating drug interventions, as a large number 
+of disease-associated metabolites can be analyzed and interpreted from a 
+biological perspective.
+AIM: To profile free amino acids and their biogenic metabolites in CIA mice 
+plasma.
+METHOD: Ultra-high-performance liquid chromatography/tandem mass spectrometry 
+coupled with multiple reaction monitoring (MRM) was used for metabolomics study.
+RESULTS: Profile of 45 amine metabolites, including free amino acids and their 
+biogenic metabolites in plasma was obtained from CIA mice. We found that the 
+plasma levels of 20 amine metabolites were significantly decreased in the CIA 
+group.
+CONCLUSION: The results suggest that a disordered amine response is linked to 
+RA-associated muscle wasting and energy expenditure.
+
+© 2017 Asia Pacific League of Associations for Rheumatology and John Wiley & 
+Sons Australia, Ltd.

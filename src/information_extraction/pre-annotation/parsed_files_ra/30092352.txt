@@ -1,0 +1,21 @@
+C5a is an important pro-inflammatory peptide involved in complement activation, 
+membrane attack complex formation, immune cell chemotaxis, and allergic 
+responses. Osteoarthritis is a disease characterized by degenerative changes in 
+articular cartilage. It has recently been found that inflammatory responses play 
+an important role in the pathogenesis of osteoarthritis and also in rheumatoid 
+arthritis, where dysfunctional synoviocytes are involved. We performed a series 
+of studies to verify our hypothesis that inhibition of C5a would prevent 
+IL-1β-induced alternations in rat synoviocytes. In vitro studies were performed 
+with RSC-364 cells to examine the role of C5a in the function of synoviocytes. 
+RSC-364 cells (a rat derived synovial cell line) were treated with IL-1β, 
+IL-1β+siC5a, IL-1β+PMX205 that is antagonist of C5aR, or left untreated. Cell 
+cycle, proliferation, apoptosis, invasion, as well as levels of C5a, IL-17A and 
+TNF-α expression were evaluated. We found that IL-1β could significantly 
+increase the proliferation and invasion capabilities of RSC-364 cells, as well 
+as of C5a IL-17A and TNF-α expression. In contrast, inhibition of C5a by siRNA 
+or application of antagonist of C5aR PMX205 reversed the IL-1β-induced changes 
+in C5a expression, cell cycle, proliferation, apoptosis, invasion, and cytokines 
+releases. Taken together, our study results suggest that IL-1β can increase C5a 
+expression in RSC-364 cells, and that C5a exerts a proinflammatory effect in 
+RSC-364 cells. Inhibition of C5a might represent a new strategy for treating 
+rheumatoid arthritis.

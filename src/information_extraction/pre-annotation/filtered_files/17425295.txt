@@ -1,0 +1,14 @@
+Presentation of (glyco)peptides by the class II major histocompatibility complex 
+molecule Aq to T cells plays a central role in collagen-induced arthritis, an 
+animal model for the autoimmune disease rheumatoid arthritis. A peptide library 
+was designed using statistical molecular design in amino acid space in which 
+five positions in the minimal mouse collagen type II binding epitope CII260-267 
+were varied. A substantially reduced peptide library of 24 peptides with diverse 
+and representative molecular characteristics was selected, synthesized, and 
+evaluated for the binding strength to Aq. A multivariate QSAR model was 
+established by correlating calculated descriptors, compressed to its principle 
+properties, with the binding data using partial least-square regression. The 
+model was successfully validated by an external test set. Interpretation of the 
+model provided a molecular property binding motif for peptides interacting with 
+Aq. The information may be useful in future research directed toward new 
+treatments of rheumatoid arthritis.

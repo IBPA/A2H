@@ -1,0 +1,18 @@
+Two-way communication between the mammalian nervous and immune systems is 
+increasingly recognized and appreciated. An intriguing example of such crosstalk 
+comes from clinical observations dating from the 1930s: Patients who suffer a 
+stroke and then develop rheumatoid arthritis atypically present with arthritis 
+on only one side, the one not afflicted with paralysis. Here we successfully 
+modeled hemiplegia-induced protection from arthritis using the K/BxN 
+serum-transfer system, focused on the effector phase of inflammatory arthritis. 
+Experiments entailing pharmacological inhibitors, genetically deficient mouse 
+strains, and global transcriptome analyses failed to associate the protective 
+effect with a single nerve quality (i.e., with the sympathetic, parasympathetic, 
+or sensory nerves). Instead, there was clear evidence that denervation had a 
+long-term effect on the limb microvasculature: The rapid and joint-localized 
+vascular leak that typically accompanies and promotes serum-transferred 
+arthritis was compromised in denervated limbs. This defect was reflected in the 
+transcriptome of endothelial cells, the expression of several genes impacting 
+vascular leakage or transendothelial cell transmigration being altered in 
+denervated limbs. These findings highlight a previously unappreciated pathway to 
+dissect and eventually target in inflammatory arthritis.

@@ -1,0 +1,33 @@
+Rheumatoid arthritis (RA) is an autoimmune inflammatory disease, affecting 
+almost 1% of world population. Although the exact cause of RA is not known but 
+the complex interaction between inflammatory mediators like tumour necrosis 
+factor-α (TNF-α), interleukin-1β (IL-1β), cyclooxygenase-2 (COX-2) and nitric 
+oxide (NO) is accountable for cartilage destruction in joints. Gold is used for 
+arthritis treatment since long without knowing its mechanism of action. Hence, 
+the present study was designed to assess antiarthritic activity of nanogold 
+(AuNGs) in collagen-induced arthritic (CIA) rat model by virtue of decreasing 
+inflammatory mediators and oxidative stress. After induction CIA rats were 
+treated with AuNGs in phosphate buffer at a dose of 20 μg/kg body weight for 
+20 days and found a significant decrease in the level of inflammatory mediators 
+like TNF-α, IL-1β, COX-2 and transcription factor NF-kB (Nuclear factor-kB), 
+which was found to be elevated in CIA rats. Additionally imbalance in oxidant 
+and antioxidant status were determined and perceived that AuNGs remarkably 
+attenuates the imbalance in level of antioxidant and oxidant near to normal. In 
+consistent to biochemical results, mRNA expression of NF-kB, TNF-α, COX-2, and 
+iNOS were also up-regulated in CIA rats, which were considerably down regulated 
+by AuNGs treatment. These findings were positively correlated with the 
+histological results of joints, displayed reduced inflammation and bone erosion 
+in treated group. This study demonstrates the ability of AuNGs to ameliorate 
+production of inflammatory mediators and oxidative stress in CIA rats. Induction 
+of arthritis in rats showed increased inflammation, which activate the 
+transcription factor NF-kB through activation of of IkB kinases (IKK) and 
+ubiquination/proteosome degradation of IKB and transportation of activated NF-kB 
+from cytoplasm to nucleus. In nucleus activated NF-kB bind to the promoter 
+region of target gene and up regulate the production of pro-inflammatory 
+cytokines, COX-2 and other inflammatory mediators that leads to cartilage 
+destruction. AuNGs inhibit the activation of NF-kB and other inflammatory 
+mediators and attenuate inflammation and cartilage destruction. COX-2: 
+cyclooxygenase-2; IKK: IkB kinases; IKB: I Kappa B; IL-1β: interleukin-6; IL-6: 
+interleukin-6; iNOS: inducible nitric oxide synthase; NF-kB: nuclear 
+transcription factor kappa B; ROS: reactive oxygen species; TNF-α: tumour 
+necrosis factor-alpha.

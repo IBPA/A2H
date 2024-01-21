@@ -1,0 +1,18 @@
+Clostridium difficile causes antibiotic-associated diarrhea and colitis in 
+humans through the actions of toxin A and toxin B on the colonic mucosa. At 
+present, broad-spectrum antibiotic drugs are used to treat this disease, and 
+patients suffer from high relapse rates after termination of treatment. This 
+study examined the role of both toxins in pathogenesis and the ability of orally 
+administered avian antibodies against recombinant epitopes of toxin A and toxin 
+B to treat C. difficile-associated disease (CDAD). DNA fragments representing 
+the entire gene of each toxin were cloned, expressed, and affinity purified. 
+Hens were immunized with these purified recombinant-protein fragments of toxin A 
+and toxin B. Toxin-neutralizing antibodies fractionated from egg yolks were 
+evaluated by a toxin neutralization assay in Syrian hamsters. The 
+carboxy-terminal region of each toxin was most effective in generating 
+toxin-neutralizing antibodies. With a hamster infection model, antibodies to 
+both toxins A and B (CDAD antitoxin) were required to prevent morbidity and 
+mortality from infection. In contrast to vancomycin, CDAD antitoxin prevented 
+relapse and subsequent C. difficile reinfection in the hamsters. These results 
+indicate that CDAD antitoxin may be effective in the treatment and management of 
+CDAD in humans.

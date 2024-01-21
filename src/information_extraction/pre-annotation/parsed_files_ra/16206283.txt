@@ -1,0 +1,25 @@
+OBJECTIVE: To describe the kinetics of leukocyte migration into a distal joint 
+during the development of chronic inflammation in a murine model of rheumatoid 
+arthritis (RA), to identify leukocyte subpopulations recruited in the synovial 
+vessels, and to test in real time the effects of an antiinflammatory compound on 
+leukocyte-endothelial cell interactions in the arthritic joint.
+METHODS: We used intravital video microscopy (IVM), which was adapted to the 
+microcirculation of the mouse ankle, to monitor the kinetics of 
+leukocyte-endothelium interactions (rolling and firm adhesion) during the onset 
+and progression of proteoglycan-induced arthritis (PGIA), a chronic autoimmune 
+model of RA. Subpopulations of rolling and adherent leukocytes were identified 
+by in vivo immunostaining. Leukocyte extravasation into the ankle joint was 
+verified histologically.
+RESULTS: Between the onset of arthritis and the beginning of the destructive 
+phase of PGIA, we found a steady increase in the number of leukocytes that 
+exhibited firm adherence to the endothelium of synovial vessels, which clearly 
+underscores the chronic, self-perpetuating character of joint inflammation in 
+this autoimmune model. We showed, however, that granulocytes, and not T cells, 
+constituted the major cell population that was continuously recruited to the 
+inflamed ankle. Using IVM, we could detect instant changes in leukocyte adhesion 
+behavior in the synovial vessels of the arthritic joint upon administration of a 
+compound that antagonizes leukocyte rolling.
+CONCLUSION: IVM of the microcirculation of the mouse ankle could become an 
+essential tool for investigating the mechanisms that regulate leukocyte 
+migration to the joint in systemic models of RA as well as for preclinical 
+testing of antiinflammatory therapies.

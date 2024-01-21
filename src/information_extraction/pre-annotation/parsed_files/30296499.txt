@@ -1,0 +1,27 @@
+Clostridium difficile infection (CDI) causes nosocomial/antibiotic-associated 
+diarrhea and pseudomembranous colitis, with dramatic incidence/mortality 
+worldwide. C. difficile virulence factors are toxin A and toxin B (TcdB) which 
+cause cytopathic/cytotoxic effects and inflammation. Until now studies were 
+focused on molecular effects of C. difficile toxins (Tcds) on different cells 
+while unexplored aspect is the status/fate of cells that survived their 
+cytotoxicity. Recently we demonstrated that enteric glial cells (EGCs) are 
+susceptible to TcdB cytotoxicity, but several EGCs survived and were 
+irreversibly cell-cycle arrested and metabolically active, suggesting that EGCs 
+could became senescent. This is important because allowed us to evaluate the not 
+explored status/fate of cells surviving Tcds cytotoxicity, and particularly if 
+TcdB induces senescence in EGCs. Rat-transformed EGCs were treated with 10 ng/ml 
+TcdB for 6 h-48 h, or for 48 h, followed by incubation for additional 4 or 
+11 days in absence of TcdB (6 or 13 total days). Senescence markers/effectors 
+were examined by specific assays. TcdB induces senescence in EGCs, as 
+demonstrated by the senescence markers: irreversible cell-cycle arrest, 
+senescence-associated-β‑galactosidase positivity, flat morphology, early and 
+persistent DNA damage (ATM and H2AX phosphorylation), p27 overexpression, pRB 
+hypophosphorylation, c‑Myc, cyclin B1, cdc2 and phosphorylated-cdc2 
+downregulation, Sirtuin‑2 and Sirtuin‑3 overexpression. TcdB-induced EGC 
+senescence is dependent by JNK and AKT activation but independent by ROS, p16 
+and p53/p21 pathways. In conclusion, TcdB induces senescence in EGCs. The 
+extrapolation of these results to CDI leads to hypothesize that EGCs that 
+survived TcdB, once they have acquired a senescence state, could cause irritable 
+bowel syndrome (IBS), inflammatory bowel disease (IBD), and tumors due to 
+persistent inflammation, transfer of senescence status and stimulation of 
+pre-neoplastic cells.

@@ -1,0 +1,26 @@
+Campylobacter jejuni is an important diarrheal pathogen worldwide; the 
+mechanisms by which it causes disease remain unclear. Because of its association 
+with inflammatory diarrhea, we postulated that C. jejuni might produce a 
+cytotoxin similar to that produced by Shigella sp., enterohemorrhagic 
+Escherichia coli O157, or Clostridium difficile. Filtrates of 12 
+polymyxin-treated isolates of C. jejuni were placed on HeLa cells (sensitive to 
+Shiga toxin cytotoxicity) and Chinese hamster ovary (CHO) cells. Of 12 isolates 
+of C. jejuni tested, 5 killed 50% of the cells at greater than or equal to 1:4 
+dilutions of filtered suspensions of 10(9) bacteria per ml; killing was similar 
+in HeLa and CHO cells (the CHO cells being insensitive to Shiga cytotoxin). One 
+isolate produced a titer of 1:32 to 1:128. The relative potency in HeLa cells 
+was comparable to that of E. coli strains that produce intermediate amounts of 
+Shiga-like toxin. The other seven strains showed no cytotoxic effect, nor did 
+the control diluents, polymyxin B, or supernatants of C. jejuni not treated with 
+polymyxin B. Sonication also released active cytotoxin, but slightly less well 
+than did polymyxin. The cytotoxic effect was dose dependent. Concentration of 
+the C. jejuni in suspension by 10-fold before treatment with polymyxin B 
+resulted in a 10-fold increase in the 50% cytotoxic dose. The cytotoxin effect 
+was not neutralized by Shiga toxin immune serum against either Shiga-like toxin 
+I or II or by anti-Clostridium difficile antiserum. The C jejuni cytotoxin was 
+partially labile to trypsin (0.25%) and to heating to greater than or equal to 
+60 degrees C. Cytotoxicity was retained in Scientific Products dialysis tubing 
+D1615-1 (Mr cutoff, 12,000 to 14,000). Some isolates of C. jejuni release a 
+substance lethal to HeLa or CHO cells in vitro that is distinct from Shiga-like 
+or Clostridium difficile toxin. This cytotoxin may contribute to the colonic 
+mucosal invasive process that characterizes C. jejuni enteritis.

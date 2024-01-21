@@ -1,0 +1,18 @@
+Clostridium difficile is a Gram-positive, spore-forming bacterium, and major 
+cause of nosocomial diarrhea. Related studies have identified numerous factors 
+that influence virulence traits such as the production of the two primary 
+toxins, toxin A (TcdA) and toxin B (TcdB), as well as sporulation, motility, and 
+biofilm formation. However, multiple putative transcriptional regulators are 
+reportedly encoded in the genome, and additional factors are likely involved in 
+virulence regulation. Although the leucine-responsive regulatory protein (Lrp) 
+has been studied extensively in Gram-negative bacteria, little is known about 
+its function in Gram-positive bacteria, although homologs have been identified 
+in the genome. This study revealed that disruption of the lone lrp homolog in C. 
+difficile decelerated growth under nutrient-limiting conditions, increased TcdA 
+and TcdB production. Lrp was also found to negatively regulate sporulation while 
+positively regulate swimming motility in strain R20291, but not in strain 630. 
+The C. difficile Lrp appeared to function through transcriptional repression or 
+activation. In addition, the lrp mutant was relatively virulent in a mouse model 
+of infection. The results of this study collectively demonstrated that Lrp has 
+broad regulatory function in C. difficile toxin expression, sporulation, 
+motility, and pathogenesis.

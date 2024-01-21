@@ -1,0 +1,23 @@
+INTRODUCTION: Cytotoxic T-lymphocyte antigen 4 (CTLA-4) is a key negative 
+costimulatory molecule that displays a wide range of anti-inflammatory 
+properties and is currently approved to treat rheumatoid arthritis as a 
+recombinant fusion protein (CTLA4IgG). To better understand the role of CTLA4IgG 
+in primary Sjögren's syndrome (pSS), we generated a recombinant adeno-associated 
+virus vector serotype 2 (AAV2) expressing a chimera of mouse CTLA-4 fused with a 
+human immunoglobulin (AAV2-CTLA4IgG) and observed the effect of this molecule in 
+C57BL/6.NOD-Aec1Aec2 mice, an animal model of pSS.
+METHODS: A recombinant adeno-associated virus-2 (AAV-2) vector was constructed 
+encoding a CTLA4IgG fusion protein. The AAV2-CTLA4IgG vector and an AAV2 control 
+vector encoding beta galactosidase (LacZ) were administered by retrograde 
+cannulation of the submandibular glands of C57BL/6.NOD-Aec1Aec2 mice. Protein 
+expression was measured by ELISA and salivary glands were assessed for 
+inflammation and activity.
+RESULTS: Recombinant CTLA4IgG blocked B7 expression on macrophages in vitro. In 
+vivo, localized expression of CTLA4IgG in the salivary glands of 
+C57BL/6.NOD-Aec1Aec2 mice inhibited the loss of salivary gland activity and 
+decreased T and B cell infiltration as well as dendritic cells and macrophages 
+in the glands compared with control mice. In addition a decrease in several 
+proinflammatory cytokines and an increase in transforming growth factor beta-1 
+(TGF-β1) expression were also observed.
+CONCLUSIONS: These data suggest expression of CTLA4IgG in the salivary gland can 
+decrease the inflammation and improve the xerostomia reported in these mice.

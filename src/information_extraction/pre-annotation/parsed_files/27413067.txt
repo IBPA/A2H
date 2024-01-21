@@ -1,0 +1,18 @@
+Clostridium difficile infection (CDI), a leading cause of nosocomial infection, 
+is a serious disease in North America, Europe, and Asia. CDI varies greatly from 
+asymptomatic carriage to life-threatening diarrhea, toxic megacolon, and 
+toxemia. The incidence of community-acquired infection has increased due to the 
+emergence of hypervirulent antibiotic-resistant strains. These new strains 
+contribute to the frequent occurrence of disease relapse, complicating 
+treatment, increasing hospital stays, and increasing morbidity and mortality 
+among patients. Therefore, it is critical to develop new therapeutic approaches 
+that bypass the development of antimicrobial resistance and avoid disruption of 
+gut microflora. Here, we describe the construction of a single heteromultimeric 
+VHH-based neutralizing agent (VNA) that targets the two primary virulence 
+factors of Clostridium difficile, toxins A (TcdA) and B (TcdB). Designated 
+VNA2-Tcd, this agent has subnanomolar toxin neutralization potencies for both C. 
+difficile toxins in cell assays. When given systemically by parenteral 
+administration, VNA2-Tcd protected against CDI in gnotobiotic piglets and mice 
+and to a lesser extent in hamsters. Protection from CDI was also observed in 
+gnotobiotic piglets treated by gene therapy with an adenovirus that promoted the 
+expression of VNA2-Tcd.

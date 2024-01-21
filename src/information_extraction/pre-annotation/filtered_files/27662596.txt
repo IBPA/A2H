@@ -1,0 +1,20 @@
+The CTLA4-Ig fusion proteins abatacept and belatacept inhibit CD28-mediated T 
+cell activation by binding CD80 (B7-1) and CD86 (B7-2) costimulatory ligands and 
+are clinically proven immunosuppressants used for rheumatoid arthritis and renal 
+transplantation, respectively. Abatacept and belatacept preferentially bind 
+CD80, yet CD86 has been implicated as the dominant ligand for CD28-mediated 
+costimulation of T cells. We investigated the immunosuppressive effects of 
+ASP2408, a novel CTLA4-Ig with CD86 selectivity and high potency created by 
+directed evolution methods. Here we evaluated the effect of ASP2408 in vitro 
+using cynomolgus monkey and rat T cell proliferation assays and in vivo using 
+cynomolgus monkey tetanus toxoid (TTx) immunization and a rat rheumatoid 
+arthritis model. ASP2408 was 290-fold and 21-fold more potent in suppressing in 
+vitro monkey T cell proliferation than abatacept and belatacept, respectively. 
+ASP2408 inhibited anti-TTx immunological reactions in cynomolgus monkey at a 
+10-fold lower dose level than belatacept, through complete CD86 and partial CD80 
+receptor occupancies, and also suppressed inflammation in the rat 
+collagen-induced arthritis model. Overall, improved immunosuppressive potency of 
+ASP2408 relative to abatacept and belatacept correlated well with improved CD86 
+binding affinity. These results may support the advantage of preferential 
+enhancement of CD86 binding affinity to inhibit T cell-mediated immune response 
+and improved dosing convenience in humans relative to abatacept or belatacept.

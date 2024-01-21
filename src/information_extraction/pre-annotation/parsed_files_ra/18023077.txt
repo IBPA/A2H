@@ -1,0 +1,27 @@
+With the use of a commonly utilized animal model of rheumatoid arthritis, the 
+central goal of this work was to determine how well the small-animal imaging 
+tools, small-animal MRI (microMRI) and small-animal X-ray computed tomography 
+(microCT), can detect very early histological changes that occur immediately 
+after induction of the disease. Arthritis was induced in rats by injecting 
+complete Freund's adjuvant into the tail. Right hind paws of living rats were 
+evaluated with 4.7 T microMRI with T1-weighted spin echo and inversion recovery 
+sequences. Paw specimens were also evaluated with microCT and by histological 
+examination (n = 29). MicroMR images were scored for the presence of joint 
+effusion, soft tissue swelling, bone marrow changes, and bone erosions. MicroCT 
+measured bone mineral density (BMD). Histology scores were obtained from 
+representative slides from the same rats. The correlation between BMD, MRI and 
+histology was analyzed using linear regression analysis and analysis of 
+covariance. MRI abnormalities were detected on day 5 after induction as joint 
+effusion and soft tissue swelling, followed by bone marrow changes on day 6 and 
+bone erosion on day 8. BMD measured by microCT decreased, the decrease becoming 
+significant on day 7 (P < 0.019). Soft tissue swelling, joint effusion, and bone 
+erosion scores on microMRI correlated with histology (r2 approximately 0.7). 
+Bone marrow changes were seen more clearly with microMRI than by histological 
+examination. Bone loss could be detected earlier by microCT than on histological 
+sections. In conclusion, microMRI and microCT can be used to evaluate early 
+disease changes within 1 week of induction in the adjuvant-induced arthritis 
+model, and have the ability to detect certain manifestations of disease earlier 
+than histological analysis. The use of small-animal imaging techniques 
+potentially allows earlier diagnosis, improved subject stratification, earlier 
+drug implementation, and therefore improved drug trials in animal models of 
+rheumatoid arthritis.

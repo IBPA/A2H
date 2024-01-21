@@ -1,0 +1,18 @@
+T-helper 17 (Th17) cells are a newly discovered CD4(+) helper T-cell subset that 
+produces interleukin-17A (IL-17A) and IL-17F. IL-17A plays important roles in 
+allergic responses such as delayed-type hypersensitivity, contact 
+hypersensitivity, and allergic airway inflammation. IL-17A promotes inflammation 
+by inducing various proinflammatory cytokines and chemokines, recruiting 
+neutrophils, enhancing antibody production, and activating T cells. IL-17A 
+expression is also augmented in autoimmune diseases such as multiple sclerosis 
+and rheumatoid arthritis. Using mouse models of these diseases, we found that 
+IL-17A plays a central role in their development. IL-6 is required for the 
+development of Th17 cells and tumor necrosis factor functions downstream of 
+IL-17A during the effector phase. IL-1 is important both for developing Th17 
+cells and eliciting inflammation. Th17 cells, like Th1 and Th2 cells, are 
+involved in host defense against infections, but the contribution of these Th 
+subsets to defense mechanisms differs among pathogens. The roles of IL-17F 
+remain largely unknown. In this review, we introduce how IL-17A/IL-17F are 
+involved in inflammatory immune responses and host defense mechanisms and 
+discuss their relationship with other cytokines in the development of 
+inflammatory and infectious diseases.

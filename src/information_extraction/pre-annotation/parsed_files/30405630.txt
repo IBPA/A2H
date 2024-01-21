@@ -1,0 +1,17 @@
+Clostridium difficile infection (CDI) is the leading cause of world-wide 
+nosocomial acquired diarrhea in adults. Active vaccination is generally accepted 
+as a logical and cost-effective approach to prevent CDI. In this paper, we have 
+generated two novel chimeric proteins; one designated Tcd169, comprised of the 
+glucosyltransferase domain (GT), the cysteine proteinase domain (CPD), and 
+receptor binding domain (RBD) of TcdB, and the RBD of TcdA; the other designated 
+Tcd169FI, which contains Salmonella typhimurium flagellin (sFliC) and Tcd169. 
+Both proteins were expressed in and purified from Bacillus megaterium. Point 
+mutations were made in the GT (W102A, D288N) and CPD (C698) of TcdB to ensure 
+that Tcd169 and Tcd169FI were atoxic. Immunization with Tcd169 or Tcd169Fl 
+induced protective immunity against TcdA/TcdB challenge through intraperitoneal 
+injection, also provided mice full protection against infection with a 
+hyper-virulent C. difficile strain (BI/NAP1/027). In addition, inclusion of 
+sFlic in the fusion protein (Tcd169Fl) enhanced its protective immunity against 
+toxin challenge, reduced C. difficile numbers in feces from Tcd169Fl-immunized 
+mice infected C. difficile. Our data show that Tcd169 and Tcd169FI fusion 
+proteins may represent alternative vaccine candidates against CDI.

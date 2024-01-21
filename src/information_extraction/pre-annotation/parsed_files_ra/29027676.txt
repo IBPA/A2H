@@ -1,0 +1,18 @@
+Biqi capsule is a well-known traditional Chinese medicine formula that has been 
+widely applied for the clinical treatment of such diseases as rheumatoid 
+arthritis, scapulohumeral periarthritis and cervical spondylopathy. However, 
+there is concern regarding the toxicity of Biqi capsule owing to its active 
+ingredients, strychnine and brucine. To investigate the toxicokinetics of 
+strychnine and brucine after oral administration of Biqi capsule to rats, a 
+sensitive and simple rapid-resolution liquid chromatography/tandem mass 
+spectrometry method was developed to determine the levels of strychnine and 
+brucine in rat plasma. Chromatographic separation was performed on a Capcell Pak 
+C18 MG II (3.0 μm, 2.0 × 35 mm) column by gradient elution with acetonitrile and 
+0.2% formic acid as the mobile phase. The method was validated over the range of 
+0.25-250 ng/mL for strychnine and 0.025-25 ng/mL for brucine. The intra- and 
+inter-day accuracies of strychnine and brucine in rat plasma were 100.3-106.6 
+and 90.75-106.1% respectively, and the precisions were within 14.2%. The 
+established method was successfully applied to the toxicokinetic study of 
+strychnine and brucine after single and multiple oral administration of Biqi 
+capsule to male and female rats at 0.4, 0.8 and 1.6 g/kg doses. The results 
+showed different toxicokinetic characteristics in the different groups.

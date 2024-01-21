@@ -1,0 +1,18 @@
+Azithromycin (CP-62,993 [9-deoxy-9A-methyl-9A-aza-9A-homoerythromycin]) is a 
+novel macrolide antimicrobial. In this study the in vitro activity of CP-62,993 
+has been determined against selected enteropathogens, including Clostridium 
+difficile, and compared with that of erythromycin. MICs were determined using an 
+agar incorporation technique in Mueller-Hinton medium, containing saponin-lysed 
+horse blood at a final concentration of 10% v/v, with an inoculum of 10(4) cfu. 
+CP-62,993 was considerably more active than erythromycin against Salmonella 
+typhi (MIC90 4 and greater than 32 mg/l, respectively), S. enteritidis (MIC90 4 
+and greater than 32 mg/l), Shigella flexneri (MIC90 2 and 32 mg/l), Sh. 
+dysenteriae (MIC90 2 and 32 mg/l), Sh. sonnei (MIC90 4 and 32 mg/l), 
+Campylobacter jejuni (MIC90 0.12 and 1 mg/l), Vibrio cholerae (MIC90 0.25 and 8 
+mg/l), V. parahaemolyticus (MIC90 0.5 and 8 mg/l), Yersinia enterocolitica 
+(MIC90 4 and greater than 32 mg/l), Escherichia coli-ETEC (MIC90 4 and 32 mg/l), 
+E. coli-EIEC (MIC90 4 and greater than 32 mg/l), Plesiomonas shigelloides (MIC90 
+1 and 8 mg/l) and Aeromonas hydrophila (MIC90 4 and 32 mg/l). CP-62,993 (MIC90 2 
+mg/l) was slightly less active than erythromycin (MIC90 1 mg/l) against isolates 
+of C. difficile. The results suggest a potential clinical role for CP-62,993 in 
+the treatment of enteric infections where antimicrobial therapy is indicated.

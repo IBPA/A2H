@@ -1,0 +1,23 @@
+Mesenchymal stromal cell-like populations have been derived from mouse-induced 
+pluripotent stem cells (miPSC-MSC) with the capability for tissue regeneration. 
+In this study, murine iPSC underwent differentiation towards an MSC-like 
+immunophenotype. Stable miPSC-MSC cultures expressed the MSC-associated markers, 
+CD73, CD105, and Sca-1, but lacked expression of the pluripotency marker, SSEA1, 
+and hematopoietic markers, CD34 and CD45. Functionally, miPSC-MSC exhibited the 
+potential for trilineage differentiation into osteoblasts, adipocytes, and 
+chondrocytes and the capacity to suppress the proliferation of mitogen-activated 
+splenocytes. The efficacy of miPSC-MSC was assessed in an acute inflammation 
+model following systemic or local delivery into mice with subcutaneous implants 
+containing heat-inactivated P. gingivalis. Histological analysis revealed less 
+inflammatory cellular infiltrate within the sponges in mice treated with 
+miPSC-MSC cells delivered locally rather than systemically. Assessment of 
+proinflammatory cytokines in mouse spleens found that CXCL1 transcripts and 
+protein were reduced in mice treated with miPSC-MSC. In a periodontitis model, 
+mice subjected to oral inoculation with P. gingivalis revealed less bone tissue 
+destruction and inflammation within the jaws when treated with miPSC-MSC 
+compared to PBS alone. Our results demonstrated that miPSC-MSC derived from iPSC 
+have the capacity to control acute and chronic inflammatory responses associated 
+with the destruction of periodontal tissue. Therefore, miPSC-MSC present a 
+promising novel source of stromal cells which could be used in the treatment of 
+periodontal disease and other inflammatory systemic diseases such as rheumatoid 
+arthritis.

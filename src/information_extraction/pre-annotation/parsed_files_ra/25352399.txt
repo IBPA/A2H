@@ -1,0 +1,18 @@
+Recent evidence indicates the existence of subpopulations of myeloid-derived 
+suppressor cells (MDSCs) with distinct phenotypes and functions. Here, we 
+characterized the role of MDSC subpopulations in the pathogenesis of autoimmune 
+arthritis in a collagen-induced arthritis (CIA) mouse model. The splenic 
+CD11b(+) Gr-1(+) MDSC population expanded in CIA mice, and these cells could be 
+subdivided into polymorphonuclear (PMN) and mononuclear (MO) MDSC subpopulations 
+based on Ly6C and Ly6G expression. During CIA, the proportion of splenic 
+MO-MDSCs was increased in association with the severity of joint inflammation, 
+while PMN-MDSCs were decreased. MO-MDSCs expressed higher levels of surface CD40 
+and CD86 protein, but lower levels of Il10, Tgfb1, Ccr5, and Cxcr2 mRNA. 
+PMN-MDSCs exhibited a more potent capacity to suppress polyclonal T-cell 
+proliferation in vitro, compared with MO-MDSCs. Moreover, the adoptive transfer 
+of PMN-MDSCs, but not MO-MDSCs, decreased joint inflammation, accompanied by 
+reduced levels of serum cytokine secretion and the frequencies of Th1 and Th17 
+cells in draining lymph nodes. These results suggest that there could be a shift 
+from potently suppressive PMN-MDSCs to poorly suppressive MO-MDSCs during the 
+development of experimental arthritis, which might reflect the failure of 
+expanded MDSCs to suppress autoimmune arthritis.

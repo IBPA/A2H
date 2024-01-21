@@ -1,0 +1,23 @@
+BACKGROUND: Disturbances in the intestinal microbial community (i.e. dysbiosis) 
+or presence of the microbes with deleterious effects on colonic mucosa has been 
+linked to the pathogenesis of inflammatory bowel diseases. However the role of 
+microbiota in induction and progression of ulcerative colitis (UC) has not yet 
+been fully elucidated.
+METHODS: Three lines of human microbiota-associated (HMA) mice were established 
+by gavage of colon biopsy from three patients with active UC. The shift in 
+microbial community during its transferring from humans to mice was analyzed by 
+next-generation sequencing using Illumina MiSeq sequencer. Spontaneous or 
+dextran sulfate sodium (DSS)-induced colitis and microbiota composition 
+profiling in germ-free mice and HMA mice over 3-4 generations were assessed to 
+decipher the features of the distinctive and crucial events occurring during 
+microbial colonization and animal reproduction.
+RESULTS: None of the HMA mice developed colitis spontaneously. When treated with 
+DSS, mice in F4 generation of one line of colonized mice (aHMA) developed 
+colitis. Compared to the DSS-resistant earlier generations of aHMA mice, the F4 
+generation have increased abundance of Clostridium difficile and decrease 
+abundance of C. symbiosum in their cecum contents measured by denaturing 
+gradient gel electrophoresis and DNA sequencing.
+CONCLUSION: In our study, mucosa-associated microbes of UC patients were not 
+able to induce spontaneous colitis in gnotobiotic BALB/c mice but they were able 
+to increase the susceptibility to DSS-induced colitis, once the potentially 
+deleterious microbes found a suitable niche.

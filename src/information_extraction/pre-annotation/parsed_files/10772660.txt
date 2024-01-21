@@ -1,0 +1,17 @@
+Clostridium difficile toxin A causes acute neutrophil infiltration and 
+intestinal mucosal injury. In cultured cells, toxin A inactivates Rho proteins 
+by monoglucosylation. In monocytes, toxin A induces IL-8 production and necrosis 
+by unknown mechanisms. We investigated the role of mitogen-activated protein 
+(MAP) kinases in these events. In THP-1 monocytic cells, toxin A activated the 3 
+main MAP kinase cascades within 1 to 2 minutes. Activation of p38 was sustained, 
+whereas stimulation of extracellular signal-regulated kinases and c-Jun 
+NH(2)-terminal kinase was transient. Rho glucosylation became evident after 15 
+minutes. IL-8 gene expression was reduced by 70% by the MEK inhibitor PD98059 
+and abrogated by the p38 inhibitor SB203580 or by overexpression of 
+dominant-negative mutants of the p38-activating kinases MKK3 and MKK6. SB203580 
+also blocked monocyte necrosis and IL-1beta release caused by toxin A but not by 
+other toxins. Finally, in mouse ileum, SB203580 prevented toxin A-induced 
+neutrophil recruitment by 92% and villous destruction by 90%. Thus, in monocytes 
+exposed to toxin A, MAP kinase activation appears to precede Rho glucosylation 
+and is required for IL-8 transcription and cell necrosis. p38 MAP kinase also 
+mediates intestinal inflammation and mucosal damage induced by toxin A.

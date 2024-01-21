@@ -1,0 +1,11 @@
+Nosocomial infections with the Gram-positive pathogen Clostridium difficile pose 
+a major risk for hospitalized patients and result in significant costs to health 
+care systems. Here, we present the chemical synthesis of a PS-II hapten of a 
+cell wall polysaccharide of hypervirulent ribotype 027 of C. difficile. Mice 
+were immunized with a conjugate consisting of the synthetic hexasaccharide and 
+the diphtheria toxoid variant CRM(197). The immunogenicity of the glycan 
+repeating unit was demonstrated by the presence of specific IgG antibodies in 
+the serum of immunized mice. Murine monoclonal antibodies interact with the 
+synthetic hexasaccharide, as determined by microarray analysis. Finally, we 
+found that specific IgA antibodies in the stool of hospital patients infected 
+with C. difficile recognize the synthetic PS-II hexasaccharide hapten.

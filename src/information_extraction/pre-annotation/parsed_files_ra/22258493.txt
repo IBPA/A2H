@@ -1,0 +1,23 @@
+OBJECTIVE: To elucidate the mechanisms involved in cartilage damage in an 
+experimental model of rheumatoid arthritis (RA) by specifically addressing the 
+time course of extracellular matrix degradation and the contribution of 
+cell-matrix interactions for initiation and perpetuation of this process.
+METHODS: The human tumour necrosis factor (TNF) transgenic (hTNFtg) mouse model 
+of RA was used to analyse the time course of pannus attachment to the cartilage 
+and cartilage destruction, respectively, and crossed hTNFtg mice with 
+interleukin (IL)-1(-/-) animals were used to investigate the role of IL-1 on 
+these TNF-induced mechanisms in vivo. In addition, an in vitro attachment assay 
+using synovial fibroblasts (SFs) from hTNFtg mice and freshly isolated articular 
+cartilage was used to determine the role of proteoglycan loss in attachment of 
+SFs and the role of the transmembrane heparan sulfate proteoglycan syndecan-4.
+RESULTS: In vivo analyses of hTNFtg mice showed that proteoglycan loss induced 
+by IL-1 precedes and constitutes an important prerequisite for these processes 
+as, in hTNFtg mice, IL-1 deficiency protected from the loss of cartilage 
+proteoglycans and almost completely prevented the attachment and subsequent 
+invasion of inflamed synovial tissue into cartilage. In vitro studies confirmed 
+that loss of cartilage proteoglycans is required for attachment of SFs and that 
+syndecan-4 is prominently involved in SF attachment and activation.
+CONCLUSIONS: The results of this study suggest that the loss of cartilage 
+proteoglycans is an early event in the course of destructive arthritis that 
+facilitates the attachment of the inflamed synovial membrane and also initiates 
+matrix degradation and inflammation through cell-matrix interactions.

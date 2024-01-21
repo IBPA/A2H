@@ -1,0 +1,19 @@
+The effects of the Clostridium difficile toxin were examined in HeLa and mouse 
+adrenal tumor (MAT) cells. Cytotoxicity was evaluated by vital dye exclusion and 
+51Cr release. In both HeLa and MAT cells, C. difficile toxin caused rounding of 
+virtually 100% of cells. This rounding was distinguishable from rounding 
+produced by the Escherichia coli heat-labile enterotoxin (LT): (1) LT was 
+inactive in HeLa cells; (2) in MAT cells, C. difficile toxin produced uniformly 
+rounded cells, while LT-rounded cells usually had cytoplasmic extensions and a 
+regular background of flattened cells. In C. difficile toxin affected HeLa 
+cells, there were less than mitotic figures per 1000 cells compared with 15-18 
+in controls. Clostridium difficile toxin treated HeLa cells showed less than 10% 
+cytotoxicity in 24 h and no more than 30% by 74 h, similar to control cells. 
+However, paralleling the suppression of mitotic figures, cell multiplication was 
+inhibited in C. difficile toxin treated cells when subcultured in a short-term 
+(72 h) assay compared with up to a 500% increase in control cells. This 
+inhibition was also seen in a 6-week cloning assay in which C. difficile toxin 
+treated cells had a cloning efficiency of less than 1% compared with 
+approximately 10% in controls. We conclude that the major effect of the C. 
+difficile toxin is inhibition of growth rather than immediate cell death. The 
+relationship of this growth inhibition to colitis remains to be elucidated.

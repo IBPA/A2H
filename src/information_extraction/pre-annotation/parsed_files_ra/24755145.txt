@@ -1,0 +1,21 @@
+The cholinergic anti-inflammatory pathway can inhibit the inflammation of 
+collagen induced arthritis (CIA), a mouse model of rheumatoid arthritis (RA). 
+However, the immunologic mechanisms that provide a therapeutic effect against 
+the auto-inflammatory disease are not yet elucidated. The present study explores 
+the effect of cholinergic anti-inflammatory pathway on CD4+ T cell responses in 
+CIA. Forty DBA/1 mice were divided into 4 groups: a control group, a CIA group, 
+a vagotomy group, and a nicotine group. The degree of arthritis was measured by 
+arthritis score and hematoxylin and eosin. ELISA was used to detect the serum 
+concentration of IFN-γ, IL-4 and IL-17A. Flow cytometry was used to detect the 
+cytokines and transcription factors (TFs) (the TFs of Th1, Th2, and Th17 cells 
+are T-bet, RORγτ and GATA3 respectively) in the spleen. Immunohistochemistry was 
+used to analyze RORγτ expression in the joint synovium. Arthritis in the 
+nicotine group was significantly lightened compared with that in the CIA group 
+and in the vagotomy group. Nicotine attenuated Th17 lineage by reducing IL-17A 
+production and RORγτ expression. The expressions of IL-4 and GATA3 were 
+increased in the same setting. However, the expressions of IFN-γ and T-bet had 
+no difference between the nicotine and the CIA group. Nicotine may induce a 
+shift to the Th2 lineage and improve the Th1/Th2 imbalance. Activating the 
+cholinergic anti-inflammatory pathway with nicotine can inhibit Th17 cell 
+responses and may improve the Th1/Th2 imbalance in CIA, providing a new 
+justification for its application in the treatment of rheumatoid arthritis.

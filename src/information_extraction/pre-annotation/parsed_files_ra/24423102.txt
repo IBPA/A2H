@@ -1,0 +1,30 @@
+INTRODUCTION: Abnormal toll-like receptor (TLR)3 signaling plays an 
+indispensable role in pathogenesis of both experimental and human rheumatoid 
+arthritis, and microRNAs (miRNAs) might orchestrate this signaling pathway. This 
+study was performed to determine the relationship between miR-26a and TLR3 in 
+rat macrophages and to observe effects of miR-26a mimic on pristane induced 
+arthritis (PIA) in rats.
+METHODS: Dual luciferase reporter assay was used to validate the direct 
+interaction between miR-26a (a candidate miRNA to target tlr3 mRNA) and tlr3 
+3'UTR. MiR-26a regulation on TLR3 gene expression was determined using RT-qPCR 
+and Western blotting after miR-26a mimics and inhibitors were transfected into 
+rat macrophage line NR8383 cells. Poly I:C (TLR3 ligand) was used to trigger 
+TLR3 activation, and mRNA expression of its downstream cytokines interferon 
+(ifn)-β and tumor necrosis factor (tnf)-α was accordingly detected to determine 
+the regulation of TLR3 signaling. Expressions of TLR3 and miR-26a were detected 
+during rat bone marrow derived macrophage (BMDM) induction, in pristane 
+stimulated NR8383 cells and spleens from methotrexate (MTX) treated PIA rats. A 
+miR-26a mimic was administrated intraperitoneally to PIA rats, and arthritis 
+severity was evaluated by macroscopic or microscopic observations.
+RESULTS: Direct target relationship between miR-26a and tlr3 mRNA in rats was 
+confirmed. Modifications of miR-26a function by transfection of miR-26a mimics 
+and inhibitors exhibited corresponding repression and augmentation of TLR3 and 
+its signaling downstream cytokine expressions in NR8383 cells. The alteration of 
+miR-26a expression was negatively related with TLR3 expression during BMDM 
+induction, in pristane-primed NR8383 cells and PIA rat spleens. Moreover, both 
+abnormal expressions were rescued in MTX treated arthritis rat spleens. The 
+miR-26a mimic treatment displayed the depression of TLR3 expression and 
+ameliorated the disease severity in the rats with pristane induced arthritis.
+CONCLUSIONS: MiR-26a negatively regulates TLR3 signaling via targeting of TLR3 
+itself in rat macrophages, and this finding provides a novel insight into 
+abnormal TLR3 overexpression during experimental arthritis.

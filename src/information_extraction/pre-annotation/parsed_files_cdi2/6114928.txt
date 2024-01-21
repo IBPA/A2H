@@ -1,0 +1,18 @@
+Antibiotic-associated pseudomembranous colitis has been linked with Clostridium 
+difficile toxin. We examined the effect of toxins from four strains of C. 
+difficile isolated from patients with pseudomembranous colitis on colonic 
+adenylate (EC 4.6.1.1) and guanylate cyclase (EC 4.6.1.2) activities. Partially 
+purified toxins had a cytotoxic effect on hamster fibroblasts in culture at a 
+concentration of 10 ng/ml. Likewise, these toxins enhanced colonic guanylate 
+cyclase activity two- to threefold, with the maximal stimulation being at 10 
+ng/ml. These toxins also enhanced guanylate cyclase activity in ileum, cecum, 
+and duodenum. Both the cytotoxic activity on hamster fibroblasts and the 
+enhancement of hamster guanylate cyclase activity were inhibited by antiserum to 
+C. difficile toxin. These same toxins inhibited adenylate cyclase activity at a 
+100-ng/ml concentration, but had no effect at 10 ng/ml. They also had no effect 
+at any concentration on colonic Na+-K+ adenosine triphosphatase. To be sure that 
+the findings were not due to a contaminant, a purified C. difficile cytotoxin 
+was used, and the same findings were found with the pure cytotoxin (at a 
+100-fold-lower concentration). The data suggest that activation of guanylate 
+cyclase may be a factor in the pathogenesis of antimicrobial-associated 
+pseudomembranous colitis.

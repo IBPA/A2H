@@ -1,0 +1,29 @@
+OBJECTIVE: In inflammatory lesions, sympathetic nerve fibers disappear soon 
+after the start of inflammation. We identified sympathetic nerve repellents as 
+possible causal agents in rheumatoid arthritis (RA). On nerve terminals, 
+repellent factors bind to neuropilin-2 and its coreceptor. The aim of this study 
+was to investigate the role of neuropilin-2 in the synovial tissue of patients 
+with RA and patients with osteoarthritis (OA) and in experimental arthritis.
+METHODS: The density of neuropilin-2-positive fibers and cells positive for 
+semaphorin 3F (a sympathetic repellent) was investigated using 
+immunofluorescence staining. Enzyme-linked immunosorbent assay was used to 
+detect soluble neuropilin-2 in body fluids from patients with RA and patients 
+with OA. An axon outgrowth assay and a neuropilin-2 Fc fusion construct 
+(neuropilin-2Fc) were used to investigate semaphorin 3F-induced sympathetic 
+nerve repulsion. In an animal model of type II collagen-induced arthritis, 
+soluble neuropilin-2Fc was studied in vivo.
+RESULTS: The synovial density of neuropilin-2-positive sympathetic nerve fibers 
+was lower in RA than in OA, but the density of cells positive for semaphorin 3F 
+was similar. In synovial fluid, the level of soluble neuropilin-2 was markedly 
+higher in RA compared with OA. Mouse sympathetic ganglia served as an excellent 
+model with which to study semaphorin 3F-induced nerve fiber repulsion. 
+Neuropilin-2 and its coreceptor were present on sympathetic neurons, and 
+semaphorin 3F bound to neuropilin-2Fc (binding constant 96 nmoles/liter). 
+Semaphorin 3F dose-dependently increased sympathetic nerve fiber repulsion (at a 
+50% maximum response concentration of 160-210 nmoles/liter). In contrast to our 
+expectations, soluble neuropilin-2Fc did not inhibit repulsion but increased the 
+repellent effect of semaphorin 3F. In experimental arthritis, therapy with 
+neuropilin-2Fc aggravated arthritis.
+CONCLUSION: Soluble neuropilin-2 has no antirepellent activity but aggravates 
+sympathetic nerve fiber repulsion and arthritis. Increased shedding of 
+neuropilin-2 is probably an unfavorable sign in RA.

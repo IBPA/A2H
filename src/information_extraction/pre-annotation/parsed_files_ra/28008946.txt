@@ -1,0 +1,19 @@
+Rheumatoid arthritis (RA) is an autoimmune disease that is related to the 
+induction of T helper (Th)17 cells, which secrete interleukin-17, and activation 
+of the signal transducer and activator of transcription (STAT) 3. The expression 
+of high-temperature requirement protein A (HtrA) 2, a serine protease involved 
+in apoptosis, was decreased in RA patients nonresponsive to drug treatment of 
+RA. The aim of this study was to determine whether overexpression of HtrA2 has a 
+therapeutic effect on RA. Th17 differentiation, osteoclastogenesis, and 
+lymphocyte activation are increased in motor neuron degeneration (mnd)2 mice, 
+which lack HtrA2 activity because of a missense mutation (Ser276Cys) in the 
+protease domain of HtrA2. The inhibitor of HtrA2 also increased Th17 
+differentiation. On the other hand, HtrA2 induced cleavage of STAT3 and 
+overexpression of HtrA2 attenuated CIA in a mouse model. HtrA2 overexpression 
+inhibited plaque development as well as the differentiation of Th17 in ApoE-/- 
+mice after immunization with proteoglycans to induce a hyperlipidemia-based RA 
+animal model. The therapeutic function of HtrA2 in inflammatory diseases is 
+linked with Th17 development and the STAT3 pathway in splenocytes. These results 
+suggest that HtrA2 participates in immunomodulatory activity where the 
+upregulation of HtrA2 may shed light on therapeutic approaches to RA and 
+hyperlipidemia.

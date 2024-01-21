@@ -1,0 +1,22 @@
+OBJECTIVE: CD55 (decay-accelerating factor) is best known for its role in the 
+negative regulation of the complement system. Indeed, lack of this molecule 
+leads to disease aggravation in many autoimmune disease models. However, CD55 is 
+abundantly present on fibroblast-like synoviocytes and is also a ligand of the 
+adhesion-class heptahelical receptor CD97, which is expressed by infiltrating 
+macrophages. Treatment with antibodies to CD97 ameliorates the collagen-induced 
+model of rheumatoid arthritis (RA) in DBA/1 mice, but the net contribution of 
+CD55 is unknown. This study was undertaken to investigate the role of CD55 in 
+experimental RA.
+METHODS: Arthritis was induced in wild-type, CD55(-/-), and CD97(-/-) mice using 
+collagen-induced and K/BxN serum-transfer models. Incidence of arthritis was 
+monitored over time, and disease activity was assessed by clinical and 
+immunohistochemical evaluation.
+RESULTS: In contrast to observations in many inflammatory disease models, lack 
+of CD55 resulted in decreased arthritis in experimental models of RA. Consistent 
+with the previously reported effects of anti-CD97 antibody treatment, CD97(-/-) 
+mice had reduced arthritis activity compared with wild-type controls.
+CONCLUSION: Our findings indicate that the lack of CD55 or CD97 in 2 different 
+models of arthritis increases resistance to the disease. These findings provide 
+insight into a role for CD55 interaction with CD97 in the pathogenesis of RA and 
+suggest that therapeutic strategies that disrupt CD55/CD97 may be clinically 
+beneficial.

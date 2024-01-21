@@ -1,0 +1,33 @@
+BACKGROUND: Anti-cytokine therapies such as adalimumab, tocilizumab, and the 
+small molecule JAK inhibitor tofacitinib have proven that cytokines and their 
+subsequent downstream signaling processes are important in the pathogenesis of 
+rheumatoid arthritis. Tofacitinib, a pan-JAK inhibitor, is the first approved 
+JAK inhibitor for the treatment of RA and has been shown to be effective in 
+managing disease. However, in phase 2 dose-ranging studies tofacitinib was 
+associated with dose-limiting tolerability and safety issues such as anemia. 
+Upadacitinib (ABT-494) is a selective JAK1 inhibitor that was engineered to 
+address the hypothesis that greater JAK1 selectivity over other JAK family 
+members will translate into a more favorable benefit:risk profile. Upadacitinib 
+selectively targets JAK1 dependent disease drivers such as IL-6 and IFNγ, while 
+reducing effects on reticulocytes and natural killer (NK) cells, which 
+potentially contributed to the tolerability issues of tofacitinib.
+METHODS: Structure-based hypotheses were used to design the JAK1 selective 
+inhibitor upadacitinib. JAK family selectivity was defined with in vitro assays 
+including biochemical assessments, engineered cell lines, and cytokine 
+stimulation. In vivo selectivity was defined by the efficacy of upadacitinib and 
+tofacitinib in a rat adjuvant induced arthritis model, activity on reticulocyte 
+deployment, and effect on circulating NK cells. The translation of the 
+preclinical JAK1 selectivity was assessed in healthy volunteers using ex vivo 
+stimulation with JAK-dependent cytokines.
+RESULTS: Here, we show the structural basis for the JAK1 selectivity of 
+upadacitinib, along with the in vitro JAK family selectivity profile and 
+subsequent in vivo physiological consequences. Upadacitinib is ~ 60 fold 
+selective for JAK1 over JAK2, and > 100 fold selective over JAK3 in cellular 
+assays. While both upadacitinib and tofacitinib demonstrated efficacy in a rat 
+model of arthritis, the increased selectivity of upadacitinib for JAK1 resulted 
+in a reduced effect on reticulocyte deployment and NK cell depletion relative to 
+efficacy. Ex vivo pharmacodynamic data obtained from Phase I healthy volunteers 
+confirmed the JAK1 selectivity of upadactinib in a clinical setting.
+CONCLUSIONS: The data presented here highlight the JAK1 selectivity of 
+upadacinitinib and supports its use as an effective therapy for the treatment of 
+RA with the potential for an improved benefit:risk profile.

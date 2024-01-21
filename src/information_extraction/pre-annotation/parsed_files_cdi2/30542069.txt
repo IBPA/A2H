@@ -1,0 +1,22 @@
+The expression of the Clostridium difficile binary toxin CDT is generally 
+observed in the RT027 (ST1) and RT078 (ST11) C. difficile isolates, which are 
+associated with severe C. difficile infection (CDI). However, we recently 
+reported that the non-RT027 and non-RT078 C. difficile strain LC693 (TcdA+TcdB+ 
+CDT+, ST201) caused severe diarrhea in a patient in Xiangya Hospital in China. 
+C.difficile LC693 is a member of Clade 3, and in this study, we identified LC693 
+as RT871 and compared its virulence and pathogenicity to those of C.difficile 
+R20291 (TcdA+TcdB+CDT+, ST1/RT027), UK6 (TcdA+TcdB+CDT+, ST35/RT027), CD630 
+(TcdA+TcdB+CDT-, ST54, RT012), and 1379 (TcdA+TcdB+CDT-, ST54/RT012), with 
+strain 1379 being an epidemic C.difficile isolate from the same hospital. LC693 
+displayed a higher sporulation rate than R20291, CD630 or strain 1379. LC693 was 
+comparable to R20291 with respect to spore germination, motility, and biofilm 
+formation, but showed a faster germination rate, higher motility and a higher 
+biofilm formation capability compared to CD630 and strain 1379. The adherence of 
+spores to human gut epithelial cells was similar for all strains.The total toxin 
+release of LC693 was lower than that of R20291, but higher than that of CD630 
+and strain 1379. Finally, in a mouse model of CDI, LC693 was capable of causing 
+moderate to severe disease. Our findings demonstrate the pathogenicity of 
+non-RT027 and non-RT078 binary toxin-positive C. difficile strains. Furthermore, 
+our data indicate that LC693 may be more virulent than strain 1379, an epidemic 
+strain from the same hospital, and provide the first phenotypic characterization 
+of a non-RT027 and non-RT078 binary toxin-positive ST201 isolate.

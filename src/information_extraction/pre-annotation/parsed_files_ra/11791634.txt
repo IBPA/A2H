@@ -1,0 +1,22 @@
+OBJECTIVE: To evaluate the safety and efficacy of L-asparaginase as an 
+immunosuppressive agent in a mouse model of rheumatoid arthritis.
+METHODS: Male DBA/1 mice with collagen-induced arthritis (CIA) were treated at 
+different intervals with various doses of native and pegylated L-asparaginase 
+from E. coli. The mice were observed for 4 weeks during which time arthritis was 
+scored. Outcome parameters included effect on severity and progression of 
+established arthritis as well as prevention of disease. In addition, X-rays from 
+the affected joints were obtained for comparison.
+RESULTS: Both native L-asparaginase at a dose of 50 IU/injection 
+intraperitoneally three days a week and pegylated asparaginase 
+(PEG-L-asparaginase) at a dose of 25 IU/injection twice a week, significantly 
+reduced the mean arthritic score (MAS) in mice with established arthritis (p < 
+0.001 for PEG-L-asparaginase). When native L-asparaginase was administered 
+before the onset of arthritis (days 14-post immunization) the number of mice 
+developing arthritis as well as the number of arthritic paws and the severity of 
+arthritis in the treatment group were significantly decreased (p < 0.0001). 
+Significant differences were found in the X-ray evaluation between treated and 
+control mice. None of the animals died due to drug related events or showed 
+signs of asparaginase induced toxicity.
+CONCLUSION: Our data provide the first direct evidence that L-asparaginase is a 
+potent antiarthritic agent and may represent an effective second line agent for 
+future treatment studies in juvenile and adult rheumatoid arthritis.

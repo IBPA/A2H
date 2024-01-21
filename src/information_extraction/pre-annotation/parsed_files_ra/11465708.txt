@@ -1,0 +1,24 @@
+OBJECTIVE: To examine the expression of the novel CX3C chemokine fractalkine 
+(Fkn) and its receptor (CX3CR1) in rheumatoid arthritis (RA) and rat 
+adjuvant-induced arthritis (AIA), a model of RA.
+METHODS: Immunohistochemistry, flow cytometry, enzyme-linked immunosorbent assay 
+(ELISA), reverse transcriptase-polymerase chain reaction (RT-PCR), and 
+chemotaxis assays were used.
+RESULTS: In rat AIA, synovial tissue (ST) macrophages, fibroblasts, endothelial 
+cells, and dendritic cells were Fkn immunopositive, whereas lymphocytes did not 
+significantly express Fkn. Significant staining for CX3CR1 was found in ST 
+macrophages, fibroblasts, and dendritic cells, whereas only a small percentage 
+of endothelial cells stained for CX3CR1 in rat AIA. We immunolocalized Fkn to RA 
+ST macrophages, fibroblasts, endothelial cells, and dendritic cells. We also 
+found intense ST macrophage and dendritic cell staining for CX3CR1 in RA ST. 
+Flow cytometry analysis of RA synovial fluid (SF) and peripheral blood revealed 
+a greater percentage of monocytes expressing Fkn and CX3CR1 compared with T 
+cells. By ELISA, we found significantly elevated soluble Fkn (sFkn) levels in RA 
+SF compared with SF from patients with osteoarthritis or other forms of 
+arthritis. By RT-PCR, we found enhanced expression of Fkn and CX3CR1 mRNA on day 
+18 in rat AIA, a time of pronounced inflammation in the rat joint. Soluble 
+Fkn-depleted RA SF showed significantly decreased chemotactic activity for 
+monocytes compared with sham-depleted RA SF.
+CONCLUSION: These results indicate that Fkn and its receptor are both expressed 
+in RA and in rat AIA, and that sFkn is up-regulated in RA SF. Furthermore, our 
+data suggest a new role for Fkn in monocyte chemotaxis in the inflamed RA joint.

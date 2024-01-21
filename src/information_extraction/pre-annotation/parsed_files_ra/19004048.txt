@@ -1,0 +1,24 @@
+OBJECTIVE: To investigate whether the blockade of Src homology 2 
+domain-containing protein tyrosine phosphatase substrate-1 (SHPS-1) has any 
+therapeutic effects on rheumatoid arthritis.
+METHODS: A functional blocking monoclonal antibody for SHPS-1 (anti-SHPS-1 mAb) 
+was administered at various doses to collagen-induced arthritis (CIA) mice, and 
+severity of the arthritis was evaluated by clinical and histological scores of 
+the limbs. To clarify the mechanisms of action of the antibody, the serum 
+concentration of anti-type II collagen antibody was measured in those mice, and 
+in vitro experiments were conducted to determine the effects of the antibody on 
+the induction of osteoclasts and the release of cytokines from mouse spleen 
+cells.
+RESULTS: Compared with mice given control IgG, the administration of anti-SHPS-1 
+mAb significantly reduced the severity of inflammation and destruction of bone 
+and cartilage in CIA mice. This therapeutic effect was observed even when the 
+antibody treatment was started after the onset of arthritis. The appearance of 
+anti-type II collagen antibody in CIA mice was not altered by the antibody 
+treatment. In in vitro experiments, the anti-SHPS-1 mAb significantly inhibited 
+osteoclastogenesis of bone marrow cells, and significantly reduced the release 
+of interleukin 1beta (IL-1beta), IL-2, IL-12, interferon-gamma, and tumor 
+necrosis factor-alpha, but not that of IL-4 or IL-10, from the spleen cells 
+after stimulation with concanavalin A.
+CONCLUSION: Administration of a monoclonal antibody for SHPS-1 reduced the 
+severity of arthritis in CIA mice. Regulation of biological functions of SHPS-1 
+may be a novel and potent strategy to treat patients with rheumatoid arthritis.

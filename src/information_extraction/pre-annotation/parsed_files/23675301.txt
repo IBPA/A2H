@@ -1,0 +1,16 @@
+Clostridium difficile spores must germinate in vivo to become actively growing 
+bacteria in order to produce the toxins that are necessary for disease. C. 
+difficile spores germinate in vitro in response to certain bile acids and 
+glycine. In other sporulating bacteria, proteins embedded within the inner 
+membrane of the spore sense the presence of germinants and trigger the release 
+of Ca⁺⁺-dipicolinic acid (Ca⁺⁺-DPA) from the spore core and subsequent 
+hydrolysis of the spore cortex, a specialized peptidoglycan. Based upon homology 
+searches of known germinant receptors from other spore-forming bacteria, C. 
+difficile likely uses unique mechanisms to recognize germinants. Here, we 
+identify the germination-specific protease, CspC, as the C. difficile bile acid 
+germinant receptor and show that bile acid-mediated germination is important for 
+establishing C. difficile disease in the hamster model of infection. These 
+results highlight the importance of bile acids in triggering in vivo germination 
+and provide the first description of a C. difficile spore germinant receptor. 
+Blocking the interaction of bile acids with the C. difficile spore may represent 
+an attractive target for novel therapeutics.

@@ -1,0 +1,16 @@
+Autoimmune diseases are conditions caused by an over reactive immune system that 
+attacks self-tissues and organs. Although the pathogenesis of autoimmune disease 
+is complex and multi-factorial, inflammation is commonly involved. Therefore, 
+anti-inflammatory therapies hold potential for the treatment of autoimmune 
+diseases. However, long-term control of inflammation is challenging and most of 
+the currently used drugs have side effects. Alpha-1 antitrypsin (AAT) is an 
+anti-inflammatory protein with a well-known safety profile. The therapeutic 
+potential of AAT has been tested in several autoimmune disease models. The first 
+study using a recombinant adeno-associated viral (rAAV) vector showed that AAT 
+gene transfer prevented the development of type 1 diabetes (T1D) in the 
+non-obese diabetic (NOD) mouse model. Subsequent studies showed that treatment 
+with AAT protein prevented and reversed type 1 diabetes. The beneficial effects 
+of AAT treatment have also been observed in other autoimmune disease models such 
+as rheumatoid arthritis and systemic lupus erythematosus. This paper reviews the 
+therapeutic application of AAT and discusses possible mechanisms of action in 
+various autoimmune diseases.

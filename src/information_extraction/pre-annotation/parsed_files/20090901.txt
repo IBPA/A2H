@@ -1,0 +1,21 @@
+Clostridium difficile, a spore-forming bacterium, causes antibiotic-associated 
+diarrhea. In order to produce toxins and cause disease, C. difficile spores must 
+germinate and grow out as vegetative cells in the host. Although a few compounds 
+capable of germinating C. difficile spores in vitro have been identified, the in 
+vivo signal(s) to which the spores respond were not previously known. 
+Examination of intestinal and cecal extracts from untreated and 
+antibiotic-treated mice revealed that extracts from the antibiotic-treated mice 
+can stimulate colony formation from spores to greater levels. Treatment of these 
+extracts with cholestyramine, a bile salt binding resin, severely decreased the 
+ability of the extracts to stimulate colony formation from spores. This result, 
+along with the facts that the germination factor is small, heat-stable, and 
+water-soluble, support the idea that bile salts stimulate germination of C. 
+difficile spores in vivo. All extracts able to stimulate high level of colony 
+formation from spores had a higher proportion of primary to secondary bile salts 
+than extracts that could not. In addition, cecal flora from antibiotic-treated 
+mice was less able to modify the germinant taurocholate relative to flora from 
+untreated mice, indicating that the population of bile salt modifying bacteria 
+differed between the two groups. Taken together, these data suggest that an in 
+vivo-produced compound, likely bile salts, stimulates colony formation from C. 
+difficile spores and that levels of this compound are influenced by the 
+commensal gastrointestinal flora.

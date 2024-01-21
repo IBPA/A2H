@@ -1,0 +1,19 @@
+Clostridioides difficile is a Gram-positive, spore-forming bacterium that causes 
+a severe intestinal infection. Spores of this pathogen enter in the human body 
+through the oral route, interact with intestinal epithelial cells and persist in 
+the gut. Once germinated, the vegetative cells colonize the intestine and 
+produce toxins that enhance an immune response that perpetuate the disease. 
+Therefore, spores are major players of the infection and ideal targets for new 
+therapies. In this context, spore surface proteins of C. difficile, are 
+potential antigens for the development of vaccines targeting C. difficile 
+spores. Here, we report that the C-terminal domain of the spore surface protein 
+BclA3, BclA3CTD, was identified as an antigenic epitope, over-produced in 
+Escherichia coli and tested as an immunogen in mice. To increase antigen 
+stability and efficiency, BclA3CTD was also exposed on the surface of B. 
+subtilis spores, a mucosal vaccine delivery system. In the experimental 
+conditions used in this study, free BclA3CTD induced antibody production in mice 
+and attenuated some C. difficile infection symptoms after a challenge with the 
+pathogen, while the spore-displayed antigen resulted less effective. Although 
+dose regimen and immunization routes need to be optimized, our results suggest 
+BclA3CTD as a potentially effective antigen to develop a new vaccination 
+strategy targeting C. difficile spores.

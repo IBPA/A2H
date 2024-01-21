@@ -1,0 +1,23 @@
+The selective, high affinity A(2B) adenosine receptor (AdoR) antagonists that 
+were synthesized by several research groups should aid in determining the role 
+of the A(2B) AdoR in inflammatory diseases like asthma or rheumatoid arthritis 
+(RA) and angiogenic diseases like diabetic retinopathy or cancer. CV 
+Therapeutics scientists discovered the selective, high affinity A(2B) AdoR 
+antagonist 10, a 8-(4-pyrazolyl)-xanthine derivative [CVT-6883, K(i)(hA(2B)) = 
+22 nM; K(i)(hA(1)) = 1,940 nM; K(i)(hA(2A)) = 3,280; and K(i)(hA(3)) = 1,070 nM] 
+that has favorable pharmacokinetic (PK) properties (t (1/2) = 4 h and F > 35% 
+rat). Compound 10 demonstrated functional antagonism at the A(2B) AdoR (K(B) = 6 
+nM) and efficacy in a mouse model of asthma. In two phase 1 clinical trials, 
+CVT-6883 was found to be safe, well tolerated, and suitable for once daily 
+dosing. A second compound 20, 8-(5-pyrazolyl)-xanthine, has been nominated for 
+development from Baraldi's group in conjunction with King Pharmaceuticals that 
+has favorable A(2B) AdoR affinity and selectivity [K(i)(hA(2B)) = 5.5 nM; 
+K(i)(hA(1)) > 1,000 nM; K(i)(hA(2A)) > 1,000; and K(i)(hA(3)) > 1,000 nM], and 
+it has been demonstrated to be a functional antagonist. A third compound 32, a 
+2-aminopyrimidine, from the Almirall group has high A(2B) AdoR affinity and 
+selectivity [K(i)(hA(2B)) = 17 nM; K(i)(hA(1)) > 1,000 nM; K(i)(hA(2A)) > 2,500; 
+and K(i)(hA(3)) > 1,000 nM], and 32 has been moved into preclinical safety 
+testing. Since three highly selective, high affinity A(2B) AdoR antagonists have 
+been nominated for development with 10 (CVT-6883) being the furthest along in 
+the development process, the role of the A(2B) AdoR in various disease states 
+will soon be established.

@@ -1,0 +1,21 @@
+Pantothenate, commonly referred to as vitamin B(5), is an essential molecule in 
+the metabolism of living organisms and forms the core of coenzyme A. Unlike 
+humans, some bacteria and plants are capable of de novo biosynthesis of 
+pantothenate, making this pathway a potential target for drug development. 
+Francisella tularensis subsp. tularensis Schu S4 is a zoonotic bacterial 
+pathogen that is able to synthesize pantothenate but is lacking the known 
+ketopantoate reductase (KPR) genes, panE and ilvC, found in the canonical 
+Escherichia coli pathway. Described herein is a gene encoding a novel KPR, for 
+which we propose the name panG (FTT1388), which is conserved in all sequenced 
+Francisella species and is the sole KPR in Schu S4. Homologs of this KPR are 
+present in other pathogenic bacteria such as Enterococcus faecalis, Coxiella 
+burnetii, and Clostridium difficile. Both the homologous gene from E. faecalis 
+V583 (EF1861) and E. coli panE functionally complemented Francisella novicida 
+lacking any KPR. Furthermore, panG from F. novicida can complement an E. coli 
+KPR double mutant. A Schu S4 ΔpanG strain is a pantothenate auxotroph and was 
+genetically and chemically complemented with panG in trans or with the addition 
+of pantolactone. There was no virulence defect in the Schu S4 ΔpanG strain 
+compared to the wild type in a mouse model of pneumonic tularemia. In summary, 
+we characterized the pantothenate pathway in Francisella novicida and F. 
+tularensis and identified an unknown and previously uncharacterized KPR that can 
+convert 2-dehydropantoate to pantoate, PanG.

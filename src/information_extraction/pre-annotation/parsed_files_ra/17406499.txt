@@ -1,0 +1,10 @@
+Collagen antibody-induced arthritis (CAIA) is a simple mouse model of rheumatoid 
+arthritis that can be used to address questions of pathogenic mechanisms and to 
+screen candidate therapeutic agents. Arthritis is stimulated by the 
+administration of a cocktail of monoclonal antibodies that are directed to 
+conserved auto-antigenic epitopes in collagen type II, followed by endotoxin. 
+The antibody-induced arthritis model offers several key advantages over the 
+classic collagen-induced arthritis (CIA) model. These include rapid disease 
+onset, high uptake rate, synchronicity, and the capacity to use genetically 
+modified mice, such as transgenics and knockouts. This protocol takes 1-2 weeks 
+to be completed.

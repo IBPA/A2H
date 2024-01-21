@@ -1,0 +1,28 @@
+INTRODUCTION: Secretory phospholipase A2 (sPLA2) and matrix metalloproteinase 
+(MMP) inhibitors are potent modulators of inflammation with therapeutic 
+potential, but have limited efficacy in rheumatoid arthritis (RA). The objective 
+of this study was to understand the inhibitory mechanism of phospholipase 
+inhibitor from python (PIP)-18 peptide in cultured synovial fibroblasts (SF), 
+and to evaluate its therapeutic potential in a human tumor necrosis factor 
+(hTNF)-driven transgenic mouse (Tg197) model of arthritis.
+METHODS: Gene and protein expression of sPLA2-IIA, MMP-1, MMP-2, MMP-3, MMP-9, 
+tissue inhibitor of metalloproteinase (TIMP)-1, and TIMP-2 were analyzed by real 
+time PCR and ELISA respectively, in interleukin (IL)-1beta stimulated rheumatoid 
+arthritis (RA) and osteoarthritis (OA) synovial fibroblasts cells treated with 
+or without inhibitors of sPLA2 (PIP-18, LY315920) or MMPs (MMP Inhibitor II). 
+Phosphorylation status of mitogen-activated protein kinase (MAPK) proteins was 
+examined by cell-based ELISA. The effect of PIP-18 was compared with that of 
+celecoxib, methotrexate, infliximab and antiflamin-2 in Tg197 mice after ip 
+administration (thrice weekly for 5 weeks) at two doses (10, 30 mg/kg), and 
+histologic analysis of ankle joints. Serum sPLA2 and cytokines (tumor necrosis 
+factor (TNF)alpha, IL-6) were measured by Escherichia coli (E coli) assay and 
+ELISA, respectively.
+RESULTS: PIP-18 inhibited sPLA2-IIA production and enzymatic activity, and 
+suppressed production of MMPs in IL-1beta-induced RA and OA SF cells. Treatment 
+with PIP-18 blocked IL-1beta-induced p38 MAPK phosphorylation and resulted in 
+attenuation of sPLA2-IIA and MMP mRNA transcription in RA SF cells. The disease 
+modifying effect of PIP-18 was evidenced by significant abrogation of synovitis, 
+cartilage degradation and bone erosion in hTNF Tg197 mice.
+CONCLUSIONS: Our results demonstrate the benefit that can be gained from using 
+sPLA2 inhibitory peptide for RA treatment, and validate PIP-18 as a potential 
+therapeutic in a clinically relevant animal model of human arthritis.

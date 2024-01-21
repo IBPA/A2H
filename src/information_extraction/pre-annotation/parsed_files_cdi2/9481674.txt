@@ -1,0 +1,28 @@
+1. Clostridium difficile toxin B glucosylates the Ras-related low molecular mass 
+GTPases of the Rho subfamily thereby inactivating them. In the present report, 
+toxin B was applied as a tool to test whether Rho proteins participate in the 
+carbachol-induced increase in the Ca2+ sensitivity of force and myosin light 
+chain (MLC) phosphorylation in intact intestinal smooth muscle. 2. Small strips 
+of the longitudinal muscle of guinea-pig small intestine were incubated in toxin 
+B (40 ng ml-1) overnight. Carbachol-induced force and intracellular [Ca2+], and, 
+in a separate series, force and MLC phosphorylation, were determined. 3. 
+Carbachol induced a biphasic contraction: an initial rapid increase in force 
+(peak 1) followed by a partial relaxation and a second delayed increase in force 
+(peak 2). The peak of the Ca2+ signal measured with fura-2 preceded peak 1 of 
+force and then declined to a lower suprabasal steady-state level. Peak 2 was not 
+associated with a significant increase in [Ca2+]. Toxin B nearly completely 
+inhibited peak 2 while peak 1 was not significantly inhibited. Toxin B had no 
+effect on the Ca2+ transient. 4. In control strips, MLC phosphorylation at peak 
+2 was 27.7% which was significantly higher than the resting value (18.6%). The 
+inhibition of the second, delayed, rise in force induced by toxin B was 
+associated with complete inhibition of the increase in MLC phosphorylation. The 
+resting MLC phosphorylation was not significantly different from that of the 
+control strips. 5. The initial increase in MLC phosphorylation determined 3 s 
+after exposure to carbachol was 54% in the control strips. Toxin B also 
+inhibited this initial phosphorylation peak despite the fact that the Ca2+ 
+transient and the initial increase in force were not inhibited by toxin B. This 
+suggests that Rho proteins play an important role in setting the balance between 
+MLC phosphorylation and dephosphorylation reactions even at high levels of 
+intracellular Ca2+. 6. These findings are consistent with the hypothesis that 
+the delayed rise in force elicited by carbachol is due to an increase in the 
+Ca2+ sensitivity of MLC phosphorylation mediated by Rho proteins.

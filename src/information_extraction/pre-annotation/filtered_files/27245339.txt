@@ -1,0 +1,24 @@
+Adjuvant-induced arthritis is an experimental model of rheumatoid arthritis that 
+is associated with body weight loss and muscle wasting. β2-adrenergic receptor 
+agonists are powerful anabolic agents that trigger skeletal muscle hypertrophy 
+and have been proposed as a promising treatment for muscle wasting in human 
+patients. The aim of this work was to determine whether formoterol, a selective 
+β2-adrenoreceptor agonist, is able to ameliorate muscle wasting in arthritic 
+rats. Arthritis was induced in male Wistar rats by intradermal injection of 
+Freund's adjuvant. Control and arthritic rats were injected daily with 50 μg/kg 
+sc formoterol or saline for 12 days. Body weight change, food intake, and 
+arthritis index were analyzed. After euthanasia, in the gastrocnemius mRNA was 
+analyzed by PCR, and proteins were analyzed by Western blotting. Arthritis 
+decreased gastrocnemius weight, cross-sectional area, and myofiber size, whereas 
+formoterol increased those variables in both arthritic and control rats. 
+Formoterol decreased the external signs of arthritis as well as NF-κB(p65) 
+activation, TNFα, and COX-2 levels in the gastrocnemius of arthritic and control 
+rats. Those effects of formoterol were associated with a decreased expression of 
+myostatin, atrogin-1, and MuRF1 and in LC3b lipidation. Arthritis increased the 
+expression of MyoD, myogenin, IGF-I, and IGFBP-3 and -5 in the gastrocnemius. In 
+control and in arthritic rats, treatment with formoterol increased Akt 
+phosphorylation and myogenin levels, whereas it decreased IGFBP-3 expression in 
+the gastrocnemius. These data suggest that formoterol has an anti-inflammatory 
+effect and decreases muscle wasting in arthritic rats through increasing Akt 
+activity and myogenin and decreasing myostatin, the p-NF-κB(p65)/TNF pathway, 
+and IGFBP-3.

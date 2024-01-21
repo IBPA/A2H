@@ -1,0 +1,16 @@
+Quantifying the bone erosion in preclinical models of rheumatoid arthritis is 
+valuable for the evaluation of drug treatments. This study introduces a 
+three-dimensional method for bone surface roughness measurement from 
+micro-computed tomographic data obtained from rats subjected to collagen-induced 
+arthritis (CIA), in which the degree of bone erosion is related to the severity 
+and the duration of the disease. In two studies of rat CIA, the surface 
+roughness of the talus bone following 21 days of disease increased 559% and 486% 
+from the control group. At 41 days following disease induction, the roughness of 
+the bone surface increased 857% above baseline. The roughness of the control 
+samples was similar from each study (less than 4% different), demonstrating the 
+robustness of the algorithm. Treatment with methotrexate at 0.1 mg/kg daily 
+demonstrated significant protection from bone erosion, whereas the 0.05 mg/kg 
+daily dose was not efficacious (98% versus 22% inhibition of roughness-measured 
+bone erosion). The main advantage of such an algorithm is demonstrated in the 
+preclinical drug study of rat CIA with methotrexate treatment, indicating the 
+immediate utility of this approach in drug development studies.

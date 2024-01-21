@@ -1,0 +1,22 @@
+Clostridium difficile is a Gram-positive bacterium that is known to be a cause 
+of enteric diseases in humans. It is the leading cause of antibiotic-associated 
+diarrhea and pseudomembranous colitis. Recently, large outbreaks of C. 
+difficile-associated diarrhea have been reported internationally, and there have 
+been reports of increases in severe disease, mortality and relapse rates. At the 
+moment, there is no vaccine against C. difficile, and the medical prevention of 
+C. difficile infection is mostly based on the prophylactic use of antibiotics; 
+however, this has led to an increase in the incidence of the disease. Here, we 
+describe the chemical structure of C. difficile cell-surface polysaccharides. 
+The polysaccharides of three C. difficile strains were structurally analyzed; 
+ribotype 027 (North American pulsotype 1) strain was observed to express two 
+polysaccharides, one was composed of a branched pentaglycosyl phosphate 
+repeating unit: 
+[-->4)-alpha-l-Rhap-(1-->3)-beta-D-Glcp-(1-->4)-[alpha-l-Rhap-(1-->3]-alpha-D-Glcp-(1-->2)-alpha-D-Glcp-(1-->P] 
+and the other was composed of a hexaglycosyl phosphate repeating unit: 
+[-->6)-beta-D-Glcp-(1-->3)-beta-D-GalpNAc-(1-->4)-alpha-D-Glcp-(1-->4)-[beta-D-Glcp-(1-->]-beta-D-GalpNAc-(1-->3)-alpha-D-Manp-(1-->P]. 
+The latter polysaccharide was also observed to be produced by strains MOH900 and 
+MOH718. The results described here represent the first literature report 
+describing the covalent chemical structures of C. difficile cell-surface 
+polysaccharides, of which PS-II appears to be a regular C. difficile antigen. 
+These C. difficile teichoic-acid-like polysaccharides will be tested as 
+immunogens in vaccine preparations in a rat and horse model.

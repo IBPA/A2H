@@ -1,0 +1,23 @@
+Susceptibility of patients to antibiotic-associated C. difficile disease is 
+intimately associated with specific changes to gut microbiome composition. In 
+particular, loss of microbes that modify bile salt acids (BSA) play a central 
+role; primary bile acids stimulate spore germination whilst secondary bile acids 
+limit C. difficile vegetative growth. To determine the relative contribution of 
+bile salt (BS) metabolism on C. difficile disease severity, we treated mice with 
+three combinations of antibiotics prior to infection. Mice given clindamycin 
+alone became colonized but displayed no tissue pathology while severe disease, 
+exemplified by weight loss and inflammatory tissue damage occurred in animals 
+given a combination of five antibiotics and clindamycin. Animals given only the 
+five antibiotic cocktails showed only transient colonization and no disease. C. 
+difficile colonization was associated with a reduction in bacterial diversity, 
+an inability to amplify bile salt hydrolase (BSH) sequences from fecal DNA and a 
+relative increase in primary bile acids (pBA) in cecal lavages from infected 
+mice. Further, the link between BSA modification and the microbiome was 
+confirmed by the isolation of strains of Lactobacillus murinus that modified 
+primary bile acids in vitro, thus preventing C. difficile germination. 
+Interestingly, BSH activity did not correlate with disease severity which 
+appeared linked to alternations in mucin, which may indirectly lead to increased 
+exposure of the epithelial surface to inflammatory signals. These data confirm 
+the role of microbial metabolic activity in protection of the gut and highlights 
+the need for greater understanding the function of bacterial communities in 
+disease prevention.

@@ -1,0 +1,5 @@
+DS-2969b, a novel GyrB inhibitor, transiently and reversibly altered the counts 
+of limited intestinal microbiota at around 10 μg/g of faecal levels in rats and 
+monkeys. Considering the high activity of DS-2969b against Clostridium 
+difficile, 10 μg/g of faecal levels would be sufficient for clearing 
+C. difficile from the intestine.

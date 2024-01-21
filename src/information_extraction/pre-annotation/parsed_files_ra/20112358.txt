@@ -1,0 +1,30 @@
+OBJECTIVE: Interleukin-27 (IL-27) has stimulatory and regulatory immune 
+functions and is expressed in rheumatoid arthritis (RA) synovium. This study was 
+undertaken to investigate the effects of IL-27 on human osteoclastogenesis, to 
+determine whether IL-27 can stimulate or attenuate the osteoclast-mediated bone 
+resorption that is a hallmark of RA.
+METHODS: Osteoclasts were generated from blood-derived human CD14+ cells. The 
+effects of IL-27 on osteoclast formation were evaluated by counting the number 
+of tartrate-resistant acid phosphatase-positive multinucleated cells and 
+measuring the expression of osteoclast-related genes. The induction of nuclear 
+factor of activated T cells c1 (NFATc1) and the activation of signaling pathways 
+downstream of RANK were measured by immunoblotting. The expression of key 
+molecules implicated in osteoclastogenesis (NFATc1, RANK, costimulatory 
+receptors, and immunoreceptor tyrosine-based activation motif-harboring adaptor 
+proteins) was measured by real-time reverse transcription-polymerase chain 
+reaction. Murine osteoclast precursors obtained from mouse bone marrow and 
+synovial fluid macrophages derived from RA patients were also tested for their 
+responsiveness to IL-27.
+RESULTS: IL-27 inhibited human osteoclastogenesis, suppressed the induction of 
+NFATc1, down-regulated the expression of RANK and triggering receptor expressed 
+on myeloid cells 2 (TREM-2), and inhibited RANKL-mediated activation of ERK, 
+p38, and NF-kappaB in osteoclast precursors. Synovial fluid macrophages from RA 
+patients were refractory to the effects of IL-27. In contrast to the findings in 
+humans, IL-27 only moderately suppressed murine osteoclastogenesis, and this was 
+likely attributable to low expression of the IL-27 receptor subunit WSX-1 on 
+murine osteoclast precursors.
+CONCLUSION: IL-27 inhibits human osteoclastogenesis by a direct mechanism that 
+suppresses the responses of osteoclast precursors to RANKL. These findings 
+suggest that, in addition to its well-known antiinflammatory effects, IL-27 
+plays a homeostatic role in restraining bone erosion. This homeostatic function 
+is compromised under conditions of chronic inflammation such as in RA synovitis.

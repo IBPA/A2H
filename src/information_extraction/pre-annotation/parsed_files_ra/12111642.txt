@@ -1,0 +1,24 @@
+Pristane-induced arthritis (PIA) in rats is an animal model for rheumatoid 
+arthritis (RA). We have previously identified seven quantitative trait loci 
+(QTLs), which regulate arthritis development using a cross between the 
+susceptible DA strain and the resistant E3 strain of rats (Pia2-8). In the 
+present study the inbred rat strain LEW.1F was used as the susceptible strain in 
+a cross with the E3 strain. The results confirmed the locus Pia4 on chromosome 
+12, which previously was shown to be associated with PIA, and also with 
+experimental allergic encephalomyelitis, in crosses between the rat strains E3 
+and DA. On chromosome 1, linked to the albino locus, we identified a novel QTL, 
+Pia9 in the LEW.F1 cross. This locus was associated with arthritis severity in 
+the early phase of disease. A locus on chromosome 16, denoted Pia11, was also 
+associated with arthritis severity in the early phase of the disease. A 
+suggestive locus was detected on chromosome 14, which was associated with 
+arthritis severity at the time when PIA progresses into a chronic phase. Using a 
+congenic LEW.1F strain, which carries E3 alleles at the Pia9 locus, we confirmed 
+that the E3 allele significantly suppresses arthritis severity during the early 
+phase of the disease. The results revealed synergistic effects between different 
+susceptibility loci using ANOVA analysis. These interactions were influenced by 
+gender. Rats with Pia9 alleles from LEW.1F and Pia11 alleles from E3, were shown 
+to suffer from much more severe arthritis in the early stage of the disease. On 
+the other hand, the Pia9 and the suggestive locus on chromosome 14 affected only 
+males during the chronic phase of the disease. These findings provide clues to 
+how genetic factors by themselves, and in interaction with each other, regulate 
+the development of a disease, which displays many similarities to RA.

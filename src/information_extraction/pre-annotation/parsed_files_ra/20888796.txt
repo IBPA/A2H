@@ -1,0 +1,14 @@
+A new family of cytokine IL-32 has been implicated in pro-inflammatory immune 
+responses several human diseases such as rheumatoid arthritis, inflammatory 
+bowel diseases and vasculitis. In this study, we investigated the role of IL-32 
+in the inflammatory activation of cultured rat primary astrocytes. Treatment of 
+IL-32 increased ROS production and augmented lipopolysaccharide-induced 
+increased production of nitric oxide as well as the expression of iNOS. IL-32 
+also induced the expression of MMP-9 but not MMP-2 in rat primary astrocytes. 
+The increased expression of these inflammatory mediators was accompanied by the 
+increased mRNA expression encoding iNOS, MMP-9 and TNF-α. ERK1/2 and p38, two 
+essential regulators of pro-inflammatory signaling in rat primary astrocytes 
+were activated by IL-32 as evidenced by increased phosphorylation. The results 
+from the present study suggest that IL-32 may play a role in the regulation of 
+neuroinflammatory responses in several neurological disease conditions such as 
+ischemia and Alzheimer's disease.

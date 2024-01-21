@@ -1,0 +1,10 @@
+Angiogenesis is a necessary component of normal tissue repair, tumor growth and 
+dissemination, and a wide variety of other inflammatory and pathological 
+processes as well, including diabetic retinopathy, rheumatoid arthritis, and 
+psoriasis. Consequently, the last two decades have seen extensive research into 
+the regulation of neovascularization, particularly in tumors. Partly due to the 
+emphasis on tumor angiogenesis, much of this effort has been devoted to the 
+detection and characterization of angiogenic growth factors and inhibitory 
+molecules. Thus assays have commonly been developed to measure the amount of 
+vascular growth in vivo, or the modulation of endothelial cell (EC) 
+proliferation, or migration in simple 2D culture systems (1).

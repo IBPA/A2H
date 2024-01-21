@@ -1,0 +1,17 @@
+We have defined previously five quantitative trait loci controlling development 
+of pristane-induced arthritis in a cross between E3 and DA rats. To define new 
+loci controlling the disease we have mapped three recombinant inbred strains 
+between DA and E3 and analysed an F2 cross between DA rats and one of these RI 
+strains. Two novel loci affecting disease severity are identified on chromosome 
+1 (Pia8) and chromosome 4 (Pia7) respectively. We could also reproduce the 
+earlier identified Pia3 locus on chromosome 6 associated with arthritis onset. 
+In the original E3xDA F2 cross, neither of the loci Pia7, Pia8, or Pia1 showed 
+any association with arthritis. To investigate the possibility of interacting 
+loci preventing the phenotypic expression of other loci, the E3xDA F2 cross was 
+re-analysed with a model for a two locus interaction, knowing the presence of 
+these newly identified loci. We found suggestive evidence for an interaction 
+where an effect of Pia7 and Pia1 on disease severity depends on DA homozygosity 
+at specific loci, which themselves do not confer susceptibility. This shows that 
+additional disease associated loci can be identified if other loci are 
+neutralized. This will be of importance for understanding the complex genetics 
+controlling rheumatoid arthritis.

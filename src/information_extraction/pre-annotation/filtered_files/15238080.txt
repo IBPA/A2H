@@ -1,0 +1,20 @@
+Citrullination (deimination is an enzymatic, posttranslational conversion of 
+arginine residues to citrulline residues) of joint-associated self-proteins may 
+be a possible mechanism in the induction of autoimmune CD4 T-cell responses in 
+rheumatoid arthritis. We have studied the immune response to normal or 
+deiminated human fibrinogen (hFBG) in mouse strains expressing major 
+histocompatibility complex (MHC) class II antigens similar to either 
+RA-susceptible or non-susceptible HLA-DR4 alleles. Upon immunization with 
+deiminated hFBG, all mouse strains analysed produced high amounts of anti-FBG 
+antibodies, while relatively low levels of anti-citrulline antibodies and little 
+or no anti-FBG antibodies crossreactive with mouse FBG (mFBG) were obtained. 
+Mice immunized with normal hFBG also produced high amounts of anti-hFBG 
+antibodies. However, whereas mice with MHC class II molecules similar to 
+RA-non-susceptible HLA-DR4 alleles produced low levels of anti-hFBG antibodies 
+with crossreactivity to mFBG, mouse strains with RA-susceptible 
+HLA-DR4-equivalent MHC class II molecules contained high levels of such 
+crossreactive anti-mFBG antibodies. Similar results were obtained with 
+HLA-DR4*0401, human CD4-double-transgenic mice. However, none of the more than 
+600 mice investigated developed arthritis. These data indicate that the quality 
+and/or quantity of anti-FBG autoantibodies or of anti-citrulline antibodies, 
+produced in the studied mouse strains, are insufficient to induce arthritis.

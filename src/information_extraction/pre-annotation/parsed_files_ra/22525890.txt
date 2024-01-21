@@ -1,0 +1,28 @@
+The development and maintenance of immunosuppressive CD4+ regulatory T cells 
+(Tregs) contribute to the peripheral tolerance needed to remain in immunologic 
+homeostasis with the vast amount of self and commensal antigens in and on the 
+human body. Perturbations in the balance between Tregs and inflammatory 
+conventional T cells can result in immunopathology or cancer. Although 
+therapeutic injection of Tregs has been shown to be efficacious in murine models 
+of colitis, type I diabetes, rheumatoid arthritis and graft versus host disease, 
+several fundamental differences in human versus mouse Treg biology has thus far 
+precluded clinical use. The lack of sufficient number, purity, stability and 
+homing specificity of therapeutic Tregs necessitated a dynamic platform of human 
+Treg development on which to optimize conditions for their ex vivo expansion. 
+Here we describe a method for the differentiation of induced Tregs (iTregs) from 
+a single human peripheral blood donor which can be broken down into four stages: 
+isolation of peripheral blood mononuclear cells, magnetic selection of CD4+ T 
+cells, in vitro cell culture and fluorescence activated cell sorting (FACS) of T 
+cell subsets. Since the Treg signature transcription factor forkhead box P3 
+(FoxP3) is an activation-induced transcription factor in humans and no other 
+unique marker exists, a combinatorial panel of markers must be used to identify 
+T cells with suppressor activity. After six days in culture, cells in our system 
+can be demarcated into naïve T cells, memory T cells or iTregs based on their 
+relative expression of CD25 and CD45RA. As memory and naïve T cells have 
+different reported polarization requirements and plasticities, pre-sorting of 
+the initial T cell population into CD45RA(+) and CD45RO(+) subsets can be used 
+to examine these discrepancies. Consistent with others, our CD25(Hi)CD45RA(-) 
+iTregs express high levels of FoxP3, GITR and CTLA-4 and low levels of CD127. 
+Following FACS of each population, resultant cells can be used in a suppressor 
+assay which evaluates the relative ability to retard the proliferation of 
+carboxyfluorescein succinimidyl ester (CFSE)-labeled autologous T cells.

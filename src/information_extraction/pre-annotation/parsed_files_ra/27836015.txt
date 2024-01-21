@@ -1,0 +1,20 @@
+BACKGROUND: Rheumatoid arthritis (RA) is a chronic, progressive, and 
+inflammatory autoimmune disease which primarily affects the small arthrodial 
+joints. The aim of this study was to test whether transplantation of mesenchymal 
+stem cells derived from gingival tissue (GMSCs) could ameliorate 
+collagen-induced arthritis (CIA), and to explore the role of the FasL/Fas 
+pathway in the underlying mechanism.
+METHODS: DBA/1 mice with collagen II-induced arthritis were treated with GMSCs 
+from the C57BL/6 J mouse, the B6Smn.C3-FasLgld/J mouse (FasL-/- GMSCs), and FasL 
+overexpressed FasL-/- GMSCs (FasL TF GMSCs). Inflammation was evaluated by 
+measuring clinical score, tumor necrosis factor (TNF)-α and anti-collagen II 
+antibody levels, and histological analyses. The levels of CD4+ Th cell subsets 
+in spleens and draining lymph nodes were assessed by flow cytometric analysis.
+RESULTS: Systemic infusion of GMSCs can significantly reduce the severity of 
+experimental arthritis, and resume the balance of Th cell subsets. FasL-/- GMSCs 
+failed to induce apoptosis of activated T cells in vitro and in vivo, and 
+therefore show no therapeutic effects, whereas FasL TF GMSCs can rescue the 
+immunosuppressant effects in the treatment of CIA.
+CONCLUSIONS: GMSC-based therapy induces T-cell apoptosis via the FasL/Fas 
+pathway and results in immune tolerance and amelioration of the CIA 
+inflammation.

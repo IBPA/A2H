@@ -1,0 +1,23 @@
+Major recent advances in the field of chromatin remodeling have dramatically 
+changed our understanding of the ways in which genes are regulated. Epigenetic 
+regulators such as histone deacetylases (HDACs) and histone acetyltransferases 
+(HATs) are increasingly being implicated as direct or indirect components in the 
+regulation of expression of neuronal, immune and other tissue specific genes. 
+HDACs and HATs have been shown to play important roles in cell growth, cell 
+cycle control, development, differentiation and survival. Mutations in genes 
+that encode HDAC-binding proteins cause neurological disorders, such as MeCP2 
+mutations in Rett's syndrome. Mutations of CBP, a gene with HAT function, cause 
+the mental retardation-associated Rubinstein-Taybi syndrome. Recently, HDAC 
+inhibitors have been found to ameliorate progression of the spinal muscular 
+atrophy (SMA) motor neuron disease and the Huntington disease mouse models. The 
+neuroprotective role of HDAC inhibitors seems to extend to other diseases that 
+share mechanisms of oxidative stress, inflammation and neuronal cell apoptosis. 
+HDAC inhibitors also have widespread modulatory effects on gene expression 
+within the immune system and have been used successfully in the lupus and 
+rheumatoid arthritis autoimmune disease models. Recently, we demonstrated the 
+efficacy of the HDAC inhibitor Trichostatin A in ameliorating disease in the 
+multiple sclerosis (MS) animal model, experimental autoimmune encephalomyelitis 
+(EAE). In this review we describe the current literature surrounding these 
+inhibitors and propose a rationale for harnessing both their neuroprotective and 
+anti-inflammatory effects to treat MS, an autoimmune, demyelinating and 
+degenerative disease of the human central nervous system (CNS).

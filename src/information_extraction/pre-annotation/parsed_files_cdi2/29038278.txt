@@ -1,0 +1,24 @@
+Clostridium difficile causes diarrhea and colitis by releasing toxin A and toxin 
+B. In the human colon, both toxins cause intestinal inflammation and stimulate 
+tumor necrosis factor alpha (TNF-α) expression via the activation of NF-κB. It 
+is well established that the macrolide antibiotic fidaxomicin is associated with 
+reduced relapses of C. difficile infection. We showed that fidaxomicin and its 
+primary metabolite OP-1118 significantly inhibited toxin A-mediated intestinal 
+inflammation in mice in vivo and toxin A-induced cell rounding in vitro We aim 
+to determine whether fidaxomicin and OP-1118 possess anti-inflammatory effects 
+against toxin A and toxin B in the human colon and examine the mechanism of this 
+response. We used fresh human colonic explants, NCM460 human colonic epithelial 
+cells, and RAW264.7 mouse macrophages to study the mechanism of the activity of 
+fidaxomicin and OP-1118 against toxin A- and B-mediated cytokine expression and 
+apoptosis. Fidaxomicin and OP-1118 dose-dependently inhibited toxin A- and 
+B-induced TNF-α and interleukin-1β (IL-1β) mRNA expression and histological 
+damage in human colonic explants. Fidaxomicin and OP-1118 inhibited toxin 
+A-mediated NF-κB phosphorylation in human and mouse intestinal mucosae. 
+Fidaxomicin and OP-1118 also inhibited toxin A-mediated NF-κB phosphorylation 
+and TNF-α expression in macrophages, which was reversed by the NF-κB activator 
+phorbol myristate acetate (PMA). Fidaxomicin and OP-1118 prevented toxin A- and 
+B-mediated apoptosis in NCM460 cells, which was reversed by the addition of PMA. 
+PMA reversed the cytoprotective effect of fidaxomicin and OP-1118 in 
+toxin-exposed human colonic explants. Fidaxomicin and OP-1118 inhibit C. 
+difficile toxin A- and B-mediated inflammatory responses, NF-κB phosphorylation, 
+and tissue damage in the human colon.

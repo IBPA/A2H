@@ -1,0 +1,14 @@
+Etanercept, a TNF receptor 2-Fc fusion protein, is currently being used for the 
+treatment of rheumatoid arthritis (RA). However, 25% to 38% of patients show no 
+response which is suspected to be partially due to insufficient affinity of this 
+protein to TNFalpha. By using computational protein design, we found that 
+residue W89 and E92 of TNFR2 were critical for ligand binding. Among several 
+mutants tested, W89Y/E92N displayed 1.49-fold higher neutralizing activity to 
+TNFalpha, as compared to that of Etanercept. Surface plasmon resonance (SPR) 
+based binding assay revealed that the equilibrium dissociation constant of 
+W89Y/E92N to TNFalpha was 3.65-fold higher than that of Etanercept. In a rat 
+model of collagen-induced arthritis (CIA), W89Y/E92N showed a significantly 
+better ability than Etanercept in reducing paw swelling and improvement of 
+arthritic joint histopathologically. These data demonstrate that W89Y/E92N is 
+potentially a better candidate with improved efficacy in treating RA and other 
+autoimmune diseases.

@@ -1,0 +1,12 @@
+Immunoglobulin gene recombination can result in the assembly of self-reactive 
+antibodies. Deletion, anergy or receptor editing normally silence B cells that 
+produce these autoantibodies. Receptor editing is highly efficient in mouse B 
+cells that carry pre-recombined autoantibody transgenes or gene "knock-ins". 
+However, it has been difficult to identify cells that have edited receptors in 
+unmanipulated mice and humans. To try to identify such cells we isolated and 
+characterized B cells that coexpress surrogate and conventional light chains 
+(V-preB+L+) from the blood of normal human donors. V-preB+L+ B cells express RAG 
+mRNA, display an unusual heavy and light chain antibody repertoire consistent 
+with antiself reactivity, and show evidence of receptor editing. These cells 
+accumulate in the joints of patients with rheumatoid arthritis, consistent with 
+a role for V-preB+L+ B cells and receptor editing in autoimmune disease.

@@ -1,0 +1,27 @@
+Cardiovascular disease is the leading cause of death in Western cultures. The 
+vast majority of cardiovascular events, including stroke and myocardial 
+infarction, result from the rupture of vulnerable atherosclerotic plaques, which 
+are characterized by high and active macrophage content. Current imaging 
+modalities including magnetic resonance imaging (MRI) aim to characterize 
+anatomic and structural features of plaques rather than their content. 
+Previously, we reported that macrophage-targeted delivery of gadolinium 
+(Gd)-based contrast agent (GBCA-HDL) using high density lipoproteins (HDL)-like 
+particles significantly enhances the detection of plaques in an apolipoprotein 
+(apo) E knockout (KO) mouse model, with an atherosclerotic wall/muscle 
+normalized enhancement ratio (NER) of 120% achieved. These particles are 
+comprised of lipids and synthetic peptide fragments of the major protein of HDL, 
+apo A-I, that contain a naturally occurring modification which targets the 
+particles to macrophages. Targeted delivery minimizes the Gd dose and thus 
+reduces the adverse effects of Gd. The aims of the current study were to test 
+whether varying the GBCA-HDL particle shape and composition can further enhance 
+atherosclerotic plaque MRI and control organ clearance of these agents. We show 
+that the optimized GBCA-HDL particles are efficiently delivered intracellularly 
+to and uptaken by both J774 macrophages in vitro and more importantly, by 
+intraplaque macrophages in vivo, as evidenced by NER up to 160% and higher. This 
+suggests high diagnostic power of our GBCA-HDL particles in the detection of 
+vulnerable atherosclerotic plaques. Further, in contrast to discoidal, spherical 
+GBCA-HDL exhibit hepatic clearance, which could further diminish adverse renal 
+effects of Gd. Finally, activated macrophages are reliable indicators of any 
+inflamed tissues and are implicated in other areas of unmet clinical need such 
+as rheumatoid arthritis, sepsis and cancer, suggesting the expanded diagnostic 
+and prognostic use of this method.

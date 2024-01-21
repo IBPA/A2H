@@ -1,0 +1,25 @@
+BACKGROUND: Propolis is a resinous substance collected by honeybees from leaf 
+buds and cracks in the bark of various plants. We previously demonstrated the 
+inhibitory activity of Brazilian propolis ethanolic extract against the 
+differentiation process of Th17 cells and pathogenesis of collagen-induced 
+arthritis, which is an experimental animal model of rheumatoid arthritis. Th1 
+cells are also involved in several autoimmune and inflammatory diseases, such as 
+inflammatory bowel disease. In the present study, we demonstrated for the first 
+time that Brazilian propolis significantly inhibited the generation of Th1 
+cells. Furthermore, we hypothesized that the administration of propolis to a 
+murine model of colitis would suppress Th1 cell differentiation and ultimately 
+ameliorate colitis.
+MATERIALS AND METHODS: CD4 T cells were stimulated under Th1-polarizing 
+conditions (immobilized anti-CD3 and anti-CD28 antibodies with IL-12 plus an 
+anti-IL-4 monoclonal antibody for 5days) with or without the propolis ethanolic 
+extract. Cells were characterized for helper T cell subsets by flow cytometric 
+analysis. Furthermore, we investigated the effects of propolis on 
+2,4,6-trinitrobenzene sulfonic acid (TNBS)-induced colitis in a mouse model.
+RESULTS: Propolis dose-dependently reduced the frequency of IFNγ-producing CD4 T 
+cells under Th1-polarizing conditions. Furthermore, the inhibitory effect of 
+propolis on Th1 differentiation was demonstrated in vivo. The severity of 
+colitis in mice fed propolis was significantly lower than that of mice fed the 
+control diet.
+CONCLUSION: These findings suggest that the suppressive effect of Brazilian 
+propolis on Th1 differentiation may be useful in controlling unbalanced cytokine 
+networks in autoimmune diseases.

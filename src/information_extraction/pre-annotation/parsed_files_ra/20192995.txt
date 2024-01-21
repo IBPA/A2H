@@ -1,0 +1,16 @@
+CD4(+)CD25(+) regulatory T (Treg) cells can play a critical role in the 
+prevention of autoimmunity, as evidenced by the cataclysmic autoimmune disease 
+that develops in mice and humans lacking the key transcription factor forkhead 
+box protein 3 (Foxp3). At present, however, how and whether Treg cells 
+participate in the development of rheumatoid arthritis (RA), which has both 
+systemic manifestations and a joint-targeted pathology that characterizes the 
+disease, remains unclear. In this review, we describe work that has been carried 
+out aimed at determining the role of Treg cells in disease development in RA 
+patients and in mouse models of inflammatory arthritis. We also describe studies 
+in a new model of spontaneous autoimmune arthritis (TS1 x HACII mice), in which 
+disease is caused by CD4(+) T cells recognizing a neo-self-antigen expressed by 
+systemically distributed antigen-presenting cells. We show that TS1 x HACII mice 
+develop arthritis despite the presence of CD4(+)CD25(+)Foxp3(+) Treg cells that 
+recognize this target autoantigen, and we outline steps in the development of 
+arthritis at which Treg cells might potentially act, or fail to act, in the 
+development of inflammatory arthritis.

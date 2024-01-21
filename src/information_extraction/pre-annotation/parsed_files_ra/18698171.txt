@@ -1,0 +1,16 @@
+PURPOSE OF REVIEW: Systemic lupus erythematosus etiology includes both genetic 
+and environmental factors. Evidence suggests that many genetic loci in humans 
+and mouse models contribute to the occurrence and clinical presentation of 
+lupus. This large array of different genes affects many aspects of immune cell 
+function, including the activation and functional differentiation of B cells, T 
+cells, dendritic cells and other immune cells. In particular, the T-cell 
+components that contribute to systemic lupus erythematosus pathogenesis are 
+incompletely defined.
+RECENT FINDINGS: A major paradigm shift in understanding how CD4+ T cells 
+contribute to autoimmunity recently occurred with the discovery of a new T-cell 
+population that produces the cytokine IL-17 (IL-17A), termed 'Th17'. Although 
+Th17 cells contribute to autoimmune disease in rheumatoid arthritis and Crohn's 
+disease, their role in systemic lupus erythematosus is far less clear.
+SUMMARY: In this review, we focus on an emerging role for the cytokine IL-17 and 
+the cells that produce it in contributing to lupus in particular based on recent 
+findings in animal models.

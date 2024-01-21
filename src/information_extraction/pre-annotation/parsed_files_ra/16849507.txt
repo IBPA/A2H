@@ -1,0 +1,23 @@
+Proteoglycan (PG)-induced arthritis, a murine model of rheumatoid arthritis, is 
+characterized by autoimmunity against mouse cartilage PG and chronic joint 
+inflammation. L-selectin (CD62L) and CD44 are major adhesion molecules on 
+leukocytes that regulate their homing to lymph nodes and entry into inflamed 
+tissues. In the present study, we studied the requirement for CD44 and CD62L 
+expression for mediating lymphocyte homing, thus permitting the development of 
+autoimmunity vs mediating the entry of leukocytes into the joints, thus allowing 
+inflammation in PG-induced arthritis. We immunized wild-type, CD44 knockout 
+(KO), CD62L KO, and double (CD44/CD62L) KO BALB/c mice with PG and monitored the 
+effects of gene deficiencies on PG-specific immunity, arthritis severity, 
+leukocyte trafficking, and the ability of lymphocytes to adoptively transfer 
+disease to syngeneic SCID mice. Single and double KO mice demonstrated reduced 
+PG-specific spleen cell proliferation, but the production of Th cytokines and 
+autoantibodies was comparable in KO and wild-type mice. KO leukocytes had 
+reduced ability to adhere tightly to the synovial endothelium in arthritic 
+joints. This diminished leukocyte adhesion correlated with the magnitude of 
+granulocyte (neutrophil) influx and the severity of inflammation, which were 
+both reduced in the joints of KO mice. However, transfer of spleen cells from 
+mildly arthritic KO donors to SCID hosts resulted in development of severe 
+arthritis. Our results indicate that CD44 and CD62L expression in the cells of 
+the innate immune system (granulocytes) is important for their efficient influx 
+into the joints and also suggest that granulocytes play a crucial role in 
+arthritis progression.

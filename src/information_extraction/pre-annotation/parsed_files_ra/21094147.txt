@@ -1,0 +1,14 @@
+Abnormal lung inflammation and oxidant burden are associated with a significant 
+reduction in histone deacetylase 2 (HDAC2) abundance and steroid resistance. We 
+hypothesized that Nrf2 regulates steroid sensitivity via HDAC2 in response to 
+inflammation in mouse lung. Furthermore, HDAC2 deficiency leads to steroid 
+resistance in attenuating lung inflammatory response, which may be due to 
+oxidant/antioxidant imbalance. Loss of antioxidant transcription factor Nrf2 
+resulted in decreased HDAC2 level in lung, and increased inflammatory lung 
+response which was not reversed by steroid. Thus, steroid resistance or 
+inability of steroids to control lung inflammatory response is dependent on 
+Nrf2-HDAC2 axis. These findings have implications in steroid resistance, 
+particularly during the conditions of oxidative stress when the lungs are more 
+susceptible to inflammatory response, which is seen in patients with chronic 
+obstructive pulmonary disease, asthma, rheumatoid arthritis, and inflammatory 
+bowel disease.

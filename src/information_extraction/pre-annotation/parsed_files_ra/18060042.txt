@@ -1,0 +1,18 @@
+TLRs may contribute to the progression of rheumatoid arthritis through 
+recognition of microbial or host-derived ligands found in arthritic joints. 
+Here, we show that TLR2 and TLR4, but not TLR9, are involved in the pathogenesis 
+of autoimmune arthritis and play distinct roles in the regulation of T cells and 
+cytokines. We investigated the involvement of TLR2, TLR4, and TLR9 in the 
+progression of arthritis using IL-1 receptor antagonist-knockout (IL1rn-/-) 
+mice, which spontaneously develop an autoimmune T cell-mediated arthritis. 
+Spontaneous onset of arthritis was dependent on TLR activation by microbial 
+flora, as germ-free mice did not develop arthritis. Clinical and 
+histopathological evaluation of IL1rn-/-Tlr2-/- mice revealed more severe 
+arthritis, characterized by reduced suppressive function of Tregs and 
+substantially increased IFN-gamma production by T cells. IL1rn-/-Tlr4-/- mice 
+were, in contrast, protected against severe arthritis and had markedly lower 
+numbers of Th17 cells and a reduced capacity to produce IL-17. A lack of Tlr9 
+did not affect the progression of arthritis. While any therapeutic intervention 
+targeting TLR2 still seems complicated, the strict position of TLR4 upstream of 
+a number of pathogenic cytokines including IL-17 provides an interesting 
+potential therapeutic target for rheumatoid arthritis.

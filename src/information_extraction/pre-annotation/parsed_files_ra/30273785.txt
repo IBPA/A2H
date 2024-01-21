@@ -1,0 +1,20 @@
+Anacardic acid, which is abundant in nutshell of Anacardium occidentale, has 
+multiple pharmacological activities. In this study, we examined the therapeutic 
+potential of anacardic acid in treating rheumatoid arthritis (RA). We explored 
+the effects of anacardic acid on collagen-induced arthritis (CIA) in mice and on 
+the proliferation and invasion of RA fibroblast-like synoviocytes (RA-FLSs). The 
+underlying molecular mechanism was investigated. Anacardic acid treatment 
+markedly suppressed paw swelling, joint destruction, and arthritis scores in CIA 
+mice. The serum levels of tumor necrosis factor alpha (TNF- α) and 
+interleutkin-1beta (IL- 1β) were significantly lowered by anacardic acid. In 
+vitro assays demonstrated that anacardic acid impaired the proliferation and 
+invasion abilities of RA-FLSs in the presence of TNF- α or IL- 1β. Western blot 
+analysis revealed the reduction of Akt protein expression and phoshporylation in 
+RA-FLSs by anacardic acid. However, the mRNA level of Akt remained unchanged. 
+Anacardic acid treatment significantly increased the expression of miR-633 in 
+RA-FLSs. Akt was identified as a novel target of miR-633. Overexpression of 
+miR-633 significantly inhibited the proliferation and invasion of RA-FLSs, which 
+was rescued by enforced expression of Akt. Depletion of miR-633 prevented 
+anacardic acid-mediated suppression of proliferation and invasion of RA-FLSs, 
+which was accompanied by increased expression of Akt protein. In conclusion, 
+anacardic acid may serve as a promising agent in the treatment of RA.

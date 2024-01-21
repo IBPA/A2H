@@ -1,0 +1,11 @@
+Here we describe a Rho-mediated apoptosis suppression pathway driven by Bcl-2 
+expression in the interleukin (IL)-4- or IL-2-dependent murine T cell line TS1 
+alpha beta. IL-2, but not IL-4, induces Bcl-2 expression through RhoA activation 
+which is inhibited by the specific Rho family inhibitor, Clostridium difficile 
+Toxin B, as well as by a dominant negative RhoA mutant. Using transient 
+transfections of RhoA mutants tagged with the vesicular stomatitis virus 
+glycoprotein, we show that a constitutively active RhoA mutant induces Bcl-2 
+expression and prevents apoptosis upon IL-4 withdrawal. Finally, we have 
+identified the signaling pathway involved together with RhoA in Bcl-2 induction 
+and show compelling evidence for the implication of phosphatidylinositol 3 
+kinase and protein kinase C.

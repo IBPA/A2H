@@ -1,0 +1,27 @@
+OBJECTIVE: To determine the role of vascular endothelial growth factor B 
+(VEGF-B) in 2 mouse models of arthritis, antigen-induced arthritis (AIA) and 
+collagen-induced arthritis (CIA).
+METHODS: For AIA studies, monarticular AIA was induced by methylated bovine 
+serum albumin (mBSA) priming of Vegfb gene knockout (Vegfb(-/-)) and wild-type 
+(Vegfb(+/+)) mice, followed by intraarticular injection of mBSA or saline 
+control 8 days later. CIA was induced in Vegfb(-/-) and Vegfb(+/+) mice by 
+intradermal injection of chick type II collagen in adjuvant. Arthritis was 
+monitored in both models using defined criteria (clinical and histologic). 
+Angiogenesis was measured by synovial vessel density in diseased and control 
+joints.
+RESULTS: In AIA studies, Vegfb(+/+) mice displayed significant knee joint 
+swelling and synovial inflammation 7 days after intraarticular injection of 
+antigen. Synovial inflammation was associated with angiogenesis, since vessel 
+density in AIA synovium was significantly higher in arthritic than in control 
+joints from the same animal. Knee joint swelling, synovial inflammation, and 
+inflammation-associated vessel density in arthritic joints were reduced in 
+Vegfb(-/-) mice compared with arthritic joints from Vegfb(+/+) mice. Similarly, 
+in CIA, both disease incidence and mean clinical severity scores were 
+significantly reduced in Vegfb(-/-) mice compared with Vegfb(+/+) mice. Mean 
+histologic severity scores and mean synovial vessel density were reduced in 
+diseased joints from Vegfb(-/-) mice when compared with diseased joints from 
+Vegfb(+/+) mice.
+CONCLUSION: The reduction in inflammation-associated synovial angiogenesis in 
+Vegfb(-/-) mice implicates VEGF-B in pathologic vascular remodeling in 
+inflammatory arthritis. VEGF-B may be an attractive target in the design of 
+anti-angiogenic therapies for rheumatoid arthritis.

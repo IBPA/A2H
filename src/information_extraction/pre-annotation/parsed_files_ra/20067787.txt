@@ -1,0 +1,18 @@
+Angiogenesis is observed in many diseases, such as tumor progression, diabetes 
+and rheumatoid arthritis; it is a process that involves proliferation, 
+migration, differentiation and tube formation of endothelial cells. Vascular 
+endothelial growth factor (VEGF) plays an important role in angiogenesis by 
+induction of these endothelial functions. Thus, inhibition of these critical 
+angiogenic steps is a practical therapeutic strategy for those diseases. NP-184 
+is a substituted benzimidazole analogue which exhibits a potent anti-thrombotic 
+activity. In this report, NP-184 inhibited the viability of human umbilical 
+vascular endothelial cells (HUVEC) in a concentration-dependent manner, and 
+caused cell apoptosis as examined by cell-cycle analysis and Annexin V staining 
+with flow cytometry. NP-184 also concentration-dependently inhibited the HUVEC 
+migration, tube formation on Matrigel, and rat aortic ring sprouting stimulated 
+by VEGF. Regarding the intracellular signal transduction, NP-184 
+concentration-dependently interfered with the activation of AKT, ERK and the 
+nuclear translocation of NF-kappaB. In vivo study showed that NP-184 
+dose-dependently reduced angiogenesis in Matrigel plug assay. These results 
+indicate that NP-184 is a potential candidate for developing the treatment of 
+angiogenesis related-diseases.

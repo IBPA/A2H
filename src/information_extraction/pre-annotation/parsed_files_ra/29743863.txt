@@ -1,0 +1,25 @@
+Rheumatoid arthritis (RA) is a systemic autoimmune disease whose major 
+characteristics persistent joint inflammation that results in joint destruction 
+and failure of the function. Collagen-induced arthritis (CIA) rat is an 
+autoimmune disease model and in many ways shares features with RA. The CIA is 
+associated with systemic manifestations, including alterations in the 
+metabolism. Nuclear magnetic resonance (NMR) spectroscopy-based metabolomics has 
+been successfully applied to the perchloric acid extract of the joint tissue of 
+CIA rat and control rat for the analysis of aqueous metabolites. GPC 
+(Glycerophosphocholine), carnitine, acetate, and creatinine were important 
+discriminators of CIA rats as compared to control rats. Level of lactate 
+(significance; p = 0.004), alanine (p = 0.025), BCA (Branched-chain amino acids) 
+(p = 0.006) and creatinine (p = 0.023) was significantly higher in CIA rats as 
+compared to control rats. Choline (p = 0.038) and GPC (p = 0.009) were 
+significantly reduced in CIA rats as compared to control rats. Choline to GPC 
+correlation was good and negative (Pearson correlation = -0.63) for CIA rats as 
+well as for control rats (Pearson correlation = -0.79). All these analyses 
+collectively considered as metabolic fingerprinting of the joint tissue of CIA 
+rat as compared to control rat. The metabolic fingerprinting of joint tissue of 
+CIA rats was different as compared to control rats. The metabolic fingerprinting 
+reflects inflammatory disease activity in CIA rats with synovitis, demonstrating 
+that underlying inflammatory process drives significant changes in metabolism 
+that can be measured in the joint tissue. Therefore, the outcome of this study 
+may be helpful for understanding the mechanism of metabolic processes in RA. 
+This may be also helpful for the development of advanced diagnostic methods and 
+therapy for RA.

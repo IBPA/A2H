@@ -1,0 +1,30 @@
+BACKGROUND AND PURPOSE: The use of non-steroidal anti-inflammatory drugs 
+(NSAIDs) in the treatment of rheumatoid arthritis (RA) is limited by their 
+toxicity. We evaluated the anti-inflammatory efficacy and safety of three novel 
+modified NSAIDs, phospho-aspirin, phospho-ibuprofen and phospho-sulindac.
+EXPERIMENTAL APPROACH: We determined the anti-inflammatory effects and 
+gastrointestinal safety of the phospho-NSAIDs in the rat adjuvant arthritis 
+model and studied their mechanism of action in cultured cells, Cytokines were 
+measured with elisa and activation of nuclear factor-κB (NF-κB) by 
+immunohistochemistry.
+KEY RESULTS: All three phospho-NSAIDs showed less gastrointestinal toxicity than 
+their parent compounds and demonstrated strong anti-inflammatory effects, 
+essentially reversing joint inflammation and oedema. They have a broad but not 
+uniform effect on the expression of relevant cytokines, in general decreasing 
+IL-6 and IL-1β and increasing IL-10 levels in rat plasma and cultured cells. 
+Phospho-sulindac and phospho-ibuprofen but not phospho-aspirin suppressed PGE(2) 
+production in vitro, whereas phospho-aspirin (in contrast to aspirin) showed the 
+same effect in vivo. In joint tissues, phospho-aspirin inhibited NF-κB 
+activation, and suppressed inflammation and bone resorption. Phospho-aspirin 
+also inhibited Jurkat T cell proliferation. In general, phospho-aspirin had 
+greater efficacy but different effects upon inflammatory mediators compared with 
+aspirin. The chemical modification of the parent NSAIDs seems crucial for their 
+safety and efficacy.
+CONCLUSIONS AND IMPLICATIONS: Phospho-aspirin, phospho-ibuprofen and 
+phospho-sulindac were safer than their parent NSAIDs, were highly effective in 
+rat adjuvant arthritis and inhibited many key mediators in the pathophysiology 
+of RA. These novel compounds are promising candidate drugs for the treatment of 
+RA and merit further evaluation.
+
+© 2011 The Authors. British Journal of Pharmacology © 2011 The British 
+Pharmacological Society.

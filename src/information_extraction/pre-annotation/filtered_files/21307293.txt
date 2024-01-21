@@ -1,0 +1,22 @@
+A major neurotransmitter dopamine transmits signals via five different 
+seven-transmembrane G protein-coupled receptors termed D1-D5. Several studies 
+have shown that dopamine not only mediates interactions into the nervous system, 
+but can contribute to the modulation of immunity via receptors expressed on 
+immune cells. We have previously shown an autocrine/paracrine release of 
+dopamine by dendritic cells (DCs) during Ag presentation to naive CD4(+) T cells 
+and found efficacious results of a D1-like receptor antagonist SCH-23390 in the 
+experimental autoimmune encephalomyelitis mouse model of multiple sclerosis and 
+in the NOD mouse model of type I diabetes, with inhibition of Th17 response. 
+This study aimed to assess the role of dopaminergic signaling in Th17-mediated 
+immune responses and in the pathogenesis of rheumatoid arthritis (RA). In human 
+naive CD4(+) T cells, dopamine increased IL-6-dependent IL-17 production via 
+D1-like receptors, in response to anti-CD3 plus anti-CD28 mAb. Furthermore, 
+dopamine was localized with DCs in the synovial tissue of RA patients and 
+significantly increased in RA synovial fluid. In the RA synovial/SCID mouse 
+chimera model, although a selective D2-like receptor antagonist haloperidol 
+significantly induced accumulation of IL-6(+) and IL-17(+) T cells with 
+exacerbated cartilage destruction, SCH-23390 strongly suppressed these 
+responses. Taken together, these findings indicate that dopamine released by DCs 
+induces IL-6-Th17 axis and causes aggravation of synovial inflammation of RA, 
+which is the first time, to our knowledge, that actual evidence has shown the 
+pathological relevance of dopaminergic signaling with RA.

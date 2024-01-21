@@ -1,0 +1,37 @@
+We evaluated the association of anti-cyclic citrullinated peptide (CCP) antibody 
+titers with serological markers of disease activity. We also compared three 
+different anti-CCP antibody ELISAs with an anti-citrullin ELISA and the IgM and 
+the IgA rheumatoid factor (RF) in their performance of discriminating between 
+rheumatoid arthritis (RA) and other rheumatic diseases. Sera from 333 
+consecutive patients of the Rheumaeinheit der Medizinischen Poliklinik Munchen, 
+an outpatient clinic for rheumatic diseases, were collected and tested. Anti-CCP 
+antibodies were assayed with three different commercially available ELISAs. 
+Antifilaggrin antibodies were tested with a commercially available ELISA using 
+in vitro deiminated recombinant rat filaggrin. IgA-RF was analyzed with an 
+ELISA, whereas IgM-RF was measured by latex-enhanced turbidimetry. Rheumatoid 
+arthritis (RA) was diagnosed in 87 patients according to the revised 
+classification criteria of the American College of Rheumatology (ACR), probable 
+RA was diagnosed in 23 patients in an early phase not (yet) fulfilling the ACR 
+criteria, and 223 patients had other rheumatic diseases. Differences in 
+sensitivity and specificity were calculated using McNemar's test. A measure of 
+agreement (kappa statistic) was used to examine whether the tests tended to 
+identify the same patients as positive or negative. Correlations between CCP 
+titers and other tests were analyzed by Spearman nonparametric rank correlation. 
+No significant differences in sensitivity and specificity were found between the 
+tested CCP assays (80.0-80.9% and 97.3-98.1%, respectively). All three CCP tests 
+were slightly but not significantly more sensitive and specific than the 
+anti-citrullin assay (77% and 92%, respectively), comparably sensitive but 
+significantly more specific compared with the IgM-RF (86% and 82%, 
+respectively), and significantly more sensitive but comparably specific compared 
+with the IgA-RF (63% and 94.4%, respectively) in detecting the patients with RA. 
+There was no significant correlation between anti-CCP, anti-citrullin, or IgM-RF 
+or IgA-RF antibody titers and C-reactive protein, erythrocyte sedimentation 
+rate, or white blood cell count. A weak but significant linear correlation was 
+found between anti-CCP titers and IgM-RF titers (r = 0.2, P = 0.03). We could 
+not find a significant difference between the three tested anti-CCP assays and 
+the anti-citrullin test in terms of sensitivity and specificity. Compared with 
+the IgM-RF, all the anti-CCP assays were superior in specificity and comparable 
+in sensitivity. Compared with the IgA-RF, they were more sensitive and 
+comparably specific in the discrimination of patients with RA from other 
+rheumatic diseases. No correlation of any tested autoantibody titer with 
+serological parameters of inflammation was found.

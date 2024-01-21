@@ -1,0 +1,16 @@
+Tumor necrosis factor (TNF) antagonism with monoclonal antibodies is an 
+effective therapy for severe Crohn's disease and rheumatoid arthritis. Recent 
+studies have suggested that induction of apoptosis of inflammatory cells 
+contributes to this therapeutic effect. We investigated whether infliximab (a 
+mouse-human IgG1 chimeric anti-TNF monoclonal antibody) could induce apoptosis 
+in vivo in human-mouse chimeras, created by reconstitution of severe combined 
+immunodeficiency/beige mice with THP-1 (human monocytic cell line) or Jurkat 
+cells (human T cell line). Infliximab treatment of chimeric mice depleted spleen 
+and peritoneum from THP-1 cells and Jurkat cells and decreased production of the 
+human cytokines IL-10 and IL-12 in vivo. Cell death was shown to occur already 
+within 1 h of treatment. Infliximab effects were independent of FcgammaR binding 
+or complement activation. Cell death resulted from apoptosis induction in a 
+caspase-dependent pathway, as evidenced by the in vitro protective effect of the 
+pan-caspase inhibitor N-benzyloxycarbonyl-Val-Ala-Asp-fluoromethyketone 
+(Z-VAD-FMK). These data provide support for caspase-dependent apoptosis 
+induction being the mechanism of action of infliximab in vivo.

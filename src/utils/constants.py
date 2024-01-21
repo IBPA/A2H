@@ -1,0 +1,18 @@
+FEATURES_CAT = [
+    'acute/sustained preclinical',
+    'gnotobiotic preclinical',
+    'animal strain preclinical',
+    'animal sex preclinical',
+    'species preclinical',
+    'disease model preclinical',
+    'prophylactic / therapeutic preclinical',
+    'ribotype preclinical',
+    'c diff strain preclinical',
+    'c diff dose units preclinical',
+    'c diff dose vegetative/spores preclinical',
+    'acute/sustained clinical',
+    'prophylactic / therapeutic clinical',
+    'Age Groups clinical',
+    'Phases clinical',
+    'intervention',
+]

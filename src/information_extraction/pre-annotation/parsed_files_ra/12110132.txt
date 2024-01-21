@@ -1,0 +1,8 @@
+Genetic susceptibility to rheumatoid arthritis (RA), a common autoimmune 
+disease, is associated with certain HLA-DR4 alleles. Treatments are rarely 
+curative and are often tied to major side effects. We describe the development 
+of a humanized mouse model wherein new, less toxic, vaccine-like treatments for 
+RA might be pretested. This model includes four separate transgenes: HLA-DR*0401 
+and human CD4 molecules, a RA-related human autoantigenic protein (HCgp-39), and 
+a T-cell receptor (TCRalphabeta) transgene specific for an important HCgp-39 
+epitope, eliciting strong Th1 responses in the context of HLA-DR*0401.

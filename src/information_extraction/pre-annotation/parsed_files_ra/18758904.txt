@@ -1,0 +1,22 @@
+Cyclooxygenase (COX)-2 is known to play an important role in the differentiation 
+and maturation of osteoclasts. However, the role of COX-1 in bone metabolism has 
+not been well explored. In this study, the bone-conserving effects of 
+COX-2-specific (celecoxib), COX-nonselective (loxoprofen), and COX-1-specific 
+agents (SC-58560) were compared using an adjuvant-induced arthritis (AIA) rat 
+model. Arthritis was induced by injecting 50 microl liquid paraffin containing 1 
+mg Mycobacterium butyricum into the left footpad of Lewis rats. Drugs were given 
+orally twice daily for 10 days beginning 15 days after adjuvant injection. 
+Celecoxib was administered at the rate of 3 mg/kg per day, loxoprofen at 3 mg/kg 
+per day, and SC-58560 at 10 mg/kg per day. The therapeutic effects on 3-D 
+architectural bone changes in the arthritic condition, e.g., the bone 
+volume/total tissue volume ratio and the amount of trabecular bone pattern 
+factor, were determined by analyzing the hindpaw calcaneus of AIA rats using 
+microcomputed tomography (micro-CT). In addition, dual-energy X-ray 
+absorptiometry 2-D bone analysis was performed to compare with micro-CT 
+analysis. AIA rats are prone to substantial bone erosion, which allows for 
+significant changes in the 3-D architectural index. This inflammatory bone 
+destruction was suppressed potently by celecoxib, only moderately by loxoprofen, 
+and not at all by SC-58560. These data suggest that COX-2 plays an important 
+role in the inflammatory bone destruction that occurs with rheumatoid arthritis. 
+The results also suggest that COX-2 is more effective than COX-1 at suppressing 
+the destruction of bone associated with arthritis.

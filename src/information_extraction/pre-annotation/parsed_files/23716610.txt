@@ -1,0 +1,17 @@
+Clostridium difficile is a spore-forming bacterium that can reside in animals 
+and humans. C. difficile infection causes a variety of clinical symptoms, 
+ranging from diarrhea to fulminant colitis. Disease is mediated by TcdA and 
+TcdB, two large enterotoxins released by C. difficile during colonization of the 
+gut. In this study, we evaluated the ability of recombinant toxin fragments to 
+induce neutralizing antibodies in mice. The protective efficacies of the most 
+promising candidates were then evaluated in a hamster model of disease. While 
+limited protection was observed with some combinations, coadministration of a 
+cell binding domain fragment of TcdA (TcdA-B1) and the glucosyltransferase 
+moiety of TcdB (TcdB-GT) induced systemic IgGs which neutralized both toxins and 
+protected vaccinated animals from death following challenge with two strains of 
+C. difficile. Further characterization revealed that despite high concentrations 
+of toxin in the gut lumens of vaccinated animals during the acute phase of the 
+disease, pathological damage was minimized. Assessment of gut contents revealed 
+the presence of TcdA and TcdB antibodies, suggesting that systemic vaccination 
+with this pair of recombinant polypeptides can limit the disease caused by toxin 
+production during C. difficile infection.

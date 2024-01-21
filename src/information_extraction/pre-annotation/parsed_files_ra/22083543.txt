@@ -1,0 +1,24 @@
+OBJECTIVE: Integrin α2β1 functions as a major receptor for type I collagen on 
+different cell types, including fibroblasts and inflammatory cells. Although in 
+vitro data suggest a role for α2β1 integrin in regulating both cell attachment 
+and expression of matrix-degrading enzymes such as matrix metalloproteinases 
+(MMPs), mice that lack the α2 integrin subunit (Itga2(-/-) mice) develop 
+normally and are fertile. We undertook this study to investigate the effect of 
+Itga2 deficiency in 2 different mouse models of destructive arthritis: the 
+antigen-induced arthritis (AIA) mouse model and the human tumor necrosis factor 
+α (TNFα)-transgenic mouse model.
+METHODS: AIA was induced in the knee joints of Itga2(-/-) mice and wild-type 
+controls. Human TNF-transgenic mice were crossed with Itga2(-/-) mice and were 
+assessed clinically and histopathologically for signs of arthritis, 
+inflammation, bone erosion, and cartilage damage. MMP expression, proliferation, 
+fibroblast attachment, and ERK activation were determined.
+RESULTS: Under arthritic conditions, Itga2 deficiency led to decreased severity 
+of joint pathology. Specifically, Itga2(-/-) mice showed less severe clinical 
+symptoms and dramatically reduced pannus formation and cartilage erosion. Mice 
+lacking α2β1 integrin exhibited reduced MMP-3 expression, both in their sera and 
+in fibroblast-like synoviocytes (FLS), due to impaired ERK activation. Further, 
+both the proliferation and attachment of FLS to cartilage were partially 
+dependent on α2β1 integrin in vitro and in vivo.
+CONCLUSION: Our findings suggest that α2β1 integrin contributes significantly to 
+inflammatory cartilage destruction by promoting fibroblast proliferation and 
+attachment and MMP expression.

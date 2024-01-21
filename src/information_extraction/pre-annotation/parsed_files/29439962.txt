@@ -1,0 +1,19 @@
+DS-2969b is a novel GyrB inhibitor that is currently under clinical development 
+for the treatment of Clostridium difficile infection (CDI). In this study, the 
+in vitro and in vivo activities of DS-2969b were evaluated. DS-2969b inhibited 
+the supercoiling activity of C. difficile DNA gyrase. DS-2969b showed potent in 
+vitro activity against C. difficile clinical isolates with a MIC90 of 0.06 
+μg/ml, which was 2-, 32-, and 16-fold lower than the MIC90s of fidaxomicin, 
+vancomycin, and metronidazole, respectively. DS-2969b did not select 
+spontaneously resistant mutants of various C. difficile strains at 4× MIC, and 
+the frequency of resistance development was less than 4.8 × 10-9 In a hamster 
+CDI model, 5-day oral administration of DS-2969b conferred complete protection 
+from recurrence and mortality at 0.3 mg/kg of body weight once a day, in 
+contrast to a 50% survival rate with fidaxomicin at 3 mg/kg once a day and 0% 
+with vancomycin at a 50-mg/kg/dose twice a day. Even a single oral 
+administration of 1 mg/kg of DS-2969b in the CDI model exhibited 100% animal 
+survival without recurrence. DS-2969b was also efficacious by 5-day subcutaneous 
+administration in the CDI model. DS-2969b showed similar levels of fecal 
+excretion after intravenous and oral administrations in rats. These data support 
+further development of DS-2969b as a drug for oral and intravenous treatment of 
+CDI.

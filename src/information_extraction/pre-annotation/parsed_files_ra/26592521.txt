@@ -1,0 +1,24 @@
+AIM: Aconiti Lateralis Radix Preparata is a traditional Chinese medicine used to 
+treat chronic arthritis and is highly effective against rheumatoid arthritis. 
+However, the effects of aconine, a derivative of aconitum alkaloids, on 
+osteoclasts, which can absorb bone, remain unknown. Here, we investigated the 
+effects of aconine on osteoclast differentiation and bone resorption in vitro.
+METHODS: The viability of mouse leukemic monocyte/macrophage cell line RAW264.7 
+was measured using CCK-8 assays. Osteoclast differentiation was induced by 
+incubation of RAW264.7 cells in the presence of RANKL, and assessed with TRAP 
+staining assay. Bone resorption was examined with bone resorption pits assay. 
+The expression of relevant genes and proteins was analyzed using RT-PCR and 
+Western blots. The activation of NF-κB and nuclear factor of activated T-cells 
+(NFAT) was examined using stable NF-κB and NFATc1 luciferase reporter gene 
+systems, RT-PCR and Western blot analysis.
+RESULTS: Aconine (0.125, 0.25 μmol/L) did not affect the viability of RAW264.7 
+cells, but dose-dependently inhibited RANKL-induced osteoclast formation and 
+bone resorptive activity. Furthermore, aconine dose-dependently inhibited the 
+RANKL-induced activation of NF-κB and NFATc1 in RAW264.7 cells, and subsequently 
+reduced the expression of osteoclast-specific genes (c-Src, β3-Integrin, 
+cathepsin K and MMP-9) and the expression of dendritic cell-specific 
+transmembrane protein (DC-STAMP), which played an important role in cell-cell 
+fusion.
+CONCLUSION: These findings suggest that aconine inhibits RANKL-induced 
+osteoclast differentiation in RAW264.7 cells by suppressing the activation of 
+NF-κB and NFATc1 and the expression of the cell-cell fusion molecule DC-STAMP.

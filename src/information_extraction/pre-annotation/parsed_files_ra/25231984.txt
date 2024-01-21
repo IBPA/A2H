@@ -1,0 +1,22 @@
+TNF is a pleotropic cytokine known to be involved in the progression of several 
+pro-inflammatory disorders. Many therapeutic agents have been designed to 
+counteract the effect of TNF in rheumatoid arthritis as well as a number of 
+cancers. In the present study we have synthesized and evaluated the anti-cancer 
+activity of novel biscoumarins in vitro and in vivo. Among new compounds, BIHC 
+was found to be the most cytotoxic agent against the HepG2 cell line while 
+exhibiting less toxicity toward normal hepatocytes. Furthermore, BIHC inhibited 
+the proliferation of various hepatocellular carcinoma (HCC) cells in a dose- and 
+time-dependent manner. Subsequently, using in silico target prediction, BIHC was 
+predicted as a TNF blocker. Experimental validation was able to confirm this 
+hypothesis, where BIHC could significantly inhibit the recombinant mouse TNF-α 
+binding to its antibody with an IC50 of 16.5 μM. Furthermore, in silico docking 
+suggested a binding mode of BIHC similar to a ligand known to disrupt the 
+native, trimeric structure of TNF, and also validated with molecular dynamics 
+simulations. Moreover, we have demonstrated the down-regulation of p65 
+phosphorylation and other NF-κB-regulated gene products upon BIHC treatment, and 
+on the phenotypic level the compound shows inhibition of CXCL12-induced invasion 
+of HepG2 cells. Also, we demonstrate that BIHC inhibits infiltration of 
+macrophages to the peritoneal cavity and suppresses the activity of TNF-α in 
+vivo in mice primed with thioglycollate broth and lipopolysaccharide. We 
+comprehensively validated the TNF-α inhibitory efficacy of BIHC in an 
+inflammatory bowel disease mice model.

@@ -1,0 +1,19 @@
+4-mer hyaluronan (HA) oligosaccharides stimulate pro-inflammatory effects in 
+different cell types by interacting with both the toll-like receptor-4 (TLR-4) 
+and -2 (TLR-2). This interaction induces the activation of the transforming 
+growth factor activated kinase-1 (TAK-1) that activates the nuclear factor 
+kappaB (NF-kB) either directly and/or through the activation of 
+p38-mitogen-activated protein kinase (p38-MAPK). This in turn induces the 
+transcription of proinflammatory mediators that prime inflammation. Our aim was 
+to investigate the involvement of TAK-1 and p38-MAPK in 4-mer HA 
+oligosaccharide-induced inflammatory response in mouse synovial fibroblasts 
+obtained from normal DBA/J1 mice (NSF) and from mice subjected to 
+collagen-induced arthritis (CIA). Treatment of NSF and rheumatoid arthritis 
+synovial fibroblasts (RASF) with 4-mer HA showed a marked up-regulation of 
+TLR-4, TLR-2, TAK-1 and p38-MAPK mRNA expression and of the related proteins, as 
+well as NF-kB activation. High levels were also detected of TNF-α, IL- 1β, 
+MMP-13 and iNOS. Treatment of NSF and RASF, previously stimulated with 4-mer HA 
+oligosaccharides, with TAK- 1 and/or p38-MAPK specific inhibitors significantly 
+reduced all the parameters, although the inhibitory effect of p38- MAPK was less 
+effective than that of TAK-1. The addition of CD44 antibody to both NSF and RASF 
+showed that CD44 was not involved in 4-mer HA-induced inflammation.

@@ -1,0 +1,15 @@
+The antimalaria drug chloroquine has been used as an anti-inflammatory agent for 
+treating systemic lupus erythematosus and rheumatoid arthritis. We report that 
+chloroquine promoted the transrepression of proinflammatory cytokines by the 
+glucocorticoid receptor (GR). In a mouse collagen-induced arthritis model, 
+chloroquine enhanced the therapeutic effects of glucocorticoid treatment. By 
+inhibiting lysosome function, chloroquine synergistically activated 
+glucocorticoid signaling. Lysosomal inhibition by either bafilomycin A1 (an 
+inhibitor of the vacuolar adenosine triphosphatase) or knockdown of 
+transcription factor EB (TFEB, a master activator of lysosomal biogenesis) 
+mimicked the effects of chloroquine. The abundance of the GR, as well as that of 
+the androgen receptor and estrogen receptor, correlated with changes in 
+lysosomal biogenesis. Thus, we showed that glucocorticoid signaling is regulated 
+by lysosomes, which provides a mechanistic basis for treating inflammation and 
+autoimmune diseases with a combination of glucocorticoids and lysosomal 
+inhibitors.

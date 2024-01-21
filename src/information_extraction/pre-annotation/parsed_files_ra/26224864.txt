@@ -1,0 +1,32 @@
+Patients with systemic inflammatory diseases (e.g., rheumatoid arthritis, 
+inflammatory bowel disease, chronic liver disease) commonly develop debilitating 
+symptoms (i.e., sickness behaviors) that arise from changes in brain function. 
+The microbiota-gut-brain axis alters brain function and probiotic ingestion can 
+influence behavior. However, how probiotics do this remains unclear. We have 
+previously described a novel periphery-to-brain communication pathway in the 
+setting of peripheral organ inflammation whereby monocytes are recruited to the 
+brain in response to systemic TNF-α signaling, leading to microglial activation 
+and subsequently driving sickness behavior development. Therefore, we 
+investigated whether probiotic ingestion (i.e., probiotic mixture VSL#3) alters 
+this periphery-to-brain communication pathway, thereby reducing subsequent 
+sickness behavior development. Using a well characterized mouse model of liver 
+inflammation, we now show that probiotic (VSL#3) treatment attenuates sickness 
+behavior development in mice with liver inflammation without affecting disease 
+severity, gut microbiota composition, or gut permeability. Attenuation of 
+sickness behavior development was associated with reductions in microglial 
+activation and cerebral monocyte infiltration. These events were paralleled by 
+changes in markers of systemic immune activation, including decreased 
+circulating TNF-α levels. Our observations highlight a novel pathway through 
+which probiotics mediate cerebral changes and alter behavior. These findings 
+allow for the potential development of novel therapeutic interventions targeted 
+at the gut microbiome to treat inflammation-associated sickness behaviors in 
+patients with systemic inflammatory diseases.
+SIGNIFICANCE STATEMENT: This research shows that probiotics, when eaten, can 
+improve the abnormal behaviors (including social withdrawal and immobility) that 
+are commonly associated with inflammation. Probiotics are able to cause this 
+effect within the body by changing how the immune system signals the brain to 
+alter brain function. These findings broaden our understanding of how probiotics 
+may beneficially affect brain function in the context of inflammation occurring 
+within the body and may open potential new therapeutic alternatives for the 
+treatment of these alterations in behavior that can greatly affect patient 
+quality of life.

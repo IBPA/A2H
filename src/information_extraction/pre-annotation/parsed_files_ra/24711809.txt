@@ -1,0 +1,19 @@
+Bidirectional interactions between the immune and the nervous systems are of 
+considerable interest both for deciphering their functioning and for designing 
+novel therapeutic strategies. The past decade has brought a burst of insights 
+into the molecular mechanisms involved in neuroimmune communications mediated by 
+dopamine. Studies of dendritic cells (DCs) revealed that they express the whole 
+machinery to synthesize and store dopamine, which may act in an autocrine manner 
+to stimulate dopamine receptors (DARs). Depending on specific DARs stimulated on 
+DCs and T cells, dopamine may differentially favor CD4(+) T cell differentiation 
+into Th1 or Th17 inflammatory cells. Regulatory T cells can also release high 
+amounts of dopamine that acts in an autocrine DAR-mediated manner to inhibit 
+their suppressive activity. These dopaminergic regulations could represent a 
+driving force during autoimmunity. Indeed, dopamine levels are altered in the 
+brain of mouse models of multiple sclerosis (MS) and lupus, and in inflamed 
+tissues of patients with inflammatory bowel diseases or rheumatoid arthritis 
+(RA). The distorted expression of DARs in peripheral lymphocytes of lupus and MS 
+patients also supports the importance of dopaminergic regulations in 
+autoimmunity. Moreover, dopamine analogs had beneficial therapeutic effects in 
+animal models, and in patients with lupus or RA. We propose models that may 
+underlie key roles of dopamine and its receptors in autoimmune diseases.

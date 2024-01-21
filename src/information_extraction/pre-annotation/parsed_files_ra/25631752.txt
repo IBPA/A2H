@@ -1,0 +1,23 @@
+The mechanisms underlying rheumatoid arthritis (RA)-induced pain are still not 
+fully elucidated, and accumulating data indicate that peripheral inflammation is 
+not the only factor driving pain in these patients. The focus of our work is to 
+investigate the molecular basis for long-term alterations in nociceptive 
+pathways induced by polyarthritis using the collagen antibody-induced arthritis 
+(CAIA) mouse model. In this model, mechanical hypersensitivity outlasts the 
+joint inflammation by weeks. Here we examined expression levels of 
+neuropeptides, ion channels, and nerve injury markers associated with 
+neuropathic and/or inflammatory pain in dorsal root ganglia (DRGs) and spinal 
+cord both during the peak of inflammation (day 15) and when the inflammation has 
+resolved but the hypersensitivity persists (days 45-47). No apparent differences 
+were observed in substance P, calcitonin gene-related peptide, or neuropeptide Y 
+protein expression in DRGs and spinal cord of CAIA mice. However, the 
+neuropeptide galanin, the ATP-gated ion channel P2X3, and calcium channel 
+subunit α2δ1 were significantly increased in the CAIA DRGs as compared to 
+controls, both 15 and 47 days after induction of arthritis. On day 15 there was 
+an increase in expression of two factors associated with nerve injury and cell 
+stress, activating transcription factor 3 and growth-associated protein 43 in 
+DRGs, whereby the latter was still dramatically upregulated after 47 days. In 
+conclusion, this study suggests that long-term joint inflammation has an impact 
+on DRG neurons that resembles both inflammation and nerve injury-induced pain 
+states. Thus, antibody-driven inflammation generates a pain state with a unique 
+neurochemical profile.

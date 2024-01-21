@@ -1,0 +1,11 @@
+Soluble gp130 is the natural inhibitor of trans-signaling mediated by the 
+soluble IL-6/IL-6R complex. In mouse models, recombinant sgp130 has been 
+successfully applied for the treatment of diseases that are triggered and 
+maintained by soluble IL-6R like Crohn's disease, peritonitis, rheumatoid 
+arthritis, and colon cancer. The novel heterodimeric cytokine IL-27 
+(p28/EBV-induced gene 3) has been shown to act via a heterodimeric receptor 
+complex of gp130 and the WSX-1 receptor, and to co-regulate the Th(1) immune 
+response after infection. Therefore, we have tested the potential of the 
+recombinant sgp130-Fc protein to also inhibit signaling-mediated IL-27. Here we 
+show that sgp130-Fc does not interfere with IL-27 signaling. We therefore 
+conclude that IL-27 does not bind with high affinity to gp130.

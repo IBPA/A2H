@@ -1,0 +1,25 @@
+OBJECTIVE: The intestinal microbiota is involved in the pathogenesis of 
+arthritis. Altered microbiota composition has been demonstrated in patients with 
+rheumatoid arthritis (RA). However, it remains unclear how dysbiosis contributes 
+to the development of arthritis. The aim of this study was to investigate 
+whether altered composition of human intestinal microbiota in RA patients 
+contributes to the development of arthritis.
+METHODS: We analyzed the fecal microbiota of patients with early RA and healthy 
+controls, using 16S ribosomal RNA-based deep sequencing. We inoculated fecal 
+samples from RA patients and healthy controls into germ-free arthritis-prone SKG 
+mice and evaluated the immune responses. We also analyzed whether the 
+lymphocytes of SKG mice harboring microbiota from RA patients react with the 
+arthritis-related autoantigen 60S ribosomal protein L23a (RPL23A).
+RESULTS: A subpopulation of patients with early RA harbored intestinal 
+microbiota dominated by Prevotella copri; SKG mice harboring microbiota from RA 
+patients had an increased number of intestinal Th17 cells and developed severe 
+arthritis when treated with zymosan. Lymphocytes in regional lymph nodes and the 
+colon, but not the spleen, of these mice showed enhanced interleukin-17 (IL-17) 
+responses to RPL23A. Naive SKG mouse T cells cocultured with P copri-stimulated 
+dendritic cells produced IL-17 in response to RPL23A and rapidly induced 
+arthritis.
+CONCLUSION: We demonstrated that dysbiosis increases sensitivity to arthritis 
+via activation of autoreactive T cells in the intestine. Autoreactive SKG mouse 
+T cells are activated by dysbiotic microbiota in the intestine, causing joint 
+inflammation. Dysbiosis is an environmental factor that triggers arthritis 
+development in genetically susceptible mice.

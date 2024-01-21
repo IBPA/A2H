@@ -1,0 +1,25 @@
+OBJECTIVE: Angiogenesis, the growth of new blood vessels, is vital to the 
+ingress of inflammatory leukocytes in rheumatoid arthritis (RA) synovial tissue 
+and to the growth and proliferation of RA pannus. The factors that mediate the 
+growth of new blood vessels have not been completely defined. This study 
+examined the ability of Glu-Leu-Arg (ELR)-containing chemokines to induce 
+angiogenesis in the RA joint.
+METHODS: To reflect angiogenic activity in vivo, we selected a model using whole 
+human synovial tissue rather than isolated cells. Tissues were examined by 
+immunohistochemistry and enzyme-linked immunosorbent assay, and tissue 
+homogenates were immunoneutralized and assayed for their ability to induce 
+endothelial cell chemotaxis and rat corneal neovascularization.
+RESULTS: Cells expressing interleukin-8 (IL-8) and epithelial neutrophil 
+activating peptide 78 (ENA-78) were located in proximity to factor VIII-related 
+antigen-immunopositive endothelial cells. RA homogenates produced more IL-8 and 
+ENA-78 compared with normal synovial tissue homogenates. Moreover, homogenates 
+from RA synovial tissue produced significantly more chemotactic activity for 
+endothelial cells in vitro and angiogenic activity in the rat cornea in vivo 
+than did normal synovial tissue homogenates. The effects of IL-8 and ENA-78 
+accounted for a significant proportion of the chemotactic activity of 
+endothelial cells and angiogenic activity found in RA synovial tissue 
+homogenates.
+CONCLUSION: These results indicate that the ELR-containing chemokines IL-8 and 
+ENA-78 are important contributors to the angiogenic activity found in the 
+inflamed RA joint. It is possible that efforts aimed at down-regulating these 
+chemokines offer a novel targeted therapy for the treatment of RA.

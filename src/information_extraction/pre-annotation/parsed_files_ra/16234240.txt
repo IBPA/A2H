@@ -1,0 +1,24 @@
+Elevated levels of CHI3L1 (chitinase-3-like protein 1) are associated with 
+disorders exhibiting increased connective tissue turnover, such as rheumatoid 
+arthritis, osteoarthritis, scleroderma, and cirrhosis of the liver. This 
+secreted protein is not synthesized in young healthy cartilage, but is produced 
+in cartilage from old donors or patients with osteoarthritis. The molecular 
+processes governing the induction of CHI3L1 are currently unknown. To elucidate 
+the molecular events involved in CHI3L1 synthesis, we investigated two models of 
+articular chondrocytes: neonatal rat chondrocytes, which do not express CHI3L1, 
+and human chondrocytes, which express CHI3L1 constitutively. In neonatal rat 
+chondrocytes, the inflammatory cytokines tumor necrosis factor-alpha (TNF-alpha) 
+and interleukin-1 potently induced steady-state levels of CHI3L1 mRNA and 
+protein secretion. Treatment of chondrocytes with TNF-alpha for as little as 1 h 
+was sufficient for sustained induction up to 72 h afterward. Using inhibitors 
+selective for the major signaling pathways implicated in mediating the effects 
+of TNF-alpha and interleukin-1, only inhibition of NF-kappaB activation was 
+effective in curtailing cytokine-induced expression, including after removal of 
+the cytokine, indicating that induction and continued production of CHI3L1 are 
+controlled mainly by this transcription factor. Inhibition of NF-kappaB 
+signaling also abolished constitutive expression by human chondrocytes. Thus, 
+induction and continued secretion of CHI3L1 in chondrocytes require sustained 
+activation of NF-kappaB. Selective induction of CHI3L1 by cytokines acting 
+through NF-kappaB coupled with the known restriction of the catabolic responses 
+by CHI3L1 in response to these inflammatory cytokines represents a key 
+regulatory feedback process in controlling connective tissue turnover.

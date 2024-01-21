@@ -1,0 +1,22 @@
+Rheumatoid arthritis is most prominently characterized by synoviocyte 
+hyperplasia which therefore serves as an important target for clinical therapy. 
+In the present study, it was observed that menthol, the specific agonist of 
+transient receptor potential melastatin subtype 8 (TRPM8), could induce 
+sustained increases of cytosolic calcium concentration ([Ca(2+)]c) in 
+synoviocytes isolated from collagen-induced arthritis rats in dose-dependent 
+manner, which was evidently blocked by applying an extracellular Ca(2+)-free 
+buffer. Menthol-induced [Ca(2+)]c increase was also significantly inhibited by 
+potent TRPM8 antagonist capsazepine (CZP), indicating that this [Ca(2+)]c 
+elevation was mostly attributed to TRPM8-mediated Ca(2+) entry. Besides, RT-PCR 
+indeed demonstrated presence of TRPM8 in the synoviocytes. Meanwhile, it was 
+found that menthol evoked production of intracellular reactive oxygen species, 
+which could be abolished by Ca(2+) free solutions or CZP. Further experiments 
+showed that menthol reduced the cell numbers and survival of synoviocytes. This 
+reduction was associated with apoptosis as suggested by mitochondrial membrane 
+depolarization, nuclear condensation and a caspase 3/7 apoptotic assay. 
+Menthol-induced death and apoptosis of synoviocytes both were obviously 
+inhibited by CZP, intracellular calcium chelator BAPTA-AM, and reactive oxygen 
+species inhibitor diphenylene iodonium, respectively. Taken together, our data 
+indicated that menthol resulted in synoviocyte death associated with apoptosis 
+via calcium entry and reactive oxygen species production depending on TRPM8 
+activation.

@@ -1,0 +1,22 @@
+Lethal toxin (LT) was purified from Clostridium sordellii IP82 by 
+DEAE-Trisacryl, Ultrogel AcA3-4 gel filtration, and hydroxyapatite column 
+chromatography. The molecular weight of purified LT was estimated to be 240,000 
+to 250,000, and the pI was at pH 4.55. LT was lethal for mice by intraperitoneal 
+injection (3.4 X 10(5) mouse lethal doses per mg of protein), cytotoxic for Vero 
+cells (6.1 X 10(4) cytotoxic units per mg of protein), erythematous and 
+edematous by intradermal injection in guinea pigs, and induced a moderate fluid 
+accumulation in the guinea pig intestinal loop test. The lethal activity was 
+inactivated by N-bromosuccinimide, N-chlorosuccinimide, chloramine-T, and sodium 
+dodecyl sulfate. The data suggest that tryptophan and methionine residues 
+present in the toxin are important for lethal activity. Furthermore, LT was 
+inactivated by oxidized glutathione and activated by dithiothreitol. 
+Inactivation by sulfhydryl-group reagents 5,5'-dithiobis(2-nitrobenzoic acid) 
+and iodoacetamide was only obtained with dithiothreitol-treated LT. Thiol groups 
+which are protected as a disulfide bond(s) seem to be essential for the LT 
+activity. A specific antiserum against LT neutralized the biological activities 
+of LT and also cytotoxic activity and lethal activity of Clostridium difficile 
+toxin B but not of C. difficile toxin A. However, this serum did not recognize 
+antigen from C. difficile culture supernatant by immunoblotting. It was 
+concluded that antibodies prepared from C. sordellii LT that neutralized C. 
+difficile cytotoxic activity recognized a low number of epitopes or tertiary 
+structures of C. difficile cytotoxin.

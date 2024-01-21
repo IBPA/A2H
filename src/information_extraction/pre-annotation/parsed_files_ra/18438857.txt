@@ -1,0 +1,27 @@
+OBJECTIVE: Inflammatory processes in rheumatoid arthritis are primarily 
+regulated by the cytokines tumor necrosis factor alpha (TNFalpha) and 
+interleukin-1beta (IL-1beta). Previous studies in our laboratory have shown that 
+IL-1beta represses expression of the cartilage characteristic genes, 
+cartilage-derived retinoic acid-sensitive protein (cd-rap) and type II collagen 
+(COL2A1); this mechanism of repression involves activation of a CCAAT/enhancer 
+binding protein (c/EBP) site within promoter regions. The aim of this study was 
+to investigate novel TNFalpha-mediated mechanisms that regulate the expression 
+of cd-rap.
+METHODS: Rat chondrosarcoma cells were transiently transfected with 
+complementary DNA constructs encoding cd-rap, in the presence of TNFalpha. The 
+expression of c/EBPbeta, SOX9, and p300 in rat chondrosarcoma cells and primary 
+human articular chondrocytes after treatment with TNFalpha was examined by 
+reverse transcription-polymerase chain reaction and Western blotting. The effect 
+of TNFalpha on endogenous binding of c/EBPbeta or SOX9 to the cd-rap promoter 
+was examined by chromatin immunoprecipitation assays.
+RESULTS: We identified a new c/EBP binding site in the cd-rap promoter (from 
+position -1059 bp to position -1046 bp). Binding of c/EBP to this site was 
+regulated by TNFalpha but not IL-1beta, resulting in down-regulation of cd-rap 
+expression. This effect was reversed by mutational inactivation of the c/EBP 
+motif. In addition, the activation potential of SOX9 and CREB binding 
+protein/p300 on the cd-rap promoter was enhanced after mutation of the new c/EBP 
+binding site, indicating that blockage of this site would increase 
+transcription.
+CONCLUSION: TNFalpha regulates the expression and/or DNA-binding potential of 
+key positive-acting and negative-acting transcription factors that control the 
+expression of the cartilage matrix gene, cd-rap.

@@ -1,0 +1,18 @@
+A novel procedure designed to detect naturally occurring beta-lactam-containing 
+molecules led to isolation of the monobactams - structurally unique, bacterially 
+produced, monocyclic beta-lactam antibiotics. Although none of these monobactams 
+exhibited impressive antimicrobial activity, side-chain variation - as with the 
+penicillins and cephalosporins - resulted in potently active compounds. 
+Aztreonam was chosen from hundreds of compounds for extended laboratory studies. 
+In addition to a unique chemical structure, aztreonam has biologic properties 
+that are unique in comparison with those of the classical penicillins and 
+cephalosporins. Aztreonam is relatively inactive against gram-positive bacteria 
+and anaerobes but is extremely effective against aerobic gram-negative bacteria, 
+including Pseudomonas aeruginosa. The drug is highly resistant to enzymatic 
+hydrolysis by beta-lactamases, particularly those known to be mediated by R 
+plasmids, and is a poor inducer of chromosomal beta-lactamases. In the majority 
+of drug combinations tested, aztreonam exhibits additive or synergistic 
+activity. In a series of animal-model infections, the drug showed a high degree 
+of efficacy that was consistent with findings in studies in vitro. In a hamster 
+model for Clostridium difficile-induced pseudomembranous colitis, aztreonam did 
+not induce any significant changes.

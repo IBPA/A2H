@@ -1,0 +1,7 @@
+Human-SCID grafting is a commonly used technique for the long-term investigation 
+of rheumatoid arthritis (RA) explants. To establish a chimeric immunological 
+system in NOD/SCID mice, RA patient-derived pannus tissue from the synovial 
+membrane, articular cartilage, and bone can be transplanted subcutaneously. The 
+same patient-derived peripheral blood mononuclear cell chimerism can be 
+successfully achieved by intraperitoneal engraftment. This xenograft model is 
+able to be used for initial screening of human target-specified biologics.

@@ -1,0 +1,21 @@
+OBJECTIVE: Chemokine (C-C motif) receptor 6 gene (CCR6) polymorphism has been 
+reported to be associated with rheumatoid arthritis (RA) in different ethnic 
+populations. Moreover, its inhibition by monoclonal antibody in mouse model has 
+suppressed arthritis. However, few replication studies have reported conflicting 
+results about this association. Therefore, to establish that CCR6 indeed is a 
+risk factor associated with RA among different ethnic populations, a 
+comprehensive meta-analysis study was conducted.
+METHODS: PubMed and MEDLINE databases were searched using the term 'CCR6' for 
+all articles published before May 2014. All the replication studies examining 
+the association between CCR6 and RA were reviewed for meta-analysis. Data were 
+summarized using random-effects meta-analysis. The heterogeneity and publication 
+bias among studies were examined by χ(2) -based Q statistic test and Egger's 
+test, respectively.
+RESULTS: A total of 24955 RA patients and 56129 controls from seven articles 
+were included in the meta-analysis. While CCR6 was a risk factor in Asian (OR = 
+1.19, 95% CI: 1.14-1.24) and European (OR = 1.14, 95% CI: 1.08-1.21) 
+populations, it was indicated as a protective factor in African Americans (OR = 
+0.79, 95% CI: 0.62-0.96).
+CONCLUSIONS: Our meta-analysis study concludes that there is a significant 
+association between CCR6 and RA in all racial groups except African-American 
+subgroup, which require a large sample size for concrete prediction.

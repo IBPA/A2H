@@ -1,0 +1,15 @@
+Interleukin 17 (IL-17) and hypoxia have been implicated to play a key role in 
+rheumatoid arthritis (RA). In this study, the combined treatment of IL-17 and 
+cobalt chloride (CoCl2), a hypoxia mimetic significantly increased the 
+osteoclast formation and the expression of TRAP and MMP-9 in RAW 264.7 
+macrophage cells in the presence of RANKL and M-CSF. The unified effect of IL-17 
+and CoCl2 markedly increased osteoclast mediated bone erosion through the 
+activation of RANKL/NF-κB/NFATc1 signaling pathway. The treatment of IL-17 in 
+combination with CoCl2 further potentiated the protein and mRNA expression of 
+HIF-1α and MMP-9 in rat synovial macrophages. Conversely, the blockage of HIF-1α 
+expression with BAY87-2243 abrogated the IL-17 and CoCl2 mediated expression of 
+HIF-1α and MMP-9. Further, the knockdown of IL-17RA using siRNA reversed the 
+IL-17 and CoCl2 induced expression of HIF-1α in synovial macrophages. In 
+conclusion, IL-17 synergizes with CoCl2 induced hypoxic condition to augment 
+osteoclast mediated bone erosion and synovial macrophages mediated RA 
+pathogenesis.

@@ -1,0 +1,13 @@
+An enzyme immunoassay (enzyme-linked immunosorbent assay [ELISA]) to detect 
+hamster antibody to toxins A and B of Clostridium difficile was developed in 
+which toxin preparations are used to coat the solid phase. The specificity of 
+the assay was supported by blocking tests with the toxin preparations and 
+proteins from a nontoxigenic strain. Sera from immunized and control hamsters 
+were tested by this technique, and results were compared with those from a 
+cytotoxicity neutralization assay. Antibody to toxins A and B assayed by ELISA 
+showed a close quantitative correlation with antibody titers obtained by 
+cytotoxicity neutralization. The ELISA assays described appear to provide a 
+sensitive, specific, and practical method to define the prevalence of antibody 
+to C. difficile toxins. These assays could be readily applied to human sera to 
+examine and study the immune response of patients with C. difficile-induced 
+disease.

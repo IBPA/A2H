@@ -1,0 +1,14 @@
+Although rheumatoid arthritis (RA) is the most common autoimmune disease, 
+affecting approximately 1% of the population worldwide, its pathogenic 
+mechanisms are poorly understood. Tobacco smoke, an environmental risk factor 
+for RA, contains several ligands of aryl hydrocarbon receptor (Ahr), also known 
+as dioxin receptor. Ahr plays critical roles in the immune system. We previously 
+demonstrated that Ahr in helper T-cells contributes to development of 
+collagen-induced arthritis, a mouse model of RA. Other studies have shown that 
+cigarette smoke condensate and pure Ahr ligands exacerbate RA by altering bone 
+metabolism and inducing proinflammatory responses in fibroblast-like 
+synoviocytes. Consistent with these findings, several Ahr antagonists such as 
+α-naphthoflavone, resveratrol, and GNF351 reverse the effect of Ahr ligands in 
+RA pathogenesis. In this review, we summarize the current knowledge of Ahr 
+function in the immune system and the potential clinical benefits of Ahr 
+antagonism in treating RA.

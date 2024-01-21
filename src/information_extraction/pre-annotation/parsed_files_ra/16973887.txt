@@ -1,0 +1,23 @@
+The inhibition of prostaglandin (PG) synthesis is at the center of current 
+anti-inflammatory therapies. Because cyclooxygenase-2 (COX-2) inhibitors and 
+nonsteroidal anti-inflammatory drugs (NSAIDs) inhibit the formation of multiple 
+PGs, there is currently a strong focus on characterizing the role of the 
+different PGs in the inflammation process and development of arthritis. Evidence 
+to date suggests that both PGE(2) and PGI(2) act as mediators of pain and 
+inflammation. Most of the data indicating a role for PGI(2) in this context have 
+been generated in animal models of acute pain. Herein, we describe the role of 
+PGI(2) in models of osteoarthritis (OA) and rheumatoid arthritis using a highly 
+selective PGI(2) receptor (IP, Ptgir) antagonist and IP receptor-deficient mice. 
+In the rat OA model using monoiodoacetate injection into the knee joint, the IP 
+antagonist reduced pain with an efficacy approaching that of the NSAID 
+diclofenac. In a chronic model of inflammatory arthritis, collagen-antibody 
+induced arthritis model in mice, IP receptor-deficient mice displayed a 91% 
+reduction in arthritis score. Interestingly, pretreatment with the IP 
+[N-[4-(imidazolidin-2-ylideneamino)-benzyl]-4-methoxy-benzamide] antagonist in 
+this model also caused a significant reduction of the symptoms, whereas 
+administration of the compound after the initiation of arthritis had no 
+detectable effect. Our data indicate that, in addition to its role in acute 
+inflammation, PGI(2) is involved in the development of chronic inflammation. The 
+results also suggest that the inhibition of PGI(2) synthesis by NSAIDs and COX-2 
+inhibitors, in addition to that of PGE(2), contributes to their efficacy in 
+treating the signs of arthritis.

@@ -1,0 +1,19 @@
+The increased incidence of antibiotic resistant 'superbugs' has amplified the 
+use of broad spectrum antibiotics worldwide. An unintended consequence of 
+antimicrobial treatment is disruption of the gastrointestinal microbiota, 
+resulting in susceptibility to opportunistic pathogens, such as Clostridium 
+difficile. Paradoxically, treatment of C. difficile infections (CDI) also 
+involves antibiotic use, leaving patients susceptible to re-infection. This 
+serious health threat has led to an urgent call for the development of new 
+therapeutics to reduce or replace the use of antibiotics to treat bacterial 
+infections. To address this need, we have developed colostrum-derived antibodies 
+for the prevention and treatment of CDI. Pregnant cows were immunised to 
+generate hyperimmune bovine colostrum (HBC) containing antibodies that target 
+essential C. difficile virulence components, specifically, spores, vegetative 
+cells and toxin B (TcdB). Mouse infection and relapse models were used to 
+compare the capacity of HBC to prevent or treat primary CDI as well as prevent 
+recurrence. Administration of TcdB-specific colostrum alone, or in combination 
+with spore or vegetative cell-targeted colostrum, prevents and treats C. 
+difficile disease in mice and reduces disease recurrence by 67%. C. 
+difficile-specific colostrum should be re-considered as an immunotherapeutic for 
+the prevention or treatment of primary or recurrent CDI.

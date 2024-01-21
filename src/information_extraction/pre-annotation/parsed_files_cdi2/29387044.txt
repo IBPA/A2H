@@ -1,0 +1,20 @@
+Clostridium difficile is a Gram-positive, spore-forming anaerobic human 
+gastrointestinal pathogen. C. difficile infection (CDI) is a major health 
+concern worldwide, with symptoms ranging from diarrhea to pseudomembranous 
+colitis, toxic megacolon, sepsis, and death. CDI onset and progression are 
+mostly caused by intestinal dysbiosis and exposure to C. difficile spores. 
+Current treatment strategies include antibiotics; however, antibiotic use is 
+often associated with high recurrence rates and an increased risk of antibiotic 
+resistance. Medium-chain fatty acids (MCFAs) have been revealed to inhibit the 
+growth of multiple human bacterial pathogens. Components of coconut oil, which 
+include lauric acid, have been revealed to inhibit C. difficile growth in vitro. 
+In this study, we demonstrated that lauric acid exhibits potent antimicrobial 
+activities against multiple toxigenic C. difficile isolates in vitro. The 
+inhibitory effect of lauric acid is partly due to reactive oxygen species (ROS) 
+generation and cell membrane damage. The administration of lauric acid 
+considerably reduced biofilm formation and preformed biofilms in a 
+dose-dependent manner. Importantly, in a mouse infection model, lauric acid 
+pretreatment reduced CDI symptoms and proinflammatory cytokine production. Our 
+combined results suggest that the naturally occurring MCFA lauric acid is a 
+novel C. difficile inhibitor and is useful in the development of an alternative 
+or adjunctive treatment for CDI.

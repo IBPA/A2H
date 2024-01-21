@@ -1,0 +1,29 @@
+INTRODUCTION: In this article, we present a comparative immunohistochemical 
+evaluation of four clinical-stage antibodies (L19, F16, G11 and F8) directed 
+against splice isoforms of fibronectin and of tenascin-C for their ability to 
+stain synovial tissue alterations in rheumatoid arthritis patients. Furthermore 
+we have evaluated the therapeutic potential of the most promising antibody, F8, 
+fused to the anti-inflammatory cytokine interleukin (IL) 10.
+METHODS: F8-IL10 was produced and purified to homogeneity in CHO cells and shown 
+to comprise biological active antibody and cytokine moieties by binding assays 
+on recombinant antigen and by MC/9 cell proliferation assays. We have also 
+characterized the ability of F8-IL10 to inhibit arthritis progression in the 
+collagen-induced arthritis mouse model.
+RESULTS: The human antibody F8, specific to the extra-domain A of fibronectin, 
+exhibited the strongest and most homogenous staining pattern in synovial 
+biopsies and was thus selected for the development of a fully human fusion 
+protein with IL10 (F8-IL10, also named DEKAVIL). Following radioiodination, 
+F8-IL10 was able to selectively target arthritic lesions and tumor neo-vascular 
+structures in mice, as evidenced by autoradiographic analysis and quantitative 
+biodistribution studies. The subcutaneous administration route led to equivalent 
+targeting results when compared with intravenous administration and was thus 
+selected for the clinical development of the product. F8-IL10 potently inhibited 
+progression of established arthritis in the collagen-induced mouse model when 
+tested alone and in combination with methotrexate. In preparation for clinical 
+trials in patients with rheumatoid arthritis, F8-IL10 was studied in rodents and 
+in cynomolgus monkeys, revealing an excellent safety profile at doses tenfold 
+higher than the planned starting dose for clinical phase I trials.
+CONCLUSIONS: Following the encouraging preclinical results presented in this 
+paper, clinical trials with F8-IL10 will now elucidate the therapeutic potential 
+of this product and whether the targeted delivery of IL10 potentiates the 
+anti-arthritic action of the cytokine in rheumatoid arthritis patients.

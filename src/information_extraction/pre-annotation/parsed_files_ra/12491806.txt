@@ -1,0 +1,18 @@
+Rheumatoid arthritis (RA) is a serious medical problem, with approximately 1% of 
+the people in the world affected. The disease is autoimmune in nature and 
+characterized by chronic inflammation of the synovial tissue in multiple joints, 
+which leads to joint destruction, although the etiopathogenesis has not been 
+elucidated completely. It is remarkable that expression of inflammatory 
+cytokines is augmented in the joints. We previously reported on an inflammatory 
+arthropathy resembling RA that develops in high incidence among transgenic (Tg) 
+mice that carry the human T cell leukemia virus type I (HTLV-I) tax gene. 
+Autoimmune pathogenesis was suggested in this RA model, and levels of cytokines 
+including IL-1 were elevated in the joints of these Tg mice. Depletion of IL-1 
+by gene targeting greatly reduced the incidence of the disease, indicating the 
+importance of this cytokine in the development of arthritis. Furthermore, IL-1 
+receptor antagonist (IL-1Ra)-deficient mice develop autoimmunity and arthritis 
+spontaneously. These observations suggest that excess IL-1 signaling causes 
+autoimmunity. We show that IL-1 activates the immune system non-specifically by 
+inducing CD40L and OX40 co-signaling molecules on T cells. In this review, the 
+roles of IL-1 in the development of autoimmunity and arthritis will be discussed 
+in correlation with the development of new drugs.

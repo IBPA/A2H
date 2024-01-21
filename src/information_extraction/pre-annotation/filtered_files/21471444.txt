@@ -1,0 +1,19 @@
+Inflammatory cytokines like TNF play a central role in autoimmune disorders such 
+as rheumatoid arthritis. We identified the tyrosine kinase bone marrow kinase on 
+chromosome X (BMX) as an essential component of a shared inflammatory signaling 
+pathway. Transient depletion of BMX strongly reduced secretion of IL-8 in cell 
+lines and primary human cells stimulated by TNF, IL-1β, or TLR agonists. BMX was 
+required for phosphorylation of p38 MAPK and JNK, as well as activation of 
+NF-κB. The following epistasis analysis indicated that BMX acts downstream of or 
+at the same level as the complex TGF-β activated kinase 1 (TAK1)-TAK1 binding 
+protein. At the cellular level, regulation of the IL-8 promoter required the 
+pleckstrin homology domain of BMX, which could be replaced by an ectopic 
+myristylation signal, indicating a requirement for BMX membrane association. In 
+addition, activation of the IL-8 promoter by in vitro BMX overexpression 
+required its catalytic activity. Genetic ablation of BMX conferred protection in 
+the mouse arthritis model of passive K/BxN serum transfer, confirming that BMX 
+is an essential mediator of inflammation in vivo. However, genetic replacement 
+with a catalytically inactive BMX allele was not protective in the same 
+arthritis animal model. We conclude that BMX is an essential component of 
+inflammatory cytokine signaling and that catalytic, as well as noncatalytic 
+functions of BMX are involved.

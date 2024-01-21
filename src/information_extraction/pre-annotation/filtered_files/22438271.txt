@@ -1,0 +1,25 @@
+BACKGROUND: Vascular endothelial growth factor (VEGF) is an angiogenic growth 
+factor that plays a critical role in several diseases, including cancer, 
+rheumatoid arthritis and diseases of the eye. Persistent regulation of VEGF by 
+expression of small interfering RNAs targeting VEGF represents a potential 
+future strategy for treatment of such diseases. As a step toward this goal, the 
+present study combines the potency of VEGF-targeted miRNA mimics, produced from 
+a miRNA cluster, with delivery by adeno-associated virus (AAV)-based vectors.
+METHODS: Nine different engineered tri-cistronic miRNA clusters encoding 
+anti-VEGF effectors were generated and tested in adult human retinal pigment 
+epithelial (ARPE-19) cells using Renilla luciferase screening, quantitative 
+reverse transcriptase-polymerase chain reaction (RT-PCR), western blotting and 
+immunostaining analysis. In vivo efficacy was tested by the injection of 
+scAAV2/8 vectors expressing the most effective miRNA cluster into murine 
+hindlimb muscles, followed by quantitative RT-PCR.
+RESULTS: Plasmids containing anti-VEGF miRNA clusters showed efficient silencing 
+of VEGF and demonstrated a combined gene silencing effect for miRNA clusters 
+composed of multiple miRNA-mimicked RNA interference effectors. The most potent 
+molecule, miR-5,10,7, resulted in a knockdown of VEGF by approximately 75%. 
+Injection of scAAV2/8 vectors expressing miR-5,10,7 into murine hindlimb 
+muscles, resulted in a 44% reduction of endogenous VEGF.
+CONCLUSIONS: We have developed miRNA clusters encoding anti-VEGF effectors and 
+shown, in a mouse model, that VEGF is efficiently down-regulated by 
+scAAV2/8-delivered miRNA clusters, allowing potent attenuation of VEGF. These 
+findings may contribute to the development of gene therapy based on AAV-mediated 
+delivery of miRNA clusters.

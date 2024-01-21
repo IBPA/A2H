@@ -1,0 +1,22 @@
+Triptolide is a purified component from a traditional Chinese herb Tripterygium 
+wilfordii Hook F. It has been shown to have anti-inflammatory and 
+immunosuppressive activities by its inhibitory effect on T-cells. But the effect 
+of triptolide on enteric mucosal immune responses is not well known. The enteric 
+mucosal immune system, especially the Peyer's patch, is regarded as one of the 
+sites for inducing immunity tolerance, and this intolerance effect has been used 
+to induce oral tolerance, which can considerably reduce arthritis severity in 
+several models of experimental polyarthritis and rheumatoid arthritis (RA) 
+patients. In this study, we investigated the effect of triptolide on the CD4+ 
+and CD8+ cell distribution in Peyer's patch cells and periphery lymphocytes and 
+TGF-beta and IFN-gamma levels in periphery in collagen induced arthritis (CIA) 
+in DA rats. CIA in the rat is a widely studied animal model of inflammatory 
+polyarthritis, with similarities to RA, and the DA rat is one of most 
+susceptible strains for CIA. Our data show that triptolide could lower the 
+arthritic scores of CIA. The more CD8+ cells in the Peyer's patch, the more CD4+ 
+cells in periphery. High level IFN-gamma and low level TGF-beta in periphery are 
+observed in CIA rats, while the less CD4+ and CD8+ cells in the Peyer's patch, 
+the less CD4+ cells in periphery. Low level IFN-gamma and high level TGF-beta in 
+periphery are shown in triptolide-treated rats. The dose dependency of 
+triptolide was observed in periphery CD4 cells and in the arthritic score. 
+Therefore, the effect of triptolide on Peyer's patch immune cells might 
+partially explain some of the immunosuppressive activities of triptolide.

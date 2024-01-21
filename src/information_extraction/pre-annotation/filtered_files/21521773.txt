@@ -1,0 +1,22 @@
+Bruton's tyrosine kinase (BTK) plays a critical role in the development, 
+differentiation, and proliferation of B-lineage cells, making it an attractive 
+target for the treatment of rheumatoid arthritis. The objective of this study 
+was to evaluate the antiarthritis effect of GDC-0834 
+[R-N-(3-(6-(4-(1,4-dimethyl-3-oxopiperazin-2-yl)phenylamino)-4-methyl-5-oxo-4,5-dihydropyrazin-2-yl)-2-methylphenyl)-4,5,6,7-tetrahydrobenzo[b]thiophene-2-carboxamide], 
+a potent and selective BTK inhibitor, and characterize the relationship between 
+inhibition of BTK phosphorylation (pBTK) and efficacy. GDC-0834 inhibited BTK 
+with an in vitro IC(50) of 5.9 and 6.4 nM in biochemical and cellular assays, 
+respectively, and in vivo IC(50) of 1.1 and 5.6 μM in mouse and rat, 
+respectively. Administration of GDC-0834 (30-100 mg/kg) in a rat 
+collagen-induced arthritis (CIA) model resulted in a dose-dependent decrease of 
+ankle swelling and reduction of morphologic pathology. An integrated disease 
+progression pharmacokinetic/pharmacodynamic model where efficacy is driven by 
+pBTK inhibition was fit to ankle-diameter time-course data. This model 
+incorporated a transit model to characterize nondrug-related decreases in ankle 
+swelling occurring at later stages of disease progression in CIA rats. The time 
+course of ankle swelling in vehicle animals was described well by the base 
+model. Simultaneous fitting of data from vehicle- and GDC-0834-treated groups 
+showed that overall 73% inhibition of pBTK was needed to decrease the rate 
+constant describing the ankle swelling increase (k(in)) by half. These findings 
+suggest a high degree of pBTK inhibition is required for maximal activity of the 
+pathway on inflammatory arthritis in rats.

@@ -1,0 +1,18 @@
+Interleukin (IL)-35 was initially described as an immunosuppressive cytokine 
+specifically produced by CD4(+)FoxP3(+) regulatory T cells (Treg). Since Treg 
+play a major role in autoimmunity control and protect from inflammation, we 
+aimed at evaluating the role of IL-35 in collagen-induced arthritis (CIA), a 
+mouse model of rheumatoid arthritis (RA), using a non-viral gene transfer 
+strategy. The clinical and histological effect of IL-35 was assessed in mice 
+with CIA receiving an injection of two distinct plasmids encoding IL-35 gene 
+(pIGneo-mIL-35 or pORF-mIL-35) 3 and 18 days after CIA induction. Treg and Th17 
+were characterized by flow cytometry in the spleen and lymph nodes of treated 
+mice. Our results showed that whatever the plasmid used, IL-35 gene transfer 
+resulted in a statistically significant increase in clinical scores of CIA 
+compared to results with empty plasmid. The underlying cellular mechanisms of 
+this effect were shown to be related to an increased Th17/Treg ratio in the 
+spleen of pORF-mIL-35 treated mice. In conclusion, we show an unexpected but 
+clear exacerbating effect of IL-35 gene transfer in an autoimmune and 
+inflammatory RA model, associated with a modification of the Th17/Treg balance. 
+Altogether, these result shows that this cytokine can promote chronic 
+inflammation.

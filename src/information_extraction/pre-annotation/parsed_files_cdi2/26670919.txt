@@ -1,0 +1,15 @@
+The primary challenge for treating Clostridium difficile infections (CDI) is 
+maintenance of clinical response after the end of treatment (sustained clinical 
+response). Disease recurrence following a positive clinical response occurs in 
+approximately 6-25 % of patients after the first episode and in up to 65 % for 
+subsequent recurrences. Surotomycin, a novel cyclic lipopeptide antibiotic with 
+a core derived by Streptomyces roseosporus fermentation, disrupts C. difficile 
+cellular membrane activity in both logarithmic and stationary phases and 
+minimally disturbs normal gastrointestinal microbiota because of its lack of 
+activity against Gram-negative anaerobes and facultative anaerobes. Preclinical 
+and clinical evidence indicate that surotomycin has low oral bioavailability, 
+allowing gastrointestinal tract concentrations to greatly exceed its minimum 
+inhibitory concentration for C. difficile. Surotomycin is well tolerated and 
+effective in hamster models of CDI. Phase 2 clinical evidence suggests that 
+surotomycin (250 mg twice daily) is an effective CDI treatment, with 
+statistically lower recurrence rates than vancomycin.

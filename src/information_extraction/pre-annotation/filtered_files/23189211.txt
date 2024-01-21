@@ -1,0 +1,45 @@
+AIM: To investigate the effect of human umbilical cord stem cells, both 
+mesenchymal and hematopoietic (CD34+), in the treatment of arthritis.
+METHODS: Mesenchymal stem cells (MSCs) and hematopoietic (CD34+) stem cells 
+(HSC) were isolated from human umbilical cord blood obtained from the umbilical 
+cord of healthy pregnant donors undergoing full-term normal vaginal delivery. 
+MSC, HSC, methotrexate (MTX) and sterile saline were injected intra-articularly 
+into the rat hindpaw with complete freunds adjuvant (CFA) induced arthritis 
+after the onset of disease (day 34), when arthritis had become well established 
+(arthritis score ≥ 2). Arthritic indices were evaluated and the levels of 
+interleukin (IL)-1, tumor necrosis factor (TNF)-α and interferon (IFN)-γ and 
+anti-inflammatory cytokine IL-10 in serum were determined using enzyme-linked 
+immunosorbent assay. Animals of all groups were sacrificed 34 d after beginning 
+treatment, except positive control (PC) which was sacrificed at 10, 21 and 34 d 
+for microscopic observation of disease progression. We used hematoxylin, eosin 
+and Masson's trichrome stains for histopathological examination of cartilage and 
+synovium.
+RESULTS: The mean arthritis scores were similar in all groups at 12 and 34 d 
+post immunization, with no statistical significant difference. Upon the 
+injection of stem cells (hematopoietic and mesenchymal), the overall arthritis 
+signs were significantly improved around 21 d after receiving the injection and 
+totally disappeared at day 34 post treatment in MSC group. Mean hindpaw diameter 
+(mm) in the MSC rats was about half that of the PC and MTX groups (P = 0.007 and 
+P = 0.021, respectively) and 0.6 mm less than the HSC group (P = 0.047), as 
+indicated by paw swelling. Associated with these findings, serum levels of 
+TNF-α, IFN-γ and IL-1 decreased significantly in HSC and MSC groups compared to 
+PC and MTX groups (P < 0.05), while the expression of IL-10 was increased. 
+Histopathological examination with H and E stain revealed that the MTX treated 
+group showed significant reduction of leucocytic infiltrate and hypertrophy of 
+the synovial tissue with moderate obliteration of the joint cavity. Stem cells 
+treated groups (both hematopoietic CD34+ and mesenchymal), showed significant 
+reduction in leucocytic infiltrate and hypertrophy of the synovial tissue with 
+mild obliteration of the joint cavity. With Masson's trichrome, stain sections 
+from the PC group showed evidence of vascular edema of almost all vessels within 
+the synovium in nearly all arthritic rats. Vacuoles were also visible in the 
+outer vessel wall. The vessel became hemorrhagic and finally necrotic. In 
+addition, there was extensive fibrosis completely obliterating the joint cavity. 
+The mean color area percentage of collagen in this group was 0.324 ± 0.096, 
+which was significantly increased when compared to the negative control group. 
+The mean color area percentage of collagen in hematopoietic CD34+ and 
+mesenchymal groups was 0.176 ± 0.0137 and 0.174 ± 0.0197 respectively, which 
+showed a marked decrement compared to the PC group, denoting a mild increase in 
+synovial tissue collagen fibers.
+CONCLUSION: MSC enhance the efficacy of CFA-induced arthritis treatment, most 
+likely through the modulation of the expression of cytokines and amelioration of 
+pathological changes in joints.

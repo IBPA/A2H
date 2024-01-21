@@ -1,0 +1,13 @@
+Tumor necrosis factor alpha (TNFα) and interleukin-6 (IL-6) have proved to be 
+important in rheumatoid arthritis (RA) because the outcome of RA has greatly 
+improved with the recent availability of biologics targeting them. It is well 
+accepted that these cytokines are involved in the activation of the nuclear 
+factor-κB (NF-κB) signaling pathway, but our understanding of the dependency of 
+these pro-inflammatory cytokines and the link between them in RA is currently 
+limited. Recently, we and others proved the importance of TNFα-induced protein 
+(TNFAIP), due to the spontaneous development of arthritis in deficient animals 
+that are dependent on IL-6. To date, nine TNFAIPs have been identified, and 
+TNFAIP3 and TNFAIP9 were found to be clearly associated with mouse and human 
+arthritis. In this review, we compare and discuss recent TNFAIP topics, 
+especially focusing on TNFAIP3 and TNFAIP9 in autoimmune arthritis in mice and 
+humans.

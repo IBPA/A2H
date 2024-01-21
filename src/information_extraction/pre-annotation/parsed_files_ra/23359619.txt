@@ -1,0 +1,25 @@
+BACKGROUND: Due to recent studies indicating that the deregulation of microRNAs 
+(miRNAs) in T cells contributes to increased severity of rheumatoid arthritis, 
+we hypothesized that deregulated miRNAs may interact with key mRNA targets 
+controlling the function or differentiation of these cells in this disease.
+METHODOLOGY/PRINCIPAL FINDINGS: To test our hypothesis, we used microarrays to 
+survey, for the first time, the expression of all known mouse miRNAs in parallel 
+with genome-wide mRNAs in thymocytes and naïve and activated peripheral CD3(+) T 
+cells from two mouse strains the DBA-1/J strain (MHC-H2q), which is susceptible 
+to collagen induced arthritis (CIA), and the DBA-2/J strain (MHC-H2d), which is 
+resistant. Hierarchical clustering of data showed the several T cell miRNAs and 
+mRNAs differentially expressed between the mouse strains in different stages of 
+immunization with collagen. Bayesian statistics using the GenMir(++) algorithm 
+allowed reconstruction of post-transcriptional miRNA-mRNA interaction networks 
+for target prediction. We revealed the participation of miR-500, miR-202-3p and 
+miR-30b*, which established interactions with at least one of the following 
+mRNAs: Rorc, Fas, Fasl, Il-10 and Foxo3. Among the interactions that were 
+validated by calculating the minimal free-energy of base pairing between the 
+miRNA and the 3'UTR of the mRNA target and luciferase assay, we highlight the 
+interaction of miR-30b*-Rorc mRNA because the mRNA encodes a protein implicated 
+in pro-inflammatory Th17 cell differentiation (Rorγt). FACS analysis revealed 
+that Rorγt protein levels and Th17 cell counts were comparatively reduced in the 
+DBA-2/J strain.
+CONCLUSIONS/SIGNIFICANCE: This result showed that the miRNAs and mRNAs 
+identified in this study represent new candidates regulating T cell function and 
+controlling susceptibility and resistance to CIA.

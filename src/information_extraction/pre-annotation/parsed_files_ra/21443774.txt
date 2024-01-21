@@ -1,0 +1,31 @@
+INTRODUCTION: Collagen-induced arthritis (CIA) is a mouse model for rheumatoid 
+arthritis (RA) and is induced after immunization with type II collagen (CII). 
+CIA, like RA, is an autoimmune disease leading to destruction of cartilage and 
+joints, and both the priming and inflammatory phases have been suggested to be 
+dependent on proteases. In particular, the cysteine proteases have been proposed 
+to be detrimental to the arthritic process and even immunomodulatory. A natural 
+inhibitor of cysteine proteases is cystatin C.
+METHODS: Cystatin C-deficient, sufficient and heterozygous mice were tested for 
+onset, incidence and severity of CIA. The effect of cystatin C-deficiency was 
+further dissected by testing the inflammatory effector phase of CIA; that is, 
+collagen antibody-induced arthritis model and priming phase, that is, T cell 
+response both in vivo and in vitro. In addition, in order to determine the 
+importance of T cells and antigen-presenting cells (APCs), these cell 
+populations were separated and in vitro T cell responses determined in a mixed 
+co-culture system. Finally, flow cytometry was used in order to further 
+characterize cell populations in cystatin C-deficient mice.
+RESULTS: Here, we show that mice lacking cystatin C, develop arthritis at a 
+higher incidence and an earlier onset than wild-type controls. Interestingly, 
+when the inflammatory phase of CIA was examined independently from immune 
+priming then cystatin C-deficiency did not enhance the arthritis profile. 
+However, in line with the enhanced CIA, there was an increased T cell and B cell 
+response as delayed-type hypersensitivity reaction and anti-CII antibody titers 
+were elevated in the cystatin C-deficient mice after immunization. In addition, 
+the ex vivo naïve APCs from cystatin C-deficient mice had a greater capacity to 
+stimulate T cells. Interestingly, dendritic cells had a more activated phenotype 
+in naïve cystatin C-deficient mice.
+CONCLUSIONS: The lack of cystatin C enhances CIA and primarily affects in vivo 
+priming of the immune system. Although the mechanism of this is still unknown, 
+we show evidence for a more activated APC compartment, which would elevate the 
+autoimmune response towards CII, thus resulting in an enhanced development of 
+chronic arthritis.

@@ -1,0 +1,24 @@
+Because cytoskeletal actin is regulated, in part, by Rho, and because Rho and 
+caspases are involved in apoptosis, we sought to determine whether there was an 
+association between RhoB and caspase-2. A RhoB-caspase-2 association was 
+consistently demonstrated in neonatal mouse cardiomyocytes with Western 
+Blotting, either after immunoprecipitation with RhoB followed by immunoblotting 
+with caspase-2, or in reciprocal experiments after immuno precipitation with 
+caspase-2 and immunoblotting with RhoB (n = 14). Although the RhoB-caspase-2 
+complex was constitutively present, the link between RhoB and caspase-2 may be 
+operative in apoptosis because the HMG-CoA reductase inhibitor lovastatin 
+increased the RhoB-caspase complex, especially in the nuclear fraction of the 
+cell, with a peak occurrence 2 h after treatment. This association was 
+unaffected by the caspase-2 inhibitor zVDVAD. Lovastatin produced apoptosis that 
+was accompanied by an activation of caspase-2, as demonstrated by its 
+immunohistochemistry and by the fact that the caspase-2 inhibitor zVDVAD reduced 
+lovastatin-induced apoptosis. Lovastatin induced dramatic changes in cell 
+morphology and a reduction in F-actin. Immunoblotting for actin suggests that 
+lovastatin does not induce a degradation of the actin molecule, but rather 
+affects filamentous F-actin. Caspase-2 inhibition with zVDVAD reduced 
+lovastatin-induced alteration in cytoskeletal F-actin. The Rho inhibitor, 
+Clostridium difficile toxin B, blunted the ability of lovastatin to induce 
+apoptosis. In summary, these data show a previously unrecognized association 
+between RhoB and caspase-2 in the cytosolic and nuclear fractions, which has 
+ramifications for processes regulated by RhoB and caspase-2, including 
+apoptosis.

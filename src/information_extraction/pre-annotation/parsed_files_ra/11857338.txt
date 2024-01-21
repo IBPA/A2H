@@ -1,0 +1,24 @@
+The K/BxN murine model of rheumatoid arthritis (RA) is dependent on the 
+specificity of the KRN alpha beta-TCR, to recognize 
+glucose-6-phosphate-isomerase (GPI) on the NOD MHC class II A(g7) allele and 
+production of GPI-specific autoantibodies. Transfer of K/BxN serum into 
+MHC-unrelated and lymphocyte-deficient mice induces RA. To investigate whether 
+K/BxN serum-induced RA involves complement activation and/or the complement 
+receptors (CR) 1 and 2, we analyzed the role of complement C4 and of CR1 and 
+CR2. For this purpose we used C4(-/-) mice impaired in the classical and the 
+lectin complement pathways; Cr2(-/-) mice lacking CR1 and CR2 and, as control 
+strains, BALB/c, C57BL/6, KRN and NOD. RA was assessed by caliper measurement of 
+ankle thickness, clinical index and joint histology. We found that all mouse 
+strains except NOD developed RA. The lack of protection in C4(-/-) mice suggests 
+that antibody-mediated RA is independent of the classical as well as the lectin 
+complement pathways and the split complement product C4b. The lack of protection 
+in Cr2(-/-) mice suggests that absence of CR1 had no significant affect, 
+considering its role in immune complex clearance, inhibition of C3 and C5 
+convertase and as receptor for C3b/C4b. Also, CR2 lacks a role in disease as 
+analyzed here, in its possible functions as receptor for C3dg, germinal center 
+reaction and activation of alternative pathway on binding iC3. Hence we conclude 
+that the transmission of K/BxN serum-induced RA is independent of the classical 
+and the lectin complement pathways and CR1 and CR2. The crucial role of 
+complement C5, while neither classical nor lectin pathway is necessary, 
+indicates that the alternative complement pathway may have a role in the K/BxN 
+serum-induced RA model.

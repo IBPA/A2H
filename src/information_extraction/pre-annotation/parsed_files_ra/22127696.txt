@@ -1,0 +1,26 @@
+OBJECTIVE: Cadherin 11 is a homophilic cell-to-cell adhesion molecule expressed 
+on joint synovial fibroblasts. Absence of cadherin 11 in a mouse rheumatoid 
+arthritis (RA) model led to striking reductions in cartilage erosion. Matrix 
+metalloproteinases (MMPs) are enzymes expressed by synovial fibroblasts 
+important for cartilage erosion. The objective of this study was to determine if 
+synovial fibroblast MMP production is regulated by cadherin 11.
+METHODS: To mimic cadherin 11 engagement, human RA synovial fibroblasts were 
+stimulated with a chimeric construct consisting of the cadherin 11 extracellular 
+domain linked to the human IgG1 Fc domain (Cad-11-Fc). Effects on MMP production 
+were measured by enzyme-linked immunosorbent assay, quantitative reverse 
+transcription-polymerase chain reaction analysis, and immunoblotting.
+RESULTS: Human Cad-11-Fc up-regulated MMP-1 and MMP-3 protein production by RA 
+synovial fibroblasts, both alone and in synergy with tumor necrosis factor α. 
+This up-regulation required cell cadherin 11 engagement, since a mutant 
+Cad-11-Fc with reduced binding affinity stimulated significantly less MMP 
+production. Also, short hairpin RNA (shRNA) cadherin 11 silencing almost 
+completely inhibited Cad-11-Fc-induced MMP expression. Cad-11-Fc stimulation 
+increased RA synovial fibroblast MMP messenger RNA levels. It also increased the 
+phosphorylation of the MAPKs JNK, ERK, and p38 kinase, the phosphorylation of 
+NF-κB p65, and the nuclear translocation of activator protein 1 transcription 
+factor. MAPK and NF-κB inhibitors partially blocked RA synovial fibroblast MMP 
+expression.
+CONCLUSION: Cadherin 11 engagement stimulates increased synthesis of several 
+MMPs by RA synovial fibroblasts in a MAPK- and NF-κB-dependent manner. These 
+results underscore the existence of a pathway by which cadherin 11 regulates MMP 
+production and has important implications for joint destruction in RA.

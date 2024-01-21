@@ -1,0 +1,14 @@
+Microbes form complex communities that perform critical roles for the integrity 
+of their environment or the well-being of their hosts. Controlling these 
+microbial communities can help us restore natural ecosystems and maintain 
+healthy human microbiota. However, the lack of an efficient and systematic 
+control framework has limited our ability to manipulate these microbial 
+communities. Here we fill this gap by developing a control framework based on 
+the new notion of structural accessibility. Our framework uses the ecological 
+network of the community to identify minimum sets of its driver species, 
+manipulation of which allows controlling the whole community. We numerically 
+validate our control framework on large communities, and then we demonstrate its 
+application for controlling the gut microbiota of gnotobiotic mice infected with 
+Clostridium difficile and the core microbiota of the sea sponge Ircinia oros. 
+Our results provide a systematic pipeline to efficiently drive complex microbial 
+communities towards desired states.

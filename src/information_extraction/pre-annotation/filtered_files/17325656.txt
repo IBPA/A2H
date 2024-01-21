@@ -1,0 +1,25 @@
+BACKGROUND AND PURPOSE: Rheumatoid arthritis (RA) is a chronic inflammatory 
+disease. Histone deacetylase inhibitors (HDACi), a new class of anti-cancer 
+agents, have recently been reported to exhibit potent anti-inflammatory 
+activities. A proof of concept study was carried out with suberoylanilide 
+hydroxamic acid (SAHA) and MS-275, two HDACi currently undergoing clinical 
+investigations for various oncological indications.
+EXPERIMENTAL APPROACH: The anti-rheumatic effects of SAHA and MS-275 were 
+assessed in both mouse and rat collagen induced arthritis (CIA) models.
+KEY RESULTS: SAHA exhibited moderate prophylactic efficacy. It attenuated paw 
+swelling due to inflammation, decreased bone erosion in both mice and rats and 
+reduced slightly the RA-induced bone resorption in rats. However, SAHA could not 
+inhibit the onset of arthritis. In contrast, MS-275 displayed dramatic 
+anti-rheumatic activities. In prophylactic intervention, high doses of MS-275 
+prevented bone erosion and markedly delayed the onset of arthritis; at low 
+doses, MS-275 strongly attenuated paw swelling, bone erosion, and bone 
+resorption associated with RA. Furthermore, the therapeutic efficacy of MS-275 
+was also documented. After the onset of arthritis, it could stop the disease 
+progression and joint destruction. An anti inflammatory effect of MS-275 was 
+also confirmed through its capacity to decrease serum IL-6 and IL-1beta levels 
+in the CIA induced mouse model. The anti-rheumatic activity of MS-275 was also 
+confirmed through histological observation. No synovial hyperplasia, pannus 
+formation, cartilage or bone destruction were observed in the high dose 
+prophylactic intervention in mice.
+CONCLUSION AND IMPLICATION: This study strongly supported HDACi as an innovative 
+therapeutic strategy for RA.

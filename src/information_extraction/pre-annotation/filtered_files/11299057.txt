@@ -1,0 +1,13 @@
+The origin and role of IL-17, a T-cell derived cytokine, in cartilage and bone 
+destruction during rheumatoid arthritis (RA) remain to be clarified. In human ex 
+vivo models, addition of IL-17 enhanced IL-6 production and collagen 
+destruction, and inhibited collagen synthesis by RA synovium explants. On mouse 
+cartilage, IL-17 enhanced cartilage proteoglycan loss and inhibited its 
+synthesis. On human RA bone explants, IL-17 also increased bone resorption and 
+decreased formation. Addition of IL-1 in these conditions increased the effect 
+of IL-17. Blocking of bone-derived endogenous IL-17 with specific inhibitors 
+resulted in a protective inhibition of bone destruction. Conversely, 
+intra-articular administration of IL-17 into a normal mouse joint induced 
+cartilage degradation. In conclusion, the contribution of IL-17 derived from 
+synovium and bone marrow T cells to joint destruction suggests the control of 
+IL-17 for the treatment of RA.

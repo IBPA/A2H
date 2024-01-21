@@ -1,0 +1,17 @@
+Cytotoxic T lymphocyte antigen-4 (CTLA4) and IgG fusion protein, CTLA4-Ig, is a 
+therapeutic agent used for rheumatoid arthritis. It binds B7 molecules on 
+dendritic cells (DCs) and thereby blocks B7/CD28 costimulatory interaction and 
+inhibits effective T cell proliferation. However, the effect of CTLA4-Ig on the 
+regulatory T cell (Treg) is still not known. In this study, we investigated the 
+influence of CTLA4-Ig on the CD4+CD25+Foxp3+ Treg population in collagen-induced 
+arthritis (CIA) mouse model. CTLA4-Ig suppressed CIA and increased the 
+CD4+CD25+Foxp3+ Treg population in joint and spleen. When CD11c + DCs and CD4+T 
+cells from CIA mice were cultured with anti-CD3, CTLA4-Ig increased the CD4+CD25 
++ Foxp3+ Treg population in a TGF-beta-dependent manner. When CD11c + DCs from 
+CIA mice were treated with CTLA4-Ig and adoptively transferred into CIA-induced 
+mice, arthritis did not develop in association with the increase in 
+CD4+CD25+Foxp3+ Treg population. However, in CTLA4-Ig-untreated DC-transferred 
+CIA mice, arthritis developed and then rapidly progressed. Our study 
+demonstrated that CTLA4-Ig suppressed CIA by modifying DCs from CIA mice into 
+tolerogenic DCs to increase the CD4+CD25+Foxp3+ Treg population and this seems 
+to be the new immune regulatory mechanism of CTLA4-Ig.

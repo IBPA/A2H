@@ -1,0 +1,21 @@
+Immunization of Lewis rats with heat-killed Mycobacterium tuberculosis H37Ra 
+leads to development of polyarthritis (adjuvant-induced arthritis; AA) that 
+shares several features with human rheumatoid arthritis (RA). Immune response to 
+the 65-kDa mycobacterial heat-shock protein (Bhsp65) is believed to be involved 
+in induction of AA as well as in experimental modulation of this disease. 
+However, the understanding of several critical aspects of the pathogenesis of AA 
+in the Lewis rat has severely been hampered by the lack of information both 
+regarding the level as well as epitope specificity of tolerance to the mammalian 
+self (rat) homologue of Bhsp65, 65-kDa rat heat-shock protein (Rhsp65), and 
+about the functional attributes of the T cell repertoire specific for this self 
+protein. In this study, we established that tolerance to Rhsp65 in the Lewis rat 
+is incomplete, and that the residual T cells primed upon challenge with this 
+self hsp65 are disease regulating in nature. We also have defined the T cell 
+epitopes in the C-terminal region within Rhsp65 that contribute predominantly to 
+the immune reactivity as well as the AA-protective effect of this self protein. 
+Furthermore, the T cells primed by peptides comprising these C-terminal 
+determinants can be efficiently restimulated by the naturally generated epitopes 
+from endogenous Rhsp65, suggesting that self hsp65 might also be involved in 
+natural remission from acute AA. These novel first experimental insights into 
+the self hsp65-directed regulatory T cell repertoire in AA would help develop 
+better immunotherapeutic approaches for autoimmune arthritis.

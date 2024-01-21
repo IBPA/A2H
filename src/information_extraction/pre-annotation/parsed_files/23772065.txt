@@ -1,0 +1,16 @@
+The transcriptional regulator AgrA, a member of the LytTR family of proteins, 
+plays a key role in controlling gene expression in some Gram-positive pathogens, 
+including Staphylococcus aureus and Enterococcus faecalis. AgrA is encoded by 
+the agrACDB global regulatory locus, and orthologues are found within the genome 
+of most Clostridium difficile isolates, including the epidemic lineage 
+027/BI/NAP1. Comparative RNA sequencing of the wild type and otherwise isogenic 
+agrA null mutant derivatives of C. difficile R20291 revealed a network of 
+approximately 75 differentially regulated transcripts at late exponential growth 
+phase, including many genes associated with flagellar assembly and function, 
+such as the major structural subunit, FliC. Other differentially regulated genes 
+include several involved in bis-(3'-5')-cyclic dimeric GMP (c-di-GMP) synthesis 
+and toxin A expression. C. difficile 027 R20291 agrA mutant derivatives were 
+poorly flagellated and exhibited reduced levels of colonization and relapses in 
+the murine infection model. Thus, the agr locus likely plays a contributory role 
+in the fitness and virulence potential of C. difficile strains in the 
+027/BI/NAP1 lineage.

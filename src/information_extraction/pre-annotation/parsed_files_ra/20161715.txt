@@ -1,0 +1,21 @@
+BACKGROUND: DING proteins encompass an intriguing protein family first 
+characterized by their conserved N-terminal sequences. Some of these proteins 
+seem to have key roles in various human diseases, e.g., rheumatoid arthritis, 
+atherosclerosis, HIV suppression. Although this protein family seems to be 
+ubiquitous in eukaryotes, their genes are consistently lacking from genomic 
+databases. Such a lack has considerably hampered functional studies and has 
+fostered therefore the hypothesis that DING proteins isolated from eukaryotes 
+were in fact prokaryotic contaminants.
+PRINCIPAL FINDINGS: In the framework of our study, we have performed a 
+comprehensive immunological detection of DING proteins in mice. We demonstrate 
+that DING proteins are present in all tissues tested as isoforms of various 
+molecular weights (MWs). Their intracellular localization is tissue-dependant, 
+being exclusively nuclear in neurons, but cytoplasmic and nuclear in other 
+tissues. We also provide evidence that germ-free mouse plasma contains as much 
+DING protein as wild-type.
+SIGNIFICANCE: Hence, data herein provide a valuable basis for future 
+investigations aimed at eukaryotic DING proteins, revealing that these proteins 
+seem ubiquitous in mouse tissue. Our results strongly suggest that mouse DING 
+proteins are endogenous. Moreover, the determination in this study of the 
+precise cellular localization of DING proteins constitute a precious evidence to 
+understand their molecular involvements in their related human diseases.

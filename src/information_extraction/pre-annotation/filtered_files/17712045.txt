@@ -1,0 +1,20 @@
+Proteinase 3 (PR3), a serine proteinase contained in neutrophil azurophilic 
+granules, is considered a risk factor for vasculitides and rheumatoid arthritis 
+when expressed on the outer leaflet of neutrophil plasma membrane and is the 
+preferred target of antineutrophil cytoplasm autoantibodies (ANCA) in Wegener 
+granulomatosis. ANCA binding to PR3 expressed at the surface of neutrophils 
+activates them. Evidence is provided that neutrophil apoptosis induced 
+significantly more membrane PR3 expression without degranulation (but no 
+enhanced membrane CD35, CD66b, CD63, myeloperoxidase, or elastase expression). 
+This observation was confirmed on cytoplasts, a model of granule-free 
+neutrophils. We hypothesized that PR3 could interact with proteins involved in 
+membrane flip-flop (eg, phospholipid scramblase 1 [PLSCR1]). PR3-PLSCR1 
+interaction in neutrophils was demonstrated by confocal microscopy and 
+coimmunoprecipitation. In the RBL-2H3 rat mast-cell line stably transfected with 
+PR3 or its inactive mutant (PR3S203A), PR3 externalization depended on PLSCR1, 
+as shown by less PR3 externalization in the presence of rPLSCR1 siRNA, but 
+independently of its serine-proteinase activity. Finally, apoptosis-externalized 
+PR3 decreased the human macrophage-phagocytosis rate of apoptotic PR3 
+transfectants. Therefore, in addition to ANCA binding in vasculitis, the 
+proinflammatory role of membrane PR3 expression may involve interference with 
+macrophage clearance of apoptotic neutrophils.

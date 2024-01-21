@@ -1,0 +1,19 @@
+Platelet-endothelial cell adhesion molecule-1 (PECAM-1) is expressed on the 
+membrane of leukocytes and vascular endothelial cells. PECAM-1 has been shown to 
+play an important role in the process of leukocyte transmigration in various 
+animal models of acute inflammation. We investigated the role of PECAM-1 in the 
+progression of arthritis by systemically administering anti-murine PECAM-1 
+monoclonal antibody, 2H8, to DBA/1J mice with collagen-induced arthritis (CIA). 
+Subcutaneous administration of dexamethasone (0.5 mg/kg per 2 days) 
+significantly reduced hindpaw swelling and the clinical score of established 
+CIA. Intraperitoneal administration of 2H8 (0.25 mg/mouse per 2 days) 
+significantly inhibited hindpaw swelling in a time-dependent manner. 2H8 also 
+significantly prevented further deterioration in the clinical score, but failed 
+to reverse joint destruction discernible at the histological level. Both 
+dexamethasone and 2H8 inhibited body weight decrease by preventing the further 
+development of arthritis. Histopathological assessment revealed that 2H8, as 
+well as dexamethasone, inhibited inflammatory cell transmigration into the 
+synovium of the hind paw joint and ameliorated synovitis and cartilage erosion. 
+These results suggest that PECAM-1 plays an important role in the progression of 
+CIA and that an inhibitor of PECAM-1 might have therapeutic value for clinical 
+treatment of rheumatoid arthritis.

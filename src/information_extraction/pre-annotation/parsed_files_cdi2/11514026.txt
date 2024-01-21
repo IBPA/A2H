@@ -1,0 +1,10 @@
+The mechanism by which Clostridium difficile toxin A causes substance P (SP) 
+release and subsequent inflammation in the rat ileum is unknown. Pretreatment 
+with the vanilloid receptor subtype 1 (VR1) antagonist, capsazepine, before 
+toxin A administration significantly inhibited toxin A-induced SP release and 
+intestinal inflammation. Intraluminal administration of the VR1 agonist 
+capsaicin caused intestinal inflammation similar to the effects of toxin A. 
+Pretreatment with capsazepine before capsaicin administration also significantly 
+inhibited capsaicin-induced intestinal inflammation. These results suggest that 
+intraluminal toxin A causes SP release from primary sensory neurons via 
+stimulation of VR1 receptors resulting in intestinal inflammation.

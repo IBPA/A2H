@@ -1,0 +1,21 @@
+The anaerobic bacterium Clostridioides difficile is the leading cause of 
+antibiotic-associated diarrhea that can culminate in life-threating colitis. 
+During the C. difficile infection (CDI), C. difficile produces toxins that 
+generate the clinical symptoms of the disease, and produce spores, which persist 
+in the host during antibiotic treatment and can cause recurrent CDI (R-CDI). In 
+this work, we aimed to compare three antibiotic regimens in the susceptibility 
+of mice to CDI and R-CDI (i.e., antibiotic cocktail followed by clindamycin, 5 
+days of cefoperazone and 10 days of cefoperazone) with three different 
+C. difficile isolates (i.e., strains 630; R20291, and VPI 10463). We observed 
+that the severity of the clinical symptoms of CDI and R-CDI was dependent on the 
+antibiotic treatment used to induce C. difficile-susceptibility, and that the 
+three strains generated a different onset to diarrhea and weight loss in mice 
+that were administrated with the same antibiotic treatment and which differed in 
+comparison to the effect previously reported by other research groups. Our 
+results suggest that, in our experimental conditions, in those animals treated 
+with antibiotic cocktail followed by clindamycin, infection with strain R20291 
+had the highest diarrhea manifestation in comparison to strains 630 and VPI 
+10463. In animals treated with cefoperazone for 5 days, infection with strains 
+R20291 or 630 had the highest diarrhea manifestation in comparison to VPI 10463, 
+while in animals treated with cefoperazone for 10 days, infection with strain 
+R20291 or VPI 10463, but not 630, had the highest diarrhea manifestation.

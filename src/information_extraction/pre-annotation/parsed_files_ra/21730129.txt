@@ -1,0 +1,20 @@
+Arthrogenic alphaviruses, such as Ross River virus (RRV), chikungunya, Sindbis, 
+mayaro and o'nyong-nyong viruses circulate endemically worldwide, frequently 
+causing outbreaks of polyarthritis. The exact mechanisms of how alphaviruses 
+induce polyarthritis remain ill defined, although macrophages are known to play 
+a key role. Macrophage migration inhibitory factor (MIF) is an important 
+cytokine involved in rheumatoid arthritis pathogenesis. Here, we characterize 
+the role of MIF in alphavirus-induced arthritides using a mouse model of 
+RRV-induced arthritis, which has many characteristics of RRV disease in humans. 
+RRV-infected WT mice developed severe disease associated with up-regulated MIF 
+expression in serum and tissues, which corresponded to severe inflammation and 
+tissue damage. MIF-deficient (MIF(-/-)) mice developed mild disease accompanied 
+by a reduction in inflammatory infiltrates and muscle destruction in the 
+tissues, despite having viral titers similar to WT mice. In addition, 
+reconstitution of MIF into MIF(-/-) mice exacerbated RRV disease and treatment 
+of mice with MIF antagonist ameliorated disease in WT mice. Collectively, these 
+findings suggest that MIF plays a critical role in determining the clinical 
+severity of alphavirus-induced musculoskeletal disease and may provide a target 
+for the development of antiviral pharmaceuticals. The prospect being that early 
+treatment with MIF-blocking pharmaceuticals may curtail the debilitating 
+arthritis associated with alphaviral infections.

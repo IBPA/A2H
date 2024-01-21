@@ -1,0 +1,15 @@
+T cells obtained in a mouse model for rheumatoid arthritis are activated by a 
+glycopeptide fragment from rat type II collagen (CII) bound to the class II 
+major histocompatibility complex Aq molecule. We report a comparative model of 
+Aq in complex with the glycopeptide CII260-267. This model was used in a 
+structure-based design approach where the amide bond between Ala261 and Gly262 
+in the glycopeptide was selected for replacement with psi[COCH2], psi[CH2NH2+], 
+and psi[(E)-CH=CH] isosteres. Ala-Gly isostere building blocks were then 
+synthesized and introduced in CII260-267 and CII259-273 glycopeptides. The 
+modified glycopeptides were evaluated for binding to the Aq molecule, and the 
+results were interpreted in view of the Aq/glycopeptide model. Moreover, 
+recognition by a panel of T-cell hybridomas revealed high sensitivity for the 
+backbone modifications. These studies contribute to the understanding of the 
+interactions in the ternary Aq/glycopeptide/T-cell receptor complexes that 
+activate T cells in autoimmune arthritis and suggest possibilities for new 
+vaccination approaches.

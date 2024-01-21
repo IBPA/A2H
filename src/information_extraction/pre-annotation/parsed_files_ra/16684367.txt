@@ -1,0 +1,28 @@
+Nuclear factor (NF)-kappaB is a key regulator of synovial inflammation. We 
+investigated the effect of local NF-kappaB inhibition in rat adjuvant arthritis 
+(AA), using the specific IkappaB kinase (IKK)-beta blocking NF-kappaB essential 
+modulator-binding domain (NBD) peptide. The effects of the NBD peptide on human 
+fibroblast-like synoviocytes (FLS) and macrophages, as well as rheumatoid 
+arthritis (RA) whole-tissue biopsies, were also evaluated. First, we 
+investigated the effects of the NBD peptide on RA FLS in vitro. Subsequently, 
+NBD peptides were administered intra-articularly into the right ankle joint of 
+rats at the onset of disease. The severity of arthritis was monitored over time, 
+rats were sacrificed on day 20, and tissue specimens were collected for routine 
+histology and x-rays of the ankle joints. Human macrophages or RA synovial 
+tissues were cultured ex vivo in the presence or absence of NBD peptides, and 
+cytokine production was measured in the supernatant by enzyme-linked 
+immunosorbent assay. The NBD peptide blocked interleukin (IL)-1-beta-induced 
+IkappaB alpha phosphorylation and IL-6 production in RA FLS. Intra-articular 
+injection of the NBD peptide led to significantly reduced severity of arthritis 
+(p < 0.0001) and reduced radiological damage (p = 0.04). This was associated 
+with decreased synovial cellularity and reduced expression of tumor necrosis 
+factor (TNF)-alpha and IL-1-beta in the synovium. Incubation of human 
+macrophages with NBD peptides resulted in 50% inhibition of IL-1-beta-induced 
+TNF-alpha production in the supernatant (p < 0.01). In addition, the NBD peptide 
+decreased TNF-alpha-induced IL-6 production by human RA synovial tissue biopsies 
+by approximately 42% (p < 0.01). Specific NF-kappaB blockade using a small 
+peptide inhibitor of IKK-beta has anti-inflammatory effects in AA and human RA 
+synovial tissue as well as in two important cell types in the pathogenesis of 
+RA: macrophages and FLS. These results indicate that IKK-beta-targeted NF-kappaB 
+blockade using the NBD peptide could offer a new approach for the local 
+treatment of arthritis.

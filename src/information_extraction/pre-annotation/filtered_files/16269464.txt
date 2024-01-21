@@ -1,0 +1,16 @@
+Two receptors [estrogen receptor (ER)alpha and ERbeta] mediate the manifold 
+effects of estrogens throughout the body. Although a clear role has been 
+established for ERalpha in the classical effects of estrogen activity, the 
+physiological role of ERbeta is less well understood. A small-molecule ERbeta 
+selective agonist, ERB-041, has potent antiinflammatory activity in the Lewis 
+rat model of adjuvant-induced arthritis. To characterize the response of target 
+organs and pathways responsible for this antiinflammatory effect, mRNA 
+expression profiling of the spleen, lymph node, and liver was performed, in 
+conjunction with a global analysis of the plasma proteome. We find that the 
+expression of a large number of genes and proteins are altered in the disease 
+model and the majority of these are partially or fully reversed by ERB-041 
+treatment. Regulated pathways include the acute-phase response, eicosanoid 
+synthesis, fatty acid metabolism, and iron metabolism. In addition, many of the 
+regulated genes and proteins are known to be dysregulated in human rheumatoid 
+arthritis, providing further evidence that the manifestations of the Lewis rat 
+adjuvant-induced arthritis model bear similarity to the human disease.

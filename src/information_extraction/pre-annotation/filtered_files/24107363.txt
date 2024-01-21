@@ -1,0 +1,29 @@
+BACKGROUND: Advanced oxidation protein products (AOPPs), a marker of oxidative 
+stress, are prevalent in many kinds of disorders. Rheumatoid arthritis (RA), 
+mainly resulting from the dysfunction of fibroblast-like synoviocytes (FLSs), is 
+related to oxidative stress. Although the increased levels of AOPPs in RA 
+patients were reported, the effect of AOPPs on FLSs function still remains 
+unclear. Therefore, our study aims to investigate whether AOPPs have an effect 
+on the inflammatory response of FLSs in vitro.
+METHODS: FLSs obtained from both knees of rats were treated with or without 
+AOPPs-modified rat serum albumin (AOPPs-RSA) in vitro. The mRNA and protein 
+expression of tumor necrosis factor (TNF)-α, interleukin(IL)-1β, matrix 
+metalloproteinases(MMP)-3, MMP-13 and vascular endothelial growth factor (VEGF) 
+were measured by real-time quantitative polymerase chain reaction and 
+enzyme-linked immunosorbent assay (ELISA), respectively. Reactive oxygen species 
+(ROS) generation was detected by fluorescent microscope and fluorescence 
+microplate reader. Immunoprecipitation, Co-Immunoprecipitation and western blot 
+were performed to examine the activity of nicotinamide adenine dinucleotide 
+phosphate (NADPH) oxidase and nuclear factor kappa B (NF-κB).
+RESULTS: Exposure of FLSs to AOPPs upregulated the mRNA and protein expression 
+of TNF-α, IL-1β, MMP-3, MMP-13 and VEGF in a concentration dependent manner. 
+AOPPs treatment triggered ROS production in FLSs, which was significantly 
+abolished by ROS scavenger N-acetyl-L-cysteine (NAC), superoxide dismutase 
+(SOD), NADPH oxidase inhibitors diphenyleneiodonium (DPI) and apocynin. 
+Challenged AOPPs induced phosphorylation of p47(phox), triggered an interaction 
+between p47(phox), p22(phox) and gp91(phox), and significantly upregulated 
+expression of NADPH oxidase subunits p47(phox), p22(phox) and gp91(phox). IκB 
+degradation and nuclear translocation of NF-κB p65 induced by AOPPs were 
+significantly blocked by SOD, NAC, DPI and apocynin.
+CONCLUSIONS: These data indicate that AOPPs induce inflammatory response in FLSs 
+is medicated through NADPH oxidase-dependent activation of NF-κB.

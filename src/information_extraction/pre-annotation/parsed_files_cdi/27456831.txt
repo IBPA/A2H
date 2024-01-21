@@ -1,0 +1,19 @@
+The capability of a recombinant mucin-like fusion protein, P-selectin 
+glycoprotein ligand-1/mouse IgG2b (PSGL-1/mIgG2b), carrying Galα1,3Galβ1,4GlcNAc 
+determinants to bind and inhibit Clostridium difficile toxin A (TcdA) was 
+investigated. The fusion protein, produced by a glyco-engineered stable CHO-K1 
+cell line and designated C-PGC2, was purified by affinity and gel filtration 
+chromatography from large-scale cultures. Liquid chromatography-mass 
+spectrometry was used to characterize O-glycans released by reductive 
+β-elimination, and new diagnostic ions to distinguish Galα1,3Gal- from 
+Galα1,4Gal-terminated O-glycans were identified. The C-PGC2 cell line, which was 
+20-fold more sensitive to TcdA than the wild-type CHO-K1, is proposed as a novel 
+cell-based model for TcdA cytotoxicity and neutralization assays. The 
+C-PGC2-produced fusion protein could competitively inhibit TcdA binding to 
+rabbit erythrocytes, making it a high-efficiency inhibitor of the 
+hemagglutination property of TcdA. The fusion protein also exhibited a moderate 
+capability for neutralization of TcdA cytotoxicity in both C-PGC2 and CHO-K1 
+cells, the former with and the latter without cell surface Galα1,3Galβ1,4GlcNAc 
+sequences. Future studies in animal models of C. difficile infection will reveal 
+its TcdA-inhibitory effect and therapeutic potential in C. difficile-associated 
+diseases.

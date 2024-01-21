@@ -1,0 +1,31 @@
+OBJECTIVE: To observe the seasonal changes in serum levels of interleukin-1 beta 
+(IL-1β), interleukin-6 (IL-6) and melatonin (MT) in Bizheng rat model, and 
+explore the relationship between MT and the pathogenesis of rheumatoid 
+arthritis.
+METHODS: One hundred and sixty Sprague-Dawley rats were randomly divided into 
+four groups in summer (n=80) and winter (n=80) respectively: normal group, 
+collagen-induced arthritis (CIA) model group, operation group, and 
+sham-operation group (n=20 in each group). The CIA model group was injected with 
+collagen emulsion at the base of the tail to induce arthritis. The rats in the 
+operation group received pineal gland resection, and 7 days after the first 
+operation, underwent testectomy or oophorectomy. The rats in the sham-operation 
+group were operated to ligature the sagittal sinus, without extracting the 
+pineal gland. After the operations, the operation group and the sham-operation 
+group both were immunized as the CIA group was. The serum levels of IL-1β, IL-6 
+and MT in different groups were measured by radioimmunoassay.
+RESULTS: Compared with the normal group, the serum levels of IL-1β and IL-6 
+increased in the CIA model, operation, and sham-operation groups both in summer 
+and in winter (IL-1β in summer, P=0.008, P<0.01, P=0.012; IL-1β in winter, 
+P=0.019, P<0.01, P=0.027; IL-6 in summer, P=0.028, P<0.01, P=0.024; IL-6 in 
+winter, P=0.006, P<0.01, P=0.008). In the operation group, the serum levels of 
+IL-1β and IL-6 in winter were higher than in summer, but with no statistically 
+significant differences (P=0.844, 0.679). Compared with the normal group, the 
+serum level of MT significantly increased in summer and winter in both the CIA 
+model group (P=0.002, 0.008) and the sham-operation group (P=0.003, 0.007), 
+while significantly decreased in the operation group (P=0.023, 0.003). There was 
+no significant difference in MT level in the operation group between summer and 
+winter (P=0.947).
+CONCLUSIONS: The increase of serum levels of IL-1β and IL-6 may exacerbate the 
+inflammatory reaction and cause a more severe condition in the rheumatoid 
+arthritis. The concentrations of IL-1β, IL-6, and MT correspond with the change 
+of seasons, confirming that there are connections between nature and human body.

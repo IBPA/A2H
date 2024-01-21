@@ -1,0 +1,24 @@
+Clostridium difficile is the main cause of antibiotic-associated diarrhea and 
+pseudomembranous colitis in humans and animals. Its pathogenicity is primarily 
+linked to the secretion of two exotoxins (TcdA and TcdB). Although great 
+progress in the toxic mechanism of TcdA and TcdB has been achieved, there are 
+many conflicting reports about the apoptotic mechanism. More importantly, 
+apoptotic endoplasmic reticulum (ER) stress has been reported in cells treated 
+with Shiga toxins-another kind of cytotoxins that can cause diarrhea and 
+colitis. Herein we checked whether TcdB can induce ER stress. The results showed 
+that recombinant TcdB (rTcdB) activated molecular markers of unfolded protein 
+response, suggesting that rTcdB induced ER stress in CT26 cells. However, rTcdB 
+did not induce the up-regulation of C/EBP homologous protein (CHOP), a classic 
+mediator of apoptotic ER stress, but it activated the precursor of cysteine 
+aspartic acid-specific protease 12 (caspase-12), a controversial mediator of 
+apoptotic ER stress. Besides, glucosyltransferase activity-deficient mutant 
+recombinant TcdB induced ER stress, though it has no cytotoxic or cytopathic 
+effect on CT26 cells. Altogether, these data demonstrated that ER stress induced 
+by rTcdB is glucosyltransferase-independent, indicating that ER stress induced 
+by rTcdB is non-apoptotic. This work also offers us a new insight into the 
+molecular mechanism of CHOP protein expression regulation and the role of CHOP 
+expression in ER stress.
+
+© The Author 2014. Published by ABBS Editorial Office in association with Oxford 
+University Press on behalf of the Institute of Biochemistry and Cell Biology, 
+Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences.

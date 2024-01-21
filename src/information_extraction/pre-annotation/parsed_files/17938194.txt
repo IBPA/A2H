@@ -1,0 +1,26 @@
+DC-159a is a new 8-methoxy fluoroquinolone that possesses a broad spectrum of 
+antibacterial activity, with extended activity against gram-positive pathogens, 
+especially streptococci and staphylococci from patients with community-acquired 
+infections. DC-159a showed activity against Streptococcus spp. (MIC(90), 0.12 
+microg/ml) and inhibited the growth of 90% of levofloxacin-intermediate and 
+-resistant strains at 1 microg/ml. The MIC 90s of DC-159a against Staphylococcus 
+spp. were 0.5 microg/ml or less. Against quinolone- and methicillin-resistant 
+Staphylococcus aureus strains, however, the MIC 90 of DC-159a was 8 microg/ml. 
+DC-159a was the most active against Enterococcus spp. (MIC 90, 4 to 8 microg/ml) 
+and was more active than the marketed fluoroquinolones, such as levofloxacin, 
+ciprofloxacin, and moxifloxacin. The MIC 90s of DC-159a against Haemophilus 
+influenzae, Moraxella catarrhalis, and Klebsiella pneumoniae were 0.015, 0.06, 
+and 0.25 microg/ml, respectively. The activity of DC-159a against Mycoplasma 
+pneumoniae was eightfold more potent than that of levofloxacin. The MICs of 
+DC-159a against Chlamydophila pneumoniae were comparable to those of 
+moxifloxacin, and DC-159a was more potent than levofloxacin. The MIC 90s of 
+DC-159a against Peptostreptococcus spp., Clostridium difficile, and Bacteroides 
+fragilis were 0.5, 4, and 2 microg/ml, respectively; and among the quinolones 
+tested it showed the highest level of activity against anaerobic organisms. 
+DC-159a demonstrated rapid bactericidal activity against quinolone-resistant 
+Streptococcus pneumoniae strains both in vitro and in vivo. In vitro, DC-159a 
+showed faster killing than moxifloxacin and garenoxacin. The bactericidal 
+activity of DC-159a in a murine muscle infection model was revealed to be 
+superior to that of moxifloxacin. These activities carried over to the in vivo 
+efficacy in the murine pneumonia model, in which treatment with DC-159a led to 
+bactericidal activity superior to those of the other agents tested.

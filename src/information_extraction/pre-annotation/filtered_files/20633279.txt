@@ -1,0 +1,33 @@
+BACKGROUND: A major subgroup of patients with temporomandibular joint (TMJ) 
+disorders have masticatory muscle hypersensitivity. To study myofacial 
+temporomandibular pain, a number of preclinical models have been developed to 
+induce myogenic pain of the masseter muscle, one of the four muscles involved in 
+mastication. The currently used models, however, generate pain that decreases 
+over time and only lasts from hours to weeks and hence are not suitable for 
+studying chronicity of the myogenic pain in TMJ disorders. Here we report a 
+model of constant myogenic orofacial pain that lasts for months.
+RESULTS: The model involves unilateral ligation of the tendon of the anterior 
+superficial part of the rat masseter muscle (TASM). The ligation of the TASM was 
+achieved with two chromic gut (4.0) ligatures via an intraoral approach. 
+Nocifensive behavior of the rat was assessed by probing the skin site above the 
+TASM with a series of von Frey filaments. The response frequencies were 
+determined and an EF50 value, defined as the von Frey filament force that 
+produces a 50% response frequency, was derived and used as a measure of 
+mechanical sensitivity. Following TASM ligation, the EF50 of the injured side 
+was significantly reduced and maintained throughout the 8-week observation 
+period, suggesting the presence of mechanical hyperalgesia/allodynia. In 
+sham-operated rats, the EF50 of the injured side was transiently reduced for 
+about a week, likely due to injury produced by the surgery. Somatotopically 
+relevant Fos protein expression was indentified in the subnucleus caudalis of 
+the spinal trigeminal sensory complex. In the same region, persistent 
+upregulation of NMDA receptor NR1 phosphorylation and protein expression and 
+increased expression of glial markers glial fibrillary acidic protein 
+(astroglia) and CD11b (microglia) were found. Morphine (0.4-8 mg/kg, s.c.) and 
+duloxetine (0.4-20 mg/kg, i.p.), a selective serotonin-norepinephrine reuptake 
+inhibitor, produced dose-dependent attenuation of hyperalgesia.
+CONCLUSIONS: Ligation injury of the TASM in rats led to long-lasting and 
+constant mechanical hypersensitivity of myogenic origin. The model will be 
+particularly useful in studying the chronicity of myogenic pain TMJ disorders. 
+The model can also be adapted to other regions of the body for studying 
+pathology of painful tendinopathy seen in sports injury, muscle overuse, and 
+rheumatoid arthritis.

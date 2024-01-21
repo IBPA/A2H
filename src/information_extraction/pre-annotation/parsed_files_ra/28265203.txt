@@ -1,0 +1,26 @@
+BACKGROUND: The dysfunction of articular chondrocytes is a crucial step in 
+rheumatoid arthritis (RA) pathogenesis while its molecular mechanisms are not 
+fully known. This study was aimed to investigate the expression of aquaporin 4 
+(AQP4) in articular chondrocytes of adjuvant-induced arthritis (AIA) rats and 
+its involvement in AIA development.
+METHODS: Thirty rats were divided into normal and AIA group (n = 15). Rat AIA 
+was induced by intradermal injection of complete Freund's adjuvant and evaluated 
+by secondary paw swelling and histological assessments on knee joint damage. 
+Localization and protein expression of AQP4 in articular cartilage were examined 
+by immunohistochemistry and western blot. In vitro study, AIA articular 
+chondrocytes were cultured and treated with acetazolamide, an AQPs inhibitor. 
+AQP4 protein level, cell proliferation and mRNA levels of type-II collagen 
+(COII) and aggrecan were measured by western blot, MTT assay and real-time PCR, 
+respectively.
+RESULTS: The results of immunohistochemistry and western blot indicated that 
+AQP4 showed higher protein levels in cartilage tissues of AIA rats than that of 
+normal rats. Correlation analysis revealed that AQP4 protein level in cartilage 
+tissues of AIA rats remarkably correlated positively with secondary paw swelling 
+on day 26 after AIA induction as well as pathological scores on joint damage. 
+Additionally, acetazolamide treatment effectively decreased AQP4 protein level, 
+increased cell proliferation and mRNA levels of COII and aggrecan, suggesting 
+AQP4 inhibition by acetazolamide could normalize the dysfunction of AIA 
+articular chondrocytes in vitro.
+CONCLUSIONS: Our data provide certain experimental evidence that AQP4 
+over-expression in articular chondrocytes aggravated AIA severity and might be a 
+novel target for RA treatment.

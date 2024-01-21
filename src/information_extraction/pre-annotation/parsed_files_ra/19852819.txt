@@ -1,0 +1,24 @@
+INTRODUCTION: Interleukin (IL)-17 plays an important role in the pathogenesis of 
+rheumatoid arthritis and the mouse model collagen-induced arthritis (CIA). 
+Interferon(IFN)-gamma and IL-4 have been shown to suppress Th17 development in 
+vitro, but their potential immunoregulatory roles in vivo are uncertain. The 
+goals of this study were to determine the relationship between Th17 responses 
+and disease severity in CIA and to assess regulation of IL-17 by endogenous 
+IFN-gamma and IL-4.
+METHODS: DBA1/LacJ mice were immunized with type II collagen in complete 
+Freund's adjuvant (CFA) to induce arthritis, and treated with neutralizing 
+antibody to IFN-gamma and/or IL-4. Systemic IL-17, IFN-gamma, and IL-4 were 
+measured in serum. At the peak of disease, cytokine production was measured by 
+ELISA of supernatants from spleen, lymph node and paw cultures. Paws were also 
+scored for histologic severity of arthritis.
+RESULTS: Joint inflammation was associated with a higher ratio of systemic 
+IL-17/IFN-gamma. Neutralization of IFN-gamma accelerated the course of CIA and 
+was associated with increased IL-17 levels in the serum and joints. The 
+IFN-gamma/IL-4/IL-17 responses in the lymphoid organ were distinct from such 
+responses in the joints. Neutralization of IL-4 led to increased arthritis only 
+in the absence of IFN-gamma and was associated with increased bone and cartilage 
+damage without an increase in the levels of IL-17.
+CONCLUSIONS: IL-4 and IFN-gamma both play protective roles in CIA, but through 
+different mechanisms. Our data suggests that the absolute level of IL-17 is not 
+the only determinant of joint inflammation. Instead, the balance of Th1, Th2 and 
+Th17 cytokines control the immune events leading to joint inflammation.

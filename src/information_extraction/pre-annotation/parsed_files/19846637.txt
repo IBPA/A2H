@@ -1,0 +1,26 @@
+The ProGastro Cd assay (Prodesse, Inc., Waukesha, WI) is a new commercial TaqMan 
+PCR assay that detects tcdB. The ProGastro Cd assay was compared to the Wampole 
+Clostridium difficile toxin B test (TOX-B test; TechLab, Blacksburg, VA), a cell 
+culture cytotoxicity neutralization assay (CCCNA), and to anaerobic toxigenic 
+bacterial culture, as the "gold standard," for 285 clinical stool specimens. 
+Assays were independently performed according to manufacturers' directions. A 
+1.0-ml sample was removed from the stool specimen, of which 20 microl was used 
+for extraction on the NucliSENS easyMAG platform (bioMérieux, Inc., Durham, NC) 
+for the Prodesse ProGastro Cd assay and 200 microl of the stool filtrate was 
+used for the TOX-B CCCNA. Anaerobic toxigenic culture was done by heating an 
+additional 1.0 ml of the stool sample to 80 degrees C for 10 min before 
+inoculation onto modified cycloserine, cefoxitin, and fructose agar with horse 
+blood (Remel, Lenexa, KS) and into a prereduced chopped meat glucose broth (BBL, 
+BD Diagnostics, Sparks, MD). The prevalence of toxin-producing strains of C. 
+difficile was 15.7% (n = 44) as determined by anaerobic toxigenic culture. The 
+sensitivity, specificity, and positive and negative predictive values of the 
+Prodesse ProGastro Cd assay compared to the TOX-B test were 83.3%, 95.6%, 69.4%, 
+and 98%, respectively. Compared to toxigenic culture, the sensitivity, 
+specificity, and positive and negative predictive values of the Prodesse 
+ProGastro Cd assay were 77.3%, 99.2%, 94.4%, and 95.9%, respectively, and those 
+of the TOX-B test were 63.6%, 99.2%, 93.3%, and 93.6%, respectively. Although no 
+statistical difference (Fisher's exact test) was detected (P = 0.242) between 
+the sensitivities of the Prodesse ProGastro Cd assay and a standard CCCNA 
+compared to anaerobic culture for the detection of toxigenic C. difficile, the 
+Prodesse ProGastro Cd assay did detect more toxigenic C. difficile isolates than 
+the CCCNA.

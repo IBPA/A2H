@@ -1,0 +1,16 @@
+Recent advances in immunotherapeutics have not yet changed the routine 
+management of autoimmune type 1 diabetes. There is an opportunity to repurpose 
+therapeutics used to treat other diseases to treat type 1 diabetes, especially 
+when there is evidence for overlapping mechanisms. Janus kinase (JAK) 1/JAK2 
+inhibitors are in development or clinical use for indications including 
+rheumatoid arthritis. There is good evidence for activation of the JAK1/JAK2 and 
+signal transducer and activator of transcription (STAT) 1 pathway in human type 
+1 diabetes and in mouse models, especially in β-cells. We tested the hypothesis 
+that using these drugs to block the JAK-STAT pathway would prevent autoimmune 
+diabetes. The JAK1/JAK2 inhibitor AZD1480 blocked the effect of cytokines on 
+mouse and human β-cells by inhibiting MHC class I upregulation. This prevented 
+the direct interaction between CD8+ T cells and β-cells, and reduced immune cell 
+infiltration into islets. NOD mice treated with AZD1480 were protected from 
+autoimmune diabetes, and diabetes was reversed in newly diagnosed NOD mice. This 
+provides mechanistic groundwork for repurposing clinically approved JAK1/JAK2 
+inhibitors for type 1 diabetes.

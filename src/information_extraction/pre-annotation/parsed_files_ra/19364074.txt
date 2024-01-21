@@ -1,0 +1,25 @@
+Rheumatoid arthritis is a chronic inflammatory disease. The generation of 
+reactive oxygen species (ROS) within an inflamed joint has been suggested as 
+playing a significant pathogenic role. Extracellular superoxide dismutase 
+(EC-SOD) is a major scavenger enzyme of ROS, which has received growing 
+attention for its therapeutic potential. To investigate the therapeutic effect 
+of EC-SOD in mice with collagen-induced arthritis (CIA), we used mouse embryonic 
+fibroblast (MEF) of transgenic mice that overexpresses EC-SOD on the skin by 
+using hK14 promoter. DBA/1 mice that had been treated with bovine type II 
+collagen were administrated subcutaneous injections of EC-SOD transgenic MEF 
+(each at 1.4 x 10(60 cells) on days 28, 35, and 42 after primary immunization. 
+To test EC-SOD activity, blood samples were collected in each group on day 49. 
+The EC-SOD activity was nearly 1.5-fold higher in the transgenic MEF-treated 
+group than in the nontransgenic MEF-treated group (p < 0.05). The severity of 
+arthritis in mice was scored in a double-blind manner, with each paw being 
+assigned a separate clinical score. The severity of arthritis in EC-SOD 
+transgenic MEF-treated mice was significantly suppressed in the arthritic 
+clinical score (p < 0.05). To investigate the alteration of cytokine levels, 
+ELISA was used to measure blood samples. Levels of IL-1beta and TNF-alpha were 
+reduced in the transgenic MEF-treated group (p < 0.05). Abnormalities of the 
+joints were examined by H&E staining. There were no signs of inflammation except 
+for mild hyperplasia of the synovium in the transgenic MEF-treated group. The 
+proliferation of CII-specific T cells was lower in the transgenic MEF-treated 
+mice than in those in the other groups. The transfer of EC-SOD transgenic MEF 
+has shown a therapeutic effect in CIA mice and this approach may be a safer and 
+more effective form of therapy for rheumatoid arthritis.

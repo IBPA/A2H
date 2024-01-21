@@ -1,0 +1,17 @@
+There is a need for treatments that can safely promote regulatory lymphocyte 
+responses. T cells express GABA receptors (GABAA-Rs) and GABA administration can 
+inhibit Th1-mediated processes such as type 1 diabetes and rheumatoid arthritis 
+in mouse models. Whether GABAA-R agonists can also inhibit Th17-driven processes 
+such as experimental autoimmune encephalomyelitis (EAE), a model of multiple 
+sclerosis (MS), is an open question. GABA does not pass through the blood-brain 
+barrier (BBB) making it ill-suited to inhibit the spreading of autoreactivity 
+within the CNS. Homotaurine is a BBB-permeable amino acid that antagonizes 
+amyloid fibril formation and was found to be safe but ineffective in long-term 
+Alzheimer's disease clinical trials. Homotaurine also acts as GABAA-R agonist 
+with better pharmacokinetics than that of GABA. Working with both monophasic and 
+relapsing-remitting mouse models of EAE, we show that oral administration of 
+homotaurine can (1) enhance CD8+CD122+PD-1+ and CD4+Foxp3+ Treg, but not Breg, 
+responses, (2) inhibit autoreactive Th17 and Th1 responses, and (3) effectively 
+ameliorate ongoing disease. These observations demonstrate the potential of 
+BBB-permeable GABAA-R agonists as a new class of treatment to enhance CD8+ and 
+CD4+ Treg responses and limit Th17 and Th1-medaited inflammation in the CNS.

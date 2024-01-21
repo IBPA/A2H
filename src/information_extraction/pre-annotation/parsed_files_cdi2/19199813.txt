@@ -1,0 +1,18 @@
+Clostridium sordellii lethal toxin (TcsL) belongs to the family of clostridial 
+glucosylating toxins. TcsL exhibits glucosyltransferase activity to inactivate 
+Rho and Ras proteins. On cultured cells, TcsL causes actin reorganization 
+("cytopathic effect") and apoptotic cell death ("cytotoxic effect"). This study 
+is based on the concept that the cytotoxic effects of TcsL depend on the 
+glucosylation of critical substrate proteins rather than on the 
+glucosyltransferase activity per se. The cytotoxic effects of TcsL depend on the 
+glucosyltransferase activity of TcsL, as neither chemically inactivated TcsL nor 
+a glucosyltransferase-deficient mutant version of TcsL caused it. The TcsL 
+homologous toxin B from Clostridium difficile serotype F strain 1470 (TcdBF) 
+also failed to cause cytotoxic effects. Correlation of the toxins' respective 
+protein substrate specificities highlighted (H/K/N)Ras as critical substrate 
+proteins for the cytotoxic effects. (H/K/N)Ras are critical upstream regulators 
+of phosphatidylinositide 3'-OH kinase (PI3K)/Akt survival signaling. 
+Tauroursodeoxycholic acid (TUDCA) classified to activate PI3K/Akt signaling 
+downstream of apoptosis-inducing stimuli prevented the cytotoxic effects of 
+TcsL. In conclusion, (H/K/N)Ras glucosylation and subsequent inhibition of 
+PI3K/Akt signaling are critical for the cytotoxic effects of TcsL.

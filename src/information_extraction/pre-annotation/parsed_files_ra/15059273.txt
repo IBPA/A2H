@@ -1,0 +1,23 @@
+Tumor necrosis factor (TNF)-alpha is produced by cells of the immune system and 
+is a key mediator in immune and inflammatory reactions. Through interaction with 
+widely expressed receptors (TNF receptor 1 and TNF receptor 2), TNF-alpha is 
+able to orchestrate the expression of a range of downstream proinflammatory 
+molecules. Over the past decade novel biologics that inhibit TNF-alpha have been 
+developed as extremely effective treatments for rheumatoid arthritis. 
+Structurally, these biologics are antibodies, or TNF receptors on an antibody 
+backbone that bind TNF-alpha directly and are delivered to patients by repeated 
+injection. Gene therapy offers an improved approach to delivering biologics as a 
+single administration of their encoding genetic material. In the present study 
+we demonstrate the therapeutic effect of a small molecular weight dimeric TNF 
+receptor 2 (dTNFR) constitutively expressed from plasmid DNA, delivered 
+intramuscularly with electroporation, after disease onset in a collagen-induced 
+arthritis model. Regulated promoters that enable the production of a transgene 
+to be controlled are more suited to the application of gene therapy in the 
+clinic. Regulated expression of dTNFR from the plasmid pGTRTT was also 
+therapeutic in the mouse collagen-induced arthritis model when the inducer 
+doxycycline was also administered, whereas no therapeutic effect was observed in 
+the absence of doxycycline. The therapeutic effect of dTNFR expressed from a 
+constitutive or regulated plasmid was dependent on the degree of disease 
+activity at the time of DNA injection. The observations of this study are 
+considered with regard to the disease model, the magnitude of gene regulation, 
+and the path to clinical application.

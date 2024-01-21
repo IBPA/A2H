@@ -1,0 +1,18 @@
+AIM OF STUDY: This study was performed to elicit the effectiveness of bee venom 
+(BV), a traditional immunosuppressive Korean acupuncture agent, on the 
+maturation of dendrtic cells (DCs).
+MATERIALS AND METHODS: Immature dendritic cells (iDCs) were generated from mouse 
+bone marrow cells with GM-CSF. After 10 days of initial differentiation, DCs 
+were activated with lipopolysaccharides (LPS) for another 48h in the presence or 
+absence of BV. Surface molecule analysis, intracytoplasmic staining of 
+cytokines, FITC-conjugated antigen uptake, and transwell migration assays were 
+conducted with iDCs and activated DCs.
+RESULTS: Up-regulation of costimulatory molecules, typical of mature DCs (mDCs) 
+was inhibited by addition of BV. Pro-inflammatory cytokines were also found to 
+be reduced with BV treatment in LPS-stimulated DC. A decrease in antigen uptake 
+upon the maturation of DC was reversed in low dose BV treated mDC. In addition, 
+BV treated mDC demonstrated reduced directional migration in response to CCL21, 
+a lymphoid chemokine which directs mDC.
+CONCLUSIONS: BV may have a therapeutic effect an on abnormally activated immune 
+status, such as autoimmune rheumatoid arthritis, through an immune-modulatory 
+effect on DC.

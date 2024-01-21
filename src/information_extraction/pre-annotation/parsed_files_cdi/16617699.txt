@@ -1,0 +1,22 @@
+Clostridium difficile-associated-diarrhea (CDAD) is a nosocomial infection in 
+dogs. Diagnosis of this infection is dependent on clinical signs of disease 
+supported by laboratory detection of C. difficile toxins A or B, or both, in 
+fecal specimens via enzyme-linked immunosorbent assay (ELISA). Unfortunately, to 
+the authors' knowledge, commercially available ELISAs have not been validated in 
+dogs to date. We evaluated 5 ELISAs done on 143 canine fecal specimens (100 
+diarrheic and 43 nondiarrheic dogs) and on 29 C. difficile isolates. The results 
+of each ELISA were compared with the cytotoxin B tissue culture assay (CTA). 
+Clostridium difficile was isolated from 23% of the fecal specimens. Eighteen of 
+the 143 fecal specimens were toxin positive (15 diarrheic and 3 nondiarrheic 
+dogs). On the basis of multiplex polymerase chain reaction (PCR) analysis for 
+toxin-A and -B genes, 72% of the isolates were toxigenic. The carriage rate of 
+toxigenic isolates in diarrheic dogs was higher than that in the nondiarrheic 
+dogs; however, these differences were not statistically significant. A good 
+correlation was found between CTA, PCR, and culture results. The ELISAs done on 
+fecal specimens collected from diarrheic dogs had low sensitivity (7-33%). In 
+contrast, ELISA for toxin A or B, or both, performed on toxigenic isolates had 
+high sensitivity (93%). These results suggest that commercially available human 
+ELISAs are inadequate for the diagnosis of canine C. difficile-associated 
+diarrhea when tested on fecal specimens. In contrast, the Premier ToxinA/B and 
+Techlab ToxinA/B ELISAs may be useful for the diagnosis of canine CDAD when used 
+on toxigenic isolates.

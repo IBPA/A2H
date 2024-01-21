@@ -1,0 +1,20 @@
+Clostridium difficile toxin A causes acute gut inflammation in animals and 
+humans. It is known to downregulate the tight junctions between colonic 
+epithelial cells, allowing luminal contents to access body tissues and trigger 
+acute immune responses. However, it is not yet known whether this loss of the 
+barrier function is a critical factor in the progression of toxin A-induced 
+pseudomembranous colitis. We previously showed that NADH:quinone oxidoreductase 
+1 (NQO1) KO (knockout) mice spontaneously display weak gut inflammation and a 
+marked loss of colonic epithelial tight junctions. Moreover, NQO1 KO mice 
+exhibited highly increased inflammatory responses compared with NQO1 WT 
+(wild-type) control mice when subjected to DSS-induced experimental colitis. 
+Here, we tested whether toxin A could also trigger more severe inflammatory 
+responses in NQO1 KO mice compared with NQO1 WT mice. Indeed, our results show 
+that C. difficile toxin A-mediated enteritis is significantly enhanced in NQO1 
+KO mice compared with NQO1 WT mice. The levels of fluid secretion, villus 
+disruption, and epithelial cell apoptosis were also higher in toxin A-treated 
+NQO1 KO mice compared with WT mice. The previous and present results 
+collectively show that NQO1 is involved in the formation of tight junctions in 
+the small intestine, and that defects in NQO1 enhance C. difficile toxin 
+A-induced acute inflammatory responses, presumably via the loss of epithelial 
+cell tight junctions.

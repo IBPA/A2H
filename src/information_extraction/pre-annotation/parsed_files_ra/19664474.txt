@@ -1,0 +1,14 @@
+Rheumatoid arthritis (RA) is a chronic inflammatory, angiogenic disease. 
+Inflamed synovitis is a hallmark of RA which is hypoxic in nature. Vascular 
+endothelial growth factor (VEGF), one of the key regulators of angiogenesis, is 
+overexpressed in the pathogenesis of RA. VEGF expression is regulated by 
+hypoxia-inducible factor-1alpha (HIF-1alpha), a master regulator of homeostasis 
+which plays a pivotal role in hypoxia-induced angiogenesis. In this study we 
+show that synthetic benzophenone analogue, 2-benzoyl-phenoxy acetamide (BP-1) 
+can act as a novel anti-arthritic agent in an experimental adjuvant induced 
+arthritis (AIA) rat model by targeting VEGF and HIF-1alpha. BP-1 administered 
+hypoxic endothelial cells and arthritic animals clearly showed down regulation 
+of VEGF expression. Further, BP-1 inhibits nuclear translocation of HIF-1alpha, 
+which in turn suppresses transcription of the VEGF gene. These results suggest a 
+further possible clinical application of the BP-1 derivative as an 
+anti-arthritic agent in association with conventional chemotherapeutic agents.

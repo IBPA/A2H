@@ -1,0 +1,16 @@
+Aberrant regulation of T helper (Th) cell maturation is associated with a number 
+of autoimmune conditions, including allergic disorders and rheumatoid arthritis. 
+The Src homology domain protein B (Shb) adaptor protein was recently implicated 
+as a regulator of Th cell differentiation. Shb is an integral component of the 
+T-cell receptor (TCR) signalling complex and in the absence of Shb the TCR is 
+less responsive to stimulation, resulting in the preferential development of Th2 
+responses under conditions of in vitro stimulation. In the present study, we 
+extend those observations to an in vivo situation using a murine model of atopic 
+dermatitis. Shb knockout mice develop more pronounced symptoms of atopic 
+dermatitis with increased localized oedema, epidermal hyperplasia and IgE 
+production. Dermal infiltration of mast cells, eosinophils, CD4(+) Th cells and 
+F4/80(+) macrophages was also significantly increased in Shb-deficient mice. 
+This correlated with elevated transcription of the hallmark Th2 cytokines 
+interleukin-4 and interleukin-5. The loss of Shb therefore alters TCR signalling 
+ability, thereby favouring the development of Th2-driven inflammation and 
+exacerbating symptoms of allergy.

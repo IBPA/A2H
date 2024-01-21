@@ -1,0 +1,19 @@
+Clostridioides difficile is the main cause of health-care-associated infectious 
+diarrhoea. Toxins, TcdA and TcdB, secreted by this bacterium damage colonic 
+epithelial cells and in severe cases this culminates in pseudomembranous 
+colitis, toxic megacolon and death. Vaccines in human trials have focused 
+exclusively on the parenteral administration of toxin-based formulations. These 
+vaccines promote toxin-neutralising serum antibodies but fail to confer 
+protection from infection in the gut. An effective route to immunise against gut 
+pathogens and stimulate a protective mucosal antibody response (secretory 
+immunoglobulin A, IgA) at the infection site is the oral route. Additionally, 
+oral immunisation generates systemic antibodies (IgG). Using this route, two 
+different antigens were tested in the hamster model: The colonisation factor 
+CD0873 and a TcdB fragment. Animals immunised with CD0873 generated a 
+significantly higher titre of sIgA in intestinal fluid and IgG in serum compared 
+to naive animals, which significantly inhibited the adherence of C. difficile to 
+Caco-2 cells. Following challenge with a hypervirulent isolate, the 
+CD0873-immunised group showed a mean increase of 80% in time to experimental 
+endpoint compared to naïve animals. Survival and body condition correlated with 
+bacterial clearance and reduced pathology in the cecum. Our findings advocate 
+CD0873 as a promising oral vaccine candidate against C. difficile.

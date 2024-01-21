@@ -1,0 +1,31 @@
+BACKGROUND: The role of dopaminergic system in the development of rheumatoid 
+arthritis-related pain, a major symptom in this disease, has not been explored. 
+Therefore, the anti-nociceptive effect of mazindol, a dopamine uptake inhibitor, 
+was evaluated in a model of complete Freund's adjuvant (CFA)-induced arthritis. 
+Furthermore, as studies have shown that the dopaminergic system regulates bone 
+metabolism, the effect of mazindol on bone mass and microarchitecture was 
+determined.
+METHODS: Adult ICR male mice received intra-articular injections of either CFA 
+or saline into the right knee joint every week. Spontaneous pain-like behaviors 
+(flinching and guarding) and locomotor activity were assessed at day 26 
+post-first CFA, following which, a single intraperitoneally (i.p.) administered 
+dose of mazindol was given (1, 3 and 10 mg/kg). Then, the antinociceptive effect 
+of a repeated administration of 3 mg/kg mazindol (daily, i.p.; day 15-day 26) 
+was evaluated. Additionally, at day 26, the participation of D1-like, D2-like or 
+opioid receptors in the antinociceptive effect of mazindol was evaluated. The 
+effect of mazindol on bone density and microarchitecture was evaluated by 
+micro-computed tomography.
+RESULTS: Acute administration of mazindol decreased the spontaneous pain-like 
+behaviors in a dose-dependent manner without reducing the knee edema. However, 
+mazindol at 10 mg/kg significantly increased the locomotor activity; therefore, 
+3 mg/kg mazindol was used for further studies. Repeated administration of 3 
+mg/kg mazindol significantly decreased the pain-like behaviors without modifying 
+locomotor activity. The antinociceptive effect of mazindol was blocked by 
+administration of a D2-like receptor antagonist (haloperidol), but not by 
+administration of D1-like receptor antagonist (SCH 23390) or an opioid receptor 
+antagonist (naloxone). Repeated administration of mazindol did not significantly 
+modify the density and microarchitecture of periarticular bone of the arthritic 
+and nonarthritic knee joints.
+CONCLUSION: Results suggest that mazindol via D2-like receptors has an 
+antinociceptive role in mice with CFA-induced knee arthritis without modifying 
+the bone health negatively.

@@ -1,0 +1,12 @@
+A therapeutic rationale is proposed for the treatment of inflammatory diseases, 
+such as rheumatoid arthritis (RA), by specific targeting of the JAK1 pathway. 
+Examination of the preferred binding conformation of clinically effective, 
+pan-JAK inhibitor 1 led to identification of a novel, tricyclic hinge binding 
+scaffold 3. Exploration of SAR through a series of cycloamino and 
+cycloalkylamino analogues demonstrated this template to be highly tolerant of 
+substitution, with a predisposition to moderate selectivity for the JAK1 isoform 
+over JAK2. This study culminated in the identification of subnanomolar JAK1 
+inhibitors such as 22 and 49, having excellent cell potency, good rat 
+pharmacokinetic characteristics, and excellent kinase selectivity. Determination 
+of the binding modes of the series in JAK1 and JAK2 by X-ray crystallography 
+supported the design of analogues to enhance affinity and selectivity.

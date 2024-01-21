@@ -1,0 +1,24 @@
+BMP induces osteoblast differentiation, whereas a key proinflammatory cytokine, 
+TNF-α, causes inflammatory bone damage shown in rheumatoid arthritis. FGF 
+molecules are known to be involved in bone homeostasis. However, the effects of 
+FGF-8 on osteoblast differentiation and the interaction between FGF-8, BMPs and 
+TNF-α have yet to be clarified. Here we investigated the effects of FGF-8 in 
+relation to TNF-α actions on BMP-2-induced osteoblast marker expression using 
+myoblast cell line C2C12, osteoblast precursor cell line MC3T3-E1 and rat 
+calvarial osteoblasts. It was revealed that FGF-8 inhibited BMP-2-induced 
+expression of osteoblast differentiation markers, including Runx2, osteocalcin, 
+alkaline phosphatase, type-1 collagen and osterix, in a concentration-dependent 
+manner. The inhibitory effects of FGF-8 on BMP-induced osteoblast 
+differentiation and Smad1/5/8 activation were enhanced in the presence of TNF-α 
+action. FGF-8 also inhibited BMP-2-induced expression of Wnt5a, which activates 
+a non-canonical Wnt signaling pathway. FGF-8 had no significant influence on the 
+expression levels of TNF receptors, while FGF-8 suppressed the expression of 
+inhibitory Smad6 and Smad7, suggesting a possible feedback activity through FGF 
+to BMP receptor (BMPR) signaling. Of note, inhibition of ERK activity and FGF 
+receptor (FGFR)-dependent protein kinase, but not JNK or NFκB pathway, 
+suppressed the FGF-8 actions on BMP-induced osteoblast differentiation. FGF-8 
+was revealed to suppress BMP-induced osteoblast differentiation through the ERK 
+pathway and the effects were enhanced by TNF-α. Given the finding that FGF-8 
+expression was increased in synovial tissues of rheumatoid arthritis, the 
+functional interaction between FGFR and BMPR signaling may be involved in the 
+development process of inflammatory bone damage.

@@ -1,0 +1,19 @@
+Clostridium difficile associated diarrhea (CDAD) is a critical public health 
+problem worldwide with over 300,000 cases every year in the United States alone. 
+Clearly, a potent vaccine preventing the morbidity and mortality caused by this 
+detrimental pathogen is urgently required. However, vaccine efforts to combat C. 
+difficile infections have been limited both in scope as well as to efficacy, as 
+such there is not a vaccine approved for use against C. difficile to date. In 
+this study, we have used a highly potent Adenovirus (Ad) based platform to 
+create a vaccine against C. difficile. The Ad-based vaccine was able to generate 
+rapid and robust humoral as well as cellular (T-cell) immune responses in mice 
+that correlated with provision of 100% protection from lethal challenge with C. 
+difficile toxin A. Most relevant to the clinical utility of this vaccine 
+formulation was our result that toxin A specific IgGs were readily detected in 
+plasma of Ad immunized mice as early as 3 days post vaccination. In addition, we 
+found that several major immuno-dominant T cell epitopes were identified in 
+toxin A, suggesting that the role of the cellular arm in protection from C. 
+difficile infections may be more significant than previously appreciated. 
+Therefore, our studies confirm that an Adenovirus based-C. difficile vaccine 
+could be a promising candidate for prophylactic vaccination both for use in high 
+risk patients and in high-risk environments.

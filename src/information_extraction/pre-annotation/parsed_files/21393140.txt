@@ -1,0 +1,24 @@
+OBJECTIVES: RBx 11760, a novel oxazolidinone, was investigated for in vitro and 
+in vivo activity against Clostridium difficile.
+METHODS: The in vitro activity of RBx 11760 and three other agents against 50 
+diverse C. difficile clinical isolates and other obligate anaerobic bacteria was 
+determined. The effect of RBx 11760 on sporulation and toxin production was 
+determined against different C. difficile isolates. We used a hamster infection 
+model to investigate the efficacy of RBx 11760, vancomycin and metronidazole. 
+The mechanism of action of RBx 11760 against C. difficile ATCC 43255 was 
+determined by macromolecular synthesis inhibition.
+RESULTS: RBx 11760 MICs were in the range of 0.5-1 mg/L for C. difficile 
+isolates, and it demonstrated concentration-dependent killing of C. difficile 
+ATCC 43255 and C. difficile 6387 up to 2-4× MIC (1-2 mg/L). RBx 11760, at 
+concentrations as low as 0.25-0.5 mg/L, resulted in a significant reduction in 
+de novo toxin production as well as sporulation in different C. difficile 
+isolates. In contrast, vancomycin, metronidazole and linezolid had little or no 
+effect on toxin production and appeared to promote the formation of spores. In 
+the hamster infection model, treatment with RBx 11760 resulted in prolonged 
+survival of animals as compared with vancomycin or metronidazole, which 
+correlated well with the histopathology results. Macromolecular labelling 
+results suggest that RBx 11760 is a potent inhibitor of bacterial protein 
+synthesis.
+CONCLUSIONS: RBx 11760 showed excellent in vitro and in vivo activity against C. 
+difficile, and it could be a promising novel candidate for future drug 
+development against C. difficile infection.

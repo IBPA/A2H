@@ -1,0 +1,23 @@
+Gut fungi may influence the course of Clostridium difficile infection either 
+positively or negatively for the host. Fungi are not prominent in the mouse gut, 
+and C. albicans, the major human gastrointestinal commensal yeast, is in low 
+abundance or absent in mice. Bifidobacterium is one of the probiotics that may 
+attenuate the severity of C. difficile infection. Inflammatory synergy between 
+C. albicans and C. difficile, in gut, may provide a state that more closely 
+resembles human infection and be more suitable for testing probiotic effects. We 
+performed fecal mycobiota analysis and administered C. albicans at 1 day prior 
+to C. difficile dosing. Fecal eukaryotic 18S rDNA analysis demonstrated the 
+presence of Ascomycota, specifically, Candida spp., after oral antibiotics, 
+despite negative fecal fungal culture. C. albicans administration enhanced the 
+severity of the C. difficile infection model as determined by mortality rate, 
+weight loss, gut leakage (FITC-dextran assay), and serum and intestinal tissue 
+cytokines. This occurred without increased fecal C. difficile or bacteremia, in 
+comparison with C. difficile gavage alone. Candida lysate with C. difficile 
+increased IL-8 production from HT-29 and Caco-2 human intestinal epithelial 
+cell-lines. Bifidobacterium attenuated the disease severity of the C. difficile 
+plus Candida model. The reduced severity was associated with decreased Candida 
+burdens in feces. In conclusion, gut C. albicans worsened C. difficile 
+infection, possibly through exacerbation of inflammation. Hence, a mouse model 
+of Clostridium difficile infection with C. albicans present in the gut may 
+better model the human patient condition. Gut fungal mycobiome investigation in 
+patients with C. difficile is warranted and may suggest therapeutic targets.

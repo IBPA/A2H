@@ -1,0 +1,20 @@
+Interleukin (IL)-18, a recently identified proinflammatory cytokine, has been 
+implicated in a variety of pathological conditions such as rheumatoid arthritis, 
+insulin-dependent diabetes mellitus, and inflammatory liver injury. Microglial 
+cells are the primary cellular source of IL-18 in the brain. Along with other 
+inflammatory mediators in the central nervous system (CNS), IL-18 may play an 
+important role in the pathogenesis of various neurodegenerative diseases. To 
+understand how lymphokines and lipid mediators participate in the regulation of 
+microglial IL-18 production, we assessed the effects of interferon (IFN)gamma, 
+one of the major macrophage-activating lymphokines, and prostaglandin (PG)E(2), 
+a lipid mediator produced in the brain, on IL-18 production and the expression 
+of the IL-18 processing enzyme, caspase-1, in mouse microglial cells. IFNgamma 
+increased lipopolysaccharide (LPS)-induced IL-18 production and caspase-1 
+expression, while PGE(2) inhibited LPS-induced IL-18 production. A similar 
+pattern of IL-18 regulation by IFNgamma and PGE(2) was observed at the mRNA 
+level. The regulation of microglial activation by IFNgamma and PGE(2) was 
+accompanied by differential modulation of LPS-induced NF-kB activation. While 
+IFNgamma enhanced LPS-induced NF-kB activation, PGE(2) suppressed its 
+activation. These results indicate that IFNgamma and PGE(2) are the important 
+regulators of proinflammatory microglial activation in CNS, and suggest the 
+involvement of NF-kB pathway in these regulatory processes.

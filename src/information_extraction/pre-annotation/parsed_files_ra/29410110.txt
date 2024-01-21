@@ -1,0 +1,15 @@
+Activated macrophages play a key role in the development and maintenance of 
+inflammatory diseases such as atherosclerosis, lupus, psoriasis, rheumatoid 
+arthritis, ulcerative colitis, and many others. These activated macrophages, but 
+not resting or quiescent macrophages highly up-regulate folate receptor beta 
+(FR-β). This differential expression of FR-β provides a mechanism to selectively 
+deliver imaging and therapeutic agents utilizing folate as a targeting molecule. 
+In an effort to determine whether inflammatory diseases can be targeted 
+utilizing a folate-linked nanosize carrier, a PEG-coated liposome was prepared 
+that incorporated a folate conjugated PEG that also could transport imaging or 
+therapeutic cargo. We demonstrate that these folate-liposomes specifically bind 
+to folate receptor positive cells and accumulate at sites of inflammation in 
+mouse models of colitis and atherosclerosis. These two animal models show that 
+folate-targeted liposomes could be successfully utilized to deliver fluorescent 
+molecules and an anti-inflammatory drug (betamethasone) for diagnostic and 
+therapeutic applications.

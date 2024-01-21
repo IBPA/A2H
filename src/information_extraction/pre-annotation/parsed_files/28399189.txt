@@ -1,0 +1,13 @@
+The technology of display of heterologous proteins on the surface of Bacillus 
+subtilis spores enables use of these structures as carriers of antigens for 
+mucosal vaccination. Currently, there are no technical possibilities to predict 
+whether a designed fusion will be efficiently displayed on the spore surface and 
+how such recombinant spores will interact with cells of the immune system. In 
+this study, we compared four variants of B. subtilis spores presenting a 
+fragment of a FliD protein from Clostridium difficile in fusion with CotB, CotC, 
+CotG or CotZ spore coat proteins. We show that these spores promote their own 
+phagocytosis and activate both, the J774 macrophages and JAWSII dendritic cells 
+of murine cell lines. Moreover, we used these spores for mucosal immunization of 
+mice. We conclude that the observed effects vary with the type of displayed 
+FliD-spore coat protein fusion and seem to be mostly independent of its 
+abundance and localization in the spore coat structure.

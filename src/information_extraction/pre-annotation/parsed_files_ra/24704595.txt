@@ -1,0 +1,28 @@
+ETHNOPHARMACOLOGICAL RELEVANCE: Glycyrrhizae uralenis (GU) is often prescribed 
+together with Cortex daphnes (CD) in traditional Chinese medicinal practice to 
+increase the efficacy of CD on the treatment of rheumatoid arthritis (RA), but 
+the reasons were still unknown. In order to clarify the rationality of 
+herbaceous compatibility between CD and GU, the comparative evaluations on 
+pharmacokinetic behaviors of daphnetin (a predominantly active ingredient in CD) 
+after intragastric administration of CD and CD-GU (combination of CD and GU) 
+extract were studied. In addition, the effects of glycyrrhizin and liquiritin, 
+active ingredients of Glycyrrhiza triterpenes and Glycyrrhiza flavones 
+respectively, on the pharmacokinetics of daphnetin were also investigated.
+MATERIALS AND METHODS: Five groups of rats were orally administered with CD 
+extract, CD-GU extract, pure daphnetin, co-administration of daphnetin and 
+glycyrrhizin as well as co-administration of daphnetin and liquiritin at the 
+same single dose of daphnetin (20 mg/kg). The rat plasma concentrations of 
+daphnetin were determined by our developed UPLC-MS/MS method. The 
+pharmacokinetics of daphnetin in above groups were investigated and compared.
+RESULTS: Comparing with oral administration of CD extract, AUC and Tmax of 
+daphnetin significantly increased after giving CD-GU (p<0.05). In addition, in 
+comparison to daphnetin alone, co-administration of daphnetin with liquiritin 
+significantly increased the AUC and Cmax of daphnetin for ~1.5-fold, while 
+co-administered with glycyrrhizin showed limited impact on the pharmacokinetics 
+of daphnetin.
+CONCLUSIONS: In this study, it was found that liquiritin, one of the major 
+components of GU, significantly enhanced the bioavailability of the main 
+component daphnetin in CD. In addition, the bioavailability of daphnetin in the 
+CD-GU prescription was also significantly higher than that in CD alone, which 
+could be due to liquiritin. Such results explained the mechanism of the 
+increased efficacy in treating RA with the combined use of CD and GU.

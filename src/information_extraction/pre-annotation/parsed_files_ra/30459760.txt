@@ -1,0 +1,23 @@
+Autoimmune diseases involve a complex dysregulation of immunity. Autoimmune 
+diseases include many members [e.g., rheumatoid arthritis (RA) and systemic 
+lupus erythematosus (SLE)], and most of them are classified according to what 
+organs and tissues are targeted by the damaging immune response. Many studies 
+have focused on finding specific biomarkers for single autoimmune diseases, but 
+so far, there are no universal biomarkers for detecting almost all autoimmune 
+diseases. Serum miRNAs have served as potential biomarkers for detecting various 
+diseases. The purpose of this study was to find a universal biomarker for 
+diagnosing autoimmune diseases. Regulatory T cells (Tregs) play a crucial role 
+in protecting an individual from autoimmunity, and depletion of Tregs in mice is 
+considered a representative animal model of autoimmune disease. Two mouse models 
+for Treg depletion, in which Treg was depleted by CD25mAb (in C57 mice) or by 
+diphtheria toxin (DT) (in Foxp3DTR mice), were investigated, and 381 miRNAs were 
+identified in the serum of mice with Treg depletion. A distinctive circulating 
+miRNA profile was identified in Treg-depleted mice and in patients with 
+autoimmune disease. QRT-PCR confirmation and ROC curve analysis determined that 
+six miRNAs (miR-551b, miR-448, miR-9, miR-124, miR-148, and miR-34c) in the 
+Treg-depleted mouse models and three miRNAs [miR-551b (specificity 73.5%, 
+sensitivity 88.4%), miR-448 (specificity 82.4%, sensitivity 91.3%), and miR-124 
+(specificity 76.5%, sensitivity 91.3%)] in patients with RA, SLE, Sjogren's 
+syndrome (SS), and ulcerative colitis (UC) could serve as valuable specific 
+biomarkers. These circulating miRNAs may represent potential universal 
+biomarkers for autoimmune diseases diagnosis and prognosis.

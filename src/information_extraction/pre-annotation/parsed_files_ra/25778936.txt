@@ -1,0 +1,24 @@
+OBJECTIVE: The balance between effector and regulatory CD4+ T cells plays a key 
+role in the pathogenesis of rheumatoid arthritis (RA). The aim of this study was 
+to examine whether the RA autoantigen BiP has epitopes for both effector and 
+regulatory immunities.
+METHODS: The proliferation and cytokine secretion of peripheral blood 
+mononuclear cells (PBMCs) from HLA-DR4-positive RA patients in response to 
+BiP-derived peptides were examined by (3)H-thymidine uptake and enzyme-linked 
+immunosorbent assay. As a mouse therapeutic model, a BiP-derived peptide was 
+administered orally to mice with collagen-induced arthritis (CIA).
+RESULTS: Among the peptides examined, BiP(336-355) induced the strongest 
+proliferation of PBMCs from RA patients, but not from healthy donors. The 
+proliferation of PBMCs in response to BiP(336-355) showed a correlation with 
+clinical RA activity and serum anti-BiP/citrullinated BiP antibodies. In 
+contrast, BiP(456-475) induced interleukin-10 (IL-10) secretion from 
+CD25-positive PBMCs obtained from RA patients and healthy donors without 
+inducing cell proliferation, and it actively suppressed the BiP(336-355)-induced 
+proliferation and proinflammatory cytokine secretion by PBMCs. Oral 
+administration of BiP(456-475) to mice with CIA reduced the severity of 
+arthritis and T cell proliferation and increased the secretion of IL-10 from T 
+cells as well as the number of CD4+CD25+FoxP3+ regulatory T cells.
+CONCLUSION: Effector and regulatory T cells recognized different BiP epitopes. 
+The deviated balance toward BiP-specific effector T cells in RA may be 
+associated with disease activity; therefore, BiP-specific effector or regulatory 
+T cells could be a target of new RA therapies.

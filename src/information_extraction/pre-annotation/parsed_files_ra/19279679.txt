@@ -1,0 +1,28 @@
+BACKGROUND: CD23 is a differentiation/activation antigen expressed by a variety 
+of hematopoietic and epithelial cells. It can also be detected in soluble forms 
+in biological fluids. Initially known as the low-affinity receptor for 
+immunoglobulin E (Fc epsilonRII), CD23 displays various other physiologic 
+ligands such as CD21, CD11b/c, CD47-vitronectin, and mannose-containing 
+proteins. CD23 mediates numerous immune responses by enhancing IgE-specific 
+antigen presentation, regulating IgE synthesis, influencing cell differentiation 
+and growth of both B- and T-cells. CD23-crosslinking promotes the secretion of 
+pro-inflammatory mediators from human monocytes/macrophages, eosinophils and 
+epithelial cells. Increased CD23 expression is found in patients during allergic 
+reactions and rheumatoid arthritis while its physiopathologic role in these 
+diseases remains to be clarified.
+METHODOLOGY/PRINCIPAL FINDINGS: We previously generated heptapeptidic 
+countrestructures of human CD23. Based on in vitro studies on healthy and 
+arthritic patients' cells, we showed that CD23-specific peptide addition to 
+human macrophages greatly diminished the transcription of genes encoding 
+inflammatory cytokines. This was also confirmed by significant reduction of 
+mediator levels in cell supernatants. We also show that CD23 peptide decreased 
+IgE-mediated activation of both human and rat CD23(+) macrophages. In vivo 
+studies in rat model of arthritis showed that CD23-blocking peptide ameliorates 
+clinical scores and prevent bone destruction in a dose dependent manner. Ex-vivo 
+analysis of rat macrophages further confirmed the inhibitory effect of peptides 
+on their activation. Taken together our results support the role of CD23 
+activation and subsequent inflammatory response in arthritis.
+CONCLUSION: CD23-blocking peptide (p30A) prevents the activation of 
+monocytes/macrophages without cell toxicity. Thus, targeting CD23 by 
+antagonistic peptide decreases inflammatory markers and may have clinical value 
+in the treatment of human arthritis and allergic reactions involving CD23.

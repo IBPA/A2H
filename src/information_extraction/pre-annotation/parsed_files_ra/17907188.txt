@@ -1,0 +1,30 @@
+OBJECTIVE: To evaluate the role of the MEK/ERK MAP kinase pathway in murine 
+collagen-induced arthritis (CIA) using the selective MEK inhibitor PD184352. We 
+examined the effects of the inhibitor in cytokine-stimulated synovial 
+fibroblasts and in cytokine-induced arthritis in rabbits to investigate its 
+antiinflammatory mechanisms.
+METHODS: Murine CIA was used to assess the effects of the selective MEK 
+inhibitor on paw edema, clinical scores, weight loss, histopathologic features, 
+and joint levels of p-ERK. Western blotting and immunohistochemistry techniques 
+were used to assess p-ERK in human and rabbit synovial fibroblasts and synovial 
+tissue from rheumatoid arthritis (RA) patients. Interleukin-1alpha 
+(IL-1alpha)-stimulated stromelysin production in rabbit synovial fibroblasts was 
+assessed by enzyme-linked immunosorbent assay. A rabbit IL-1alpha-induced 
+arthritis model was used to assess the effects of the inhibitor on 
+IL-1alpha-induced MEK activity, stromelysin production, and cartilage 
+degradation.
+RESULTS: In the CIA model, PD184352 inhibited paw edema and clinical arthritis 
+scores in a dose-dependent manner. Disease-induced weight loss and 
+histopathologic changes were also significantly improved by treatment. 
+Inhibition of disease-induced p-ERK levels in the joints was seen with the 
+inhibitor. Levels of p-ERK in the synovium were higher in RA patients than in 
+normal individuals. PD184352 reduced IL-1alpha-induced p-ERK levels in human RA 
+synovial fibroblasts. The production of p-ERK and stromelysin was also inhibited 
+in IL-1alpha-stimulated rabbit synovial fibroblasts. We observed 
+IL-1alpha-induced p-ERK in the synovial lining, subsynovial vasculature, and 
+articular chondrocytes. IL-1alpha-induced stromelysin production and 
+proteoglycan loss from the articular cartilage were reduced by PD184352.
+CONCLUSION: These data demonstrate the inhibition of murine CIA by PD184352, 
+support the hypothesis that antiinflammatory activity contributes to the 
+mechanism of action of the inhibitor, and suggest that a selective inhibitor may 
+effectively treat RA and other inflammatory disorders.

@@ -1,0 +1,13 @@
+MIF was recently redefined as an inflammatory cytokine, which functions as a 
+critical mediator of diseases such as septic shock, rheumatoid arthritis, 
+atherosclerosis, and cancer. MIF also regulates wound healing processes. Given 
+that fibroblast migration is a central event in wound healing and that MIF was 
+recently demonstrated to promote leukocyte migration through an interaction with 
+G-protein-coupled receptors, we investigated the effect of MIF on fibroblast 
+migration in wounded monolayers in vitro. Transient but not permanent exposure 
+of primary mouse or human fibroblasts with MIF significantly promoted wound 
+closure, a response that encompassed both a proliferative and a pro-migratory 
+component. Importantly, MIF-induced fibroblast activation was accompanied by an 
+induction of calcium signalling, whereas chronic exposure with MIF 
+down-regulated the calcium transient, suggesting receptor desensitization as the 
+underlying mechanism.

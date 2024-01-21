@@ -1,0 +1,19 @@
+Clinical management of Clostridium difficile infection is still far from 
+satisfactory as bacterial spores are resistant to many chemical agents and 
+physical treatments. Certain types of nanoparticles have been demonstrated to 
+exhibit anti-microbial efficacy even in multi-drug resistance bacteria. However, 
+most of these studies failed to show biocompatibility to the mammalian host 
+cells and no study has revealed in vivo efficacy in C. difficile infection 
+animal models. The spores treated with 500 µg/mL Fe3-δO4 nanoparticles for 
+20 minutes, 64% of the spores were inhibited from transforming into vegetative 
+cells, which was close to the results of the sodium hypochlorite-treated 
+positive control. By cryo-electron micro-tomography, we demonstrated that 
+Fe3-δO4 nanoparticles bind on spore surfaces and reduce the dipicolinic acid 
+(DPA) released by the spores. In a C. difficile infection animal model, the 
+inflammatory level triple decreased in mice with colonic C. difficile spores 
+treated with Fe3-δO4 nanoparticles. Histopathological analysis showed a 
+decreased intense neutrophil accumulation in the colon tissue of the Fe3-δO4 
+nanoparticle-treated mice. Fe3-δO4 nanoparticles, which had no influence on gut 
+microbiota and apparent side effects in vivo, were efficacious inhibitors of C. 
+difficile spore germination by attacking its surface and might become clinically 
+feasible for prophylaxis and therapy.

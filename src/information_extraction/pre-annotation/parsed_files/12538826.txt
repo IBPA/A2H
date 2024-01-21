@@ -1,0 +1,25 @@
+Intraluminal administration of the endocannabinoids N-arachidonoyl-ethanolamine 
+(anandamide) and 2-arachidonoylglycerol (2-AG) causes inflammation similar to 
+that caused by Clostridium difficile toxin A in the rat ileum. The effects of 
+anandamide and 2-AG were significantly inhibited by pretreatment with the 
+specific capsaicin receptor (vanilloid receptor subtype 1; VR1) antagonist 
+capsazepine. Pretreatment with the CB1 and CB2 cannabinoid receptor antagonists 
+N-piperidino-5-(4-chlorophenyl)-1-(2,4-dichlorophenyl)-4-methyl-3-pyrazole-carboxamide 
+(SR141716) and 
+N-[1S)-endo-1,3,3-trimethylbicyclo[2.2.1]heptan-2-yl]-5-(4-chloro-3-methylphenyl)-1-(4-methylbenzyl)-pyrazole-3-carboxamide 
+(SR144528) did not affect the responses to anandamide. It has previously been 
+shown that intraluminal toxin A stimulates substance P (SP) release from primary 
+sensory neurons and that pretreatment with SP receptor [neurokinin (NK)-1 
+receptor] antagonists inhibits the inflammatory effects of toxin A. Anandamide 
+stimulated SP release and this was blocked by capsazepine pretreatment. Also, 
+pretreatment with the specific NK-1 receptor antagonist 
+(2S,3S)-3-([3,5-bis[trifluoromethyl)phenyl]methoxy)-2-phenylpiperidine 
+(L-733,060) significantly inhibited the inflammatory effects of both toxin A and 
+anandamide. Toxin A increased tissue concentrations of anandamide and 2-AG in 
+the ileum, and these effects were enhanced after pretreatment with inhibitors of 
+fatty acid amide hydrolase, a major endocannabinoid-degrading enzyme. The toxin 
+A-stimulated release of anandamide but not 2-AG was selective over their 
+congeners. These results demonstrate that the endocannabinoids anandamide and 
+2-AG stimulate intestinal primary sensory neurons via the capsaicin VR1 receptor 
+to release SP, resulting in enteritis, and that endocannabinoids may mediate the 
+inflammatory effects of toxin A.

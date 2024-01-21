@@ -1,0 +1,29 @@
+Rheumatoid arthritis (RA) is a chronic debilitating disease estimated to afflict 
+13% of the world population. Although palliative treatments (nonsteroidal 
+antiinflammatory drugs or NSAIDs) are widely prescribed, there are currently 
+only a few treatments that can modify the insidious progression of the disease 
+(disease-modifying antirheumatic drugs or DMARDs), which frequently leads to 
+physical incapacitation and, on occasion, death. Proinflammatory cytokines such 
+as tumor necrosis factor-alpha (TNF-alpha) and interleukin-1 beta (IL-1 beta) 
+are implicated in the disease onset and in the progression of bone and joint 
+destruction that characterizes chronic RA. p38 is an intracellular 
+mitogen/stress-activated protein kinase (MAPK/SAPK) that regulates both the 
+release and the actions of TNF-alpha and IL-1 beta. Inhibition of p38 kinase is 
+thus an important potential target for novel DMARDs. Following the pioneering 
+work conducted at SmithKline Beecham and elucidation of the roles of p38 with 
+potent and selective inhibitors such as SB-203580, many pharmaceutical companies 
+have embarked upon p38 synthetic programs, as indicated by the ever-increasing 
+number of patents in this domain. At Aventis, a rapid parallel synthesis project 
+led to the identification of RPR-200765A, a potent and selective p38 inhibitor 
+of the lipopolysaccharide-induced release of TNF-alpha in vitro in mononuclear 
+phagocytes and in vivo in the rat. It also reduces disease incidence and 
+progression in the rat streptococcal cell wall arthritis model when administered 
+orally in either a prophylactic or a therapeutic dosing regimen. Development of 
+p38 inhibitors has been slow, probably because of toxicological problems, which 
+might explain why only two oral p38 inhibitors, SB-242235 and VX-745, have 
+advanced into clinical development. In the present article, the preclinical data 
+exemplified in studies on RPR-200765A indicating why p38 inhibitors are 
+attracting so much attention as potential novel anti-RA drugs are reviewed. 
+Current information on the different structural classes of p38 inhibitors is 
+presented and possible reasons for the delays in their development are 
+critically discussed.

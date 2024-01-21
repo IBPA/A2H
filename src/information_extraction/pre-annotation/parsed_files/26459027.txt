@@ -1,0 +1,34 @@
+A previous nationwide Chinese epidemiological study revealed through isolation 
+of A‑B+ Clostridium difficile strains, which produce toxin B (TcdB), but not 
+toxin A TcdA, that the strains are widespread and more frequent in east Asian 
+countries,. The development of a process capable of detecting TcdB is required 
+in microbiological laboratories in order to facilitate the control of the A‑B+ 
+C. difficile strains, however, no diagnostic reagents have been developed to 
+date. The aim of the present study was to prepare monoclonal antibodies (mAbs) 
+targeting the receptor binding region of TcdB (CDB3), and to establish a 
+double‑antibody sandwich enzyme-linked immunosorbent assay (ds‑ELISA), which can 
+be used for the diagnosis of C. difficile infection. The recombinant protein, 
+glutathione S transferase (GST)‑CDB3 was expressed and purified using an 
+Escherichia coli system. BALB/c mice were immunized with GST‑CDB3 recombinant 
+protein. A hybridoma technique was used for the production of anti‑CDB3 mAb. The 
+hybridoma clones were then screened using indirect ELISA, and anti‑CDB3 mAb was 
+produced in the ascites of the BALB/c mice. Isotyping of anti‑CDB3 mAb was 
+performed using an SBA Clonotyping system/horseradish peroxidase (HRP) ELISA 
+kit. Protein G affinity chromatography was used for purification of anti‑CDB3 
+mAbs, and the titer and specificity of the anti‑CDB3 mAbs were assessed using 
+indirect ELISA and western blot analysis, respectively. The ds‑ELISA was 
+established using HRP‑labeled anti‑CDB3 mAbd, which were used to detect TcdB 
+clinically in diarrhea stools. A total of five stable hybridoma cell clones 
+(1E7B, 1F8D3, 2F8A6, 3B6F1 and 4A4G2) producing anti‑CDB3 mAb were established. 
+The results of the present study indicated that the immunoglobulin (Ig)G isotype 
+was predominant, as 1E7B2 IgG1 (λ), 2F8A6 IgG2a (κ) and 4A4G2 IgG1 (κ). In 
+addition, the highest titer of anti‑CDB3 mAb (2F8A6 and 4A4G2) was 1:51,200. 
+Western blotting revealed that the 2F8A6 and 4A4G2 mAbs recognized the CDB3 
+protein specifically. Following anti‑CDB3 mAb (4A4G2) HRP‑labeling, the optimal 
+working concentration was confirmed to be 1:400, and the concentration of coated 
+antibody (2F8A6) was 20 µg/ml. The sensitivity of the ds‑ELISA was 73.33% for 
+the A+B+ toxigenic C. difficile strains, and 86.67% for the A‑B+ toxigenic C. 
+difficile strains, with a specificity of 100% for all. In conclusion, the 
+present study successfully developed novel mAbs specific to CDB3, and developed 
+a ds-ELISA kit with high specificity and sensitivity for the rapid detection of 
+TcdB. This offers a useful tool for the diagnostic assessment of TcdB.

@@ -1,0 +1,26 @@
+OBJECTIVE: The regulatory role of capsaicin-sensitive peptidergic sensory nerves 
+has been shown in acute inflammation, but little is known about their 
+involvement in T/B-cell driven autoimmune arthritis. This study integratively 
+characterized the function of these nerve endings in the proteoglycan-induced 
+chronic arthritis (PGIA), a translational model of rheumatoid arthritis.
+METHODS: Peptidergic afferents were defunctionalized by resiniferatoxin (RTX) 
+pretreatment in BALB/c mice, PGIA was induced by repeated antigen challenges. 
+Hind paw volume, arthritis severity, grasping ability and the mechanonociceptive 
+threshold were monitored during the 17-week experiment. Myeloperoxidase 
+activity, vascular leakage and bone turnover were evaluated by in vivo optical 
+imaging. Bone morphology was assessed using micro-CT, the intertarsal small 
+joints were processed for histopathological analysis.
+RESULTS: Following desensitization of the capsaicin-sensitive afferents, ankle 
+edema, arthritis severity and mechanical hyperalgesia were markedly diminished. 
+Myeloperoxidase activity was lower in the early, but increased in the late 
+phase, whilst plasma leakage and bone turnover were not altered. Desensitized 
+mice displayed similar bone spurs and erosions, but increased trabecular 
+thickness of the tibia and bony ankylosis of the spine. Intertarsal cartilage 
+thickness was not altered in the model, but desensitization increased this 
+parameter in both the non-arthritic and arthritic groups.
+CONCLUSION: This is the first integrative in vivo functional and morphological 
+characterization of the PGIA mouse model, wherein peptidergic afferents have an 
+important regulatory function. Their overall effect is proinflammatory by 
+increasing acute inflammation, immune cell activity and pain. Meanwhile, their 
+activation decreases spinal ankylosis, arthritis-induced altered trabecularity, 
+and cartilage thickness in small joints.

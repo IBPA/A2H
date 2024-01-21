@@ -1,0 +1,24 @@
+Toxin A (TcdA) and toxin B (TcdB) are major virulence factors of Clostridium 
+difficile. These two toxins intoxicate cultured cells by similar mechanisms, and 
+TcdB generally is more potent than TcdA in cultured cells. The exact reason for 
+this difference is unclear. Here, we report that the cellular effects of TcdA 
+can be substantially enhanced via an opsonizing antibody through Fc gamma 
+receptor I (FcgammaRI)-mediated endocytosis. A TcdA-specific monoclonal 
+antibody, A1H3, was found to significantly enhance the cytotoxicity of TcdA to 
+macrophages and monocytes. The A1H3-dependent enhancement of glucosyltransferase 
+activity, cytoskeleton disruption, and tumor necrosis factor alpha production 
+induced by TcdA was further demonstrated using RAW 264.7 cells. Subsequent 
+experiments indicated that the interaction of FcgammaRI with A1H3 underlays the 
+antibody-dependent enhancement of the cellular effects of TcdA. While blocking 
+FcgammaRII and FcgammaRIII with anti-CD16/32 antibodies did not affect the 
+TcdA-mediated glucosylation of Rac1 in RAW 264.7 cells, presaturation of 
+FcgammaRI with anti-CD64 antibodies in THP1 cells significantly reduced this 
+activity. Incubation of a TcdA-A1H3 immune complex with recombinant mouse CD64 
+completely abrogated the A1H3-mediated enhancement of the glucosyltransferase 
+activity of TcdA in RAW 264.7 cells. Moreover, expression of FcgammaRI in CHO 
+cells strikingly enhanced the sensitivity of these cells to TcdA complexed with 
+A1H3. We showed that the presence of A1H3 facilitated cell surface recruitment 
+of TcdA, contributing to the antibody-dependent, FcgammaRI-mediated enhancement 
+of TcdA activity. Finally, studies using chlorpromazine and endosomal 
+acidification inhibitors revealed an important role of the endocytic pathway in 
+the A1H3-dependent enhancement of TcdA activity.

@@ -1,0 +1,21 @@
+BACKGROUND & AIMS: Nearly all human sera contain an immunoglobulin G antibody 
+(antigalactose) that binds the trisaccharide Gal alpha 1-3Gal beta 1-4GlcNAc 
+expressed on cells from most mammals but not humans. Because the Clostridium 
+difficile toxin A receptor in rodents contains this trisaccharide, the aim of 
+this study was to examine whether antigalactose could mimic the enterotoxic 
+effects of toxin A and bind to receptors containing this trisaccharide.
+METHODS: Fluid secretion, [3H]-mannitol permeability, and release of rat mast 
+cell protease II and prostaglandin E2 were measured after luminal exposure of 
+rat colon to either purified human anti-galactose, control immunoglobulin G, 
+toxin A, or buffer.
+RESULTS: Toxin A (5 micrograms) and antigalactose (250 micrograms) but not 
+control immunoglobulin (250 micrograms) stimulated colonic fluid secretion and 
+caused increased mannitol permeability and rat mast cell protease II release. 
+Antigalactose and toxin A and, to a lesser degree, control immunoglobulin G also 
+stimulated release of prostaglandin E2, but only toxin A produced acute 
+inflammation of rat colonic mucosa. Antigalactose and toxin A bound specifically 
+to a single class of colonic brush border receptors with dissociation constants 
+of 10(-6) mol/L and 5.4 x 10(-8) mol/L, respectively.
+CONCLUSIONS: Fluid secretion, increased permeability, and mast cell activation 
+occur in rat colon when toxin A or human antigalactose immunoglobulin G bind to 
+receptors bearing the trisaccharide Gal alpha 1-3Gal beta 1-4GlcNAc.

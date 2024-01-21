@@ -1,0 +1,19 @@
+Rho, Rac, and Cdc42 monomeric GTPases are well known regulators of the actin 
+cytoskeleton and phosphoinositide metabolism and have been implicated in hormone 
+secretion in endocrine cells. Here, we examine their possible implication in 
+Ca(2+)-dependent exocytosis of neurotransmitters. Using subcellular 
+fractionation procedures, we found that RhoA, RhoB, Rac1, and Cdc42 are present 
+in rat brain synaptosomes; however, only Rac1 was associated with highly 
+purified synaptic vesicles. To determine the synaptic function of these GTPases, 
+toxins that impair Rho-related proteins were microinjected into Aplysia neurons. 
+We used lethal toxin from Clostridium sordellii, which inactivates Rac; toxin B 
+from Clostridium difficile, which inactivates Rho, Rac, and Cdc42; and C3 
+exoenzyme from Clostridium botulinum and cytotoxic necrotizing factor 1 from 
+Escherichia coli, which mainly affect Rho. Analysis of the toxin effects on 
+evoked acetylcholine release revealed that a member of the Rho family, most 
+likely Rac1, was implicated in the control of neurotransmitter release. 
+Strikingly, blockage of acetylcholine release by lethal toxin and toxin B could 
+be completely removed in <1 s by high frequency stimulation of nerve terminals. 
+Further characterization of the inhibitory action produced by lethal toxin 
+suggests that Rac1 protein regulates a late step in Ca(2+)-dependent 
+neuroexocytosis.

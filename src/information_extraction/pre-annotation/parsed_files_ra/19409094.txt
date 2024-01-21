@@ -1,0 +1,36 @@
+BACKGROUND: A critical component of disease progression in rheumatoid arthritis 
+(RA) involves neovascularization associated with pannus formation. 
+2-methoxyestradiol (2ME2) is a naturally occurring molecule with no known 
+physiologic function, although at pharmacologic concentrations it has 
+antiproliferative and antiangiogenic activities. We investigated the impact of 
+orally administered 2ME2 on the initiation and development of proliferative 
+synovitis using the anti-collagen monoclonal antibodies (CAIA) model.
+METHODS: Severe polyarticular arthritis was induced in Balb/c female mice by 
+administration of 2 mg of a monoclonal antibody cocktail intravenously into the 
+tail vein of mice. Twenty-four hours following monoclonal antibody 
+administration, mice were injected with 25 microg of LPS (E. coli strain 
+0111:B4) via the intraperitoneal route. Treatment with 2ME2 (100, 75, 50, 25, 
+10, 1 mg/kg, p.o., daily), or vehicle control began 24 hrs following LPS 
+challenge and continued to day 21. Hind limbs were harvested, sectioned and 
+evaluated for DMARD activity and general histopathology by histomorphometric 
+analysis and immunohistochemistry (vWF staining). In a separate study, different 
+dosing regimens of 2ME2 (100 mg/kg; q.d. vs q.w. vs q.w. x 2) were evaluated. 
+The effect of treatment with 2ME2 on gene expression of inflammatory cytokines 
+and angiogenic growth factors in the joint space was evaluated 5 and 14 days 
+after the induction of arthritis.
+RESULTS: Mice treated with 2ME2 beginning 24 hours post anti-collagen monoclonal 
+antibody injection, showed a dose-dependent inhibition in mean arthritic scores. 
+At study termination (day 21), blinded histomorphometric assessments of 
+sectioned hind limbs demonstrated decreases in synovial inflammation, articular 
+cartilage degradation, pannus formation, osteoclast activity and bone 
+resorption. At the maximal efficacious dosing regimen (100 mg/kg/day), 
+administration of 2ME2 resulted in total inhibition of the study parameters and 
+prevented neovascularization into the joint. Examination of gene expression on 
+dissected hind limbs from mice treated for 5 or 14 days with 2ME2 showed 
+inhibition of inflammatory cytokine message for IL-1beta, TNF-alpha, IL-6 and 
+IL-17, as well as the angiogenic cytokines, VEGF and FGF-2.
+CONCLUSION: These data demonstrate that in the CAIA mouse model of RA, 2ME2 has 
+disease modifying activity that is at least partially attributable to the 
+inhibition of neovascular development. Further, the data suggests new 
+mechanistic points of intervention for 2ME2 in RA, specifically inhibition of 
+inflammatory mediators and osteoclast activity.

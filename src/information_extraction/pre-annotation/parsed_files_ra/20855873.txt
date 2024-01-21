@@ -1,0 +1,20 @@
+Although calreticulin (CRT) is a major Ca(2+)-binding luminal resident protein, 
+it can also appear on the surface of various types of cells and it functions as 
+an immunopotentiating molecule. However, molecular mechanisms underlying the 
+potent immunobiological activity of cell surface CRT are still unclear. In the 
+present study, a recombinant fragment (rCRT/39-272) covering the lectin-like N 
+domain and partial P domain of murine CRT has been expressed in Escherichia 
+coli. The affinity-purified rCRT/39-272 assembles into homodimers and oligomers 
+in solution and exhibits high binding affinity to various glycans, including 
+carrageenan, alginic acids, and hyaluronic acids. Functionally, rCRT/39-272 is 
+capable of driving the activation and maturation of B cells and cytokine 
+production by macrophages in a TLR-4-dependent manner in vitro. It specifically 
+binds recombinant mouse CD14, but not BAFFR and CD40. It is also able to trigger 
+Ig class switching by B cells in the absence of T cell help both in vitro and in 
+vivo. Furthermore, this fragment of CRT exhibits strong adjuvanticity when 
+conjugated to polysaccharides or expressed as part of a fusion protein. Soluble 
+CRT can be detected in the sera of patients with rheumatoid arthritis or 
+systemic lupus erythematosus, but not in healthy subjects. We argue that CRT, 
+either on the membrane surface of cells or in soluble form, is a potent 
+stimulatory molecule to B cells and macrophages via the TLR-4/CD14 pathway and 
+plays important roles in the pathogenesis of autoimmune diseases.

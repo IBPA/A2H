@@ -1,0 +1,16 @@
+Clostridium difficile is a clinically important pathogen and the most common 
+cause of hospital-acquired infectious diarrhea. Expression of the C. difficile 
+gene csfV, which encodes σ(V), an extracytoplasmic function σ factor, is induced 
+by lysozyme, which damages the peptidoglycan of bacteria. Here we show that σ(V) 
+is required for lysozyme resistance in C. difficile. Using microarray analysis, 
+we identified the C. difficile genes whose expression is dependent upon σ(V) and 
+is induced by lysozyme. Although the peptidoglycan of wild-type C. difficile is 
+intrinsically highly deacetylated, we have found that exposure to lysozyme leads 
+to additional peptidoglycan deacetylation. This lysozyme-induced deacetylation 
+is dependent upon σ(V). Expression of pdaV, which encodes a putative 
+peptidoglycan deacetylase, was able to increase lysozyme resistance of a csfV 
+mutant. The csfV mutant strain is severely attenuated compared to wild-type C. 
+difficile in a hamster model of C. difficile-associated disease. We conclude 
+that the σ(V) signal transduction system, which senses the host innate immune 
+defense enzyme lysozyme, is required for lysozyme resistance and is necessary 
+during C. difficile infection.

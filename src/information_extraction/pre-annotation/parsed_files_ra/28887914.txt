@@ -1,0 +1,26 @@
+BACKGROUND: Immunodysregulation polyendocrinopathy enteropathy X-linked syndrome 
+(IPEX) is a lethal autoimmune disease caused by mutations in the Foxp3 gene 
+scurfin (scurfy). Immunosuppressive therapy for IPEX patients has been generally 
+ineffective and has caused severe side effects, however curcumin has shown 
+immune regulation properties for inflammatory diseases, such as rheumatoid 
+arthritis, psoriasis, and inflammatory bowel diseases without side effects.
+OBJECTIVE: The aim of this study was to investigate whether curcumin would 
+attenuate symptoms of IPEX in mouse model and would prolong its survival period.
+METHODS: C57BL/6 mice were separated into scurfy or wild-type litter mate groups 
+by genotyping, and each group subsequently was separated into 2 subgroups that 
+were fed a 1% curcumin containing or normal diet from the last day of 
+breast-feeding. After weaning, pups were fed either a 1% curcumin containing or 
+normal diet until all scurfy mice die for survival data. To elucidate immune 
+cell proportions in spleen and lymph nodes, cells were analyzed by 
+flowcytometry. Cellular cytokine production was accessed to investigate the 
+effects of curcumin in T cell differentiation in vitro.
+RESULTS: Scurfy mice fed a 1% curcumin diet survived 4.0-fold longer compared to 
+scurfy (92.5 days) mice fed a normal diet (23 days). A curcumin diet decreased 
+all of the Th1/Th2/Th17 cell populations and attenuated diverse symptoms such as 
+splenomegaly in scurfy mice. In vitro experiments showed that curcumin treatment 
+directly decreased the Th1/Th2/Th17 cytokine production of IFN-γ, IL-4, and 
+IL-17A in CD4+ T cells.
+CONCLUSIONS: Curcumin diet attenuated the scurfy-induced immune disorder, a 
+model of IPEX syndrome, by inhibiting Th1/Th2/Th17 responses in mice. These 
+results have implications for improving clinical therapy for patients with IPEX 
+and other T cell related autoimmune diseases.

@@ -1,0 +1,13 @@
+The collagen-induced arthritis (CIA) mouse model is the most commonly studied 
+autoimmune model of rheumatoid arthritis. Autoimmune arthritis is induced in 
+this model by immunization with an emulsion of complete Freund's adjuvant and 
+type II collagen (CII). This protocol describes the steps necessary for 
+acquisition, handling and preparation of CII, as well as selection of mouse 
+strains, proper immunization technique and evaluation of the arthritis incidence 
+and severity. Typically, the first signs of arthritis appear in this model 21-28 
+days after immunization, and identification of the arthritic limbs is not 
+difficult. Using the protocol described, the investigator should be able to 
+reproducibly induce a high incidence of CIA in various strains of genetically 
+susceptible mice as well as learn how to critically evaluate the pathology of 
+the disease. The total time for the preparation of reagents and the immunization 
+of ten mice is about 1.5 h.

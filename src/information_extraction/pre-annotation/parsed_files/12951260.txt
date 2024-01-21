@@ -1,0 +1,12 @@
+Clostridium difficile and Clostridium perfringens type A are infectious agents 
+of enteric diseases. The main virulence factors of these microorganisms include 
+toxins A and B of C. difficile (ToxA and ToxB) and enterotoxin of C. perfringens 
+(Cpe). In this study genetic constructions have been created for the expression 
+of ToxA, ToxB and Cpe fragments either as individual components or as a hybrid 
+multidomain (ToxA-ToxB-Cpe) protein. Rabbit monospecific sera raised against 
+individual peptides reacted with the chimeric product indicating that the 
+corresponding antigenic determinants were correctly expressed on the hybrid 
+molecule. Furthermore, mice immunized with the fusion protein produced 
+antibodies specific to each of the three separate components. These data suggest 
+that the constructed three-domain molecule could be used in future studies for 
+development of a vaccine against enteric clostridial diseases.

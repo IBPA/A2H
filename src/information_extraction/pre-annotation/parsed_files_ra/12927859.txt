@@ -1,0 +1,12 @@
+Two protected derivatives of beta-D-galactopyranosyl-5-hydroxy-L-lysine, in 
+which HO-4 of galactose has been O-methylated or replaced by fluorine, have been 
+prepared. The building blocks were incorporated at position 264 of the peptide 
+fragment CII259-273 from type II collagen by solid-phase synthesis. The ability 
+of these two glycopeptides, and two CII259-273 glycopeptides in which HO-4 of 
+galactose was either unmodified or deoxygenated, to elicit responses from T-cell 
+hybridomas obtained in a mouse model for rheumatoid arthritis was then 
+determined. The hybridomas were all highly sensitive towards modifications at 
+C-4 of the beta-D-galactosyl residue of CII259-273, highlighting the role of 
+HO-4 as an important contact point for the T-cell receptor. Most likely, this 
+glycopeptide hydroxyl group is involved in hydrogen bonding with the T-cell 
+receptor.

@@ -1,0 +1,13 @@
+Rheumatoid arthritis (RA) is an autoimmune disease, the pathogenesis of which is 
+affected by multiple genetic and environmental factors. To understand the 
+genetic and molecular basis of RA, a large number of quantitative trait loci 
+(QTL) that regulate experimental autoimmune arthritis have been identified using 
+various rat models for RA. However, identifying the particular responsible genes 
+within these QTL remains a major challenge. Using currently available genome 
+data and gene annotation information, we systematically examined RA-associated 
+genes and polymorphisms within and outside QTL over the whole rat genome. By the 
+whole genome analysis of genes and polymorphisms, we found that there are 
+significantly more RA-associated genes in QTL regions as contrasted with non-QTL 
+regions. Further experimental studies are necessary to determine whether these 
+known RA-associated genes or polymorphisms are genetic components causing the 
+QTL effect.

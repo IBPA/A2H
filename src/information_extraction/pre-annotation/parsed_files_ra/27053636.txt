@@ -1,0 +1,31 @@
+OBJECTIVES: To determine the effect of etanercept on endothelial dysfunction and 
+on traditional cardiovascular (CV) risk factors in the adjuvant-induced 
+arthritis (AIA) rat model.
+METHODS: At the first signs of arthritis, etanercept (10 mg/kg/3 days, s.c.) or 
+saline was administered for 3 weeks in AIA rats. Body weights and arthritis 
+scores were monitored daily. Endothelial function was studied in aortic rings 
+relaxed with acetylcholine (Ach) with or without inhibitors of nitric oxide 
+synthase (NOS), cyclo-oxygenase (COX-2), arginase, endothelium-derived 
+hyperpolarizing factor and superoxide anions (O2 (-)°) production. Aortic 
+expression of endothelial nitic oxide synthase (eNOS), Ser1177-phospho-eNOS, 
+COX-2, arginase-2, p22(phox) and p47(phox) was evaluated by western blotting 
+analysis. Blood pressure, heart rate and blood levels of triglycerides, 
+cholesterol and glucose were measured.
+RESULTS: Etanercept significantly reduced arthritis score (P < 0.001). It 
+improved Ach-induced relaxation (P < 0.05) as a result of increased NOS 
+activity, decreased COX-2/arginase activities and decreased O2 (-)° production. 
+These functional effects relied on increased eNOS expression and 
+phosphorylation, and decreased COX-2, arginase-2 and p22(phox) expressions. No 
+correlation was found between arthritis score and Ach-induced relaxation. The 
+treatment did not change triglycerides, cholesterol and glucose levels, but 
+significantly increased systolic blood pressure and heart rate (P < 0.05).
+CONCLUSION: Our data demonstrated that efficient dosage of etanercept on 
+inflammatory symptoms improved endothelial function in AIA. This beneficial 
+effect on endothelial function is disconnected from its impact on CV risk 
+factors and relates to pleiotropic effects of etanercept on endothelial 
+pathways. These results suggest that etanercept could be a good choice for 
+patients with rheumatoid arthritis at high risk of CV events.
+
+© The Author 2016. Published by Oxford University Press on behalf of the British 
+Society for Rheumatology. All rights reserved. For Permissions, please email: 
+journals.permissions@oup.com.

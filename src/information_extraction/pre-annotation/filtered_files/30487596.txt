@@ -1,0 +1,21 @@
+Rheumatoid arthritis is an autoimmune disease with a poor prognosis. Pyroptosis 
+is a type of proinflammatory programmed cell death that is characterised by the 
+activation of caspase-1 and secretion of the proinflammatory cytokines 
+interleukin (IL)-1β/18. Previous reports have shown that pyroptosis is closely 
+related to the development of some autoimmune diseases, such as rheumatoid 
+arthritis. The decrease in the pH of joint fluid is a main pathogenic feature of 
+RA and leads to excessive apoptosis in chondrocytes. Acid-sensitive ion channels 
+(ASICs) are extracellular H+-activated cation channels that mainly influence Na+ 
+and Ca2+ permeability. In this study, we investigated the role of Ca2+ in 
+acid-sensing ion channel 1a-mediated chondrocyte pyroptosis in an adjuvant 
+arthritis rat model. The expression of apoptosis-associated speck-like protein, 
+NLRP3, caspase-1, ASIC 1a, IL-1β and IL-18 was upregulated in the joints of rats 
+compared with that in normal rats, but the expression of Col2a in cartilage was 
+decreased. However, these changes were reversed by amiloride, which is an 
+inhibitor of ASIC1a. Extracellular acidosis significantly increased the 
+expression of ASIC1a, IL-1β, IL-18, ASC, NLRP3 and caspase-1 and promoted the 
+release of lactate dehydrogenase. Interestingly, Psalmotoxin-1 (Pctx-1) and 
+BAPTA-AM inhibited these effects. These results indicate that ASIC1a mediates 
+pyroptosis in chondrocytes from AA rats. The underlying mechanism may be 
+associated with the ability of ASIC1a to promote [Ca2+]i and upregulate the 
+expression of the NLRP3 inflammasome.

@@ -1,0 +1,19 @@
+Five analogues of the bovine type II collagen (bCII) immunodominant glycopeptide 
+[beta-D-Gal-(5R)-5-Hyl264]CII(256-270) (1) carrying diverse modifications at the 
+critical hydroxylysine (Hyl) 264 side chain were designed and synthesised, to 
+explore the fine specificity of bCII-reactive T cells involved in the initiation 
+and/or regulation of collagen-induced arthritis (CIA), a mouse model for 
+rheumatoid arthritis (RA). Beta-D-galactosyl-(5R)-5-hydroxy-L-lysine (19) and 
+corresponding mimetics (22-25), conveniently protected for solid-phase 
+synthesis, were all obtained by a divergent route involving enantiopure 
+5-hydroxylated 6-oxo-1,2-piperidinedicarboxylates as the key intermediates. All 
+three bCII-specific T hybridomas used, as well as a recurrent pathogenic CD4+ 
+T-cell clone isolated from bCII-immunised DBA/1 mice, recognised the 
+galactosylated form 1 of the immunodominant bCII (256-270) epitope. These cells 
+were extremely sensitive to changes at the epsilon-amino group of Hyl264, but 
+differed in their pattern of recognition of analogues with a Hyl264 side chain 
+modified at C-5 (i.e. inversion of stereochemistry, methylation). These data 
+further document the importance of collagen post-translational modifications in 
+autoimmunity and in the CIA model in particular, and provide a new insight into 
+the molecular interaction between glycopeptide 1 and the TCR of pathogenic T 
+cells.

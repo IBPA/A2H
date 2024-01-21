@@ -1,0 +1,24 @@
+Studies of PECAM-1(-/-) mice have identified that PECAM-1 functions as an 
+inhibitory co-receptor to modulate immunological responsiveness. In this study, 
+we describe the in vivo consequences of PECAM-1 deficiency in mouse models of 
+collagen-induced arthritis (CIA) and K/BxN passive transfer model that resembles 
+many of the features of human rheumatoid arthritis. Immunization of PECAM-1(-/-) 
+C57BL/6 (H-2b) mice with chicken collagen type II induced CIA with an incidence 
+of 82% by day 49, while 33%; of wild-type and 100% of DBA/1 mice developed 
+arthritis in a similar time frame. The mean onset of disease for PECAM-1(-/-) 
+C57BL/6 mice was day 32 compared to day 51 for wild-type C57BL/6 mice and day 18 
+for DBA/1 mice (H-2q susceptible). In terms of disease severity, the mean 
+maximal arthritic index for PECAM-1(-/-) C57BL/6 mice was comparable to DBA/1 
+mice (8.91 +/- 0.91 vs 11.67 +/- 0.82). This mean maximal index in PECAM-1(-/-) 
+C57BL/6 mice was significantly higher than wild-type C57BL/6 mice (5.00 +/- 
+0.73). IgG1 and IgG2b antibody responses against CII were elevated in arthritic 
+PECAM-1(-/-) C57BL/6 mice compared to wild-type C57BL/6 mice. Histological 
+examination of arthritic paws of PECAM-1(-/-) C57BL/6 mice revealed inflammatory 
+infiltrates of lymphocytic/monocytic cells and cartilage/bone destruction 
+similar to CIA-induced DBA/1 arthritic paws. In the K/BxN model, the arthritis 
+was not augmented in PECAM-1(-/-) mice compared to wild-type mice. In contrast, 
+in active CIA, PECAM-1(-/-) mice developed severe disease comparable to 
+susceptible DBA/1 mice and profoundly more severe than C57BL/6 mice, where only 
+one third developed a mild/moderate disease. Together these observations suggest 
+that PECAM-1 plays a crucial role in the suppression of development of 
+autoimmune arthritis.

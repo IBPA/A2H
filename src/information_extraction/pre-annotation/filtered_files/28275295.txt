@@ -1,0 +1,25 @@
+AIM: To develop a colon-targeting bioreversible delivery system for β-boswellic 
+acid (BBA) and explore utility of its prodrugs in 2,4,6-trinitrobenzene sulfonic 
+acid (TNBS)-induced colitis in rats.
+METHODS: Synthesis of 4 co-drugs of BBA with essential amino acids was achieved 
+by CDI coupling, followed by their spectral characterization. In vitro kinetics 
+were studied by HPLC in aqueous buffers, homogenates of gastrointestinal tract 
+and fecal matter. In vivo kinetic studies were performed in Wistar rat plasma, 
+urine and feces. The prodrugs were screened in TNBS-induced colitis modeled 
+Wistar rats. Statistical significance was assumed at P < 0.05, P < 0.01, P < 
+0.001 when compared with disease controls using one-way and two-way ANOVAs.
+RESULTS: Prodrugs were stable in 0.05 mol/L HCl buffer (pH 1.2) and stomach 
+homogenates. Negligible hydrolysis was observed in phosphate buffer and 
+intestinal homogenates. Substantial release (55%-72% and 68%-86%) of BBA was 
+achieved in rat fecal matter and homogenates of colon. In vivo studies of BBA 
+with L-tryptophan (BT) authenticated colon-specific release of BBA. But, 
+surprisingly substantial concentration of BBA was seen to reach the systemic 
+circulation due to probable absorption through colonic mucosa. Site-specifically 
+enhanced bioavailability of BBA could be achieved in colon, which resulted in 
+demonstration of significant mitigating effect on TNBS-induced colitis in rats 
+without inducing any adverse effects on stomach, liver and pancreas. Prodrug of 
+BT was found to be 1.7% (P < 0.001) superior than sulfasalazine in reducing the 
+inflammation to colon among all prodrugs tested.
+CONCLUSION: The outcome of this study strongly suggests that these prodrugs 
+might have dual applicability to inflammatory bowel disease and chronotherapy of 
+rheumatoid arthritis.

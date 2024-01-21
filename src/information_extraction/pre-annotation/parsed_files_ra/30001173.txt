@@ -1,0 +1,23 @@
+Autoantibodies against alpha-enolase (ENO1) are often detected in various 
+infectious and autoimmune diseases. Anti-ENO1 antibody titers were reported to 
+be associated with the severity of periodontitis in patients with rheumatoid 
+arthritis. Because the enolase of the periodontal pathogen Treponema denticola 
+(TdEno) has the highest homology with ENO1 among the enolases of 
+human-associated bacteria, we hypothesized that anti-ENO1 autoantibodies 
+produced during the immune response to TdEno may contribute to the progression 
+of periodontitis and tested it in human and mouse systems. In human subjects 
+with healthy periodontium or chronic periodontitis, a strong positive 
+correlation between the levels of anti-TdEno and anti-ENO1 antibodies was 
+observed. In addition, the purified anti-TdEno antibodies recognized ENO1 as 
+well as TdEno in a dot blot, confirming the cross-reactivity between TdEno and 
+ENO1. However, anti-ENO1 antibody titers were not associated with the severity 
+of periodontitis. To further investigate the role of TdEno in the production of 
+anti-ENO1 antibodies and the progression of periodontitis, mice received an oral 
+gavage of P. gingivalis alone, subcutaneous immunization with TdEno alone, or 
+both P. gingivalis oral gavage and TdEno immunization. Immunization with TdEno 
+induced not only anti-TdEno but also anti-mouse Eno1 (mEno1) antibodies and 
+increased the expression of TNFα in the gingival tissues. However, alveolar bone 
+loss was not increased by TdEno immunization. In conclusion, autoreactive 
+anti-ENO1/mEno1 antibodies that are produced as byproducts during the antibody 
+response to TdEno play a minimal role in the progression of periodontitis in the 
+absence of rheumatoid arthritis.

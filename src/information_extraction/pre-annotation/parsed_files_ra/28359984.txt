@@ -1,0 +1,16 @@
+Rheumatoid arthritis (RA), a chronic systemic inflammatory disorder affects many 
+adults. Sinomenine, a natural product, has been clinically available for the 
+treatment of RA in China. SND-117, a sinomenine derivative with much more potent 
+activity, might serve as a candidate for anti-arthritis. The aim of the present 
+study was to develop a sensitive and rapid high performance liquid 
+chromatography tandem mass spectrometry (HPLC-MS/MS) method for quantification 
+of SND-117 in rat plasma and to understand its absolute bioavailability. The 
+HPLC-MS/MS method was developed and fully validated for determination of SND-117 
+in rat plasma, and the pharmacokinetic differences were investigated after 
+different administration routes. The pharmacokinetics parameters were calculated 
+by non-compartment model with DAS 3.0 software. After the oral or intravenous 
+administration of different doses of SND-117, the time to peak is 1.5h, 
+half-life time is 8-10h. The absolute oral bioavailability of SND-117 in rats 
+was 9.60%. The results showed that SND-117 in rats was quickly absorbed, slowly 
+eliminate, and the kinetics were linear. This method was suitable for 
+pharmacokinetic studies of SNA-117 in rats.

@@ -1,0 +1,12 @@
+Collagen-induced arthritis is a well-validated, but strain-dependent mouse model 
+of rheumatoid arthritis, with H-2(q) and H-2(r) strains showing the greatest 
+degree of susceptibility. This protocol describes the induction of arthritis in 
+the C57BL/6 strain (H-2(b)), which forms the genetic background of the majority 
+of genetically modified strains. This protocol involves purification of type II 
+collagen from chicken sternums, immunization of mice, clinical assessment of 
+arthritis and analysis of T- and B-cell responses to type II collagen. Key 
+aspects of the protocol are the need to use chicken collagen for immunization 
+and the importance of avoiding aggressive behavior in males. The incidence of 
+arthritis varies from 50 to 80% and is milder than the classical 
+collagen-induced arthritis model. This procedure takes approximately 3 months to 
+complete.

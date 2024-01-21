@@ -1,0 +1,26 @@
+OBJECTIVE: Synovial cells in rheumatoid synovium display abnormal proliferation, 
+which leads to joint destruction. TRAIL has been described as a proapoptotic 
+factor in fibroblast-like synoviocytes (FLS). This study was undertaken to 
+investigate the functions of rAAV2/5-TRAIL in human FLS and in arthritic mice.
+METHODS: Primary human FLS were infected with rAAV2/5-TRAIL in the presence or 
+absence of epirubicin. Transgene expression was monitored by both enzyme-linked 
+immunosorbent assay and flow cytometry. The disease-modulating activity of 
+epirubicin plus rAAV2/5-TRAIL was investigated in mice with collagen-induced 
+arthritis (CIA).
+RESULTS: Subtoxic doses of epirubicin potentiated rAAV2/5-mediated TRAIL 
+expression in FLS and simultaneously enhanced the sensitivity of FLS to TRAIL. 
+Epirubicin treatment up-regulated death receptor 4 (DR-4) and DR-5 expression 
+and down-regulated FLIP expression, thereby enhancing the activation of 
+procaspase 3, procaspase 8, and procaspase 9. An in vivo study showed that the 
+combination of rAAV2/5-TRAIL gene therapy and epirubicin chemotherapy provided 
+augmented antiarthritic effects in a mouse model of CIA. The intraarticular 
+injection of rAAV2/5-TRAIL combined with epirubicin treatment significantly 
+reduced the severity and incidence of CIA and joint swelling in the animals. 
+Histologic evaluations revealed that inflammatory cell infiltration, cartilage 
+destruction, and bone erosion were significantly reduced in the joints of the 
+mice receiving the synthetic treatment. Results of a viral genome copy number 
+assay indicated that epirubicin dramatically augmented the expression of 
+rAAV2/5-TRAIL without altering its tissue distribution.
+CONCLUSION: These results suggest that epirubicin enhances the antiarthritic 
+effect of rAAV2/5-TRAIL and that combination treatment might be an important 
+therapeutic alternative, with practical significance for rheumatoid arthritis.

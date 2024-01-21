@@ -1,0 +1,35 @@
+BACKGROUND: Anemone flaccida Fr . Schmidt (Ranunculaceae) (Di Wu in Chinese) is 
+used to treat punch injury and rheumatoid arthritis (RA). However, the active 
+compounds and underlying mechanism of action mediating the anti-arthritic 
+effects of A. flaccida remain unclear. This study aims to evaluate the 
+underlying action mechanism of A. flaccida crude triterpenoid saponins (AFS) on 
+RA using a type II collagen (CII)-induced arthritis (CIA) rat model, and to 
+assess the anti-inflammatory effects of the main active compounds of AFS, namely 
+flaccidoside II, anhuienoside E, glycoside St-I4a, hemsgiganoside B, 
+hederasaponin B, and 3-O-α-l-rhamnopyranosyl (1 → 2)-β-d-glucopyranosyl 
+oleanolic acid 28-O-β-d-glucopyranosyl (1 → 6)-β-d-glucopyranosyl ester.
+METHODS: Male Wistar rats (n = 50) were randomly separated into five groups 
+(n = 10) and immunized by CII injection. AFS (200 or 400 mg/kg) and 
+dexamethasone were orally administered for 30 days after establishing the model. 
+The arthritis severity was assessed by paw volume using a plethysmometer. After 
+30 days of treatment, the right hind paws of the rats were obtained. Paw 
+histology was analyzed by hematoxylin and eosin staining, and radiologic imaging 
+was performed by micro-computed tomography. MTT assays were used to evaluate the 
+cytotoxicity of AFS and its main compounds in RAW264.7 cells. Enzyme-linked 
+immunosorbent assay kits were used to measure interleukin (IL)-6 and tumor 
+necrosis factor (TNF)-α in serum and supernatants from AFS- and main AFS 
+compound-treated RAW264.7 cells stimulated by lipopolysaccharide (LPS).
+RESULTS: Anemone flaccida crude triterpenoid saponins inhibited redness and 
+swelling of the right hind paw in the CIA model. Radiological and histological 
+examinations indicated that inflammatory responses were reduced by AFS 
+treatment. Moreover, comparing with untreated rats, serum TNF-α (P = 0.0035 and 
+P < 0.001) and IL-6 (P = 0.0058 and P = 0.0087) were lower in AFS-treated CIA 
+rats at the dose of 200 and 400 mg/kg/day. AFS and its main compounds, including 
+hederasaponin B, flaccidoside II, and hemsgiganoside B, significantly inhibited 
+TNF-α (P = 0.0022, P = 0.013, P = 0.0015, and P = 0.016) and IL-6 (P = 0.0175, 
+P < 0.001, P < 0.001, and P < 0.001) production in LPS-treated RAW264.7 cells, 
+respectively.
+CONCLUSIONS: Anemone flaccida crude triterpenoid saponins and its main bioactive 
+components, including hederasaponin B, flaccidoside II, and hemsgiganoside B, 
+decreased pro-inflammatory cytokine levels in a CIA rat model and LPS-induced 
+RAW264.7 cells.

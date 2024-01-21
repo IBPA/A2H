@@ -1,0 +1,27 @@
+Antimicrobial-resistant and novel pathogens continue to emerge, outpacing 
+efforts to contain and treat them. Therefore, there is a crucial need for safe 
+and effective therapies. Ultraviolet-A (UVA) phototherapy is FDA-approved for 
+several dermatological diseases but not for internal applications. We 
+investigated UVA effects on human cells in vitro, mouse colonic tissue in vivo, 
+and UVA efficacy against bacteria, yeast, coxsackievirus group B and 
+coronavirus-229E. Several pathogens and virally transfected human cells were 
+exposed to a series of specific UVA exposure regimens. HeLa, alveolar and 
+primary human tracheal epithelial cell viability was assessed after UVA 
+exposure, and 8-Oxo-2'-deoxyguanosine was measured as an oxidative DNA damage 
+marker. Furthermore, wild-type mice were exposed to intracolonic UVA as an in 
+vivo model to assess safety of internal UVA exposure. Controlled UVA exposure 
+yielded significant reductions in Pseudomonas aeruginosa, Klebsiella pneumoniae, 
+Escherichia coli, Enterococcus faecalis, Clostridioides difficile, Streptococcus 
+pyogenes, Staphylococcus epidermidis, Proteus mirabilis and Candida albicans. 
+UVA-treated coxsackievirus-transfected HeLa cells exhibited significantly 
+increased cell survival compared to controls. UVA-treated 
+coronavirus-229E-transfected tracheal cells exhibited significant coronavirus 
+spike protein reduction, increased mitochondrial antiviral-signaling protein and 
+decreased coronavirus-229E-induced cell death. Specific controlled UVA exposure 
+had no significant effect on growth or 8-Oxo-2'-deoxyguanosine levels in three 
+types of human cells. Single or repeated in vivo intraluminal UVA exposure 
+produced no discernible endoscopic, histologic or dysplastic changes in mice. 
+These findings suggest that, under specific conditions, UVA reduces various 
+pathogens including coronavirus-229E, and may provide a safe and effective 
+treatment for infectious diseases of internal viscera. Clinical studies are 
+warranted to further elucidate the safety and efficacy of UVA in humans.

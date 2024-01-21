@@ -1,0 +1,25 @@
+The deposition of IgG autoantibodies in peripheral tissues and the subsequent 
+activation of the complement system, which leads to the accumulation of the 
+anaphylatoxin C5a in these tissues, is a common hallmark of diverse autoimmune 
+diseases, including rheumatoid arthritis (RA) and pemphigoid diseases (PDs). C5a 
+is a potent chemoattractant for granulocytes and mice deficient in its precursor 
+C5 or its receptor C5aR1 are resistant to granulocyte recruitment and, 
+consequently, to tissue inflammation in several models of autoimmune diseases. 
+However, the mechanism whereby C5a/C5aR regulates granulocyte recruitment in 
+these diseases has remained elusive. Mechanistic studies over the past five 
+years into the role of C5a/C5aR1 in the K/BxN serum arthritis mouse model have 
+provided novel insights into the mechanisms C5a/C5aR1 engages to initiate 
+granulocyte recruitment into the joint. It is now established that the critical 
+actions of C5a/C5aR1 do not proceed in the joint itself, but on the luminal 
+endothelial surface of the joint vasculature, where C5a/C5aR1 mediate the arrest 
+of neutrophils on the endothelium by activating β2 integrin. Then, C5a/C5aR1 
+induces the release of leukotriene B4 (LTB4) from the arrested neutrophils. The 
+latter, subsequently, initiates by autocrine/paracrine actions via its receptor 
+BLT1 the egress of neutrophils from the blood vessel lumen into the 
+interstitial. Compelling evidence suggests that this C5a/C5aR1-LTB4/BLT1 axis 
+driving granulocyte recruitment in arthritis may represent a more generalizable 
+biological principle critically regulating effector cell recruitment in other 
+IgG autoantibody-induced diseases, such as in pemphigoid diseases. Thus, dual 
+inhibition of C5a and LTB4, as implemented in nature by the lipocalin coversin 
+in the soft-tick Ornithodoros moubata, may constitute a most effective 
+therapeutic principle for the treatment of IgG autoantibody-driven diseases.

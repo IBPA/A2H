@@ -1,0 +1,15 @@
+A single nucleotide polymorphism in PTPN22 (R620W), which encodes the Lyp 
+tyrosine phosphatase, has been linked to a number of autoimmune diseases 
+including type 1 diabetes, rheumatoid arthritis, and systemic lupus 
+erythematosus. Studies in PTPN22 knockout (KO) mice and in mice expressing the 
+mouse homolog of the pro-autoimmune allele, PEP(R619W), have reported increased 
+germinal center activity and enhanced Ab production. In this article, we present 
+findings that explain the basis for increased germinal center activity in PTPN22 
+mutant mice. As compared with their wild type equivalents, T follicular helper 
+cells from PTPN22 KO mice proliferate and accumulate to a greater extent, and 
+exhibit enhanced production of IL-21. The follicular regulatory T cells in 
+PTPN22 KO mice do not expand to effectively regulate these T follicular helper 
+cells, resulting in an increase in B cell numbers and Ab production. This is 
+evident in the KBxN mouse model of arthritis in which PTPN22 deficiency results 
+in increased severity of disease. Our findings demonstrate the importance of 
+cell type-specific PTPN22 activity on regulation of Ab production.

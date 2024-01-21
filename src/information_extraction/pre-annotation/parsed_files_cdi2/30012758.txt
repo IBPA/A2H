@@ -1,0 +1,18 @@
+Clostridium difficile infection (CDI) is the leading cause of 
+antibiotic-associated diarrhea and has gained worldwide notoriety due to 
+emerging hypervirulent strains and the high incidence of recurrence. We 
+previously reported protection of mice from CDI using the antigerminant bile 
+salt analog CamSA. Here we describe the effects of CamSA in the hamster model of 
+CDI. CamSA treatment of hamsters showed no toxicity and did not affect the 
+richness or diversity of gut microbiota; however, minor changes in community 
+composition were observed. Treatment of C. difficile-challenged hamsters with 
+CamSA doubled the mean time to death, compared to control hamsters. However, 
+CamSA alone was insufficient to prevent CDI in hamsters. CamSA in conjunction 
+with suboptimal concentrations of vancomycin led to complete protection from CDI 
+in 70% of animals. Protected animals remained disease-free at least 30 days 
+postchallenge and showed no signs of colonic tissue damage. In a 
+delayed-treatment model of hamster CDI, CamSA was unable to prevent infection 
+signs and death. These data support a putative model in which CamSA reduces the 
+number of germinating C. difficile spores but does not keep all of the spores 
+from germinating. Vancomycin halts division of any vegetative cells that are 
+able to grow from spores that escape CamSA.

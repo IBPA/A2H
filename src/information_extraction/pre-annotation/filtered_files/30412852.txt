@@ -1,0 +1,22 @@
+Periarticular osteopenia is the most specific hallmark of rheumatoid arthritis 
+(RA). The renin-angiotensin system (RAS) in the synovium has been found to 
+participate in the pathogenic process of RA. This study examined whether and how 
+RAS regulates periarticular osteopenia in RA. The synovial tissues from patients 
+with RA and osteoarthritis (OA) were prepared. Female Sprague-Dawley rats were 
+treated with either saline, bovine type II collagen (CII) to induce arthritis 
+(CIA), or CII combined with perindopril, an inhibitor of angiotensin-converting 
+enzyme (ACE). Expressions of RAS components, including AT1R, AT2R and ACE, in 
+human and rat synovial tissues were detected. Bone mass of rat joints was 
+examined. Levels of RANKL, OPG and DKK-1 in rat synovium and expressions of 
+TRAF6 and β-catenin in rat bone were examined. The results showed that AT1R, 
+AT2R and ACE in human and rat synovium were up-regulated, but the increased ACE 
+in rat synovial tissues was abrogated by perindopril. While CIA rats displayed 
+increased bone resorption and decreased bone formation, perindopril treatment 
+almost completely abrogated the RAS-mediated osteopenia, indicating that 
+inhibition of ACE reduced the joint damages in rats. The expressions of RANKL 
+and DKK-1 increased in CIA rats as compared with those in the control; TRAF6 was 
+up-regulated and β-catenin was down-regulated in the bone tissues of CIA rats. 
+The changes were then reversed by the use of perindopril. Our findings 
+demonstrate that RAS in the synovium promotes periarticular osteopenia by 
+increasing bone resorption and decreasing bone formation through modulating the 
+RANKL/RANK/TRAF6 and Wnt/β-catenin pathways.

@@ -1,0 +1,18 @@
+Osteoclasts are responsible for bone erosion in diseases as diverse as 
+osteoporosis, periodontitis, and rheumatoid arthritis. Antifungal products have 
+received recent attention as potential therapeutic and preventative drugs in 
+human disease. Since little is known about the action of miconazole, an 
+antifungal imidazole, on bone metabolism, we investigated the effects of 
+miconazole on osteoclast formation using mouse bone marrow macrophages (BMMs). 
+Miconazole inhibited RANKL-induced osteoclast formation in a dose-dependent 
+manner without cytotoxicity. Furthermore, miconazole inhibited the bone 
+resorptive activity of osteoclasts. Miconazole suppressed RANKL-induced 
+expression of c-Fos and NFATc1, two essential transcription factors for 
+osteoclast differentiation. Miconazole seemed to inhibit osteoclast formation 
+MAPK pathways as well as Blimp1 through MafB expression. Miconazole also 
+inhibited RANKL-induced expression of the pro-inflammatory cytokines, COX-2 and 
+iNOS. In accordance with the in vitro study, miconazole reduced 
+lipopolysaccharide-induced osteoclast formation in vivo. Therefore, miconazole 
+exerted an inhibitory effect on osteoclast formation in vitro and in vivo. It 
+could be useful for the treatment of bone diseases associated with excessive 
+bone resorption.

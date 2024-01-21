@@ -1,0 +1,16 @@
+Clostridiodes (Clostridium) difficile is an anaerobic Gram-positive, 
+spore-forming nosocomial, gastrointestinal pathogen causing C. 
+difficile-associated disease with symptoms ranging from mild cases of 
+antibiotic-associated diarrhea to fatal pseudomembranous colitis. We developed 
+murine monoclonal antibodies (mAbs) specific for a conserved cell surface 
+antigen, lipoteichoic acid (LTA)of C. difficile. The mAbs were characterized in 
+terms of their thermal stability, solubility, and their binding to LTA by 
+surface plasmon resonance and competitive ELISA. Synthetic LTA molecules were 
+prepared in order to better define the minimum epitope required to mimic the 
+natural antigen, and three repeat units of the polymer were required for optimal 
+recognition. One of the murine mAbs was chimerized with human constant region 
+domains and was found to recognize the target antigen identically to the mouse 
+version. These mAbs may be useful as therapeutics (standalone, in conjunction 
+with known antitoxin approaches, or as delivery vehicles for antibody drug 
+conjugates targeting the bacterium), as diagnostic agents, and in infection 
+control applications.

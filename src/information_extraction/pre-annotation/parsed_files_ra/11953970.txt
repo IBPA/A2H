@@ -1,0 +1,28 @@
+OBJECTIVE: Complement has been repeatedly implicated in the pathogenesis of 
+rheumatoid arthritis (RA) based on studies showing reduced levels of native 
+complement components and increased levels of complement metabolites in plasma, 
+synovial fluid (SF), and synovial tissue (ST) of RA patients. However, there is 
+limited information on local production and activation of key factors of the 
+complement cascade in RA synovium and their potential modulation by novel 
+anticytokine therapies. This study was undertaken to characterize the expression 
+of complement proteins and receptors in RA SF and ST.
+METHODS: Using in situ hybridization, immunohistochemistry, and Western blot 
+techniques, we assessed the presence of complement proteins C3, factor B (FB), 
+and C5b-9, as well as the expression of complement receptors C3aR and C5aR in 
+rheumatoid synovium. C3 and FB levels in SF were determined by enzyme-linked 
+immunosorbent assay. Functional assessment was performed by examining the 
+effects of soluble tumor necrosis factor receptor (sTNFR) p55 gene transfer in 
+the SCID mouse model of RA.
+RESULTS: Complement proteins and receptors could be localized in all RA synovial 
+specimens, whereas in osteoarthritis (OA) synovium, only a few, single cells 
+expressed complement proteins and receptors. No differences were noted in the 
+concentration of C3 between RA and OA in SF; however, FB levels were markedly 
+reduced in RA versus OA SF. In RA synovium, in contrast to OA synovium, local 
+expression of complement factor and complement receptor messenger RNA was found 
+throughout the various ST compartments, suggesting that activation of the 
+complement cascade occurs in all parts of the rheumatoid synovium. Moreover, 
+C5aR expression was up-regulated following overexpression of sTNFR p55 by 
+adenovirus-based gene transfer.
+CONCLUSION: In summary, local complement production and activation may play an 
+important role in RA, and specific modulation and inhibition of local complement 
+production could be an attractive therapeutic target for RA.

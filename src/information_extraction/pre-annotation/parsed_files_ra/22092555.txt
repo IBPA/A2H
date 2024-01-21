@@ -1,0 +1,30 @@
+BACKGROUND: Glucocorticoids are the mainstream drugs used in the treatment and 
+control of inflammatory diseases such as asthma. Annexin-1 (ANXA1) is an 
+anti-inflammatory protein which has been described as an endogenous protein 
+responsible for some anti-inflammatory glucocorticoid effects. Previous studies 
+have identified its importance in other immune diseases such as rheumatoid 
+arthritis and cystic fibrosis. ANXA1-deficient ((-/-)) mice are Th2 biased, and 
+ANXA1 N-terminus peptide exhibits anti-inflammatory activity in a rat model of 
+pulmonary inflammation.
+OBJECTIVE: ANXA1 protein is found in bronchoalveolar lavage fluid from 
+asthmatics. However, the function of ANXA1 in the pathological development of 
+allergy or asthma is unclear. Thus, in this study we intended to examine the 
+effect of ANXA1 deficiency on allergen-specific antibody responses and airway 
+responses to methacholine (Mch).
+METHODS: ANXA1(-/-) mice were sensitized with ovalbumin (OVA) and challenged 
+with aerosolized OVA. Airway resistance, lung compliance and enhanced pause 
+(PenH) were measured in naïve, sensitized and saline or allergen-challenged 
+wild-type (WT) and ANXA1(-/-) mice. Total and allergen-specific antibodies were 
+measured in the serum.
+RESULTS: We show that allergen-specific and total IgE, IgG2a and IgG2b levels 
+were significantly higher in ANXA1(-/-) mice. Furthermore, naïve ANXA1(-/-) mice 
+displayed higher airway hypersensitivity to inhaled Mch, and significant 
+differences were also observed in allergen-sensitized and allergen-challenged 
+ANXA1(-/-) mice compared with WT mice.
+CONCLUSIONS: In conclusion, ANXA1(-/-) mice possess multiple features 
+characteristic to allergic asthma, such as airway hyperresponsiveness and 
+enhanced antibody responses, suggesting that ANXA1 plays a critical regulatory 
+role in the development of asthma.
+CLINICAL RELEVANCE: We postulate that ANXA1 is an important regulatory factor in 
+the development of allergic disease and dysregulation of its expression can lead 
+to pathological changes which may affect disease progression.

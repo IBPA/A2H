@@ -1,0 +1,24 @@
+Many bone diseases, such as osteoporosis and rheumatoid arthritis, are 
+attributed to an increase in osteoclast number or activity; therefore, control 
+of osteoclasts has significant clinical implications. This study shows how 
+skullcapflavone II (SFII), a flavonoid with anti-inflammatory activity, 
+regulates osteoclast differentiation, survival, and function. SFII inhibited 
+osteoclastogenesis with decreased activation of MAPKs, Src, and cAMP response 
+element-binding protein (CREB), which have been known to be redox sensitive. 
+SFII decreased reactive oxygen species by scavenging them or activating nuclear 
+factor-erythroid 2-related factor 2 (Nrf2), and its effects were partially 
+reversed by hydrogen peroxide cotreatment or Nrf2 deficiency. In addition, SFII 
+attenuated survival, migration, and bone resorption, with a decrease in the 
+expression of integrin β3, Src, and p130 Crk-associated substrate, and the 
+activation of RhoA and Rac1 in differentiated osteoclasts. Furthermore, SFII 
+inhibited osteoclast formation and bone loss in an inflammation- or 
+ovariectomy-induced osteolytic mouse model. These findings suggest that SFII 
+inhibits osteoclastogenesis through redox regulation of MAPKs, Src, and CREB and 
+attenuates the survival and resorption function by modulating the integrin 
+pathway in osteoclasts. SFII has therapeutic potential in the treatment and 
+prevention of bone diseases caused by excessive osteoclast activity.-Lee, J., 
+Son, H. S., Lee, H. I., Lee, G.-R., Jo, Y.-J., Hong, S.-E., Kim, N., Kwon, M., 
+Kim, N. Y., Kim, H. J., Lee, Y. J., Seo, E. K., Jeong, W. Skullcapflavone II 
+inhibits osteoclastogenesis by regulating reactive oxygen species and attenuates 
+the survival and resorption function of osteoclasts by modulating integrin 
+signaling.

@@ -1,0 +1,25 @@
+OBJECTIVE: Bradykinin (BK) stimulates bone resorption in vitro and 
+synergistically potentiates interleukin-1 (IL-1)-induced bone resorption and 
+prostaglandin (PG) formation, suggesting that kinins are important in 
+inflammation-induced bone loss. The present study was undertaken to study 1) the 
+role of the kinin B1 and B2 receptors in the synergistic interaction with IL-1 
+and tumor necrosis factor alpha (TNFalpha), 2) the molecular mechanisms involved 
+in synergistic enhancement of PG formation, and 3) the effects of kinins on 
+cytokine-induced expression of RANKL, RANK, and osteoprotegerin (OPG) (the 
+latter being crucial molecules in osteoclast differentiation).
+METHODS: Formation of PGs, expression of enzymes involved in arachidonic acid 
+metabolism, and expression of RANKL, RANK, and OPG were assessed in the human 
+osteoblastic cell line MG-63 and in mouse calvarial bones. The role of NF-kappaB 
+and MAP kinases was studied using pharmacologic inhibitors.
+RESULTS: PGE(2) formation and cyclooxygenase 2 (COX-2) protein expression were 
+induced by IL-1beta and potentiated by kinins with affinity for the B1 or B2 
+receptors, resulting in PGE(2)-dependent enhancement of RANKL. The enhancements 
+of PGE(2) formation and COX-2 were markedly decreased by inhibition of p38 and 
+JNK MAP kinases, whereas inhibition of NF-kappaB resulted in abolishment of the 
+PGE(2) response with only slight inhibition of COX-2.
+CONCLUSION: Kinin B1 and B2 receptors synergistically potentiate IL-1- and 
+TNFalpha-induced PG biosynthesis in osteoblasts by a mechanism involving 
+increased levels of COX-2, resulting in increased RANKL. The synergistic 
+stimulation is dependent on NF-kappaB and MAP kinases. These mechanisms might 
+help to explain the enhanced bone resorption associated with inflammatory 
+disorders, including that in rheumatoid arthritis.

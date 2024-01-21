@@ -1,0 +1,22 @@
+BACKGROUND: Morbidity and mortality associated with Clostridioides (formerly 
+Clostridium) difficile infection (CDI) rises progressively with advanced age 
+(≥65 years) due in part to perturbations of the gut microbiota and immune 
+dysfunction. Epidemiological data of community-acquired CDI suggests increased 
+susceptibility may begin earlier during middle-age (45-64 years) but the 
+causation remains unknown.
+METHODS: Middle-aged (12-14 months) and young (2-4 months) adult mice were 
+infected with C. difficile, and disease severity, gut microbiome and innate 
+immune response were compared. Cytokine reconstitution studies were performed in 
+infected middle-aged mice.
+RESULTS: Infection of middle-aged mice with C. difficile led to greater disease 
+compared to young controls, which was associated with increases in C. difficile 
+burden and toxin titers, and elevated bacterial translocation. With the 
+exception of an expansion of C. difficile in middle-aged mice, microbiome 
+analysis revealed no age-related differences. In contrast, middle-aged mice 
+displayed a significant defect in neutrophil recruitment to the colon, with 
+diminished levels of innate immune cytokines IL-6, IL-23 and IL-22. Importantly, 
+recombinant IL-22 administration during CDI reduced morbidity and prevented 
+death in middle-aged mice.
+CONCLUSION: Increased susceptibility to C. difficile occurs in middle-aged mice 
+modeling the community-acquired CDI demographics and is driven by an impaired 
+innate immune response.

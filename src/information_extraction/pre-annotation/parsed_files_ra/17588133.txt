@@ -1,0 +1,33 @@
+OBJECTIVE AND DESIGN: Paeoniae alba Radix has been recognized as a valuable herb 
+in the treatment of rheumatoid arthritis (RA) in traditional Chinese medicine. 
+The purpose of this study was to investigate the effects of Paeoniflorin (PF), a 
+bioactive glucoside from paeony root, on the rats with adjuvants arthritis (AA) 
+and underlying mechanisms.
+MATERIALS: AA was induced by injecting Complete Freund's adjuvant (10 mg/ml) 
+into hind paw in male Sprague-Dawley rats.
+TREATMENT: PF (5, 10, 20 mg/kg/d) was orally administered to the rats 14 to 20 
+days after injection of complete Freund's adjuvant.
+METHODS: Arthritis was evaluated by hind paw swelling, polyarthritis index, 
+immune organ weights, and histological examination. Interleukin-1 (IL-1) 
+activity was assessed by thymocyte proliferation as quantified by the 3-(4, 
+5-2dimethylthiazal- 2yl) 2,5-diphenyltetrazoliumbromide (MTT) assay. The content 
+of prostaglandin E2 (PGE2) was measured by radioimmunoassay. The levels of IL-6, 
+granulocyte macrophage colony stimulating factor (GM-CSF) and vascular epidermal 
+growth factor (VEGF) in synovium homogenates were measured by enzyme-linked 
+immuno-absorbent assay (ELISA) respectively. Expression of inhibitory subunits 
+of G protein (G i) and cyclo-oxygenase-2 (COX-2) were detected by Western 
+blotting technique.
+RESULTS: There were significant secondary inflammatory reactions in AA rats, 
+which were accompanied by a decrease in immune organ weights. The administration 
+of PF (10, 20 mg/kg/day, i. g., days 14-20) inhibited the inflammatory response 
+and restored the weight of immune organs of AA rats. Synoviocyte proliferation 
+of AA rats increased significantly, and the levels of IL-1, PGE2, IL-6, VEGF and 
+GM-CSF in synovial homogenates of AA rats were also elevated compared with the 
+normal group. The administration of PF (10, 20 mg/kg/day, i.g., days 14-20) 
+reduced the above changes significantly. Finally, the expression of Gi1, Gi2, 
+Gi3 and COX-2 in synovial homogenates of AA rats were also elevated. The 
+administration of PF reduced Gi expression at doses of 10 and 20 mg/kg and 
+decreased COX-2 expression at a dose of 20 mg/kg.
+CONCLUSION: PF suppresses rat AA at least partly by inhibiting abnormal 
+proliferation of synoviocytes and the production of IL-1, PGE2, IL-6, VEGF and 
+GM-CSF by synoviocytes and reducing Gi and COX-2 expression in synovium.

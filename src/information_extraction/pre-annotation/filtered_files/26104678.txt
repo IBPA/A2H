@@ -1,0 +1,32 @@
+INTRODUCTION: Numerous observations indicate that rheumatoid arthritis (RA) has 
+a bone marrow component. In parallel, local synovial changes depend on neuronal 
+components of the peripheral sympathetic nervous system. Here, we wanted to 
+analyze whether collagen II-induced arthritis (CIA) has an impact on number, 
+adhesion, apoptosis, and proliferation of the macrophage subset of bone marrow 
+cells and how alterations in neurotransmitter microenvironment affect these 
+properties.
+METHODS: Bone marrow-derived macrophages (BMMs) were isolated from Dark Agouti 
+rats at different stages of CIA, and number, adhesion, caspase 3/7 activity, and 
+proliferation were analyzed in the presence of acetylcholine (ACh), 
+noradrenaline (NA), and vasoactive intestinal peptide (VIP).
+RESULTS: Opposed to enhanced CD11b(+) (cluster of differentiation 11b-positive) 
+and EMR1(+) (epidermal growth factor-like module-containing mucin-like hormone 
+receptor-like 1-positive) cells, characterizing the macrophage subset, in native 
+bone marrow of rats with acute inflammatory arthritis, we found decreased 
+numbers of CIA macrophages after enrichment and culture in comparison with 
+healthy (control) animals. Adhesion studies revealed significantly reduced 
+attachment to plastic in acute arthritis and collagen type I and fibronectin in 
+chronic arthritis. Additionally, we found a strong reduction in proliferation of 
+BMMs at CIA onset and in the chronic phase of CIA. Apoptosis remained 
+unaffected. Neurotransmitter stimulation profoundly affected proliferation, 
+adhesion, and apoptosis of BMMs from CIA and control rats, depending on disease 
+time point. Cultured BMMs from CIA and control animals expressed 
+neurotransmitter receptors for ACh, VIP and NA, but the expression profile 
+seemed not to be affected by CIA.
+CONCLUSIONS: Induction of CIA distinctly inhibits proliferation of BMMs in low- 
+and non-inflammatory phases and reduces attachment to plastic at the acute 
+inflammatory arthritis stage and adhesion to collagen I and fibronectin at the 
+chronic stage. Influence of neurotransmitter stimulation on adhesion, apoptosis, 
+and proliferation is altered by CIA depending on disease stage. We suggest an 
+altered reactivity of BMMs to neurotransmitter stimulation caused by CIA and 
+maybe also by aging.

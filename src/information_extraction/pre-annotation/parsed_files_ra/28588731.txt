@@ -1,0 +1,20 @@
+The bone is one of the most common sites of metastasis in patients with cancer. 
+Current treatments for bone metastases include bisphosphonates, denosumab, 
+non-steroidal anti-inflammatory drugs and analgesics, but each of them has 
+certain limitations. Cytokines and mediators released from various cells in the 
+bone microenvironment may drive a vicious cycle of osteolytic bone metastases. 
+Iguratimod (T-614), a novel disease-modifying anti-rheumatic drug, has 
+demonstrated therapeutic effects by suppressing the production of inflammatory 
+cytokines in rats and patients with rheumatoid arthritis. Therefore, the current 
+study evaluated the hypothesis that iguratimod may protect against 
+cancer-induced bone pain and bone metastasis in a rat model. For this purpose, 
+rats inoculated with Walker 256 cells were treated with iguratimod from days 
+11-17 post-surgery. Mechanical paw withdrawal thresholds and expression levels 
+of phosphorylated extracellular signal-related kinase (pERK) and c-Fos in the 
+spinal cord were investigated to detect changes in bone pain. Bone destruction 
+levels were detected using X-rays, hematoxylin and eosin and tartrate-resistant 
+acid phosphatase staining. The results revealed that mechanical paw withdrawal 
+thresholds and the expression levels of pERK and c-Fos declined in a 
+dose-dependent manner in rats treated with iguratimod, and bone destruction 
+severity was also reduced. These findings may provide important new insights 
+into the treatment of bone metastasis symptoms.

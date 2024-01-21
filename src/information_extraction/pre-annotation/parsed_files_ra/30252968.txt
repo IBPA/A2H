@@ -1,0 +1,28 @@
+Leukocytes travel within the circulation and enter connective tissues by 
+interactions with endothelium of postcapillary venules mediated by cell adhesion 
+molecules, summarized as the leukocyte adhesion cascade. In the severe combined 
+immunodeficient (SCID) mouse model, rheumatoid arthritis (RA) synovial 
+fibroblasts (SF) migrated to distant cartilage through the vasculature. 
+Therefore, RASF adhesion toward endothelial cells (EC) and E- and P-selectins 
+were analyzed. Cell-to-cell binding assays between SF and EC were performed. 
+Interactions of SF with tumor necrosis factor α (TNFα)-activated EC or selectins 
+were analyzed in flow adhesion assays. Immunohistochemistry for E-selectin 
+ligand CD15s was performed. CD15s induction in RASF by human serum or media was 
+evaluated. Wild-type and E-/-/ P-/- Selectin-SCID mice were used for 
+inverse-wrap surgery. After laser-mediated microdissection, real-time PCR for 
+E-/P-selectin/vascular cell adhesion molecule 1 was performed. Adhesion between 
+SF/EC under static conditions was highest in Roswell Park Memorial 
+Institute-cultured RASF to TNFαα-activated human umbilical vein endothelial 
+cells (2.25-fold) and RASF adhesion was higher toward venous than arterial EC 
+(Dulbecco's modified eagle medium P = 0.0419, RPMI P = 0.0119). In flow chamber 
+assays, RASF adhesion to E-selectin was higher than to P-selectin (e.g. 
+0.9 dyn cm-2 P = 0.0001). Osteoarthritis synovial fibroblasts showed lower 
+rolling/adhesion properties (e.g. 0.5 dyn cm-2 , P = 0.0010). RASF adhesion to 
+TNFαα-activated EC was increased (e.g. 0.9 dyn cm-2 , P = 0.0061). CD15s 
+induction in RASF was strongest in RA serum. Vimentin/CD15s double-positive 
+cells were detectable. In E-/P-selectin-deficient mice, contralateral invasion 
+was reduced (P = 0.023). E- and P-selectin, and vascular cell adhesion molecule 
+1 expression in EC of implants was confirmed. Our data indicate that the milieu 
+within vessels induces CD15s which enables RASF to interact with E-selectin/EC 
+under flow. Therefore, RASF may migrate to distant sites and leave the 
+vasculature similarly to leukocytes.

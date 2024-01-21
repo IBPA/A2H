@@ -1,0 +1,24 @@
+ω3-polyunsaturated free fatty acids (ω3-PUFAs), particularly docosahexaenoic 
+(DHA) and eicosapentaenoic acid (EPA), are thought to exert health promoting 
+effects in metabolic and in inflammatory diseases. The molecular mechanisms of 
+these beneficial effects are only partially understood. DHA and EPA activate 
+Free Fatty Acid receptor 4 (GPR120/FFA4). Recently, the first orally available, 
+synthetic ligand of FFA4, 
+3-[2-chloro-5-(trifluoromethoxy)phenyl]-3-azaspiro[5.5]undecane-9-acetic acid 
+("compound A"; cpd A) has been developed. Cpd A exhibits distinctly higher 
+potency, efficiency, and selectivity at FFA4 than ω3-PUFAs and ameliorates 
+insulin resistance and adipose tissue inflammation in the mouse. With 
+GPR120/FFA4 activation believed to also attenuate tissue inflammation in 
+autoimmune diseases, cpd A may also have a beneficial effect in these diseases. 
+We have therefore addressed the therapeutic potential of cpd A in mouse models 
+of three prototypical autoimmune diseases, specifically psoriasis, rheumatoid 
+arthritis, and bullous pemphigoid. The effect of cpd A on the course of 
+Aldara™-induced psoriasis-like dermatitis, K/BxN serum transfer arthritis, and 
+antibody transfer pemphigoid disease-like dermatitis was scrutinized. Cpd A did 
+not alter the course of Aldara-induced psoriasis-like dermatitis, K/BxN serum 
+transfer arthritis, or antibody transfer pemphigoid disease-like dermatitis. Our 
+results suggest that therapeutic regimens solely relying on FFA4 activation do 
+not bear the potential to treat inflammatory diseases. With cpd A distinctly 
+more potent in activating GPR120/FFA4 than ω3-PUFAs, this also suggests that 
+GPR120/FFA4 activation by ω3-PUFAs does not significantly contribute to the 
+health-promoting effects of ω3-PUFAs in autoimmune diseases.

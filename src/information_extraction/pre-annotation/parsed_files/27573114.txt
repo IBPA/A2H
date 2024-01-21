@@ -1,0 +1,14 @@
+Clostridium difficile is the most common hospital acquired pathogen in the USA, 
+and infection is, in many cases, fatal. Toxins A and B are its major virulence 
+factors, but expression of a third toxin, known as C. difficile transferase 
+(CDT), is increasingly common. An adenosine diphosphate (ADP)-ribosyltransferase 
+that causes actin cytoskeletal disruption, CDT is typically produced by the 
+major, hypervirulent strains and has been associated with more severe disease. 
+Here, we show that CDT enhances the virulence of two PCR-ribotype 027 strains in 
+mice. The toxin induces pathogenic host inflammation via a Toll-like receptor 2 
+(TLR2)-dependent pathway, resulting in the suppression of a protective host 
+eosinophilic response. Finally, we show that restoration of TLR2-deficient 
+eosinophils is sufficient for protection from a strain producing CDT. These 
+findings offer an explanation for the enhanced virulence of CDT-expressing C. 
+difficile and demonstrate a mechanism by which this binary toxin subverts the 
+host immune response.

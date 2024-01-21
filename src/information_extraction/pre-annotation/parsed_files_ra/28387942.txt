@@ -1,0 +1,14 @@
+One of the gold standards for animal models of rheumatoid arthritis is the 
+murine collagen-induced arthritis model. Native type II collagen together with 
+CFA is injected into susceptible mouse strains. Unfortunately, only mice with 
+H-2q or H-2r MHC haplotypes are susceptible, making the widely used C57BL/6 
+mouse strain, which carries the H-2b haplotype, resistant against the disease. 
+In this issue of the European Journal of Immunology, Stevanin et al. [Eur. J. 
+Immunol. 2017. 47: 637-645] now convincingly show that although WT C57BL/6 mice 
+are resistant to collagen-induced arthritis, mice with a homozygous deletion of 
+CD11b on the same genetic background are fully susceptible in this important 
+animal model of rheumatoid arthritis. They clearly demonstrate that the 
+injection of type II collagen together with CFA leads to early onset of the 
+disease with high incidence and with sustained severity. The authors further 
+characterize this disease with an increase of leukocyte infiltration and 
+enhanced TH17 differentiation.

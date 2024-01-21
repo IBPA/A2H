@@ -1,0 +1,22 @@
+BACKGROUND AND AIM: Immunosuppressive therapy may precipitate Clostridium 
+difficile associated disease (CDAD). We evaluated the role of cyclosporin in the 
+development of CDAD in the experimental mouse model and studied the effect of 
+probiotic and epidermal growth factor (EGF) as biotherapeutics measures.
+METHODS: BALB/c mice (n = 24) were divided into four groups. Group I animals not 
+given any inoculum served as controls. Animals in the remaining three groups 
+(Group II, III and IV) were given cyclosporin daily from days 1-7 followed by C. 
+difficile inoculum on day 8. Additionally, the animals received Lactobacillus 
+acidophilus (Group III) and EGF (Group IV) for one-week post C. difficile 
+challenge. The animals were evaluated for colonization and toxin production by 
+C. difficile, myeloperoxidase (MPO) activity and histopathological changes.
+RESULTS: Clostridium difficile was colonized and elaborated its toxins in 
+animals receiving cyclosporin and C. difficile. MPO activity was significantly 
+higher (P < 0.05) and histopathological epithelial damage, cryptitis and acute 
+inflammatory changes were seen in the cecum and colon. C. difficile count, 
+toxins A and B titers and MPO activity were significantly lowered (P < 0.05) in 
+animals receiving probiotic and EGF. Histopathologically, mucodepletion and 
+inflammatory infiltrate were decreased in the biotherapeutic receiving animals.
+CONCLUSIONS: Cyclosporin led to the development of mild to moderate CDAD in 
+animals. Administration of biotherapeutics reduced the severity of CDAD. Future 
+clinical trials are needed for further investigation of these potential 
+biotherapeutic measures.

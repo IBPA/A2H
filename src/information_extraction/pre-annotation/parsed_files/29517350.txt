@@ -1,0 +1,19 @@
+There is no recommended protocol for detecting and isolating Clostridium 
+difficile present in food samples. Here, we have evaluated the recovery of C. 
+difficile in meat samples after incubating them in various enrichment broths. 
+The media were as follows: cycloserine-cefoxitin fructose broth supplemented 
+with taurocholic acid, d-cycloserine, cefoxitin, and lysozyme; 
+cycloserine-cefoxitin mannitol broth with taurocholate and lysozyme; and 
+cycloserine-cefoxitin fructose broth supplemented with taurocholic acid, C. 
+difficile moxalactam norfloxacin selective supplement, and lysozyme. Samples 
+were inoculated with various strains and quantities of C. difficile and then 
+enriched in the different broths for 1, 4, and 7 days. C. difficile was isolated 
+on agar plates and detected with quantitative real-time PCR (qPCR). The 
+procedure using enrichment in cycloserine-cefoxitin fructose broth supplemented 
+with taurocholic acid, d-cycloserine, cefoxitin, and lysozyme and incubation for 
+4 days for qPCR detection and 7 days for isolation (plating on C. difficile agar 
+base with added C. difficile selective supplement and 7% [v/v] defibrinated 
+horse blood after alcoholic shock and centrifugation) was validated. Samples of 
+different kinds of meat and meat preparation were contaminated and used for 
+validation of the chosen protocol. The sensitivity of detection with qPCR was 
+100%, and the sensitivity of the isolation method was 96%.

@@ -1,0 +1,24 @@
+BACKGROUND: Arachidonic acid (ARA) is an essential fatty acid and a major 
+constituent of biomembranes. It is converted into various lipid mediators, such 
+as prostaglandin E2 (PGE2), which is involved in the development of rheumatoid 
+arthritis (RA). However, the effects of dietary ARA on RA are unclear. Our 
+objective was to clarify the effects of dietary ARA on an experimental rat 
+arthritis model.
+METHODS: Lew rats were fed three contents of ARA diet (0.07%, 0.15% or 0.32% ARA 
+in diet (w/w)), a docosahexaenoic acid (DHA) diet (0.32% DHA), or a control 
+diet. After 4 weeks, arthritis was induced by injection of Freund's complete 
+adjuvant into the hind footpad. We observed the development of arthritis for 
+another 4 weeks, and evaluated arthritis severity, fatty acid and lipid mediator 
+contents in the paw, and expression of genes related to lipid mediator formation 
+and inflammatory cytokines. Treatment with indomethacin was also evaluated.
+RESULTS: The ARA content of phospholipids in the paw was significantly elevated 
+with dietary ARA in a dose-dependent manner. Dietary ARA as well as DHA did not 
+affect arthritis severity (paw edema, arthritis score, and bone erosion). PGE2 
+content in the paw was increased by arthritis induction, but was not modified by 
+dietary ARA. Dietary ARA did not affect the contents of other lipid mediators 
+and gene expression of cyclooxygenase (COX)-1, COX-2, lipoxgenases and 
+inflammatory cytokines. Indomethacin suppressed arthritis severity and PGE2 
+content in the paw.
+CONCLUSION: These results suggest that dietary ARA increases ARA content in the 
+paw, but has no effect on arthritis severity and PGE2 content of the paw in a 
+rat arthritis model.

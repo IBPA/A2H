@@ -1,0 +1,31 @@
+INTRODUCTION: Clinical and preclinical studies have shown that supplementation 
+with ω-3 polyunsaturated fatty acids (ω-3 PUFAs) reduce joint destruction and 
+inflammation present in rheumatoid arthritis (RA). However, the effects of 
+individual ω-3 PUFAs on chronic arthritic pain have not been evaluated to date. 
+Thus, our aim in this study was to examine whether purified docosahexaenoic acid 
+(DHA, an ω-3 PUFA) reduces spontaneous pain-related behavior and knee edema and 
+improves functional outcomes in a mouse model of knee arthritis.
+METHODS: Unilateral arthritis was induced by multiple injections of Complete 
+Freund's Adjuvant (CFA) into the right knee joints of male ICR adult mice. Mice 
+that received CFA injections were then chronically treated from day 15 until day 
+25 post-initial CFA injection with oral DHA (10, 30 and 100 mg/kg daily) or 
+intraarticular DHA (25 and 50 μg/joint twice weekly). Spontaneous flinching of 
+the injected extremity (considered as spontaneous pain-related behavior), 
+vertical rearing and horizontal exploratory activity (considered as functional 
+outcomes) and knee edema were assessed. To determine whether an endogenous 
+opioid mechanism was involved in the therapeutic effect of DHA, naloxone (NLX, 
+an opioid receptor antagonist, 3 mg/kg subcutaneously) was administered in 
+arthritic mice chronically treated with DHA (30 mg/kg by mouth) at day 25 
+post-CFA injection.
+RESULTS: The intraarticular CFA injections resulted in increasing spontaneous 
+flinching and knee edema of the ipsilateral extremity as well as worsening 
+functional outcomes as time progressed. Chronic administration of DHA, given 
+either orally or intraarticularly, significantly improved horizontal exploratory 
+activity and reduced flinching behavior and knee edema in a dose-dependent 
+manner. Administration of NLX did not reverse the antinociceptive effect of DHA.
+CONCLUSIONS: To the best of our knowledge, this report is the first to 
+demonstrate DHA's antinociceptive and anti-inflammatory effects as individual 
+ω-3 PUFAs following sustained systemic and intraarticular administration in a 
+mouse model of CFA-induced knee arthritis. The results suggest that DHA 
+treatment may offer a new therapeutic approach to alleviate inflammation as well 
+as a beneficial effect on pain-related functional disabilities in RA patients.

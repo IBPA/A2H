@@ -1,0 +1,21 @@
+Because of high sequence homology between microbial and endogenous heat shock 
+proteins (HSP), immunological cross-reactivity to microbial HSP has been 
+suggested as a possible cause of the development of autoimmune diseases, such as 
+rheumatoid arthritis. The present study aimed to determine a potential role of 
+HSP47, a molecular chaperone involved in the synthesis and assembly of collagen 
+molecules, and microbial HSP71 (mHSP71) in adjuvant arthritis (AA) in two rat 
+strains: Dark Agouti (DA), susceptible to AA induction and Albino Oxford (AO), 
+which is resistant to AA induction. Immunization with complete Freund's adjuvant 
+(CFA) induced an increased expression of HSP47 in joints of DA rats, which 
+exhibited severe clinical signs of AA at the time of disease peak, while this 
+protein was not detectable in joints of AO rats. In contrast, no strain 
+differences in HSP72 (rat analogue of mHSP71) expressions in joints were 
+observed. The increased levels of anti-HSP47 antibodies were detected in sera of 
+DA rats during the AA peak, while the immunization with CFA increased levels of 
+anti-mHSP71 antibodies in sera of AO rats. HSP47 and mHSP71 reduced 
+proliferation of draining inguinal lymph node cells (LNC) in resistant AO rat 
+strain, leading to a hypothesis that both HSP participated in AA control. 
+Finally, mHSP71 potentiated the apoptotic response of LNC in susceptible DA rat 
+strain. In conclusion, our findings indicate involvement of HSP47 in the 
+development of AA in the rat, and point out to the regulatory role for both 
+HSP47 and mHSP71.

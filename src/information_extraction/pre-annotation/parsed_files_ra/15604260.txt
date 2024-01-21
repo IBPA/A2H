@@ -1,0 +1,21 @@
+Tumor necrosis factor-like weak inducer of apoptosis (TWEAK) is a member of the 
+tumor necrosis factor superfamily of structurally related cytokines. TWEAK acts 
+on responsive cells via binding to a cell surface receptor named Fn14. Recent 
+studies have demonstrated that TWEAK can stimulate numerous cellular responses 
+including cell proliferation, migration, and proinflammatory molecule 
+production. It has also been reported that TWEAK can stimulate blood vessel 
+formation in the rat cornea angiogenesis assay, but it is presently unknown 
+whether this cytokine could play a role in the pathological angiogenesis 
+associated with human diseases such as cancer, rheumatoid arthritis, and 
+diabetic retinopathy. In the present study we investigated whether TWEAK was 
+expressed in human tumors and whether it could promote tumor growth and 
+angiogenesis in vivo. TWEAK mRNA expression was detected in many tumor types by 
+cDNA array hybridization analysis, and TWEAK protein expression was confirmed in 
+human colon cancer tissue by immunohistochemistry. As an initial approach to 
+address whether TWEAK might act as a tumor angiogenesis factor, we established 
+several human embryonic kidney cell lines that constitutively secrete a soluble 
+TWEAK protein and examined their growth properties in vitro and in vivo. We 
+found that although TWEAK-overexpressing cells do not have a growth advantage in 
+vitro, they form larger and more highly vascularized tumors in athymic mice when 
+compared with control, vector-transfected cells. This result suggests that the 
+TWEAK-Fn14 signaling system may be a potential regulator of human tumorigenesis.

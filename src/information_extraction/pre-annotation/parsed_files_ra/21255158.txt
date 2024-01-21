@@ -1,0 +1,30 @@
+BACKGROUND: Mast cells (MCs) have a central role in the induction of allergic 
+inflammation, such as seen in asthma, and contribute to the severity of certain 
+autoimmune diseases, such as rheumatoid arthritis. The MC thus represents an 
+important inflammatory cell, and one which has resisted therapeutic attempts to 
+alter its role in disease.
+OBJECTIVE: Because bone marrow-derived stromal cells (BMSC, also known as 
+mesenchymal stem cells or MSCs) have been reported to alter allergic 
+inflammation in vivo, we chose to study the interaction between mouse BMSC and 
+mouse bone marrow-derived MCs.
+METHODS: MC degranulation, cytokine production and chemotaxis were evaluated in 
+vitro following co-culture with BMSCs either in cell contact or a transwell. In 
+addition, MC degranulation was assessed in vivo following administration of 
+BMSCs in a model of passive cutaneous anaphylaxis and a peritoneal degranulation 
+assay. Mechanisms of MC suppression by BMSCs were determined through use of 
+inhibitors or antibodies to COX1, COX2, nitric oxide, indoleamine 2, 
+3-dioxygenase, EP1-4 receptors, TGF-β and IL-10. Lastly, we utilized either 
+BMSCs or MCs deficient in COX1, COX2 or EP1-4 receptors to confirm the 
+mechanisms of inhibition of MC function by BMSCs.
+RESULTS: We discovered that BMSCs will effectively suppress specific MC 
+functions in vitro as well as in vivo. When MCs are cocultured with BMSCs to 
+allow cell-to-cell contact, BMSCs suppressed MC degranulation, pro-inflammatory 
+cytokine production, chemokinesis and chemotaxis. Similarly, MC degranulation 
+within mouse skin or the peritoneal cavity was suppressed following in vivo 
+administration of BMSCs. Further, we found that these inhibitory effects were 
+dependent on up-regulation of COX2 in BMSCs; and were facilitated through the 
+activation of EP4 receptors on MCs.
+CONCLUSION AND CLINICAL RELEVANCE: These observations support the concept that 
+BMSCs have the ability to suppress MC activation and therefore could be the 
+basis for a novel cell based therapeutic approach in the treatment of MC driven 
+inflammatory diseases.

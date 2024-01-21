@@ -1,0 +1,25 @@
+OBJECTIVE: To estimate prevalence and determine association between antimicrobia 
+resistance and toxin gene profile of Clostridium difficile in commercial pigs at 
+the preharvest food-safety level.
+ANIMALS: 68 sows and 251 young pigs from 5 farms in North Carolina and 3 in 
+Ohio.
+PROCEDURES: Fecal samples were collected from sows (8/farm) and matched young 
+pigs (32/farm) at farrowing and again at the nursery and finishing stages. 
+Clostridium difficile isolates were tested for susceptibility to 6 
+antimicrobials. A PCR assay was used to detect genes coding for enterotoxin A 
+(tcdA), cytotoxin B (tcdB), and binary toxin (cdtB).
+RESULTS: C difficile prevalence in young pigs at farrowing was 73% (n=183) with 
+significantly higher prevalence in Ohio (875%) than in North Carolina (64%). 
+Clostridium difficile was isolated from 32 (47%) sows with no significant 
+difference between the 2 regions. A single pig had a positive test result at the 
+nursery, and no isolate was recovered at the finishing farms. Resistance to 
+ciprofloxacin was predominant in young pigs (91.3% of isolates) and sows (94%). 
+The antimicrobial resistance profile ciprofloxacin-erythromycin-tetracycline was 
+detected in 21.4% and 11.7% of isolates from young pigs and sows, respectively. 
+Most isolates had positive results for tcdA (65%), tcdB (84%), and the binary 
+toxin cdtB (77%) genes. Erythromycin resistance and tetracycline resistance were 
+significantly associated with toxin gene profiles.
+CONCLUSIONS AND CLINICAL RELEVANCE: The common occurrence of 
+antimicrobial-resistant C difficile and the significant association of toxigenic 
+strains with antimicrobial resistance could contribute to high morbidity in 
+farms with farrowing pigs.

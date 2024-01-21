@@ -1,0 +1,20 @@
+To study the mechanism and inhibitory effect of Saposhnikovia divaricata 
+polysaccharide (SDP) on fibroblast-like synoviocytes (FLS) isolated from 
+rheumatoid arthritis rat model. Rheumatoid arthritis rat model was established 
+by the classical composite factors including wind, cold, damp plus biological 
+agents. The synovial tissues were digested with trypsin to isolate FLS cells. 
+The different dosage of SDP was applied in culture. The cell viability was 
+evaluated by MTT assay and the apoptosis was determined by analytic flow 
+cytometry. The expression change of p53 gene was monitored by RT-PCR method. The 
+production of secretory inflammation factors TNF-α and IL-1β were determined by 
+ELISA. The proliferative and apoptotic proteins such as Bcl-2, Bax, Caspase-3, 
+MMP-1, MMP-3, P53 were measured by western blotting. Our data demonstrated that 
+treatment with high concentration of SDP could enhance the expression of P53 at 
+both mRNA (P<0.05) and protein (P<0.05) level, inhibit the secretion of TNF-α 
+(P<0.05) and IL-1β (P<0.05). Simultaneously, the Bcl-2/Bax ratio and level of 
+MMP-1, MMP-3 was significantly decreased, and apoptotic marker caspase-3 protein 
+was increased. In addition, the FACS analysis consistently consolidated the 
+apoptosis-inducing effect of SDP on RAFLS. SDP could significantly inhibit 
+dysplasia of RAFLS via modulation of p53 expression and suppression of 
+inflammatory factors, which suggested a potential therapeutic value for 
+rheumatoid arthritis.

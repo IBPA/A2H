@@ -1,0 +1,26 @@
+Clostridium difficile-associated diarrhea and pseudomembranous colitis are 
+typically treated with vancomycin or metronidazole, but recent increases in 
+relapse incidence and the emergence of drug-resistant strains of C. difficile 
+indicate the need for new antibiotics. We previously isolated coprisin, an 
+antibacterial peptide from Copris tripartitus, a Korean dung beetle, and 
+identified a nine-amino-acid peptide in the α-helical region of it (LLCIALRKK) 
+that had antimicrobial activity (J.-S. Hwang et al., Int. J. Pept., 2009, 
+doi:10.1155/2009/136284). Here, we examined whether treatment with a coprisin 
+analogue (a disulfide dimer of the nine peptides) prevented inflammation and 
+mucosal damage in a mouse model of acute gut inflammation established by 
+administration of antibiotics followed by C. difficile infection. In this model, 
+coprisin treatment significantly ameliorated body weight decreases, improved the 
+survival rate, and decreased mucosal damage and proinflammatory cytokine 
+production. In contrast, the coprisin analogue had no apparent antibiotic 
+activity against commensal bacteria, including Lactobacillus and 
+Bifidobacterium, which are known to inhibit the colonization of C. difficile. 
+The exposure of C. difficile to the coprisin analogue caused a marked increase 
+in nuclear propidium iodide (PI) staining, indicating membrane damage; the 
+staining levels were similar to those seen with bacteria treated with a positive 
+control for membrane disruption (EDTA). In contrast, coprisin analogue treatment 
+did not trigger increases in the nuclear PI staining of Bifidobacterium 
+thermophilum. This observation suggests that the antibiotic activity of the 
+coprisin analogue may occur through specific membrane disruption of C. 
+difficile. Thus, these results indicate that the coprisin analogue may prove 
+useful as a therapeutic agent for C. difficile infection-associated inflammatory 
+diarrhea and pseudomembranous colitis.

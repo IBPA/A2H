@@ -1,0 +1,22 @@
+BACKGROUND: Low-level laser is being evaluated for treating rheumatoid arthritis 
+(RA). Recently, the linear polarized infrared light (Super Lizer, SL) 
+irradiation may also be useful for RA treatment. However, the molecular 
+mechanism underlying the effectiveness of SL on RA is unclear. It has been IL-20 
+may involved in RA disease progression.
+AIM: To understand how SL action, we constructed the experimental model in vitro 
+using human rheumatoid fibroblast-like synoviocyte (MH7A) and collagen induced 
+(CIA) RA rat in vivo. We examined the effect of SL irradiation on IL-20 gene 
+expression in MH7A and IL-20 protein production in CIA) rat joints.
+MATERIALS AND METHODS: MH7A was cultured and challenged with IL-1ß, then 
+examined IL-20 and IL-20R mRNA level by DNA microarray. IL-20 protein expression 
+was examined by immunohistochemistry using a specific antibody against rat 
+IL-20.
+RESULT: Scatter plot analysis demonstrated that an increase in IL-20 gene 
+expression by IL-1ß was reduced by SL irradiation, but IL-20R did not show a 
+significant change. The Immunohistochemical analysis demonstrated a strong IL-20 
+staining in synovial membrane tissue of CIA rat joint, and SL irradiation 
+significantly reduced the staining.
+DISCUSSION: Since IL-20 has been identified as an important cytokine in the 
+pathogenesis of RA, the reduction of IL-20 expression by SL irradiation may be 
+one of mechanisms in reduction of inflammation in RA joints by SL irradiation 
+suggesting that SL irradiation may be useful for RA therapy.

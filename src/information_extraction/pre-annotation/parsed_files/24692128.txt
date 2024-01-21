@@ -1,0 +1,26 @@
+PURPOSE: Rho GTPases play a central role in actin-based cytoskeleton 
+reorganization and regulate multiple signaling pathways that control gene 
+transcription, cell survival, and proliferation. We investigated the effect of 
+Rho GTPases on cell cycle regulation and progenitor genes expression on mouse 
+ciliary epithelium (CE), a potential source of progenitor/stem cells in the 
+adult retina.
+METHODS: Rho GTPases were activated by intraocular injection of lysophosphatidic 
+acid and inactivated by Clostridium difficile Toxin A (general Rho GTPase 
+inhibitor), NSC23766 (Rac1 activation inhibitor), or Y27632 (Rho-associated 
+protein kinase [ROCK] inhibitor). Thereafter, we assayed for RhoA, RhoB, and 
+Rac1 protein localization in CE cells. Proliferation was examined by the 
+expression levels of cell cycle regulators p27(kip), p16(INK4a), and Ki67 and 
+the effects on progenitors by determining the changes in Pax6 and Chx10 
+progenitor markers expression.
+RESULTS: All GTPases investigated were expressed in mouse CE cells. Activation 
+increased the coexpression of Pax6 and Chx10, but had no significant effect on 
+the proliferation of CE cells. In contrast, Rho GTPases inactivation increased 
+cell proliferation and potentiated the proliferative effect of growth factors. 
+Specific inactivation of Rac1 or ROCK increased the levels of Ki67 and decreased 
+the expression of the cell cycle inhibitors p27(kip) and p16(INK4a).
+CONCLUSIONS: This study reports that Rho GTPase modulation (activation and 
+inactivation) controls the expression of retinal progenitor genes and 
+proliferation, respectively, in the adult ciliary epithelial progenitor/stem 
+cells of rodent eyes. The modulation of these two different mechanisms 
+(proliferation and reprogramming) may provide a potential new approach in 
+retinal repair.

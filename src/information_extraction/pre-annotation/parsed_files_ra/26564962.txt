@@ -1,0 +1,22 @@
+Multiple sclerosis (MS), also known as disseminated sclerosis or 
+encephalomyelitis disseminate, is an inflammatory disease in which myelin in the 
+spinal cord and brain are damaged. IL-32α is known as a critical molecule in the 
+pathophysiology of immune-mediated chronic inflammatory disease such as 
+rheumatoid arthritis, chronic pulmonary disease, and cancers. However, the role 
+of IL-32α on spinal cord injuries and demyelination is poorly understood. 
+Recently, we reported that the release of proinflammatory cytokines were reduced 
+in IL-32α-overexpressing transgenic mice. In this study, we investigated whether 
+IL-32α plays a role on MS using experimental autoimmune encephalomyelitis (EAE), 
+an experimental mouse model of MS, in human IL-32α Tg mice. The Tg mice were 
+immunized with MOG35-55 suspended in CFA emulsion followed by pertussis toxin, 
+and then EAE paralysis of mice was scored. We observed that the paralytic 
+severity and neuropathology of EAE in IL-32α Tg mice were significantly 
+decreased compared with that of non-Tg mice. The immune cells infiltration, 
+astrocytes/microglials activation, and pro-inflammatory cytokines (IL-1β and 
+IL-6) levels in spinal cord were suppressed in IL-32α Tg mice. Furthermore, NG2 
+and O4 were decreased in IL-32α Tg mice, indicating that spinal cord damaging 
+was suppressed. In addition, in vitro assay also revealed that IL-32α has a 
+preventive role against Con A stimulation which is evidenced by decrease in T 
+cell proliferation and inflammatory cytokine levels in IL-32α overexpressed 
+Jurkat cell. Taken together, our findings suggested that IL-32α may play a 
+protective role in EAE by suppressing neuroinflammation in spinal cord.

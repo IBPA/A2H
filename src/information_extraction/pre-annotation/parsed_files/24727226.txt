@@ -1,0 +1,21 @@
+Little is known about cell division in Clostridium difficile, a strict anaerobe 
+that causes serious diarrheal diseases in people whose normal intestinal 
+microbiome has been perturbed by treatment with broad-spectrum antibiotics. Here 
+we identify and characterize a gene cluster encoding three cell division 
+proteins found only in C. difficile and a small number of closely related 
+bacteria. These proteins were named MldA, MldB, and MldC, for midcell localizing 
+division proteins. MldA is predicted to be a membrane protein with coiled-coil 
+domains and a peptidoglycan-binding SPOR domain. MldB and MldC are predicted to 
+be cytoplasmic proteins; MldB has two predicted coiled-coil domains, but MldC 
+lacks obvious conserved domains or sequence motifs. Mutants of mldA or mldB had 
+morphological defects, including loss of rod shape (a curved cell phenotype) and 
+inefficient separation of daughter cells (a chaining phenotype). Fusions of cyan 
+fluorescent protein (CFP) to MldA, MldB, and MldC revealed that all three 
+proteins localize sharply to the division site. This application of CFP was 
+possible because we discovered that O2-dependent fluorescent proteins produced 
+anaerobically can acquire fluorescence after cells are fixed with cross-linkers 
+to preserve native patterns of protein localization. Mutants lacking the Mld 
+proteins are severely attenuated for pathogenesis in a hamster model of C. 
+difficile infection. Because all three Mld proteins are essentially unique to C. 
+difficile, they might be exploited as targets for antibiotics that combat C. 
+difficile without disrupting the intestinal microbiome.

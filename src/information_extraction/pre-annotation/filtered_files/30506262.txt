@@ -1,0 +1,19 @@
+BACKGROUND: The current study was intended to investigate the effect of ketamine 
+(KET) on complete Freund's adjuvant (CFA)-induced arthritis in rats.
+METHODS: The CFA was administered in the hind paw of the rats for the induction 
+of adjuvant-induced arthritis. The paw swelling of experimental animals was 
+measured as hind paw volume. Hematoxylin and eosin staining was estimated and 
+pathological changes in the joint tissues were observed under a light 
+microscope. Furthermore, the bicinchoninic acid assay was used for protein 
+quantification. The antibody-reactive bands were visualized using enhanced 
+chemiluminescence.
+RESULTS: The present study showed that KET significantly reduces the severity of 
+arthritis in CFA mice. The therapeutic effects were linked with reduced joint 
+swelling and destruction, as evidenced by analyzing rat paws. The KET also 
+revealed to attenuate the expression of pro-inflammatory cytokines (TNF-α, 
+IL-1β, IL-6). In western blot analysis, KET inhibit phosphorylation of MAPKs, 
+IκBα and nuclear translocation NF-κB in the inflammatory joints of AIA rats. 
+Moreover, KET showed to induce apoptosis via mitochondrial signalling pathways 
+(Bcl2, Bax, cytochrome C, cleaved caspase-3 and cleaved caapse-9).
+CONCLUSION: Taken together, KET show significant anti-rheumatoid arthritis 
+activity via multiple mechanisms and may thus have therapeutic benefits for RA.

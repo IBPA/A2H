@@ -1,0 +1,17 @@
+Hyaluronan (HA) fragments are able to induce inflammation by stimulating both 
+CD44 and toll-like receptor 4 (TLR-4). CD44 and TLR-4 activation stimulates the 
+liberation of NF-kB and pro-inflammatory cytokine responses. The aim of this 
+study was to investigate the effects of hyaluronidase (HYAL) treatment, which 
+depolymerises HA into small fragments, and of the addition of specific 
+hyaluronan synthases-1, 2, and 3 small interference RNA (HASs siRNA), which 
+silence HASs activity, on normal mouse synovial fibroblasts (NSF) and on 
+rheumatoid arthritis synovial fibroblasts (RASF) obtained from mice subjected to 
+collagen induced arthritis (CIA). The addition of HYAL to NSF and/or RASF 
+significantly increased the TLR-4, CD44 and NF-kB activity, as well as the 
+pro-inflammatory cytokines, interleukin-1beta (IL-1beta), tumor necrosis 
+factor-alpha (TNF-alpha), interleukin-6 (IL-6), and interleukin-33 (IL-33) in 
+both groups, but to a greater extent in RASF. The addition to NSF and/or RASF of 
+the HASs siRNA, which block HASs activity and therefore the availability of HA 
+substrate for HYAL, was able to reduce HYAL effects in both NSF and RASF. 
+Finally, the HA evaluation confirmed the increment of HA at low molecular weight 
+after HYAL treatment.

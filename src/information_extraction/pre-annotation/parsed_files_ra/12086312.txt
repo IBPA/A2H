@@ -1,0 +1,20 @@
+Rat models are useful for studies of the pathogenesis of rheumatoid arthritis 
+(RA) since rats are extraordinarily sensitive to induction of arthritis with 
+adjuvants. Injection of not only the classical complete Freund's adjuvant but 
+also mineral oil without mycobacteria and pure adjuvants such as pristane and 
+squalene, induce severe arthritis in many rat strains. Models like 
+pristane-induced arthritis in rats are optimal models for RA since they fulfill 
+the RA criteria including a chronic relapsing disease course. Arthritogenic 
+adjuvants like pristane, avridine, squalene and mineral oil are not immunogenic 
+since they do not contain major histocompatibility complex (MHC) binding 
+peptides. Nevertheless, the diseases are MHC-associated and dependent on the 
+activation of alphabetaTCR (T-cell receptor)-expressing T cells. However, it has 
+not been possible to link the immune response to joint antigens or other 
+endogenous components although immunization with various cartilage proteins 
+induce arthritis but with different pathogeneses. To unravel the mechanisms 
+behind adjuvant-induced arthritis, a disease-oriented genetic approach is 
+optimal. Several loci that control onset of arthritis, severity and chronicity 
+of the disease have been identified in genetic crosses and most of these have 
+been confirmed in congenic strains. In addition, many of these loci are found in 
+other autoimmune models in the rat as well as associated with arthritis in mice 
+and humans.

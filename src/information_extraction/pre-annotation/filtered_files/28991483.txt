@@ -1,0 +1,36 @@
+Inflammatory bowel disease (IBD) is a chronic relapsing disorder of the 
+intestine, with increasing incidence worldwide. At present, the management of 
+IBD is an unmet medical need due to the ineffectiveness of currently available 
+drugs in treating all patients, and there is strong demand for novel 
+therapeutics. In this regard, vasoactive intestinal peptide, a potent 
+anti-inflammatory endogenous hormone, has shown promise in managing multiple 
+immune disorders in animal models. However, when administered in the free form, 
+VIP undergoes rapid degradation in vivo, and with continuous infusion, it causes 
+severe dose limiting side effects. To overcome these barriers, we have developed 
+a superior mode to deliver VIP in its native form, using sterically stabilized 
+micelles (VIP-SSM). Our previous studies demonstrated that, VIP, when 
+administered in SSM, prevented joint damage and inflammation in a mouse model of 
+rheumatoid arthritis at a significantly lower dose than the free peptide, 
+completely abrogating the serious side effect of hypotension associated with 
+VIP. In the current study, we demonstrate the therapeutic benefit of VIP-SSM 
+over free peptide in reversing severe colitis associated with IBD. First, we 
+conducted preliminary studies with dextran sulfate sodium (DSS) induced colitis 
+in mice, to determine the effectiveness of VIP administered on alternate days in 
+reducing disease severity. Thereafter, a single intra peritoneal injection of 
+VIP-SSM or the free peptide was used to determine its therapeutic effect on the 
+reversal of colitis and associated diarrhea. The results demonstrated that when 
+administered on alternate days, both VIP-SSM and VIP were capable of alleviating 
+DSS colitis in mice. However, when administered as a single dose, in a 
+therapeutic setting, VIP-SSM showed superior benefits compared to the free 
+peptide in ameliorating colitis phenotype. Namely, the loss of solid fecal 
+pellets and increased fluid accumulation in colon resulting from DSS insult was 
+abrogated in VIP-SSM treated mice and not with free VIP. Furthermore, reduced 
+protein and mRNA levels of the major chloride bicarbonate exchanger, down 
+regulated in adenoma (DRA), seen with DSS was reversed with VIP-SSM, but not 
+with the free peptide. Similarly, VIP-SSM treatment significantly reduced the 
+elevated mRNA levels of pro-inflammatory cytokines and showed significant 
+histologic recovery when compared to mice treated with free VIP. Therefore, 
+these results demonstrated that as a single dose, the anti-inflammatory and 
+antidiarrheal effects of VIP can be achieved effectively when administered as a 
+nanomedicine. Therefore, we propose VIP-SSM to be developed as a potential 
+therapeutic tool for treating ulcerative colitis, a type of IBD.

@@ -1,0 +1,20 @@
+OBJECTIVES AND DESIGN: Interleukin (IL) 17 plays an important role in synovial 
+inflammation and bone destruction in rheumatoid arthritis (RA), while IL-27 
+exerts a regulatory role in T cell-mediated immune responses. Our aim was to 
+study the influence of IL-17 on IL-27 production in RA.
+MATERIALS AND METHODS: Following injection of IL-17 in the knee joint of CIA 
+mice, synovium was examined for IL-17 and IL-27 expression by western blot, 
+real-time PCR, and immunohistochemistry. IL-17 and IL-27 levels were measured by 
+ELISA in mouse bone marrow-derived dendritic cells (BM-DCs) and in synovial 
+fluid (SF) macrophages from RA patients.
+RESULTS: IL-17 exacerbated disease progression in CIA mice. Histological 
+analysis showed increased pannus formation associated with cartilage and bone 
+erosion following injection with IL-17. The expression of IL-27 was increased in 
+CIA mice. The expression of IL-17 and IL-27 was increased more in IL-17-injected 
+CIA mice than in control mice. The majority of cells expressing IL-27 were 
+co-localized with synovial macrophages. Increased expression of IL-27 by 
+application of recombinant IL-17 was confirmed in CIA BM-DCs and in SF 
+macrophages from RA patients.
+CONCLUSION: IL-17 enhanced expression of IL-27 in synovial macrophages from RA 
+patients and CIA mice, indicating an interaction between IL-17 and IL-27 as an 
+autoregulatory mechanism.

@@ -1,0 +1,19 @@
+The intracellularly active bacterial toxin TcdB is a major Clostridioides 
+difficile virulence factor that contributes to inflammation and tissue damage 
+during disease. Immunization with an inactive TcdB fragment prevents C. 
+difficile infection (CDI)-associated pathology. The protective immune response 
+against inactive TcdB involves development of antigen-specific memory B cells 
+and long-lived plasma cells that encode TcdB-neutralizing antibodies. Unlike the 
+response to inactive TcdB, very little is known about the host humoral immune 
+response to C. difficile and TcdB during primary and recurrent infection. Here, 
+we used a murine model of C. difficile disease recurrence to demonstrate that an 
+initial infection induced a serum IgM and mucosal IgA response against the 
+toxin, but a low serum IgG response, which is associated with a lack of 
+protection against disease during reinfection. Infection induced a partial 
+expansion of the T follicular helper cell compartment, essential for B cell 
+memory responses, and, consistent with that, failed to significantly expand the 
+memory B cell compartment. Further, infection failed to stimulate the memory B 
+cell compartment in preimmunized mice, although they were protected against 
+associated disease. These results delineate the key humoral immune events that 
+follow primary and recurrent C. difficile infection and provide a compelling 
+inverse correlation between B cell memory and disease recurrence.

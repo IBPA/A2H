@@ -1,0 +1,34 @@
+INTRODUCTION: Mouse models of rheumatoid arthritis (RA) have proven critical for 
+identifying genetic and cellular mechanisms of the disease. Upon discovering 
+mice in our breeding colony that had spontaneously developed inflamed joints 
+reminiscent of RA, we established the novel IIJ (inherited inflamed joints) 
+strain. The purpose of this study was to characterize the histopathological, 
+clinical, genetic and immunological properties of the disease.
+METHODS: To begin the IIJ strain, an arthritic male mouse was crossed with SJL/J 
+females. Inheritance of the phenotype was then tracked by intercrossing, 
+backcrossing and outcrossing to other inbred strains. The histopathology of the 
+joints and extraarticular organ systems was examined. Serum cytokines and 
+immunoglobulins (Igs) were measured by ELISA and cytometric bead array. Transfer 
+experiments tested whether disease could be mediated by serum alone. Finally, 
+the cellular joint infiltrate and the composition of secondary lymphoid organs 
+were examined by immunohistochemistry and flow cytometry.
+RESULTS: After nine generations of intercrossing, the total incidence of 
+arthritis was 33% (304 of 932 mice), with females being affected more than males 
+(38% vs. 28%; P < 0.001). Swelling, most notably in the large distal joints, 
+typically became evident at an early age (mean age of 52 days). In addition to 
+the joint pathology, which included bone and cartilage erosion, synovial 
+hyperproliferation and a robust cellular infiltration of mostly Gr-1(+) 
+neutrophils, there was also evidence of systemic inflammation. IL-6 was elevated 
+in the sera of recently arthritic mice, and extraarticular inflammation was 
+observed histologically in multiple organs. Total serum Ig and IgG1 levels were 
+significantly elevated in arthritic mice, and autoantibodies such as rheumatoid 
+factor and Ig reactive to joint components (collagen type II and joint 
+homogenate) were also detected. Nevertheless, serum failed to transfer disease. 
+A high percentage of double-negative (CD4(-)CD8(-)) CD3(+) TCRα/β(+) T cells in 
+the lymphoid organs of arthritic IIJ mice suggested significant disruption in 
+the T-cell compartment.
+CONCLUSIONS: Overall, these data identify the IIJ strain as a new murine model 
+of inflammatory, possibly autoimmune, arthritis. The IIJ strain is similar, both 
+histologically and serologically, to RA and other murine models of autoimmune 
+arthritis. It may prove particularly useful for understanding the female bias in 
+autoimmune diseases.

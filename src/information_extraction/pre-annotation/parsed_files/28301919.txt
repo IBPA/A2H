@@ -1,0 +1,22 @@
+Clostridium difficile releases two exotoxins, toxin A and toxin B, which disrupt 
+the epithelial cell barrier in the gut to increase mucosal permeability and 
+trigger inflammation with severe diarrhea. Many studies have suggested that 
+enteric nerves are also directly involved in the progression of this 
+toxin-mediated inflammation and diarrhea. C. difficile toxin A is known to 
+enhance neurotransmitter secretion, increase gut motility, and suppress 
+sympathetic neurotransmission in the guinea pig colitis model. Although previous 
+studies have examined the pathophysiological role of enteric nerves in gut 
+inflammation, the direct effect of toxins on neuronal cells and the molecular 
+mechanisms underlying toxin-induced neuronal stress remained to be unveiled. 
+Here, we examined the toxicity of C. difficile toxin A against neuronal cells 
+(SH-SY5Y). We found that toxin A treatment time- and dose-dependently decreased 
+cell viability and triggered apoptosis accompanied by caspase-3 activation in 
+this cell line. These effects were found to depend on the up-regulation of 
+reactive oxygen species (ROS) and the subsequent activation of p38 MAPK and 
+induction of p21Cip1/Waf1. Moreover, the N-acetyl-L-cysteine (NAC)-induced 
+down-regulation of ROS could recover the viability loss and apoptosis of toxin 
+A-treated neuronal cells. These results collectively suggest that C. difficile 
+toxin A is toxic for neuronal cells, and that this is associated with rapid ROS 
+generation and subsequent p38 MAPK activation and p21Cip1/Waf1 up-regulation. 
+Moreover, our data suggest that NAC could inhibit the toxicity of C. difficile 
+toxin A toward enteric neurons.

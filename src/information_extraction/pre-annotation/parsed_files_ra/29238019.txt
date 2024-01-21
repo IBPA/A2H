@@ -1,0 +1,17 @@
+  Osteoclasts are differentiated from precursors of the monocyte/macrophage 
+lineage originated from bone marrow hematopoietic stem cells and are the sole 
+bone-resorbing cells in the body. Osteoclast differentiation is thought to 
+require M-CSF (macrophage colony-stimulating factor) and RANKL (receptor 
+activator of nuclear factor kappa-B ligand) signaling. However, it has recently 
+been proposed that under chronic inflammatory conditions, such as systemic 
+autoimmune diseases (e.g., rheumatoid arthritis), an increase in inflammatory 
+cytokine levels within joints induces pathological osteoclast differentiation, 
+causing excessive bone resorption. In addition, the authors have reported that 
+stimulating mouse bone marrow monocytes and human CD14+ monocytes with 
+combination of TNFα and IL-6 can induce differentiation of osteoclast-like 
+cells, which are cells with bone resorption activity. In the present article, we 
+discuss the mechanism of osteoclast differentiation of RANKL-independent 
+bone-resorbing cells, using both data from the aforementioned report as well as 
+the latest findings. Understanding the mechanisms underlying RANKL-independent, 
+cytokine-mediated osteoclast differentiation could facilitate the development of 
+novel therapies for inflammatory joint diseases.

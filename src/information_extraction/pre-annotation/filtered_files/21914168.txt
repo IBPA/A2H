@@ -1,0 +1,33 @@
+INTRODUCTION: Autoimmune inflammation is a characteristic feature of rheumatoid 
+arthritis (RA) and other autoimmune diseases. In the natural course of human 
+autoimmune diseases, it is rather difficult to pinpoint the precise timing of 
+the initial event that triggers the cascade of pathogenic events that later 
+culminate into clinically overt disease. Therefore, it is a challenge to examine 
+the early preclinical events in these disorders. Animal models are an invaluable 
+resource in this regard. Furthermore, considering the complex nature of the 
+pathogenic immune events in arthritis, microarray analysis offers a versatile 
+tool to define the dynamic patterns of gene expression during the disease 
+course.
+METHODS: In this study, we defined the profiles of gene expression at different 
+phases of adjuvant arthritis (AA) in Lewis rats and compared them with those of 
+antigen mycobacterial heat shock protein 65 (Bhsp65)-tolerized syngeneic rats. 
+Purified total RNA (100 ng) extracted from the draining lymph node cells was 
+used to generate biotin-labeled fragment cRNA, which was then hybridized with an 
+oligonucleotide-based DNA microarray chip. Significance analysis of microarrays 
+was used to compare gene expression levels between the two different groups by 
+limiting the false discovery rate to < 5%. Some of the data were further 
+analyzed using a fold change ≥2.0 as the cutoff. The gene expression of select 
+genes was validated by quantitative real-time PCR.
+RESULTS: Intriguingly, the most dramatic changes in gene expression in the 
+draining lymphoid tissue ex vivo were observed at the preclinical (incubation) 
+phase of the disease. The affected genes represented many of the known proteins 
+that participate in the cellular immune response. Interestingly, the preclinical 
+gene expression profile was significantly altered by a disease-modulating, 
+antigen-based tolerogenic regimen. The changes mostly included upregulation of 
+several genes, suggesting that immune tolerance suppressed disease by activating 
+disease-regulating pathways. We identified a molecular signature comprising at 
+least 12 arthritis-related genes altered by Bhsp65-induced tolerance.
+CONCLUSIONS: This is the first report of microarray analysis in the rat AA 
+model. The results of this study not only advance our understanding of the early 
+phase events in autoimmune arthritis but also help in identifying potential 
+targets for the immunomodulation of RA.

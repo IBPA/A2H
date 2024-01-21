@@ -1,0 +1,24 @@
+Group VIA phospholipase A(2) (iPLA(2)β) in pancreatic islet β-cells participates 
+in glucose-stimulated insulin secretion and sarco(endo)plasmic reticulum ATPase 
+(SERCA) inhibitor-induced apoptosis, and both are attenuated by pharmacologic or 
+genetic reductions in iPLA(2)β activity and amplified by iPLA(2)β 
+overexpression. While exploring signaling events that occur downstream of 
+iPLA(2)β activation, we found that p38 MAPK is activated by phosphorylation in 
+INS-1 insulinoma cells and mouse pancreatic islets, that this increases with 
+iPLA(2)β expression level, and that it is stimulated by the iPLA(2)β reaction 
+product arachidonic acid. The insulin secretagogue D-glucose also stimulates 
+β-cell p38 MAPK phosphorylation, and this is prevented by the iPLA(2)β inhibitor 
+bromoenol lactone. Insulin secretion induced by d-glucose and forskolin is 
+amplified by overexpressing iPLA(2)β in INS-1 cells and in mouse islets, and the 
+p38 MAPK inhibitor PD169316 prevents both responses. The SERCA inhibitor 
+thapsigargin also stimulates phosphorylation of both β-cell MAPK kinase isoforms 
+and p38 MAPK, and bromoenol lactone prevents both events. Others have reported 
+that iPLA(2)β products activate Rho family G-proteins that promote MAPK kinase 
+activation via a mechanism inhibited by Clostridium difficile toxin B, which we 
+find to inhibit thapsigargin-induced β-cell p38 MAPK phosphorylation. 
+Thapsigargin-induced β-cell apoptosis and ceramide generation are also prevented 
+by the p38 MAPK inhibitor PD169316. These observations indicate that p38 MAPK is 
+activated downstream of iPLA(2)β in β-cells incubated with insulin secretagogues 
+or thapsigargin, that this requires prior iPLA(2)β activation, and that p38 MAPK 
+is involved in the β-cell functional responses of insulin secretion and 
+apoptosis in which iPLA(2)β participates.

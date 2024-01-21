@@ -1,0 +1,20 @@
+Clostridioides difficile infection (CDI) is increasing morbidity and mortality 
+rates globally. Fecal microbiota transplantation (FMT), an effective therapy for 
+eliminating Clostridioides difficile (C. difficile), cannot be used extensive 
+due to a range of challenges. Probiotics thus constitutes a promising 
+alternative therapy. In our study, we evaluated the effect of consortium of 
+probiotics including five Lactobacilli strains and two Bifidobacterium strains 
+on the colonization of toxigenic BI/NAP1/027 C. difficile in a mouse model. The 
+results of 16S rRNA sequencing and targeted metabolomics showed the consortium 
+of probiotics effectively decreased the colonization of C. difficile, changed 
+the α- and β-diversity of the gut microbiota, decreased the primary bile acids, 
+and increased the secondary bile acids. Spearman's correlation showed that some 
+of the OTUs such as Akkermansia, Bacteroides, Blautia et al. were positively 
+correlated with C. difficile numbers and the primary bile acids, and negatively 
+correlated with the secondary bile acids. However, some of the OTUs, such as 
+Butyricicoccus, Ruminococcus, and Rikenellaceae, were negatively correlated with 
+C. difficile copies and the primary bile acids, and positively correlated with 
+the secondary bile acids. In summary, the consortium of probiotics effectively 
+decreases the colonization of C. difficile, probably via alteration of gut 
+microbiota and bile acids. Our probiotics mixture thus offers a promising FMT 
+alternative.

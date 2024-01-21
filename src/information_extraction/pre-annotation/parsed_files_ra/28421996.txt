@@ -1,0 +1,22 @@
+OBJECTIVES: Obese rheumatoid arthritis patients often have higher disease 
+activity and a poorer response to treatment than do non-obese patients. The 
+present study aims to clarify the influence of obesity on the action of IL-6 and 
+to evaluate the efficacy of IL-6 signalling blockade in arthritis with obesity.
+METHODS: Mice were fed a high-fat diet for 5 weeks, and the influence of this 
+diet on macrophages and type II collagen-induced arthritis was investigated.
+RESULTS: The mice fed the high-fat diet showed greater expression of macrophage 
+marker F4/80, not only in subcutaneous fat but also in knee synovium and the 
+calcaneal region, than did the mice fed a normal diet. Furthermore, macrophages 
+isolated from mice on the high-fat diet tended to show higher expression of 
+cyclooxygenase-2 following IL-6 stimulation than did macrophages from mice fed 
+the normal diet. Moreover, mice fed the normal or high-fat diet were immunised 
+with type II collagen, and were treated with anti-mouse IL-6 receptor antibody 
+(MR16-1). The anti-arthritis effect of MR16-1 was not reduced in mice fed the 
+high-fat diet compared to mice fed the normal diet (inhibition ratio: 87% vs. 
+62%). Furthermore, at the peak of arthritis, cyclooxygenase-2 expression in the 
+calcaneal region of mice fed the high-fat diet was higher than that in the mice 
+fed the normal diet.
+CONCLUSIONS: These results suggested that a high-fat diet induces inflammatory 
+changes in the synovium. We demonstrated that IL-6 signalling blockade by an 
+anti-IL-6 receptor antibody can be effective in treating arthritis, even with 
+obesity.

@@ -1,0 +1,17 @@
+The covalent transfer of heavy chains (HCs) from inter-α-inhibitor (IαI) to 
+hyaluronan (HA) via the protein product of tumor necrosis factor-stimulated 
+gene-6 (TSG-6) forms the HC-HA complex, a pathological form of HA that promotes 
+the adhesion of leukocytes to HA matrices. The transfer of HCs to high molecular 
+weight (HMW) HA is a reversible event whereby TSG-6 can shuffle HCs from one HA 
+molecule to another. Therefore, HMW HA can serve as both an HC acceptor and an 
+HC donor. In the present study, we show that transfer of HCs to low molecular 
+weight HA oligosaccharides is an irreversible event where subsequent shuffling 
+does not occur, i.e. HA oligosaccharides from 8 to 21 monosaccharide units in 
+length can serve as HC acceptors, but are unable to function as HC donors. We 
+show that the HC-HA complex is present in the synovial fluid of mice subjected 
+to systemic and monoarticular mouse models of rheumatoid arthritis. Furthermore, 
+we demonstrate that HA oligosaccharides can be used, with TSG-6, to irreversibly 
+shuffle HCs from pathological, HMW HC-HA to HA oligosaccharides, thereby 
+restoring HC-HA matrices from the inflamed joint to their normal state, 
+unmodified with HCs. This process was also effective for HC-HA in the synovial 
+fluid of human rheumatoid arthritis patients (in vitro).

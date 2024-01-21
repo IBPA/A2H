@@ -1,0 +1,26 @@
+Osteoclasts, bone-resorbing multinucleated cells, are differentiated from 
+hemopoietic progenitors of the monocyte/macrophage lineage. Bone resorption by 
+osteoclasts is considered a potential therapeutic target to the treatment of 
+erosive bone diseases, including osteoporosis, rheumatoid arthritis, and 
+periodontitis. In the present study, we found that alisol-B, a phyto-steroid 
+from Alisma orientale Juzepczuk, exhibited inhibitory effects on 
+osteoclastogenesis both in vitro and in vivo. Although RT-PCR analysis showed 
+that alisol-B did not affect the 1alpha,25(OH)(2)D(3)-induced expressions of 
+RANKL, OPG and M-CSF mRNAs in osteoblasts, addition of alisol-B to co-cultures 
+of mouse bone marrow cells and primary osteoblasts with 10(-8)M 
+1alpha,25(OH)(2)D(3) caused significant inhibition of osteoclastogenesis. We 
+further examined the direct effects of alisol-B on osteoclast precursors. 
+Alisol-B strongly inhibited RANKL-induced osteoclast formation when added during 
+the early stage of cultures, suggesting that alisol-B acts on osteoclast 
+precursors to inhibit RANKL/RANK signaling. Among the RANK signaling pathways, 
+alisol-B inhibited the phosphorylation of JNK, which are upregulated in response 
+to RANKL in bone marrow macrophages, alisol-B also inhibited RANKL-induced 
+expression of NFATc1 and c-Fos, which are key transcription factors for 
+osteoclastogenesis. In addition, alisol-B suppressed the pit-forming activity 
+and disrupted the actin ring formation of mature osteoclasts. In a hypercalcemic 
+mouse model induced by 2-methylene-19-nor-(20S)-1alpha,25(OH)(2)D(3) (2MD), an 
+analog of 1alpha,25(OH)(2)D(3), administration of alisol-B significantly 
+suppressed 2MD-induced hypercalcemia as resulting from the inhibition of 
+osteoclastogenesis. Taken together, these findings suggest that alisol-B may be 
+a potential novel therapeutic molecule for bone disorders by targeting the 
+differentiation of osteoclasts as well as their functions.

@@ -1,0 +1,20 @@
+OBJECTIVES: Rheumatoid arthritis (RA) is associated with an increased risk of 
+fragility fractures. In RA patients, the direct effect of inflammation on bone 
+is difficult to study because their skeleton is also affected by medication with 
+corticosteroids and other drugs as well as aging and menopause, which contribute 
+to bone fragility. This study used an animal model of chronic arthritis to 
+evaluate the direct impact of chronic inflammation on biomechanical properties 
+and structure of bone.
+METHODS: In the SKG mouse chronic arthritis model three point bending tests were 
+performed on femoral bones and compression tests on vertebral bodies. Collagen 
+structure was analysed using second-harmonic generation (SHG) imaging with a 
+two-photon microscope, ultramorphology by scanning electron microscopy (SEM) 
+coupled with energy dispersive x-ray spectroscopy (EDS) and bone density using 
+water pycnometer.
+RESULTS: Arthritic bones had poor biomechanical quality compared to control 
+bones. SHG, SEM and pycnometry disclosed variable signs of impaired collagen 
+organization, poor trabecular architecture and low bone density.
+CONCLUSION: Present data demonstrate for the first time that chronic 
+inflammation per se, without confounding influence of drugs and aging, leads to 
+impairment of bone biomechanics in terms of stiffness, ductility and ultimate 
+strength (fracture).

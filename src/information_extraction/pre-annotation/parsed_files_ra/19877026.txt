@@ -1,0 +1,27 @@
+OBJECTIVE: Synovial fibroblasts (SFs) play a pivotal role in the pathogenesis of 
+rheumatoid arthritis (RA). It has been documented that the phenotype of 
+rheumatoid synovium is similar, in many respects, to that of an aggressive 
+tumor. In this study, a novel, genetically engineered adenovirus was designed to 
+lyse SFs that exhibit high telomerase activity and p53 mutations, and its 
+effects as a novel therapeutic strategy were assessed in an experimental 
+arthritis model.
+METHODS: An E1B-55-kd-deleted adenovirus driven by the human telomerase reverse 
+transcriptase promoter was constructed (designated Ad.GS1). Cytolysis of SFs and 
+productive replication of Ad.GS1 in the SFs of rats with collagen-induced 
+arthritis (CIA), as well as the SFs of patients with RA (RASFs), were assessed 
+in vitro and in vivo. Treatment responses, as well as the presence of 
+disease-related cytokines and enzymes in the ankle joints, were determined in 
+the murine model.
+RESULTS: Ad.GS1 replicated in and induced cytolysis of human RASFs and SFs from 
+arthritic rats, but spared normal fibroblasts. Bioluminescence imaging in vivo 
+also demonstrated replication of Ad.GS1 in arthritic rat joints, but not in 
+normal rat joints. Intraarticular administration of Ad.GS1 significantly reduced 
+the ankle circumference, articular index scores, radiographic scores, and 
+histologic scores and decreased the production of interleukin-1beta, matrix 
+metalloproteinase 9, and prolyl 4-hydroxylase in rats with CIA compared with 
+their control counterparts.
+CONCLUSION: This study is the first to demonstrate the amelioration of arthritic 
+symptoms by a novel, telomerase-dependent adenovirus in the rat CIA model, an 
+experimental model that resembles human RA. In addition, the results suggest 
+that because of its ability to induce cytolysis of SFs, this virus may be 
+further explored as a therapeutic agent in patients with RA.

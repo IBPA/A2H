@@ -1,0 +1,24 @@
+OBJECTIVE: The relationship between rheumatoid arthritis and atherosclerosis has 
+been recognized for >20 years. This study aimed to elucidate the roles of 
+oxidized low-density lipoprotein (ox-LDL; one of the main pathogenic factors of 
+atherosclerosis) and its endothelial receptor, lectin-like ox-LDL receptor 1 
+(LOX-1), in arthritic joints using a rat zymosan-induced arthritis (ZIA) model.
+METHODS: LOX-1 expression and ox-LDL accumulation in arthritic joints were 
+detected by immunohistochemistry using specific mouse anti-LOX-1 and anti-ox-LDL 
+monoclonal antibodies, respectively. To elucidate the effects of the expressed 
+LOX-1 on arthritis, ZIA rats were treated with anti-LOX-1 antibody or normal 
+mouse IgG. The severity of arthritis was analyzed by joint swelling. Cell 
+infiltration, synovial hyperplasia, and proteoglycan losses were also determined 
+by histologic scoring. Proinflammatory cytokine and nitrite levels in serum and 
+joint fluid were also measured.
+RESULTS: Immunohistochemical study of ZIA demonstrated LOX-1 expression on 
+synovial endothelium and postcapillary venules at 6 hours after the induction of 
+inflammation, with maximum expression detected at 24 hours. LOX-1 was also 
+expressed weakly on both joint cartilage and synovium. Ox-LDL, a ligand of 
+LOX-1, was also detected in articular chondrocytes. Administration of anti-LOX-1 
+antibody, which blocks LOX-1 activity, suppressed joint swelling (by 33.5%), 
+leukocyte infiltration, and joint nitrite accumulation at 24 hours, as well as 
+cartilage destruction at 7 days, compared with control rats.
+CONCLUSION: LOX-1 induction in arthritic joints might play a role in promoting 
+joint inflammation and cartilage destruction by mediating leukocyte infiltration 
+into the arthritic joints of ZIA rats.

@@ -1,0 +1,24 @@
+BACKGROUND AND PURPOSE: Annexin A1 (AnxA1) is an endogenous anti-inflammatory 
+protein and agonist of the formyl peptide receptor 2 (FPR2). However, the 
+potential for therapeutic FPR ligands to modify immune-mediated disease has been 
+little explored. We investigated the effects of a synthetic FPR agonist on joint 
+disease in the K/BxN model of rheumatoid arthritis (RA) and RA fibroblast-like 
+synoviocytes (FLS).
+EXPERIMENTAL APPROACH: Arthritis was induced by injection of K/BxN serum at day 
+0 and 2 in wild-type (WT) or AnxA1(-/-) mice and clinical and histopathological 
+manifestations measured 8-11 days later. WT mice were given the FPR agonist 
+compound 43 (Cpd43) (6 or 30 mg·kg(-1) i.p.) for 4 days. Effects of AnxA1 and 
+Cpd43 on RANKL-induced osteoclastogenesis were assessed in RAW 264.7 cells and 
+human RA FLS and macrophages.
+KEY RESULTS: Treatment with Cpd43 before or after the onset of arthritis reduced 
+clinical disease severity and attenuated synovial TNF-α and 
+osteoclast-associated gene expression. Deletion of AnxA1 in mice exacerbated 
+arthritis severity in the K/BxN model. In vitro, Cpd43 suppressed 
+osteoclastogenesis and NFAT activity elicited by RANKL, and inhibited IL-6 
+secretion by mouse macrophages. In human RA joint-derived FLS and 
+monocyte-derived macrophages, Cpd43 treatment inhibited IL-6 release, while 
+blocking FPR2 or silencing AnxA1 increased this release.
+CONCLUSIONS AND IMPLICATIONS: The FPR agonist Cpd43 reduced osteoclastogenesis 
+and inflammation in a mouse model of RA and exhibited anti-inflammatory effects 
+in relevant human cells. These data suggest that FPR ligands may represent novel 
+therapeutic agents capable of ameliorating inflammation and bone damage in RA.

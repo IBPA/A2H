@@ -1,0 +1,17 @@
+Many intestinal pathogens, including Clostridioides difficile, use mucus-derived 
+sugars as crucial nutrients in the gut. Commensals that compete with pathogens 
+for such nutrients are therefore ecological gatekeepers in healthy guts, and are 
+attractive candidates for therapeutic interventions. Nevertheless, there is a 
+poor understanding of which commensals use mucin-derived sugars in situ as well 
+as their potential to impede pathogen colonization. Here, we identify mouse gut 
+commensals that utilize mucus-derived monosaccharides within complex communities 
+using single-cell stable isotope probing, Raman-activated cell sorting and 
+mini-metagenomics. Sequencing of cell-sorted fractions reveals members of the 
+underexplored family Muribaculaceae as major mucin monosaccharide foragers, 
+followed by members of Lachnospiraceae, Rikenellaceae, and Bacteroidaceae 
+families. Using this information, we assembled a five-member consortium of 
+sialic acid and N-acetylglucosamine utilizers that impedes C. difficile's access 
+to these mucosal sugars and impairs pathogen colonization in antibiotic-treated 
+mice. Our findings underscore the value of targeted approaches to identify 
+organisms utilizing key nutrients and to rationally design effective probiotic 
+mixtures.

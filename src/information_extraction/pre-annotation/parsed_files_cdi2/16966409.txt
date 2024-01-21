@@ -1,0 +1,21 @@
+Clostridium difficile is the leading cause of nosocomial antibiotic-associated 
+diarrhea, and recent outbreaks of strains with increased virulence underscore 
+the importance of identifying novel approaches to treat and prevent relapse of 
+Clostridium difficile-associated diarrhea (CDAD). CDAD pathology is induced by 
+two exotoxins, toxin A and toxin B, which have been shown to be cytotoxic and, 
+in the case of toxin A, enterotoxic. In this report we describe fully human 
+monoclonal antibodies (HuMAbs) that neutralize these toxins and prevent disease 
+in hamsters. Transgenic mice carrying human immunoglobulin genes were used to 
+isolate HuMAbs that neutralize the cytotoxic effects of either toxin A or toxin 
+B in cell-based in vitro neutralization assays. Three anti-toxin A HuMAbs (3H2, 
+CDA1, and 1B11) could all inhibit the enterotoxicity of toxin A in mouse 
+intestinal loops and the in vivo toxicity in a systemic mouse model. Four 
+anti-toxin B HuMAbs (MDX-1388, 103-174, 1G10, and 2A11) could neutralize 
+cytotoxicity in vitro, although systemic toxicity in the mouse could not be 
+neutralized. Anti-toxin A HuMAb CDA1 and anti-toxin B HuMAb MDX-1388 were tested 
+in the well-established hamster model of C. difficile disease. CDA1 alone 
+resulted in a statistically significant reduction of mortality in hamsters; 
+however, the combination treatment offered enhanced protection. Compared to 
+controls, combination therapy reduced mortality from 100% to 45% (P<0.0001) in 
+the primary disease hamster model and from 78% to 32% (P<0.0001) in the less 
+stringent relapse model.

@@ -1,0 +1,25 @@
+Clostridium sordellii infections cause gangrene and edema in humans and 
+gastrointestinal infections in livestock. One of the principle virulence factors 
+is TcsL, a large protein toxin which glucosylates host GTPases to cause 
+cytopathic and cytotoxic effects. TcsL has two enzymatic domains, an N-terminal 
+glucosyltransferase domain (GTD) and an autoprocessing domain responsible for 
+release of the GTD within the cell. The GTD can then use its N-terminal membrane 
+localization domain (MLD) for orientation on membranes and modification of 
+GTPases. This study describes the use of conditionally immortalized murine 
+pulmonary microvascular endothelial cells as a model for the study of TcsL 
+functional activities. Point mutations that disrupt the glucosyltransferase, 
+autoprocessing, or membrane localization activities were introduced into a 
+recombinant version of TcsL, and the activities of these mutants were compared 
+to those of wild-type toxin. We observed that all mutants are defective or 
+impaired in cytotoxicity but differ in their modification of Rac1 and Ras. The 
+data suggest a model where differences in GTPase localization dictate cellular 
+responses to intoxication and highlight the importance of autoprocessing in the 
+function of TcsL. IMPORTANCE Clostridium sordellii is a bacterium that can 
+infect humans and cause serious disease and death. The principle virulence 
+factor associated with clinical symptoms is a large protein toxin known as 
+lethal toxin. The mechanism of lethal-toxin intoxication is assumed to be 
+similar to that of the homologous toxins from C. difficile, but very few studies 
+have been done in the context of endothelial cells, a relevant target in 
+C. sordellii infections. This study was designed to test the role of the 
+lethal-toxin enzymatic activities and membrane localization in endothelial cell 
+toxicity and host substrate modification.

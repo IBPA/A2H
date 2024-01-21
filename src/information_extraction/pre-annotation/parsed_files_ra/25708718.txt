@@ -1,0 +1,26 @@
+OBJECTIVE: Mesenchymal stem cells (MSCs) are potent immunosuppressive cells that 
+have shown promise in the treatment of rheumatoid arthritis (RA). Deciphering 
+the intrinsic characteristics of MSCs that correlate with their biologic 
+activity will facilitate their clinical use. Recently, the role of 
+glucocorticoid-induced leucine zipper (GILZ) in the development of RA has been 
+documented. The aim of this study was to evaluate whether GILZ expression by 
+MSCs may contribute to their therapeutic effect.
+METHODS: MSCs were isolated from GILZ-deficient (GILZ(-/-) ) mice and wild-type 
+mice. MSCs (1 × 10(6) cells) were injected twice via the tail vein into mice 
+with collagen-induced arthritis (CIA).
+RESULTS: In vitro, we showed that GILZ is a key factor involved in the 
+immunosuppressive potential of MSCs. MSCs derived from GILZ(-/-) mice did not 
+suppress the proliferation of CD4+ T cells and were less efficient than MSCs 
+derived from WT mice in altering Th17 cell polarization. Thus, we investigated 
+the role of GILZ in an experimental model of arthritis and demonstrated that 
+although WT MSCs significantly reduced paw swelling in arthritic mice, GILZ(-/-) 
+MSCs did not. Moreover, the magnitude of the effects of GILZ(-/-) MSCs on Th17 
+cell frequency was significantly lower than that of WT MSCs. The therapeutic 
+effect of MSCs correlated with the generation of Treg cells bearing the 
+CD4 + RORγt+IL-17(low) IL-10+ signature, and Th17 cell polarization was GILZ 
+dependent.
+CONCLUSION: This study demonstrates that GILZ has an essential role in the 
+therapeutic effectiveness of MSCs in arthritis by favoring Th17 cell 
+polarization toward a regulatory phenotype. Therefore, potentiation of GILZ 
+expression in MSCs could represent a means to enhance their therapeutic effect 
+in autoimmune diseases.

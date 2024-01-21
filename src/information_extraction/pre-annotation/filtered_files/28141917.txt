@@ -1,0 +1,26 @@
+OBJECTIVE: Bruton's tyrosine kinase (BTK) transmits crucial survival signals 
+from the B cell receptor (BCR) in B cells. Pharmacologic BTK inhibition 
+effectively diminishes disease symptoms in mouse models of autoimmunity; 
+conversely, transgenic BTK overexpression induces systemic autoimmunity in mice. 
+We undertook this study to investigate BTK expression and activity in human B 
+cells in the context of autoimmune disease.
+METHODS: Using intracellular flow cytometry, we quantified BTK expression and 
+phosphorylation in subsets of peripheral blood B cells from 30 patients with 
+rheumatoid arthritis (RA), 26 patients with primary Sjögren's syndrome (SS), and 
+matched healthy controls.
+RESULTS: In circulating B cells, BTK protein expression levels correlated with 
+BTK phosphorylation. BTK expression was up-regulated upon BCR stimulation in 
+vitro and was significantly higher in CD27+ memory B cells than in CD27-IgD+ 
+naive B cells. Importantly, BTK protein and phospho-BTK were significantly 
+increased in B cells from anti-citrullinated protein antibody (ACPA)-positive RA 
+patients but not in B cells from ACPA-negative RA patients. BTK was increased 
+both in naive B cells and in memory B cells and correlated with frequencies of 
+circulating CCR6+ Th17 cells. Likewise, BTK protein was increased in B cells 
+from a major fraction of patients with primary SS and correlated with serum 
+rheumatoid factor levels and parotid gland T cell infiltration. Interestingly, 
+targeting T cell activation in patients with primary SS using the CTLA-4Ig 
+fusion protein abatacept restored BTK protein expression in B cells to normal 
+levels.
+CONCLUSION: These data indicate that autoimmune disease in humans is 
+characterized by enhanced BTK activity, which is linked not only to autoantibody 
+formation but also to T cell activity.

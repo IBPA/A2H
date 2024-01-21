@@ -1,0 +1,28 @@
+OBJECTIVE: MicroRNA (miRNA) plays a role in autoimmune diseases. MiRNA-223 
+(miR-223) is up-regulated in patients with rheumatoid arthritis (RA) and is 
+involved in osteoclastogenesis, which contributes to erosive disease. The aim of 
+this study was to test the feasibility of using lentiviral vectors expressing 
+the miR-223 target sequence (miR-223T) to suppress miR-223 activity as a 
+therapeutic strategy in a mouse model of collagen-induced arthritis (CIA).
+METHODS: Levels of miR-223 in the synovial tissue of patients with RA or 
+osteoarthritis (OA), as well as in the ankle joints of mice with CIA, were 
+determined by quantitative reverse transcriptase-polymerase chain reaction 
+(RT-PCR). Lentiviral vectors expressing miR-223T (LVmiR-223T) or luciferase 
+short hairpin RNA (LVshLuc) as a control vector were injected intraperitoneally 
+into mice with CIA. Treatment responses and disease-related bone mineral density 
+were monitored. Levels of nuclear factor 1A (NF-1A), a direct target of miR-223, 
+and macrophage colony-stimulating factor receptor (M-CSFR), which is critical 
+for osteoclastogenesis, were measured by immunohistochemistry and quantitative 
+RT-PCR. Osteoclasts were assessed by tartrate-resistant acid phosphatase 
+staining.
+RESULTS: MiR-223 expression was significantly higher in the synovium of RA 
+patients and in the ankle joints of mice with CIA as compared to OA patients and 
+normal mice. LVmiR-223T treatment reduced the arthritis score, histologic score, 
+miR-223 expression, osteoclastogenesis, and bone erosion in mice with CIA. 
+Down-regulation of miR-223 with concomitant increases in NF-1A levels and 
+decreases in M-CSFR levels was detected in the synovium of LVmiR-223T-treated 
+mice.
+CONCLUSION: This study is the first to demonstrate that lentivirus-mediated 
+silencing of miR-223 can reduce disease severity of experimental arthritis. 
+Furthermore, our results indicate that inhibition of miR-223 activity should be 
+further explored as a therapeutic strategy in RA.

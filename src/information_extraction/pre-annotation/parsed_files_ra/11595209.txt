@@ -1,0 +1,26 @@
+PTHrP, a peptide induced in parenchymal organs during endotoxemia and in the 
+synovium in rheumatoid arthritis, has recently been shown to be expressed in 
+immature or transformed human astrocytes, but not in normal cells. This finding 
+has led us to postulate that PTHrP might also be induced in reactive astrocytes 
+in inflamed brain and, thus, act as a mediator of CNS inflammation. To test this 
+hypothesis, PTHrP expression was examined following cortical stab wound injury 
+in rats, a classical model of reactive gliosis. To determine whether PTHrP was 
+induced in glia by TNF-alpha, a known mediator of inflammation in brain and of 
+PTHrP induction in peripheral tissues, and to determine whether PTHrP, in turn, 
+mediated inflammatory changes in glia, in vitro studies with rat astrocytes and 
+glial-enriched mixed brain cells were also undertaken. Consistent with previous 
+reports of PTHrP expression in normal brain, neurons were the primary site of 
+immunoreactive PTHrP expression in the injured cortex 1 day after stab wound 
+injury. Over the subsequent 3 days, specific immunostaining for PTHrP and for 
+GFAP, a marker of reactive astrocytes, appeared in reactive astrocytes at the 
+wound edge and in perivascular astrocytes, reaching a maximum level of 
+expression at the last time point examined (day 4). TNF-alpha induced PTHrP 
+expression in astrocyte and glial-enriched brain cells in vitro, suggesting that 
+this pro-inflammatory peptide was a possible mediator of PTHrP expression in CNS 
+inflammation. PTHrP(1-34) acted in an additive fashion with TNF-alpha to induced 
+astrocyte expression of IL-6, a cytokine with demonstrated neuroprotective 
+effects. Astrocyte proliferation was inhibited by PTHrP(1-34) and PTHrP(1-141), 
+acting via a PTH/PTHrP receptor cAMP signaling pathway. These studies suggest 
+that PTHrP, analogous to its regulatory functions in other non-CNS models of 
+inflammation, may be an important mediator of the inflammatory response in 
+brain.

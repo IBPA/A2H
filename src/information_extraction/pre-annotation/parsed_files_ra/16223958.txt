@@ -1,0 +1,21 @@
+Nonsteroidal anti-inflammatory drugs (NSAIDs) exert anti-inflammatory, 
+analgesic, and antipyretic activities and suppress prostaglandin synthesis by 
+inhibiting cyclooxygenase, an enzyme that catalyzes the formation of 
+prostaglandin precursors from arachidonic acid. Epidemiological observations 
+indicate that the long-term treatment of patients suffering from rheumatoid 
+arthritis with NSAIDs results in reduced risk and delayed onset of Alzheimer's 
+disease. In this study, we investigated the therapeutic potential for 
+Alzheimer's disease of mefenamic acid, a commonly used NSAID that is a 
+cyclooxygenase-1 and 2 inhibitor with only moderate anti-inflammatory 
+properties. We found that mefenamic acid attenuates the neurotoxicities induced 
+by amyloid beta peptide (Abeta)(1-42) treatment and the expression of a Swedish 
+double mutation (KM595/596NL) of amyloid precursor protein (Swe-APP) or the 
+C-terminal fragments of APP (APP-CTs) in neuronal cells. We also show that 
+mefenamic acid decreases the production of the free radical nitric oxide and 
+reduces cytochrome c release from mitochondria induced by Abeta(1-42), Swe-APP, 
+or APP-CTs in neuronal cells. In addition, mefenamic acid up-regulates 
+expression of the antiapoptotic protein Bcl-X(L). Moreover, our study 
+demonstrates for the first time that mefenamic acid improves learning and memory 
+impairment in an Abeta(1-42)-infused Alzheimer's disease rat model. Taking these 
+in vitro and in vivo results together, our study suggests that mefenamic acid 
+could be used as a therapeutic agent in Alzheimer's disease.

@@ -1,0 +1,16 @@
+Recently, association of celiac disease with common single-nucleotide 
+polymorphism (SNP) variants in an extensive linkage-disequilibrium block of 480 
+kb containing the KIAA1109, Tenr, IL2, and IL21 genes has been demonstrated in 
+three independent populations (rs6822844P combined=1.3 x 10(-14)). The 
+KIAA1109/Tenr/IL2/IL21 block corresponds to the Idd3 locus in the nonobese 
+diabetic mouse model of type 1 diabetes (T1D). This block was recently found to 
+be associated with T1D in a genomewide association study, although this finding 
+lacks unequivocal confirmation. We therefore aimed to investigate whether the 
+KIAA1109/Tenr/IL2/IL21 region is involved in susceptibility to multiple 
+autoimmune diseases. We tested SNP rs6822844 for association with disease in 350 
+T1D-affected and 1,047 rheumatoid arthritis (RA)-affected Dutch patients and in 
+929 controls. We replicated the association with T1D (P=.0006; OR 0.64 [95% CI 
+0.50-0.83]), and revealed a similar novel association with RA (P=.0002; OR 0.72 
+[95% CI 0.61-0.86]). Our results replicate and extend the association found in 
+the KIAA1109/Tenr/IL2/IL21 gene region with autoimmune diseases, implying that 
+this locus is a general risk factor for multiple autoimmune diseases.

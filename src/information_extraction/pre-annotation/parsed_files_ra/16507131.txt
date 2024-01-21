@@ -1,0 +1,24 @@
+Rheumatoid arthritis (RA) is a chronic debilitating autoimmune disease that 
+results in joint destruction and subsequent loss of function. To better 
+understand its pathogenesis and to facilitate the search for novel RA 
+therapeutics, we profiled the rat model of collagen-induced arthritis (CIA) to 
+discover and characterize blood biomarkers for RA. Peripheral blood mononuclear 
+cells (PBMCs) were purified using a Ficoll gradient at various time points after 
+type II collagen immunization for RNA preparation. Total RNA was processed for a 
+microarray analysis using Affymetrix GeneChip technology. Statistical comparison 
+analyses identified differentially expressed genes that distinguished CIA from 
+control rats. Clustering analyses indicated that gene expression patterns 
+correlated with laboratory indices of disease progression. A set of 28 probe 
+sets showed significant differences in expression between blood from arthritic 
+rats and that from controls at the earliest time after induction, and the 
+difference persisted for the entire time course. Gene Ontology comparison of the 
+present study with previous published murine microarray studies showed conserved 
+Biological Processes during disease induction between the local joint and PBMC 
+responses. Genes known to be involved in autoimmune response and arthritis, such 
+as those encoding Galectin-3, Versican, and Socs3, were identified and validated 
+by quantitative TaqMan RT-PCR analysis using independent blood samples. Finally, 
+immunoblot analysis confirmed that Galectin-3 was secreted over time in plasma 
+as well as in supernatant of cultured tissue synoviocytes of the arthritic rats, 
+which is consistent with disease progression. Our data indicate that gene 
+expression in PBMCs from the CIA model can be utilized to identify candidate 
+blood biomarkers for RA.

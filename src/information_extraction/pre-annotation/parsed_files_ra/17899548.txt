@@ -1,0 +1,14 @@
+The glycosylation status of IgG has been implicated in the pathology of 
+rheumatoid arthritis. Earlier, we reported the identification of a novel 
+secreted endo-beta-N-acetylglucosaminidase (EndoS), secreted by Streptococcus 
+pyogenes that specifically hydrolyzes the beta-1,4-di-N-acetylchitobiose core of 
+the asparagine-linked glycan of human IgG. Here, we analyzed the 
+arthritogenicity of EndoS-treated collagen type II (CII)-specific mouse mAb in 
+vivo. Endoglycosidase treatment of the antibodies inhibited the induction of 
+arthritis in (BALB/c x B10.Q) F1 mice and induced a milder arthritis in B10.RIII 
+mice as compared with the severe arthritis induced by non-treated antibodies. 
+Furthermore, EndoS treatment did not affect the binding of IgG to CII and their 
+ability to activate complement, but it resulted in reduced IgG binding to 
+FcgammaR and disturbed the formation of stable immune complexes. Hence, the 
+asparagine-linked glycan on IgG plays a crucial role in the development of 
+arthritis.

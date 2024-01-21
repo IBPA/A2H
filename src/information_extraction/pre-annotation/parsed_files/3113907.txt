@@ -1,0 +1,21 @@
+The in vitro activity of erythromycin and RU-28965 (a novel macrolide 
+antimicrobial with improved pharmacokinetics) was determined against a variety 
+of anaerobic bacteria in anaerobic atmospheres with and without added carbon 
+dioxide. Minimum inhibitory concentrations (MIC) were determined using an 
+antimicrobial incorporation technique in Wilkins-Chalgren agar (Oxoid, UK) 
+containing saponinlysed horse blood to a final concentration of 10%. The 
+inoculum used was approximately 10(4) colony forming units (cfu) contained in 10 
+microliters Wilkins-Chalgren broth, which was applied to the surface of the agar 
+plates using a multipoint inoculator. Following inoculation, plates were 
+incubated for 48 h at 37 degrees C in an anaerobic atmosphere containing 10% 
+carbon dioxide or in hydrogen alone. The MIC of each antimicrobial for each 
+organism examined was determined as the lowest concentration of the 
+antimicrobial which completely inhibited growth of the inoculum. The minimum 
+concentrations required to inhibit the growth of 50% (MIC50) and 90% (MIC90) of 
+the bacteria examined were also determined. The MICs of erythromycin and 
+RU-28965 for isolates of the Bacteroides fragilis group, B. bivius and 
+Fusobacterium spp. were generally 10-100 times greater when determined in the 
+presence of carbon dioxide than when determined in hydrogen alone. The MICs of 
+erythromycin and RU-28965 for B. melaninogenicus, Peptococcus spp., 
+Peptostreptococcus spp., Clostridium perfringens, Cl. difficile and 
+Propionibacterium acnes were less affected by the presence of carbon dioxide.

@@ -1,0 +1,17 @@
+Angiogenesis, the formation of new blood vessels from preexisting ones, is a 
+critical component of various pathologies such as tumor progression, rheumatoid 
+arthritis, and retinopathies. Vascular endothelial growth factor (VEGF) is a 
+mitogenic and chimiotactic factor capable of inducing angiogenesis through the 
+activation of its receptors, fetal liver kinase-1 (Flk-1) and fms-like tyrosine 
+kinase-1 (Flt-1), expressed on endothelial cells. The purpose of the present 
+study was to assess if a treatment with antisense (AS) oligonucleotides directed 
+against VEGF receptors Flk-1 or Flt-1 mRNA could prevent VEGF-mediated 
+angiogenesis. With the use of miniosmotic pumps, phosphate-buffered saline, 
+VEGF, or VEGF combined with AS-Flk-1, AS-Flt-1, or AS-scrambled oligonucleotides 
+were released in mouse testis for 14 days. VEGF (1, 2.5, and 5 microg) increased 
+the formation of new capillary blood vessels by 236, 246, and 287%, 
+respectively. The combination of AS-Flk-1 or AS-Flt-1 (200 microg) to VEGF (2.5 
+microg) reduced by 87 and 85% the formation of new blood vessels, respectively, 
+and the expression of their corresponding proteins. These data demonstrate the 
+therapeutical potential of AS-Flk-1 or AS-Flt-1 to prevent VEGF-mediated 
+angiogenesis in vivo.

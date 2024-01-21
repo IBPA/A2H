@@ -1,0 +1,26 @@
+Naproxen (NPX) is used in the treatment of rheumatoid arthritis (RA) for 
+alleviation of pain and inflammation. In view of the extensive albumin binding 
+of NPX, this study investigates whether chronic inflammation and sex influence 
+the physiologic albumin concentrations, plasma protein binding, and 
+pharmacokinetics (PK) of NPX. The PK of NPX was evaluated in a rat model of RA 
+[collagen-induced arthritis (CIA) in Lewis rats] and in healthy controls. These 
+PK studies included 1) NPX in female and male CIA rats that received 10, 25, or 
+50 mg/kg NPX i.p.; and 2) NPX in healthy female and male rats after i.p. dosing 
+of NPX at 50 mg/kg. Plasma albumin concentrations were quantified by 
+enzyme-linked immunosorbent assay, and protein binding was assessed using 
+ultrafiltration. The NPX concentrations in plasma and filtrates were determined 
+by liquid chromatography-tandem mass spectrometry (LC-MS/MS). Plasma 
+concentration-time data of NPX were first assessed by noncompartmental analysis 
+(NCA). Nonlinear PK as indicated by dose-dependent NCA clearances and 
+distribution volumes was observed. A two-compartment model with a first-order 
+absorption process incorporating nonlinear protein binding in plasma and tissues 
+jointly described the PK data of all groups. Saturable albumin binding accounts 
+for the nonlinearity of NPX PK in all rats as well as part of the PK differences 
+in arthritic rats. The CIA rats exhibited reduced albumin concentrations, 
+reduced overall protein binding, and reduced clearances of unbound NPX, 
+consistent with expectations during inflammation. The net effect of chronic 
+inflammation was an elevation of the Cmax and area under the plasma 
+concentration-time curve (AUC) of unbound drug.
+
+Copyright © 2017 by The American Society for Pharmacology and Experimental 
+Therapeutics.

@@ -1,0 +1,26 @@
+OBJECTIVE: Clonal populations of CD4+,CD28- T cells accumulating in rheumatoid 
+arthritis functionally resemble end-differentiated, nondividing, short-lived 
+effector memory cells that reside in peripheral tissues. We undertook this study 
+to examine the tissue niche for CD4+,CD28- T cells and the signals regulating 
+their survival and tissue homing patterns.
+METHODS: Chemokine receptor expression on CD4+,CD28- T cell clones and 
+peripheral blood lymphocytes was assessed by multicolor cytometry. In vitro 
+chemotaxis and transendothelial migration were examined in a Transwell system. 
+In vivo tissue-homing patterns were established by adoptively transferring 
+fluorescence-labeled T cell clones into SCID mice engrafted either with 
+rheumatoid synovium or with human lymph nodes.
+RESULTS: CD4+,CD28- T cell clones adoptively transferred into human tissue-SCID 
+mouse chimeras infiltrated rheumatoid synovium but preferentially homed to lymph 
+nodes. Such T cells coexpressed the chemokine receptors CCR7, CCR5, and CXCR4 
+and migrated in response to both inflammatory chemokines (CCL5) and homing 
+chemokines (CXCL12). T cell receptor crosslinking abrogated chemotactic 
+responsiveness. In contrast, interleukin-12 stimulation induced the 
+up-regulation of CCR5 and a shift in the in vivo homing pattern away from the 
+lymph nodes toward the inflamed synovium.
+CONCLUSION: CD4+,CD28- T cells resemble both short-lived effector memory cells 
+and long-lived central memory cells, and they find a niche both in inflamed 
+synovium and in lymph nodes. Nonspecific cytokine stimulation, not antigen 
+recognition, triggers the transition from the lymph node to the synovium. By 
+maintaining CCR7 expression, these end-differentiated T cells can home to 
+lymphoid organs, enhance their survival, support clonal expansion, and 
+perpetuate autoreactivity.

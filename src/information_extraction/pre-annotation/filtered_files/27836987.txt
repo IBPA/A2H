@@ -1,0 +1,26 @@
+Reactive oxygen species (ROS) play a role in intracellular signaling during 
+osteoclastogenesis. We previously reported that transcriptional factor nuclear 
+factor E2-related factor 2 (Nrf2) was exported from the nucleus to the cytoplasm 
+by receptor activator of nuclear factor-κB ligand (RANKL), and that Nrf2 
+negatively regulated osteoclastogenesis via antioxidant enzyme up-regulation. 
+Knockout mice of BTB and CNC homology 1 (Bach1)-the competitor for Nrf2 in 
+transcriptional regulation-was known to attenuate RANKL-mediated 
+osteoclastogenesis, although the mechanism remains unclear. Therefore, we 
+hypothesized that RANKL could be involved in the nuclear translocation of Bach1, 
+which would attenuate Nrf2-mediated antioxidant enzymes, thereby augmenting 
+intracellular ROS signaling in osteoclasts. RANKL induced Bach1 nuclear import 
+and Nrf2 nuclear export. Induction of Bach1 nuclear export increased Nrf2 
+nuclear import, augmented antioxidant enzyme expression, and, thus, diminished 
+RANKL-mediated osteoclastogenesis via attenuated intracellular ROS signaling. 
+Finally, an in vivo mouse bone destruction model clearly demonstrated that 
+induction of Bach1 nuclear export inhibited bone destruction. In this study, we 
+report that RANKL favors osteoclastogenesis via attenuation of Nrf2-mediated 
+antioxidant enzyme expression by competing with Bach1 nuclear accumulation. Of 
+importance, induction of Bach1 nuclear export activates Nrf2-dependent 
+antioxidant enzyme expression, thereby attenuating osteoclastogenesis. Bach1 
+nuclear export might be a therapeutic target for such bone destructive diseases 
+as rheumatoid arthritis, osteoporosis, and periodontitis.-Kanzaki, H., 
+Shinohara, F., Itohiya, K., Yamaguchi, Y., Katsumata, Y., Matsuzawa, M., Fukaya, 
+S., Miyamoto, Y., Wada, S., Nakamura, Y. RANKL induces Bach1 nuclear import and 
+attenuates Nrf2-mediated antioxidant enzymes, thereby augmenting intracellular 
+reactive oxygen species signaling and osteoclastogenesis in mice.

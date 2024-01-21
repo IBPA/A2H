@@ -1,0 +1,23 @@
+BACKGROUND & AIMS: The mechanism by which Clostridium difficile toxin A causes 
+actin depolymerization and cell rounding involves toxin internalization and 
+subsequent monoglucosylation of the Rho family of proteins. This study explored 
+toxin internalization and effects on mitochondrial function before cell 
+rounding.
+METHODS: Chinese hamster ovary (CHO) cells were exposed to toxin A, and 
+mitochondrial localization was assayed by confocal microscopy. Mitochondrial 
+function was measured by adenosine triphosphate (ATP) concentration, 
+mitochondrial permeability, and leakage of cytochrome c.
+RESULTS: Confocal microscopy showed toxin A colocalization with the 
+mitochondrial protein GRP 75 at 5 minutes after toxin exposure. Between 5 and 15 
+minutes, toxin A caused an 80% diminution in cellular ATP levels; cell rounding 
+and Rho glucosylation commenced between 15 and 30 minutes. Toxin A also resulted 
+in reduction of mitochondrial membrane potential and a 2-3-fold increase in 
+reactive oxygen radicals. Preincubation of CHO cells with the antioxidants 
+butylated hydroxyanisole or butylated hydroxytoluene blocked the toxin A-induced 
+increase in oxygen radicals and diminished cell rounding. Western blot analysis 
+of toxin A-exposed isolated mitochondria showed a direct effect of toxin A on 
+leakage of cytochrome c.
+CONCLUSIONS: The results show that extensive mitochondrial damage occurs within 
+15 minutes in CHO cells exposed to toxin A. Diminished ATP concentrations and 
+increased oxygen radicals are likely to contribute to cytotoxicity from this 
+bacterial toxin.

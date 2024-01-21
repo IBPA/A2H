@@ -1,0 +1,21 @@
+Rheumatoid arthritis (RA) is a common chronic autoimmune and incurable disease. 
+The aim of the present study was to investigate the therapeutic effect and 
+mechanism of the total saponins of Rhizoma Dioscorea nipponica (TSRDN) in RA. A 
+collagen induced-arthritis (CIA) rat model was established. CIA rats were 
+randomly divided into three groups and lavaged with an equal volume of solvent 
+(CIA group), TSRDN (25 mg/kg/day, RDN group) and tripterygium (TP; 12 mg/kg/day, 
+TP group) for 21 days, respectively. Normal rats served as a control group. 
+Hematoxylin-eosin (HE) staining was used to observe the histopathological injury 
+of synovial tissues. The level of CD31, which used for marking and counting, 
+micro vessel density (MVD) and the expression levels of vascular endothelial 
+growth factor (VEGF) and signal transducer and activator of transcription 3 
+(STAT3) were detected by immunohistochemical analysis. Additionally, the 
+DNA-binding activity of nuclear factor-κB (NF-κB) was determined using an ELISA 
+kit. HE staining showed obvious synovial hyperplasia, inflammatory cell 
+infiltration, pannus formation, cartilage and bone erosion in the CIA group 
+rats. In addition, compared with control group, the level of MVD, the expression 
+of VEGF and STAT3, and the DNA-binding activity of NF-κB were all increased in 
+CIA group rat synovial tissue (all P<0.01); however, TSRDN or tripterygium were 
+able to inhibit these changes (all P<0.01). It was speculated that TSRDN may 
+prevent angiogenesis by inhibiting the expression of STAT3 and the DNA-binding 
+activity of NF-κB p65, thereby potentially improving CIA.

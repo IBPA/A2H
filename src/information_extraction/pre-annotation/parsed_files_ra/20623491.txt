@@ -1,0 +1,19 @@
+BACKGROUND: Rheumatoid arthritis (RA) is a chronic autoimmune disease that 
+causes inflammation and destruction of the joints. In the collagen-induced 
+arthritis mouse model of RA, we developed a nonviral gene therapy method 
+designed to block in situ the main cytokine tumour necrosis factor (TNF)-alpha
+METHODS: Electrotransfer was used to deliver a plasmid encoding extracellular 
+domain of mouse soluble TNF-alpha receptor type I fused to the Fc fragment of 
+mouse immunoglobulin (Ig)G1 (pTNFR-Is) corresponding to a dimeric TNF-alpha 
+soluble receptor fusion protein (mTNFR-Is/Ig).
+RESULTS: Delivery of the plasmid into the knees at symptom onset improved the 
+histological inflammation and destruction not only at the knees, but also at the 
+ankles, indicating a local and a regional therapeutic effect. The plasmid was 
+detected in synovial membrane and meniscus specimens from the injected joints. 
+In the synovial membrane, 15 days post-injection, interleukin (IL)-17 and 
+TNF-alpha mRNAs expression were increased, whereas IL-10 mRNA was unchanged. 
+However, the empty plasmid exerted a pro-inflammatory effect 30 days 
+post-injection.
+CONCLUSIONS: These data indicate that local nonviral gene therapy against 
+TNF-alpha is effective, although further work is needed to decrease plasmid 
+induced inflammation.

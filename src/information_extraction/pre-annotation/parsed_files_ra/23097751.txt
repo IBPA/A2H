@@ -1,0 +1,21 @@
+OBJECTIVES: Pregnancy leads to rheumatoid arthritis remission in humans. The 
+objective of this study was to determine if the SKG mouse could serve as a model 
+for pregnancy-associated inflammatory arthritis amelioration. In addition, the 
+maternal peripheral blood mononuclear cell (PBMC) transcriptome was assessed to 
+define a biomarker associated with remission. METHODS: Cohorts of 
+zymosan-treated pregnant SKG mice and controls were monitored for arthritis 
+progression. Microarray analysis evaluated alterations in gene expression in 
+maternal PBMCs at embryonic day 14.5 (E14.5) between arthritic and 
+pregnancy-remitted mice. A selected target, serum amyloid A3 (SAA3), was further 
+investigated using quantitative reverse transcriptase PCR (qRT-PCR) and an 
+enzyme-linked immunosorbent assay (ELISA). RESULTS: Pregnancy resulted in 
+complete or partial remission in the majority of the zymosan-treated SKG mice. 
+Twenty-seven transcripts were differentially expressed in the PBMCs between 
+arthritic and pregnancy-remitted mice. Expression and plasma SAA3 levels 
+decreased with pregnancy-induced arthritis amelioration and plasma SAA3 levels 
+correlated with arthritis severity. CONCLUSIONS: These results establish the SKG 
+mouse as a model system to study pregnancy-induced amelioration of arthritis. 
+These studies also establish SAA3 as a biomarker of arthritis amelioration in 
+SKG mice. This model can be used to elucidate the molecular and cellular 
+mechanisms underlying the impact of pregnancy on the maternal immune system that 
+results in arthritis amelioration.

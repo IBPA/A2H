@@ -1,0 +1,25 @@
+Clostridium (Clostridioides) difficile, a Gram-positive, anaerobic bacterium, is 
+the leading single cause of nosocomial infections in the United States. A major 
+risk factor for Clostridium difficile infection (CDI) is prior exposure to 
+antibiotics, as they increase susceptibility to CDI by altering the membership 
+of the microbial community enabling colonization. The importance of the gut 
+microbiota in providing protection from CDI is underscored by the reported 80 to 
+90% success rate of fecal microbial transplants in treating recurrent 
+infections. Adaptive immunity, specifically humoral immunity, is also sufficient 
+to protect from both acute and recurrent CDI. However, the role of the adaptive 
+immune system in mediating clearance of C. difficile has yet to be resolved. 
+Using murine models of CDI, we found that adaptive immunity is dispensable for 
+clearance of C. difficile However, random forest analysis using only two members 
+of the resident bacterial community correctly identified animals that would go 
+on to clear the infection with 66.7% accuracy. These findings indicate that the 
+indigenous gut microbiota independent of adaptive immunity facilitates clearance 
+of C. difficile from the murine gastrointestinal tract.IMPORTANCE Clostridium 
+difficile infection is a major cause of morbidity and mortality in hospitalized 
+patients in the United States. Currently, the role of the adaptive immune 
+response in modulating levels of C. difficile colonization is unresolved. This 
+work suggests that the indigenous gut microbiota is a main factor that promotes 
+clearance of C. difficile from the GI tract. Our results show that clearance of 
+C. difficile can occur without contributions from the adaptive immune response. 
+This study also has implications for the design of preclinical studies testing 
+the efficacy of vaccines on clearance of bacterial pathogens, as inherent 
+differences in the baseline community structure of animals may bias findings.

@@ -1,0 +1,17 @@
+Electron microscopical immunocytochemistry and light microscopy were used to 
+study the effect of Clostridium difficile enterotoxin A (EA) on cultured Chinese 
+hamster ovary (CHO) cells. At 4 degrees C, immunocytochemically detected EA was 
+randomly distributed along the plasma membrane; when cells were subsequently 
+transferred to 37 degrees C, the EA moved into coated pits and coated vesicles 
+within 2 min. Within 2 h of incubation at 37 degrees C with EA, the perinuclear 
+cytoplasm of the CHO cells became highly refractile, and in 4 h, most of the 
+cells were round; however, the majority of rounded cells excluded erythrosin B 
+while remaining firmly attached to the culture dish plastic. When EA was removed 
+from the cultured cells within 2 h, the cells returned to a normal morphology 
+and formed a confluent monolayer. The nuclei of rounded cells were irregularly 
+shaped; cytoplasmic intermediate filaments were collapsed toward the nucleus. 
+Long bundles of parallel, 11-nm-diameter filaments appeared in the nuclei after 
+3 h of incubation with EA and disappeared by the fourth hour of incubation. 
+Intoxicated cells did not undergo mitosis. Thus, EA was internalized, at least 
+in part, by receptor-mediated endocytosis and subsequently affected the nuclei 
+of CHO cells.

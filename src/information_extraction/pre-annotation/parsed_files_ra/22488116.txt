@@ -1,0 +1,25 @@
+OBJECTIVE: From an immunologic standpoint, the mechanisms by which treatment 
+with tocilizumab (TCZ), a humanized anti-interleukin-6 (anti-IL-6) receptor 
+antibody, results in improvement in rheumatoid arthritis (RA) patients are still 
+not fully understood. In vitro studies and studies in mouse models have 
+demonstrated the critical role of IL-6 in Th17 cell differentiation. Th17 
+lymphocytes have been shown to be strongly involved in RA pathogenesis, and the 
+purpose of this study was to investigate the effect of IL-6 blockade on the 
+balance between Th17 cells and Treg cells in patients with active RA.
+METHODS: Patients with active RA for whom TCZ had been prescribed by a 
+rheumatologist were enrolled in this study. Phenotypic analyses of T cell 
+populations were performed, and the Disease Activity Score in 28 joints (DAS28) 
+was assessed. Serum cytokine levels and other parameters of inflammation were 
+measured before the first infusion and after the third infusion of TCZ (8 
+mg/kg).
+RESULTS: Compared to controls, levels of Th17 cells (CD4+IL-17+) were increased 
+and Treg cells (CD4+CD25(high) FoxP3+) were decreased in the peripheral blood of 
+patients with active RA. The suppressive function of circulating Treg cells was 
+not impaired in patients with active RA. TCZ treatment induced a significant 
+decrease in the DAS28 associated with a significant decrease in the percentage 
+of Th17 cells (from a median of 0.9% to 0.45%; P = 0.009) and an increase in the 
+percentage of Treg cells (from a median of 3.05% to 3.94%; P = 0.0039) in all 
+patients.
+CONCLUSION: This study demonstrates for the first time that inhibition of IL-6 
+function by TCZ corrects the imbalance between Th17 cells and Treg cells in 
+patients with RA.

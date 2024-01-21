@@ -1,0 +1,26 @@
+OBJECTIVE: To investigate the roles of CD59a in the protection of joint tissue 
+in the context of murine antigen-induced arthritis (AIA).
+METHODS: AIA was triggered in CD59a-deficient (CD59a(-/-)) mice and in 
+CD59a-sufficient (CD59a(+/+)) controls; the course and severity of disease were 
+compared between groups. The effects on arthritis of restoring CD59 to the joint 
+in CD59a(-/-) mice by use of a membrane-targeted recombinant CD59 were also 
+explored.
+RESULTS: Disease, as assessed clinically by measurement of joint swelling on day 
+1 (P < 0.0001), day 2 (P < 0.01), and day 7 (P < 0.02) and histologically from 
+indicators of joint damage on day 21 (P < 0.02), was significantly enhanced in 
+CD59a(-/-) mice compared with CD59a(+/+) wild-type controls. Membrane attack 
+complex (MAC) deposition in the arthritic joints of CD59a(-/-) mice was also 
+increased compared with that in the joints of CD59a(+/+) controls. Restitution 
+of CD59 activity in joints of CD59a(-/-) mice was attempted with soluble 
+recombinant rat CD59 (sCD59) or with a novel membrane-targeted rat CD59 
+derivative (sCD59-APT542). Strong immunohistochemical staining of the synovial 
+membrane and subsynovial tissue was apparent in sCD59-APT542-injected joints, 
+but not in joints injected with untargeted sCD59. Intraarticular administration 
+of sCD59-APT542 markedly ameliorated disease severity in CD59a(-/-) mice, knee 
+swelling was significantly reduced over the time course of the disease, and 
+joint damage, assessed histologically, was significantly milder on day 21 (P < 
+0.05).
+CONCLUSION: These data firmly implicate the MAC of complement as a major 
+effector of joint damage in the murine AIA model of rheumatoid arthritis (RA), 
+and they provide a rationale for the inhibition of MAC assembly as a therapeutic 
+strategy for RA.

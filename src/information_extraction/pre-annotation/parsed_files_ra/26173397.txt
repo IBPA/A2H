@@ -1,0 +1,33 @@
+BACKGROUND: β-Lapachone (β-LAP) is a natural naphthoquinone compound isolated 
+from the lapacho tree (Tabebuia sp.), and it has been used for treatment of 
+rheumatoid arthritis, infection, and cancer. In the present study, we 
+investigated whether β-LAP has anti-inflammatory effects under in vitro and in 
+vivo neuroinflammatory conditions.
+METHODS: The effects of β-LAP on the expression of inducible nitric oxide 
+synthase (iNOS), cytokines, and matrix metalloproteinases (MMPs) were examined 
+in lipopolysaccharide (LPS)-stimulated BV2 microglial cells and rat primary 
+microglia by ELISA, reverse transcription polymerase chain reaction (RT-PCR), 
+and Western blot analysis. Microglial activation and the expression levels of 
+proinflammatory molecules were measured in the LPS-injected mouse brain by 
+immunohistochemistry and RT-PCR analysis. The detailed molecular mechanism 
+underlying the anti-inflammatory effects of β-LAP was analyzed by 
+electrophoretic mobility shift assay, reporter gene assay, Western blot, and 
+RT-PCR analysis.
+RESULTS: β-LAP inhibited the expression of iNOS, proinflammatory cytokines, and 
+MMPs (MMP-3, MMP-8, MMP-9) at mRNA and protein levels in LPS-stimulated 
+microglia. On the other hand, β-LAP upregulated the expressions of 
+anti-inflammatory molecules such as IL-10, heme oxygenase-1 (HO-1), and the 
+tissue inhibitor of metalloproteinase-2 (TIMP-2). The anti-inflammatory effect 
+of β-LAP was confirmed in an LPS-induced systemic inflammation mouse model. 
+Thus, β-LAP inhibited microglial activation and the expressions of iNOS, 
+proinflammatory cytokines, and MMPs in the LPS-injected mouse brain. Further 
+mechanistic studies revealed that β-LAP exerts anti-inflammatory effects by 
+inhibiting MAPKs, PI3K/AKT, and NF-κB/AP-1 signaling pathways in LPS-stimulated 
+microglia. β-LAP also inhibited reactive oxygen species (ROS) production by 
+suppressing the expression and/or phosphorylation of NADPH oxidase subunit 
+proteins, such as p47(phox) and gp91(phox). The anti-oxidant effects of β-LAP 
+appeared to be related with the increase of HO-1 and NQO1 via the 
+Nrf2/anti-oxidant response element (ARE) pathway and/or the PKA pathway.
+CONCLUSIONS: The strong anti-inflammatory/anti-oxidant effects of β-LAP may 
+provide preventive therapeutic potential for various neuroinflammatory 
+disorders.

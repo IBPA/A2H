@@ -1,0 +1,16 @@
+Clostridioides difficile toxin B (TcdB) is a key virulence factor that causes C. 
+difficile associated diseases (CDAD) including diarrhea and pseudomembranous 
+colitis. TcdB can be divided into multiple subtypes/variants based on their 
+sequence variations, of which four (TcdB1-4) are dominant types found in major 
+epidemic isolates. Here, we find that these variants are highly diverse in their 
+receptor preference: TcdB1 uses two known receptors CSPG4 and Frizzled (FZD) 
+proteins, TcdB2 selectively uses CSPG4, TcdB3 prefers to use FZDs, whereas TcdB4 
+uses neither CSPG4 nor FZDs. By creating chimeric toxins and systematically 
+switching residues between TcdB1 and TcdB3, we determine that regions in the 
+N-terminal cysteine protease domain (CPD) are involved in CSPG4-recognition. We 
+further evaluate the pathological effects induced by TcdB1-4 with a mouse 
+intrarectal installation model. TcdB1 leads to the most severe overall symptoms, 
+followed by TcdB2 and TcdB3. When comparing the TcdB2 and TcdB3, TcdB2 causes 
+stronger oedema while TcdB3 induces severer inflammatory cell infiltration. 
+These findings together demonstrate divergence in the receptor preference and 
+further lead to colonic pathology for predominant TcdB subtypes.

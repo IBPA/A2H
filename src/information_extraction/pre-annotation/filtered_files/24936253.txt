@@ -1,0 +1,29 @@
+Genetic linkage analyses, genome-wide association studies of single nucleotide 
+polymorphisms, copy number variation surveys, and mutation screenings found the 
+human chromosomal 12q24 locus, with the genes SH2B3 and ATXN2 in its core, to be 
+associated with an exceptionally wide spectrum of disease susceptibilities. 
+Hematopoietic traits of red and white blood cells (like erythrocytosis and 
+myeloproliferative disease), autoimmune disorders (like type 1 diabetes, coeliac 
+disease, juvenile idiopathic arthritis, rheumatoid arthritis, thrombotic 
+antiphospholipid syndrome, lupus erythematosus, multiple sclerosis, 
+hypothyroidism and vitiligo), also vascular pathology (like kidney glomerular 
+filtration rate deficits, serum urate levels, plasma beta-2-microglobulin 
+levels, retinal microcirculation problems, diastolic and systolic blood pressure 
+and hypertension, cardiovascular infarction), furthermore obesity, 
+neurodegenerative conditions (like the polyglutamine-expansion disorder 
+spinocerebellar ataxia type 2, Parkinson's disease, the motor-neuron disease 
+amyotrophic lateral sclerosis, and progressive supranuclear palsy), and finally 
+longevity were reported. Now it is important to clarify, in which ways the loss 
+or gain of function of the locally encoded proteins SH2B3/LNK and ataxin-2, 
+respectively, contribute to these polygenic health problems. SH2B3/LNK is known 
+to repress the JAK2/ABL1 dependent proliferation of white blood cells. Its null 
+mutations in human and mouse are triggers of autoimmune traits and leukemia 
+(acute lymphoblastic leukemia or chronic myeloid leukemia-like), while missense 
+mutations were found in erythrocytosis-1 patients. Ataxin-2 is known to act on 
+RNA-processing and trophic receptor internalization. While its 
+polyglutamine-expansion mediated gain-of-function causes neuronal atrophy in 
+human and mouse, its deletion leads to obesity and insulin resistance in mice. 
+Thus, it is conceivable that the polygenic pathogenesis of type 1 diabetes is 
+enhanced by an SH2B3-dysregulation-mediated predisposition to autoimmune 
+diseases that conspires with an ATXN2-deficiency-mediated predisposition to 
+lipid and glucose metabolism pathology.

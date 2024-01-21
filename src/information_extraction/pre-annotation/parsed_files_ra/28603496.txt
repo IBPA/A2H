@@ -1,0 +1,26 @@
+Anemone flaccida Fr. Schmidt (Ranunculaceae) (Di Wu in Chinese) is used to treat 
+punch injuries and rheumatoid arthritis (RA). Our previous report has shown that 
+crude triterpenoid saponins from Anemone flaccida exhibited anti-arthritic 
+effects on type II collagen-induced arthritis in rats. Furthermore, anhuienoside 
+C (AC), a saponin compound isolated from A. flaccida, was observed to suppress 
+the nitric oxide production in lipopolysaccharide (LPS)-treated macrophage RAW 
+264.7 cells. In this study, we examined the effects of AC on the prevention and 
+treatment of collagen-induced arthritis in a mouse model and evaluated the 
+potential mechanisms involved. We observed that oral administration of AC 
+significantly suppressed the paw swelling and arthritic score, decreased the 
+body weight loss, and decreased the spleen index. Improvement in the disease 
+severity was accompanied by the reduction of cluster of differentiation 68 
+(CD68)-positive cells in the ankle joint and inhibition of the pro-inflammatory 
+cytokine tumor necrosis factor alpha (TNF-α) in the synovium of the joint. 
+Mechanistic studies indicated that AC exerted its anti-inflammatory activity by 
+inhibiting the mRNA expression levels of inducible nitric oxide synthase, 
+cyclooxygenase-2, TNF-α, interleukin (IL)-1β, and IL-6 and by suppressing the 
+production of inflammatory cytokines such as TNF-α, IL-1β, and IL-6 in 
+LPS-treated RAW 264.7 cells. AC also blocked the LPS-induced activation of the 
+extracellular signal-regulated kinase, c-Jun N-terminal kinase, and p38 
+mitogen-activated protein kinase pathways. Additionally, the LPS-induced 
+activation of nuclear factor kappa-B (NF-κB) was significantly suppressed by AC 
+treatment, as indicated by down-regulation of TLR4 and inhibition of the nuclear 
+translocation of NF-κB p65 and by activation and degradation of the inhibitor of 
+kappa B. These findings indicated that AC has a great potential to be developed 
+as a therapeutic agent for human RA.

@@ -1,0 +1,18 @@
+TNF-like ligand 1A (TL1A), also known as TNFSF15, is a member of the TNF 
+superfamily. Its known receptor is death receptor 3 (DR3). In humans, TL1A also 
+binds to a secreted TNF family member called decoy receptor 3, which interferes 
+with the interaction between TL1A and DR3. TL1A/DR3 signal has been implicated 
+in several autoimmune diseases in animal models as well as in clinical 
+conditions. We generated TL1A gene knockout (KO) mice to assess its role in 
+collagen-induced arthritis (CIA), a mouse model of human rheumatoid arthritis. 
+The KO mice were fertile and had no visible anomalies. Their lymphoid organ size 
+and cellularity, T and B cell subpopulations, Th cell and regulatory T cell 
+development in vivo and in vitro, and antiviral immune responses were comparable 
+to those of wild-type mice. However, the KO mice presented ameliorated CIA in 
+terms of clinical scores, disease incidence, and pathological scores. The KO 
+mice had reduced titers of pathogenic anti-collagen Abs in the sera. No apparent 
+defect was found in the function of follicular Th cells. We revealed that plasma 
+cells but not B cells expressed high levels of DR3 and were direct targets of 
+TL1A. In the presence of TL1A, they survived better and produced more pathogenic 
+Ab. This study presented novel knowledge about the role of TL1A in humoral 
+immune responses and its mechanism of action in CIA pathogenesis.

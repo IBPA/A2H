@@ -1,0 +1,20 @@
+Macrophages are known to play a key role during inflammation in rheumatoid 
+arthritis (RA). Inflammatory macrophages have increased expression of CD64, the 
+high-affinity receptor for IgG. Targeting this receptor through a CD64-directed 
+immunotoxin, composed of an Ab against CD64 and Ricin A, results in effective 
+killing of inflammatory macrophages. In this study, we show elevated levels of 
+CD64 on synovial macrophages in both synovial lining and synovial fluid in RA 
+patients. The CD64-directed immunotoxin efficiently eliminates activated 
+synovial macrophages in vitro, while leaving quiescent, low CD64-expressing 
+macrophages unaffected. To examine whether killing of CD64 macrophages results 
+in therapeutic effects in vivo, we established an adjuvant arthritis (AA) model 
+in newly generated human CD64 (hCD64) transgenic rats. We demonstrate that hCD64 
+regulation in this transgenic rat model is similar as in humans. After AA 
+induction, treatment with CD64-directed immunotoxin results in significant 
+inhibition of disease activity. There is a direct correlation between 
+immunotoxin treatment and decreased macrophage numbers, followed by diminished 
+inflammation and bone erosion in paws of these hCD64 transgenic rats. These data 
+support synovial macrophages to play a crucial role in joint inflammation in AA 
+in rats and in human RA. Selective elimination of inflammatory macrophages 
+through a CD64-directed immunotoxin may provide a novel approach for treatment 
+of RA.

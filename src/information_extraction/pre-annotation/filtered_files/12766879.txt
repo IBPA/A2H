@@ -1,0 +1,21 @@
+Tumor necrosis factor-alpha (TNF-alpha) antagonist therapy has proven effective 
+in inflammatory conditions such as rheumatoid arthritis and Crohn's disease. 
+There is substantial evidence that TNF-alpha also plays a role in the 
+development of graft-versus-host disease (GVHD) after allogeneic hematopoietic 
+cell transplantation, which along with leukemia relapse remains one of the 2 
+major impediments to success of the approach. Using a recently developed potent 
+rat/mouse chimeric monoclonal antibody directed against murine TNF-alpha 
+(CNTO2213), the authors investigated the effect of TNF-alpha blockade on GVHD 
+mediated by either CD4(+) or CD8(+) donor T cells. The results indicated that 
+the treatment had only a moderate effect on both a CD8(+) T cell-mediated major 
+histocompatibility complex-matched GVHD model involving multiple minor 
+histocompatibility antigens and a p-->F(1) acute GVHD model directed against a 
+haplo-mismatched major histocompatibility complex barrier involving both CD4(+) 
+and CD8(+) T cells. In contrast, treatment with the anti-TNF-alpha antibody had 
+a highly significant effect (100% survival rate) on the CD4(+) T cell-mediated 
+component of this latter model. Importantly, anti-TNF-alpha antibody did not 
+block the development of a graft-versus-leukemia effect against a murine myeloid 
+leukemia challenge in either a syngeneic or allogeneic p-->F(1) setting. This 
+suggests that the inhibition of TNF-alpha during allogeneic hematopoietic cell 
+transplantation may be able to diminish the inflammatory GVHD reaction without 
+hindering effective graft-versus-leukemia responses.

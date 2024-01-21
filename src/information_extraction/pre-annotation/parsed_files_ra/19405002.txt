@@ -1,0 +1,22 @@
+OBJECTIVE: To describe the prevalence of computer use problems experienced by a 
+sample of people with arthritis, and to determine differences in the magnitude 
+of these problems among people with rheumatoid arthritis (RA), osteoarthritis 
+(OA), and fibromyalgia (FM).
+METHODS: Subjects were recruited from the Arthritis Network Disease Registry and 
+asked to complete a survey, the Computer Problems Survey, which was developed 
+for this study. Descriptive statistics were calculated for the total sample and 
+the 3 diagnostic subgroups. Ordinal regressions were used to determine 
+differences between the diagnostic subgroups with respect to each equipment item 
+while controlling for confounding demographic variables.
+RESULTS: A total of 359 respondents completed a survey. Of the 315 respondents 
+who reported using a computer, 84% reported a problem with computer use 
+attributed to their underlying disorder, and approximately 77% reported some 
+discomfort related to computer use. Equipment items most likely to account for 
+problems and discomfort were the chair, keyboard, mouse, and monitor. Of the 3 
+subgroups, significantly more respondents with FM reported more severe 
+discomfort, more problems, and greater limitations related to computer use than 
+those with RA or OA for all 4 equipment items.
+CONCLUSION: Computer use is significantly affected by arthritis. This could 
+limit the ability of a person with arthritis to participate in work and home 
+activities. Further study is warranted to delineate disease-related limitations 
+and develop interventions to reduce them.

@@ -1,0 +1,23 @@
+Neural interfaces have great potential to treat disease and disability by 
+modulating the electrical signals within the nervous system. However, whilst 
+neural stimulation is a well-established technique, current neural interfaces 
+are limited by poor recording ability. Low signal amplitudes necessitate the use 
+of highly invasive techniques that divide or penetrate the nerve, and as such 
+are unsuitable for chronic implantation. In this paper, we present the first 
+application of the velocity selective recording technique to the detection of 
+respiration activity in the vagus nerve, which is involved with treatments for 
+epilepsy, depression, and rheumatoid arthritis. Further, we show this using a 
+chronically implantable interface that does not divide the nerve. We also 
+validate our recording setup using electrical stimulation and we present an 
+analysis of the recorded signal amplitudes. The recording interface was formed 
+from a cuff containing ten electrodes implanted around the intact right vagus 
+nerve of a Danish Landrace pig. Nine differential amplifiers were connected to 
+adjacent electrodes, and the resulting signals were processed to discriminate 
+neural activity based on conduction velocity. Despite the average single channel 
+signal-to-noise ratio of - 5.8 dB, it was possible to observe distinct action 
+potentials travelling in both directions along the nerve. Further, contrary to 
+expectation given the low signal-to-noise ratio, we have shown that it was 
+possible to identify afferent neural activity that encoded respiration. The 
+significance of this is the demonstration of a chronically implantable method 
+for neural recording, a result that will transform the capabilities of future 
+neuroprostheses.

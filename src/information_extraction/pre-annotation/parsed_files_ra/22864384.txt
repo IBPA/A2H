@@ -1,0 +1,19 @@
+Despite the clinical success of anti-tumor necrosis factor (TNF) therapies in 
+the treatment of inflammatory conditions such as rheumatoid arthritis, Crohn 
+disease and psoriasis, full control of the diseases only occurs in a subset of 
+patients and there is a need for new therapeutics with improved efficacy against 
+broader patient populations. One possible approach is to combine biological 
+therapeutics, but both the cost of the therapeutics and the potential for 
+additional toxicities needs to be considered. In addition to the various 
+mediators of immune and inflammatory pathways, angiogenesis is reported to 
+contribute substantially to the overall pathogenesis of inflammatory diseases. 
+The combination of an anti-angiogenic agent with anti-TNF into one molecule 
+could be more efficacious without the risk of severe immunosuppression. To 
+evaluate this approach with our Zybody technology, we generated bispecific 
+antibodies that contain an Ang2 targeting peptide genetically fused to the 
+anti-TNF antibody adalimumab (Humira®). The bispecific molecules retain the 
+binding and functional characteristics of the anti-TNF antibody, but with 
+additional activity that neutralizes Ang2. In a TNF transgenic mouse model of 
+arthritis, the bispecific anti-TNF-Ang2 molecules showed a dose-dependent 
+reduction in both clinical symptoms and histological scores that were 
+significantly better than that achieved by adalimumab alone.

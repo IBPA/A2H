@@ -1,0 +1,25 @@
+Subsequent to myocardial infarction, cardiomyocytes within the infarcted areas 
+and border zones expose phosphatidylserine (PS) in the outer plasma membrane 
+leaflet (flip-flop). We showed earlier that in addition to apoptosis, this 
+flip-flop can be reversible in cardiomyocytes. We now investigated a possible 
+role for Rho and downstream effector Rho-associated kinase (ROCK) in the process 
+of (reversible) PS exposure and apoptosis in cardiomyocytes. In rat 
+cardiomyoblasts (H9c2 cells) and isolated adult ventricular rat cardiomyocytes 
+Clostridium difficile Toxin B (TcdB), a Rho GTPase family inhibitor, C3 
+transferase (C3), a Rho(A,B,C) inhibitor and the ROCK inhibitors Y27632 and 
+H1152 were used to inhibit Rho-ROCK signaling. PS exposure was assessed via flow 
+cytometry and fluorescent digital imaging microscopy using annexin V. Akt 
+expression and phosphorylation were analyzed via Western blot, and Akt activity 
+was inhibited by wortmannin. The cellular concentration activated caspase 3 was 
+determined as a measure of apoptosis, and flippase activity was assessed via 
+flow cytometry using NBD-labeled PS. TcdB, C3, Y27632 and H1152 all 
+significantly increased PS exposure. TcdB, Y27632 and H1152 all significantly 
+inhibited phosphorylation of the anti-apoptotic protein Akt and Akt inhibition 
+by wortmannin lead to increased PS exposure. However, only TcdB and C3, but not 
+ROCK- or Akt inhibition led to caspase 3 activation and thus apoptosis. Notably, 
+pancaspase inhibitor zVAD only partially inhibited TcdB-induced PS exposure 
+indicating the existence of apoptotic and non-apoptotic PS exposure. The induced 
+PS exposure coincided with decreased flippase activity as measured with 
+NBD-labeled PS flip-flop. In this study, we show a regulatory role for a novel 
+signaling route, Rho-ROCK-flippase signaling, in maintaining asymmetrical 
+membrane phospholipid distribution in cardiomyocytes.

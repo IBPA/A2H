@@ -1,0 +1,30 @@
+OBJECTIVE: To assess the capacity of interleukin-4 (IL-4) and IL-10 to block 
+polymorphonuclear neutrophil (PMN) activation in an ex vivo human model system, 
+and to confirm their effect on neutrophil function in an animal model of 
+arthritis.
+METHODS: The ex vivo phagocytic capacity of cytokine-activated human PMNs was 
+assessed by use of assays for measuring the ingestion of heat-killed yeast and 
+by subsequent hexose-monophosphate shunt activation using nitroblue tetrazolium 
+reduction. The in vivo activity of IL-4 and IL-10 was measured using a rat 
+adjuvant arthritis model in which the mycobacterial antigen concentration was 
+titrated to modify disease intensity.
+RESULTS: IL-4 and IL-10 suppressed the ex vivo activation state of 
+interferon-gamma- and tumor necrosis factor alpha-activated human neutrophils. 
+In the rat adjuvant arthritis model, treatment with systemic murine IL-10 
+(mIL-10) effectively suppressed all disease parameters in rats that received the 
+lower concentrations of mycobacteria, whereas systemic mIL-4 was effective 
+against even the most severe disease. Both cytokines were effective in lowering 
+the absolute PMN cell number recovered and the PMN activation state in the joint 
+synovia. We also observed lower levels of the messenger RNA transcript for CINC 
+protein (cytokine-induced neutrophil chemoattractant; a rat homolog for human 
+IL-8) in the synovia.
+CONCLUSION: IL-10 is an effective antiarthritic agent and has a major effect on 
+the presence and function of PMNs in the joint synovia when disease intensity is 
+not severe. IL-4 has an inhibitory profile that is similar to that of IL-10, but 
+is effective in modifying even the most severe disease. Both cytokines reduced 
+the phagocytic activation of human PMNs in response to proinflammatory 
+cytokines. These data demonstrate that IL-4 and IL-10 can exert powerful 
+regulatory effects on neutrophil function that translate into a therapeutic 
+response in a disease model of arthritis. Treatment with these cytokines alone 
+or in combination may therefore be very useful in the management of patients 
+with rheumatoid arthritis.

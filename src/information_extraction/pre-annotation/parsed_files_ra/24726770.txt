@@ -1,0 +1,24 @@
+Alzheimer's disease has long been associated with increased inflammation in the 
+brain. Activated microglia and increased production of the inflammatory 
+cytokines such as TNF-α, have been proposed to contribute to the onset and 
+progression of the disease. We investigated if systemic administration of an 
+anti-tumor necrosis factor (TNF) biologic medication clinically validated for 
+rheumatoid arthritis (RA), TNF receptor 2 fused to a Fc domain (TNFR2:Fc), could 
+ameliorate the behavioral symptoms and decrease neuroinflammation in a 
+non-transgenic mouse model mimicking some hallmarks of the disease. Seven days 
+after a single intracebroventricular (icv) injection of aggregated amyloid 
+beta25-35 (9nmoles), mice displayed significant cognitive deficit in spontaneous 
+alternation (working memory) and inhibitory avoidance (long-term memory) tasks. 
+Alternation percentage decreased from 72.4%±1.3 to chance level (52.6%±1.7); 
+step-through retention latency decreased from 247s to 144s. Subcutaneous 
+administration of 30mg/kg TNFR2:Fc every second day post amyloid beta25-35 icv 
+administration counteracted the amyloid-induced decrease in alternation 
+percentage (66.4s±1.8) and the decreased step-through retention latency 
+(248s±9). Measurement of hippocampal TNF-α levels by ELISA after behavioral 
+assessment showed significant elevation in animals injected with amyloid 
+beta25-35 relative to animals injected with control peptide. In animals treated 
+with 30mg/kg TNFR2:Fc, TNF-α levels in the hippocampus were reduced and were 
+similar to control animals. These data suggest that peripheral administration of 
+TNFR2:Fc counteracts amyloid-induced memory impairment and normalizes increased 
+TNF-α levels in hippocampus of a non-transgenic mouse model of amyloid induced 
+cognitive deficit.

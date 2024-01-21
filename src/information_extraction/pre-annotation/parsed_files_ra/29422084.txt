@@ -1,0 +1,34 @@
+BACKGROUND: Previously we established an arthritis-prone FcγRIIB-deficient mouse 
+strain (designated KO1). Anti-mouse CD11b mAb (5C6) has been reported to inhibit 
+the recruitment of peripheral CD11b+ myelomonocytic cells from the blood to the 
+inflammatory site. These cells include neutrophils and monocytes, both of which 
+play important roles in the development of arthritis. Here we treated KO1 mice 
+with 5C6 mAb in order to study its effect on arthritis development.
+METHODS: To evaluate the disease-preventive effect of 5C6, 4-month-old 
+preclinical KO1 mice were divided into three groups: the first treated with 5C6 
+for 6 months, the second treated with normal rat IgG for 6 months, as a control, 
+and the third left untreated. Arthritis severity and immunological abnormalities 
+were compared among the groups, along with transcriptional levels of several 
+important arthritis-related factors in ankle joints, spleen, and peripheral 
+blood cells.
+RESULTS: The 5C6 treatment ameliorated arthritis in KO1 mice, showing decreases 
+in inflammatory cell infiltration and osteoclast formation. Analysis of 
+transcriptional levels in ankle joints revealed that compared with the two 
+control groups, the 5C6-treated group showed downregulated expression of RANK, 
+RANKL, MCP-1, RANTES, TNFα, and IL-6, and at the same time showed significantly 
+up-regulated expression of the decoy receptor for RANKL, i.e. osteoprotegerin. 
+In addition, the disease suppression was associated with the lower serum levels 
+of autoantibodies, and the decreased frequencies of activated B cells and plasma 
+cells. The expression levels of B cell activation/differentiation-related 
+cytokines were suppressed in spleen and peripheral leukocytes of the 5C6-treated 
+mice. Intriguingly, while untreated KO1 mice spontaneously developed marked 
+monocytosis, the 5C6-treated mice showed the significantly down-regulated 
+frequency of monocytes.
+CONCLUSIONS: The outcome of 5C6 treatment was complex, in which the 5C6-mediated 
+disease-preventive effect is likely due on one hand to the decrease in the 
+recruitment of inflammatory cells and osteoclast precursor monocytes from the 
+periphery into the joints, and on the other hand to the suppression of B cell 
+activation/maturation and of autoantibody production via the suppression of B 
+cell stimulating cytokine production. The lower levels of these cytokines may be 
+the secondary effect of the lower frequency of monocytes, since 
+monocytes/macrophages are the major producers of these cytokines.

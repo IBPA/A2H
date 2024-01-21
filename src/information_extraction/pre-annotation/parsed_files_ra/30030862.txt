@@ -1,0 +1,21 @@
+BACKGROUND: E6011, a humanized antifractalkine monoclonal antibody, is under 
+development for the treatment of various inflammatory diseases, such as 
+rheumatoid arthritis. A reproducible assay method has been developed for the 
+determination of E6011 in monkey and human serum by electrochemiluminescence 
+(ECL) assay.
+METHODS: E6011 in serum was captured by fractalkine and detected by 
+ruthenium-labeled rabbit anti-E6011 Fab polyclonal antibodies for ECL detection. 
+E6011 in serum was quantifiable from 0.02 and 0.1 μg/mL in monkey and human 
+serum, respectively, with minimum required dilution of 500. The method was then 
+validated in accordance with bioanalytical guidelines.
+RESULTS: Accuracy and precision of quality control samples at five 
+concentrations in intra- and interbatch reproducibility demonstrated that 
+relative error and relative standard deviation were within acceptable criteria. 
+Recovery of E6011 was 92.9%-121.7% and 85.0%-109.3% in humans and monkeys. 
+Dilution integrity, no prozone effects, and no impacts by antigen were also 
+ensured. Parallelism was also confirmed using incurred clinical sample analysis. 
+Various types of stability were assessed, which confirmed that E6011 in serum 
+was stable for 367 and 735 days in monkey and human sera, respectively, under 
+frozen conditions.
+CONCLUSION: The developed method was successfully applied supporting 
+pharmacokinetic studies in monkeys and humans.

@@ -1,0 +1,30 @@
+Periodontal disease (Periodontitis) is a serious disease that affects a majority 
+of adult Americans and is associated with other systemic diseases, including 
+diabetes, rheumatoid arthritis, and other inflammatory diseases. While great 
+efforts have been devoted toward understanding the pathogenesis of 
+periodontitis, there remains a pressing need for developing potent therapeutic 
+strategies for targeting this pervasive and destructive disease. In this study, 
+we utilized novel adeno-associated virus (AAV)-mediated Atp6v1c1 knockdown gene 
+therapy to treat bone erosion and inflammatory caused by periodontitis in mouse 
+model. Atp6v1c1 is a subunit of the V-ATPase complex and regulator of the 
+assembly of the V0 and V1 domains of the V-ATPase complex. We demonstrated 
+previously that Atp6v1c1 has an essential function in osteoclast mediated bone 
+resorption. We hypothesized that Atp6v1c1 may be an ideal target to prevent the 
+bone erosion and inflammation caused by periodontitis. To test the hypothesis, 
+we employed AAV RNAi knockdown of Atp6v1c1 gene expression to prevent bone 
+erosion and gingival inflammation simultaneously. We found that lesion-specific 
+injection of AAV-shRNA-Atp6v1c1 into the periodontal disease lesions protected 
+against bone erosion (>85%) and gingival inflammation caused by P. gingivalis 
+W50 infection. AAV-mediated Atp6v1c1 knockdown dramatically reduced osteoclast 
+numbers and inhibited the infiltration of dendritic cells and macrophages in the 
+bacteria-induced inflammatory lesions in periodontitis. Silencing of Atp6v1c1 
+expression also prevented the expressions of osteoclast-related genes and 
+pro-inflammatory cytokine genes. Our data suggests that AAV-shRNA-Atp6v1c1 
+treatment can significantly attenuate the bone erosion and inflammation caused 
+by periodontitis, indicating the dual function of AAV-shRNA-Atp6v1c1 as an 
+inhibitor of bone erosion mediated by osteoclasts, and as an inhibitor of 
+inflammation through down-regulation of pro-inflammatory cytokine expression. 
+This study demonstrated that Atp6v1c1 RNAi knockdown gene therapy mediated by 
+AAV-shRNA-Atp6v1c1 is a promising novel therapeutic approach for the treatment 
+of bone erosion and inflammatory related diseases, such as periodontitis and 
+rheumatoid arthritis.

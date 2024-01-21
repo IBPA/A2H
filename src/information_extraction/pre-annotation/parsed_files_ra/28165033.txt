@@ -1,0 +1,20 @@
+A major obstacle to therapy in intensive care units is sepsis caused by severe 
+infection. In recent years gram-positive (G+) bacteria, most commonly 
+staphylococci, are thought to be the main pathogens. Micheliolide (MCL) was 
+demonstrated to provide a therapeutic role in rheumatoid arthritis, inflammatory 
+intestinal disease, colitis-associated cancer, and lipopolysaccharide (LPS, the 
+main component of G- bacterial cell wall) induced septic shock. We proved here 
+that MCL played an anti-inflammatory role in Staphylococcus aureus (S. aureus) 
+and methicillin-resistant S. aureus (MRSA) induced peritonitis. It inhibited the 
+expression of inflammatory cytokines and chemokines in macrophages and dendritic 
+cells upon stimulation with peptidoglycan (PGN, the main cell wall composition 
+of G+ bacteria). PI3K/Akt and NF-κB pathways account for the anti-inflammatory 
+role of MCL after PGN stimulation. MCL reduced IL-6 secretion through 
+down-regulating NF-κB activation and improved the survival status in mice 
+challenged with a lethal dose of S. aureus. In MRSA infection mouse model, MCL 
+down-regulated the expression of IL-6, TNF-α, MCP-1/CCL2 and IFN-γ in sera, and 
+ameliorated the organ damage of liver and kidney. In conclusion, MCL can help 
+maintain immune equilibrium and decrease PGN, S. aureus and MRSA-triggered 
+inflammatory response. These provide the rationality for the potential usage of 
+MCL in sepsis caused by G+ bacteria (e.g., S. aureus) and antibiotic-resistant 
+bacteria (e.g., MRSA).

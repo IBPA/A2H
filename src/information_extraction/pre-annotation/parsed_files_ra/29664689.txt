@@ -1,0 +1,17 @@
+To explore the immunological mechanisms underlying the effect of exogenous 
+interleukin-34 (IL-34) on collagen-induced arthritis (CIA) in mouse. We 
+established a CIA mouse model and injected exogenous recombination mouse IL-34 
+(rmIL-34) intraperitoneally. The articular index (AI) was measured according to 
+the amount of erythema, swelling, or joint rigidity. The concentrations of 
+TNF-α, IL-17, and IL-6 in CIA mice sera were measured by enzyme-linked 
+immunosorbent assay (ELISA). The mRNA expression levels of TNF-α, IL-17, and 
+IL-6 in CIA synovial tissue were detected by reverse transcription PCR. The CIA 
+mice dosed with rmIL-34 exhibited increased AI. Neutralization of endogenous 
+IL-17 with anti-IL-17 antibody reduced the effect of IL-34. TNF-α, IL-17, and 
+IL-6 levels in serum in IL-34-treated CIA mice were increased compared to those 
+in CIA mice. IL-34 increased the expression of TNF-α and IL-17 mRNA in synovial 
+tissues of CIA mice, but the gene expression of IL-6 was not affected. The 
+effects of IL-34 on TNF-α, IL-17, and IL-6 expression were abolished by 
+anti-IL-17 antibody. In conclusion, IL-34 acts as a proinflammatory factor, 
+aggravating the severity of arthritis in CIA mice by inducing the production of 
+IL-17.

@@ -1,0 +1,25 @@
+OBJECTIVES: To evaluate the efficacy of a novel lantibiotic, CMB001, against 
+MRSA biofilms in vitro and in an in vivo experimental model of bacterial 
+infection.
+METHODS: Antibacterial activity of CMB001 was measured in vitro after its 
+exposure to whole blood or to platelet-poor plasma. In vitro efficacy of CMB001 
+against a Staphylococcus aureus biofilm was studied using scanning electron 
+microscopy. The maximum tolerable dose in mice was determined and a preliminary 
+pharmacokinetic analysis for CMB001 was performed in mice. In vivo efficacy was 
+evaluated in a neutropenic mouse thigh model of infection.
+RESULTS: CMB001 maintained its antibacterial activity in the presence of blood 
+or plasma for up to 24 h at 37°C. CMB001 efficiently killed S. aureus within the 
+biofilm by causing significant damage to the bacterial cell wall. The maximum 
+tolerable dose in mice was established to be 10 mg/kg and could be increased to 
+30 mg/kg in mice pretreated with antihistamines. In neutropenic mice infected 
+with MRSA, treatment with CMB001 reduced the bacterial burden with an efficacy 
+equivalent to that of vancomycin.
+CONCLUSIONS: CMB001 offers potential as an alternative treatment option to 
+combat MRSA. It will be of interest to evaluate the in vivo efficacy of CMB001 
+against infections caused by other pathogens, including Clostridioides difficile 
+and Acinetobacter baumannii, and to expand its pharmacokinetic/pharmacodynamic 
+parameters and safety profile.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of the 
+British Society for Antimicrobial Chemotherapy. All rights reserved. For 
+permissions, please email: journals.permissions@oup.com.

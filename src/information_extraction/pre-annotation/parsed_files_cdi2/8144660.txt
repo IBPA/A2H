@@ -1,0 +1,19 @@
+Clostridium difficile toxin B exhibits cytotoxic activity that is characterized 
+by the disruption of the microfilamental cytoskeleton. Here we studied whether 
+the GTP-binding Rho protein, which reportedly participates in the regulation of 
+the actin cytoskeleton, is involved in the toxin action. Toxin B treatment of 
+Chinese hamster ovary cells reveals a time- and concentration-dependent decrease 
+in the ADP-ribosylation of Rho by Clostridium botulinum C3 exoenzyme in the cell 
+lysate. Disruption of the microfilament system induced by C. botulinum C2 toxin 
+or cytochalasin D does not cause impaired ADP-ribosylation of Rho. Toxin B 
+exhibits its effects on Rho not only in intact cells but also when added to cell 
+lysates. Besides endogenous Rho, RhoA-glutathione S-transferase (Rho-GST) fusion 
+protein added to cell lysate showed decreased ADP-ribosylation after toxin B 
+treatment. Immunoblot analysis reveals identical amounts of Rho-GST and no 
+change in molecular mass after toxin B treatment compared with controls. 
+ADP-ribosylation of Rho-GST purified from toxin B-treated cell lysate is 
+inhibited, indicating a modification of Rho itself. Finally, transfection of 
+rhoA DNA under the control of a strong promoter into cells protects them from 
+the activity of toxin B. Altogether, the data indicate that C. difficile toxin B 
+acts directly or indirectly on Rho proteins to inhibit ADP-ribosylation and 
+suggest that the cytotoxic effect of toxin B involves Rho.

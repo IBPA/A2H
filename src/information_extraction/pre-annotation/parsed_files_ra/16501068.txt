@@ -1,0 +1,25 @@
+Mitogen-activated protein kinase (MAPK) pathways are implicated in joint 
+destruction in rheumatoid arthritis (RA) by modulating the production and 
+functions of inflammatory cytokines. Although p38 MAPK (p38) participates in 
+signaling cascades leading to osteolysis in arthritis, the mechanisms of its 
+action in this process remain incompletely understood. Here, we found that the 
+osteoclast (Ocl) precursors expressed p38alpha, but not p38beta, p38delta, and 
+p38gamma isoforms. Treatment of these cells with receptor activator of nuclear 
+factor (NF)-kappaB ligand (RANKL) resulted in p38 activation. Importantly, Ocl 
+development induced by RANKL or RANKL and tumor necrosis factor (TNF)-alpha was 
+blocked with the novel p38 inhibitor 
+4-(3-(4-chlorophenyl)-5-(1-methylpiperidin-4-yl)-1H-pyrazol-4-yl)pyrimidine 
+(SC-409). To validate in vitro data, p38 role was further investigated in 
+streptococcal cell wall (SCW)-induced arthritis in rats. We found that 
+SCW-induced joint swelling and bone destruction were attenuated by SC-409. 
+Mechanistically, the data show that SCW-stimulated DNA binding activity of the 
+transcription factor myocyte-enhancing factor 2 C, which is downstream of p38, 
+was inhibited by SC-409. In addition, SC-409 inhibited SCW-stimulated expression 
+of numerous factors, including TNF-alpha, interleukin-1beta, and RANKL. Although 
+c-Jun NH2-terminal kinase and NF-kappaB pathways were activated in vitro by 
+RANKL and in vivo by SCW, SC-409 had no significant effect on these pathways. In 
+conclusion, our data show that p38 modulates the production and signaling of 
+cytokines, thus providing a mechanism of the bone-sparing effect of SC-409 in 
+rat arthritis. These data present SC-409 as a novel potent p38 inhibitor and 
+suggest that p38-based therapies may be beneficial in preventing bone loss 
+associated with RA.

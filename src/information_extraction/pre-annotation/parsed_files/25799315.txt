@@ -1,0 +1,17 @@
+The incidence of Clostridium difficile infection has increased in Western world 
+in the past 10 years, similar infection rates are also reported in developing 
+countries such as China. Current antibiotics treatments have recurrence rates 
+between 15% and 30%. IgY antibodies against toxin A of C. difficile could 
+protect animal models from the challenge of lethal dose of C. difficile spores. 
+However, IgY is sensitive to the low pH environment of the stomach and 
+proteinases in the intestine. The objective of this study was to prepare 
+colonic-specific delivery system of toxin A antigen-specific IgY to block the 
+recognition of toxin A to the colon mucosa cells. Egg-laying hens were immunized 
+with purified C. difficile toxin A C-terminal domain for 3 times, then egg IgY 
+against the recombinant ToxA-C protein was purified from immunized egg yolk and 
+frozen dried. IgY-loaded microbeads were prepared using mini fluid bed system; 
+the loading efficiency was 21%. The pH and temperature stabilities of the 
+microbeads were assayed. The IgY-loaded microbeads coated with 35% Eudragit S100 
+had colonic-specific IgY release specificity both in vitro and in vivo, the 
+colonic-specific release of biological active IgY was 87.5% in the rat. Our 
+study provides a new option for the biological treatment C. difficile infection.

@@ -1,0 +1,34 @@
+INTRODUCTION: Tyrosine kinases are key mediators of multiple signaling pathways 
+implicated in rheumatoid arthritis (RA). We previously demonstrated that 
+imatinib mesylate--a Food and Drug Administration (FDA)-approved, antineoplastic 
+drug that potently inhibits the tyrosine kinases Abl, c-Kit, platelet-derived 
+growth factor receptor (PDGFR), and c-Fms--ameliorates murine autoimmune 
+arthritis. However, which of the imatinib-targeted kinases is the principal 
+culprit in disease pathogenesis remains unknown. Here we examine the role of 
+c-Fms in autoimmune arthritis.
+METHODS: We tested the therapeutic efficacy of orally administered imatinib or 
+GW2580, a small molecule that specifically inhibits c-Fms, in three mouse models 
+of RA: collagen-induced arthritis (CIA), anti-collagen antibody-induced 
+arthritis (CAIA), and K/BxN serum transfer-induced arthritis (K/BxN). Efficacy 
+was evaluated by visual scoring of arthritis severity, paw thickness 
+measurements, and histological analysis. We assessed the in vivo effects of 
+imatinib and GW2580 on macrophage infiltration of synovial joints in CIA, and 
+their in vitro effects on macrophage and osteoclast differentiation, and on 
+osteoclast-mediated bone resorption. Further, we determined the effects of 
+imatinib and GW2580 on the ability of macrophage colony-stimulating factor 
+(M-CSF; the ligand for c-Fms) to prime bone marrow-derived macrophages to 
+produce tumor necrosis factor (TNF) upon subsequent Fc receptor ligation. 
+Finally, we measured M-CSF levels in synovial fluid from patients with RA, 
+osteoarthritis (OA), or psoriatic arthritis (PsA), and levels of total and 
+phosphorylated c-Fms in synovial tissue from patients with RA.
+RESULTS: GW2580 was as efficacious as imatinib in reducing arthritis severity in 
+CIA, CAIA, and K/BxN models of RA. Specific inhibition of c-Fms abrogated (i) 
+infiltration of macrophages into synovial joints of arthritic mice; (ii) 
+differentiation of monocytes into macrophages and osteoclasts; (iii) 
+osteoclast-mediated bone resorption; and (iv) priming of macrophages to produce 
+TNF upon Fc receptor stimulation, an important trigger of synovitis in RA. 
+Expression and activation of c-Fms in RA synovium were high, and levels of M-CSF 
+were higher in RA synovial fluid than in OA or PsA synovial fluid.
+CONCLUSIONS: These results suggest that c-Fms plays a central role in the 
+pathogenesis of RA by mediating the differentiation and priming of monocyte 
+lineage cells. Therapeutic targeting of c-Fms could provide benefit in RA.

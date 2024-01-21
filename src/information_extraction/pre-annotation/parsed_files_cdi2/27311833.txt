@@ -1,0 +1,16 @@
+The epidemiology of Clostridium difficile infections is highly dynamic as new 
+strains continue to emerge worldwide. Here we present a detailed analysis of a 
+new C. difficile strain (ICC-45) recovered from a cancer patient in Brazil that 
+died from severe diarrhea. A polyphasic approach assigned a new PCR-ribotype and 
+PFGE macrorestriction pattern to strain ICC-45, which is toxigenic (tcdA(+), 
+tcdB(+) and ctdB(+)) and classified as ST41 from MLST Clade 2 and toxinotype 
+IXb. Strain ICC-45 encodes for a variant TcdB that induces a distinct CPE in 
+agreement with its toxinotype. Unlike epidemic NAP1/027 strains, which are also 
+classified to MLST Clade 2, strain ICC-45 is susceptible to fluoroquinolones and 
+does not overproduce toxins TcdA and TcdB. However, supernatants from strain 
+ICC-45 and a NAP1/027 strain produced similar expression of pro-inflammatory 
+cytokines, epithelial damage, and oxidative stress response in the mouse ileal 
+loop model. These results highlight inflammation and oxidative stress as common 
+features in the pathogenesis of C. difficile Clade 2 strains. Finally, this work 
+contributes to the description of differences in virulence among various 
+C. difficile strains.

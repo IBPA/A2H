@@ -1,0 +1,16 @@
+Cell adhesion molecules play a central role at every step of the immune 
+response. The function of leukocytes can be regulated by modulating adhesion 
+interactions between cell adhesion molecules to develop therapeutic agents 
+against autoimmune diseases. Among the different cell adhesion molecules that 
+participate in the immunologic response, CD2 and its ligand CD58 (LFA-3) are two 
+of the best-characterized adhesion molecules mediating the immune response. To 
+modulate the cell adhesion interaction, peptides were designed from the 
+discontinuous epitopes of the beta-strand region of CD2 protein. The two strands 
+were linked by a peptide bond. beta-Strands in the peptides were nucleated by 
+inserting a beta-sheet-inducing Pro-Gly sequence with key amino acid sequences 
+from CD2 protein that binds to CD58. Using a fluorescence assay, peptides that 
+exhibited potential inhibitory activity in cell adhesion were evaluated for 
+their ability to bind to CD58 protein. A model for peptide binding to CD58 
+protein was proposed based on docking studies. Administration of one of the 
+peptides, P3 in collagen-induced arthritis in the mouse model, indicated that 
+peptide P3 was able to suppress rheumatoid arthritis in mice.

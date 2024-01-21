@@ -1,0 +1,21 @@
+Rheumatoid arthritis (RA) is an autoimmune disease characterized by synovial 
+hyperplasia and chronic inflammation, which lead to the progressive destruction 
+of cartilage and bone in the joints. Numerous studies have reported that 
+administrations of various types of MSCs improve arthritis symptoms in animal 
+models, by paracrine mechanisms. However, the therapeutic effects of the 
+secreted factors alone, without the cell graft, have been uncertain. Here, we 
+show that a single intravenous administration of serum-free conditioned medium 
+(CM) from human deciduous dental pulp stem cells (SHED-CM) into anti-collagen 
+type II antibody-induced arthritis (CAIA), a mouse model of rheumatoid arthritis 
+(RA), markedly improved the arthritis symptoms and joint destruction. The 
+therapeutic efficacy of SHED-CM was associated with an induction of 
+anti-inflammatory M2 macrophages in the CAIA joints and the abrogation of RANKL 
+expression. SHED-CM specifically depleted of an M2 macrophage inducer, the 
+secreted ectodomain of sialic acid-binding Ig-like lectin-9 (ED-Siglec-9), 
+exhibited a reduced ability to induce M2-related gene expression and attenuate 
+CAIA. SHED-CM also inhibited the RANKL-induced osteoclastogenesis in vitro. 
+Collectively, our findings suggest that SHED-CM provides multifaceted 
+therapeutic effects for treating CAIA, including the ED-Siglec-9-dependent 
+induction of M2 macrophage polarization and inhibition of osteoclastogenesis. 
+Thus, SHED-CM may represent a novel anti-inflammatory and reparative therapy for 
+RA.

@@ -1,0 +1,24 @@
+Treatment of patients suffering from chronic diseases such as rheumatoid 
+arthritis with recombinant antibodies is time consuming and fairly expensive and 
+can be associated with side effects due to generalized depletion of the target 
+molecule. We have addressed these issues by developing an alternative approach 
+consisting of the intraarticular injection of a DNA vector encoding for the 
+anti-C5 neutralizing recombinant miniantibody MB12/22. This method allows local 
+production of the antibody in sufficient amount to be effective in preventing 
+joint inflammation in a rat model of antigen-induced arthritis. Injection of the 
+DNA vector in a right knee of normal rats resulted in the production of the 
+minibody detected in the synovial washes by western blot with a strong signal 
+peaking at 3 days after administration. DNA encoding for the minibody was shown 
+for 14 days in the synovial tissue and was undetectable in the controlateral 
+knee and in other organs. The preventive effect of this approach was evaluated 
+in rats receiving a single injection of the vector 3 days before the induction 
+of antigen-induced arthritis and analyzed 3 days later. The treated rats 
+exhibited a lower increase in swelling, associated with a lower number of PMN in 
+the articular washes and reduced deposition of C9 in synovial tissue compared to 
+control rats. These results suggest that treating the inflamed joints with a 
+vector that induces a local production of a neutralizing anti-C5 antibody may 
+represent a useful strategy to inhibit in situ complement activation and to 
+treat patients with monoarthritis. Moreover, this approach may be adopted as a 
+novel therapeutic strategy to prevent monoarthritis as an alternative to local 
+treatment with antibodies commonly used in this form of arthritis, with the 
+advantages of the lower cost and the longer persistence of antibody production.

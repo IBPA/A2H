@@ -1,0 +1,12 @@
+The aim of this study was to investigate osteoclastogenic properties of 
+inflammatory cytokines at different time-points of osteoclastogenesis. Bone 
+marrow-derived macrophages from five healthy dogs were stimulated with the 
+macrophage colony-stimulating factor, receptor activator of nuclear factor-κB 
+ligand and inflammatory cytokines such as interleukin (IL)-1β, tumor necrosis 
+factor (TNF)-α and IL-17. Osteoclasts (OC) formation and function were enhanced 
+with TNF-α regardless of temporal differences. But in contrast, IL-1β suppressed 
+the osteoclastogenesis at early phase of the process while upregulating at the 
+late phase. Furthermore, differentiation of OC precursors into OC was suppressed 
+at high concentrations of IL-17. Collectively, the results revealed that 
+suppressing TNF-α would be a promising strategy to inhibit 
+inflammation-associated bone destruction in dogs.

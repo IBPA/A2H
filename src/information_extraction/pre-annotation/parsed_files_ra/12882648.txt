@@ -1,0 +1,26 @@
+The inflammation that occurs during rheumatoid arthritis or atherosclerosis is 
+characterized by the release of large amounts of sPLA(2) (group IIA secretory 
+phospholipase A(2)). We have shown previously that the sPLA(2) promoter in SMC 
+(smooth-muscle cells) is activated by interleukin-1beta and cAMP-signalling 
+pathways, through the interplay of multiple transcription factors [Antonio, 
+Brouillet, Janvier, Monne, Bereziat, Andreani, and Raymondjean (2002) Biochem. 
+J. 368, 415-424]. In the present study, we have investigated the regulation of 
+sPLA(2) gene expression in rat aortic SMCs by oxysterols. We found that 
+oxysterol ligands that bind to the LXR (liver X receptor), including 25-HC 
+(25-hydroxycholesterol) and 22( R )-HC, cause the accumulation of sPLA(2) mRNA 
+and an increased enzyme activity. Transient transfection experiments 
+demonstrated that the sPLA(2) promoter is synergistically activated by 22( R 
+)-HC in combination with 9- cis -retinoic acid, a ligand for the LXR 
+heterodimeric partner RXR (retinoid X receptor). Promoter activity was also 
+increased in a sterol-responsive fashion when cells were co-transfected with 
+LXRalpha/RXRalpha or LXRbeta/RXRalpha. Mutagenesis studies and gel 
+mobility-shift assays revealed that LXR/RXR heterodimers regulate sPLA(2) 
+transcription directly, by interacting with a degenerated LXRE (LXR response 
+element) at position [-421/-406] of the sPLA(2) promoter. Chromatin 
+immunoprecipitation revealed the in vivo occupancy of LXR on the sPLA(2) 
+promoter. In addition, the orphan nuclear receptor LRH-1 (liver receptor 
+homologue-1) potentiated the sterol-dependent regulation of the sPLA(2) promoter 
+by binding to an identified promoter element (TCAAGGCTG). Finally, we have 
+demonstrated that oxysterols act independent of interleukin-1beta and cAMP 
+pathways to activate the sPLA(2) promoter. In the present study, we have 
+identified a new pathway activating sPLA(2) gene expression in SMCs.

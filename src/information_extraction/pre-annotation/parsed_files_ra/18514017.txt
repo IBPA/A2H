@@ -1,0 +1,11 @@
+Macrophages phagocytose cells that die during programmed cell death and the 
+nuclei that are expelled from erythroid precursor cells during erythropoiesis; 
+subsequently, the ingested DNA is degraded in their lysosomes. A defect in this 
+lysosomal DNA degradation activates the macrophages to produce cytokines such as 
+IFNbeta and TNFalpha in a Toll-like receptor (TLR)-independent manner. IFNbeta 
+thus produced in the mouse fetus induces the apoptosis of erythroid and lymphoid 
+precursor cells, and kills the embryos. On the other hand, when the capacity for 
+lysosomal DNA degradation is knocked out after birth, TNFalpha production 
+increases in adulthood, causing chronic polyarthritis that resembles human 
+rheumatoid arthritis. Here, I summarize recent findings on inflammatory diseases 
+induced by such defects in DNA degradation.

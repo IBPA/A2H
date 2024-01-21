@@ -1,0 +1,15 @@
+Clostridium difficile toxin A is known to cause deacetylation of tubulin 
+proteins, which blocks microtubule formation and triggers barrier dysfunction in 
+the gut. Based on our previous finding that the Clostridium difficile toxin 
+A-dependent activation of histone deacetylase 6 (HDAC-6) is responsible for 
+tubulin deacetylation and subsequent microtubule disassembly, we herein examined 
+the possible effect of potassium acetate (PA; whose acetyl group prevents the 
+binding of tubulin to HDAC-6) as a competitive/false substrate. Our results 
+revealed that PA inhibited toxin A-induced deacetylation of tubulin and 
+recovered toxin A-induced microtubule disassembly. In addition, PA treatment 
+significantly decreased the production of IL-6 (a marker of inflamed tissue) in 
+the toxin A-induced mouse enteritis model. An in vitro HDAC assay revealed that 
+PA directly inhibited HDAC-6-mediated tubulin deacetylation, indicating that PA 
+acted as a false substrate for HDAC-6. These results collectively indicate that 
+PA treatment inhibits HDAC-6, thereby reducing the cytotoxicity and inflammatory 
+responses caused by C. difficile toxin A.

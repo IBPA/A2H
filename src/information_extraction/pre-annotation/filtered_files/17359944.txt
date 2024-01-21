@@ -1,0 +1,21 @@
+Celecoxib is a selective cyclooxygenase-2 (COX-2) inhibitor used in the 
+treatment of osteoarthritis and rheumatoid arthritis with fewer gastrointestinal 
+toxicities compared to traditional non-steroidal anti-inflammatory drugs. 
+Voltage-gated Na(+) channels in primary sensory neurons play an important role 
+in the pathogenesis of various pain conditions. We examined the effects of 
+celecoxib on tetrodotoxin-sensitive (TTX-S) and tetrodotoxin-resistant (TTX-R) 
+Na(+) currents in acutely dissociated rat dorsal root ganglion neurons. 
+Celecoxib suppressed both currents in dose- and frequency-dependent manner. The 
+apparent dissociation constants (K(d)) for TTX-S and TTX-R Na(+) currents 
+measured at 0 mV from a holding potential of -80 mV were estimated to be 5.6 and 
+19.5 microM, respectively. Celecoxib slightly slowed inactivation kinetics of 
+TTX-S Na(+) current, but made it much faster in TTX-R Na(+) current. Celecoxib 
+shifted the activation voltage of TTX-S Na(+) current to a depolarizing 
+direction, but not that of TTX-R Na(+) current. Celecoxib caused a 
+hyperpolarizing shift of the steady-state inactivation curve in both Na(+) 
+currents to a great extent. In addition celecoxib reduced the maximal 
+availability of both Na(+) channels. Thus celecoxib appears to bind to both 
+inactivated and resting Na(+) channels. Celecoxib slowed the recovery of both 
+Na(+) channels from inactivation. All these effects combined would suppress the 
+excitability of sensory neurons. Thus, beside COX-2 inhibition, the Na(+) 
+channel inhibition is considered to contribute to celecoxib analgesia.

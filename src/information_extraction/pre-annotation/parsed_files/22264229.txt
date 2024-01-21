@@ -1,0 +1,23 @@
+BACKGROUND: Severe Clostridium difficile toxin-induced enteritis is 
+characterized by exuberant intestinal tissue inflammation, epithelial disruption 
+and diarrhea. Adenosine, through its action on the adenosine A2A receptor, 
+prevents neutrophillic adhesion and oxidative burst and inhibits inflammatory 
+cytokine production. Alanyl-glutamine enhances intestinal mucosal repair and 
+decreases apoptosis of enterocytes. This study investigates the protection from 
+enteritis by combination therapy with ATL 370, an adenosine A2A receptor 
+agonist, and alanyl-glutamine in a rabbit and murine intestinal loop models of 
+C. difficile toxin A-induced epithelial injury.
+METHODS: Toxin A with or without alanyl-glutamine was administered 
+intraluminally to rabbit ileal or murine cecal loops. Animals were also given 
+either PBS or ATL 370 parenterally. Ileal tissues were examined for secretion, 
+histopathology, apoptosis, Cxcl1/KC and IL-10.
+RESULTS: ATL 370 decreased ileal secretion and histopathologic changes in loops 
+treated with Toxin A. These effects were reversed by the A2A receptor 
+antagonist, SCH 58261, in a dose-dependent manner. The combination of ATL 370 
+and alanyl-glutamine significantly further decreased ileal secretion, mucosal 
+injury and apoptosis more than loops treated with either drug alone. ATL 370 and 
+alanyl-glutamine also decreased intestinal tissue KC and IL-10.
+CONCLUSIONS: Combination therapy with an adenosine A2A receptor agonist and 
+alanyl-glutamine is effective in reversing C. difficile toxin A-induced 
+epithelial injury, inflammation, secretion and apoptosis in animals and has 
+therapeutic potential for the management of C. difficile infection.

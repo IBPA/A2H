@@ -1,0 +1,31 @@
+OBJECTIVE: Neutrophil accumulation is balanced by both cell infiltration and 
+cell clearance, the controls of which are pivotal in the pathogenesis of 
+rheumatoid arthritis (RA) and other chronic inflammatory diseases. Of the 
+neutrophil-specific proteases, matrix metalloproteinase 8 (MMP-8; also known as 
+neutrophil collagenase or collagenase 2) is traditionally viewed as being 
+crucial for collagen degradation and hence cell migration and infiltration. This 
+study was undertaken to examine the role of MMP-8 in a murine model of 
+spontaneous RA.
+METHODS: MMP-8(-/-) mice were backcrossed onto the Fas-defective MRL/lpr 
+background, a mouse strain characterized by systemic autoimmunity including 
+spontaneous autoimmune arthritis. Arthritis was induced with Freund's complete 
+adjuvant and clinical disease and histologic parameters were assessed.
+RESULTS: MMP-8(-/-) mice had earlier and more severe joint inflammation than 
+their MMP-8(+/+) counterparts, coupled with a massive accumulation of 
+neutrophils in synovial tissue, an unexpected result considering the commonly 
+held view that MMP-8 has important extracellular matrix-degradative functions. 
+Protease and protease inhibitor analysis of MMP-8(-/-) mouse neutrophils by 
+CLIP-CHIP microarray revealed very little additional change in protease levels 
+except for low expression of the apoptosis initiator caspase 11. This was 
+confirmed at the protein level in unstimulated, lipopolysaccharide-treated, and 
+interferon-γ-treated MMP-8(-/-) mouse neutrophils. Downstream of caspase 11, the 
+activity of the apoptosis executioner caspase 3 was consequently reduced in 
+MMP-8(-/-) mouse neutrophils, translating to reduced neutrophil apoptosis and 
+cell accumulation compared with wild-type mouse cells.
+CONCLUSION: Our findings indicate that MMP-8 is not essential for neutrophil 
+migration in arthritis and likely other autoimmune diseases. Rather, MMP-8 is 
+important for normal rates of neutrophil apoptosis and hence regulates cell 
+clearance. Because MMP-8 deficiency leads to an exaggerated accumulation of 
+neutrophil infiltrates due to delayed apoptosis and concurrent pathologic 
+changes associated with dramatically increased neutrophil infiltration, MMP-8 is 
+antiinflammatory and therefore a drug antitarget in the treatment of arthritis.

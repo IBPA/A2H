@@ -1,0 +1,5 @@
+In mice, subcutaneous administration of antibiotics that disrupt the anaerobic 
+microflora (i.e., clindamycin, piperacillin-tazobactam, and ceftriaxone) 
+facilitated in vitro growth of and toxin production by Clostridium difficile in 
+cecal contents, whereas antibiotics that cause minimal disruption of the 
+anaerobic microflora (i.e., levofloxacin, cefepime, and aztreonam) did not.

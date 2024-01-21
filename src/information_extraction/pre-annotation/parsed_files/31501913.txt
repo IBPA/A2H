@@ -1,0 +1,20 @@
+Therapeutic regimens using monoclonal antibodies have been implemented in 
+clinical daily practice for various gastroenterological diseases, for 
+therapeutic strategies in gastrointestinal (GI) oncology, and infectious 
+diseases of the gastrointestinal tract. The main indications remain the therapy 
+of chronic inflammatory bowel disease and in GI oncology. A new field has opened 
+for targeted therapy with monoclonal antibodies of recurrent Clostridium 
+difficile infection. In the nomenclature of monoclonal antibodies, the endings 
+of the substances indicate the production or degree of "humanization" of the 
+respective antibodies ("umab": fully human, recombinant antibody; "ximab": 
+chimeric antibody with variable murine domain). For chronic inflammatory bowel 
+disease, monoclonal antibodies has been developed to interfere with molecular 
+targets of the inflammatory cascade in the underlying pathogenesis (tumor 
+necrosis factor‑α, interleukin-12 and -23; α4β7-integrins). The development of 
+targeted therapies in the treatment of GI malignancies, monoclonal antibodies 
+has been developed to interfere with substantial pathways of proliferation and 
+apoptosis as well as neoplastic vascularization and neovascularization (e.g., 
+vascular endothelial growth factor [VEGF] and VEGF receptor antibodies, 
+epidermal growth factor receptor antibodies, HER2/neu antibodies). In the 
+current review, we provide a summary of the current applications of monoclonal 
+antibodies in the therapeutic treatment of gastroenterological diseases.

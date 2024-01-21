@@ -1,0 +1,25 @@
+Receptor activator of nuclear factor-kB ligand (RANKL) is a key factor in the 
+differentiation and activation of osteoclasts. Suppressing osteoclastogenesis is 
+considered an effective therapeutic approach for bone-destructive diseases, such 
+as osteoporosis and rheumatoid arthritis. Sappanone A (SPNA), a homoisoflavanone 
+compound isolated from the heartwood of Caesalpinia sappan, has been reported to 
+exert anti-inflammatory effects; however, the effects of SPNA on 
+osteoclastogenesis have not been investigated. In the present study, we describe 
+for the first time that SPNA inhibits RANKL-induced osteoclastogenesis in mouse 
+bone marrow macrophages (BMMs) and suppresses inflammation-induced bone loss in 
+a mouse model. SPNA inhibited the formation of osteoclasts from BMMs, osteoclast 
+actin-ring formation, and bone resorption in a concentration-dependent manner. 
+At the molecular level, SPNA significantly inhibited RANKL-induced activation of 
+the AKT/glycogen synthase kinase-3β (GSK-3β) signaling pathway without affecting 
+its activation of the mitogen-activated protein kinases (MAPKs) JNK, p38, and 
+ERK. In addition, SPNA suppressed the induction of nuclear factor of activated T 
+cells cytoplasmic 1 (NFATc1), which is a crucial transcription factor in 
+osteoclast differentiation. As a result, SPNA decreased 
+osteoclastogenesis-related marker gene expression, including CtsK, TRAP, 
+dendritic cell-specific transmembrane protein (DC-STAMP), MMP-9 and 
+osteoclast-associated receptor (OSCAR). In a mouse inflammatory bone loss model, 
+SPNA significantly inhibited lipopolysaccharide (LPS)-induced bone loss by 
+suppressing the number of osteoclasts. Taken together, these findings suggest 
+that SPNA inhibits osteoclastogenesis and bone resorption by inhibiting the 
+AKT/GSK-3β signaling pathway and may be a potential candidate compound for the 
+prevention and/or treatment of inflammatory bone loss.

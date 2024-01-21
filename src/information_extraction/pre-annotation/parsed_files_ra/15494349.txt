@@ -1,0 +1,23 @@
+OBJECTIVE: Rheumatoid arthritis (RA) is an autoimmune disease, characterized by 
+a chronic inflammation in the joints. The model of collagen-induced arthritis 
+(CIA) has been extensively used to elucidate the pathogenic mechanisms relevant 
+to human RA and is widely employed for the evaluation of potential 
+anti-rheumatic agents. Etoposide and mitoxantrone are immunosuppressive drugs, 
+both acting by inhibiting the topoisomerase II function. We have previously 
+demonstrated an ameliorating effect of etoposide in CIA. The aims of this study 
+were (1) to assess the optimal ameliorating dose of etoposide and (2) to 
+ascertain that topoisomerase II inhibition, irrespective of the chemical 
+composition of the drug, affects the course of autoimmunity.
+METHODS: Male DBA/1 mice were treated with 12.5 mg/kg body weight of etoposide 
+five times, twice, once per week or once every second week. Mitoxantrone was 
+administered as high dose (1 mg/kg body weight five times after immunization or 
+after booster with collagen II) or low dose (3 microg/mouse, 5 days/week 
+starting after collagen II immunization or after booster).
+RESULTS: Treatment with 12.5 mg/kg body weight five times or twice weekly with 
+etoposide completely inhibited development of arthritis. Low-dose treatment with 
+mitoxantrone after collagen II immunization or high-dose treatment after 
+collagen II booster delayed the onset of arthritis. These results were observed 
+clinically as well as histologically. In addition, serum levels of anti-collagen 
+II antibodies were significantly lower in mice displaying less severe arthritis.
+CONCLUSION: Treatment of collagen-induced arthritis with topoisomerase II 
+inhibitors ameliorates the development of disease.

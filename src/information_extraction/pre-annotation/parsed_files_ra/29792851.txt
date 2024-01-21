@@ -1,0 +1,22 @@
+Collagen-induced arthritis (CIA) is a frequently used animal model of rheumatoid 
+arthritis, human autoimmune disease that exhibits clear sex bias in incidence 
+and clinical course. Female Dark Agouti rats immunized for CIA showed also 
+greater incidence and higher arthritic score than their male counterparts. The 
+study investigated sex differences in mechanisms controlling the primary immune 
+responses in draining lymph nodes (dLNs), as a factor contributing to this 
+dimorphism. The higher frequencies of CD4 + CD25 + Foxp3- cells, presumably 
+activated effector T (Teff) cells, and IL-17+, IFN-γ + and IL-17 + IFN-γ + T 
+cells were found in female compared with male rat dLNs. However, the frequency 
+of CD4 + CD25 + Foxp3+ T regulatory cells (Treg) did not differ between sexes. 
+Thus, CD4+ Teff cells/Treg ratio, and IL-17+ T cells/Treg and IFN-γ + T 
+cells/Treg ratios were higher in female than in male rats, and among them was 
+found lower frequency of PD-1+ cells. This suggested less efficient control of 
+(auto)immune Th1/Th17 cell responses in female rat dLNs. On the contrary, the 
+frequency of IL-4+ T cells was lower in female than in male rat dLNs. 
+Consistently, the ratio of serum levels of collagen-specific IgG2a 
+(IFN-γ-dependent, with an important pathogenic role in CIA) and IgG1 
+(IL-4-dependent) was shifted towards IgG2a in female compared with male rats. As 
+a whole, the study suggests that sexual dimorphism in the control of T cell 
+activation/polarization could contribute to sex bias in the susceptibility to 
+CIA. Moreover, the study advises the use of animals of both sexes in the 
+preclinical testing of new drugs for rheumatoid arthritis.

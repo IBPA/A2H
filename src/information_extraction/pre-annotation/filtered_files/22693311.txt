@@ -1,0 +1,32 @@
+Folic acid has been frequently exploited to target attached drugs to cells that 
+overexpress a folate receptor (FR). Unfortunately, folic acid and folate-linked 
+drugs bind equally well to both major isoforms of the FR-that is, FR-α, which is 
+primarily expressed on malignant cells, and FR-β, which is upregulated on 
+activated monocytes and macrophages. Because both major isoforms of FR can be 
+expressed simultaneously in the same organism, folic acid cannot enable 
+selective targeting of therapeutic and imaging agents to either tumor masses or 
+sites of inflammation. In an effort to develop a targeting ligand that can 
+selectively deliver attached imaging and therapeutic agents to tumor cells, we 
+constructed a reduced and alkylated form of folic acid, N(5), N(10)-dimethyl 
+tetrahydrofolate (DMTHF) that exhibits selectivity for FR-α.
+METHODS: DMTHF-(99m)Tc was injected into mice bearing FR-α-expressing tumor 
+xenografts and imaged by γ-scintigraphy. The selectivity for FR-α over FR-β in 
+vivo was examined by γ-scintigraphic images of animal models of various 
+inflammatory diseases such as apolipoprotein E-deficient mice with 
+atherosclerosis, DBA/1 LacJ mice with induced arthritis, C57BL/6J mice with 
+muscle injury, and BALB/C mice with both FR-α tumor and ulcerative colitis, by 
+administration of equal doses of DMTHF-(99m)Tc and EC20-(99m)Tc. The uptake of 
+radiochelates in various organs was quantified by biodistribution studies. 
+DMTHF-near-infrared dye conjugate and DMTHF-Oregon green dye conjugates were 
+synthesized and evaluated for FR-α selectivity over FR-β in rat peritoneal 
+macrophages and human peripheral blood monocytes, respectively, by flow 
+cytometry. Fluorescence-guided imaging was also performed using folate and DMTHF 
+dye conjugates.
+RESULTS: The new targeting ligand was found to bind malignant cells in mice with 
+solid tumor xenografts but not peripheral blood monocytes or inflammatory 
+macrophages in animal models of atherosclerosis, rheumatoid arthritis, muscle 
+injury, or ulcerative colitis. Results from optical and radioimaging studies and 
+biodistribution experiments confirm the differential specificity of this new 
+ligand for malignant masses.
+CONCLUSION: The new targeting ligand DMTHF enables selective noninvasive imaging 
+and therapy of tumor tissues in the presence of inflammation.

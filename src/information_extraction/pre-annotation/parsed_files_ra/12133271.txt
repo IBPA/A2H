@@ -1,0 +1,20 @@
+The adeno-associated viruses (AAV) offer new perspectives for cytokine gene 
+transfer in rheumatoid arthritis (RA) because they are nonpathogenic and allow 
+long-term transgene expression in vivo. Moreover, the use of a 
+tetracycline-inducible promoter allows regulation of therapeutic gene 
+expression. This study assessed the potential long-term gene regulation of a 
+recombinant AAV vector expressing viral interleukin-10 (vIL-10) in human 
+rheumatoid synovium and the therapeutic efficiency in a mouse model of RA. We 
+constructed a recombinant AAV vector in which the transcription of vIL-10 cDNA 
+is controlled by the TetON system. Transduction of human primary RA synovial 
+cells with AAV-tetON-vIL10 conferred in vitro controlled vIL-10 expression. 
+After intramuscular injection, both incidence and severity of collagen-induced 
+arthritis were significantly reduced at macroscopic, radiological, and 
+histological levels in the group of DBA1 mice treated with AAV-TetON-vIL10 
+vector plus doxycycline after immunization and boosting compared to control 
+groups. When coinjecting two separate AAV vectors, one encoding the inducible 
+vIL-10 and the other the transcriptional activator, a 10 times excess of the 
+transactivator vector dose allowed efficient control of vIL-10 secretion by 
+doxycycline administration or withdrawal, over an 8-week period. Our results 
+supported, for the first time, the utility of AAV-tetON-vIL10 as a therapeutic 
+tool for gene therapy in RA.

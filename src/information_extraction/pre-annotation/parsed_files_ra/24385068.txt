@@ -1,0 +1,20 @@
+The inflammation amplifier, a nuclear factor-kappa B (NF-kB)feedback loop in 
+non-immune cells including fibroblasts and endothelial cells, describes how 
+NF-kB-mediated transcriptions are enhanced to induce the inflammation in the 
+presence of signal Tranducer and Activator of Transcription 3 (STAT3) 
+activation. It was originally discovered in rheumatoid arthritis and multiple 
+sclerosis mouse models and has since been shown to be associated with various 
+human diseases and disorders including autoimmune diseases, metabolic syndromes, 
+neurodegenerative diseases, and other inflammatory diseases. The amplifier 
+begins with IL-17, which acts as the main signal to express NF-kB-mediated 
+transcriptions, and IL-6, an NF-kB target, which functions as a fuel for the 
+inflammation amplifier. Indeed, other NF-kB targets including various chemokines 
+also act as effector molecules that cause local accumulation of various immune 
+cells and subsequent inflammation. Through extensive studies in the multiple 
+sclerosis model experimental autoimmune encephalomyelitis, we recently 
+demonstrated that regional neural activation induces excess activation of the 
+inflammation amplifier at specific blood vessels in the fifth lumbar cord, 
+creating a gateway for immune cells to enter the central nervous system (CNS). 
+We thus propose the gateway theory to describe how regional neural activation 
+enables immune cells to enter the CNS from the blood and argue that this theory 
+might provide novel therapeutic targets for inflammatory diseases and disorders.

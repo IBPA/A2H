@@ -1,0 +1,21 @@
+As a consequence of excessive antibiotic therapies in hospitalized patients, 
+Clostridium difficile, a Gram-positive anaerobic spore-forming intestinal 
+pathogen, is the leading cause of hospital-acquired diarrhea and colitis. Drug 
+treatments for these diseases are often complicated by antibiotic-resistant 
+strains and a high frequency of treatment failures and relapse; therefore, novel 
+nonantibiotic approaches may prove to be more effective. In this study, we 
+recombinantly expressed a prophage lysin identified from a C. difficile strain, 
+CD630, which we named PlyCD. PlyCD was found to have lytic activity against 
+specific C. difficile strains. However, the recombinantly expressed catalytic 
+domain of this protein, PlyCD1-174, displayed significantly greater lytic 
+activity (>4-log kill) and a broader lytic spectrum against C. difficile strains 
+while still retaining a high degree of specificity toward C. difficile versus 
+commensal clostridia and other bacterial species. Our data also indicated that 
+noneffective doses of vancomycin and PlyCD1-174 when combined in vitro could be 
+significantly more bactericidal against C. difficile. In an ex vivo treatment 
+model of mouse colon infection, we found that PlyCD1-174 functioned in the 
+presence of intestinal contents, significantly decreasing colonizing C. 
+difficile compared to controls. Together, these data suggest that PlyCD1-174 has 
+potential as a novel therapeutic for clinical application against C. difficile 
+infection, either alone or in combination with other preexisting treatments to 
+improve their efficacy.

@@ -1,0 +1,21 @@
+Rheumatoid arthritis (RA) is a progressive, inflammatory autoimmune disease. As 
+RA progresses, the hyperplastic synovial pannus creates a hypoxic, inflammatory 
+environment that induces angiogenesis. Further vascularization of the synovial 
+tissue promotes pannus growth and continued infiltration of inflammatory 
+leukocytes, thus perpetuating the disease. Pristimerin inhibits inflammation and 
+tumor angiogenesis. The present study focused on the inhibition of angiogenesis 
+by Pristimerin in adjuvant-induced arthritic rats and the underlying molecular 
+mechanisms. Our results clearly demonstrate for the first time that Pristimerin 
+significantly reduces vessel density in synovial membrane tissues of inflamed 
+joints and reduces the expression of pro-angiogenic factors in sera, including 
+TNF-α, Ang-1, and MMP-9. Pristimerin also decreased the expression of VEGF and 
+p-VEGFR2 in the synovial membrane, whereas the total amount of VEGFR2 remained 
+unchanged. Pristimerin suppressed the sprouting vessels of the aortic ring and 
+inhibited VEGF-induced HFLS-RA migration in vitro. Pristimerin also inhibited 
+VEGF-induced proliferation, migration and tube formation by HUVECs, blocked the 
+autophosphorylation of VEGF-induced VEGFR2 and consequently downregulated the 
+signaling pathways of activated PI3K, AKT, mTOR, ERK1/2, JNK, and p38 in 
+VEGF-induced HUVECs. Our results indicate that Pristimerin suppressed synovial 
+angiogenesis in our rat model and in vitro by interrupting the targeting of 
+VEGFR2 activation. Therefore, Pristimerin has potential as an angiogenesis 
+inhibitor in the treatment of rheumatoid arthritis.

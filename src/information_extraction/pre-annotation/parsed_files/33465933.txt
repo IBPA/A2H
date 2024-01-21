@@ -1,0 +1,17 @@
+Microneedles represent an exciting departure from the existing parenteral 
+injection paradigm for drug delivery, particularly for the administration of 
+vaccines. While the benefit of delivering vaccine antigens to immunocompetent 
+tissue in the skin has been established, there have been varying degrees of 
+success using microneedles to do so. Here, we investigate the use of silk 
+fibroin protein to produce microneedles and evaluate their ability to deliver 
+vaccines against influenza, Clostridium difficile, and Shigella. Fibroin protein 
+from the silkworm Bombyx mori possesses suitable properties for use in a 
+microneedle system, including all-aqueous processing, mechanical strength in 
+dried formats, biocompatibility, and the ability to temperature stabilize 
+biomacromolecules. As such, this biomaterial combines the processing and 
+biocompatibility advantages of a dissolving microneedle system with the product 
+stability and mechanical strength of coated insoluble microneedles. Through 
+successful vaccination of mice against three separate antigens, we establish 
+that silk fibroin is well-suited for use as a solid-coated microneedle delivery 
+system and offers long-term potential similar to that of the leading microneedle 
+biomaterials.

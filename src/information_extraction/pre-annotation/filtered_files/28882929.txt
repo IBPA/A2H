@@ -1,0 +1,22 @@
+During the development of autoimmune disease, a switch occurs in the antibody 
+repertoire of B cells so that the production of pathogenic rather than 
+non-pathogenic autoantibodies is enabled. However, there is limited knowledge 
+concerning how this pivotal step occurs. Here, we present genetic and 
+pharmacological evidence of a positive modifier function for the vesicular small 
+GTPase RhoB in specifically mediating the generation of pathogenic 
+autoantibodies and disease progression in the K/BxN preclinical mouse model of 
+inflammatory arthritis. Genetic deletion of RhoB abolished the production of 
+pathogenic autoantibodies and ablated joint inflammation in the model. 
+Similarly, administration of a novel RhoB-targeted monoclonal antibody was 
+sufficient to ablate autoantibody production and joint inflammation. In the 
+MRL/lpr mouse model of systemic lupus erythematosus (SLE), another established 
+preclinical model of autoimmune disease associated with autoantibody production, 
+administration of the anti-RhoB antibody also reduced serum levels of anti-dsDNA 
+antibodies. Notably, the therapeutic effects of RhoB blockade reflected a 
+selective deficiency in response to self-antigens, insofar as RhoB-deficient 
+mice and mice treated with anti-RhoB immunoglobulin (Ig) both mounted comparable 
+productive antibody responses after immunization with a model foreign antigen. 
+Overall, our results highlight a newly identified function for RhoB in 
+supporting the specific production of pathogenic autoantibodies, and offer a 
+preclinical proof of concept for use of anti-RhoB Ig as a disease-selective 
+therapy to treat autoimmune disorders driven by pathogenic autoantibodies.

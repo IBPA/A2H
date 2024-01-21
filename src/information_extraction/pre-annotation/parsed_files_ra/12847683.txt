@@ -1,0 +1,21 @@
+OBJECTIVE: To investigate the role of Crk-associated substrate lymphocyte type 
+(Cas-L), a downstream signaling molecule of beta1 integrins, in the 
+pathophysiology of rheumatoid arthritis (RA).
+METHODS: We analyzed human T lymphotropic virus type I (HTLV-I) tax transgenic 
+mice as well as samples from human RA patients. Splenocytes from tax transgenic 
+mice were cultured on mouse endothelial cell-covered Transwell inserts, and 
+cells migrating through the endothelial monolayer were counted. Biochemical 
+studies were performed to analyze the protein expression and tyrosine 
+phosphorylation of Cas-L. Immunohistochemical analysis was performed to detect 
+Cas-L-positive cells that had infiltrated into the joints.
+RESULTS: Migratory activity of splenocytes from tax transgenic mice with 
+arthritis (ATg) was much higher than that of tax transgenic mice without 
+arthritis (NTg) and littermate control mice. The expression of Cas-L protein and 
+its tyrosine phosphorylation were increased in ATg mice compared with NTg and 
+control mice, and this was accompanied by enhanced autophosphorylation of Fyn 
+and Lck. Immunohistochemical analysis demonstrated a large number of 
+Cas-L-positive lymphocytes migrating into the affected joints. Furthermore, in 
+human RA, Cas-L-positive lymphocytes were shown to infiltrate to the 
+inflammatory lesions.
+CONCLUSION: These results strongly suggest that Cas-L plays an important role in 
+the pathophysiology of RA.

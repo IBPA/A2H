@@ -1,0 +1,14 @@
+By screening possible ADP-ribosyltransferase activities in culture supernatants 
+from various Clostridium species, we have found one Clostridium difficile strain 
+(CD196) (isolated in our laboratory) that is able to produce, in addition to 
+toxins A and B, a new ADP-ribosyltransferase that was shown to covalently modify 
+cell actin as Clostridium botulinum C2 or Clostridium perfringens E iota toxins 
+do. The molecular weight of the CD196 ADP-ribosyltransferase (CDT) was 
+determined to be 43 kilodaltons, and its isoelectric point was 7.8. No cytotoxic 
+activity on Vero cells or lethal activity upon injection in mice was associated 
+with this enzyme. CDT was neither related to C. difficile A or B toxins nor to 
+C. botulinum C2 toxin component I. However, Vero cells cultivated in the 
+presence of C. difficile B toxin had a lower amount of actin able to be 
+ADP-ribosylated by CDT or C2 toxin in vitro. Antibodies raised against CDT 
+reacted by immunoblot analysis with a 43-kilodalton protein of C. perfringens 
+type E culture supernatant producing the iota toxin.

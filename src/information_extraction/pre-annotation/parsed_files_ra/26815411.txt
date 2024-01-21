@@ -1,0 +1,32 @@
+OBJECTIVE: Up-regulation of glucose metabolism has been implicated not only in 
+tumor cell growth but also in immune cells upon activation. However, little is 
+known about the metabolite profile in rheumatoid arthritis (RA), particularly in 
+fibroblast-like synoviocytes (FLS). This study was undertaken to evaluate 
+whether changes in glucose metabolism in RA FLS could play a role in 
+inflammation and joint damage.
+METHODS: Synovium and FLS were obtained from patients with RA and patients with 
+osteoarthritis (OA). The rate of glycolysis after stimulation of FLS with 
+lipopolysaccharide and platelet-derived growth factor BB was measured using 
+glycolysis stress test technology. FLS function was evaluated using a glycolysis 
+inhibitor, 2-deoxy-d-glucose (2-DG). After stimulation of the FLS, a migration 
+scratch assay, MTT assay, and enzyme-linked immunosorbent assay were performed 
+to measure the effect of 2-DG on FLS migration, viability of the FLS, and 
+cytokine secretion, respectively. IRDye 800CW 2-DG was used to assess glucose 
+uptake in the arthritic joints and stromal cells of mice after K/BxN mouse serum 
+transfer. The mice were injected daily, intraperitoneally, with 3-bromopyruvate 
+(BrPa; 5 mg/kg) to assess the effect of inhibition of glycolysis in vivo.
+RESULTS: Compared to human OA FLS, the balance between glycolysis and oxidative 
+phosphorylation was shifted toward glycolysis in RA FLS. Glucose transporter 1 
+(GLUT1) messenger RNA (mRNA) expression correlated with baseline functions of 
+the RA FLS. Glucose deprivation or incubation of the FLS with glycolytic 
+inhibitors impaired cytokine secretion and decreased the rate of proliferation 
+and migration of the cells. In a mouse model of inflammatory arthritis, GLUT1 
+mRNA expression in the synovial lining cells was observed, and increased levels 
+of glucose uptake and glycolytic gene expression were detected in the stromal 
+compartment of the arthritic mouse joints. Inhibition of glycolysis by BrPa, 
+administered in vivo, significantly decreased the severity of arthritis in this 
+mouse model.
+CONCLUSION: Targeting metabolic pathways is a novel approach to understanding 
+the mechanisms of disease. Inhibition of glycolysis may directly modulate 
+synoviocyte-mediated inflammatory functions and could be an effective treatment 
+strategy for arthritis.

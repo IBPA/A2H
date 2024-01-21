@@ -1,0 +1,14 @@
+Antibodies targeting the Clostridium difficile toxin A and toxin B confer 
+protective immunity to C. difficile associated disease in animal models and 
+provided protection against recurrent C. difficile disease in human subjects. 
+These antibodies are directed against the receptor binding domains (RBD) located 
+in the carboxy-terminal portion of both toxins and inhibit binding of the toxins 
+to their receptors. We have constructed a recombinant fusion protein containing 
+portions of the RBD from both toxin A and toxin B and expressed it in 
+Escherichia coli. The fusion protein induced high levels of serum antibodies to 
+both toxins A and B capable of neutralizing toxin activity both in vitro and in 
+vivo. In a hamster C. difficile infection model, immunization with the fusion 
+protein reduced disease severity and conferred significant protection against a 
+lethal dose of C. difficile spores. Our studies demonstrate the potential of the 
+fusion protein as a vaccine that could provide protection from C. difficile 
+disease in humans.

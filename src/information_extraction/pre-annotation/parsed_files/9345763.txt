@@ -1,0 +1,16 @@
+We have investigated the ability of a recombinant protein (REP231), derived from 
+Clostridium difficile toxin A C-terminal domain, to protect against toxin A 
+(TcdA) intoxication in vitro and in vivo. REP231 was cloned, expressed and 
+purified by thyroglobulin affinity chromatography, and demonstrated identical 
+binding properties to TcdA. Immunofluorescence experiments and in vitro 
+cytotoxicity assays using mouse teratocarcinoma cells F9 showed that specific 
+binding of TcdA to F9 cells through its C-terminal domain is essential for 
+producing cytotoxic effects. TcdA binding and cytotoxicity was inhibited by 
+REP231 and a monoclonal antibody directed against the C-terminal domain. Toxin B 
+did not bind to F9 cells and was consequently inactive in cytotoxicity assays. 
+Inhibition studies with lectins and a Le(x)-specific antibody supported earlier 
+findings that a terminal galactose is part of the bound saccharide but excluded 
+Le(x) as a receptor for TcdA. Mice immunised with REP231 were protected against 
+a threefold lethal dose of TcdA. Thus, REP231 appeared to be a suitable 
+candidate to develop an alternative therapeutic agent, which is able to 
+neutralise carbohydrate-mediated TcdA binding and might act as a vaccine.

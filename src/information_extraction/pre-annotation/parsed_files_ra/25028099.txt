@@ -1,0 +1,19 @@
+Previous studies have demonstrated that interleukin-20 (IL-20) is a 
+pro-inflammatory cytokine, and it has been implicated in psoriasis, lupus 
+nephritis, rheumatoid arthritis, atherosclerosis, and ulcerative colitis. Little 
+is known about the effects of IL-20 in airway remodeling in asthma. The aim of 
+our study was to demonstrate the function of IL-20 in airway remodeling in 
+asthma. To identify the expression of IL-20 and its receptor, IL-20R1/IL-20R2, 
+in the airway epithelium in bronchial tissues, bronchial biopsy specimens were 
+collected from patients and mice with asthma and healthy subjects and stained 
+with specific antibodies. To characterize the effects of IL-20 in asthmatic 
+airway remodeling, we silenced and stimulated IL-20 in cell lines isolated from 
+mice by shRNA and recombinant protein approaches, respectively, and detected the 
+expression of α-SMA and FN-1 by Western blot analysis. First, overexpression of 
+IL-20 and its receptor, IL-20R1/IL-20R2, was detected in the airway epithelium 
+collected from patients and mice with asthma. Second, IL-20 increased the 
+expression of fibronectin-1 and α-SMA, and silencing of IL-20 in mouse lung 
+epithelial (MLE)-12 cells decreased the expression of fibronectin-1 and α-SMA. 
+IL-20 may be a critical cytokine in airway remodeling in asthma. This study 
+indicates that targeting IL-20 and/or its receptors may be a new therapeutic 
+strategy for asthma.

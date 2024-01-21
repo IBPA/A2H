@@ -1,0 +1,16 @@
+Although pivotal to the immune system homeostasis, tumor necrosis factor (TNF) 
+becomes deleterious when de-regulated. The currently marketed TNF blockers are 
+highly efficacious in rheumatoid arthritis, ankylosing spondylitis, psoriasis, 
+psoriatic arthritis, uveitis and inflammatory bowel disease; reactivation of 
+tuberculosis and exacerbation of pre-existing multiple sclerosis remain their 
+most important safety issues. The endogenous protein progranulin binds TNF 
+receptor-1 (TNFR1) and TNFR2, thus blocking their interactions with TNF. Domains 
+of the extracellular region of TNFR, termed preligand-binding assembly domain 
+(PLAD), mediate receptor-chain trimerization which is essential for signaling. 
+Therapeutic administration of either progranulin or soluble versions of TNFR1 
+PLAD in mouse models of diseases in which TNF is relevant yielded beneficial 
+results, opening the door to the next generation of non-antibody anti-TNF drugs 
+for a variety of non-infectious inflammatory conditions. Whether these drugs may 
+target TNF in a more refined way than the current blockers, perhaps being more 
+efficacious without compromising the protective role of TNF in host defense and 
+(auto)immunity, remains to be seen.

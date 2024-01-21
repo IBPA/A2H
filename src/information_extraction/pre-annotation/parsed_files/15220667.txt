@@ -1,0 +1,18 @@
+The clinical benefits observed with probiotic use are mainly attributed to the 
+antimicrobial substances produced by probiotic strains and to their 
+immunomodulatory effects. Currently, the best-documented probiotic bacteria used 
+in human therapy are lactic acid bacteria. In contrast, studies aiming to 
+characterize the mechanisms responsible for the probiotic beneficial effects of 
+Bacillus are rare. The current work seeks to contribute to such characterization 
+by evaluating the antimicrobial and immunomodulatory activities of probiotic B. 
+clausii strains. B. clausii strains release antimicrobial substances in the 
+medium. Moreover, the release of these antimicrobial substances was observed 
+during stationary growth phase and coincided with sporulation. These substances 
+were active against Gram-positive bacteria, in particular against Staphylococcus 
+aureus, Enterococcus faecium, and Clostridium difficile. The antimicrobial 
+activity was resistant to subtilisin, proteinase K, and chymotrypsin treatment, 
+whereas it was sensitive to pronase treatment. The evaluation of the 
+immunomodulatory properties of probiotic B. clausii strains was performed in 
+vitro on Swiss and C57 Bl/6j murine cells. The authors demonstrate that these 
+strains, in their vegetative forms, are able to induce NOS II synthetase 
+activity, IFN-gamma production, and CD4 T-cell proliferation.

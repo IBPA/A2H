@@ -1,0 +1,20 @@
+OBJECTIVE AND DESIGN: Monocyte locomotion inhibitory factor (MLIF), an amebic 
+peptide with antiinflammatory properties, was evaluated in collagen-induced 
+arthritis (CIA) to test its effects on the onset and acute inflammatory response 
+of arthritis.
+MATERIAL: DBA1/J mice at 8-10 weeks of age were divided into four groups (eight 
+mice per group).
+TREATMENT: The adjuvant group received Freund adjuvant, the CIA group was 
+immunized with collagen II, the MLIF/CIA group received collagen II and MLIF, 
+and the MLIF group received MLIF and Freund adjuvant.
+METHODS: All groups were evaluated clinically. Seven weeks after the collagen 
+injection, at the peak of the clinical arthritis score, limb specimens were 
+collected and histological studies and gene expression analysis using 
+microarrays were performed.
+RESULTS: MLIF administered weekly as a preventive scheme delayed and reduced the 
+severity of acute arthritis. MLIF induced gene changes in functional categories 
+including adhesion molecules, matrix metalloproteinases, and inflammatory 
+cytokines.
+CONCLUSIONS: MLIF could be an interesting new molecule to investigate in the 
+field of rheumatoid arthritis pathogenesis research for its potential to prevent 
+inflammation.

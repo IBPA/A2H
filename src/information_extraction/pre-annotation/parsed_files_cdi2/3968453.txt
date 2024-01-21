@@ -1,0 +1,13 @@
+The population dynamics of Clostridium difficile in the hamster gastrointestinal 
+tract were studied after intragastric inoculation with organisms and a 51Cr 
+tracer. Seventy-eight percent of spores germinated within the small intestine 
+within 1 hr. Germinated spores and vegetative cells both showed two phases of 
+elimination from the hamster cecum--an initial phase of rapid death that was not 
+affected by antibiotic treatment followed by a phase of complete inhibition of 
+multiplication. The latter phase of inhibition was not seen in 
+antibiotic-treated animals and was thus attributable to the indigenous flora. 
+The 51Cr tracer mixed well with cecal contents and was eliminated exponentially 
+with a dilution rate constant ranging from -0.46/hr to -0.31/hr in normal 
+hamsters. The hamster cecum was therefore dynamically analogous to a continuous 
+flow system, a finding supporting the concept that anaerobic continuous flow 
+cultures are useful in vitro models of the cecal ecosystem.

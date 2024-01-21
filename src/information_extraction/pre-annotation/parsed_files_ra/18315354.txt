@@ -1,0 +1,15 @@
+Laser-based photoacoustic tomography (PAT), a novel, nonionizing, noninvasive, 
+laser-based technology, has been adapted to the diagnosis and imaging of 
+inflammatory arthritis. A commonly used adjuvant induced arthritis model using 
+carrageenan was employed to simulate acute rheumatoid arthritis in rat tail 
+joints. Cross-sectional photoacoustic images of joints affected by acute 
+inflammation were compared to those of the control. The diameter of the 
+periosteum and the optical absorption of intra-articular tissue were measured on 
+each joint image. Significant differences were found on PAT imaging between the 
+affected joints and the control for both variables measured, including enlarged 
+periosteum diameter and enhanced intra-articular optical absorption occurring in 
+the joints affected with carrageenan-induced arthritis. Anatomical correlation 
+with histological sections of imaged joints and microMRI results verified the 
+findings of PAT. This suggests that PAT has the potential for highly sensitive 
+diagnosis and evaluation of pathologic hallmarks of acute inflammatory 
+arthritis.

@@ -1,0 +1,19 @@
+Clostridium difficile is an agent involved in the development of 
+antibiotic-associated pseudomembranous colitis. The purpose of this work was to 
+investigate the role of volatile fatty acids (VFAs) in resistance to 
+colonization by C. difficile by using a gnotobiotic animal model. Accordingly, 
+germfree mice were associated with different hamster flora, and the VFAs in 
+their cecal contents were measured by gas chromatography. The results showed 
+that VFAs were produced mainly by the intestinal flora, especially by the 
+strictly anaerobic bacteria. In these associated mice, the concentrations of 
+acetic, propionic, and butyric acids were higher than those of other acids, but 
+at pH 6.8 the MICs of these three acids in vitro for C. difficile were more than 
+200 mu eq/ml. In gnotobiotic mice monoassociated with C. difficile and in the 
+isolated ceca of these mice, VFAs did not inhibit the growth of C. difficile. In 
+gnotobiotic mice which were diassociated with C. difficile and C. butyricum and 
+given drinking water with a lactose concentration of 20%, the cecal contents 
+included about the same amount of butyric acid as did those of the 
+monoassociated mice, although the population of C. difficile remained the same. 
+Therefore, it is suggested that VFAs alone cannot inhibit intestinal 
+colonization by C. difficile and that, consequently, other inhibitory mechanisms 
+are also present.

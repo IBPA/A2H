@@ -1,0 +1,24 @@
+We develop an information-theoretic method for gene-gene (GGI) and 
+gene-environmental interactions (GEI) analysis of syndromes, defined as a 
+phenotype vector comprising multiple quantitative traits (QTs). The K-way 
+interaction information (KWII), an information-theoretic metric, was derived for 
+multivariate normal distributed phenotype vectors. The utility of the method was 
+challenged with three simulated data sets, the Genetic Association Workshop-15 
+(GAW15) rheumatoid arthritis data set, a high-density lipoprotein (HDL) and 
+atherosclerosis data set from a mouse QT locus study, and the 1000 Genomes data. 
+The dependence of the KWII on effect size, minor allele frequency, linkage 
+disequilibrium, population stratification/admixture, as well as the power and 
+computational time requirements of the novel method was systematically assessed 
+in simulation studies. In these studies, phenotype vectors containing two and 
+three constituent multivariate normally distributed QTs were used and the KWII 
+was found to be effective at detecting GEI associated with the phenotype. High 
+KWII values were observed for variables and variable combinations associated 
+with the syndrome phenotype compared with uninformative variables not associated 
+with the phenotype. The KWII values for the phenotype-associated combinations 
+increased monotonically with increasing effect size values. The KWII also 
+exhibited utility in simulations with non-linear dependence between the 
+constituent QTs. Analysis of the HDL and atherosclerosis data set indicated that 
+the simultaneous analysis of both phenotypes identified interactions not 
+detected in the analysis of the individual traits. The information-theoretic 
+approach may be useful for non-parametric analysis of GGI and GEI of complex 
+syndromes.

@@ -1,0 +1,25 @@
+OBJECTIVES: To investigate the quantitative arthritic and bone erosive changes, 
+including the number of osteoclasts and osteoclast precursors in the new 
+SKG-model of inflammatory polyarthritis using three-dimensional (3D) 
+stereological methods.
+METHODS: Arthritis was induced in female SKG-mice with Zymosan A. Quantitative 
+histology was made in four control mice and four mice with arthritis euthanised 
+after 6 and 12 weeks. The right hind paw was embedded undecalcified in 
+methylmethacrylate and cut exhaustively generating vertical uniform random 
+sections. A computer controlled microscope and stereological software was used 
+for histological quantification. Total volumes were estimated according to the 
+Cavalieri principle, total surfaces were estimated using the vertical sections 
+design, and the number of osteoclasts was counted in a physical fractionator.
+RESULTS: The arthritis score increased during the 12-week period and was 
+paralleled by an increase in the volume of inflammatory tissue (r=0.96, 
+p<0.001). The number of osteoclasts on bone (r=0.77, p<0.05) and 
+osteoclast-covered bone surface (r=0.62, p<0.05) increased resulting in a 
+decrease in the volume of bone (r=-0.65, p<0.05). However, the number of 
+osteoclast precursors declined between week 6 and 12 (p<0.05). Furthermore, the 
+total cartilage surface (r=-0.74, p<0.05) and cartilage volume (r=-0.74, p<0.05) 
+decreased during the 12 weeks of arthritis.
+CONCLUSIONS: In this study we demonstrated changes in 3D stereological 
+parameters of inflammatory tissue, bone erosion, osteoclasts, and cartilage in 
+mouse paws during the course of arthritis in the SKG mouse. This is the first 
+time 3D quantitative histology has been applied in a mouse model of rheumatoid 
+arthritis.

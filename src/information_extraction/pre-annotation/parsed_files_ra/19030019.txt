@@ -1,0 +1,19 @@
+The interaction of immune complexes with the human Fc receptor, FcgammaRIIa, 
+initiates the release of inflammatory mediators and is implicated in the 
+pathogenesis of human autoimmune diseases, including rheumatoid arthritis and 
+systemic lupus erythematosus, so this FcR is a potential target for therapy. We 
+have used the three-dimensional structure of an FcgammaRIIa dimer to design 
+small molecule inhibitors, modeled on a distinct groove and pocket created by 
+receptor dimerization, adjacent to the ligand-binding sites. These small 
+chemical entities (SCEs) blocked immune complex-induced platelet activation and 
+aggregation and tumor necrosis factor secretion from macrophages in a human cell 
+line and transgenic mouse macrophages. The SCE appeared specific for 
+FcgammaRIIa, as they inhibited only immune complex-induced responses and had no 
+effect on responses to stimuli unrelated to FcR, for example platelet 
+stimulation with arachidonic acid. In vivo testing of the SCE in FcgammaRIIa 
+transgenic mice showed that they inhibited the development and stopped the 
+progression of collagen-induced arthritis (CIA). The SCEs were more potent than 
+methotrexate and anti-CD3 in sustained suppression of CIA. Thus, in vitro and in 
+vivo activity of these SCE FcgammaRIIa receptor antagonists demonstrated their 
+potential as anti-inflammatory agents for autoimmune diseases involving immune 
+complexes.

@@ -1,0 +1,32 @@
+Fish oil rich in docosahexaenoic acid (DHA) has beneficial effects on human 
+health. Omega-3 polyunsaturated fatty acids are precursors of eicosanoids and 
+docosanoids, signaling molecules that control inflammation and immunity, and 
+their dietary uptake improves a range of disorders including cardiovascular 
+diseases, ulcerative colitis, rheumatoid arthritis, and psoriasis. The 
+unsaturated nature of these fatty acids, however, makes them prone to oxidation, 
+especially when they are incorporated into (membrane) phospholipids. The skin is 
+an organ strongly exposed to oxidative stress, mainly due to solar ultraviolet 
+radiation. Thus, increased levels of PUFA in combination with oxidative stress 
+could cause increased local generation of oxidized lipids, whose action spectrum 
+reaches from signaling molecules to reactive carbonyl compounds that can 
+crosslink biomolecules. Here, we investigated whether PUFA supplements to 
+fibroblasts are incorporated into membrane phospholipids and whether an increase 
+of PUFA within phospholipids affects the responses of the cells to UV exposure. 
+The redox-sensitive transcription factor Nrf2 is the major regulator of the 
+fibroblast stress response to ultraviolet radiation or exposure to oxidized 
+lipids. Here we addressed how Nrf2 signaling would be affected in 
+PUFA-supplemented human dermal fibroblasts and mouse dermal fibroblasts from 
+Nrf2-deficient and wild type mice. We found, using HPLC-tandem MS, that DHA 
+supplements to culture media of human and murine fibroblasts were readily 
+incorporated into phospholipids and that subsequent irradiation of the 
+supplemented cells with UVA resulted in an increase in 
+1-palmitoyl-2-(epoxyisoprostane-E2)-sn-glycero-3-phosphorylcholine and Oxo-DHA 
+esterified to phospholipid, both of which are Nrf2 agonists. Also, induction of 
+Nrf2 target genes was enhanced in the DHA-supplemented fibroblasts after UVA 
+irradiation. In Nrf2-deficient murine fibroblasts, the expression of the target 
+genes was, as expected, decreased, but surprisingly, expression of TNFα and 
+MMP13 was strongly induced in DHA-supplemented, UVA-irradiated cells. Also, 
+Nrf2-deficient cells had increased levels of oxidized phospholipids relative to 
+the unoxidized precursors after UVA irradiation. Our data suggest that under 
+ultraviolet stress a functioning Nrf2 system is required to prevent DHA-induced 
+inflammation and matrix degradation in dermal fibroblasts.

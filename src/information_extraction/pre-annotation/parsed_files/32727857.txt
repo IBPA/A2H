@@ -1,0 +1,35 @@
+The gastrointestinal microbiome plays an important role in limiting 
+susceptibility to infection with Clostridioides difficile To better understand 
+the ecology of bacteria important for C. difficile colonization resistance, we 
+developed an experimental platform to simplify complex communities of fecal 
+bacteria through dilution and rapidly screen for their ability to resist C. 
+difficile colonization after challenge, as measured by >100-fold reduction in 
+levels of C. difficile in challenged communities. We screened 76 simplified 
+communities diluted from cultures of six fecal donors and identified 24 
+simplified communities that inhibited C. difficile colonization in vitro 
+Sequencing revealed that simplified communities were composed of 19 to 67 
+operational taxonomic units (OTUs) and could be partitioned into four distinct 
+community types. One simplified community could be further simplified from 56 to 
+28 OTUs through dilution and retain the ability to inhibit C. difficile We 
+tested the efficacy of seven simplified communities in a humanized microbiota 
+mouse model. We found that four communities were able to significantly reduce 
+the severity of the initial C. difficile infection and limit susceptibility to 
+disease relapse. Analysis of fecal microbiomes from treated mice demonstrated 
+that simplified communities accelerated recovery of indigenous bacteria and led 
+to stable engraftment of 19 to 22 OTUs from simplified communities. Overall, the 
+insights gained through the identification and characterization of these 
+simplified communities increase our understanding of the microbial dynamics of 
+C. difficile infection and recovery.IMPORTANCE Clostridioides difficile is the 
+leading cause of antibiotic-associated diarrhea and a significant health care 
+burden. Fecal microbiota transplantation is highly effective at treating 
+recurrent C. difficile disease; however, uncertainties about the undefined 
+composition of fecal material and potential long-term unintended health 
+consequences remain. These concerns have motivated studies to identify new 
+communities of microbes with a simpler composition that will be effective at 
+treating disease. This work describes a platform for rapidly identifying and 
+screening new simplified communities for efficacy in treating C. difficile 
+infection. Four new simplified communities of microbes with potential for 
+development of new therapies to treat C. difficile disease are identified. While 
+this platform was developed and validated to model infection with C. difficile, 
+the underlying principles described in the paper could be easily modified to 
+develop therapeutics to treat other gastrointestinal diseases.

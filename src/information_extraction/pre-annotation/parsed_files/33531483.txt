@@ -1,0 +1,14 @@
+Fecal microbiota transplantation (FMT) is a successful therapeutic strategy for 
+treating recurrent Clostridioides difficile infection. Despite remarkable 
+efficacy, implementation of FMT therapy is limited and the mechanism of action 
+remains poorly understood. Here, we demonstrate a critical role for the immune 
+system in supporting FMT using a murine C. difficile infection system. Following 
+FMT, Rag1 heterozygote mice resolve C. difficile while littermate Rag1-/- mice 
+fail to clear the infection. Targeted ablation of adaptive immune cell subsets 
+reveal a necessary role for CD4+ Foxp3+ T-regulatory cells, but not B cells or 
+CD8+ T cells, in FMT-mediated resolution of C. difficile infection. FMT 
+non-responsive mice exhibit exacerbated inflammation, impaired engraftment of 
+the FMT bacterial community and failed restoration of commensal bacteria-derived 
+secondary bile acid metabolites in the large intestine. These data demonstrate 
+that the host's inflammatory immune status can limit the efficacy of 
+microbiota-based therapeutics to treat C. difficile infection.

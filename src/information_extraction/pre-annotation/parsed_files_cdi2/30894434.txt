@@ -1,0 +1,32 @@
+Between October 2016 and June 2017, a C57BL/6J mouse colony that was undergoing 
+a pre- and perinatal methyl donor supplementation diet intervention to study the 
+impact of parental nutrition on offspring susceptibility to disease was found to 
+suffer from an epizootic of unexpected deaths. Necropsy revealed the presence of 
+severe colitis, and further investigation linked these outbreak deaths to a 
+Clostridium difficile strain of ribotype 027 that we term 16N203. C. difficile 
+infection (CDI) is associated with antibiotic use in humans. Current murine 
+models of CDI rely on antibiotic pretreatment to establish clinical phenotypes. 
+In this report, the C. difficile outbreak occurs in F1 mice linked to 
+alterations in the parental diet. The diagnosis of CDI in the affected mice was 
+confirmed by cecal/colonic histopathology, the presence of C. difficile bacteria 
+in fecal/colonic culture, and detection of C. difficile toxins. F1 mice from 
+parents fed the methyl supplementation diet also had significantly reduced 
+survival (P < 0.0001) compared with F1 mice from parents fed the control diet. 
+When we tested the 16N203 outbreak strain in an established mouse model of 
+antibiotic-induced CDI, we confirmed that this strain is pathogenic. Our 
+serendipitous observations from this spontaneous outbreak of C. difficile in 
+association with a pre- and perinatal methyl donor diet suggest the important 
+role that diet may play in host defense and CDI risk factors.IMPORTANCE 
+Clostridium difficile infection (CDI) has become the leading cause of infectious 
+diarrhea in hospitals worldwide, owing its preeminence to the emergence of 
+hyperendemic strains, such as ribotype 027 (RT027). A major CDI risk factor is 
+antibiotic exposure, which alters gut microbiota, resulting in the loss of 
+colonization resistance. Current murine models of CDI also depend on 
+pretreatment of animals with antibiotics to establish disease. The outbreak that 
+we report here is unique in that the CDI occurred in mice with no antibiotic 
+exposure and is associated with a pre- and perinatal methyl supplementation 
+donor diet intervention study. Our investigation subsequently reveals that the 
+outbreak strain that we term 16N203 is an RT027 strain, and this isolated strain 
+is also pathogenic in an established murine model of CDI (with antibiotics). Our 
+report of this spontaneous outbreak offers additional insight into the 
+importance of environmental factors, such as diet, and CDI susceptibility.

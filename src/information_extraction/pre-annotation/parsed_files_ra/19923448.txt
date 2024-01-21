@@ -1,0 +1,21 @@
+The recruitment of osteoclast precursors toward osteoblasts and subsequent 
+cell-cell interactions are critical for osteoclast differentiation. Chemokines 
+are known to regulate cell migration and adhesion. CX3CL1 (also called 
+fractalkine) is a unique membrane-bound chemokine that has dual functions for 
+cells expressing its receptor CX3CR1: a potent chemotactic factor in its soluble 
+form and a type of efficient cell adhesion molecule in its membrane-bound form. 
+In this paper, we demonstrate a novel role of CX3CL1 in osteoblast-induced 
+osteoclast differentiation. We found that osteoclast precursors selectively 
+expressed CX3CR1, whereas CX3CL1 is expressed by osteoblasts. We confirmed that 
+soluble CX3CL1 induced migration of bone marrow cells containing osteoclast 
+precursors, whereas immobilized CX3CL1 mediated firm adhesion of osteoclast 
+precursors. Furthermore, a blocking mAb against CX3CL1 efficiently inhibited 
+osteoclast differentiation in mouse bone marrow cells cocultured with 
+osteoblasts. Anti-CX3CL1 also significantly suppressed bone resorption in 
+neonatal mice by reducing the number of bone-resorbing mature osteoclasts. 
+Collectively, CX3CL1 expressed by osteoblasts plays an important role in 
+osteoclast differentiation, possibly through its dual functions as a chemotactic 
+factor and adhesion molecule for osteoclast precursors expressing CX3CR1. The 
+CX3CL1-CX3CR1 axis may be a novel target for the therapeutic intervention of 
+bone resorbing diseases such as rheumatoid arthritis, osteoporosis, and cancer 
+bone metastasis.

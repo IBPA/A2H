@@ -1,0 +1,27 @@
+BACKGROUND: The elderly host is highly susceptible to severe disease and 
+treatment failure in Clostridium difficile infection (CDI). We investigated how 
+treatment with vancomycin in the aged host influences systemic and intestinal 
+humoral responses and select intestinal microbiota.
+METHODS: Young (age, 2 months) and aged (age, 18 months) C57BL/6 mice were 
+infected with VPI 10463 after exposure to broad-spectrum antibiotics. Vancomycin 
+was given 24 hours after infection, and treatment was continued for 5 days. At 
+select time points, specimens of serum and intestinal tissue and contents were 
+collected for histopathologic analysis, to measure antibody levels and the 
+pathogen burden, and to determine the presence and levels of select intestinal 
+microbiota and C. difficile toxin.
+RESULTS: Levels of disease severity, relapse, and mortality were increased, and 
+recovery from infection was slower in aged mice compared to young mice. Serum 
+levels of immunoglobulin M, immunoglobulin A, and immunoglobulin G against C. 
+difficile toxin A were depressed in aged mice, and vancomycin treatment reduced 
+antibody responses in both age groups. While baseline levels of total bacterial 
+load, Bacteroidetes, Firmicutes, and Enterobacteriaceae were mostly similar, 
+aged mice had a significant change in the Firmicutes to Bacteroidetes ratio with 
+vancomycin treatment.
+CONCLUSIONS: Vancomycin treatment decreases the systemic humoral response to 
+CDI. Increased mortality from and recurrence of CDI in the aged host are 
+associated with an impaired humoral response and a greater susceptibility to 
+vancomycin-induced alteration of intestinal microbiota.
+
+© The Author 2016. Published by Oxford University Press for the Infectious 
+Diseases Society of America. All rights reserved. For permissions, e-mail 
+journals.permissions@oup.com.

@@ -1,0 +1,23 @@
+The objective of this study was to evaluate the potential therapeutic effects of 
+betahistine dihydrochloride (betahistine) in a collagen-induced arthritis (CIA) 
+mouse model. CIA was induced in DBA/1 male mice by primary immunization with 
+100μl of emulsion containing 2mg/ml chicken type II collagen (CII) mixed with 
+complete Freund's adjuvant (CFA) in an 1:1 ratio, and booster immunization with 
+100μl of emulsion containing 2mg/ml CII mixed with incomplete Freund's adjuvant 
+(IFA) in an 1:1 ratio. Immunization was performed subcutaneously at the base of 
+the tail. After being boosted on day 21, betahistine (1 and 5mg/kg) was orally 
+administered daily for 2weeks. The severity of CIA was determined by arthritic 
+scores and assessment of histopathological joint destruction. Expression of 
+cytokines in the paw and anti-CII antibodies in the serum was evaluated by 
+ELISA. The proliferative response against CII in the lymph node cells was 
+measured by (3)H-thymidine incorporation assay. The frequencies of different CII 
+specific CD4(+) T cell subsets in the lymph node were determined by 
+flow-cytometric analysis. Betahistine treatment attenuated the severity of 
+arthritis and reduced the levels of pro-inflammatory cytokines, including TNF-α, 
+IL-6, IL-23 and IL-17A, in the paw tissues of CIA mice. Lymph node cells from 
+betahistine-treated mice showed a decrease in proliferation, as well as a lower 
+frequency of Th17 cells. In vitro, betahistine suppressed CD4(+) T cell 
+differentiation into Th17 cells. These results indicate that betahistine is 
+effective in suppressing both inflammatory and Th17 responses in mouse CIA and 
+that it may have therapeutic value as an adjunct treatment for rheumatoid 
+arthritis.

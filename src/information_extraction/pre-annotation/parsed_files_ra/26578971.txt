@@ -1,0 +1,23 @@
+The alkaline pH-activated, two-pore domain K(+) channel K2P5.1 (also known as 
+TASK2/KCNK5) plays an important role in maintaining the resting membrane 
+potential, and contributes to the control of Ca(2+) signaling in several types 
+of cells. Recent studies highlighted the potential role of the K2P5.1 K(+) 
+channel in the pathogenesis of autoimmune diseases such as rheumatoid arthritis 
+and multiple sclerosis. The aim of the present study was to elucidate the 
+pathological significance of the K2P5.1 K(+) channel in inflammatory bowel 
+disease (IBD). The degrees of colitis, colonic epithelial damage, and colonic 
+inflammation were quantified in the dextran sulfate sodium-induced mouse IBD 
+model by macroscopic and histological scoring systems. The expression and 
+functional activity of K2P5.1 in splenic CD4(+) T cells were measured using 
+real-time PCR, Western blot, and fluorescence imaging assays. A significant 
+increase was observed in the expression of K2P5.1 in the splenic CD4(+) T cells 
+of the IBD model. Concomitant with this increase, the hyperpolarization response 
+induced by extracellular alkaline pH was significantly larger in the IBD model 
+with the corresponding intracellular Ca(2+) rises. The expression of K2P5.1 was 
+higher in CD4(+)CD25(-) T cells than in CD4(+)CD25(+) regulatory T cells. The 
+knockout of K2P5.1 in mice significantly suppressed the disease responses 
+implicated in the IBD model. Alternations in intracellular Ca(2+) signaling 
+following the dysregulated expression of K2P5.1 were associated with the disease 
+pathogenesis of IBD. The results of the present study suggest that the K2P5.1 
+K(+) channel in CD4(+)CD25(-) T cell subset is a potential therapeutic target 
+and biomarker for IBD.

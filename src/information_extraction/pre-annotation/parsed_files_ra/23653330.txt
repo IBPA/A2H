@@ -1,0 +1,23 @@
+OBJECTIVE: To identify epigenetic factors that are implicated in the 
+pathogenesis of rheumatoid arthritis (RA), and to explore the therapeutic 
+potential of the targeted inhibition of these factors.
+METHODS: Polymerase chain reaction (PCR) arrays were used to investigate the 
+expression profile of genes that encode key epigenetic regulator enzymes. 
+Mononuclear cells from RA patients and mice were monitored for gene expression 
+changes, in association with arthritis development in murine models of RA. 
+Selected genes were further characterized by quantitative reverse 
+transcription-PCR, Western blot, and flow cytometry methods. The targeted 
+inhibition of the up-regulated enzymes was studied in arthritic mice.
+RESULTS: A set of genes with arthritis-specific expression was identified by the 
+PCR arrays. Aurora kinases A and B, both of which were highly expressed in 
+arthritic mice and treatment-naive RA patients, were selected for detailed 
+analysis. Elevated aurora kinase expression was accompanied by increased 
+phosphorylation of histone H3, which promotes proliferation of T lymphocytes. 
+Treatment with VX-680, a pan-aurora kinase inhibitor, promoted B cell apoptosis, 
+provided significant protection against disease onset, and attenuated 
+inflammatory reactions in arthritic mice.
+CONCLUSION: Arthritis development is accompanied by changes in expression of a 
+number of epigenome-modifying enzymes. Drug-induced down-regulation of the 
+aurora kinases, among other targets, seems to be sufficient to treat 
+experimental arthritis. Development of new therapeutics that target aurora 
+kinases can potentially improve RA management.

@@ -1,0 +1,26 @@
+Chemoresistance remains the major challenge for successful treatment of acute 
+myeloid leukemia (AML). Although recent mouse studies suggest that treatment 
+response of genetically and immunophenotypically indistinguishable AML can be 
+influenced by their different cells of origin, corresponding evidence in human 
+disease is still largely lacking. By combining prospective disease modeling 
+using highly purified human hematopoietic stem or progenitor cells with 
+retrospective deconvolution study of leukemia stem cells (LSCs) from primary 
+patient samples, we identified human hematopoietic stem cells (HSCs) and common 
+myeloid progenitors (CMPs) as two distinctive origins of human AML driven by 
+Mixed Lineage Leukemia (MLL) gene fusions (MLL-AML). Despite LSCs from either 
+MLL-rearranged HSCs or MLL-rearranged CMPs having a mature CD34-/lo/CD38+ 
+immunophenotype in both a humanized mouse model and primary patient samples, the 
+resulting AML cells exhibited contrasting responses to chemotherapy. HSC-derived 
+MLL-AML was highly resistant to chemotherapy and expressed elevated amounts of 
+the multispecific anion transporter ABCC3. Inhibition of ABCC3 by shRNA-mediated 
+knockdown or with small-molecule inhibitor fidaxomicin, currently used for 
+diarrhea associated with Clostridium difficile infection, effectively 
+resensitized HSC-derived MLL-AML toward standard chemotherapeutic drugs. This 
+study not only functionally established two distinctive origins of human LSCs 
+for MLL-AML and their role in mediating chemoresistance but also identified a 
+potential therapeutic avenue for stem cell-associated treatment resistance by 
+repurposing a well-tolerated antidiarrhea drug already used in the clinic.
+
+Copyright © 2021 The Authors, some rights reserved; exclusive licensee American 
+Association for the Advancement of Science. No claim to original U.S. Government 
+Works.

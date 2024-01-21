@@ -1,0 +1,29 @@
+OBJECTIVE: Functional imaging of synovitis could improve both early detection of 
+rheumatoid arthritis (RA) and long-term outcomes. Given the intersection of 
+inflammation with coagulation protease activation, this study was undertaken to 
+examine coagulation protease activities in arthritic mice with a 
+dual-fluorescence ratiometric activatable cell-penetrating peptide (RACPP) that 
+has a linker, norleucine (Nle)-TPRSFL, with a cleavage site for thrombin.
+METHODS: K/BxN-transgenic mice with chronic arthritis and mice with day 1 
+passive serum-transfer arthritis were imaged in vivo for Cy5:Cy7 emission 
+ratiometric fluorescence from proteolytic cleavage and activation of 
+RACPPNleTPRSFL . Joint thickness in mice with serum-transfer arthritis was 
+measured from days 0 to 10. The cleavage-evoked release of Cy5-tagged 
+tissue-adhesive fragments enabled microscopic correlation with 
+immunohistochemistry for inflammatory markers. Thrombin dependence of 
+ratiometric fluorescence was tested by ex vivo application of RACPPNleTPRSFL and 
+argatroban to cryosections obtained from mouse hind paws on day 1 of 
+serum-transfer arthritis.
+RESULTS: In chronic arthritis, RACPPNleTPRSFL fluorescence ratios of Cy5:Cy7 
+emission were significantly higher in diseased swollen ankles of 
+K/BxN-transgenic mice than in normal mouse ankles. A high ratio of 
+RACPPNleTPRSFL fluorescence in mouse ankles and toes on day 1 of serum-transfer 
+arthritis correlated with subsequent joint swelling. Foci of high ratiometric 
+fluorescence localized to inflammation, as demarcated by immune reactivity for 
+citrullinated histones, macrophages, mast cells, and neutrophils, in soft tissue 
+on day 1 of serum-transfer arthritis. Ex vivo application of RACPPNleTPRSFL to 
+cryosections obtained from mice on day 1 of serum-transfer arthritis produced 
+ratiometric fluorescence that was inhibited by argatroban.
+CONCLUSION: RACPPNleTPRSFL activation detects established experimental 
+arthritis, and the detection of inflammation by RACPPNleTPRSFL on day 1 of 
+serum-transfer arthritis correlates with disease progression.

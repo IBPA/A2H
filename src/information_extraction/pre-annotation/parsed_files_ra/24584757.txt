@@ -1,0 +1,23 @@
+OBJECTIVE: To study the effect of oral administration of dimethyl dimethoxy 
+biphenyl dicarboxylate (DDB) on adjusting angiogeneic/inflammatory mediators and 
+ameliorating the pathology of bones in rats with collagen-induced arthritis 
+(CIA).
+METHODS: Wistar rat model of CIA was set up using bovine collagen type II. Fifty 
+rats were divided into five groups randomly: normal, CIA model, DDB treatment, 
+methotrexate (MTX) treatment, and combined DDB+MTX treatment. Ankle joints of 
+rats were imaged with digital X-ray machine to show the destruction of joints. 
+Fore and hind paw and knee joints were removed above the ankle joint then 
+processed for haematoxylin and eosin staining. Plasma levels of vascular 
+endothelial growth factor (VEGF), platelet derived growth factor, interleukin-8 
+(IL-8), IL-4, tumor necrosis factor α (TNF-α), and cyclooxygenase-2 (COX-2) were 
+quantified by enzyme-linked immunosorbent assay. Nitric oxide levels were 
+detected by Griess reagent.
+RESULTS: Compared with the CIA model group, a remarkable reduction in various 
+angiogenic (VEGF and IL-8) and inflammatory mediators (TNF-α, IL-4 and COX-2) 
+after treatment with DDB either alone or combined with MTX P<0.05 or P<0.01). 
+Histopathological and X-ray findings were confirmatory to the observed DDB 
+anti-arthritic effect. The DDB-treated group showed amelioration in signs of 
+arthritis which appeared essentially similar to normal.
+CONCLUSION: Our data shed light on the therapeutic efficacy of DDB in 
+experimental rheumatoid arthritis (RA) compared with a choice drug (MTX) and it 
+may be offered as a second-line drug in the treatment of RA.

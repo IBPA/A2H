@@ -1,0 +1,18 @@
+MHC class II alleles have been linked to several human autoimmune diseases such 
+as rheumatoid arthritis (RA), Type I diabetes, and multiple sclerosis (MS). 
+Although the mechanisms by which expression of certain MHC class II molecules 
+predispose an individual to a particular autoimmune disease are not known, it is 
+clear that increased susceptibility is associated with the polymorphic regions 
+unique to these predisposing HLA alleles. These polymorphic differences may 
+influence susceptibility by selecting potential autoreactive T cells during 
+thymic education. Alternatively, nonsusceptible alleles may either delete or 
+fail to select these potential autoimmune T cells, thus reducing the possibility 
+of developing disease. In the periphery, the unique specificity of the HLA 
+molecule derived from a susceptible allele may then recognize and present an 
+autoantigenic peptide or foreign peptide that may cross-react with an 
+autoantigen, activating these autoreactive T cells and leading to disease. To 
+dissect these possibilities and to determine the exact role of particular HLA-DR 
+or DQ molecules in disease susceptibility, we have generated several lines of 
+HLA-DR and DQ transgenic mice. In this review, we present data summarizing the 
+functions of these HLA class II molecules using well-established mouse models 
+for autoimmune diseases.

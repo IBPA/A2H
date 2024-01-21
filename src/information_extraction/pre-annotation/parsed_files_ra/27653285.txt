@@ -1,0 +1,20 @@
+Tumor necrosis factor-like weak inducer of apoptosis (TWEAK) is a 
+proinflammatory cytokine that is involved in pathogenesis of abnormal or 
+disregulated inflammation. To verify how TWEAK/fibroblast growth 
+factor-inducible gene 14 (Fn14) signals affect development of Th17 cells in 
+arthritis, we utilized the SKG mouse, which spontaneously develops Th17-mediated 
+autoimmune arthritis. Fn14-Fc was administered to zymosan A-induced 
+arthritogenic SKG mice, and the effects in vivo were examined. Destruction of 
+cartilage and bone damage was assessed by Hematoxylin and Eosin, and safranin O 
+staining of the affected tissues. Phenotypic analysis of cells expressing 
+inflammatory cytokines and angiogenesis-related factors, and the expression of 
+transcription factor STAT3 in the affected joints were determined by 
+immunohistochemistry. Blockade of Fn14 with Fn14-Fc reduced the clinical and 
+histologic scores of inflammatory arthritis in the mouse model of spontaneously 
+developed chronic autoimmune arthritis. Fn14-Fc suppressed production of 
+inflammatory cytokines and angiogenesis-promoting factors, such as vascular 
+endothelial growth factor and matrix metalloproteinase 3. Moreover, blocking of 
+the TWEAK signal inhibited expression of STAT3 as well as interleukin-17 and -21 
+produced by Th17 cells. These results implicate TWEAK as a potential molecular 
+target for treatment or prevention of inflammatory arthritis and autoimmune 
+diseases such as rheumatoid arthritis.

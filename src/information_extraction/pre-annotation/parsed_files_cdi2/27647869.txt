@@ -1,0 +1,23 @@
+The formation of spores is critical for the survival of Clostridium difficile 
+outside the host gastrointestinal tract. Persistence of C. difficile spores 
+greatly contributes to the spread of C. difficile infection (CDI), and the 
+resistance of spores to antimicrobials facilitates the relapse of infection. 
+Despite the importance of sporulation to C. difficile pathogenesis, the 
+molecular mechanisms controlling spore formation are not well understood. The 
+initiation of sporulation is known to be regulated through activation of the 
+conserved transcription factor Spo0A. Multiple regulators influence Spo0A 
+activation in other species; however, many of these factors are not conserved in 
+C. difficile and few novel factors have been identified. Here, we investigated 
+the function of a protein, CD1492, that is annotated as a kinase and was 
+originally proposed to promote sporulation by directly phosphorylating Spo0A. We 
+found that deletion of CD1492 resulted in increased sporulation, indicating that 
+CD1492 is a negative regulator of sporulation. Accordingly, we observed 
+increased transcription of Spo0A-dependent genes in the CD1492 mutant. Deletion 
+of CD1492 also resulted in decreased toxin production in vitro and in decreased 
+virulence in the hamster model of CDI. Further, the CD1492 mutant demonstrated 
+effects on gene expression that are not associated with Spo0A activation, 
+including lower sigD and rstA transcription, suggesting that this protein 
+interacts with factors other than Spo0A. Altogether, the data indicate that 
+CD1492 negatively affects sporulation and positively influences motility and 
+virulence. These results provide further evidence that C. difficile sporulation 
+is regulated differently from that of other endospore-forming species.

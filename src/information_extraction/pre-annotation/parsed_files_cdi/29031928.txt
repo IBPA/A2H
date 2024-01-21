@@ -1,0 +1,22 @@
+Most pathogenic Clostridium difficile produce two major exotoxins TcdA and TcdB, 
+in the absence of which the bacterium is non-pathogenic. While it is important 
+to investigate the role of each toxin in the pathogenesis of C. difficile 
+infection (CDI) using isogenic strains, it is impossible to precisely control 
+the expression levels of individual toxins and exclude bacterial factors that 
+may contribute to the toxins' effects during infection. In this study, we 
+utilized an acute intestinal disease model by injecting purified toxins directly 
+into mouse cecum after a midline laparotomy. We evaluated the physical condition 
+of mice by clinical score and survival, and the intestinal tissue damage and 
+inflammation by histology. Depending on the dose of the toxins, mice developed 
+mild to severe colitis, experienced diarrhea or rapidly died. We found that both 
+purified TcdA and TcdB were able to induce clinical disease, intestinal 
+inflammation, and tissue damage that resembled CDI. TcdA was significantly 
+faster in inducing intestinal inflammation and tissue damage, and was 
+approximately five times more potent than TcdB in terms of inducing severe gut 
+disease and death outcomes in mice. Moreover, we found that the two toxins had 
+significant synergistic effects on disease induction. Comparison of the in vivo 
+toxicity of TcdB from clinical strains revealed that TcdB from an epidemic RT 
+027 strain was more toxic than the others. Our study thus demonstrates that both 
+TcdA and TcdB, independent of other factors from C. difficile bacterium, are 
+able to cause disease that resembles CDI and highlights the importance of 
+targeting both toxins for vaccines and therapeutics against the disease.

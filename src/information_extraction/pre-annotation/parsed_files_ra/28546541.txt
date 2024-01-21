@@ -1,0 +1,18 @@
+Synovium hyperplasia characterizes joint diseases, such as rheumatoid arthritis 
+(RA). The cytotoxic effect of low-dose Cadmium (Cd) was tested in vitro and ex 
+vivo on synoviocytes, the mesenchymal key effector cells of inflammation and 
+proliferation in arthritis. The anti-inflammatory and anti-proliferative effects 
+of Cd were tested in vivo by intra-articular injection in the adjuvant induced 
+arthritis rat joints, where the clinical scores and the consequences of 
+arthritis were evaluated. Cell death through apoptosis was highly induced by Cd 
+in inflammatory synoviocytes (80% reduction of cell viability, p < 0.01). TNF 
+plus IL-17 cytokine combination induced a two-fold increase of Cd cell content 
+by enhancing the ZIP-8 importer and the MT-1 homeostasis regulator expression. 
+Addition of Cd reduced IL-6 production in TNF plus IL-17-activated synoviocytes 
+(up to 83%, p < 0.05) and in ex-vivo synovium biopsies (up to 94%, p < 0.01). 
+Cd-injection in rat joints improved arthritis, reducing clinical scores 
+(arthritic score reduced from 4 to 2, p < 0.01), inflammatory cell recruitment 
+(up to 50%, p < 0.01) and protecting from bone/cartilage destruction. This proof 
+of concept study is supported by the limited Cd spread in body reservoirs, with 
+low-dose Cd providing a safe risk/benefit ratio, without toxic effects on other 
+cell types and organs.

@@ -1,0 +1,15 @@
+Autoantibody-mediated inflammation contributes to the development of rheumatoid 
+arthritis (RA), and anti-type II collagen (CII) antibodies are present in the 
+serum, synovial fluid, and cartilage of RA patients. We had previously generated 
+and characterized knock-in mice expressing a germline-encoded, CII-specific IgH 
+(B10Q.ACB), which demonstrated positive selection of self-reactive B cells. 
+Here, we show that despite the spontaneous production of CII-specific 
+autoantibodies, B10Q.ACB mice are protected from collagen-induced arthritis. 
+Introducing a mutation in the Ncf1 gene, leading to ROS deficiency, breaks this 
+strong arthritis resistance. Disease development in Ncf1-mutated B10Q.ACB mice 
+is associated with an enhanced germinal center formation but without somatic 
+mutations of the auto-reactive B cells, increased T-cell responses and 
+intramolecular epitope-spreading. Thus, ROS-mediated B-cell tolerance to a 
+self-antigen could operate by limiting the expansion of the auto-reactive B-cell 
+repertoire, which has important implications for the understanding of epitope 
+spreading phenomena in rheumatoid arthritis and other autoimmune diseases.

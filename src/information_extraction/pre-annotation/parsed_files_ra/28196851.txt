@@ -1,0 +1,25 @@
+Inflammation-induced bone destruction is a major treatment target in many 
+inflammatory skeletal diseases. The aim of this study was to investigate if the 
+cysteine proteinase inhibitors cystatin C, fungal cysteine proteinase inhibitor 
+(E-64), and N-benzyloxycarbonyl-arginyl-leucyl-valyl-glycyl-diazomethane acetate 
+(Z-RLVG-CHN2) can inhibit LPS-induced osteoclast formation. Mouse bone marrow 
+macrophages (BMMs) were isolated and primed with receptor activator of NF-κB 
+ligand (RANKL) for 24 h, followed by stimulation with LPS, with and without 
+inhibitors. Adult mice were injected locally with LPS and then treated with E-64 
+and osteoclast formation assessed by the number of cathepsin K+ multinucleated 
+cells. Cystatin C inhibited LPS-induced osteoclast formation time and 
+concentration dependently (IC50 = 0.3 μM). The effect was associated with 
+decreased mRNA and protein expression of tartrate-resistant acid phosphatase 
+(TRAP) and cathepsin K and of the osteoclastogenic transcription factors c-Fos 
+and NFATc1. LPS-induced osteoclast formation on bone slices was also inhibited 
+by cystatin C, resulting in decreased pit formation and release of bone matrix 
+proteins. Similar data were obtained with E-64 and Z-RLVG-CHN2 Cystatin C was 
+internalized in BMMs stimulated by LPS but not in unstimulated BMMs. Osteoclast 
+formation induced by LPS was dependent on TNF-α, and the 3 inhibitors abolished 
+LPS-induced TNF superfamily 2 (gene encoding TNF-α; Tnfsf2) mRNA expression 
+without affecting Il1b, Il6, or oncostatin M (Osm) expression. Formation of 
+osteoclasts in the skull bones after local LPS stimulation was inhibited by 
+E-64. It is concluded that cysteine proteinase inhibitors effectively inhibit 
+LPS-induced osteoclast formation in vivo and in vitro by inhibition of TNF-α 
+expression. The targeting of cysteine proteinases might represent a novel 
+treatment modality for prevention of inflammatory bone loss.

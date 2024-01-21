@@ -1,0 +1,29 @@
+The mechanism of autoantibodies (rheumatoid factor (RF) and anti-collagen 
+autoantibodies) induction in collagen-induced arthritis (CIA) is unknown. The 
+study assessed the hypothesis that activation of autoantibody-producing clones 
+is mediated by idiotype-anti-idiotype (IAI) interactions with lymphocytes on 
+heterologous collagen. It was demonstrated that RF-containing serum of rats 
+immunized with bovine collagen (BCII) in ELISA competes with BCII for binding to 
+anti-BCII antibodies. Immunization of rats with Fc fragments of IgG caused not 
+only an increase in RF levels, but also induction of antibodies to BCII and 
+anti-collagen autoantibodies. Taken together, these facts suggest that 
+activation of RF-producing lymphocytes in CIA model occurs through IAI 
+interactions with anti-BCII lymphocytes. Three populations of antibodies were 
+detected in the blood of arthritic rats: a population of antibodies reacting 
+only with BCII, a population of antibodies reacting only with rat collagen 
+(RCII) and a population of antibodies that can bind to both bovine and rat 
+collagen. It was shown that RF in relation to anti-collagen autoantibodies act 
+as anti-idiotype antibodies, and a comparative analysis of antibody production 
+in arthritic and resistant rats demonstrated that the level of anti-collagen 
+autoantibody production depends on the level of RF production. This suggests 
+that RF and RF-producing lymphocytes are involved in regulation of anti-collagen 
+autoreactive lymphocyte activity through an IAI interaction mechanism. A direct 
+activation of autoreactive anti-RCII lymphocytes by BCII cannot be excluded, but 
+it can be supposed that induction of anti-collagen autoreactive lymphocytes 
+needs a signal generated in IAI interactions by RF-producing lymphocytes. This 
+hypothesis is based on the data obtained, and not only explains the mechanism of 
+autoreactive lymphocytes activation in the rat CIA model, but also indicates 
+that the key regulatory element in the development of arthritis in animals is 
+RF-producing lymphocytes. The results allow a new insight on the role of RF in 
+the pathogenesis of rheumatoid arthritis and on seeking more effective 
+therapeutic means.

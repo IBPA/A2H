@@ -1,0 +1,20 @@
+OBJECTIVE: Rheumatoid arthritis (RA) is a disease that typically induces 
+secondary osteoporosis, which increases the risk of bone fractures. 
+Anti-interleukin-6 (IL-6) receptor antibody is used to treat RA; however, its 
+effect on bone strength is not clear. Therefore, we investigated the influence 
+of MR16-1, an anti-mouse IL-6 receptor antibody, on bone structure and femoral 
+strength in a collagen-induced arthritis (CIA) mouse model.
+METHOD: DBA/1J mice were immunized by intradermal injection of bovine type II 
+collagen. MR16-1 was administered intraperitoneally at the same time as 
+immunization. Thirty-five days after the first immunization, bone structure and 
+bone strength were measured by micro-computed tomography and the three-point 
+bending test.
+RESULTS: In the CIA group, most bone mineral density and bone structure 
+parameters in the foot, femur, and lumbar spine were significantly lower than in 
+the normal group. Moreover, the maximum load of the femoral shaft in the CIA 
+group was significantly lower than in the normal group. MR16-1 treatment 
+significantly prevented the CIA-induced deterioration of bone structure and loss 
+of bone strength.
+CONCLUSION: These results suggest that CIA systemically induces a deterioration 
+of bone structure and loss of bone strength, and that IL-6 signalling plays an 
+important role in these processes.

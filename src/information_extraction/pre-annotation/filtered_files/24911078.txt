@@ -1,0 +1,26 @@
+BACKGROUND: Rheumatoid arthritis (RA) is a chronic inflammatory disease that 
+affects about 1% of the adult population and occurs twice as frequently among 
+women than men. At present it is accepted that pathogenesis of RA is based on 
+inflammatory response mediated by CD4(+) Th1 and Th17 lymphocytes. The most 
+commonly applied model imitating RA is the collagen induced arthritis (CIA). A 
+growing evidence shows that there is a correlation between microbial dysbiosis 
+and human pathology which includes autoimmunity, allergic diseases, obesity, 
+inflammatory bowel disease (IBD), metabolic syndrome.
+METHODS: Collagen induced arthritis was used to study influence of natural gut 
+flora on course of rheumatoid arthritis.
+RESULTS: Current work employing CIA model showed that partial depletion of 
+natural gut flora with orally administered antibiotic Baytril (enrofloxacin) 
+aggravates disease severity when compared to control mice. Observed partial 
+depletion of both aerobic and anaerobic bacteria did not affect animal body 
+weight. Additionally, in vitro study showed increased production of IFN-? and 
+IL-17A and decreased release of IL-4 by axillary lymph node cells (ALNC) 
+isolated from mice treated with antibiotic and induced CIA when compared to 
+positive control. Furthermore, treatment with antibiotic prior to CIA induction 
+results in augmented production of IFN-?, IL-17A and IL-6 by mesenteric lymph 
+node cells (MLNC).
+CONCLUSION: Presented data suggest that alteration of gut microbiota via use of 
+enrofloxacin may play a role in modulating arthritis symptom severity in this 
+mouse model.
+
+Copyright © 2014 Institute of Pharmacology, Polish Academy of Sciences. 
+Published by Elsevier Urban & Partner Sp. z o.o. All rights reserved.

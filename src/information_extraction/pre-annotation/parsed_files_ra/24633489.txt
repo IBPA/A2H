@@ -1,0 +1,15 @@
+Rheumatoid arthritis (RA) is a multifactorial disease caused by genetic and 
+environmental factors: however, precise molecular mechanisms underlying its 
+pathogenesis remain largely unknown. Treatment of RA patients with 
+disease-modifying biological agents occasionally promotes Mycobacterium 
+tuberculosis infection or recurrence of M. tuberculosis, although how infection 
+promotes arthritis has not been characterized. Here, we found that arthritis 
+phenotypes in a collagen-induced mouse model were evident only when killed M. 
+tuberculosis was co-administered. Treatment of cultured macrophages with killed 
+M. tuberculosis promoted production of IL-6, a major inflammatory cytokine in RA 
+patients, while similar treatment of TLR2-deficient macrophages failed to induce 
+IL-6 expression. Arthritis scores, joint destruction, and serum IL-6 levels were 
+all significantly ameliorated in TLR2-deficient compared with wild-type mice, 
+even in animals treated with killed M. tuberculosis. These results suggest that 
+M. tuberculosis infection enhances arthritis development and that TLR2 could 
+serve as a therapeutic target for some forms of the disease.

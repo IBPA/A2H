@@ -1,0 +1,21 @@
+BACKGROUND: Inflammatory damage is known to be involved in ischemic stroke. 
+Luteolin has been proved to elicit a series of biologic effects through its 
+anti-inflammatory property in multiple sclerosis and rheumatoid arthritis. 
+Whether this protective effect applies to ischemic injury in brain is still 
+unknown, we therefore investigate the potential neuroprotective role of luteolin 
+in ischemic stroke and the underlying mechanisms.
+METHODS: Male Sprague-Dawley rats were subjected to pMCAO and luteolin was 
+administered intraperitoneally immediately after surgery, then once daily 
+thereafter. Neurological deficit, infarct volume, and brain water content were 
+measured at 24 h and 72 h after stroke. The expression of TLR4, TLR5, and NF-κB 
+were measured by real-time PCR, immunohistochemical staining (IHC), and Western 
+blot. P38MAPK and extracellular signal-regulated kinase (ERK) were detected by 
+IHC, and Western blot.
+RESULTS: Compared with pMCAO group, luteolin significantly alleviated 
+neurological deficit, decreased infarct volume and suppressed edema after 
+ischemic stroke, which were accompanied with decreased expression of TLR4, TLR5, 
+NF-κB and p-p38MAPK. Meanwhile, luteolin activated the expression of p-ERK1/2 
+(P<0.05).
+CONCLUSIONS: Luteolin protected the brain from the damage caused by pMCAO, and 
+this effect may be through downregulation of TLR4, TLR5, NF-κB, p38MAPK and 
+upregulation of ERK expression.

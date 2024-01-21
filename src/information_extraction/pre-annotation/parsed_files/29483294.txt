@@ -1,0 +1,18 @@
+Cyclic diguanylate (c-di-GMP) is a second messenger that regulates the 
+transition from motile to sessile lifestyles in numerous bacteria and controls 
+virulence factor production in a variety of pathogens. In Clostridium difficile, 
+c-di-GMP negatively regulates flagellum biosynthesis and swimming motility and 
+promotes the production of type IV pili (TFP), biofilm formation, and surface 
+motility in vitro Flagella have been identified as colonization factors in C. 
+difficile, but the role of TFP in adherence to host cells and in colonization of 
+the mammalian gut is unknown. Here we show that c-di-GMP promotes adherence to 
+epithelial cells in vitro, which can be partly attributed to the loss of 
+flagella. Using TFP-null mutants, we demonstrate that adherence to epithelial 
+cells is partially mediated by TFP and that this TFP-mediated adherence requires 
+c-di-GMP regulation. In a mouse model of colonization, the TFP-null mutants 
+initially colonized the intestine as well as the parental strain but were 
+cleared more quickly. Moreover, compared to the parent strain, C. difficile 
+strains lacking TFP were particularly deficient in association with the cecal 
+mucosa. Together these data indicate that TFP and their positive regulation by 
+c-di-GMP promote attachment of C. difficile to the intestinal epithelium and 
+contribute to persistence of C. difficile in the host intestine.

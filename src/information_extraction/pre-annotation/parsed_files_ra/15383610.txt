@@ -1,0 +1,17 @@
+Lysine residues in type II collagen (CII) are normally hydroxylated and 
+subsequently glycosylated in the chondrocyte. The immunodominant T cell epitope 
+of CII involves such post-translationally modified lysine at position 264 that 
+has been shown to be critical in the pathogenesis of murine collagen-induced 
+arthritis and also in human rheumatoid arthritis. In this study we identified a 
+line of transgenic mice expressing a TCR specific for hydroxylated rat CII 
+epitope. They were crossed with transgenic mice expressing the rat CII epitope, 
+either specifically in cartilage (MMC mice) or systemically (TSC mice), to 
+analyze T cell tolerance to a post-translationally modified form of self-CII. 
+The mechanism of T cell tolerance to the hydroxylated CII epitope in TSC mice 
+was found to involve intrathymic deletion and induction of peripheral tolerance. 
+In contrast, we did not observe T cell tolerance in the MMC mice. Analysis of 
+CII prepared from rat or human joint cartilage revealed that most of the lysine 
+264 is glycosylated rather than remaining hydroxylated. Therefore, we conclude 
+that the transient post-translationally modified form of cartilage CII does not 
+induce T cell tolerance. This lack of T cell tolerance could increase the risk 
+of developing autoimmune arthritis.

@@ -1,0 +1,25 @@
+OBJECTIVE: Interleukin-33 (IL-33; or, IL-1F11) was recently identified as the 
+ligand of the IL-1 family receptor T1/ST2. The aim of this study was to examine 
+IL-33 production in human and mouse joints and to investigate the role of IL-33 
+and T1/ST2 in experimental arthritis.
+METHODS: IL-33 expression was examined in human synovial tissue, rheumatoid 
+arthritis (RA) synovial fibroblasts, and arthritic mouse joints. Mice with 
+collagen-induced arthritis (CIA) were treated with blocking anti-ST2 antibody or 
+control antibody beginning at the onset of disease. Arthritis severity was 
+assessed by clinical and histologic scoring. Draining lymph node (LN) cell 
+responses were examined ex vivo, and joint messenger RNA (mRNA) was used for 
+expression profiling.
+RESULTS: IL-33 was highly expressed in human RA synovium. In cultured synovial 
+fibroblasts, IL-33 expression was strongly induced by IL-1beta and/or tumor 
+necrosis factor alpha. Furthermore, IL-33 mRNA was detected in the joints of 
+mice with CIA and increased during the early phase of the disease. 
+Administration of a blocking anti-ST2 antibody at the onset of disease 
+attenuated the severity of CIA and reduced joint destruction. Anti-ST2 antibody 
+treatment was associated with a marked decrease in interferon-gamma production 
+as well as with a more limited reduction in IL-17 production by ex 
+vivo-stimulated draining LN cells. Finally, RANKL mRNA levels in the joint were 
+reduced by anti-ST2 treatment.
+CONCLUSION: IL-33 is produced locally in inflamed joints, and neutralization of 
+IL-33 signaling has a therapeutic effect on the course of arthritis. These 
+observations suggest that locally produced IL-33 may contribute to the 
+pathogenesis of joint inflammation and destruction.

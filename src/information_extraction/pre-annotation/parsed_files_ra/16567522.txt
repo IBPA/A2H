@@ -1,0 +1,19 @@
+Statins, the widely used inhibitors of cholesterol biosynthesis, also have 
+immunomodulatory properties. Statins have recently been shown to have beneficial 
+prophylactic and therapeutic effects in actively induced, short-term animal 
+models of the autoimmune diseases multiple sclerosis and rheumatoid arthritis, 
+leading to clinical trials. We therefore investigated whether statins' 
+protective effects could be reproduced in the nonobese diabetic (NOD) mouse, a 
+spontaneous, chronic model of autoimmune diabetes. Mice were treated with 0, 1, 
+10, or 50 mg x kg(-1) x day(-1) oral atorvastatin from 6 or 12 weeks of age, 
+without effect on the rate or prevalence of diabetes development, islet 
+infiltration, or islet major histocompatibility complex class II expression. 
+However, there was clear evidence of a disease-relevant immunological effect of 
+statins in vivo, since short-term (12-day) treatment significantly reduced the 
+number of proinflammatory (gamma-interferon-producing) CD8 cells recognizing a 
+dominant pathogenic epitope. This effect was absent in mice treated for longer 
+periods, suggesting that atorvastatin loses efficiency in inhibiting 
+autoantigen-specific T-cells over time. This observation may explain the 
+discrepancy between the reported success of statins in acutely induced models 
+and the lack of it in a chronic, spontaneous model of autoimmune disease and has 
+implications for the adoption of such therapy in humans.

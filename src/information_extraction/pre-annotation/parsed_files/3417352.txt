@@ -1,0 +1,18 @@
+The cecal flora of mice is able to eliminate Clostridium difficile from the 
+mouse cecum even when C. difficile is the first organism established. We used a 
+continuous-flow (CF) culture model of the cecal flora to investigate the 
+possibility that competition for nutrients is one mechanism for this antagonism. 
+The medium for the CF cultures consisted of homogenates of fecal pellets from 
+germfree mice. Carbohydrate analysis showed that mouse flora depleted 74 to 
+99.8% of the various carbohydrates from this environment-simulating medium. When 
+inoculated into filtrates made from CF cultures of mouse flora, C. difficile 
+multiplied slower than the dilution rate of the CF cultures unless glucose, 
+N-acetylglucosamine, or N-acetylneuraminic acid was added. C. difficile did not 
+synthesize hydrolytic enzymes able to cleave these monosaccharides from 
+oligosaccharide side chains. As found previously, veal infusion broth did not 
+support the growth of a microflora that could be transferred to gnotobiotic mice 
+and fully suppress C. difficile. When mucin or monosaccharides found in mucin 
+were added to veal infusion broth, the flora functioned normally in this regard. 
+These data suggest that as yet unidentified organisms compete more efficiently 
+than C. difficile for monomeric glucose, N-acetylglucosamine, and sialic acids 
+found in colonic contents.

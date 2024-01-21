@@ -1,0 +1,27 @@
+INTRODUCTION: Folate receptor (FR)-expressing macrophages have been shown to 
+accumulate at sites of inflammation, where they promote development of 
+inflammatory symptoms. To target such a macrophage population, we designed and 
+evaluated the biologic activity of EC0746, a novel folic acid conjugate of the 
+highly potent antifolate, aminopterin.
+METHODS: Using a FR-positive subclone of murine macrophage-derived RAW264.7 
+cells and rat thioglycollate-elicited macrophages, we studied the effect of 
+EC0746 on dihydrofolate reductase activity, cell proliferation, and cellular 
+response towards bacterial lipopolysaccharide as well as IFNγ activation. The 
+EC0746 anti-inflammatory activity, pharmacokinetics, and toxicity were also 
+evaluated in normal rats or in rats with adjuvant-induced arthritis; that is, a 
+FR-positive macrophage model that closely resembles rheumatoid arthritis in 
+humans.
+RESULTS: EC0746 suppresses the proliferation of RAW264.7 cells and prevents the 
+ability of nonproliferating rat macrophages to respond to inflammatory stimuli. 
+In the macrophage-rich rat arthritis model, brief treatment with subcutaneously 
+administered EC0746 is shown to mediate an FR-specific anti-inflammatory 
+response that is more potent than either orally administered methotrexate or 
+subcutaneously delivered etanercept. More importantly, EC0746 therapy is also 
+shown to be ~40-fold less toxic than unmodified aminopterin, with fewer bone 
+marrow and gastrointestinal problems.
+CONCLUSIONS: EC0746 is the first high FR-binding dihydrofolate reductase 
+inhibitor that demonstrates FR-specific anti-inflammatory activities both in 
+vitro and in vivo. Our data reveal that a relatively toxic anti-inflammatory 
+drug, such as aminopterin, can be targeted with folic acid to inflammatory 
+macrophages and thereby relieve inflammatory symptoms with greatly reduced 
+toxicity.

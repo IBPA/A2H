@@ -1,0 +1,27 @@
+OBJECTIVE: To evaluate the antiinflammatory effects of RC-3095 in 2 experimental 
+models of arthritis, collagen-induced arthritis (CIA) and antigen-induced 
+arthritis (AIA), and to determine the mechanisms of action involved.
+METHODS: RC-3095 was administered daily to mice with CIA and mice with AIA, 
+after induction of disease with methylated bovine serum albumin. Disease 
+incidence and severity were assessed using a clinical index and evaluation of 
+histologic features, respectively. In mice with CIA, gastrin-releasing peptide 
+receptor (GRPR) was detected by immunohistochemical analysis, while in mice with 
+AIA, migration of neutrophils, presence of glycosaminoglycans, and lymphocyte 
+proliferation, determined using the MTT assay, were assessed. Expression of 
+cytokines interleukin-17 (IL-17), IL-1β, and tumor necrosis factor α (TNFα) was 
+evaluated in all mouse knees using enzyme-linked immunosorbent assay. Treg cell 
+production was assessed by flow cytometry in the joints of mice with AIA.
+RESULTS: In mice with AIA, administration of RC-3095 reduced neutrophil 
+migration, mechanical hypernociception, and proteoglycan loss. These findings 
+were associated with inhibition of the levels of all 3 proinflammatory 
+cytokines, decreased lymphocyte proliferation, and increased Treg cell numbers. 
+In the CIA model, treatment with RC-3095 led to a significant reduction in 
+arthritis clinical scores and the severity of disease determined histologically. 
+Synovial inflammation, synovial hyperplasia, pannus formation, and extensive 
+erosive changes were all dramatically reduced in the arthritic mice treated with 
+RC-3095. Furthermore, arthritic mice treated with RC-3095 showed a significant 
+reduction in the concentrations of IL-17, IL-1β, and TNFα, and showed a 
+diminished expression of GRPR.
+CONCLUSION: These findings suggest that the GRP pathway has a significant role 
+in chronic arthritis, and its inhibition can be explored as a possible 
+therapeutic strategy in rheumatoid arthritis.

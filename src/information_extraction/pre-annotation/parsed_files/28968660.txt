@@ -1,0 +1,19 @@
+BACKGROUND: Clostridium difficile infection (CDI) is a serious threat for an 
+aging population. Using an aged mouse model, we evaluated the effect of age and 
+the roles of innate immunity and intestinal microbiota.
+METHODS: Aged (18 months) and young (8 weeks) mice were infected with C 
+difficile, and disease severity, immune response, and intestinal microbiome were 
+compared. The same experiment was repeated with intestinal microbiota exchange 
+between aged and young mice before infection.
+RESULTS: Higher mortality was observed in aged mice with weaker neutrophilic 
+mobilization in blood and intestinal tissue and depressed proinflammatory 
+cytokines in early infection. Microbiota exchange improved survival and early 
+immune response in aged mice. Microbiome analysis revealed that aged mice have 
+significant deficiencies in Bacteroidetes phylum and, specifically, Bacteroides, 
+Alistipes, and rc4-4 genera, which were replenished by cage switching.
+CONCLUSIONS: Microbiota-dependent alteration in innate immune response early on 
+during infection may explain poor outcome in aged host with CDI.
+
+© The Author(s) 2017. Published by Oxford University Press for the Infectious 
+Diseases Society of America. All rights reserved. For permissions, e-mail: 
+journals.permissions@oup.com.

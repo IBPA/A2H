@@ -1,0 +1,17 @@
+The development of highly immunodeficient mouse strains has allowed the 
+reconstitution of functional human immune system components in mice. 
+New-generation humanized mice generated in this manner have been extensively 
+used for modeling viral infections that are exclusively human tropic. 
+Epstein-Barr virus (EBV)-infected humanized mice reproduce cardinal features of 
+EBV-associated B-cell lymphoproliferative disease and EBV-associated 
+hemophagocytic lymphohistiocytosis (HLH). Erosive arthritis morphologically 
+resembling rheumatoid arthritis (RA) has also been recapitulated in these mice. 
+Low-dose EBV infection of humanized mice results in asymptomatic, persistent 
+infection. Innate immune responses involving natural killer cells, EBV-specific 
+adaptive T-cell responses restricted by human major histocompatibility and 
+EBV-specific antibody responses are also elicited in humanized mice. 
+EBV-associated T-/natural killer cell lymphoproliferative disease, by contrast, 
+can be reproduced in a distinct mouse xenograft model. In this review, recent 
+findings on the recapitulation of human EBV infection and pathogenesis in these 
+mouse models, as well as their application to preclinical studies of 
+experimental anti-EBV therapies, are described.

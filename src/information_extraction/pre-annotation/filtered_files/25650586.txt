@@ -1,0 +1,21 @@
+The aim of the present study was to determine whether the expression of A 
+disintegrin and metallproteinase 15 (ADAM15) affected the inflammatory 
+conditions and cell migration in human fibroblast‑like synoviocytes (FLSs) in a 
+rat model of rheumatoid arthritis (RA). The expression of ADAM15 in FLSs 
+stimulated with lipopolysaccharide (LPS) was confirmed by reverse 
+transcription‑quantitative polymerase chain reaction and western blot analysis. 
+The effects of small interfering RNA targeting ADAM15 (siADAM5) on 
+pro‑inflammatory cytokines and chemokines were assessed using an enzyme‑linked 
+immunosorbent assay. The effects of siADAM15 on cell invasion and migration in 
+FLS were also assessed in vitro. The therapeutic effects and side effects of 
+ADAM15 in a rat model of collagen‑induced arthritis (CIA) were examined in vivo. 
+The present results revealed that ADAM15 expression was significantly elevated 
+at the mRNA and protein level in FLSs stimulated with LPS and that silencing 
+ADAM15 suppressed the expression of pro‑inflammatory cytokines and chemokines, 
+preventing FLS cell migration and invasion via inhibiting vascular endothelial 
+growth factor‑A, matrix metalloproteinase (MMP)1 and MMP‑3 expression. In 
+addition, treatment of CIA rats using siADAM15 significantly reduced the 
+arthritis score and extent of joint damage in the rats. These findings indicated 
+that silencing ADAM15 had anti‑inflammatory effects in FLSs and efficiently 
+inhibited the development of CIA. Therefore, ADAM15 may be a potential target 
+molecule for RA therapies.

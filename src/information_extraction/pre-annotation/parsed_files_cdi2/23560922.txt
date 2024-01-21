@@ -1,0 +1,14 @@
+Clostridium difficile is responsible for thousands of deaths each year and a 
+vaccine would be welcomed, especially one that would disrupt bacterial 
+maintenance, colonization and persistence in carriers and convalescent patients. 
+Structural explorations at the University of Guelph (ON, Canada) discovered that 
+C. difficile may express three phosphorylated polysaccharides, named PSI, PSII 
+and PSIII; this review captures our recent efforts to create vaccines based on 
+these glycans, especially PSII, the common antigen that has precipitated 
+immediate attention. The authors describe the design and immunogenicity of 
+vaccines composed of raw polysaccharides and conjugates thereof. So far, it has 
+been observed that anti-PSII antibodies can be raised in farm animals, mice and 
+hamster models; humans and horses carry anti-PSII IgA and IgG antibodies from 
+natural exposure to C. difficile, respectively; phosphate is an indispensable 
+immunogenic epitope and vaccine-induced PSII antibodies recognize PSII on C. 
+difficile outer surface.

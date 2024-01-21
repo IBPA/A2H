@@ -1,0 +1,15 @@
+Bruton's tyrosine kinase (Btk) is a nonreceptor cytoplasmic tyrosine kinase 
+involved in B-cell and myeloid cell activation, downstream of B-cell and Fcγ 
+receptors, respectively. Preclinical studies have indicated that inhibition of 
+Btk activity might offer a potential therapy in autoimmune diseases such as 
+rheumatoid arthritis and systemic lupus erythematosus. Here we disclose the 
+discovery and preclinical characterization of a potent, selective, and 
+noncovalent Btk inhibitor currently in clinical development. GDC-0853 (29) 
+suppresses B cell- and myeloid cell-mediated components of disease and 
+demonstrates dose-dependent activity in an in vivo rat model of inflammatory 
+arthritis. It demonstrates highly favorable safety, pharmacokinetic (PK), and 
+pharmacodynamic (PD) profiles in preclinical and Phase 2 studies ongoing in 
+patients with rheumatoid arthritis, lupus, and chronic spontaneous urticaria. On 
+the basis of its potency, selectivity, long target residence time, and 
+noncovalent mode of inhibition, 29 has the potential to be a best-in-class Btk 
+inhibitor for a wide range of immunological indications.

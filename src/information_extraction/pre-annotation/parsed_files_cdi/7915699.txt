@@ -1,0 +1,18 @@
+BACKGROUND/AIMS: Activation of intestinal mast cells and neurons is involved in 
+intestinal inflammation and diarrhea. This study compared the effects of 
+neuronal inhibitors and inhibition of intestinal sensory afferent nerves on the 
+intestinal actions of Clostridium difficile toxin A, an inflammatory 
+enterotoxin, and cholera toxin, a noninflammatory enterotoxin.
+METHODS: The effects of lidocaine, hexamethonium, atropine, and long-term 
+pretreatment of capsaicin on fluid secretion, mannitol permeability, 
+myeloperoxidase (MPO) activity, and release of rat mast cell protease II 
+(RMCPII) were measured in toxin A- and cholera toxin-exposed loops in vivo.
+RESULTS: Lidocaine, hexamethonium, and capsaicin, but not atropine, inhibited 
+toxin A-mediated secretion and MPO activity, but only capsaicin reduced mannitol 
+permeability. Lidocaine, but not capsaicin, reduced secretion and permeability 
+caused by cholera toxin. Toxin A caused release of RMCPII from rat ileum in vivo 
+and in vitro; this was inhibited by lidocaine or capsaicin, whereas cholera 
+toxin had no effect on release of RMCPII.
+CONCLUSIONS: Neuronal mechanisms are important in the in vivo effects of these 
+two enterotoxins. Capsaicin-sensitive sensory afferent neurons and mast cells 
+are involved in the intestinal mechanism of toxin A, but not cholera toxin.

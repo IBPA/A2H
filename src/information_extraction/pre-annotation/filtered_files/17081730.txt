@@ -1,0 +1,14 @@
+Peptidomimetic compounds that bind to major histocompatibility complex class II 
+molecules and are resistant to cathepsins can competitively inhibit the 
+presentation of processed protein antigens. Therefore, compounds that bind to 
+autoimmune disease-associated class II molecules are expected to compete with 
+autoantigens for presentation and thereby interrupt the disease process. The 
+first generation of such competitors developed for rheumatoid 
+arthritis-associated HLA-DR molecules, although resistant to cathepsins, has 
+remained sensitive to plasma proteases, and was thus unlikely to be effective in 
+vivo. We have therefore produced a second generation of compounds that are 
+resistant to cathepsins and stable in plasma while maintaining binding affinity 
+for HLA-DR molecules associated with rheumatoid arthritis and multiple 
+sclerosis. Selected compounds of this series are shown to inhibit antigen 
+presentation in vivo, as well as effectively treat collagen induced arthritis 
+and experimental autoimmune encephalomyelitis in HLA-DR transgenic mouse models.

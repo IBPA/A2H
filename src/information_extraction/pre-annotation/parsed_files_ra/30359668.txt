@@ -1,0 +1,28 @@
+As a potent macrolide immunosuppressant, cyclosporine A (CsA) is used to treat 
+multiple autoimmune diseases, including non-autoimmune and autoimmune-mediated 
+dry eye disease, rheumatoid arthritis and psoriasis. Despite its potency, CsA 
+has poor solubility, poor bioavailability, and can cause serious adverse 
+reactions such as nephrotoxicity and neurotoxicity. To overcome these 
+limitations, we invented a new strategy to carry CsA by fusing its cognate human 
+receptor, cyclophilin A (CypA), to a 73 kDa elastin-like polypeptide (ELP) 
+termed A192 using recombinant protein expression. Derived from human 
+tropoelastin, ELPs are characterized by the ability to phase separate above a 
+temperature that is a function of variables including concentration, molecular 
+weight, and hydrophobicity. The resultant fusion protein, termed CA192, which 
+assembles into a dimeric species in solution, effectively binds and solubilizes 
+CsA with a Kd of 189 nM, comparable to that of endogenous CypA with a Kd of 
+35.5 nM. The release profile of CsA from CA192 follows a one phase decay model 
+with a half-life of 957.3 h without a burst release stage. Moreover, CA192-CsA 
+inhibited IL-2 expression induced in Jurkat cells through the calcineurin-NFAT 
+signaling pathway with an IC50 of 1.2 nM, comparable to that of free CsA with an 
+IC50 of 0.5 nM. The intravenous pharmacokinetics of CA192 followed a 
+two-compartment model with a mean residence time of 7.3 h. Subcutaneous 
+administration revealed a bioavailability of 30% and a mean residence time of 
+15.9 h. When given subcutaneously for 2 weeks starting at 14 weeks in male 
+non-obese diabetic (NOD) mice, a model of autoimmune dacryoadenitis used to 
+study Sjögren's syndrome (SS), CA192-CsA (2.5 mg/kg, every other day) 
+significantly (p = 0.014) increased tear production relative to CA192 alone. 
+Moreover, CA192 delivery reduced indications of CsA nephrotoxicity relative to 
+free CsA. CA192 represents a viable new approach to deliver this effective but 
+nephrotoxic agent in a modality that preserves therapeutic efficacy but 
+suppresses drug toxicity.

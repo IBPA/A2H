@@ -1,0 +1,27 @@
+OBJECTIVE: To analyze the fine specificity of IgG autoantibodies in sera from 
+rheumatoid arthritis (RA) patients for type II collagen (CII) epitopes that are 
+arthritogenic in collagen-induced arthritis (CIA), a relevant murine model of 
+RA.
+METHODS: For enzyme-linked immunosorbent assay (ELISA) analysis of 
+conformation-dependent autoantibody binding, recombinant chimeric collagens that 
+harbor the respective CII epitopes as an insertion within the frame of a 
+constant type X collagen triple helix were constructed. In addition, synthetic 
+peptides mimicking the native collagen structures were applied for the first 
+time in the ELISA assessment of humoral CII autoimmunity.
+RESULTS: The pathogenicity of IgG responses to certain CII determinants in CIA 
+was demonstrated by arthritis development in BALB/c mice upon the combined 
+transfer of 2 mouse monoclonal antibodies specific for precisely mapped 
+conformational CII epitopes (amino acid residues 359-369 [C1(III)] and 551-564 
+[J1]), whereas antibodies to another epitope (F4) were not arthritogenic. To 
+test whether human autoimmune responses are similarly directed to these 
+conserved CII determinants, serum IgG was analyzed. The prevalence of sera with 
+increased IgG binding to the C1(III) epitope was significantly higher in RA 
+compared with sera from healthy donors or from patients with other rheumatic 
+conditions, e.g., osteoarthritis (OA), systemic lupus erythematosus (SLE), or 
+relapsing polychondritis (RP), whereas levels of antibodies specific for the 
+nonarthritogenic F4 epitope were associated with OA rather than RA.
+CONCLUSION: Autoimmunity to CII, although detectable in different rheumatic 
+conditions, differs in fine specificity between distinct disease entities. In 
+RA, in contrast to degenerative joint disease, RP, and SLE, autoantibody 
+responses are directed to an evolutionary conserved CII structure that is also 
+targeted by pathogenic autoimmune responses in murine models of arthritis.

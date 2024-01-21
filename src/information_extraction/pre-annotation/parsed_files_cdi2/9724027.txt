@@ -1,0 +1,34 @@
+Inhibitors of IMP dehydrogenase, such as mycophenolic acid (MPA) and mizoribine, 
+which deplete cellular GTP, are used clinically as immunosuppressive drugs. The 
+prolonged effect of such agents on insulin-secreting beta-cells (HIT-T15 and 
+INS-1) was investigated. Both MPA and mizoribine inhibited mitogenesis, as 
+reflected by [3H]thymidine incorporation. Cell number, DNA and protein contents, 
+and cell (metabolic) viability were decreased by about 30%, 60%, and 80% after 
+treatment of HIT cells with clinically relevant concentrations (e.g. 1 
+microg/ml) of MPA for 1, 2, and 4 days, respectively. Mizoribine (48 h) 
+similarly induced the death of HIT cells. INS-1 cells also were damaged by 
+prolonged MPA treatment. MPA-treated HIT cells displayed a strong and localized 
+staining with a DNA-binding dye (propidium iodide), suggesting condensation and 
+fragmentation of DNA, which were confirmed by detection of DNA laddering in 
+multiples of about 180 bp. DNA fragmentation was observed after 24-h MPA 
+treatment and was dose dependent (29%, 49%, and 70% of cells were affected after 
+48-h exposure to 1, 3, and 10 microg/ml MPA, respectively). Examination of 
+MPA-treated cells by electron microscopy revealed typical signs of apoptosis: 
+condensed and marginated chromatin, apoptotic bodies, cytosolic vacuolization, 
+and loss of microvilli. MPA-induced cell death was almost totally prevented by 
+supplementation with guanosine, but not with adenosine or deoxyguanosine, 
+indicating a specific effect of GTP depletion. An inhibitor of protein 
+isoprenylation (lovastatin, 10-100 microM for 2-3 days) induced cell death and 
+DNA degradation similar to those induced by sustained GTP depletion, suggesting 
+a mediatory role of posttranslationally modified GTP-binding proteins. Indeed, 
+impeding the function of G proteins of the Rho family (via glucosylation using 
+Clostridium difficile toxin B), although not itself inducing apoptosis, 
+potentiated cell death induced by MPA or lovastatin. These findings indicate 
+that prolonged depletion of GTP induces beta-cell death compatible with 
+apoptosis; this probably involves a direct impairment of GTP-dependent 
+RNA-primed DNA synthesis, but also appears to be modulated by small GTP-binding 
+proteins. Treatment of intact adult rat islets (the beta-cells of which 
+replicate slowly) induced a modest, but definite, death by apoptosis over 1- to 
+3-day periods. Thus, more prolonged use of the new generation of 
+immunosuppressive agents exemplified by MPA might have deleterious effects on 
+the survival of islet or pancreas grafts.

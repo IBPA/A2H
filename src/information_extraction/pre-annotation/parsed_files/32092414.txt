@@ -1,0 +1,16 @@
+Clostridioides difficile strains were isolated from manure and digestate samples 
+from five biogas plants in France. The objective of this study was to 
+characterize these isolates using PCR ribotyping, wgMLST, a multiplex PCR 
+targeting genes encoding for the main virulence factors, i.e. tcdA, tcdB, cdtA 
+and cdtB, and antimicrobial susceptibility assays. The 54 strains characterized 
+were all positive for tcdA and tcdB and 83% (45/54) were positive for the binary 
+toxin genes. PCR ribotypes 126 (59%) and 078 (37%) were predominant, and wgMLST 
+analysis of 18 isolates showed close proximity of strains within a single biogas 
+plant. Samples from the biogas plant supplied with cattle and poultry manure 
+displayed the largest variety in PCR ribotypes. The in vitro activities of nine 
+antimicrobial agents were determined. All the strains were susceptible to 
+vancomycin and metronidazole, which are currently considered first-line 
+treatments for C. difficile infection in humans. All the strains were resistant 
+to clindamycin. The results of this study show that a high percentage of 
+C. difficile strains present in the French biogas plants investigated are 
+toxigenic strains from PCR ribotypes also commonly found in humans.

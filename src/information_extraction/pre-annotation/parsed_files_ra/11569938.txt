@@ -1,0 +1,18 @@
+IDEC is developing a PRIMATIZED-anti-B7 antibody (IDEC-114) for the treatment of 
+autoimmune and inflammatory diseases, such as psoriasis and rheumatoid 
+arthritis. It is currently undergoing phase II trials in patients with psoriasis 
+[395813]. A randomized, blind, placebo-controlled, multiple-dose phase II study 
+was initiated in January 2001 to evaluate the potential clinical activity and 
+safety of IDEC-114 in patients with moderate-to-severe psoriasis [395813]. The 
+antibody targets the B7 antigen on the surface of antigen-presenting cells that 
+normally interact with T-cells to initiate an immune response. Antibodies 
+directed at B7 may be useful in preventing unwanted immune responses in 
+autoimmune diseases such as systemic lupus erythematosus, idiopathic 
+thrombocytopenic purpura as well as transplant rejection [178382], [178929]. 
+PRIMATIZED antibodies, genetically engineered from cynomolgus macaque monkey and 
+human components, are structurally indistinguishable from human antibodies. They 
+may, therefore, be less likely to cause adverse reactions in humans, making them 
+potentially suited for long-term, chronic treatment [244805]. IDEC has signed an 
+antibody humanization patent licensing agreement with Protein Design Labs 
+[240591]. IDEC is also collaborating with Mitsubishi-Tokyo (formerly Mitsubishi 
+Kasei) on the development of this antibody [178382].

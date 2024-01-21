@@ -1,0 +1,24 @@
+1. Anhuienoside C (AC), a triterpenoid saponin derived from the traditional 
+Chinese medicine (TCM) "Di Wu", has significant anti-inflammatory and 
+anti-rheumatoid arthritis activities. Here we aimed to characterize the 
+pharmacokinetics of AC and its deglycosylated metabolites in rats. 2. AC was 
+administered to rats by intravenous injection or oral gavage. AC and its four 
+deglycosylated metabolites (M1, M2, M3 and M4) in biological samples were 
+quantified using a UPLC-QTOF/MS system. The pharmacokinetic data were analyzed 
+by compartmental modeling. The metabolism of M1, M2, M3 and M4 was determined 
+using rat liver microsomes (RLM) and rat intestine microsomes (RIM). The 
+intestinal permeabilities of AC and its metabolites were evaluated using 
+Parallel artificial membrane permeability assay (PAMPA) and MDR1-transfected 
+Madin-Darby canine kidney cell (MDCK-MDR1) cell model. 3. AC pharmacokinetics 
+was well described by the one-compartment model. The oral bioavailability of AC 
+was exceedingly low (F = 0.03%). Consistently, AC was poorly distributed 
+(< 0.08 μM) in major organs including the heart, liver, spleen, lung and kidney 
+after oral uptake. Three of four deglycosylated metabolites (M2, M3, and M4) 
+underwent further metabolism in RLM, generating five, two and five oxidized 
+products, respectively. Both PAMPA and MDCK-MDR1 experiments showed that AC and 
+its metabolites were poorly permeable. Furthermore, the net flux ratios derived 
+from MDCK-MDR1 versus wild-type MDCK cells were, respectively 1.3, 1.5, 0.7, 1.2 
+and 0.6 for AC, M1, M2, M3 and M4, suggesting that these compounds were 
+non-substrates of P-glycoprotein. 4. In conclusion, extensive pre-systemic 
+metabolism and poor permeability were the main causes of low systemic exposures 
+of oral AC and its four metabolites.

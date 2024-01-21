@@ -1,0 +1,15 @@
+The pathogenicity of multiple sclerosis is still poorly understood, but 
+identification of susceptibility genes using the animal model experimental 
+allergic encephalomyelitis (EAE) could provide leads. Certain genes may be 
+shared between different autoimmune diseases, and identification of such genes 
+is of obvious importance. To locate gene regions involved in the control of EAE 
+and to compare the findings with the susceptibility loci recently identified in 
+a model for rheumatoid arthritis (pristane-induced arthritis), we made crosses 
+between the encephalomyelitis- and arthritis-susceptible rat strain DA and the 
+resistant E3 strain. Genetic analysis of animals produced in a F2 intercross 
+identified 11 loci associated with specific EAE-associated traits. 
+Interestingly, five of these loci were situated at the same position as major 
+loci controlling pristane-induced arthritis and showed similarities in 
+inheritance pattern and subphenotype associations. Our results show that 
+different phases of EAE are controlled by different sets of genes and that 
+common genes are likely to be involved in different autoimmune diseases.

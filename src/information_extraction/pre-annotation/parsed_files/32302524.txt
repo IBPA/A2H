@@ -1,0 +1,15 @@
+The exotoxin TcsL is a major virulence factor in Paeniclostridium (Clostridium) 
+sordellii and responsible for the high lethality rate associated with 
+P. sordellii infection. Here, we present a genome-wide CRISPR-Cas9-mediated 
+screen using a human lung carcinoma cell line and identify semaphorin (SEMA) 6A 
+and 6B as receptors for TcsL. Disrupting SEMA6A/6B expression in several 
+distinct human cell lines and primary human endothelial cells results in reduced 
+TcsL sensitivity, while SEMA6A/6B over-expression increases their sensitivity. 
+TcsL recognizes the extracellular domain (ECD) of SEMA6A/6B via a region 
+homologous to the receptor-binding site in Clostridioides difficile toxin B 
+(TcdB), which binds the human receptor Frizzled. Exchanging the receptor-binding 
+interfaces between TcsL and TcdB switches their receptor-binding specificity. 
+Finally, administration of SEMA6A-ECD proteins protects human cells from TcsL 
+toxicity and reduces TcsL-induced damage to lung tissues and the lethality rate 
+in mice. These findings establish SEMA6A and 6B as pathophysiologically relevant 
+receptors for TcsL.

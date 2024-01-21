@@ -1,0 +1,17 @@
+Antibody-cytokine fusion proteins (immunocytokines) are innovative 
+biopharmaceutical agents, which are being considered for the therapy of cancer 
+and chronic inflammatory conditions. Immunomodulatory fusion proteins capable of 
+selective localization at the sites of rheumatoid arthritis (RA) are of 
+particular interest, as they may increase the therapeutic index of the cytokine 
+payload. The F8 antibody recognizes the alternatively spliced extra domain A of 
+fibronectin, a marker of angiogenesis, which is strongly overexpressed at sites 
+of arthritis. In this study, we investigated the targeting and therapeutic 
+activity of the immunocytokine F8-IL4 in the mouse model of collagen-induced 
+arthritis. Different combination regimes were tested and evaluated by the 
+analysis of serum and tissue cytokine levels. We show that F8-IL4 selectively 
+localizes to neovascular structures at sites of rheumatoid arthritis in the 
+mouse, leading to high local concentrations of IL4. When used in combination 
+with dexamethasone, F8-IL4 was able to cure mice with established 
+collagen-induced arthritis. Response to treatment was associated with an 
+elevation of IL13 levels and decreased IL6 plasma concentrations. A fully human 
+version of F8-IL4 is currently being developed for clinical investigations.

@@ -1,0 +1,19 @@
+The process of internalisation of Clostridium difficile toxin B into human lung 
+fibroblasts was further studied, with the aim of elucidating the fate of 
+endocytosed toxin. Development of the toxin-induced cytopathogenic effect was 
+reversibly inhibited at 18 degrees C and in the presence of 200 mM KCl or 1-20 
+mM benzyl alcohol, i.e. at conditions when the fusion between endosomes and 
+lysosomes is prevented. Fibroblasts treated with toxin at 37 degrees C but 
+transferred to 18 degrees C within 10 min were also completely protected, 
+whereas transfer to 18 degrees C later during the latency resulted in only 
+partial protection. KCl was also protective upon addition after the toxin 
+binding step. Inhibitors of lysosomal proteases, such as chymostatin, leupeptin 
+and antipain, prevented the appearance of the cytopathogenic effect, when 
+present during toxin exposure or added after the toxin binding step. Chinese 
+hamster ovary cell mutants, defective in acidification of their endosomes, were 
+resistant to toxin B, whereas wildtype cells were sensitive. The resistance was 
+not overcome by applying a low extracellular pH. The results suggest that 
+exposure to a low pH compartment is necessary but not sufficient for entry of 
+active toxin B to the cytosol. In addition to a low pH, a fusion of 
+toxin-containing endosomes with lysosomes and a further processing of the toxin 
+by lysosomal proteases is required for cellular intoxication.

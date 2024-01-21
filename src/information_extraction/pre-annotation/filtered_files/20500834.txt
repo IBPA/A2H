@@ -1,0 +1,30 @@
+INTRODUCTION: Toll-like receptors (TLRs) are involved in both innate and 
+adaptive immune responses and are likely to play a complex role in the 
+pathogenesis of human rheumatoid arthritis (RA) and experimental arthritis. The 
+objective of this study was to identify the key TLR in pristane-induced 
+arthritis (PIA), a rat model for RA, and to clarify its roles in the initiation 
+and maintenance of arthritis.
+METHODS: Arthritis in DA rats was induced by pristane and the severity was 
+evaluated by macroscopic and microscopic score systems. Spleen TLR and cytokine 
+expression was detected at different time points by real-time polymerase chain 
+reaction (PCR) and flow cytometry. Polyinosine-polycytidylic acid (polyI:C, a 
+ligand of TLR3) or TLR3 specific short-hairpin RNA plasmid for RNA interference 
+was administrated to PIA rats in vivo. Serum nitrogen oxide concentration was 
+determined by Griess method, and tumor necrosis factor alpha (TNF-alpha) was 
+determined by L929 biotest. In splenic macrophages, TLR3 expression was measured 
+by flow cytometry. A rat macrophage cell line (NR8383) was stimulated by 
+pristane, and anti-TLR3 antibody were used to block TLR3 pathway. TLR3 and 
+cytokine expression in NR8383 were detected by real-time PCR.
+RESULTS: By screening the TLR expression profile in spleen of DA rats after 
+pristane injection, we found that TLR3 was the most early and prominently 
+upregulated TLR. Both TLR3 mRNA and protein expression of spleen were 
+upregulated at 6 and 26 days after pristane injection. Furthermore, 
+administration of polyI:C exacerbated, whereas RNA interference targeting TLR3 
+ameliorated, the arthritis. Particularly, TLR3 expression was induced in splenic 
+macrophages of PIA rats, and also in the NR8383 cell line after pristane 
+stimulation in a dose- and time- dependent manner. Upregulation of interferon 
+beta (IFN-beta) and TNF-alpha by pristane stimulation was blocked by anti-TLR3 
+antibody in NR8383.
+CONCLUSIONS: TLR3 plays a pivotal role in the initiation and development of PIA 
+which may dependent on macrophage. These findings are useful to understand the 
+pathogenesis of RA and may provide an intriguing therapeutic opportunity for RA.

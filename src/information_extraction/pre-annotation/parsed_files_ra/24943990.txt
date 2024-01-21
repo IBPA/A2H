@@ -1,0 +1,29 @@
+OBJECTIVE: To examine whether the citrullinated chemokines epithelial 
+neutrophil-activating peptide 78 (ENA-78)/CXCL5, macrophage inflammatory protein 
+1α/CCL3, and monocyte chemotactic protein 1/CCL2 are detected in the biologic 
+fluid of patients with rheumatoid arthritis (RA), and if so, to determine the 
+biologic activities of these chemokines.
+METHODS: Recombinant human chemokines were citrullinated by peptidylarginine 
+deiminase. Enzyme-linked immunosorbent assays were performed to measure the 
+concentrations of citrullinated chemokines in sera from patients with rheumatoid 
+arthritis (RA) and normal individuals and in synovial fluid from patients with 
+RA, patients with osteoarthritis (OA), and patients with other inflammatory 
+rheumatic diseases. The correlation between the citrullinated chemokine levels 
+and clinical data was analyzed. Monocyte and neutrophil chemotaxis assays were 
+performed, and native (noncitrullinated) or citrullinated ENA-78/CXCL5 was 
+injected into mouse knees to evaluate the biologic activities of these 
+chemokines.
+RESULTS: The concentration of citrullinated ENA-78/CXCL5 was significantly 
+higher in RA sera and SF than in normal sera and in SF from patients with other 
+rheumatic diseases including OA. In RA SF, a strong correlation between the 
+amount of citrullinated ENA-78/CXCL5 and the C-reactive protein level or the 
+erythrocyte sedimentation rate was observed. Citrullinated ENA-78/CXCL5 induced 
+monocyte chemotaxis via CXCR1 and CXCR2, while noncitrullinated ENA-78/CXCL5 did 
+not. In a mouse model of inflammatory arthritis, citrullinated ENA-78/CXCL5 
+induced more severe inflammation and recruited more monocytes than did 
+noncitrullinated ENA-78/CXCL5.
+CONCLUSION: Citrullinated ENA-78/CXCL5 is highly correlated with RA disease 
+activity and, unlike noncitrullinated ENA-78/CXCL5, recruits monocytes. These 
+results indicate that citrullinated ENA-78/CXCL5 may exert previously 
+unrecognized inflammatory properties in RA by recruiting monocytes to inflamed 
+joint tissue.

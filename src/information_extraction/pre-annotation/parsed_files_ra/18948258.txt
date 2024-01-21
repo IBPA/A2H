@@ -1,0 +1,14 @@
+In the K/BxN mouse model of rheumatoid arthritis, autoantibodies specific for 
+glucose-6-phosphate isomerase (GPI) can transfer joint-specific inflammation to 
+most strains of normal mice. Binding of GPI and autoantibody to the joint 
+surface is a prerequisite for joint-specific inflammation. However, how GPI 
+localizes to the joint remains unclear. We show that glycosaminoglycans (GAGs) 
+are the high affinity (83 nm) joint receptors for GPI. The binding affinity and 
+structural differences between mouse paw/ankle GAGs and elbows/knee GAGs 
+correlated with the distal to proximal disease severity in these joints. We 
+found that cartilage surface GPI binding was greatly reduced by either 
+chondroitinase ABC or beta-glucuronidase treatment. We also identified several 
+inhibitors that inhibit both GPI/GAG interaction and GPI enzymatic activities, 
+which suggests that the GPI GAG-binding domain overlaps with the active site of 
+GPI enzyme. Our studies raise the possibility that GAGs are the receptors for 
+other autoantigens involved in joint-specific inflammatory responses.

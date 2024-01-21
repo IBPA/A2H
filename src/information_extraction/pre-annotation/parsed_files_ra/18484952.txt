@@ -1,0 +1,19 @@
+Collagen-induced arthritis (CIA) is an experimental arthritis model used to 
+study the inflammatory processes in this disease and test potential 
+therapeutics. In order to better characterize this model, we conducted the first 
+comprehensive gene expression analysis of rat CIA. To evaluate how closely the 
+rat model reflects human rheumatoid arthritis (RA), we also analysed gene 
+expression in human RA, using genome-wide Affymetrix gene arrays. By applying 
+multiple strategies, including comparison of the highest induced genes, 
+expression of immunological-associated genes as well as Ingenuity Pathway 
+Analysis (IPA), we were able to compare the two expression profiles. Among the 
+highest induced genes in RA were several B-cell-associated genes, including 
+immunoglobulins, B-cell markers such as CD20, and cytokines and chemokines that 
+act on B cells such as TNFSF13b/BLyS and CXCL13, none of which was upregulated 
+in CIA. The latter was instead characterized by the upregulation of genes 
+expressed primarily in macrophages and dendritic cells. Of the 22 pathways 
+identified as significant in both diseases by IPA, only three (IL6, chemokine 
+signalling and antigen presentation) were present in both settings. We conclude 
+that there are significant differences in the inflammatory mechanisms between 
+human RA and rat CIA, and that genome-wide comparative gene expression analyses 
+are useful tools to evaluate the relevance of animal models to human disease.

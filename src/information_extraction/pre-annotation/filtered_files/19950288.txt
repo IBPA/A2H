@@ -1,0 +1,27 @@
+OBJECTIVE: In rheumatoid arthritis (RA), integrins mediate cell adhesion, 
+migration, and invasion, and their expression is regulated by cytokines and 
+growth factors. The aim of this study was to investigate whether hormones such 
+as cortisol or other steroids can influence integrin expression and function in 
+the synovial cells of patients with RA.
+METHODS: We performed immunofluorescence and fluorescence-activated cell sorting 
+analyses to quantify surface integrin levels. Adhesion and migration assays were 
+performed to study the function of synovial fibroblasts (SFs). ERK activation 
+was measured by cellular activation of a signaling enzyme-linked immunosorbent 
+assay. Invasion of SFs into cartilage was determined in the SCID mouse 
+coimplantation model of RA in vivo.
+RESULTS: In RA, expression of integrin subunits alpha5, alphav, and beta1 was 
+higher at the site of invasion compared with the sublining zone. Testosterone 
+and 17beta-estradiol had no influence on integrin levels, but cortisol 
+up-regulated expression of the alpha5 subunit in a time-dependent and 
+dose-dependent manner. In addition, cortisol increased the adhesion of SFs to 
+fibronectin and inhibited ERK signaling upon integrin activation or upon 
+stimulation with tumor necrosis factor. Small interfering RNA or a neutralizing 
+antibody to alpha5 integrin increased SF migration, indicating that up-regulated 
+alpha5 integrin is responsible for an immobile phenotype. In addition, in the 
+SCID mouse model, SF invasion into cartilage was attenuated by glucocorticoid 
+treatment in vivo.
+CONCLUSION: Glucocorticoids increase integrin expression and the adhesion of 
+cells to fibronectin, inhibit ERK signaling, and down-regulate the invasiveness 
+of SFs in vivo. This study demonstrates that an important antiinflammatory 
+aspect of glucocorticoids is regulating the expression and function of alpha5 
+integrin.

@@ -1,0 +1,25 @@
+BACKGROUND: The inflammation that accompanies the pain and swelling associated 
+with osteo- and rheumatoid arthritis is mediated by complex interactions of 
+inflammatory mediators. Cytokines play a pivotal role in orchestrating many of 
+these processes, including inflammatory cell recruitment, adhesion and 
+activation. In addition, prostaglandins are secreted into the synovial cavity 
+and are involved in perpetuation of local inflammation, vasodilatation and 
+vasoconstriction, and also with bone resorption. Pre-clinical models have been 
+developed in order to correlate to the human disease and principle among these 
+is the adjuvant-induced arthritis model in the rat.
+METHODS: We have developed a technique to quantitatively assess the contents of 
+synovial fluid samples from rat joints. Two needles joined together are inserted 
+into the knee joint of anaesthetised rats and connected to a Watson-Marlow 
+perfusion pump. Sterile saline is infused and withdrawn at 100 microl min-1 
+until a 250 microl sample is collected.
+RESULTS: Our results demonstrate up to 125 fold increases in synovial IL1alpha 
+and IL1beta concentrations, approximately 30 fold increases in levels of IL6 and 
+IL10 and a 200-300 fold elevation in synovial concentrations of TNFalpha during 
+FCA-induced experimental arthritis. Finally, this novel technique has 
+demonstrated a dose-response relationship between FCA and the total cell counts 
+of synovial perfusates.
+CONCLUSION: In summary, this new technique provides a robust method for 
+quantifying inflammatory mediators and cells from the synovial cavity itself, 
+thereby detailing the inflammatory processes from within the capsule and 
+excluding those processes occurring in other tissues surrounding the entire 
+articulation.

@@ -1,0 +1,31 @@
+Bone displays suppressed osteogenesis in inflammatory diseases such as sepsis 
+and rheumatoid arthritis. However, the underlying mechanisms have not yet been 
+clearly explained. To identify the gene expression patterns in the bone, we 
+performed Affymetrix Mouse Genome 430 2.0 Array with RNA isolated from mouse 
+femurs 4 h after lipopolysaccharide (LPS) administration. The gene expressions 
+were confirmed with real-time PCR. The serum concentration of the N-terminal 
+propeptide of type I collagen (PINP), a bone-formation marker, was determined 
+using ELISA. A total of 1003 transcripts were upregulated and 159 transcripts 
+were downregulated (more than twofold upregulation or downregulation). Increased 
+expression levels of the inflammation-related genes interleukin-6 (IL-6), 
+interleukin-1β (IL-1β) and tumor necrosis factor α (TNF-α) were confirmed from 
+in the period 4 h to 72 h after LPS administration using real-time PCR. Gene 
+ontogene analysis found four bone-related categories involved in four biological 
+processes: system development, osteoclast differentiation, ossification and bone 
+development. These processes involved 25 upregulated genes. In the KEGG 
+database, we further analyzed the transforming growth factor β (TGF-β) pathway, 
+which is strongly related to osteogenesis. The upregulated bone morphogenetic 
+protein 2 (BMP2) and downregulated inhibitor of DNA binding 4 (Id4) expressions 
+were further confirmed by real-time PCR after LPS stimulation. The osteoblast 
+function was determined through examination of the expression levels of core 
+binding factor 1 (Cbfa1) and osteocalcin (OC) in bone tissues and serum PINP 
+from 4 h to 72 h after LPS administration. The expressions of OC and Cbfa1 
+decreased 6 h after administration (p < 0.05). Significantly suppressed PINP 
+levels were observed in the later stage (from 8 h to 72 h, p < 0.05) but not in 
+the early stage (4 h or 6 h, p > 0.05) of LPS stimulation. The results of this 
+study suggest that LPS induces elevated expressions of skeletal system 
+development- and osteoclast differentiation-related genes and inflammation genes 
+at an early stage in the bone. The perturbed functions of these two groups of 
+genes may lead to a faint change in osteogenesis at an early stage of LPS 
+stimulation. Suppressed bone formation was found at later stages in response to 
+LPS stimulation.

@@ -1,0 +1,22 @@
+Collagen-induced arthritis (CIA) is an animal model, which closely resembles 
+human rheumatoid arthritis (RA) in pathogenesis and pathology. Evidence suggests 
+that the inhibition of T lymphocytes or their functions can alleviate the 
+progression of arthritis. So the administration of arthritogenic T cell receptor 
+(TCR) variable region peptide or DNA vaccines encoding pathogenic TCR Vbeta 
+variable region may provide useful information for designing specific 
+immunotherapies against autoimmune diseases. Heat shock proteins (HSPs) have the 
+function of raising antigenic immunogenicity and HSP70 has a protective effect 
+against arthritis. We previously demonstrated the presence of pathogenic 
+predominant T cell receptor Vbeta5.2 and Vbeta8.2 clonotypes in the joints of 
+CIA rats. In this study, we constructed the recombinant eukaryotic expression 
+vectors pTARGET-TCR Vbeta5.2/8.2-HSP70, and evaluated their protective effects 
+on CIA rats. Protective effects were observed in CIA rats by injecting these 
+recombinant DNA vaccines, which could alleviate arthritis index, decrease the 
+levels of IFN-gamma and anti-CII antibody in serum, and increase the levels of 
+IL-4. Pathological changes were not as serious as those observed in control CIA 
+rats. The rat injected with two combined vaccines showed better protective 
+effects than CIA rats administered with individual vaccine. These results showed 
+that recombinant DNA vaccines pTARGET-TCR Vbeta5.2-HSP70 and pTARGET-TCR 
+Vbeta8.2-HSP70 could significantly alleviate the arthritic symptoms of CIA rats, 
+and better protective effects could be achieved if these two vaccines were used 
+in combination.

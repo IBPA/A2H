@@ -1,0 +1,16 @@
+The expression levels of cytokines and chemokines are strictly regulated at 
+transcriptional and post-transcriptional levels. These small proteins are 
+closely related to inflammatory diseases such as rheumatoid arthritis (RA). The 
+purpose of this review is to highlight the potential utilization of 
+tristetraprolin (TTP) as a therapeutic target in treating RA. TTP is the most 
+notable and well-characterized RNA-binding protein that destabilizes mRNA of 
+pro-inflammatory cytokines. TTP is thought to play an important role in RA 
+because its target mRNA includes a lot of inflammatory cytokines such as TNFα. 
+Post-translational modifications, especially phosphorylation, seem to be 
+critical for the anti-inflammatory effects of TTP. Importantly, various mouse 
+models, many of which are consistent with in vitro studies, are now available to 
+elicit a more detailed understanding of the pathogenic role of TTP. The results 
+of these multidisciplinary studies indicate that it is possible to improve 
+inflammation by controlling TTP activity. Through this review, I propose that 
+the use of recently developed mouse models and establishment of clever designs 
+to target TTP will greatly contribute to future drug development to treat RA.

@@ -1,0 +1,19 @@
+A subset of murine T lymphocytes sharing receptor structures with natural killer 
+cells, named natural killer T cells, has characteristics distinct from 
+conventional T cells and natural killer cells. The DBA/1 strain commonly used 
+for collagen-induced arthritis induction does not express the natural killer 1.1 
+molecule, a marker for defining murine natural killer T cells. Therefore, 
+collagen-induced arthritis was induced in the C57BL/6 strain carrying natural 
+killer 1.1 marker and the role of natural killer T cells was examined in this 
+model. The collagen-induced arthritis was induced successfully in the C57/BL6 
+strain with near 70% incidence. Lower percentages of natural killer T cells in 
+lymphoid organs including spleen and lymph node and higher percentages of 
+natural killer T cells in synovium were found in mice with severe inflamed 
+joints as compared with those with mild inflamed joints. The results suggested 
+an infiltration of natural killer 1.1+ CD3+ natural killer T cells into inflamed 
+synovium in the model of collagen-induced arthritis. Although the preliminary 
+results of natural killer 1.1 monoclonal antibody depletion experiments failed 
+to alleviate the gravity of arthritis, such a C57BL/6 mouse model of 
+collagen-induced arthritis may provide a tool in the study of therapeutic 
+manipulation of natural killerT cells in human autoimmune diseases such as 
+rheumatoid arthritis.

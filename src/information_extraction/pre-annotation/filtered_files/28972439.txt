@@ -1,0 +1,18 @@
+OBJECTIVES: Suppressor of TCR signaling-2 (STS-2) is one of the RA 
+susceptibility genes identified in genome-wide association studies (GWAS). We 
+tried to verify the involvement of STS-2 on the development of autoimmune 
+arthritis in a mouse model.
+METHODS: STS-2 knock-out (KO) and wild type (WT) mice were immunized with 
+chicken type II collagen (CII). For CD4+ helper T cell (Th) subset analysis, 
+intracellular cytokines in splenocytes and lymph node cells were stained and 
+analyzed by flow cytometry. Regulatory T cell (Treg) function was analyzed by 
+co-culturing effector CD4+T cells and Tregs collected from non-immunized mice.
+RESULTS: CII-immunized STS-2 KO mice developed arthritis more frequently than WT 
+mice. Although the T cell activation profile and Th subset in spleen and LNs 
+were similar between STS-2 KO and WT mice, STS-2 KO mice showed increased 
+IL-2-producing CD4+T cells in spleen when compared with WT mice. Accordingly, 
+STS-2 KO CD4+T cells promoted IL-2 production by TCR stimulation. However, STS-2 
+KO Tregs normally suppressed T cell proliferation.
+CONCLUSION: We proved that STS-2 is involved in the arthritis development by 
+collagen-induced arthritis. Higher IL-2 production from STS-2 KO T cells is 
+suggested to have a main pathogenic role in arthritis development.

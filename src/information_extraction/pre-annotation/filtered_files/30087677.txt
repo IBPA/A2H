@@ -1,0 +1,25 @@
+Loss-of-function or knockout mouse models have established a fundamental role 
+for the RNAse III enzyme DICER1 in development and tissue morphogenesis and/or 
+homeostasis. These functions are currently assumed to result mainly from the 
+DICER1-dependent biogenesis of microRNAs which exhibit important gene expression 
+regulatory properties. However, non-canonical DICER1 functions have recently 
+emerged. These include interaction with the DNA damage response (DDR) pathway 
+and the processing of cytotoxic non-coding RNAs, suggesting that DICER1 might 
+also participate in the regulation of major cellular processes through 
+miRNA-independent mechanisms. Recent findings indicated that reduced Dicer1 
+expression, which correlates with worsened symptoms in mouse models of joint 
+inflammation, is also noted in fibroblast-like synoviocytes (FLS) harvested from 
+rheumatoid arthritis (RA) patients, as opposed to FLS cultured from biopsies of 
+osteoarthritic patients. In addition, low DICER1 levels are associated with the 
+establishment of cellular stress and its associated responses, such as cellular 
+senescence. Senescent and/or stressed cells are associated with an inflammatory 
+secretome (cytokines and chemokines), as well as with "find-me" and "eat-me" 
+signals which will attract and activate the innate immune compartment (NK cells, 
+macrophages, and neutrophils) to be eliminated. Failure of this 
+immunosurveillance mechanism and improper restauration of homeostasis could lead 
+to the establishment of a systemic and chronic inflammatory state. In this 
+review, we suggest that reduced DICER1 expression contributes to a vicious cycle 
+during which accumulating inflammation and premature senescence, combined to 
+inadequate innate immunity responses, creates the appropriate conditions for the 
+initiation and/or progression of autoimmune-autoinflammatory diseases, such as 
+RA.

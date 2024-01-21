@@ -1,0 +1,27 @@
+OBJECTIVES: Rat collagen II-induced arthritis is a model of chronic inflammation 
+induced by mycobacterium butyricum and collagen II. It is characterized by 
+similar pathophysiological and pathobiochemical changes as rheumatoid arthritis 
+(RA) in humans. In the present study, the biochemical effects of vitamin E and 
+allopurinol (Allo) on RA of rats were investigated.
+METHODS: Forty male rats were divided into four groups (10 rats each): control 
+group, collagen II-induced RA group (CII group), CII group treated with 
+allopurinol (CII+ Allo), and CII group treated with vitamin E (CII + Vit E). 
+After 6 weeks of treatment, the plasma levels of lipid peroxides (LPO), nitric 
+oxide (NO), ceruloplasmin (CP), superoxide dismutase (SOD), uric acid (UA) and 
+glutathione (GSH) were detected using colorimetric methods. The plasma levels of 
+PGE2 were measured using ELISA assay. The plasma levels of copper (Cu) and zinc 
+(Zn) were determined using atomic absorption spectrometer.
+RESULTS: In CII treated group, the levels of LPO, NO, PGE2, UA, CP and Cu were 
+significantly higher, but the levels of SOD, GSH and Zn were significantly lower 
+than controls. In CII + Allo treated group, the levels of SOD and GSH were 
+significantly increased, but the levels of PGE2, LPO, NO, UA, Cu and CP were 
+significantly decreased in comparison with CII-treated group. The levels of SOD, 
+GSH and Zn were significantly increased, but the levels of PGE2, NO and CP were 
+significantly decreased in the vitamin E treated group in comparison with 
+CII-treated group. The levels of PGE2, LPO, Cu and Zn were significantly lower 
+in vitamin E treated group than Allo-treated group. In conclusion, the study 
+suggests that proper antioxidant intake management may reduce free radical 
+generation and improve antioxidant status in RA. Allopurinol and vitamins E may 
+effectively normalize in different degrees the impaired the oxidant/antioxidant 
+system and may be useful in delaying the complication of RA. Moreover, they 
+display anti-inflammatory action by decreasing PGE2 level in RA.

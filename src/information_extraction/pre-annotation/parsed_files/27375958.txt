@@ -1,0 +1,20 @@
+Clostridium difficile is the leading cause of nosocomial infections in the 
+United States, adding billions of dollars per year to health care costs. A 
+vaccine targeted against the bacterium would be extremely beneficial in 
+decreasing the morbidity and mortality caused by C. difficile-associated 
+disease; a vaccine directed against a colonization factor would hinder the 
+spread of the bacterium as well as prevent disease. Type IV pili (T4Ps) are 
+extracellular appendages composed of protein monomers called pilins. They are 
+involved in adhesion and colonization in a wide variety of bacteria and archaea, 
+and are putative colonization factors in C. difficile. We hypothesized that 
+vaccinating mice with pilins would lead to generation of anti-pilin antibodies, 
+and would protect against C. difficile challenge. We found that immunizing 
+C57Bl/6 mice with various pilins, whether combined or as individual proteins, 
+led to low anti-pilin antibody titers and no protection upon C. difficile 
+challenge. Passive transfer of anti-pilin antibodies led to high serum 
+anti-pilin IgG titers, but to undetectable fecal anti-pilin IgG titers and did 
+not protect against challenge. The low antibody titers observed in these 
+experiments may be due to the particular strain of mice used. Further 
+experiments, possibly with a different animal model of C. difficile infection, 
+are needed to determine if an anti-T4P vaccine would be protective against C. 
+difficile infection.

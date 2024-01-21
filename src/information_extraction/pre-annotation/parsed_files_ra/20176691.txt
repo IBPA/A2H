@@ -1,0 +1,23 @@
+Daphnetin has been developed as an oral medicine for treatment of coagulation 
+disorders and rheumatoid arthritis in China, but its in vitro metabolism remains 
+unknown. In the present study, the UDP-glucuronosyltransferase (UGT) conjugation 
+pathways of daphnetin were characterized. Two metabolites, 7-O-monoglucuronide 
+daphnetin (M-1) and 8-O-monoglucuronide daphnetin (M-2), were identified by 
+liquid chromatography/mass spectrometry and NMR when daphnetin was incubated, 
+respectively, with liver microsomes from human (HLM), rat (RLM), and minipig 
+(PLM) and human intestinal microsomes (HIM) in the presence of UDP-glucuronic 
+acid. Screening assays with 12 human recombinant UGTs demonstrated that the 
+formations of M-1 and M-2 were almost exclusively catalyzed by UGT1A9 and 
+UGT1A6, whereas M-1 was formed to a minor extent by UGT1A3, 1A4, 1A7, 1A8, and 
+1A10 at a high substrate concentration. Kinetics studies, chemical inhibition, 
+and correlation analysis were used to demonstrate that human UGT1A9 and UGT1A6 
+were major isoforms involved in the daphnetin glucuronidations in HLM and HIM. 
+By in vitro-in vivo extrapolation of the kinetic data measured in HLM, the 
+hepatic clearance and the corresponding hepatic extraction ratio were estimated 
+to be 19.3 ml/min/kg b.wt. and 0.93, respectively, suggesting that human 
+clearance of daphnetin via the glucuronidation is extensive. Chemical inhibition 
+of daphnetin glucuronidation in HLM, RLM, and PLM showed large species 
+differences although the metabolites were formed similarly among the species. In 
+conclusion, the UGT conjugation pathways of daphnetin were fully elucidated and 
+its C-8 phenol group was more selectively catalyzed by UGTs than by the C-7 
+phenol.

@@ -1,0 +1,7 @@
+In a pursuit to identify reversible and selective BTK inhibitors, two series 
+based on 7H-pyrrolo[2,3-d]pyrimidine and 1H-pyrrolo[2,3-b]pyridine as the hinge 
+binding core, have been identified. Structure activity relationship (SAR) 
+exploration led to identification of two advanced lead molecules, 11 and 13, 
+which demonstrated desired BTK inhibitory potency in different cellular assays, 
+excellent selectivity in a panel of 50 diverse kinases, favorable in vivo PK 
+properties in mice and anti-arthritic effect in a mouse model of CIA.

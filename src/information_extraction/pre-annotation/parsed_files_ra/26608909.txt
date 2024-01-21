@@ -1,0 +1,23 @@
+Chronic inflammation is associated with immunosuppression and downregulated 
+expression of the TCR CD247. In searching for new biomarkers that could validate 
+the impaired host immune status under chronic inflammatory conditions, we 
+discovered that sorting nexin 9 (SNX9), a protein that participates in early 
+stages of clathrin-mediated endocytosis, is downregulated as well under such 
+conditions. SNX9 expression was affected earlier than CD247 by the generated 
+harmful environment, suggesting that it is a potential marker sensing the 
+generated immunosuppressive condition. We found that myeloid-derived suppressor 
+cells, which are elevated in the course of chronic inflammation, are responsible 
+for the observed SNX9 reduced expression. Moreover, SNX9 downregulation is 
+reversible, as its expression levels return to normal and immune functions are 
+restored when the inflammatory response and/or myeloid-derived suppressor cells 
+are neutralized. SNX9 downregulation was detected in numerous mouse models for 
+pathologies characterized by chronic inflammation such as chronic infection 
+(Leishmania donovani), cancer (melanoma and colorectal carcinoma), and an 
+autoimmune disease (rheumatoid arthritis). Interestingly, reduced levels of SNX9 
+were also observed in blood samples from colorectal cancer patients, emphasizing 
+the feasibility of its use as a diagnostic and prognostic biomarker sensing the 
+host's immune status and inflammatory stage. Our new discovery of SNX9 as being 
+regulated by chronic inflammation and its association with immunosuppression, in 
+addition to the CD247 regulation under such conditions, show the global impact 
+of chronic inflammation and the generated immune environment on different 
+cellular pathways in a diverse spectrum of diseases.

@@ -1,0 +1,23 @@
+ETHNOPHARMACOLOGICAL RELEVANCE: Huo Luo Xiao Ling Dan (HLXLD), a traditional 
+Chinese medicine (TCM), is commonly used for the treatment of rheumatoid 
+arthritis (RA).
+AIM OF THE STUDY: To explore the potential therapeutic mechanism of HLXLD on 
+anti-inflammatory activity.
+MATERIALS AND METHODS: A metabolomic approach based on UFLC-MS/MS to profile 
+arachidonic acid (AA) metabolic changes was used. The cyclooxygenase (COX) and 
+lipoxygenase (LOX) catalyzed metabolites in plasma were quantified on 7, 14, 21, 
+and 28 days after the rats injected with Complete Freund's adjuvant and orally 
+administrated with HLXLD, methotrexate and dexamethasone in parallel as the 
+positive control drugs.
+RESULTS: Nineteen metabolites involved in COX and LOX pathways in RA model group 
+were significant increased compared with normal group (P < 0.05), including 
+12-hydroxyeicosatetraenoic acid (12-HETE), 15-HETE, 8-HETE, leukotriene 
+B4(LTB4), prostaglandin E2 (PGE2), PGI2, PGD2, PGF2α, thromboxane B2 (TXB2), 
+etc. From day 7 to day 28, the trajectory direction of HLXLD group and positive 
+control groups gradually moved towards the initial space, and the concentrations 
+of AA and its metabolites after HLXLD treatment were significantly reduced in 
+dual pathways compared to control groups.
+CONCLUSION: HLXLD induced a substantial change in the AA metabolic profiles 
+through refrain the expression of COX and LOX. The present investigation also 
+highlights that distinct ingredients of this formula tend to inhibit different 
+target to achieve a therapeutic effect.

@@ -1,0 +1,14 @@
+B-cell activating factor (BAFF) levels are increased in rheumatoid arthritis, 
+lupus and primary Sjögren's syndrome (pSS). However, BAFF contribution to 
+pathogenesis is not completely understood. In pSS, immune infiltration of the 
+salivary and lacrimal glands leads to xerostomia and xerophtalmia. Glandular B 
+cell hyperactivation, differentiation into germinal center (GC)-like structures 
+and plasma cell accumulation are histopathological hallmarks that were 
+attributed to increased BAFF. Here, we experimentally tested this hypothesis by 
+overexpressing BAFF in a mouse model of pSS. BAFF overexpression enhanced 
+lymphocytic infiltration and MHCII expression on B cells. Increased BAFF also 
+induced B cell differentiation into GC B cells within the autoimmune target 
+tissue. However, even in these conditions, GC B cells only accounted for <1% of 
+glandular B cells, demonstrating that BAFF is not efficiently promoting ectopic 
+GC formation in pSS and warranting further investigation of therapeutics 
+targeting both BAFF and the related TNF-family member APRIL.

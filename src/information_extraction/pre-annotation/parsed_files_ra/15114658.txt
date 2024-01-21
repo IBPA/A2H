@@ -1,0 +1,19 @@
+The use of HLA class II-transgenic (Tg) mice has facilitated identification of 
+antigenic T cell epitopes that may contribute to inflammation in T cell-mediated 
+diseases such as rheumatoid arthritis and multiple sclerosis (MS). In this 
+study, we compared the encephalitogenic activity of three DR2-restricted myelin 
+determinants [mouse (m) myelin oligodendrocyte glycoprotein (MOG)-35-55, human 
+(h)MOG-35-55 and myelin basic protein (MBP)-87-99] in Tg mice expressing the 
+MS-associated DR2 allele, DRB1*1501. We found that mMOG-35-55 peptide was 
+strongly immunogenic and induced moderately severe chronic experimental 
+autoimmune encephalomyelitis (EAE) with white matter lesions after a single 
+injection in Freund's complete adjuvant followed by pertussis toxin. hMOG-35-55 
+peptide,which differs from mMOG-35-55 peptide by a proline for serine 
+substitution at position 42, was also immunogenic, but not encephalitogenic, and 
+was only partially cross-reactive with mMOG-35-55. In contrast, MBP-87-99, which 
+can induce EAE in double-Tg mice expressing both HLA-DR2 and a human 
+MBP-specific TCR, was completely non-encephalitogenic in HLA-DR2-Tg mice lacking 
+the human TCR transgene. These findings demonstrate potent encephalitogenic 
+activity of the mMOG-35-55 peptide in association with HLA-DR2, thus providing a 
+strong rationale for further study of hMOG-35-55 peptide as a potential 
+pathogenic determinant in humans.

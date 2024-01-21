@@ -1,0 +1,6 @@
+IL-17 was discovered in 1995/96 as a T cell derived cytokine with effects on 
+inflammation and neutrophil activation. In 2006, the precise cell source of 
+IL-17 was identified in the mouse, and these cells were named Th17 cells. They 
+play a role in various human diseases associated with inflammation and 
+destruction such as rheumatoid arthritis, psoriasis, Crohn's disease, multiple 
+sclerosis, where IL-17 can be seen as a therapeutic target.

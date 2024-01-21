@@ -1,0 +1,14 @@
+We identified novel potent inhibitors of p38 MAP kinase using structure-based 
+design strategy. X-ray crystallography showed that when p38 MAP kinase is 
+complexed with TAK-715 (1) in a co-crystal structure, Phe169 adopts two 
+conformations, where one interacts with 1 and the other shows no interaction 
+with 1. Our structure-based design strategy shows that these two conformations 
+converge into one via enhanced protein-ligand hydrophobic interactions. 
+According to the strategy, we focused on scaffold transformation to identify 
+imidazo[1,2-b]pyridazine derivatives as potent inhibitors of p38 MAP kinase. 
+Among the herein described and evaluated compounds, N-oxide 16 exhibited potent 
+inhibition of p38 MAP kinase and LPS-induced TNF-α production in human monocytic 
+THP-1 cells, and significant in vivo efficacy in rat collagen-induced arthritis 
+models. In this article, we report the discovery of potent, selective and orally 
+bioavailable imidazo[1,2-b]pyridazine-based p38 MAP kinase inhibitors with 
+pyridine N-oxide group.

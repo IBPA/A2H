@@ -1,0 +1,17 @@
+Inducible nitric oxide synthase (iNOS) in vascular smooth muscle cells (VSMCs) 
+is upregulated in arterial injury and plays a role in regulating VSMC 
+proliferation and restenosis. Inflammatory cytokines [e.g., interleukin-1beta 
+(IL-1beta)] released during vascular injury induce iNOS. Small GTP-binding 
+proteins of the Ras superfamily play a major role in IL-1beta-dependent 
+signaling pathways. In this study, we examined the role of Rho GTPases in 
+regulating iNOS expression in VSMCs. Treatment of VSMCs with mevastatin, which 
+inhibits isoprenylation of Rho and other small GTP-binding proteins, produced 
+significantly higher amounts of IL-1beta-evoked NO and iNOS protein compared 
+with control. Similarly, bacterial toxins [Toxin B from Clostridium difficile 
+and C3 ADP-ribosyl transferase (C3) toxin from Clostridium botulinium] that 
+specifically inactivate Rho proteins increased NOS products (NO and citrulline) 
+and iNOS expression. Toxin B increased the activity of iNOS promoter-reporter 
+construct in VSMCs. Both toxins enhanced IL-1beta-stimulated iNOS expression and 
+NO production. These data demonstrate for the first time that inhibition of Rho 
+induces iNOS and suggest a role for Rho protein in IL-1beta-stimulated NO 
+production in VSMCs.

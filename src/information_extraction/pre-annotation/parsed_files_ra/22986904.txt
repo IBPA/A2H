@@ -1,0 +1,18 @@
+OBJECTIVE: The peptidylarginine deiminase 4 (PAD4) gene and PAD4 autoantibodies 
+have been associated with rheumatoid arthritis (RA) and its pathogenesis. 
+Therefore, methods for accurately determining their levels in the peripheral 
+blood of these patients would be a diagnostic asset. The objective of our study 
+was to adapt the enzyme-linked immunosorbent assay (ELISA) method for evaluating 
+PAD4 levels in human blood.
+METHODS: We prepared recombinant human (h)PAD1, -2, -3, and -4 proteins to 
+develop mouse monoclonal antibodies specific to hPAD4. We then generated six 
+monoclonal antibodies against hPAD4 and developed two new sandwich ELISA methods 
+for evaluating hPAD4 and PAD4 autoantibodies in the peripheral blood from 32 
+patients with RA, ten patients with osteoarthrosis, and 20 healthy individuals.
+RESULTS: The distribution of hPAD4 in the patients' plasma was determined. Two 
+populations were identified: one group with high hPAD4 levels (>0.57 ng/mL) and 
+a second group with near-zero levels (<0.1 ng/mL). Most patients approximating 
+zero hPAD4 levels had PAD4 autoantibodies. In contrast, most of those with 
+higher plasma hPAD4 levels did not have detectable PAD4 autoantibodies.
+CONCLUSION: The combination of these sandwich ELISA methods may be a potentially 
+beneficial clinical tool for diagnosing RA.

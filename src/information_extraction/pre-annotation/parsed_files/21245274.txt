@@ -1,0 +1,18 @@
+Clostridium difficile is a spore-forming bacterium that infects the lower 
+intestinal tract of humans and is the most common known cause of diarrhea among 
+hospitalized patients. Clostridium difficile colitis is mediated by toxins and 
+develops during or following antibiotic administration. We have used a murine 
+model of C. difficile infection, which reproduces the major features of the 
+human disease, to study the effect of innate immune activation on resistance to 
+C. difficile infection. We found that administration of purified 
+Salmonella-derived flagellin, a Toll-like receptor 5 (TLR5) agonist, protects 
+mice from C. difficile colitis by delaying C. difficile growth and toxin 
+production in the colon and cecum. TLR5 stimulation significantly improves 
+pathological changes in the cecum and colon of C. difficile-infected mice and 
+reduces epithelial cell loss. Flagellin treatment reduces epithelial apoptosis 
+in the large intestine, thereby protecting the integrity of the intestinal 
+epithelial barrier during C. difficile infection. We demonstrate that restoring 
+intestinal innate immune tone by TLR stimulation in antibiotic-treated mice 
+ameliorates intestinal inflammation and prevents death from C. difficile 
+colitis, potentially providing an approach to prevent C. difficile-induced 
+pathology.

@@ -1,0 +1,25 @@
+OBJECTIVE: Rheumatoid arthritis (RA) is a debilitating autoimmune disease, and 
+smoking is an important environmental factor in a subset of RA patients. A role 
+of the cholinergic antiinflammatory pathway in autoimmune inflammation is 
+increasingly being realized. Nicotine is a major component of cigarette smoke, 
+and it stimulates the α7 nicotinic acetylcholine receptors. Therefore, defining 
+the mechanisms underlying the immunomodulatory effects of nicotine on arthritis 
+is of high relevance. The purpose of this study was to address this issue using 
+the rat adjuvant-induced arthritis (AIA) model of human RA.
+METHODS: Lewis rats were immunized subcutaneously with heat-killed Mycobacterium 
+tuberculosis H37Ra for disease induction. Rats were treated with nicotine 
+intraperitoneally either before (pretreatment) or after (posttreatment) the 
+onset of AIA. Control rats received the vehicle (buffer) in place of nicotine. 
+The severity of arthritis was assessed and graded. The draining lymph node cells 
+were tested for T cell proliferative and cytokine responses against the 
+disease-related antigen mycobacterial heat-shock protein 65. The sera were 
+tested for anti-cyclic citrullinated peptide (anti-CCP) antibodies and 
+anti-mycobacterial Hsp65 antibodies.
+RESULTS: Nicotine pretreatment aggravated the arthritis, whereas nicotine 
+posttreatment suppressed the disease. This altered severity of AIA directly 
+correlated with the levels of the anti-CCP antibodies, of the Th1/Th17 
+cytokines, and of the corresponding dendritic cell-derived cytokines. The 
+majority of these effects on cellular responses could be replicated in vitro.
+CONCLUSION: Nicotine-induced modulation of AIA involves specific alterations in 
+the disease-related cellular and humoral immune responses in AIA. These results 
+are of significance in advancing our understanding of the pathogenesis of RA.

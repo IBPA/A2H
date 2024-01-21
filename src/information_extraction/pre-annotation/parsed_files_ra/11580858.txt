@@ -1,0 +1,14 @@
+The role of the CTLA-4 antigen in the development of autoimmune diseases is well 
+documented, with several autoimmune disorders showing association or linkage 
+with the CTLA-4 locus. Its role in the aetiology of rheumatoid arthritis (RA) 
+however, remains unclear, as the functional studies of the B7-CTLA-4 pathway in 
+mouse models of RA and genetic studies in humans have given contrasting results. 
+We have studied the single nucleotide polymorphism at position +49 (A/G) of the 
+CTLA-4 gene, in a cohort of 421 RA cases and 452 healthy controls from the UK. 
+Despite the high statistical power to detect even a weak susceptibility effect, 
+no significant association was found. We also analysed the distribution of the 
+allele and genotype frequencies with respect to the presence of the shared 
+epitope (a known RA susceptibility factor) and found no statistically 
+significant differences. We conclude that, although the importance of the 
+B7-CTLA-4 interaction in the development of RA can not be excluded, the CTLA-4 
+gene is unlikely to be a predisposing factor to this disease.

@@ -1,0 +1,21 @@
+The inducible NO synthase gene (iNOS) plays a role in a number of chronic and 
+acute conditions, including septic shock and contact hypersensitivity autoimmune 
+diseases, such as rheumatoid arthritis, gastrointestinal disorders, and 
+myocardial ischemia. The iNOS gene is primarily under transcriptional control 
+and is induced in a variety of conditions. The ability to monitor and quantify 
+iNOS expression in vivo may facilitate a better understanding of the role of 
+iNOS in different diseases. In this study, we describe a transgenic mouse 
+(iNos-luc) in which the luciferase reporter is under control of the murine iNOS 
+promoter. In an acute sepsis model produced by injection of IFN-gamma and LPS, 
+we observed an induction of iNOS-driven luciferase activity in the mouse liver. 
+This transgene induction is dose and time dependent and correlated with an 
+increase of liver iNOS protein and iNOS mRNA levels. With this model, we tested 
+11 compounds previously shown to inhibit iNOS induction in vitro or in vivo. 
+Administration of dexamethasone, epigallocatechin gallate, 
+alpha-phenyl-N-tert-butyl nitrone, and ebselen significantly suppressed iNOS 
+transgene induction by IFN-gamma and LPS. We further evaluated the use of the 
+iNos-luc transgenic mice in a zymosan-induced arthritis model. Intra-articular 
+injection of zymosan induced iNos-luc expression in the knee joint. The 
+establishment of the iNos-luc transgenic model provides a valuable tool for 
+studying processes in which the iNOS gene is induced and for screening 
+anti-inflammatory compounds in vivo.

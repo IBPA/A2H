@@ -1,0 +1,20 @@
+AIM: To confirm extracts of activity from Traditional Chinese Medicine 
+TongBiHeJi, study effect on two signaling pathways of T cells and clarify the 
+pharmacological mechanisms of TongBiHeJi.
+METHODS: Concanavalin(ConA) were added successively into rats lymphocytic 
+culture with different extracts of activity from Traditional Chinese Medicine. 
+After 24 hours, CD71 expression rate on rat T lymphocytes activated with ConA 
+was analyzed by flow cytometry. TCR, CD28 and ICOS on T cells were detected 
+after T lymphocytes of rat activated by ConA were cultivated with various 
+EthylAcetate extraction of TongBiHeJi(TBHJ) and Methotrexate (MTX) for 48 hours.
+RESULTS: CD71 expression rate on rat T lymphocytes induced by ConA was increased 
+to 69.7%. TBHJ inhibited the rate of CD3(+);CD71(+); expression(32.5%); ConA 
+up-regulated TCR, CD28 and ICOS expression on T cells obviously. There was 
+different between ConA and positive control significantly(P<0.001). TBHJ could 
+down-regulate obviously TCR, CD28 and ICOS expression on ConA-activated T 
+lymphocytes with Concentration-dependent, especially ICOS. MTX inhibited 
+CD3(+);CD71(+); and CD3(+);TCR(+); expression also.
+CONCLUSION: TBHJ inhibited T cells activation by adjusting two signaling 
+pathways. That implied TBHJ could block CD28-ICOS signaling molecules to induce 
+immunological tolerance. This study provided an experimental basis for 
+application of TongBiHeJi to treatment of rheumatoid arthritis.

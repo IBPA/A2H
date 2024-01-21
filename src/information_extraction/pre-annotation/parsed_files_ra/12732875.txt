@@ -1,0 +1,16 @@
+Rheumatoid arthritis is an autoimmune disease with intra-articular inflammation 
+and synovial hyperplasia that results in progressive degradation of cartilage 
+and bone, in severe cases it causes systemic complications. Recently, biological 
+agents that suppress the activities of proinflammatory cytokines have shown 
+efficacy as antiarthritic drugs, but require frequent administration. Thus, gene 
+transfer approaches are being developed as an alternative approach for targeted, 
+more efficient and sustained delivery of inhibitors of inflammatory cytokines as 
+well as other therapeutic agents. Indeed, the efficacy of gene transfer for the 
+treatment of arthritis has been demonstrated in mouse, rat, rabbit, and horse 
+models of disease whereas the feasibility of the approach has been demonstrated 
+in Phase I clinical trials. In this review, the current status of both 
+preclinical and clinical arthritis gene therapy is presented. In addition, the 
+advantages and disadvantages of different types of vectors, target cells and 
+therapeutic genes being developed for the treatment of arthritis are summarized. 
+Finally, the future directions of the rapidly developed field of arthritis gene 
+therapy are outlined.

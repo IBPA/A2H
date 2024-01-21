@@ -1,0 +1,24 @@
+OBJECTIVE: Chikungunya virus (CHIKV) is a mosquito-borne alphavirus that causes 
+a chronic debilitating polyarthralgia/polyarthritis, for which current 
+treatments are often inadequate. To assess whether new drugs being developed for 
+rheumatoid arthritis (RA) might find utility in the treatment of alphaviral 
+arthritides, we sought to determine whether the inflammatory gene expression 
+signature of CHIKV arthritis shows any similarities with RA or collagen-induced 
+arthritis (CIA), a mouse model of RA.
+METHODS: Using a recently developed animal model of CHIKV arthritis in adult 
+wild-type mice, we generated a consensus CHIKV arthritis gene expression 
+signature, which was used to interrogate publicly available microarray studies 
+of RA and CIA. Pathway analyses were then performed using the overlapping gene 
+signatures.
+RESULTS: Gene set enrichment analysis showed that there was a highly significant 
+overlap in the differentially expressed genes in the CHIKV arthritis model and 
+in RA. This concordance also increased with the severity of RA, as measured by 
+the inflammation score. A highly significant overlap was also seen between CHIKV 
+arthritis and CIA. Pathway analysis revealed that the overlap between these 
+arthritides was spread over a range of different inflammatory processes. 
+Involvement of T cells and interferon-γ (IFNγ) in CHIKV arthritis was confirmed 
+in studies of MHCII-deficient mice and IFNγ-deficient mice, respectively.
+CONCLUSION: These results suggest that RA, a chronic autoimmune arthritis, and 
+CHIKV disease, usually a self-limiting viral arthropathy, share multiple 
+inflammatory processes. New drugs and biologic therapies being developed for RA 
+may thus find application in the treatment of alphaviral arthritides.

@@ -1,0 +1,22 @@
+Rheumatoid arthritis is a systemic autoimmune disease. B cells are likely to 
+play a critical role in arthritis pathogenesis, although it is unclear whether 
+they are necessary for disease induction, autoantibody production, or disease 
+progression. To assess the role of B cells in inflammatory arthritis, B cells 
+were depleted using mouse anti-mouse CD20 mAbs in a mouse model of 
+collagen-induced arthritis. CD20 mAbs effectively depleted mature B cells from 
+adult DBA-1 mice. When B cells were depleted using CD20 mAbs before collagen 
+immunization, there was a delay in disease onset and autoantibody production, 
+with significantly diminished severity of arthritis both clinically and 
+histologically. B cell depletion further delayed disease onset if initiated 
+before, as well as after, collagen immunization. However, in both cases, the 
+eventual reappearance of peripheral B cells triggered autoantibody production 
+and the subsequent development of arthritis in collagen-sensitized mice. By 
+contrast, B cell depletion after collagen immunizations did not have a 
+significant effect on arthritis progression or severity. Thus, disease symptoms 
+were only induced when peripheral B cells and their autoantibody products were 
+present in collagen-immunized mice, documenting a critical role for B cells 
+during the elicitation phase of collagen-induced arthritis. These studies 
+suggest that B cell depletion strategies will be most effective when initiated 
+early in the development of inflammatory arthritis, with sustained B cell 
+depletion required to inhibit the production of isotype-switched pathogenic Abs 
+and the evolution of joint inflammation and destruction.

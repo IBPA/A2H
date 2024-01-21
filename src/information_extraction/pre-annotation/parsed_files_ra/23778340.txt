@@ -1,0 +1,26 @@
+OBJECTIVE: Leukocyte-associated immunoglobulin-like receptor-1 is an inhibitory 
+receptor primarily expressed by immune cells. This study was undertaken to 
+define the role of this molecule in osteoclast differentiation and rheumatoid 
+arthritis.
+METHODS: In vitro osteoclast assays were performed to characterize the role of 
+Leukocyte-associated immunoglobulin-like receptor-1 in murine and human 
+osteoclastogenesis. Human Leukocyte-associated immunoglobulin-like receptor-1 
+expression was assessed by immunohistochemistry staining in the synovium of 
+patients with rheumatoid arthritis. The levels of soluble Human 
+Leukocyte-associated immunoglobulin-like receptor-1 were determined by 
+enzyme-linked immunosorbent assay.
+RESULTS: We found that multinucleated osteoclast formation from mouse bone 
+marrow cells was inhibited by treatment with a monoclonal antibody against mouse 
+Leukocyte-associated immunoglobulin-like receptor-1 in vitro. By 
+immunohistochemistry, we found that Leukocyte-associated immunoglobulin-like 
+receptor-1 was mainly expressed by macrophages in the inflamed synovial tissue 
+of rheumatoid arthritis patients. In addition, serum and synovial fluid levels 
+of soluble Leukocyte-associated immunoglobulin-like receptor-1 were higher in 
+rheumatoid arthritis patients compared to healthy controls or osteoarthritis 
+patients. Moreover, overexpression of Leukocyte-associated immunoglobulin-like 
+receptor-1 in CD14+ monocytes from healthy volunteers also inhibited human 
+osteoclastogenesis.
+CONCLUSION: Collectively, these data demonstrate for the first time that 
+Leukocyte-associated immunoglobulin-like receptor-1 inhibits osteoclastogenesis. 
+Therefore, these results may have therapeutic implications for the treatment of 
+rheumatoid arthritis.

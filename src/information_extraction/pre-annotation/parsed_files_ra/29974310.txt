@@ -1,0 +1,15 @@
+Triptolide has been widely reported to exhibit potential therapeutic value in 
+multiple inflammatory diseases, such as rheumatoid arthritis, systemic lupus 
+erythematosus, and psoriasis. Although its safety and efficacy as an 
+anti-inflammatory agent have been verified by many studies, the effect of 
+triptolide on osteoarthritis (OA) was not clearly understood. In this study, we 
+found that triptolide prevented OA development in a surgical destabilization of 
+the medial meniscus (DMM) mouse model. In addition, triptolide inhibited both 
+DMM-induced and LPS-induced expression of pro-inflammatory cytokines in the 
+human monocytic cell line THP-1. Further mechanistic studies showed that the 
+reduction of pro-inflammatory cytokines by triptolide was mediated by the 
+upregulation of nucleotide-binding oligomerization domain-like receptor family 
+pyrin domain-containing protein 3 (NLRP3) and downregulation of caspase-1. 
+Finally, we identified that hsa-miR-20b, a microRNA targeting the NLRP3 gene, 
+was downregulated by triptolide. This study provides a novel insight into the 
+effect on triptolide in preventing OA pathogenesis.

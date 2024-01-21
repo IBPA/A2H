@@ -1,0 +1,15 @@
+Collagen-induced arthritis (CIA) is an experimental autoimmune disease that can 
+be elicited in susceptible strains of rodents (rat and mouse) and nonhuman 
+primates by immunization with type II collagen (CII), the major constituent 
+protein of articular cartilage. Because of the important similarities between 
+CIA and rheumatoid arthritis, this experimental model of autoimmune arthritis 
+has been the subject of extensive investigation in several laboratories. 
+Protocols for CIA are described in this unit for both the mouse model and the 
+rat model. In addition, protocols are included for the purification of CII from 
+bovine articular joints and chicken sternums, for the purification of collagen 
+a1(II) chains, and for the purification of fragments of these chains following 
+cyanogen bromide (CNBr) digestion. The preparation of CII is a time-consuming 
+procedure but is usually required because of the scarcity and expense of 
+commercial sources of purified native CII. In addition, support protocols are 
+provided for assessing the severity of inflammation following CIA and for 
+measuring B and T cell responses to CII.

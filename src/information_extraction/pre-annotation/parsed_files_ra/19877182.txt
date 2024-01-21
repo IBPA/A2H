@@ -1,0 +1,23 @@
+The treatment of primary biliary cirrhosis (PBC) with conventional 
+immunosuppressive drugs has been relatively disappointing and there have been 
+few efforts in defining a role for the newer biological agents useful in 
+rheumatoid arthritis and other systemic autoimmune diseases. In this study we 
+took advantage of transforming growth factor-beta (TGF-beta) receptor II 
+dominant negative (dnTGF-betaRII) mice, a mouse model of autoimmune cholangitis, 
+to address the therapeutic efficacy of B-cell depletion using anti-CD20. Mice 
+were treated at either 4-6 weeks of age or beginning at 20-22 weeks of age with 
+intraperitoneal injections of anti-CD20 every 2 weeks. We quantitated B-cell 
+levels in all mice as well as antimitochondrial antibodies (AMA), serum and 
+hepatic levels of proinflammatory cytokines, and histopathology of liver and 
+colon. In mice whose treatment was initiated at 4-6 weeks of age, anti-CD20 
+therapy demonstrated a significantly lower incidence of liver inflammation 
+associated with reduced numbers of activated hepatic CD8(+) T cells. However, 
+colon inflammation was exacerbated. In contrast, in mice treated at 20-22 weeks 
+of age, anti-CD20 therapy had relatively little effect on either liver or colon 
+disease. As expected, all treated animals had reduced levels of B cells, absence 
+of AMA, and increased levels in sera of tumor necrosis factor alpha (TNF-alpha), 
+interleukin 6 (IL-6), and chemokine (C-C motif) ligand (CCL2) (monocyte 
+chemoattractant protein 1 [MCP-1]).
+CONCLUSION: These data suggest potential usage of anti-CD20 in early PBC 
+resistant to other modalities, but raise a cautionary note regarding the use of 
+anti-CD20 in inflammatory bowel disease.

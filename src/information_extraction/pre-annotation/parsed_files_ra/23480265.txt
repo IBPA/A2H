@@ -1,0 +1,19 @@
+BACKGROUND: The broad immunological gap between inbred SPF-raised strains of 
+mice and rats and the diverse rheumatoid arthritis (RA) patient population 
+limits the predictive value of the existing disease models for clinical success 
+of new therapies, in particular for those using highly specific biologicals.
+OBJECTIVE: This review argues that because of their closer immunological and 
+physiological proximity to patients, disease models in non-human primates (NHPs) 
+may bridge this gap and help reduce the failure of many (± 80%) new therapies in 
+clinical trials. In various research areas, NHPs are an accepted intermediate 
+between disease models in rodents and the ultimate introduction for clinical use 
+in patients. However, with the exception of transplantation, this is not the 
+case for immune-mediated inflammatory disorders, such as RA, although useful 
+preclinical models are being developed.
+METHOD: The validity and use of the rhesus monkey model of collagen-induced 
+arthritis as a preclinical RA model is reviewed. The discussion comprises 
+present genetic and immunological aspects, biomarkers, and an overview of 
+published preclinical therapy evaluations.
+CONCLUSION: It is time to consider the use of NHPs with a greater evolutionary 
+proximity to humans as models for preclinical evaluation of new human-specific 
+drugs for arthritic disease.

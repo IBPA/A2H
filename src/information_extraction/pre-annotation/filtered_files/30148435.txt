@@ -1,0 +1,25 @@
+OBJECTIVES: Rheumatoid arthritis is associated with an increased cardiovascular 
+risk, secondary to endothelial dysfunction. There is accumulating evidence that 
+methotrexate reduces cardiovascular risk in rheumatoid arthritis, but the 
+mechanisms involved are still unknown. In this study, we aimed to determine the 
+effect of methotrexate on endothelial function and traditional cardiovascular 
+risk factors in the adjuvant-induced arthritis (AIA) rat model.
+METHODS: On the first signs of arthritis, methotrexate (1 mg/kg/week, s.c.) or 
+saline (Vehicle) was administered to AIA for 3 weeks. Endothelial function was 
+studied in aortic rings relaxed with acetylcholine in the presence or not of 
+inhibitors of nitric oxide synthase, cyclooxygenase-2, arginase, EDHF and 
+superoxide anions production. Arthritis and radiological scores, blood pressure 
+and blood levels of cytokines, triglycerides, cholesterol, homocysteine and 
+BMP-4 were measured.
+RESULTS: Although methotrexate significantly reduced the arthritis score, it had 
+no effect on Ach-induced relaxation. As regards mechanisms, methotrexate 
+increased nitric oxide synthase activity and reduced the superoxide anions 
+production but did not change arginase, cyclooxygenase-2 and EDHF pathways. 
+Methotrexate did not change the radiological score or blood pressure, lipid, 
+glucose and homocysteine levels. By contrast, methotrexate significantly reduced 
+plasma IL-1β and TNF-α levels and increased serum BMP-4 level.
+CONCLUSIONS: Despite a reduction of clinical and biological inflammation, 
+methotrexate did not improve endothelial function in AIA rats. Overall data 
+suggest that mechanisms other than the ED reduction are likely involved, and 
+remain to be elucidated to better understand the cardiovascular benefits of 
+methotrexate in rheumatoid arthritis.

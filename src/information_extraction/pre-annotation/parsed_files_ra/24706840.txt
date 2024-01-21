@@ -1,0 +1,19 @@
+Porphyromonas gingivalis is the major causative agent of periodontitis, and it 
+may also be involved in the development of systemic diseases (atherosclerosis, 
+rheumatoid arthritis). P. gingivalis is found on and within oral and gingival 
+epithelial cells following binding to surface components of host cells, which 
+serve as receptors for the bacterium. Evidence is presented in this study that 
+shows that transglutaminase 2 (TG2) plays a critical role in the adherence of P. 
+gingivalis to host cells. Studies of confocal microscopy indicate colocalization 
+of P. gingivalis with TG2 on the surface of HEp-2 epithelial cells, with 
+clusters of TG2 seen at bacterial attachment sites. By silencing the expression 
+of TG2 with siRNA in HEp-2 cells, P. gingivalis association was greatly 
+diminished. The bacterium does not bind well to a mouse fibroblast cell line 
+that produces low amounts of surface TG2, but binding can be restored by 
+introduction of TG2 expressed on a plasmid. TG2 can form very tight complexes 
+with fibronectin (FN), and the complementary binding sites of the two proteins 
+are known. A synthetic peptide that mimics the main FN-binding sequence of TG2 
+blocks the formation of TG2-FN complexes and is highly effective in inhibiting 
+adherence of P. gingivalis to host cells. These findings provide evidence of a 
+role for cell-surface TG2 in bacterial attachment and subsequent 
+internalization.

@@ -1,0 +1,18 @@
+The global prevalence of severe Clostridium difficile infection highlights the 
+profound clinical significance of clostridial glucosylating toxins. Virulence is 
+dependent on the autoactivation of a toxin cysteine protease, which is promoted 
+by the allosteric cofactor inositol hexakisphosphate (InsP(6)). Host mechanisms 
+that protect against such exotoxins are poorly understood. It is increasingly 
+appreciated that the pleiotropic functions attributed to nitric oxide (NO), 
+including host immunity, are in large part mediated by S-nitrosylation of 
+proteins. Here we show that C. difficile toxins are S-nitrosylated by the 
+infected host and that S-nitrosylation attenuates virulence by inhibiting toxin 
+self-cleavage and cell entry. Notably, InsP(6)- and inositol pyrophosphate 
+(InsP(7))-induced conformational changes in the toxin enabled host 
+S-nitrosothiols to transnitrosylate the toxin catalytic cysteine, which forms 
+part of a structurally conserved nitrosylation motif. Moreover, treatment with 
+exogenous InsP(6) enhanced the therapeutic actions of oral S-nitrosothiols in 
+mouse models of C. difficile infection. Allostery in bacterial proteins has thus 
+been successfully exploited in the evolutionary development of 
+nitrosothiol-based innate immunity and may provide an avenue to new therapeutic 
+approaches.

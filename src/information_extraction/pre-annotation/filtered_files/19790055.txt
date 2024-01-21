@@ -1,0 +1,29 @@
+OBJECTIVE: Studies have suggested that rheumatoid arthritis (RA) and 
+osteoarthritis (OA) share common characteristics. The highly selective A(3) 
+adenosine receptor agonist CF101 was recently defined as a potent 
+antiinflammatory agent for the treatment of RA. The purpose of this study was to 
+examine the effects of CF101 on the clinical and pathologic manifestations of OA 
+in an experimental animal model.
+METHODS: OA was induced in rats by monosodium iodoacetate, and upon disease 
+onset, oral treatment with CF101 (100 microg/kg given twice daily) was 
+initiated. The A(3) adenosine receptor antagonist MRS1220 (100 microg/kg given 
+twice daily) was administered orally, 30 minutes before CF101 treatment. The OA 
+clinical score was monitored by knee diameter measurements and by radiographic 
+analyses. Histologic analyses were performed following staining with hematoxylin 
+and eosin, Safranin O-fast green, or toluidine blue, and histologic changes were 
+scored according to a modified Mankin system. Signaling proteins were assayed by 
+Western blotting; apoptosis was detected via immunohistochemistry and TUNEL 
+analyses.
+RESULTS: CF101 induced a marked decrease in knee diameter and improved the 
+changes noted on radiographs. Administration of MRS1220 counteracted the effects 
+of CF101. CF101 prevented cartilage damage, osteoclast/osteophyte formation, and 
+bone destruction. In addition, CF101 markedly reduced pannus formation and 
+lymphocyte infiltration. Mechanistically, CF101 induced deregulation of the 
+NF-kappaB signaling pathway, resulting in down-regulation of tumor necrosis 
+factor alpha. Consequently, CF101 induced apoptosis of inflammatory cells that 
+had infiltrated the knee joints; however, it prevented apoptosis of 
+chondrocytes.
+CONCLUSION: CF101 deregulated the NF-kappaB signaling pathway involved in the 
+pathogenesis of OA. CF101 induced apoptosis of inflammatory cells and acted as a 
+cartilage protective agent, which suggests that it would be a suitable candidate 
+drug for the treatment of OA.

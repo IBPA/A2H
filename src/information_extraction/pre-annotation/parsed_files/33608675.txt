@@ -1,0 +1,19 @@
+Clostridium difficile is the leading cause of antibiotic-associated nosocomial 
+diarrhea in the developed world. When the host-associated colon microbiome is 
+disrupted by the ingestion of antibiotics, C. difficile spores can germinate, 
+resulting in infection. C. difficile secretes enterotoxin A (TcdA) and cytotoxin 
+B (TcdB) that are responsible for disease pathology. Treatment options are 
+limited as the bacterium demonstrates resistance to many antibiotics, and even 
+with antibacterial therapies, recurrences of C. difficile are common. 
+Actotoxumab and bezlotoxumab are human monoclonal antibodies that bind and 
+neutralize TcdA and TcdB, respectively. In 2016, the US food and drug 
+administration (FDA) approved bezlotoxumab for use in the prevention of C. 
+difficile infection recurrence. To ensure the long-term expression of 
+antibodies, gene therapy can be used. Here, adeno-associated virus (AAV)6.2FF, a 
+novel triple mutant of AAV6, was engineered to express either actotoxumab or 
+bezlotoxumab in mice and hamsters. Both antibodies expressed at greater than 
+90 μg/mL in the serum and were detected at mucosal surfaces in both models. 
+Hundred percent of mice given AAV6.2FF-actoxumab survived a lethal dose of TcdA. 
+This proof of concept study demonstrates that AAV-mediated expression of C. 
+difficile toxin antibodies is a viable approach for the prevention of recurrent 
+C. difficile infections.

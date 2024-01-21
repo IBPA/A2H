@@ -1,0 +1,18 @@
+The discovery of Th17 cells, along with many other Th cell subsets in the recent 
+years, has expanded the Th1/Th2 paradigm that had persisted since its 
+proposition by Mosmann in 1986. Defined by the characteristic expression of the 
+transcription factor retinoic-related orphan receptor γt (RORγt) and production 
+of IL-17A (IL-17), Th17 cells are powerful inducers of tissue inflammation with 
+a recognized role against extracellular bacteria and fungi. Despite this, the 
+interest in their study came from the pivotal role they play in the development 
+and maintenance of major chronic inflammatory conditions such as multiple 
+sclerosis, rheumatoid arthritis and Crohn's disease, hence they have been the 
+target of promising new anti-Th17 therapies. Accordingly, the identification of 
+opportunistic pathogens whose clearance relies on the Th17 response is of huge 
+prophylactic importance. As shown here for the first time, this applies to 
+Sporothrix schenckii, a thermo-dimorphic fungus and the causative agent of 
+sporotrichosis. Our results show that both Th17 and Th1/Th17 mixed cells are 
+developed during the S. schenckii systemic mice infection, which also leads to 
+augmented production of IL-17 and IL-22. Also, by using an antibody-mediated 
+IL-23 depletion model, we further demonstrate that optimal fungal clearance, but 
+not survival, depends on an intact Th17 response.

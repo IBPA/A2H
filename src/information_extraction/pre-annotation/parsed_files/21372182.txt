@@ -1,0 +1,20 @@
+Clostridium difficile is the major cause of antibiotic-associated colitis, a 
+disease with significant morbidity and mortality. This study investigated the 
+role of the haem oxygenase-1 (HO-1)/carbon monoxide (CO) pathway in C. difficile 
+toxin A-induced enteritis in mice. The HO substrate haemin, zinc protoporphyrin 
+IX (ZnPP IX), a specific HO-1 inhibitor, dimanganese decacarbonyl (DMDC), a CO 
+donor, or an equivalent volume of their respective vehicles were injected 
+subcutaneously 30 min prior to local challenge with toxin A (25 or 50 µg per 
+ileal loop) or PBS. Intestinal ileal loop weight/length ratios were calculated 3 
+h later. Ileal tissues were collected for histological analysis and measurement 
+of myeloperoxidase (MPO) activity, tumour necrosis factor alpha (TNF-α) and 
+interleukin-1 beta (IL-1β) production by ELISA and immunohistochemistry for 
+HO-1. Treatment of mice subjected to C. difficile toxin A (TcdA) with haemin or 
+DMDC prevented oedema, mucosal disruption and neutrophil infiltration observed 
+in histological analysis. It also decreased TcdA-induced MPO activity and TNF-α 
+or IL-1β production. In contrast, the specific HO-1 inhibitor (ZnPP IX) 
+exacerbated all these evaluated parameters. TcdA increased HO-1 expression as 
+seen by immunohistochemistry. These results suggest that the HO-1/CO pathway 
+exerts a protective role in TcdA-induced enteritis and that its pharmacological 
+modulation might be important for the management of C. difficile-associated 
+disease.

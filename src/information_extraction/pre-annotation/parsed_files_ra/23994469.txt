@@ -1,0 +1,26 @@
+ETHNOPHARMACOLOGICAL RELEVANCE: Tripterygium wilfordii HOOK F (TWHF) is a 
+traditional Chinese medicine used in the treatment of various autoimmune 
+diseases and inflammatory disorders including rheumatoid arthritis (RA), 
+systemic lupus erythematosus (SLE), and skin diseases. Triptolide (TP) is one of 
+the main active ingredients of this traditional Chinese medicine. MC002 is a 
+novel semi-synthetic derivate of TP which is highly water soluble, acts as a 
+prodrug and is converted to TP in vivo.
+AIM OF THIS STUDY: A sensitive, rapid method for the simultaneous determination 
+of TP and its chemo-unstable prodrug MC002 in dog blood was developed and 
+validated using electrospray ionization (ESI) liquid chromatography-tandem mass 
+spectrometry (LC-MS/MS). Using this method, a pharmacokinetic study of MC002 and 
+TP following an intravenous drip infusion of 0.2mg/kg MC002 in dogs was 
+performed.
+MATERIALS AND METHODS: Chemo-degradation of the prodrug in blood samples was 
+inhibited by the addition of a small amount of sodium fluoride solution before 
+using liquid-liquid extraction with ethyl acetate. The concentrations of MC002 
+and TP in dog blood were determined using the LC-MS/MS method.
+RESULTS: The quantitative method showed good precision and stability and is 
+suitable for the assay of biological samples. The pharmacokinetic study showed 
+that the elimination of MC002 was faster than that of TP, and the concentrations 
+and AUC0-t values of TP were higher than MC002. MC002 can rapidly convert to TP 
+in vivo.
+CONCLUSIONS: This validated method was successfully applied in a pharmacokinetic 
+study of MC002 following an intravenous drip infusion in dogs. With the 
+development of this new prodrug of TP as a promising anti-cancer drug, this 
+method is suitable for its further analysis in clinical studies.

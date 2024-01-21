@@ -1,0 +1,25 @@
+OBJECTIVES: This study is aimed at investigating the novel use of minocycline 
+for cardiac protection during ischemia/reperfusion (I/R) injury, as well as its 
+mechanism of action.
+BACKGROUND: Minocycline is a tetracycline with anti-inflammatory properties, 
+which is used clinically for the treatment of diseases such as urethritis and 
+rheumatoid arthritis. Experimentally, minocycline has also been shown to be 
+neuroprotective in animal models of cerebral ischemia and to delay progression 
+and improve survival in mouse models of neurodegenerative diseases.
+METHODS: We studied 62 rat intact hearts exposed to I/R and cell cultures of 
+neonatal and adult rat ventricular myocytes.
+RESULTS: Minocycline significantly reduced necrotic and apoptotic cell death, 
+both in neonatal and adult myocytes, not only when given prior to hypoxia (p < 
+0.001), but also at reoxygenation (p < 0.05). Moreover, in the intact heart 
+exposed to I/R, in vivo treatment with minocycline promoted hemodynamic recovery 
+(p < 0.001) and cell survival, with reduction of infarct size (p < 0.001), 
+cardiac release of creatine phosphokinase (p < 0.001), and apoptotic cell death 
+(p < 0.001). In regard to its antiapoptotic mechanism of action, minocycline 
+significantly reduced the expression level of initiator caspases, increased the 
+ratio of XIAP to Smac/DIABLO at both the messenger RNA and protein level, and 
+prevented mitochondrial release of cytochrome c and Smac/DIABLO (all, p < 0.05). 
+These synergistic actions dramatically prevent the post-ischemic induction of 
+caspase activity associated with cardiac I/R injury.
+CONCLUSIONS: Because of its safety record and multiple novel mechanisms of 
+action, minocycline may be a valuable cardioprotective agent to ameliorate 
+cardiac dysfunction and cell loss associated with I/R injury.

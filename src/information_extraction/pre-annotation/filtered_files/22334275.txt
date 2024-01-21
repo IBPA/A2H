@@ -1,0 +1,25 @@
+OBJECTIVE: To show that a new recombinant protein (MT07) obtained by fusing a 
+synovial-homing peptide to a neutralizing antibody to C5 can be selectively 
+delivered to inflamed synovium and can effectively control joint inflammation in 
+experimental models of arthritis.
+METHODS: Binding of MT07 to human, rat, and mouse synovial tissue was evaluated 
+in vitro by immunofluorescence, and selective localization in the inflamed 
+joints of rats was documented in vivo using time-domain optical imaging. The 
+antiinflammatory effect of MT07 was tested in a rat model of antigen-induced 
+arthritis (AIA) and in a mouse model of collagen antibody-induced arthritis 
+(CAIA).
+RESULTS: MT07 was able to bind to samples of inflamed synovium from humans, 
+mice, and rats while failing to recognize uninflamed synovium as well as 
+inflamed mouse lung or rat kidney. In vivo analysis of the biodistribution of 
+MT07 confirmed its preferential homing to inflamed joints, with negligible 
+inhibition of circulating C5 levels. MT07 prevented and resolved established 
+inflammation in a rat model of AIA, as demonstrated by changes in joint 
+swelling, polymorphonuclear cell counts in synovial washes, release of 
+interleukin-6 and tumor necrosis factor α, and tissue damage. A similar 
+therapeutic effect was obtained testing MT07 in a CAIA model.
+CONCLUSION: Our findings show that the novel recombinant molecule MT07 has the 
+unique ability to selectively target inflamed joints and to exert local control 
+of the inflammatory process by neutralizing the complement system without 
+interfering with circulating C5 levels. We believe that this approach can be 
+extended to other antiinflammatory drugs currently used to treat patients with 
+rheumatoid arthritis.

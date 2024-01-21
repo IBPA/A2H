@@ -1,0 +1,22 @@
+Because dendritic cells (DCs) play critical roles in the pathogenesis of 
+rheumatoid arthritis, modulation of their functions could serve as a novel 
+therapy. In this study, we demonstrated that FTY720 treatment significantly 
+suppressed the incidence and severity of collagen-induced arthritis (CIA) in 
+DBA/1J mice via the modulation of DC functions. In FTY720-treated CIA mice, a 
+decrease in the number of DCs in local draining lymph nodes (LNs) was observed. 
+In vitro, FTY720 inhibited the trafficking of LPS-stimulated bone marrow-derived 
+DCs (BMDCs). Decreased secretion of CCL19 and downregulation of CCR7 on DCs may 
+explain the mechanisms underlying the impairment of DC migration induced by 
+FTY720. In a DC-induced mouse arthritis model, FTY720 treatment also suppressed 
+the incidence and severity of arthritis, which was correlated with a decrease in 
+the migration of injected BMDCs to draining LNs. Although lower levels of 
+costimulatory molecules (CD40, CD80, and CD86) and I-A(q) expressed on LN DCs 
+were observed in FTY720-treated mice, in vitro analysis showed no effect of 
+FTY720 on LPS-stimulated BMDC maturation. Furthermore, LN cells from 
+FTY720-treated CIA mice displayed diminished production of proinflammatory 
+cytokines in response to collagen II and Con A stimulation. In addition, the 
+ratio of Th1/Th2 in the draining LNs of mice with DC-induced arthritis was 
+decreased upon FTY720 treatment. This finding was consistent with the fact that 
+FTY720 suppressed IL-12p70 production in cultured BMDCs. Taken together, these 
+results indicate that inhibition of DC migration by FTY720 may provide a novel 
+approach in treating autoimmune diseases such as rheumatoid arthritis.

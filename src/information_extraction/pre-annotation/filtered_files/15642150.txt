@@ -1,0 +1,17 @@
+The antigens that trigger the pathogenic immune response in rheumatoid arthritis 
+(RA) remain unknown. Until recently it was assumed that either viral or 
+microbial antigens, or joint-specific antigens were the target of arthritogenic 
+T and B lymphocytes in RA. Consequently, murine models of arthritis are induced 
+by immunization with either joint-specific antigens such as type II collagen or 
+microbial products such as streptococcal cell wall. In the K/BxN T-cell receptor 
+transgenic mouse model arthritis is caused by a systemic autoimmune response to 
+the ubiquitously expressed glycolytic enzyme glucose-6-phosphate isomerase 
+(G6PI). The autoreactive transgenic T cells recognize G6PI and provide help for 
+the production of arthritogenic IgG antibodies against G6PI. More recently it 
+was shown that G6PI immunization induces severe symmetrical peripheral 
+polyarthritis in genetically unaltered DBA/I mice. In that model CD4+ T cells 
+are necessary not only for the induction but also for the effector phase of 
+arthritis. Here we review the pathomechanisms that lead from systemic 
+autoreactivity to arthritis in these models, consider the relevance of anti-G6PI 
+immune reactivity for RA, and discuss the insights into the pathogenesis of RA 
+and possibly other autoimmune conditions that can be gained from these models.

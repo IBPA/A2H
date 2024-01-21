@@ -1,0 +1,27 @@
+Recent evidence suggests that renal tubular injury plays a key role in 
+deterioration of renal function in both chronic kidney disease (CKD) and acute 
+kidney injury (AKI). Since commonly used biochemical indicators such as GFR, 
+serum creatinine, blood urea nitrogen and creatinine clearance are inappropriate 
+for detecting alteration in renal tubules, biomarkers reflecting renal tubular 
+injury have been extensively explored. Our research group identified leucine 
+rich α-2 glycoprotein (LRG) as a novel serum biomarker for various inflammatory 
+diseases such as rheumatoid arthritis and inflammatory bowel disease. In 
+inflammatory diseases, LRG expression is up-regulated at the site of 
+inflammation, in accordance with the induction of LRG in many cell types by 
+various inflammatory cytokines. Recently, urinary LRG was reported as a possible 
+biomarker for several renal diseases, but the mechanism of LRG excretion in 
+urine is still unclear. In this study, by analyzing a mouse albumin (ALB) 
+overload model that is commonly used to study proteinuria-induced renal tubular 
+injury, we provided evidence that urinary LRG is produced in renal tubular 
+epithelial cells by interleukin-1β (IL-1β) that is released during 
+proteinuria-induced renal damage. In this model, urinary LRG became detectable 
+after ALB overload. In kidney, mRNA expression of LRG together with that of 
+NACHT LRR and PYD domains-containing protein 3 (NLRP3) and IL-1β was 
+significantly up-regulated in ALB-overloaded mice, compared to PBS-treated mice. 
+By pathological analysis of kidney, LRG was detected in the injured proximal 
+tubules, distal tubules and collecting ducts in ALB-overloaded mice. 
+Accordingly, in vitro stimulation of mouse renal cortical tubular epithelial 
+cells with excessive ALB led to LRG mRNA up-regulation and its protein 
+secretion, which was effectively blocked by IL-1 receptor antagonist. These 
+results suggest that urinary LRG could be applied to a biomarker detecting renal 
+tubular injury in various renal diseases.

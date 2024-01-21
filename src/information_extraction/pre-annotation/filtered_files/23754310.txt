@@ -1,0 +1,26 @@
+OBJECTIVE: Cartilage oligomeric matrix protein (COMP) is a major noncollagenous 
+component of cartilage and is used as a biomarker in rheumatoid arthritis and 
+experimental arthritis. Injection of COMP leads to severe inflammatory joint 
+disease, and antibodies play a critical role in mediating arthritis. The 
+arthritogenicity of COMP might be due to the lack of self tolerance. This study 
+was undertaken to determine the status of COMP-specific B cell tolerance using 
+COMP-deficient mice.
+METHODS: Arthritis development and antibody responses were compared between 
+COMP-sufficient and COMP-deficient littermates after immunization with rat COMP. 
+Serum anti-COMP antibody levels were measured using a panel of recombinant mouse 
+COMP proteins, and antibody-secreting cells were enumerated by enzyme-linked 
+immunospot assays. A novel sandwich enzyme-linked immunosorbent assay was 
+developed to assess COMP molecules in serum.
+RESULTS: COMP-sufficient mice, but not COMP-deficient mice, developed severe 
+arthritis following immunization with rat COMP. However, anti-COMP antibody 
+titers to native COMP and recombinant protein domains covering the entire mouse 
+COMP sequence, except the less immunodominant type 3 repeat domains, were 
+decreased in COMP-sufficient mice compared to COMP-deficient mice. In addition, 
+COMP-sufficient mice had fewer B cells secreting COMP-reactive antibodies. 
+Detectable levels of full-length COMP in arthritic COMP-sufficient B10.Q 
+NCF-1(*/*) and healthy mice suggested systemic availability of COMP to the 
+immune system.
+CONCLUSION: The lack of arthritis, together with high levels of COMP-specific 
+antibodies, in COMP-deficient mice indicates that susceptibility to arthritis is 
+COMP specific and that endogenous expression of COMP in wild-type mice tolerizes 
+B cells in vivo.

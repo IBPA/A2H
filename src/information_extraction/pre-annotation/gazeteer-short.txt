@@ -1,0 +1,37 @@
+talicia	intervention
+disulfiram	intervention
+mouse	species
+mice	species
+rat	species
+rats	species
+monkey	species
+monkeys	species
+primate	species
+primates	species
+dog	species
+dogs	species
+cat	species
+cats	species
+pig	species
+pigs	species
+horse	species
+horses	species
+Collagen?induced arthritis	induction
+DBA/1	strain
+rheumatoid arthritis	disease
+collagen?antibody?induced arthritis	induction
+Zymosan?induced arthritis	induction
+Antigen?induced arthritis	induction
+adjuvant?induced arthritis	induction
+skg	strain
+streptococcal cell wall	induction
+COX inhibitor	MoA
+Anti-CD20	MoA
+Anti-TNF	MoA
+Anti-CD80	MoA
+Dual COX/LT inhibitor	MoA
+TACE inhibitor	MoA
+NSAID	MoA
+DMARD	MoA
+MMP inhibitor	MoA
+ICE inhibitor	MoA

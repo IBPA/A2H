@@ -1,0 +1,25 @@
+Clostridium difficile is a Gram-positive spore-former bacterium and the leading 
+cause of nosocomial antibiotic-associated diarrhea that can culminate in fatal 
+colitis. During the infection, C. difficile produces metabolically dormant 
+spores, which persist in the host and can cause recurrence of the infection. The 
+surface of C. difficile spores seems to be the key in spore-host interactions 
+and persistence. The proteome of the outermost exosporium layer of C. difficile 
+spores has been determined, identifying two cysteine-rich exosporium proteins, 
+CdeC and CdeM. In this work, we explore the contribution of both cysteine-rich 
+proteins in exosporium integrity, spore biology and pathogenesis. Using targeted 
+mutagenesis coupled with transmission electron microscopy we demonstrate that 
+both cysteine rich proteins, CdeC and CdeM, are morphogenetic factors of the 
+exosporium layer of C. difficile spores. Notably, cdeC, but not cdeM spores, 
+exhibited defective spore coat, and were more sensitive to ethanol, heat and 
+phagocytic cells. In a healthy colonic mucosa (mouse ileal loop assay), cdeC and 
+cdeM spore adherence was lower than that of wild-type spores; while in a mouse 
+model of recurrence of the disease, cdeC mutant exhibited an increased infection 
+and persistence during recurrence. In a competitive infection mouse model, cdeC 
+mutant had increased fitness over wild-type. Through complementation analysis 
+with FLAG fusion of known exosporium and coat proteins, we demonstrate that CdeC 
+and CdeM are required for the recruitment of several exosporium proteins to the 
+surface of C. difficile spores. CdeC appears to be conserved exclusively in 
+related Peptostreptococcaeace family members, while CdeM is unique to C. 
+difficile. Our results sheds light on how CdeC and CdeM affect the biology of C. 
+difficile spores and the assembly of the exosporium layer and, demonstrate that 
+CdeC affect C. difficile pathogenesis.

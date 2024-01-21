@@ -1,0 +1,22 @@
+Current therapy for rheumatoid arthritis (RA) relies on global suppression of 
+the immune response or specific blockade of inflammatory cytokines. However, it 
+is unclear how immunosuppressants affect patients with cancer. Therefore, in the 
+present study, the effect of three biological agents, tofacitinib, anti-mouse 
+IL-6 receptor antibody (MR16-1) and etanercept, which are used for the treatment 
+of RA diseases, on a tumor-bearing mouse model was investigated. The effect of 
+the three agents was examined using a mouse lung-metastasis model with the 
+murine colon 26 cancer cell line. Lymphocyte subsets and natural killer (NK) 
+cells in peripheral blood and spleen were analyzed using fluorescence-activated 
+cell sorting, and the number of lung surface nodules was examined. In the 
+continuous tofacitinib administration (15 mg/kg/day) group, the number of lung 
+surface nodules was significantly increased compared with that of the 
+vehicle-treated group (vehicle, 1.20±0.58; tofacitinib, 35.6±10.81; P<0.01). NK 
+cell number in the blood and spleen of tofacitinib-treated mice was decreased 
+10-fold, and the percentage of cluster of differentiation (CD)11+CD27- NK cells 
+was significantly reduced. MR16-1 [8 mg/mouse; once a week; intraperitoneal 
+(i.p.)] or etanercept (1 mg/mouse; 3 times a week; i.p.) treatment did not 
+affect the number of NK cells or lung metastasis. In the present study, 
+immunosuppressants that target cytokines, including tofacitinib, were 
+demonstrated to inhibit the proliferation and differentiation of NK cells, and 
+exhibit the potential to promote cancer metastasis using a mouse model of lung 
+metastasis.

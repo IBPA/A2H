@@ -1,0 +1,13 @@
+The p38 mitogen-activated protein kinase (MAPK) is a central signaling molecule 
+in many proinflammatory pathways, regulating the cellular response to a 
+multitude of external stimuli including heat, ultraviolet radiation, osmotic 
+shock, and a variety of cytokines especially interleukin-1beta and tumor 
+necrosis factor alpha. Thus, inhibitors of this enzyme are postulated to have 
+significant therapeutic potential for the treatment of rheumatoid arthritis, 
+inflammatory bowel disease, osteoporosis, and many other diseases where aberrant 
+cytokine signaling is the driver of disease. Herein, we describe a novel class 
+of 3-amino-7-phthalazinylbenzoisoxazole-based inhibitors. With relatively low 
+molecular weight, these compounds are highly potent in enzyme and cell-based 
+assays, with minimal protein shift in 50% human whole blood. Compound 3c was 
+efficacious (ED 50 = 0.05 mg/kg) in the rat collagen induced arthritis (CIA) 
+model.

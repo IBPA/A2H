@@ -1,0 +1,23 @@
+IL-17 (interleukin-17), a hallmark cytokine of Th17 (T-helper 17) cells, plays 
+critical roles in host defence against bacterial and fungal infections, as well 
+as in the pathogenesis of autoimmune diseases. The present review focuses on 
+current knowledge of the regulation, functional mechanisms and targeting 
+strategies of IL-17 in the context of inflammatory autoimmune diseases. Evidence 
+shows that IL-17 is highly up-regulated at sites of inflammatory tissues of 
+autoimmune diseases and amplifies the inflammation through synergy with other 
+cytokines, such as TNF (tumour necrosis factor) α. Although IL-17 was originally 
+thought to be produced mainly by Th17 cells, a newly defined T-cell subset with 
+a specific differentiation programme and tight regulation, several other cell 
+types (especially innate immune cells) are also found as important sources for 
+IL-17 production. Although IL-17 activates common downstream signalling, 
+including NF-κB (nuclear factor κB), MAPKs (mitogen-activated protein kinases), 
+C/EBPs (CCAAT/enhancer-binding proteins) and mRNA stability, the immediate 
+receptor signalling has been shown to be quite unique and tightly regulated. 
+Mouse genetic studies have demonstrated a critical role for IL-17 in the 
+pathogenesis of variety of inflammatory autoimmune diseases, such as RA 
+(rheumatoid arthritis) and MS (multiple sclerosis). Importantly, promising 
+results have been shown in initial clinical trials of monoclonal antibodies 
+against IL-17 or its receptor (IL-17R) to block IL-17-mediated function in 
+treating autoimmune patients with psoriasis, RA and MS. Therefore targeting 
+IL-17/IL-17R, IL-17-producing pathways or IL-17-mediated signalling pathways can 
+be considered for future therapy in autoimmune diseases.

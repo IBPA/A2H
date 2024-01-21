@@ -1,0 +1,22 @@
+Clostridium difficile (also known as Peptoclostridium difficile) is a major 
+nosocomial pathogen and a leading cause of antibiotic-associated diarrhea 
+throughout the world. Colonization of the intestinal tract is necessary for C. 
+difficile to cause disease. Host-produced antimicrobial proteins (AMPs), such as 
+lysozyme, are present in the intestinal tract and can deter colonization by many 
+bacterial pathogens, and yet C. difficile is able to survive in the colon in the 
+presence of these AMPs. Our prior studies established that the Dlt pathway, 
+which increases the surface charge of the bacterium by addition of d-alanine to 
+teichoic acids, is important for C. difficile resistance to a variety of AMPs. 
+We sought to determine what genetic mechanisms regulate expression of the Dlt 
+pathway. In this study, we show that a dlt null mutant is severely attenuated 
+for growth in lysozyme and that expression of the dltDABC operon is induced in 
+response to lysozyme. Moreover, we found that a mutant lacking the 
+extracytoplasmic function (ECF) sigma factor σ(V) does not induce dlt expression 
+in response to lysozyme, indicating that σ(V) is required for regulation of 
+lysozyme-dependent d-alanylation of the cell wall. Using reporter gene fusions 
+and 5' RACE (rapid amplification of cDNA ends) analysis, we identified promoter 
+elements necessary for lysozyme-dependent and lysozyme-independent dlt 
+expression. In addition, we observed that both a sigV mutant and a dlt mutant 
+are more virulent in a hamster model of infection. These findings demonstrate 
+that cell wall d-alanylation in C. difficile is induced by lysozyme in a 
+σ(V)-dependent manner and that this pathway impacts virulence in vivo.

@@ -1,0 +1,19 @@
+The development of transcriptionally controlled systems which function in 
+eukaryotic cells are important for achieving regulated gene expression in gene 
+therapy. In this study we combined the components of the tetracycline-inducible 
+system in self-contained retroviral and plasmid vectors. Regulated reporter gene 
+expression from the autoregulatory plasmid pGTRTL in response to doxycycline 
+(Dox) induction surpasses the expression observed from other self-contained 
+retroviral and plasmid vectors. Induction kinetics and expression levels of 
+luciferase and the therapeutic molecule, truncated soluble complement receptor 1 
+(sCR1) were characterised in a mouse fibroblast and a human neuroblastoma cell 
+line. The regulatory characteristics of the plasmids were shown to be optimal 
+for gene therapy applications, as there was a rapid reduction in expression 
+levels following removal of Dox. Co-transfection of cells with an autoregulatory 
+plasmid and a Dox inducible enhanced green fluorescent protein (EGFP) plasmid 
+demonstrated the feasibility of using this plasmid combination to achieve 
+parallel regulation of two genes of interest in a single cell under the control 
+of Dox. These novel autoregulatory plasmids display the requirements for gene 
+therapy applications in chronic conditions which are remitting/relapsing such as 
+rheumatoid arthritis or multiple sclerosis, where novel protein therapeutics and 
+combination therapies are needed. Gene Therapy (2000) 7, 2061-2070.

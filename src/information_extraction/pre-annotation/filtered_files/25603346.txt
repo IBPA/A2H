@@ -1,0 +1,21 @@
+ShK, from the sea anemone Stichodactyla helianthus, is a 35-residue 
+disulfide-rich peptide that blocks the voltage-gated potassium channel Kv1.3 at 
+ca. 10 pM and the related channel Kv1.1 at ca. 16 pM. We developed an analog of 
+this peptide, ShK-186, which is currently in Phase 1b-2a clinical trials for the 
+treatment of autoimmune diseases such as multiple sclerosis and rheumatoid 
+arthritis. While ShK-186 displays a >100-fold improvement in selectivity for 
+Kv1.3 over Kv1.1 compared with ShK, there is considerable interest in developing 
+peptides with an even greater selectivity ratio. In this report, we describe 
+several variants of ShK that incorporate p-phophono-phenylalanine at the 
+N-terminus coupled with internal substitutions at Gln16 and Met21. In addition, 
+we also explored the combinatorial effects of these internal substitutions with 
+an alanine extension at the C-terminus. Their selectivity was determined by 
+patch-clamp electrophysiology on Kv1.3 and Kv1.1 channels stably expressed in 
+mouse fibroblasts. The peptides with an alanine extension blocked Kv1.3 at low 
+pM concentrations and exhibited up to 2250-fold selectivity for Kv1.3 over 
+Kv1.1. Analogs that incorporates p-phosphono-phenylalanine at the N-terminus 
+blocked Kv1.3 with IC50s in the low pM range and did not affect Kv1.1 at 
+concentrations up to 100 nM, displaying a selectivity enhancement of 
+>10,000-fold for Kv1.3 over Kv1.1. Other potentially important Kv channels such 
+as Kv1.4 and Kv1.6 were only partially blocked at 100 nM concentrations of each 
+of the ShK analogs.

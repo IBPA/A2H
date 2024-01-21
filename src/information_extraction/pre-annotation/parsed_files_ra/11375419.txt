@@ -1,0 +1,19 @@
+Autoantigen-specific T cells have tissue-specific homing properties, suggesting 
+that these cells may be ideal vehicles for the local delivery of 
+immunoregulatory molecules. We tested this hypothesis by using type II 
+collagen-specific (CII-specific) CD4(+) T hybridomas or primary CD4(+) T cells 
+after gene transfer, as vehicles to deliver an immunoregulatory protein for the 
+treatment of collagen-induced arthritis (CIA), a mouse model of rheumatoid 
+arthritis (RA). CII-specific T cells or hybridomas were transduced using 
+retroviral vectors to constitutively express the IL-12 antagonist, IL-12 p40. 
+Transfer of engineered CD4(+) T cells after immunization significantly inhibited 
+the development of CIA, while cells transduced with vector control had no 
+effect. The beneficial effect on CIA of IL-12 p40-transduced T cells required 
+TCR specificity against CII, since transfer of T cells specific for another 
+antigen producing equivalent amounts of IL-12 p40 had no effect. In vivo cell 
+detection using bioluminescent labels and RT-PCR showed that transferred 
+CII-reactive T-cell hybridomas accumulated in inflamed joints in mice with CIA. 
+These results indicate that the local delivery of IL-12 p40 by T cells inhibited 
+CIA by suppressing autoimmune responses at the site of inflammation. Modifying 
+antigen-specific T cells by retroviral transduction for local expression of 
+immunoregulatory proteins thus offers a promising strategy for treating RA.

@@ -1,0 +1,19 @@
+Clostridium difficile induces antibiotic-associated diarrhea due to the release 
+of toxin A (TcdA) and toxin B (TcdB), the latter being its main virulence 
+factor. The epidemic strain NAP1/027 has an increased virulence attributed to 
+different factors. We compared cellular intoxication by TcdBNAP1 with that by 
+the reference strain VPI 10463 (TcdBVPI). In a mouse ligated intestinal loop 
+model, TcdBNAP1 induced higher neutrophil recruitment, cytokine release, and 
+epithelial damage than TcdBVPI. Both toxins modified the same panel of small 
+GTPases and exhibited similar in vitro autoprocessing kinetics. On the basis of 
+sequence variations in the frizzled-binding domain (FBD), we reasoned that 
+TcdBVPI and TcdBNAP1 might have different receptor specificities. To test this 
+possibility, we used a TcdB from a NAP1 variant strain (TcdBNAP1v) unable to 
+glucosylate RhoA but with the same receptor-binding domains as TcdBNAP1. Cells 
+were preincubated with TcdBNAP1v to block cellular receptors, prior to 
+intoxication with either TcdBVPI or TcdBNAP1. Preincubation with TcdBNAP1v 
+blocked RhoA glucosylation by TcdBNAP1 but not by TcdBVPI, indicating that the 
+toxins use different host factors for cell entry. This crucial difference might 
+explain the increased biological activity of TcdBNAP1 in the intestine, 
+representing a contributing factor for the increased virulence of the NAP1/027 
+strain.

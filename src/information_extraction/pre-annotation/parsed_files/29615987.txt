@@ -1,0 +1,33 @@
+Lantibiotics offer an untapped pipeline for the development of novel antibiotics 
+to treat serious Gram-positive (+) infections including Clostridium difficile. 
+Mutacin 1140 (MU1140) is a lantibiotic produced by Streptococcus mutans and acts 
+via a novel mechanism of action, which may limit the development of resistance. 
+This study sought to identify a lead compound for the treatment of C. difficile 
+associated diarrhea (CDAD). Compounds were selected from a saturation 
+mutagenesis library of 418 single amino acid variants of MU1140. Compounds were 
+produced by small scale fermentation, purified, characterized and then subjected 
+to a panel of assays aimed at identifying the best performers. The screening 
+assays included: in vitro susceptibility testing [MIC against Micrococcus 
+luteus, Clostridium difficile, vancomycin-resistant enterococci (VRE), 
+Staphylococcus aureus, Streptococcus pneumonia, Mycobacterium phlei, and 
+Pseudomonas aeruginosa; cytotoxicity screening on HepG2 hepatocytes; in vitro 
+pharmacological profiling with the Safety Screen 44TM, metabolic and chemical 
+stability in biologically relevant fluids (FaSSGF, FaSSIF and serum); and 
+efficacy in vivo]. Several lantibiotic compounds had better MIC against C. 
+difficile, compared to vancomycin, but not against other bacterial species 
+tested. The Safety Screen 44TMin vitro pharmacological profiling assay suggested 
+that this class of compounds has relatively low overall toxicity and that 
+compound OG253 (MU1140, Phe1Ile) is not likely to present inadvertent off-target 
+effects, as evidenced by a low promiscuity score. The in vitro cytotoxicity 
+assay also indicated that this class of compounds was characterized by low 
+toxicity; the EC50 of OG253 was 636 mg/mL on HepG2 cells. The half-life in 
+simulated gastric fluid was >240 min. for all compound tested. The stability in 
+simulated intestinal fluid ranged between a half-life of 5 min to >240 min, and 
+paralleled the half-life in serum. OG253 ultimately emerged as the lead compound 
+based on superior in vivo efficacy along with an apparent lack of relapse in a 
+hamster model of infection. The lessons learned from this report are applicable 
+to therapeutic lanthipeptides in general and may assist in the design of novel 
+molecules with improved pharmacological, therapeutic and physicochemical 
+profiles. The data presented also support the continued clinical development of 
+OG253 as a novel antibiotic against CDAD that could prevent recurrence of the 
+infection.

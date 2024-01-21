@@ -1,0 +1,22 @@
+We demonstrate herein a novel time-resolved fluoroimmunoassay (TRFIA) with high 
+sensitivity and wide range for quantitative detection of ANA-Ig(GAM) antibodies 
+using a biotin-avidin amplification system. The immunoassay was conducted by 
+following procedures for a typical sandwich immunoreactions with cell nucleus 
+form Hela and the Eu(3+)-labeled biotin combined with biotinylated mouse 
+anti-human Ig(GAM) served as the solid nuclear antigen for ANA and the tracer, 
+respectively. The sensitivity, specificity, and stability of the kit were 
+evaluated and comparison with the classical enzyme-linked immunosorbent assay 
+(ELISA) kit was also made. The average intra-assay and interassay CVs detected 
+by the established ANA-Ig(GAM) biotin-avidin-TRFIA were 4.21% and 6.34%, 
+respectively. The lower detection limit was 2.24 U/mL, and the mean recovery 
+rate was 100.74%. The good measurable range of the established 
+biotin-avidin-TRFIA was within 1.95-64,000 U/mL, while it was only within 
+32.5-4000 U/mL using an ELISA kit. The values determined by the 
+biotin-avidin-TRFIA and ELISA correlated well (R2 = 0.989). The positive rate of 
+healthy volunteers and patients with systemic lupus erythematosus (SLE), 
+rheumatoid arthritis (RA), primary biliary cirrhosis (PBC), Sjögren's syndrome 
+(SS), scleroderma, and mixed connective tissue disease (MCTD) was 0, 100%, 
+18.5%, 100%, 37.9%, 90.9%, and 92%, respectively. We conclude that the 
+biotin-avidin-TRFIA we developed gives promise for greater sensitivity and 
+accurate detection for ANA-Ig(GAM) in diagnosing and monitoring autoimmune 
+disorders.

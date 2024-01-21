@@ -1,0 +1,19 @@
+The regulation of angiogenesis is an interesting area to consider for novel 
+therapeutic approaches to rheumatoid arthritis (RA). Chemically modified 
+heparins have been developed as possible candidates for angiogenesis inhibitor; 
+however, they have a major clinical drawback in exhibiting poor oral 
+bioavailability. Here, orally absorbable O-desulfated low molecular weight 
+heparin (ODS-LMWH) derivatives were newly synthesized by conjugating 2-O- or 
+6-O-desulfated LMWH with deoxycholic acid (DOCA) or bisDOCA (a dimer of DOCA), 
+and their physicochemical properties, antiangiogenic potency and pharmacokinetic 
+profiles were assessed. After selecting the best candidate among those 
+derivatives, its therapeutic efficacy on arthritis was investigated in a murine 
+collagen antibody-induced arthritis (CAIA) model. ODS-LMWH derivatives 
+significantly inhibited the capillary-like tube formation of human umbilical 
+vein endothelial cells (HUVECs) and basic fibroblast growth factor 
+(bFGF)-induced angiogenesis in the Matrigel plug assay. Among all the compounds, 
+6ODS-LHbD showed the highest oral bioavailability in rats (19.3%). In the CAIA 
+mouse model, 6ODS-LHbD (10 mg/kg, p.o., S.I.D.) significantly inhibited 
+neovascularization in the joint, the increase of hind-paw thickness, and the 
+structural damage in the bone. Therefore, 6ODS-LHbD would be a promising 
+candidate for an orally active drug for the treatment of RA.

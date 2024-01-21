@@ -1,0 +1,24 @@
+OBJECTIVE: Complement system activation is strongly implicated as a factor in 
+the pathogenesis of chronic synovitis in human rheumatoid arthritis. The 
+objective of this study was to explore the therapeutic potential and local 
+retention of a novel membrane-targeting complement regulatory protein, derived 
+from human complement receptor 1, in the experimental setting of rat 
+antigen-induced arthritis.
+METHODS: Sensitized animals were treated at the time of arthritis induction with 
+a single intraarticular (IA) dose of the membrane-targeting regulator APT070, a 
+non-membrane-targeting control regulator (APT898), or vehicle control, and 
+disease was assessed clinically and histologically. In addition, 
+immunocytochemical analysis was performed on sections from normal rat knee 
+joints at various time points after IA injection with APT070.
+RESULTS: Animals treated with APT070 showed a dose-dependent therapeutic effect, 
+with significantly milder clinical and histologic disease compared with both 
+other treatment groups (P < 0.008 at the higher dose) and minimal evidence of 
+erosive disease at study end in the active treatment group. Immunoperoxidase and 
+immunofluorescence studies demonstrated local retention of APT070 on cell 
+surface membranes within the normal joint up to 48 hours after IA injection.
+CONCLUSION: These results show that IA complement inhibition represents an 
+effective therapeutic strategy in experimental arthritis, by demonstrating that 
+the exogenous delivery of a membrane-targeting complement regulator can result 
+in prolonged synovial cell surface binding and significant clinical benefit in 
+vivo. Complement inhibitory strategies of this type should be considered as 
+novel therapies in human inflammatory arthritis.

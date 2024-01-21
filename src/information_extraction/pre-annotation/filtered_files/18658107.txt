@@ -1,0 +1,25 @@
+RATIONALE: High-mobility group box 1 (HMGB1) is a potent inflammatory mediator 
+elevated in sepsis and rheumatoid arthritis, although its role in cystic 
+fibrosis (CF) lung disease is unknown.
+OBJECTIVES: To determine whether HMGB1 contributes to CF lung inflammation, 
+including neutrophil chemotaxis and lung matrix degradation.
+METHODS: We used sputum and serum from subjects with CF and a Scnn1b-transgenic 
+(Scnn1b-Tg) mouse model that overexpresses beta-epithelial Na(+) channel in 
+airways and mimics the CF phenotype, including lung inflammation. Human 
+secretions and murine bronchoalveolar lavage fluid (BALF) was assayed for HMGB1 
+by Western blot and ELISA. Neutrophil chemotaxis was measured in vitro after 
+incubation with human neutrophils. The collagen fragment proline-glycine-proline 
+(PGP) was measured by tandem mass spectroscopy.
+MEASUREMENTS AND MAIN RESULTS: HMGB1 was detected in CF sputum at higher levels 
+than secretions from normal individuals. Scnn1b-Tg mice had elevated levels of 
+HMGB1 by Western blot and ELISA. We demonstrated that dose-dependent chemotaxis 
+of human neutrophils stimulated by purified HMGB1 was partially dependent on CXC 
+chemokine receptors and that this could be duplicated in CF sputum and BALF from 
+Scnn1b-Tg mice. Neutralization by anti-HMGB1 antibody, in both the sputum and 
+BALF-reduced chemotaxis, which suggested that HMGB1 contributed to the 
+chemotactic properties of these samples. Intratracheal administration of 
+purified HMGB1 induced neutrophil influx into the airways of mice and promoted 
+the release of PGP. PGP was also elevated in Scnn1b-Tg mice and CF serum.
+CONCLUSIONS: HMGB1 expression contributes to pulmonary inflammation and lung 
+matrix degradation in CF airway disease and deserves further investigation as a 
+biomarker and potential therapeutic target.

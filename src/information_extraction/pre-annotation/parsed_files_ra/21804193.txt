@@ -1,0 +1,18 @@
+The immune and coagulation systems are both implicated in the pathogenesis of 
+rheumatoid arthritis (RA). Plasma carboxypeptidase B (CPB), which is activated 
+by the thrombin/thrombomodulin complex, plays a procoagulant role during fibrin 
+clot formation. However, an antiinflammatory role for CPB is suggested by the 
+recent observation that CPB can cleave proinflammatory mediators, such as C5a, 
+bradykinin, and osteopontin. Here, we show that CPB plays a central role in 
+downregulating C5a-mediated inflammatory responses in autoimmune arthritis. CPB 
+deficiency exacerbated inflammatory arthritis in a mouse model of RA, and 
+cleavage of C5a by CPB suppressed the ability of C5a to recruit immune cells in 
+vivo. In human patients with RA, genotyping of nonsynonymous SNPs in the 
+CPB-encoding gene revealed that the allele encoding a CPB variant with longer 
+half-life was associated with a lower risk of developing radiographically severe 
+RA. Functionally, this CPB variant was more effective at abrogating the 
+proinflammatory properties of C5a. Additionally, expression of both CPB and C5a 
+in synovial fluid was higher in patients with RA than in those with 
+osteoarthritis. These findings suggest that CPB plays a critical role in 
+dampening local, C5a-mediated inflammation and represents a molecular link 
+between inflammation and coagulation in autoimmune arthritis.

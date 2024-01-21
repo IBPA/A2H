@@ -1,0 +1,28 @@
+OBJECTIVE: To identify susceptibility genes in a rat model of rheumatoid 
+arthritis (RA) and to determine whether the corresponding human genes are 
+associated with RA.
+METHODS: Genes influencing oil-induced arthritis (OIA) were position mapped by 
+comparing the susceptibility of inbred DA rats with that of DA rats carrying 
+alleles derived from the arthritis-resistant PVG strain in chromosomal fragments 
+overlapping the quantitative trait locus Oia2. Sequencing of gene complementary 
+DNA (cDNA) and analysis of gene messenger RNA (mRNA) expression were performed 
+to attempt to clone a causal gene. Associations with human RA were evaluated by 
+genotyping single-nucleotide polymorphisms (SNPs) in the corresponding human 
+genes and by analyzing frequencies of alleles and haplotypes in RA patients and 
+age-, sex-, and area-matched healthy control subjects.
+RESULTS: Congenic DA rats were resistant to OIA when they carried PVG alleles 
+for the antigen-presenting lectin-like receptor gene complex (APLEC), which 
+encodes immunoregulatory C-type lectin-like receptors. Multiple differences in 
+cDNA sequence and mRNA expression precluded cloning of a single causal gene. 
+Five corresponding human APLEC genes were identified and targeted. The SNP 
+rs1133104 in the dendritic cell immunoreceptor gene (DCIR), and a haplotype 
+including that marker and 4 other SNPs in DCIR and its vicinity showed an 
+indication of allelic association with susceptibility to RA in patients who were 
+negative for antibodies to cyclic citrullinated peptide (anti-CCP), with 
+respective odds ratios of 1.27 (95% confidence interval [95% CI] 1.06-1.52; 
+uncorrected P = 0.0073) and 1.37 (95% CI 1.12-1.67; uncorrected P = 0.0019). 
+Results of permutation testing supported this association of the haplotype with 
+RA.
+CONCLUSION: Rat APLEC is associated with susceptibility to polyarthritis, and 
+human APLEC and DCIR may be associated with susceptibility to anti-CCP-negative 
+RA.

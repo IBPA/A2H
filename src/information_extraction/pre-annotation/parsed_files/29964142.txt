@@ -1,0 +1,23 @@
+OBJECTIVES: Antibiotic-associated diarrhoea (AAD) caused by C. difficile is one 
+of the most common nosocomial infections, however, little is known about 
+infections related to antimicrobial use for pathogens other than C. difficile. 
+We therefore aimed to provide insight into other bacterial causes of AAD, and 
+how infection with these pathogens causes damage in the dysbiotic gut.
+METHODS: Clinical isolates from C. difficile-negative AAD patients were whole 
+genome sequenced for in silico analysis of potential virulence factors and 
+antimicrobial resistance determinants. A mouse model of infection was developed 
+to assess the capacity of these isolates to cause gastrointestinal damage, which 
+was analysed by studying specific markers in the gastrointestinal mucosa of 
+infected mice.
+RESULTS: Several bacterial pathogens were isolated from patients with C. 
+difficile-negative AAD. Each isolate showed the potential for virulence based on 
+encoded virulence factors, as well as most showing antimicrobial resistance in 
+vitro. Isolates of Escherichia coli, Pseudomonas aeruginosa, and Klebsiella 
+pneumoniae were tested in the mouse model of infection, inducing damage 
+primarily in the small intestine, affecting adherens junction integrity, 
+cellular polarity, and cellular proliferation.
+CONCLUSIONS: Several pathogens of clinical importance other than C. difficile 
+are able to cause gastrointestinal infection following antimicrobial-mediated 
+dysbiosis. The virulence potential and multidrug resistance identified in these 
+isolates illuminates the importance of further diagnostic screening in cases of 
+C. difficile-negative AAD.

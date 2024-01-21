@@ -1,0 +1,17 @@
+This study aims to explore the possible mechanism of treatment of 
+collagen-induced rheumatoid arthritis (RA) by tolerogenic dendritic cells 
+(tDCs). Different methods were used to induce and cultivate tDCs, and suitable 
+conditions for tDC cultivation were explored. The experimental RA induced by 
+collagen in mouse was treated by the obtained tDCs, and the possible mechanism 
+was explored. The serum concentration of TNF-α, IFN-β, IL-4 and anti-type II 
+collagen antibody were detected by ELISA. The anti-type II collagen antibody of 
+mice without treatment was higher than that without disease onset, while the 
+Blank-DC group, VIP-DC group and Bay-D had no statistically significant 
+differences (P>0.05). Compared to the group without disease onset, the TNF-α 
+level of those without treatment was significantly higher, while INF-γ, IL-1β 
+and IL-4 concentration showed no significant difference (P>0.05). Compared to 
+the untreated group, the TNF-α and IL-1β concentration after VIP-DC treatment 
+were significantly decreased, while IL-4 was increased (P less than0.05). In 
+summary, VIP-DC and Bay-DC alleviate joint inflammation, synovitis and bone 
+erosion by reducing the production of anti-type II collagen antibody, inhibiting 
+proinflammatory factors and increasing inflammation inhibitors.

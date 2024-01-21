@@ -1,0 +1,17 @@
+The aim of this study was to obtain biodegradable indomethacin microspheres for 
+intra-articular administration in rheumatoid arthritis, where angiogenic 
+processes are involved. Indomethacin concentrations to achieve an 
+anti-angiogenic effect would be five-times higher than an anti-inflammatory. 
+Microspheres were prepared by solvent evaporation using PLGA. Indomethacin is a 
+poor water-soluble drug with it being possible that dissolved and non-dissolved 
+drug co-exist within the polymeric matrix resulting in rapid release. To control 
+this release, an oil-PEG-derivative was incorporated, producing changes in 
+morphology, crystallinity and indomethacin release. To minimize the amount of 
+microspheres administered, a two-factor five-level central rotable composite 
+2(2)+star design was employed with two independent variables: indomethacin 
+percentage and PEG-derivative percentage. The optimum formulation showed mean 
+encapsulation efficiency of 94.3+/-2.2% and released 7.99+/-0.25 microg 
+indomethacin/day/mg microspheres for 21 days. A dose of 20-50 mg of this 
+formulation could be appropriate to achieve both anti-angiogenic and 
+anti-inflammatory effects. Preliminary cytotoxicity studies performed in rat 
+splenocytes showed an adequate cell viability.

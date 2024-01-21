@@ -1,0 +1,17 @@
+Rheumatoid arthritis (RA) is a chronic debilitating autoimmune disorder 
+characterized by synovitis that leads to cartilage and bone erosion by invading 
+fibrovascular tissue. Mouse models of RA recapitulate many features of the human 
+disease. Despite the availability of medicines that are highly effective in many 
+patient populations, autoimmune diseases (including RA) remain an area of active 
+biomedical research, and consequently mouse models of RA are still extensively 
+used for mechanistic studies and validation of therapeutic targets. This review 
+aims to integrate morphologic features with model biology and cover the key 
+characteristics of the most commonly used induced and spontaneous mouse models 
+of RA. Induced models emphasized in this review include collagen-induced 
+arthritis and antibody-induced arthritis. Collagen-induced arthritis is an 
+example of an active immunization strategy, whereas antibody- induced arthritis 
+models, such as collagen antibody-induced arthritis and K/BxN antibody transfer 
+arthritis, represent examples of passive immunization strategies. The coverage 
+of spontaneous models in this review is focused on the TNFΔ (ARE) mouse, in 
+which arthritis results from overexpression of TNF-α, a master proinflammatory 
+cytokine that drives disease in many patients.

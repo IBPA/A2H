@@ -1,0 +1,30 @@
+OBJECTIVE: Therapeutic agents that are transformable via introducing cleavable 
+linkage by locally enriched MMP-2 within inflamed synovium would enhance 
+therapeutic efficacy on chronic inflammatory arthritis. Transforming growth 
+factor-β-inducible gene-h3 (βig-h3), which consists of four fas-1 domains and an 
+Arg-Gly-Asp (RGD) motif, intensifies inflammatory processes by facilitating 
+adhesion and migration of fibroblast-like synoviocyte in the pathogenesis of 
+rheumatoid arthritis (RA). The aim of this study was to investigate whether a 
+MMP-2-cleavable peptide complex consisting of a fas-1 domain and an RGD peptide 
+blocks the interaction between βig-h3 and resident cells and leads to the 
+amelioration of inflammatory arthritis.
+METHODS: We designed βig-h3-derivatives, including the fourth fas-1 domain 
+truncated for H1 and H2 sequences of mouse (MFK00) and MMP-2-cleavable peptide 
+complex (MFK902). MMP-2 selectivity was examined by treatment with a series of 
+proteases. MFK902 efficacy was determined by the adhesion and migration assay 
+with NIH3T3 cells in vitro and collagen-induced arthritis (CIA) model using male 
+DBA/1J mice in vivo. The mice were treated intraperitoneally with MFK902 at 
+different dosages.
+RESULTS: MFK902 was specifically cleaved by active MMP-2 in a 
+concentration-dependent manner, and βig-h3-mediated adhesion and migration were 
+more effectively inhibited by MFK902, compared with RGD or MFK00 peptides. The 
+arthritis activity of murine CIA, measured by clinical arthritis index and 
+incidence of arthritic paws, was significantly ameliorated after treatment with 
+all dosages of MFK902 (1, 10, and 30 mg/kg). MFK902 ameliorated histopathologic 
+deterioration and reduced the expression of inflammatory mediators 
+simultaneously with improvement of clinical features. In addition, a favorable 
+safety profile of MFK902 was demonstrated in vivo.
+CONCLUSION: The present study revealed that MMP-2-cleavable peptide complex 
+based on βig-h3 structure is a potent and safe therapeutic agent for chronic 
+inflammatory arthritis, thus providing reliable evidence for a MMP-2-cleavable 
+mechanism as a tissue-targeted strategy for treatment of RA.

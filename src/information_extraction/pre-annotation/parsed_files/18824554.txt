@@ -1,0 +1,24 @@
+OBJECTIVE: Melanin-concentrating hormone (MCH) is a hypothalamic orexigenic 
+neuropeptide that regulates energy balance. However, the distribution of MCH and 
+its receptor MCHR1 in tissues other than brain suggested additional, as yet 
+unappreciated, roles for this neuropeptide. Based on previous paradigms and the 
+presence of MCH in the intestine as well as in immune cells, its potential role 
+in gut innate immune responses was examined.
+METHODS: In human intestinal xenografts grown in mice, changes in the expression 
+of MCH and its receptors following treatment with Clostridium difficile toxin A, 
+the causative agent of antibiotic-associated diarrhoea in hospitalised patients, 
+were examined. In colonocytes, the effect of C difficile toxin A treatment on 
+MCHR1 expression, and of MCH on interleukin 8 (IL8) expression was examined. 
+MCH-deficient mice and immunoneutralisation approaches were used to examine the 
+role of MCH in the pathogenesis of C difficile toxin A-mediated acute enteritis.
+RESULTS: Upregulation of MCH and MCHR1 expression was found in the human 
+intestinal xenograft model, and of MCHR1 in colonocytes following exposure to 
+toxin A. Treatment of colonocytes with MCH resulted in IL8 transcriptional 
+upregulation, implying a link between MCH and inflammatory pathways. In further 
+support of this view, MCH-deficient mice developed attenuated toxin A-mediated 
+intestinal inflammation and secretion, as did wild-type mice treated with an 
+antibody against MCH or MCHR1.
+CONCLUSION: These findings signify MCH as a mediator of C difficile-associated 
+enteritis and possibly of additional gut pathogens. MCH may mediate its 
+proinflammatory effects at least in part by acting on epithelial cells in the 
+intestine.

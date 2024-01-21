@@ -1,0 +1,30 @@
+Methotrexate (MTX), an antifolate, is the anchor drug for the treatment of 
+rheumatoid arthritis (RA). It is inexpensive, effective, and generally safe. 
+When clinical response is inadequate, biological therapies are commonly used in 
+combination with MTX. However, biological agents have safety concerns (i.e. 
+infections, malignancy) and the addition of a biologic agent is expensive, 
+making strategies to improve MTX efficacy important. Inhibition of pathways of 
+folate metabolism involving purine metabolism by MTX, have been traditionally 
+emphasized as important in MTX efficacy. However, inhibition MTX catabolism may 
+also be important. MTX is irreversibly hydroxylated to form 7-hydroxy 
+methotrexate (7-OH-MTX) by aldehyde oxidase (EC 1.2.3.1) (AOX). Catabolism of 
+MTX to 7-OH-MTX is the first metabolic process imposed on an oral dose of MTX 
+and will alter subsequent interactions of MTX with other enzymes. 7-OH-MTX is 
+less potent than MTX in the treatment of rat adjuvant arthritis. RA patients 
+with a low capacity to catabolize MTX to 7-OH-MTX do better clinically than 
+individuals who are rapid formers of 7-OH-MTX. Therefore, altering the 
+catabolism of MTX may be an innovative way to improve MTX efficacy. Raloxifene 
+is a FDA-approved therapy for postmenopausal osteoporosis and for the reduction 
+of invasive breast cancers but has no known activity in RA. Raloxifene is a 
+potent inhibitor of human liver AOX. Postmenopausal women with RA frequently 
+have low bone mineral density and would be candidates for raloxifene and MTX 
+combination therapy. The effect of raloxifene on MTX metabolism has never been 
+studied. Our hypothesis is that in postmenopausal women with RA and osteoporosis 
+treated with MTX and raloxifene, the inhibition of AOX with resultant decreased 
+formation of 7-OH MTX; will increase MTX levels and improve MTX efficacy. This 
+hypothesis could be studied in an open-label, proof of concept clinical study in 
+individuals before and after the addition of raloxifene. Red blood cell MTX and 
+7-OH-MTX levels and RA disease activity (DAS28) would be measured. In possible 
+future studies, there are dietary substances, as supplements, (e.g. 
+epigallocatechin gallate in green tea and resveratrol) which inhibit human liver 
+AOX which could be evaluated.

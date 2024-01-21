@@ -1,0 +1,27 @@
+OBJECTIVE: To address the ongoing debate concerning the specificity of synovial 
+citrullinated proteins for rheumatoid arthritis (RA) and to analyze their 
+pathophysiologic relevance to the induction or perpetuation of the RA-specific 
+anti-citrullinated protein antibodies (ACPAs).
+METHODS: Synovium of 19 RA patients and 19 non-RA controls was immunostained for 
+the presence of citrullinated proteins with a mouse monoclonal antibody (F95), 
+for the citrullinating enzyme peptidyl arginine deiminase type 2 (PAD-2), and 
+for the free citrulline-producing enzyme inducible nitric oxide synthase (iNOS). 
+Extending the RA cohort to 61 patients, the findings of anticitrulline staining 
+in synovium were related to serum and synovial fluid ACPA levels, as measured by 
+enzyme-linked immunosorbent assay.
+RESULTS: F95 staining indicated the presence of synovial intracellular 
+citrullinated proteins in 53% of RA samples versus 5% of control samples, 
+whereas extracellular staining was not RA specific. Immunoblotting and 
+inhibition experiments confirmed that the antibody recognized citrullinated 
+proteins but not free citrulline. Accordingly, iNOS was equally found in RA and 
+control synovium and in intracellular citrullinated protein-positive and 
+intracellular citrullinated protein-negative samples. In contrast, intracellular 
+citrullinated proteins colocalized with PAD-2, which was found in 59% of RA 
+samples versus 17% of control samples. Independent of local disease activity, 
+the presence of the RA-specific synovial intracellular citrullinated proteins 
+was associated with significantly higher systemic and local ACPA levels and with 
+local ACPA production in the joint.
+CONCLUSION: These data confirm the presence of RA-specific intracellular 
+citrullinated proteins in synovium. The link with PAD-2 and local and systemic 
+ACPA levels emphasizes their pathophysiologic relevance for RA-specific humoral 
+autoimmunity.

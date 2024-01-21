@@ -1,0 +1,22 @@
+Clostridium difficile is a Gram-positive obligate anaerobic pathogen that causes 
+pseudomembranous colitis in antibiotic-treated individuals. Commensal bacteria 
+are known to have a significant role in the intestinal accumulation of C. 
+difficile after antibiotic treatment, but little is known about how they affect 
+host immunity during C. difficile infection. In this article, we report that C. 
+difficile infection results in translocation of commensals across the intestinal 
+epithelial barrier that is critical for neutrophil recruitment through the 
+induction of an IL-1β-mediated positive-feedback loop. Mice lacking ASC, an 
+essential mediator of IL-1β and IL-18 processing and secretion, were highly 
+susceptible to C. difficile infection. ASC(-/-) mice exhibited enhanced 
+translocation of commensals to multiple organs after C. difficile infection. 
+Notably, ASC(-/-) mice exhibited impaired CXCL1 production and neutrophil influx 
+into intestinal tissues in response to C. difficile infection. The impairment in 
+neutrophil recruitment resulted in reduced production of IL-1β and CXCL1 but not 
+IL-18. Importantly, translocated commensals were required for 
+ASC/Nlrp3-dependent IL-1β secretion by neutrophils. Mice lacking IL-1β were 
+deficient in inducing CXCL1 secretion, suggesting that IL-1β is the dominant 
+inducer of ASC-mediated CXCL1 production during C. difficile infection. These 
+results indicate that translocated commensals play a crucial role in 
+CXCL1-dependent recruitment of neutrophils to the intestine through an 
+IL-1β/NLRP3/ASC-mediated positive-feedback mechanism that is important for host 
+survival and clearance of translocated commensals during C. difficile infection.

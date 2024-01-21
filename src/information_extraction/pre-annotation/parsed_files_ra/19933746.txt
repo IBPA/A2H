@@ -1,0 +1,22 @@
+BACKGROUND: Rheumatoid arthritis is an inflammatory disease marked by 
+intra-articular decreases in pH, aberrant hyaluronan regulation and destruction 
+of bone and cartilage. Acid-sensing ion channels (ASICs) are the primary acid 
+sensors in the nervous system, particularly in sensory neurons and are important 
+in nociception. ASIC3 was recently discovered in synoviocytes, non-neuronal 
+joint cells critical to the inflammatory process.
+OBJECTIVES: To investigate the role of ASIC3 in joint tissue, specifically the 
+relationship between ASIC3 and hyaluronan and the response to decreased pH.
+METHODS: Histochemical methods were used to compare morphology, hyaluronan 
+expression and ASIC3 expression in ASIC3+/+ and ASIC3-/- mouse knee joints. 
+Isolated fibroblast-like synoviocytes (FLS) were used to examine hyaluronan 
+release and intracellular calcium in response to decreases in pH.
+RESULTS: In tissue sections from ASIC3+/+ mice, ASIC3 localised to articular 
+cartilage, growth plate, meniscus and type B synoviocytes. In cultured FLS, 
+ASIC3 mRNA and protein was also expressed. In FLS cultures, pH 5.5 increased 
+hyaluronan release in ASIC3+/+ FLS, but not ASIC3-/- FLS. In FLS from ASIC3+/+ 
+mice, approximately 50% of cells (25/53) increased intracellular calcium while 
+only 24% (14/59) showed an increase in ASIC3-/- FLS. Of the cells that responded 
+to pH 5.5, there was significantly less intracellular calcium increases in 
+ASIC3-/- FLS compared to ASIC3+/+ FLS.
+CONCLUSION: ASIC3 may serve as a pH sensor in synoviocytes and be important for 
+modulation of expression of hyaluronan within joint tissue.

@@ -1,0 +1,28 @@
+OBJECTIVE: Interleukin-20 (IL-20) is a proinflammatory cytokine involved in the 
+pathogenesis of rheumatoid arthritis (RA). We investigated whether anti-IL-20 
+antibody treatment would modulate the severity of the disease in a 
+collagen-induced arthritis (CIA) rat model.
+METHODS: We generated a CIA model by immunizing rats with bovine type II 
+collagen. Rats with CIA were treated subcutaneously with anti-IL-20 antibody 7E, 
+with the tumor necrosis factor (TNF) blocker etanercept, or with 7E in 
+combination with etanercept. Arthritis severity was determined according to the 
+hind paw thickness, arthritis severity score, degree of cartilage damage, bone 
+mineral density, and cytokine production, which were evaluated using radiologic 
+scans, microfocal computed tomography, and enzyme-linked immunosorbent assay. To 
+analyze gene regulation by IL-20, rat synovial fibroblasts (SFs) were isolated 
+and analyzed for the expression of RANKL, IL-17, and TNFα. We also used 
+real-time quantitative polymerase chain reaction analysis and flow cytometry to 
+determine IL-20-regulated RANKL in mouse osteoblastic MC3T3-E1 cells and Th17 
+cells.
+RESULTS: In vivo, treatment with 7E alone or in combination with etanercept 
+significantly reduced the severity of arthritis by decreasing the hind paw 
+thickness and swelling, preventing cartilage damage and bone loss, and reducing 
+the expression of IL-20, IL-1β, IL-6, RANKL, and matrix metalloproteinases 
+(MMPs) in synovial tissue. In vitro, IL-20 induced TNFα expression in SFs from 
+rats with CIA. IL-20 markedly induced RANKL production in SFs, osteoblasts, and 
+Th17 cells.
+CONCLUSION: Selectively blocking IL-20 inhibited inflammation and bone loss in 
+rats with CIA. Treatment with 7E combined with etanercept protected rats from 
+CIA better than treatment with etanercept alone. Our findings provide evidence 
+that IL-20 is a novel target and that 7E may be a potential therapeutic agent 
+for RA.

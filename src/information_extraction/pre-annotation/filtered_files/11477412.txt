@@ -1,0 +1,18 @@
+In K/BxN T cell receptor-transgenic mice, spontaneous inflammatory arthritis 
+exhibiting many of the features of human rheumatoid arthritis (RA) is initiated 
+by T cells, but is almost entirely sustained by antibodies to the self-antigen 
+glucose-6-phosphate isomerase (GPI). The relevance of these observations to 
+human disease has been questioned. Here we show that 64% of humans with RA, but 
+not controls, had increased concentrations of anti-GPI immunoglobulin G (IgG) in 
+serum and synovial fluid. In addition, the concentrations of soluble GPI in the 
+sera and synovial fluids of RA patients were also elevated, which led to immune 
+complex formation. Using phage-display methods, we cloned a panel of specific 
+high-affinity human monoclonal anti-GPI IgGs from a patient with RA. These 
+antibodies were highly somatically mutated, which was indicative of an 
+affinity-matured response that was antigen driven. Immunohistochemistry of RA 
+synovium showed high concentrations of GPI on the surface of the synovial lining 
+and on the endothelial cell surface of arterioles; this indicated a mechanism by 
+which antibodies to GPI may precipitate joint disease. The results indicate that 
+the immunological events that lead to the development of autoimmune disease in 
+the K/BxN mouse model may also occur in human RA. This data may be used to 
+develop new strategies for therapeutic intervention.

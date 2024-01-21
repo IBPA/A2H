@@ -1,0 +1,19 @@
+Autoantibodies to citrullinated proteins (ACPAs) are present in two-thirds of 
+patients with rheumatoid arthritis (RA). ACPAs are produced in the absence of 
+identified T cell responses for each citrullinated protein. Peptidyl arginine 
+deiminase 4 (PAD4), which binds proteins and citrullinates them, is the target 
+of autoantibodies in early RA. This suggests a model for the emergence of ACPAs 
+in the absence of detectable T cells specific for citrullinated antigens: ACPAs 
+could arise because PADs are recognized by T cells, which help the production of 
+autoantibodies to proteins bound by PADs, according to a "hapten/carrier" model. 
+Here, we tested this model in normal mice. C3H are healthy mice whose IEβk chain 
+is highly homologous to the β1 chain HLA-DRB1*04:01, the allele most strongly 
+associated with RA in humans. C3H mice immunized with PADs developed antibodies 
+and T cells to PAD and IgG antibodies to citrullinated fibrinogen peptides, in 
+the absence of a T cell response to fibrinogen. To analyze the MHC background 
+effect on hapten/carrier immunization, we immunized DBA/2 mice (whose IEβd chain 
+is similar to that of HLA-DRB1*04:02, an HLA-DR4 subtype not associated with 
+RA). DBA/2 mice failed to develop antibodies to citrullinated fibrinogen 
+peptides. Thus, T cell immunization to PAD proteins may trigger ACPAs through a 
+hapten/carrier mechanism. This may constitute the basis for a new mouse model of 
+ACPA-positive RA.

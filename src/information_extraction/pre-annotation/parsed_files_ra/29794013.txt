@@ -1,0 +1,23 @@
+Fibroblast-like synoviocytes (FLSs) play a key role in the progression of 
+rheumatoid arthritis (RA) as a primary component of invasive hypertrophied 
+pannus. FLSs of RA patients (RA-FLSs) exhibit cancer-like features, including 
+promigratory and proinvasive activities that largely contribute to joint 
+cartilage and bone destruction. In this study, we hypothesized that the NF of 
+activated T cell 5 (NFAT5), a transcription factor involving tumor invasiveness, 
+would control the migration and invasion of RA-FLSs. Analyses of transcriptomes 
+demonstrated the significant involvement of NFAT5 in locomotion of RA-FLSs and 
+that tissue factor (TF; also known as coagulation factor III) and CCL2 were the 
+major downstream target genes of NFAT5 involving FLS migration and invasion. In 
+cultured RA-FLSs, IL-1β and TGF-β increased TF and CCL2 expression by 
+upregulating NFAT5 expression via p38 MAPK. Functional assays demonstrated that 
+NFAT5- or TF-deficient RA-FLSs displayed decreased lamellipodia formation, cell 
+migration, and invasion under IL-1β- or TGF-β-stimulated conditions. Conversely, 
+factor VIIa, a specific activator of TF, increased migration of RA-FLSs, which 
+was blocked by NFAT5 knockdown. Recombinant CCL2 partially restored the decrease 
+in migration and invasion of NFAT5-deficient RA-FLSs stimulated with IL-1β. 
+NFAT5-knockout mouse FLSs also showed decreased expressions of TF and CCL2 and 
+reduced cell migration. Moreover, KRN2, a specific inhibitor of NFAT5, 
+suppressed migration of FLSs stimulated with TGF-β. Conclusively, to our 
+knowledge, this is the first study to provide evidence of a functional link 
+between osmoprotective NFAT5 and TF in the migration and invasion of RA-FLSs and 
+supports a role for NFAT5 blockade in the treatment of RA.

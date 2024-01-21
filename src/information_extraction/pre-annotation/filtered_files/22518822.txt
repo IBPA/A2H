@@ -1,0 +1,20 @@
+T cells orchestrate joint inflammation in rheumatoid arthritis (RA), but B 
+cells/B cell-derived factors are also involved in disease pathogenesis. The goal 
+of this study was to understand the role of antigen-specific T and B cells in 
+the pathological events of arthritis, which is impossible to study in humans due 
+to the small number of antigen-specific cells. To determine the significance of 
+antigen-specific lymphocytes and antibodies in the development of an autoimmune 
+mouse model of RA, we generated TCR transgenic (TCR-Tg) mice specific for the 
+dominant arthritogenic epitope of cartilage proteoglycan (PG) and performed a 
+series of combined transfers of T cells, B cells and autoantibodies into 
+BALB/c.Scid mice. The adoptive transfer of highly purified T cells from naive 
+TCR-Tg, arthritic TCR-Tg or arthritic wild-type mice induced arthritis in SCID 
+recipients, but the onset and severity of the disease were dependent on the 
+sequential events of the T cell-supported reconstitution of PG-specific B cells 
+and autoantibodies. The presence of activated PG-specific T cells was critical 
+for disease induction, establishing a unique milieu for the selective 
+homeostasis of autoantibody-producing B cells. In this permissive environment, 
+anti-PG autoantibodies bound to cartilage and induced activation of the 
+complement cascade, leading to irreversible cartilage destruction in affected 
+joints. These findings may lead to a better understanding of the complex 
+molecular and cellular mechanisms of RA.

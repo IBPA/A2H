@@ -1,0 +1,26 @@
+OBJECTIVE: Pain sensitization and the related secretion of neuropeptides from 
+sensory nerve terminals are proinflammatory in osteoarthritis (OA), rheumatoid 
+arthritis (RA), and adjuvant-induced polyarthritis. In contrast, endogenous 
+opioids such as the recently discovered endomorphins (EMs) are antiinflammatory. 
+However, the role of endogenous EMs such as EM-1 and EM-2 has never been 
+investigated in OA and RA.
+METHODS: We established a highly sensitive radioimmunoassay to detect EM-1 and 
+EM-2. In patients with RA and patients with OA, immunohistochemistry for EM-1 
+and EM-2 was performed, and double-staining was used to identify EM-positive 
+cells. The effects of EM-1 and EM-2 on the secretion of interleukin-6 (IL-6) and 
+IL-8 from human synovial tissue were studied by tissue superfusion, and the 
+therapeutic effects of EM-1 were tested in a rat model of adjuvant-induced 
+polyarthritis.
+RESULTS: EM-positive cells were located in the sublining area and vessel walls 
+but were particularly evident in the highly inflamed lining area. Human 
+macrophages, T cells, and fibroblasts stained positive for EMs. The synovial 
+density of EM-positive cells was higher in patients with OA than in those with 
+RA. EM-1 inhibited synovial secretion of IL-6 in patients with RA and secretion 
+of IL-8 in patients with RA and those with OA (maximum 10(-10)M). EM-2 inhibited 
+IL-8 secretion only from RA tissue (maximum 10(-10)M). In rats with 
+adjuvant-induced polyarthritis, thymus, spleen, and synovial tissue contained 
+significantly more EM-1 than was observed in controls. Rats with 
+adjuvant-induced polyarthritis benefited from EM-1 treatment.
+CONCLUSION: EM-1 had antiinflammatory effects in patients with OA or RA and in a 
+model of adjuvant-induced polyarthritis. Local enhancement of EM-1 might be an 
+interesting therapeutic option in different forms of arthritis.

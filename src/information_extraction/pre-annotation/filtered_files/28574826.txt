@@ -1,0 +1,20 @@
+EBV infection causes mononucleosis and is associated with specific subsets of B 
+cell lymphomas. Immunosuppressed patients such as organ transplant recipients 
+are particularly susceptible to EBV-induced lymphoproliferative disease (LPD), 
+which can be fatal. Leflunomide (a drug used to treat rheumatoid arthritis) and 
+its active metabolite teriflunomide (used to treat multiple sclerosis) inhibit 
+de novo pyrimidine synthesis by targeting the cellular dihydroorotate 
+dehydrogenase, thereby decreasing T cell proliferation. Leflunomide also 
+inhibits the replication of cytomegalovirus and BK virus via both "on target" 
+and "off target" mechanisms and is increasingly used to treat these viruses in 
+organ transplant recipients. However, whether leflunomide/teriflunomide block 
+EBV replication or inhibit EBV-mediated B cell transformation is currently 
+unknown. We show that teriflunomide inhibits cellular proliferation, and 
+promotes apoptosis, in EBV-transformed B cells in vitro at a clinically relevant 
+dose. In addition, teriflunomide prevents the development of EBV-induced 
+lymphomas in both a humanized mouse model and a xenograft model. Furthermore, 
+teriflunomide inhibits lytic EBV infection in vitro both by preventing the 
+initial steps of lytic viral reactivation, and by blocking lytic viral DNA 
+replication. Leflunomide/teriflunomide might therefore be clinically useful for 
+preventing EBV-induced LPD in patients who have high EBV loads yet require 
+continued immunosuppression.

@@ -1,0 +1,11 @@
+Infections with Clostridium difficile increasingly cause morbidity and mortality 
+worldwide. Bacterial surface glycans including lipoteichoic acid (LTA) were 
+identified as auspicious vaccine antigens to prevent colonization. Here, we 
+report on the potential of synthetic LTA glycans as vaccine candidates. We 
+identified LTA-specific antibodies in the blood of C. difficile patients. 
+Therefore, we evaluated the immunogenicity of a semi-synthetic LTA-CRM197 
+glycoconjugate. The conjugate elicited LTA-specific antibodies in mice that 
+recognized natural LTA epitopes on the surface of C. difficile bacteria 
+and inhibited intestinal colonization of C. difficile in mice in vivo. Our 
+findings underscore the promise of synthetic LTA glycans as C. difficile vaccine 
+candidates.

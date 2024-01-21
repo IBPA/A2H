@@ -1,0 +1,25 @@
+BACKGROUND AND PURPOSE: Chemokine receptors CXCR1 and CXCR2 may mediate influx 
+of neutrophils in models of acute and chronic inflammation. The potential 
+benefits of oral administration of a CXCR1/2 inhibitor, DF 2162, in 
+adjuvant-induced polyarthritis (AIA) were investigated.
+EXPERIMENTAL APPROACH: A model of AIA in rats was used to compare the 
+therapeutic effects of the treatment with DF2162, anti-TNF or anti-CINC-1 
+antibodies on joint inflammation and local production of cytokines and 
+chemokines.
+KEY RESULTS: DF2162 prevented chemotaxis of rat and human neutrophils induced by 
+chemokines acting on CXCR1/2. DF2162 was orally bioavailable and metabolized to 
+two major metabolites. Only metabolite 1 retained CXCR1/2 blocking activity. 
+Treatment with DF2162 (15 mg kg(-1), twice daily) or metabolite 1, but not 
+metabolite 2, starting on day 10 after arthritis induction diminished 
+histological score, the increase in paw volume, neutrophil influx and local 
+production of TNF, IL-1beta, CCL2 and CCL5. The effects of DF2162 were similar 
+to those of anti-TNF, and more effective than those of anti-CINC-1, antibodies. 
+DF2162 prevented disease progression even when started 13 days after arthritis 
+induction.
+CONCLUSIONS AND IMPLICATIONS: DF 2162, a novel orally-active non-competitive 
+allosteric inhibitor of CXCR1 and CXCR2, significantly ameliorates AIA in rats, 
+an effect quantitatively and qualitatively similar to those of anti-TNF antibody 
+treatment. These findings highlight the contribution of CXCR2 in the 
+pathophysiology of AIA and suggest that blockade of CXCR1/2 may be a valid 
+therapeutic target for further studies aiming at the development of new drugs 
+for treatment of rheumatoid arthritis.

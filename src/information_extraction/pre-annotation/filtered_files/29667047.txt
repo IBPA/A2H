@@ -1,0 +1,23 @@
+A prominent example of human therapeutic protein-drug interaction (TP-DI) is 
+between methotrexate (MTX) and anti-TNFα mAbs. One plausible mechanism for this 
+TP-DI is through the pharmacodynamic effect of MTX on immunogenicity. However, 
+there is no definitive evidence to substantiate this mechanism, and other 
+competing hypotheses, such as MTX suppressing FcγRI expression thereby affecting 
+mAb PK, have also been proposed. In order to understand this mechanism, a 
+cynomolgus monkey study was conducted using golimumab as a model compound. 
+Golimumab elicited high incidences of immunogenicity in healthy cynomolgus 
+monkeys. Concomitant dosing of MTX delayed the onset and reduced the magnitude 
+of anti-drug antibody (ADA) formation. The impact of MTX on golimumab PK 
+correlated with the ADA status. Prior to ADA formation, MTX has no discernable 
+effect on golimumab PK. Additionally, no alteration in FcγRI expression was 
+observed following MTX treatment. The impact of MTX on golimumab immunogenicity 
+and PK has been observed in patients with rheumatoid arthritis, psoriatic 
+arthritis (PsA), and ankylosing spondylitis. In a representative phase 3 study 
+of golimumab in patients with PsA, patients not receiving concomitant MTX was 
+reported to have ~ 30% lower steady-state trough golimumab levels compared to 
+those who received MTX. However, further analysis showed that PsA patients who 
+were negative for ADA in both treatment groups had comparable trough levels of 
+golimumab. Taken together, our results suggest that the mechanism of TP-DI 
+between MTX and golimumab can mostly be attributed to the pharmacodynamic effect 
+of MTX, i.e., the lowering of immunogenicity and immunogenicity-mediated 
+clearance of mAbs.

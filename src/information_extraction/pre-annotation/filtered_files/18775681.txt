@@ -1,0 +1,25 @@
+Oxidative stress induced by reactive oxygen intermediates has been implicated in 
+a variety of human diseases including rheumatoid arthritis and neurodegenerative 
+disorders. 15-Deoxy-Delta(12,14)-prostaglandin J(2) (15d-PGJ(2)), a terminal 
+dehydration product of prostaglandin D(2), is an endogenous ligand of peroxisome 
+proliferator-activated receptor-gamma and exhibits a number of biological 
+activities including the proapoptotic activity. Recent studies have revealed 
+that this cyclopentenone prostaglandin, at non-toxic concentrations, can also 
+exert antiapoptotic or cytoprotective effects. In this study, the underlying 
+mechanisms involved in the protective effects of 15d-PGJ(2) on the H2O2-induced 
+cytotoxicty were explored using cultured rat pheochromocytoma (PC12) cells. PC12 
+cells treated with H2O2 underwent apoptosis, which was attenuated by 
+pretreatment with non-toxic concentrations of 15d-PGJ(2). Treatment of the PC12 
+cells with 15d-PGJ(2) resulted in increased nuclear translocation, DNA-binding 
+and transcriptional activity of NF-E2-related factor 2 (Nrf2), leading to 
+upregulation of heme oxygenase-1 (HO-1) expression, which provided an adaptive 
+survival response against the H2O2-derived oxidative cytotoxicity. Transfection 
+of PC12 cells with dominant-negative Nrf2 gene abolished the 15d-PGJ(2)-derived 
+induction of HO-1 expression. Moreover, the 15d-PGJ(2)-mediated increases in 
+Nrf2-ARE binding and ARE luciferase activity were suppressed by the 
+dominant-negative mutation as well as the pharmacological inhibition of 
+Akt/protein kinase B or extracellular signal-regulated kinase 1/2 (ERK1/2). 
+Taken together, these findings suggest that 15d-PGJ(2) augments cellular 
+antioxidant defense capacity through activation of Akt and ERK signal pathways 
+that leads to Nrf2 activation, and subsequently HO-1 induction, thereby 
+protecting the PC12 cells from H2O2-induced oxidative cell death.

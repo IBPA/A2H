@@ -1,0 +1,25 @@
+Rheumatoid arthritis (RA) is a systemic autoimmune disease involving 
+inflammation of the joints. Among the autoantibodies described in RA, 
+anticitrullinated protein antibodies (ACPAs) are highly specific and predictive 
+for RA. In addition, ACPAs have been implicated in the pathogenesis of RA. 
+However, a direct functional response of immune cells from ACPA(+) RA patients 
+toward citrullinated proteins has not been demonstrated. In this study, we show 
+that exposure to citrullinated antigens leads to activation of basophils from 
+ACPA(+) RA patients within 20 minutes. This was not observed after exposure of 
+basophils to noncitrullinated control antigens or after stimulation of basophils 
+from ACPA(-) RA patients and healthy controls. Basophil activation was 
+correlated with the binding of citrullinated proteins to basophils. Furthermore, 
+serum from ACPA(+) RA patients in contrast to that from ACPA(-) RA patients 
+could specifically sensitize human FcepsilonRI expressing rat basophil cells 
+(RBL), enabling activation by citrullinated proteins. Mast cell degranulation 
+products such as histamine levels were enhanced in synovial fluid of ACPA(+) RA 
+patients as compared with ACPA(-) RA and osteoarthritis patients. In addition, 
+histamine levels in synovial fluid from ACPA(+) RA patients correlated with IgE 
+levels, suggesting degranulation of mast cells by cross-linking IgE. 
+Immunohistochemistry on synovial biopsies demonstrated an increased number of 
+degranulated CD117(+) mast cells in ACPA(+) RA patients; IgE and FcepsilonRI 
+expression in synovial mast cells from ACPA(+) RA patients was increased. In 
+conclusion, our results show an immunological response of immune cells from 
+ACPA(+) RA patients in a citrulline-specific manner. Moreover, these data 
+indicate a role for IgE-ACPAs and FcepsilonRI-positive cells in the pathogenesis 
+of RA.

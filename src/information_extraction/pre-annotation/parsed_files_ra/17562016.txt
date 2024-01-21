@@ -1,0 +1,27 @@
+BACKGROUND: Rheumatoid arthritis (RA) and its accepted animal model, murine 
+collagen-induced arthritis (CIA), are classic autoimmune inflammatory diseases 
+which require proinflammatory cytokine production for pathogenesis. We and 
+others have previously used N, N-dimethylglycine (DMG) and extracts from the New 
+Zealand green-lipped mussel Perna canaliculus (Perna) as potent immunomodulators 
+to modify ongoing immune and/or inflammatory responses.
+METHODS: In our initial studies, we treated lipopolysaccahride (LPS) stimulated 
+THP-1 monocytes in vitro with increasing concentrations of Perna extract or DMG. 
+Additionally, we treated rat peripheral blood neutrophils with increasing 
+concentrations of Perna extract and measured superoxide burst. In subsequent in 
+vivo experiments, CIA was induced by administration of type II collagen; rats 
+were prophylactically treated with either Perna or DMG, and then followed for 
+disease severity. Finally, to test whether Perna and/or DMG could block or 
+inhibit an ongoing pathologic disease process, we induced CIA in mice and 
+treated them therapeutically with either of the two immunomodulators.
+RESULTS: Following LPS stimulation of THP-1 monocytes, we observed 
+dose-dependent reductions in TNF-alpha and IL-12p40 production in Perna treated 
+cultures. DMG treatment, however, showed significant increases in both of these 
+cytokines in the range of 0.001-1 microM. We also demonstrate that in vitro 
+neutrophil superoxide burst activity is dose-dependently reduced in the presence 
+of Perna. Significant reductions in disease incidence, onset, and severity of 
+CIA in rats were noted following prophylactic treatment with either of the two 
+immunomodulators. More importantly, amelioration of mouse CIA was observed 
+following therapeutic administration of Perna. In contrast, DMG appeared to have 
+little effect in mice and may act in a species-specific manner.
+CONCLUSION: These data suggest that Perna, and perhaps DMG, may be useful 
+supplements to the treatment of RA in humans.

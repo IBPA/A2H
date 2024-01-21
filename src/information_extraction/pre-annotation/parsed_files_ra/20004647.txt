@@ -1,0 +1,17 @@
+Neutrophils and monocytes are abundantly represented in the synovial fluid and 
+tissue in rheumatoid arthritis patients. We therefore explored the effects of 
+small molecule chemokine receptor antagonists to block migration of these cells 
+in anti-collagen antibody-induced arthritis. Targeting neutrophil migration with 
+the CXCR2/CXCR1 antagonist SCH563705 led to a dose-dependent decrease in 
+clinical disease scores and paw thickness measurements and clearly reduced 
+inflammation and bone and cartilage degradation based on histopathology and paw 
+cytokine analyses. In contrast, targeting monocyte migration with the CCR2 
+antagonist MK0812 had no effect on arthritis disease severity. The 
+pharmacodynamic activities of both SCH563705 and MK0812 were verified by 
+assessing their effects on the peripheral blood monocyte and neutrophil 
+populations. SCH563705 selectively reduced the peripheral blood neutrophil 
+frequency, and caused an elevation in the CXCR2 ligand CXCL1. MK0812 selectively 
+reduced the peripheral blood monocyte frequency, and caused an elevation in the 
+CCR2 ligand CCL2. The much greater impact of CXCR2/CXCR1 antagonism relative to 
+CCR2 antagonism in this model of arthritis highlights the therapeutic potential 
+for targeting CXCR2/CXCR1 in human arthritides.

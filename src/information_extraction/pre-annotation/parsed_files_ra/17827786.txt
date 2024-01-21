@@ -1,0 +1,18 @@
+Adjuvant-induced arthritis (AA) rats have been used as an animal model for 
+rheumatoid arthritis. Several studies have shown that the pharmacokinetics of a 
+number of drugs are altered in AA rats. We investigated the effects of AA on the 
+barrier functions of the intestine using a rat model. Intestinal CYP3A 
+activities (midazolam 1'-hydroxylation and 
+7-benzyloxy-4-(trifluoromethyl)-coumarin 7-hydroxylation) in AA rats were 
+significantly decreased compared with those in normal rats, with marked decrease 
+observed in the upper segment of intestine. Intestinal P-glycoprotein (P-gp) 
+activity at upper segment was also significantly decreased in AA rats to 60% of 
+that in normal rats, and the other segments (middle and lower) of intestine also 
+exhibited tendencies toward decrease in P-gp activity. This decrease was 
+supported by the finding that levels of mdr1a mRNA and P-gp protein were 
+decreased in AA rats. No significant differences were observed in intestinal 
+paracellular and transcellular permeability between AA and normal rats. These 
+results suggest that intestinal CYP3A and P-gp activities are decreased in AA 
+rats, and that the pharmacokinetics and bioavailabilities of drugs whose 
+membrane permeation is limited by intestinal CYP3A and/or P-gp may be altered in 
+rheumatic diseases.

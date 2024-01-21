@@ -1,0 +1,24 @@
+OBJECTIVE AND DESIGN: Rheumatoid arthritis is a chronic inflammatory and 
+autoimmune disease that leads to aggressive joint cartilage and bone 
+destruction. Swertiamarin is a secoiridoid glycoside found in Enicostema 
+axillare (Lam) A. Raynal, a medicinal plant used in the Indian system of 
+traditional medicine. In the present study, the potential of swertiamarin was 
+evaluated in IL-1β induced fibroblast-like synoviocytes (FLS).
+METHODS: The FLS were isolated from Freund's Complete Adjuvant induced arthritic 
+(AA) rats and cultured with IL-1β. The normal FLS and AA-FLS were cultured and 
+used for subsequent experiment in fibroblastic morphology form. The efficacy of 
+swertiamarin (10-50 μg/ml) was evaluated on mRNA and protein expression levels 
+of inflammatory and osteoclastogenesis mediators. The efficacy was also 
+evaluated on p38 MAPKα levels with time course studies (2, 4, 6, 8 and 12 h).
+RESULTS: IL-1β induced cell proliferation (149.46 ± 13.73 %) and NO production 
+(162.03 ± 11.03%) in AA-FLS; treatment with swertiamarin controlled 
+proliferation (82.77 ± 4.22%) and NO production (82.06 ± 3.91% at 50 μg/ml) in a 
+dose-dependent manner. It also significantly (P < 0.05) modulated the expression 
+of apoptotic marker (caspase 3), proinflammation mediators (TNFα, IL-6, PGE2, 
+COX-2, iNOS, MMPs) and osteoclastogenic mediator (RANKL) at both the mRNA and 
+protein levels. Treatment with swertiamarin inhibited the levels of p38 MAPKα in 
+a dose-dependent manner and also significantly (P < 0.05) attenuated the release 
+of the same in time dependent mode.
+CONCLUSION: These findings suggest that treatment with swertiamarin attenuated 
+IL-1β induced FLS, and it revealed anti-inflammatory potential by attenuating 
+aggressive FLS.

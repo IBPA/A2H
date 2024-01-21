@@ -1,0 +1,18 @@
+Clostridium difficile enteritis is caused by toxin A (TA) which stimulates 
+substance P release and subsequent receptor activation. This receptor 
+stimulation results in secretion, inflammation, and structural damage. However, 
+it is unclear as to which subset of neurons is required to initiate substance P 
+release following toxin stimulation. Five centimeter ileal segments were 
+surgically denervated. After 10 days, three ileal loops were constructed in each 
+rat: the denervated loop was injected intraluminally with 5 microg of TA and two 
+intact loops were injected with TA or vehicle, respectively. Ileal secretion, 
+myeloperoxidase activity, and histology were then assessed. Denervated ileal 
+loops injected with TA had a 75% reduction in ileal secretion (P < 0.001), 92% 
+reduction in myeloperoxidase activity (P < 0.01) and 96% reduction in histologic 
+damage (P < 0.001) compared to innervated loops. There were no significant 
+differences between the denervated loops injected with TA and those injected 
+with vehicle. Extrinsic surgical denervation results in protection of ileal 
+loops from TA enteritis. Furthermore, these results exclude the participation of 
+intrinsic enteric nerves in TA-induced ileal damage. Finally, this suggests that 
+extrinsic primary sensory neurons mediate the effects of intraluminal TA in the 
+ileum.

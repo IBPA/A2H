@@ -1,0 +1,23 @@
+Canonical inflammasome activation induces a caspase-1/gasdermin D 
+(Gsdmd)-dependent lytic cell death called pyroptosis that promotes antimicrobial 
+host defense but may contribute to sepsis. The nature of the caspase-1-dependent 
+change in plasma membrane (PM) permeability during pyroptotic progression 
+remains incompletely defined. We assayed propidium(2+) (Pro(2+)) influx kinetics 
+during NLRP3 or Pyrin inflammasome activation in murine bone marrow-derived 
+macrophages (BMDMs) as an indicator of this PM permeabilization. BMDMs were 
+characterized by rapid Pro(2+) influx after initiation of NLRP3 or Pyrin 
+inflammasomes by nigericin (NG) or Clostridium difficile toxin B (TcdB), 
+respectively. No Pro(2+) uptake in response to NG or TcdB was observed in 
+Casp1(-/-) or Asc(-/-) BMDMs. The cytoprotectant glycine profoundly suppressed 
+NG and TcdB-induced lysis but not Pro(2+) influx. The absence of Gsdmd 
+expression resulted in suppression of NG-stimulated Pro(2+) influx and 
+pyroptotic lysis. Extracellular La(3+) and Gd(3+) rapidly and reversibly blocked 
+the induced Pro(2+) influx and markedly delayed pyroptotic lysis without 
+limiting upstream inflammasome assembly and caspase-1 activation. Thus, 
+caspase-1-driven pyroptosis requires induction of initial prelytic pores in the 
+PM that are dependent on Gsdmd expression. These PM pores also facilitated the 
+efflux of cytosolic ATP and influx of extracellular Ca(2+) Although lanthanides 
+and Gsdmd deletion both suppressed PM pore activity and pyroptotic lysis, robust 
+IL-1β release was observed in lanthanide-treated BMDMs but not in 
+Gsdmd-deficient cells. This suggests roles for Gsdmd in both passive IL-1β 
+release secondary to pyroptotic lysis and in nonlytic/nonclassical IL-1β export.

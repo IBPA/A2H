@@ -1,0 +1,16 @@
+In traditional Chinese medicine (TCM), xianfanghuomingyin (XFHM) is used to 
+treat autoimmune diseases, including rheumatoid arthritis (RA). Here, we studied 
+the mechanisms underlying its treatment effects, especially its 
+anti-inflammatory effects in a collagen-induced arthritis (CIA) mouse model. We 
+found that cartilage destruction and pannus formation were alleviated by 
+treatment with XFHM. The abnormal differentiation of Th1 and Th17 cells was 
+downregulated significantly by XFHM, and Th2 and Treg cells were upregulated. 
+Moreover, the expression levels of specific cytokines and transcription factors 
+related to Th1 cells (interferon γ [IFNγ], T-bet) and Th17 cells (interleukin- 
+[IL-] 17) and the nuclear receptor retinoic acid receptor-related orphan 
+receptor-gamma (RORγ) were downregulated. Serum IL-4 and GATA-3, which 
+contribute to Th2 cells differentiation, increased significantly after XFHM 
+administration. These results indicate that XFHM can restore the balance of T 
+lymphocytes and reestablish the immunological tolerance to inhibit 
+autoinflammatory disorder of RA. Taken together, XFHM can be used as a 
+complementary or alternative traditional medicine to treat RA.

@@ -1,0 +1,23 @@
+C. difficile is a Gram-positive spore-forming anaerobic bacterium that is the 
+leading cause of nosocomial diarrhea in the developed world. The pathogenesis of 
+C. difficile infections (CDI) is driven by toxin A (TcdA) and toxin B (TcdB), 
+secreted factors that trigger the release of inflammatory mediators and 
+contribute to disruption of the intestinal epithelial barrier. Neutrophils play 
+a key role in the inflammatory response and the induction of pseudomembranous 
+colitis in CDI. TcdA and TcdB alter cytoskeletal signaling and trigger the 
+release of CXCL8/IL-8, a potent neutrophil chemoattractant, from intestinal 
+epithelial cells; however, little is known about the surface receptor(s) that 
+mediate these events. In the current study, we sought to assess whether 
+toxin-induced CXCL8/IL-8 release and barrier dysfunction are driven by the 
+activation of the P2Y6 receptor following the release of UDP, a danger signal, 
+from intoxicated Caco-2 cells. Caco-2 cells express a functional P2Y6 receptor 
+and release measurable amounts of UDP upon exposure to TcdA/B. Toxin-induced 
+CXCL8/IL-8 production and release were attenuated in the presence of a selective 
+P2Y6 inhibitor (MRS2578). This was associated with inhibition of TcdA/B-induced 
+activation of NFκB. Blockade of the P2Y6 receptor also attenuated toxin-induced 
+barrier dysfunction in polarized Caco-2 cells. Lastly, pretreating mice with the 
+P2Y6 receptor antagonists (MSR2578) attenuated TcdA/B-induced inflammation and 
+intestinal permeability in an intrarectal toxin exposure model. Taken together 
+these data outline a novel role for the P2Y6 receptor in the induction of 
+CXCL8/IL-8 production and barrier dysfunction in response to C. difficile toxin 
+exposure and may provide a new therapeutic target for the treatment of CDI.

@@ -1,0 +1,20 @@
+Grape seed proanthocyanidin extract (GSPE), which is the antioxidant derived 
+from grape seeds, has been reported to possess a variety of potent properties. 
+We have previously shown that GSPE attenuates collagen-induced arthritis. 
+However the mechanism by which GSPE regulates the immune response remains 
+unclear, although it may involve effects on the regulation of pathogenic T cells 
+in autoimmune arthritis. To clarify this issue, we have assessed the effects of 
+GSPE on differential regulation of Th17 and regulatory T (Treg) cells subsets in 
+vitro in mouse and human CD4(+) T cells. We observed that GSPE decreased the 
+frequency of IL-17(+)CD4(+)Th17 cells and increased induction of 
+CD4(+)CD25(+)forkhead box protein 3 (Foxp3)(+) Treg cells. In vivo, GSPE 
+effectively attenuated clinical symptoms of established collagen-induced 
+arthritis in mice with concomitant suppression of IL-17 production and 
+enhancement of Foxp3 expression (type II collagen-reactive Treg cells) in CD4(+) 
+T cells of joints and splenocytes. The presence of GSPE decreased the levels of 
+IL-21, IL-22, IL-26 and IL-17 production by human CD4(+) T cells in a 
+STAT3-dependent manner. In contrast, GSPE induces Foxp3(+) Treg cells in humans. 
+Our results suggest that GSPE possesses a reciprocal control over IL-17 and 
+Foxp3. By potently regulating inflammatory T cell differentiation, GSPE may 
+serve as a possible novel therapeutic agent for inflammatory and autoimmune 
+diseases, including rheumatoid arthritis.

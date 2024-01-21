@@ -1,0 +1,27 @@
+BACKGROUND: Opportunistically nosocomial infections in hospitalized patients are 
+often related to Clostridium difficile infections (CDI) due to disruption of the 
+intestinal micro-flora by antibiotic therapies during hospitalization. 
+Clostridial exotoxins A and B (TcdA and TcdB) specifically bind to unknown 
+glycoprotein(s) in the host intestine, disrupt the intestinal barrier leading to 
+acute inflammation and diarrhea. The C-terminal receptor binding domain of TcdA 
+(A-rRBD) has been shown to elicit antibody responses that neutralize TcdA 
+toxicity in Vero cell cytotoxicity assays, but not effectively protect hamsters 
+against a lethal dose challenge of C. difficile spores. To develop an effective 
+recombinant subunit vaccine against CDI, A-rRBD was lipidated (rlipoA-RBD) as a 
+rational design to contain an intrinsic adjuvant, a toll-like receptor 2 agonist 
+and expressed in Escherichia coli.
+RESULTS: The purified rlipoA-RBD was characterized immunologically and found to 
+have the following properties: (a) mice, hamsters and rabbits vaccinated with 3 
+μg of rlipoA-RBD produced strong antibody responses that neutralized TcdA 
+toxicity in Vero cell cytotoxicity assays; furthermore, the neutralization titer 
+was comparable to those obtained from antisera immunized either with 10 μg of 
+TcdA toxoid or 30 μg of A-rRBD; (b) rlipoA-RBD elicited immune responses and 
+protected mice from TcdA challenge, but offered insignificant protection (10 to 
+20 %) against C. difficile spores challenge in hamster models; (c) only 
+rlipoA-RBD formulated with B-rRBD consistently confers protection (90 to 100 %) 
+in the hamster challenge model; and (d) rlipoA-RBD was found to be 10-fold more 
+potent than A-rRBD as an adjuvant to enhancing immune responses against a poor 
+antigen such as ovalbumin.
+CONCLUSION: These results indicate that rlipoA-RBD formulated with B-rRBD could 
+be an excellent vaccine candidate for preclinical studies and future clinical 
+trials.

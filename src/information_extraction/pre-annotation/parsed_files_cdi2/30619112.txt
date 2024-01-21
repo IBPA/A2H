@@ -1,0 +1,27 @@
+Clostridium difficile is currently the leading cause of nosocomial infection. 
+Antibiotics remain the first-line therapy for C. difficile-associated diseases 
+(CDAD), despite the risks of resistance promotion and further gut microbiota 
+perturbation. Notably, the abundance of Bacteroides fragilis was reported to be 
+significantly decreased in CDAD patients. This study aimed to clarify the 
+prophylactic effects of B. fragilis strain ZY-312 in a mouse model of C. 
+difficile infection (CDI). The CDI mouse model was successfully created using C. 
+difficile strain VPI 10463 spores, as confirmed by lethal diarrhea (12.5% 
+survival rate), serious gut barrier disruption, and microbiota disruption. CDI 
+model mice prophylactically treated with B. fragilis exhibited significantly 
+higher survival rates (100% in low dosage group, 87.5% in high dosage group) and 
+improved clinical manifestations. Histopathological analysis of colon and cecum 
+tissue samples revealed an intact gut barrier with strong ZO-1 and Muc-2 
+expression. The bacterial diversity and relative abundance of gut microbiota 
+were significantly improved. Interestingly, the relative abundance of 
+Akkermansia muciniphila was positively correlated with B. fragilis treatment. In 
+vitro experiments showed that B. fragilis inhibited C. difficile adherence, and 
+attenuated the decrease in CDI-induced transepithelial electrical resistance, 
+ZO-1 and MUC-2 loss, and apoptosis, suggesting that B. fragilis protected 
+against CDI possibly by resisting pathogen colonization and improving gut 
+barrier integrity and functions. In summary, B. fragilis exerted protective 
+effects on a CDI mouse model by modulating gut microbiota and alleviating 
+barrier destruction, thereby relieving epithelial stress and pathogenic colitis 
+triggered by C. difficile. This study provides an alternative preventative 
+measure for CDI and lays the foundations for further investigations of the 
+relationships among opportunistic pathogens, commensal microbiota, and the gut 
+barrier.

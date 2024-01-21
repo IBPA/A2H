@@ -1,0 +1,24 @@
+PURPOSE: Autoimmune lymphoproliferative syndrome (ALPS) is a non-malignant 
+genetic disorder of lymphocyte homeostasis with defective Fas-mediated 
+apoptosis. Current therapies for ALPS primarily target autoimmune manifestations 
+with non-specific immune suppressants with variable success thus highlighting 
+the need for better therapeutics for this disorder.
+METHODS: The spectrum of clinical manifestations of ALPS is mirrored by MRL/lpr 
+mice that carry a loss of function mutation in the Fas gene and have proven to 
+be a valuable model in predicting the efficacy of several therapeutics that are 
+front-line modalities for the treatment of ALPS. We evaluated the potential 
+efficacy of tofacitinib, an orally active, pan-JAK inhibitor currently approved 
+for rheumatoid arthritis as a single agent modality against ALPS using MRL/lpr 
+mice.
+RESULTS: We demonstrate that a 42-day course of tofacitinib therapy leads to a 
+lasting reversal of lymphadenopathy and autoimmune manifestations in the treated 
+MRL/lpr mice, Specifically, in treated mice the peripheral blood white blood 
+cell counts were reversed to near normal levels with almost a 50 % reduction in 
+the TCRαβ(+)CD4(-)CD8(-)T lymphocyte numbers that coincided with a parallel 
+increase in CD8(+) T cells without a demonstrable effect on CD4(+) lymphocytes 
+including FoxP3(+) regulatory T cells. The elevated plasma IgG and IgA levels 
+were also drastically lowered along with a significant reduction in plasmablasts 
+and plasmacytes in the spleen.
+CONCLUSION: On the basis of these results, it is likely that tofacitinib would 
+prove to be a potent single agent therapeutic modality capable of ameliorating 
+both offending lymphadenopathy as well as autoimmunity in ALPS patients.

@@ -1,0 +1,24 @@
+Clostridium difficile is a global health burden and the leading cause of 
+antibiotic-associated diarrhoea worldwide, causing severe gastrointestinal 
+disease and death. Three well characterised toxins are encoded by this bacterium 
+in two genetic loci, specifically, TcdB (toxin B) and TcdA (toxin A) in the 
+Pathogenicity Locus (PaLoc) and binary toxin (CDT) in the genomically distinct 
+CDT locus (CdtLoc). Toxin production is controlled by regulators specific to 
+each locus. The orphan response regulator, CdtR, encoded within the CdtLoc, 
+up-regulates CDT production. Until now there has been no suggestion that CdtR 
+influences TcdA and TcdB production since it is not carried by all 
+PaLoc-containing strains and CdtLoc is not linked genetically to PaLoc. Here we 
+show that, in addition to CDT, CdtR regulates TcdA and TcdB production but that 
+this effect is strain dependent. Of clinical relevance, CdtR increased the 
+production of TcdA, TcdB and CDT in two epidemic ribotype 027 human strains, 
+modulating their virulence in a mouse infection model. Strains traditionally 
+from animal lineages, notably ribotype 078 strains, are increasingly being 
+isolated from humans and their genetic and phenotypic analysis is critical for 
+future studies on this important pathogen. Here we show that CdtR-mediated toxin 
+regulation did not occur in other strain backgrounds, including a ribotype 078 
+animal strain. The finding that toxin gene regulation is strain dependent 
+highlights the regulatory diversity between C. difficile isolates and the 
+importance of studying virulence regulation in diverse lineages and clinically 
+relevant strains. Our work provides the first evidence that TcdA, TcdB and CDT 
+production is linked by a common regulatory mechanism and that CdtR may act as a 
+global regulator of virulence in epidemic 027 strains.

@@ -1,0 +1,32 @@
+BACKGROUND: Clostridium difficile toxins A and B (TcdA and TcdB), considered to 
+be essential for C. difficile infection, affect the morphology of several cell 
+types with different potencies and timing. However, morphological changes over 
+various time scales are poorly characterized. The toxins' glucosyltransferase 
+domains are critical to their deleterious effects, and cell responses to 
+glucosyltransferase-independent activities are incompletely understood. By 
+tracking morphological changes of multiple cell types to C. difficile toxins 
+with high temporal resolution, cellular responses to TcdA, TcdB, and a 
+glucosyltransferase-deficient TcdB (gdTcdB) are elucidated.
+RESULTS: Human umbilical vein endothelial cells, J774 macrophage-like cells, and 
+four epithelial cell lines (HCT8, T84, CHO, and immortalized mouse cecal 
+epithelial cells) were treated with TcdA, TcdB, gdTcdB. Impedance across cell 
+cultures was measured to track changes in cell morphology. Metrics from 
+impedance data, developed to quantify rapid and long-lasting responses, produced 
+standard curves with wide dynamic ranges that defined cell line sensitivities. 
+Except for T84 cells, all cell lines were most sensitive to TcdB. J774 
+macrophages stretched and increased in size in response to TcdA and TcdB but not 
+gdTcdB. High concentrations of TcdB and gdTcdB (>10 ng/ml) greatly reduced 
+macrophage viability. In HCT8 cells, gdTcdB did not induce a rapid cytopathic 
+effect, yet it delayed TcdA and TcdB's rapid effects. gdTcdB did not clearly 
+delay TcdA or TcdB's toxin-induced effects on macrophages.
+CONCLUSIONS: Epithelial and endothelial cells have similar responses to toxins 
+yet differ in timing and degree. Relative potencies of TcdA and TcdB in mouse 
+epithelial cells in vitro do not correlate with potencies in vivo. TcdB requires 
+glucosyltransferase activity to cause macrophages to spread, but cell death from 
+high TcdB concentrations is glucosyltransferase-independent. Competition 
+experiments with gdTcdB in epithelial cells confirm common TcdA and TcdB 
+mechanisms, yet different responses of macrophages to TcdA and TcdB suggest 
+different, additional mechanisms or targets in these cells. This first-time, 
+precise quantification of the response of multiple cell lines to TcdA and TcdB 
+provides a comparative framework for delineating the roles of different cell 
+types and toxin-host interactions.

@@ -1,0 +1,17 @@
+Methyl salicylate 2-O-β-D-lactoside (MSL) is a derivative of natural salicylate 
+isolated from Gaultheria yunnanensis (Franch.) Rehder, which is widely used for 
+treating rheumatoid arthritis (RA), swelling and pain. The aim of the present 
+study was to investigate the effect of MSL on the progression of 
+adjuvant-induced arthritis (AIA) in rat in vivo and explore the 
+anti-inflammatory effects and mechanism of MSL in lipopolysaccharide 
+(LPS)-treated murine macrophages RAW264.7 cells in vitro. Our results showed 
+that MSL significantly inhibited the arthritis progression in AIA rats, 
+decreasing the right hind paw swelling and ankle diameter, attenuating 
+histopathological changes and suppressing the plasma levels of TNF-α and IL-1β 
+in AIA rats. Besides, MSL had potent anti-inflammatory effects on the 
+LPS-activated RAW264.7. MSL dose-dependently inhibited the activity of COX-1, 
+and COX-2. Moreover, MSL prominently inhibited LPS-induced activation of MAPK in 
+RAW264.7 cells by blocking phosphorylation of p38 and ERK. Our study suggests 
+that MSL may be effective in the treatment of inflammatory diseases by 
+inhibiting the pro-inflammatory cytokine production and regulating the MAPK 
+signal pathway.

@@ -1,0 +1,18 @@
+Anti-citrullinated protein antibodies (ACPAs) are a key serological marker of 
+rheumatoid arthritis (RA). To investigate whether miR-let7a downregulated 
+ACPA-induced macrophage activation and arthritis, miR-let7a levels were assessed 
+in the synovial fluid from patients with RA or osteoarthritis (OA). In addition, 
+expression of the pro-inflammatory genes HMGA2, PI3K, and IRF5 was examined in 
+ACPA-induced macrophages and a collagen antibody-induced mouse model of 
+arthritis. As expected, miR-let7a expression in synovial fluid macrophages was 
+substantially lower in patients with RA than in those with OA. Moreover, ACPAs 
+treatment (160IU/mL) suppressed miR-let7a expression in macrophages isolated 
+from patients with RA. Mechanistic studies revealed that miR-let7a directly 
+targets HMGA2 to suppress ACPA-induced IRF5 expression through PI3K in 
+macrophages. Further, miR-let7a expression was markedly decreased in swollen 
+ankle tissue and splenocytes isolated from arthritic mice, whereas HMGA2, PI3K, 
+and IRF5 expression positively correlated with disease severity. However, 
+injection miR-let7a agomir was unable to mitigate the development of 
+experimental arthritis in model mice. Collectively, these data demonstrated that 
+miR-let7a directly targets HMGA2 to downregulate ACPAs-induced macrophage 
+activation, and correlated with experimental RA severity.

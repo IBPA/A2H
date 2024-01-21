@@ -1,0 +1,26 @@
+Granulocyte-macrophage colony-stimulating factor (GM-CSF) is a hematopoietic 
+growth factor that can stimulate a variety of cells, but its overexpression 
+leads to excessive production and activation of granulocytes and macrophages 
+with many pathogenic effects. This cytokine is a therapeutic target in 
+inflammatory diseases, and several anti-GM-CSF antibodies have advanced to Phase 
+2 clinical trials in patients with such diseases, e.g., rheumatoid arthritis. 
+GM-CSF is also an essential factor in preventing pulmonary alveolar proteinosis 
+(PAP), a disease associated with GM-CSF malfunction arising most typically 
+through the presence of GM-CSF neutralizing auto-antibodies. Understanding the 
+mechanism of action for neutralizing antibodies that target GM-CSF is important 
+for improving their specificity and affinity as therapeutics and, conversely, in 
+devising strategies to reduce the effects of GM-CSF auto-antibodies in PAP. We 
+have solved the crystal structures of human GM-CSF bound to antigen-binding 
+fragments of two neutralizing antibodies, the human auto-antibody F1 and the 
+mouse monoclonal antibody 4D4. Coordinates and structure factors of the crystal 
+structures of the GM-CSF:F1 Fab and the GM-CSF:4D4 Fab complexes have been 
+deposited in the RCSB Protein Data Bank under the accession numbers 6BFQ and 
+6BFS, respectively. The structures show that these antibodies bind to mutually 
+exclusive epitopes on GM-CSF; however, both prevent the cytokine from 
+interacting with its alpha receptor subunit and hence prevent receptor 
+activation. Importantly, identification of the F1 epitope together with 
+functional analyses highlighted modifications to GM-CSF that would abolish 
+auto-antibody recognition whilst retaining GM-CSF function. These results 
+provide a framework for developing novel GM-CSF molecules for PAP treatment and 
+for optimizing current anti-GM-CSF antibodies for use in treating inflammatory 
+disorders.

@@ -1,0 +1,22 @@
+Platonin, a photosensitizing dye, is known to possess antioxidant and 
+anti-inflammatory activity. Platonin has been used to treat trauma, ulcers and 
+some acute inflammations and it also reported to improve blood circulation and 
+reduce mortality in endotoxin-induced rat models. Our previous studies 
+established that platonin suppresses the lipopolysaccharides (LPS)-induced 
+inflammatory cytokines, including interleukin-1β (IL-1β-+), IL-6, tumor necrosis 
+factor-α (TNF-α), and inducible nitric oxide synthase (iNOS). Nuclear factor-kB 
+(NF-kB) and activator protein-1 (AP-1) transcription factors are reported to be 
+essential in mediating the endotoxin-induced production of inflammatory 
+molecules. In vivo studies from our groups revealed that platonin has potential 
+effects on inhibiting pyrogen release, tissue damage and ischemia during 
+heatstroke, ischemia reperfusion injury in lungs and also improve the survival 
+of skin allografts in rats. Clinically, this compound has been proven to cure 
+juvenile rheumatoid arthritis (JRA) and polyarteritis nodosa (PN). In this 
+review, we summarize the pharmacological and clinical effects of platonin via 
+describing the potential molecular mechanism of regulation of inflammatory 
+molecules of mitogen-activated protein kinases (MAPKs), including extracellular 
+regulated kinase (ERK), c-jun N-terminal kinase (JNK), and p38 MAPK and also 
+NF-kB activation. Moreover, this paper discusses the signaling pathways 
+expedited by NF-kB, AP-1, MAPKs and NO/NOS, these all have been reflected in 
+inflammatory processes, and could be the encouraging molecular targets for the 
+design of pharmaceutical drugs targeting antiinflammatory therapy.

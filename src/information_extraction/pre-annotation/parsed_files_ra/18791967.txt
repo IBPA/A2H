@@ -1,0 +1,29 @@
+Autoantibodies play a key role in diagnostic laboratories as markers of 
+autoimmune diseases. In addition to their role as markers they mediate diverse 
+effects in vivo. Autoantibodies with protective effect have been described. 
+Natural protective IgM autoantibodies against tumour-antigens of malignant cells 
+or their precursors may contribute to increased survival rates of carcinoma 
+patients. In a mouse model of systemic lupus erythematosus it has been shown 
+that anti-dsDNA IgM autoantibodies protect from glomerular damage. In contrast, 
+a direct pathogenic role of autoantibodies has been well established e.g. in 
+myasthenia gravis or in Goodpasture syndrome. Similarly autoantibodies against 
+SSA Ro52 are detrimental in neonatal lupus erythematosus with congenital heart 
+block. Moreover, putatively protective autoantibodies may become pathogenic 
+during the course of the disease such as the onconeuronal autoantibodies whose 
+pathogenicity depends on their compartmentalisation. In patients with 
+paraneoplastic syndromes tumour cells express proteins that are also naturally 
+present in the brain. Anti-tumour autoantibodies which temporarily suppress 
+tumour growth can provoke an autoimmune attack on neurons once having crossed 
+the blood-brain barrier and cause specific neurological symptoms. Only a 
+restricted number of autoantibodies are useful follow-up markers for the 
+effectiveness of treatment in autoimmune diseases. Certain autoantibodies hold 
+prognostic value and appear years or even decades before the diagnosis of 
+disease such as the antimitochondrial antibodies in primary biliary cirrhosis or 
+anti-citrullinated protein (CCP)-antibodies in rheumatoid arthritis. It is 
+crucial to know whether the autoantibodies in question recognise linear or 
+conformational epitopes in order to choose the appropriate detection methods. 
+Indirect immunofluorescence microscopy remains a very useful tool for 
+confirmation of results of commercially available immunoassays and for detection 
+of special and rare autoantibodies that otherwise often remain undetected. 
+Standardisation of autoimmune diagnostics is still underway and requires joint 
+efforts by laboratories, clinicians and industry.

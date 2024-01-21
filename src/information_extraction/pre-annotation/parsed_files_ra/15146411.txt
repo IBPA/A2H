@@ -1,0 +1,23 @@
+OBJECTIVE: Midkine (MK), a heparin-binding growth factor, promotes growth, 
+survival, and migration of various cells. The essential role of MK in migration 
+of inflammatory cells has been shown using mice deficient in the MK gene 
+(Mdk(-/-) mice). We undertook this study to investigate the role of MK in the 
+pathogenesis of rheumatoid arthritis (RA).
+METHODS: MK levels in specimens from patients were determined by enzyme-linked 
+immunosorbent assay, and localization of MK was revealed by immunohistochemical 
+analysis. Susceptibility to antibody-induced arthritis was compared between 
+Mdk(-/-) and wild-type (WT) mice. Osteoclast differentiation was monitored using 
+macrophage-like cells isolated from human synovial tissue and macrophages from 
+mouse bone marrow.
+RESULTS: MK levels in sera and synovial fluid were increased in most RA 
+patients, indicating a strong correlation between MK expression and RA. MK was 
+expressed in macrophage-like cells and fibroblast-like cells in synovial 
+membranes from the patients. In antibody-induced arthritis, Mdk(-/-) mice seldom 
+developed the disease, while most of the WT mice did. Administration of MK to 
+the Mdk(-/-) mice increased the frequency of antibody-induced arthritis. 
+Migration of inflammatory leukocytes to the synovial membranes in the disease 
+model was suppressed in the Mdk(-/-) mice. Furthermore, MK was found to promote 
+the differentiation of osteoclasts from macrophages.
+CONCLUSION: MK participates in each of the two distinct phases of RA 
+development, namely, migration of inflammatory leukocytes and osteoclast 
+differentiation, and is a key molecule in the pathogenesis of RA.

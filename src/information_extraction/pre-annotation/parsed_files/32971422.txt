@@ -1,0 +1,27 @@
+The microbiome plays a key role in homeostasis and health and it has been also 
+linked to fertility and semen quality in several animal species including swine. 
+Despite the more than likely importance of sperm bacteria on the boar's 
+reproductive ability and the dissemination of pathogens and antimicrobial 
+resistance genes, the high throughput characterization of the swine sperm 
+microbiome remains scarce. We carried RNA-seq on 40 ejaculates each from a 
+different Pietrain boar and found that a proportion of the sequencing reads did 
+not map to the Sus scrofa genome. The current study aimed at using these reads 
+not belonging to pig to carry a pilot study to profile the boar sperm bacterial 
+population and its relation with 7 semen quality traits. We found that the boar 
+sperm contains a broad population of bacteria. The most abundant phyla were 
+Proteobacteria (39.1%), Firmicutes (27.5%), Actinobacteria (14.9%) and 
+Bacteroidetes (5.7%). The predominant species contaminated sperm after 
+ejaculation from soil, faeces and water sources (Bacillus megaterium, 
+Brachybacterium faecium, Bacillus coagulans). Some potential pathogens were also 
+found but at relatively low levels (Escherichia coli, Clostridioides difficile, 
+Clostridium perfringens, Clostridium botulinum and Mycobacterium tuberculosis). 
+We also identified 3 potential antibiotic resistant genes from E. coli against 
+chloramphenicol, Neisseria meningitidis against spectinomycin and Staphylococcus 
+aureus against linezolid. None of these genes were highly abundant. Finally, we 
+classified the ejaculates into categories according to their bacterial features 
+and semen quality parameters and identified two categories that significantly 
+differed for 5 semen quality traits and 13 bacterial features including the 
+genera Acinetobacter, Stenotrophomonas and Rhodobacter. Our results show that 
+boar semen contains a bacterial community, including potential pathogens and 
+putative antibiotic resistance genes, and that these bacteria may affect its 
+reproductive performance.

@@ -1,0 +1,20 @@
+Citrullinated collagen II (CII) is a well-known autoantigen in rheumatoid 
+arthritis (RA). However, the direct effects of CII citrullination on cell 
+behavior have not been described. To study whether citrullination of CII could 
+affect cellular functions, we measured the adhesion of 3 different cell types 
+(human Saos2 osteosarcoma cells, human synovial fibroblasts, and rat mesenchymal 
+stem cells) with impedance-based technology. The binding of different collagen 
+receptor integrins to citrullinated collagen was studied by CHO cell lines, each 
+overexpressing 1 of the 4 human collagen receptors on the cell surface, and with 
+solid-phase binding assays, using the recombinant human integrin α1I, α2I, α10I, 
+and α11I domains. Collagen citrullination decreased the adhesion of synovial 
+fibroblasts ∼50% (P<0.05) and mesenchymal stem cells ∼40% (P<0.05) by 
+specifically decreasing the binding of integrins α10β1 and α11β1 to 
+arginine-containing motifs, such as GFOGER. In contrast, citrullination had only 
+a minor effect on the function of α1β1 and α2β1 integrins, which have been 
+reported to play a critical role in regulating leukocyte function. Molecular 
+modeling was used to explain the detected functional differences at the 
+structural level. Given that the integrins regulate cell metabolism, 
+proliferation, and migration, we suggest that collagen citrullination modifies 
+the pathogenesis of RA. Here, CII citrullination was shown to decrease the 
+survival of mesenchymal stem cells.

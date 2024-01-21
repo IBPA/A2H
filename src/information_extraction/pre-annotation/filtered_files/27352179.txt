@@ -1,0 +1,20 @@
+OBJECTIVE: To investigate the expression and significance of forkhead/winged 
+helix (Foxp3) in rat synovial cells in collagen-induced arthritis rats after 
+artesunate interventions.
+METHODS: A male Wistar rat model of type II collagen-induced arthritis (CIA) was 
+established. The synovia was removed, and synovial cells were cultured for 5-7 
+generations. The cells were divided into a normal control group, a CIA model 
+group, artesunate groups at different concentrations (5, 10, and 20 ng/mL), and 
+a hydroxychloroquine group. The expressions of the Foxp3 gene in the groups were 
+detected by reverse transcription polymerase chain reaction, and their protein 
+expressions were detected by western blotting.
+RESULTS: In the drug intervention and CIA model groups, Foxp3 gene and protein 
+expressions increased. The Foxp3 gene and protein expressions in the drug 
+intervention groups were higher than those in the CIA model group, and 
+fiber-like synovial cells numbers decreased. Foxp3 in the artesunate group was 
+expressed at a greater level than the levels expressed in the control groups 
+(P<0.05). Significantly increased of expression was observed in the 20 ng/mL 
+artesunate group compared with the model group (P<0.05).
+CONCLUSIONS: Artesunate could increase the expression of Foxp3 in a 
+dose-dependent manner, and thus reduce pannus formation and erosion of cartilage 
+and bone to prevent lesions from rheumatoid arthritis.

@@ -1,0 +1,21 @@
+BACKGROUND: Clostridium difficile toxin A is the principal mediator of 
+inflammatory enterocolitis in experimental animals. The purpose of this study 
+was to explore the effect of ketotifen, an anti-inflammatory drug, on toxin 
+A-induced enterotoxicity in rat ileum.
+METHODS: The effects of intragastric administration of ketotifen on secretion, 
+mannitol permeability, histological damage, and mucosal levels of leukotriene 
+B4, leukotriene C4, and platelet activating factor in toxin A-exposed rat ileal 
+loops were measured in vivo. The effects of ketotifen on toxin A-mediated 
+release of rat mast cell protease II (rat mucosa mast cell product) release were 
+also measured in rat ileal explants in vitro. The effect of ketotifen on 
+neutrophil migration in vitro was also evaluated.
+RESULTS: Ketotifen pretreatment inhibited toxin A-associated intestinal 
+secretion by 42.5% and mannitol permeability by 56.3% and reduced epithelial 
+cell inflammation and necrosis. These effects were associated with reduced 
+levels of leukotriene B4 by 65.8%, leukotriene C4 by 88.8%, platelet activating 
+factor by 77.8%, and inhibition of rat mast cell protease II by 58.4%. In 
+addition, pretreatment of neutrophils with ketotifen inhibited neutrophil 
+migration in vitro.
+CONCLUSIONS: The protective effect of ketotifen in this animal model was 
+associated with significant inhibition of release of mast cells and neutrophil 
+derived mediators, supporting their involvement in C. difficile enteritis.

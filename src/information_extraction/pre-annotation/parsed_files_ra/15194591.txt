@@ -1,0 +1,20 @@
+OBJECTIVE: To investigate the effect of methotrexate (MTX) and albumin coupled 
+with methotrexate (MTX-HSA) on cartilage invasion and induction of 
+perichondrocytic degradation by rheumatoid arthritis synovial fibroblasts (RA 
+SF) in vivo.
+METHODS: Human cartilage and RA SF were co-transplanted in three groups of 
+severe combined immunodeficient mice (SCID), which received 1 mg/kg free MTX (n 
+= 9), 1 mg/kg MTX-HSA (n = 6), or 0.9% NaCl (n = 5), respectively, 
+intraperitoneally twice a week. After 4 weeks' treatment, the mice were killed 
+and the implants analysed histologically.
+RESULTS: The control group had a mean (SEM) score for cartilage invasion of RA 
+SF of 2.0 (0.26) and for perichondrocytic cartilage degradation of 1.5 (0.34). 
+In contrast, mice which received MTX showed a significantly reduced invasion 
+(0.78 (0.14), p<0.01) and a reduction in perichondrocytic cartilage degradation 
+scores (0.69 (0.2), p<0.05) in comparison with the control group. Mice treated 
+with MTX-HSA also had significantly reduced scores for RA SF invasion into the 
+cartilage (0.92 (0.41), p<0.05) and for cartilage degradation (0.83 (0.44), 
+p<0.05) compared with controls. The effects of MTX and MTX-HSA were not 
+significantly different between these two groups.
+CONCLUSION: Treatment with MTX or MTX-HSA significantly ameliorates cartilage 
+destruction in the SCID mouse model for human RA.

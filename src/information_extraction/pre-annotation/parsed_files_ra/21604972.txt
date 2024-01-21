@@ -1,0 +1,19 @@
+Current treatments for rheumatoid arthritis (RA) have long-term side effects 
+such that new treatments are needed that can safely help manage the disease. 
+There is a growing appreciation that GABA receptors (GABA-Rs) on immune cells 
+provide new targets that can be used to modulate immune cell activity. Here, we 
+show for the first time that activation of peripheral GABA-Rs can inhibit the 
+development of disease in the collagen-induced arthritis (CIA) mouse model of 
+RA. Mice that received oral GABA had a reduced incidence of CIA, and those mice 
+that did develop CIA had milder symptoms. T cells from GABA-treated mice 
+displayed reduced proliferative responses to collagen and their APC had a 
+reduced ability to promote the proliferation of collagen-reactive T cells. Thus, 
+GABA downregulated both T-cell autoimmunity and APC activity. Collagen-reactive 
+T cells from GABA-treated mice displayed reduced recall responses in the 
+presence of GABA ex vivo, indicating that GABA consumption did not desensitize 
+these cells to GABA. GABA-treated mice had reduced collagen-reactive IgG2a, but 
+not IgG1 antibodies, consistent with reduced Th1 help. The levels of serum 
+anti-collagen IgG2a antibodies were correlated significantly with the CIA 
+disease scores of individual mice. Our results suggest that activation of 
+peripheral GABA-Rs may provide a new modality to modulate T cell, B cell, and 
+APC activity and help ameliorate RA and other inflammatory diseases.

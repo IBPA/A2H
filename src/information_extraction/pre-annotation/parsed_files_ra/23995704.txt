@@ -1,0 +1,19 @@
+Fingolimod (FTY720) is known to have a significant therapeutic effect in various 
+autoimmune disease models. Here, we examined FTY720 in a model of rheumatoid 
+arthritis, induced by immunizing DBA/1 mice with a peptide consisting of 
+residues 325 through 339 of glucose-6-phosphate isomerase (GPI325-339). The 
+efficacy was evaluated in terms of macroscopic findings, inflammatory cell 
+infiltration and autoantibody level. Prophylactic administration of FTY720 from 
+the day of immunization significantly suppressed the development of paw 
+swelling, but therapeutic administration of FTY720 from onset of symptoms on day 
+8-9 was less effective. Interestingly, however, combination treatment with 
+FTY720 plus GPI325-339 for 5 d after onset of symptoms significantly reduced the 
+severity of symptoms in all mice, and no relapse occurred after booster 
+immunization. Taking into account the reported mechanism of action of FTY720, 
+these results indicate that combination treatment with FTY720 plus pathogenic 
+autoantigen might efficiently induce immune tolerance by sequestering 
+circulating autoantigen-specific lymphocytes from blood and peripheral tissues 
+to the secondary lymphoid tissues. Combination treatment with FTY720 plus 
+pathogenic autoantigen may become a breakthrough treatment for 
+remission-induction in patients with autoimmune diseases including rheumatoid 
+arthritis.

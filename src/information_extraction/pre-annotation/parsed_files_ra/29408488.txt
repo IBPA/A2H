@@ -1,0 +1,21 @@
+Despite improved therapy, rheumatoid arthritis (RA) remains an unmet medical 
+need. Previous efforts to validate therapeutic targets in the mitogen-activated 
+protein kinase (MAPK) family have had minimal success. Therefore, we evaluated 
+the potential for targeting an upstream MAPK, namely apoptosis signal-regulating 
+kinase 1 (ASK1), as an alternative approach. ASK1 protein and gene expression 
+were observed in RA and osteoarthritis (OA) synovium as determined by 
+immunohistochemistry (IHC) and qPCR, respectively, particularly in the synovial 
+intimal lining. For RA, but not OA synovium, ASK1 correlated with IL-1β and TNF 
+gene expression. ASK1 was also expressed by cultured fibroblast-like 
+synoviocytes (FLS), with significantly higher levels in RA compared with OA 
+cells. IL-1β and TNF stimulation significantly increased ASK1 expression in a 
+time-and concentration-dependent manner in cultured FLS. ASK1 promoter activity 
+was significantly increased by IL-1β and TNF and was dependent on an upstream 
+RelA binding motif. A selective small molecule ASK1 inhibitor reduced RA FLS 
+invasion, migration and proliferation in vitro and decreased arthritis severity 
+in the rat collagen-induced arthritis (CIA) model. In summary, our findings 
+demonstrate that ASK1 modulates signaling pathways relevant to RA in vitro and 
+in vivo. It is induced by inflammatory cytokines through the activation of 
+NF-κB, which could provide some site- and event specificity. Thus, inhibitors of 
+the upstream MAPK ASK1 could be a novel approach to treating inflammatory 
+arthritis.

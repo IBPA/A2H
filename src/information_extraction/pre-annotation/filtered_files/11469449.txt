@@ -1,0 +1,17 @@
+OBJECTIVE: To investigate the dose response relationships of methotrexate (MTX) 
+therapy in rat adjuvant arthritis (AA), an animal model of rheumatoid arthritis 
+(RA).
+METHODS: Female Lewis rats were fed a defined diet and were treated with 0, 0.3, 
+1, 2, 3, 5, and 10 mg MTX per week beginning 3 days after adjuvant injection and 
+lasting 6 weeks. The presence or absence of arthritis, and its degree were 
+measured by hindpaw edema scores, ankle widths, and radiographic and 
+histopathologic scores.
+RESULTS: The 2, 3, 5, and 10 mg MTX per week doses resulted in deaths before the 
+end of the protocol and suppressed normal body weight gain. Tissue destruction, 
+measured by radiographic and histopathologic scores, was reduced in a dose 
+dependent manner with increasing MTX dose. Suppression of inflammation, measured 
+by ankle widths and radiographic and histopathologic scores, reached a maximum 
+at the 1 mg MTX dose and declined at higher doses.
+CONCLUSIONS: Suppression of tissue destruction and inflammation in rat AA does 
+not occur in a concerted fashion as the dose of MTX increases. The implications 
+of these findings to human disease remain to be determined.

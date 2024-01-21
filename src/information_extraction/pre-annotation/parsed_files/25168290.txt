@@ -1,0 +1,12 @@
+The emergence of hypervirulent resistant strains have made Clostridium difficile 
+a notorious nosocomial pathogen and has resulted in a renewed interest in 
+preventive strategies, such as vaccines based on (synthetic) cell wall antigens. 
+Recently, the structure of the lipoteichoic acid (LTA) of this species has been 
+elucidated. Additionally, this LTA was found to induce the formation of 
+protective antibodies against C. difficile in rabbits and mice. The LTA from C. 
+difficile is isolated as a microheterogenous mixture, differing in size and 
+composition, impeding any structure-activity relationship studies. To ensure 
+reliable biological results, pure and well-defined synthetic samples are 
+required. In this work the total synthesis of LTAs from C. difficile with 
+defined chain length is described and the initial biological results are 
+presented.

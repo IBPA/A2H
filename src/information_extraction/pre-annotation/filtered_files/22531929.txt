@@ -1,0 +1,18 @@
+The impact of cigarette smoke (CS), a risk factor for rheumatoid arthritis (RA), 
+on sauto-antibody production was studied in humans and mice with and without 
+chronic lung disease (LD). Rheumatoid factor (RF), anti-cyclic citrullinated 
+peptides (CCPs), and anti-HSP70 autoantibodies were measured in several mouse 
+strains and in cohorts of smokers and nonsmokers with and without autoimmune 
+disease. Chronic smoking-induced RFs in AKR/J mice, which are most susceptible 
+to LD. RFs were identified in human smokers, preferentially in those with LD. 
+Anti-HSP70 auto-antibodies were identified in CS-exposed AKR/J mice but not in 
+ambient air exposed AKR/J controls. Whereas inflammation could induce anti-HSP70 
+IgM, smoke exposure promoted the switch to anti-HSP70 IgG autoantibodies. 
+Elevated anti-CCP autoantibodies were not detected in CS-exposed mice or 
+smokers. AKR/J splenocytes stimulated in vitro by immune complexes (ICs) of 
+HSP70/anti-HSP70 antibodies produced RFs. The CD91 scavenger pathway was 
+required as anti-CD91 blocked the HSP70-IC-induced RF response. Blocking 
+Toll-like receptors did not influence the HSP70-IC-induced RFs. These studies 
+identify both anti-HSP70 and RFs as serological markers of smoke-related LD in 
+humans and mice. Identification of these autoantibodies could suggest a common 
+environmental insult, namely CS, in a number of different disease settings.

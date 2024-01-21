@@ -1,0 +1,22 @@
+Clostridium difficile is an anaerobic spore-forming bacillus that usually causes 
+gastrointestinal disorders in man and other animal species. Most of the strains 
+isolated from animals are toxigenic being the virulent ribotype (RT) 078 
+predominant in several animal species. Although C. difficile is pathogenic to 
+both humans and animals, there is no direct evidence of zoonosis. Deep genome 
+sequencing provides sufficient resolution to analyse which strains found in 
+animals might be related to human pathogens. So far, there are only a few fully 
+sequenced genomes of C. difficile strains isolated from domestic and wild 
+animals. Using Illumina technology, we have sequenced the genome of three 
+isolates; a strain isolated from the vagina of a sow (5754), one from rat 
+(Rattus spp) intestinal content (RC10) and a third one isolated from 
+environmental rat faeces (RF17). Both, rat and rat faeces were sampled in 
+fattening pig farms. Our study reveals a close genetic relationship of two of 
+these isolates with the virulent strain M120 (RT078) isolated from a human 
+patient. The analysis of the sequences has revealed the presence of antibiotic 
+resistance genes, mobile elements, including the transposon linked with 
+virulence Tn6164, and the similarity of virulence factors between these isolates 
+and human strains. This is the first study focused on the sequencing of 
+C. difficile genomes obtained from wild animals like rats, which can be 
+considered as potential reservoirs for humans and other animal species. This 
+study can help to understand the genome composition and epidemiology of this 
+bacterium species.

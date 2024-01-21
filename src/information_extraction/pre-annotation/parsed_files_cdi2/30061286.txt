@@ -1,0 +1,24 @@
+Antibiotic disruption of the intestinal microbiota favors colonization by 
+Clostridium difficile Using a charcoal-based adsorbent to decrease intestinal 
+antibiotic concentrations, we studied the relationship between antibiotic 
+concentrations in feces and the intensity of dysbiosis and quantified the link 
+between this intensity and mortality. We administered either moxifloxacin (n = 
+70) or clindamycin (n = 60) to hamsters by subcutaneous injection from day 1 
+(D1) to D5 and challenged them with a C. difficile toxigenic strain at D3 
+Hamsters received various doses of a charcoal-based adsorbent, DAV131A, to 
+modulate intestinal antibiotic concentrations. Gut dysbiosis was evaluated at D0 
+and D3 using diversity indices determined from 16S rRNA gene profiling. Survival 
+was monitored until D16 We analyzed the relationship between fecal antibiotic 
+concentrations and dysbiosis at the time of C. difficile challenge and studied 
+their capacity to predict subsequent death of the animals. Increasing doses of 
+DAV131A reduced fecal concentrations of both antibiotics, lowered dysbiosis, and 
+increased survival from 0% to 100%. Mortality was related to the level of 
+dysbiosis (P < 10-5 for the change of Shannon index in moxifloxacin-treated 
+animals and P < 10-9 in clindamycin-treated animals). The Shannon diversity 
+index and unweighted UniFrac distance best predicted death, with areas under the 
+receiver operating curve (ROC) of 0.89 (95% confidence interval [CI], 0.82, 
+0.95) and 0.95 (0.90, 0.98), respectively. Altogether, moxifloxacin and 
+clindamycin disrupted the diversity of the intestinal microbiota with a 
+dependency on the DAV131A dose; mortality after C. difficile challenge was 
+related to the intensity of dysbiosis in similar manners with the two 
+antibiotics.

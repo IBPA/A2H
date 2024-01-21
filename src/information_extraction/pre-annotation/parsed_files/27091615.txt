@@ -1,0 +1,15 @@
+Synthetic cell-surface glycans are promising vaccine candidates against 
+Clostridium difficile. The complexity of large, highly antigenic and immunogenic 
+glycans is a synthetic challenge. Less complex antigens providing similar immune 
+responses are desirable for vaccine development. Based on molecular-level 
+glycan-antibody interaction analyses, we here demonstrate that the C. difficile 
+surface polysaccharide-I (PS-I) can be resembled by multivalent display of 
+minimal disaccharide epitopes on a synthetic scaffold that does not participate 
+in binding. We show that antibody avidity as a measure of antigenicity increases 
+by about five orders of magnitude when disaccharides are compared with 
+constructs containing five disaccharides. The synthetic, pentavalent vaccine 
+candidate containing a peptide T-cell epitope elicits weak but highly specific 
+antibody responses to larger PS-I glycans in mice. This study highlights the 
+potential of multivalently displaying small oligosaccharides to achieve 
+antigenicity characteristic of larger glycans. The approach may result in more 
+cost-efficient carbohydrate vaccines with reduced synthetic effort.

@@ -1,0 +1,18 @@
+Rheumatoid arthritis (RA) is an autoimmune disease characterized by progressive 
+cartilage and bone destruction. Activated macrophages that overexpress folic 
+acid (FA) receptors play an important role in RA, due to their abundance in 
+inflamed synovial membrane and joints. In an effort to deliver drugs to the 
+inflamed tissues, multifunctional FA receptor-targeting and pH-responsive 
+nanocarriers were developed. They were composed of lipids, polyethylene glycol 
+(PEG)-poly(lactic-co-glycolic acid) (PLGA) forming a hydrophilic shell, FA 
+around the hydrophilic shell as a targeting ligand, and 
+poly(cyclohexane-1,4-diylacetone dimethylene ketal) (PCADK) and PLGA as a 
+hydrophobic core. PCADK also acts as a pH-responsive material. Methotrexate 
+(Mtx) was encapsulated in the nanoparticles, which exhibited pH-responsive 
+release in vitro. Cellular uptake and cytotoxicity experiments revealed that 
+FA-PEG-PLGA/PCADK-lipid nanoparticles loaded with Mtx (FA-PPLNPs) exhibited 
+superior cellular uptake and higher cytotoxicity to activated macrophages than 
+PPLNPs/Mtx. The therapeutic effect of FA-PPLNPs/Mtx in RA was confirmed in an 
+adjuvant-induced arthritis rat model. These results suggest that the 
+multifunctional folate receptor-targeting and pH-responsive nanocarriers are 
+promising for the treatment of RA.

@@ -1,0 +1,28 @@
+Th17 cells produce IL-17, and the latter promotes bone loss in collagen-induced 
+arthritis in mice. Blocking IL-17 action in mouse model of rheumatoid arthritis 
+reduces disease symptoms. These observations suggest that Th17 cells may be 
+involved in the pathogenesis of bone loss. However, the role of Th17 cell in 
+estrogen (E2) deficiency-induced bone loss is still not very clear. We 
+investigated the effect of E2 on Th17 differentiation in vivo and IL-17 mediated 
+regulation of osteoclast and osteoblast differentiation. Additionally, effect of 
+IL-17 functional block under E2 deficiency-induced bone loss was studied. In 
+murine bone marrow cells, E2 suppressed IL-17 mediated osteoclast 
+differentiation. IL-17 inhibited formation of mineralized nodules in osteoblasts 
+and this effect was suppressed by E2. E2 treatment to mouse calvarial 
+osteoblasts inhibited the IL-17-induced production of osteoclastogenic cytokines 
+and NF-kB translocation. In ovariectomized mice, there was increase in the 
+number of Th17 cells, transcription factors promoting Th17 cell differentiation 
+and circulating IL-17 levels. These effects were reversed by E2 supplementation. 
+Treatment of neutralizing IL-17 monoclonal antibody to Ovx mice mitigated the E2 
+deficiency-induced trabecular bone loss and reversed the decreased 
+osteoprotegerin-to-receptor activator of nuclear factor kappa B ligand (RANKL) 
+transcript levels in long bones, increased osteoclast differentiation from the 
+bone marrow precursor cells and decreased osteoblast differentiation from the 
+bone marrow stromal cells. Our findings indicate that E2 deficiency leads to 
+increased differentiation of Th17 cells with attendant up regulation of STAT3, 
+ROR-γt and ROR-α and downregulation of Foxp3 which antagonizes Th17 cell 
+differentiation. Increased IL-17 production in turn induces bone loss by 
+increasing pro-osteoclastogenic cytokines including TNF-α, IL-6 and RANKL from 
+osteoblasts and functional block of IL-17 prevents bone loss. IL-17 thus plays a 
+critical causal role in Ovx-induced bone loss and may be considered a potential 
+therapeutic target in pathogenesis of post menopausal osteoporosis.

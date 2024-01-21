@@ -1,0 +1,9 @@
+The detection of hypochlorous acid (HOCl) in vivo is vitally important because 
+the local concentration of HOCl is highly correlated with some diseases such as 
+atherosclerosis and rheumatoid arthritis. However, in vivo detection of HOCl 
+remains a challenge due to the lack of a suitable probe. We report here a 
+near-infrared (NIR) emissive "turn-on" probe (FDOCl-1) based on a methylene blue 
+derivative, which can quickly detect HOCl via a newly found deformylation 
+mechanism. FDOCl-1 displays remarkable selectivity and sensitivity towards HOCl. 
+The dramatic changes in colour and NIR emission were used to detect HOCl in 
+vitro and in vivo in a mouse arthritis model.

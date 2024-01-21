@@ -1,0 +1,18 @@
+Previous studies in mouse models of autoimmune diabetes and encephalomyelitis 
+have indicated that the selective delivery of self-antigen to the endocytic 
+receptor DEC205 on steady-state dendritic cells (DCs) may represent a suitable 
+approach to induce Ag-specific immune tolerance. In this study, we aimed to 
+examine whether DEC205(+) DC targeting of a single immunodominant peptide 
+derived from human cartilage proteoglycan (PG) can promote immune tolerance in 
+PG-induced arthritis (PGIA). Besides disease induction by immunization with 
+whole PG protein with a high degree of antigenic complexity, PGIA substantially 
+differs from previously studied autoimmune models not only in the target tissue 
+of autoimmune destruction but also in the nature of pathogenic immune effector 
+cells. Our results show that DEC205(+) DC targeting of the PG peptide 70-84 is 
+sufficient to efficiently protect against PGIA development. Complementary 
+mechanistic studies support a model in which DEC205(+) DC targeting leads to 
+insufficient germinal center B cell support by PG-specific follicular helper T 
+cells. Consequently, impaired germinal center formation results in lower Ab 
+titers, severely compromising the development of PGIA. Overall, this study 
+further corroborates the potential of prospective tolerogenic DEC205(+) DC 
+vaccination to interfere with autoimmune diseases, such as rheumatoid arthritis.

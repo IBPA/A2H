@@ -1,0 +1,19 @@
+We describe a method for the targeted analysis of bioactive arachidonic acid 
+metabolites through cyclooxygenase (COX) and lipoxygenase (LOX) pathway in knee 
+joint, liver, kidney, spleen and heart using an ultra-fast liquid 
+chromatography-tandem mass (UFLC-MS/MS) method. Method validation was 
+investigated, including linearity, precision, accuracy, matrix effect, 
+extraction recovery and stability for the simultaneous analysis of 
+prostaglandins (PGs), thromboxanes (TXs), leukotrienes (LTs) and 
+hydroxyeicosatetraenoic acids (HETEs). The method enables us to 
+chromatographically separate branched-chain species from their straight-chain 
+isomers as well as separate biologically important eicosanoids. The 
+concentrations of the following major eicosanoids were significantly increased 
+in rheumatoid arthritis model rats than in normal ones: 5-HETE, 8-HETE, 12-HETE, 
+15-HETE, PGF2α, TXB2, 5-HpETE, LTE4, PGE2, PGD2, LTB4. Further multivariate data 
+analysis (partial least square-discriminant analysis) showed COX products (PGs, 
+TXs) were readily distributed towards liver and kidney, LOX products (LTs, 
+HETEs) towards knee joint and spleen, and heart had no characteristic 
+metabolites. The method described here offers a useful tool for the evaluation 
+of complex regulatory eicosanoids responses in RA disease states and provides 
+support for use of dual inhibitors of COX and LOX enzymes on RA treatment.

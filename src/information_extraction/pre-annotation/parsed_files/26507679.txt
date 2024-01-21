@@ -1,0 +1,16 @@
+The Clostridium difficile toxin B is one of the main virulence factors and plays 
+an important role in the pathogenesis of C. difficile infection (CDI). We 
+recently revealed crucial residues in the translocation domain of TcdB for the 
+pore formation and toxin translocation. In this study, we investigated the 
+effects of mutating a critical site involved in pore formation, Leu-1106, to 
+residues that differ in size and polarity (Phe, Ala, Cys, Asp). We observed a 
+broad range of effects on TcdB function in vitro consistent with the role of 
+this site in pore formation and translocation. We show that mice challenged 
+systemically with a lethal dose (LD100) of the most defective mutant (L1106K) 
+showed no symptoms of disease highlighting the importance of this residue and 
+the translocation domain in disease pathogenesis. These findings offer insights 
+into the structure function of the toxin translocation pore, and inform novel 
+therapeutic strategies against CDI.
+
+© FEMS 2015. All rights reserved. For permissions, please e-mail: 
+journals.permissions@oup.com.

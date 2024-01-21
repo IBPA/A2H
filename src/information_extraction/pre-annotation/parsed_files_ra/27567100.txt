@@ -1,0 +1,29 @@
+OBJECTIVES: The IL-1 family member IL-37 was recently characterized as a 
+fundamental inhibitor of innate inflammation. We investigated the effects of 
+recombinant IL-37 in joint inflammation and joint pathology in a mouse model of 
+arthritis. In addition, we explored the potential for therapeutic use in human 
+joint inflammation.
+METHODS: Wild-type mice were treated systemically with a recombinant form of the 
+naturally occurring human IL-37, and then the knee joints were injected with 
+streptococcal cell wall fragments; joint inflammation, synovial cytokine 
+concentrations and histology were evaluated after 24 h. Mice deficient in the 
+IL-1 family decoy receptor IL-1R8 were treated in a similar manner. The effects 
+of IL-37 treatment were also assessed in a model of streptococcal cell 
+wall-induced systemic inflammation. Changes in IL37 and IL1R8 gene expression 
+were evaluated in the synovia of patients with rheumatoid arthritis.
+RESULTS: In wild-type mice, low doses (40 µg/kg) of IL-37 suppressed joint 
+inflammation by 51.7% (P < 0.001) and significantly decreased synovial IL-1β by 
+84%, IL-6 by 73%, TNF-α by 33%, chemokine (C-X-C motif) ligand 1 by 58%, 
+Chemokine (C-C motif) ligand 3 or macrophage inflammatory protein 1-alpha by 
+64%, IL-1α by 40% and MPO by 60%. These reductions were associated with a lower 
+recruitment of neutrophils into the joint. The anti-inflammatory properties of 
+IL-37 were dependent on the presence of IL-1R8, also in streptococcal cell 
+wall-induced peritonitis. We found that gene expression of IL1R8, but not IL37, 
+is markedly increased in the synovia of patients with rheumatoid arthritis.
+CONCLUSION: IL-37 emerges as a key suppressor of joint and systemic 
+inflammation. These findings indicate a rationale for using recombinant IL-37 in 
+the treatment of arthritis.
+
+© The Author 2016. Published by Oxford University Press on behalf of the British 
+Society for Rheumatology. All rights reserved. For Permissions, please email: 
+journals.permissions@oup.com.

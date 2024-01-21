@@ -1,0 +1,23 @@
+PURPOSE: The graft-versus-tumor (GVT) effect is a potent form of immunotherapy 
+against many hematologic malignancies and some solid tumors. The beneficial GVT 
+effect after allogeneic bone marrow transplantation (BMT) is tightly linked to 
+its most significant complication, graft-versus-host disease (GVHD). The role of 
+interleukin-6 (IL-6) after allogeneic BMT is not well understood. This study 
+used a series of complementary knockout and antibody blockade strategies to 
+analyze the impact of IL-6 in multiple clinically relevant murine models of GVHD 
+and GVT.
+EXPERIMENTAL DESIGN: We examined the effect of the source of IL-6 by analyzing 
+the role IL-6 deficiency in donor T cells, donor bone marrow or in host tissues. 
+We confirmed and extended the relevance of IL-6 deficiency on GVHD and GVT by 
+treating BMT recipients with anti-mouse IL-6 receptor (IL-6R), MR16-1.
+RESULTS: Deficiency of IL-6 in donor T cells led to prolongation of survival. 
+Total inhibition of IL-6 with MR16-1 caused an even greater reduction in 
+GVHD-induced mortality. The reduction in GVHD was independent of the direct 
+effects on T effector cell expansion or donor regulatory T cells. GVT responses 
+were preserved after treatment with MR16-1.
+CONCLUSION: MR16-1 treatment reduced GVHD and preserved sufficient GVT. 
+Tocilizumab, a humanized anti-IL-6R monoclonal antibody (mAb), is approved in 
+several countries including the United States and European Union for the 
+treatment of rheumatoid arthritis and other inflammatory diseases. Blockade of 
+IL-6 with anti-IL-6R mAb therapy may be testable in clinical trials as an 
+adjunct to prevent GVHD in BMT patients without a significant loss of GVT.

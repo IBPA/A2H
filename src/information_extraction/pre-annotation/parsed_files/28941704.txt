@@ -1,0 +1,22 @@
+Many microRNAs participate in the development, differentiation and function 
+preservation of the embryonic and adult inner ear, but many details still need 
+to be elucidated regarding the numerous microRNAs in the inner ear. Based on 
+previous investigations on the microRNA profile in the inner ear, we confirmed 
+that several microRNAs are expressed in the inner ear, and we detected the 
+spatial expression of these microRNAs in the neonatal mouse inner ear. Then we 
+focused on miR-194 for its specific expression with a dynamic spatiotemporal 
+pattern during inner ear development. Overexpression of miR-194 in cultured 
+spiral ganglion cells significantly affected the dendrites of differentiated 
+neurons, with more branching and obviously dispersed nerve fibres. Furthermore, 
+the cytoskeleton of cultured cells was markedly affected, as disordered actin 
+filaments resulting from miR-194 overexpression and enhanced filaments resulting 
+from miR-194 knockdown were observed. Together with the bioinformatic methods, 
+the RT-qPCR and western blot results showed that RhoB is a candidate target of 
+miR-194 in the morphogenesis of spiral ganglion neurons. Additionally, the 
+double luciferase reporter system was used to identify RhoB as a novel target of 
+miR-194. Finally, the inhibition of RhoB activation by Clostridium difficile 
+toxin B disturbed the organization of the actin filament, similar to the effects 
+of miR-194 overexpression. In summary, we investigated microRNA expression in 
+the mouse inner ear, and demonstrated that miR-194 is dynamically expressed 
+during inner ear development; importantly, we found that miR-194 affects neuron 
+morphogenesis positively through Rho B-mediated F-actin rearrangement.

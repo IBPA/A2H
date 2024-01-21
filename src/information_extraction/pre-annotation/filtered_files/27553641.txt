@@ -1,0 +1,24 @@
+In this MiniReview, we summarize the body of knowledge on the delayed-type 
+hypersensitivity arthritis (DTHA) model, a recently developed arthritis model 
+with 100% incidence, low variation and synchronized onset in C57BL/6 (B6) mice, 
+and compare it to other murine arthritis models. It is desirable to have robust 
+arthritis models in B6 mice, as many transgene strains are bred on this 
+background. However, several of the most widely used mouse model of arthritis 
+cannot be induced in B6 mice without the drawback of lower incidence, reduced 
+severity and higher variation, if at all. DTHA is induced by modifying a 
+classical methylated bovine serum albumin (mBSA)-induced DTH response by 
+administering a cocktail of anti-type II collagen antibodies (anti-CII) between 
+immunization and challenge. Arthritis affects one, predefined paw in which acute 
+inflammation and severe arthritis rapidly develop and peak after 4-7 days. 
+Disease is self-resolving over the course of around 3 weeks. Disease 
+manifestations resemble those seen in other arthritis models and include bone 
+erosion, cartilage destruction, oedema, pannus and new bone formation. Induction 
+of DTHA is dependent on CD4+ T cells while B cells are dispensable. The DTHA 
+model is set apart from other murine arthritis models in that it can be induced 
+in B6 mice with 100% incidence and with high and consistent severity. This is 
+the clearest advantage of the model, as the mechanisms of disease and clinical 
+manifestations can be found in other arthritis models. The model holds potential 
+for future modifications that may improve the lack of chronicity.
+
+© 2016 Nordic Association for the Publication of BCPT (former Nordic 
+Pharmacological Society).

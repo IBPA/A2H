@@ -1,0 +1,15 @@
+The role of T cells in the mouse collagen-induced arthritis (CIA) model for 
+rheumatoid arthritis is not clarified, and different results have been reported 
+concerning the role of CD4 and CD8 T cells. To address this issue, we have 
+investigated B10.Q mice deficient for CD4 or CD8. The mice lacking CD4 were 
+found to be less susceptible to disease, but not completely resistant, whereas 
+the CD8 deficiency had no significant impact on the disease. No difference in 
+the development of late occurring relapses was noted. Interestingly, the 
+CD4-deficient mice had a severely reduced response to the glycosylated form of 
+the immunodominant type II collagen (CII) 256-270 peptide whereas the response 
+to the non-glycosylated peptide was not significantly different. Furthermore, 
+CD4-deficient mice had lower antibody responses to CII, explaining the lower 
+disease susceptibility. In comparison with previously reported results, it is 
+apparent that the lack of CD4 molecules has a different impact on CIA if present 
+on different genetic backgrounds, findings that could possibly be related to the 
+occurrence of different disease pathways of CIA in different mouse strains.

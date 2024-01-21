@@ -1,0 +1,24 @@
+OBJECTIVE: In autoimmune situations, the outcome of immune response against a 
+disease-related antigen is typically viewed in terms of the balance between the 
+pathogenic versus the protective subsets of antigen-reactive T cells. Using the 
+rat adjuvant arthritis (AA) model of human rheumatoid arthritis (RA), we 
+examined the antigen specificity and the functional attributes of the T cell 
+repertoire directed against defined pathogenic versus protective epitopes of 
+heat-shock protein 65 (hsp65), and determined the immunologic basis of the 
+AA-protective effect of subsets of T cells primed by the pathogenic determinant.
+METHODS: Lewis (RT.1l) rats were pretreated subcutaneously with the pathogenic 
+epitope 177-191 of mycobacterial hsp65 (B177) in adjuvant (incomplete Freund's 
+adjuvant/complete Freund's adjuvant/CpG) and then immunized with heat-killed M. 
+tuberculosis H37Ra for disease induction. The antigen 
+specificity/crossreactivity of the T cells primed by B177 or the AA-protective 
+determinant 465-479 of the homologous rat hsp65 (R465) was tested by using 
+proliferation assay, cytokine ELISA, tolerance induction, and adoptive transfer.
+RESULTS: Pretreatment of Lewis rats with the arthritogenic determinant B177 
+using an immunogenic rather than a tolerogenic regimen affords protection 
+against AA instead of initiation or aggravation of AA. This protective effect of 
+B177 is mediated in part by activation of T cells that are crossreactive with 
+R465.
+CONCLUSION: Downmodulation of AA by a pathogenic foreign epitope involving T 
+cells crossreactive with a distant, protective self-determinant represents a 
+novel aspect of immune regulation, and suggests further exploration of the use 
+of pathogenic epitopes for the treatment of autoimmune arthritis.

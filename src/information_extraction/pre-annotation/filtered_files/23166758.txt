@@ -1,0 +1,27 @@
+Rheumatoid arthritis (RA) is a chronic destructive autoimmune disease 
+characterised by periods of flare and remission. Today's treatment is based on 
+continuous immunosuppression irrespective of the patient's inflammatory status. 
+When the disease is in remission the therapy is withdrawn but withdrawal 
+attempts often results in inflammatory flares, and re-start of the therapy is 
+commenced when the inflammation again is prominent which leads both to suffering 
+and increased risk of tissue destruction. An attractive alternative treatment 
+would provide a disease-regulated therapy that offers increased 
+anti-inflammatory effect during flares and is inactive during periods of 
+remission. To explore this concept we expressed the immunoregulatory cytokine 
+interleukin (IL)-10 gene under the control of an inflammation dependent promoter 
+in a mouse model of RA - collagen type II (CII) induced arthritis (CIA). 
+Haematopoetic stem cells (HSCs) were transduced with lentiviral particles 
+encoding the IL-10 gene (LNT-IL-10), or a green fluorescence protein (GFP) as 
+control gene (LNT-GFP), driven by the inflammation-dependent IL-1/IL-6 promoter. 
+Twelve weeks after transplantation of transduced HSCs into DBA/1 mice, CIA was 
+induced. We found that LNT-IL-10 mice developed a reduced severity of arthritis 
+compared to controls. The LNT-IL-10 mice exhibited both increased mRNA 
+expression levels of IL-10 as well as increased amount of IL-10 produced by B 
+cells and non-B APCs locally in the lymph nodes compared to controls. These 
+findings were accompanied by increased mRNA expression of the IL-10 induced 
+suppressor of cytokine signalling 1 (SOCS1) in lymph nodes and a decrease in the 
+serum protein levels of IL-6. We also found a decrease in both frequency and 
+number of B cells and serum levels of anti-CII antibodies. Thus, 
+inflammation-dependent IL-10 therapy suppresses experimental autoimmune 
+arthritis and is a promising candidate in the development of novel treatments 
+for RA.

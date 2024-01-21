@@ -1,0 +1,16 @@
+Aminopeptidases are exopeptidases that process peptide bonds at the N-terminus 
+of protein substrates, and they are involved in controlling several metabolic 
+pathways. Due to their involvement in diseases such as cancer or rheumatoid 
+arthritis, their presence can also be used as a predictive biomarker. Here, we 
+used a library of fluorogenic substrates containing natural and unnatural amino 
+acids to reliably measure the aminopeptidase N (APN) activity in cell lysates 
+obtained from human, pig and rat kidneys. We compared our results to the 
+substrate specificity profile of isolated APN. Our data strongly support the 
+observation that fluorogenic substrates can be successfully used to identify 
+aminopeptidases and to measure their activity in cell lysates. Moreover, in 
+contrast to assays using single substrates, which can result in overlapping 
+specificity due to cleavage by several aminopeptidases, our library fingerprint 
+can provide information about single enzymes.
+
+Copyright © 2015 Elsevier B.V. and Société Française de Biochimie et Biologie 
+Moléculaire (SFBBM). All rights reserved.

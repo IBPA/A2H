@@ -1,0 +1,17 @@
+The improvement of rheumatoid factor titers in patients with rheumatoid 
+arthritis is one of the significant clinical effects of bucillamine (Buc). In 
+this study, we investigated the effects of SA981, an active metabolite of Buc, 
+and methotrexate (MTX) on CD40-mediated antibody production using mouse B-cell 
+lymphoma, BCL1. SA981 significantly attenuated CD40-mediated antibody production 
+in a concentration-dependent manner, but weakly affected cell proliferation. In 
+contrast, MTX did not attenuate CD40-mediated antibody production until it had 
+strongly inhibited cell proliferation at a concentration of 100 nM. CD40 
+signaling induced protein phosphorylation, including Akt phosphorylation, p38 
+mitogen-activated protein kinase (p38MAPK), and IκBα. SA981 at a concentration 
+of 30 μM attenuated CD40-mediated Akt phosphorylation, but not p38MAPK or IκBα 
+phosphorylation. MTX at a concentration of 100 nM did not affect CD40-mediated 
+Akt, p38MAPK, or IκBα phosphorylation. Commercially available Akt inhibitor VIII 
+significantly attenuated CD40-mediated IgM production at a concentration of 100 
+nM without significant inhibition of cell proliferation. These results suggest 
+that SA981 inhibits CD40-mediated antibody production in mouse B-cell lymphoma, 
+at least in part, by attenuation of Akt phosphorylation.

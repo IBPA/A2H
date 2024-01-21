@@ -1,0 +1,15 @@
+OBJECTIVE: To study the effect of pulchinenoside (PULC) in modulating SFRP2 
+expression in fibroblast-like synoviocytes (FLS) of rheumatoid arthritis (RA) 
+model rats.
+METHOD: The effect of PULC in treating RA rats was evaluated by rat arthritis 
+score and paw swelling score. The inhibitory effect of PULC on FLS proliferation 
+was detected by MTT reagent. The effects of PULC gavage treatment in modulating 
+gene expression of FLS SFRP2, critical gene beta-catenin of Wnt pathway and 
+downstream effector genes C-myc of of Wnt pathway were detected by RT-PCR and 
+Western blotting.
+RESULT: PULC had a significant effect in treating RA rats and that SFRP2 
+expression was down-regulated in FLS. After PULC gavage treatment, FLS SFRP2 
+expression was obviously up-regulated, whereas beta-catenin and C-myc gene 
+expressions were significantly down-regulated.
+CONCLUSION: PULC can inhibit abnormal proliferation of synovial membrane by 
+modulating Wnt pathway of RA rats.

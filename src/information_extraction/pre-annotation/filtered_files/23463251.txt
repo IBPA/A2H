@@ -1,0 +1,18 @@
+The complexity of rheumatoid arthritis (RA) pathogenesis makes combined blockade 
+of multiple targets an attractive therapeutic strategy. The combination therapy 
+with anti-TNF plus anti-T-cell has been mostly reported to provide greater 
+efficacy than anti-TNF alone. TNFR (p75)-Fc fusion protein, which has been 
+proven effective in clinics, is chosen as the TNF antagonist in this study. 
+CTLA4-FasL fusion molecule, which has been well characterized in our previous 
+studies for its suppressive effect in rat arthritis model, is chosen as the 
+T-cell antagonist. In this study, furin cleavage site and 2A self-processing 
+sequence were introduced to link upstream TNFR-Fc and downstream CTLA4-FasL and 
+mediate separate coexpression of the two fusion proteins in a single recombinant 
+adeno-associated virus (rAAV) vector. Using this expression system, we generated 
+two fusion proteins with same size as their individual counterparts in vitro and 
+in vivo, and the proteins desirably retained their parent biological activities. 
+In vivo results demonstrated that furin-2A technology is able to regulate 
+separate coexpression of these proteins under arthritic inflammatory conditions. 
+This study describes a single rAAV vector for production of two antiarthritic 
+molecules antagonizing both TNF and T cells, which may serve as an attractive 
+expression system for RA gene therapy.

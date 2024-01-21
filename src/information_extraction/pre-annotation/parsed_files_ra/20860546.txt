@@ -1,0 +1,24 @@
+ABX-IL8 is a fully human IgG₂ monoclonal antibody generated using transgenic 
+mouse technology (Xenomouse®) that binds to human Interleukin-8 with high 
+affinity and specificity. The objective of this study was to evaluate the 
+pharmacokinetic (PK) properties of ABX-IL8 in patients with active inflammatory 
+diseases. Patients with psoriasis and rheumatoid arthritis received single or 
+multiple short intravenous infusions of ABX-IL8 or placebo. Serum concentrations 
+of ABX-IL8, baseline serum IgG and IgG₂ concentrations and Anti-Drug Antibody 
+(ADA) response to ABX-IL8 were determined using relevant immunoassays. 
+Pharmacokinetic analyses of the serum ABX-IL8 concentration-time data were 
+performed. Following single-dose administration of ABX-IL8, dose proportional 
+increases in drug exposure were observed. Consistent with the disposition 
+properties of the endogenous IgG antibodies, ABX-IL8 appeared to be primarily 
+distributed into the plasma compartment and the extra-vascular fluid and the 
+steady-sate volume of distribution (61 ± 14 to 71 ± 14 mL/kg) was comparable to 
+that for the endogenous antibodies. Following the multiple-dose administration, 
+PK properties of the antibody were linear with dose and time. Steady-state 
+clearance (2.6 ± 1.1 to 2.7 ± 1.4 mL/day/kg) was similar to that observed 
+following the single dose administration and no ADA response was detected 
+throughout the study. PK variability and serum exposure to ABX-IL8 following 
+administration of the fixed doses were comparable to those observed following 
+administration of the weight-adjusted doses; the impact of body weight on 
+clearance was minimal and this correlation did not translate into requirements 
+for body weight-adjusted dosing. Additionally, age and disease type (psoriasis 
+or RA) had no impact on ABX-IL8 pharmacokinetics.

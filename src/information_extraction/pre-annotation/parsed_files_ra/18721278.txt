@@ -1,0 +1,19 @@
+Human allograft inflammatory factor-1 (AIF-1) is a cytoplasmic protein primarily 
+identified in human and rat allografts, and data from several studies suggest an 
+important role for AIF-1 in inflammatory processes. The aim of this study was to 
+examine the association between AIF1 rs2269475:C>T polymorphism and rheumatoid 
+arthritis (RA). AIF1 genotype was determined by means of the polymerase chain 
+reaction-restriction fragment length polymorphism method in 276 White patients 
+with RA and 236 healthy subjects. The frequency of the AIF1 rs2269475 TT 
+genotype was significantly higher in the patients with RA than in the controls 
+(OR=5.59, 95% CI: 1.22-25.55). The frequency of T allele carriers in the patient 
+group with RA was 31.9% vs 19.1% among controls (P=0.0003). Moreover, the 
+frequency of individuals positive for anti-cyclic citrullinated peptide 
+(anti-CCP) antibodies was significantly elevated in the T allele carriers 
+(OR=8.82, 95% CI: 2.06-37.7). It is noteworthy that no significant linkage 
+disequilibria between the AIF1 C/T and DRB1 alleles associated with RA 
+development and anti-CCP antibody production [including the most frequent, i.e. 
+*04 (32.7%) and *01 (23.5%)] (P>0.1) were found. Our results show that the AIF1 
+rs2269475 T allele is associated with increased risk of RA development. 
+Moreover, the frequency of individuals positive for anti-CCP antibodies is 
+significantly increased among T allele carriers.

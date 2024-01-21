@@ -1,0 +1,14 @@
+To determine whether canine rheumatoid arthritis (CRA) is associated with dog 
+MHC (DLA-DRB1) alleles which contain the QRRAA/RKRAA conserved third 
+hypervariable region (3HVR) sequence, DNA samples were extracted from 61 dogs 
+with clinically diagnosed small-joint polyarthritis and from 425 controls. 
+Breed-matched controls were available for 41 cases. DLA-DRB1 genotypes were 
+identified using molecular typing methods. Phenotype frequencies were compared 
+between cases and controls and odds ratios with 95% confidence intervals 
+calculated. Several DLA-DRB1 alleles were associated with increased risk for 
+CRA: DLA-DRB1*002, DRB1*009, and DRB1*018. This was also observed for the 
+presence of any shared epitope (SE)-bearing allele. The associations with 
+DLA-DRB1*002 and the SE were maintained when only breed-matched cases and 
+controls were compared. This study suggests that a conserved amino acid motif in 
+the 3HVR present in some DRB1 alleles of both dogs and humans is associated with 
+rheumatoid arthritis in both species.

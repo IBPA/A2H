@@ -1,0 +1,25 @@
+OBJECTIVE: Collagen-induced arthritis (CIA) is a model of inflammatory arthritis 
+with many similarities to rheumatoid arthritis (RA). We previously mapped in 
+F(2) offspring of CIA-susceptible DA and CIA-resistant F344 rats, 5 quantitative 
+trait loci (QTLs) for which F344 alleles were associated with reduced CIA 
+severity. In the present study, we sought to characterize the independent 
+arthritis-modulating effects of these 5 QTLs.
+METHODS: CIA-regulatory regions were transferred from the F344 genome to the DA 
+background or vice versa by repeated backcrossing. The arthritis-modulating 
+effects of the transferred alleles were determined by comparing the severity of 
+experimentally induced arthritis in congenic rats with that in DA rats.
+RESULTS: Congenic lines with either the F344 major histocompatibility complex 
+(MHC) on the DA background or the DA MHC on the F344 background were resistant 
+to CIA, confirming both MHC and non-MHC contributions to the genetic regulation 
+of CIA. F344 alleles at the Cia3 and Cia5 regions of chromosomes 4 and 10 
+reduced CIA severity relative to that observed in DA rats. F344 Cia4 and Cia6 
+regions of chromosomes 7 and 8 failed to significantly alter CIA severity. 
+Arthritis-modifying effects of Cia4 and Cia6 were, however, detected in 
+pristane-induced and/or Freund's incomplete adjuvant oil-induced arthritis. The 
+arthritis-modifying effects of the non-MHC CIA-regulatory loci differed in males 
+and females.
+CONCLUSION: These congenic lines confirmed the existence and location of genes 
+that regulate the severity of experimental arthritis in rats. Mechanisms 
+responsible for the sex-specificity of individual arthritis-regulatory loci may 
+explain some of the sex differences observed in RA and other autoimmune diseases 
+in humans.

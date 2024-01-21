@@ -1,0 +1,22 @@
+Biomarker quantification in disease tissues from animal models of rheumatoid 
+arthritis (RA) can help to provide insights into the mechanisms of action of 
+novel therapeutic agents. In this study we validated the kinetics of IL-1beta, 
+TNF-alpha and IL-6 mRNA and protein expression levels in joints from DBA/1OlaHsd 
+murine collagen-induced arthritis (CIA) and Lewis rat Streptococcal cell wall 
+(SCW)-induced arthritis by real-time polymerase chain reaction (PCR) TaqMan and 
+Enzyme-linked immunosorbent assay (ELISA). Prednisolone was used as a reference 
+to investigate any correlation between clinical response and cytokine levels at 
+selected time-points. To our knowledge this is the first report showing a close 
+pattern of expression between mRNA and protein for IL-1beta and IL-6, but not 
+for TNF-alpha, in these two models of RA. The kinetics of expression for these 
+biomarkers suggested that the optimal sampling time-points to study the effect 
+of compounds on both inflammation and cytokine levels were day 4 postonset in 
+CIA and day 3 after i.v challenge in SCW-induced arthritis. Prednisolone reduced 
+joint swelling through a mechanism associated with a reduction in IL-1beta and 
+IL-6 protein and mRNA expression levels. At the investigated time points, 
+protein levels for TNF-alpha in arthritic joints were lower than the lower limit 
+of detection of the ELISA, whereas mRNA levels for this cytokine were reliably 
+detected. These observations suggest that RT-PCR TaqMan is a sensitive technique 
+that can be successfully applied to the quantification of mRNA levels in rodent 
+joints from experimental arthritis models providing insights into mechanisms of 
+action of novel anti-inflammatory drugs.

@@ -1,0 +1,22 @@
+OBJECTIVE: Rheumatoid arthritis (RA) is one systemic auto-immune disorder 
+featured as chronic synovitis and can destruct joint cartilage. Fibroblast-like 
+synoviocyte (FLS) secretes various factors affecting chondrocyte matrix and 
+degradation. This study thus investigated the effect of interleukin-17A (IL-17A) 
+on FLS and osteoclast.
+MATERIALS AND METHODS: Type II collagen-induced arthritis (CIA) rats were 
+assigned to CIA model, CIA + IgG1 isotype, and CIA + Anti-Rat IL-17A groups. 
+Tissue volume and arthritis index (AI) evaluated arthritis condition. ELISA and 
+flow cytometry measured IL-17A content and Th17 cell percentage in joint cavity 
+fluid. Matrix metallopeptidase 13 (MMP-13) and collagen type II alpha 1 (COL2A1) 
+expression in synovial tissues were compared. FLS-osteoclast co-culture system 
+was treated with IL-17A + IgG1 Isotype or CIA + Anti-Rat IL-17A. MMP-13 and 
+COL2A1 expression were compared.
+RESULTS: CIA model rats had significantly higher IL-17A and Th17 cell ratio in 
+joint cavity fluid. Injection of Anti-Rat IL-17A decreased AI and tissue volume 
+in model rats, decreased MMP-13 while increased COL2A1 expression in synovial or 
+cartilage tissues. IL-17A treatment remarkably up-regulated MMP-13 mRNA or 
+protein expression in chondrocytes. Anti-IL-17A weakened effects of IL-17A on 
+FLS or chondrocytes.
+CONCLUSIONS: IL-17A inhibits COL2A1 mRNA and protein expression of chondrocyte 
+in the co-culture system via inducing MMP-13 expression in FLS, thus enhancing 
+collagen degradation and playing a role in RA-related cartilage injury.

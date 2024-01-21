@@ -1,0 +1,14 @@
+The complement system is important for the host defence against infection as 
+well as for the development of inflammatory diseases. Here we show that 
+C1q/TNF-related protein 6 (CTRP6; gene symbol C1qtnf6) expression is elevated in 
+mouse rheumatoid arthritis (RA) models. C1qtnf6(-/-) mice are highly susceptible 
+to induced arthritis due to enhanced complement activation, whereas 
+C1qtnf6-transgenic mice are refractory. The Arthus reaction and the development 
+of experimental autoimmune encephalomyelitis are also enhanced in C1qtnf6(-/-) 
+mice and C1qtnf6(-/-) embryos are semi-lethal. We find that CTRP6 specifically 
+suppresses the alternative pathway of the complement system by competing with 
+factor B for C3(H2O) binding. Furthermore, treatment of arthritis-induced mice 
+with intra-articular injection of recombinant human CTRP6 cures the arthritis. 
+CTRP6 is expressed in human synoviocytes, and CTRP6 levels are increased in RA 
+patients. These results indicate that CTRP6 is an endogenous complement 
+regulator and could be used for the treatment of complement-mediated diseases.

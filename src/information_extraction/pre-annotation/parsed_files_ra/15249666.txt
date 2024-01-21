@@ -1,0 +1,23 @@
+The hallmark of rheumatoid arthritis (RA) is the progressive destruction of 
+articular joints, characterized by invasive synovial hyperplasia and 
+pathological neovascularization. Here we report that PPI-2458, a member of the 
+fumagillin class of irreversible methionine aminopeptidase-2 (MetAP-2) 
+inhibitors, potently inhibits the proliferation of human fibroblast-like 
+synoviocytes (HFLS-RA), derived from RA patients, with a growth inhibitory 
+concentration 50 (GI(50)) of 0.04 nM and a maximum inhibition of >95% at 1 nM. 
+Human umbilical vein endothelial cells (HUVEC) are similarly inhibited in 
+proliferation by PPI-2458 (GI(50), 0.2 nM). We developed a method to measure the 
+level of MetAP-2 enzyme inhibition after exposure to PPI-2458 and demonstrate 
+that growth inhibition of PPI-2458-sensitive HFLS-RA and HUVEC is linked to 
+MetAP-2 enzyme inhibition, in a dose-dependent fashion. The secretion of several 
+inflammatory mediators such as IL-6 and vascular endothelial growth factor from 
+activated HFLS-RA was not inhibited by PPI-2458. The CNS toxicity profile of 
+PPI-2458, determined by the incidence of seizures, is significantly improved 
+over that of the parental compound TNP-470. In the rat model of 
+peptidoglycan-polysaccharide-induced arthritis, PPI-2458 significantly 
+attenuated paw swelling when therapeutically administered after the onset of 
+chronic disease. We suggest that the mechanism of PPI-2458 action, highly 
+selective and potent anti-proliferative activity on HFLS-RA and HUVEC in vitro, 
+a significantly improved CNS toxicity profile, and marked attenuation of chronic 
+disease in the rat peptidoglycan-polysaccharide arthritis model in vivo, 
+positions this compound as a drug for the treatment of RA.

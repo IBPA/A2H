@@ -1,0 +1,20 @@
+Chronic inflammatory diseases, such as arthritis and rheumatoid arthritis, 
+remain major health problems worldwide. We previously demonstrated that 
+adenosine kinase inhibitors (AKIs) exhibit antiinflammatory effects by 
+inhibiting TNF-alpha production, neutrophil accumulation, and edema formation. 
+Although adenosine receptor agonists produce similar effects, AKIs showed the 
+antiinflammatory activity without the cardiovascular side effects that prevented 
+the development of adenosine receptor specific agonists. However, previously 
+described potent AKIs, such as 5-iodotubercidin, are nucleosides which have the 
+potential to undergo in vivo 5'-O-phosphorylation and therefore produce 
+cytotoxicity. In an effort to eliminate toxicities produced by phosphorylated 
+nucleosides, l-lyxofuranosyl analogues of tubercidin were tested as potential 
+AKIs since the opposite stereochemical orientation of the CH(2)OH was expected 
+to eliminate intracellular phosphorylation. Described herein are the discovery 
+of a new series of AKIs based on alpha-l-lyxofuranosyl nucleosides, their SAR, 
+as well as the antiinflammatory activity of the lead compound GP790 (IC(50) = 
+0.47 nM, 47% inhibition of paw swelling at 10 mg/kg in rat carrageenan paw edema 
+model). In addition, a study showing that in the skin lesion model the 
+antiinflammatory activity is reversed by an A2 selective adenosine receptor 
+antagonist 3,7-dimethyl-1-propargyl xanthine [correction of propylxanthine] 
+(DMPX) is also described.

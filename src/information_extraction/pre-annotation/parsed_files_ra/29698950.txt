@@ -1,0 +1,19 @@
+BACKGROUND: Dry skin induced by rheumatoid arthritis (RA) causes itching, which 
+negatively influences a patient's quality of life. We previously reported that 
+mast cells are related to dry skin in arthritic mice. However, the mechanism of 
+mast cell activation is unclear. In this study, we examined the mechanism 
+underlying the formation of dry skin induced by mast cells in arthritis that 
+involves thymic stromal lymphopoietin (TSLP), neutrophils, reactive oxygen 
+species (ROS), and glucocorticoids.
+METHODS: Mice with DBA/1JJmsSlc collagen-induced arthritis were treated with 
+inhibitors or neutralizing antibodies. We measured transepidermal water loss 
+(TEWL) to examine the modulating signal of mast cells.
+RESULTS: TEWL, the number of mast cells, and the plasma levels of TSLP, ROS, and 
+corticosterone in the arthritic mice were increased when compared with the 
+control mice. However, the mice treated with TSLP- and neutrophil-neutralizing 
+antibodies and ROS and glucocorticoid receptor inhibitors (N-acetyl-L-cysteine 
+[NAC] and RU-486, respectively) experienced an improvement. The ameliorating 
+effect was most remarkable following treatment with NAC + RU-486.
+CONCLUSION: This study suggested that inhibiting ROS and glucocorticoids is 
+important to ameliorate dry skin in arthritis, which may provide a novel 
+treatment option for dry skin in RA patients.

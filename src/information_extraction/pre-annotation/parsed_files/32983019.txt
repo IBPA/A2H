@@ -1,0 +1,32 @@
+Clostridioides difficile toxin A (TcdA) has been shown to inhibit cellular Wnt 
+signaling, the major driving force behind the proliferation of epithelial cells 
+in colonic crypts, likely through the inhibition of β-catenin nuclear 
+translocation. Herein, we aimed to advance the understanding of this mechanism 
+by replicating the findings in vivo and by investigating the specific role of 
+Rac1, a member of the Rho GTPase family, on the inhibition of the Wnt-induced 
+β-catenin nuclear translocation triggered by TcdA. To investigate the effects of 
+TcdA on the Wnt/β-catenin pathway in vivo, we injected the ileal loops of 
+C57BL/6 mice with TcdA [phosphate-buffered saline (PBS) as the control] to 
+induce C. difficile disease-like ileitis. After 4 h post-injection, we obtained 
+ileum tissue samples to assess Wnt signaling activation and cell proliferation 
+through Western blotting, immunohistochemistry, and qPCR. To assess the role of 
+Rac1 on Wnt signaling inhibition by TcdA, we transfected rat intestinal 
+epithelial cells (IEC-6) with either a constitutively active Rac1 plasmid 
+(pcDNA3-EGFP-Rac1-Q61L) or an empty vector, which served as the control. We 
+incubated these cells with Wnt3a-conditioned medium (Wnt3a-CM) to induce 
+Wnt/β-catenin pathway activation, and then challenged the cells with TcdA. We 
+assessed Wnt signaling activation in vitro with TOP/FOPflash luciferase assays, 
+determined nuclear β-catenin translocation by immunofluorescence, measured 
+cyclin D1 protein expression by Western blotting, and quantified cell 
+proliferation by Ki67 immunostaining. In vivo, TcdA decreased β-catenin, cyclin 
+D1, and cMYC expression and inhibited the translocation of β-catenin into the 
+nucleus in the ileum epithelial cells. In addition, TcdA suppressed cell 
+proliferation and increased Wnt3a expression, but did not alter Rac1 gene 
+expression in the ileum tissue. In vitro, constitutively active Rac1 prevented 
+Wnt signaling inhibition by enabling the β-catenin nuclear translocation that 
+had been blocked by TcdA. Our results show that TcdA inhibits Wnt/β-catenin 
+pathway in vivo and demonstrate that this inhibition is likely caused by a 
+Rac1-mediated mechanism.
+
+Copyright © 2020 Martins, Costa, Lima, Leitäo, Freire, Silva, Pacífico, Abreu 
+and Brito.

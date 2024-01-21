@@ -1,0 +1,18 @@
+CB-183,315 is a novel lipopeptide antibiotic structurally related to daptomycin 
+currently in phase 3 clinical development for Clostridium difficile-associated 
+diarrhea (CDAD). We report here the in vitro mechanism of action, spontaneous 
+resistance incidence, resistance by serial passage, time-kill kinetics, 
+postantibiotic effect, and efficacy of CB-183,315 in a hamster model of lethal 
+infection. In vitro data showed that CB-183,315 dissipated the membrane 
+potential of Staphylococcus aureus without inducing changes in membrane 
+permeability to small molecules. The rate of spontaneous resistance to 
+CB-183,315 at 8× the MIC was below the limit of detection in C. difficile. Under 
+selective pressure by serial passage with CB-183,315 against C. difficile, the 
+susceptibility of the bacteria changed no more than 2-fold during 15 days of 
+serial passages. At 16× the MIC, CB-183,315 produced a ≥3-log reduction of C. 
+difficile in the time-kill assay. The postantibiotic effect of CB-183,315 at 8× 
+the MIC was 0.9 h. At 80× the MIC the postantibiotic effect was more than 6 h. 
+In the hamster model of CDAD, CB-183,315 and vancomycin both demonstrated potent 
+efficacy in resolving initial disease onset, even at very low doses. After the 
+conclusion of dosing, CB-183,315 and vancomycin showed a similar dose- and 
+time-dependent pattern with respect to rates of CDAD recurrence.

@@ -1,0 +1,17 @@
+SR31747A is currently being evaluated in phase IIb clinical trials for prostate 
+cancer treatment. The molecule is a peripheral sigma ligand that binds four 
+proteins in human cells, i.e. SRBP-1, sigma-2, HSI and its relative SRBP-2. 
+SR31747A is a dual agent with both immunomodulatory and antiproliferative 
+activities. The molecule blocks proliferation of human and mouse lymphocytes, 
+modulates the expression of pro- and anti-inflammatory cytokines, and was shown 
+to protect animals in vivo against acute and chronic inflammatory conditions 
+such as acute graft-versus-host reaction, lethality induced by staphylococcal 
+enterotoxin B and lipopolysaccharide or rheumatoid arthritis. Besides these 
+immunomodulatory activities, the molecule also inhibits the proliferation of 
+various tumor cell lines in vitro in a time- and concentration-dependent manner. 
+In vivo, SR31747A has potent antitumoral activity as demonstrated against 
+mammary and prostatic tumoral cell lines injected into nude mice, where both 
+tumor incidence and growth were decreased by more than 40% following daily 
+SR31747A treatment at 25 mg/kg i.p. The recent literature on SR31747A in cancer 
+is reviewed here. We focus specifically on preclinical data obtained in vivo and 
+on studies aimed at deciphering the mode of action of the molecule.

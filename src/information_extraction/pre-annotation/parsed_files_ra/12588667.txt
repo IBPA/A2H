@@ -1,0 +1,20 @@
+As the T-cell population in the synovial tissue (ST) in rheumatoid arthritis 
+(RA) is dominated by T helper (Th) 1 cells, this study was designed to examine 
+whether there is a preferential migration of polarized T cells to ST, and to 
+identify the chemokines responsible for the migration. This was done by 
+developing 10 T-cell clones specific for an arbitrary antigen (mouse 
+immunoglobulin G (IgG)) from the peripheral blood (PB) of a healthy donor 
+sensitized to mouse IgG. The Th polarizations of the clones were determined by 
+measuring secreted interferon-gamma and interleukin-4, following anti-CD3 
+stimulation. Migration to pools of RA ST cell-derived supernatants was analysed. 
+Expression of the chemokine receptors CCR1, CCR2, CCR3, CCR4, CCR5, CCR6, CCR7, 
+CCR8, CXCR3 and CXCR4 were analysed by flow cytometry. Th1 clones showed 
+significantly higher migration to RA ST cell-derived supernatant compared with 
+Th2 clones. Blocking of either of the chemokines, CCL5 or CCL2, strongly 
+inhibited migration of the Th1 cells between 56 and 77%, while blocking of 
+CXCL12 inhibited migration between 44 and 61%. Blocking of CXCL10 had only a 
+minor inhibitory effect. Our results demonstrate a selective migration of Th1 
+cells to RA ST supernatant and that blocking either CCL5, CCL2 or CXCL12 
+significantly inhibits T-cell migration. This indicates that CCL5, CCL2 and 
+CXCL12 play significant roles in attracting Th1 cells towards the RA ST, and may 
+prove potent targets for obstructing T-cell migration to the synovium.

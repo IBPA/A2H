@@ -1,0 +1,16 @@
+The pro-inflammatory cytokine interleukin (IL)-1β is a clinical target in many 
+conditions involving dysregulation of the immune system; therapeutics that block 
+IL-1β have been approved to treat diseases such as rheumatoid arthritis (RA), 
+neonatal onset multisystem inflammatory diseases, cryopyrin-associated periodic 
+syndromes, active systemic juvenile idiopathic arthritis. Here, we report the 
+generation and engineering of a new fully human antibody that binds tightly to 
+IL-1β with a neutralization potency more than 10 times higher than that of the 
+marketed antibody canakinumab. After affinity maturation, the derived antibody 
+shows a>30-fold increased affinity to human IL-1β compared with its parent 
+antibody. This anti-human IL-1β IgG also cross-reacts with mouse and monkey 
+IL-1β, hence facilitating preclinical development. In a number of mouse models, 
+this antibody efficiently reduced or abolished signs of disease associated with 
+IL-1β pathology. Due to its high affinity for the cytokine and its potency both 
+in vitro and in vivo, we propose that this novel fully human anti-IL-1β 
+monoclonal antibody is a promising therapeutic candidate and a potential 
+alternative to the current therapeutic arsenal.

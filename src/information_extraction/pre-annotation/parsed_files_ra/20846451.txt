@@ -1,0 +1,25 @@
+BACKGROUND: Leukotrienes (LTs) belong to the large family of lipid mediators 
+implicated in various inflammatory conditions such as asthma and rheumatoid 
+arthritis. Four distinct types (BLT1, BLT2, CysLT1 and CysLT2) of 
+G-protein-coupled receptors for LTs have been identified. Several studies have 
+reported that LTs are involved in inflammatory pain, but the mechanism and the 
+expression of LT receptors in the nociceptive pathway are unknown.
+RESULTS: We investigated the precise expression of these four types of LT 
+receptors in the adult rat dorsal root ganglion (DRG) using reverse 
+transcription-polymerase reaction (RT-PCR) and radioisotope-labeled in situ 
+hybridization histochemistry (ISHH). We detected mRNAs for BLT1 and CysLT2 in 
+the DRG, but not for BLT2 and CysLT1. CysLT2 mRNA was preferentially expressed 
+by small sized DRG neurons (about 36% of total neurons), whereas BLT1 mRNA was 
+expressed by non-neuronal cells. Double labeling analysis of CysLT2 with NF-200, 
+calcitonin gene-related peptide (CGRP), isolectin B4 (IB4), transient receptor 
+potential vanilloid subfamily 1 (TRPV1) and P2X3 receptor revealed that many 
+CysLT2-labeled neurons were localized with unmyelinated and non-peptidergic 
+neurons, and interestingly, CysLT2 mRNA heavily co-localized with TRPV1 and 
+P2X3-positive neurons. Intraplantar injection of LTC4, a CysLT2 receptor 
+agonist, itself did not induce the thermal hyperalgesia, spontaneous pain 
+behaviors or swelling of hind paw. However, pretreatment of LTC4 remarkably 
+enhanced the painful behaviors produced by alpha, beta-methylene adenosine 
+5'-triphosphate (αβ-me-ATP), a P2X3 receptor agonist.
+CONCLUSIONS: These data suggests that CysLT2 expressed in DRG neurons may play a 
+role as a modulator of P2X3, and contribute to a potentiation of the neuronal 
+activity following peripheral inflammation.

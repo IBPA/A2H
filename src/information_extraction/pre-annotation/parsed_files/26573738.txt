@@ -1,0 +1,21 @@
+Clostridium difficile is the primary cause of nosocomial antibiotic-associated 
+diarrhea in the Western world. The major virulence factors of C. difficile are 
+two exotoxins, toxin A (TcdA) and toxin B (TcdB), which cause extensive colonic 
+inflammation and epithelial damage manifested by episodes of diarrhea. In this 
+study, we explored the basis for an oral antitoxin strategy based on engineered 
+Lactobacillus strains expressing TcdB-neutralizing antibody fragments in the 
+gastrointestinal tract. Variable domain of heavy chain-only (VHH) antibodies 
+were raised in llamas by immunization with the complete TcdB toxin. Four unique 
+VHH fragments neutralizing TcdB in vitro were isolated. When these VHH fragments 
+were expressed in either secreted or cell wall-anchored form in Lactobacillus 
+paracasei BL23, they were able to neutralize the cytotoxic effect of the toxin 
+in an in vitro cell-based assay. Prophylactic treatment with a combination of 
+two strains of engineered L. paracasei BL23 expressing two neutralizing 
+anti-TcdB VHH fragments (VHH-B2 and VHH-G3) delayed killing in a hamster 
+protection model where the animals were challenged with spores of a TcdA(-) 
+TcdB(+) strain of C. difficile (P < 0.05). Half of the hamsters in the treated 
+group survived until the termination of the experiment at day 5 and showed 
+either no damage or limited inflammation of the colonic mucosa despite having 
+been colonized with C. difficile for up to 4 days. The protective effect in the 
+hamster model suggests that the strategy could be explored as a supplement to 
+existing therapies for patients.

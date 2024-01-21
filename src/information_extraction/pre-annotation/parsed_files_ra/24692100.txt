@@ -1,0 +1,28 @@
+OBJECTIVE: Rheumatoid arthritis (RA) is one of the most frequent inflammatory 
+diseases, causing pain and disability in the affected joints. Early diagnosis is 
+essential for the efficiency of symptom-targeting treatments, but its diagnosis 
+requires careful clinical, serologic, and imaging examinations, such as magnetic 
+resonance imaging (MRI), which is both expensive and time consuming. In an 
+effort to provide the biomedical community with a more accessible way to assess 
+the advancement of arthritis, this study sought to investigate the use of 
+multispectral optoacoustic tomography (MSOT) in a murine arthritis model, to 
+visualize the extent of inflammation in vivo through an 
+L-selectin/P-selectin-targeting contrast agent.
+METHODS: Mice with collagen-induced arthritis were studied as a model of RA. 
+MSOT was performed using an L-selectin/P-selectin-targeting contrast agent, 
+polyanionic dendritic polyglycerol sulfate (dPGS) labeled with a near-infrared 
+(NIR) fluorophore, to increase the contrast of the arthritic joint. The signal 
+intensity ratios between healthy legs and arthritic legs were calculated. 
+Findings on contrast-enhanced MRI, clinical observations, the 
+lymphocyte:granulocyte ratio, and histologic findings served as referents for 
+comparison.
+RESULTS: MSOT using an inflammation-targeting contrast agent, dPGS-NIR, allowed 
+for accurate diagnosis of inflammation in the mouse joints. In addition, use of 
+this technique resulted in significant differentiation of the inflamed joints 
+from the healthy joints (P = 0.023). The observed advancement of arthritis on 
+the MSOT images was confirmed by clinical observation, blood analysis, 
+contrast-enhanced MRI, and ex vivo histologic examinations.
+CONCLUSION: This study demonstrates that the combination of an 
+inflammation-targeting contrast agent and optoacoustic tomographic imaging 
+presents a promising means for the diagnosis of RA and the staging of 
+arthritis-related inflammation.

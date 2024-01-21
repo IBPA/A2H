@@ -1,0 +1,25 @@
+The mammalian immune system has the ability to discriminate between pathogens 
+and innocuous microbes by detecting conserved molecular patterns. In addition to 
+conserved microbial patterns, the mammalian immune system may recognize distinct 
+pathogen-induced processes through a mechanism which is poorly understood. 
+Previous studies have shown that a type III secretion system (T3SS) in Yersinia 
+pseudotuberculosis leads to decreased survival of this bacterium in primary 
+murine macrophages by unknown mechanisms. Here, we use colony forming unit 
+assays and fluorescence microscopy to investigate how the T3SS triggers killing 
+of Yersinia in macrophages. We present evidence that Yersinia outer protein E 
+(YopE) delivered by the T3SS triggers intracellular killing response against 
+Yersinia. YopE mimics eukaryotic GTPase activating proteins (GAPs) and 
+inactivates Rho GTPases in host cells. Unlike wild-type YopE, catalytically dead 
+YopER144A is impaired in restricting Yersinia intracellular survival, 
+highlighting that the GAP activity of YopE is detected as a danger signal. 
+Additionally, a second translocated effector, YopT, counteracts the YopE 
+triggered killing effect by decreasing the translocation level of YopE and 
+possibly by competing for the same pool of Rho GTPase targets. Moreover, 
+inactivation of Rho GTPases by Clostridium difficile Toxin B mimics the effect 
+of YopE and promotes increased killing of Yersinia in macrophages. Using a Rac 
+inhibitor NSC23766 and a Rho inhibitor TAT-C3, we show that macrophages restrict 
+Yersinia intracellular survival in response to Rac1 inhibition, but not Rho 
+inhibition. In summary, our findings reveal that primary macrophages sense 
+manipulation of Rho GTPases by Yersinia YopE and actively counteract pathogenic 
+infection by restricting intracellular bacterial survival. Our results uncover a 
+new mode of innate immune recognition in response to pathogenic infection.

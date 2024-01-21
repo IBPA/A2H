@@ -1,0 +1,13 @@
+We generated a mouse line in which the src homology 2 domain-bearing protein 
+tyrosine phosphatase (SHP)-2 binding site of gp130, tyrosine 759, was mutated to 
+phenylalanine (gp130(F759/F759)). The gp130(F759/F759) mice developed rheumatoid 
+arthritis (RA)-like joint disease. The disease was accompanied by autoantibody 
+production and accumulated memory/activated T cells and myeloid cells. Before 
+the disease onset, the T cells were hyperresponsive and thymic selection and 
+peripheral clonal deletion were impaired. The inhibitory effect of IL-6 on Fas 
+ligand expression during activation-induced cell death (AICD) was augmented in 
+gp130(F759/F759) T cells in a manner dependent on the tyrosine residues of gp130 
+required for signal transducer and activator of transcription 3 activation. 
+Finally, we showed that disease development was dependent on lymphocytes. These 
+results provide evidence that a point mutation of a cytokine receptor has the 
+potential to induce autoimmune disease.

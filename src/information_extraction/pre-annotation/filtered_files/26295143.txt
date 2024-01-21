@@ -1,0 +1,20 @@
+Generation 5 (G5) poly(amidoamide) (PAMAM) dendrimers are synthetic polymers 
+that have been broadly applied as drug delivery carriers. Methotrexate (MTX), an 
+anti-folate metabolite, has been successfully used as an anti-inflammatory drug 
+to treat rheumatoid arthritis (RA) in the clinic. In this study, we examine the 
+therapeutic efficacy of G5 PAMAM dendrimer methotrexate conjugates (G5-MTX) that 
+also have folic acid (FA) conjugated to the G5-MTX (G5-FA-MTX) to target 
+inflammation-activated folate receptors overexpressing macrophages. These cells 
+are thought to play an important role in the development of RA. With G5 serving 
+as a control, the in vitro binding affinities of G5-FA-MTX and G5-MTX to 
+activated macrophages were assessed in RAW264.7, NR8383 and primary rat 
+peritoneal macrophages. The results indicated that the binding of either 
+conjugate to macrophages was concentration- and temperature-dependent and could 
+be blocked by the presence of 6.25 mM free FA (p < 0.005). The preventive 
+effects of G5-MTX and G5-FA-MTX conjugates on the development of arthritis were 
+explored on an adjuvant-induced inflammatory arthritis model and had similar 
+preventive effects in inflammatory arthritis at a MTX equivalent dose of 4.95 
+μmol/kg. These studies indicated that when multiples of MTX are conjugated on 
+dendritic polymers, they specifically bind to folate receptor overexpressing 
+macrophages and have comparable anti-inflammatory effects to folate targeted MTX 
+conjugated polymers.

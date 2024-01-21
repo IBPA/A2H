@@ -1,0 +1,13 @@
+BAFF is considered a therapeutic target because dysregulated production of BAFF 
+can induce systemic lupus erythematosus-like phenotype in mice, and elevated 
+levels of BAFF are associated with disease severity in systemic lupus 
+erythematosus and rheumatoid arthritis patients. Fc fusion decoy receptors, 
+BCMA-Fc and BAFF-R-Fc, are therapeutic candidates for blocking BAFF. While 
+studying their interactions with BAFF, we found that BAFF-R-Fc is more effective 
+than BCMA-Fc for blocking BAFF binding to its receptors. We also found that a 
+trimeric BAFF can bind more than one BAFF-R-Fc but only one BCMA-Fc. Moreover, 
+we show that, in contrast to monovalent BAFF-R-Fc, monovalent BCMA does not form 
+stable complexes with BAFF. Differences in their interaction with BAFF predict 
+BAFF-R-Fc would be a better inhibitor. Indeed, we show BAFF-R-Fc is 10-fold more 
+efficacious than BCMA-Fc for blocking BAFF-induced B cell proliferation in vitro 
+and for blocking BAFF-mediated survival of mouse splenic B lymphocytes in vivo.

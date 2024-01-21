@@ -1,0 +1,19 @@
+Mesenchymal stem cells (MSCs) are multipotent stromal cells with 
+immunomodulatory properties. They have emerged as a very promising treatment for 
+autoimmunity and inflammatory diseases such as rheumatoid arthritis. Previous 
+studies have demonstrated that MSCs, administered systemically, migrate to 
+lymphoid tissues associated with the inflammatory site where functional 
+MSC-induced immune cells with a regulatory phenotype were increased mediating 
+the immunomodulatory effects of MSCs. These results suggest that homing of MSCs 
+to the lymphatic system plays an important role in the mechanism of action of 
+MSCs in vivo. Thus, we hypothesized that direct intralymphatic (IL) (also 
+referred as intranodal) administration of MSCs could be an alternative and 
+effective route of administration for MSC-based therapy. Here, we report the 
+feasibility and efficacy of the IL administration of human expanded adipose 
+mesenchymal stem cells (eASCs) in a mouse model of collagen-induced arthritis 
+(CIA). IL administration of eASCs attenuated the severity and progression of 
+arthritis, reduced bone destruction and increased the levels of regulatory T 
+cells (CD25+Foxp3+CD4+ cells) and Tr1 cells (IL10+CD4+), in spleen and draining 
+lymph nodes. Taken together, these results indicate that IL administration of 
+eASCs is very effective in modulating established CIA and may represent an 
+alternative treatment modality for cell therapy with eASCs.

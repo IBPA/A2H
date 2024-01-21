@@ -1,0 +1,21 @@
+Extracellular RNA (exRNA) has been characterized as a molecular alarm signal 
+upon cellular stress or tissue injury and to exert biological functions as a 
+proinflammatory, prothrombotic, and vessel permeability-regulating factor. In 
+this study, we investigated the contribution of exRNA and its antagonist RNase1 
+in a chronic inflammatory joint disease, rheumatoid arthritis (RA). Upon 
+immunohistochemical inspection of RA, osteoarthritis (OA), and psoriatic 
+arthritis synovium, exRNA was detectable only in the RA synovial lining layer, 
+whereas extracellular DNA was detectable in various areas of synovial tissue. In 
+vitro, exRNA (150-5000 nt) was released by RA synovial fibroblasts (RASF) under 
+hypoxic conditions but not under normoxia or TNF-α treatment. RNase activity was 
+increased in synovial fluid from RA and OA patients compared with psoriatic 
+arthritis patients, whereas RNase activity of RASF and OASF cultures was not 
+altered by hypoxia. Reduction of exRNA by RNase1 treatment decreased adhesion of 
+RASF to cartilage, but it had no influence on their cell proliferation or 
+adhesion to endothelial cells. In vivo, treatment with RNase1 reduced RASF 
+invasion into coimplanted cartilage in the SCID mouse model of RA. We also 
+analyzed the expression of neuropilins in synovial tissue and SF, as they may 
+interact with vascular endothelial growth factor signaling and exRNA. The data 
+support the concepts that the exRNA/RNase1 system participates in RA 
+pathophysiology and that RASF are influenced by exRNA in a prodestructive 
+manner.

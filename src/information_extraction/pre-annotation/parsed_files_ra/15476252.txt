@@ -1,0 +1,23 @@
+OBJECTIVE: Ex vivo and in vivo micro-computed tomography (micro-CT) combined 
+with a novel image analysis algorithm were used to quantify cortical bone loss 
+and periosteal new bone formation for therapeutic evaluation in a murine model 
+of collagen-induced arthritis.
+METHODS: An automated algorithm was created to locate 5 metatarsophalangeal and 
+3 metacarpophalangeal joints in 3-dimensional micro-CT images of mouse paws for 
+evaluation of joint cortical bone volume (JCBV) within close proximity of the 
+joints as well as cortical bone mineral density and periosteal new bone 
+formation within the paws. For validation, automated estimates of JCBV were 
+compared with radiographic visual scores (RVS) in 4 treatment groups (n = 9 per 
+group): rat anti-mouse CD11a monoclonal antibody, methotrexate (MTX), anti-CD11a 
+plus MTX, and saline only. In a separate study, serial images of hind limbs were 
+evaluated in 2 treatment groups: murine tumor necrosis factor receptor II-Fc 
+fusion protein (mTNFRII; n = 10) and control antibody (n = 7).
+RESULTS: Automated estimates of the JCBV were significantly correlated with the 
+RVS (hind paws R = -0.94, front paws R = -0.81, combined R = -0.87). The 
+anti-CD11a group had significantly higher JCBV compared with controls. In the 
+serial study, the automated estimate of JCBV detected significant treatment 
+effects in the mTNFRII-Fc group compared with controls. Cortical bone mineral 
+density was significantly higher in all treatment groups compared with controls.
+CONCLUSION: Micro-CT combined with a novel image analysis technique (estimation 
+of JCBV) provides a fully automated means to quantify bone destruction in a 
+mouse model of rheumatoid arthritis.

@@ -1,0 +1,19 @@
+Diseases caused by immune inflammation, such as rheumatoid arthritis, multiple 
+sclerosis, and Crohn's disease, are intractable diseases to which novel 
+therapeutics are highly demanded. Prostaglandin (PG) E(2) is the most 
+ubiquitously produced PG with various actions. PGE(2) has been traditionally 
+regarded as an immunosuppressant based on its inhibition of T cell activation in 
+vitro. However, in vivo relevance of the immunosuppressant action of PGE(2) has 
+remained obscure. Recently, several groups including ourselves have made 
+unexpected findings that PGE(2) facilitates expansion of the Th17 subset of T 
+helper cells of both human and mouse through elevation of cAMP via PGE receptors 
+EP2 and EP4. We have further found that PGE(2) can induce and not suppress Th1 
+differentiation under certain conditions, again, through EP2 and EP4. Given the 
+putative roles of these Th subsets in immune diseases such as the above, these 
+findings suggest that, on the contrary to the traditional view, PGE(2) functions 
+as a mediator of immune inflammation. Consistently, administration of an EP4 
+antagonist could suppress disease progression and development of 
+antigen-specific Th17 cells in mice subjected to experimental allergic 
+encephalomyelitis and contact hypersensitivity. In this perspective, we review 
+these findings and discuss the prospect of EP4 antagonists as immunomodulatory 
+drugs.

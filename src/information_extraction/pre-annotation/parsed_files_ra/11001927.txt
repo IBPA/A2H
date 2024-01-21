@@ -1,0 +1,22 @@
+Rheumatoid arthritis (RA) is a common, chronic, autoimmune, inflammatory disease 
+that is influenced by genetic factors including gender. Many studies suggest 
+that the genetic risk for RA is determined by the MHC, in particular class II 
+alleles with a 'shared epitope' (SE), and multiple non-MHC loci. Other studies 
+indicate that RA and other autoimmune diseases, in particular insulin-dependent 
+diabetes mellitus (IDDM) and autoimmune thyroid disease (ATD), share genetic 
+risk factors. Rat collagen-induced arthritis (CIA) is an experimental model with 
+many features that resemble RA. The spontaneous diabetes-resistant bio-breeding 
+rat, BB(DR), is of interest because it is susceptible to experimentally induced 
+CIA, IDDM and ATD, and it has an SE in its MHC class II allele. To explore the 
+genetics of CIA, including potential gender influences and the genetic 
+relationships between CIA and other autoimmune diseases, we conducted a 
+genome-wide scan for CIA regulatory loci in the F(2) progeny of BB(DR) and 
+CIA-resistant BN rats. We identified 10 quantitative trait loci (QTLs), 
+including 5 new ones (Cia15, Cia16*, Cia17, Cia18* and Cia19 on chromosomes 9, 
+10, 18 and two on the X chromosome, respectively), that regulated CIA severity. 
+We also identified four QTLs, including two new ones (Ciaa4* and Ciaa5* on 
+chromosomes 4 and 5, respectively), that regulated autoantibody titer to rat 
+type II collagen. Many of these loci appeared to be gender influenced, and most 
+co-localized with several other autoimmune trait loci. Our data support the view 
+that multiple autoimmune diseases may share genetic risk factors, and suggest 
+that many of these loci are gender influenced.

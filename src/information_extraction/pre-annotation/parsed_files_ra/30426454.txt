@@ -1,0 +1,21 @@
+The angiotensin II type 1 receptor (AT1R) antagonist losartan has been confirmed 
+to have a moderate anti-inflammatory effect in vitro and in vivo. However, how 
+it affects immune cells in Rheumatoid Arthritis (RA) is still unknown. We found 
+that in human synovial tissues, AT1R is significantly expressed on T cells and B 
+cells. Treatment with losartan (15 mg/kg) alone and in combination with a low 
+dose of methotrexate (MTX 0.25 mg/kg/3 days) significantly suppressed the 
+progression of CIA. Secondary paw swelling, joint destruction and the presence 
+of pro-inflammatory cytokines (TNF-α and IFN-γ) in the serum were alleviated 
+after treatment. The therapeutic effects of losartan were based on reduced 
+T-cell and B-cell activation, specifically by decreased cell vitality and 
+pro-inflammatory cytokine production. In addition, losartan combined with a low 
+dose of MTX achieved a similar therapeutic effect, while protecting liver and 
+kidney from MTX damage. Mechanistically, losartan inhibits the production of 
+pro-inflammatory mediators, reduces the phosphorylation of p38, ERK, and p65, 
+p50 nuclear transposition in T cells and B cells. Phosphorylation of JNK is not 
+affected by losartan in the CIA rat model. losartan can be used as an effective 
+RA treatment, which exhibits anti-arthritic effects potentially through 
+down-regulating the phosphorylation of p38, ERK and signaling through NF-κB. 
+While achieving similar anti-rheumatic effects, a combination therapy of 
+losartan with a low dose of MTX, can protect from liver and renal damage caused 
+by giving a high dose of MTX.

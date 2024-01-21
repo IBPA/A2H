@@ -1,0 +1,24 @@
+OBJECTIVES: The viral gene transfer of interleukin 1 receptor antagonist (IL1ra) 
+and interleukin 10 (IL10) into rheumatoid arthritis (RA) synovial fibroblasts 
+(RASFs) has shown protective effects on cartilage destruction in the severe 
+combined immunodeficiency (SCID) mouse model of RA. Nevertheless, side effects 
+of viral transduction are possible and a number of cytokines or cytokine 
+inhibitors are not available encoded in viral vehicles. As the production of 
+viruses coding for bioactive proteins is cost and time intensive, we established 
+an in vivo long-term release model using osmotic minipumps in the SCID mouse 
+model for RA.
+METHODS: Isolated RASFs were cultured for four passages and coimplanted together 
+with human cartilage and an Alzet osmotic miniature pump model 2004, containing 
+200 microl of IL10 and IL1ra for 40 days in SCID mice. Implants were removed 
+after 40 days and evaluated histologically. The actual rates of IL10 and IL1ra 
+in murine serum were measured by ELISA.
+RESULTS: Release of IL10 and IL1ra by the pumps was effective as both could be 
+measured in significant amounts in the serum of the mice. IL10 and IL1ra release 
+showed protective effects towards the coimplanted cartilage, similar to the 
+adenovirally IL10/IL1ra-transduced RASFs. The mean (SD) invasion scores for the 
+implants with the osmotic pumps were: invasion 0.7 (0.5), degradation 0.5 (0.3) 
+(all parameters significant vs controls, p<0.05).
+CONCLUSIONS: The results demonstrate that the combination of osmotic pumps with 
+the SCID mouse model for RA can be used as approach for application and 
+evaluation of cartilage-protective molecules. Furthermore, the effect of 
+cartilage-protective cytokines is independent of the type of application.

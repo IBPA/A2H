@@ -1,0 +1,21 @@
+The assembly of inflammatory lesions in rheumatoid arthritis is highly regulated 
+and typically leads to the formation of lymphoid follicles with germinal center 
+(GC) reactions. We used microdissection of such extranodal follicles to analyze 
+the colonizing T cells. Although the repertoire of follicular T cells was 
+diverse, a subset of T cell receptor (TCR) sequences was detected in multiple 
+independent follicles and not in interfollicular zones, suggesting recognition 
+of a common antigen. Unexpectedly, the majority of shared TCR sequences were 
+from CD8 T cells that were highly enriched in the synovium and present in low 
+numbers in the periphery. To examine their role in extranodal GC reactions, CD8 
+T cells were depleted in human synovium-SCID mouse chimeras. Depletion of 
+synovial CD8 T cells caused disintegration of the GC-containing follicles. In 
+the absence of CD8 T cells, follicular dendritic cells disappeared, production 
+of lymphotoxin-alpha1beta2 markedly decreased, and immunoglobulin (Ig) secretion 
+ceased. Immunohistochemical studies demonstrated that these CD8 T cells 
+accumulated at the edge of the mantle zone. Besides their unique localization, 
+they were characterized by the production of interferon (IFN)-gamma, lack of the 
+pore-forming enzyme perforin, and expression of CD40 ligand. Perifollicular 
+IFN-gamma+ CD8 T cells were rare in secondary lymphoid tissues but accounted for 
+the majority of IFN-gamma+ cells in synovial infiltrates. We propose that CD8+ T 
+cells regulate the structural integrity and functional activity of GCs in 
+ectopic lymphoid follicles.

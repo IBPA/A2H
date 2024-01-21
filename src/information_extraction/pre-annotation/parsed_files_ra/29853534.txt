@@ -1,0 +1,23 @@
+Background: Rheumatoid arthritis (RA) is a inflammatory disease that 
+characterized with the destruction of synovial joint, which could induce 
+disability. Inflammatory response mediated the RA. It has been reported that 
+MiR-128-3p is significantly increased in RA, while the potential role was still 
+unclear.Methods: T cells in peripheral blood mononuclear cell (PBMC) were 
+isolated from the peripheral blood from people of RA and normal person were 
+used. Real-time PCR was performed to detect the expression of MiR-128-3p, while 
+the protein expression of tumor necrosis factor-α-induced protein 3 (TNFAIP3) 
+was determined using Western blot. The levels of IL-6 and IL-17 were measured 
+using enzyme-linked immunosorbent assay (ELISA). The expression of CD69 and CD25 
+was detected using flow cytometry. The RA mouse model was constructed for 
+verification of the role of MiR-128-3p.Results: The expression of MiR-128-3p was 
+significantly increased, while TNFAIP3 was decreased, the levels of IL-6 and 
+IL-17 were also increased in the T cells of RA patients. Down-regulated 
+MiR-128-3p significantly suppressed the expression of p-IkBα and CD69, and 
+CD25in T cells. MiR-128-3p targets TNFAIP3 to regulate its expression. 
+MiR-128-3p knockdown significantly suppressed the activity of nuclear factor κB 
+(NF-κB) and T cells by up-regulating TNFAIP3, while cells co-transfected with 
+si-TNFAIP3 abolished the effects of MiR-128-3p knockdown. The in vivo 
+experiments verified the potential role of MiR-128-3p on RA.Conclusion: 
+Down-regulated MiR-128-3p significantly suppressed the inflammation response of 
+RA through suppressing the activity of NF-κB pathway, which was mediated by 
+TNFAIP3.

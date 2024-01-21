@@ -1,0 +1,14 @@
+Interleukin (IL)-15 and IL-17 are thought to play an important role in the 
+pathogenesis of rheumatoid arthritis (RA) because both pro-inflammatory 
+cytokines are found in synovial fluid of RA patients. In this study, we examined 
+the pharmacological profiles of Y-320, a new phenylpyrazoleanilide 
+immunomodulator. Y-320 inhibited IL-17 production by CD4 T cells stimulated with 
+IL-15 with IC50 values of 20 to 60 nM. Oral administration of Y-320 (0.3 to 3 
+mg/kg) significantly inhibited the development and progression of arthritis and 
+joint destruction with reduction of IL-17 mRNA expression in arthritic joints of 
+type II collagen-induced arthritis (CIA) in DBA/1J mice. Y-320 in combination 
+with anti-murine tumor necrosis factor-α monoclonal antibody showed a 
+synergistic effect on mouse CIA. Moreover, therapeutic treatment with Y-320 (0.3 
+and 1 mg/kg orally) ameliorated CIA in cynomolgus monkeys. Our results suggest 
+that Y-320, an orally active inhibitor for IL-17 production, provides a useful 
+therapy for RA.

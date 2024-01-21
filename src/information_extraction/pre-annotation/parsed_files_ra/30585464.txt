@@ -1,0 +1,38 @@
+OBJECTIVE: To observe the effect of moxibustion on Toll-like receptor 4/nuclear 
+factor-κB (TLR 4/NF-κB) signaling in the synovial tissue of the ankle joint in 
+rats with rheumatoid arthritis (RA), so as to analyze its biological mechanism 
+underlying improvement of RA.
+METHODS: Fifty male SD rats were randomly divided into normal control, model, 
+moxibustion, moxibustion ＋ TLR 4 agonist, and moxibustion ＋ TLR 4 antagonist 
+groups (n＝10 rats in each). The RA model was established by subcutaneous 
+injection of Freund's complete adjuvant (FCA, 0.1 mL/rat) at the right hind-paw 
+and by being raised in a wind (air fan blowing), cold (about 10 ℃) and wet 
+(purling) environment for 20 days. After 3 days of modeling, mild moxibustion 
+was applied to bilateral "Shenshu" (BL 23) and "Zusanli" (ST 36) for 20 minutes, 
+once daily for successive 10 days. The TLR 4 agonist (lipopolysaccharide) or TLR 
+4 antagonist (TAK-242) (1 mg/mL) was separately administered via the tail vein 
+30 min before performing moxibustion every time in the agonist group and the 
+antagonist group. The expression of NF-κB inhibitory factor ɑ (IκBɑ), IκB kinase 
+complex β(IκKβ), myeloid differentiation factor 88 (MyD 88), TLR 4, and NF-κB p 
+65 proteins in the synovial tissue of the ankle joint was detected by using 
+Western blot.
+RESULTS: Following modeling, the girth of the swollen ankle joint was obviously 
+bigger (P<0.01), and the expression levels of IκBɑ， IκKβ， TLR 4, MyD 88, and 
+NF-κB p 65 proteins in the synovial tissue were considerably increased in the 
+model group relevant to the normal control group (P<0.01). After moxibustion 
+intervention, the girth of the swollen ankle joint and the expression levels of 
+IκBɑ， IκKβ， TLR 4, MyD 88, and NF-κB p 65 proteins were significantly 
+down-regulated in the moxibustion, moxibustion ＋TLR 4 agonist, moxibustion＋TLR 4 
+antagonist groups compared with the model group (P<0.01, P<0.05). Comparison 
+among the 3 moxibustion groups showed that the lowered levels of ankle-joint 
+girth, and IκBɑ， IκKβ， TLR 4, MyD 88, and NF-κB p 65 expression were 
+significantly smaller in the moxibustion＋TLR 4 agonist group than in the simple 
+moxibustion and moxibustion＋TLR 4 antagonist groups (P<0.05，P<0.01). No 
+significant differences were found between the moxibustion and moxibustion＋TLR 4 
+antagonist groups in the decreased ankle joint girth and IκBɑ， IκKβ， TLR 4, MyD 
+88, and NF-κB p 65 expression levels (P>0.05), suggesting that activation of TLR 
+4 reduced the anti-inflammatory effect of moxibustion intervention.
+CONCLUSION: Moxibustion can reduce the ankle joint swelling in RA rats, which 
+may be closely associated with its effect in down-regulating the expression of 
+IκBɑ， IκKβ， TLR 4, MyD 88, and NF-κB p 65 proteins and in inhibiting TLR 4/NF-κB 
+signaling in the synovial tissue of the ankle joint.

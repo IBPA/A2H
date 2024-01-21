@@ -1,0 +1,26 @@
+During the pathogenesis of rheumatoid arthritis (RA), the synovial fibroblasts 
+increase in number and produce proinflammatory cytokines and matrix 
+metalloproteinases (MMPs) that function to promote inflammation and joint 
+destruction. Recent investigations have suggested that cell cycle activity and 
+inflammation may be linked. However, little is known about the mechanisms 
+responsible for the coordinate regulation of proliferation and the expression of 
+proinflammatory molecules in RA synovial fibroblasts. Here, we demonstrate a 50 
++/- 10% decrease in the expression of p21, a cell cycle inhibitor, in the 
+synovial fibroblast population from RA compared with osteoarthritis (OA) 
+synovial tissue. Moreover, p21 positivity in the synovial fibroblasts inversely 
+correlates with medium synovial lining thickness (r = -0.76; p < 0.02). The 
+expression of p21 is also reduced in isolated RA synovial fibroblasts compared 
+with OA synovial fibroblasts. Adenovirus-mediated delivery of p21 (Ad-p21) 
+arrests both RA and OA synovial fibroblasts in the G(0)/G(1) phase of the cell 
+cycle without inducing cytotoxicity. However, the spontaneous production of IL-6 
+and MMP-1 is suppressed only in the Ad-p21-infected RA synovial fibroblasts, 
+indicating a novel role for p21 in RA. Analyses of p21-deficient mouse synovial 
+fibroblasts reveal a 100-fold increase in IL-6 protein and enhance IL-6 and 
+MMP-3 mRNA. Restoration of p21, but not overexpression of Rb, which also induces 
+G(0)/G(1) cell cycle arrest, decreases IL-6 synthesis in p21-null synovial 
+fibroblasts. Furthermore, in RA synovial fibroblasts the ectopic expression of 
+p21 reduces activation of the AP-1 transcription factor. Additionally, p21-null 
+synovial fibroblasts display enhanced activation of AP-1 compared with wild-type 
+synovial fibroblasts. These data suggest that alterations in p21 expression may 
+activate AP-1 leading to enhanced proinflammatory cytokine and MMP production 
+and development of autoimmune disease.

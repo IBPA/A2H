@@ -1,0 +1,22 @@
+Matrix metalloproteinases (MMPs) are believed to be pivotal enzymes in the 
+invasion of articular cartilage by synovial tissue in rheumatoid arthritis (RA). 
+Here, we investigated the effects of gene transfer of tissue inhibitors of 
+metalloproteinases (TIMPs) on the invasiveness of RA synovial fibroblasts (RASF) 
+in vitro and in vivo. Adenoviral vectors (Ad) were used for gene transfer. The 
+effects of AdTIMP-1 and AdTIMP-3 gene transfer on matrix invasion were 
+investigated in vitro in a transwell system. Cartilage invasion in vivo was 
+studied in the SCID mouse co-implantation model for 60 days. In addition, the 
+effects of AdTIMP-1 and AdTIMP-3 on cell proliferation were investigated. A 
+significant reduction in invasiveness was demonstrated in vitro as well as in 
+vivo in both the AdTIMP-1- and AdTIMP-3-transduced RASF compared with 
+untransduced SF or SF that were transduced with control vectors. in vitro, the 
+number of invading cells was reduced to 25% (P<0.001) in the AdTIMP-1-transduced 
+cells and to 13% (P<0.0001) in the AdTIMP-3-transduced cells (% of untransduced 
+cells). Cell proliferation was significantly inhibited by AdTIMP-3 and, less, by 
+AdTIMP-1. In conclusion, overexpression of TIMP-1 and TIMP-3 by Ad gene transfer 
+results in a marked reduction of the invasiveness of RASF in vitro and in the 
+SCID mouse model. Apart from the inhibition of MMPs, a reduction in 
+proliferation rate may contribute to this effect. These results suggest that 
+overexpression of TIMPs, particularly TIMP-3 at the invasive front of pannus 
+tissue, may provide a novel therapeutic strategy for inhibiting joint 
+destruction in RA.

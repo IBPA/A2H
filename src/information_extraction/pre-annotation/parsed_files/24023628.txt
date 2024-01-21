@@ -1,0 +1,23 @@
+Clostridium difficile infection (CDI) is a leading cause of 
+antibiotic-associated diarrhea, a major nosocomial complication. The infective 
+form of C. difficile is the spore, a dormant and resistant structure that forms 
+under stress. Although spore germination is the first committed step in CDI 
+onset, the temporal and spatial distribution of ingested C. difficile spores is 
+not clearly understood. We recently reported that CamSA, a synthetic bile salt 
+analog, inhibits C. difficile spore germination in vitro and in vivo. In this 
+study, we took advantage of the anti-germination activity of bile salts to 
+determine the fate of ingested C. difficile spores. We tested four different 
+bile salts for efficacy in preventing CDI. Since CamSA was the only 
+anti-germinant tested able to prevent signs of CDI, we characterized CamSa's in 
+vitro stability, distribution, and cytotoxicity. We report that CamSA is stable 
+to simulated gastrointestinal (GI) environments, but will be degraded by members 
+of the natural microbiota found in a healthy gut. Our data suggest that CamSA 
+will not be systemically available, but instead will be localized to the GI 
+tract. Since in vitro pharmacological parameters were acceptable, CamSA was used 
+to probe the mouse model of CDI. By varying the timing of CamSA dosage, we 
+estimated that C. difficile spores germinated and established infection less 
+than 10 hours after ingestion. We also showed that ingested C. difficile spores 
+rapidly transited through the GI tract and accumulated in the colon and cecum of 
+CamSA-treated mice. From there, C. difficile spores were slowly shed over a 
+96-hour period. To our knowledge, this is the first report of using molecular 
+probes to obtain disease progression information for C. difficile infection.

@@ -1,0 +1,17 @@
+Systemic lupus erythematosus (SLE) is an autoimmune disorder with a worldwide 
+distribution and considerable mortality and morbidity. Although the pathogenesis 
+of this disease remains elusive, over-reactive dendritic cells (DCs) play a 
+critical role in the disease development. It has been shown that human alpha-1 
+antitrypsin (hAAT) has protective effects in type 1 diabetes and rheumatoid 
+arthritis mouse models. In the present study, we tested the effect of AAT on DC 
+differentiation and functions, as well as its protective effect in a lupus-prone 
+mouse model. We showed that hAAT treatment significantly inhibited LPS (TLR4 
+agonist) and CpG (TLR9 agonist) -induced bone-marrow (BM)-derived conventional 
+and plasmacytoid DC (cDC and pDC) activation and reduced the production of 
+inflammatory cytokines including IFN-I, TNF-α and IL-1β. In MRL/lpr mice, hAAT 
+treatment significantly reduced BM-derived DC differentiation, serum 
+autoantibody levels, and importantly attenuated renal pathology. Our results for 
+the first time demonstrate that hAAT inhibits DC activation and function, and it 
+also attenuates autoimmunity and renal damage in the MRL/lpr lupus model. These 
+results imply that hAAT has a therapeutic potential for the treatment of SLE in 
+humans.

@@ -1,0 +1,18 @@
+CD23(+)CD21(high)CD1d(high) B cells in inflamed nodes (Bin cells) accumulate in 
+the lymph nodes (LNs) draining inflamed joints of the TNF-α-transgenic mouse 
+model of rheumatoid arthritis and are primarily involved in the significant 
+histological and functional LN alterations that accompany disease exacerbation 
+in this strain. In this study, we investigate the origin and function of Bin 
+cells. We show that adoptively transferred GFP(+) sorted mature follicular B 
+(FoB) cells home preferentially to inflamed LNs of TNF-α-transgenic mice where 
+they rapidly differentiate into Bin cells, with a close correlation with the 
+endogenous Bin fraction. Bin cells are also induced in wild-type LNs after 
+immunization with T-dependent Ags and display a germinal center phenotype at 
+higher rates compared with FoB cells. Furthermore, we show that Bin cells can 
+capture and process Ag-immune complexes in a CD21-dependent manner more 
+efficiently than can FoB cells, and they express greater levels of MHC class II 
+and costimulatory Ags CD80 and CD86. We propose that Bin cells are a previously 
+unrecognized inflammation-induced B cell population with increased Ag capture 
+and activation potential, which may facilitate normal immune responses but may 
+contribute to autoimmunity when chronic inflammation causes their accumulation 
+and persistence in affected LNs.

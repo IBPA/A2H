@@ -1,0 +1,29 @@
+Rheumatoid arthritis is an inflammatory autoimmune condition, and tumor necrosis 
+factor-α (TNF-α) plays an important role in its pathophysiology. In vitro, 
+(E)-N'-(3,4-dimethoxybenzylidene)-N-methylbenzohydrazide (LASSBio-1359) has 
+exhibited anti-TNF-α properties, and in vivo these effects are mediated via 
+activation of adenosine receptor. This work investigates the antinociceptive 
+action of LASSBio-1359 in murine models of acute and chronic inflammatory pain. 
+Male mice received an intraperitoneal injection of LASSBio-1359 and then were 
+evaluated in formalin- and carrageenan-induced paw edema assays. Complete 
+Freund's adjuvant (CFA) was used to induce a mouse model of monoarthritis. These 
+mice were treated with LASSBio-1359 by oral gavage to evaluate thermal and 
+mechanical hyperalgesia. TNF-α and inducible nitric oxide synthase (iNOS) 
+expression as well as histologic features were analyzed. The time of reactivity 
+to formalin in the neurogenic phase was reduced from 56.3 ± 6.0 seconds to 32.7 
+± 2.2 seconds and 23.8 ± 2.6 seconds after treatment with LASSBio-1359 at doses 
+of 10 mg/kg and 20 mg/kg, respectively. A reversal of the antinociceptive action 
+of LASSBio-1359 was observed in the inflammatory phase after treatment with ZM 
+241385 
+[4-(2-[7-amino-2-(2-furly)[1,2,4]triazolo[2,3-a][1,3,5]triazin-5-ylamino]ethyl)phenol], 
+an adenosine A2A antagonist. Carrageenan-induced thermal and mechanical 
+hyperalgesia were reduced after treatment with LASSBio-1359. Similarly, 
+CFA-induced thermal and mechanical hyperalgesia were reduced after treatment 
+with LASSBio-1359 (25 and 50 mg/kg). Levels of TNF-α and iNOS expression 
+increased in the monoarthritis model and were normalized in animals treated with 
+LASSBio-1359, which was also associated with beneficial effects in the 
+histologic analysis. These results suggest that LASSBio-1359 represents an 
+alternative treatment of monoarthritis.
+
+Copyright © 2016 by The American Society for Pharmacology and Experimental 
+Therapeutics.

@@ -1,0 +1,27 @@
+ZIEL DER ARBEIT: Ziel war es, den zirkadianen Rhythmus von Interleukin-6 (IL-6) 
+im Serum von Ratten mit kollageninduzierter Arthritis (CIA) zu untersuchen sowie 
+die Sicherheit und Wirksamkeit von Methotrexat (MTX) bei herkömmlicher Gabe und 
+per Chronotherapie zu vergleichen.
+METHODEN: Als Modell der CI dienende Ratten wurden mit Kollagen vom bovinen 
+Typ II immunisiert. Die Serumspiegel von IL-6 wurden bei normalen und CIA-Ratten 
+2, 6, 10, 14, 18 oder 22 h nach Einschalten des Lichts (HALO) gemessen. Den 
+Wistar-Ratten in den Versuchsgruppen 6 HALO/18 HALO wurde einmal täglich MTX 
+entsprechend dem IL-6-Rhythmus verabreicht. Gleichzeitig wurde den 
+Kontrollgruppen (positiv, negativ und normal) einmal pro Woche MTX oder das 
+gleiche Volumen phosphatgepufferter Salzlösung („phosphate buffered saline“, 
+PBS) gegeben. Ermittelt wurden der Arthritis-Score sowie die Serumspiegel von 
+Tumornekrosefaktor-alpha (TNF-α), IL-6 und C‑reaktivem Protein (CRP) anhand der 
+Messung mittels ELISA-Test („enzyme-linked immunosorbent assay“). Außerdem 
+wurden histologische Veränderungen im Fußgelenk untersucht.
+ERGEBNISSE: Nach 6‑wöchiger Therapie waren die Arthritis-Scores in der 
+Versuchsgruppe niedriger als in der Kontrollgruppe. Die Expression von TNF-α, 
+IL-6 und CRP war in der Gruppe 18 HALO geringer ausgeprägt als in der 
+Kontrollgruppe und der Gruppe 6 HALO. Darüber hinaus waren die 
+histopathologischen Werte in den Versuchsgruppen niedriger als in der 
+Kontrollgruppe (p < 0,05).
+SCHLUSSFOLGERUNG: Die Werte für IL-6 im Plasma waren bei CIA-Ratten höher als 
+bei normalen Ratten und wiesen einen signifikant ausgeprägten zirkadianen 
+Rhythmus auf. Dabei stellte sich die tägliche Gabe von MTX als wirksamer heraus 
+denn die wöchentliche Verabreichung. Der therapeutische Index bei rheumatoider 
+Arthritis (RA) lässt sich möglicherweise mit einer MTX-Therapie verbessern, die 
+auf dem zirkadianen Rhythmus von IL-6 basiert.

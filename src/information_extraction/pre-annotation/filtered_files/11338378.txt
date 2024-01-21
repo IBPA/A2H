@@ -1,0 +1,18 @@
+Angiogenesis is a process involved in several physiological events including 
+embryonic development, female reproductive cycle placentation and wound repair. 
+It also plays a part in various pathological conditions such as tumor growth, 
+diabetic retinopathy and rheumatoid arthritis. Angiogenesis is a very complex 
+multistep process involving a variety of biologically active substances, among 
+which are the prostaglandins (PGs), which can induce several growth factors and 
+proliferation of endothelial cells in vitro and in vivo. Angiogenesis is 
+reportedly enhanced by prostaglandins (PGs). We investigated whether or not 
+COX-2 mediated angiogenesis in chronic and proliferate granuloma. In rat sponge 
+implants, angiogenesis was gradually developed over a 14-day experimental period 
+as granuloma formed. In sponge granuloma, mRNA of COX-1 was constitutively 
+expressed, whereas that of COX-2 was increased with neovascularization in 
+parallel with the increased expression of vascular endothelial growth factor 
+(VEGF). bFGF-stimulated angiogenesis was inhibited by indomethacin or a 
+selective COX-2 inhibitor, NS-398. These results suggested that endogenous PGs 
+generated through COX-2 may enhance the neovascularization in sponge granuloma 
+by increased expression of VEGF and that a COX-2 inhibitor would facilitate the 
+management of conditions involving angiogenesis.

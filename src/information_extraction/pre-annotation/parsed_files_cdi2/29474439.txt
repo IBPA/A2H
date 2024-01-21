@@ -1,0 +1,27 @@
+BACKGROUND: Clostridium difficile infections (CDI) in humans range from 
+asymptomatic carriage to life-threatening intestinal disease. Findings on C. 
+difficile in various animal species and an overlap in ribotypes (RTs) suggest 
+potential zoonotic transmission. However, the impact of animals for human CDI 
+remains unclear.
+METHODS: In a large-scale survey we collected 1,447 fecal samples to determine 
+the occurrence of C. difficile in small companion animals (dogs and cats) and 
+their owners and to assess potential epidemiological links within the community. 
+The Germany-wide survey was conducted from July 2012-August 2013. PCR 
+ribotyping, Multilocus VNTR Analysis (MLVA) and PCR detection of toxin genes 
+were used to characterize isolated C. difficile strains. A database was defined 
+and logistic regression used to identify putative factors associated with fecal 
+shedding of C. difficile.
+RESULTS: In total, 1,418 samples met the inclusion criteria. The isolation rates 
+for small companion animals and their owners within the community were similarly 
+low with 3.0% (25/840) and 2.9% (17/578), respectively. PCR ribotyping revealed 
+eight and twelve different RTs in animals and humans, respectively, whereas 
+three RTs were isolated in both, humans and animals. RT 014/0, a well-known 
+human hospital-associated lineage, was predominantly detected in animal samples. 
+Moreover, the potentially highly pathogenic RTs 027 and 078 were isolated from 
+dogs. Even though, C. difficile did not occur simultaneously in animals and 
+humans sharing the same household. The results of the epidemiological analysis 
+of factors associated with fecal shedding of C. difficile support the hypothesis 
+of a zoonotic potential.
+CONCLUSIONS: Molecular characterization and epidemiological analysis revealed 
+that the zoonotic risk for C. difficile associated with dogs and cats within the 
+community is low but cannot be excluded.

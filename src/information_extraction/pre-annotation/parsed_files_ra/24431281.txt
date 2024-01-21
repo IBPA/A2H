@@ -1,0 +1,27 @@
+OBJECTIVE: A nonapoptotic role of Fas signaling has been implicated in the 
+regulation of inflammation and innate immunity. This study was undertaken to 
+elucidate the contribution of Fas signaling in macrophages to the development of 
+arthritis.
+METHODS: K/BxN serum-transfer arthritis was induced in a mouse line in which Fas 
+was conditionally deleted in the myeloid lineage (Cre(LysM) Fas(flox/flox) 
+mice). The arthritis was assessed clinically and histologically. Expression of 
+interleukin-1β (IL-1β), CXCL5, IL-10, IL-6, and gp96 was determined by 
+enzyme-linked immunosorbent assay. Bone marrow-derived macrophages were 
+activated with IL-1β and gp96. Cell phenotype and apoptosis were analyzed by 
+flow cytometry.
+RESULTS: Arthritis onset in Cre(LysM) Fas(flox/flox) mice was comparable with 
+that observed in control mice; however, resolution was accelerated during the 
+chronic phase. The attenuated arthritis was associated with reduced articular 
+expression of the endogenous Toll-like receptor 2 (TLR-2) ligand gp96 and the 
+neutrophil chemotactic chemokine CXCL5, and enhanced expression of IL-10. 
+Activation with IL-1β or gp96 induced increased IL-10 expression in 
+Fas-deficient murine macrophages compared with control macrophages. IL-10 
+suppressed IL-6 and CXCL5 expression induced by IL-1β plus gp96. IL-1β-mediated 
+activation of ERK, which regulates IL-10 expression, was increased in 
+Fas-deficient mouse macrophages.
+CONCLUSION: Taken together, our findings indicate that impaired Fas signaling 
+results in enhanced expression of antiinflammatory IL-10 and reduced expression 
+of gp96, and these effects are associated with accelerated resolution of 
+inflammation during the chronic phase of arthritis. These observations suggest 
+that strategies to reduce endogenous TLR ligands and increase IL-10 may be 
+beneficial in the treatment of rheumatoid arthritis.

@@ -1,0 +1,26 @@
+Inflammation is a defensive reaction of body to resist foreign invasion. 
+However, it has been demonstrated that excessive and continuous inflammatory 
+responses contribute to various inflammatory diseases, including rheumatoid 
+arthritis. Nuclear factor-κB (NF-κB) regulates the expression of an array of 
+inflammatory mediators, cytokines and chemokine genes in activated macrophages. 
+Therefore, NF-κB has become an attractive drug target for controlling 
+inflammation. In this study, stauntoside B, a C21 steroidal glycosides compound 
+isolated from a Chinese medicine Cynanchi Stauntonii, was for the first time 
+found to suppress macrophage activation induced by lipopolysaccharide (LPS) in 
+RAW264.7 cells and rat primary peritoneal macrophages and could be a potent 
+NF-κB inhibitor. The results showed that stauntoside B significantly reduced the 
+release of inflammatory mediators in activated RAW264.7 cells and rat peritoneal 
+macrophages, including nitric oxide (NO) and prostaglandin E2 (PGE2). The mRNA 
+expressions of pro-inflammatory mediators and cytokines, including inducible 
+nitric oxide synthase (iNOS), cyclooxygenase-2 (COX-2), microsomal prostaglandin 
+synthetase-1 (mPGES-1), tumor necrosis factor-α (TNF-α), interleukin-1β (IL-1β), 
+interleukin-6 (IL-6), and monocyte chemoattractant protein-1 (MCP-1) as well as 
+the production of TNF-α and IL-6 were also inhibited by stauntoside B. 
+Mechanistic investigation implies that the anti-inflammatory activity of 
+stauntoside B could result from the suppression of LPS-induced IKKα/β 
+activation, IκBα phosphorylation, p65 (ser536) NF-κB phosphorylation, and ERK 
+MAPK activation by stauntoside B treatment in activated macrophages. Meanwhile, 
+stauntoside B could induce apoptosis in LPS-activated macrophages. The current 
+study suggests stauntoside B being a valuable candidate drug for the treatment 
+of inflammatory diseases, especially for NF-κB activation associated 
+inflammatory diseases.

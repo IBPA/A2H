@@ -1,0 +1,25 @@
+OBJECTIVES: Chronic synovitis is the main characteristic of rheumatoid arthritis 
+(RA), defined by the proliferation of synovial lining cells, an important source 
+of chemokines and cytokines associated with inflammation. The aim of this study 
+was to examine the influence of complement functional activity on the 
+development of chronic synovitis.
+METHOD: The experiments were conducted in zymosan-induced arthritis (ZIA) 
+provoked by intra-articular injection of 180 μg zymosan. Mice were treated with 
+10 ng/g body weight (bw) cobra venom factor (CVF) on days -3 and -2 or with 10 
+ng/g bw CVF on days 7, 12, and 17 of ZIA. The percentage of neutrophils 
+(CD11b+Ly6G+), macrophages (F4/80), and complement 5 anaphylatoxin receptor 
+(C5aR)-positive cells in the synovial fluid (SF) were determined by flow 
+cytometry and the expression of C5aR and C3aR in the synovium was detected 
+immunohistochemically.
+RESULTS: The induction of ZIA in the absence of complement activity strongly 
+inhibited the development of synovitis. By contrast, complement activation 
+during ZIA exacerbated chronic synovitis through an increase in macrophage 
+infiltration, C5aR and C3aR expression in the joints, and C5aR expression on SF 
+cells. Levels of C5a and soluble receptor activator of nuclear factor kappa B 
+ligand (sRANKL) in the SF were elevated whereas neutrophil infiltration and 
+levels of tumour necrosis factor (TNF)-α and interleukin (IL)-6 in the SF were 
+unchanged.
+CONCLUSIONS: Our findings indicate an important role for functional complement 
+activity in the maintenance of chronic synovitis in a model of RA. Antagonizing 
+complement activation represents new possibilities for the amelioration of 
+synovitis symptoms.

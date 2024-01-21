@@ -1,0 +1,23 @@
+Adhesion mechanisms play a major role in the recruitment of peripheral blood 
+lymphocytes (PBL) which characteristically infiltrate rheumatoid arthritis (RA) 
+synovium and other chronically inflamed tissues. Through a sequential series of 
+complex integrated adhesion and signalling events, 'multistep model of 
+migration', specific subsets of PBL are recruited into inflamed tissues. In this 
+process both leucocyte receptors and microvascular endothelial (MVE) 
+counter-receptors play a critical role. The MVE in particular, during an 
+inflammatory state, is the target of various inflammatory mediators that cause 
+the up-regulation of several cell adhesion molecules (CAM). One of the most 
+important factors known to be a powerful inducer of MVE CAM is TNF-alpha. 
+Conversely, blocking TNF-alpha causes a down-modulation of CAM expression. To 
+test directly the capacity of TNF-alpha to induce cell migration into RA 
+synovium we adapted a model in which synovial grafts were implanted into SCID 
+mice subcutaneously. Using this model we demonstrate that: (i) transplants 
+remain viable and become vascularized and fed by mouse subdermal vessels; (ii) 
+the mouse vasculature connects to the transplant vasculature which maintains the 
+ability to express human CAM; (iii) intragraft injections of TNF-alpha 
+up-regulate the expression of human CAM, following the down-regulation which 
+occurred 4 weeks post-transplantation; and (iv) the up-regulation of graft CAM 
+is associated with increased human PBL migration into the transplants. This 
+study provides direct evidence in vivo of the capacity of TNF-alpha to induce 
+cell migration. In addition, it provides the experimental background for the 
+optimal use of this model.

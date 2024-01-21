@@ -1,0 +1,18 @@
+INTRODUCTION: Adjuvant arthritis (AA) shares several features with human 
+rheumatoid arthritis, and it can be induced in the Lewis (LEW) rat but not the 
+Wistar Kyoto (WKY) rat (both RT.1(l)) by immunization with heat-killed 
+Mycobacterium tuberculosis (Mtb). We set out to unravel the mechanisms 
+underlying the differential susceptibility to AA of these MHC-compatible rat 
+strains.
+MATERIALS AND METHODS: We compared the levels of T-cell proliferative and 
+cytokine response to the immunoregulatory self (rat) hsp65 (Rhsp65) after an 
+arthritogenic (Mtb) challenge and the kinetics of migration of adoptively 
+transferred, (111)Indium-labeled, Mtb-primed leukocytes into the hind paw joints 
+of recipient rats.
+RESULTS AND DISCUSSION: The WKY rats raised a significantly higher level of 
+T-cell proliferative response coupled with a temporally opposite cytokine 
+profile against the disease-regulating Rhsp65 compared to that of LEW rats. 
+Moreover, the arthritogenic leukocytes accumulated into the joints of WKY rats 
+at significantly lower numbers than that in LEW rats.
+CONCLUSIONS: These results offer novel insights into the immune events 
+influencing the pathogenesis of autoimmune arthritis.

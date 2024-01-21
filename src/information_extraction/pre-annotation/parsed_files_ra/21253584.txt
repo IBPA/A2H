@@ -1,0 +1,13 @@
+Sjögren's syndrome (SjS) is a complex chronic autoimmune disease of unknown 
+etiology which primarily targets the exocrine glands, resulting in eventual loss 
+of secretory function. The disease can present as either primary SjS or 
+secondary SjS, the latter of which occurs concomitantly with another autoimmune 
+disease such as rheumatoid arthritis, systemic lupus erythematosus, scleroderma, 
+or primary biliary cirrhosis. Current advancements in therapeutic prevention and 
+treatment for SjS are impeded by lack of understanding in the pathophysiological 
+and clinical progression of the disease. Development of appropriate mouse models 
+for both primary and secondary SjS is needed in order to advance knowledge of 
+this disease. This paper details important features, advantages, and pitfalls of 
+current animal models of SjS, including spontaneous, transgenic, knockout, 
+immunization, and transplantation chimera mouse models, and emphasizes the need 
+for a better model in representing the human SjS phenotype.

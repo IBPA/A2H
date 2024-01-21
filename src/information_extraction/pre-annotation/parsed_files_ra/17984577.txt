@@ -1,0 +1,16 @@
+Over production of interleukin (IL)-15 and IL-17 was observed in synovial fluids 
+of rheumatoid arthritis (RA) patients. IL-15 activates T cells and induces IL-17 
+production whereas IL-17 stimulates synoviocytes to release several mediators of 
+inflammation including IL-6, TNF-alpha, IL-8, and CCL2. Thus, it is presumed 
+that IL-15 and IL-17 play important roles in the pathogenesis of RA. Based on 
+these results, we investigated a new anti-rheumatic drug targets IL-15 and IL-17 
+and found a new pyrazoleanilide derivative, Y-320 that inhibits IL-15-induced 
+IL-17 production by T cells at 10-nM order. Therapeutic treatment with Y-320 
+(0.3 to 3 mg/kg orally) significantly inhibited the progression of arthritis and 
+joint destruction in type II collagen-induced arthritis (CIA) in DBA/1J mice. 
+Y-320 inhibited the elevation of IL-17 mRNA expression in the joint of CIA mice. 
+Concomitant treatment with Y-320 and anti-mouse TNF-alpha antibody showed a 
+synergistic effect in mouse CIA. Moreover, therapeutic treatment with Y-320 (0.3 
+and 1 mg/kg orally) ameliorated CIA in cynomolgus monkeys. Our results suggest 
+that Y-320, a small molecule inhibitor for IL-17 production, is a candidate for 
+the new class of orally active anti-rheumatic drug.

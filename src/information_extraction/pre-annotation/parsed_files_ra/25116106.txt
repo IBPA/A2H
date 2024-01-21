@@ -1,0 +1,19 @@
+Autoantibodies represent a hallmark of Rheumatoid arthritis (RA), which is a 
+chronic inflammatory autoimmune disease characterized by inflammation and damage 
+in the joints. Anti-Citrullinated Protein Antibodies (ACPA) are the most 
+prominent autoantibodies present in RA patients. These autoantibodies have been 
+intensively investigated during the last 20 years due to their diagnostic and 
+predictive value. Furthermore, they are believed to be involved in mediating the 
+damage associated with RA. Antibodies of the IgG isotype interact with the 
+immune system via Fcγ receptors expressed on immune cells as well as nonimmune 
+cells. These receptors, therefore, form the bridge between Fcγ receptor-positive 
+cells and antibodies complexed to antigen allowing the modulation and activation 
+of cellular immune responses that are involved in immune defense against 
+invading microorganisms. However, in case triggered by antibodies against 
+self-antigens, they can also play a pivotal role in the induction and 
+perpetuation of autoimmune diseases such as RA. Mouse models have been 
+indispensably important for understanding the role of Fcγ receptors in the 
+development of arthritis. Here we discuss the contribution of autoantibodies to 
+the pathogenesis of arthritis in preclinical animal models, as well as RA, in 
+relation to their interaction with the different (immune inhibitory and 
+activating) Fcγ receptors.

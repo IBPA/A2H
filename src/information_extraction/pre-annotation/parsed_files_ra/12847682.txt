@@ -1,0 +1,22 @@
+OBJECTIVE: To study the capacity of macrophage migration inhibitory factor (MIF) 
+to regulate proliferation, apoptosis, and p53 in an animal model of rheumatoid 
+arthritis (RA) and in fibroblast-like synoviocytes (FLS) from humans with RA.
+METHODS: Antigen-induced arthritis (AIA) was induced in MIF(-/-) mice and 
+littermate controls. FLS were obtained from patients with RA. Western blotting 
+and immunohistochemistry were used to measure p53 in cells and tissues. 
+Apoptosis was detected in cells by flow cytometry using TUNEL and annexin 
+V/propidium iodide labeling. Apoptosis in tissue was detected using TUNEL. 
+Proliferation was assessed in cultured cells and tissue by (3)H-thymidine 
+incorporation and Ki-67 immunostaining, respectively.
+RESULTS: MIF inhibited p53 expression in human RA FLS. Levels of p53 were 
+correspondingly increased in MIF(-/-) mouse tissues and cells. Spontaneous and 
+sodium nitroprusside-induced apoptosis were significantly increased in MIF(-/-) 
+cells. In vitro exposure of FLS to MIF reduced apoptosis and significantly 
+induced FLS proliferation. Synoviocyte proliferation in MIF(-/-) mice was 
+correspondingly reduced. A decrease in the severity of AIA in MIF(-/-) mice was 
+associated with an increase in p53 and apoptosis in synovium. Evidence of in 
+situ proliferation was scant in this model, and no difference in in situ 
+proliferation was detectable in MIF(-/-) mice compared with wild-type mice.
+CONCLUSION: These results indicate a role for MIF in the regulation of p53 
+expression and p53-mediated events in the inflamed synovium and support the 
+hypothesis that MIF is of critical importance in the pathogenesis of RA.

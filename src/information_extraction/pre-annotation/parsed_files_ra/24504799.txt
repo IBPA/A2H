@@ -1,0 +1,23 @@
+OBJECTIVE: The rationale for blocking interleukin-6 (IL-6) in rheumatoid 
+arthritis (RA) lies chiefly in the proinflammatory effect of this cytokine. Few 
+studies have evaluated the consequences of anti-IL-6 receptor (IL-6R) antibody 
+treatment on Treg cells. This study was undertaken to elucidate the mechanism of 
+action of anti-IL-6R antibody treatment by studying the effects on Treg cells in 
+an experimental arthritis model and in patients with RA.
+METHODS: Mice with collagen-induced arthritis (CIA) were treated with a mouse 
+anti-IL-6R antibody (MR16-1), and changes in Treg, Th1, and Th17 cells were 
+assessed at key time points during the course of the disease. Peripheral blood 
+from 15 RA patients was collected on day 0 and after 3 months of tocilizumab 
+treatment for flow cytometry analysis of Th17 and Treg cells.
+RESULTS: In MR16-1-treated mice, Th17 cell frequencies were unchanged, whereas 
+Treg cell frequencies were increased. The Treg cell phenotype showed marked 
+changes, with an increase in the frequency of CD39+ Treg cells in the lymph 
+nodes and spleen. Interestingly, similar CD39+ Treg cell expansion was observed 
+in RA patients who were tocilizumab responders at 3 months, with no change in 
+Th17 cell frequency. Moreover, fluorescence-activated cell-sorted CD39+ Treg 
+cells from responder RA patients were functionally able to suppress the 
+proliferation of conventional T cells.
+CONCLUSION: In both CIA and RA, the frequency of functionally suppressive CD39+ 
+Treg cells is increased as a result of anti-IL-6R treatment, whereas Th17 cells 
+are unaffected. The modification of Treg cell frequency and phenotype may be one 
+of the mechanisms involved in the therapeutic effect of IL-6 blockade in RA.

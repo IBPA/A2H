@@ -1,0 +1,13 @@
+Activation of helperT cell has been implicated in a number of autoimmune 
+diseases including rheumatoid arthritis. The underlying mechanism that initiates 
+and promotes disease progression remains unclear, but it is apparent that helper 
+T cells and autoantigens play prominent roles. Identification of the 
+autoantigens has proven to be extremely difficult, and therefore strategies for 
+promoting tolerance induction remain limited. Since autoimmune diseases are 
+closely associated with specific major histocompatibility complex class II 
+molecules such as HLA-DR4, the use of competitor peptides is an alternative 
+strategy. A limitation of competitor peptides, however, is that they are 
+ineffective in vivo. In the studies presented here, we demonstrate that coupling 
+competitor peptides to a cell-surface receptor ligand, transferrin, enhances 
+their ability to block helper T cell responses using the DO11.10 transgenic 
+mouse as our model system.

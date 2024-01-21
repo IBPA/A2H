@@ -1,0 +1,20 @@
+BACKGROUND: Destructive erosion of bone or osteolysis is a major complication of 
+inflammatory conditions such as rheumatoid arthritis (RA), periodontal disease, 
+and periprosthetic osteolysis. Natural plant-derived products have received 
+recent attention as potential therapeutic and preventative drugs in human 
+disease.
+METHODS: The effect of Angelica sinensis (AS) extract on RANKL-induced 
+osteoclast differentiation was examined in this study. The osteoclast precursor 
+cell line bone marrow macrophages (BMMs) was cultured and stimulated with RANKL 
+followed by treatment with AS at several doses. Gene expression profiles of 
+c-Fos, c-Jun, NFATc1, TRAP, and OSCAR were sequentially evaluated.
+RESULTS: AS extract inhibited RANKL-mediated osteoclast differentiation in BMMs 
+in a dose-dependent manner without any evidence of cytotoxicity. AS extract 
+strongly inhibited p38, ERK, JNK, p65 phosphorylation and I-κB degradation in 
+RANKL-stimulated BMMs. AS extract also inhibited the mRNA expression of c-Fos, 
+c-Jun, NFATc1, TRAP, and OSCAR in RANKL-treated BMMs. Moreover, RANKL-induced 
+c-Fos, c-Jun and NFATc1 protein expression was suppressed by AS extract.
+CONCLUSIONS: These results collectively suggested that AS extract demonstrated 
+inhibitory effects on RANKL-mediated osteoclast differentiation in bone marrow 
+macrophages in vitro, indicating that AS may therefore serve as a useful drug in 
+the prevention of bone loss.

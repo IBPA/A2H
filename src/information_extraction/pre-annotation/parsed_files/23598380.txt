@@ -1,0 +1,25 @@
+OBJECTIVE: To determine the efficacy of oral supplementation of the gut enzyme 
+intestinal alkaline phosphatase (IAP) in preventing antibiotic-associated 
+infections from Salmonella enterica serovar Typhimurium (S. Typhimurium) and 
+Clostridium difficile.
+BACKGROUND: The intestinal microbiota plays a pivotal role in human health and 
+well-being. Antibiotics inherently cause dysbiosis, an imbalance in the number 
+and composition of intestinal commensal bacteria, which leads to susceptibility 
+to opportunistic bacterial infections. Previously, we have shown that IAP 
+preserves the normal homeostasis of intestinal microbiota and that oral 
+supplementation with calf IAP (cIAP) rapidly restores the normal gut flora. We 
+hypothesized that oral IAP supplementation would protect against 
+antibiotic-associated bacterial infections.
+METHODS: C57BL/6 mice were treated with antibiotic(s) ± cIAP in the drinking 
+water, followed by oral gavage of S. Typhimurium or C. difficile. Mice were 
+observed for clinical conditions and mortality. After a defined period of time, 
+mice were killed and investigated for hematological, inflammatory, and 
+histological changes.
+RESULTS: We observed that oral supplementation with cIAP during antibiotic 
+treatment protects mice from infections with S. Typhimurium as well as with C. 
+difficile. Animals given IAP maintained their weight, had reduced clinical 
+severity and gut inflammation, and showed improved survival.
+CONCLUSIONS: Oral IAP supplementation protected mice from antibiotic-associated 
+bacterial infections. We postulate that oral IAP supplementation could represent 
+a novel therapy to protect against antibiotic-associated diarrhea (AAD), C. 
+difficile-associated disease (CDAD), and other enteric infections in humans.

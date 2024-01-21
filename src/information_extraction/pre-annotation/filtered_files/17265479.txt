@@ -1,0 +1,25 @@
+OBJECTIVE: Angiotensin II (Ang II) is known to have proinflammatory actions, and 
+Ang II type 1 (AT(1)) receptors are up-regulated in the rheumatoid synovium, 
+suggesting that this receptor could be a therapeutic target. The purpose of this 
+study was to investigate the antiinflammatory potential of the selective AT(1) 
+receptor antagonist losartan, which is currently used for the treatment of 
+cardiovascular disease.
+METHODS: Dose-ranging studies of losartan (1-50 mg/kg) were initially conducted 
+in a rat model of acute (carrageenan/kaolin) arthritis, with subsequent 
+evaluation in a rat model of adjuvant-induced arthritis (Freund's complete 
+adjuvant). Losartan (10(-10) to 10(-6)M) was further tested ex vivo in human 
+inflammatory synovitis, using collagenase-digested synovium.
+RESULTS: Western blot and immunohistochemical analyses both revealed a 
+substantial increase in AT(1) receptor protein content in synovium from acutely 
+and chronically inflamed rat knee joints. Similarly, synovial Ang I/II protein 
+content was elevated during inflammation. Losartan inhibited acute joint 
+inflammation in a dose-dependent manner, with 15 mg/kg being the optimal dose 
+(and used in subsequent studies). Both prophylactic and therapeutic 
+administration of 15 mg/kg of losartan substantially reduced knee joint swelling 
+in rats with adjuvant monarthritis (> or =50%; P < 0.0001). Losartan also 
+suppressed tumor necrosis factor alpha generation from inflamed human synovium 
+in a dose-dependent manner (P < 0.05).
+CONCLUSION: Targeting the angiotensin pathway, particularly AT(1) receptors, 
+could have significant therapeutic potential. Randomized placebo-controlled 
+trials are now warranted to establish the extent to which angiotensin receptor 
+blockers may provide antiinflammatory benefits.

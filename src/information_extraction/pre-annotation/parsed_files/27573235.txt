@@ -1,0 +1,21 @@
+Gastrointestinal (GI) leakage in Clostridium difficile-associated diarrhea 
+(CDAD) is well known but is not routinely assessed in clinical practice. Serum 
+(1→3)-β-D-glucan (BG), a fungal cell wall component used as a biomarker for 
+invasive fungal disease, was tested in a CDAD mouse model with and without 
+probiotics. Higher serum fluorescein isothiocyanate-dextran (FITC-dextran) and 
+spontaneous gram-negative bacteremia, GI leakage indicators, were frequently 
+found in CDAD mice, which died compared with those which survived. BG, serum 
+macrophage inflammatory protein-2 and FITC-dextran but not quantitative blood 
+bacterial count differentiated the clinical severity. Interestingly, a specific 
+dose of Lactobacillus rhamnosus L34 attenuated CDAD and decreased serum BG and 
+FITC-dextran, but not other parameters. BG also showed a higher area under the 
+receiver operating characteristic curve for 7-day mortality than FITC-dextran. 
+Fifty-five percent of CDAD mice with BG ≥ 60 pg/ml (the human negative cut-off 
+value for invasive fungal disease) at 1 day after C. difficile gavage died 
+within 7 days. In conclusion, S: erum BG was elevated in mice with severe CDAD, 
+an established model of GI leakage with a strong association with mortality 
+rate. BG monitoring in patients with CDAD is of interest as both a potential 
+prognostic tool and a therapeutic efficacy indicator.
+
+© FEMS 2016. All rights reserved. For permissions, please e-mail: 
+journals.permissions@oup.com.

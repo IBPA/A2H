@@ -1,0 +1,18 @@
+Osteoclasts are responsible for bone erosion in diseases as diverse as 
+osteoporosis, periodontitis, and rheumatoid arthritis. Antiseptic products have 
+received recent attention as potential therapeutic and preventive drugs in human 
+disease. The purpose of this study was to investigate the effect of the 
+antiseptic cetylpyridinium chloride (CPC) on osteoclast formation using mouse 
+bone marrow-derived macrophages (BMMs). CPC inhibited receptor activator of 
+nuclear factor (NF)-κB ligand (RANKL)-induced osteoclast formation in a 
+dose-dependent manner without causing cytotoxicity. The mRNA expression of 
+cathepsin K, calcitonin receptor (CTR), and Prdm1 in osteoclasts was reduced by 
+CPC. In experiments to elucidate its mechanism of action, CPC was found to 
+suppress RANKL-induced expression of c-Fos and nuclear factor of activated T 
+cells (NFATc1), transcription factors that are essential for osteoclast 
+differentiation. CPC also inhibited RANKL-induced activation of extracellular 
+signal-regulated kinase (ERK) and NF-κB and expression of cyclooxygenase 
+(COX)-2. These results collectively suggest that CPC inhibits osteoclast 
+differentiation by suppressing the activation of ERK and NF-κB and reducing the 
+expression of COX-2, c-Fos, and NFATc1. CPC may therefore be a useful drug in 
+the prevention of bone loss.

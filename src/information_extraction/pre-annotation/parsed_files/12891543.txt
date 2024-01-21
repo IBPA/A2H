@@ -1,0 +1,21 @@
+BACKGROUND & AIMS: Clostridium difficile causes antibiotic-associated diarrhea 
+and pseudomembranous colitis, diseases afflicting millions of people each year. 
+Although C. difficile releases 2 structurally similar exotoxins, toxin A and 
+toxin B, animal experiments suggest that only toxin A mediates diarrhea and 
+enterocolitis. However, toxin A-negative/toxin B-positive strains of C. 
+difficile recently were isolated from patients with antibiotic-associated 
+diarrhea and colitis, indicating that toxin B also may be pathogenic in humans.
+METHODS: Here we used subcutaneously transplanted human intestinal xenografts in 
+immunodeficient mice to generate a chimeric animal model for C. difficile 
+toxin-induced pathology of human intestine.
+RESULTS: We found that intraluminal toxin B, like equivalent concentrations of 
+toxin A, induced intestinal epithelial cell damage, increased mucosal 
+permeability, stimulated interleukin (IL)-8 synthesis, and caused an acute 
+inflammatory response characterized by neutrophil recruitment and tissue damage. 
+Laser capture microdissection and real-time quantitative reverse-transcription 
+polymerase chain reaction (RT-PCR) showed that intestinal epithelial 
+cell-specific IL-8 gene expression also was increased significantly after 
+luminal exposure to C. difficile toxins in vivo.
+CONCLUSIONS: We conclude that C. difficile toxin B, like toxin A, is a potent 
+inflammatory enterotoxin for human intestine. Future therapeutic or vaccine 
+strategies for C. difficile infection therefore need to target both toxins.

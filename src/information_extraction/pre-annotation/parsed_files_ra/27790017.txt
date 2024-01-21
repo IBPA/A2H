@@ -1,0 +1,20 @@
+OBJECTIVE: Monocyte (MN) recruitment is an essential inflammatory component of 
+many autoimmune diseases, including rheumatoid arthritis (RA). In this study we 
+investigated the ability of 2-fucosyllactose (H-2g), a glucose analog of blood 
+group H antigen to induce MN migration in vivo and determined if H-2g-induced 
+interleukin-8 (IL-8/CXCL8) plays a role in MN ingress in RA.
+METHODS: Sponge granuloma and intravital microscopy assays were performed to 
+examine H-2g-induced in vivo MN migration and rolling, respectively. MNs were 
+stimulated with H-2g, and the production of IL-8/CXCL8 was assessed by 
+enzyme-linked immunosorbent assay and quantitative polymerase chain reaction. 
+Lastly, in vitro MN migration assays and an in vivo RA synovial tissue severe 
+combined immunodeficiency mouse model were used to determine the role of 
+IL-8/CXCL8 in H-2g-induced MN migration.
+RESULTS: In vivo, H-2g induced significantly greater MN migration compared to 
+phosphate buffered saline. Intravital microscopy revealed that H-2g mediates MN 
+migration in vivo by inducing MN rolling. In addition, H-2g induced MN 
+production of IL-8/CXCL8, a process that was dependent on Src kinase. Moreover, 
+we found that H-2g mediated MN migration in vitro, and in vivo migration was 
+inhibited by a neutralizing anti-IL-8/CXCL8 antibody.
+CONCLUSION: These findings suggest that H-2g mediates MN recruitment in vitro 
+and in vivo (in part) via IL-8/CXCL8.

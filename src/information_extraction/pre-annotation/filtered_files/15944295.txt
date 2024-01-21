@@ -1,0 +1,23 @@
+Cia5 is a locus on rat chromosome 10 which regulates the severity of collagen- 
+and pristane-induced arthritis (CIA and PIA). To refine the region toward 
+positional identification, Cia5 subcongenic strains were generated and studied 
+in PIA and CIA. The protective effect of the telomeric locus Cia5a was confirmed 
+in both models. A second arthritis severity locus (Cia5d) was identified within 
+the most centromeric portion of Cia5. DA.F344(Cia5d) rats had a significantly 
+lower median arthritis severity index in PIA, but not in CIA, compared with DA. 
+On histologic analyses DA.F344(Cia5a) and DA.F344(Cia5d) congenics with PIA 
+preserved a nearly normal joint architecture compared with DA, including 
+significant reduction in synovial hyperplasia, pannus, angiogenesis, 
+inflammatory infiltration, bone and cartilage erosions. Cia5 and Cia5a synovial 
+levels of IL-1beta mRNA were reduced. Although both DA.F344(Cia5) and 
+DA.F344(Cia5a) rats were protected in CIA, the arthritis scores of DA.F344(Cia5) 
+were significantly higher than those of DA.F344(Cia5a), suggesting the existence 
+of a third locus where F344-derived alleles centromeric from Cia5a contribute to 
+increased arthritis severity. The existence of the third locus was further 
+supported by higher levels of autoantibodies against rat type II collagen in 
+DA.F344(Cia5) congenics compared with DA.F344(Cia5a). Our results determined 
+that Cia5 contains three major arthritis severity regulatory loci regulating 
+central events in the pathogenesis of arthritis, and differentially influencing 
+CIA and PIA. These loci are syntenic to regions on human chromosomes 17q and 5q 
+implicated in the susceptibility to rheumatoid arthritis, suggesting that the 
+identification of these genes will be relevant to human disease.

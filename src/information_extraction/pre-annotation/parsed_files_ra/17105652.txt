@@ -1,0 +1,21 @@
+The overgrowth of synovial tissues is critical in the pathogenesis of rheumatoid 
+arthritis (RA). The expression of Synoviolin (SYN), an E3 ubiquitin ligase, is 
+upregulated in arthritic synovial fibroblasts and is involved in the overgrowth 
+of synovial cells during RA. However, the molecular mechanisms involved in the 
+elevated SYN expression are not known. Here, we found that SYN expression is 
+elevated in the synovial fibroblasts from mice with collagen-induced arthritis 
+(CIA). The proinflammatory cytokines interleukin (IL)-1beta and tumor necrosis 
+factor-alpha (TNF-alpha) induce SYN expression in mouse synovial fibroblasts. 
+Cultivation of mouse synovial fibroblasts with IL-1beta activates 
+mitogen-activated protein kinases, including extra-cellular signal-regulated 
+kinase (Erk), JNK (c-Jun N-terminal kinase), and p38, while only Erk-specific 
+inhibitor blocks IL-1beta-induced SYN expression. Expression of transcription 
+factor ETS1 further enhances IL-1beta-induced SYN expression. The dominant 
+negative ETS1 mutant lacking the transcription activation domain inhibits SYN 
+expression in a dose-dependent manner. The activation of both Erk1/2 and ETS1 is 
+increased in the CIA synovial fibroblasts. Inhibition of Erk activation reduces 
+ETS1 phosphorylation and SYN expression. Our data indicate that the 
+proinflammatory cytokines IL-1beta and TNF-alpha induce the overgrowth of 
+synovial cells by upregulating SYN expression via the Erk1/-ETS1 pathway. These 
+molecules or pathways could therefore be potential targets for the treatment of 
+RA.

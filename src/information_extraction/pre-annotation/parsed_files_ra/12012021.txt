@@ -1,0 +1,18 @@
+We have previously shown that a ditriazine derivative 
+4,10-dichloropyrido[5,6:4,5]thieno[3,2- d':3,2- d]-1, 2, 3-ditriazine (DTD) 
+modulates acute inflammation in murine models by inhibition of leukocyte 
+functions and expression of inducible enzymes including nitric oxide synthase 
+and cyclooxygenase-2 (COX-2). In the present work, we have demonstrated the 
+anti-inflammatory effect of DTD after oral administration in the rat 
+adjuvant-induced arthritis, by reduction of interleukin-1beta and tumour 
+necrosis factor-alpha levels and COX-2 expression in the inflamed tissues. These 
+mediators were also significantly decreased by DTD treatment in the 
+angiogenesis-dependent murine air pouch granuloma model, where this agent 
+exerted anti-inflammatory and antiangiogenic effects. In vitro experiments 
+indicated that DTD is an inhibitor of the nuclear factor-kappaB (NF-kappaB) 
+pathway of cellular activation in macrophages, in parallel with the regulation 
+of cytokine release. Our results suggest that the anti-inflammatory and 
+antiangiogenic properties of DTD can be related to the inhibition of cytokine 
+and PGE(2) production by interfering with NF-kappaB activation. This compound 
+thus offers a therapeutic potential for the treatment of chronic inflammatory 
+diseases with an angiogenic component, such as rheumatoid arthritis.

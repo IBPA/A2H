@@ -1,0 +1,26 @@
+Angiogenesis is implicated in the pathogenesis of cancer, rheumatoid arthritis, 
+and atherosclerosis and in the treatment of coronary artery and peripheral 
+vascular disease. Here, cholesterol-lowering agents, 3-hydroxy-3-methylglutaryl 
+coenzyme A (HMG-CoA) reductase inhibitors, are shown to interfere with 
+angiogenesis. In vivo, the HMG-CoA reductase inhibitor simvastatin 
+dose-dependently inhibited capillary growth in both vascular endothelial growth 
+factor-stimulated chick chorioallantoic membranes and basic fibroblast growth 
+factor-stimulated mouse corneas. In vitro, the development of tubelike 
+structures by human microvascular endothelial cells cultured on 3D collagen gels 
+was inhibited at simvastatin concentrations similar to those found in the serum 
+of patients on therapeutic doses of this agent. HMG-CoA reductase inhibitors 
+interfered with angiogenesis via inhibition of the geranylgeranylation and 
+membrane localization of RhoA. Simvastatin inhibited membrane localization of 
+RhoA with a concentration dependence similar to that for the inhibition of tube 
+formation, whereas geranylgeranyl pyrophosphate, the substrate for the 
+geranylgeranylation of Rho, reversed the effect of simvastatin on tube formation 
+and on the membrane localization of RhoA. Furthermore, tube formation was 
+inhibited by GGTI, a specific inhibitor of the geranylgeranylation of Rho; by C3 
+exotoxin, which inactivates Rho; and by the adenoviral expression of a 
+dominant-negative RhoA mutant. The expression of a dominant-activating RhoA 
+mutant reversed the effect of simvastatin on tube formation. Finally, HMG-CoA 
+reductase inhibitors inhibited signaling by vascular endothelial growth factor, 
+Akt, and focal adhesion kinase, three RhoA-dependent pathways known to be 
+involved in angiogenesis. This study demonstrates a new relationship between 
+lipid metabolism and angiogenesis and an antiangiogenic effect of HMG-CoA 
+reductase inhibitors with possible important therapeutic implications.

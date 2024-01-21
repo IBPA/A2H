@@ -1,0 +1,22 @@
+OPS-2071 is a novel quinolone antibacterial agent characterized by low oral 
+absorption that reduces the risk of adverse events typical of fluoroquinolone 
+class antibiotics. The in vitro and in vivo antibacterial activities of OPS-2071 
+against Clostridioides difficile were evaluated in comparison to vancomycin and 
+fidaxomicin. OPS-2071 exhibited potent antibacterial activity against 54 
+clinically isolated C. difficile strains with a MIC of 0.125 μg/ml (MIC50) and 
+0.5 μg/ml (MIC90), making it more active than vancomycin on a concentration 
+basis (MIC50, 2 μg/ml; MIC90, 4 μg/ml) and comparable to fidaxomicin (MIC50, 
+0.063 μg/ml; MIC90, 8 μg/ml). OPS-2071 showed equally potent antibacterial 
+activity against both hypervirulent and nonhypervirulent strains, while a 
+significant difference in susceptibility to fidaxomicin was observed. 
+Spontaneous resistance to OPS-2071 and vancomycin was not observed; however, 
+resistance to fidaxomicin was observed at 4× MIC. The mutant prevention 
+concentration of OPS-2071 was 16-fold lower than those of fidaxomicin and 
+vancomycin, and the postantibiotic effect of OPS-2071 was longer than those of 
+fidaxomicin and vancomycin. Also, OPS-2071 showed low systemic exposure, with 
+OPS-2071 having 2.9% oral bioavailability at 1 mg/kg in rats. Furthermore, 
+OPS-2071 showed significant in vivo efficacy at 0.0313 mg/kg/day (50% effective 
+doses), 39.0-fold and 52.1-fold lower than those of vancomycin and fidaxomicin, 
+respectively, in a hamster model of C. difficile infection. OPS-2071 has the 
+potential to become a new therapeutic option for treating C. difficile 
+infection.

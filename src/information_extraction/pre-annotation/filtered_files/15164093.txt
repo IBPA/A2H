@@ -1,0 +1,31 @@
+The present study was undertaken to examine whether ribozymes cleaving 
+specifically cathepsin L (CL) mRNA are able to decrease the synthesis of CL 
+protease in rheumatoid arthritis synovial fibroblasts (RA-SF) and thereby reduce 
+the invasiveness into cartilage both in vitro and in the SCID mouse 
+coimplantation model of RA. Two different ribozymes that cleave CL mRNA 
+specifically at positions 533 (RzCL533) and 790 (RzCL790) were generated. Using 
+retroviral gene transfer, RA-SF were transduced with the ribozyme constructs or 
+the empty vector. To examine the effect of the ribozymes on the mRNA level, 
+quantitative analysis for CL mRNA was performed using real-time PCR. For 
+evaluation on the protein level, ELISA using specific anti-CL antibodies was 
+performed. In addition, transduced RA-SF were examined in vitro in a 
+three-dimensional destruction assay evaluating their ability to degrade 
+extracellular matrix produced by human chondrocytes. Matrix destruction was 
+monitored by the release of soluble glycosaminoglycans (sGAG). Using the in vivo 
+SCID mouse coimplantation model of RA, RzCL533-transduced RA-SF and control 
+cells were coimplanted with human cartilage for 60 days. After being killed, 
+invasion of RA-SF into the cartilage was evaluated by using a semiquantitative 
+score. Transduction of RA-SF with RzCL533 and RzCL790 ribozymes decreased 
+significantly the expression of CL mRNA to 44% (range 25-62%) and 20% (range 
+1-43%), respectively, when compared to mock-transduced cells. The protein 
+concentration of CL in the cell culture supernatants of transduced RA-SF was 
+decreased from 16.0 ng/ml in the mock constructs to 4.1 and 8.2 ng/ml (mean), 
+respectively. Using the in vitro cartilage destruction assay, the release of 
+sGAG decreased to 46 and 60%, respectively, after 14 days when compared to 
+mock-transduced cells. In the SCID mouse coimplantation model of RA, 
+RzCL533-transduced RA-SF revealed a significant lower cartilage invasion when 
+compared to mock and untransduced cells. Using retroviral gene transfer, 
+ribozymes cleaving CL mRNA inhibit specifically the synthesis of this 
+matrix-degrading enzyme and reduce cartilage destruction in in vitro and in vivo 
+models. Our study therefore suggests that ribozymes targeting CL could be a 
+novel and efficient tool to inhibit joint destruction in RA.

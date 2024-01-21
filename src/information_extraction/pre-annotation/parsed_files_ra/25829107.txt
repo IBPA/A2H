@@ -1,0 +1,23 @@
+Bone resorbing osteoclasts represent an important therapeutic target for 
+diseases associated with bone and joint destruction, such as rheumatoid 
+arthritis, periodontitis, and osteoporosis. The quantification of osteoclast 
+resorptive activity in vitro is widely used for screening new anti-resorptive 
+medications. The aim of this paper was to develop a simplified semi-automated 
+method for the quantification of osteoclastic resorption using fluorescently 
+labeled biomimetic mineral layers which can replace time intensive, often 
+subjective and clearly non-sustainable use of translucent slices of tusks from 
+vulnerable or endangered species such as the elephant. Osteoclasts were formed 
+from RAW 264.7 mouse monocyte cell line using the pro-resorptive cytokine 
+receptor activator of nuclear factor kappa-B ligand (RANKL). We confirmed that 
+fluorescent labeling did not interfere with the biomimetic features of 
+hydroxyapatite, and developed an automated method for quantifying osteoclastic 
+resorption. Correlation between our assay and traditional manual measurement 
+techniques was found to be very strong (R(2)=0.99). In addition, we modified the 
+technique to provide depth and volume data of the resorption pits by confocal 
+imaging at defined depths. Thus, our method allows automatic quantification of 
+total osteoclastic resorption as well as additional data not obtainable by the 
+current tusk slice technique offering a better alternative for high throughput 
+screening of potential antiresorptives.
+
+Copyright © 2015 Acta Materialia Inc. Published by Elsevier Ltd. All rights 
+reserved.

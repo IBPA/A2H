@@ -1,0 +1,27 @@
+Streptococcus suis is a zoonotic pathogen that harbors anti-oxidative stress 
+genes, which have been reported to be associated with virulence. Serial passage 
+has been widely used to obtain phenotypic variant strains to investigate the 
+functions of important genes. In the present study, S. suis serotype 9 strain 
+DN13 was serially passaged in mice 30 times. The virulence of a single colony 
+from passage 10 (SS9-P10) was found to increase by at least 140-fold as 
+indicated by LD50 values, and the increased virulence was stable for single 
+colonies from passage 20 (SS0-P20) and 30 (SS0-P30). Compared to the parental 
+strain, the mouse-adapted strains were more tolerant to oxidative and high 
+temperature stress. Genome-wide analysis of nucleotide variations found that 
+reverse mutations occurred in seven genes, as indicated by BLAST analysis. Three 
+of the reverse mutation genes or their homologs in other bacteria were reported 
+to be virulence-associated, including ide Ssuis in S. suis, a homolog of malR of 
+Streptococcus pneumoniae, and a homolog of the prepilin peptidase-encoding gene 
+in Legionella pneumophila. However, these genes were not involved in the stress 
+response. Another gene, srtR (stress response transcriptional regulator), 
+encoding an XRE family transcriptional regulator, which had an internal stop in 
+the parental strain, was functionally restored in the adapted strains. Further 
+analysis of DN13 and SS9-P10-background srtR-knock-out and complementing strains 
+supported the contribution of this gene to stress tolerance in vitro and 
+virulence in mice. srtR and its homologs are widely distributed in Gram-positive 
+bacteria including several important human pathogens such as Enterococcus 
+faecium and Clostridioides difficile, indicating similar functions in these 
+bacteria. Taken together, our study identified the first member of the XRE 
+family of transcriptional regulators that is involved in stress tolerance and 
+virulence. It also provides insight into the mechanism of enhanced virulence 
+after serial passage in experimental animals.

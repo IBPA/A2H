@@ -1,0 +1,26 @@
+REASONS FOR PERFORMING STUDY: Enterocolitis caused by Clostridium difficile (C. 
+difficile) is a serious, sometimes fatal, disease of neonatal foals and older 
+horses. Toxins A and B (TcdA and B) produced by C. difficile are important 
+virulence factors. Immunisation of mares with receptor binding domains of toxins 
+may prevent or reduce the severity of C. difficile colitis in foals.
+OBJECTIVES: To determine whether antibodies generated in the pregnant mare to 
+the binding regions of TcdA and B will neutralise TcdA and B toxicity.
+METHODS: Sequences encoding the binding domains of each toxin were isolated by 
+PCR amplification from C. difficile JF09, a foal isolate, and cloned and 
+expressed into pET15b. Thirteen mares were immunised twice 2 weeks apart with 
+200 μg of each recombinant protein with Quil A 2 months prior to foaling. 
+Antibodies were assayed in the sera and colostrum by ELISA and for ability to 
+block the cytopathic activity of each of toxin for equine endothelial cells.
+RESULTS: All mares produced strong serum antibody responses to the binding 
+domain of each toxin. A high level of toxin-specific antibodies was also 
+detected in colostrum and in most foal sera 2 days after suckling. Diluted sera 
+and colostrum premixed with either TcdA or B had no effect on the morphology of 
+equine endothelial cells. Application of the same concentration of toxins alone 
+or premixed with nonimmune mare/foal serum or colostrum led to an unambiguous 
+cytopathic effect that ranged from complete degradation to varying degrees of 
+cell rounding.
+CONCLUSIONS: Immunisation of pregnant mares with recombinant binding domains of 
+TcdA and B of C. difficile resulted in the production of specific antibodies in 
+serum and colostrum that blocked the cytopathic activity of toxins.
+POTENTIAL RELEVANCE: Results of studies support the feasibility of a prepartum 
+vaccine against C. difficile enterocolitis in foals.

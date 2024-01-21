@@ -1,0 +1,23 @@
+During inflammatory processes of the kidney, lesions of the glomerulus lead to 
+aggregation of thrombocytes and infiltration of macrophages, which can release 
+bioactive mediators. One of these important signalling molecules is 
+lysophosphatidic acid (LPA). Incubation of rat mesangial cells with LPA induced 
+mRNA and protein expression of the early-response genes pghs-2 (for 
+prostaglandin G/H synthase-2/cyclo-oxygenase-2) and egr-1. As shown by antisense 
+experiments, induction of egr-1 was related to the strong mitogenic effect of 
+LPA. LPA-mediated gene expression was inhibited by pertussis toxin, indicating 
+coupling to G-proteins of the Gi family. Specific inhibition of proteins of the 
+small G-protein subfamily Rho with toxin B from Clostridium difficile led to 
+changes in mesangial cell morphology without induction of apoptosis. 
+LPA-mediated expression of pghs-2 and egr-1 was reduced to base-line levels by 
+toxin B, indicating a role for Rho proteins in LPA-mediated gene induction. Of 
+the two mitogen-activated protein kinase (MAPK) pathways investigated, the MAPK 
+kinase-extracellular signal-regulated kinase pathway was involved in the 
+induction of both pghs-2 and egr-1 mRNA expression, as shown by the inhibitory 
+effect of PD98059. Activation of the MAPK p38, however, was only related to 
+pghs-2 expression, whereas egr-1 expression was not affected by treatment of 
+mesangial cells with the specific inhibitor SB203580. Taken together our data 
+provide evidence that LPA-mediated activation of MAPK kinase and Rho proteins 
+leads to the induction of the functionally distinct early-response genes pghs-2 
+and egr-1, whereas activation of MAPK p38 revealed considerable differences 
+between the regulation of these two genes.

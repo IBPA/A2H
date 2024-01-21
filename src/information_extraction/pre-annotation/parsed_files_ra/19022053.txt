@@ -1,0 +1,15 @@
+The growth of blood and lymphatic vessels, namely angiogenesis and 
+lymphangiogenesis, is well known to be of importance for tumor growth and 
+metastatic spread. In fact, several therapeutic strategies are currently being 
+pursued in the clinic to interfere with these processes. By contrast, vascular 
+remodeling associated with chronic inflammatory disorders, such as psoriasis, 
+rheumatoid arthritis or inflammatory bowel disease, is only now emerging as a 
+potential new target to treat these conditions. Animal models of inflammation, 
+which mimic the inflammatory and the vascular phenotype of the disease, are 
+important tools for studying inflammation and the accompanying (lymph)angiogenic 
+response in vivo. This review provides a brief summary of our current knowledge 
+of inflammation-induced angiogenesis and lymphangiogenesis and of selected mouse 
+models that can be used to analyze these processes in vivo. It also provides a 
+detailed description of methods, such as immunofluorescence or 
+fluorescence-activated cell sorting (FACS) that can be used to visualize and 
+quantitate vascular remodeling in inflamed tissues.

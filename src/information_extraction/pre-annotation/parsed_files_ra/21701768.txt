@@ -1,0 +1,19 @@
+The purpose of this study was to investigate the antioxidant and 
+anti-inflammatory effects of a glycoprotein isolated from the alga Porphyra 
+yezoensis in LPS-stimulated RAW 264.7 mouse macrophages. First, we extracted a 
+novel material with antioxidant activity from P. yezoensis, confirmed by 
+SDS-PAGE to be a glycoprotein, which we named P. yezoensis glycoprotein (PGP). 
+PGP inhibited the production of NO and ROS and expression of iNOS, COX-2, TNF-α 
+and IL-1β, which are involved in the pathogenesis of many 
+inflammation-associated human diseases, including septic shock, hemorrhagic 
+shock and rheumatoid arthritis. Next, we determined the mechanisms behind the 
+antioxidant and anti-inflammatory activities of PGP. We focused on the Toll-like 
+receptor 4 (TLR4) signaling pathway because it is well-known to induce the 
+pro-inflammatory proteins that trigger MAPK and NF-κB activation in 
+lipopolysaccharide (LPS)-induced oxidative events. PGP treatment reduced the 
+formation of the TLR4-IRAK4 and TLR4-TRIF binding complexes in response to LPS. 
+Moreover, it inhibited LPS-induced activation and nuclear translocation of NF-κB 
+by abrogating IκB phosphorylation. PGP also suppressed the phosphorylation of 
+ERK1/2 and JNK in a dose-dependent manner. These results suggest that PGP exerts 
+its anti-inflammatory effects by modulating TLR4 signaling and thus inhibiting 
+the activation of NF-κB and MAP kinases.

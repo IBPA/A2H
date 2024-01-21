@@ -1,0 +1,31 @@
+The chemokine receptor CXCR3 is involved in various inflammatory diseases, such 
+as rheumatoid arthritis, multiple sclerosis, psoriasis, and allograft rejection 
+in transplantation patients. The CXCR3 ligands CXCL9, CXCL10, and CXCL11 are 
+expressed at sites of inflammation, and they attract CXCR3-bearing lymphocytes, 
+thus contributing to the inflammatory process. In this study, we characterize 
+five nonpeptidergic compounds of different chemical classes that block the 
+action of CXCL10 and CXCL11 at the human CXCR3, i.e., the 
+3H-pyrido[2,3-d]pyrimidin-4-one derivatives 
+N-1R-[3-(4-ethoxy-phenyl)-4-oxo-3,4-dihydro-pyrido[2,3-d]pyrimidin-2-yl]-ethyl-N-pyridin-3-ylmethyl-2-(4-fluoro-3-trifluoromethyl-phenyl)-acetamide 
+(VUF10472/NBI-74330) and 
+N-1R-[3-(4-ethoxy-phenyl)-4-oxo-3,4-dihydro-pyrido[2,3-d]pyrimidin-2-yl]-ethyl-N-pyridin-3-ylmethyl-2-(4-trifluoromethoxy-phenyl)-acetamide 
+(VUF10085/AMG-487), the 3H-quinazolin-4-one decanoic acid 
+{1-[3-(4-cyano-phenyl)-4-oxo-3,4-dihydro-quinazolin-2-yl]-ethyl}-(2-dimethylamino-ethyl)-amide 
+(VUF5834), the imidazolium compound 
+1,3-bis-[2-(3,4-dichloro-phenyl)-2-oxo-ethyl]-3H-imidazol-1-ium bromide 
+(VUF10132), and the quaternary ammonium anilide 
+N,N-dimethyl-N-[4-[[[2-(4-methylphenyl)-6,7-dihydro-5H-benzocyclohepten-8-yl]-carbonyl]amino]benzyl] 
+tetrahydro-2H-pyran-4-aminium chloride (TAK-779). To understand the action of 
+these CXCR3 antagonists in various animal models of disease, the compounds were 
+also tested at rat and mouse CXCR3, as well as at CXCR3 from rhesus macaque, 
+which was cloned and characterized for the first time in this study. Except for 
+TAK-779, all compounds show slightly lower affinity for rodent CXCR3 than for 
+primate CXCR3. In addition, we have characterized the molecular mechanism of 
+action of the various antagonists at the human CXCR3 receptor. All tested 
+compounds act as noncompetitive antagonists at CXCR3. Moreover, this 
+noncompetitive behavior is accompanied by inverse agonistic properties of all 
+five compounds as determined on an identified constitutively active mutant of 
+CXCR3, CXCR3 N3.35A. It is interesting to note that all compounds except TAK-779 
+act as full inverse agonists at CXCR3 N3.35A. TAK-779 shows weak partial inverse 
+agonism at CXCR3 N3.35A, and it probably has a different mode of interaction 
+with CXCR3 than the other two classes of small-molecule inverse agonists.

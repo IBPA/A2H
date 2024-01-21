@@ -1,0 +1,19 @@
+Tumor necrosis factor (TNF) is a potent inflammatory cytokine involved in many 
+pathophysiological conditions including rheumatoid arthritis and Crohn's 
+disease. Despite recent evidence regarding signal transduction via TNF receptor 
+and its biological actions, the mechanism of TNF release remains poorly 
+understood. To clarify how production and release of TNF are regulated, we 
+focused on mast cells and microglia which are involved in allergic inflammation 
+and brain damage or recovery, respectively. In RBL-2H3 mast cells, anti-allergic 
+drugs including azelastine inhibited the release of TNF more potently than 
+degranulation in response to antigen or ionomycin. It was also demonstrated that 
+TNF releasing steps are regulated via the PKC alpha-dependent pathway. 
+Furthermore, Rho GTPases, possibly Rac, were shown to be involved in 
+antigen-induced TNF transcription through activating PKC beta I. In cultured rat 
+brain microglia, we found that extracellular ATP triggers the release of TNF via 
+the P2X7 receptor. ERK and JNK are also involved in ATP-induced TNF 
+transcription, while p38 regulates the transport of TNF mRNA from the nucleus to 
+the cytosol. Additionally, JNK and p38, but not ERK, are activated via the P2X7 
+receptor. A better understanding of the specific pathways that regulate TNF 
+release for each effector cell may offer further possible therapeutic targets 
+for inflammatory diseases.

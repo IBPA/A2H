@@ -1,0 +1,21 @@
+Prostanoids and PGE2 in particular have been long viewed as one of the major 
+mediators of inflammation in arthritis. However, experimental data indicate that 
+PGE2 can serve both pro- and anti-inflammatory functions. We have previously 
+shown (Kojima et al., J. Immunol. 180 (2008) 8361-8368) that microsomal 
+prostaglandin E synthase-1 (mPGES-1) deletion, which regulates PGE2 production, 
+resulted in the suppression of collagen-induced arthritis (CIA) in mice. This 
+suppression was attributable, at least in part, to the impaired generation of 
+type II collagen autoantibodies. In order to examine the function of mPGES-1 and 
+PGE2 in a non-autoimmune form of arthritis, we used the collagen 
+antibody-induced arthritis (CAIA) model in mice deficient in mPGES-1, thereby 
+bypassing the engagement of the adaptive immune response in arthritis 
+development. Here we report that mPGES-1 deletion significantly increased CAIA 
+disease severity. The latter was associated with a significant (~3.6) 
+upregulation of neutrophil, but not macrophage, recruitment to the inflamed 
+joints. The lipidomic analysis of the arthritic mouse paws by quantitative 
+liquid chromatography/tandem mass-spectrometry (LC/MS/MS) revealed a dramatic 
+(~59-fold) reduction of PGE2 at the peak of arthritis. Altogether, this study 
+highlights mPGES-1 and its product PGE2 as important negative regulators of 
+neutrophil-mediated inflammation and suggests that specific mPGES-1 inhibitors 
+may have differential effects on different types of inflammation. Furthermore, 
+neutrophil-mediated diseases could be exacerbated by inhibition of mPGES-1.

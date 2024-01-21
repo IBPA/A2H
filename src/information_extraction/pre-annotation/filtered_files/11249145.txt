@@ -1,0 +1,16 @@
+RPR132331, a 2-(2-dioxanyl)imidazole, was identified as an inhibitor of tumour 
+necrosis factor (TNF)alpha release from lipopolysaccharide (LPS)-stimulated 
+human monocytes. An intensive programme of work exploring the biology, toxicity 
+and physical chemistry of a novel series of inhibitors, derived from RPR132331, 
+has led to the identification of RPR200765A, a development candidate for the 
+treatment of rheumatoid arthritis (RA). RPR200765A is a potent and selective 
+inhibitor of p38 MAP kinase (IC50 = 50 nM). It inhibits LPS-stimulated TNFalpha 
+release both in vitro, from human monocytes (EC50 = 110 nM), and in vivo in 
+Balb/c mice (ED50 = 6 mg/kg). At oral doses between 10 and 30 mg/kg/day it 
+reduces the incidence and progression in the rat streptococcal cell wall (SCW) 
+arthritis model when administered in either prophylactic or therapeutic dosing 
+regimens. The compound, which is a mesylate salt and exists as a stable 
+monohydrate, shows good oral bioavailabiltiy (F = 50% in the rat) and excellent 
+chemical stability. The data from the SCW disease model suggests that RPR200765A 
+could exhibit a profile of disease modifying activity in rheumatoid arthritis 
+(RA) patients which is not observed with current drug therapies.

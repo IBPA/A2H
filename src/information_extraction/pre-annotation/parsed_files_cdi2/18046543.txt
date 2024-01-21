@@ -1,0 +1,25 @@
+The expression of the negative Regulator of G protein signaling 16 (RGS16) is 
+rapidly induced in cardiomyocytes by various stimuli. To identify the promoter 
+of the mouse RGS16 gene, a 1.8-kb deoxyribonucleic acid fragment 5' of the 
+RGS16-coding region was subcloned into a firefly-luciferase reporter vector and 
+four overlapping fragments were analyzed. The luciferase production was 
+quantified in neonatal rat cardiac myocytes (NRCM). A 0.6-kb fragment that 
+induced a tenfold increase in luciferase activity contained the minimal promoter 
+sequence. Its activity was twofold stimulated by fetal calf serum, endothelin-1 
+(ET-1), and sphingosine 1-phosphate (S1P), which stimuli also elevated the level 
+of RGS16 protein. Stimulation of NRCM with ET-1 induced activation of the 
+monomeric GTPases RhoA and Rac1, whereas S1P and the selective S1P1 receptor 
+agonist SEW2871 only induced a pronounced activation of Rac1. In accordance, the 
+treatment with the Rho-, Rac-, and Cdc42-inactivating Clostridium difficile 
+Toxin B (TcdB) 10463 inhibited ET-1 and S1P-induced transcriptional activation. 
+The ET-1-induced activation was insensitive to pertussis toxin but selectively 
+suppressed by the RhoA-C-specific C2I-C3 ADP-ribosyl transferase and the ET(B) 
+receptor antagonist BQ788. The S1P-induced activation was specifically inhibited 
+by pertussis toxin and the Rac-inactivating TcdB 1470. All stimulated 
+transcriptional activity was abolished by the negative transcription factor Yin 
+Yang 1 (YY1), which binds to a consensus sequence within the minimal promoter. 
+Taken together, our data show that most likely ET(B)- and S1P1-receptors induce 
+RGS16 protein expression in cardiac myocytes by increasing the transcriptional 
+activity of the rgs16 gene. This activation is mediated by heterotrimeric G 
+proteins, Rho GTPases, and is under negative control of the transcription factor 
+YY1.

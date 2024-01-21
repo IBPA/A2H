@@ -1,0 +1,34 @@
+INTRODUCTION: Rheumatoid arthritis (RA) is a chronic autoimmune disease with 
+episodic flares in affected joints. However, how arthritic flare occurs only in 
+select joints during a systemic autoimmune disease remains an enigma. To better 
+understand these observations, we developed longitudinal imaging outcomes of 
+synovitis and lymphatic flow in mouse models of RA, and identified that 
+asymmetric knee flare is associated with ipsilateral popliteal lymph node (PLN) 
+collapse and the translocation of CD23(+)/CD21(hi) B-cells (B-in) into the 
+paracortical sinus space of the node. In order to understand the relationship 
+between this B-in translocation and lymph drainage from flaring joints, we 
+tested the hypothesis that asymmetric tumor necrosis factor (TNF)-induced knee 
+arthritis is associated with ipsilateral PLN and iliac lymph node (ILN) 
+collapse, B-in translocation, and decreased afferent lymphatic flow.
+METHODS: TNF transgenic (Tg) mice with asymmetric knee arthritis were identified 
+by contrast-enhanced (CE) magnetic resonance imaging (MRI), and PLN were 
+phenotyped as "expanding" or "collapsed" using LNcap threshold = 30 (Arbitrary 
+Unit (AU)). Inflammatory-erosive arthritis was confirmed by histology. Afferent 
+lymphatic flow to PLN and ILN was quantified by near infrared imaging of 
+injected indocyanine green (NIR-ICG). The B-in population in PLN and ILN was 
+assessed by immunohistochemistry (IHC) and flow cytometry. Linear regression 
+analyses of ipsilateral knee synovial volume and afferent lymphatic flow to PLN 
+and ILN were performed.
+RESULTS: Afferent lymph flow to collapsed nodes was significantly lower (P < 
+0.05) than flow to expanding nodes by NIR-ICG imaging, and this occurred 
+ipsilaterally. While both collapsed and expanding PLN and ILN had a significant 
+increase (P < 0.05) of B-in compared to wild type (WT) and pre-arthritic TNF-Tg 
+nodes, B-in of expanding lymph nodes (LN) resided in follicular areas while B-in 
+of collapsed LN were present within LYVE-1+ lymphatic vessels. A significant 
+correlation (P < 0.002) was noted in afferent lymphatic flow between ipsilateral 
+PLN and ILN during knee synovitis.
+CONCLUSIONS: Asymmetric knee arthritis in TNF-Tg mice occurs simultaneously with 
+ipsilateral PLN and ILN collapse. This is likely due to translocation of the 
+expanded B-in population to the lumen of the lymphatic vessels, resulting in a 
+dramatic decrease in afferent lymphatic flow. PLN collapse phenotype can serve 
+as a new biomarker of knee flare.

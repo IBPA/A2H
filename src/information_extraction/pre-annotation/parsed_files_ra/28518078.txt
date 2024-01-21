@@ -1,0 +1,19 @@
+This paper describes a non-invasive method for imaging matrix metalloproteinases 
+(MMP)-activity by an activatable fluorescent probe, via in vivo fluorescence 
+optical imaging (OI), in two different mouse models of inflammation: a 
+rheumatoid arthritis (RA) and a contact hypersensitivity reaction (CHR) model. 
+Light with a wavelength in the near infrared (NIR) window (650 - 950 nm) allows 
+a deeper tissue penetration and minimal signal absorption compared to 
+wavelengths below 650 nm. The major advantages using fluorescence OI is that it 
+is cheap, fast and easy to implement in different animal models. Activatable 
+fluorescent probes are optically silent in their inactivated states, but become 
+highly fluorescent when activated by a protease. Activated MMPs lead to tissue 
+destruction and play an important role for disease progression in delayed-type 
+hypersensitivity reactions (DTHRs) such as RA and CHR. Furthermore, MMPs are the 
+key proteases for cartilage and bone degradation and are induced by macrophages, 
+fibroblasts and chondrocytes in response to pro-inflammatory cytokines. Here we 
+use a probe that is activated by the key MMPs like MMP-2, -3, -9 and -13 and 
+describe an imaging protocol for near infrared fluorescence OI of MMP activity 
+in RA and control mice 6 days after disease induction as well as in mice with 
+acute (1x challenge) and chronic (5x challenge) CHR on the right ear compared to 
+healthy ears.

@@ -1,0 +1,23 @@
+Clostridioides (formerly Clostridium) difficile is a Gram-positive anaerobic 
+bacterial pathogen that causes severe gastrointestinal infection in humans. The 
+current chemotherapeutic options are vastly inadequate, expensive and limited; 
+this results in an exorbitant medical and financial burden. New, inexpensive 
+chemotherapeutic treatments for C. difficile infection with improved efficacy 
+are urgently needed. A streamlined synthetic pathway was developed to allow 
+access to 38 novel mono- and di-cationic biaryl 1,2,3-triazolyl peptidomimetics 
+with increased synthetic efficiency, aqueous solubility and enhanced 
+antibacterial efficacy. The monocationic arginine derivative 28 was identified 
+as a potent, Gram-positive selective antibacterial with MIC values of 4 μg/mL 
+against methicillin-resistant Staphylococcus aureus and 8 μg/mL against 
+C. difficile. Furthermore, the dicationic bis-triazole analogue 50 was found to 
+exhibit broad-spectrum activity with substantial Gram-negative efficacy against 
+Acinetobacter baumannii (8 μg/mL), Pseudomonas aeruginosa (8 μg/mL) and 
+Klebsiella pneumoniae (16 μg/mL); additionally, compound 50 displayed reduced 
+haemolytic activity (<13%) in an in vitro haemolysis assay. Membrane-disruption 
+assays were conducted on selected derivatives to confirm the membrane-active 
+mechanism of action inherent to the synthesized amphiphilic compounds. A 
+comparative solubility assay was developed and utilized to optimize the aqueous 
+solubility of the compounds for in vivo studies. The biaryl peptidomimetics 28 
+and 67 were found to exhibit significant efficacy in an in vivo murine model of 
+C. difficile infection by reducing the severity and slowing the onset of 
+disease.

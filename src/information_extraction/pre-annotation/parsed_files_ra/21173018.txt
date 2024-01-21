@@ -1,0 +1,25 @@
+OBJECTIVES: Increasing evidence suggests that oxidative stress may play a key 
+role in joint destruction due to rheumatoid arthritis (RA). The aim of this 
+study was to elucidate the role of nuclear factor erythroid 2-related factor 2 
+(Nrf2), a transcription factor that maintains the cellular defence against 
+oxidative stress, in RA.
+METHODS: The activation status of Nrf2 was assessed in synovial tissue from 
+patients with RA using immunohistochemistry. Antibody-induced arthritis (AIA) 
+was induced in Nrf2-knockout and Nrf2-wild-type control mice. The severity of 
+cartilage destruction was evaluated using a damage score. The extent of 
+oxidative stress, the activation state of Nrf2 and the expression level of Nrf2 
+target genes were analysed by immunhistological staining. The expression of 
+vascular endothelial growth factor (VEGF)-A was examined on mRNA and protein 
+using the Luminex technique. A Xenogen imaging system was used to measure Nrf2 
+activity in an antioxidant response element-luciferase transgenic mouse during 
+AIA.
+RESULTS: Nrf2 was activated in the joints of arthritic mice and of patients with 
+RA. Nrf2-knockout mice had more severe cartilage injuries and more oxidative 
+damage, and the expression of Nrf2 target genes was enhanced in Nrf2-wild-type 
+but not in knockout mice during AIA. Both VEGF-A mRNA and protein expression was 
+upregulated in Nrf2-knockout mice during AIA. An unexpected finding was the 
+number of spontaneously fractured bones in Nrf2-knockout mice with AIA.
+CONCLUSION: These results provide strong evidence that oxidative stress is 
+significantly involved in cartilage degradation in experimental arthritis, and 
+indicate that the presence of a functional Nrf2 gene is a major requirement for 
+limiting cartilage destruction.

@@ -1,0 +1,27 @@
+Spleen tyrosine kinase (Syk) is involved in regulation of B-cell receptor (BCR) 
+and Fc receptor downstream signal pathways. Syk plays an essential role in 
+production of inflammatory mediators and differentiation in various immune cells 
+and is therefore an attractive target for treating inflammatory conditions, such 
+as autoimmune and allergic diseases. We identified TAS05567 as a highly 
+selective Syk inhibitor and evaluated its therapeutic potential in animal 
+models. In vitro biochemical assays were performed with available kinase assay 
+panels. Inhibitory effects of TAS05567 on immune cells were analyzed by 
+assessing the Syk downstream signaling pathway and production of inflammatory 
+factors. In vivo effects of TAS05567 were evaluated in animal models of 
+autoimmune diseases and antigen-specific IgE transgenic mice. TAS05567 inhibited 
+only 4 of 191 kinases tested but inhibited Syk enzymatic activity with high 
+potency. TAS05567 inhibited BCR-dependent signal transduction in Ramos cells, 
+FcγR-mediated tumor necrosis factor-α production in THP-1 cells, and 
+FcεR-mediated histamine release from RBL-2H3 cells. In rheumatoid arthritis 
+models, TAS05567 suppressed hind-paw swelling in a dose-dependent manner 
+compared with vehicle. Moreover, TAS05667 markedly reduced histopathologic 
+scores in an established rat arthritis model. In a mouse immune thrombocytopenic 
+purpura model, platelet counts were reduced with injection of anti-platelet 
+antibody. TAS05567 prevented the platelet count decrease in a dose-dependent 
+manner. Finally, TAS05567 treatment suppressed IgE-mediated ear swelling in 
+vivo. Collectively, our data indicate TAS05567 is a selective Syk inhibitor and 
+potential therapeutic candidate for treating humoral immune-mediated 
+inflammatory conditions such as autoimmune and allergic diseases.
+
+Copyright © 2018 by The American Society for Pharmacology and Experimental 
+Therapeutics.

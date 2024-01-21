@@ -1,0 +1,27 @@
+OBJECTIVE: SH3 domain-binding protein 2 (SH3BP2) is a signaling adapter protein 
+that regulates the immune and skeletal systems. The present study was undertaken 
+to investigate the role of SH3BP2 in arthritis using 2 experimental mouse 
+models, i.e., human tumor necrosis factor α-transgenic (hTNF-Tg) mice and mice 
+with collagen-induced arthritis (CIA).
+METHODS: First, Sh3bp2(-/-) and wild-type (Sh3bp2(+/+) ) mice were crossed with 
+hTNF-Tg mice. Inflammation and bone loss were examined by clinical inspection 
+and histologic and micro-computed tomography analysis, and osteoclastogenesis 
+was evaluated using primary bone marrow-derived macrophage colony-stimulating 
+factor-dependent macrophages (BMMs). Second, CIA was induced in Sh3bp2(-/-) and 
+Sh3bp2(+/+) mice, and the incidence and severity of arthritis were evaluated. 
+Anti-mouse type II collagen (CII) antibody levels were measured by enzyme-linked 
+immunosorbent assay, and lymph node cell responses to CII were determined.
+RESULTS: SH3BP2 deficiency did not alter the severity of joint swelling but did 
+suppress bone erosion in the hTNF-Tg mouse model. Bone loss at the talus and 
+tibia was prevented in Sh3bp2(-/-) /hTNF-Tg mice compared to Sh3bp2(+/+) 
+/hTNF-Tg mice. RANKL- and TNFα-induced osteoclastogenesis was suppressed in 
+Sh3bp2(-/-) mouse BMM cultures. NF-ATc1 nuclear localization in response to TNFα 
+was decreased in Sh3bp2(-/-) mouse BMMs compared to Sh3bp2(+/+) mouse BMMs. In 
+the CIA model, SH3BP2 deficiency suppressed the incidence of arthritis and this 
+was associated with decreased anti-CII antibody production, while 
+antigen-specific T cell responses in lymph nodes were not significantly 
+different between Sh3bp2(+/+) and Sh3bp2(-/-) mice.
+CONCLUSION: SH3BP2 deficiency prevents loss of bone via impaired 
+osteoclastogenesis in the hTNF-Tg mouse model and suppresses the induction of 
+arthritis via decreased autoantibody production in the CIA model. Therefore, 
+SH3BP2 could potentially be a therapeutic target in rheumatoid arthritis.

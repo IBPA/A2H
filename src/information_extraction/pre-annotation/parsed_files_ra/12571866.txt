@@ -1,0 +1,25 @@
+OBJECTIVE: DA rats are highly susceptible to experimental models of rheumatoid 
+arthritis (RA). Linkage analyses in different models have identified several 
+quantitative trait loci (QTLs) within a 70-cM region of DA rat chromosome 4 
+(C4). We produced congenic strains for these QTLs in order to map and 
+characterize their impact on arthritis development.
+METHODS: Selective breeding was used to transfer C4 intervals from 
+arthritis-resistant PVG.1AV1 rats onto DA rats. These congenic strains were 
+evaluated for susceptibility to arthritis induced by intradermal injection of 
+rat type II collagen, pristane (a well-defined synthetic adjuvant oil), 
+mycobacteria, or squalene (an endogenous adjuvant oil used in human vaccine).
+RESULTS: Rats congenic for PVG.1AV1 genes in the 70-cM region were less 
+susceptible than DA rats to collagen-induced arthritis (CIA), pristane-induced 
+arthritis, adjuvant-induced arthritis, and squalene-induced arthritis (SIA). 
+Experiments in subcongenic strains indicated a gene regulating arthritis in 
+males located in a 20-cM interval overlapping the QTL Pia5. A second gene, 
+located in a 10-cM interval harboring the QTL Oia2, attenuated SIA and CIA. The 
+latter caused a change in anticollagen antibody isotype levels toward a pattern 
+similar to that seen in PVG.1AV1 rats.
+CONCLUSION: The QTL Oia2 regulates arthritis induced both by the nonimmunogenic 
+immunostimulant squalene and by cartilage collagen. In CIA, it also skews 
+anticollagen isotype profiles, suggesting qualitative regulation of 
+autoimmunity. Interestingly, the homologous human chromosome region 12p12-p13 
+has also been linked to RA, suggesting that genetic and functional dissection of 
+this locus will provide clues to disease pathways that lead to joint 
+inflammation.

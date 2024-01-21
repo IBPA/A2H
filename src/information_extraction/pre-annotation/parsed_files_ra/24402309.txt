@@ -1,0 +1,22 @@
+Rheumatoid arthritis (RA) is one of the major autoimmune diseases with a global 
+prevalence. Despite significant research into this disease, no drugs with 
+acceptable safety profiles are yet available for its treatment. We investigated 
+the possible anti-arthritic effects of the 4-methylhistamine (4-MeH) histamine 4 
+receptor (H4R) agonist and the JNJ77777120 (JNJ) H4R antagonist to explore the 
+role of H4R in a mouse model of collagen antibody-induced arthritis (CAIA). 
+Arthritis was induced via intravenous (tail vein) injection of Balb/c mice with 
+a 5-clone cocktail of mAbs against collagen type II, followed by LPS, and the 
+effects of treatment with 4-MeH or JNJ (30 mg kg(-1), i.p, twice daily) for 7 
+days (prophylactic or therapeutic regimens) were assessed. The results revealed 
+increased paw edema, arthritic scores, joint histological inflammatory damage 
+and matrix metalloproteinase-3 levels and high levels of Th1 pro-inflammatory 
+cytokine mRNA and serum proteins in CAIA mice or following H4R activation via 
+4-MeH. Additionally, 4-MeH efficiently increased expression levels of NF-κB p65. 
+JNJ-treated mice showed a substantial reduction in all the previously mentioned 
+effects, with a similar trend being observed under prophylactic and therapeutic 
+treatment regimens. The results of the present work indicate that JNJ exhibits 
+significant anti-inflammatory and anti-arthritic activities, demonstrating the 
+clear involvement of H4R antagonism in the pathogenesis and progression of RA.
+
+© The Japanese Society for Immunology. 2014. All rights reserved. For 
+permissions, please e-mail: journals.permissions@oup.com.

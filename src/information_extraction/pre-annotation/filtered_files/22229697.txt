@@ -1,0 +1,29 @@
+BACKGROUND AND PURPOSE: Translational animal models are essential in the 
+prediction of the efficacy and side effects of new chemical entities. We have 
+carried out a thorough study of three distinct disease-modifying antirheumatic 
+drugs (DMARDs) in an adjuvant-induced arthritis (AIA) model in the rat and 
+critically appraised the results in the context of the reported clinical 
+experience in rheumatoid arthritis (RA) patients.
+EXPERIMENTAL APPROACH: Teriflunomide - a dihydroorotate dehydrogenase (DHODH) 
+inhibitor; AL8697 - a selective p38 MAPK inhibitor; and tofacitinib - a Janus 
+kinase (JAK) inhibitor; were selected as representatives of their class and 
+dose-response studies carried out using a therapeutic 10-day administration 
+scheme in arthritic rats. Paw swelling and body weight were periodically 
+monitored, and joint radiology and histology, lymph organ weight and 
+haematological and biochemical parameters evaluated at study completion.
+KEY RESULTS: All three drugs demonstrated beneficial effects on paw swelling, 
+bone lesions and splenomegalia, with p38 inhibition providing the best 
+anti-inflammatory effect and JAK inhibition the best DMARD effect. Leukopenia, 
+body weight loss and gastrointestinal toxicity were dose-dependently observed 
+with teriflunomide treatment. p38 MAPK inhibition induced leukocytosis and 
+increased total plasma cholesterol. JAK inhibition, normalized platelet, 
+reticulocyte and neutrophil counts, and alanine aminotransferase (ALT) levels 
+while inducing lymphopenia and cholesterolemia.
+CONCLUSIONS AND IMPLICATIONS: This multiparametric approach can reveal specific 
+drug properties and provide translational information. Whereas the complex 
+profile for p38 inhibition in AIA is not observed in human RA, 
+immunosuppressants such as DHODH and JAK inhibitors show DMARD properties and 
+side effects seen in both AIA and RA.
+
+© 2012 The Authors. British Journal of Pharmacology © 2012 The British 
+Pharmacological Society.

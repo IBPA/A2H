@@ -1,0 +1,14 @@
+It is well established that arthritis depresses locomotion in humans as well as 
+in animal disease models. The K/BxN mouse model resembles rheumatoid arthritis 
+and is widely used for research. Here, we investigate the behavioral alterations 
+of arthritic K/BxN mice during arthritis development with respect to horizontal 
+locomotion. Locomotor activity measurements and the methodology of ankle 
+thickness measurements are compared to demonstrate the feasibility of motion 
+tracking in the K/BxN mouse model. Arthritic K/BxN mice show significantly 
+decreased locomotion compared to their non-arthritis K/BxN littermates. We found 
+an indirect correlation of ankle thickness and locomotor activity. However, both 
+parameters are only partially interdependent resulting in temporal displacement 
+of maximal ankle swelling and maximal depression of locomotion by 1 week. 
+Assessing the impaired movement as a behavioral test appears to be a valuable 
+multifactorial parameter for the evaluation of arthritis in the K/BxN mouse 
+model and provides additional information on disease progression and severity.

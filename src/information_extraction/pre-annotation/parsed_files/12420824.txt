@@ -1,0 +1,21 @@
+OBJECTIVES: To assess the diagnostic yield of a routine fecal panel and 
+determine whether Clostridium perfringens or C difficile toxin production is 
+associated with acute hemorrhagic diarrheal syndrome (AHDS) in dogs.
+DESIGN: Case-control study.
+ANIMALS: 260 dogs with diarrhea and 177 dogs with normal feces.
+PROCEDURE: Medical records were reviewed for results of culture for C difficile, 
+Campylobacterspp, and Salmonella spp; C perfringens fecal enterotoxin (CPE) 
+assay via ELISA or reverse passive latex agglutination (RPLA) assay; fecal 
+endospore enumeration; C difficile toxin A assay; and parasite evaluation.
+RESULTS: Prevalence of CPE in dogs with diarrhea was 22/154 (14.3%) via ELISA 
+and 47/104 (45.2%) via RPLA assay, versus 9/74 (12%) via ELISA and 26/103 (25%) 
+via RPLA assay in control dogs. Prevalence of C difficile was 47/260 (18%) in 
+dogs with diarrhea and 41/74 (55%) in control dogs. Prevalence of C difficile 
+toxin A was 26/254 (10.2%) in dogs with diarrhea and 0/74 in control dogs. 
+Diagnosis of AHDS was made in 27 dogs; 8 had positive results for CPE, 7 had 
+positive results for toxin A, and 1 had positive results for both toxins. 
+Campylobacter spp were isolated from 13 of 260 (5%) dogs with diarrhea and 21 of 
+74 (28.4%) control dogs. Salmonella spp were isolated from 3 (1.2%) dogs with 
+diarrhea.
+CONCLUSIONS AND CLINICAL RELEVANCE: Diagnostic value of a fecal panel in dogs 
+with diarrhea appears to be low.

@@ -1,0 +1,21 @@
+Clostridium difficile flagellin FliC is a highly immunogenic pathogen-associated 
+molecular pattern playing a key role in C. difficile pathogenesis and gut 
+colonization. Here, we designed an oral vaccine against C. difficile with FliC 
+encapsulated into pectin beads for colonic release. Bead stability and FliC 
+retention was confirmed in vitro using simulated intestinal media (SIM), while 
+bead degradation and FliC release was observed upon incubation in simulated 
+colonic media (SCM). The importance of FliC encapsulation into pectin beads for 
+protection against C. difficile was assessed in a vaccination assay using a 
+lethal hamster model of C. difficile infection. Three groups of hamsters orally 
+received either FliC-loaded beads or unloaded beads in gastro-resistant capsule 
+to limit gastric degradation or free FliC. Two other groups were immunized with 
+free FliC, one intra-rectally and the other intra-peritoneally. Hamsters were 
+then challenged with a lethal dose of C. difficile VPI 10463. Fifty percent of 
+hamsters orally immunized with FliC-loaded beads survived whereas all hamsters 
+orally immunized with free FliC died within 7 days post challenge. No 
+significant protection was observed in the other groups. Only intra-peritoneally 
+immunized hamsters presented anti-FliC IgG antibodies in sera after 
+immunizations. These results suggest that an oral immunization with FliC-loaded 
+beads probably induced a mucosal immune response, therefore providing a 
+protective effect. This study confirms the importance of FliC encapsulation into 
+pectin beads for a protective oral vaccine against C. difficile.

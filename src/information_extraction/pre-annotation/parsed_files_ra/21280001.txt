@@ -1,0 +1,28 @@
+OBJECTIVE: Rheumatoid arthritis culminates in joint destruction that, in mouse 
+models of disease, is supported by innate immune molecules, including Fcγ 
+receptors (FcγR) and complement. However, these findings may not be predictive 
+of the outcome in humans, given the structural differences between murine and 
+human activating FcγR on neutrophils, a prominent component of joint exudates. 
+The aim of this study was to examine the role of human neutrophil FcγRIIa in the 
+development of arthritis and probe the underlying mechanism by which FcγRIIa 
+initiates disease.
+METHODS: K/BxN mouse serum transfer-induced arthritis was examined in mice 
+expressing human FcγRIIa on neutrophils but lacking their own activating FcγR 
+(γ-chain-deficient mice). The role of mast cells, complement (C3 and C5a), and 
+CD18 integrins in FcγRIIa-initiated disease was examined using cell 
+reconstitution approaches, inhibitors, and functional blocking antibodies, 
+respectively. Crosstalk between the complement receptor C5aR and FcγRIIa on 
+neutrophils was evaluated in vitro.
+RESULTS: The expression of human FcγRIIa on neutrophils was sufficient to 
+restore susceptibility to K/BxN serum-induced neutrophil recruitment, synovitis, 
+and bone destruction in γ-chain-deficient mice. Joint inflammation was robust 
+and proceeded even in the absence of mast cells and vascular permeability, 
+features shown to contribute to disease in wild-type mice. Neutrophil 
+recruitment was dependent on the presence of a CD18 integrin, lymphocyte 
+function-associated antigen 1, and C5aR. In addition, C5aR significantly 
+enhanced FcγRIIa-mediated phagocytosis and oxidative burst in vitro.
+CONCLUSION: Human and murine activating FcγR on neutrophils are not functionally 
+equivalent, and in humans, they may play a primary role in arthritis. Crosstalk 
+between neutrophil C5aR and FcγRIIa is essential for disease progression, thus 
+highlighting a new aspect of complement during the effector phase of 
+inflammatory arthritis.

@@ -1,0 +1,19 @@
+Rheumatoid arthritis (RA) is a chronic autoimmune disease characterized by 
+chronic synovitis. This study aims to investigate the role of sonic hedgehog 
+(SHH)-Gli signaling pathway in synovial fibroblast proliferation in rheumatoid 
+arthritis. The expression of serum SHH in RA patients group was significantly 
+increased compared with the systemic lupus erythematosus (SLE), ankylosing 
+spondylitis (AS), and healthy subject (healthy control, HC) groups, 
+respectively; serum SHH expression of RA patients was positively correlated with 
+rheumatoid factor (RF) and anti-cyclic citrullinated peptide antibodies 
+(anti-CCP Ab), while there was no significant correlation between SHH expression 
+and erythrocyte sedimentation rate (ESR). SHH, Ptch, Smo, and Gli molecules were 
+highly expressed in rat RA-synovial fibroblast (RA-SF); after blocking the 
+SHH-Gli signaling pathway with a Gli specific inhibitor, Gli-antagonist 61 
+(GANT61), RA-SF proliferation was inhibited in a dose-dependent manner and the 
+apoptosis rate of RA-SF was increased as well; the expression levels of 
+fibroblast growth factor receptor 1 (FGFR1) and FGFR3 declined in SF cells after 
+GANT61 treatment. Our results suggest that SHH-Gli pathway is involved in the 
+pathogenesis of RA, and blocking SHH-Gli pathway inhibits RA-SF cell 
+proliferation and increases cell apoptosis, which may shed light on developing 
+new ideas for RA treatment.

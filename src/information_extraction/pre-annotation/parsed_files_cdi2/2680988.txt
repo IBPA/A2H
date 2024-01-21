@@ -1,0 +1,23 @@
+Clostridium difficile pathogenicity is related to in vivo production of toxins, 
+and it is of great interest to detect toxins produced in biological samples. 
+Several reports have shown that proteases in stools interfere with immunological 
+methods for quantitation of toxin A. The purpose of this work was to estimate 
+the relationship between the proteases and the C. difficile toxins produced in a 
+gnotobiotic mouse model of pseudomembranous cecitis. Cecal proteolytic 
+activities hydrolyzed toxin A, and immunoglobulin G bound to the microtiter 
+plate used in immunoassays. This interference could be blocked by the addition 
+of trypsin inhibitor to the samples. The ability of soluble toxin A to bind to 
+bound antibodies in an enzyme-linked immunosorbent assay was not affected by the 
+proteases, but the biological activity was reduced 100-fold. The cytotoxicity of 
+toxin B was not modified by proteolytic activity treatment. Mice inoculated with 
+a low toxin A-producing strain of C. difficile did not died, and no modulation 
+of proteolytic activities occurred. After inoculation with the lethal VPI strain 
+of C. difficile, toxins A and B reached maximum levels in the ceca at 12 h 
+postinfection. At this time, the proteolytic activities did not decrease from 
+the levels seen at zero time. Mice died within 2 days. At this time (about 32 
+postinfection), proteolytic activities were sharply decreased in the lower parts 
+of the digestive tracts. The findings that serum inhibited the proteases and 
+that there was a 100-fold increase in serum-derived mouse immunoglobulins in the 
+lumen as the C. difficile infection progressed suggest that the decrease in 
+protease activity in the lower digestive tract may be related to the exudation 
+of serum from the inflammation process.

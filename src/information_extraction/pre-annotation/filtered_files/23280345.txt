@@ -1,0 +1,22 @@
+Rheumatoid arthritis (RA) is a chronic autoimmune inflammatory disease that 
+mainly causes the synovial joint inflammation and cartilage destruction. Both 
+interleukin-1β (IL-1β) and Interleukin-17 (IL-17) are important proinflammatory 
+cytokines involved in the pathogenesis of RA. We investigated whether 
+combination therapy with IL-1β and IL-17A antibodies would generate the 
+potential for synergistic effects on a collagen-induced arthritis (CIA) mouse 
+model. Mice with CIA were subcutaneously injected with humanized IL-1β antibody, 
+IL-17A antibody, or combination treatment. The effects of treatment were 
+determined by arthritis severity score, histological damage and bone 
+destruction, autoreactive humoral and cellular immune responses and cytokine 
+production. Treatment with IL-1β antibody or IL-17A antibody alone resulted in 
+beneficial effects on clinical and histological parameters of CIA mice. Compared 
+with the single antibody treatments, the combination therapy resulted in a more 
+significant effect in alleviating the severity of arthritis by preventing bone 
+damage and cartilage destruction, reducing humoral and cellular immune 
+responses, and down-regulating the expression of IL-1β, IL-6, IL-17A, IFN-γ, 
+RANKL and MMP-3 in inflammatory tissue. In conclusion, combination treatment 
+with humanized IL-1β and IL-17A antibodies demonstrates synergistic beneficial 
+effects for preventing joint inflammation and cartilage destruction and bone 
+damage in CIA mice model. These studies also provide evidence that combination 
+with IL-1β and IL-17A antibodies may lead to a new combinatorial therapy for RA 
+patients.

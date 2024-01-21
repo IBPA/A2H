@@ -1,0 +1,13 @@
+A common theme found in studies with mouse models of autoimmune diseases is that 
+pathogenic T cells are primarily responsible for the pathology. Such models 
+include diabetes in non-obese diabetic (NOD) mice, experimental autoimmune 
+encephalomyelitis (EAE)-a model of multiple sclerosis (MS), collagen II 
+(CII)-induced arthritis (CIA)-a model of rheumatoid arthritis (RA). Pathogenic T 
+cells in EAE utilize a restricted repertoire of genes encoding the T-cell 
+receptor (TCR) (1). For example, upon immunization of H-2(u) mice with either 
+myelin basic protein, or its immunodominant fragment, peptide Ac1-20, the Vβ8.2 
+TCR gene product is expressed in the majority of pathogenic T cells (2-4). The 
+restricted usage of the Vβ8.2 TCR gene product has also been found in rats in 
+which EAE was induced by a peptide of myelin basic protein (5). Similarly, a 
+restriction in the TCR usage was found also in CII-induced arthritis in mice 
+(6,7), and in the TCR alpha chain usage in non-obese diabetic (NOD) mice (8).

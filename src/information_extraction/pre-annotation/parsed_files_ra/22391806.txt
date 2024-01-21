@@ -1,0 +1,24 @@
+OBJECTIVE: Chronic inflammation of the peripheral joints is a hallmark of 
+rheumatoid arthritis (RA). The autoantibody response in RA has been shown to be 
+directed mainly to ubiquitous antigens, whereas the response to cartilage 
+proteins has been less extensively investigated. This study was undertaken to 
+characterize the immune response in pristane-induced arthritis (PIA) in the rat 
+to the cartilage-specific proteins type II collagen (CII) and type XI collagen 
+(CXI) and to genetically fine-map their underlying major histocompatibility 
+complex (MHC) associations.
+METHODS: The genetic control of CII and CXI immunity was mapped using 
+intra-MHC-recombinant inbred strains immunized with the respective collagens. 
+Reactivity with CII and CXI was tested in acute and chronic PIA and in 356 
+HLA-typed patients with recently diagnosed RA.
+RESULTS: Mapping of arthritis susceptibility within the MHC region revealed a 
+144-223-kb locus containing <12 genes, including paralogs for HLA-DQ and HLA-DR. 
+Susceptibility to CII and CXI was linked to haplotypes RT1(av1) (DA) and RT1(f) 
+(DA.1F), respectively. After injection of pristane, rats of both strains 
+developed weak T cell and IgG responses to CII, but not to CXI. In chronic 
+arthritis, however, collagen reactivity was stronger, specific for CXI, and 
+restricted to rats with RT1(f) MHC. Among RA patients, 12% exhibited a specific 
+IgG response to CXI, 6% to CII, and 6% to both collagens.
+CONCLUSION: These findings demonstrate a shift in cartilage recognition in early 
+and chronic arthritis in the rat, suggesting that CXI autoreactivity contributes 
+to the perpetuation of chronic disease. The results provide evidence of the 
+importance of joint antigens in arthritis development.

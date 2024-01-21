@@ -1,0 +1,26 @@
+OBJECTIVE: To determine if the procatabolic activity of inflammatory synovial 
+fluids (SF) from patients with rheumatoid arthritis (RA) could be attenuated by 
+the cytokine antagonists murine leukemia inhibitory factor (LIF) binding protein 
+(mLBP) and interleukin 1 receptor antagonist (IL-1ra).
+METHODS: Pig articular cartilage explants were cultured in the presence of 
+either 20% v/v rheumatoid (RA) or osteoarthritic (OA) SF and varying 
+concentrations of either mLBP and/or IL-1ra. The catabolic activity of the SF 
+and the relative effects of mLBP and/or IL-1ra were assessed by determining the 
+percentage release of sulfated glycosaminoglycans from cartilage explants. LIF 
+concentrations were measured by ELISA.
+RESULTS: RA SF but not OA SF stimulated release of proteoglycans from pig 
+cartilage explants in vitro (47.3 +/- 2.2% vs 24.6 +/- 2.0%; p < 0.0001). Murine 
+LBP at 100 ng/ml and recombinant human (rh) IL-1ra at 5000 ng/ml produced a dose 
+dependent inhibition of this proteoglycan release (p < 0.0067 and p < 0.0111, 
+respectively). The RA SF stimulated proteoglycan release was attenuated by mLBP 
+and rhIL-1ra independently. No additive effect of this attenuation was observed 
+when maximal inhibitory doses were used in combination. The decrease in 
+proteoglycan release produced by mLBP correlated significantly with LIF 
+concentrations in RA SF.
+CONCLUSION: These findings are consistent with the concept that IL-1 stimulates 
+cartilage proteoglycan resorption in RA. They also support the hypothesis that 
+LIF, too, contributes to cartilage proteoglycan resorption in RA. The residual 
+stimulation not accounted for by IL-1 or LIF suggests other cytokines may 
+contribute. The role of LIF and related or unrelated cytokines may need to be 
+taken into account to optimize chondroprotection in RA and other rheumatic 
+diseases.

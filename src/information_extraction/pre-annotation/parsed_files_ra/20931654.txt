@@ -1,0 +1,25 @@
+OBJECTIVE: CD8+ T cells are part of the T cell pool infiltrating the synovium in 
+rheumatoid arthritis (RA). However, their role in the pathogenesis of RA has not 
+been fully delineated. Using the K/BxN mouse model of spontaneous chronic 
+arthritis, which shares many similarities with RA, we studied the potential of 
+CD8+ T cell depletion with monoclonal antibodies (mAb) to stop and reverse the 
+progression of experimental arthritis.
+METHODS: CD8+ T cells from the blood and articular infiltrate of K/BxN mice were 
+characterized for cell surface phenotypic markers and for cytokine production. 
+Additionally, mice were treated with specific anti-CD8 mAb (YTS105 and 
+YTS169.4), with and without thymectomy.
+RESULTS: CD8+ T cells from the peripheral blood and joints of K/BxN mice were 
+mainly CD69+ and CD62L-CD27+ T cells expressing proinflammatory cytokines 
+(interferon-γ [IFNγ], tumor necrosis factor α [TNFα], interleukin-17a [IL-17A], 
+and IL-4), and granzyme B. In mice receiving anti-CD8 mAb, the arthritis score 
+improved 5 days after treatment. Recovery of the CD8+ T cells was associated 
+with a new increase in the arthritis score after 20 days. In thymectomized and 
+anti-CD8 mAb-treated mice, the arthritis score improved permanently. Histologic 
+analysis showed an absence of inflammatory infiltrate in the anti-CD8 
+mAb-treated mice. In anti-CD8 mAb-treated mice, the serologic levels of TNFα, 
+IFNγ, IL-6, and IL-5 normalized. The levels of the disease-related 
+anti-glucose-6-phosphate isomerase antibodies did not change.
+CONCLUSION: These results indicate that synovial activated effector CD8+ T cells 
+locally synthesize proinflammatory cytokines (IFNγ, TNFα, IL-17, IL-6) and 
+granzyme B in the arthritic joint, thus playing a pivotal role in maintaining 
+chronic synovitis in the K/BxN mouse model of arthritis.

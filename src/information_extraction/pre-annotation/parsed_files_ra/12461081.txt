@@ -1,0 +1,13 @@
+A characteristic feature of rheumatoid arthritis is the abundance of 
+inflammatory cells in the diseased joint. Two major components of this 
+infiltrate are neutrophils in the synovial fluid and macrophages in the synovial 
+tissue. These cells produce cytokines including tumor necrosis factor alpha and 
+other proinflammatory mediators that likely drive the disease through its 
+effector phases. To investigate what mechanisms underlie the recruitment of 
+these cells into the synovial fluid and tissue, we performed expression analyses 
+of chemoattractant receptors in a related family that includes the anaphylatoxin 
+receptors and the formyl-MetLeuPhe receptor. We then examined the effect of 
+targeted disruption of two abundantly expressed chemoattractant receptors, the 
+receptors for C3a and C5a, on arthritogenesis in a mouse model of disease. We 
+report that genetic ablation of C5a receptor expression completely protects mice 
+from arthritis.

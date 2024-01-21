@@ -1,0 +1,10 @@
+TcdB from Clostridium difficile glucosylates small GTPases (Rho, Rac, and Cdc42) 
+and is an important virulence factor in the human disease pseudomembranous 
+colitis. In these experiments, in-frame genetic fusions between the genes for 
+the 255 amino-terminal residues of anthrax toxin lethal factor (LFn) and the 
+TcdB(1-556) coding region were constructed, expressed, and purified from 
+Escherichia coli. LFnTcdB(1-556) was enzymatically active and glucosylated 
+recombinant RhoA, Rac, Cdc42, and substrates from cell extracts. LFnTcdB(1-556) 
+plus anthrax toxin protective antigen intoxicated cultured mammalian cells and 
+caused actin reorganization and mouse lethality, all similar to those caused by 
+wild-type TcdB.

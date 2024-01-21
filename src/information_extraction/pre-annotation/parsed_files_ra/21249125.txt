@@ -1,0 +1,30 @@
+BACKGROUND: The ten mouse and six human members of the Schlafen (Slfn) gene 
+family all contain an AAA domain. Little is known of their function, but 
+previous studies suggest roles in immune cell development. In this report, we 
+assessed Slfn regulation and function in macrophages, which are key cellular 
+regulators of innate immunity.
+METHODOLOGY/PRINCIPAL FINDINGS: Multiple members of the Slfn family were 
+up-regulated in mouse bone marrow-derived macrophages (BMM) by the Toll-like 
+Receptor (TLR)4 agonist lipopolysaccharide (LPS), the TLR3 agonist Poly(I∶C), 
+and in disease-affected joints in the collagen-induced model of rheumatoid 
+arthritis. Of these, the most inducible was Slfn4. TLR agonists that signal 
+exclusively through the MyD88 adaptor protein had more modest effects on Slfn4 
+mRNA levels, thus implicating MyD88-independent signalling and autocrine 
+interferon (IFN)-β in inducible expression. This was supported by the 
+substantial reduction in basal and LPS-induced Slfn4 mRNA expression in 
+IFNAR-1⁻/⁻ BMM. LPS causes growth arrest in macrophages, and other Slfn family 
+genes have been implicated in growth control. Slfn4 mRNA levels were repressed 
+during macrophage colony-stimulating factor (CSF-1)-mediated differentiation of 
+bone marrow progenitors into BMM. To determine the role of Slfn4 in vivo, we 
+over-expressed the gene specifically in macrophages in mice using a csf1r 
+promoter-driven binary expression system. Transgenic over-expression of Slfn4 in 
+myeloid cells did not alter macrophage colony formation or proliferation in 
+vitro. Monocyte numbers, as well as inflammatory macrophages recruited to the 
+peritoneal cavity, were reduced in transgenic mice that specifically 
+over-expressed Slfn4, while macrophage numbers and hematopoietic activity were 
+increased in the livers and spleens.
+CONCLUSIONS: Slfn4 mRNA levels were up-regulated during macrophage activation 
+but down-regulated during differentiation. Constitutive Slfn4 expression in the 
+myeloid lineage in vivo perturbs myelopoiesis. We hypothesise that the 
+down-regulation of Slfn4 gene expression during macrophage differentiation is a 
+necessary step in development of this lineage.

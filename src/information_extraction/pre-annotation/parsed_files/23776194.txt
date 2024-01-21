@@ -1,0 +1,10 @@
+Clostridium difficile is currently the leading cause of hospital-acquired 
+infections in the United States. Here, we observed increased interleukin 23 
+(IL-23) protein levels in human colon biopsy specimens positive for C. difficile 
+toxins, compared with levels in negative controls (P = .008) We also 
+investigated the role of IL-23 during C. difficile infection, using 2 distinct 
+murine models. Mice lacking IL-23 signaling had a significant increase in 
+survival (100% [12 mice]), compared with control mice (16.7%-50% [12 mice]). 
+These data suggest a new potential drug target for human C. difficile treatment 
+and indicate the first link between IL-23 and disease severity during murine 
+infection.

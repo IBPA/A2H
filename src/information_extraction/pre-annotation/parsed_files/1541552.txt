@@ -1,0 +1,13 @@
+Clostridium septicum lethal (alpha-toxin) was purified and found to be a basic 
+protein (pI 8.4) of approximately 48 kDa that is both lethal and hemolytic. The 
+alpha-toxin had a hemolytic activity of approximately 2 x 10(7) hemolytic units 
+per mg and a 50% lethal dose of approximately 10 micrograms/kg of body weight 
+for mice. The alpha-toxin formed concentration-dependent, sodium dodecyl 
+sulfate-resistant aggregates of approximately 230 kDa. Mice immunized with 
+alpha-toxin showed a significant increase in survival time over mock-immunized 
+mice when challenged with C. septicum. Rabbit polyclonal antibody was generated 
+against the purified toxin and was used to confirm that toxin with the same 
+molecular weight was present in seven different C. septicum isolates. No 
+proteins in the supernatants from cultures of Clostridium perfringens, 
+Clostridium histolyticum, Clostridium chauvoei, or Clostridium difficile were 
+found to react with the C. septicum alpha-toxin-specific antibody.

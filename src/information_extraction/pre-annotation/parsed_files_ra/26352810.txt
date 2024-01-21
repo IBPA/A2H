@@ -1,0 +1,27 @@
+Tumour Necrosis Factor-α (TNF-α) inhibition has been transformational in the 
+treatment of patients with inflammatory disease, e.g. rheumatoid arthritis. 
+Intriguingly, TNF-α signals through two receptors, TNFR1 and TNFR2, which have 
+been associated with detrimental inflammatory and beneficial immune-regulatory 
+processes, respectively. To investigate if selective TNFR1 inhibition might 
+provide benefits over pan TNF-α inhibition, tools to investigate the potential 
+impact of pharmacological intervention are needed. Receptor-deficient mice have 
+been very insightful, but are not reversible and could distort receptor 
+cross-talk, while inhibitory anti-TNFR1 monoclonal antibodies have a propensity 
+to induce receptor agonism. Therefore, we set out to characterise a monovalent 
+anti-TNFR1 domain antibody (dAb) formatted for in vivo use. The mouse TNFR1 
+antagonist (DMS5540) is a genetic fusion product of an anti-TNFR1 dAb with an 
+albumin-binding dAb (AlbudAb). It bound mouse TNFR1, but not human TNFR1, and 
+was an antagonist of TNF-α-mediated cytotoxicity in a L929 cell assay. 
+Surprisingly, the dAb did not compete with TNF-α for TNFR1-binding. This was 
+supported by additional data showing the anti-TNFR1 epitope mapped to a single 
+residue in the first domain of TNFR1. Pharmacokinetic studies of DMS5540 in mice 
+over three doses (0.1, 1.0 and 10 mg/kg) confirmed extended in vivo half-life, 
+mediated by the AlbudAb, and demonstrated non-linear clearance of DMS5540. 
+Target engagement was further confirmed by dose-dependent increases in total 
+soluble TNFR1 levels. Functional in vivo activity was demonstrated in a mouse 
+challenge study, where DMS5540 provided dose-dependent inhibition of serum IL-6 
+increases in response to bolus mouse TNF-α injections. Hence, DMS5540 is a 
+potent mouse TNFR1 antagonist with in vivo pharmacokinetic and pharmacodynamic 
+properties compatible with use in pre-clinical disease models and could provide 
+a useful tool to dissect the individual contributions of TNFR1 and TNFR2 in 
+homeostasis and disease.

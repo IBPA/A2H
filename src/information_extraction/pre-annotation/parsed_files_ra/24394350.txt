@@ -1,0 +1,17 @@
+The involvement of autoreactive T cells in the pathogenesis of rheumatoid 
+arthritis (RA) as well as in autoimmune animal models of arthritis has been well 
+established; however, unanswered questions, such as the role of joint-homing T 
+cells, remain. Animal models of arthritis are superb experimental tools in 
+demonstrating how T cells trigger joint inflammation, and thus can help to 
+further our knowledge of disease mechanisms and potential therapies. In this 
+Review, we discuss the similarities and differences in T-cell subsets and 
+functions between RA and mouse arthritis models. For example, various T-cell 
+subsets are involved in both human and mouse arthritis, but differences might 
+exist in the cytokine regulation and plasticity of these cells. With regard to 
+joint-homing T cells, an abundance of synovial T cells is present in humans 
+compared with mice. On the other hand, local expansion of type 17 T-helper 
+(TH17) cells is observed in some animal models, but not in RA. Finally, whereas 
+T-cell depletion therapy essentially failed in RA, antibody targeting of T cells 
+can work, at least preventatively, in most arthritis models. Clearly, additional 
+human and animal studies are needed to fill the gap in our understanding of the 
+specific contribution of T-cell subsets to arthritis in mice and men.

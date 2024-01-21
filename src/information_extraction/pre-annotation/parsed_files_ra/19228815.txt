@@ -1,0 +1,23 @@
+Mast cell development is an important component of atopic and chronic 
+inflammatory diseases such as asthma, multiple sclerosis, rheumatoid arthritis, 
+and atherosclerosis. In this study, we found that IL-4 and IL-10 were produced 
+constitutively in cultures of developing mast cells, correlating with mast cell 
+purity. Deletion of either gene increased mast cell numbers and Fc epsilon RI 
+expression during culture in IL-3 + stem cell factor (SCF). By adding exogenous 
+IL-4 and IL-10 to bone marrow (BM) cultures containing IL-3 + SCF, we found that 
+IL-4 + IL-10 suppressed mast cell development through mechanisms not used by 
+either cytokine alone. IL-4 + IL-10 elicited a rapid cell death coincidental 
+with reduced Kit receptor expression and signaling and enhanced mitochondrial 
+damage and caspase activation. IL-4 or IL-10 costimulation, unlike either 
+cytokine alone, altered mast cell ontogeny to yield predominantly macrophages in 
+cultures that typically produce mast cells. This effect was observed 
+consistently with unseparated BM cells, purified mouse BM stem cells, and 
+erythrocyte-depleted human umbilical cord blood cells. These experiments 
+demonstrated a major role for Stat6 and Stat3, but not the Stat3-induced 
+transcriptional repressor Ets variant gene 3. Genetic background was also a 
+critical factor, as BALB/c-derived BM cells were completely resistant to 
+IL-10-mediated killing and expressed lower levels of IL-10R. Collectively, these 
+results support the theory that IL-4 and IL-10 function as endogenous regulators 
+of mast cell progenitor development, consistent with a role in immune 
+homeostasis. Loss of this homeostasis, perhaps via genetic polymorphism, could 
+contribute to the etiology of mast cell-associated disease.

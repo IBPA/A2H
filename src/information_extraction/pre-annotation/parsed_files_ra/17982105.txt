@@ -1,0 +1,22 @@
+IL-17A is a T cell-derived proinflammatory cytokine that contributes to the 
+pathogenesis of rheumatoid arthritis. Recently, six related molecules have been 
+identified to form the IL-17 family, as follows: IL-17A, IL-17B, IL-17C, IL-17D, 
+IL-17E, and IL-17F. Whereas IL-17A and IL-17F up-regulate IL-6 in synovial 
+fibroblasts, IL-17B and IL-17C are reported to stimulate the release of 
+TNF-alpha and IL-1beta from the monocytic cell line, THP-1 cell. However, their 
+detailed function remains to be elucidated. We report in this study the effects 
+of IL-17 family on the collagen-induced arthritis (CIA) progression by T cell 
+gene transfer and bone marrow chimeric mice. The mRNA expressions of IL-17 
+family (IL-17A, IL-17B, IL-17C, and IL-17F) and their receptor (IL-17R and 
+IL-17Rh1) genes in the arthritic paws of CIA mice were elevated compared with 
+controls. Although IL-17A and IL-17F were expressed in CD4(+) T cells, IL-17B 
+and IL-17C were expressed in the cartilage and in various cell populations in 
+the CIA arthritic paws, respectively. In vitro, IL-17A, IL-17B, IL-17C, and 
+IL-17F induced TNF-alpha production in mouse peritoneal exudate cells. In vivo, 
+adoptive transfer of IL-17B- and IL-17C-transduced CD4(+) T cells evidently 
+exacerbated arthritis. Bone marrow chimeric mice of IL-17B and IL-17C exhibited 
+elevated serum TNF-alpha concentration and the high arthritis score upon CIA 
+induction. Moreover, neutralization of IL-17B significantly suppressed the 
+progression of arthritis and bone destruction in CIA mice. Therefore, not only 
+IL-17A, but also IL-17B and IL-17C play an important role in the pathogenesis of 
+inflammatory arthritis.

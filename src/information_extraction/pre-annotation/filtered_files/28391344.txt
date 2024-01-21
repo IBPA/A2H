@@ -1,0 +1,30 @@
+Tumour necrosis factor alpha (TNFα) is a cytokine that is pivotal in the 
+inflammatory response. Blockade of TNFα has been shown to be effective in a 
+number of human autoimmune diseases, including rheumatoid arthritis, raising the 
+question of whether this approach may be effective in inflammatory kidney 
+disease, such as ANCA-associated vasculitis (AAV). In AAV, there is considerable 
+evidence for the role of TNFα in the pathophysiology of disease, including 
+increased expression of TNFα mRNA in leucocytes and in renal tissue. 
+Importantly, TNFα can induce leucocyte cell membrane expression of the 
+autoantigens involved in vasculitis [proteinase 3 and myeloperoxidase (MPO)], 
+thus priming cells for the effects of ANCA. In rodent models of anti-GBM disease 
+(nephrotoxic nephritis), TNFα enhances glomerular injury and TNFα blockade using 
+soluble TNFα receptor or anti-TNFα antibody ameliorates disease. Mice deficient 
+in TNFα are protected from nephrotoxic nephritis and this effect is dependent 
+mainly on intrinsic renal cells. A mouse model of anti-MPO antibody-induced 
+glomerulonephritis is enhanced by LPS, and this effect is blocked by anti-TNFα 
+antibody. In a rat model of AAV induced by MPO (experimental autoimmune 
+vasculitis), anti-TNFα antibody improves renal pathology and also reduces 
+leucocyte transmigration, as shown by intravital microscopy. In clinical 
+studies, the Wegener's Granulomatosis Etanercept Trial (WGET) showed no benefit 
+of additional etanercept versus standard therapy. However, there are several 
+reasons why the results of the WGET study do not rule out the use of anti-TNFα 
+antibody in acute renal AAV, including the study design and the considerable 
+biological differences between the effects of etanercept and anti-TNFα antibody. 
+There are several clinical studies demonstrating a response to anti-TNFα 
+antibody in patients with AAV refractory to conventional treatment, and in some 
+of these, the addition of anti-TNFα antibody was the only change in treatment. 
+We suggest that further investigation of TNFα blockade in AAV is warranted.
+
+© The Author 2017. Published by Oxford University Press on behalf of ERA-EDTA. 
+All rights reserved.

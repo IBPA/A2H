@@ -1,0 +1,29 @@
+OBJECTIVE: The purpose of this study was to determine if serum microRNA (miRNA) 
+signatures were biomarkers of early cartilage degeneration in preclinical mouse 
+models of post-traumatic osteoarthritis (OA) and inflammatory arthritis.
+METHODS: Cartilage degeneration was induced in 10-12 week old male C57BL6 mice 
+by destabilization of the medial meniscus (DMM) or intra-articular injection of 
+methylated-bovine-serum-albumin (AIA), with sham-operated or saline-injected 
+control animals (n = 6/treatment/time). Total serum RNA and knee joints were 
+isolated at 1, 4 and 16 weeks post-induction. Cartilage degeneration was scored 
+histologically. Serum miRNA expression profiling was performed using Agilent 
+microarrays and validated by qPCR.
+RESULTS: DMM-operated and AIA mice had characteristic cartilage degeneration 
+(proteoglycan loss, chondrocyte hypertrophy, structural damage), that increased 
+significantly with time compared with controls, and with distinct temporal 
+differences between arthritis models. However, expression profiling revealed no 
+statistically significant dysregulation of serum miRNAs between AIA vs 
+saline-injected or DMM vs sham-operated control mice at the critical early 
+disease stages. The inability to detect DMM or AIA serum miRNA signatures 
+compared with controls was not due to the insensitivity of the expression 
+profiling approach since significant changes were observed in miRNA expression 
+between the arthritis models and between time points.
+CONCLUSION: While distinct patterns of progressive cartilage degradation were 
+induced in the arthritis models, we were unable to identify any serum miRNAs 
+that were significantly dysregulated in early stages of disease compared with 
+controls. This suggests circulating serum miRNAs may not be useful as cartilage 
+biomarkers in distinguishing the early or progressive stages of arthritis 
+cartilage degeneration.
+
+Copyright © 2016 Osteoarthritis Research Society International. Published by 
+Elsevier Ltd. All rights reserved.

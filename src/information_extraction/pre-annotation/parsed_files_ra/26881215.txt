@@ -1,0 +1,18 @@
+INTRODUCTION: Development of an animal model of rheumatoid 
+arthritis-interstitial lung disease (RA-ILD) and improved knowledge of the 
+pathogenesis of RA-ILD may facilitate earlier diagnosis and the development of 
+more effective targeted therapies.
+METHODS: Adult male Wistar rats were studied in an adjuvant arthritis (AA) model 
+induced by the injection of Freund's complete adjuvant (FCA). Rats were 
+sacrificed on days 7, 14, 21, and 28 after FCA injection. Lung tissue was 
+obtained for histopathological examination and evaluation of Caveolin-1 (Cav-1) 
+and transforming growth factor-β (TGF-β1) protein expression levels.
+RESULTS: Pulmonary inflammation was evident in lung tissue from day 21 after FCA 
+injection. Inflammation and mild fibrosis were observed in lung tissue on day 28 
+after FCA injection. Cav-1 protein expression was significantly decreased from 
+day 7 through day 28 and TGF-β1 protein expression was significantly increased 
+on day 28 after FCA injection compared to control (P < 0.05).
+CONCLUSION: We established an AA rat model that exhibited the extra-articular 
+complication of RA-ILD. We identified Cav-1 and TGF-β1 as protein biomarkers of 
+RA-ILD in this model and propose their signaling pathway as a possible target 
+for therapeutic intervention.

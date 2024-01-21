@@ -1,0 +1,26 @@
+INTRODUCTION: Binding immunoglobulin protein (BiP) has previously shown powerful 
+anti-inflammatory properties in the collagen-induced arthritis (CIA) model, 
+where a single dose of BiP has proved to be both a long-term prophylactic and 
+therapeutic. In both CIA and human in vitro studies, BiP induced regulatory T 
+cells. The present investigation looked at the anti-inflammatory effect of BiP 
+on inflamed human synovial tissue transplanted into severe combined 
+immunodeficient mice (SCID), a chimaeric in vivo model previously used to test 
+the efficacy of biologic therapies.
+METHODS: Rheumatoid arthritis synovial membrane (RASM) was engrafted into SCID 
+mice. Following successful engraftment, mice were intravenously injected with 
+BiP or human serum albumin in the presence or absence of anti-IL-10 mAb. Twelve 
+days later the grafts were removed for analysis and human cytokines in the sera 
+were quantified by ELISA. The extent of residual inflammatory cellular 
+infiltrate in the synovial explants was determined by weight of the explants.
+RESULTS: The RASM transplants from mice treated with BiP showed visual reduction 
+in cellular infiltrate and downregulation of all quantifiable features of 
+inflammation as assessed by the Koizumi or Rooney histological criteria. Also 
+downregulated were HLA-DR, CD86, IL-6 and TNFα expression as assessed by 
+immunohistology. ELISA detected significantly less human IL-6 circulating in the 
+BiP-treated mouse serum. After removal of transplanted tissue 12 days post 
+administration of BiP, the RASM explants from the BiP-treated SCID mice weighed 
+significantly less, indicating a suppression of tissue inflammation. Mice given 
+concomitant neutralising anti-IL-10 antibody and BiP showed no such suppression.
+CONCLUSIONS: BiP has anti-inflammatory properties partially dependent on the 
+downregulation of HLA-DR and co-stimulatory molecules and the predominant 
+production of IL-10.

@@ -1,0 +1,8 @@
+Novel series of N-(5-(arylcarbonyl)thiazol-2-yl)amides and 
+N-(5-(arylcarbonyl)thiophen-2-yl)amides were discovered as potent retinoic acid 
+receptor-related orphan receptor-gamma-t (RORγt) inhibitors. SAR studies of the 
+RORγt HTS hit 6a led to identification of thiazole ketone amide 8h and thiophene 
+ketone amide 9g with high binding affinity and inhibitory activity of Th17 cell 
+differentiation. Compound 8h showed in vivo efficacy in both mouse experimental 
+autoimmune encephalomyelitis (EAE) and collagen induced arthritis (CIA) models 
+via oral administration.

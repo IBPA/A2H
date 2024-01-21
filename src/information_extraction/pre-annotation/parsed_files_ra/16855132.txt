@@ -1,0 +1,24 @@
+Recently, studies in adult rheumatoid arthritis patients have shown an 
+association with four single-nucleotide polymorphisms (SNPs) in the 3.7-kb 
+regulatory region of human corticotropin-releasing hormone (hCRH) gene located 
+at positions -3531, -3371, -2353, and -684 bp. Three of these novel 
+polymorphisms are in absolute linkage disequilibrium, resulting in three 
+combined alleles, named A1B1, A2B1, and A2B2. To study whether the described 
+polymorphic nucleotide sequences in the 5' region of the hCRH gene interfere 
+with binding of nuclear proteins, an electric mobility shift assay (EMSA) was 
+performed. At position -2353 bp, a specific DNA protein complex was detected for 
+the wild-type sequence only, possibly interfering with a binding site for the 
+activating transcription factor 6 (ATF6). In contrast, no difference could be 
+detected for the other SNPs. However, at position -684, a quantitative 
+difference in protein binding due to cAMP incubation could be observed. To 
+further investigate whether these SNPs in the CRH promoter are associated with 
+an altered regulation of the CRH gene, we performed a luciferase reporter gene 
+assay with transiently transfected rat pheochromocytoma cells PC12. Incubation 
+with 8-Br-cAMP alone or in combination with cytokines enhanced significantly the 
+promoter activity in PC12 cells. The promoter haplotypes studied exhibited a 
+differential capacity to modulate CRH gene expression. In all our experiments, 
+haplotype A1B1 showed the most pronounced influence on promoter activity. Taken 
+together, our results demonstrate a differential binding capacity of nuclear 
+proteins of the promoter polymorphisms resulting in a different gene regulation. 
+Most probably the SNP at position -2,353 plays a major role in mediating these 
+differences.

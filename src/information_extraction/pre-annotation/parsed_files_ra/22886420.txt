@@ -1,0 +1,23 @@
+OBJECTIVE: To identify genetic factors driving pathogenic autoantibody formation 
+in collagen-induced arthritis (CIA), a mouse model of rheumatoid arthritis (RA), 
+in order to better understand the etiology of RA and identify possible new 
+avenues for therapeutic intervention.
+METHODS: We performed a genome-wide analysis of quantitative trait loci 
+controlling autoantibody to type II collagen (anti-CII), anti-citrullinated 
+protein antibody (ACPA), and rheumatoid factor (RF). To identify loci 
+controlling autoantibody production, we induced CIA in a heterogeneous 
+stock-derived mouse cohort, with contribution of 8 inbred mouse strains 
+backcrossed to C57BL/10.Q. Serum samples were collected from 1,640 mice before 
+arthritis onset and at the peak of the disease. Antibody concentrations were 
+measured by standard enzyme-linked immunosorbent assay, and linkage analysis was 
+performed using a linear regression-based method.
+RESULTS: We identified loci controlling formation of anti-CII of different IgG 
+isotypes (IgG1, IgG3), antibodies to major CII epitopes (C1, J1, U1), antibodies 
+to a citrullinated CII peptide (citC1), and RF. The anti-CII, ACPA, and RF 
+responses were all found to be controlled by distinct genes, one of the most 
+important loci being the immunoglobulin heavy chain locus.
+CONCLUSION: This comprehensive genetic analysis of autoantibody formation in CIA 
+demonstrates an association not only of anti-CII, but interestingly also of ACPA 
+and RF, with arthritis development in mice. These results underscore the 
+importance of non-major histocompatibility complex genes in controlling the 
+formation of clinically relevant autoantibodies.

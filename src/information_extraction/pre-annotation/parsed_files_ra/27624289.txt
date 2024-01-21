@@ -1,0 +1,18 @@
+Rheumatoid arthritis (RA) is an autoimmune disease hallmarked by aberrant 
+cellular homeostasis, resulting in hyperactive CD4+ T cells that are more 
+resistant to apoptosis. Both hyperactivation and resistance to apoptosis may 
+contribute to the pathogenicity of CD4+ T cells in the autoimmune process. A 
+better knowledge of the mechanisms determining such impaired homeostasis could 
+contribute significantly to both the understanding and the treatment of the 
+disease. Here we investigated whether autophagy, is dysregulated in CD4+ T cells 
+of RA patients, resulting in disturbed T-cell homeostasis. We demonstrate that 
+the rate of autophagy is significantly increased in CD4+ T cells from RA 
+patients, and that increased autophagy is also a feature of in vitro activated 
+CD4+ T cells. The increased apoptosis resistance observed in CD4+ T cells from 
+RA patients was significantly reversed upon autophagy inhibition. These 
+mechanisms may contribute to RA pathogenesis, as autophagy inhibition reduced 
+both arthritis incidence and disease severity in a mouse collagen induced 
+arthritis mouse model. Conversely, in Atg5flox/flox -CD4-Cre+ mice, in which all 
+T cells are autophagy deficient, T cells showed impaired activation and 
+proliferation. These data provide novel insight into the pathogenesis of RA and 
+underscore the relevance of autophagy as a promising therapeutic target.

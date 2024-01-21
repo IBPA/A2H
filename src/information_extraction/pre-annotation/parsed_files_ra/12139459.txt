@@ -1,0 +1,15 @@
+Leukotriene B(4) (LTB(4)) is a potent, proinflammatory mediator involved in the 
+pathogenesis of a number of diseases including inflammatory bowel disease, 
+psoriasis, rheumatoid arthritis, and asthma. The enzyme LTA(4) hydrolase 
+represents an attractive target for pharmacological intervention in these 
+disease states, since the action of this enzyme is the rate-limiting step in the 
+production of LTB(4). Our previous efforts focused on the exploration of a 
+series of analogues related to screening hit SC-22716 (1, 
+1-[2-(4-phenylphenoxy)ethyl]pyrrolidine) and resulted in the identification of 
+potent, orally active inhibitors such as 2. Additional structure-activity 
+relationship studies around this structural class resulted in the identification 
+of a series of alpha-, beta-, and gamma-amino acid analogues that are potent 
+inhibitors of the LTA(4) hydrolase enzyme and demonstrated good oral activity in 
+a mouse ex vivo whole blood LTB(4) production assay. The efforts leading to the 
+identification of clinical candidate SC-57461A (8d, 
+3-[methyl[3-[4-(phenylmethyl)phenoxy]propyl]amino]propanoic acid) are described.

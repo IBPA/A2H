@@ -1,0 +1,19 @@
+OBJECTIVE: To establish a kind of gene therapy method of rheumatoid arthritis, 
+to construct the interleukin-18-PE38 fusion gene expression vector and to 
+explore the expression of the fusion gene in the chondrocytes and 3T3 cells.
+METHODS: Interleukin-18-PE38 fusion gene was cleaved from plasmid 
+PRKL459k-IL-18-PE38 by restriction enzyme digestion, then linked with vectors 
+PsecTag2B and transformed into competence bacteria, positive clones were 
+selected and confirmed by restrictive enzyme (EcoRI) digestion assay. The 
+rearrangement plasmid PsecTag2B-IL-18-PE38 was transfected into 3T3 cells and 
+mouse chondrocytes by liposome protocol (experimental group), null vector was 
+used as negative control, and the transient expression was identified by 
+fluorescence Restrictive enzymes digestion analysis revealed that the length of 
+the interleukin-immunocytochemical assay.
+RESULTS: 18-PE38 fusion gene was 6000 bp. Fluorescence immunocytochemical method 
+showed that fluorescence intensity of the experimental group is strong,while 
+fluorescence intensity of the control group is weak.
+CONCLUSION: The eukaryotic expression vector PsecTag2B-IL-18-PE38 is established 
+successfully which can be expressed in the 3T3 cells and mouse chondrocytes. Our 
+results lay a foundation for the further investigation for rheumatoid arthritis 
+therapy.

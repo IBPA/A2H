@@ -1,0 +1,30 @@
+BACKGROUND: We previously published an article about the pressure effect using a 
+rheumatoid animal model. Hyperbaric therapy appears to be beneficial in treating 
+rheumatoid arthritis (RA) by reducing the inflammatory process in an animal 
+model. In this sense, acquiring the optimal pressure-treatment time parameter 
+for RA is important and no optimal hyperbaric therapy time has been suggested up 
+to now.
+OBJECTIVE: The purpose of our study was to acquire the optimal time for 
+hyperbaric therapy in the RA rat model.
+STUDY DESIGN: Controlled animal study.
+METHODS: Following injection of complete Freund's adjuvant (CFA) into one side 
+of the knee joint, 32 rats were randomly assigned to 3 different time groups (1, 
+3, 5 hours a day) under 1.5 atmospheres absolute (ATA) hyperbaric chamber for 12 
+days. The pain levels were assessed daily for 2 weeks by weight bearing force 
+(WBF) of the affected limb. In addition, the levels of gelatinase, MMP-2, and 
+MMP-9 expression in the synovial fluids of the knees were analyzed.
+RESULTS: The reduction of WBF was high at 2 days after injection and then it was 
+spontaneously increased up to 14 days in all 3 groups. There were significant 
+differences of WBF between 5 hours and control during the third through twelfth 
+days, between 3 hours and control during the third through fifth and tenth 
+through twelfth days, and between 3 hours and 5 hours during the third through 
+seventh days (P < 0.05). The MMP-9/MMP-2 ratio increased at 14 days after the 
+CFA injection in all groups compared to the initial findings, however, the 3 
+hour group showed a smaller MMP-9/MMP-2 ratio than the control group.
+LIMITATION: Although enough samples were used for the study to support our 
+hypothesis, more samples will be needed to raise the validity and reliability.
+CONCLUSION: The effect of hyperbaric treatment appears to be dependent upon the 
+elevated therapy time under 1.5 ATA pressure for a short period of time; 
+however, the long-term effects were similar in all pressure groups. Further 
+study will be needed to acquire the optimal pressure-treatment parameter 
+relationship in various conditions for clinical application.

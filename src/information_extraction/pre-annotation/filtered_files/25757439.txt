@@ -1,0 +1,24 @@
+Indomethacin (IMC), a nonsteroidal anti-inflammatory drug, has been used in the 
+treatment of rheumatoid arthritis (RA), although its clinical use has been 
+limited by its systemic side effects that include gastrointestinal lesions. 
+Therefore, the development of IMC formulations that do not cause 
+gastrointestinal lesions is highly anticipated. In this study, we designed new 
+topical formulations containing IMC solid nanoparticles (IMCnano gel ointment), 
+and investigated their pharmacokinetics. In addition, we demonstrate the 
+preventive effects of this topical application of IMC nanoparticles on 
+inflammation in adjuvant-induced arthritis rat (AA rat). The IMCnano gel 
+ointment was prepared using Bead Smash 12 (a bead mill) and additives including 
+2-hydroxypropyl-β-cyclodextrin, methylcellulose and Carbopol 934; the mean 
+particle size of the IMC nanoparticles was 173 ± 91 nm (means ± S.D.). The 
+application of the IMCnano gel ointment attenuated the increase in paw edema of 
+the hind feet of AA rats in comparison with AA rats treated with gel ointment 
+containing IMC microparticles (IMCmicro gel ointment, particle diameter 17.1 ± 
+11.6 mm, means ± S.D). In addition, the accumulation of IMC from the IMCnano gel 
+ointment in skin tissue was significantly large than for the IMCmicro gel 
+ointment; however, the plasma IMC concentrations were similar for the IMCmicro 
+and IMCnano gel ointments. Our findings suggest that the dermal application of 
+nanoparticles may enable a medication to be applied without high-systemic drug 
+levels, which could provide efficient and effective therapy that spares patients 
+from unwanted side effects. A formulation of a topical drug delivery system 
+using IMC nanoparticles may provide a delivery option for the clinical treatment 
+of RA.

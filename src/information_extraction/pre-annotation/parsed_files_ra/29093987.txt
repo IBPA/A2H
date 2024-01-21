@@ -1,0 +1,29 @@
+PURPOSE: Beyond the limited scope of non-specific polyclonal regulatory T cell 
+(Treg)-based immunotherapy, which depends largely on serendipity, the present 
+study explored a target Treg subset appropriate for the delivery of a novel 
+epitope spreader Pep19 antigen as part of a sophisticated form of immunotherapy 
+with defined antigen specificity that induces immune tolerance.
+METHODS: Human polyclonal CD4+CD25+CD127lo- Tregs (127-Tregs) and naïve 
+CD4+CD25+CD45RA+ Tregs (45RA-Tregs) were isolated and were stimulated with 
+target peptide 19 (Pep19)-pulsed dendritic cells in a tolerogenic milieu 
+followed by ex vivo expansion. Low-dose interleukin-2 (IL-2) and rapamycin were 
+added to selectively exclude the outgrowth of contaminating effector T cells 
+(Teffs). The following parameters were investigated in the expanded 
+antigen-specific Tregs: the distinct expression of the immunosuppressive Treg 
+marker Foxp3, epigenetic stability (demethylation in the Treg-specific 
+demethylated region), the suppression of Teffs, expression of the homing 
+receptors CD62L/CCR7, and CD95L-mediated apoptosis. The expanded Tregs were 
+adoptively transferred into an NOD/scid/IL-2Rγ-/- mouse model of 
+collagen-induced arthritis.
+RESULTS: Epitope-spreader Pep19 targeting by 45RA-Tregs led to an outstanding in 
+vitro suppressive T cell fate characterized by robust ex vivo expansion, the 
+salient expression of Foxp3, high epigenetic stability, enhanced T cell 
+suppression, modest expression of CD62L/CCR7, and higher resistance to 
+CD95L-mediated apoptosis. After adoptive transfer, the distinct fate of these T 
+cells demonstrated a potent in vivo immunotherapeutic capability, as indicated 
+by the complete elimination of footpad swelling, prolonged survival, minimal 
+histopathological changes, and preferential localization of CD4+CD25+ Tregs at 
+the articular joints in a mechanistic and orchestrated way.
+CONCLUSIONS: We propose human naïve CD4+CD25+CD45RA+ Tregs and the epitope 
+spreader Pep19 as cellular and molecular targets for a novel antigen-specific 
+Treg-based vaccination against collagen-induced arthritis.

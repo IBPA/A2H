@@ -1,0 +1,12 @@
+To investigate the efficacy and mechanisms of matrine, a component derived from 
+Sophora flavescens in treatment of rheumatoid arthritis (RA), a rat model of RA 
+was established. Compared to control rats, matrine significantly mitigated 
+inflammation and severity of RA (paw volume and articular index (AI) score). 
+Using either mice splenic T cells stimulated with PMA/ionomycin or rat splenic T 
+cells, the levels of Th1 and Th2 responses were determined by flow cytometry, 
+quantitative RT-PCR, and ELISA. Furthermore, the levels of NF-κBp65 (RelA), 
+IκBα, and phosphor-IκBα in T cells were determined by Western blot. Our study 
+found that matrine modulated the imbalance of Th1 and Th2 cytokine responses in 
+rats with RA by reducing the levels of Th1 cytokines (IFN-γ, TNF-α, IL-1β), but 
+increasing Th2 cytokine (IL-4 and IL-10) through attenuating the NF-κB signaling 
+in T cells, suggesting matrine as a promising drug for intervention of RA.

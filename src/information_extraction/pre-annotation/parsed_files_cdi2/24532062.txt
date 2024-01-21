@@ -1,0 +1,23 @@
+Clostridium difficile is a Gram-positive pathogen infecting humans and animals. 
+Recent studies suggest that animals could represent potential reservoirs of C. 
+difficile that could then transfer to humans. Temperate phages contribute to the 
+evolution of most bacteria, for example, by promoting the transduction of 
+virulence, fitness, and antibiotic resistance genes. In C. difficile, little is 
+known about their role, mainly because suitable propagating hosts and conditions 
+are lacking. Here we report the isolation, propagation, and preliminary 
+characterization of nine temperate phages from animal and human C. difficile 
+isolates. Prophages were induced by UV light from 58 C. difficile isolates of 
+animal and human origins. Using soft agar overlays with 27 different C. 
+difficile test strains, we isolated and further propagated nine temperate 
+phages: two from horse isolates (ΦCD481-1 and ΦCD481-2), three from dog isolates 
+(ΦCD505, ΦCD506, and ΦCD508), and four from human isolates (ΦCD24-2, ΦCD111, 
+ΦCD146, and ΦCD526). Two phages are members of the Siphoviridae family (ΦCD111 
+and ΦCD146), while the others are Myoviridae phages. Pulsed-field gel 
+electrophoresis and restriction enzyme analyses showed that all of the phages 
+had unique double-stranded DNA genomes of 30 to 60 kb. Phages induced from human 
+C. difficile isolates, especially the members of the Siphoviridae family, had a 
+broader host range than phages from animal C. difficile isolates. Nevertheless, 
+most of the phages could infect both human and animal strains. Phage 
+transduction of antibiotic resistance was recently reported in C. difficile. Our 
+findings therefore call for further investigation of the potential risk of 
+transduction between animal and human C. difficile isolates.

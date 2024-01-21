@@ -1,0 +1,16 @@
+Many genetically modified mouse strains are now available on a C57BL/6 (H-2b) 
+background, a strain that is relatively resistant to collagen-induced arthritis. 
+To facilitate the molecular understanding of autoimmune arthritis, we 
+characterised the induction of arthritis in C57BL/6 mice and then validated the 
+disease as a relevant pre-clinical model for rheumatoid arthritis. C57BL/6 mice 
+were immunised with type II collagen using different protocols, and arthritis 
+incidence, severity, and response to commonly used anti-arthritic drugs were 
+assessed and compared with DBA/1 mice. We confirmed that C57BL/6 mice are 
+susceptible to arthritis induced by immunisation with chicken type II collagen 
+and develop strong and sustained T-cell responses to type II collagen. Arthritis 
+was milder in C57BL/6 mice than DBA/1 mice and more closely resembled rheumatoid 
+arthritis in its response to therapeutic intervention. Our findings show that 
+C57BL/6 mice are susceptible to collagen-induced arthritis, providing a valuable 
+model for assessing the role of specific genes involved in the induction and/or 
+maintenance of arthritis and for evaluating the efficacy of novel drugs, 
+particularly those targeted at T cells.

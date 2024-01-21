@@ -1,0 +1,24 @@
+OBJECTIVE: To clarify the pharmacological action of an anti-rheumatic agent 
+T-614, we investigated its effects on immunoglobulin (Ig) production by cultured 
+B cells and Ig secretion from synovial tissues of patients with rheumatoid 
+arthritis (RA) using SCID mice engrafted with human RA tissue (SCID-HuRAg).
+METHODS: Murine B cells were prepared from mouse spleen by a T-cell depletion 
+method. The cells were cultured with lipopolysaccharide (LPS) and/or interleukin 
+4 (IL-4) in the absence or presence of T-614. Human B cells were isolated from 
+peripheral blood of healthy donors and the Ig production was induced by 
+co-culture with autologous T cells and anti-CD3 antibody. SCID-HuRAg was 
+prepared according to our previous method. T-614 was orally administered to the 
+mice once daily for 4 weeks starting on the fourth week after the implantation. 
+Then, peripheral blood was obtained and the implanted tissues were removed. Igs 
+in the culture media or the sera were determined by enzyme-linked immunosorbent 
+assay (ELISA).
+RESULTS: In murine B-cell cultures, T-614 significantly decreased not only the 
+IgM production stimulated with LPS but IgG1 production induced by LPS and IL-4. 
+Regarding human B cells stimulated with T cells, it also inhibited IgM and IgG 
+production. In SCID-HuRAg mice, high concentrations of polyclonal human IgG were 
+detectable in the sera of all mice. A significant decrease in the IgG level was 
+observed in the T-614-treated group compared with the control group.
+CONCLUSIONS: We showed that T-614 inhibited Ig production by the cultured B 
+cells and also decreased the high level of human IgG observed in SCID-HuRAg 
+mice. These results may support its effect on plasma Ig in RA patients and 
+provide insights into the mechanisms of its anti-rheumatic effect.

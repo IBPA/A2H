@@ -1,0 +1,34 @@
+BACKGROUND: The cholinergic anti-inflammatory pathway (CAP) has a strong 
+anti-inflammatory effect on collagen-induced arthritis (CIA), a classic animal 
+model of rheumatoid arthritis (RA). However, the underlying immune regulatory 
+mechanism remains unclear. Here, we investigated the effect of the CAP on 
+arthritis development and the involvement of dendritic cells (DCs).
+METHODS: Forty DBA/1 mice were randomly divided into five groups: a control 
+group (sham vagotomy+ phosphate-buffered saline; shamVGX+PBS), a CIA group 
+(shamVGX+CIA + PBS), a vagotomy group (VGX + CIA + PBS), a GTS-21 (4 mg/kg) 
+group (shamVGX+CIA + GTS-4), and a GTS-21 (8 mg/kg) group (shamVGX+CIA + GTS-8). 
+The vagotomy group underwent left cervical vagotomy 4 days before arthritis 
+induction, whereas the sham-vagotomy group underwent vagus nerve exposure. Mice 
+were pretreated with GTS-21 by intraperitoneal injection on the day of surgery. 
+The degree of arthritis was measured by using the arthritis score, hematoxylin 
+and eosin staining, and TRAP (tartrate-resistant acid phosphatase) staining. 
+Flow cytometry was used to detect the expression of CD80 and major 
+histocompatibility complex II (MHC II) on CD11c+ DCs in the spleen. Luminex was 
+used to detect the serum concentration of interleukin-6 (IL-6), tumor necrosis 
+factor-alpha (TNFα), and IL-10. Immunohistochemistry was used to detect CD11c 
+expression in the synovium. The effects of GTS-21 on DC differentiation and 
+maturation were examined in vitro by treating bone marrow-derived DCs with 
+GTS-21 and assessing differentiation and maturation. Flow cytometry was used to 
+analyze CD80 and MHC II expression on the surface of DCs.
+RESULTS: GTS-21 treatment ameliorated clinical arthritis in a mouse model of CIA 
+in vivo, decreasing the secretion of pro-inflammatory cytokines in the serum and 
+downregulating CD80 and MHC II expression on DCs in the spleen of CIA mice. 
+GTS-21 treatment strongly suppressed the infiltration of DCs into the synovium. 
+Vagotomy itself did not exacerbate the severity of arthritis in CIA mice. In 
+vitro, GTS-21 (10 μmol/L) significantly downregulated CD80 and MHC II in bone 
+marrow-derived immature DCs and this effect was blocked by the α7-nicotinic 
+acetylcholine receptor antagonist methyllycaconitine (MLA). However, GTS-21 had 
+no effects on mature DCs.
+CONCLUSIONS: The present study provides new insight into the mechanism 
+underlying the effects of the CAP on RA and indicates that the immunosuppressive 
+effect of GTS-21 may be mediated by the inhibition of DC differentiation.

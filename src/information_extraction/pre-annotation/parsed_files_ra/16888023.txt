@@ -1,0 +1,23 @@
+TNF-like weak inducer of apoptosis (TWEAK) is a TNF family member with 
+pleiotropic effects on a variety of cell types, one of which is the induction of 
+proinflammatory cytokines by synovial fibroblasts derived from rheumatoid 
+arthritis (RA) patients. In this study, we report that the serum TWEAK level was 
+dramatically elevated during mouse collagen-induced arthritis (CIA) and blocking 
+TWEAK by a neutralizing mAb significantly reduced the clinical severity of CIA. 
+Histological analyses also revealed that TWEAK inhibition diminished joint 
+inflammation, synovial angiogenesis, as well as cartilage and bone erosion. 
+Anti-TWEAK treatment proved efficacious when administered just before the 
+disease onset but not during the priming phase of CIA. Consistent with this, 
+TWEAK inhibition did not affect either cellular or humoral responses to 
+collagen. In contrast, TWEAK inhibition significantly reduced serum levels of a 
+panel of arthritogenic mediators, including chemokines such as MIP-1beta 
+(CCL-4), lymphotactin (XCL-1), IFN-gamma-inducible protein 10 (IP-10) (CXCL-10), 
+MCP-1 (CCL-2), and RANTES (CCL-5), as well as the matrix metalloprotease-9. 
+Exploring the possible role of the TWEAK/Fn14 pathway in human RA pathogenesis, 
+we showed that TWEAK can target human primary chondrocytes and osteoblast-like 
+cells, in addition to synovial fibroblasts. We further demonstrated that TWEAK 
+induced the production of matrix metalloproteases in human chondrocytes and 
+potently inhibited chondrogenesis and osteogenesis using in vitro models. These 
+results provide evidence for a novel cytokine pathway that contributes to joint 
+tissue inflammation, angiogenesis, and damage, as well as may inhibit endogenous 
+repair, suggesting that TWEAK may be a new therapeutic target for human RA.

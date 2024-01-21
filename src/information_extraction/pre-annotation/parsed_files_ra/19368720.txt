@@ -1,0 +1,17 @@
+Interleukin-6 is a multifunctional cytokine that is critical for T/B-cell 
+differentiation and maturation, immunoglobulin secretion, acute-phase protein 
+production, and macrophage/monocyte functions. Extensive research into the 
+biology of IL-6 has implicated IL-6 in the pathophysiology and pathogenesis of 
+RA. An anti-murine IL-6 mAb that neutralizes mouse IL-6 activities was tested in 
+animal model of collagen-induced arthritis. Prophylactic treatment with 
+anti-IL-6 mAb significantly reduced the incidence and severity of arthritis 
+compared to control mAb treated mice. The mitogenic response of B and T cells 
+isolated from the lymph nodes of anti-IL-6 treated mice was significantly 
+reduced compared to cells isolated from control mAb treated mice. The overall 
+histopathology score for paws from the anti-IL-6 treated mice was significantly 
+reduced when compared to paws from mice treated with control mAb, including both 
+inflammatory (synovitis and pannus) and erosive (erosions and architecture) 
+parameters. Reduced loss of cartilage matrix components was also observed in the 
+anti-IL-6 treated mice. Collectively, these data suggest that IL-6 plays a major 
+role in the pathophysiology of rheumatoid arthritis, and thus support the 
+potential benefit of anti-IL-6 mAb treatment in rheumatoid arthritis patients.

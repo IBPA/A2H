@@ -1,0 +1,24 @@
+Anti-CD52 therapy has been shown to be effective in the treatment of a number of 
+B cell malignancies, hematopoietic disorders and autoimmune diseases (including 
+rheumatoid arthritis and multiple sclerosis); however the current standard of 
+treatment, the humanized monoclonal antibody alemtuzumab, is associated with the 
+development of anti-drug antibodies in a high proportion of patients. In order 
+to address this problem, we have identified a novel murine anti-CD52 antibody 
+which has been humanized using a process that avoids the inclusion within the 
+variable domains of non-human germline MHC class II binding peptides and known 
+CD4+ T cell epitopes, thus reducing its potential for immunogenicity in the 
+clinic. The resultant humanized antibody, ANT1034, was shown to have superior 
+binding to CD52 expressing cells than alemtuzumab and was more effective at 
+directing both antibody dependent and complement dependent cell cytotoxicity. 
+Furthermore, when in the presence of a cross-linking antibody, ANT1034 was more 
+effective at directly inducing apoptosis than alemtuzumab. ANT1034 also showed 
+superior activity in a SCID mouse/human CD52 tumour xenograft model where a 
+single 1 mg/Kg dose of ANT1034 led to increased mouse survival compared to a 10 
+mg/Kg dose of alemtuzumab. Finally, ANT1034 was compared to alemtuzumab in in 
+vitro T cell assays in order to evaluate its potential to stimulate 
+proliferation of T cells in peripheral blood mononuclear cells derived from a 
+panel of human donors: whereas alemtuzumab stimulated proliferation in a high 
+proportion of the donor cohort, ANT1034 did not stimulate proliferation in any 
+of the donors. Therefore we have developed a candidate therapeutic humanized 
+antibody, ANT1034, that may have the potential to be more efficacious and less 
+immunogenic than the current standard anti-CD52 therapy.

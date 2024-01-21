@@ -1,0 +1,20 @@
+OBJECTIVES: The degradation of tryptophan by indoleamine 2,3-dioxygenase yields 
+a number of immunomodulatory metabolites, including 3-hydroxyanthranilic acid, 
+3-hydroxykynurenic acid and quinolinic acid. N-(3',4'-dimethoxycinnamonyl) 
+anthranilic acid (3,4-DAA) is a synthetic anthranilic acid derivative that has 
+been used therapeutically in Japan for many years as an anti-allergic drug and 
+has recently been shown to be effective in a murine model of multiple sclerosis.
+METHODS: In the present study, we tested the efficacy of 3,4-DAA in 
+collagen-induced arthritis, a mouse model of rheumatoid arthritis, and analysed 
+its mechanism of action.
+RESULTS: Administration of 3,4-DAA after arthritis onset reduced clinical and 
+histological severity of arthritis and reduced pain. It completely abrogated 
+thermal and mechanical hyperalgesia. 3,4-DAA also suppressed Th1 cell activity 
+in lymph node cell cultures and raised serum levels of IL-10. In vitro, 3,4-DAA 
+suppressed IFNgamma production and proliferation of both T and B lymphocytes in 
+a manner comparable with the endogenous tryptophan metabolite, 
+3-hydroxyanthranilic acid, suggesting similar mechanisms of action.
+CONCLUSION: It is concluded that 3,4-DAA has both anti-inflammatory and 
+analgesic properties, and may therefore be useful in filling an unmet need, in 
+the treatment of rheumatoid and other forms of arthritis, especially in the 
+light of its analgesic properties.

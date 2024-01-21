@@ -1,0 +1,20 @@
+The increasing prevalence of rheumatoid arthritis has driven the development of 
+new approaches and technologies for investigating the pathophysiology of this 
+devastating, chronic disease. From the perspective of systems biology, combining 
+comprehensive personal data such as metabolomics profiling with ultra-weak 
+photon emission (UPE) data may provide key information regarding the complex 
+pathophysiology underlying rheumatoid arthritis. In this article, we integrated 
+UPE with metabolomics-based technologies in order to investigate 
+collagen-induced arthritis, a mouse model of rheumatoid arthritis, at the 
+systems level, and we investigated the biological underpinnings of the complex 
+dataset. Using correlation networks, we found that elevated inflammatory and 
+ROS-mediated plasma metabolites are strongly correlated with a systematic 
+reduction in amine metabolites, which is linked to muscle wasting in rheumatoid 
+arthritis. We also found that increased UPE intensity is strongly linked to 
+metabolic processes (with correlation co-efficiency |r| value >0.7), which may 
+be associated with lipid oxidation that related to inflammatory and/or 
+ROS-mediated processes. Together, these results indicate that UPE is correlated 
+with metabolomics and may serve as a valuable tool for diagnosing chronic 
+disease by integrating inflammatory signals at the systems level. Our 
+correlation network analysis provides important and valuable information 
+regarding the disease process from a system-wide perspective.

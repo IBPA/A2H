@@ -1,0 +1,21 @@
+Proteinase 3 (PR3) is the autoantigen in granulomatosis with polyangiitis, an 
+autoimmune necrotizing vasculitis associated with anti-neutrophil cytoplasmic 
+antibodies (ANCAs). Moreover, PR3 is a serine protease whose membrane expression 
+can potentiate inflammatory diseases such as ANCA-associated vasculitis and 
+rheumatoid arthritis. During apoptosis, PR3 is co-externalized with 
+phosphatidylserine (PS) and is known to modulate the clearance of apoptotic 
+cells through a calreticulin (CRT)-dependent mechanism. The complement protein 
+C1q is one mediator of efferocytosis, the clearance of altered self-cells, 
+particularly apoptotic cells. Since PR3 and C1q are both involved in the 
+clearance of apoptotic cells and immune response modulation and share certain 
+common ligands (i.e., CRT and PS), we examined their possible interaction. We 
+demonstrated that C1q binding was increased on apoptotic rat basophilic leukemia 
+(RBL) cells that expressed PR3, and we demonstrated the direct interaction 
+between purified C1q and PR3 molecules as shown by surface plasmon resonance. To 
+better understand the functional consequence of this partnership, we tested 
+C1q-dependent phagocytosis of the RBL cell line expressing PR3 and showed that 
+PR3 impaired C1q enhancement of apoptotic cell uptake. These findings shed new 
+light on the respective roles of C1q and PR3 in the elimination of apoptotic 
+cells and suggest a novel potential axis to explore in autoimmune diseases 
+characterized by a defect in apoptotic cell clearance and in the resolution of 
+inflammation.

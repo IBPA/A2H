@@ -1,0 +1,22 @@
+Recombinant antibody cloning and phage display technologies were used to produce 
+single-chain antibodies (scFv) against Clostridium difficile toxin B. The 
+starting material was the mouse B cell hybridoma line 5A8, which generates a 
+monoclonal antibody against the toxin. The integrated cloning, screening, and 
+phage display system of Krebber et al. (J. Immunol. Methods 201:35-55, 1997) 
+allowed us to rapidly obtain toxin B-binding scFv sequences derived from the 
+hybridoma cell line. The best candidate scFv sequences, based on preliminary 
+enzyme-linked immunosorbent assay (ELISA) screening data were then subcloned 
+into the compatible expression vector. Recombinant single-chain antibodies were 
+expressed in Escherichia coli. A 29-kDa band was observed on polyacrylamide gel 
+electrophoresis as predicted. The expressed product was characterized by 
+immunoblotting and detection with an anti-FLAG antibody. The toxin B-binding 
+function of the single-chain antibody was shown by a sandwich ELISA. The 
+antibody was highly specific for toxin B and did not cross-react with material 
+isolated from a toxin B-negative C. difficile strain. The sensitivity of the 
+soluble single-chain antibody is significantly higher than the original 
+monoclonal antibody based on ELISA data and could detect a minimum of 10 ng of 
+toxin B/well. Competitive ELISAs established that the affinity of the 5A8 parent 
+antibody and the best representative (clone 10) of the single-chain antibodies 
+were similar and in the range of 10(-8) M. We propose that recombinant antibody 
+technology is a rapid and effective approach to the development of the next 
+generation of immunodiagnostic reagents.

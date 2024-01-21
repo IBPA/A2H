@@ -1,0 +1,28 @@
+OBJECTIVE: Although consumption of dietary supplements containing pomegranate 
+extract (POMx) by patients with arthritis is on the rise, the efficacy of such 
+preparations in suppressing joint inflammation and damage is not known. The 
+present study was designed to evaluate a standardized preparation of POMx using 
+collagen-induced arthritis (CIA) in mice, a widely used animal model of 
+rheumatoid arthritis.
+METHODS: CIA-susceptible DBA/1 mice were fed POMx by gavage before and after 
+immunization with chicken type II collagen. Severity of clinical arthritis was 
+scored using a visual scoring system. Arthritic joints were analyzed by 
+histopathology and graded. Lysates were generated from mouse joints and levels 
+of anti-type II collagen immunoglobulin G and inflammatory cytokines interleukin 
+(IL)-1beta, IL-6, and tumor necrosis factor-alpha were quantified by 
+enzyme-linked immunosorbent assay. The effect of POMx on 
+lipopolysaccharide-induced nitric oxide production was determined by Griess 
+reaction and mitogen-activated protein kinase activation was studied by western 
+immunoblotting in mouse macrophages.
+RESULTS: Consumption of POMx potently delayed the onset and reduced the 
+incidence of CIA in mice. Severity of arthritis was also significantly lower in 
+POMx-fed animals. Histopathology of the arthritic joints from POMx-fed mice 
+demonstrated reduced joint infiltration by the inflammatory cells, and the 
+destruction of bone and cartilage were alleviated. Levels of IL-6 were 
+significantly decreased in the joints of POMx-fed mice with CIA. In mouse 
+macrophages, POMx abrogated multiple signal transduction pathways and downstream 
+mediators implicated in the pathogenesis of rheumatoid arthritis.
+CONCLUSION: Our studies suggest that inhibition of a spectrum of signal 
+transduction pathways and the downstream pathogenic cellular response by POMx or 
+compounds derived from it may be a useful approach for the prevention of the 
+onset and severity of inflammatory arthritis.

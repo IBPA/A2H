@@ -1,0 +1,24 @@
+Chronic pain has profound effects on activity. Previous reports indicate chronic 
+inflammatory conditions result in reduced activity which normalizes upon pain 
+treatment. However, there is little systematic investigation of this process. 
+Rheumatoid arthritis is an autoimmune disorder that causes significant joint 
+pain. The K/BxN serum transfer mouse has been characterized as a model for 
+rheumatoid arthritis and chronic pain. We investigated the activity of mice 
+following K/BxN serum transfer vs. control serum and observed the activity 
+changes following delivery of an NSAID, ketorolac. Previous studies have used 
+running wheels and laser beams to monitor activity; we chose to validate a model 
+using cost-effective infrared sensors on individual cages. Each mouse had its 
+baseline activity obtained, which showed significant variation between 
+individual C57Bl/6 mice. Arthritic mice had significantly decreased activity for 
+only the first 11 nights. Conversely, previous work has shown that these animals 
+display tactile allodynia that persists for at least 45 days. Mice were treated 
+with ketorolac in their drinking water (10mg/kg, 15mg/kg, or 20mg/kg) for nights 
+6-8. The two highest doses showed significant normalization of activity levels. 
+Four nights after ketorolac was stopped, treated animals were still 
+significantly more active than control. The reversal of the reduced activity 
+provides support that the depression relates to the arthritic pain state of the 
+animal. These results indicate the efficacy of activity monitoring to better 
+investigate behavior in persistent pain states. However, insofar as depressed 
+activity reflects pain and disability, the present work raises questions as to 
+the relevance of the tactile thresholds in defining behaviorally relevant pain 
+states.

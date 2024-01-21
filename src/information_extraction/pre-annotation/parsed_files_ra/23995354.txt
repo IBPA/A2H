@@ -1,0 +1,20 @@
+A conjugate between prednisolone (PD) and chondroitin sulfate (CS) with glycine 
+as a linker was prepared in order to obtain an effective macromolecular prodrug 
+against inflammatory disease, especially rheumatoid arthritis. First, PD was 
+converted to the N-trityl-glycine ester (Tr-GP), and the glycine ester of PD 
+(GP) was obtained by detritylation of Tr-GP. Then, GP and CS were condensed with 
+water-soluble carbodiimide to yield CS-GP. The obtained conjugate had a PD 
+content of 2.24% (w/w). Conversion characteristics were investigated for GP and 
+CS-GP to evaluate their potential as a prodrug. In the stability test of GP, PD 
+was released well in the buffer at pH 6-7.4, but degraded rapidly at pH 8 
+without sufficient release of PD. As to CS-GP, PD was released more slowly than 
+in GP, and the release rate rose with the increase in the medium pH. PD was 
+released gradually from CS-GP over 24 h at a physiological pH. The conversion 
+profiles of both GP and CS-GP almost followed pseudo-first order kinetics. The 
+calculated conversion rate constants supported the gradual and effective release 
+from CS-GP. The release rate of PD from GP and CS-GP was accelerated by the 
+addition of rat plasma, but the promotion of release from CS-GP was small, 
+suggesting that PD should be released gradually from CS-GP in the systemic 
+circulation. It was demonstrated from the preliminary pharmacological study 
+using rats with adjuvant-induced arthritis that CS-GP had high anti-inflammatory 
+potential against arthritis.

@@ -1,0 +1,24 @@
+Infections with Clostridioides difficile (formerly Clostridium difficile) have 
+increased in incidence, morbidity, and mortality over the past decade. 
+Preventing infections is becoming increasingly important, as frontline 
+antibiotics become less effective and frequently induce recurrence by disrupting 
+intestinal microbiota. The clinically most advanced vaccine approaches prevent 
+symptoms once C. difficile infection is established by inducing immunity to 
+secreted clostridial cytotoxins. However, they do not inhibit bacterial 
+colonization and thereby favor asymptomatic carriage. Synthetic oligosaccharides 
+resembling the C. difficile surface glycans PS-I, PS-II, and PS-III are 
+immunogenic and serve as basis for colonization-preventing vaccines. Here, we 
+demonstrate that glycoconjugate vaccine candidates based on synthetic 
+oligosaccharides protected mice from infections with two different C. difficile 
+strains. Four synthetic antigens, ranging in size from disaccharides to 
+hexasaccharides, were conjugated to CRM197, which is a carrier protein used in 
+commercial vaccines. The vaccine candidates induced glycan-specific antibodies 
+in mice and substantially limited C. difficile colonization and colitis after 
+experimental infection. The glycoconjugates ameliorated intestinal pathology 
+more substantially than a toxin-targeting vaccine. Colonization of the gut by C. 
+difficile was selectively inhibited while intestinal microbiota remained 
+preserved. Passive transfer experiments with anti-PS-I serum revealed that 
+protection is mediated by specific antiglycan antibodies; however, cell-mediated 
+immunity likely also contributed to protection in vivo. Thus, glycoconjugate 
+vaccines against C. difficile are a complementary approach to toxin-targeting 
+strategies and are advancing through preclinical work.

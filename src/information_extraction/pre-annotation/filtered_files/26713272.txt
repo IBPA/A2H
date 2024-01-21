@@ -1,0 +1,19 @@
+Triptolide (TP), a major active component of Tripterygium wilfordii Hook.F. 
+(TWHF), is used to treat rheumatoid arthritis (RA). However, it has a narrow 
+therapeutic window due to its serious toxicities. To increase the therapeutic 
+index, a new triptolide-loaded transdermal delivery system, named 
+triptolide-loaded liposome hydrogel patch (TP-LHP), has been developed. In this 
+paper, we used a micro-needle array to deliver TP-LHP to promote transdermal 
+absorption and evaluated this treatment on the pharmacokinetics and 
+pharmacodynamics of TP-LHP in a rat model of collagen-induced arthritis (CIA). 
+The pharmacokinetic results showed that transdermal delivery of microneedle 
+TP-LHP yielded plasma drug levels which fit a one-compartment open model. The 
+relationship equation between plasma concentration and time was 
+C=303.59×(e(-0.064t) -e(-0.287t) ). The results of pharmacodynamic study 
+demonstrated that TP-LHP treatment mitigated the degree of joint swelling and 
+suppressed the expressions of fetal liver kinase-1, fetal liver tyrosine 
+kinase-4 and hypoxia-inducible factor-1α in synovium. Other indicators were also 
+reduced by TP-LHP, including hyperfunction of immune, interleukin-1β and 
+interleukin-6 levels in serum. The therapeutic mechanism of TP-LHP might be 
+regulation of the balance between Th1 and Th2, as well as inhibition of the 
+expression and biological effects of vascular endothelial growth factor.

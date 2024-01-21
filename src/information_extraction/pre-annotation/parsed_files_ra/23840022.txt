@@ -1,0 +1,21 @@
+OBJECTIVE: In the K/BxN mouse model of rheumatoid arthritis, T cells reactive 
+for the self antigen glucose-6-phosphate isomerase (GPI) escape negative 
+selection even though GPI expression is ubiquitous. We sought to determine 
+whether insufficient GPI presentation could account for the failure of negative 
+selection and for the development of arthritis.
+METHODS: To increase the antigen presentation of GPI, we generated transgenic 
+mice expressing a membrane-bound form of GPI (mGPI) and crossed them with K/BxN 
+mice. A monoclonal antibody specific for the α-chain of the KRN T cell receptor 
+was generated to examine the fate of GPI-specific T cells.
+RESULTS: The mGPI-transgenic mice presented GPI more efficiently and showed a 
+dramatic increase in negative selection and an inhibition of arthritis. 
+Interestingly, thymic negative selection remained incomplete in these mice, and 
+the escaped autoreactive T cells were anergic in the peripheral lymphoid organs, 
+suggesting that enhanced antigen presentation also induces peripheral tolerance. 
+Despite this apparent tolerance induction toward GPI, these mice developed a 
+chronic wasting disease, characterized by colonic inflammation with epithelial 
+dysplasia, as well as a dramatic reduction in Treg cells.
+CONCLUSION: These data indicate that insufficient autoantigen expression or 
+presentation results in defects of both central and peripheral tolerance in the 
+K/BxN mice. Our findings also support the idea that insufficient autoantigen 
+levels may underlie the development of autoimmunity.

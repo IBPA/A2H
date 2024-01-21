@@ -1,0 +1,16 @@
+Inflammatory cytokines such as interleukin-17 (IL-17) promote inflammatory 
+autoimmune diseases. Although several microRNAs (miRNAs) have been shown to 
+regulate autoimmune pathogenesis by affecting lymphocyte development and 
+function, the role of miRNAs in resident cells present in inflammatory lesions 
+remains unclear. Here we show that miR-23b is downregulated in inflammatory 
+lesions of humans with lupus or rheumatoid arthritis, as well as in the mouse 
+models of lupus, rheumatoid arthritis or multiple sclerosis. IL-17 downregulates 
+miR-23b expression in human fibroblast-like synoviocytes, mouse primary kidney 
+cells and astrocytes and is essential for the downregulation of miR-23b during 
+autoimmune pathogenesis. In turn, miR-23b suppresses IL-17-, tumor necrosis 
+factor α (TNF-α)- or IL-1β-induced NF-κB activation and inflammatory cytokine 
+expression by targeting TGF-β-activated kinase 1/MAP3K7 binding protein 2 
+(TAB2), TAB3 and inhibitor of nuclear factor κ-B kinase subunit α (IKK-α) and, 
+consequently, represses autoimmune inflammation. Thus, IL-17 contributes to 
+autoimmune pathogenesis by suppressing miR-23b expression in radio-resident 
+cells and promoting proinflammatory cytokine expression.

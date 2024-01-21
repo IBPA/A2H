@@ -1,0 +1,22 @@
+Triptolide, a primary active ingredient extracted from a traditional Chinese 
+herb, Tripterygium wilfordii Hook F, has been demonstrated to have a positive 
+therapeutic effect on patients with rheumatoid arthritis (RA); however, its 
+mechanism of action against RA is not well established. Therefore, in the 
+present study, we observed the effect of triptolide on the aggressive behavior 
+of RA fibroblast-like synoviocytes (RA FLSs), and we explored its underlying 
+signal mechanisms. We found that triptolide treatment significantly reduced the 
+migratory and invasive capacities of RA FLSs in vitro. We also demonstrated that 
+the invasion of RA FLSs into the cartilage, evaluated in the severe combined 
+immunodeficiency (SCID) mouse co-implantation model, was attenuated by treatment 
+with triptolide in vivo. Additionally, the immunofluorescence results showed 
+that triptolide treatment decreased the polymerization of F-actin and the 
+activation of matrix metalloproteinase 9 (MMP-9). To gain insight into the 
+molecular signal mechanisms, we determined the effect of triptolide on the 
+activation of MAPK signal pathways. Our results indicate that triptolide 
+treatment reduced the TNF-α-induced expression of phosphorylated JNK, but did 
+not affect the expression of phosphorylated p38 and ERK. A JNK-specific 
+inhibitor decreased the migration of RA FLSs. We also observed that triptolide 
+administration improved clinical arthritic conditions and joint destruction in 
+mice with collagen-induced arthritis (CIA). Thus, our findings suggest that the 
+therapeutic effects of triptolide on RA might be, in part, due to its 
+contribution to the aggressive behavior of RA FLSs.

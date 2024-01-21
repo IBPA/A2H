@@ -1,0 +1,14 @@
+In murine collagen-induced arthritis (CIA), self-reactive T cells can recognize 
+peptide antigens derived from type-II collagen (CII). Activation of T cells is 
+an important mediator of autoimmune diseases. Thus, T cells have become a focal 
+point of study to treat autoimmune diseases. In this study, we evaluated the 
+efficacy of recombinant MHC class II molecules in the regulation of 
+antigen-specific T cells by using a self peptide derived from CII (CII260-274; 
+IAGFKGEQGPKGEPG) linked to mouse I-A(q) in a murine CIA model. We found that 
+recombinant I-A(q)/CII260-274 molecules could be recognized by CII-specific T 
+cells and inhibit the same T cells in vitro. Furthermore, the development of CIA 
+in mice was successfully prevented by in vivo injection of recombinant 
+I-A(q)/CII260-274 molecules. Thus, treatment with recombinant soluble MHC class 
+II molecules in complex with an immunodominant self-peptide might offer a 
+potential therapeutic for chronic inflammation in autoimmune disease such as 
+rheumatoid arthritis. [BMB Reports 2016; 49(6): 331-336].

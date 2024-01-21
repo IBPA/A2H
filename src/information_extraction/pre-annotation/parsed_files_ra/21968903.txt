@@ -1,0 +1,21 @@
+OBJECTIVE: T cell protein tyrosine phosphatase (TC-PTP) is an important 
+regulator of hematopoiesis and cytokine signaling. Recently, several genome-wide 
+association studies have identified single-nucleotide polymorphisms (SNPs) in 
+the locus of TC-PTP that are associated with rheumatoid arthritis and juvenile 
+idiopathic arthritis, among other autoimmune diseases. The aim of this study was 
+to evaluate the effect of TC-PTP deficiency on the bone and joint environment 
+using a knockout mouse model.
+METHODS: Radiographic and micro-computed tomography analyses were performed on 
+femurs of 3-week-old mice. In addition, the femorotibial joints were assessed by 
+histology, flow cytometry, and cytokine detection.
+RESULTS: Deficiency of TC-PTP resulted in decreased bone volume as well as an 
+increase in osteoclast density within the mouse femurs. In addition, synovitis, 
+characterized by infiltration of mixed inflammatory cell types and 
+proinflammatory cytokines, developed in the knee joints of TC-PTP(-/-) mice.
+CONCLUSION: These findings demonstrate that loss of TC-PTP expression results in 
+synovitis with several hallmarks of inflammatory arthritis. The inflammatory 
+environment observed in the knee joints of TC-PTP(-/-) mice differs from the 
+systemic inflammation previously described in these mice and merits further 
+research into the role of TC-PTP in the synovium. Furthermore, the results 
+support recently described associations between SNPs in the TC-PTP locus and 
+arthritis incidence.

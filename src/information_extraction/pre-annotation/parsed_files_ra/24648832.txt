@@ -1,0 +1,15 @@
+Rheumatoid arthritis (RA) management has greatly improved with the development 
+of biologic disease modifying antirheumatic drugs, but a proportion of patients 
+do not improve despite the biologic drugs currently available. We need new 
+biologic agents with novel mechanisms of action for the treatment of refractory 
+patients. Recent evidence has shown that granulocyte-macrophage 
+colony-stimulating factor (GM-CSF) is involved in the pathogenesis of RA. GM-CSF 
+can exacerbate RA and elevated levels of this cytokine have been observed in 
+synovial fluid from RA patients. Antagonism of GM-CSF can strikingly reduce 
+established disease in mouse models of arthritis. Mavrilimumab, a human 
+monoclonal antibody to GM-CSF receptor α, is a competitive antagonist of GM-CSF 
+signaling. Phase I and II studies have shown good clinical response with a good 
+safety profile in patients with mild to moderate RA, suggesting encouraging 
+effects of mavrilimumab for the treatment of RA. This paper reviews the 
+preclinical and clinical data evaluating the safety, tolerability, and efficacy 
+of mavrilimumab in the treatment of RA.

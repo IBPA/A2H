@@ -1,0 +1,22 @@
+Pro-inflammatory cytokines and chemokines play critical roles in autoimmune 
+diseases including rheumatoid arthritis (RA). Recently, it has been reported 
+that β-arrestin 1 and 2 are involved in the regulation of inflammation. We 
+hypothesized that β-arrestin 1 and 2 play critical roles in murine models of RA. 
+Using a collagen-induced arthritis (CIA) and a human TNFα transgenic (TNFtg) 
+mouse model, we demonstrated that β-arrestin 1 and 2 expression are 
+significantly increased in joint tissue of CIA mice and TNFtg mice. In 
+fibroblast-like synoviocytes (FLS) isolated from hind knee joint of CIA mice, we 
+observed an increase of β-arrestin 1 and 2 protein and mRNA levels in the early 
+stage of arthritis. In FLS, low molecular weight hyaluronan (HA)-induced TNFα 
+and IL-6 production was increased by overexpression of β-arrestin 1 but 
+decreased by overexpression of β-arrestin 2 demonstrating isoform specific 
+regulation. TNFα and HA induced an increase of β-arrestin 1 and 2 expression in 
+FLS, while high mobility group box (HMGB)-1 only stimulated β-arrestin 1 
+expression. TNFα- or HA-induced β-arrestin 2 expression was blocked by a p38 
+inhibitor. To examine the in vivo role of β-arrestin 2 in the pathogenesis of 
+arthritis, WT and β-arrestin 2 KO mice were subjected to collagen 
+antibody-induced arthritis (CAIA). β-Arrestin 2 KO mice exhibited more severe 
+arthritis in CAIA. Thus β-arrestin 2 is anti-inflammatory in CAIA. These 
+composite observations suggest that β-arrestin 1 and 2 differentially regulate 
+FLS inflammation and increased β-arrestin 2 may reduce experimental arthritis 
+severity.

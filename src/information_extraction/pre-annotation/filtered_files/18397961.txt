@@ -1,0 +1,24 @@
+OBJECTIVES: The eventual role of a disintegrin and a metalloproteinase 8 (ADAM8) 
+in osteoclastogenesis was studied in erosive rheumatoid arthritis (RA) and in 
+vitro.
+METHODS: ADAM8 protein and mRNA expression was measured in RA pannus and 
+synovitis and compared to osteoarthritic (OA) synovial membrane. Human monocytes 
+were isolated and stimulated with proinflammatory cytokines and their ADAM8 
+expression and surface ADAM8 were measured. Human peripheral blood monocytes and 
+RAW 264.7 mouse monocyte/macrophage cells were stimulated to osteclast 
+like-cells, and their expression of ADAM8 and osteoclastic markers (calcitonin 
+receptor, integrin beta 3, cathepsin K, TRAP) were analysed. Transfection and 
+small interfering RNA (siRNA) were used to assess the role of ADAM8 in formation 
+of polykaryons.
+RESULTS: Increased numbers of ADAM8 positive cells were shown particularly in 
+the pannus-cartilage/bone junction close or adjoining to TRAP positive 
+multinucleate cells under formation (60 (2)% in pannus, 47 (2)% in synovitis vs 
+10 (1)% in OA, p<0.001). Human pannus contained high ADAM8 mRNA copy numbers (23 
+(7) in pannus, 14 (4) in synovitis vs 1.7 (0.3) in OA, p<0.001). Functional 
+studies in vitro disclosed ADAM8 mRNA and protein, which was first converted to 
+a proteolytically active and then to fusion-active form. Gene transfection and 
+siRNA experiments enhanced and inhibited, respectively, expression of osteoclast 
+markers and maturation of multinuclear cells.
+CONCLUSIONS: ADAM8 may be involved in bone destruction in RA because it is 
+upregulated in RA pannus adjacent to developing erosions and enhances maturation 
+of osteoclast-like cells.

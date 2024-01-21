@@ -1,0 +1,19 @@
+It was recently shown that vascular endothelial growth factor (VEGF), a growth 
+factor for endothelial cells, plays a pivotal role in rheumatoid arthritis. VEGF 
+binds to specific receptors, known as VEGF-RI and VEGF-RII. We assessed the 
+physical and histological effects of selective blockade of VEGF and its 
+receptors in transgenic K/BxN mice, a model of rheumatoid arthritis very close 
+to the human disease. Mice were treated with anti-mouse VEGF Ab, anti-mouse 
+VEGF-RI and -RII Abs, and an inhibitor of VEGF-RI tyrosine kinase. Disease 
+activity was monitored using clinical indexes and by histological examination. 
+We found that synovial cells from arthritic joints express VEGF, VEGF-RI, and 
+VEGF-RII. Treatment with anti-VEGF-RI strongly attenuated the disease throughout 
+the study period, while anti-VEGF only transiently delayed disease onset. 
+Treatment with anti-VEGF-RII had no effect. Anti-VEGF-RI reduced the intensity 
+of clinical manifestations and, based on qualitative and semiquantitative 
+histological analyses, prevented joint damage. Treatment with a VEGF-RI tyrosine 
+kinase inhibitor almost abolished the disease. These results show that VEGF is a 
+key factor in pannus development, acting through the VEGF-RI pathway. The 
+observation that in vivo administration of specific inhibitors targeting the 
+VEGF-RI pathway suppressed arthritis and prevented bone destruction opens up new 
+possibilities for the treatment of rheumatoid arthritis.

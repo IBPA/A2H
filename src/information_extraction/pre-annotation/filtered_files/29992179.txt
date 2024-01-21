@@ -1,0 +1,31 @@
+OBJECTIVES: Cathepsin K is expressed by osteoclasts and synovial fibroblasts and 
+degrades key components of bone and cartilage. Inhibition of cathepsin K 
+protease activity may be beneficial for the prevention of bone erosion and 
+cartilage degradation in rheumatoid arthritis (RA). The collagen-induced 
+arthritis (CIA) rat model is well established for studying the pathology and 
+treatment of RA. We investigated the effect of ONO-KK1-300-01, a cathepsin K 
+inhibitor (CKI), on arthritis and bone mineral density (BMD) in rats with CIA.
+METHODS: Seven-month-old female Sprague Dawley rats were divided into 5 groups: 
+rats without CIA (CNT); CIA rats that underwent ovariectomy (OVX) and were 
+treated with CKI; CIA rats that underwent OVX and were treated with vehicle 
+(Veh); CIA rats that underwent sham surgery and were treated with CKI; and CIA 
+rats that underwent sham surgery and were treated with Veh. CKI was orally 
+administered at a dose of 15 mg/kg, thus initiating collagen sensitization, 
+until death at 4 weeks. We evaluated hind paw thickness and the arthritis score 
+every week until death. Radiographs of the resected left foot were obtained with 
+a soft X-ray apparatus. Destruction of bone and cartilage was classified and 
+scored as previously described by Engelhardt et al. BMD was measured by bone 
+densitometry at the halfway point between the distal metaphysis and the 
+diaphysis of the resected right femur. We also performed histomorphometry of the 
+proximal left tibia, histological evaluation of arthritis, and a bone strength 
+test.
+RESULTS: CKI administration significantly reduced hind paw thickness and the 
+arthritis score, and prevented a decrease in BMD. The radiographic score was 
+significantly lower in the CKI group than in the Veh group. In the 
+histomorphometric analysis, bone-resorption parameters were significantly lower 
+in the CKI groups than in the Veh groups. CKI significantly inhibited synovial 
+proliferation in the CIA rats. In the bone strength test, the ultimate stress 
+was significantly higher in the CKI groups than in the Veh groups.
+CONCLUSION: Our findings indicate that cathepsin K inhibitors may inhibit 
+systemic and local bone loss, ameliorate arthritis, and attenuate the decrease 
+of bone strength in an animal model of arthritis.

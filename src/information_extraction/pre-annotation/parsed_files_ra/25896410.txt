@@ -1,0 +1,28 @@
+BACKGROUND: Caesalpinia sappan L. extracts exhibit great therapeutic potential, 
+and have been shown to have analgesic and anti-inflammatory properties. This 
+study aimed to understand the anti-rheumatoid activity of brazilin that was 
+isolated from ethyl acetate extract of C. sappan L. The evaluations were 
+conducted in mice with type-II collagen-induced arthritis (CIA).
+METHODS: Brazilin was purified via preparative HPLC and identified by mass 
+spectrometry and 1H/13C NMR analysis. DBA/1J mice were divided into four groups 
+(n=10). Three groups of mice received intradermal injections of inducer bovine 
+type-II collagen (BTIIC; 2 mg/ml in 0.05 ml acetic acid) and 0.1 ml of booster 
+complete Freund's adjuvant (CFA). A second injection of BTIIC with booster 
+incomplete Freund's adjuvant (ICFA) was given subsequently after 21 days. On 
+22nd day, purified brazilin (10 mg/kg body weight) or the disease-modifying 
+anti-rheumatic drug methotrexate (3 mg/kg body weight) was administered 
+intraperitoneally daily or every three days for 21 days, respectively to two 
+groups of mice. At the 42nd day, mice sera were collected, and the levels of 
+pro-inflammatory cytokines and stress enzyme markers in serum were measured 
+using standard immunoassay methods. The microstructure and morphometric analyses 
+of the bones were assessed using high-resolution microfocal computed tomography.
+RESULTS: Brazilin isolated from C. sappan reduced the arthritis index score and 
+the extent of acute inflammatory paw edema in CIA-mice. The bone mineral density 
+was significantly (p<0.05) lower in only-CIA mice, and appeared to increase 
+commensurate with methotrexate and brazilin administration. Brazilin prevented 
+joint destruction, surface erosion, and enhanced bone formation as revealed by 
+microstructural examinations. Brazilin markedly attenuated mouse CIA and reduced 
+the serum levels of inflammatory cytokines including TNF-α, IL-1β, and IL-6.
+CONCLUSIONS: Brazilin purified from C. sappan L. shows protective efficacy in 
+CIA mouse, and may be useful to treat chronic inflammatory disorders including 
+rheumatoid arthritis.

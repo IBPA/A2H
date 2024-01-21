@@ -1,0 +1,17 @@
+Antibiotic-resistant bacteria is a major threat to human health and is predicted 
+to become the leading cause of death from disease by 2050. Despite the recent 
+resurgence of research and development in the area, few antibiotics have reached 
+the market, with most of the recently approved antibiotics corresponding to new 
+uses for old antibiotics, or structurally similar derivatives thereof. We have 
+recently reported an in silico approach that led to the design of an entirely 
+new class of antibiotics for the bacteria-specific mechanosensitive ion channel 
+of large conductance: MscL. Here, we present the preclinical development of one 
+such antibiotic, Ramizol, a first generation antibiotic belonging to that class. 
+We present the lack of interaction between Ramizol and other mammalian channels 
+adding credibility to its MscL selectivity. We determine the pharmacokinetic 
+profile in a rat model and show <0.1% of Ramizol is absorbed systemically. We 
+show this non-systemic nature of the antibiotic translates to over 70% survival 
+of hamsters in a Clostridium difficile colitis model. Lastly, initial in vitro 
+data indicate that resistance to Ramizol occurs at a low frequency. In 
+conclusion, we establish the potential of Ramizol as an effective new treatment 
+for C. difficile associated disease.

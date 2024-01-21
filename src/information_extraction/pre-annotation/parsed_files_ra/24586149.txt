@@ -1,0 +1,27 @@
+Interleukin-33 (IL-33) is associated with multiple diseases, including asthma, 
+rheumatoid arthritis, tissue injuries and infections. Although IL-33 has been 
+indicated to be involved in Staphylococcus aureus (S. aureus) wound infection, 
+little is known about how IL-33 is regulated as a mechanism to increase host 
+defense against skin bacterial infections. To explore the underlying intricate 
+mechanism we first evaluated the expression of IL-33 in skin from S. 
+aureus-infected human patients. Compared to normal controls, IL-33 was 
+abundantly increased in skin of S. aureus-infected patients. We next developed a 
+S. aureus cutaneous infection mouse model and found that IL-33 was significantly 
+increased in dermal macrophages of infected mouse skin. The expression of IL-33 
+by macrophages was induced by staphylococcal peptidoglycan (PGN) and 
+lipoteichoic acid (LTA) via activation of toll-like receptor 
+2(TLR2)-mitogen-activated protein kinase (MAPK)-AKT-signal transducer and 
+activator of transcription 3(STAT3) signaling pathway as PGN and LTA failed to 
+induce IL-33 in Tlr2-deficient peritoneal macrophages, and MAPK,AKT, STAT3 
+inhibitors significantly decreased PGN- or LTA-induced IL-33. IL-33, in turn, 
+acted on macrophages to induce microbicidal nitric oxygen (NO) release. This 
+induction was dependent on inducible nitric oxide synthase (iNOS) activation, as 
+treatment of macrophages with an inhibitor of iNOS, aminoguanidine, 
+significantly decreased IL-33-induced NO release. Moreover, aminoguanidine 
+significantly blocked the capacity of IL-33 to inhibit the growth of S. aureus, 
+and IL-33 silencing in macrophages significantly increased the survival of S. 
+aureus in macrophages. Furthermore, the administration of IL-33-neutralizing 
+antibody into mouse skin decreased iNOS production but increased the survival of 
+S. aureus in skin. These findings reveal that IL-33 can promote antimicrobial 
+capacity of dermal macrophages, thus enhancing antimicrobial defense against 
+skin bacterial infections.

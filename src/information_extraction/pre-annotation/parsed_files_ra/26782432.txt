@@ -1,0 +1,20 @@
+The pathogenesis of rheumatoid arthritis (RA) is characterized by inflammation. 
+We aimed to examine the roles of double-stranded RNA-activated protein kinase 
+(PKR) and high-mobility group box chromosomal protein 1 (HMGB1) in a rat model 
+of RA. Male SD rats were divided into three groups: control, RA model, and 
+intervention (RA model plus treatment). The model of RA was made by injecting 
+Freund's adjuvant into the posterior right limb of the rat and the intervention 
+group received a PKR-specific inhibitor C16 after RA modeling. The degree of 
+limb swelling was measured following RA modeling and intervention. In addition, 
+plasma levels of HMGB1 were determined using ELISA. The mRNA and protein levels 
+of PKR and HMGB1 were detected in rat synovium using quantitative PCR and 
+western blot, respectively. The degree of limb swelling in the RA model was 
+increased compared to control, while it was decreased in the intervention model 
+compared to the RA model. Plasma HMGB1 levels in the model group were 
+significantly higher compared to the control group but were lower in the 
+intervention group compared to the model group. PKR and HMGB1 protein and mRNA 
+levels in the rat synovium were elevated in the model group and markedly reduced 
+in the intervention group. Increased levels of PKR and HMGB1 in synovium or 
+blood appear to be involved in the occurrence and development of RA in a rat 
+model. Selective inhibition of PKR improves the symptoms of RA, perhaps by 
+inhibiting the release of HMGB1.

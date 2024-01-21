@@ -1,0 +1,20 @@
+Clostridium difficile remains a leading nosocomial pathogen, putting 
+considerable strain on the healthcare system. The ability to form endospores, 
+highly resistant to environmental insults, is key to its persistence and 
+transmission. However, important differences exist between the sporulation 
+pathways of C. difficile and the model Gram-positive organism Bacillus subtilis. 
+Amongst the challenges in studying sporulation in C. difficile is the relatively 
+poor levels of sporulation and high heterogeneity in the sporulation process. To 
+overcome these limitations we placed Ptet regulatory elements upstream of the 
+master regulator of sporulation, spo0A, generating a new strain that can be 
+artificially induced to sporulate by addition of anhydrotetracycline (ATc). We 
+demonstrate that this strain is asporogenous in the absence of ATc, and that ATc 
+can be used to drive faster and more efficient sporulation. Induction of Spo0A 
+is titratable and this can be used in the study of the spo0A regulon both in 
+vitro and in vivo, as demonstrated using a mouse model of C. difficile infection 
+(CDI). Insights into differences between the sporulation pathways in B. subtilis 
+and C. difficile gained by study of the inducible strain are discussed, further 
+highlighting the universal interest of this tool. The Ptet-spo0A strain provides 
+a useful background in which to generate mutations in genes involved in 
+sporulation, therefore providing an exciting new tool to unravel key aspects of 
+sporulation in C. difficile.

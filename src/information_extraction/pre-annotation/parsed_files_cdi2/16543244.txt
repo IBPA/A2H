@@ -1,0 +1,18 @@
+In mucosal secretions, secretory component (SC) is found either free or bound to 
+polymeric IgA within the secretory IgA complex. SC displays numerous and various 
+glycans, which are potential ligands for bacterial compounds. We first 
+established that human SC (hSC) purified from colostrum (hSCcol) or produced in 
+Chinese hamster ovary cells (hSCrec) exhibits the same lectin reactivity. Both 
+forms bind to Clostridium difficile toxin A and functionally protect polarized 
+Caco-2 cell monolayers from the cytopathic effect of the toxin. The interaction 
+is mediated by glycans present on hSC and involves galactose and sialic acid 
+residues. hSCcol and hSCrec were also shown to bind enteropathogenic Escherichia 
+coli adhesin intimin and to inhibit its infectivity on HEp-2 cells in a 
+glycan-dependent manner as well. SC remained operative in the context of the 
+whole secretory IgA molecule and can therefore enhance its Fab-mediated 
+neutralizing properties. On the contrary, hSC did not interact with three 
+different strains of rotavirus (RF, RRV, and SA11). Accordingly, infection of 
+target MA104 cells with these rotavirus strains was not reduced in the presence 
+of either form of hSC tested. Although not a universal mechanism, these findings 
+identify hSC as a microbial scavenger contributing to the antipathogenic arsenal 
+that protects the body epithelial surfaces.

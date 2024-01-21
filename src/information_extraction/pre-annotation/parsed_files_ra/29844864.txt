@@ -1,0 +1,24 @@
+This study investigated whether microRNA-146a (miR-146a) mediating TLR4/NF-κB 
+pathway affected proliferation and inflammatory responses of rheumatoid 
+arthritis fibroblast-like synoviocytes from 12 RA patients (RA-FLSs). FLSs in 
+the logarithmic growth phase were assigned into the control, miR-146a mimic 
+miR-146a inhibitor, Tak-242 (treated with TLR4/NF-κB pathway inhibitor) and 
+mimic + lipopolysaccharide (LPS) groups. Cell proliferation and apoptosis were 
+detected using CCK-8 assay and flow cytometry. The expression of miR-146a, 
+TLR4/NF-κB pathway-related proteins and cytokines were determined by RT-qPCR, 
+western blotting and ELISA, and the release of NO by Greiss reaction. RA rat 
+models were constructed and the primary cells were classified into the control, 
+negative control (NC), miR-146a mimic, miR-146a inhibitor, Tak-242, mimic + LPS, 
+and TLR4 groups. Immunohistochemistry was used to detect the expression of 
+proliferating cell nuclear antigen (PCNA) and intercellular adhesion molecular-1 
+(ICAM-1). The results showed that miR-146a levels were lower in RA-FLSs than 
+control fibroblasts. miR-146a mimic and Tak-242 decreased RA-FLS proliferation 
+and increased RA-FLS apoptosis, while miR-146a inhibitor had an opposite trend. 
+miR-146a mimic and Tak-242 also decreased expression of TLR4, NF-κB, IL-1β, 
+IL-6, IL-8, IL-17, COX-2, MMP-3, Seprase, and iNOS, as well as reduced NO level 
+in RA-FLSs while miR-146a inhibitor and TLR4 increased them. TLR4 and NF-κB 
+levels and the positive rates of PCNA and ICAM-1 expressions were lower in 
+RA-FLSs from RA rats given miR-146a mimic from control or miR-146a 
+inhibitor-treated rats. These results suggest that miR-146a inhibits the 
+proliferation and inflammatory response of RA-FLSs by down-regulating TLR4/NF-κB 
+pathway.

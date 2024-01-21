@@ -1,0 +1,20 @@
+BACKGROUND: We recently synthesized a hydrophilic polymer, 
+poly(N-(2-hydroxypropyl)methacrylamide-co-N-(3-azidopropyl)methacrylamide), 
+p(HPMA-co-AzMA), by RAFT polymerization using a novel azide-containing 
+methacrylamide monomer that through a post modification strategy using click 
+chemistry enabled facile preparation of a panel of versatile and well-defined 
+bioconjugates. In this work we screen a panel of different molecular weight (Mw) 
+fluorescently tagged p(HPMA-co-AzMA) in healthy mice, by live bioimaging, to 
+select an extended circulatory half-life material for investigating joint 
+accumulation in a murine collagen antibody-induced arthritis model.
+FINDINGS: Fluorescence image analysis revealed half-lifes of <20 min, 2.8 h and 
+6.4 h for p(HPMA-co-AzMA) of 15, 36 and 54 kDa, respectively, with ~10% polymer 
+retained in the blood after 24 h for the highest Mw. p(HPMA-co-AzMA) of 54 kDa 
+showed enhanced accumulation in the joints of the arthritic mouse model with a 
+bioavailability (AUC = 1783% · h) ~12 times higher (P = 0.01) than healthy 
+control (AUC = 148% · h).
+CONCLUSIONS: p(HPMA-co-AzMA) of 54 kDa exhibited extended circulatory half-life 
+and preferential accumulation in inflamed joints of a murine model of rheumatoid 
+arthritis (RA). This combined with well-defined polymer size and versatility for 
+conjugation of a range of biomolecules promotes p(HPMA-co-AzMA) for potential 
+applications in the delivery of drugs for treatment of RA.

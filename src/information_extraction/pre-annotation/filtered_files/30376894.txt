@@ -1,0 +1,25 @@
+BACKGROUND: Different adiponectin isoforms appear to be differentially involved 
+in the pathogenesis of various diseases. The purpose of this study was to 
+generate monoclonal antibodies (mAbs) specific to different adiponectin isoforms 
+and investigate whether these mAbs have potential as therapeutic agents for such 
+diseases.
+METHODS: Hybridoma cells producing monoclonal antibodies were generated and 
+screened using enzyme-linked immunosorbent assay and Western blotting for the 
+production of mAbs recognizing human adiponectin isoforms.
+RESULTS: The mAb from hybridoma clone KH7-41 recognized both the middle 
+molecular weight (MMW) (hexamer) and low molecular weight (LMW) (trimer) 
+isoforms of adiponectin in human serum, whereas the KH7-33 mAb detected only MMW 
+(hexamer) adiponectin. The KH4-8 clone recognized both the high molecular weight 
+(HMW) (multimer) and MMW adiponectin isoforms. However, in mouse and rat sera, 
+the abovementioned antibodies recognized only the MMW isomer. These mAbs also 
+recognized adiponectin in various human tissues, such as lung, kidney, and 
+adipose tissues, although the three mAbs had different staining intensities. The 
+mAb from clone KH4-8 effectively inhibited increases in interleukin-6 (IL-6) and 
+IL-8 expression in recombinant adiponectin-stimulated human osteoblasts and 
+human umbilical vein endothelial cells. Also, the mAbs KH7-33 and KH4-8 
+significantly ameliorated rheumatic symptoms in a collagen-induced arthritis 
+mouse model. This result suggests that these mAb treatments may ameliorate 
+adiponectin-mediated inflammatory response.
+CONCLUSIONS: mAbs against human adiponectin isomers can potentially be developed 
+as therapeutic antibodies to target specific detrimental isoforms of adiponectin 
+while maintaining the functions of beneficial isoforms.

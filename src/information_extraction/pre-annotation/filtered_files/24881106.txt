@@ -1,0 +1,19 @@
+Rheumatoid arthritis (RA) and osteoarthritis (OA) are serologically and 
+clinically distinctive, but at the local level, both diseases have many 
+molecular pathways in common. In vivo molecular imaging can unravel the local 
+pathologic processes involved in both diseases. In this study, we investigated 
+matrix metalloproteinase (MMP) and cathepsin activity during cartilage 
+destruction, in an RA and an OA mouse model, using biophotonic imaging of 
+substrate-based probes. Mice with collagen-induced arthritis (CIA) or 
+destabilization of the medial meniscus (DMM) were imaged using near-infrared 
+fluorescent probes, activated by several cathepsins or MMPs. Fluorescence signal 
+intensity was compared to synovial gene expression, histology, and cartilage 
+staining of a neoepitope of aggrecan cleaved by MMPs with the amino acids DIPEN. 
+Increased cathepsin and MMP activity was seen during CIA, whereas the DMM model 
+only showed increased MMP activity. DIPEN expression was seen only during CIA. A 
+possible explanation can be differences in gene expressions; MMP3 and -13, known 
+to produce DIPEN neoepitopes, were upregulated in the CIA model, whereas MMP12, 
+known to be involved in elastin degradation and chemokine inhibition, was 
+upregulated in the DMM model. Thus, molecular imaging showed no cathepsin 
+activity at the time of cartilage damage in the DMM model, whereas both 
+cathepsins and MMPs are active in the CIA model during disease progression.

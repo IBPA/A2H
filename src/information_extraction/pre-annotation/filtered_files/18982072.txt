@@ -1,0 +1,32 @@
+BACKGROUND: One of the hallmarks of rheumatoid arthritis (RA) is hyperplasia and 
+inflammation of the synovial tissue being characterized by in situ occurrence of 
+highly differentiated leukocytes. Fms-like tyrosine kinase 3 (Flt3) has a 
+crucial role in hematopoiesis, regulation of cell proliferation, differentiation 
+and apoptosis. Typically, Flt3 is expressed on early myeloid and lymphoid 
+progenitors and is activated by its soluble ligand (Flt3-L). The highly 
+differentiated cellular pattern in the synovium of the RA patients made us 
+hypothesize that Flt3-L, with its ability to induce proliferation and 
+differentiation, could be of importance in induction and/or progression of 
+arthritis.
+METHODOLOGY/PRINCIPAL FINDINGS: To investigate occurrence of Flt3-L in RA we 
+have measured its levels in matched serum and synovial fluid samples from 130 
+patients and 107 controls. To analyse the pro-inflammatory role of Flt3-L, we 
+continuously overexpressed this protein locally in healthy mouse joints using 
+homologous B-cell line transfected with Flt3-L gene. Additionally, recombinant 
+Flt3-L was instillated intra-articularly in combination with peptidoglycans, a 
+Toll Like Receptor 2-ligand with stong arthritogenic properties. Our results 
+show significantly higher levels of Flt3-L in the synovial fluid as compared to 
+serum levels in RA subjects (p = 0.0001). In addition, RA synovial fluid levels 
+of Flt-3-L were significantly higher than these obtained from synovial fluids 
+originating from non-inflammatory joint diseases (p = 0.022). Intra-articular 
+administration of B-cell line transfected with Flt3-L gene resulted in highly 
+erosive arthritis while inoculation of the same B-cell line without 
+hyperexpression of Flt3-L did not induce erosivity and only in a minority of 
+cases caused synovial proliferation! Flt3-ligand potentiated peptidoglycan 
+induced arthritis as compared to mice injected with peptidoglycan alone 
+(p<0.05).
+CONCLUSIONS/SIGNIFICANCE: Our findings indicate that Flt3-L is strongly 
+expressed at the site of inflammation in human RA. It exerts both 
+pro-inflammatory and tissue destructive properties once in the joint cavity. 
+Owing to these properties, treatment attempts to neutralize this molecule should 
+be considered in RA.

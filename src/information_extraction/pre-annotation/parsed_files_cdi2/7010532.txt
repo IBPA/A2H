@@ -1,0 +1,24 @@
+Partially purified cytopathogenic toxin from Clostridium difficile induced 
+morphological changes in five cell lines in tissue culture. The relative 
+sensitivity scale of the cell lines was human lung and intestinal fibroblasts 
+greater than Chinese hamster ovary cells much greater than mouse adrenal cells 
+greater than mouse neuroblastoma cells. The cytopathogenic effect did not occur 
+in toxin-treated lung fibroblasts incubated at 0 degree C. Pre-incubation of 
+lung fibroblasts with 2,4-dinitrophenol prevented the cytopathogenic effect. The 
+toxin bound to as yet unidentified receptors at the surface of human lung and 
+intestinal fibroblasts. The toxin-induced morphological (actinomorphic) changes 
+in lung and intestinal fibroblasts closely resembled the effects induced by the 
+fungal metabolite cytochalasin B (CB), which is known to disrupt microfilaments 
+reversibly. Indirect immunofluorescence with anti-actin antiserum demonstrated 
+that the C. difficile toxin disrupted the straight actin filament bundles seen 
+in normal fibroblasts. The cytopathogenic effect became apparent 3--5 h after 
+exposure to toxin. However, irreversible intoxication occurred already within 20 
+min of exposure, as toxin-treated fibroblasts which were trypsinized and 
+reseeded were not able to attach to the solid substratum and regenerate their 
+typical shape, a process requiring reorganization of actin into microfilament 
+bundles. Two possible different modes of action of the toxin, leading to 
+microfilament disruption, are suggested: 1) Transmembrane signal by 
+surface-bound toxin via microfilament-linked integral membrane protein(s) and 2) 
+Penetration of surface-bound whole toxin or an active fragment, followed by its 
+intracellular action. The experimental evidence so far is consistent with either 
+of these mechanisms.

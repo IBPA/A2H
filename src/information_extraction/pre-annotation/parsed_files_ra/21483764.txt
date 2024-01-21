@@ -1,0 +1,29 @@
+BACKGROUND: Human T-cell leukemia virus type I (HTLV-1) can cause an aggressive 
+malignancy known as adult T-cell leukemia/lymphoma (ATL) as well as inflammatory 
+diseases such as HTLV-1-associated myelopathy/tropical spastic paraparesis 
+(HAM/TSP). A transgenic mouse that expresses HTLV-1 Tax also develops T-cell 
+leukemia/lymphoma and an inflammatory arthropathy that resembles rheumatoid 
+arthritis. The aim of this study was to identify the primary T-cell subsets 
+involved in the development of arthropathy in Tax transgenic mice.
+PRINCIPAL FINDINGS: By 24 months of age, Tax transgenic mice developed severe 
+arthropathy with a cumulative incidence of 22.8%. The pathological findings of 
+arthropathy in Tax transgenic mice were similar to those seen in human 
+rheumatoid arthritis or mouse models of rheumatoid arthritis, with synovial 
+proliferation and a positive rheumatoid factor. Before the onset of spontaneous 
+arthropathy, young and old Tax transgenic mice were not sensitive to collagen 
+and did not develop arthritis after immunization with type II collagen. The 
+arthropathic Tax transgenic mice showed a significantly decreased proportion of 
+splenic CD4(+) T cells, whereas the proportion of splenic CD8(+) T cells was 
+increased. Regulatory T cells (CD4(+)CD25(+)Foxp3(+)) were significantly 
+decreased and CD8(+) T cells that expressed the chemokine receptor CCR4 
+(CD8(+)CCR4(+)) were significantly increased in arthropathic Tax transgenic 
+mice. The expression of tax mRNA was strong in the spleen and joints of 
+arthropathic mice, with a 40-fold increase compared with healthy transgenic 
+mice.
+CONCLUSIONS: Our findings reveal that Tax transgenic mice develop 
+rheumatoid-like arthritis with proliferating synovial cells in the joints; 
+however, the proportion of different splenic T-cell subsets in these mice was 
+completely different from other commonly used animal models of rheumatoid 
+arthritis. The crucial T-cell subsets in arthropathic Tax transgenic mice appear 
+to resemble those in HAM/TSP patients rather than those in rheumatoid arthritis 
+patients.

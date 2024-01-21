@@ -1,0 +1,23 @@
+Effector memory T lymphocytes (TEM cells) that lack expression of CCR7 are major 
+drivers of inflammation in a number of autoimmune diseases, including multiple 
+sclerosis and rheumatoid arthritis. The Kv1.3 potassium channel is a key 
+regulator of CCR7- TEM cell activation. Blocking Kv1.3 inhibits TEM cell 
+activation and attenuates inflammation in autoimmunity, and as such, Kv1.3 has 
+emerged as a promising target for the treatment of TEM cell-mediated autoimmune 
+diseases. The scorpion venom-derived peptide HsTX1 and its analog HsTX1[R14A] 
+are potent Kv1.3 blockers and HsTX1[R14A] is selective for Kv1.3 over 
+closely-related Kv1 channels. PEGylation of HsTX1[R14A] to create a Kv1.3 
+blocker with a long circulating half-life reduced its affinity but not its 
+selectivity for Kv1.3, dramatically reduced its adsorption to inert surfaces, 
+and enhanced its circulating half-life in rats. PEG-HsTX1[R14A] is equipotent to 
+HsTX1[R14A] in preferential inhibition of human and rat CCR7- TEM cell 
+proliferation, leaving CCR7+ naïve and central memory T cells able to 
+proliferate. It reduced inflammation in an active delayed-type hypersensitivity 
+model and in the pristane-induced arthritis (PIA) model of rheumatoid arthritis 
+(RA). Importantly, a single subcutaneous dose of PEG-HsTX1[R14A] reduced 
+inflammation in PIA for a longer period of time than the non-PEGylated 
+HsTX1[R14A]. Together, these data indicate that HsTX1[R14A] and PEG-HsTX1[R14A] 
+are effective in a model of RA and are therefore potential therapeutics for TEM 
+cell-mediated autoimmune diseases. PEG-HsTX1[R14A] has the additional advantages 
+of reduced non-specific adsorption to inert surfaces and enhanced circulating 
+half-life.

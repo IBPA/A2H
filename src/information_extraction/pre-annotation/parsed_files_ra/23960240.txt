@@ -1,0 +1,20 @@
+IL-21 is a pluripotent cytokine that regulates B cell and plasma cell 
+differentiation and is thought be an autocrine factor for follicular helper T 
+cell (T(FH)) and Th17 differentiation. Although IL-21 has been implicated in 
+autoimmune diseases, its relevant cellular source and target cells have not been 
+well characterized. We investigated this issue in the K/BxN mouse model of 
+autoimmune arthritis. Adoptive transfer of KRN-transgenic CD4⁺ T cells into 
+appropriate hosts drives germinal center (GC) formation and autoantibody 
+production against glucose-6-phosphate isomerase, leading to joint inflammation 
+and destruction. By comparing transfer of T or B cells deficient in IL-21 or 
+IL-21R, we were able to dissect the contribution of each cell type. T cells 
+deficient in IL-21 did not induce GC formation or autoantibody production, but 
+they went through normal T(FH) differentiation. However, T cells lacking IL-21R 
+induced Ab titers, GC B cell frequency, and arthritis development similar to 
+wild-type T cells, suggesting that IL-21 is not required for T(FH) 
+differentiation and function. IL-21 acts on B cells, because IL-21R expression 
+on B cells was required to induce disease. In contrast, Th17 cells, a T cell 
+subset that also produces IL-21 and can provide help to B cells, are not 
+required for the GC response and arthritis. These data have implications in 
+developing effective therapies for rheumatoid arthritis and other Ab-mediated 
+autoimmune diseases.

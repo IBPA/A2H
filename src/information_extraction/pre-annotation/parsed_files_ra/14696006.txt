@@ -1,0 +1,14 @@
+It is important to obtain high resolution images of joints for the study of 
+disease, especially in rodent experimental models. We optimized (1)H magnetic 
+resonance imaging three-dimensional sequences at 7 T, with lipid signal 
+suppression, and T(1) and T(2) measurements for in-vivo experiments on rat 
+joints, in order to assess the effectiveness of high-field MRI. The method was 
+validated by applying it to the early diagnosis of arthritis. We studied the 
+progress of rheumatoid arthritis in an arthritic rat model. We observed the 
+rats' knees for 21 days after inducing arthritis. The images acquired over one 
+hour had a high resolution of 1.75 x 10(-3) mm(3), (105 x 105 x 145 microm(3)) 
+which allowed us to spot the early stages of joint degeneration, such as bone 
+erosion, and to observe an apparent 'MRI' loss of cartilage thickness, 
+attributed to dehydration of the cartilage tissue. The MR images obtained during 
+the early stages of rheumatoid arthritis enabled us to study joint changes 
+accurately before any histological signs of attack were visible.

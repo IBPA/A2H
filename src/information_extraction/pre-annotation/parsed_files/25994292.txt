@@ -1,0 +1,18 @@
+Bifidobacteria constitute a significant part of healthy intestinal microbiota in 
+adults and infants and present a promising platform for construction of 
+genetically modified probiotic agents for treatment of gastrointestinal 
+disorders. In this study, three strains of Bifidobacterium longum were 
+constructed that express and secrete biologically active single-chain antibodies 
+against human TNF-α and Clostridium difficile exotoxin A. Anti-TNF-α scFv 
+antibody D2E7 was produced at the level of 25 μg L(-1) in broth culture and was 
+mostly retained in the cytoplasm, while VHH-type antibodies A20.1 and A26.8 
+against C. difficile exotoxin A were produced at the levels of 0.3-1 mg L(-1) 
+and secreted very efficiently. The biological activity of both antibody types 
+was demonstrated in the mammalian cell-based assays. Expression of A20.1 and 
+A26.8 was also observed in vivo after intragastric administration of transformed 
+B. longum strains to (C57/BL6 × DBA/2)F1 mice. The obtained B. longum strains 
+may serve as prototypes for construction of novel probiotic medications against 
+inflammatory bowel disease and C. difficile-associated disease.
+
+© FEMS 2015. All rights reserved. For permissions, please e-mail: 
+journals.permissions@oup.com.

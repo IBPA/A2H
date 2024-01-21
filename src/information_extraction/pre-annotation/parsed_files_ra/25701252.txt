@@ -1,0 +1,16 @@
+SAR studies focused on improving the pharmacokinetic (PK) properties of the 
+previously reported potent and selective Btk inhibitor CGI-1746 (1) resulted in 
+the clinical candidate GDC-0834 (2), which retained the potency and selectivity 
+of CGI-1746, but with much improved PK in preclinical animal models. Structure 
+based design efforts drove this work as modifications to 1 were investigated at 
+both the solvent exposed region as well as 'H3 binding pocket'. However, in 
+vitro metabolic evaluation of 2 revealed a non CYP-mediated metabolic process 
+that was more prevalent in human than preclinical species (mouse, rat, dog, 
+cyno), leading to a high-level of uncertainly in predicting human 
+pharmacokinetics. Due to its promising potency, selectivity, and preclinical 
+efficacy, a single dose IND was filed and 2 was taken in to a single dose phase 
+I trial in healthy volunteers to quickly evaluate the human pharmacokinetics. In 
+human, 2 was found to be highly labile at the exo-cyclic amide bond that links 
+the tetrahydrobenzothiophene moiety to the central aniline ring, resulting in 
+insufficient parent drug exposure. This information informed the back-up program 
+and discovery of improved inhibitors.

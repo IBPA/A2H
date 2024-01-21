@@ -1,0 +1,31 @@
+OBJECTIVE: SH3BP2 is a signaling adapter protein which regulates immune and 
+skeletal systems. Gain-of-function mutations in SH3BP2 cause cherubism, 
+characterized by jawbone destruction. This study was aimed to examine the role 
+of SH3BP2 in inflammatory bone loss using a collagen-induced arthritis (CIA) 
+model.
+METHODS: CIA was induced in wild-type (Sh3bp2(+/+)) and heterozygous P416R 
+SH3BP2 cherubism mutant knock-in (Sh3bp2(KI/+)) mice, an SH3BP2 gain-of-function 
+model. Severity of the arthritis was determined by assessing the paw swelling 
+and histological analyses of the joints. Micro-CT analysis was used to determine 
+the levels of bone loss. Inflammation and osteoclastogenesis in the joints were 
+evaluated by quantitating the gene expression of inflammatory cytokines and 
+osteoclast markers. Furthermore, involvement of the T- and B-cell responses was 
+determined by draining lymph node cell culture and measurement of the serum 
+anti-mouse type II collagen antibody levels, respectively. Finally, roles of the 
+SH3BP2 mutation in macrophage activation and osteoclastogenesis were determined 
+by evaluating the TNF-α production levels and osteoclast formation in bone 
+marrow-derived M-CSF-dependent macrophage (BMM) cultures.
+RESULTS: Sh3bp2(KI/+) mice exhibited more severe inflammation and bone loss, 
+accompanying an increased number of osteoclasts. The mRNA levels for TNF-α and 
+osteoclast marker genes were higher in the joints of Sh3bp2(KI/+) mice. Lymph 
+node cell culture showed that lymphocyte proliferation and IFN-γ and IL-17 
+production were comparable between Sh3bp2(+/+) and Sh3bp2(KI/+) cells. Serum 
+anti-type II collagen antibody levels were comparable between Sh3bp2(+/+) and 
+Sh3bp2(KI/+) mice. In vitro experiments showed that TNF-α production in 
+Sh3bp2(KI/+) BMMs is elevated compared with Sh3bp2(+/+) BMMs and that 
+RANKL-induced osteoclastogenesis is enhanced in Sh3bp2(KI/+) BMMs associated 
+with increased NFATc1 nuclear localization.
+CONCLUSION: Gain-of-function of SH3BP2 augments inflammation and bone loss in 
+the CIA model through increased macrophage activation and osteoclast formation. 
+Therefore, modulation of the SH3BP2 expression may have therapeutic potential 
+for the treatment of rheumatoid arthritis.

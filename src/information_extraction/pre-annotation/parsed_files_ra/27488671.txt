@@ -1,0 +1,22 @@
+Calponin is an actin cytoskeleton-associated protein that regulates 
+motility-based cellular functions. Three isoforms of calponin are present in 
+vertebrates, among which calponin 2 encoded by the Cnn2 gene is expressed in 
+multiple types of cells, including blood cells from the myeloid lineage. Our 
+previous studies demonstrated that macrophages from Cnn2 knockout (KO) mice 
+exhibit increased migration and phagocytosis. Intrigued by an observation that 
+monocytes and macrophages from patients with rheumatoid arthritis had increased 
+calponin 2, we investigated anti-glucose-6-phosphate isomerase serum-induced 
+arthritis in Cnn2-KO mice for the effect of calponin 2 deletion on the 
+pathogenesis and pathology of inflammatory arthritis. The results showed that 
+the development of arthritis was attenuated in systemic Cnn2-KO mice with 
+significantly reduced inflammation and bone erosion than that in age- and stain 
+background-matched C57BL/6 wild-type mice. In vitro differentiation of calponin 
+2-null mouse bone marrow cells produced fewer osteoclasts with decreased bone 
+resorption. The attenuation of inflammatory arthritis was confirmed in 
+conditional myeloid cell-specific Cnn2-KO mice. The increased phagocytotic 
+activity of calponin 2-null macrophages may facilitate the clearance of 
+autoimmune complexes and the resolution of inflammation, whereas the decreased 
+substrate adhesion may reduce osteoclastogenesis and bone resorption. The data 
+suggest that calponin 2 regulation of cytoskeleton function plays a novel role 
+in the pathogenesis of inflammatory arthritis, implicating a potentially 
+therapeutic target.

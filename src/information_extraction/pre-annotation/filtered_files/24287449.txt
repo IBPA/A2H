@@ -1,0 +1,22 @@
+OBJECTIVE: To analyze the combination therapy of Sinomenine (SIN) and 
+Methotrexate (MTX) in rheumatoid arthritis (RA), we herein demonstrated the 
+combination effect of SIN and MTX on collagen-induced arthritis (CIA) in rats 
+through their modulation on osteoclast-related cytokines.
+METHODS: CIA was induced by the immunization of type II collagen (CII) in SD 
+rats. SIN and MTX were administrated alone or in combination after the onset of 
+arthritis. Arthritis index and histological analysis were used to evaluate the 
+effect of treatments. Effects of SIN and MTX on expression of receptor activator 
+of NF-κB ligand (RANKL) and osteopontin (OPN) in synovial tissues were assayed 
+by immunohistochemistry. RANKL, osteoprotegerin (OPG), IL-6, IL-17 and matrix 
+metalloproteinases (MMPs) in rat serum were measured by ELISA. The expression of 
+osteoclast-related cytokines in fibroblast-like synoviocytes (FLS) from RA 
+patients was assayed by RT-PCR.
+RESULTS: SIN and MTX combination additively reduced the inflammatory symptoms 
+and joint damage in CIA. Combination of SIN and MTX significantly repressed 
+synovial RANKL and OPN production. SIN and MTX exhibited complementary and 
+synergistic effect upon down-regulating RANKL, IL-6, IL-17 and MMPs in rat 
+serum. SIN and MTX also modulated the expression of RANKL and OPG in RA-FLS.
+CONCLUSION: SIN and MTX have additive effects, decreasing inflammation and joint 
+damage in CIA rats by modulating osteoclast-related cytokines. These results are 
+indicative of the combined effect of SIN and MTX for anti-arthritic treatment in 
+RA.

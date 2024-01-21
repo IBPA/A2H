@@ -1,0 +1,19 @@
+As a means to analyze anti-inflammatory effects by radiation and/or by 
+cholinergic mechanisms, we found that cultured primary human osteoblasts express 
+most cholinergic components. After X-ray irradiation, their level of 
+acetylcholinesterase (AChE) was strongly elevated. As a 3D model, we cultured 
+mesenchymal stem cells isolated from E11 mouse embryos as micromass nodules, and 
+differentiated them into chondro- and osteoblasts. They were stimulated by 5 or 
+10 ng/ml of the inflammatory cytokine TNF-α to mimic an inflammatory condition 
+in vitro, before exposure to 2 Gy X-rays. Effects on chondro- and osteoblasts of 
+TNF-α, of X-rays, or both were analysed by Alcian Blue, or Alizarin Red 
+staining, respectively. Acetylcholinesterase (AChE) activity was visualized 
+histochemically. The results showed that treatment with TNF-α affected cartilage 
+and bone formation in vitro, while X-rays reversed the effects of TNF-α. After 
+irradiation, both AChE and alkaline phosphatase (ALP) activities, a marker for 
+bone mineralization, were raised, suggesting that X-rays stimulated cholinergic 
+mechanisms during calcification. Notably, the TNFα-effects on cultures were also 
+counterbalanced after AChE activity was blocked by BW284c51. These findings 
+suggest a complex crosstalk between radiation, cholinergic and inflammatory 
+mechanisms, which could have wide significances, e.g. for understanding 
+rheumatoid arthritis.

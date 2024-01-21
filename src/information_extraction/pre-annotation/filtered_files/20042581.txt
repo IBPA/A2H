@@ -1,0 +1,17 @@
+The mammalian clock genes, Period and Cryptochrome (Cry), regulate circadian 
+rhythm. We show that circadian rhythmicity and rhythmic expression of Period in 
+the nuclei of inflammatory synovial cells and spleen cells are disturbed in 
+mouse models of experimental arthritis. Expressions of other clock genes, Bmal1 
+and Dbp, are also disturbed in spleen cells by arthritis induction. Deletion of 
+Cry1 and Cry2 results in an increase in the number of activated CD3(+) CD69(+) T 
+cells and a higher production of TNF-alpha from spleen cells. When arthritis is 
+induced, Cry1(-/-)Cry2(-/-) mice develop maximal exacerbation of joint swelling, 
+and upregulation of essential mediators of arthritis, including TNF-alpha, 
+IL-1beta and IL-6, and matrix metalloproteinase-3. Wee-1 kinase is solely 
+upregulated in Cry1(-/-)Cry2(-/-) mice, in line with upregulation of c-Fos and 
+Wee-1 kinase in human rheumatoid arthritis. The treatment with anti-TNF-alpha Ab 
+significantly reduced the severity and halted the progression of the arthritis 
+of Cry1(-/-)Cry2(-/-) mice and vice versa, ectopic expression of Cry1 in the 
+mouse embryonic fibroblast from Cry1(-/-)Cry2(-/-) mice significantly reduced 
+the trans activation of TNF-alpha gene. Thus, the biological clock and arthritis 
+influence each other, and this interplay can influence human health and disease.

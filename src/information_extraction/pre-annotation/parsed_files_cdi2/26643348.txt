@@ -1,0 +1,23 @@
+The microbiome dysbiosis caused by antibiotic treatment has been associated with 
+both susceptibility to and relapse of Clostridium difficile infection (CDI). 
+Bacteriophage (phage) therapy offers target specificity and dose amplification 
+in situ, but few studies have focused on its use in CDI treatment. This mainly 
+reflects the lack of strictly virulent phages that target this pathogen. While 
+it is widely accepted that temperate phages are unsuitable for therapeutic 
+purposes due to their transduction potential, analysis of seven C. difficile 
+phages confirmed that this impact could be curtailed by the application of 
+multiple phage types. Here, host range analysis of six myoviruses and one 
+siphovirus was conducted on 80 strains representing 21 major epidemic and 
+clinically severe ribotypes. The phages had complementary coverage, lysing 18 
+and 62 of the ribotypes and strains tested, respectively. Single-phage 
+treatments of ribotype 076, 014/020, and 027 strains showed an initial reduction 
+in the bacterial load followed by the emergence of phage-resistant colonies. 
+However, these colonies remained susceptible to infection with an unrelated 
+phage. In contrast, specific phage combinations caused the complete lysis of C. 
+difficile in vitro and prevented the appearance of resistant/lysogenic clones. 
+Using a hamster model, the oral delivery of optimized phage combinations 
+resulted in reduced C. difficile colonization at 36 h postinfection. 
+Interestingly, free phages were recovered from the bowel at this time. In a 
+challenge model of the disease, phage treatment delayed the onset of symptoms by 
+33 h compared to the time of onset of symptoms in untreated animals. These data 
+demonstrate the therapeutic potential of phage combinations to treat CDI.

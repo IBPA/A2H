@@ -1,0 +1,14 @@
+We have used phage display to isolate a range of human domain antibodies (dAbs) 
+that bind to mouse, rat and/or human serum albumin (SA) and can be expressed at 
+very high levels in bacterial, yeast or mammalian cell culture. In contrast to 
+non-SA-binding dAbs, which have terminal half-lives of less than 45 min, the 
+half-lives of these 12 kDa 'AlbudAbs' can match the half-life of SA itself. To 
+demonstrate the use of AlbudAbs for extending the half-lives of therapeutic 
+drugs, we created a fusion of the interleukin-1 receptor antagonist (IL-1ra) 
+with an AlbudAb. Soluble IL-1ra is potent inhibitor of IL-1 signalling that is 
+approved for the treatment of rheumatoid arthritis but has a relatively short in 
+vivo half-life. Here we show that although the AlbudAb/IL-1ra fusion has a 
+similar in vitro potency, its in vivo efficacy can be dramatically improved due 
+to its extended serum half-life. AlbudAbs could potentially be used to generate 
+a range of long half-life versions of many different drugs in order to improve 
+their dosing regimen and/or clinical effect.

@@ -1,0 +1,21 @@
+Infliximab (IFX) is a chimeric IgG1 monoclonal antibody specific for human tumor 
+necrosis factor-alpha that is approved in the United States and Europe for the 
+treatment of rheumatoid arthritis (RA) and Crohn's disease (CD). Approximately 
+10% of RA and CD patients receiving maintenance treatment with IFX will develop 
+antibodies to IFX. The objective of this study was to develop a model to assess 
+the in vivo formation, distribution, and elimination of immune complexes 
+resulting from a low-level immune response in the presence of the excess 
+concentration of a therapeutic antigen. In this model, cynomolgus monkeys were 
+treated with a single intravenous injection of IFX, followed by injection of 
+either radiolabeled, purified monkey anti-IFX IgG antibody (n = 3, test group) 
+or radiolabeled monkey, nonimmune IgG (n = 3, control group). High-performance 
+liquid chromatography analysis of collected sera revealed a rapid formation of 
+immune complexes comprised of IFX and radiolabeled anti-IFX IgG antibody immune 
+complexes. The terminal half-life of the anti-IFX IgG antibody immune complex 
+was approximately 38 h compared with 86 h for the nonimmune antibody. However, 
+the pharmacokinetic profile of IFX, although slightly lower in concentration 
+over time for the test group, was not notably different relative to the control 
+group. There were no macroscopic or microscopic histological findings in either 
+treatment group. These data confirm that immune complexes between IFX and 
+anti-IFX IgG antibodies can form in vivo and that these immune complexes are 
+eliminated more rapidly than nonimmune antibodies in the presence of excess IFX.

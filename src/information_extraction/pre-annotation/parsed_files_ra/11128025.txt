@@ -1,0 +1,14 @@
+IL-18 is a cytokine with potent IFN-gamma inducing activities as well as an 
+important mediator of Th1 polarized immune responses. In this study we 
+demonstrated that IL-18 induces the concentration-dependent production of the 
+proinflammatory mediators IFN-gamma, IL-6, and GM-CSF, but not the 
+anti-inflammatory cytokine, IL-10 from peripheral blood lymphocytes in the 
+presence of mitogen. Three neutralizing IL-18 monoclonal antibodies (MAbs) were 
+investigated, one of which (2C10) inhibited IL-18 bioactivity with an IC50 of 
+0.1 nM and had a K(D) of 3.9 x 10(-11) M. A NOD/SCID mouse model engrafted with 
+human peripheral blood lymphocytes was developed to test the in vivo efficacy of 
+this MAb. The IFN-gamma production induced by LPS administration was inhibited 
+approximately 90% by prior dosing of MAb 2C10. The therapeutic utility of a 
+high-affinity IL-18 MAb may be of benefit in Th1-driven autoimmune diseases such 
+as rheumatoid arthritis and Crohn's Disease, where elevated levels of IL-18 have 
+been observed.

@@ -1,0 +1,23 @@
+OBJECTIVE: Interleukin (IL)-17A producing CD4 T-cells (TH-17 cells) are 
+implicated in rheumatoid arthritis (RA). IL-6/STAT3 signalling drives TH-17 cell 
+differentiation, and hyperactive gp130/STAT3 signalling in the gp130F/F mouse 
+promotes exacerbated pathology. Conversely, STAT1-activating cytokines (eg, 
+IL-27, IFN-γ) inhibit TH-17 commitment. Here, we evaluate the impact of STAT1 
+ablation on TH-17 cells during experimental arthritis and relate this to 
+IL-17A-associated pathology.
+METHODS: Antigen-induced arthritis (AIA) was established in wild type (WT), 
+gp130F/F mice displaying hyperactive gp130-mediated STAT signalling and the 
+compound mutants gp130F/F:Stat1-/- and gp130F/F:Il17a-/- mice. Joint pathology 
+and associated peripheral TH-17 responses were compared.
+RESULTS: Augmented gp130/STAT3 signalling enhanced TH-17 commitment in vitro and 
+exacerbated joint pathology. Ablation of STAT1 in gp130F/F mice 
+(gp130F/F:Stat1-/-) promoted the hyperexpansion of TH-17 cells in vitro and in 
+vivo during AIA. Despite this heightened peripheral TH-17 cell response, disease 
+severity and the number of joint-infiltrating T-cells were comparable with that 
+of WT mice. Thus, gp130-mediated STAT1 activity within the inflamed synovium 
+controls T-cell trafficking and retention. To determine the contribution of 
+IL-17A, we generated gp130F/F:IL-17a-/- mice. Here, loss of IL-17A had no impact 
+on arthritis severity.
+CONCLUSIONS: Exacerbated gp130/STAT-driven disease in AIA is associated with an 
+increase in joint infiltrating T-cells but synovial pathology is IL-17A 
+independent.

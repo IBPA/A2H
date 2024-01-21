@@ -1,0 +1,27 @@
+The carriage of two important pathogens of pigs, that is enterotoxigenic 
+Escherichia coli (ETEC) and Clostridioides difficile, was investigated in 104 
+cloacal samples from wild griffon vultures (Gyps fulvus) fed on pig carcasses at 
+supplementary feeding stations (SFS), along with their level of antimicrobial 
+resistance (AMR). E. coli was isolated from 90 (86.5%) samples, but no ETEC was 
+detected, likely because ETEC fimbriae confer the species specificity of the 
+pathogen. Resistance to at least one antimicrobial agent was detected in 89.9% 
+of E. coli isolates, with AMR levels being extremely high (>70%) for 
+tetracycline and streptomycin and very high (>50%) for ampicillin and 
+sulfamethoxazole-trimethoprim. Resistance to other critically important 
+antimicrobials such as colistin and extended-spectrum cephalosporins was 2.2% 
+and 1.1%, respectively, and was encoded by the mcr-1 and blaSHV-12 genes. 
+Multidrug resistance was displayed by 80% of the resistant E. coli, and 
+blaSHV-12 gene shared plasmid with other AMR genes. In general, resistance 
+patterns in E. coli from vultures mirrored those found in pigs. Clostridioides 
+difficile was detected in three samples (2.9%); two of them belonged to PCR 
+ribotype 078 and one to PCR ribotype 126, both commonly found in pigs. All 
+C. difficile isolates were characterized by a moderate-to-high level of 
+resistance to fluoroquinolones and macrolides but susceptible to metronidazole 
+or vancomycin, similar to what is usually found in C. difficile isolates from 
+pigs. Thus, vultures may contribute somewhat to the environmental dissemination 
+of some pig pathogens through their acquisition from pig carcasses and, more 
+importantly, of AMR for antibiotics of critical importance for humans. However, 
+the role of vultures would likely be much lesser than that of disposing pig 
+carcasses at the SFS. The monitoring of AMR, and particularly of 
+colistin-resistant and ESBL-producing E. coli, should be considered in pig farms 
+used as sources of carcasses for SFS.

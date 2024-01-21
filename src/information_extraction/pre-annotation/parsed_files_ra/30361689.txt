@@ -1,0 +1,13 @@
+Auto-inflammatory syndrome, a condition clinically distinct from rheumatoid 
+arthritis, is characterized by systemic inflammation in tissues such as major 
+joints, skin, and internal organs. Autonomous innate-immune activation is 
+thought to promote this inflammation, but underlying pathological mechanisms 
+have not been clarified nor are treatment strategies established. Here, we newly 
+established a mouse model in which IL-1 signaling is conditionally activated in 
+adult mice (hIL-1 cTg) and observed phenotypes similar to those seen in 
+auto-inflammatory syndrome patients. In serum of hIL-1 cTg mice, IL-6 and IL-17 
+levels significantly increased, and signal transducer and activator of 
+transcription 3 (Stat3) was activated in joints. When we crossed hIL-1 cTg with 
+either IL-6- or IL-17-deficient mice or with Stat3 conditional knockout mice, 
+phenotypes seen in hIL-1 cTg mice were significantly ameliorated. Thus, IL-6, 
+IL-17 and Stat3 all represent potential therapeutic targets for this syndrome.

@@ -1,0 +1,19 @@
+Auranofin, a disease-modifying gold compound, has been empirically applying to 
+the management of rheumatoid arthritis. We investigated a protective effect of 
+auranofin against hepatic injury induced by cocaine. Cocaine (75 mg/kg) markedly 
+increased serum alanine amino transferase (ALT) (4,130 IU/l) and aspartate amino 
+transferase (AST) (1,730 IU/l) activities at 16 hr after treatment, and induced 
+hepatic necrosis surrounding central veins in mice. Concurrently, overexpression 
+of heme oxygenase-1 (HO-1), a rate-limiting enzyme for heme degradation and an 
+oxidative stress marker, was identified at the edges of cocaine-mediated 
+necrotic area. Auranofin (10 mg/ml, i.p.) significantly induced hepatic HO-1 
+protein in mice from 12 hr after treatment. Interestingly, pretreatment with 
+auranofin resulted in the prevention of the increase of serum ALT and AST 
+activities in a dose-dependent manner. On the other hand, although cocaine 
+increased tumor necrosis factor α (TNFα) gene expression in mouse livers, 
+cocaine-induced liver injury was observed in TNFα deficient mice as well as 
+wild-type mice. Auranofin-inducted HO-1 gene expression was observed in human 
+primary hepatocytes as well as mouse primary hepatocytes. The present findings 
+suggest that auranofin is effective in preventing cocaine-induced hepatic 
+injury, and HO-1 may contribute to protect against chemically-induced 
+cytotoxicity.

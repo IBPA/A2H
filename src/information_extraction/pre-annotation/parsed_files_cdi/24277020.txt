@@ -1,0 +1,17 @@
+Clostridium difficile is a leading cause of health care-associated diarrhea with 
+significant morbidity and mortality, and new options for the treatment of C. 
+difficile-associated diarrhea (CDAD) are needed. Cadazolid is a new 
+oxazolidinone-type antibiotic that is currently in clinical development for 
+treatment of CDAD. Here, we report the in vitro and in vivo antibacterial 
+evaluation of cadazolid against C. difficile. Cadazolid showed potent in vitro 
+activity against C. difficile with a MIC range of 0.125 to 0.5 μg/ml, including 
+strains resistant to linezolid and fluoroquinolones. In time-kill kinetics 
+experiments, cadazolid showed a bactericidal effect against C. difficile 
+isolates, with >99.9% killing in 24 h, and was more bactericidal than 
+vancomycin. In contrast to metronidazole and vancomycin, cadazolid strongly 
+inhibited de novo toxin A and B formation in stationary-phase cultures of 
+toxigenic C. difficile. Cadazolid also inhibited C. difficile spore formation 
+substantially at growth-inhibitory concentrations. In the hamster and mouse 
+models for CDAD, cadazolid was active, conferring full protection from diarrhea 
+and death with a potency similar to that of vancomycin. These findings support 
+further investigations of cadazolid for the treatment of CDAD.

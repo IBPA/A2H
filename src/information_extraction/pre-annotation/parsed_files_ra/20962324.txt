@@ -1,0 +1,19 @@
+Regulatory B cells control inflammation and autoimmunity in mice, including the 
+recently identified IL-10-competent B10 cell subset that represents 1% to 3% of 
+spleen B cells. In this study, a comparable IL-10-competent B10 cell subset was 
+characterized in human blood. B10 cells were functionally identified by their 
+ability to express cytoplasmic IL-10 after 5 hours of ex vivo stimulation, 
+whereas progenitor B10 (B10pro) cells required 48 hours of in vitro stimulation 
+before they acquired the ability to express IL-10. B10 and B10pro cells 
+represented 0.6% and approximately 5% of blood B cells, respectively. Ex vivo 
+B10 and B10pro cells were predominantly found within the CD24(hi)CD27(+) B-cell 
+subpopulation that was able to negatively regulate monocyte cytokine production 
+through IL-10-dependent pathways during in vitro functional assays. Blood B10 
+cells were present in 91 patients with rheumatoid arthritis, systemic lupus 
+erythematosus, primary Sjögren syndrome, autoimmune vesiculobullous skin 
+disease, or multiple sclerosis, and were expanded in some cases as occurs in 
+mice with autoimmune disease. Mean B10 + B10pro-cell frequencies were also 
+significantly higher in patients with autoimmune disease compared with healthy 
+controls. The characterization of human B10 cells will facilitate their 
+identification and the study of their regulatory activities during human 
+disease.

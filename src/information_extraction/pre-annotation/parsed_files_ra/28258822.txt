@@ -1,0 +1,20 @@
+Abnormal store-operated calcium uptake has been observed in peripheral T 
+lymphocytes of rheumatoid arthritis (RA) patients, and sustained intracellular 
+calcium signalling is known to mediate the functions of many types of immune 
+cells. Thus, it is hypothesized that regulating calcium entry through CRACM1 
+(the pore-forming subunit of calcium release-activated calcium (CRAC) channels; 
+also known as ORAI1) may be beneficial for the management of RA. Localized 
+CRACM1 knockdown in the joints and draining lymph nodes (DLNs) of mice with 
+collagen-induced arthritis (CIA) was achieved via lentiviral-based delivery of 
+shRNA targeting mouse CRACM1. Consistent with CRACM1 knockdown, calcium influx 
+in synovial cells and the histopathological features of CIA were reduced. These 
+effects were also associated with reduced levels of several notable inflammatory 
+cytokines, such as IL-6, IL-17A, and IFN-γ, in the joints. Additionally, 
+CRACM1-shRNA reduced the number of bone marrow-derived osteoclasts in vitro as 
+well as osteoclasts in CIA joints, which was associated with reduced RANKL 
+levels in the serum and joints. In summary, inhibiting calcium entry by CRACM1 
+knockdown suppressed arthritis development and may be therapeutically beneficial 
+for RA patients.
+
+Copyright © 2017 The Authors. Production and hosting by Elsevier B.V. All rights 
+reserved.

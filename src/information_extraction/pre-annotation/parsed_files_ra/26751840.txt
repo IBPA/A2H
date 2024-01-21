@@ -1,0 +1,19 @@
+PURPOSE OF REVIEW: The purpose of this review is to discuss the mechanisms of 
+central and peripheral tolerance in relation to T-cell mediated autoimmunity in 
+rheumatoid arthritis (RA).
+RECENT FINDINGS: The well established association between major 
+histocompatibility complex class II and RA has led us to understand that T 
+cells, and the adaptive immune response, are important in the pathogenesis of 
+disease. In order for autoimmune disease to develop, there is a breach of 
+tolerance to self antigen and the mechanisms of both central and peripheral 
+tolerance aim to prevent this. Here, we review evidence from mouse models 
+indicating that alterations in T-cell receptor signalling thresholds during 
+thymic selection may be linked to the escape of T cells that mediate autoimmune 
+arthritis. In addition, we summarize the role of dendritic cells and Foxp3+ 
+regulatory T cells in both peripheral and thymic tolerance, and highlight their 
+relevance to what we know about the aetiology of RA.
+SUMMARY: Mechanisms of central tolerance in the thymus and peripheral tolerance 
+are in place to control autoreactive T cells and to prevent the development of 
+autoimmune disease. We anticipate that a better understanding of these 
+mechanisms will lead to the development of better, antigen-specific therapeutics 
+to restore tolerance.

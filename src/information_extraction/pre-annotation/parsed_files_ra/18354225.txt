@@ -1,0 +1,21 @@
+B cells have been implicated in the pathogenesis of rheumatoid arthritis (RA) 
+since the discovery of RA as an autoimmune disease. There is renewed interest in 
+B cells in RA based on the clinical efficacy of B cell depletion therapy in RA 
+patients. Although, reduced titers of rheumatoid factor and anti-cyclic 
+citrullinated peptide Abs are recorded, the mechanisms that convey clinical 
+improvement are incompletely understood. In the proteoglycan-induced arthritis 
+(PGIA) mouse model of RA, we reported that Ag-specific B cells have two 
+important functions in the development of arthritis. PG-specific B cells are 
+required as autoantibody-producing cells as well as Ag-specific APCs. Herein we 
+report on the effects of anti-CD20 mAb B cell depletion therapy in PGIA. Mice 
+were sensitized to PG and treated with anti-CD20 Ab at a time when PG-specific 
+autoantibodies and T cell activation were evident but before acute arthritis. In 
+mice treated with anti-CD20 mAb, development of arthritis was significantly 
+reduced in comparison to control mAb-treated mice. B cell depletion reduced the 
+PG-specific autoantibody response. Furthermore, there was a significant 
+reduction in the PG-specific CD4(+) T cell recall response as well as 
+significantly fewer PG-specific CD4(+) T cells producing IFN-gamma and IL-17, 
+but not IL-4. The reduction in PG-specific T cells was confirmed by the 
+inability of CD4(+) T cells from B cell-depleted mice to adoptively transfer 
+disease into SCID mice. Overall, B cell depletion during PGIA significantly 
+reduced disease and inhibited both autoreactive B cell and T cell function.

@@ -1,0 +1,19 @@
+Mechanistic insight into how adaptive immune responses are modified along the 
+self-nonself continuum may offer more effective opportunities to treat 
+autoimmune disease, cancer, and other sterile inflammatory disorders. Recent 
+genetic studies in the KRN mouse model of rheumatoid arthritis demonstrate that 
+the immunomodulatory molecule IDO2 modifies responses to self-antigens; however, 
+the mechanisms involved are obscure. In this study, we show that IDO2 exerts a 
+critical function in B cells to support the generation of autoimmunity. In 
+experiments with IDO2-deficient mice, adoptive transplant experiments 
+demonstrated that IDO2 expression in B cells was both necessary and sufficient 
+to support robust arthritis development. IDO2 function in B cells was contingent 
+on a cognate, Ag-specific interaction to exert its immunomodulatory effects on 
+arthritis development. We confirmed a similar requirement in an established 
+model of contact hypersensitivity, in which IDO2-expressing B cells are required 
+for a robust inflammatory response. Mechanistic investigations showed that 
+IDO2-deficient B cells lacked the ability to upregulate the costimulatory marker 
+CD40, suggesting IDO2 acts at the T-B cell interface to modulate the potency of 
+T cell help needed to promote autoantibody production. Overall, our findings 
+revealed that IDO2 expression by B cells modulates autoimmune responses by 
+supporting the cross talk between autoreactive T and B cells.

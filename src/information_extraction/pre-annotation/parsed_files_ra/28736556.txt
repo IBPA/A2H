@@ -1,0 +1,27 @@
+The Ras family of GTPases plays an important role in signaling nodes downstream 
+to T cell receptor and CD28 activation, potentially lowering the threshold for 
+T-cell receptor activation by autoantigens. Somatic mutation in NRAS or KRAS may 
+cause a rare autoimmune disorder coupled with abnormal expansion of lymphocytes. 
+T cells from rheumatoid arthritis (RA) patients show excessive activation of 
+Ras/MEK/ERK pathway. The small molecule farnesylthiosalicylic acid (FTS) 
+interferes with the interaction between Ras GTPases and their prenyl-binding 
+chaperones to inhibit proper plasma membrane localization. In the present study, 
+we tested the therapeutic and immunomodulatory effects of FTS and its derivative 
+5-fluoro-FTS (F-FTS) in the rat adjuvant-induced arthritis model (AIA). We show 
+that AIA severity was significantly reduced by oral FTS and F-FTS treatment 
+compared to vehicle control treatment. FTS was as effective as the mainstay 
+anti-rheumatic drug methotrexate, and combining the two drugs significantly 
+increased efficacy compared to each drug alone. We also discovered that FTS 
+therapy inhibited both the CFA-driven in vivo induction of Th17 and IL-17/IFN-γ 
+producing "double positive" as well as the upregulation of serum levels of the 
+Th17-associated cytokines IL-17A and IL-22. By gene microarray analysis of 
+effector CD4+ T cells from CFA-immunized rats, re-stimulated in vitro with the 
+mycobacterium tuberculosis heat-shock protein 65 (Bhsp65), we determined that 
+FTS abrogated the Bhsp65-induced transcription of a large list of genes (e.g., 
+Il17a/f, Il22, Ifng, Csf2, Lta, and Il1a). The functional enrichment 
+bioinformatics analysis showed significant overlap with predefined gene sets 
+related to inflammation, immune system processes and autoimmunity. In 
+conclusion, FTS and F-FTS display broad immunomodulatory effects in AIA with 
+inhibition of the Th17-type response to a dominant arthritogenic antigen. Hence, 
+targeting Ras signal-transduction cascade is a potential novel therapeutic 
+approach for RA.

@@ -1,0 +1,25 @@
+There have been several reports that TNF-related apoptosis-inducing ligand 
+(TRAIL) has the ability to suppress the development of experimental autoimmune 
+diseases, including a mouse model of experimental autoimmune encephalomyelitis, 
+a rabbit model of rheumatoid arthritis, type 1 diabetes mellitus, in mice and 
+experimental autoimmune thyroiditis (EAT) in mice. However, the mechanism 
+underlying TRAIL effect is not well defined. In the present study, we 
+specifically examined TRAIL effects on CD4(+)CD25(+) regulatory T cells. 
+CD4(+)CD25(+) T cells prepared from mouse thyroglobulin (mTg)-immunized CBA/J 
+mice proliferate in the presence of TRAIL and dendritic cells in vitro. These 
+CD4(+)CD25(+) T cells included both CD4(+)CD25(+)CD45RB(Low) (regulatory) and 
+CD4(+)CD25(+)CD45RB(High) (effector) T cells. Our results demonstrated that 
+mTg-immunized mice treated with TRAIL showed significant increases in the number 
+of CD4(+)CD25(+)CD45RB(Low) T cells compared with mice immunized with mTg alone. 
+CD4(+)CD25(+)CD45RB(Low) T cells expressed much higher levels of the forkhead 
+family transcription factor, IL-10, and TGFbeta1 than CD4(+)CD25(+)CD45RB(High) 
+T cells, and these cells can completely suppress the proliferation of the 
+mTg-primed splenocytes in lower concentrations than the unfractionated 
+CD4(+)CD25(+) T cells. Furthermore, transfer of these cells into CBA/J mice 
+prior to mTg-primed splenocyte injection could markedly reduce the frequency and 
+severity of EAT development. CD4(+)CD25(+)CD45RB(Low) T cells were more 
+effective at suppressing histological thyroiditis than unfractionated cells. 
+These results indicated that TRAIL can increase the number of mTg-specific 
+CD4(+)CD25(+)CD45RB(Low) T cells, inhibiting autoimmune responses and preventing 
+the progression of EAT. These findings reveal a novel mechanism by which TRAIL 
+could inhibit autoimmune disease.

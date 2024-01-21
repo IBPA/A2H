@@ -1,0 +1,25 @@
+OBJECTIVE: Inhibitors of prostaglandin production, such as nonsteroidal 
+antiinflammatory drugs (NSAIDs), and pharmacologic nitric oxide (NO) donors, 
+such as organic nitrates, have been suggested to protect against bone loss in 
+both humans and experimental animals. Recently, a new class of nitrosylated 
+NSAID (known as NO-NSAIDs) has been developed, which combines the properties of 
+a NO donor with those of a cyclooxygenase (COX) inhibitor. This study 
+investigated the effects of one of these compounds, flurbiprofen 
+nitroxybutylester (HCT1026), on bone metabolism in vitro and in vivo.
+METHODS: The effects of HCT1026 on osteoclast formation and resorption were 
+determined in vitro using cocultures of primary mouse osteoblasts and 
+osteoclasts. The effect of HCT1026 in vivo was assessed using a mouse model of 
+ovariectomy-induced bone loss.
+RESULTS: HCT1026 was significantly more efficacious than the parent compound, 
+flurbiprofen, at inhibiting osteoclast formation and bone resorption in vitro, 
+and these effects could not be reproduced by combinations of flurbiprofen with a 
+variety of NO donors. Studies in vivo showed that HCT1026 protected against 
+ovariectomy-induced bone loss by inhibiting osteoclastic bone resorption, 
+whereas flurbiprofen at similar concentrations was ineffective.
+CONCLUSION: These data indicate that HCT1026 is a potent inhibitor of bone 
+resorption in vitro and protects against ovariectomy-induced bone loss in vivo 
+by a novel mechanism that appears to be distinct from its NO donor properties 
+and from its inhibitory effects on COX activity. We conclude that HCT1026 may be 
+of clinical value in the prevention and treatment of inflammatory diseases such 
+as rheumatoid arthritis, which are characterized by joint inflammation as well 
+as periarticular and systemic bone loss.

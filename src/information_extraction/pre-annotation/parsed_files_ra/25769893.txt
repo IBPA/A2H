@@ -1,0 +1,20 @@
+We collected the data on the Sendeng-4 chemical composition corresponding 
+targets through the literature and from DrugBank, SuperTarget, TTD (Therapeutic 
+Targets Database) and other databases and the relevant signaling pathways from 
+the KEGG (Kyoto Encyclopedia of Genes and Genomes) database and established 
+models of the chemical composition-target network and chemical 
+composition-target-disease network using Cytoscape software, the analysis 
+indicated that the chemical composition had at least nine different types of 
+targets that acted together to exert effects on the diseases, suggesting a 
+"multi-component, multi-target" feature of the traditional Mongolian medicine. 
+We also employed the rat model of rheumatoid arthritis induced by Collgen Type 
+II to validate the key targets of the chemical components of Sendeng-4, and 
+three of the key targets were validated through laboratory experiments, further 
+confirming the anti-inflammatory effects of Sendeng-4. In all, this study 
+predicted the active ingredients and targets of Sendeng-4, and explored its 
+mechanism of action, which provided new strategies and methods for further 
+research and development of Sendeng-4 and other traditional Mongolian medicines 
+as well.
+
+Copyright © 2015 China Pharmaceutical University. Published by Elsevier B.V. All 
+rights reserved.

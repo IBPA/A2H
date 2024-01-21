@@ -1,0 +1,22 @@
+Jatrorrhizine hydrochloride (JH), an active component isolated from the 
+traditional Chinese herb Coptis chinensis, has been reported to have 
+antimicrobial, antitumor, antihypercholesterolemic, and neuroprotective 
+activities. However, its antirheumatoid arthritis (RA) property remains unknown. 
+In this study, a collagen-induced arthritis (CIA) rat model was used to evaluate 
+the therapeutic effects of JH on RA by using arthritis score, radiological 
+evaluation, and histopathological assessment. The in vitro effects of JH on 
+proliferation, migration, and production of inflammatory mediators in RA-derived 
+fibroblast-like synoviocyte MH7A cells were determined by the EdU incorporation 
+assay, wound healing assay, real-time PCR, and ELISA, respectively. The in vivo 
+studies showed that JH treatment significantly prevented the progression and 
+development of RA in CIA rats through anti-inflammation and suppressing bone 
+destruction. The in vitro studies revealed that JH could effectively attenuate 
+the destructive phenotypes of MH7A cells, including inhibiting proliferation, 
+migration, and production of inflammatory mediators. Further mechanistic 
+analysis demonstrated that JH suppressed tumor necrosis factor alpha 
+(TNFα)-stimulated activations of nuclear factor of kappaB (NF-κB) and 
+mitogen-activated protein kinases (MAPKs) (ERK and p38) leading to the 
+downregulation of proinflammatory cytokines, which might be beneficial to the 
+antiproliferative and antimigratory activities of FLS cells. Collectively, our 
+results demonstrated that JH has a great potential to be developed into a novel 
+therapeutic agent for treating RA.

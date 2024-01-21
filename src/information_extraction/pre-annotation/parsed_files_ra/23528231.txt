@@ -1,0 +1,19 @@
+Microsomal prostaglandin E synthase (mPGES)-1 inhibition has been proposed as an 
+alternative to cyclooxygenase (COX) inhibition in the treatment of pain and 
+inflammation. This novel approach could potentially mitigate the 
+gastro-intestinal and cardiovascular side effects seen after long-term treatment 
+with traditional non-steroidal anti-inflammatory drugs (NSAIDs) and Coxibs 
+respectively. Several human mPGES-1 inhibitors have been developed in the recent 
+years. However, they were all shown to be considerably less active on rodent 
+mPGES-1, precluding the study of mPGES-1 inhibition in rodent models of 
+inflammation and pain. The aim of this study was to characterize the new mPGES-1 
+inhibitor compound II, a pyrazolone that has similar potency on rat and human 
+recombinant mPGES-1, in experimental models of inflammation. In cell culture, 
+compound II inhibited PGE2 production in synovial fibroblasts from patients with 
+rheumatoid arthritis (RASF) and in rat peritoneal macrophages. In vivo, compound 
+II was first characterized in the rat air pouch model of inflammation where 
+treatment inhibited intra-pouch PGE2 production. Compound II was also 
+investigated in a rat adjuvant-induced arthritis model where it attenuated both 
+the acute and delayed inflammatory responses. In conclusion, compound II 
+represents a valuable pharmacological tool for the study of mPGES-1 inhibition 
+in rat models.

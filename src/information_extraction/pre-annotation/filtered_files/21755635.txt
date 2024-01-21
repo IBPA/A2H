@@ -1,0 +1,64 @@
+Optical fluorescence imaging is increasingly used to monitor biological 
+functions of specific targets in small animals (1-3). However, the intrinsic 
+fluorescence of biomolecules poses a problem when fluorophores that absorb 
+visible light (350–700 nm) are used. Near-infrared (NIR) fluorescence (700–1,000 
+nm) detection avoids the background fluorescence interference of natural 
+biomolecules, providing a high contrast between target and background tissues. 
+NIR fluorophores have a wider dynamic range and minimal background as a result 
+of reduced scattering compared with visible fluorescence detection. They also 
+have high sensitivity, resulting from low infrared background, and high 
+extinction coefficients, which provide high quantum yields. The NIR region is 
+also compatible with solid-state optical components, such as diode lasers and 
+silicon detectors. NIR fluorescence imaging is becoming a noninvasive 
+alternative to radionuclide imaging in small animals (4, 5). Photoacoustic 
+imaging (PAI) is an emerging hybrid biomedical imaging modality based on the 
+photoacoustic effect. In PAI, non-ionizing optical pulses are delivered into 
+biological tissues. Some of the delivered energy is absorbed and converted into 
+heat, leading to transient thermoelastic expansion and thus ultrasonic emission. 
+The generated ultrasonic waves are then detected by ultrasonic transducers to 
+form images. It is known that optical absorption is closely associated with 
+physiological properties, such as hemoglobin concentration and oxygen 
+saturation. As a result, the magnitude of the ultrasonic emission (i.e., 
+photoacoustic signal), which is proportional to the local energy deposition, 
+reveals physiologically specific optical absorption contrast and tissue 
+structures. However, exogenous NIR contrast agents are necessary to overcome the 
+intrinsic low tissue- and hemoglobin- absorption and scattering of tissue. On 
+the other hand, these small molecules exhibit fast clearance, small optical 
+absorption cross section, and non-targeted specificity. Therefore, there is a 
+need for contrast agents with long blood circulation and targeted specificity. 
+Gold (Au) nanoparticles have been studied as molecular imaging agents because of 
+their bright NIR fluorescence emission of 700–900 nm and low toxicity (6, 7). 
+They can be tuned to emit in a range of wavelengths by changing their sizes, 
+shapes, and composition, thus providing broad excitation profiles and high 
+absorption coefficients. They can be coated and capped with hydrophilic 
+materials for additional conjugation with biomolecules, such as peptides, 
+antibodies, nucleic acids, and small organic compounds for in vitro and in vivo 
+studies. Au nanoparticles have been approved by the United States Food and Drug 
+Administration for the treatment of patients with rheumatoid arthritis. Au 
+nanoparticles have been studied as contrast agents in X-ray/computed tomography, 
+NIR optical coherence tomography, PAI, and photoacoustic tomography (PAT) (8). 
+NIR Au nanocages (AuNCs) are biocompatible, have low toxicity, and are tunable 
+to strong NIR absorption (9). They have an outer edge of ~50 nm and an inner 
+edge of ~42 nm, with a wall thickness of ~4 nm. Yang et al. (10) have performed 
+PAT of the cerebral cortex of rats with poly(ethylene glycol)-coated AuNCs 
+(PEG-AuNCs) as an optical contrast agent. The investigators observed an enhanced 
+optical contrast in the vasculature in the cerebral cortex. Song et al. (11) 
+demonstrated the use of Au nanocages as a PAI probe for detection of sentinel 
+lymph nodes in rats. Malignant melanoma is the deadliest form of skin cancer 
+(12). Early and accurate diagnosis is necessary for surgery and successful 
+treatment (13). The melanocortin (MC) system is a neuropeptide network of the 
+skin, and it is involved in pigmentation regulation, cortisol production, and 
+many other physiological processes (14). Most cutaneous cell types express MC 
+receptors, proopiomelanocortin (POMC), and prohormone convertases, and they also 
+release MCs. However, these receptors have been found to be overexpressed in 
+melanoma cells. There are five MC receptors (MC1R to MC5R), which belong to the 
+G-protein−coupled receptor superfamily. Melanotropin-stimulating hormones (α-, 
+β-, and γ-MSH) are derived from POMC by the proteolytic action of prohormone 
+convertases. α-MSH 
+(Ac-Ser1-Tyr2-Ser3-Met4-Glu5-His6-Phe7-Arg8-Trp9-Gly10-Lys11-Pro12-Val13-NH2), 
+produced by the brain and pituitary gland, is a tridecapeptide (13 amino acids) 
+and is the most potent melanotropic peptide (15) in the regulation of skin 
+pigmentation via MC1R. Radiolabeled α-MSH peptide analogs have been shown to 
+specifically bind to MC1R, which is overexpressed on human and mouse melanoma 
+cells (16-20). Kim et al. (21) have evaluated [Nle4,d-Phe7]-α-MSH-PEG-AuNCs for 
+in vivo PAT imaging of melanomas in mice.

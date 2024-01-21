@@ -1,0 +1,11 @@
+The ST2L receptor for interleukin 33 (IL-33) mediates pulmonary inflammation and 
+immune system-related disorders, such as asthma and rheumatoid arthritis. At 
+present, very little is known about the molecular regulation of ST2L expression. 
+Here we found that FBXL19, an 'orphan' member of the Skp1-Cullin-F-box family of 
+E3 ubiquitin ligases, selectively bound to ST2L to mediate its 
+polyubiquitination and elimination in the proteasome. Degradation of ST2L 
+involved phosphorylation of ST2L at Ser442 catalyzed by the kinase GSK3β. 
+Overexpression of FBXL19 abrogated the proapoptotic and inflammatory effects of 
+IL-33 and lessened the severity of lung injury in mouse models of pneumonia. Our 
+results suggest that modulation of the IL-33-ST2L axis by ubiquitin ligases 
+might serve as a unique strategy for lessening pulmonary inflammation.

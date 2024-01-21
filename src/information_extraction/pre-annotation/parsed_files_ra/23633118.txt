@@ -1,0 +1,22 @@
+OBJECTIVE: To examine the possibility that CXCL16 recruits endothelial cells 
+(ECs) to developing neovasculature in rheumatoid arthritis (RA) synovium.
+METHODS: We utilized the RA synovial tissue SCID mouse chimera system to examine 
+human microvascular EC (HMVEC) and human endothelial progenitor cell (EPC) 
+recruitment into engrafted human synovium that was injected intragraft with 
+CXCL16-immunodepleted RA synovial fluid (SF). CXCR6-deficient and wild-type (WT) 
+C57BL/6 mice were primed to develop K/BxN serum-induced arthritis and evaluated 
+for angiogenesis. HMVECs and EPCs from human cord blood were also examined for 
+CXCR6 expression, by immunofluorescence and assessment of CXCL16 signaling 
+activity.
+RESULTS: CXCR6 was prominently expressed on human EPCs and HMVECs, and its 
+expression on HMVECs could be up-regulated by interleukin-1β. SCID mice injected 
+with CXCL16-depleted RA SF exhibited a significant reduction in EPC recruitment. 
+In experiments using the K/BxN serum-induced inflammatory arthritis model, 
+CXCR6(-/-) mice showed profound reductions in hemoglobin levels, which 
+correlated with reductions in monocyte and T cell recruitment to arthritic joint 
+tissue compared to that observed in WT mice. Additionally, HMVECs and EPCs 
+responded to CXCL16 stimulation, but exhibited unique signal transduction 
+pathways and homing properties.
+CONCLUSION: These results indicate that CXCL16 and its receptor CXCR6 may be a 
+central ligand/receptor pair that is closely associated with EPC recruitment and 
+blood vessel formation in the RA joint.

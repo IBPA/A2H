@@ -1,0 +1,22 @@
+We have previously shown that p38 mitogen-activated protein kinase (MAPK) 
+inhibitors, which block the production and action of inflammatory cytokines such 
+as tumor necrosis factor (TNF) and interleukin-1 (IL-1), are effective in models 
+of bone and cartilage degradation. To further investigate the role of p38 MAPK, 
+we have studied its activation in osteoblasts and chondrocytes, following 
+treatment with a panel of proinflammatory and osteotropic agents. In 
+osteoblasts, significant activation of p38 MAPK was observed following treatment 
+with IL-1 and TNF, but not parathyroid hormone, transforming growth factor-beta 
+(TGF-beta), 1,25(OH)(2)D(3), insulin-like growth factor-1 (IGF-1), or IGF-II. 
+Similar results were obtained using primary bovine chondrocytes and an 
+SV40-immortalized human chondrocyte cell line, T/C28A4. SB 203580, a selective 
+inhibitor of p38 MAPK, inhibited IL-1 and TNF-induced p38 MAPK activity and IL-6 
+production (IC(50)s 0.3--0.5 microM) in osteoblasts and chondrocytes. In 
+addition, IL-1 and TNF also activated p38 MAPK in fetal rat long bones and p38 
+MAPK inhibitors inhibited IL-1- and TNF-stimulated bone resorption in vitro in a 
+dose-dependent manner (IC(50)s 0.3--1 microM). These data support the contention 
+that p38 MAPK plays a central role in regulating the production of, and 
+responsiveness to, proinflammatory cytokines in bone and cartilage. Furthermore, 
+the strong correlation between inhibition of kinase activity and IL-1 and 
+TNF-stimulated biological responses indicates that selective inhibition of the 
+p38 MAPK pathway may have therapeutic utility in joint diseases such as 
+rheumatoid arthritis (RA).

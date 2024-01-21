@@ -1,0 +1,14 @@
+Some inflammatory mediators play an important role not only in the pathogenesis 
+of the inflammatory pain, but also in that of neuropathic and visceral pain. We 
+previously showed the antihyperalgesic effect of oATP, the inhibitor of the P2X7 
+receptors for the pro-nociceptive ATP, in experimental inflammation. Here we 
+show the antihyperalgesic effect of oATP in mouse models of neuropathic and 
+visceral pain, other than in a model of arthritic pain mimicking rheumatoid 
+arthritis in humans. We also show that mice lacking P2X7 receptors (KO) are 
+resistant to hyperalgesic thermal stimuli following the induction of arthritic, 
+neuropathic and visceral pain. Local (injection into the right hind paw) 
+pre-treatment with oATP is able to prevent the successive induction of 
+ATP-dependent hyperalgesia in wild type mice. In addition, KO mice are not 
+insensitive to intraplantar treatment with ATP. Our data suggest that, even if 
+oATP is able to inhibit purinoceptors different from P2X7, the latter are the 
+more important involved in pain transmission.

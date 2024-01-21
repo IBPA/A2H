@@ -1,0 +1,20 @@
+Albumin conjugation is viewed as an effective means of protracting short in vivo 
+lifespans of proteins and targeting rheumatoid arthritis (RA). In this study, we 
+present a human serum albumin (HSA) conjugate linked with tumor necrosis 
+factor-related apoptosis-inducing ligand (TRAIL) via a bifunctional PEG 
+derivative (HSA-TRAIL). Prepared HSA-TRAIL was found to have a larger molecular 
+size (∼240 kDa, 15.4 nm) than TRAIL (∼66 kDa, 6.2 nm), and its bioactivity 
+(apoptosis, cytotoxicity, and antiproliferation) was well preserved in Mia 
+Paca-2 cells and mouse splenocytes. The enhanced therapeutic efficacy of 
+HSA-TRAIL was demonstrated in collagen-induced arthritis (CIA) mice. The 
+incidence and clinical scores, expressed as degree of erythema and swelling in 
+HSA-TRAIL-treated mice, were remarkably lower than those of TRAIL-treated mice. 
+The serum levels of pro-inflammatory cytokines IFN-γ, TNF-α, IL-1β, and IL-2 in 
+HSA-TRAIL-treated mice were significantly lower than those of TRAIL-treated 
+mice. Furthermore, HSA-TRAIL accumulated in the hind paws of CIA mice, not in 
+naïve TRAIL mice. Pharmacokinetic profiles of HSA-TRAIL were greatly improved in 
+comparison to those of TRAIL (AUCinf: 844.1 ± 130.0 vs 36.0 ± 1.2 ng·h/mL; t1/2: 
+6.20 ± 0.72 vs 0.23 ± 0.01 h, respectively). The HSA-TRAIL conjugate, which 
+presents clear advantages of targeting RA and long systemic circulation by HSA 
+and unique anti-inflammatory efficacy by TRAIL, has potential as a novel 
+treatment for rheumatoid arthritis.

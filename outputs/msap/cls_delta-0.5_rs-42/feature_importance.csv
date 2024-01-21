@@ -1,0 +1,17 @@
+feature_name,rank_sequential_feature_selection,rank_|linear_discriminant_analysis|,rank_|pearson_correlation_coefficient|,rank_random_forest,rank_|shap|,feature_name_cleaned
+ohe_19__acute/sustained clinical_sustained,1,1,1,1,1,"Clinical Acute/Sustained (Sustained: 1, Acute: 0)"
+scaler_14__daily dosage preclinical,2,13,11,3,3,Preclinical Daily Dosage (mg)
+ohe_0__acute/sustained preclinical_sustained,3,2,2,2,2,"Pre-clinical Acute/Sustained (Sustained: 1, Acute: 0)"
+scaler_11__c diff dose value preclinical,4,16,9,5,7,Pre-clinical C. Diff. Dosage Value (CFU or cells)
+scaler_4__animal age value (days) preclinical,5,15,10,7,6,Pre-clinical Animal Age (days)
+scaler_23__dosage times per day clinical,6,10,14,6,8,Clinical Dosage Times Per Day
+ohe_8__prophylactic / therapeutic preclinical_t,7,3,5,13,14,"Pre-clinical Treatment Type (Therapeutic: 1, Prophylactic: 0)"
+ohe_26__Age Groups clinical_child,8,5,4,8,9,"Clinical Age Groups (Child: 1, Others: 0)"
+ohe_9__ribotype preclinical_1.0,9,11,13,11,15,"Pre-clinical C. Diff. Ribotype: (001: 1, Others: 0)"
+scaler_17__dosage times per day preclinical,10,6,6,14,11,Pre-clinical Dosage Times Per Day
+scaler_5__animal weight value (g) preclinical,11,12,15,9,10,Pre-clinical Animal Weight (g)
+scaler_16__dosage value preclinical,12,14,12,4,4,Pre-clinical Dosage Value (mg/kg)
+ohe_1__gnotobiotic preclinical_spf,13,4,3,15,13,"Pre-clinical Gnotobiotic Model (Specific-Pathogen-Free: 1, Others: 0)"
+ohe_2__animal strain preclinical_c57bl/6j,14,8,16,16,16,"Pre-clinical Animal Strain (C57BL/6J: 1, Others: 0)"
+"ohe_7__disease model preclinical_kanamycin,gentamicin,colistin,metronidazole,vancomycin+clindamycin+challenge",15,7,7,12,12,"Pre-clinical Disease Model (Mixed: 1, Others: 0)"
+scaler_18__dosage duration preclinical,16,9,8,10,5,Pre-clinical Dosage Duration (days)

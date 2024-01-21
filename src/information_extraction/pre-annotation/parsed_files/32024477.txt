@@ -1,0 +1,30 @@
+BACKGROUND: Clostridioides difficile infections have become more frequently 
+diagnosed and associated with greater disease severity, which has resulted in an 
+increase burden on the healthcare system. These increases are attributed to the 
+increased prevalence of hypervirulent strains encompassing select ribotypes. 
+These epidemic ribotypes were characterized as hypervirulent due to higher in 
+vitro spore and toxin production, as well as increased incidence, severity and 
+mortality within patients. However, it is unclear whether epidemic ribotypes are 
+truly more virulent than non-epidemic ribotypes in vivo. Furthermore, there is 
+conflicting evidence about the ability of a strain's in vitro phenotype to be 
+predictive of their in vivo virulence. The goals of the current studies were to 
+determine if epidemic ribotypes are more virulent than other ribotypes in animal 
+models, and whether the in vitro virulence phenotype of an isolate or ribotype 
+predict in vivo virulence.
+RESULTS: To determine if epidemic strains were truly more virulent than other 
+non-epidemic strains, the in vivo virulence of 13 C. difficile isolates (7 
+non-epidemic and 6 epidemic ribotype isolates) were determined in murine and 
+hamster models of CDI. The isolates of epidemic ribotype of C. difficile were 
+found to be more virulent in both the murine and hamster models than 
+non-epidemic isolates. In particular, the group of epidemic ribotypes of C. 
+difficile had lower LD50 values in hamsters. The increased severity of disease 
+was associated with higher levels of Toxin A and Toxin B production found in 
+fecal samples, but not numbers of organisms recovered. The isolates were further 
+characterized for their in vitro virulence phenotypes, e.g. toxin production, 
+growth rates, spore formation and adherence of spores to intestinal epithelial 
+cell lines. Although there were higher levels of toxins produced and greater 
+adherence for the group of epidemic ribotypes, the in vitro profiles of 
+individual isolates were not always predictive of their in vivo virulence.
+CONCLUSIONS: Overall, the group of epidemic ribotypes of C. difficile were more 
+virulent in vivo despite individual isolates having similar phenotypes to the 
+non-epidemic isolates in vitro.

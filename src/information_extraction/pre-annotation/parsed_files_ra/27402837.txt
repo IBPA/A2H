@@ -1,0 +1,21 @@
+Macrophages play crucial roles in combatting infectious disease by promoting 
+inflammation and phagocytosis. Angiopoietin-like protein 2 (ANGPTL2) is a 
+secreted factor that induces tissue inflammation by attracting and activating 
+macrophages to produce inflammatory cytokines in chronic inflammation-associated 
+diseases such as obesity-associated metabolic syndrome, atherosclerosis, and 
+rheumatoid arthritis. Here, we asked whether and how ANGPTL2 activates 
+macrophages in the innate immune response. ANGPTL2 was predominantly expressed 
+in proinflammatory mouse bone marrow-derived differentiated macrophages 
+(GM-BMMs) following GM-CSF treatment relative to anti-inflammatory cells 
+(M-BMMs) established by M-CSF treatment. Expression of the proinflammatory 
+markers IL-1β, IL-12p35, and IL-12p40 significantly decreased in GM-BMMs from 
+Angptl2-deficient compared with wild-type (WT) mice, suggestive of attenuated 
+proinflammatory activity. We also report that ANGPTL2 inflammatory signaling is 
+transduced through integrin α5β1 rather than through paired immunoglobulin-like 
+receptor B. Interestingly, Angptl2-deficient mice were more susceptible to 
+infection with Salmonella enterica serovar Typhimurium than were WT mice. 
+Moreover, nitric oxide (NO) production by Angptl2-deficient GM-BMMs was 
+significantly lower than in WT GM-BMMs. Collectively, our findings suggest that 
+macrophage-derived ANGPTL2 promotes an innate immune response in those cells by 
+enhancing proinflammatory activity and NO production required to fight 
+infection.

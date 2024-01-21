@@ -1,0 +1,18 @@
+BACKGROUND & AIMS: Clostridium difficile toxin A is a potent intestinal 
+inflammatory agent that has been shown to act at least partially by neurogenic 
+mechanisms involving activation of the transient receptor potential vanilloid 1 
+(TRPV1) (capsaicin) receptor. We tested the hypothesis that leukotriene B4 
+(LTB4) mediates the effects of toxin A via activation of the TRPV1 receptor.
+METHODS: Isolated rat ileal segments were pretreated with pharmacologic agents 
+before intraluminal injection of toxin A or LTB4. After 3 hours, the treated 
+segments were removed and inflammation was assessed by luminal fluid 
+accumulation, myeloperoxidase activity, and histology.
+RESULTS: LTB4 caused ileitis similar to that caused by toxin A and antagonism of 
+TRPV1 receptors but not LTB4 receptors inhibited LTB4-induced inflammation. LTB4 
+also stimulated TRPV1-mediated substance P release and pretreatment with a 
+specific substance P-receptor antagonist blocked LTB4-induced substance P action 
+and ileitis. Inhibition of the LTB4 biosynthetic enzyme 5-lipoxygenase inhibited 
+toxin A-induced increases in ileal LTB4 levels and toxin A- but not LTB4-induced 
+ileitis.
+CONCLUSIONS: LTB4 mediates the inflammatory effects of toxin A via activation of 
+TRPV1 receptors.

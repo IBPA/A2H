@@ -1,0 +1,19 @@
+OBJECTIVE: Macrolide antibiotics have immunomodulatory properties that are 
+distinct from their antibacterial functions. We synthesized 5-I, which is a new 
+derivative of RXM with less antimicrobial activity, and evaluated its 
+immunomodulatory effects through both in vitro and in vivo studies.
+METHODS: Proliferative response, cytokine production, and expression of mRNA of 
+T cells stimulated with anti-CD3 and anti-CD28 mAbs in the presence or absence 
+of monocytes, cytokine production of monocytes stimulated with 
+lipopolysaccharide, and transendothelial migration of T cells in various 
+concentrations of 5-I were analyzed. The effect of 5-I treatment was also 
+evaluated in a mouse model of collagen-induced arthritis.
+RESULTS: 5-I specifically inhibited production of Th1, Th17, and proinflammatory 
+cytokines such as IL-2, IFN-γ, TNF-α, IL-6, and IL-17A. 5-I reduced the 
+expression of RORC on CD4(+) T cells, which codes for RORγt, the master 
+regulator of Th17, and it also inhibited migration of activated T cells. 
+Importantly, administration of 5-I to mice with collagen-induced arthritis 
+reduced the severity of arthritis, and this effect was also observed when 
+treatment was delayed till after the onset of disease.
+CONCLUSION: Our findings strongly suggest that 5-I may be useful as a potential 
+therapeutic agent for human rheumatoid arthritis.

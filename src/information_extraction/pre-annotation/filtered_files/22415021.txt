@@ -1,0 +1,26 @@
+We have previously reported an increase in interleukin (IL)-1β and IL-17 levels, 
+and a continuous activation of caspase-1 in early rheumatoid arthritis (RA) 
+patients. These results suggest that drugs targeting IL-1β regulatory pathways, 
+in addition to tumor necrosis factor (TNF), may constitute promising therapeutic 
+agents in early RA. We have recently used a THP-1 macrophage-like cell line to 
+screen 2320 compounds for those that down-regulate both IL-1β and TNF secretion. 
+Celastrol was one of the most promising therapeutic candidates identified in 
+that study. Our main goal in the present work was to investigate whether 
+administration of celastrol is able to attenuate inflammation in a rat model of 
+adjuvant-induced arthritis (AIA). Moreover, since IL-1β is known to play a role 
+in the polarization of Th17 cells, we also investigate whether administration of 
+digoxin, a specific inhibitor of Th17 cells polarization, is able to attenuate 
+inflammation in the same rat model. We found that celastrol administration 
+significantly suppressed joint inflammation. The histological and 
+immunohistochemical evaluation revealed that celastrol-treated rats had a normal 
+joint structure with complete abrogation of the inflammatory infiltrate and 
+cellular proliferation. In contrast, we observed that digoxin administration 
+significantly ameliorated inflammation but only if administrated in the early 
+phase of disease course (after 4days of disease induction), and it was not 
+efficient at inhibiting the infiltration of immune cells within the joint and in 
+preventing damage. Thus, our results suggest that celastrol has significant 
+anti-inflammatory and anti-proliferative properties and can constitute a 
+potential anti-inflammatory drug with therapeutic efficacy in the treatment of 
+immune-mediated inflammatory diseases such as RA. Furthermore, we find that 
+early inhibition of Th17 cells polarization ameliorates arthritis but it is not 
+as effective as celastrol.

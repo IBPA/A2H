@@ -1,0 +1,17 @@
+The population structure of Clostridium difficile currently comprises eight 
+major genomic clades. For the highly divergent C-I clade, only two toxigenic 
+strains have been reported, which lack the tcdA and tcdC genes and carry a 
+complete locus for the binary toxin (CDT) next to an atypical TcdB monotoxin 
+pathogenicity locus (PaLoc). As part of a routine surveillance of C. difficile 
+in stool samples from diarrheic human patients, we discovered three isolates 
+that consistently gave negative results in a PCR-based screening for tcdC. 
+Through phenotypic assays, whole-genome sequencing, experiments in cell 
+cultures, and infection biomodels we show that these three isolates (i) escape 
+common laboratory diagnostic procedures, (ii) represent new ribotypes, 
+PFGE-types, and sequence types within the Clade C-I, (iii) carry chromosomal or 
+plasmidal TcdBs that induce classical or variant cytopathic effects (CPE), and 
+(iv) cause different levels of cytotoxicity and hamster mortality rates. These 
+results show that new strains of C. difficile can be detected by more refined 
+techniques and raise questions on the origin, evolution, and distribution of the 
+toxin loci of C. difficile and the mechanisms by which this emerging pathogen 
+causes disease.

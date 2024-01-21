@@ -1,0 +1,24 @@
+OBJECTIVE: To determine the role of α(1,2)-linked fucosylation of proteins by 
+fucosyltransferase 1 (FUT1) in rheumatoid arthritis (RA) angiogenesis.
+METHODS: Analysis of α(1,2)-linked fucosylated proteins in synovial tissue (ST) 
+samples was performed by immunohistologic staining. Expression of α(1,2)-linked 
+fucosylated angiogenic chemokine in synovial fluid (SF) was determined by 
+immunoprecipitation and lectin blotting. To determine the angiogenic role of 
+α(1,2)-linked fucosylated proteins in RA, we performed human dermal 
+microvascular endothelial cell (HMVEC) chemotaxis and Matrigel assays using 
+sham-depleted and α(1,2)-linked fucosylated protein-depleted RA SF samples. To 
+examine the production of proangiogenic chemokines by FUT1 in HMVECs, cells were 
+transfected with FUT1 sense or antisense oligonucleotides, and enzyme-linked 
+immunosorbent assay was performed. We then studied mouse lung endothelial cell 
+(EC) chemotaxis using wild-type and FUT1 gene-deficient mouse lung ECs.
+RESULTS: RA ST endothelial cells showed high expression of α(1,2)-linked 
+fucosylated proteins compared to normal ST. The expression of α(1,2)-linked 
+fucosylated monocyte chemoattractant protein 1 (MCP-1)/CCL2 was significantly 
+elevated in RA SF compared with osteoarthritis SF. Depletion of α(1,2)-linked 
+fucosylated proteins in RA SF induced less HMVEC migration and tube formation 
+than occurred in sham-depleted RA SF. We found that blocking FUT1 expression in 
+ECs resulted in decreased MCP-1/CCL2 and RANTES/CCL5 production. Finally, we 
+showed that FUT1 regulates EC migration in response to vascular endothelial cell 
+growth factor.
+CONCLUSION: Our findings indicate that α(1,2)-linked fucosylation by FUT1 may be 
+an important new target for angiogenic diseases such as RA.

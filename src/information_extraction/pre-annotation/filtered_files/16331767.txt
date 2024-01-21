@@ -1,0 +1,23 @@
+OBJECTIVE: To examine the apoptosis-inducing effect of apoptosis 
+signal-regulating kinase 1 (ASK1) gene transfer into synovial cells in vitro and 
+in vivo.
+METHODS: An adenovirus vector was constructed so that a constitutively active 
+form of ASK1 gene (ASK1DeltaN) was expressed in the presence of the Cre 
+recombinase. The ASK1DeltaN and Cre adenovirus vectors were cotransduced into 
+cultured synoviocytes derived from patients with rheumatoid arthritis (RA), and 
+apoptosis was evaluated by TUNEL and Hoechst staining. Collagen induced 
+arthritis (CIA) was induced in 8-week-old male DA rats, and 10 days later the 2 
+adenovirus vectors were coadministered into the ankle joints of the animals. As 
+indicators of severity of arthritis, swelling of the ankle and articular index 
+(AI) scores were evaluated, while histopathological observation of articular 
+tissue was also performed.
+RESULTS: In the cultured human RA synoviocytes, overexpression of the ASK1DeltaN 
+significantly reduced cell viability and induced apoptosis. In the CIA rats 
+transduced with the ASK1DeltaN gene, arthritis was significantly promoted in 
+terms of the swelling of the ankle joints and elevation of the AI scores. 
+Histopathological observation also revealed that the constitutively active ASK1 
+induced massive infiltration of inflammatory cells into the synovial membrane as 
+well as proliferation of synovial fibroblasts. Degeneration of the synovial 
+membrane was not evident.
+CONCLUSION: Adenoviral transduction of ASK1DeltaN induced apoptosis in RA 
+synoviocytes in vitro, but not in CIA synovium in vivo.

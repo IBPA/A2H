@@ -1,0 +1,27 @@
+ETHNOPHARMACOLOGICAL RELEVANCE: Clematichinenoside AR (AR) has been defined as a 
+major active ingredient of triterpenoid saponins extracted from Clematidis Radix 
+et Rhizoma, which is a traditional Chinese herbal medicine that has long been 
+used in the treatment of rheumatoid arthritis (RA). To further explore the 
+mechanism of AR in the treatment of RA, we investigated whether its 
+immunomodulatory effects are related to Treg-mediated suppression derived from 
+Peyer׳s patches (PPs) in adjuvant induced arthritis (AIA) rat model.
+MATERIALS AND METHODS: AR (8, 16, 32 mg/kg) was orally administered daily from 
+Day 18 to Day 31 after immunization. The effect of AR on AIA rats was evaluated 
+by hind paw swelling and histopathological examination. Percentages of 
+CD4(+)CD25(+)Foxp3(+) T regulatory cells were determined by flow cytometry. 
+Levels of IL-10, TGF-β1, IL-17A and TNF-α were measured by ELISA. Expressions of 
+Foxp3 and RORγ in synovium were detected using immunohistochemical analysis.
+RESULTS: AR treatment significantly reduced paw swelling of AIA rats, and 
+histopathological analysis confirmed it could suppress severity of established 
+arthritis. AR treatment upregulated the percentages of CD4(+)CD25(+)Foxp3(+) 
+Treg cells among CD4+ T cells in PPs lymphocytes, and increased the levels of 
+IL-10 and TGF-β1 secreted from ConA-activated PPs lymphocytes, whereas decreased 
+the levels of IL-17 A and TNF-α. Similar tendency of circulating 
+CD4(+)CD25(+)Foxp3(+) Treg cells percentages and serum cytokine levels were 
+observed. Moreover, AR decreased the expression levels of Foxp3 and RORγ in 
+joint synovial membrane.
+CONCLUSIONS: In conclusion, these results suggested AR has a potent protective 
+effect on the progression of AIA, probably by augmenting CD4(+)CD25(+)Foxp3(+) 
+Treg cells in PPs to induce immunosuppression, and modulating the balance 
+between Treg cells and Th17 cells systemically. These findings may help to 
+develop AR as a potent immunosuppressive agent for the treatment of RA.

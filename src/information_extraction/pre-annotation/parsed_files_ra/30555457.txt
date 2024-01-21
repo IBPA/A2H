@@ -1,0 +1,27 @@
+Staphylococcus aureus (Sa), as one of the major human pathogens, has very 
+effective strategies to subvert the human immune system. Virulence of the 
+emerging community-associated methicillin-resistant Sa (CA-MRSA) depends on the 
+secretion of phenol-soluble modulin (PSM) peptide toxins e.g., by binding to and 
+modulation of innate immune cells. Previously, by using mouse bone 
+marrow-derived dendritic cells we demonstrated that PSMs in combination with 
+various Toll-like receptor (TLR) ligands induce a tolerogenic DC phenotype (tDC) 
+characterized by the production of IL-10 and impaired secretion of 
+pro-inflammatory cytokines. Consequently, PSM-induced tDCs favored priming of 
+CD4+CD25+FoxP3+ Tregs with suppressor function while impairing the Th1 response. 
+However, the relevance of these findings for the human system remained elusive. 
+Here, we analyzed the impact of PSMα3 on the maturation, cytokine production, 
+antigen uptake, and T cell stimulatory capacity of human monocyte-derived DCs 
+(moDCs) treated simultaneously with either LPS (TLR4 ligand) or Sa cell lysate 
+(TLR2 ligand). Herein, we demonstrate that PSMs indeed modulate human moDCs upon 
+treatment with TLR2/4 ligands via multiple mechanisms, such as transient pore 
+formation, impaired DC maturation, inhibited pro- and anti-inflammatory cytokine 
+secretion, as well as reduced antigen uptake. As a result, the adaptive immune 
+response was altered shown by an increased differentiation of naïve and even 
+CD4+ T cells from patients with Th1/Th17-induced diseases (spondyloarthritis and 
+rheumatoid arthritis) into CD4+CD127-CD25hiCD45RA-FoxP3hi regulatory T cells 
+(Tregs) with suppressor function. This Treg induction was mediated most 
+predominantly by direct DC-T-cell interaction. Thus, PSMs from highly virulent 
+Sa strains affect DC functions not only in the mouse, but also in the human 
+system, thereby modulating the adaptive immune response and probably increasing 
+the tolerance toward the bacteria. Moreover, PSMα3 might be a novel peptide for 
+tolerogenic DC induction that may be used for DC vaccination strategies.

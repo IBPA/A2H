@@ -1,0 +1,26 @@
+The gut microbiota plays a critical role in pathogen defense. Studies using 
+antibiotic-treated mice reveal mechanisms that increase susceptibility to 
+Clostridioides difficile infection (CDI), but risk factors associated with CDI 
+in humans extend beyond antibiotic use. Here, we studied the dysbiotic gut 
+microbiota of a subset of patients with diarrhea and modeled the gut microbiota 
+of these patients by fecal transplantation into germ-free mice. When challenged 
+with C. difficile, the germ-free mice transplanted with fecal samples from 
+patients with dysbiotic microbial communities showed increased gut amino acid 
+concentrations and greater susceptibility to CDI. A C. difficile mutant that was 
+unable to use proline as an energy source was unable to robustly infect 
+germ-free mice transplanted with a dysbiotic or healthy human gut microbiota. 
+Prophylactic dietary intervention using a low-proline or low-protein diet in 
+germ-free mice colonized by a dysbiotic human gut microbiota resulted in 
+decreased expansion of wild-type C. difficile after challenge, suggesting that 
+amino acid availability might be important for CDI. Furthermore, a prophylactic 
+fecal microbiota transplant in mice with dysbiosis reduced proline availability 
+and protected the mice from CDI. Last, we identified clinical risk factors that 
+could potentially predict gut microbial dysbiosis and thus greater 
+susceptibility to CDI in a retrospective cohort of patients with diarrhea. 
+Identifying at-risk individuals and reducing their susceptibility to CDI through 
+gut microbiota-targeted therapies could be a new approach to preventing C. 
+difficile infection in susceptible patients.
+
+Copyright © 2018 The Authors, some rights reserved; exclusive licensee American 
+Association for the Advancement of Science. No claim to original U.S. Government 
+Works.

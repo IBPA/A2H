@@ -1,0 +1,19 @@
+The interleukin-1 receptor antagonist (IL-1Ra) is approved for treating 
+rheumatoid arthritis and has the potential to treat metastatic cancers involving 
+excess amounts of the pro-inflammatory cytokine, interleukin-1 beta (IL-1). To 
+maintain sustained delivery and improve its therapeutic efficacy, IL-1Ra was 
+encapsulated with stabilizers in biodegradable poly-(lactic/glycolic acid) 
+(PLGA) microspheres. In vitro cytokine release and bioactivity studies in 
+cultured melanoma B16 cells revealed the microspheres to be capable of sustained 
+IL-1Ra release on a daily level that could inhibit cell proliferation for at 
+least 7 days. The level of IL-1Ra released from the microspheres was revealed in 
+rat serum. Significant amounts of IL-1Ra were released over the course of 2 
+weeks, at levels sufficient for the inhibition of exogenously-administered IL-1 
+beta. In mice injected with B16 melanoma cells, the sustained IL-1Ra delivery 
+from biodegradable microspheres inhibited tumor growth and significantly 
+prolonged mice survival. Furthermore, the tumors were less vascularized and 
+after amputation of the primary tumor, the number of lung metastases was reduced 
+by 70%, as compared to the control groups. Thus, we show that biodegradable 
+microspheres represent an efficient system for sustaining IL-1Ra delivery and 
+improving its therapeutic efficacy. As such, the system can be integrated into 
+therapeutic protocols for treating metastatic cancers.

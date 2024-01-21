@@ -1,0 +1,25 @@
+CONTEXT: Chlorogenic acid (CGA) and luteolin (Lut) are the predominant 
+constituents of Caulis Lonicerae, which is usually used in the treatment for 
+rheumatoid arthritis (RA).
+OBJECTIVE: In this study, we investigated whether CGA and Lut could 
+synergistically inhibit the proliferation of fibroblast-like synoviocytes (FLSs) 
+in RA synovial tissues.
+METHODS: Rat FLS cells (RSC-364) induced by interleukin (IL)-1β were treated by 
+CGA, Lut or both of them. The apoptosis rates were detected by flow cytometer. 
+Protein expression of key molecules of NF-κB and JAK/STAT signaling pathways 
+were detected by Western blot.
+RESULTS AND DISCUSSION: Treatment with CGA and Lut inhibited the proliferation 
+of RSC-364 cells stimulated by IL-1β significantly and induced cell apoptosis 
+notably. The ratio of apoptosis in RSC-364 cells induced with IL-1β accompanied 
+by both CGA and Lut increased approximately 7-fold compared with those incubated 
+with IL-1β alone. The results of immunoblot analysis revealed that the key 
+molecules involved in the NF-κB and JAK/STAT-signaling pathways, including NF-κB 
+p50, p100, IKKα/β, gp103, JAK1 and STAT3, were decreased significantly in 
+RSC-364 cells treated by IL-1β plus CAG and Lut compared with those incubated 
+with IL-1β alone. Additionally, the amounts of phospho-IKKα/β and phospho-STAT3 
+were also decreased significantly in cells treated with CGA and Lut. 
+Furthermore, the synergistic effect of CGA and Lut was superior to the effect of 
+one of these two ingredients.
+CONCLUSION: Our finding suggested that the combination of CGA and Lut may be a 
+potential therapeutic treatment for the inflammatory proliferation of 
+synoviocytes in patients with RA.

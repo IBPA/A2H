@@ -1,0 +1,25 @@
+OBJECTIVES: Gene therapy using cells as vectors to achieve secretion of 
+therapeutic proteins may hold promise in the treatment of chronic diseases. 
+Cell-based gene therapy with xenogeneic cells secreting antiinflammatory 
+cytokines (IL-4, IL-13, or IL-1 receptor type II) has been found effective in 
+mice with collagen-induced arthritis (CIA), a model for human rheumatoid 
+arthritis. Autologous cells engineered to produce antiinflammatory cytokines 
+were also effective in the mouse CIA model. In all these experiments, the cells 
+were grafted into the subcutaneous tissue of the back, resulting in systemic 
+treatment. To evaluate the feasibility of cell-based gene therapy confined to 
+the joints, we performed intraarticular injections of autologous cells in a 
+rhesus monkey with CIA, a model more similar to human RA.
+METHODS: We prepared ex vivo cultures of skin fibroblasts from the animal then 
+transfected the cells with a plasmid carrying the lacZ gene. We injected these 
+marker cells into metacarpophalangeal, metatarsophalangeal, and interphalangeal 
+joints.
+RESULTS: Kinetic evaluation of synovial tissue X-gal labeling, which reflected 
+reported gene expression by skin fibroblasts present within the synovium, showed 
+significant labeling by transfected cells up to 6 days after intraarticular 
+injection. Xenogeneic fibroblasts (Chinese hamster ovary cells) injected 
+intraarticularly were also detected within synovial specimens; however, labeling 
+intensity was less marked than with autologous cells. Our findings establish the 
+feasibility of skin fibroblast grafting into the synovium.
+CONCLUSION: This preliminary study opens the door to studies of heterotopic 
+autologous transfected cells for the treatment of CIA in monkeys by direct gene 
+transfer within joints.

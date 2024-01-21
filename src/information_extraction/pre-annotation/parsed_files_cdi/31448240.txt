@@ -1,0 +1,21 @@
+Clostridium difficile infections (CDI) are a major cause of 
+antibiotic-associated diarrhea. It is hypothesized that CDI develops due to the 
+antibiotic-induced disruption of the intestinal microbial community structure, 
+which allows C. difficile to flourish. Here, we pre-treated weaned pigs with the 
+antibiotics Clindamycin or Ciprofloxacin for 1 day, and subsequently inoculated 
+them with a human and pig enteropathogenic C. difficile strain 078 spores. Body 
+temperature, clinical signs of disease, and the fecal microbiome were monitored 
+daily for 15 days. Clindamycin had a stronger effect on the pigs than 
+Ciprofloxacin, resulting in drastic shifts in the fecal microbiome, decreases in 
+microbial diversity and significant increases in body temperature, even in the 
+absence of C. difficile. Fecal shedding of C. difficile was detectable for 3 and 
+9 days in Ciprofloxacin and Clindamycin treated pigs inoculated with C. 
+difficile, respectively, and in both cases decreased cell proliferation rates 
+were detected in colon tissue. The timing of C. difficile shedding coincided 
+with the decrease in a large cluster of Firmicutes following Clindamycin 
+treatment, a pattern which was also independent of C. difficile inoculation. The 
+observed community patterns suggest that successional dynamics following 
+antibiotic treatment facilitate C. difficile establishment. The similarities 
+between the microbiome responses observed in our study and those previously 
+reported in CDI-infected humans further support the utility of adult pigs as 
+models for the study of CDI.

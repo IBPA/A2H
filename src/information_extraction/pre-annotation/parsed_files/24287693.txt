@@ -1,0 +1,23 @@
+Thuricin CD is a two component narrow spectrum bacteriocin comprising two 
+peptides with targeted activity against Clostridium difficile. This study 
+examined the bioavailability of thuricin with a view to developing it as an 
+effective antimicrobial against intestinal infection. One of the peptides, 
+Trn-β, was found to be degraded by the gastric enzymes pepsin and α-chymotrypsin 
+both in vitro and in vivo, whereas Trn-α was resistant to digestion by these 
+enzymes and hence was detected in the intestinal porcine digesta following oral 
+ingestion by pigs. In order to determine if spores of the producing organism 
+Bacillus thuringiensis DPC 6431 could be used to deliver the bacteriocin to the 
+gut, spores were fed to 30 mice (approx. 10(8)-2×10(8) per animal) and their 
+germination, growth and production of thuricin in the gastrointestinal tract 
+(GIT) of the animals was monitored. Almost 99 % of the spores delivered to the 
+GIT were excreted in the first 24 h and neither Trn-α nor Trn-β was detected in 
+the gut or faecal samples of the test mice, indicating that ingestion of B. 
+thuringiensis spores may not be a suitable vehicle for the delivery of thuricin 
+CD. When thuricin CD was delivered rectally to mice (n = 40) and C. difficile 
+shedding monitored at 1, 6, 12 and 24 h post-treatment, there was a >95 % (>1.5 
+log units) reduction of C. difficile 027 in the colon contents of infected mice 
+(n = 10) 1 h post-treatment compared with the control group (n = 10; P<0.001). 
+Furthermore, 6 h post-treatment there was a further 1.5 log reduction in C. 
+difficile numbers (n = 10) relative to the control group (n = 10; P<0.05). These 
+results would suggest that rectal administration of thuricin may be a promising 
+mode of delivery of thuricin CD to the colon.

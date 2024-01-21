@@ -1,0 +1,18 @@
+Pituitary adenylyl cyclase activating peptide (PACAP) is expressed in central, 
+sensory, autonomic, and enteric neurons. Although it classically acts as a 
+neurotransmitter/neuromodulator, recent studies indicate that PACAP can also 
+regulate immune function. To this effect, PACAP has been shown to reduce 
+clinical symptoms and inflammation in mouse models of human immune-based 
+diseases such as rheumatoid arthritis, Crohn's Disease, septic shock and 
+multiple sclerosis. Despite these findings, the role of the endogenous peptide 
+in regulating immune function is unknown. To determine if endogenous PACAP plays 
+a protective role in inflammatory bowel disease (IBD) and IBD-associated 
+colorectal cancer in mice, PACAP-deficient (KO) mice were subjected to 3 cycles 
+of dextran sulfate sodium (DSS) in drinking water over 2 months, an established 
+mouse model for colitis. Compared to wild type (WT) controls, PACAP KO mice 
+exhibited more severe clinical symptoms of colitis and had significantly higher 
+colonic inflammation on pathological examination. Moreover, 60% of the PACAP KO 
+mice developed colorectal tumors with an aggressive-appearing pathology. 
+Consistent with published data, DSS-treated WT mice did not develop such tumors. 
+The results demonstrate a new mouse model which rapidly develops 
+inflammation-associated colorectal cancer in the absence of a carcinogen.

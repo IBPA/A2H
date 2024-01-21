@@ -1,0 +1,22 @@
+ETHNOPHARMACOLOGICAL RELEVANCE: The stem bark of Mammea africana is widely 
+distributed in tropical Africa and commonly used in traditional medicine. This 
+study aims to identify the active compound in Mammea africana and to evaluate 
+its antimicrobial and antiproliferative activity.
+MATERIALS AND METHODS: Methanol extract from the bark of the Mammea africana was 
+separated by liquid-liquid extraction, followed by open column chromatography. A 
+principal antimicrobial compound was purified by high performance liquid 
+chromatography (HPLC) and its structure was elucidated by nuclear magnetic 
+resonance spectroscopy (NMR) and mass spectrometry (MS). The antibacterial 
+activity of the purified compound was determined using the broth microdilution 
+method against 7 common pathogenic bacteria. The compound was also evaluated for 
+cytotoxicity by cell proliferation assay (MTS) using the mouse embryonic 
+fibroblast cell line NIH 3T3 and the non-small cell lung cancer cell line A549.
+RESULTS: The purified active compound was determined to be mammea A/AA and was 
+found to be highly active against Campylobacter jejuni (MIC=0.5 μg/ml), 
+Streptococcus pneumoniae (MIC=0.25 μg/ml), and Clostridium difficile (MIC=0.25 
+μg/ml). The compound exhibited significant antiproliferative activities against 
+both NIH 3T3 and A549 cell lines.
+CONCLUSION: Mammea A/AA isolated from Mammea africana exerts specific inhibitory 
+activity against Campylobacter jejuni, Streptococcus pneumoniae, and 
+Campylobacter difficile. Mammea A/AA was also found to exhibit significant 
+cytotoxicity against both cancer and normal cell lines.

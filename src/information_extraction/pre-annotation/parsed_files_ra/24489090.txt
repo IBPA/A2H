@@ -1,0 +1,16 @@
+Rheumatoid arthritis and other autoimmune disorders are associated with altered 
+activity of the immunomodulatory enzyme IDO. However, the precise contributions 
+of IDO function to autoimmunity remain unclear. In this article, we examine the 
+effect of two different IDO enzymes, IDO1 and IDO2, on the development of 
+autoimmune arthritis in the KRN preclinical model of rheumatoid arthritis. We 
+find that IDO2, not IDO1, is critical for arthritis development, providing 
+direct evidence of separate in vivo functions for IDO1 and IDO2. Mice null for 
+Ido2 display decreased joint inflammation relative to wild-type mice owing to a 
+reduction in pathogenic autoantibodies and Ab-secreting cells. Notably, IDO2 
+appears to specifically mediate autoreactive responses, but not normal B cell 
+responses, as total serum Ig levels are not altered and IDO2 knockout mice are 
+able to mount productive Ab responses to model Ags in vitro and in vivo. 
+Reciprocal adoptive transfer studies confirm that autoantibody production and 
+arthritis are modulated by IDO2 expression in a cell type extrinsic to the T 
+cell. Taken together, our results, provide important insights into IDO2 function 
+by defining its pathogenic contributions to autoantibody-mediated autoimmunity.

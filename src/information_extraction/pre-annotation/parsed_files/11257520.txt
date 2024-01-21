@@ -1,0 +1,23 @@
+A potential therapy for antibiotic-associated pseudomembranous colitis is to 
+bind Clostridium difficile toxins A and B using cholestyramine, a hydrophobic 
+anion exchange medium. Frontal analysis in isotonic phosphate buffer was studied 
+using post-column derivatization with o-phthalaldehyde, which gave a highly 
+sensitive (> or =30 ng) flow-through analysis. Following load (1.5-3.0 microg 
+toxin/3.6 mg), toxin A was bound at a slightly higher capacity than B, due to 
+slower kinetics. A salt gradient eluted roughly 20% of bound toxin A with 0.6 M 
+NaCl and toxin B with 1.1 M NaCl, hence toxin A showed weaker electrostatic 
+affinity. The remainder of toxin A (65%) and some of toxin B (10% out of 50%) 
+were eluted using a subsequent gradient to 60% acetonitrile in normal saline, 
+which measured predominantly hydrophobic binding. Low and high affinity 
+populations of both toxins were observed. Glycocholic acid or amino acids were 
+competitive binders, although these components had little effect on the toxin A 
+population bound primarily through ionic interactions. Competitive protein 
+constituents in hamster cecal contents were also profiled. These results help to 
+explain the variable clinical response in using cholestyramine to treat colitis. 
+Using quaternary amine-polyhydroxymethacrylate (PHM) ion exchange 
+chromatography, a trend for increased binding at higher pH was observed, 
+especially for toxin A. Binding to strong cation exchange resins (sulfonate-PHM) 
+was not observed. A range of reversed phase media retained both toxins, although 
+recovery was very poor relative to protein standards. Size exclusion 
+chromatography with light scattering detection showed that toxin B exists in 
+different aggregation states, while toxin A remains monomeric.

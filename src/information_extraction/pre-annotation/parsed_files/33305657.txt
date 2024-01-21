@@ -1,0 +1,25 @@
+Clostridioides difficile is an enteric bacterial pathogen that can a cause 
+nosocomial infection leading to debilitating colitis. The development of a 
+murine model of C. difficile infection has led to fundamental discoveries in 
+disease pathogenesis and the host immune response to infection. Recently, C. 
+difficile endogenously present in the microbiota of mice has been reported and 
+was found to complicate interpretation of mouse studies. Here, we report a novel 
+C. difficile strain, named NTCD-035, isolated from the microbiota of our mouse 
+colony. The presence of NTCD-035 in mice prior to challenge with a highly 
+pathogenic C. difficile strain (VPI10463) led to significantly reduced disease 
+severity. Phylogenetic characterization derived from whole genome sequencing and 
+PCR ribotyping identified the isolate as a novel clade 1, ribotype 035 strain 
+that lacks the pathogenicity locus required to produce toxins. Deficiency in 
+toxin production along with sporulation capacity and secondary bile acid 
+sensitivity was confirmed using in vitro assays. Inoculation of germ-free mice 
+with NTCD-035 did not cause morbidity despite the strain readily colonizing the 
+large intestine. Implementation of a culture-based screening procedure enabled 
+the identification of mice harboring C. difficile in their microbiota, the 
+establishment of a C. difficile-free mouse colony, and a monitoring system to 
+prevent future contamination. Taken together, these data provide a framework for 
+screening mice for endogenously harbored C. difficile and support clinical 
+findings that demonstrate the therapeutic potential of non-toxigenic strains in 
+preventing C. difficile associated disease. Abbreviations: PaLoc - Pathogenicity 
+locus, CFUs - Colony forming units, TcdA - toxin-A, TcdB - toxin-B, CdtA - 
+binary toxin A, CdtB - binary toxin B, CdtR - binary toxin R, NTCD - 
+non-toxigenic C. difficile.

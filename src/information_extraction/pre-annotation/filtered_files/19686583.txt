@@ -1,0 +1,27 @@
+INTRODUCTION: Interleukin (IL)-17 is a pro-inflammatory cytokine in rheumatoid 
+arthritis (RA) and collagen-induced arthritis (CIA). Since interferon 
+(IFN)-gamma inhibits Th17 cell development, IFN-gamma receptor knockout 
+(IFN-gammaR KO) mice develop CIA more readily. We took advantage of this model 
+to analyse the mechanisms of action of IL-17 in arthritis. The role of IFN-gamma 
+on the effector mechanisms of IL-17 in an in vitro system was also investigated.
+METHODS: IFN-gammaR KO mice induced for CIA were treated with anti-IL-17 or 
+control antibody. The collagen type II (CII)-specific humoral and cellular 
+autoimmune responses, myelopoiesis, osteoclastogenesis, and systemic cytokine 
+production were determined. Mouse embryo fibroblasts (MEF) were stimulated with 
+IL-17, tumor necrosis factor (TNF)-alpha and the expression of cytokines and 
+chemokines were determined.
+RESULTS: A preventive anti-IL-17 antibody treatment inhibited CIA in IFNgammaR 
+KO mice. In the joints of anti-IL-17-treated mice, neutrophil influx and bone 
+destruction were absent. Treatment reduced the cellular autoimmune response as 
+well as the splenic expansion of CD11b+ cells, and production of myelopoietic 
+cytokines such as granulocyte macrophage colony-stimulating factor (GM-CSF) and 
+IL-6. IL-17 and TNF-alpha synergistically induced granulocyte chemotactic 
+protein-2 (GCP-2), IL-6 and receptor activator of NFkappaB ligand (RANKL) in 
+MEF. This induction was profoundly inhibited by IFN-gamma in a STAT-1 (signal 
+transducer and activator of transcription-1)-dependent way.
+CONCLUSIONS: In the absence of IFN-gamma, IL-17 mediates its pro-inflammatory 
+effects mainly through stimulatory effects on granulopoiesis, neutrophil 
+infiltration and bone destruction. In vitro IFN-gamma profoundly inhibits the 
+effector function of IL-17. Thus, aside from the well-known inhibition of the 
+development of Th17 cells by IFN-gamma, this may be an additional mechanism 
+through which IFN-gamma attenuates autoimmune diseases.

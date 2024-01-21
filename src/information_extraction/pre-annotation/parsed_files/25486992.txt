@@ -1,0 +1,22 @@
+Clostridium difficile infection (CDI) represents the most prevalent cause of 
+antibiotic-associated gastrointestinal infections in health care facilities in 
+the developed world. Disease symptoms are caused by the two homologous 
+exotoxins, TcdA and TcdB. Standard therapy for CDI involves administration of 
+antibiotics that are associated with a high rate of disease recurrence, 
+highlighting the need for novel treatment paradigms that target the toxins 
+rather than the organism itself. A combination of human monoclonal antibodies, 
+actoxumab and bezlotoxumab, directed against TcdA and TcdB, respectively, has 
+been shown to decrease the rate of recurrence in patients treated with 
+standard-of-care antibiotics. However, the exact mechanism of antibody-mediated 
+protection is poorly understood. In this study, we show that the antitoxin 
+antibodies are protective in multiple murine models of CDI, including systemic 
+and local (gut) toxin challenge models, as well as primary and recurrent models 
+of infection in mice. Systemically administered actoxumab-bezlotoxumab prevents 
+both the damage to the gut wall and the inflammatory response, which are 
+associated with C. difficile in these models, including in mice challenged with 
+a strain of the hypervirulent ribotype 027. Furthermore, mutant antibodies 
+(N297Q) that do not bind to Fcγ receptors provide a level of protection similar 
+to that of wild-type antibodies, demonstrating that the mechanism of protection 
+is through direct neutralization of the toxins and does not involve host 
+effector functions. These data provide a mechanistic basis for the prevention of 
+recurrent disease observed in CDI patients in clinical trials.

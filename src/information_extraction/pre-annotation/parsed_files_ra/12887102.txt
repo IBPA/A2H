@@ -1,0 +1,18 @@
+Autoantibodies directed against variable domain epitopes of the alpha/beta T 
+cell receptor (TCR) occur in sera of man, mouse and other vertebrates. Here, we 
+focus upon autoantibodies expressed in human rheumatoid arthritis (RA) and 
+systemic erythematosus (SLE) with parallel studies involving collagen induced 
+arthritis (CIA) in mice transgenic for human HLA-DR conferring resistance or 
+susceptibility to autoimmune disease. We report specificity characterization of 
+polyclonal and monoclonal IgM and IgG autoantibodies from SLE and for IgM 
+monoclonal autoantibodies of RA patients. The data suggests that autoantibodies 
+directed against "public" idiotopes present in the first complementarity 
+determining region (CDR1) and the third framework (FR3) of the Vbeta gene 
+products are generated in response to over-production of autodestructive T cells 
+bearing particular Vbeta gene products and function to modulate (downregulate) 
+the expression of these T cells. Since antibodies of these specificities are 
+present in polyclonal IgG immunoglobulin (IVIG) preparations used for 
+therapeutic purposes, the immunomodulatory effects of antibodies directed 
+against TCR variable domains may account, at least in part, for the efficacy of 
+IVIG preparations in therapy of autoimmune diseases and in the prevention of 
+graft versus host reactions.

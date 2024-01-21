@@ -1,0 +1,22 @@
+Inter alpha inhibitor (IαI) is an abundant serum protein consisting of three 
+polypeptides: two heavy chains (HC1 and HC2) and bikunin, a broad-specificity 
+Kunitz-type proteinase inhibitor. The complex is covalently held together by 
+chondroitin sulfate but during inflammation IαI may interact with TNF-stimulated 
+gene 6 protein (TSG-6), which supports transesterification of heavy chains to 
+hyaluronan. Recently, IαI was shown to inhibit mouse complement in vivo and to 
+protect from complement-mediated lung injury but the mechanism of such activity 
+was not elucidated. Using human serum depleted from IαI, we found that IαI is 
+not an essential human complement inhibitor as was reported for mice and that 
+such serum has unaltered hemolytic activity. However, purified human IαI 
+inhibited classical, lectin and alternative complement pathways in vitro when 
+added in excess to human serum. The inhibitory activity was dependent on heavy 
+chains but not bikunin and detected at the level of initiating molecules (MBL, 
+properdin) in the lectin/alternative pathways or C4b in the classical pathway. 
+Furthermore, IαI affected formation and assembly of the C1 complex and prevented 
+assembly of the classical pathway C3-convertase. Presence and putative 
+interactions with TSG-6 did not affect the ability of IαI to inhibit complement 
+thus implicating IαI as a potentially important complement inhibitor once 
+enriched onto hyaluronan moieties in the course of local inflammatory processes. 
+In support of this, we found a correlation between IαI/HC-containing proteins 
+and hemolytic activity of synovial fluid from patients suffering from rheumatoid 
+arthritis.

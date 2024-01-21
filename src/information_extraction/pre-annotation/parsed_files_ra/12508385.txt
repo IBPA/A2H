@@ -1,0 +1,23 @@
+OBJECTIVE: To evaluate any additive effect on attenuation of collagen induced 
+arthritis (CIA) in tumor necrosis factor receptor I (TNFRI) and interleukin 6 
+(IL-6) double knockout (DKO) mice.
+METHODS: CIA was induced in wild-type (Wt), TNFRI knockout (TNFRIKO), IL-6 
+knockout (IL-6KO), and DKO mice. Comparative studies were performed among these 
+different mouse genotypes observing clinical (incidence, arthritis score), 
+histological, radiologic, and immunological aspects.
+RESULTS: More than 90% of the Wt, TNFRIKO, and IL-6KO mice developed definite 
+CIA, while only 20% of the DKO mice did so. Severity of arthritis, indicated by 
+the arthritis score, was significantly reduced in both the TNFRIKO and IL-6KO 
+mice compared with the Wt mice. Moreover, the severity of arthritis in the DKO 
+mice was significantly reduced compared with each single KO mouse (by arthritis 
+scores; DKO vs TNFRIKO, IL-6KO mice, p < 0.05). In addition, histological and 
+radiologic changes were also significantly reduced in the DKO mice compared with 
+each single KO mouse (by histological and radiologic scores; DKO vs TNFRIKO, 
+IL-6KO mice, p < 0.05 and p < 0.01 respectively). In immunological studies, 
+serum anti-type II collagen (anti-CII) antibody concentrations were 
+significantly decreased in the DKO mice compared with each single KO mouse (DKO 
+vs TNFRIKO, IL-6KO mice, p < 0.01).
+CONCLUSION: Simultaneous blockade of TNFRI and IL-6 showed synergistic rather 
+than additive effects on the attenuation of CIA. Combinations of anti-TNF-a and 
+anti-IL-6 therapy may provide clinical benefits for treatment of rheumatoid 
+arthritis compared with therapy against each single cytokine.

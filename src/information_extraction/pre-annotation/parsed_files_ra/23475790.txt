@@ -1,0 +1,20 @@
+CpG-oligonucleotide (ODN)-induced TLR9 activation exerts anti-inflammatory 
+effects. TREM-1 is a DAP12-associated receptor, which is up-regulated in 
+response to LPS-mediated TLR4 activation, and plays an essential role in innate 
+immune response by augmenting the production of pro-inflammatory chemokines and 
+cytokines. TREM-1 up-regulation resulted in a grave outcome in animal models, 
+and in patients with sepsis and rheumatoid arthritis, while its soluble form 
+(sTREM-1) exerted anti-inflammatory effects. We hypothesized that CpG-ODN 
+regulates membrane TREM-1 expression and sTREM-1 shedding. The effect of 
+CpG-ODN-induced TLR9 activation on TREM-1 expression and shedding was studied in 
+mouse peritoneal macrophages and the mouse macrophage cell line RAW 264.7. While 
+TREM-1 expression was not altered by CpG-ODN alone, stimulation with both LPS 
+and CpG-ODN significantly abrogated TREM-1 LPS-induced up-regulation. Moreover, 
+CpG-ODN-induced TLR9 activation either alone or in combination with LPS resulted 
+in a significant increase of supernatant sTREM-1. The release of sTREM-1 was 
+correlated positively with MMP-9 activity and was inhibited by chloroquine. 
+These results suggest (i) a novel CpG-ODN-induced TLR9 pathway for the 
+regulation of macrophage TREM-1 expression and MMP-9-mediated TREM-1 shedding; 
+and (ii) a novel mechanism for an anti-inflammatory effect of CpG-ODN through 
+abrogation of LPS-induced membrane TREM-1 up-regulation and increased 
+MMP-9-mediated TREM-1 shedding.

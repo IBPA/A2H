@@ -1,0 +1,15 @@
+Rheumatoid arthritis (RA) is an autoimmune synovitis characterized by the 
+presence of anticitrullinated protein Abs, although the exact targets and role 
+of anticitrullinated protein autoimmunity in the pathogenesis of RA remain to be 
+defined. Fibrinogen, which can be citrullinated, has recently emerged as a 
+candidate autoantigen. To determine whether autoimmunity against fibrinogen can 
+mediate inflammatory arthritis, we immunized a variety of common mouse strains 
+with fibrinogen and found that DBA/1 and SJL mice developed an inflammatory and 
+erosive arthritis. Mice with fibrinogen-induced arthritis (FIA) possess 
+fibrinogen-reactive T cells that produce the proinflammatory cytokines IL-6, 
+IL-17, TNF-alpha, and IFN-gamma. FIA can be adoptively transferred with either 
+plasma or fibrinogen-specific T cells from diseased mice. Mice with FIA possess 
+rheumatoid factor, circulating immune complexes, and anticyclic citrullinated 
+peptide Abs, all of which are characteristic of human RA. These observations 
+demonstrate that fibrinogen is arthritogenic in mice and that the pathogenesis 
+of FIA is mediated by both autoantibodies and fibrinogen-reactive T cells.

@@ -1,0 +1,23 @@
+We have identified and characterized a novel proangiogenic glycoprotein (NAP) 
+with molecular weight of 67 kDa from synovial fluid of rheumatoid arthritis 
+patients. Proteomic analysis of the protein revealed 29% sequence coverage with 
+maximum identity for human retinoblastoma binding protein 2. N-terminal amino 
+acid sequence showed no identity to recently discovered protein sequences. NAP 
+was also identified in both normal and tumor cell lines by Western blotting. NAP 
+is a permeability factor as verified by miles permeability assay. The 
+proangiogenic potential of NAP was identified using shell less CAM, rat cornea 
+and tumor on CAM assays. NAP induces expression of VEGF and Flt-1 gene as 
+verified by promoter reporter gene analysis. Further NAP induces proliferation 
+of endothelial cells and formation of tube like structures. NAP is also involved 
+in migration and invasion of tumor cells. Clinical data revealed the presence of 
+NAP in breast cancer biopsies. We have developed monoclonal antibody (mAb), and 
+specific ELISA, which confirmed the presence of NAP in the cytosol of tumor 
+cells. The mAb effect was evaluated with established angiogenic assays. Further, 
+we investigated the detailed mechanism by which NAP induces angiogenesis. NAP is 
+phosphorylated by VEGF induced activation of MAPK and JNK pathways through 
+VEGFR2 phosphorylation. NAP involves JNK pathway predominantly with further 
+activation of NFκB in downstream processing of VEGF activation. Together these 
+findings establish that NAP displays angiogenic properties and promotes 
+efficient neovascularization both in vitro and in vivo models. These 
+observations suggest that anti-NAP-mAb can be targeted for antiangiogenic 
+therapy of cancer.

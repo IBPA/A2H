@@ -1,0 +1,20 @@
+AKT and ERK pathways have been implicated as therapeutic targets for human 
+rheumatoid arthritis (RA), fibroblast-like synoviocytes (FLS) inhibition, and 
+thus RA treatment. Sprouty2 (SPRY2) has been known as a tumor suppressor by 
+blocking both ERK and AKT signaling cascades. Whether SPRY2 can function as a 
+suppressor of tumor-like inflammatory FLS and RA through negatively regulating 
+AKT and ERK activation has not been reported. The purpose of this study was to 
+determine whether SPRY2 might have antiarthritic effects in experimental animal 
+model of RA. We first determined that expression of SPRY2 mRNA was decreased in 
+FLS from patients with RA compared with patients with osteoarthritis (OA). 
+Further studies demonstrated that intraarticular gene transfer with AdSPRY2, the 
+recombinant adenovirus containing SPRY2 complementary DNA, resulted in a 
+significant suppression of rat adjuvant-induced arthritis (AIA) compared with 
+the control AdGFP, the adenoviral vector encoding green fluorescent protein, as 
+reflected in both clinical and histological observations. AdSPRY2 suppressed the 
+production of proinflammatory cytokines and matrix metalloproteinases (MMPs), 
+and the activation of ERK and AKT signals in AIA ankle joints. These results 
+suggest that using SPRY2 to block the AKT and ERK pathways effectively reduces 
+the inflammatory responses and arthritic progression in AIA. Thus, the 
+development of an immunoregulatory strategy based on SPRY2 may therefore have 
+therapeutic potential in the treatment of RA.

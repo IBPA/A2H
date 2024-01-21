@@ -1,0 +1,19 @@
+Vitamin D has been demonstrated to influence multiple aspects of amyotrophic 
+lateral sclerosis (ALS) pathology. Both human and rodent central nervous systems 
+express the vitamin D receptor (VDR) and/or its enzymatic machinery needed to 
+fully activate the hormone. Clinical research suggests that vitamin D treatment 
+can improve compromised human muscular ability and increase muscle size, 
+supported by loss of motor function and muscle mass in animals following VDR 
+knockout, as well as increased muscle protein synthesis and ATP production 
+following vitamin D supplementation. Vitamin D has also been shown to reduce the 
+expression of biomarkers associated with oxidative stress and inflammation in 
+patients with multiple sclerosis, rheumatoid arthritis, congestive heart 
+failure, Parkinson's disease and Alzheimer's disease; diseases that share common 
+pathophysiologies with ALS. Furthermore, vitamin D treatment greatly attenuates 
+hypoxic brain damage in vivo and reduces neuronal lethality of glutamate insult 
+in vitro; a hallmark trait of ALS glutamate excitotoxicity. We have recently 
+shown that high-dose vitamin D3 supplementation improved, whereas vitamin D3 
+restriction worsened, functional capacity in the G93A mouse model of ALS. In 
+sum, evidence demonstrates that vitamin D, unlike the antiglutamatergic agent 
+Riluzole, affects multiple aspects of ALS pathophysiology and could provide a 
+greater cumulative effect.

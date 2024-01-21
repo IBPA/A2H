@@ -1,0 +1,21 @@
+Clostridium difficile toxin A is known to cause actin disaggregation through the 
+enzymatic inactivation of intracellular Rho proteins. Based on the rapid and 
+severe cell rounding of toxin A-exposed cells, we speculated that toxin A may be 
+involved in post-translational modification of tubulin, leading to microtubule 
+instability. In the current study, we observed that toxin A strongly reduced 
+α-tubulin acetylation in human colonocytes and mouse intestine. Fractionation 
+analysis demonstrated that toxin A-induced α-tubulin deacetylation yielded 
+monomeric tubulin, indicating the presence of microtubule depolymerization. 
+Inhibition of the glucosyltransferase activity against Rho proteins of toxin A 
+by UDP-2',3'-dialdehyde significantly abrogated toxin A-induced α-tubulin 
+deacetylation. In colonocytes treated with trichostatin A (TSA), an inhibitor of 
+the HDAC6 tubulin deacetylase, toxin A-induced α-tubulin deacetylation and loss 
+of tight junction were completely blocked. Administration of TSA also attenuated 
+proinflammatory cytokine production, mucosal damage, and epithelial cell 
+apoptosis in mouse intestine exposed to toxin A. These results suggest that 
+toxin A causes microtubule depolymerization by activation of HDAC6-mediated 
+tubulin deacetylation. Indeed, blockage of HDAC6 by TSA markedly attenuates 
+α-tubulin deacetylation, proinflammatory cytokine production, and mucosal damage 
+in a toxin A-induced mouse enteritis model. Tubulin deacetylation is an 
+important component of the intestinal inflammatory cascade following toxin 
+A-mediated Rho inactivation in vitro and in vivo.

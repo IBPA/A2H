@@ -1,0 +1,19 @@
+Silibinin, a natural polyphenolic flavonoid, possesses anti-oxidant, 
+anti-inflammation and anti-cancer properties. The present study was designed to 
+investigate the effects of silibinin on rheumatoid arthritis (RA) 
+pathogenesis-related cells and collagen-induced arthritis (CIA) and further 
+explore the potential underlying mechanisms. Our results showed that silibinin 
+suppressed cell viability and increased the percentage of apoptotic 
+RA-fibroblast-like synoviocytes (FLS). Furthermore, the production of 
+inflammatory cytokines in RA-FLS and a CIA rat model was effectively inhibited 
+by silibinin. Silibinin also induced macrophage M2 polarization in RAW264.7 
+cells. We further demonstrated that silibinin inhibits Th17 cell differentiation 
+in vitro. The nuclear factor kappa B (NF-κB) pathway was suppressed in RA-FLS. 
+In addition, Sirtuin1 (SIRT1) was decreased after silibinin treatment, and 
+RA-FLS transfection with a short hairpin RNA (shRNA) of SIRT1 enhanced 
+silibinin-induced apoptosis. Autophagy was markedly decreased in a 
+dose-dependent manner following silibinin treatment. These findings indicate 
+that silibinin inhibited inflammation by inhibiting the NF-κB pathway, and SIRT1 
+may participate in silibinin-induced apoptosis. Silibinin also inhibited 
+autophagy in RA-FLS. Thus, silibinin may be a potential therapeutic agent for 
+the treatment of RA.

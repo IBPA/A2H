@@ -1,0 +1,17 @@
+Celecoxib (CXB), a COX-2 inhibitor, is primarily indicated for long-term 
+treatment of rheumatoid arthritis (RA). The effective therapeutic efficacy of 
+CXB on RA via oral administration shows adverse systemic complications, and 
+therefore, local application of CXB has been recommended. The aim of the present 
+study was to develop and characterize solid lipid nanoparticles (SLNs) with 
+enhanced skin permeation potential of CXB. The particle size, polydispersity 
+index (PDI), and percentage drug entrapment (PDE) of the developed SLNs 
+(CXB-SLNs) were found to be 240 nm, < 0.3, and ~ 86% respectively. The developed 
+SLNs exhibited sustained release up to 70% at the end of 48 h. Drug permeation 
+was found to be 45% for SLN gel and 31% for conventional gel. The dermatokinetic 
+studies also confirmed enhanced permeation of CXB in the epidermis and dermis 
+and revealed superiority of the developed SLN gel vis-à-vis the conventional 
+gel. Further, in the CFA-induced arthritis rat model, % arthritis index (AI) of 
+the CXB-SLN gel formulation was found to be very less (18.54%) as compared to 
+untreated (187.34%) and conventional gel-treated (91.61%) animals. In 
+conclusion, the current study can provide a suitable alternative for the 
+development of an effective topical formulation of CXB in lipid nanocarriers.

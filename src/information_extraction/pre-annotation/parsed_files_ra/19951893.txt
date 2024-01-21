@@ -1,0 +1,24 @@
+The 'A-disintegrin and metalloproteinase' ( ADAM ) and 'A-disintegrin and 
+metalloproteinase with thrombospondin motifs' ( ADAMTS ) genes make up two 
+similar, yet distinct, gene families. The human and mouse genomes contain 21 and 
+24 putatively functional protein-coding ADAM genes, respectively, and 24 versus 
+32 putatively functional protein-coding ADAMTS genes, respectively. Analysis of 
+evolutionary divergence shows that both families are unique. Each of the two 
+families can be separated, if need be, into groups of more closely related 
+members: six subfamilies for ADAM , four subfamilies for ADAMTS. The presence of 
+both disintegrin and peptidase domains within the ADAM and ADAMTS proteins 
+implies multiple biological roles within the cell. Membrane-anchored ADAM 
+proteins are best known for their role in activating zymogens--including tumour 
+necrosis factor-alpha, epidermal growth factor (EGF) and amyloid precursor 
+protein (APP). ADAM proteins can also participate in cell adhesion via their 
+interaction with integrins in neighbouring cells. ADAMTS are secreted proteins 
+that participate in extracellular matrix maintenance by way of their cleavage of 
+procollagen and proteoglycans. ADAMTS proteins also are involved in coagulation 
+by cleaving von Willibrand factor precursor protein. ADAM and ADAMTS proteins 
+participate in a wide range of cellular processes, including cell adhesion and 
+migration, ectodomain shedding, proteolysis, development, ovulation and 
+angiogenesis. Because these enzymes are believed to play an important role in a 
+number of pathologies, including Alzheimer's disease, rheumatoid arthritis, 
+atherosclerosis, asthma and cancer progression, the products of the ADAM and 
+ADAMTS genes represent promising drug targets for the prevention and management 
+of a number of human diseases.

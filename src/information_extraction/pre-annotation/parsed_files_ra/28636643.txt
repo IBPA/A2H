@@ -1,0 +1,23 @@
+Skeletal muscle weakness is a prominent feature in patients with rheumatoid 
+arthritis (RA). In this study, we investigated whether neuromuscular electrical 
+stimulation (NMES) training protects against skeletal muscle dysfunction in rats 
+with adjuvant-induced arthritis (AIA). AIA was produced by intraarticular 
+injection of complete Freund's adjuvant into the knees of Wistar rats. For NMES 
+training, dorsiflexor muscles were stimulated via a surface electrode (0.5 ms 
+pulse, 50 Hz, 2 s on/4 s off). NMES training was performed every other day for 
+three weeks and consisted of three sets produced at three min intervals. In each 
+set, the electrical current was set to achieve 60% of the initial maximum 
+isometric torque and the current was progressively increased to maintain this 
+torque; stimulation was stopped when the 60% torque could no longer be 
+maintained. After the intervention period, extensor digitorum longus (EDL) 
+muscles were excised and used for physiological and biochemical analyses. There 
+was a reduction in specific force production (i.e. force per cross-sectional 
+area) in AIA EDL muscles, which was accompanied by aggregation of the 
+myofibrillar proteins actin and desmin. Moreover, the protein expressions of the 
+pro-oxidative enzymes NADPH oxidase, neuronal nitric oxide synthase, p62, and 
+the ratio of the autophagosome marker LC3bII/LC3bI were increased in AIA EDL 
+muscles. NMES training prevented all these AIA-induced alterations. The present 
+data suggest that NMES training prevents AIA-induced skeletal muscle weakness 
+presumably by counteracting the formation of actin and desmin aggregates. Thus, 
+NMES training can be an effective treatment for muscle dysfunction in patients 
+with RA.

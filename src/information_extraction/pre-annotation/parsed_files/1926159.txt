@@ -1,0 +1,30 @@
+Clostridium difficile toxin A in its native form is a high molecular weight 
+(520-540 K) aggregate with five major biological activities. It is lethal, 
+enterotoxic, cytotoxic and cytotonic, and induces hemagglutination of rabbit red 
+blood cells. Possibly these activities are contained in separate components. A 
+major subunit of c. 230-310 K has been defined but lower molecular weight 
+components cannot be excluded. The major component has been cloned, and sequence 
+analysis indicated a complicated pattern of repeating sequences in the 
+C-terminal third of the molecule. This review deals mainly with the effects of 
+toxin A on cultured cells. Most mammalian cells are sensitive to toxin A whose 
+major effect is to stop cell division irreversibly. The toxin binds via its 
+repeat sequences to a trisaccharide receptor expressed on rabbit red cells and 
+on brush border membranes from hamster intestine. This receptor seems to be 
+functional in the hemagglutination reaction and the enterotoxicity. Its role in 
+the cytotoxic effect of the toxin is not clear, but no other receptor structure 
+has as yet been identified. In order to exert its cytotoxic (antiproliferative) 
+effect toxin A must first be internalized by endocytosis. Thus a latency period 
+of at least 30 min after toxin binding to cells is consistently observed, and 
+all cytotoxic effects can be prevented by blocking the endocytosis pathway. The 
+first microscopically visible signs of cytotoxicity consist in retraction and 
+rounding of intoxicated cells. In addition the nucleus becomes polarized to one 
+side of the cell while other cell organelles are not significantly affected. 
+These morphological changes seem to be the consequence of a cytoskeletal 
+rearrangement, mainly involving some components of the microfilament system. 
+Inhibition of macromolecular syntheses as well as permeabilization of the plasma 
+membrane may follow the early cytoskeletal effects and finally lead to cell 
+death. Attempts to identify metabolic pathways of significance in the 
+cytotoxicity suggest that the cytosolic level of Ca2+ is not important, thus 
+excluding certain mechanisms for cell killing. In this respect the cytotoxic 
+mode of action of toxin A clearly differs from that of toxin B. However, the 
+biochemical basis for the antiproliferative effect of toxin A remains unknown.

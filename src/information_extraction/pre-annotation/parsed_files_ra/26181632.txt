@@ -1,0 +1,26 @@
+Folate receptor (FR)-β has been identified as a promising target for 
+antimacrophage and antiinflammatory therapies. In the present study, we 
+investigated EC0565, a folic acid-derivative of everolimus, as a FR-specific 
+inhibitor of the mammalian target of rapamycin (mTOR). Because of its 
+amphiphilic nature, EC0565 was first evaluated for water solubility, critical 
+micelle formation, stability in culture and FR-binding specificity. Using 
+FR-expressing macrophages, the effect of EC0565 on mTOR signaling and cellular 
+proliferation was studied. The pharmacokinetics, metabolism and bioavailability 
+of EC0565 were studied in normal rats. The in vivo activity of EC0565 was 
+assessed in rats with adjuvant arthritis, a "macrophage-rich" model with close 
+resemblance to rheumatoid arthritis. EC0565 forms micellar aggregates in 
+physiological buffers and demonstrates good water solubility as well as strong 
+multivalent FR-binding capacity. EC0565 inhibited mTOR signaling in rat 
+macrophages at nanomolar concentrations and induced G0/G1 cell cycle arrest in 
+serum-starved RAW264.7 cells. Subcutaneously administered EC0565 in rats 
+displayed good bioavailability and a relatively long half-life (~12 h). When 
+given at 250 nmol/kg, EC0565 selectively inhibited proliferating cell nuclear 
+antigen expression in thioglycollate-stimulated rat peritoneal cells. With 
+limited dosing regimens, the antiarthritic activity of EC0565 was found superior 
+to that of etanercept, everolimus and a nontargeted everolimus analog. The in 
+vivo activity of EC0565 was also comparable to that of a folate-targeted 
+aminopterin. Folate-targeted mTOR inhibition may be an effective way of 
+suppressing activated macrophages in sites of inflammation, especially in 
+nutrient-deprived conditions, such as in the arthritic joints. Further 
+investigation and improvement upon the physical and biochemical properties of 
+EC0565 are warranted.

@@ -1,0 +1,18 @@
+OBJECTIVE: Patients with rheumatoid arthritis experience nociceptive as well as 
+neuropathic pain. The effect of iguratimod (IGU), a disease-modifying 
+anti-rheumatic drug, on neuropathic pain in a rat model of chronic constriction 
+injury (CCI) was examined in this study.
+METHODS: CCI was induced by making four ligations on the left sciatic nerve. 
+Rats with stable signs of static allodynia were selected 2 weeks after the 
+surgery and drug treatments were started (day 0). The test drugs were orally 
+administered once daily for 15 days. The threshold of mechanical pain response 
+in the hind paw was evaluated by the von Frey hair test in a blinded manner. To 
+observe histological changes in the spinal cord, the L4 region was subjected to 
+immunohistochemical analysis for the detection of microglial cells.
+RESULTS: IGU showed an anti-allodynic effect on CCI-induced neuropathic pain at 
+days 6 and 14, but not at 90 min after the first administration of IGU. This 
+effect of IGU was observed until day 21. Furthermore, IGU decreased the number 
+of Iba-1-positive cells, which had been increased at the ipsilateral side of the 
+dorsal horn by CCI.
+CONCLUSIONS: These results suggest that IGU suppresses neuropathic pain via a 
+different mechanism from that of current therapeutics.

@@ -1,0 +1,21 @@
+The enterotoxin from Clostridium difficile (ToxA) is one of the causative agents 
+of the antibiotic-associated pseudomembranous colitis. In cultured monolayer 
+cells ToxA exhibits cytotoxic activity to induce disassembly of the actin 
+cytoskeleton, which is accompanied by morphological changes. ToxA-induced 
+depolymerization of actin filaments is correlated with a decrease in the 
+ADP-ribosylation of the low molecular mass GTP-binding Rho proteins (Just, I., 
+Selzer, J., von Eichel-Streiber, C., and Aktories, K. (1995) J. Clin. Invest. 
+95, 1026-1031). Here we report on the identification of the ToxA-induced 
+modification of Rho. Applying electrospray mass spectrometry, the mass of the 
+modification was determined as 162 Da, which is consistent with the 
+incorporation of a hexose into Rho. From several hexoses tested UDP-glucose 
+selectively served as cosubstrate for ToxA-catalyzed modification. The acceptor 
+amino acid of glucosylation was identified from a Lys-C-generated peptide by 
+tandem mass spectrometry as Thr-37. Mutation of Thr-37 to Ala completely 
+abolished glucosylation. The members of the Rho family (RhoA, Rac1, and Cdc42Hs) 
+were substrates for ToxA, whereas H-Ras, Rab5, and Arf1 were not glucosylated. 
+ToxA-catalyzed glucosylation of lysates from ToxA-pretreated rat basophilic 
+leukemia (RBL) cells resulted in a decreased incorporation of [14C]glucose, 
+indicating previous glucosylation in the intact cell. Glucosylation of the Rho 
+subtype proteins appears to be the molecular mechanism by which C. difficile 
+ToxA mediates its cytotoxic effects on cells.

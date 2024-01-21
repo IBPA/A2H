@@ -1,0 +1,13 @@
+The purpose of this review is to summarize the role that murine models of 
+arthritis are playing in the understanding of human rheumatoid arthritis and how 
+leukotriene B(4) (LTB(4)) is emerging as an important target in this field. Both 
+the collagen-induced arthritis (CIA) model and the K/BxN serum transfer 
+arthritis model have contributed to outline the potential mechanisms involved in 
+inflammatory arthritis. Indeed, the CIA model has contributed to the development 
+of effective anti-TNFalpha and anti-IL-1beta based treatments for RA that are 
+currently in the clinic. Many recent studies in mouse models have suggested a 
+critical role for LTB(4) and its receptors in the development of inflammatory 
+arthritis. Inhibitors of LTB(4) biosynthesis as well as LTB(4) receptors are 
+protective in mouse models of RA and mice deficient in the LTB(4) biosynthetic 
+enzymes or LTB(4) receptors are resistant to disease development suggesting 
+several promising targets for RA in this pathway.

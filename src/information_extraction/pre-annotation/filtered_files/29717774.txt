@@ -1,0 +1,26 @@
+The present study aimed to investigate the anti‑arthritic effect of physcion 
+8‑O‑β‑glucopyranoside (POGD) and its possible mechanisms. The anti‑proliferative 
+effects of POGD on MH7A cells were detected using a CCK‑8 assay, and the release 
+of pro‑inflammatory cytokines, interleukin (IL)‑1β, IL‑6, IL‑8, IL‑12 and 
+IL‑17A, were determined by ELISA. A type II collagen‑induced arthritis (CIA) rat 
+model was established to evaluate the anti‑arthritic effect of POGD in vivo. The 
+paw volumes, arthritis indices and serum levels of tumor necrosis factor 
+(TNF)‑α, IL‑1β, IL‑6, IL‑8, IL‑17A were determined by ELISA. The mRNA expression 
+levels of matrix metalloproteinase (MMP)‑2, MMP‑3, MMP‑9, vascular endothelial 
+growth factor and cyclooxygenase‑2 were determined by reverse 
+transcription‑quantitative polymerase chain reaction analysis, and the 
+expression levels of transforming growth factor (TGF)‑β1, small mothers against 
+decapentaplegic (Smad)4, Smad7, c‑Jun N‑terminal kinase (JNK), phosphorylated 
+(p‑)JNK, p‑P38, P38, p‑extracellular signal‑regulated kinase (ERK)1/2, ERK1/2, 
+nuclear factor (NF)‑κB p65 in the nucleus (N), cytosolic NF‑κB p65 (C), and 
+inhibitor of NF‑κB (IκB) were determined by western blot analysis. The results 
+indicated that POGD significantly inhibited MH7A cell growth. POGD markedly 
+inhibited paw swelling and the arthritis indices of the CIA rats, and POGD may 
+also inhibit the release of pro‑inflammatory cytokines. Furthermore, POGD 
+downregulated the expression levels of TGF‑β1, Smad4, NF‑κB p65 (N), p38, p‑p38, 
+p‑ERK1/2, JNK, p‑JNK, TGF‑β1, Smad4, p‑JNK, JNK, p‑P38, P38, p‑ERK1/2, ERK1/2 
+and NF‑κB p65 (N), and upregulated the Smad7, NF‑κB p65 (C) and IκB in TNF‑α 
+induced MH7A cells. In conclusion, the results suggested that POGD is a 
+promising potential anti‑inflammatory drug, and that POGD may decrease the 
+expression of pro‑inflammatory cytokines and mediators via inhibiting the 
+TGF‑β/NF‑κB/mitogen‑activated protein kinase pathways.

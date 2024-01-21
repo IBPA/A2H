@@ -1,0 +1,25 @@
+Rheumatoid arthritis (RA) is a chronic and autoimmune-mediated inflammatory 
+disease. We aimed to investigate the regulation of lncRNA HOTAIR in LPS-treated 
+chondrocytes and RA mouse. Our results showed that HOTAIR expression was 
+significantly reduced in LPS-treated chondrocytes. The HOTAIR was then 
+over-expressed in chondrocytes by transfecting recombinant lentivirus carrying 
+sequences encoding HOTAIR. The LPS-induced reduction of cell proliferation rate 
+and production of two inflammatory factors interleukin (IL)-17, IL-23 were 
+markedly inhibited. Enforced expression of HOTAIR also led to the upregulation 
+of proliferation-related protein Ki67 and proliferating cell nuclear antigen 
+(PCNA). Moreover, a negative correlation was detected between the expression of 
+HOTAIR and microRNA (miR)-138, and the expression of miR-138 was significantly 
+increased in LPS-induced chondrocytes. The effects of HOTAIR over-expression on 
+the proliferation and inflammation were partly reversed by miR-138 
+overexpression. Furthermore, the overexpression of HOTAIR significantly 
+inhibited the activation of nuclear transcription factor-κB (NF-κB) in 
+LPS-treated chondrocytes by suppressing p65 to cell nucleus, resulting in the 
+down-regulation of IL-1β and tumor necrosis factor (TNF)-α. In addition, the in 
+vivo experiments exhibited that overexpression of HOTAIR increased cell 
+proliferation and inhibited inflammation in RA rats, which were demonstrated by 
+upregulation of Ki67 and PCNA, reduced CD4+IL-17+,CD4+IL-23+ cells, and 
+down-regulation of p-p65, IL-1β and TNF-α. In summary, our study suggests HOTAIR 
+plays a protective role in RA by increasing proliferation rate and inhibiting 
+inflammation, which may be related with the regulation of miR-138 expression and 
+NF-κB signaling pathway. These results suggest that the regulation of HOTAIR may 
+be a promising therapeutic strategy for RA.

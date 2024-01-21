@@ -1,0 +1,22 @@
+BACKGROUND: Apoptotic cell-based therapies have been proposed to treat chronic 
+inflammatory diseases. The aim of this study was to investigate the effect of 
+intravenous (i.v.) apoptotic cell infusion in ongoing collagen-induced arthritis 
+(CIA) and the interaction of this therapy with other treatments used in 
+rheumatoid arthritis (RA), including methotrexate (MTX) or anti-TNF therapy.
+METHODS: The effects of i.v. apoptotic cell infusion were evaluated in a CIA 
+mouse model in DBA/1 mice immunized with bovine type II collagen. The number and 
+functions of antigen-presenting cells (APC), regulatory CD4(+) T cells (Treg), 
+and circulating anti-collagen auto-antibodies were analyzed in CIA mice.
+RESULTS: Treatment of arthritic mice with i.v. apoptotic cell infusion 
+significantly reduced the arthritis clinical score. This therapeutic approach 
+modified T cell responses against the collagen auto-antigen with selective 
+induction of collagen-specific Treg. In addition, we observed that APC from 
+apoptotic-cell-treated animals were resistant to toll-like receptor ligand 
+activation and favored ex vivo Treg induction, indicating APC reprogramming. 
+Apoptotic cell injection-induced arthritis modulation was dependent on 
+transforming growth factor (TGF)-β, as neutralizing anti-TGF-β antibody 
+prevented the effects of apoptotic cells. Methotrexate did not interfere, while 
+anti-TNF therapy was synergic with apoptotic-cell-based therapy.
+CONCLUSION: Overall, our data demonstrate that apoptotic-cell-based therapy is 
+efficient in treating ongoing CIA, compatible with current RA treatments, and 
+needs to be evaluated in humans in the treatment of RA.

@@ -1,0 +1,16 @@
+CXCL14 is a relatively new chemokine with unidentified receptor and undefined 
+function. Recently, we found that CXCL14 is upregulated in arthritic joints in a 
+mouse model of autoimmune arthritis, collagen-induced arthritis. To examine the 
+role of CXCL14 in the development and pathogenesis of autoimmune arthritis, we 
+have generated transgenic (Tg) mice that overexpress CXCL14 under control of 
+phosphoglycerate kinase promoter. The results showed that CXCL14-Tg mice 
+developed more severe arthritis compared with wild-type controls. The draining 
+lymph nodes of CXCL14-Tg mice were significantly enlarged and contained an 
+increased number of activated T cells, particularly the CD44(+)CD62L(low) 
+effector memory cells. In addition, T cells from CXCL14-Tg mice exhibited an 
+enhanced proliferative response against collagen II and produced higher levels 
+of IFN-gamma but not IL-4 or IL-17. CXCL14-Tg mice also had elevated levels of 
+IgG2a autoantibodies. These findings indicated that CXCL14 plays an important 
+role in the autoimmune arthritis, which may have an implication in understanding 
+the pathogenic mechanisms of rheumatoid arthritis in humans and, ultimately, 
+therapeutic interference.

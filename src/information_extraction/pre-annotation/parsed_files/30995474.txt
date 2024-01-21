@@ -1,0 +1,14 @@
+Antibiotic-induced dysbiosis is a key factor predisposing intestinal infection 
+by Clostridium difficile. Here, we show that interventions that restore butyrate 
+intestinal levels mitigate clinical and pathological features of 
+C. difficile-induced colitis. Butyrate has no effect on C. difficile 
+colonization or toxin production. However, it attenuates intestinal inflammation 
+and improves intestinal barrier function in infected mice, as shown by reduced 
+intestinal epithelial permeability and bacterial translocation, effects 
+associated with the increased expression of components of intestinal epithelial 
+cell tight junctions. Activation of the transcription factor HIF-1 in intestinal 
+epithelial cells exerts a protective effect in C. difficile-induced colitis, and 
+it is required for butyrate effects. We conclude that butyrate protects 
+intestinal epithelial cells from damage caused by C. difficile toxins via 
+the stabilization of HIF-1, mitigating local inflammatory response and systemic 
+consequences of the infection.

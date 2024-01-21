@@ -1,0 +1,22 @@
+Murine collagen induced arthritis (CIA) is a widely used model of rheumatoid 
+arthritis (RA). Identification of CIA susceptibility genes will aid in the 
+understanding of RA pathogenesis and development of therapeutic targets. This 
+study aims to identify and refine quantitative trait loci (QTL) controlling CIA. 
+Major CIA clinical traits were evaluated in both (DBA/1xFVB/N) F(2) and advanced 
+intercross line (AIL) mice; QTLs were confirmed and refined in AIL. To search 
+for candidate genes, we applied multiple approaches, including gene expression 
+profiling, identification of nonsynonymous polymorphism, and comparative genomic 
+mapping. We identified six suggestive QTLs controlling CIA clinical traits in 
+the F(2) progeny; one of these was confirmed and refined in AIL. This QTL is 
+located on chromosome 6 and overlaps with Cia3, which was identified previously. 
+We refined the 2-log support interval of Cia3 into a 5.6 Mb genomic region; 15 
+of 77 genes are differentially expressed or carry nonsynonymous polymorphisms 
+between two parental strains. The counterpart genomic region of Cia3 on the rat 
+and human genomes are linked to RA. Twenty-nine of 77 genes are located in the 
+arthritis-linked genomic regions of all three species. Five of those 29 genes 
+are differentially expressed or carry nonsynonymous polymorphisms between 
+parental strains: Timp4, Tmem40, Mbd4, Cacna1c, and Lrtm2. Taken together, we 
+refined Cia3 into a 5.6 Mb genomic region on mouse chromosome 6 and identified 
+candidate genes. This will aid in the search for susceptibility gene(s) 
+controlling arthritis development within Cia3 and its counterpart regions in rat 
+and human genomes.

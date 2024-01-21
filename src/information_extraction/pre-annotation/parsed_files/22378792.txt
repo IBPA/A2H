@@ -1,0 +1,24 @@
+In several neuronal cell types, the small GTPase Rac is essential for survival. 
+We have shown previously that the Rho family GTPase inhibitor Clostridium 
+difficile toxin B (ToxB) induces apoptosis in primary rat cerebellar granule 
+neurons (CGNs) principally via inhibition of Rac GTPase function. In the present 
+study, incubation with ToxB activated a proapoptotic Janus kinase (JAK)/signal 
+transducer and activator of transcription (STAT) pathway, and a pan-JAK 
+inhibitor protected CGNs from Rac inhibition. STAT1 expression was induced by 
+ToxB; however, CGNs from STAT1 knock-out mice succumbed to ToxB-induced 
+apoptosis as readily as wild-type CGNs. STAT3 displayed enhanced tyrosine 
+phosphorylation following treatment with ToxB, and a reputed inhibitor of STAT3, 
+cucurbitacin (JSI-124), reduced CGN apoptosis. Unexpectedly, JSI-124 failed to 
+block STAT3 phosphorylation, and CGNs were not protected from ToxB by other 
+known STAT3 inhibitors. In contrast, STAT5A tyrosine phosphorylation induced by 
+ToxB was suppressed by JSI-124. In addition, roscovitine similarly inhibited 
+STAT5A phosphorylation and protected CGNs from ToxB-induced apoptosis. 
+Consistent with these results, adenoviral infection with a dominant negative 
+STAT5 mutant, but not wild-type STAT5, significantly decreased ToxB-induced 
+apoptosis of CGNs. Finally, chromatin immunoprecipitation with a STAT5 antibody 
+revealed increased STAT5 binding to the promoter region of prosurvival Bcl-xL. 
+STAT5 was recruited to the Bcl-xL promoter region in a ToxB-dependent manner, 
+and this DNA binding preceded Bcl-xL down-regulation, suggesting transcriptional 
+repression. These data indicate that a novel JAK/STAT5 proapoptotic pathway 
+significantly contributes to neuronal apoptosis induced by the inhibition of Rac 
+GTPase.

@@ -1,0 +1,24 @@
+Clostridium difficile is currently the major cause of nosocomial intestinal 
+diseases associated with antibiotic therapy in adults. In order to improve our 
+knowledge of C. difficile-host interactions, we analyzed the genome-wide 
+temporal expression of C. difficile 630 genes during the first 38 h of mouse 
+colonization to identify genes whose expression is modulated in vivo, suggesting 
+that they may play a role in facilitating the colonization process. In the ceca 
+of the C. difficile-monoassociated mice, 549 genes of the C. difficile genome 
+were differentially expressed compared to their expression during in vitro 
+growth, and they were distributed in several functional categories. Overall, our 
+results emphasize the roles of genes involved in host adaptation. Colonization 
+results in a metabolic shift, with genes responsible for the fermentation as 
+well as several other metabolic pathways being regulated inversely to those 
+involved in carbon metabolism. In addition, several genes involved in stress 
+responses, such as ferrous iron uptake or the response to oxidative stress, were 
+regulated in vivo. Interestingly, many genes encoding conserved hypothetical 
+proteins (CHP) were highly and specifically upregulated in vivo. Moreover, genes 
+for all stages of sporulation were quickly induced in vivo, highlighting the 
+observation that sporulation is central to the persistence of C. difficile in 
+the gut and to its ability to spread in the environment. Finally, we inactivated 
+two genes that were differentially expressed in vivo and evaluated the relative 
+colonization fitness of the wild-type and mutant strains in coinfection 
+experiments. We identified a CHP as a putative colonization factor, supporting 
+the suggestion that the in vivo transcriptomic approach can unravel new C. 
+difficile virulence genes.

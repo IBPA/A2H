@@ -1,0 +1,18 @@
+Clostridioides difficile is a Gram-positive, spore-forming, toxin-producing 
+anaerobe pathogen, and can induce nosocomial antibiotic-associated intestinal 
+disease. While production of toxin A (TcdA) and toxin B (TcdB) contribute to the 
+main pathogenesis of C. difficile, adhesion and colonization of C. difficile in 
+the host gut are prerequisites for disease onset. Previous cell wall proteins 
+(CWPs) were identified that were implicated in C. difficile adhesion and 
+colonization. In this study, we predicted and characterized Cwp22 
+(CDR20291_2601) from C. difficile R20291 to be involved in bacterial adhesion 
+based on the Vaxign reverse vaccinology tool. The ClosTron-generated cwp22 
+mutant showed decreased TcdA and TcdB production during early growth, and 
+increased cell permeability and autolysis. Importantly, the cwp22 mutation 
+impaired cellular adherence in vitro and decreased cytotoxicity and fitness over 
+the parent strain in a mouse infection model. Furthermore, lactate dehydrogenase 
+cytotoxicity assay, live-dead cell staining and transmission electron microscopy 
+confirmed the decreased cell viability of the cwp22 mutant. Thus, Cwp22 is 
+involved in cell wall integrity and cell viability, which could affect most 
+phenotypes of R20291. Our data suggest that Cwp22 is an attractive target for C. 
+difficile infection therapeutics and prophylactics.

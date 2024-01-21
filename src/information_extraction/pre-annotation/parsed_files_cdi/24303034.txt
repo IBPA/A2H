@@ -1,0 +1,14 @@
+Clostridium difficile is a pathogen which is responsible for diarrhea and 
+colitis, particularly after treatment with antibiotics. Clinical signs are 
+mainly due to two toxins, TcdA and TcdB. However, the first step of pathogenesis 
+is the colonization process. We evaluated C. difficile surface proteins as 
+vaccine antigens in the hamster model to prevent intestinal colonization. This 
+vaccination induced a partial protection of hamsters against death after a C. 
+difficile challenge. A proteomic analysis of animal sera allowed us to identify 
+proteins which could be responsible for the protection observed. Among these 
+proteins, we identified the GroEL heat shock protein. To confirm the role of the 
+specific GroEL antibodies in the delayed C. difficile colonization of hamsters, 
+we performed an immunization assay in a mouse model. After intranasal 
+immunization with the recombinant protein GroEL, we observed a lower C. 
+difficile intestinal colonization in the immunized group as compared to the 
+control group.

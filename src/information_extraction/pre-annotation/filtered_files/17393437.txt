@@ -1,0 +1,20 @@
+OBJECTIVE: Mesenchymal stem cells (MSCs) are precursors of tissue of mesenchymal 
+origin, but they also have the capacity to regulate the immune response by 
+suppressing T and B lymphocyte proliferation in a non-major histocompatibility 
+complex-restricted manner. Use of MSCs as immunosuppressant agents in autoimmune 
+diseases has been proposed and successfully tested in animal models. We explored 
+the feasibility of using allogeneic MSCs as therapy for collagen-induced 
+arthritis, a mouse model for human rheumatoid arthritis.
+METHODS: DBA/1 mice were immunized with type II collagen in Freund's complete 
+adjuvant, and some of the animals received an intraperitoneal injection of 
+allogeneic MSCs.
+RESULTS: A single injection of MSCs prevented the occurrence of severe, 
+irreversible damage to bone and cartilage. MSCs induced hyporesponsiveness of T 
+lymphocytes as evidenced by a reduction in active proliferation, and modulated 
+the expression of inflammatory cytokines. In particular, the serum concentration 
+of tumor necrosis factor alpha was significantly decreased. MSCs exerted their 
+immunomodulatory function by educating antigen-specific Tregs.
+CONCLUSION: Our results suggest an effective new therapeutic approach to target 
+the pathogenic mechanism of autoimmune arthritis using allogeneic MSCs. However, 
+further studies are required before these results can be translated to clinical 
+settings.

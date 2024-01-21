@@ -1,0 +1,18 @@
+IL-17 has been associated with multiple inflammatory disorders such as 
+rheumatoid arthritis, asthma and multiple sclerosis. As these diseases require 
+long-term treatment we turned to an auto-vaccine strategy for IL-17 
+neutralization in vivo. Mouse IL-17A was covalently linked to ovalbumin and used 
+to immunize C57BL/6 mice. This vaccine induced the production of antibodies that 
+blocked IL-17A bioactivity in vitro but did not react with the other IL-17 
+isoforms, including IL-17F. As the half-life of the Ab titers after the last 
+immunogen administration was approximately 4 months, the vaccine provides for 
+long lasting and selective inhibition of IL-17A activity in vivo. A monoclonal 
+Ab (mAb) derived from these mice showed the same specificity for IL-17A. To test 
+the ability of the vaccine to confer protection against an IL-17-dependent 
+disorder, SJL mice were vaccinated with IL-17-OVA and encephalomyelitis (EAE) 
+was induced by proteolipid protein (PLP) peptide 139-151. Vaccinated mice were 
+completely protected against the disease. The above-mentioned anti-IL-17A mAb 
+also prevented EAE development. The absence of clinical symptoms contrasted with 
+unaltered PLP-induced cytokine production in vitro and unmodified anti-PLP IgG 
+titers and isotypes. These results suggest that an anti-IL-17A auto-vaccine 
+offers new perspectives for therapy of autoimmune diseases.

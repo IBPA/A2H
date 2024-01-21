@@ -1,0 +1,23 @@
+Potassium ion (K(+)) channels play an important role in the modulation of 
+calcium ion (Ca(2+)) signaling via control of the membrane potential. In 
+T-lymphocytes, the voltage-gated K(+) channel, KV1.3, and the 
+intermediate-conductance Ca(2+)-activated K(+) channel, KCa3.1, predominantly 
+contribute to K(+) conductance, and are responsible for cell proliferation, 
+differentiation, apoptosis and infiltration. Inflammatory bowel disease (IBD), 
+including ulcerative colitis and Crohn's disease, afflicts more than 0.1% of the 
+population worldwide. In the chemically-induced IBD model mouse, an increase in 
+KCa3.1 activity was observed in mesenteric lymph node CD4(+) T-lymphocytes, 
+concomitant with an upregulation of KCa3.1 and a positive KCa3.1 regulator, 
+NDPK-B. Pharmacological blockade of the KCa3.1 K(+) channel by TRAM-34 and/or 
+ICA17043 elicited 1) a significant decrease in IBD severity, as assessed by 
+diarrhea, visible fecal blood, inflammation and crypt damage of the colon; and 
+2) restoration of the expression levels of KCa3.1 and Th1 cytokines in CD4(+) 
+T-lymphocytes in the IBD model. Recent studies have indicated the impact of 
+K2P5.1 upregulation in T lymphocytes on the pathogenesis of autoimmune diseases 
+such as rheumatoid arthritis and multiple sclerosis. The K2P5.1 K(+) channel is 
+therefore highlighted as a potent therapeutic target in managing the 
+pathogenesis of autoimmune diseases. Alternatively, pre-mRNA splicing of ion 
+channels is associated with the development and progression of various diseases, 
+including autoimmune diseases. Therefore, mRNA-splicing mechanisms underlying 
+the transcriptional regulation of K2P5.1 K(+) channels may be a new strategic 
+therapeutic target for autoimmune and inflammatory diseases.

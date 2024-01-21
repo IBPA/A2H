@@ -1,0 +1,24 @@
+BACKGROUND: Galectin-9 (Gal-9) is a mammalian lectin secreted by endothelial 
+cells that is highly expressed in rheumatoid arthritis synovial tissues and 
+synovial fluid. Roles have been proposed for galectins in the regulation of 
+inflammation and angiogenesis. Therefore, we examined the contribution of Gal-9 
+to angiogenesis and inflammation in arthritis.
+METHODS: To determine the role of Gal-9 in angiogenesis, we performed human 
+dermal microvascular endothelial cell (HMVEC) chemotaxis, Matrigel tube 
+formation, and mouse Matrigel plug angiogenesis assays. We also examined the 
+role of signaling molecules in Gal-9-induced angiogenesis by using signaling 
+inhibitors and small interfering RNA (siRNA). We performed monocyte (MN) 
+migration assays in a modified Boyden chamber and assessed the arthritogenicity 
+of Gal-9 by injecting Gal-9 into mouse knees.
+RESULTS: Gal-9 significantly increased HMVEC migration, which was decreased by 
+inhibitors of extracellular signal-regulating kinases 1/2 (Erk1/2), p38, Janus 
+kinase (Jnk), and phosphatidylinositol 3-kinase. Gal-9 HMVEC-induced tube 
+formation was reduced by Erk1/2, p38, and Jnk inhibitors, and this was confirmed 
+by siRNA knockdown. In mouse Matrigel plug assays, plugs containing Gal-9 
+induced significantly higher angiogenesis, which was attenuated by a Jnk 
+inhibitor. Gal-9 also induced MN migration, and there was a marked increase in 
+MN ingress when C57BL/6 mouse knees were injected with Gal-9 compared with the 
+control, pointing to a proinflammatory role for Gal-9.
+CONCLUSIONS: Gal-9 mediates angiogenesis, increases MN migration in vitro, and 
+induces acute inflammatory arthritis in mice, suggesting a novel role for Gal-9 
+in angiogenesis, joint inflammation, and possibly other inflammatory diseases.

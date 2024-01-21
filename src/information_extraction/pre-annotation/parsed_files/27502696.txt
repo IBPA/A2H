@@ -1,0 +1,18 @@
+Clostridium difficile infection (CDI) is the most common cause of 
+antibiotic-associated diarrhea and colitis in developed countries. The disease 
+is mainly mediated via two major exotoxins TcdA and TcdB secreted by the 
+bacterium. We have previously developed a novel, potently neutralizing, 
+tetravalent and bispecific heavy-chain-only single domain (VHH) antibody to both 
+TcdA and TcdB (designated as ABA) that reverses fulminant CDI in mice. Since ABA 
+has a short serum half-life, in this study a replication-deficient recombinant 
+adenovirus expressing ABA was generated and the long-lasting expression of 
+functional ABA was demonstrated in vitro and in vivo Mice transduced with one 
+dose of the adenovirus displayed high levels of serum ABA for more than1 month 
+and were fully protected against systemic toxin challenges. More importantly, 
+the ABA delivered by the adenovirus protected mice from both primary and 
+recurrent CDI. Thus, replication-deficient adenoviral vector may be used to 
+deliver neutralizing antibodies against the toxins in order to prevent CDI and 
+recurrence.
+
+© FEMS 2016. All rights reserved. For permissions, please e-mail: 
+journals.permissions@oup.com.

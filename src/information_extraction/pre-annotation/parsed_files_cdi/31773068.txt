@@ -1,0 +1,26 @@
+BACKGROUND: The gut microbiome (GMB) generates numerous chemicals that are 
+absorbed systemically and excreted in urine. Antibiotics can disrupt the GMB 
+ecosystem and weaken its resistance to colonization by enteric pathogens such as 
+Clostridium difficile. If the changes in GMB composition and metabolism are 
+sufficiently large, they can be reflected in the urinary metabo-lome. 
+Characterizing these changes could provide a potentially valuable biomarker of 
+the status of the GMB. While preliminary studies suggest such a possibility, the 
+high level of data variance presents a challenge to translational applications. 
+Since many GMB-generated chemicals are derived from the biotransformation of 
+plant-derived dietary polyphenols, administering an oral precursor challenge 
+should amplify GMB-dependent changes in urinary metabolites.
+METHODS: A course of antibiotics (clindamycin, piperacillin/tazobactam, or 
+aztreonam) was administered SC daily (days 1 and 2) to mice receiving 
+polyphenol-rich green tea in drinking water. Urine was collected at baseline as 
+well as days 3, 7, and 11. Levels of pyrogallol and pyrocatechol, two phenolic 
+molecules unequivocally GMB-dependent in humans but that had not been similarly 
+examined in mice, were quantified.
+RESULTS: In confirmation of our hypothesis, differential changes in murine 
+urinary pyrogallol levels identified the treatments (clindamycin, 
+piperacillin/tazobactam) previously associated with a weakening of colonization 
+resistance to Clostridium difficile. The changes in pyrocatechol levels did not 
+withstand corrections for multiple comparisons.
+CONCLUSIONS: In the mouse, urinary pyrogallol and, in all likelihood, 
+pyrocatechol levels, are GMB-dependent and, in combination with precursor 
+challenge, deserve further consideration as potential metabolomic biomarkers for 
+the health and dysbiotic vulnerability of the GMB.

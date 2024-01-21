@@ -1,0 +1,21 @@
+Previously, we designed and synthesized a new NF-kappaB inhibitor, 
+dehydroxymethylepoxyquinomicin (DHMEQ). In the present research we looked into 
+the effect of DHMEQ on the activation of macrophages, especially on the 
+phagocytotic activity of cells of the mouse macrophage-like cell line RAW264.7. 
+DHMEQ inhibited lipopolysaccharide (LPS)-induced NF-kappaB activation by 
+inhibiting its nuclear translocation from the cytoplasm. It also inhibited the 
+expression of inducible NO synthase (iNOS) and nitric oxide (NO) production 
+induced by LPS and interferon-gamma. Using enzyme-linked immunosorbent assays 
+(ELISAs) we showed DHMEQ to inhibit LPS-induced secretion of IL-6, IL-12, 
+interleukin-1beta (IL-1beta), and TNF-alpha. Furthermore, DHMEQ also inhibited 
+the phagocytosis of fluorescently labeled Escherichia coli by RAW264.7 cells 
+treated with LPS or IL-1beta, thus being the first evidence for the involvement 
+of NF-kappaB in the regulation of phagocytosis by use of this inhibitor. 
+Deletion of p65 by siRNA also inhibited the phagocytosis. DHMEQ inhibited the 
+LPS-induced but not IL-1beta-induced phagocytosis of glass beads, indicating 
+that activation of not only NF-kappaB but also Toll-like receptor 4 (TLR-4) is 
+essential for the phagocytosis of E. coli. Previously we found that DHMEQ 
+inhibited type 2 collagen-induced rheumatoid arthritis and the growth of various 
+human carcinomas in mice. It is thus likely that inhibition of macrophage 
+activation is involved in the mechanism of these anti-inflammatory and antitumor 
+activities of DHMEQ in mice.

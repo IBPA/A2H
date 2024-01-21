@@ -1,0 +1,26 @@
+OBJECTIVE: Marrow-derived endothelial progenitor cells (EPCs) are important in 
+the neovascularization that occurs in diverse conditions such as cardiovascular 
+disorders, inflammatory diseases, and neoplasms. In rheumatoid arthritis (RA), 
+synovial neovascularization propels disease by nourishing the inflamed and 
+hyperproliferative synovium. This study was undertaken to investigate the 
+hypothesis that EPCs selectively home to inflamed joint tissue and may 
+perpetuate synovial neovascularization.
+METHODS: In a collagen-induced arthritis (CIA) model, neovascularization and EPC 
+accumulation in mouse ankle synovium was measured. In an antibody-induced 
+arthritis model, EPC recruitment to inflamed synovium was evaluated. In a 
+chimeric SCID mouse/human synovial tissue (ST) model, mice were engrafted 
+subcutaneously with human ST, and EPC homing to grafts was assessed 2 days 
+later. EPC adhesion to RA fibroblasts and RA ST was evaluated in vitro.
+RESULTS: In mice with CIA, cells bearing EPC markers were significantly 
+increased in peripheral blood and accumulated in inflamed synovial pannus. EPCs 
+were 4-fold more numerous in inflamed synovium from mice with anti-type II 
+collagen antibody-induced arthritis versus controls. In SCID mice, EPC homing to 
+RA ST was 3-fold greater than to normal synovium. Antibody neutralization of 
+vascular cell adhesion molecule 1 (VCAM-1) and its ligand component alpha4 
+integrin potently inhibited EPC adhesion to RA fibroblasts and RA ST 
+cryosections.
+CONCLUSION: These data demonstrate the selective recruitment of EPCs to inflamed 
+joint tissue. The VCAM-1/very late activation antigen 4 adhesive system 
+critically mediates EPC adhesion to cultured RA fibroblasts and to RA ST 
+cryosections. These findings provide evidence of a possible role of EPCs in the 
+synovial neovascularization that is critical to RA pathogenesis.

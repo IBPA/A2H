@@ -1,0 +1,22 @@
+OBJECTIVE: SIRT1 modulates the acetylation of the p65 subunit of nuclear 
+factor-κB (NF-κB) and plays a pivotal role in the inflammatory response. This 
+study sought to assess the role of SIRT1 in rheumatoid arthritis (RA) using a 
+myeloid cell-specific SIRT1 knockout (mSIRT1 KO) mouse.
+METHODS: mSIRT1 KO mice were generated using the loxP/Cre recombinase system. 
+K/BxN serum transfer arthritis was induced in mSIRT1 KO mice and age-matched 
+littermate loxP control mice. Arthritis severity was assessed by clinical and 
+pathological scoring. The levels of inflammatory cytokines in the serum and 
+joints were measured by ELISA. Migration, M1 polarization, cytokine production, 
+osteoclastogenesis, and p65 acetylation were assessed in bone marrow-derived 
+monocytes/macrophages (BMMs).
+RESULTS: mSIRT1 KO mice showed more severe inflammatory arthritis and aggravated 
+pathological findings than control mice. These effects were paralleled by 
+increases in IL-1, TNF-α, TRAP-positive osteoclasts, and F4/80⁺ macrophages in 
+the ankles of mSIRT1 KO mice. In addition, BMMs from mSIRT1 KO mice displayed 
+hyperacetylated p65 and increased NF-κB binding activity when compared to 
+control mice, which resulted in increased M1 polarization, migration, 
+pro-inflammatory cytokine production, and osteoclastogenesis.
+CONCLUSION: Our study provides in vivo evidence that myeloid cell-specific 
+deletion of SIRT1 exacerbates inflammatory arthritis via the hyperactivation of 
+NF-κB signaling, which suggests that SIRT1 activation may be beneficial in the 
+treatment of inflammatory arthritis.

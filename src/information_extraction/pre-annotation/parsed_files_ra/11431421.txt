@@ -1,0 +1,20 @@
+Collagen-induced arthritis (CIA) is a widely used model for rheumatoid 
+arthritis. Induction of CIA in rats using rat type II collagen (CII) results in 
+a chronic arthritis in which anti-CII antibodies are believed to play a 
+pathogenic role. In this study, we analyzed the epitope selection and V gene 
+usage in the anti-CII response in the DA rat. A panel of CII-reactive B cell 
+hybridomas was established from the draining lymph nodes 11 days after 
+immunization. All of the CII-specific antibodies bound cartilage in vivo, 
+showing that these are true autoantibodies. These antibodies were all IgG and 
+specific for several distinct triple helical epitopes on CII. Interestingly, the 
+major epitope, recognized by four different antibodies, was identical with the 
+major B cell epitope in the mouse CII located at position 359--369 (denoted as 
+C1(III)). The Q52 and PC7183 V(H) gene families encoded 12 out of 14 sequenced 
+heavy chains. There was a relatively more heterogeneous usage of V(L) genes as 
+the antibodies were encoded by four different V(kappa) families (V(kappa)1, 
+V(kappa)2, V(kappa)12/13 and V(kappa)RF). As in the mouse, some of the V genes 
+used showed germline characteristics. We conclude that the immune response in 
+the rat shares epitope specificity and a constrained V gene repertoire with the 
+mouse. However, the V genes used for recognition of the closely related collagen 
+structures differed considerably between mouse and rat, indicating an influence 
+of the species-specific variation in the V gene repertoire.

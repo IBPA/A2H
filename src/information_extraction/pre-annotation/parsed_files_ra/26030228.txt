@@ -1,0 +1,11 @@
+Understanding the cell-intrinsic cues that permit self-reactivity in 
+lymphocytes, and therefore autoimmunity, requires an understanding of the 
+transcriptional and posttranscriptional regulation of gene expression in these 
+cells. In this Review, we address seminal and recent research on microRNA 
+(miRNA) regulation of central and peripheral tolerance. Human and mouse studies 
+demonstrate that the PI3K pathway is a critical point of miRNA regulation of 
+immune cell development and function that affects the development of 
+autoimmunity. We also discuss how miRNA expression profiling in human autoimmune 
+diseases has inspired mechanistic studies of miRNA function in the pathogenesis 
+of multiple sclerosis, rheumatoid arthritis, systemic lupus erythematosus, type 
+1 diabetes, and asthma.

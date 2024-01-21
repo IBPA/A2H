@@ -1,0 +1,26 @@
+OBJECTIVE AND DESIGN: To determine the effect of FK506 (tacrolimus) on paw 
+inflammation, TNF-alpha expression in joint, and bone and cartilage destruction 
+in type II collagen-induced arthritis (CIA) model in rats.
+METHODS: CIA was induced by immunization of female Lewis rats with an emulsion 
+of bovine type II collagen and incomplete Freund's adjuvant. Paw inflammation 
+was assessed by the increase in paw volume. Tumor necrosis factor (TNF) -alpha 
+expression in hind knee joint was assessed by immunohistochemical analysis. 
+Lesions of bone and cartilage were assessed on the basis of histological change 
+in knee joint, radiographic analysis in hind paw, bone mineral density in femora 
+and proteoglycan contents in the cartilage of femoral heads. FK506 at doses of 
+1, 1.8 and 3.2 mg/kg or its placebo formulation was orally administered to rats 
+for 28 days from the day after immunization (n = 10). Effect of FK506 was 
+compared with that of vehicle (distilled water).
+RESULTS: FK506 at a dose of 1.8 mg/kg significantly suppressed paw swelling (p < 
+0.01) and histological change in knee joint (p < 0.05). Tumor necrosis factor 
+(TNF)-alpha was mainly expressed in the region with a marked infiltration of 
+inflammatory cells in the hind knee joint. FK506 (3.2 mg/kg) markedly reduced 
+TNF-alpha expression. FK506 at a dose of 1.8 mg/kg suppressed radiographic 
+changes in hind paw (p < 0.05) and also recovered the decrease in bone mineral 
+density in the femora (p < 0.05). Proteoglycan contents in the cartilage of 
+femoral heads were determined to evaluate the cartilage destruction more 
+quantitatively and found to significantly decrease in CIA rats. FK506 at a dose 
+of 1.8 mg/kg recovered the loss of proteoglycan contents (p < 0.01).
+CONCLUSION: These results show that FK506 is effective in suppressing 
+inflammation, TNF-alpha expression in joint, and damage to bone and cartilage in 
+rat CIA, and may be useful in the treatment of rheumatoid arthritis.

@@ -1,0 +1,23 @@
+DPC 333 ((2R)-2-((3R)-3-amino-3{4-[2-methyl-4-quinolinyl) methoxy] 
+phenyl}-2-oxopyrrolidinyl)-N-hydroxy-4-methylpentanamide)) is a potent and 
+selective inhibitor of tumor necrosis factor (TNF)-alpha-converting enzyme 
+(TACE). It significantly inhibits lipopolysaccharide-induced soluble TNF-alpha 
+production in blood from rodents, chimpanzee, and human, with IC(50) values 
+ranging from 17 to 100 nM. In rodent models of endotoxemia, DPC 333 inhibited 
+the production of TNF-alpha in a dose-dependent manner, with an oral ED(50) 
+ranging from 1.1 to 6.1 mg/kg. Oral dosing of DPC 333 at 5.5 mg/kg daily for 2 
+weeks in a rat collagen antibody-induced arthritis model suppressed the maximal 
+response by approximately 50%. DPC 333 was distributed widely to tissues 
+including the synovium, the site of action for antiarthritic drugs. 
+Pharmacokinetic and pharmacodynamic studies in chimpanzee revealed a systemic 
+clearance of 0.4 l/h/kg, a V(ss) of 0.6 l/kg, an oral bioavailability of 17%, 
+and an ex vivo IC(50) for the suppression of TNF-alpha production of 55 nM (n = 
+1). In a phase I clinical trial with male volunteers after single escalating 
+doses of oral DPC 333, the terminal half-life was between 3 and 6 h and the ex 
+vivo IC(50) for suppressing TNF-alpha production was 113 nM. Measurement of the 
+suppression of TNF-alpha production ex vivo may serve as a good biomarker in 
+evaluating the therapeutic efficacy of TACE inhibitors. Overall, the 
+pharmacological profiles of DPC 333 support the notion that suppression of 
+TNF-alpha with TACE inhibitors like DPC 333 may provide a novel approach in the 
+treatment of various inflammatory diseases including rheumatoid arthritis, via 
+control of excessive TNF-alpha production.

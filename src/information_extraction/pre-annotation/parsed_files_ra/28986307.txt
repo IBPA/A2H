@@ -1,0 +1,26 @@
+The acute-phase proinflammatory cytokines interleukin-1β (IL-1β) and tumor 
+necrosis factor-α (TNF-α) demonstrate high-level expression and pleiotropic 
+biological effects, and contribute to the progression and persistence of 
+rheumatoid arthritis (RA). Acid hydrarthrosis is also an important pathological 
+characteristic of RA, and the acid-sensing ion channel 1a (ASIC1a) plays a 
+critical role in acidosis-induced chondrocyte cytotoxicity. However, the roles 
+of IL-1β and TNF-α in acid-induced apoptosis of chondrocytes remain unclear. Rat 
+adjuvant arthritis and primary articular chondrocytes were used as in vivo and 
+in vitro model systems, respectively. ASIC1a expression in articular cartilage 
+was increased and highly colocalized with nuclear factor (NF)-κB expression in 
+vivo. IL-1β and TNF-α could upregulate ASIC1a expression. These cytokines 
+activated mitogen-activated protein kinase and NF-κB pathways in chondrocytes, 
+while the respective inhibitors of these signaling pathways could partially 
+reverse the ASIC1a upregulation induced by IL-1β and TNF-α. Dual luciferase and 
+gel-shift assays and chromatin immunoprecipitation-polymerase chain reaction 
+demonstrated that IL-1β and TNF-α enhanced ASIC1a promoter activity in 
+chondrocytes by increasing NF-κB DNA-binding activities, which was in turn 
+prevented by the NF-κB inhibitor ammonium pyrrolidinedithiocarbamate. IL-1β and 
+TNF-α also decreased cell viability but enhanced LDH release, intracellular Ca2+ 
+concentration elevation, loss of mitochondrial membrane potential, cleaved PARP 
+and cleaved caspase-3/9 expression, and apoptosis in acid-stimulated 
+chondrocytes, which effects could be abrogated by the specific ASIC1a inhibitor 
+psalmotoxin-1 (PcTX-1), ASIC1a-short hairpin RNA or calcium chelating agent 
+BAPTA-AM. These results indicate that IL-1β and TNF-α can augment 
+acidosis-induced cytotoxicity through NF-κB-dependent up-regulation of ASIC1a 
+channel expression in primary articular chondrocytes.

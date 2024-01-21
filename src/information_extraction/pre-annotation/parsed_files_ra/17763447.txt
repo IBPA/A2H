@@ -1,0 +1,20 @@
+OBJECTIVE: For the inflammation characteristic of rheumatoid arthritis, the 
+relative contribution of mediators produced locally in the synovium versus those 
+circulating systemically is unknown. Complement factor C3 is made in rheumatoid 
+synovium and has been proposed to be a crucial driver of inflammation. The aim 
+of this study was to test, in a mouse model of rheumatoid arthritis, whether C3 
+synthesized within the synovium is important in promoting inflammation.
+METHODS: Radiation bone marrow chimeras between normal and C3(-/-) mice were 
+constructed in order to generate animals that expressed or lacked expression of 
+C3 only in hematopoietic cells. Parabiotic mice were made by surgically linking 
+C3(-/-) mice to irradiated wild-type mice to obtain animals having C3 only in 
+the circulation. Arthritis was induced by injection of serum from arthritic 
+K/BxN mice.
+RESULTS: In bone marrow chimeras, synthesis of C3 by radioresistant cells was 
+necessary and sufficient to confer susceptibility to serum-transferred 
+arthritis. Parabionts having C3 only in the circulation remained sensitive to 
+arthritis induction, and the cartilage of these arthritic mice contained 
+deposits of C3.
+CONCLUSION: In a mouse model in which the alternative pathway of complement 
+activation is critical to the induction of arthritis by autoantibodies, 
+circulating C3 was necessary and sufficient for arthritis induction.

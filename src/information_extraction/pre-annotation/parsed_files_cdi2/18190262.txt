@@ -1,0 +1,18 @@
+BACKGROUND: North American and European hospitals have reported outbreaks of 
+Clostridium difficile-associated disease with unexpectedly high mortality caused 
+by a newly recognized group of C. difficile strains, group BI. Our objective was 
+to compare, in hamsters, the virulence of a historical nonepidemic BI type, BI1, 
+with that of 2 recent epidemic BI types, BI6 and BI17, and with that of 2 
+standard toxigenic strains, K14 and 630.
+METHODS: For each strain, 10 hamsters were given 1 dose of clindamycin, followed 
+5 days later with 100 C. difficile spores administered by gastric inoculation. 
+Outcomes were recorded.
+RESULTS: The hamster model demonstrated variations in mean times from 
+inoculation to death (for BI6, 40 h; for BI1, 48 h; for K14, 49 h; for BI17, 69 
+h; for 630, 102 h; for BI6, BI1, and K14 vs. 630, P< .01; for BI17 vs. 630, P< 
+.05) and from colonization to death (for BI1, 7 h; for BI17, 13 h; for BI6, 16 
+h; for K14, 17 h; for 630, 52 h; for BI1, BI17, BI6, and K14 vs. 630, P< .01).
+CONCLUSION: Group BI strains were not more rapidly fatal than the standard 
+toxinotype 0 strain K14 but were more rapidly fatal than the standard toxinotype 
+0 strain 630. BI6, the most common BI type in our collection, was particularly 
+virulent in hamsters, consistently causing death within 48 h of inoculation.

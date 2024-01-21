@@ -1,0 +1,14 @@
+Cholestyramine and colestipol were tested for binding of Clostridium difficile 
+cytotoxin with use of batch absorption and column chromatography. The toxin was 
+bound by both resins and could not be eluted from cholestyramine with either an 
+ionic of a pH gradient. Vancomycin bound to cholestyramine more strongly than to 
+colestipol. Cholestyramine and vancomycin were also tested for therapeutic 
+efficacy in the hamster model of clindamycin-induced cecitis. Both compounds 
+delayed death and reduced levels of cytotoxin in stool; these effects were 
+greatest for vancomycin. Use of the two compounds in combination reduced 
+concentrations of biologically active vancomycin in stool, but the levels still 
+exceeded the minimum inhibitory concentration for C. difficile. These data 
+suggest that the therapeutic benefit of cholestyramine in some patients with 
+antibiotic-associated pseudomembranous colitis is due to its binding of the C. 
+difficile cytotoxin. Since anion-exchange resins also bind vancomycin, caution 
+is necessary if resins are used concurrently with vancomycin for therapy.

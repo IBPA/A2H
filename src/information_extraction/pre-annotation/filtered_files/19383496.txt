@@ -1,0 +1,19 @@
+Methotrexate is a widely used drug in treatments of various types of 
+malignancies and in the therapy of rheumatoid arthritis. The goal of our study 
+was to look at the effect of this dihydrofolate reductase inhibitor on the actin 
+cytoskeleton, since actin plays an important role in cancer transformation and 
+metastasis. For this reason we compared results obtained from experiments on 
+CaSki (human uterine cervix cancer) and NRK (normal fibroblastic rat kidney) 
+cells treated with methotrexate. It has been shown previously that methotrexate 
+can induce apoptosis. Therefore we first examined whether methotrexate induces 
+apoptosis in our model cells. For this aim we applied several assays like 
+Caspase Glo 3/7, DNA fragmentation and binding of phosphatidylserine by annexin 
+V-fluorescein. The data obtained indicated that methotrexate induces programmed 
+cell death in CaSki and NRK cells. However, differences between CaSki and NRK 
+cells were observed in the morphological alterations and dynamics of apoptosis 
+induced by methotrexate. It seemed that cancer cells were more sensitive towards 
+the cell death inducing activity at lower concentrations of methotrexate. 
+Analysis by confocal microscopy of methotrexate-treated cells demonstrated that 
+treatment with this folate antagonist affected the actin cytoskeleton, although 
+the dis-organization of the actin cytoskeleton after treatment with methotrexate 
+differed between cancer and normal cells.

@@ -1,0 +1,27 @@
+OBJECTIVE: The protease HTRA-1 is closely associated with rheumatoid arthritis 
+(RA). The molecular mechanisms that control HTRA-1 expression are currently 
+unknown. This study was undertaken to determine the regulatory role of Toll-like 
+receptors (TLRs) on HTRA-1 expression in mice with collagen-induced arthritis 
+(CIA) and in synovial cells from RA patients.
+METHODS: HTRA-1 messenger RNA and protein production in mouse fibroblasts, mouse 
+macrophages, and freshly isolated RA patient synovial cells treated with TLR 
+ligands were detected by real-time polymerase chain reaction and enzyme-linked 
+immunosorbent assay, respectively. Arthritis incidence and severity were 
+determined using clinical scores and histopathologic analysis. Involvement of 
+HTRA-1 in lipopolysaccharide (LPS)-increased arthritis incidence and severity in 
+mice was determined using anti-HTRA-1 monoclonal antibody. The signal pathways 
+involved in HTRA-1 expression were accessed by specific inhibitors, RNA 
+interference, dual-luciferase reporter, and chromatin immunoprecipitation 
+methods.
+RESULTS: LPS and tenascin-C, but not the other TLR ligands tested, strongly 
+induced HTRA-1 expression. LPS significantly increased HTRA-1 expression in the 
+joint tissue as well as arthritis incidence and severity in mice with CIA. 
+Blocking HTRA-1 by antibody significantly decreased LPS-promoted CIA severity. 
+Inhibiting NF-κB significantly decreased LPS-induced HTRA-1 expression in mouse 
+and human cells. Dual-luciferase reporter assay and ChIP analysis showed that 
+p65 directly binds to HTRA-1 promoter (amino acid 347).
+CONCLUSION: Our findings indicate that TLR-4 activation increases HTRA-1 
+expression through the NF-κB pathway in fibroblasts and macrophages. HTRA-1 
+expression is involved in the enhancing effects of LPS on CIA. This study offers 
+new insights into the regulation of HTRA-1 expression via LPS/TLR-4 and the role 
+of HTRA-1 in RA pathogenesis.

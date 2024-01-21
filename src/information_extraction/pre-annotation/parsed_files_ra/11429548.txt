@@ -1,0 +1,13 @@
+Interactions of the tumor necrosis factor superfamily members B lymphocyte 
+stimulator (BLyS) and a proliferation-inducing ligand (APRIL) with their 
+receptors-transmembrane activator and CAML interactor (TACI) and B cell 
+maturation molecule (BCMA)-on B cells play an important role in the humoral 
+immune response. Whereas BCMA is restricted to B cells, TACI is also expressed 
+on activated T cells; we show here that TACI-Fc blocks the activation of T cells 
+in vitro and inhibits antigen-specific T cell activation and priming in vivo. In 
+a mouse model for rheumatoid arthritis (RA), an autoimmune disease that involves 
+both B and T cell components, TACI-Fc treatment substantially inhibited 
+inflammation, bone and cartilage destruction and disease development. Thus, BLyS 
+and/or APRIL are important not only for B cell function but for T cell-mediated 
+immune responses. Inhibition of these ligands might have therapeutic benefits 
+for autoimmune diseases, such as RA, that involve both B and T cells.

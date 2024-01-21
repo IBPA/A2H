@@ -1,0 +1,26 @@
+OBJECTIVE: Adiponectin (AD) is considered an inflammation modulator. In this 
+study, we investigated the effect of AD on rheumatoid arthritis (RA) using a 
+collagen-induced arthritis (CIA) mouse model and RA synovial fibroblasts (RASF).
+METHODS: Fifteen DBA/1 mice were divided into three groups. All mice, except the 
+control group, were injected with type II collagen. AD was intra-articularly 
+injected in the left hind legs after arthritis development (the AD-treated 
+group). The severity of the arthritis was measured using an arthritis score and 
+paw thickness. A histopathological assessment of joint sections was performed by 
+haematoxylin/eosin (H&E) staining. Tumour necrosis factor (TNF)-alpha, 
+interleukin (IL)-1beta, IL-6, and matrix metalloproteinase (MMP)-3 expression 
+was evaluated by immunohistochemical staining in the CIA mice. Synovial tissue 
+was obtained from four RA patients during total joint replacement. RASF cultures 
+were established from this tissue. RASF were pretreated with AD and stimulated 
+by TNFalpha or IL-1beta. TNFalpha, IL-1beta, IL-6, and MMP-3 production was 
+measured by enzyme-linked immunosorbent assay (ELISA) and reverse transcription 
+polymerase chain reaction (RT-PCR). RASF proliferation was evaluated using the 
+MTT assay.
+RESULTS: AD significantly mitigated the severity of the arthritis and 
+histopathological findings indicative of RA in CIA mice. TNFalpha, IL-1beta, and 
+MMP-3 expression decreased, but IL-6 expression in AD-treated joint tissues 
+increased. Moreover, AD reduced TNFalpha, IL-1beta, and MMP-3 expression in 
+stimulated RASF and increased IL-6 expression in IL-1beta-stimulated RASF. AD 
+significantly inhibited IL-1beta-induced RASF proliferation, despite increased 
+IL-6 expression.
+CONCLUSION: These data suggest that AD may play an anti-inflammatory role in the 
+pathophysiology of RA.

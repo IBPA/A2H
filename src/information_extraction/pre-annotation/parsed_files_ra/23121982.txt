@@ -1,0 +1,16 @@
+The infiltration of neutrophils and monocytes is a prominent feature of 
+inflammatory diseases including human rheumatoid arthritis. Understanding how 
+neutrophil recruitment is regulated during pathogenesis is crucial for 
+developing anti-inflammatory therapies. We optimized the K/B×N serum-induced 
+mouse arthritis model to study neutrophil trafficking dynamics in vivo using 
+two-photon microscopy. Arthritogenic serum was injected subcutaneously into one 
+hind footpad to induce a local arthritis with robust neutrophil recruitment. 
+Using this approach, we showed that the depletion of monocytes with clodronate 
+liposomes impaired neutrophil recruitment specifically at the transendothelial 
+migration step. The depletion of CCR2(+) monocytes with the monoclonal antibody 
+MC-21 reproduced these effects, implicating CCR2(+) monocytes as key regulators 
+of neutrophil extravasation during arthritis initiation. However, monocyte 
+depletion did not prevent neutrophil extravasation in response to bacterial 
+challenge. These findings suggest that anti-inflammatory therapies targeting 
+monocytes may act in part through antagonizing neutrophil extravasation at sites 
+of aseptic inflammation.

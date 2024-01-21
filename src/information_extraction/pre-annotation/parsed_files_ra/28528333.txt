@@ -1,0 +1,24 @@
+OBJECTIVE: This study aims to investigate the regulatory mechanism of 
+1,25-(OH)2D3 on the proliferation of fibroblast-like synoviocytes (FLS) and 
+expressions of pro-inflammatory cytokines in rheumatoid arthritis (RA) rats via 
+microRNA-22 (miR-22).
+METHODS: A rat model of RA was established with a subcutaneous injection of type 
+II collagen. After treated with different concentrations of 1,25-(OH)2D3 the 
+proliferation of FLS was estimated by the MTT method, and the optimal 
+concentration of 1,25-(OH)2D3 was selected for further experiments. Cell 
+proliferation was detected by MTT. Cell cycle and apoptosis were analyzed by 
+FCM. The IL-1β, IL-6, IL-8, and PGE2 protein expressions were determined by 
+ELISA, and MMP-3, INOS, and Cox-2 mRNA expressions were measured by qRT-PCR.
+RESULTS: The rat model of RA was successfully established. Compared with the 
+blank group, the 1,25-(OH)2D3 and miR-22 inhibitors groups exhibited higher 
+proliferation inhibition and apoptosis rates, lower levels of pro-inflammatory 
+cytokines (IL-1β, IL-6, IL-8, and PGE2), and decreased mRNA expressions of 
+MMP-3, INOS, and Cox-2. The miR-22 mimics group had lower proliferation 
+inhibition and apoptosis rates, elevated expressions of pro-inflammatory 
+cytokines and MMP-3, INOS, and Cox-2 than the blank group. In contrast to the 
+1,25-(OH)2D3 group, the proliferation inhibition and apoptosis rates were 
+down-regulated, and the expressions of pro-inflammatory cytokines and MMP-3, 
+INOS, and Cox-2 were up-regulated in the 1,25-(OH)2D3 + miR-22 mimics group.
+CONCLUSION: Our study demonstrated that 1,25-(OH)2D3 inhibits the proliferation 
+of FLS and alleviates inflammatory response in RA rats by down-regulating 
+miR-22.

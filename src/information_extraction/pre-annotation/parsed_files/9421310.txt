@@ -1,0 +1,18 @@
+The in-vitro activity of AM-1155, a 6-fluoro-8-methoxy quinolone, was compared 
+with those of temafloxacin, sparfloxacin, tosufloxacin, ciprofloxacin, ofloxacin 
+and cefmetazole, a cephamycin, against a variety of anaerobic bacteria. Although 
+AM-1155 demonstrated only modest activity against the Bacteroides fragilis group 
+and Prevotella bivia (MIC90s > or =3.13 mg/mL), 76% of the B. fragilis strains 
+tested were inhibited at AM-1155 concentrations of 0.78 mg/L. AM-1155 was highly 
+active against Prevotella intermedia, Porphyromonas gingivalis, Fusobacterium 
+spp., Clostridium perfringens and Mobiluncus spp. (MIC90s < or =0.39 mg/L). An 
+in-vivo study using a mixed infection with AM-1155- and tosufloxacin-susceptible 
+B. fragilis and Escherichia coli strains in rat granuloma pouch was performed. 
+AM-1155 was effective against both organisms whereas tosufloxacin was effective 
+only against E. coli. These results correlated well to the higher pouch levels 
+of AM-1155 than those of tosufloxacin. Clostridium difficile overgrowth was 
+found in the caecum of mice treated with ampicillin both 1 and 7 days after 5 
+days dosing, but not in AM-1155-treated mice. These results suggest that the 
+clinical efficacy of AM-1155 against infections involving most anaerobic 
+bacteria except for the B. fragilis group and P. bivia should be evaluated 
+further.

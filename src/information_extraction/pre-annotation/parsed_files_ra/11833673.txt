@@ -1,0 +1,20 @@
+Bone turnover is assessed indirectly by measurement of biochemical markers of 
+bone turnover. Osteocalcin, a 49-amino-acid protein is a major noncollagenous 
+protein of bone matrix, synthesized by osteoblasts and odontoblasts. Various 
+assays exist for assessment of osteocalcin and concentrations in the same serum 
+or plasma sample may vary enormously. The used antibodies may recognize intact 
+osteocalcin and/or circulating fragments of osteocalcin. We here describe and 
+validate a new automated immunoassay system for measurement of intact 
+osteocalcin (DPC IMMULITE assay) using monoclonal antibodies (mouse) against the 
+C-terminus of osteocalcin (AA 44-49). For detection polyclonal antibodies (goat) 
+directed against the N-terminus (AA 1-17) conjugated with alkaline phosphatase 
+are used. While different laboratory assays show marked clinical discordance, we 
+evaluated our results comparatively to an established IRMA method (Nichols). We 
+observed a highly significant correlation between both assays (r = 0.9352, p < 
+0.0001, n = 286) for healthy persons and also for patient samples (osteoporosis, 
+diabetes type 1, rheumatoid arthritis). Very low inter- and intraassay 
+covariance as well as highly significant linearity (analytical recovery near 
+100%) tested by serial dilutions were demonstrated for the DPC IMMULITE intact 
+osteocalcin assay. We conclude that the IMMULITE assay is a useful method for 
+assessment of intact osteocalcin giving valuable results in comparison to an 
+established non-automated assay.

@@ -1,0 +1,23 @@
+TIPE2, also known as TNFAIP8L2, a member of the tumor necrosis 
+factor-alpha-induced protein-8 (TNFAIP8) family, is known as an inhibitor in 
+inflammation and cancer, and its overexpression induces cell death. We examined 
+the role of TIPE2 with respect to adjuvant arthritis (AA)-associated 
+pathogenesis by analyzing the TIPE2 regulation of death receptor (DR5)-mediated 
+apoptosis in vitro. The results showed that TIPE2 was detected in normal 
+fibroblast-like synoviocytes (FLSs), but scarcely observed in AA-FLSs. 
+Therefore, recombinant MIGR1/TIPE2(+/+) and control MIGR1 lentivirus vectors 
+were transfected to AA-FLSs, which were denoted as TIPE2(+/+)-FLSs and 
+MIGR1-FLSs, respectively. Our results showed that TIPE2(+/+)-FLSs were highly 
+susceptible to ZF1-mediated apoptosis, and ZF1 was our own purification of an 
+anti-DR5 single chain variable fragment antibody. Under the presence of TIPE2, 
+the expression of DR5 was significantly increased compared with that of the 
+MIGR1-FLS group. In contrast, the level of phosphorylated nuclear factor-kappa B 
+(pNF-κB) was lower in the TIPE2(+/+)-FLS group treated with ZF1, whereas the 
+activity of caspase was higher. Moreover, the rate of apoptosis in the 
+TIPE2(+/+)-FLS group, which was pretreated with caspase inhibitor Z-VAD-FMK, was 
+significantly decreased. In contrast, the apoptosis occurrence in the MIGR1-FLS 
+group increased significantly with the pretreatment of the NF-κB inhibitor Bay. 
+These results indicated that TIPE2 increased the apoptosis of AA-FLSs by 
+enhancing DR5 expression levels, thereby promoting the activation of caspase and 
+inhibiting the activation of NF-κB in AA-FLSs. TIPE2 might potentially act as a 
+therapeutic target for rheumatoid arthritis.

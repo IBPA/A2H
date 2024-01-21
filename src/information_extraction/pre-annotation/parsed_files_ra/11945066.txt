@@ -1,0 +1,19 @@
+The delivery of anti-arthritic genes to the synovial lining of joints is being 
+explored as a strategy for the treatment of rheumatoid arthritis. In this study, 
+we have investigated the use of VSV-G pseudotyped, HIV-1-based lentiviral 
+vectors for gene delivery to articular tissues. Recombinant lentivirus 
+containing a beta-galactosidase/neomycin resistance fusion gene under control of 
+the elongation factor (EF) 1alpha promoter efficiently transduced human and rat 
+synoviocytes and chondrocytes in cell culture. When directly injected into the 
+knees of rats, this vector transduced synovial lining cells, but not other 
+articular tissues such as cartilage. We also constructed a lentiviral vector 
+containing the human interleukin-1 receptor antagonist (IL1RA) cDNA and examined 
+transgene expression in vitro and in vivo following injection into the knee 
+joints of rats. In immunocompetent animals, intra-articular IL1RA expression was 
+high and persisted, at a sharply declining rate, for approximately 20 days. In 
+immunocompromised rats, however, lentivirus-mediated intra-articular expression 
+of human IL1RA was found to persist for at least 6 weeks. Extra-articular 
+expression of the transgene was minimal. These results indicate that lentiviral 
+vectors are capable of efficient in vivo gene transfer to synovium and merit 
+further investigation as a means of providing long-term expression for 
+gene-based treatments of arthritis.

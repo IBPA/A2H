@@ -1,0 +1,25 @@
+OBJECTIVE: To explore the involvement of the renin-angiotensin system (RAS) in 
+the development of vascular damage in adjuvant-induced arthritis (AIA) in rats.
+METHODS: Angiotensin II (Ang II; 0.25 or 1.0 mg/kg/day) was infused in control 
+rats and rats with AIA for 21 days, and the impact of systemic inflammation on 
+Ang II-induced hypertension, endothelial dysfunction, and vascular hypertrophy 
+was evaluated. Expression of angiotensin II type 1 receptor (AT(1)R) and 
+angiotensin-converting enzyme (ACE) in the aortas of rats with AIA were examined 
+by real-time polymerase chain reaction (PCR) and Western blot analyses. Losartan 
+(3 mg/kg/day) or irbesartan (5 mg/kg/day), both of which are AT(1)R blockers, 
+was administered orally to rats with AIA for 21 days. In situ superoxide 
+production in aortas was assessed according to the fluorogenic oxidation of 
+dihydroethidium to ethidium. The expression and activity of NAD(P)H oxidases in 
+aortas were examined by real-time PCR analysis and lucigenin chemiluminescence 
+assay. Endothelial function in rats with AIA treated in vivo or ex vivo with 
+AT(1)R blockers was also determined.
+RESULTS: The Ang II-induced hypertensive response, endothelial dysfunction, and 
+vascular hypertrophy were exacerbated in rats with AIA. Expression of AT(1)R and 
+ACE was increased in the aortas of rats with AIA. Both losartan and irbesartan 
+decreased the levels of superoxide and the expression and activity NAD(P)H 
+oxidases in the aortas of rats with AIA. The endothelial dysfunction in AIA was 
+improved by the in vivo or ex vivo treatment with AT(1)R blockers.
+CONCLUSION: The locally activated RAS is involved in the increased vascular 
+oxidative stress and endothelial dysfunction in AIA. Our findings have important 
+implications for clinical approaches to the reduction of cardiovascular risk in 
+patients with rheumatoid arthritis.

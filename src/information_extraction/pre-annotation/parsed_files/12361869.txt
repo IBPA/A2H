@@ -1,0 +1,20 @@
+The hair cells (HCs) are the most vulnerable elements in the cochlea and damage 
+to them is the most common cause of sensorineural hearing loss. Understanding 
+the intracellular events that lead to the death of HCs is a key to developing 
+protective strategies. Recently, it has been shown that the c-Jun-N-terminal 
+kinase (JNK) pathway is activated in HCs in response to aminoglycosides (J. 
+Neurosci. 20 (2000) 43). We have studied the upstream events leading to JNK 
+activation in aminoglycoside toxicity in vitro. The small GTPases Rac and Cdc42 
+are well known upstream activators of JNK in other cell types. Clostridium 
+difficile toxin B monoglucosylates all members of the Rho GTPase subfamily (Rho, 
+Rac and Cdc42 isoforms) and inhibits GTP binding by steric interference (Nature 
+341 (1989) 209). Organ of Corti explants from p5 rat basal turns were maintained 
+in tissue culture and treated with C. difficile toxin B for 12 h. They were then 
+treated with toxin B plus gentamicin for 72 h. Significantly less HC death was 
+observed compared to with gentamicin alone. Toxin B alone had no effect on HCs 
+at the highest concentration used. Using antibodies against phospho-c-Jun, we 
+observed background immunoreactivity in control explants, strong staining of 
+outer hair cell nuclei in gentamicin treated explants, and weaker immunostaining 
+in explants treated with gentamicin and C. difficile toxin B. We conclude that 
+Rho family small GTPases play a role in aminoglycoside toxicity signaling as 
+upstream activators of the JNK signaling pathway.

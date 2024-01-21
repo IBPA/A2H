@@ -1,0 +1,16 @@
+AIM: To establish the purification method for Clostridium difficile (C. 
+difficile) toxin A.
+METHODS: C. difficile VPI 10463 filtrate was cultured anaerobically by the 
+dialysis bag methods. And then the toxin A was purified by precipitation with 
+500 g/L (NH4)2SO4 and acid precipitation at pH 5.5, followed by ion-exchange 
+chromatography on DEAE-Toyopearl.
+RESULTS: Purified toxin A exhibited only one band on native polyacrylamide gel 
+electrophoresis (native-PAGE) and Ouchterlony double immunodiffusion. The 
+molecular weight of toxin A was estimated to be 550,000. The purified toxin A 
+had a protein concentration of 0.881 mg/mL. The minimum lethal dose was 1X10(6) 
+MLD/mL (i.p.mice). The cytotoxic titer was 10(7) CU/mg. The haemagglutinate 
+activity was at a concentration of 1.72 microg/mL. The ratio of fluid volume 
+(mL) accumulated to the length (cm) of the loop was 2.46.
+CONCLUSION: The modified method for purification of toxin A of C. difficile was 
+simple and convenient. It may be even more suitable for purification of toxin A 
+on large scales.

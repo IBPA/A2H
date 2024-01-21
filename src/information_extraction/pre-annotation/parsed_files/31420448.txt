@@ -1,0 +1,16 @@
+Clostridioides difficile is the primary cause of antibiotic-associated diarrhea 
+and colitis, a healthcare-associated intestinal disease resulting in a 
+significant fatality rate. Colonization of the gut is critical for C. difficile 
+pathogenesis. The bacterial molecules essential for efficient colonization 
+therefore offer great potential as vaccine candidates. Here we present findings 
+demonstrating that the C. difficile immunogenic lipoprotein CD0873 plays a 
+critical role in pathogen success in vivo We found that in a dixenic 
+colonization model, a CD0873-positive strain of C. difficile significantly 
+outcompeted a CD0873-negative strain. Immunization of mice with recombinant 
+CD0873 prevented long-term gut colonization and was correlated with a strong 
+secretory IgA immune response. We further present high-resolution crystal 
+structures of CD0873, at 1.35-2.50 Å resolutions, offering a first view of the 
+ligand-binding pocket of CD0873 and provide evidence that this lipoprotein 
+adhesin is part of a tyrosine import system, an amino acid key in C. difficile 
+infection. These findings suggest that CD0873 could serve as an effective 
+component in a vaccine against C. difficile.

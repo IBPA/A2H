@@ -1,0 +1,24 @@
+OBJECTIVE: EFNB1 and EFNB2 are ligands for Eph receptor tyrosine kinases. This 
+study was undertaken to investigate how the expression of Efnb1 and Efnb2 on 
+murine T cells influences the pathogenesis of collagen-induced arthritis (CIA) 
+and to assess correlations between the T cell expression of these 2 molecules 
+and measures of disease activity in patients with rheumatoid arthritis (RA).
+METHODS: CIA was studied in mice with T cell-specific deletion (double gene 
+knockout [dKO]) of both Efnb1 and Efnb2. Expression of EFNB1 and EFNB2 messenger 
+RNA (mRNA) in peripheral blood T cells from patients with RA was determined by 
+quantitative reverse transcription- polymerase chain reaction.
+RESULTS: In dKO mice, clinical scores of arthritis were reduced compared to 
+those in wild-type (WT) control mice. Serum collagen-specific antibody titers in 
+dKO mice were lower than those in WT mice. In analyses based on equal cell 
+numbers, dKO mouse T cells, as compared to WT mouse T cells, provided vastly 
+inferior help to B cells in the production of collagen-specific antibodies in 
+vitro. T cells from dKO mice were compromised in their ability to migrate to the 
+arthritic paws in vivo and in their ability to undergo chemotaxis toward CXCL12 
+in vitro. Deletion mutation of Efnb1 and Efnb2 intracellular tails revealed 
+critical regions in controlling T cell chemotaxis. T cells from RA patients 
+expressed higher EFNB1 mRNA levels, which correlated with RA symptoms and 
+laboratory findings.
+CONCLUSION: Efnb1 and Efnb2 in T cells are essential for pathogenic antibody 
+production and for T cell migration to the inflamed paws in mice with CIA. These 
+findings suggest that the expression of EFNB1 in T cells might be a useful 
+parameter for monitoring RA disease activity and treatment responses.

@@ -1,0 +1,19 @@
+The activity of protein kinases IKK-ε and TANK-binding kinase 1 (TBK1) has been 
+shown to be associated with inflammatory diseases. As an inhibitor of IKK-ε and 
+TBK1, amlexanox is an anti-inflammatory, anti-allergic, immunomodulator and used 
+for treatment of ulcer, allergic rhinitis and asthma in clinic. We hypothesized 
+that amlexanox may be used for treatment of osteoclast-related diseases which 
+frequently associated with a low grade of systemic inflammation. In this study, 
+we investigated the effects of amlexanox on RANKL-induced osteoclastogenesis in 
+vitro and ovariectomy-mediated bone loss in vivo. In primary bone marrow derived 
+macrophages (BMMs), amlexanox inhibited osteoclast formation and bone 
+resorption. At the molecular level, amlexanox suppressed RANKL-induced 
+activation of nuclear factor-κB (NF-κB), mitogen-activated protein kinase 
+(MAPKs), c-Fos and NFATc1. Amlexanox decreased the expression of 
+osteoclast-specific genes, including TRAP, MMP9, Cathepsin K and NFATc1. 
+Moreover, amlexanox enhanced osteoblast differentiation of BMSCs. In 
+ovariectomized (OVX) mouse model, amlexanox prevented OVX-induced bone loss by 
+suppressing osteoclast activity. Taken together, our results demonstrate that 
+amlexanox suppresses osteoclastogenesis and prevents OVX-induced bone loss. 
+Therefore, amlexanox may be considered as a new therapeutic candidate for 
+osteoclast-related diseases, such as osteoporosis and rheumatoid arthritis.

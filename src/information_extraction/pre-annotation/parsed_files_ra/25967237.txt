@@ -1,0 +1,13 @@
+Rheumatoid arthritis (RA) is an autoimmune disease that often leads to joint 
+destruction. A myriad of drugs targeting the immune abnormalities and downstream 
+inflammatory cascades have been developed, but the joint destruction is not 
+effectively halted. Here we report that aberrant activation of TGF-β in the 
+subchondral bone marrow by immune response increases osteoprogenitors and 
+uncoupled bone resorption and formation in RA mouse/rat models. Importantly, 
+either systemic or local blockade of TGF-β activity in the subchondral bone 
+attenuated articular cartilage degeneration in RA. Moreover, conditional 
+deletion of TGF-β receptor II (Tgfbr2) in nestin-positive cells also effectively 
+halted progression of RA joint destruction. Our data demonstrate that aberrant 
+activation of TGF-β in the subchondral bone is involved at the onset of RA joint 
+cartilage degeneration. Thus, modulation of subchondral bone TGF-β activity 
+could be a potential therapy for RA joint destruction.

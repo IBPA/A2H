@@ -1,0 +1,24 @@
+Overgrowth of enteric clostridia in dysbiosis in horses with colic is presumed 
+but scarcely investigated. The objective was to provide prevalence data of 
+Clostridium difficile and Clostridium perfringens in horses with and without 
+gastrointestinal disease in Switzerland, and investigate microbiota differences 
+between C. difficile shedders and non-shedders. Fecal samples were taken from 
+healthy horses (n = 103), horses with colic (n = 98) and horses with diarrhea 
+(n = 151). Colic horses were sampled on three days. Selective enrichment culture 
+and molecular typing for C. difficile and C. perfringens was performed. 
+Microbiota differences between horses with colic shedding (n = 7) and not 
+shedding (n = 7) C. difficile were assessed using metagenomic sequencing. The 
+cumulative prevalence (19% C. difficile; 16% C. perfringens) was higher compared 
+to single day samples (1-10% C. difficile; 3-8% C. perfringens, all p < 0.003). 
+Horses with colic shed significantly more C. difficile (p < 0.001) but not C. 
+perfringens (p = 0.09) compared to healthy horses. Prevalence in horses with 
+diarrhea was 8% for both Clostridium species. There were no significant 
+microbiota differences between C. difficile shedders and non-shedders with 
+regards to relative abundance on any phylogenetic level, and alpha diversity. 
+Limited differences were seen on LEfSE analysis and in beta diversity indices. 
+Multiple fecal samples should be taken when investigating shedding of enteric 
+clostridia. As horses with colic shed more enteric clostridia compared to 
+healthy horses special biosecurity protocols for horses with colic should be 
+considered in hospitals. Differences in microbiota composition between C. 
+difficile shedders and non-shedders were limited. Further studies on the role of 
+dysbiosis in C. difficile are needed.

@@ -1,0 +1,21 @@
+Excessive or inappropriate production of IL-17A has been reported in diseases 
+such as rheumatoid arthritis, asthma, and multiple sclerosis. The potential 
+clinical relevance of these correlations was suggested by the protective effects 
+of anti-IL-17A monoclonal antibodies in various mouse disease models. However, 
+the chronic nature of the corresponding human afflictions raises great 
+challenges for Ab-based therapies. An alternative to passive Ab therapy is 
+autovaccination. Covalent association of self-cytokines with foreign proteins 
+has been reported to induce the production of antibodies capable of neutralizing 
+the biological activity of the target cytokine. We recently reported that 
+cross-linking of IL-17A to ovalbumin produced highly immunogenic complexes that 
+induced long-lasting IL-17A-neutralizing antibodies. Vaccinated SJL mice were 
+completely protected against experimental autoimmune encephalomyelitis (EAE) 
+induced by proteolipid protein peptide (PLP 139-151), and a monoclonal 
+anti-IL-17A Ab (MM17F3), derived from C57Bl/6 mice vaccinated against 
+IL-17A-OVA, also prevented disease development. Here we report that this Ab also 
+protects C57Bl/6 mice from myelin oligdendrocyte glycoprotein (MOG)-induced EAE. 
+Histological analysis of brain sections of C57Bl/6 mice treated with MM17F3 
+showed a complete absence of inflammatory infiltrates and evidence for a marked 
+inhibition of chemokine and cytokine messages in the spinal cord. These results 
+further extend the analytical and therapeutic potential of the autovaccine 
+procedure.

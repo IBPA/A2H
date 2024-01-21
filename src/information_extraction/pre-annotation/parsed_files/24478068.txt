@@ -1,0 +1,22 @@
+Clostridium difficile rivals methicillin-resistant Staphylococcus aureus as the 
+primary hospital-acquired infection. C. difficile infection (CDI) caused by 
+toxins A and/or B can manifest as mild diarrhea to life-threatening 
+pseudomembranous colitis. Although most patients recover fully from CDI, ~20% 
+undergo recurrent disease. Several studies have demonstrated a correlation 
+between anti-toxin antibody (Ab) and decreased recurrence; however, the 
+contributions of the systemic and mucosal Ab responses remain unclear. Our goal 
+was to use the CDI mouse model to characterize the protective immune response to 
+C. difficile. C57BL/6 mice infected with epidemic C. difficile strain BI17 
+developed protective immunity against CDI and did not develop CDI upon 
+rechallenge; they generated systemic IgG and IgA as well as mucosal IgA Ab to 
+toxin. To determine if protective immunity to C. difficile could be generated in 
+immunodeficient individuals, we infected CD4(-/-) mice and found that they 
+generated both mucosal and serum IgA anti-toxin Abs and were protected from CDI 
+upon rechallenge, with protection dependent on major histocompatibility complex 
+class II (MHCII) expression; no IgG anti-toxin Ab was found. We found that 
+protection was likely due to neutralizing mucosal IgA Ab. In contrast, pIgR(-/-) 
+mice, which lack the receptor to transcytose polymeric Ab across the epithelium, 
+were also protected from CDI, suggesting that although mucosal anti-toxin Ab may 
+contribute to protection, it is not required. We conclude that protection from 
+CDI can occur by several mechanisms and that the mechanism of protection is 
+determined by the state of immunocompetence of the host.

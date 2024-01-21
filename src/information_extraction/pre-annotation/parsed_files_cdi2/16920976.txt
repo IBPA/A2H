@@ -1,0 +1,25 @@
+Corticotropin-releasing hormone (CRH) and urocortins (Ucn) bind with various 
+affinities to two G-protein-coupled receptors, CRHR1 and CRHR2, which are 
+expressed in brain and in peripheral tissues, including immune cells. 
+CRHR2-deficient mice display anxiety-like behavior, hypersensitivity to stress, 
+altered feeding behavior and metabolism, and cardiovascular abnormalities. 
+However, the phenotype of these mice in inflammatory responses has not been 
+determined. In the present study we found that compared with wild-type 
+CRHR2-null mice developed substantially reduced intestinal inflammation and had 
+lower intestinal mRNA expression of the potent chemoattractants keratinocyte 
+chemokine and monocyte chemoattractant protein 1 following intraluminal exposure 
+to Clostridium difficile toxin A, a potent enterotoxin that mediates 
+antibiotic-associated diarrhea and colitis in humans. This effect was 
+recapitulated by administration of astressin 2B, a selective CRHR2 antagonist, 
+before toxin A exposure. Moreover, Ab array analysis revealed reduced expression 
+of several inflammatory chemokines, including keratinocyte chemokine and 
+monocyte chemoattractant protein 1 in toxin A-exposed mice pretreated with 
+astressin 2B. Real-time RT-PCR of wild-type mouse intestine showed that only 
+UcnII, but not other Ucn, was significantly up-regulated by ileal administration 
+of toxin A at 4 h compared with buffer exposure. We also found that human 
+colonic epithelial HT-29 cells express CRHR2alpha mRNA, whereas expression of 
+beta and gamma spliced variants was minimal. Moreover, treatment of HT-29 cells 
+with UcnII, which binds exclusively to CRHR2, stimulated expression of IL-8 and 
+monocyte chemoattractant protein 1. Taken together, these results provide direct 
+evidence that CRHR2 mediates intestinal inflammatory responses via release of 
+proinflammatory mediators at the colonocyte level.

@@ -1,0 +1,15 @@
+Clostridium difficile-associated disease (CDAD) due to toxigenic strains is 
+prevented in hamsters by colonization by nontoxigenic C. difficile after 
+administration of clindamycin (Cm). To prevent CDAD during treatment with 
+antibiotics, we gave a Cm-resistant nontoxigenic C. difficile strain, M13 
+(minimal inhibitory concentration [MIC], >256 microg/mL), and a Cm-susceptible 
+strain, M3 (MIC, 0.5 microg/mL), to hamsters receiving Cm daily for days 1-5. 
+Either M13 or M3 was given orogastrically (1 x 10(6) spores/day) to each hamster 
+in 3 groups of 5 each, on either day 3, days 3-5, or days 3-7. M13 colonized at 
+a higher rate and faster than did M3 (P<.001). When hamsters were challenged by 
+toxigenic strain B1 on days 5, 7, or 9, M13 prevented CDAD in 100% of the 
+hamsters. M3 protected no hamsters challenged by B1 on day 5, 20% on day 7, and 
+100% on day 9. M13 contains the erm(B) resistance gene but not the mobilizable 
+element Tn5398. The benefits of use of Cm-resistant nontoxigenic C. difficile to 
+prevent CDAD must be balanced against the risk that resistance might be 
+transferred to other enteric bacteria.

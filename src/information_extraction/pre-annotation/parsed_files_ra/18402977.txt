@@ -1,0 +1,19 @@
+Preclinical pharmacokinetic (PK) assays are important to help evaluate the 
+safety and efficacy of a potential biotherapeutic before clinical studies. The 
+assay typically requires a biotherapeutic-specific reagent to minimize matrix 
+effects especially when the host species are non-human primates such as 
+cynomolgus monkeys and the biotherapeutic is a humanized monoclonal antibody 
+(MAb). Recombinant humanized mAb 2H7 (rhuMAb2H7) binds to the extracellular 
+domain of CD20 that is expressed on B cells and results in B cell depletion. It 
+is currently being evaluated for its therapeutic potential in rheumatoid 
+arthritis (RA) in clinical studies. During the early development of rhuMAb2H7, a 
+cynomolgus monkey PK assay was needed to help assess the pharmacokinetic 
+parameters of rhuMAb2H7 in a pilot cynomolgus monkey study. However, development 
+of a cynomolgus monkey PK assay was challenging due to lack of 
+rhuMAb2H7-specific reagents. Here we describe an alternative method for 
+detection of rhuMAb2H7 in cynomolgus monkey serum using polyclonal antibodies 
+against human IgGs. This assay quantifies rhuMAb2H7 in 10% cynomolgus monkey 
+serum with high sensitivity, accuracy, and precision. This assay successfully 
+supported the rhuMAb2H7 development, and has the potential to be used to 
+quantify other humanized MAb biotherapeutics in serum from a variety of 
+non-human species.

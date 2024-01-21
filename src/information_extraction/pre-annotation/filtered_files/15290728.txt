@@ -1,0 +1,25 @@
+OBJECTIVE: To examine expression of CD40 on articular chondrocytes derived from 
+patients with rheumatoid arthritis (RA) and osteoarthritis (OA) and to 
+investigate roles of CD40 on articular chondrocytes in production of 
+inflammatory mediators associated with degradation of articular cartilage.
+METHODS: Articular cartilage samples were obtained from patients with RA and OA 
+at total knee arthroplasty. Expression of CD40 on chondrocytes was examined 
+using immunohistochemistry, reverse transcriptase-polymerase chain reaction 
+(RT-PCR), and flow cytometry. Tumor necrosis factor-alpha (TNF-alpha), 
+interleukin 6 (IL-6), matrix metalloproteinase (MMP)-3, and tissue inhibitor of 
+matrix metalloproteinase (TIMP)-1 in culture supernatants of chondrocytes were 
+measured by ELISA.
+RESULTS: Immunohistochemical staining revealed that CD40 was expressed on RA 
+chondrocytes in vivo, but not in OA chondrocytes. RT-PCR and flow cytometry 
+showed that cultured articular chondrocytes from RA patients, but not from OA 
+patients, constitutively expressed CD40, and that interferon-gamma (IFN-gamma) 
+enhanced the expression of CD40 on chondrocytes from both RA and OA patients. 
+Membrane fraction of mouse myeloma Ag8 cells that was transfected with human 
+CD154 (Ag8-hCD154) induced production of TNF-alpha, IL-6, and MMP-3 in RA 
+chondrocytes, and pretreatment of RA chondrocytes with IFN-gamma enhanced the 
+response. OA chondrocytes did not respond to stimulation with the membrane 
+fraction of Ag8-hCD154 cells alone, but the cells did produce TNF-alpha, IL-6, 
+and MMP-3 after pretreatment with IFN-gamma.
+CONCLUSION: CD40-CD154 interaction augments the expression of inflammatory 
+cytokines and MMP in chondrocytes and contributes to an intrinsic process of 
+cartilage degradation in RA.

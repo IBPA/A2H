@@ -1,0 +1,25 @@
+OBJECTIVE: Development of arthritis in the K/BxN mouse model depends on the 
+induction of high titers of antibodies against the enzyme glucose-6-phosphate 
+isomerase (GPI), promoted by CD4(+) T cells expressing a GPI-specific transgenic 
+T cell receptor (TCR). This study was undertaken to determine whether this 
+strong autoantibody response depends on T cell differentiation to the Th1 or Th2 
+phenotype.
+METHODS: The roles of Th cell-biasing cytokines were investigated by introducing 
+the interleukin-4 (IL-4) and IL-12-specific subunit p35 (IL-12p35)-knockout 
+mutations into the K/BxN model and evaluating the impact of these deficiencies 
+on disease. The IL-4-expressing cell types in K/BxN mice were revealed by 
+crossing in a knockin alteration, which resulted in green fluorescent protein 
+expression controlled by endogenous IL-4 gene-regulatory elements. Transfer 
+experiments permitted the identification of the IL-4-producing cell type 
+required for arthritis, and quantitative reverse transcriptase-polymerase chain 
+reaction allowed for determination of the cytokine profile of K/BxN T cells.
+RESULTS: While IL-12p35 appeared dispensable for the development of arthritis, 
+IL-4 was crucial for full development of disease. The GPI-reactive TCR of 
+standard K/BxN mice induced the transcriptional activation of the IL-4 locus in 
+CD4(+) T cells and eosinophils, and CD4(+) T cells were the obligatory source of 
+IL-4 for disease. However, the cytokine profile of K/BxN T cells revealed that 
+K/BxN arthritis is not a "pure" Th2 disease.
+CONCLUSION: The K/BxN model, although not a classic Th2 disease, depends 
+critically on IL-4. The potential of IL-4 to promote inflammatory arthritis 
+should be considered when proposing therapies for rheumatoid arthritis aimed at 
+biasing T cells toward IL-4 production.

@@ -1,0 +1,26 @@
+BACKGROUND: Rheumatoid arthritis (RA) is a symmetric inflammatory polyarthritis 
+associated with high concentrations of pro-inflammatory, cytokines including 
+tumor necrosis factor (TNF)-α. Adalimumab is a monoclonal antibody (mAb) that 
+binds TNF-α, and is widely used to treat RA. Despite its proven clinical 
+efficacy, adalimumab and other therapeutic mAbs have disadvantages, including 
+the requirement for repeated bolus injections and the appearance of treatment 
+limiting anti-drug antibodies. To address these issues, we have developed an 
+innovative ex vivo gene therapy approach, termed transduced autologous 
+restorative gene therapy (TARGT), to produce and secrete adalimumab for the 
+treatment of RA.
+METHODS: Helper-dependent (HD) adenovirus vector containing adalimumab light and 
+heavy chain coding sequences was used to transduce microdermal tissues and cells 
+of human and mouse origin ex vivo, rendering sustained secretion of active 
+adalimumab. The genetically engineered tissues were subsequently implanted in a 
+mouse model of RA.
+RESULTS: Transduced human microdermal tissues implanted in SCID mice 
+demonstrated 49 days of secretion of active adalimumab in the blood, at levels 
+of tens of microgram per milliliter. In addition, transduced autologous dermal 
+cells were implanted in the RA mouse model and demonstrated statistically 
+significant amelioration in RA symptoms compared to naïve cell implantation and 
+were similar to recombinant adalimumab bolus injections.
+CONCLUSIONS: The results of the present study report microdermal tissues 
+engineered to secrete active adalimumab as a proof of concept for sustained 
+secretion of antibody from the novel ex vivo gene therapy TARGT platform. This 
+technology may now be applied to a range of antibodies for the therapy of other 
+diseases.

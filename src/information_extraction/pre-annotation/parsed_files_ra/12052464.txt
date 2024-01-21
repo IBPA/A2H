@@ -1,0 +1,21 @@
+Glucocorticoids are potent anti-inflammatory molecules used in the treatment of 
+asthma, rheumatoid arthritis, inflammatory bowel disease, and other inflammatory 
+and dermatological diseases, as well as in posttransplantation immunotherapy. 
+Although glucocorticoids have been prescribed for many years, their potential 
+side effects, when administered orally, can prevent their long-term use. The 
+most serious side effect observed in the clinic is glucocorticoid-induced 
+osteoporosis (GIOP). To develop a small animal model to characterize 
+glucocorticoid-induced bone loss, we carried out a series of experiments using 
+BALB/c mice given daily intraperitoneal doses of the synthetic glucocorticoid, 
+dexamethasone. Following dexamethasone treatment, the mice became osteopenic, 
+with highly significant decreases in bone formation rate and mineral apposition 
+rate, as assessed by standard histomorphometry. Moreover, 3 week treatment with 
+dexamethasone resulted in a decrease in trabecular thickness and trabecular 
+number with an increase in surface-to-volume ratio of trabeculae in the distal 
+femur, as measured using microcomputed tomography (micro-CT). The serum bone 
+formation marker, osteocalcin, was dose-dependently decreased in all mice 
+treated with dexamethasone and showed a parallel extent of regulation to the 
+bone formation rate changes. In addition, serum levels of leptin, recently 
+identified as playing a role in the regulation of bone mass, increased following 
+dexamethasone treatment. BALB/c mice therefore represent a useful model system 
+in which the detrimental effects of glucocorticoids on bone can be studied.

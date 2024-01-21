@@ -1,0 +1,14 @@
+Nuclear receptors (NRs) are ligand-regulated transcription factors that display 
+canonical domain structure with highly conserved DNA-binding and ligand-binding 
+domains. The identification of the endogenous ligands for several receptors 
+remains elusive or is controversial, and thus these receptors are classified as 
+orphans. One such orphan receptor is the retinoic acid receptor-related orphan 
+receptor γ (RORγ). An isoform of RORγ, RORγt, has been shown to be essential for 
+the expression of Interleukin 17 (IL-17) and the differentiation of Th17 cells. 
+Th17 cells have been implicated in the pathology of several autoimmune diseases, 
+including multiple sclerosis (MS) and rheumatoid arthritis (RA). Genetic 
+ablation of RORγ alone or in combination with RORα in mice led to impaired Th17 
+differentiation and protected the mice from development of experimental 
+autoimmune encephalomyelitis (EAE), a mouse model of MS. Here we describe 
+SR2211, a selective RORγ modulator that potently inhibits production of IL-17 in 
+cells.

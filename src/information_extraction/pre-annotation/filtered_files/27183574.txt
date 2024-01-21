@@ -1,0 +1,19 @@
+Osteoarthritis (OA) is a chronic disease of articular joints that leads to 
+degeneration of both cartilage and subchondral bone. These degenerative changes 
+are further aggravated by proinflammatory cytokines including IL-1β and TNF-α. 
+Previously, we have reported that IL-3, a cytokine secreted by activated T 
+cells, protects cartilage and bone damage in murine models of inflammatory and 
+rheumatoid arthritis. However, how IL-3 protects cartilage degeneration is not 
+yet known. In this study, we investigated the role of IL-3 on cartilage 
+degeneration under both in vitro and in vivo conditions. We found that both 
+mouse and human chondrocytes show strong expression of IL-3R at gene and protein 
+levels. IL-3 increases the expression of mouse chondrocyte-specific genes, Sox9 
+and collagen type IIa, which were downregulated by IL-1β. Moreover, IL-3 
+downregulated IL-1β- and TNF-α-induced expression of matrix metalloproteinases 
+in both mouse and human chondrocytes. Interestingly, IL-3 reduces the 
+degeneration of articular cartilage and subchondral bone microarchitecture in a 
+mouse model of human OA. Moreover, IL-3 showed the preventive and therapeutic 
+effects on cartilage degeneration induced by IL-1β in micromass pellet cultures 
+of human mesenchymal stem cells. Thus, to our knowledge, we provide the first 
+evidence that IL-3 has therapeutic potential in amelioration of degeneration of 
+articular cartilage and subchondral bone microarchitecture associated with OA.

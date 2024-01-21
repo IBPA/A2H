@@ -1,0 +1,18 @@
+Spore-forming bacteria encompass a diverse range of genera and species, 
+including important human and animal pathogens, and food contaminants. 
+Clostridioides difficile is one such bacterium and is a global health threat 
+because it is the leading cause of antibiotic-associated diarrhoea in hospitals. 
+A crucial mediator of C. difficile disease initiation, dissemination and 
+re-infection is the formation of spores that are resistant to current 
+therapeutics, which do not target sporulation. Here, we show that cephamycin 
+antibiotics inhibit C. difficile sporulation by targeting spore-specific 
+penicillin-binding proteins. Using a mouse disease model, we show that combined 
+treatment with the current standard-of-care antibiotic, vancomycin, and a 
+cephamycin prevents disease recurrence. Cephamycins were found to have broad 
+applicability as an anti-sporulation strategy, as they inhibited sporulation in 
+other spore-forming pathogens, including the food contaminant Bacillus cereus. 
+This study could directly and immediately affect treatment of C. difficile 
+infection and advance drug development to control other important spore-forming 
+bacteria that are problematic in the food industry (B. cereus), are potential 
+bioterrorism agents (Bacillus anthracis) and cause other animal and human 
+infections.

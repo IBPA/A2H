@@ -1,0 +1,25 @@
+OBJECTIVES: Lipoxygenases (EC 1.13.11.12, LOX) catalyze the hydroperoxidation of 
+polyunsaturated fatty acids (PUFA). This reaction leads to the production of 
+conjugated hydro peroxide dienes of PUFA. In animals, LOX generate leukotriens 
+(LT) and lipoxins, which belong to inflammatory mediators. It is believed that 
+restricting LT synthesis by inhibition of LOX would have therapeutic utility for 
+the treatment of a variety of inflammatory conditions (e.g. asthma, rheumatoid 
+arthritis, psoriasis).
+METHODS & RESULTS: The process of production and elimination of radical 
+intermediates in vitro can be monitored by determination of LOX activity. We 
+assessed the concentration of PUFA hydroperoxides in our system with 
+LOX-catalyzed enzyme reaction spectrophotometrically. The inhibition of LOX 
+activity (LOX from cytosol fraction of rat lungs) with selected 
+N-salicylideneaminoalkanoatocopper(II) complexes was tested. In our experiments, 
+all compounds tested showed an inhibitory effect on LOX catalyzed 
+hydroperoxidation of PUFA. Cu(II) (from CuSO(4).5H(2)O dilution) ions also 
+inhibited this enzyme reaction, but all compounds studied had a 10 times higher 
+anti-LOX activity. The most effective of these complexes was monohydrate 
+aqua-(N-salicylidene-L-a-alaninato)copper(II) complex 
+[Cu(sal-L-alpha-ala)(H(2)O)].H(2)O with IC(50) 1.86 x 10(-4) mol/l.
+CONCLUSIONS: These complexes are known for their anti-phlogistic and 
+radioprotective properties and they can be classified as potential anti-radical 
+compounds. The structure of these complexes is similar to the active site of 
+Cu,Zn-SOD (superoxide dismutase) and superoxide radical scavenger activity of 
+these complexes is known. We found that these copper complexes were capable to 
+inhibit LOX activity, which may be related with their anti-radical properties.

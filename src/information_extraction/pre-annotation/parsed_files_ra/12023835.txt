@@ -1,0 +1,23 @@
+Metabolism of the extracellular matrix (ECM) is a complex process that becomes 
+disregulated in disease states characterized by chronic inflammation of joints, 
+as is seen in rheumatoid arthritis or fibrosis of the lung. The participation of 
+certain cytokines in this process is generally accepted (transforming growth 
+factor-beta induces fibrosis), while the roles of other cytokines are less 
+clear. Oncostatin M (OSM) is a member of the interleukin-6/leukaemia inhibitory 
+factor (or gp130) cytokine family, and its participation in inflammation and the 
+regulation of ECM metabolism is supported by a number of activities identified 
+in vitro, including regulation of matrix metalloproteinase-1 and tissue 
+inhibitor of metalloproteinases-1. Local overexpression of transforming growth 
+factor-beta has been shown to be fibrogenic in mouse lung, whereas local OSM 
+overexpression via intra-articular administration has been shown to induce a 
+pannus-like inflammatory response in the synovium of mouse knee joints. Here we 
+examine the effects of OSM in the context of those of transforming growth 
+factor-beta using an established adenovirus vector that expresses mOSM (AdmOSM). 
+We administered the virus intra-nasally into Balb/C mice to achieve high 
+expression of OSM in the lung, and examined the effects at various time points. 
+AdmOSM resulted in a vigorous inflammatory response by day 7 which was 
+characterized by an elevation of neutrophil and mononuclear cell numbers and a 
+marked increase in collagen deposition. These data support the use of such 
+systems to study the ECM in vivo, and indicate a potential role for OSM in 
+inflammatory responses that can modulate steady-state ECM deposition in Balb/C 
+mice.

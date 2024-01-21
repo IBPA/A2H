@@ -1,0 +1,16 @@
+Neutrophil infiltration of the colonic mucosa is a hallmark of Clostridium 
+difficile toxin A-mediated enterocolitis. Macrophage-inflammatory protein-2 
+(MIP-2) is a potent neutrophil chemoattractant secreted by rat macrophages and 
+epithelial cells in response to inflammatory stimuli. In this work, we report 
+that administration of toxin A into rat ileal loops increased mucosal levels of 
+MIP-2 before the onset of fluid secretion and mucosal neutrophil infiltration. 
+Administration of rabbit anti-MIP-2 IgG, but not control IgG, reduced toxin 
+A-mediated secretion (by 58%), mucosal permeability (by 80%), and 
+myeloperoxidase activity (by 85%). Immunohistochemical analysis demonstrated 
+increased MIP-2 expression in intestinal epithelial and lamina propria cells 1 h 
+after toxin A administration. Intestinal epithelial cells purified from toxin 
+A-exposed ileal loops also showed increased MIP-2 mRNA expression and MIP-2 
+protein release that was inhibited by pretreatment of rats with the 
+transcriptional inhibitor actinomycin D. These results indicate that C. 
+difficile toxin A induces MIP-2 release from intestinal epithelial cells and 
+that MIP-2 contributes to neutrophil mucosal influx during toxin A enteritis.

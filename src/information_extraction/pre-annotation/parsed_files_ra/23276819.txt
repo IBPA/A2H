@@ -1,0 +1,21 @@
+HLA-G, a natural immunosuppressant present in the human placenta during 
+pregnancy, prevents fetal destruction by the maternal immune system. The 
+immunosuppressive effect of HLA-G is mediated by the immune cell inhibitory 
+receptors, LILRB1 and LILRB2. HLA-G forms disulfide-linked dimers by natural 
+oxidation, and the dimer associates with LILRB1/B2 much more strongly than the 
+monomer. Furthermore, the dimer formation remarkably enhanced the LILRB-mediated 
+signaling. In this report, we studied the in vivo immunosuppressive effect of 
+the HLA-G dimer, using the collagen-induced arthritis model mouse. Mice were 
+treated with the HLA-G monomer or dimer intracutaneously at the left foot joint, 
+once or for 5 days, and the clinical severity was evaluated daily in a 
+double-blind study. The HLA-G monomer and dimer both produced excellent 
+anti-inflammatory effects with a single, local administration. Notably, as 
+compared to the monomer, the dimer exhibited significant immunosuppressive 
+effects at lower concentrations, which persisted for about two months. In 
+accordance with this result, a binding study revealed that the HLA-G dimer binds 
+PIR-B, the mouse homolog of the LILRBs, with higher affinity and avidity than 
+the monomer. The HLA-G dimer is expected to be quite useful as an 
+anti-rheumatoid arthritis agent, in small amounts with minimal side effects.
+
+Copyright © 2012 American Society for Histocompatibility and Immunogenetics. 
+Published by Elsevier Inc. All rights reserved.

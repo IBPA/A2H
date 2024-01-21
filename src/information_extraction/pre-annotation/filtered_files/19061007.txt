@@ -1,0 +1,34 @@
+INTRODUCTION: Methotrexate, a folate antagonist, is a mainstay treatment for 
+childhood acute lymphoblastic leukemia. It is also widely used in a low dose 
+formulation to treat patients with rheumatoid arthritis. In rats, methotrexate 
+is known to induce micronuclei formation, leading to genetic damage, while 
+vitamin A is known to protect against such methotrexate-induced genetic damage. 
+Leucovorin (folinic acid) is generally administered with methotrexate to 
+decrease methotrexate-induced toxicity.
+OBJECTIVES: We aimed to determine whether vitamin A and leucovorin differed in 
+their capacity to prevent formation of methotrexate-induced micronuclei in rat 
+bone marrow erythrocytes. The present study also aimed to evaluate the effect of 
+combined treatment with vitamin A and leucovorin on the formation of 
+methotrexate-induced micronuclei.
+METHODS: Male and female Wistar rats (n=8) were injected with 20 mg/kg 
+methotrexate (single i.p. dose). The control group received an equal volume of 
+distilled water. The third and fourth groups of rats received vitamin A (5000 IU 
+daily dose for 4 successive days) and leucovorin (0.5 mg/kg i.p. dose for 4 
+successive days), respectively. The fifth and sixth groups of rats received a 
+combination of vitamin A and a single dose of methotrexate and a combination of 
+leucovorin and methotrexate, respectively. The last group of rats received a 
+combination of leucovorin, vitamin A and single dose of methotrexate. Samples 
+were collected at 24 hours after the last dose of the treatment into 5% bovine 
+albumin. Smears were obtained and stained with May-Grunwald and Giemsa. One 
+thousand polychromatic erythrocytes were counted per animal for the presence of 
+micronuclei and the percentage of polychromatic erythrocyte was determined.
+RESULTS: Comparison of methotrexate-treated rats with the control group showed a 
+significant increase in the percentage of cells with micronuclei and a 
+significant decrease polychromatic erythrocyte percentage. Combined methotrexate 
+and vitamin A therapy and combined methotrexate and leucovorin therapy led to 
+significant decreases in the micronuclei percentage and an increase in 
+polychromatic erythrocyte percentage when compared to rats treated with 
+methotrexate alone. Leucovorin was found to be more effective than vitamin A 
+against the formation of methotrexate-induced micronuclei.
+CONCLUSIONS: Both vitamin A and leucovorin provided significant protection 
+against genetic damage induced by methotrexate.

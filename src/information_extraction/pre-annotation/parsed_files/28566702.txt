@@ -1,0 +1,20 @@
+Mechanisms mediating adult enteric neurogenesis are largely unknown. Using 
+inflammation-associated neurogenesis models and a transgenic approach, we aimed 
+to understand the cell-source for new neurons in infectious and inflammatory 
+colitis. Dextran sodium sulfate (DSS) and Citrobacter rodentium colitis (CC) was 
+induced in adult mice and colonic neurons were quantified. Sox2GFP and PLP1GFP 
+mice confirmed the cell-type specificity of these markers. Sox2CreER:YFP and 
+PLP1creER:tdT mice were used to determine the fate of these cells after colitis. 
+Sox2 expression was investigated in colonic neurons of human patients with 
+Clostridium difficile or ulcerative colitis. Both DSS and CC led to increased 
+colonic neurons. Following colitis in adult Sox2CreER:YFP mice, YFP initially 
+expressed predominantly by glia becomes expressed by neurons following colitis, 
+without observable DNA replication. Similarly in PLP1CreER:tdT mice, PLP1 cells 
+that co-express S100b but not RET also give rise to neurons following colitis. 
+In human colitis, Sox2-expressing neurons increase from 1-2% to an average 14% 
+in colitis. The new neurons predominantly express calretinin, thus appear to be 
+excitatory. These results suggest that colitis promotes rapid enteric 
+neurogenesis in adult mice and humans through differentiation of Sox2- and 
+PLP1-expressing cells, which represent enteric glia and/or neural progenitors. 
+Further defining neurogenesis will improve understanding and treatment of 
+injury-associated intestinal motility/sensory disorders.

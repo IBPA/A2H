@@ -1,0 +1,21 @@
+Pro-inflammatory cytokine-induced chondrocyte apoptosis is a primary cause of 
+cartilage destruction in the progression of rheumatoid arthritis (RA). Advanced 
+oxidation protein products (AOPPs), a novel pro-inflammatory mediator, have been 
+confirmed to accumulate in patients with RA. However, the effect of AOPPs 
+accumulation on chondrocyte apoptosis and the associated cellular mechanisms 
+remains unclear. The present study demonstrated that the plasma formation of 
+AOPPs was enhanced in RA rats compared with normal. Then, chondrocyte were 
+treated with AOPPs-modified rat serum albumin (AOPPs-RSA) in vitro. Exposure of 
+chondrocyte to AOPPs activated nicotinamide adenine dinucleotide phosphate 
+(NADPH) oxidase and increased expression of NADPH oxidase subunits, which was 
+mediated by receptor for advanced glycation end products (RAGE), but not 
+scavenger receptor CD36. Moreover, AOPPs challenge triggered NADPH 
+oxidase-dependent ROS generation which induced mitochondrial dysfunction and 
+endoplasmic reticulum stress resulted in activation of caspase family that 
+eventually lead to apoptosis. Lastly, blockade of RAGE, instead of CD36, largely 
+attenuated these signals. Our study demonstrated first time that AOPPs induce 
+chondrocyte apoptosis via RAGE-mediated and redox-dependent intrinsic apoptosis 
+pathway in vitro. These data implicates that AOPPs may represent a novel 
+pathogenic factor that contributes to RA progression. Targeting AOPPs-triggered 
+cellular mechanisms might emerge as a promising therapeutic option for patients 
+with RA.

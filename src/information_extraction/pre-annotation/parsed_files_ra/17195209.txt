@@ -1,0 +1,23 @@
+OBJECTIVE: To generate a mouse model that can mimic human rheumatoid arthritis 
+(RA). A major difference between RA in humans and collagen-induced arthritis 
+(CIA) in mice is the lack of sex bias and autoantibodies in the animal model. We 
+used DRB1*0401-transgenic mice to understand the role of DR4 in susceptibility 
+and sex bias in RA.
+METHODS: A transgenic mouse was generated that lacked all endogenous mouse class 
+II genes (AE(o)) and expressed the RA susceptibility allele HLA-DRB1*0401. These 
+transgenic mice were tested for incidence, severity, and sex distribution of 
+CIA.
+RESULTS: DRB1*0401.AE(o) mice developed CIA predominantly in females and 
+produced rheumatoid factors, similar to the features of human RA. Another 
+feature similar to human RA is the expression of class II molecules on 
+antigen-presenting cells as well as T cells. Activated and sorted CD4(+) T cells 
+can present DR4-restricted type II collagen (CII)-derived peptide in vitro, but 
+cannot process the antigen. This suggests a role for these cells in epitope 
+presentation locally in joints, which affects disease severity. After challenge 
+with CII, female mice had higher cellularity and increased T cell proliferation 
+and produced higher levels of proinflammatory cytokines than did the male mice.
+CONCLUSION: DR4.AE(o) mice expressed HLA similar to humans and displayed 
+increased arthritis susceptibility in females, thus mimicking RA in humans. This 
+model may be valuable for studying sex differences observed in humans and for 
+understanding why autoimmunity is increased in women. These mice may also be 
+useful for developing future therapeutic strategies.

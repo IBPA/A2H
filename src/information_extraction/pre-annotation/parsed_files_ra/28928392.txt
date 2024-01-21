@@ -1,0 +1,18 @@
+Emerging evidence suggests that mucosa-associated lymphoid tissue lymphoma 
+translocation 1 (MALT1) is a key regulator of inflammatory diseases; however, 
+the pathological role of MALT1 in rheumatoid arthritis (RA) is not well 
+understood. Consequently, this protein has not been therapeutically targeted for 
+the treatment of RA. MALT1 plays a role in the paracaspase pathway, has 
+proteolytic activity and is involved in the regulation of inflammatory 
+responses. In this study, we found that the MALT1-targeting inhibitory small 
+molecule, MALT1 selective inhibitor 
+2-chloro-N-[4-[5-(3,4-dichlorophenyl)-3-(2-methoxyethoxy)-1H-1,2,4-triazol-1-yl]phenylacetamide 
+(MI-2) strongly suppresses the differentiation of monocytes into osteoclasts in 
+the absence or presence of the inflammatory cytokine tumour necrosis factor α. 
+Furthermore, MI-2 ameliorates pathologic bone erosion and synovitis in an in 
+vivo mouse model of collagen-induced arthritis. Mechanistically, MI-2 blocked 
+expression of the master osteoclast regulator - nuclear factor of activated T 
+cells 1 (NFATc1) - by inhibiting nuclear factor κB (NF-κB), which is a critical 
+regulator of NFATc1. These findings highlight the important regulatory role of 
+MALT1 in the NF-κB-NFATc1-signalling axis during osteoclastogenesis and suggest 
+that targeting MALT1 is a promising treatment option for rheumatoid arthritis.

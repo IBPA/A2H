@@ -1,0 +1,24 @@
+Toxin A (TcdA) and toxin B (TcdB) of Clostridium difficile cause gross 
+pathological changes (e.g., inflammation, secretion, and diarrhea) in the 
+infected host, yet the molecular and cellular pathways leading to observed host 
+responses are poorly understood. To address this gap, we evaluated the effects 
+of single doses of TcdA and/or TcdB injected into the ceca of mice, and several 
+endpoints were analyzed, including tissue pathology, neutrophil infiltration, 
+epithelial-layer gene expression, chemokine levels, and blood cell counts, 2, 6, 
+and 16 h after injection. In addition to confirming TcdA's gross pathological 
+effects, we found that both TcdA and TcdB resulted in neutrophil infiltration. 
+Bioinformatics analyses identified altered expression of genes associated with 
+the metabolism of lipids, fatty acids, and detoxification; small GTPase 
+activity; and immune function and inflammation. Further analysis revealed 
+transient expression of several chemokines (e.g., Cxcl1 and Cxcl2). Antibody 
+neutralization of CXCL1 and CXCL2 did not affect TcdA-induced local pathology or 
+neutrophil infiltration, but it did decrease the peripheral blood neutrophil 
+count. Additionally, low serum levels of CXCL1 and CXCL2 corresponded with 
+greater survival. Although TcdA induced more pronounced transcriptional changes 
+than TcdB and the upregulated chemokine expression was unique to TcdA, the 
+overall transcriptional responses to TcdA and TcdB were strongly correlated, 
+supporting differences primarily in timing and potency rather than differences 
+in the type of intracellular host response. In addition, the transcriptional 
+data revealed novel toxin effects (e.g., altered expression of GTPase-associated 
+and metabolic genes) underlying observed physiological responses to C. difficile 
+toxins.

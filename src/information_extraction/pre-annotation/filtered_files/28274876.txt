@@ -1,0 +1,20 @@
+Rheumatoid arthritis (RA) is a chronic and systemic autoimmune-disease with 
+complex and unclear etiology. Hypotonicity of synovial fluid is a typical 
+characteristic of RA, which may play pivotal roles in RA pathogenesis. In this 
+work, we studied the responses of RA synovial fibroblasts to hypotonic stress 
+in vitro and further explored the underlying mechanisms. Data showed that 
+hyposmotic solutions significantly triggered increases in cytosolic calcium 
+concentration ([Ca2+]c) of synoviocytes. Subsequently, it caused rapid release 
+of ATP, as well as remarkable production of intracellular reactive oxygen 
+species (ROS). Meanwhile, hypotonic stimulus promoted the proliferation of 
+synovial fibroblasts. These effects were almost abolished by calcium-free buffer 
+and significantly inhibited by gadolinium (III) chloride (a mechanosensitive 
+Ca2+ channel blocker) and ruthenium red (a transient receptor potential 
+vanilloid 4 (TRPV4) blocker). 4α-phorbol 12,13-didecanoate, a specific agonist 
+of TRPV4, also mimicked hypotonic shock-induced responses shown above. In 
+contrast, voltage-gated channel inhibitors verapamil and nifedipine had little 
+influences on these responses. Furthermore, RT-PCR and western blotting 
+evidently detected TRPV4 expression at mRNA and protein level in isolated 
+synoviocytes. Taken together, our results indicated that hypotonic stimulus 
+resulted in ATP release, ROS production, and cell proliferation depending on 
+Ca2+ entry through activation of TRPV4 channel in synoviocytes.

@@ -1,0 +1,39 @@
+The amphibian bombesin (BBN or BN, a peptide of 14 amino acids) is an analog of 
+human gastrin-releasing peptide (GRP, a peptide of 27 amino acids) that binds to 
+GRP receptors (GRPR) with high affinity and specificity (1, 2). Both GRP and BBN 
+share an amidated C-terminus sequence homology of seven amino acids, 
+Trp-Ala-Val-Gly-His-Leu-Met-NH2. BBN-Like peptides have been shown to induce 
+various biological responses in diverse tissues, including the central nervous 
+system (CNS) and the gastrointestinal (GI) system. They also act as potential 
+growth factors for both normal and neoplastic tissues (3). Specific BBN 
+receptors (BBN-Rs) have been identified on CNS and GI tissues and on a number of 
+tumor cell lines (4). The BBN-R superfamily includes at least four different 
+subtypes, namely the GRPR subtype (BB2), the neuromedin B receptor subtype 
+(BB1), the BB3 subtype, and the BB4 subtype. The findings of GRPR overexpression 
+in various human tumors, such as breast, prostate, lung, colon, ovarian, and 
+pancreatic cancers, provide opportunities for tumor imaging by designing 
+specific molecular imaging agents to target the GRPR (5, 6). Integrins are a 
+family of heterodimeric glycoproteins on cell surfaces that mediate diverse 
+biological events involving cell–cell and cell–matrix interactions (7). 
+Integrins consist of an α and a β subunit and are important for cell adhesion 
+and signal transduction. The αvβ3 integrin is the most prominent receptor 
+affecting tumor growth, tumor invasiveness, metastasis, tumor-induced 
+angiogenesis, inflammation, osteoporosis, and rheumatoid arthritis (8-13). 
+Expression of the αvβ3 integrin is strong on tumor cells and activated 
+endothelial cells, whereas expression is weak on resting endothelial cells and 
+most normal tissues. A peptide sequence consisting of Arg-Gly-Asp (RGD) has been 
+identified as a recognition motif used by extracellular matrix proteins 
+(vitronectin, fibrinogen, laminin, and collagen) to bind to a variety of 
+integrins, including αvβ3. Various ligands have been introduced for imaging of 
+tumors and tumor angiogenesis (14). Because breast and prostate cancers express 
+both GRPR and αvβ3, Liu et al. (15) designed an RGD-BBN heterodimer in which 
+BBN[7-14]NH2 and c(RGDyK) are connected with a glutamate linker (BBN on the Glu 
+side chain γ-carboxylate group and RGD on the Glu side chain α-carboxylate 
+group). 1,4,7-triazacyclononane-1,4-7-triacetic acid (NOTA) was used as a 
+bifunctional chelator for labeling RGD-BBN to form 64Cu-NOTA-RGD-BBN for use in 
+positron emission tomography (PET) imaging of αvβ3 and GRPR in nude mice bearing 
+human tumors. For single-photon emission computed tomography (SPECT), Liu et al. 
+(16) conjugated Glu-RGD-BBN with 6-hydrazinonicotinyl (HYNIC) and labeled the 
+product with 99mTc, using tricine and trisodium triphenylphosphine-trisulfonate 
+(TPPTS) as the coligands. 99mTc-HYNIC-RGD-BBN was evaluated in C57/BL6 mice 
+bearing mouse Lewis lung carcinomas (LLC).

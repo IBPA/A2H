@@ -1,0 +1,21 @@
+BACKGROUND: Ursodeoxycholic acid (UDCA) has been known that UDCA has prominent 
+effects on liver, however, there is little known about its influence on 
+autoimmune disease. Here, the benefit of UDCA on arthritis rheumatoid (RA) in 
+vivo was tested.
+METHODS: RA mouse were induced using collagen II (CIA, collagen induced 
+arthritis) where the disease severity or UDCA-related signaling pathway such as 
+AMP-activated protein kinase (AMPK) or small heterodimer partner interacting 
+leucine zipper protein (SMILE) was evaluated by westerblot and 
+immunohistochemical staining. Gene expression was measured by 
+realtime-polymerase chain reaction (PCR).
+RESULTS: The administration of UDCA effectively alleviated the arthritic score 
+and incidence with decreased cartilage damage and lipid metabolic parameters. 
+UDCA also suppressed the secretion of pro-inflammatory cytokines. It was 
+confirmed that UDCA upregulated the expression of SMILE and transcriptional 
+activity of PPARγ via controlling AMPK or p38 activity.
+CONCLUSIONS: In the present study, the therapeutic effect of UDCA inducing SMILE 
+through AMPK activation in rheumatoid arthritis mouse as well as other 
+autoimmune disease was proposed.
+
+Copyright © 2017 European Federation of Immunological Societies. Published by 
+Elsevier B.V. All rights reserved.

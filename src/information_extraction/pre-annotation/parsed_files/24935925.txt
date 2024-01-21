@@ -1,0 +1,22 @@
+The interplay between Clostridium difficile and the host's metabolome is 
+believed to influence the severity of infection. However, the mechanism for this 
+phenomenon remains unclear. In this study, we model one of these metabolic 
+pathways by focusing on tryptophan metabolism in the host. We found that 
+inhibition of tryptophan catabolism in IDO1-knockout mice led to increased 
+mucosal destruction, cecal hemorrhage, and increased production of IFN-γ in 
+response to C. difficile infection, but no significant change in mucosal 
+effector or regulatory T cell numbers or IL-10 mRNA expression. The increased 
+immunopathology in infected IDO1-knockout mice was associated with a lower C. 
+difficile burden and an increased percentage of IFN-γ-expressing neutrophils. We 
+further demonstrated the ability of kynurenine to induce apoptosis in bone 
+marrow-derived neutrophils, whereas the presence of tryptophan reversed this 
+effect, providing a possible mechanism for the increased neutrophil accumulation 
+in IDO1(-/-) mice. We conclude that C. difficile induces tryptophan catabolism 
+in cecal lamina propria cells, which restricts C. difficile-associated 
+immunopathology and the accumulation of IFN-γ-expressing neutrophils. This might 
+represent a self-regulatory mechanism for neutrophils, via the IFN-γ-IDO1 
+pathway, to restrict their own accumulation during infection. These findings 
+have important clinical implications because IDO inhibitors are used to treat 
+cancer in clinical trials (in patients particularly susceptible to getting C. 
+difficile infection), and treatment with IDO1 inhibitors may exacerbate the 
+severity of C. difficile colitis.

@@ -1,0 +1,21 @@
+Clostridium difficile toxin A (TcdA) is a major exotoxin contributing to 
+disruption of the colonic epithelium during C. difficile infection. TcdA 
+contains a carbohydrate-binding combined repetitive oligopeptides (CROPs) domain 
+that mediates its attachment to cell surfaces, but recent data suggest the 
+existence of CROPs-independent receptors. Here, we carried out genome-wide 
+clustered regularly interspaced short palindromic repeats 
+(CRISPR)-CRISPR-associated protein 9 (Cas9)-mediated screens using a truncated 
+TcdA lacking the CROPs, and identified sulfated glycosaminoglycans (sGAGs) and 
+low-density lipoprotein receptor (LDLR) as host factors contributing to binding 
+and entry of TcdA. TcdA recognizes the sulfation group in sGAGs. Blocking 
+sulfation and glycosaminoglycan synthesis reduces TcdA binding and entry into 
+cells. Binding of TcdA to the colonic epithelium can be reduced by surfen, a 
+small molecule that masks sGAGs, by GM-1111, a sulfated heparan sulfate 
+analogue, and by sulfated cyclodextrin, a sulfated small molecule. Cells lacking 
+LDLR also show reduced sensitivity to TcdA, although binding between LDLR and 
+TcdA are not detected, suggesting that LDLR may facilitate endocytosis of TcdA. 
+Finally, GM-1111 reduces TcdA-induced fluid accumulation and tissue damage in 
+the colon in a mouse model in which TcdA is injected into the caecum. These data 
+demonstrate in vivo and pathological relevance of TcdA-sGAGs interactions, and 
+reveal a potential therapeutic approach of protecting colonic tissues by 
+blocking these interactions.

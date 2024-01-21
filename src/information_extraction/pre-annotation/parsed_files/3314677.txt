@@ -1,0 +1,11 @@
+A DAP- auxotroph mutant of Escherichia coli DP50 requiring DAP and thymidine for 
+growth was used as the receptor strain in genetic engineering. It failed to be 
+implanted in axenic mice. However, when an inoculum containing more than 10(7) 
+bacteria/ml was used, the DAP+ reverse mutant devoid of requirement for DAP 
+became implanted. When axenic mice were previously associated with Clostridium 
+difficile containing DAP in the cell wall, the strain DAP- became implanted even 
+when the inoculum was too small to permit implantation in axenic mice. 
+Conversely, C. butyricum and C. perenne, whose cell walls also contain DAP, did 
+not allow the establishment of a DAP- mutant. In animals associated with complex 
+human flora without enterobacteria, neither of the 2 DAP- and DAP+ mutants 
+became implanted.

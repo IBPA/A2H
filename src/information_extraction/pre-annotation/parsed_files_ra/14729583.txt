@@ -1,0 +1,25 @@
+Celecoxib, the first US FDA-approved selective cyclooxygenase-2 (COX-2) 
+inhibitor initially developed for the treatment of adult rheumatoid arthritis 
+and osteoarthritis, was reported to reduce the polyp burden in patients with 
+familial adenomatous polyposis. This specific COX-2 inhibitor also protects 
+against experimentally induced carcinogenesis, but molecular mechanisms 
+underlying its chemopreventive activities remain largely unresolved. In the 
+present work, we found that celecoxib inhibited 
+12-O-tetradecanoylphorbol-13-acetate (TPA)-induced expression of COX-2 in female 
+ICR mouse skin when applied topically 30 min prior to TPA as determined by both 
+immunoblot and immunohistochemical analyses. In another study, celecoxib 
+attenuated the DNA binding activity of activator protein 1 (AP-1) through 
+suppression of c-Jun and c-Fos expression in TPA-treated mouse skin. In 
+addition, celecoxib inhibited both the catalytic activity and phosphorylation of 
+p38 mitogen-activated protein (MAP) kinase. In the same animal model, TPA 
+treatment resulted in rapid activation via phosphorylation of extracellular 
+signal-regulated protein kinase (ERK)1/2 and p38 MAP kinase, which are upstream 
+of AP-1 in mouse skin. In order to clarify the roles of p38 and ERK in 
+TPA-induced AP-1 activation, we utilized the pharmacologic inhibitors of these 
+enzymes. The p38 inhibitor SB203580 blocked TPA-mediated AP-1 activation, while 
+the MEK1/2 inhibitor U0126 was not inhibitory despite suppression of c-Fos 
+expression in mouse skin. Furthermore, SB203580 markedly inhibited COX-2 
+expression induced by TPA. Taken together, these findings suggest that celecoxib 
+down-regulates COX-2 by blocking activation of p38 MAP kinase and AP-1, which 
+may represent molecular mechanisms underlying antitumor promoting effects of 
+this drug on mouse skin tumorigenesis.

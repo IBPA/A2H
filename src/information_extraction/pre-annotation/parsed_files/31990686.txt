@@ -1,0 +1,17 @@
+Colitis caused by Clostridium difficile infection is a growing cause of human 
+morbidity and mortality, especially after antibiotic use in health care 
+settings. The natural immunity of newborn infants and protective host immune 
+mediators against C. difficile infection are not fully understood, with data 
+suggesting that inflammation can be either protective or pathogenic. Here, we 
+show an essential role for IL-17A produced by γδ T cells in host defense against 
+C. difficile infection. Fecal extracts from children with C. difficile infection 
+showed increased IL-17A and T cell receptor γ chain expression, and IL-17 
+production by intestinal γδ T cells was efficiently induced after infection in 
+mice. C. difficile-induced tissue inflammation and mortality were markedly 
+increased in mice deficient in IL-17A or γδ T cells. Neonatal mice, with 
+naturally expanded RORγt+ γδ T cells poised for IL-17 production were resistant 
+to C. difficile infection, whereas elimination of γδ T cells or IL-17A each 
+efficiently overturned neonatal resistance against infection. These results 
+reveal an expanded role for IL-17-producing γδ T cells in neonatal host defense 
+against infection and provide a mechanistic explanation for the clinically 
+observed resistance of infants to C. difficile colitis.

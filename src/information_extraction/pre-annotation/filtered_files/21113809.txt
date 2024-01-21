@@ -1,0 +1,17 @@
+Very recently, the circadian rhythm was proved to play an important role in the 
+pathogenesis of arthritis. The role of melatonin in the development and progress 
+of rheumatoid arthritis has been implicated for decades. This study was aimed to 
+investigate the effect of melatonin on the expression of circadian clock genes 
+in mouse anti-type II collagen antibody-induced arthritis (CIA). Mice were 
+divided into 3 groups: control, CIA, and CIA + melatonin treatment (MLT). Both 
+mRNA and protein levels of circadian clock gene Cryptochrome1 (Cry1) were 
+markedly decreased in CIA + MEL group compared with those in control and CIA 
+groups. MLT increased paw thickness. Histologic and X-ray assessment also 
+revealed increased infiltration of inflammatory cells, synovial hyperplasia, and 
+the destruction of articular cartilage and bone by MLT. The concentrations of 
+anti-type II collagen antibody in CIA + MEL group mice were significantly higher 
+than those in control and CIA groups (P < 0.05). Serum concentrations of TNF-α 
+(P < 0.005) and IL-6 (P < 0.05) in CIA + MLT group were also increased. Taken 
+together, these results implicate that clock gene Cry1 may be involved in the 
+aggravation of MLT-mediated arthritis in mice anti-type II collagen 
+antibody-induced arthritis.

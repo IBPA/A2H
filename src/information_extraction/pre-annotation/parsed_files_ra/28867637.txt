@@ -1,0 +1,19 @@
+Zhengqing Fengtongning (ZQFTN), the pharmaceutical preparation of sinomenine 
+(SIN) derived from the medicinal plant Sinmenium acutum, is well-known in China 
+as an effective treatment for rheumatoid arthritis (RA). However, its 
+histamine-release anaphylactoid reactions (HRARs) occur often in some patients. 
+Therefore, it is desirable to establish effective clinical protocols to manage 
+such HRARs. In the study, rat models with systemic HRARs and local HRARs of the 
+skin were established. The level of vascular permeability and mast cell numbers 
+was determined by quantitative analysis using Evans blue dye and histological 
+assays. The levels of histamine, leukotriene B4 (LTB4) and IL-33 in plasma were 
+detected by UHPLC-SPE-MS, ELISA and immunohistochemistry assays, respectively. 
+The results demonstrated that SIN significantly induced both systemic and local 
+HRARs in rats, showing significant decrease of body temperature, increases in 
+vascular permeability in skin, injury of lung tissues and mast cell infiltration 
+and IL-33 expression in skin and lung tissues. Mechanistic study showed that 
+tranilast could prevent SIN-triggered HRARs via inhibition of H1 receptor gene 
+expression and NF-κB signaling. Our findings provide evidence that mast cell 
+membrane stabilizers and H1 receptor blockers effectively prevent SIN-induced 
+HRARs, and cromolyn, cetirizine and tranilast can be used in the clinic for the 
+management of HRARs induced by ZQFTN.

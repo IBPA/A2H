@@ -1,0 +1,26 @@
+INTRODUCTION: The inflammatory reflex is a physiological mechanism through which 
+the nervous system maintains immunologic homeostasis by modulating innate and 
+adaptive immunity. We postulated that the reflex might be harnessed 
+therapeutically to reduce pathological levels of inflammation in rheumatoid 
+arthritis by activating its prototypical efferent arm, termed the cholinergic 
+anti-inflammatory pathway. To explore this, we determined whether electrical 
+neurostimulation of the cholinergic anti-inflammatory pathway reduced disease 
+severity in the collagen-induced arthritis model.
+METHODS: Rats implanted with vagus nerve cuff electrodes had collagen-induced 
+arthritis induced and were followed for 15 days. Animals underwent active or 
+sham electrical stimulation once daily from day 9 through the conclusion of the 
+study. Joint swelling, histology, and levels of cytokines and bone metabolism 
+mediators were assessed.
+RESULTS: Compared with sham treatment, active neurostimulation of the 
+cholinergic anti-inflammatory pathway resulted in a 52% reduction in ankle 
+diameter (p = 0.02), a 57% reduction in ankle diameter (area under curve; 
+p = 0.02) and 46% reduction overall histological arthritis score (p = 0.01) with 
+significant improvements in inflammation, pannus formation, cartilage 
+destruction, and bone erosion (p = 0.02), accompanied by numerical reductions in 
+systemic cytokine levels, not reaching statistical significance. Bone erosion 
+improvement was associated with a decrease in serum levels of receptor activator 
+of NF-κB ligand (RANKL) from 132±13 to 6±2 pg/mL (mean±SEM, p = 0.01).
+CONCLUSIONS: The severity of collagen-induced arthritis is reduced by 
+neurostimulation of the cholinergic anti-inflammatory pathway delivered using an 
+implanted electrical vagus nerve stimulation cuff electrode, and supports the 
+rationale for testing this approach in human inflammatory disorders.

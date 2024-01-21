@@ -1,0 +1,20 @@
+Two distinct IL-18 neutralizing strategies, i.e. a rabbit polyclonal anti-mouse 
+IL-18 IgG and a recombinant human IL-18 binding protein (rhIL-18BP), were used 
+to treat collagen-induced-arthritic DBA/1 mice after clinical onset of disease. 
+The therapeutic efficacy of neutralizing endogenous IL-18 was assessed using 
+different pathological parameters of disease progression. The clinical severity 
+in mice undergoing collagen-induced arthritis was significantly reduced after 
+treatment with both IL-18 neutralizing agents compared to placebo treated mice. 
+Attenuation of the disease was associated with reduced cartilage erosion evident 
+on histology. The decreased cartilage degradation was further documented by a 
+significant reduction in the levels of circulating cartilage oligomeric matrix 
+protein (an indicator of cartilage turnover). Both strategies efficiently slowed 
+disease progression, but only anti-IL-18 IgG treatment significantly decreased 
+an established synovitis. Serum levels of IL-6 were significantly reduced with 
+both neutralizing strategies. In vitro, neutralizing IL-18 resulted in a 
+significant inhibition of TNF-alpha, IL-6, and IFN-gamma secretion by 
+macrophages. These results demonstrate that neutralizing endogenous IL-18 is 
+therapeutically efficacious in the murine model of collagen-induced arthritis. 
+IL-18 neutralizing antibody or rhIL-18BP could therefore represent new 
+disease-modifying anti-rheumatic drugs that warrant testing in clinical trials 
+in patients with rheumatoid arthritis.

@@ -1,0 +1,24 @@
+Antigen-based therapies (ABTs) very effectively prevent the development of type 
+1 diabetes (T1D) when given to young nonobese diabetic (NOD) mice, however, they 
+have little or no ability to reverse hyperglycemia in newly diabetic NOD mice. 
+More importantly, ABTs have not yet demonstrated an ability to effectively 
+preserve residual ß-cells in individuals newly diagnosed with type 1 diabetes 
+(T1D). Accordingly, there is great interest in identifying new treatments that 
+can be combined with ABTs to safely protect ß-cells in diabetic animals. The 
+activation of γ-aminobutyric acid (GABA) receptors (GABA-Rs) on immune cells has 
+been shown to prevent T1D, experimental autoimmune encephalomyelitis (EAE) and 
+rheumatoid arthritis in mouse models. Based on GABA's ability to inhibit 
+different autoimmune diseases and its safety profile, we tested whether the 
+combination of ABT with GABA treatment could prolong the survival of 
+transplanted ß-cells in newly diabetic NOD mice. Newly diabetic NOD mice were 
+untreated, or given GAD/alum (20 or 100 µg) and placed on plain drinking water, 
+or water containing GABA (2 or 6 mg/ml). Twenty-eight days later, they received 
+syngenic pancreas grafts and were monitored for the recurrence of hyperglycemia. 
+Hyperglycemia reoccurred in the recipients given plain water, GAD monotherapy, 
+GABA monotherapy, GAD (20 µg)+GABA (2 mg/ml), GAD (20 µg)+GABA (6 mg/ml) and GAD 
+(100 µg)+GABA (6 mg/ml) about 1, 2-3, 3, 2-3, 3-8 and 10-11 weeks 
+post-transplantation, respectively. Thus, combined GABA and ABT treatment had a 
+synergistic effect in a dose-dependent fashion. These findings suggest that 
+co-treatment with GABA (or other GABA-R agonists) may provide a new strategy to 
+safely enhance the efficacy of other therapeutics designed to prevent or reverse 
+T1D, as well as other T cell-mediated autoimmune diseases.

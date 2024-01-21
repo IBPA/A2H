@@ -1,0 +1,16 @@
+IL-17 Receptor D (IL-17 RD) is a cytokine receptor that mediates IL-17 signaling 
+and plays an important role in responding to the invasion of extracellular 
+pathogens and many inflammatory and autoimmune diseases such as rheumatoid 
+arthritis. In this study we report the generation of a mouse monoclonal antibody 
+against human IL-17 RD. The recombinant human IL-17RD extracellular domain 
+(hIL-17RD-ECD) was produced in the baculovirus expression system and purified 
+from culture medium of sf9 insect cells. The purified protein was used as a 
+T-dependent antigen to immune Balb/C mice. B cells from the spleen of immunized 
+mice were fused with murine cell SP2/0. Hybridoma cell lines were screened for 
+the production of the monoclonal antibody against hIL-17-RD-ECD using ELISA. A 
+hybridoma cell line 1F8 was found to have a high production of the antibody, 
+which was further confirmed for the specificity by both western blot and ELISA 
+analyses. The monoclonal antibody obtained from hybridoma 1F8 was characterized 
+to be IgG1+Kappa subclass. This study provided a base for the further 
+therapeutic application of the antibody on the autoimmune disease including 
+rheumatoid arthritis.

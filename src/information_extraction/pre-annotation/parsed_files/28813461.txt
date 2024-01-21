@@ -1,0 +1,32 @@
+BACKGROUND: Approximately 30-40% of children <1 year of age are Clostridium 
+difficile colonized, and may represent a reservoir for adult C. difficile 
+infections (CDI). Risk factors for colonization with toxigenic versus 
+non-toxigenic C. difficile strains and longitudinal acquisition dynamics in 
+infants remain incompletely characterized.
+METHODS: Predominantly healthy infants (≤2 years) were recruited in Oxfordshire, 
+UK, and provided ≥1 fecal samples. Independent risk factors for 
+toxigenic/non-toxigenic C. difficile colonization and acquisition were 
+identified using multivariable regression. Infant C. difficile isolates were 
+whole-genome sequenced to assay genetic diversity and prevalence of 
+toxin-associated genes, and compared with sequenced strains from Oxfordshire CDI 
+cases.
+RESULTS: 338/365 enrolled infants provided 1332 fecal samples, representing 158 
+C. difficile colonization or carriage episodes (107[68%] toxigenic). Initial 
+colonization was associated with age, and reduced with breastfeeding but 
+increased with pet dogs. Acquisition was associated with older age, Caesarean 
+delivery, and diarrhea. Breastfeeding and pre-existing C. difficile colonization 
+reduced acquisition risk. Overall 13% of CDI C. difficile strains were 
+genetically related to infant strains. 29(18%) infant C. difficile sequences 
+were consistent with recent direct/indirect transmission to/from Oxfordshire CDI 
+cases (≤2 single nucleotide variants [SNVs]); 79(50%) shared a common origin 
+with an Oxfordshire CDI case within the last ~5 years (0-10 SNVs). The 
+hypervirulent, epidemic ST1/ribotype 027 remained notably absent in infants in 
+this large study, as did other lineages such as STs 10/44 (ribotype 015); the 
+most common strain in infants was ST2 (ribotype 020/014)(22%).
+CONCLUSIONS: In predominantly healthy infants without significant healthcare 
+exposure C. difficile colonization and acquisition reflect environmental 
+exposures, with pet dogs identified as a novel risk factor. Genetic overlap 
+between some infant strains and those isolated from CDI cases suggest common 
+community reservoirs of these C. difficile lineages, contrasting with those 
+lineages found only in CDI cases, and therefore more consistent with 
+healthcare-associated spread.

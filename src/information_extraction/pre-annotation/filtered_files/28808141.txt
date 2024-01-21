@@ -1,0 +1,21 @@
+The plasma kallikrein-kinin system (KKS) consists of serine proteases, 
+prekallikrein (pKal) and factor XII (FXII), and a cofactor, high-MW kininogen 
+(HK). Upon activation, activated pKal and FXII cleave HK to release bradykinin. 
+Activation of this system has been noted in patients with rheumatoid arthritis, 
+and its pathogenic role has been characterized in animal arthritic models. In 
+this study, we generated 2 knockout mouse strains that lacked pKal and HK and 
+determined the role of KKS in autoantibody-induced arthritis. In a K/BxN serum 
+transfer-induced arthritis (STIA) model, mice that lacked HK, pKal, or 
+bradykinin receptors displayed protective phenotypes in joint swelling, 
+histologic changes in inflammation, and cytokine production; however, 
+FXII-deficient mice developed normal arthritis. Inhibition of Kal ameliorated 
+arthritis severity and incidence at early stage STIA and reduced the levels of 
+major cytokines in joints. In addition to releasing bradykinin from HK, Kal 
+directly activated monocytes to produce proinflammatory cytokines, up-regulated 
+their C5aR and FcRIII expression, and released C5a. Immune complex increased 
+pKal activity, which led to HK cleavage. The absence of HK is associated with a 
+decrease in joint vasopermeability. Thus, we identify a critical role for Kal in 
+autoantibody-induced arthritis with pleiotropic effects, which suggests that it 
+is a new target for the inhibition of arthritis.-Yang, A., Zhou, J., Wang, B., 
+Dai, J., Colman, R. W., Song, W., Wu, Y. A critical role for plasma kallikrein 
+in the pathogenesis of autoantibody-induced arthritis.

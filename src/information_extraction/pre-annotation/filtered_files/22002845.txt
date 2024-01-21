@@ -1,0 +1,18 @@
+A population pharmacokinetic-pharmacodynamic-disease progression (PK/PD/DIS) 
+model was developed to characterize the effects of anakinra in collagen-induced 
+arthritic (CIA) rats and explore the role of interleukin-1β (IL-1β) in 
+rheumatoid arthritis. The CIA rats received either vehicle, or anakinra at 100 
+mg/kg for about 33 h, 100 mg/kg for about 188 h, or 10 mg/kg for about 188 h by 
+subcutaneous infusion. Plasma concentrations of anakinra were assayed by 
+enzyme-linked immunosorbent assay. Swelling of rat hind paws was measured. 
+Population PK/PD/DIS parameters were computed for the various groups using 
+non-linear mixed-effects modeling software (NONMEM® Version VI). The final model 
+was assessed using visual predictive checks and nonparameter stratified 
+bootstrapping. A two-compartment PK model with two sequential absorption 
+processes and linear elimination was used to capture PK profiles of anakinra. A 
+transduction-based feedback model incorporating logistic growth rate captured 
+disease progression and indirect response model I captured drug effects. The PK 
+and paw swelling versus time profiles in CIA rats were fitted well. Anakinra has 
+modest effects (I ( max ) = 0.28) on paw edema in CIA rats. The profiles are 
+well-described by our PK/PD/DIS model which provides a basis for future 
+mechanism-based assessment of anakinra dynamics in rheumatoid arthritis.

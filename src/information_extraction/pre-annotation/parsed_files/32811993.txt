@@ -1,0 +1,17 @@
+Severe Clostridiodes difficile infection (CDI) is life-threatening and responds 
+poorly to treatment. Obesity is associated with development of severe CDI. 
+Therefore, to define the mechanisms that exacerbate disease severity, we 
+examined CDI pathogenesis in high-fat diet (HFD)-fed obese mice. Compared to 
+control mice, HFD-fed mice failed to clear C. difficile bacteria which resulted 
+in protracted diarrhea, weight loss and colonic damage. After infection, 
+HFD-induced obese mice had an intestinal bile acid (BA) pool that was dominated 
+by primary BAs which are known promoters of C. difficile spore germination, and 
+lacked secondary BAs that inhibit C. difficile growth. Concurrently, synthesis 
+of primary BAs from liver was significantly increased in C. difficile-infected 
+HFD-fed mice. A key pathway that regulates hepatic BA synthesis is via feedback 
+inhibition from intestinal Farnesoid X receptors (FXRs). Our data reveal that 
+the proportion of FXR agonist BAs to FXR antagonist BAs in the intestinal lumen 
+was significantly reduced in HFD-fed mice after CDI. Treatment of HFD-fed mice 
+with an FXR agonist Obeticholic acid, resulted in decreased primary BA 
+synthesis, fewer C. difficile bacteria and better CDI outcomes. Thus, OCA 
+treatment holds promise as a therapy for severe CDI.

@@ -1,0 +1,19 @@
+Five protected analogues of beta-D-galactosyl-(5R)-5-hydroxy-L-lysine were 
+prepared, in which the galactosyl moiety was modified by monodeoxygenation or 
+inversion of stereochemistry at C-4. The building blocks were used in the 
+solid-phase synthesis of a set of glycopeptides related to the peptide fragment 
+CII256-273 from type II collagen. Evaluation of the glycopeptides revealed that 
+T-cell hybridomas obtained in collagen-induced arthritis (CIA), which is a 
+common mouse model for rheumatoid arthritis, recognized the galactosyl moiety 
+with high specificity for individual hydroxy groups. Moreover, T-cell hybridomas 
+obtained in a humanized variant of CIA were also found to recognize the 
+glycopeptides in an equally carbohydrate-specific manner. The results allowed 
+the generation of models of the complexes formed between the appropriate class 
+II major histocompatibility complex (MHC) molecule, glycopeptide, and the T-cell 
+receptor, that is, of an interaction that is critical for the stimulation of T 
+cells in the arthritis models. In the structural models, peptide side chains 
+anchor the glycopeptide in pockets in the class II MHC molecule, whereas the 
+galactosylated hydroxylysine residue forms the key contacts with the T-cell 
+receptor. Importantly, the results also suggest that a T-cell response towards 
+glycopeptide fragments from type II collagen could play an important role in the 
+development of rheumatoid arthritis in humans.

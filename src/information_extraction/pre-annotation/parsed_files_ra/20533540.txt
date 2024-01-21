@@ -1,0 +1,25 @@
+OBJECTIVE: To assess the role of T cells in the mouse model of citrullinated 
+human fibrinogen-induced rheumatoid arthritis (RA) using CTLA-4Ig, an agent that 
+blocks T cell costimulation, which is required for T cell activation.
+METHODS: Humanized HLA-DRβ1*0401-transgenic (DR4-Tg) mice were immunized with 
+Cit-human fibrinogen to induce arthritis. Prior to, and at the onset or peak of, 
+arthritis, the DR4-Tg mice were treated with CTLA-4Ig or control human IgG1 or 
+were left untreated. Arthritis development and progression were monitored by 
+measuring ankle swelling with calipers and by assessing histopathologic changes. 
+The immune responses to the citrullinated antigens and the corresponding 
+unmodified antigens, as well as the arthritogenicity of lymphocytes from these 
+mice, were examined. The latter was performed using lymphocyte transfers from 
+CTLA-4Ig-treated or control mice via intraperitoneal injection into naive DR4-Tg 
+mice. Recipient mice also received an intraarticular injection of Cit-human 
+fibrinogen, unmodified human fibrinogen, or vehicle.
+RESULTS: CTLA-4Ig-treated, but not human IgG1-treated, arthritic mice had 
+significantly reduced ankle swelling and pathologic joint damage. Treatment with 
+CTLA-4Ig, but not human IgG1, suppressed Cit-human fibrinogen-induced T cell 
+activation, including citrulline-specific T cell activation, when given prior to 
+disease onset. Transfer of splenic lymphocytes from untreated or human 
+IgG1-treated arthritic mice caused arthritis in recipients, and this occurred 
+when Cit-human fibrinogen, but not unmodified fibrinogen, was deposited into the 
+joint. Splenocytes from CTLA-4Ig-treated mice were unable to transfer arthritis.
+CONCLUSION: Activated citrulline-specific T cells play a direct role in the 
+development and progression of arthritis in this model of Cit-human 
+fibrinogen-induced RA.

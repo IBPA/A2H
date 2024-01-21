@@ -1,0 +1,9 @@
+Collagen-Induced Arthritis (CIA) is a complex model of autoimmune-mediated 
+arthritis that is regulated by multiple genetic and environmental factors. CIA 
+is induced in rats by immunization with native type II collagen and develops 
+joint pathology similar to that of rheumatoid arthritis. This chapter details 
+methods for the extraction and purification of native type II collagen from 
+sternal and articular cartilage, an arthritis induction protocol that has 
+resulted in reproducible CIA expression in several rat strains from year to year 
+and criteria for measuring clinical, radiographic and immunological outcome 
+parameters characteristic of CIA.

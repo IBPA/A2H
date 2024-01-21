@@ -1,0 +1,25 @@
+OBJECTIVE: The mechanisms of osteoclast maturation and the role of rheumatoid 
+arthritis (RA) synovial fibroblasts in the control of osteoclastogenesis remain 
+unclear. The purpose of this study was to determine the humoral factors that 
+influence osteoclast differentiation resulting from mutual interactions between 
+osteoclast progenitor cells and synovial fibroblasts.
+METHODS: The cloned mouse macrophage cell line RAW 264.7 or isolated human CD14+ 
+monocytes were cocultured with RA or osteoarthritis (OA) synovial fibroblasts in 
+the presence of RANKL. Osteoclasts were visualized by staining for 
+tartrate-resistant acid phosphatase (TRAP), and their functions were evaluated 
+by bone resorption assay. Transforming growth factor beta (TGFbeta) and 
+osteoprotegerin (OPG) levels were measured by enzyme-linked immunosorbent assay. 
+Expression of pSmad2 and Smad7 was analyzed by Western blotting.
+RESULTS: RANKL-mediated osteoclast formation was observed in cocultures of RAW 
+cells with RA synovial cells, but not with OA synovial cells. This formation was 
+inhibited by TGFbeta receptor kinase inhibitor or neutralizing TGFbeta antibody. 
+Human CD14+ monocytes showed the same results with RAW 264.7, and bone 
+resorption activity was consistent with osteoclast formation. RA synovial 
+fibroblasts produced TGFbeta in response to cell-cell contact with RAW cells in 
+a RANKL-dependent manner. TGFbeta reduced OPG production by RA synovial 
+fibroblasts, but dose-dependently increased OPG secretion in OA synovial 
+fibroblasts. TGFbeta decreased the expression of pSmad2 and increased the 
+expression of Smad7 in RA synovial fibroblasts, but not OA synovial fibroblasts.
+CONCLUSION: Suppression of OPG production by down-regulation of TGFbeta/Smad2 
+signaling may contribute to RANKL-mediated osteoclastogenesis from RA synovial 
+fibroblasts.

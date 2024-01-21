@@ -1,0 +1,24 @@
+NKT cells emerge as important regulatory cells in autoimmune responses. 
+Abnormalities in the numbers and functions of natural killer T (NKT) cells have 
+been observed in patients with autoimmune diseases as well as in a variety of 
+mouse strains that are genetically predisposed for development of autoimmune 
+diseases. Unlike conventional T cells that recognize peptides in association 
+with major histocompatibility complex (MHC), NKT cells recognize glycolipid 
+antigens presented by the non-polymorphic MHC class I-like protein, CD1d. 
+Recently, we and other groups have demonstrated that administration of 
+glycolipid ligands such as alpha-galactosylceramide (alpha-GC ) or its 
+sphingosine truncated derivative, OCH suppressed autoimmune diseases such as 
+experimental autoimmune encephalomyelitis (EAE), diabetes in NOD mice and 
+collagen-induced arthritis (CIA) by inducing T helper (Th) 2 bias of autoimmune 
+T cells. OCH is a unique ligand to stimulate NKT cells to selectively produce 
+Th2 cytokines whereas alpha-GC induces both interleukin (IL)-4 and interferon 
+(IFN)-gamma, and is more beneficial for treatment of a wide variety of 
+Th1-mediated autoimmune diseases. The lack of polymorphism of CD1d and 
+cross-reactive responses of mouse and human NKT cells to the same ligand 
+indicates that targeting NKT cells with this ligand may be an attractive means 
+for intervening in human autoimmune diseases such as type I diabetes (T1D), 
+multiple sclerosis (MS) and rheumatoid arthritis (RA). The present review will 
+focus on the potential roles of NKT cells in the pathogenesis of autoimmune 
+diseases and the recent advances in glycolipid therapy for autoimmune disease 
+models. The molecular mechanism of OCH-induced Th2-selective cytokine secretion 
+will also be discussed.

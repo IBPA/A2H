@@ -1,0 +1,21 @@
+Clostridium difficile infection (CDI) is the leading cause of hospital-acquired 
+infectious diarrhea, with significant morbidity, mortality, and associated 
+health care costs. The major risk factor for CDI is antimicrobial therapy, which 
+disrupts the normal gut microbiota and allows C. difficile to flourish. 
+Treatment of CDI with antimicrobials is generally effective in the short term, 
+but recurrent infections are frequent and problematic, indicating that improved 
+treatment options are necessary. Symptoms of disease are largely due to two 
+homologous toxins, TcdA and TcdB, which are glucosyltransferases that inhibit 
+host Rho GTPases. As the normal gut microbiota is an important component of 
+resistance to CDI, our goal was to develop an effective nonantimicrobial 
+therapy. Here, we report a highly potent small-molecule inhibitor (VB-82252) of 
+TcdA and TcdB. This compound inhibits the UDP-glucose hydrolysis activity of 
+TcdB and protects cells from intoxication after challenge with either toxin. 
+Oral dosing of the inhibitor prevented inflammation in a murine intrarectal 
+toxin challenge model. In a murine model of recurrent CDI, the inhibitor reduced 
+weight loss and gut inflammation during acute disease and did not cause the 
+recurrent disease that was observed with vancomycin treatment. Lastly, the 
+inhibitor demonstrated efficacy similar to that of vancomycin in a hamster 
+disease model. Overall, these results demonstrate that small-molecule inhibition 
+of C. difficile toxin UDP-glucose hydrolysis activity is a promising 
+nonantimicrobial approach to the treatment of CDI.

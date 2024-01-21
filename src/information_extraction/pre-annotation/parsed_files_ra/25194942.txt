@@ -1,0 +1,27 @@
+BACKGROUND: Angiogenesis is an important pathophysiological process of chronic 
+inflammation, especially in inflammatory arthritis. Quantitative measurement of 
+changes in vascularization may improve the diagnosis and monitoring of 
+arthritis. The aim of this work is the development of a 3D imaging and analysis 
+framework for quantification of vascularization in experimental arthritis.
+METHODS: High-resolution micro-computed tomography (μCT) was used to scan knee 
+joints of arthritic human tumor necrosis factor transgenic (hTNFtg) mice and 
+non-arthritic wild-type controls previously perfused with lead-containing 
+contrast agent Microfil MV-122. Vessel segmentation was performed by combination 
+of intensity-based (local adaptive thresholding) and form-based (multi-scale 
+method) segmentation techniques. Four anatomically defined concentric spherical 
+shells centered in the knee joint were used as analysis volumes of interest. 
+Vessel density, density distribution as well as vessel thickness, surface, 
+spacing and number were measured. Simulated digital vessel tree models were used 
+for validation of the algorithms.
+RESULTS: High-resolution μCT allows the quantitative assessment of the vascular 
+tree in the knee joint during arthritis. Segmentation and analysis were highly 
+automated but occasionally required manual corrections of the vessel 
+segmentation close to the bone surfaces. Vascularization was significantly 
+increased in arthritic hTNFtg mice compared to wild type controls. Precision 
+errors for the morphologic parameters were smaller than 3% and 6% for intra- and 
+interoperator analysis, respectively. Accuracy errors for vessel thickness were 
+around 20% for vessels larger than twice the resolution of the scanner.
+CONCLUSIONS: Arthritis-induced changes of the vascular tree, including detailed 
+and quantitative description of the number of vessel branches, length of vessel 
+segments and the bifurcation angle, can be detected by contrast-enhanced 
+high-resolution μCT.

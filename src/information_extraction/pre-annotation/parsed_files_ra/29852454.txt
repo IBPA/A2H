@@ -1,0 +1,22 @@
+Rheumatoid arthritis (RA) is a chronic autoimmune inflammatory disease, and 
+excessive T lymphocyte activation plays a critical role in the development of 
+inflammation. CD147 is an antigen related to T cell activation, CD147 blockade 
+exerts beneficial effects on RA. FK506, also known as tacrolimus, exerts strong 
+immunosuppressive effects by inhibiting T cell activation. In this study, RL73 
+(an anti-mouse CD147 functional-grade purified antibody) and FK506 were 
+co-administered to mice with collagen-induced arthritis (CIA). As expected, the 
+combination of these two drugs produced superior therapeutic effects than either 
+drug alone and enabled the administration of each drug at a lower dose. 
+Moreover, joint damage and destruction were significantly improved in mice 
+injected with both FK506 and RL73 compared with mice injected with either agent 
+alone. These effects might have been observed because the proportions of CD4 + T 
+and CD8 + T cells in the mouse spleen of the combination regimen were clearly 
+decreased compared with each monotherapy. In addition, the proportions of Th2 
+subsets in the mouse spleen and peripheral blood were clearly increased, and the 
+serum levels of the cytokines interleukin 4 (IL-4) and IL-10 were markedly 
+increased in mice treated with the combination therapy compared with the other 
+groups of mice. The splenic total number of T lymphocytes also showed that the 
+inhibition of T lymphocytes was the most obvious in the combined treatment 
+group. Based on the results from the present study, combining FK506 and the 
+anti-CD147 mAb might be a new practical therapeutic option for the treatment of 
+RA.

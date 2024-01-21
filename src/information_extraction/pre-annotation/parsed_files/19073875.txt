@@ -1,0 +1,26 @@
+Rapid detection of toxin-producing strains of Clostridium difficile is essential 
+for optimal management of patients with C. difficile infection. The BD GeneOhm 
+(San Diego, CA) Cdiff assay, a real-time PCR assay that amplifies tcdB, was 
+compared to a cell culture neutralization assay (Wampole C. difficile Toxin B 
+[TOX-B] test; TechLab, Blacksburg, VA) and to toxigenic culture. Using liquid (n 
+= 273) and soft (n = 131) stool specimens from 377 symptomatic patients, all 
+testing was performed on the same day by independent laboratory staff according 
+to the manufacturers' protocols. Toxigenic bacterial culture was performed as 
+follows. A 0.5-ml aliquot of stool was heated to 80 degrees C for 10 min, 
+followed by inoculation onto modified cycloserine cefoxitin fructose agar with 
+and without horse blood (Remel, Lenexa, KS) and into prereduced chopped-meat 
+broth. Of the 404 stool specimens tested, 340 were negative and 40 were positive 
+(10.0% prevalence) both by PCR for tcdB and by cytotoxin production. The overall 
+agreement between the BD GeneOhm Cdiff assay and the TOX-B test was 94.8% 
+(380/401). When the TOX-B test was used as the reference method, the initial 
+sensitivity, specificity, and positive and negative predictive values of the BD 
+GeneOhm Cdiff assay were 90.9% (40/44), 95.2% (340/357), 70.2% (40/57), and 
+98.8% (340/344), respectively. When toxigenic culture was used as the "gold 
+standard," the sensitivity, specificity, and positive and negative predictive 
+values of the BD GeneOhm Cdiff assay were 83.6%, 98.2%, 89.5%, and 97.1%, 
+respectively, and those of the TOX-B test were 67.2%, 99.1%, 93.2%, and 94.4%, 
+respectively. PCRs for three samples were inhibited upon initial testing; one 
+sample was resolved upon retesting. One sample produced nonspecific cytotoxin 
+results. The BD GeneOhm Cdiff assay performed well compared to a standard cell 
+culture neutralization assay and to toxigenic culture for the detection of 
+toxigenic C. difficile directly from fecal specimens.

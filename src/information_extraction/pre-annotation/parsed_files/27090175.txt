@@ -1,0 +1,24 @@
+The use of oral vancomycin or metronidazole for treatment of Clostridium 
+difficile infection (CDI) may promote colonization by health care-associated 
+pathogens due to disruption of the intestinal microbiota. Because the 
+macrocyclic antibiotic fidaxomicin causes less alteration of the intestinal 
+microbiota than vancomycin, we hypothesized that it would not lead to a loss of 
+colonization resistance to vancomycin-resistant enterococci (VRE) and 
+extended-spectrum-β-lactamase-producing Klebsiella pneumoniae (ESBL-Kp). Mice (8 
+per group) received orogastric saline, vancomycin, or fidaxomicin daily for 5 
+days at doses resulting in stool concentrations in mice similar to those 
+measured in humans. The mice were challenged with 10(5) CFU of orogastric VRE or 
+ESBL-Kp on day 2 of treatment and concentrations of the pathogens in stool were 
+monitored. The impact of drug exposure on the microbiome was measured by 
+cultures, real-time PCR for selected anaerobic bacteria, and deep sequencing. In 
+comparison to saline controls, oral vancomycin promoted establishment of 
+high-density colonization by VRE and ESBL-Kp in stool (8 to 10 log10 CFU/g; P < 
+0.001), whereas fidaxomicin did not (<4 log10 CFU; P > 0.5). Vancomycin 
+treatment resulted in significant reductions in enterococci, Bacteroides spp., 
+and Clostridium leptum, whereas the population of aerobic and facultative 
+Gram-negative bacilli increased; deep-sequencing analysis demonstrated 
+suppression of Firmicutes and expansion of Proteobacteria during vancomycin 
+treatment. Fidaxomicin did not cause significant alteration of the microbiota. 
+In summary, in contrast to vancomycin, fidaxomicin treatment caused minimal 
+disruption of the intestinal microbiota and did not render the microbiota 
+susceptible to VRE and ESBL-Kp colonization.

@@ -1,0 +1,25 @@
+BACKGROUND: Clostridium difficile infection (CDI) causes diarrhea and colitis. 
+We aimed to find a common pathogenic pathway in CDI among humans and mice by 
+comparing toxin-mediated effects in human and mouse colonic tissues.
+METHOD: Using multiplex enzyme-linked immunosorbent assay, we determined the 
+cytokine secretion of toxin A- and B-treated human and mouse colonic explants.
+RESULTS: Toxin A and toxin B exposure to fresh human and mouse colonic explants 
+caused different patterns of cytokine secretion. Toxin A induced macrophage 
+inflammatory protein (MIP) 1α secretion in both human and mouse explants. Toxin 
+A reduced the expression of chloride anion exchanger SLC26A3 expression in mouse 
+colonic explants and human colonic epithelial cells. Patients with CDI had 
+increased colonic MIP-1 α expression and reduced colonic SLC26A3 (solute carrier 
+family 26, member 3) compared with controls. Anti-MIP-1 α neutralizing antibody 
+prevented death, ameliorated colonic injury, reduced colonic interleukin 1β 
+(IL-1β) messenger RNA expression, and restored colonic SLC26a3 expression in C. 
+difficile-infected mice. The anti-MIP-1 α neutralizing antibody prevented CDI 
+recurrence. SLC26a3 inhibition augmented colonic IL-1 β messenger RNA expression 
+and abolished the protective effect of anti-MIP-1 α neutralizing antibody in 
+mice with CDI.
+CONCLUSION: MIP-1 α is a common toxin A-dependent chemokine in human and mouse 
+colon. MIP-1 α mediates detrimental effects by reducing SLC26a3 and enhancing 
+IL-1 β expression in the colon.
+
+© The Author(s) 2019. Published by Oxford University Press for the Infectious 
+Diseases Society of America. All rights reserved. For permissions, e-mail: 
+journals.permissions@oup.com.

@@ -1,0 +1,16 @@
+Tofacitinib, an oral Janus kinase (JAK) inhibitor for treatment of rheumatoid 
+arthritis, targets JAK1, JAK3, and to a lesser extent JAK2 and TYK2. JAK1/3 
+inhibition impairs gamma common chain cytokine receptor signaling, important in 
+lymphocyte development, homeostasis and function. Adult and juvenile cynomolgus 
+monkey and rat studies were conducted and the impact of tofacitinib on immune 
+parameters (lymphoid tissues and lymphocyte subsets) and function (T-dependent 
+antibody response (TDAR), mitogen-induced T cell proliferation) assessed. 
+Tofacitinib administration decreased circulating T cells and NK cells in 
+juvenile and adult animals of both species. B cell decreases were observed only 
+in rats. These changes and decreased lymphoid tissue cellularity are consistent 
+with the expected pharmacology of tofacitinib. No differences were observed 
+between juvenile and adult animals, either in terms of doses at which effects 
+were observed or differential effects on immune endpoints. Lymphomas were 
+observed in three adult monkeys. Tofacitinib impaired the primary TDAR in 
+juvenile monkeys, although a recall response was generated. Complete or partial 
+reversal of the effects on the immune system was observed.

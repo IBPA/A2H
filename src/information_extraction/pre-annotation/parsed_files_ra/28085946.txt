@@ -1,0 +1,21 @@
+An abnormal increase in osteoclast differentiation and activation results in 
+various bone-resorptive diseases, including periodontitis, rheumatoid arthritis, 
+and osteoporosis. Chemical compounds containing pyrimidine ring have been shown 
+to regulate a variety of biological processes. Therefore, in order to identify 
+an antiresorptive agent, we synthesized a series of pyrimidine ring-containing 
+chemical compounds, and found that OCLI-023 suppressed the differentiation and 
+activation of osteoclasts in vitro. OCLI-023 directly inhibited receptor 
+activator of nuclear factor-κB ligand (RANKL)-induced differentiation of bone 
+marrow macrophages into osteoclasts, without a cytotoxic response. OCLI-023 also 
+downregulated the RANKL-induced mRNA expression of osteoclast markers as well as 
+inhibited the formation of actin rings and resorption pits. OCLI-023 attenuated 
+the RANKL-induced activation of c-Jun N-terminal kinase and nuclear factor 
+kappa-light-chain-enhancer of activated B cell signaling pathways. In a mouse 
+model of periodontitis, ligature induced an increase of distance between 
+cementoenamel junction (CEJ) and alveolar bone crest (ABC) in the second molar, 
+and OCLI-023 significantly reduced it. Histological analysis showed 
+ligature-induced increase of osteoclast numbers was also significantly reduced 
+by OCLI-023. These data demonstrated the inhibitory effect of OCLI-023 on 
+osteoclast differentiation and activity of osteoclasts in vitro, as well as on 
+ligature-induced bone loss in vivo, and OCLI-023 can be proposed as a novel 
+anti-resorptive compound.

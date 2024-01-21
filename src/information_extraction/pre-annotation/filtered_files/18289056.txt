@@ -1,0 +1,14 @@
+The role of matrix metalloproteinases in disease has been investigated over the 
+last two decades. A focus on this family of proteases is particularly emphasized 
+in two major arthritides in humans, osteoarthritis and rheumatoid arthritis. 
+Early work described the presence of multiple MMP family members in the joint of 
+the disease state and recent advances in the development of new knockout mice 
+and disease models have allowed investigators to directly test the role of the 
+MMP proteases in arthritis. MMP-13 is expressed by chondrocytes and synovial 
+cells in human OA and RA and is thought to play a critical role in cartilage 
+destruction. The recent development of an MMP-13 knockout mouse has documented 
+the important role for this enzyme in cartilage formation and further studies 
+under disease conditions promise to reveal the function of this enzyme in 
+disease pathology. This review describes a body of research that supports the 
+development of novel selective MMP-13 inhibitors with the hope of developing 
+these compounds in clinical trials for the treatment of arthritis.

@@ -1,0 +1,21 @@
+Na(+)/H(+) exchanger 3 (NHE3) plays an important role in neutral Na(+) transport 
+in mammalian epithelial cells. The Rho family of small GTPases and the PDZ 
+(PSD-95/discs large/ZO-1) domain-based adaptor Shank2 are known to regulate the 
+membrane expression and activity of NHE3. In this study we examined the role of 
+betaPix, a guanine nucleotide exchange factor for the Rho GTPase and a strong 
+binding partner to Shank2, in NHE3 regulation using integrated molecular and 
+physiological approaches. Immunoprecipitation and pulldown assays revealed that 
+NHE3, Shank2, and betaPix form a macromolecular complex when expressed 
+heterologously in mammalian cells as well as endogenously in rat colon, kidney, 
+and pancreas. In addition, these proteins co-segregated at the apical surface of 
+rat colonic epithelial cells, as detected by immunofluorescence staining. When 
+expressed in PS120/NHE3 cells, betaPix increased membrane expression and basal 
+activity of NHE3. Interestingly, the effects of betaPix on NHE3 were abolished 
+by cotransfection with dominant-negative Shank2 mutants and by treatment with 
+Clostridium difficile toxin B, a Rho GTPase inhibitor, indicating that Shank2 
+and Rho GTPases are involved in betaPix-mediated NHE3 regulation. Knockdown of 
+endogenous betaPix by RNA interference decreased Shank2-induced increase of NHE3 
+membrane expression in HEK 293T cells. These results indicate that betaPix 
+up-regulates NHE3 membrane expression and activity by Shank2-mediated 
+protein-protein interaction and by activating Rho GTPases in the apical regions 
+of epithelial cells.

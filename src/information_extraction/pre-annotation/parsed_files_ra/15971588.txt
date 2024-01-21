@@ -1,0 +1,34 @@
+Human tumor necrosis factor alpha (hTNF-alpha) is one of the most important 
+inflammatory cytokines that acts as a mediator in inflammatory and immune 
+response and plays a key role in host defense against infection. The over 
+expression of hTNF-alpha is associated with serious consequences, such as shock, 
+hypotension, thrombus, septicemia and even death. It has been implicated in many 
+autoimmune and inflammatory diseases, such as rheumatoid arthritis, Crohn's 
+disease, chronic heart failure and septic shock. Inhibiting the bio-activity of 
+hTNF-alpha is one of the strategy for the treatment of these diseases. Compared 
+with traditional recombinant protein drugs, small molecule drugs have many 
+advantages, such as high affinity, low immunogenecity and low cost. Systematic 
+evolution of ligands by exponential enrichment (SELEX) is a powerful method for 
+the selection of oligonucleotides that bind with high affinity and specificity 
+to target proteins. Such oligonucleotides are called aptamers, and are potential 
+therapeutics for blocking the activity of pathologically relevant proteins. To 
+obtain oligonucleotide aptamers specifically binding to TNF, a 40nt random DNA 
+combinatorial library flanked by 31nt fixed sequences was chemically 
+synthesized. The random library was amplified with PCR and subjected to 
+selection by SELEX protocol against hTNFalpha. After incubation of the library 
+with hTNFalpha, the mixture was blotted onto Immobilon-NC transfer membrane. The 
+no-specific binding was washed away and the hTNFa binding aptamers were eluted 
+and detached from the target protein. The eluted oligo nucleotides were 
+amplified with PCR and served as the DNA library for the next round selection. 
+After 12 rounds of such selection, the selected aptamers were cloned to pGEM-T 
+vector. Positive clones were identified by restriction enzyme digestion and DNA 
+sequencing. Oligo DNA were synthesized according to the sequence data and tested 
+for their activities. Binding activity of the aptamers to hTNFalpha were 
+detected by ELISA and dot blot with biotin-streptavidin-horseradish peroxidase 
+system. Mouse L929 cells were used to test the anti-hTNFa activity of the DNA 
+aptamers. The aptamers were incubated with hTNFalpha and added to the L929 
+cells. The results were read under microscope and with MTT staining. It was 
+shown that these DNA aptamers bound to hTNFalpha with high affinity, and can 
+inhibit the cytotoxicity of hTNFalpha on cell culture. The affinity of these 
+aptamers are different and may related to their structure. These ssDNA aptamers 
+are potential for the treatment and diagnosis of hTNFalpha related diseases.

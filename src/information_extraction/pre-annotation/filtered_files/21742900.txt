@@ -1,0 +1,23 @@
+(R)-N-(3-(6-(4-(1,4-dimethyl-3-oxopiperazin-2-yl)phenylamino)-4-methyl-5-oxo-4,5-dihydropyrazin-2-yl)-2-methylphenyl)-4,5,6,7-tetrahydrobenzo[b]thiophene-2-carboxamide 
+(GDC-0834) is a potent and selective inhibitor of Bruton's tyrosine kinase 
+(BTK), investigated as a potential treatment for rheumatoid arthritis. In vitro 
+metabolite identification studies in hepatocytes revealed predominant formation 
+of an inactive metabolite (M1) via amide hydrolysis in human. The formation of 
+M1 appeared to be NADPH-independent in human liver microsomes. M1 was found in 
+only minor to moderate quantities in plasma from preclinical species dosed with 
+GDC-0834. Human clearance predictions using various methodologies resulted in 
+estimates ranging from low to high. In addition, GDC-0834 exhibited low 
+clearance in PXB chimeric mice with humanized liver. Uncertainty in human 
+pharmacokinetic prediction and high interest in a BTK inhibitor for clinical 
+evaluation prompted an investigational new drug strategy, in which GDC-0834 was 
+rapidly advanced to a single-dose human clinical trial. GDC-0834 plasma 
+concentrations in humans were below the limit of quantitation (<1 ng/ml) in most 
+samples from the cohorts dosed orally at 35 and 105 mg. In contrast, substantial 
+plasma concentrations of M1 were observed. In human plasma and urine, only M1 
+and its sequential metabolites were identified. The formation kinetics of M1 was 
+evaluated in rat, dog, monkey, and human liver microsomes in the absence of 
+NADPH. The maximum rate of M1 formation (V(max)) was substantially higher in 
+human compared with that in other species. In contrast, the Michaelis-Menten 
+constant (K(m)) was comparable among species. Intrinsic clearance (V(max)/K(m)) 
+of GDC-0834 from M1 formation in human was 23- to 169-fold higher than observed 
+in rat, dog, and monkey.

@@ -1,0 +1,23 @@
+The ideal therapeutic drug for rheumatoid arthritis (RA) should not only inhibit 
+inflammation, but also prevent articular joint damage and particularly inhibit 
+osteoclastogenesis. Betulinic acid (BA) is a natural pentacyclic triterpene that 
+has displayed moderate anti-inflammatory and anti-osteoclastogenesis activities 
+in various experimental systems, suggesting that BA or its derivatives could 
+have an inhibitory effect on RA. In this study, we screened BA derivatives and 
+found a heterocyclic ring-fused BA derivative, SH479, which had greater 
+inhibitory effect than BA on Th17 differentiation. Moreover, we investigated the 
+immune regulatory activity and potential therapeutic effects of SH479 in an 
+experimental model of rheumatoid arthritis, the collagen-induced arthritis (CIA) 
+mouse model. SH479 significantly inhibited Th1 and Th17 polarization, 
+antigen-specific T cell proliferation and splenic lymphocyte-induced 
+osteoclastogenesis. Furthermore, it diminished arthritis scores as well as bone 
+destruction and cartilage depletion in the CIA mouse model. The protective 
+effect of SH479 was accompanied by decreased levels of pro-inflammatory 
+cytokines IL-17 and IFN-γ, together with enhanced anti-inflammatory cytokine 
+expression including IL-10 and IL-4, as well as elevated CD4+ Foxp3+ cell 
+number. At the molecular level, our results indicated that SH479 alleviated CIA 
+through regulation of CD4+ T cell subtypes by JAK-STAT pathways. In conclusion, 
+this study demonstrates that SH479 has therapeutic potential for rheumatoid 
+arthritis through an anti-inflammatory effect by shifting a pathogenic Th17/Th1 
+response to a Th2/Treg phenotype, and also through an additional articular bone 
+protection effect.

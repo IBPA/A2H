@@ -1,0 +1,19 @@
+We developed a novel trimeric sTNFRII fusion protein, named sTNFRII-gAD, which 
+exhibited a higher in vitro antagonistic efficacy for TNFα in comparison with 
+sTNFRII-Fc. This study aimed to investigate the arthritic protection of 
+sTNFRII-gAD in a rat collagen-induced arthritis (CIA). The rats were injected 
+intradermally with collagen type II at days 0 and 7. Three days after the second 
+injection (day 10), the rats were intraperitoneally given sTNFRII-gAD or 
+sTNFRII-Fc, or PBS. Effects of treatments were examined with respect of CIA 
+incidence, severity and pathological changes. Serum TNFα, IL-17A and regulatory 
+T cell (Treg) in periphery were determined at days 10 and 16, respectively. Our 
+results showed that sTNFRIIgAD significantly reduced CIA incidence and severity 
+(p < 0.05); meanwhile it led to a dramatic improvement in cartilage and bone 
+damage. Moreover, the increase in serum anti-CII and IL-17A, and the reduction 
+in Treg population were inhibited (p < 0.05) by sTNFRII-gAD or sTNFRII-Fc. Serum 
+TNFα was found to be accumulated in the groups treated with sTNFRII-gAD or 
+sTNFRII-Fc compared with the group treated with PBS (p < 0.05). It is noteworthy 
+that sTNFRII-gAD displayed a better efficacy than sTNFRII-Fc in CIA incidence, 
+pathological changes in cartilage and the elevation of anti-CII antibody, 
+indicating that sTNFRII-gAD is potentially a more efficacious anti-TNFα agent 
+for rheumatoid arthritis.

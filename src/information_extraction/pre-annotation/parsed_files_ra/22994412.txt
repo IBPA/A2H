@@ -1,0 +1,24 @@
+CONTEXT: Clematichinenoside (AR-6) is a triterpene saponin from an 
+anti-arthritic herbal formula Wei-Ling-Xian in Chinese, which is an herbal 
+medicine derived from the dried root and rhizome of Clematis chinensis Osbeck, 
+C. hexapetala Pall., or C. manshurica Rupr. (Ranunculaceae).
+OBJECTIVE: To investigate the modulating effect and explored the potential 
+mechanism of AR-6 in rheumatoid arthritis (RA), using collagen-induced arthritis 
+(CIA) in a rat model.
+MATERIALS AND METHODS: CIA was evaluated by measuring body weight, paw swelling 
+and organ index. Expression of TNF-α, PI3K and p-Akt in synovium tissue was 
+measured by immunohistochemistry. Furthermore, expression of TNF-α mRNA, PI3K 
+mRNA and p-Akt mRNA was measured with RT-PCR.
+RESULTS: The intragastric administration of AR-6 (32, 16 and 8 mg/kg), 
+especially the high dose level of 32 mg/kg, significantly suppressed the 
+swelling of hind paws of CIA rats (p < 0.01) and inhibited their body weight 
+loss (p < 0.01). Based on histopathological observation, all AR-6 groups showed 
+great amelioration compared with model group. Moreover, AR-6 significantly 
+reduced the production of TNF-α, PI3K and p-Akt expression by 
+immunohistochemistry (p < 0.01), and decreased TNF-α mRNA, PI3K mRNA and p-Akt 
+mRNA in CIA rat synovium (p < 0.01).
+DISCUSSION: Our study indicates the mechanism of AR-6 is associated with 
+PI3K/Akt signaling pathway and TNF-α.
+CONCLUSIONS: Such characteristics relating to AR-6 curing chronic inflammation 
+of CIA, may be effectively applied to the therapeutic potential in patients with 
+inactive RA.

@@ -1,0 +1,21 @@
+Collagen-induced arthritis (CIA) is a useful model for dissecting the genetic 
+patterns underlying susceptibility to rheumatoid arthritis (RA) and related 
+chronic/inflammatory autoimmune diseases. CIA exhibits three phenotypes 
+characteristic of autoimmune disease pathogenesis: abnormal levels of immune 
+reactivity to self antigens; chronic inflammation of target organs expressing 
+that specific autoantigen; activation and direct participation of invading 
+mononuclear cells and resident tissue fibroblasts in organ damage. Over 25 
+different quantitative trait loci (QTL) regulating arthritis severity and 
+autoantibody in rats with CIA are mapped. QTL-congenic strains show that certain 
+CIA-QTLs can modulate arthritis independently These monogenic models are proving 
+to be highly informative for fine mapping and function studies, revealing gender 
+effects and evidence of gene clusters. Recent genome scans of RA populations 
+identified RA-susceptibility loci in chromosome regions homologous to rat 
+chromosomal segments housing CIA-QTLs. Also, CIA-QTLs frequently co-localize 
+with susceptibility QTLs mapped in other rat arthritis models induced with 
+non-immunogenic adjuvant oils and/or in rat autoimmune models of multiple 
+sclerosis and diabetes. Common autoimmunity genes and inflammation genes 
+important to several human diseases are likely being detected in the various rat 
+disease models. Continued dissection of the genetic underpinnings of rat 
+arthritis models should provide candidate genes for investigation in human 
+patients and lead to a clearer understanding of the complex genetics of RA.

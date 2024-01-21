@@ -1,0 +1,25 @@
+OBJECTIVE: K/BxN-transgenic mice are a model of autoimmune arthritis, similar to 
+rheumatoid arthritis. This study was undertaken to determine whether inhibition 
+of lymphopenia-provoked homeostatic expansion can prevent spontaneous 
+development of disease in the K/BxN model.
+METHODS: To inhibit homeostatic expansion of autoreactive T cells, K/BxN mice 
+with disease in the preclinical stage were adoptively transferred with CD4+ T 
+cells purified from nontransgenic BxN or Thy1.1+ BxN mice. To observe the 
+profile of proliferation of CD4+ T cells derived from the hosts, 
+carboxyfluorescein diacetate succinimidyl ester-labeled autologous CD4+ T cells 
+were cotransferred to K/BxN mice together with BxN CD4+ T cells. Disease onset 
+and progression were scored, and the dynamics and phenotypes of recipient CD4+ T 
+cells were determined by flow cytometry, before and after cell infusion.
+RESULTS: During the preclinical phase of disease, K/BxN mice exhibited CD4+ T 
+lymphopenia, which was followed by a compensatory expansion of these cells 
+during the early clinical phase. The majority of CD4+ T cells acquired a memory 
+phenotype (CD44(high),CD62L(low),CD25-), which is a hallmark of homeostatically 
+expanding cells. Importantly, K/BxN mice subjected to syngeneic T cell transfer 
+did not develop symptoms of arthritis and also possessed fewer transgenic T cell 
+receptor-encoded Vbeta6+,CD4+ T cells. This effect was associated with decreased 
+proliferation of recipient-derived CD4+ T cells but not with the function of 
+CD25+ T regulatory cells present in donor cells.
+CONCLUSION: These results provide the first evidence that lymphopenia-associated 
+homeostatic proliferation of autoreactive CD4+ T cells potentiates autoimmune 
+arthritis, and that inhibition of this process protects mice from the 
+development of this pathologic condition.

@@ -1,0 +1,18 @@
+Class II major histocompatibility complex (MHC) proteins are involved in 
+initiation of immune responses to foreign antigens via presentation of peptides 
+to receptors of CD4(+) T-cells. An analogous presentation of self-peptides may 
+lead to autoimmune diseases, such as rheumatoid arthritis (RA). The glycopeptide 
+fragment CII259-273, derived from type II collagen, is presented by A(q) MHCII 
+molecules in the mouse and has a key role in development of collagen induced 
+arthritis (CIA), a validated model for RA. We have introduced hydroxyethylene 
+amide bond isosteres at the Ala(261)-Gly(262) position of CII259-273. Biological 
+evaluation showed that A(q) binding and T cell recognition were dramatically 
+reduced for the modified glycopeptides, although static models predicted similar 
+binding modes as the native type II collagen fragment. Molecular dynamics (MD) 
+simulations demonstrated that introduction of the hydroxyethylene isosteres 
+disturbed the entire hydrogen bond network between the glycopeptides and A(q). 
+As a consequence the hydroxyethylene isosteric glycopeptides were prone to 
+dissociation from A(q) and unfolding of the β1-helix. Thus, the isostere induced 
+adjustment of the hydrogen bond network altered the structure and dynamics of 
+A(q)/glycopeptide complexes leading to the loss of A(q) affinity and subsequent 
+T cell response.

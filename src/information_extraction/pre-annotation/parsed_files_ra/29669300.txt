@@ -1,0 +1,31 @@
+INTRODUCTION: Rheumatoid arthritis (RA) represents the most commonly occurring 
+inflammatory type of arthritis and is a major cause of disability. Reports have 
+placed emphasis on the potential of, granzyme B (GZMB) as a potentially valuable 
+prognostic marker in early RA, the mechanism of which still remains largely 
+unclear. Thus, the aim of the current study was to investigate the effects GZMB 
+gene silencing influences synovial tissue hyperplasia and articular cartilage 
+tissue injury of RA through the regulation of the MAPK signaling pathway.
+METHODS: Following the successful establishment of the collagen-induced animal 
+model of RA in rats, a five-grade scoring method was applied to evaluate the 
+swelling degree measurement of the rats for model identification. The various 
+rat responses to GZMB shRNA and U-46619 (activator of the MAPK signaling 
+pathway) were subsequently detected. The general status of rats was observed and 
+recorded, with their weight and ankle diameter kept accurate record of. ELISA 
+was employed to detect the levels of inflammatory cytokines, while RT-qPCR and 
+Western blotting techniques were applied to determine the expressions of GZMB 
+and pathway-related genes and proteins.
+RESULTS: GZMB gene silencing was observed to aid in the maintenance of rat 
+weight increases, while acting to reduce the degree of ankle swelling, while 
+hypertrophy of the synovial tissue and the injury of the articular cartilage 
+tissue were not obvious. GZMB gene silencing was shown to decrease inflammatory 
+cytokine levels, as well as decreased bcl-2, Cyclin D1, VEGF and bFGF while 
+increasing caspase 3. Notably, GZMB gene silencing suppressed the activation of 
+the MAPK signaling pathway by reducing the phosphorylation extent of ERK and 
+MEK.
+CONCLUSION: Taken together, the key findings of the present study ultimately 
+suggest that GZMB gene silencing acts to inhibit MAPK signaling pathway through 
+regulating the expressions of inflammatory factors, factors correlated with 
+apoptosis (bcl-2 and caspase), as well as factors associated with angiogenesis 
+(VEGF and bFGF), thus relieving synovial tissue hyperplasia and articular 
+cartilage tissue injury brought about by RA. The GZMB gene could well be a new 
+therapeutic target for RA treatment.

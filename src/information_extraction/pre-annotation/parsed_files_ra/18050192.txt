@@ -1,0 +1,24 @@
+OBJECTIVE: To compare the expression of galectin 9 (Gal-9) in synovial tissue 
+(ST) from rheumatoid arthritis (RA) patients and osteoarthritis (OA) patients 
+and to evaluate the effects of Gal-9 on fibroblast-like synoviocytes (FLS) in 
+these patients.
+METHODS: The expression of Gal-9 in ST and FLS was compared using 
+immunohistochemical techniques. Apoptotic cells in RA and OA ST samples were 
+detected by TUNEL assay. Apoptosis of FLS was analyzed by the sub-G(1) method in 
+vitro. The in vivo suppressive effects of Gal-9 on collagen-induced arthritis 
+(CIA) in a mouse model were also elucidated.
+RESULTS: The percentage of Gal-9-positive cells in ST samples and the amount of 
+Gal-9 in synovial fluid samples were significantly higher in patients with RA 
+than in patients with OA, suggesting the involvement of Gal-9 in the development 
+of RA. Compared with the 2 wild-type Gal-9 forms, stable Gal-9, a mutant protein 
+resistant to proteolysis, significantly induced apoptosis of FLS from RA 
+patients. In contrast, other galectins, such as Gal-1, Gal-3, and Gal-8, did not 
+induce apoptosis or suppress the proliferation of human RA FLS. Stable Gal-9 
+preferentially induced apoptosis and suppressed the proliferation of RA FLS in 
+vitro. It also induced apoptosis of cells in RA ST implanted into SCID mice in 
+vivo. In a mouse model of CIA, apoptotic cells were detected in the joints of 
+stable Gal-9-treated mice, but not phosphate buffered saline-treated mice, and 
+suppressed CIA characterized by pannus formation with inflammatory cell 
+infiltration and bone/cartilage destruction.
+CONCLUSION: Gal-9-induced apoptosis of hyperproliferative RA FLS may play a 
+critical role in the suppression of RA.

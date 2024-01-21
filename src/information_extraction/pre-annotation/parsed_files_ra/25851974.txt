@@ -1,0 +1,24 @@
+OBJECTIVE: To investigate the effect of Flavonoids extracted from Echinps 
+latifolius Tausch(FELT) on rheumatoid arthritis (RA) in rat model.
+METHOD: Fifty SD rats were randomly divided into model group, control group, and 
+low, medium, and high-dose FELT groups (n=10 in each group). Complete Freund's 
+adjuvant (0.1 mL) was used to induce RA in rats. FELT in doses of 50 mg/kg, 100 
+mg/kg, 150 mg/kg was given to rats in low, medium and high-dose FELT groups by 
+gavage, and same volume of PBS was given to rats in control group. The arthritis 
+score and the paw swelling score were measured to evaluate the therapeutic 
+effect of FELT. Real time qPCR was used to detect the mRNA expression of 
+fibronectin and MMP3 in synovial tissue and the mRNA expression of caspase 3, 
+Bcl-2 and Bcl-2 associated X protein (Bax) in fibroblast-like synoviocytes 
+(FLS).
+RESULTS: The arthritis score and the paw swelling score were significantly 
+decreased in three FELT groups compared to RA model rats (P <0.05). The relative 
+expression levels of FN and MMP3 mRNA in synovium of three FELT-treatment groups 
+were significantly lower than those in model group (1.80, 1.76 and 1.67 vs 2.53; 
+1.69, 1.46 and 1.45 vs 2.67, respectively, all P <0.05). The relative expression 
+levels of Bax and caspase 3 mRNA in FLSs of three FELT groups were higher than 
+those in model group (0.56, 0.58 and 0.60 vs 0.30; 0.54, 0.56 and 0.59 vs 0.29, 
+respectively, all P <0.05); while the relative expression levels of Bcl-2 mRNA 
+in FELT groups were lower than that in model group (2.20, 2.08 and 2.08 vs 4.04, 
+respectively, P <0.05).
+CONCLUSION: FELT may inhibit the synovium proliferation in RA model rats through 
+promoting the FLS apoptosis.

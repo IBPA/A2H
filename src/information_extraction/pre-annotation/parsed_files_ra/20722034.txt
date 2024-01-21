@@ -1,0 +1,27 @@
+OBJECTIVE: To explore the effect of bortezomib in splenocytes and 
+fibroblast-like synoviocytes (FLS) and its in vivo potency in a rat model of 
+adjuvant-induced arthritis (AIA), which resembles human rheumatoid arthritis 
+(RA).
+METHODS: AIA was induced with Freund's complete adjuvant. Splenocyte and FLS 
+proliferation and apoptosis were measured by radioactivity incorporation and 
+flow cytometry, respectively. The invasiveness of FLS from rats with AIA was 
+tested in a Transwell system. The pattern of cytokine secretion was evaluated by 
+cytometric bead array in splenocyte supernatants. Bortezomib was administered 
+prophylactically or therapeutically, and arthritis was assessed clinically and 
+histologically. Immunohistochemistry was performed for markers of inflammation 
+and angiogenesis in joints. Hematologic and biochemical parameters were tested 
+in peripheral blood (PB). Representative animals were examined by computed 
+tomography (CT) scanning before and after bortezomib administration. The 
+expression of Toll-like receptor 2 (TLR-2), TLR-3, and TLR-4 in PB and FLS was 
+measured by real-time polymerase chain reaction, and alterations in specific 
+cell populations in PB and spleen were determined by flow cytometry.
+RESULTS: In vitro, bortezomib exhibited significant inhibitory and proapoptotic 
+activity in splenocytes and FLS from rats with AIA, altered the inflammatory 
+cytokine pattern, and reduced the invasiveness of FLS from rats with AIA. In 
+vivo, bortezomib significantly ameliorated disease severity. Remission was 
+associated with improved histology and decreased expression of CD3, CD79a, 
+CD11b, cyclooxygenase 1, and factor VIII in target tissues as well as 
+down-regulation of TLR expression in PB and cultured FLS. CT scanning 
+demonstrated a bone healing effect after treatment.
+CONCLUSION: Our findings suggest that bortezomib affects AIA in a pleiotropic 
+manner and that this drug may be effective in RA.

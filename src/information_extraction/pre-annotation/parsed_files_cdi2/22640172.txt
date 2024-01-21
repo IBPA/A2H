@@ -1,0 +1,33 @@
+BACKGROUND: ATP is an extracellular signaling molecule with many ascribed 
+functions in sensory systems, including the olfactory epithelium. The 
+mechanism(s) by which ATP is released in the olfactory epithelium has not been 
+investigated. Quantitative luciferin-luciferase assays were used to monitor ATP 
+release, and confocal imaging of the fluorescent ATP marker quinacrine was used 
+to monitor ATP release via exocytosis in Swiss Webster mouse neonatal olfactory 
+epithelial slices.
+RESULTS: Under control conditions, constitutive release of ATP occurs via 
+exocytosis, hemichannels and ABC transporters and is inhibited by vesicular 
+fusion inhibitor Clostridium difficile toxin A and hemichannel and ABC 
+transporter inhibitor probenecid. Constitutive ATP release is negatively 
+regulated by the ATP breakdown product ADP through activation of P2Y receptors, 
+likely via the cAMP/PKA pathway. In vivo studies indicate that constitutive ATP 
+may play a role in neuronal homeostasis as inhibition of exocytosis inhibited 
+normal proliferation in the OE. ATP-evoked ATP release is also present in mouse 
+neonatal OE, triggered by several ionotropic P2X purinergic receptor agonists 
+(ATP, αβMeATP and Bz-ATP) and a G protein-coupled P2Y receptor agonist (UTP). 
+Calcium imaging of P2X2-transfected HEK293 "biosensor" cells confirmed the 
+presence of evoked ATP release. Following purinergic receptor stimulation, ATP 
+is released via calcium-dependent exocytosis, activated P2X1,7 receptors, 
+activated P2X7 receptors that form a complex with pannexin channels, or ABC 
+transporters. The ATP-evoked ATP release is inhibited by the purinergic receptor 
+inhibitor PPADS, Clostridium difficile toxin A and two inhibitors of pannexin 
+channels: probenecid and carbenoxolone.
+CONCLUSIONS: The constitutive release of ATP might be involved in normal cell 
+turn-over or modulation of odorant sensitivity in physiological conditions. 
+Given the growth-promoting effects of ATP, ATP-evoked ATP release following 
+injury could lead to progenitor cell proliferation, differentiation and 
+regeneration. Thus, understanding mechanisms of ATP release is of paramount 
+importance to improve our knowledge about tissue homeostasis and post-injury 
+neuroregeneration. It will lead to development of treatments to restore loss of 
+smell and, when transposed to the central nervous system, improve recovery 
+following central nervous system injury.

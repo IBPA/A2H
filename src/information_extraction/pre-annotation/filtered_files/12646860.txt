@@ -1,0 +1,29 @@
+Reactive oxygen species (ROS) have been implicated in the pathogenesis of 
+rheumatoid arthritis (RA), while antioxidant enzymes, such as extracellular 
+superoxide dismutase (EC-SOD) and catalase, block radical-induced events. The 
+present study tested if the ex vivo transfer of EC-SOD and catalase genes alone 
+or in combination in the knee joint of rats with monoarticular antigen-induced 
+arthritis (AIA) was anti-inflammatory, and examined the potential mechanisms 
+involved. Synoviocytes isolated from female Wistar rats were immortalized with a 
+retroviral vector SUV19.5. These cells were permanently transfected with an 
+EC-SOD expression plasmid (pEC-SODZeo) or a catalase expression plasmid 
+(pCatalaseZeo) to create cells overexpressing EC-SOD or catalase, as measured by 
+RT-PCR and Western blots. The cells were engrafted in knee joints of animals at 
+the time of the induction of AIA. Three gene transfer groups, an EC-SOD group, a 
+catalase group and a combined therapy group (EC-SOD and catalase) were included 
+in these experiments. Animals in the control group were engrafted with 
+synoviocytes transfected with the plasmid pZeoSV2 without an insert. Clinical 
+and histological assessments were performed, as well as tissue measurements of 
+SOD, catalase and gelatinase activities. Ex vivo gene transfer of EC-SOD and 
+catalase into rat knee joints produced about a six- to seven-fold increase in 
+EC-SOD activity and a two- to three-fold increase in catalase activity compared 
+with the control animals. Rats treated with cells overexpressing EC-SOD, 
+catalase or a combination of EC-SOD and catalase showed significant suppression 
+of knee joint swelling, decreased infiltration of inflammatory cells within the 
+synovial membrane and reduced gelatinase activity in knee joints, compared with 
+animals receiving cells transfected with the plasmid alone. No statistically 
+significant difference was found between the groups treated with cells 
+overexpressing EC-SOD, catalase or a combination of both. Gene therapy involving 
+the local intra-articular overexpression of two antioxidant enzymes, EC-SOD and 
+catalase, was anti-inflammatory in AIA. One mechanism appears to be the 
+suppression of gelatinase activities by both EC-SOD and catalase.

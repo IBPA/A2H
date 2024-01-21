@@ -1,0 +1,16 @@
+Current antibiotic treatments fail to eliminate the Clostridium difficile (C. 
+difficile) spores and induce dysbiosis and intestinal inflammation via 
+off-target effect, which causes refractory C. difficile infection raise an unmet 
+need for a spore-specific antimicrobial treatment. We developed a sporicidal and 
+antimicrobial vancomycin-loaded spore-targeting iron oxide nanoparticle 
+(van-IONP) that selectively binds to C. difficile spores. Cryo-electron 
+microscopy showed that vancomycin-loaded nanoparticles can target and completely 
+cover spore surfaces. They not only successfully delayed the germination of the 
+spores but also inhibited ∼50% of vegetative cell outgrowth after 48 h of 
+incubation. The van-IONPs also inhibited the interaction of spores with HT-29 
+intestinal mucosal cells in vitro. In a murine model of C. difficile infection, 
+the van-IONP significantly protected the mice from infected by C. difficile 
+infection, reducing intestinal inflammation, and facilitated superior mucosal 
+viability compared with equal doses of free vancomycin. This dual-function 
+targeted delivery therapy showed advantages over traditional therapeutics in 
+treating C. difficile infection.

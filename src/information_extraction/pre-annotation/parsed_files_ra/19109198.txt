@@ -1,0 +1,21 @@
+Although mast cells (MCs) often are abundant in the synovial tissues of patients 
+with rheumatoid arthritis, the contribution of MCs to joint inflammation and 
+cartilage loss remains poorly understood. MC-restricted tryptase/heparin 
+complexes have proinflammatory activity, and significant amounts of human 
+tryptase beta (hTryptase-beta) are present in rheumatoid arthritis synovial 
+fluid. Mouse MC protease-6 (mMCP-6) is the ortholog of hTryptase-beta, and this 
+serine protease is abundant in the synovium of arthritic mice. We now report 
+that C57BL/6 (B6) mice lacking their tryptase/heparin complexes have attenuated 
+arthritic responses, with mMCP-6 as the dominant tryptase responsible for 
+augmenting neutrophil infiltration in the K/BxN mouse serum-transfer arthritis 
+model. While inflammation in this experimental arthritis model was not dependent 
+on protease-activated receptor-2, it was dependent on the chemokine receptor 
+CXCR2. In support of the latter data, exposure of synovial fibroblasts to 
+hTryptase-beta/heparin or mMCP-6/heparin complexes resulted in expression of the 
+neutrophil chemotactic factors CXCL1/KC, CXCL5/LIX, and CXCL8/IL-8. Our 
+proteomics, histochemistry, and immunohistochemistry data also revealed 
+substantial loss of cartilage-derived aggrecan proteoglycans in the arthritic 
+joints of wild-type B6 mice but not mMCP-6-null B6 mice. These observations 
+demonstrate the functional contribution of MC-restricted tryptase/heparin 
+complexes in the K/BxN mouse arthritis model and connect our mouse findings with 
+rheumatoid arthritis pathophysiology.

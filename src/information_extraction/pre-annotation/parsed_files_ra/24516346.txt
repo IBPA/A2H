@@ -1,0 +1,22 @@
+BACKGROUND: Although chemokine stromal cell-derived factor 1 (SDF-1) and its 
+receptor CXCR4 induce degradation of articular cartilage in rheumatoid arthritis 
+(RA) and osteoarthritis (OA), the association between the SDF-1/CXCR4 pathway 
+and degradation of the cartilaginous endplate and nucleus pulposus has not been 
+thoroughly clarified. We investigated the expression of SDF-1 and CXCR4 in 
+intervertebral discs (IVDs).
+METHODS: SDF-1 and CXCR4 levels in human IVDs and the rat L5/6 motion segment 
+were quantified by enzyme-linked immunosorbent assay. SDF-1 staining was 
+quantified using a microscope and Image-Pro Plus software. Integrated optical 
+density (IOD) served as the measurement parameter. The number of CXCR4 
+immunoreactive cells was expressed as a percentage of the total number of cells.
+RESULTS: SDF-1 and CXCR4 were both expressed in IVDs, and the levels of SDF-1 
+and CXCR4 were both significantly higher in the degeneration group than in the 
+normal group of human (or rat) discs. Both nucleus pulposus cells and 
+cartilaginous endplate cells expressed the CXCR4 protein. Furthermore, a 
+positive correlation was observed between the SDF-1 IOD value and the percentage 
+of CXCR4-positive disc cells in the nucleus pulposus and cartilaginous endplate. 
+The SDF-1 IOD values were significantly higher in the outer annular fibrosus and 
+bone/endplate junction region than in the nucleus pulposus and cartilaginous 
+endplate in the rat specimens.
+CONCLUSIONS: Our findings suggest upregulated expression of SDF-1 and its 
+receptor CXCR4 in degenerated IVD.

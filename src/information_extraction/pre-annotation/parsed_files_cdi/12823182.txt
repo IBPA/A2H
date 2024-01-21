@@ -1,0 +1,23 @@
+AIM: Stress and Clostridium difficile toxin A increase epithelial permeability 
+in the small intestine via vagus and visceral afferents, in turn activating 
+mucosal mast cells. Bile acids also increase epithelial permeability but it is 
+not known if nerves or mast cells are involved in this effect in the small 
+intestine.
+METHOD: In jejunum of anesthetized rats, the effects of hexamethonium and 
+atropine on deoxycholic acid (DCA) induced fluid secretion and increase in 
+epithelial permeability was therefore studied by determining the appearance and 
+disappearance rates of 14C-mannitol and 51Cr-EDTA into and from a perfusion 
+system containing 4 or 8 mm DCA and expressed as clearance.
+RESULTS: DCA increased net fluid transport and appearance and to a less extent 
+disappearance rates of the probes. Hexamethonium but not atropine, chronic 
+denervation or the NO synthase inhibitor L-NNA did significantly decrease the 
+appearance rate and net fluid secretion. The levels of the mast cell protease II 
+(RMCP II) in perfusate and plasma were not increased by DCA. The clearance ratio 
+Cr-EDTA/mannitol indicates that the plasma clearance of the permeability probes 
+is partly secondary to net fluid transport only at higher DCA concentrations.
+CONCLUSION: We conclude that the DCA effect on epithelial permeability is to a 
+large part induced by intramural reflex(es) containing nicotinic receptors. The 
+results also suggest that mast cell degranulation and NO release are not 
+involved in the mechanism. This indicates that the nerve effect on intestinal 
+paracellular permeability is not mediated by the mechanisms described for stress 
+or Clostridium difficile toxin A.

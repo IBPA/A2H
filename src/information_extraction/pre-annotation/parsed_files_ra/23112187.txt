@@ -1,0 +1,20 @@
+Neutrophil recruitment into the joint is a hallmark of inflammatory arthritides, 
+including rheumatoid arthritis (RA). In a mouse model of autoantibody-induced 
+inflammatory arthritis, neutrophils infiltrate the joint via multiple 
+chemoattractant receptors, including the leukotriene B(4) (LTB(4)) receptor BLT1 
+and the chemokine receptors CCR1 and CXCR2. Once in the joint, neutrophils 
+perpetuate their own recruitment by releasing LTB(4) and IL-1β, presumably after 
+activation by immune complexes deposited on joint structures. Two pathways by 
+which immune complexes may activate neutrophils include complement fixation, 
+resulting in the generation of C5a, and direct engagement of Fcγ receptors 
+(FcγRs). Previous investigations showed that this model of autoantibody-induced 
+arthritis requires the C5a receptor C5aR and FcγRs, but the simultaneous 
+necessity for both pathways was not understood. Here we show that C5aR and FcγRs 
+work in sequence to initiate and sustain neutrophil recruitment in vivo. 
+Specifically, C5aR activation of neutrophils is required for LTB(4) release and 
+early neutrophil recruitment into the joint, whereas FcγR engagement upon 
+neutrophils induces IL-1β release and subsequent neutrophil-active chemokine 
+production, ensuring continued inflammation. These findings support the concept 
+that immune complex-mediated leukocyte activation is not composed of overlapping 
+and redundant pathways, but that each element serves a distinct and critical 
+function in vivo, culminating in tissue inflammation.

@@ -1,0 +1,14 @@
+Cysteinyl leukotrienes (CysLTs) play a key role in inflammatory diseases such as 
+asthma and their receptors' antagonists are currently used as anti-asthmatic 
+drugs. CysLTs have also been found to participate in other inflammatory 
+reactions. Here, we reported that in rheumatoid arthritis (RA) animals model, 
+collagen-induced arthritis, (CIA), CysLT1, a receptor for CysLTs, was 
+up-regulated in hind paw and lymph node, while CysLTs levels in the blood were 
+also higher than normal mice. Montelukast, a drug targeting CysLT1, has been 
+shown to effectively reduce the CIA incidence, peak severity, and cumulative 
+disease scores. Further study indicated that CysLT1 signaling did not affect the 
+differentiation of pathogenic T helper cells. We conclude that montelukast may 
+play important roles in the pathogenesis of CIA, mainly by inducing infiltration 
+of pathogenic T cells, increasing IL-17A secretion and expression of IL-17A, 
+while these effects can be blocked by CysLT1 antagonists. Our findings indicate 
+that antagonist of CysLT1 receptor may be used to treat rheumatoid arthritis.

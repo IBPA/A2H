@@ -1,0 +1,37 @@
+ETHNOPHARMACOLOGICAL RELEVANCE AND AIM OF THE STUDY: Wen Luo Yin (WLY) is a 
+traditional Chinese formula, which has the traditional use of scattering cold 
+pathogen, draining dampness, freeing the flow of network vessels and relieving 
+pains. It is extensively used in the treatment of rheumatoid arthritis (RA) 
+patients for more than 2000 years, but its actions on angiogenesis of RA have 
+not been clarified. The present study aims to determine the anti-angiogenic 
+activity of WLY on collagen-induced arthritis (CIA) rat model and in human 
+fibroblast-like synoviocytes of RA (HFLS-RA) and human umbilical vein 
+endothelial cells (HUVEC).
+MATERIALS AND METHODS: For in vivo experiment, arthritis was induced by 
+immunization with bovine II collagen in DA rats. Treatment with WLY (3.45, 6.9, 
+13.8 g/kg, p.o., daily), or vehicle began from day 1 to day 28 of first 
+immunization. The arthritis score, arthritis incidence, microfocal computed 
+tomography analysis and histopathology evaluation of inflamed joints were 
+assessed. Angiogenesis was measured by synovial vessel density with 
+immunohistochemistry and histomorphometric analysis in synovial membrane tissues 
+of joints. For in vitro experiments, HFLS-RA and HUVEC were used. Assays to 
+determine HFLS-RA migration and adhesion were performed in the presence of 
+vascular endothelial growth factor (VEGF)165 or interleukin (IL)-1β and/or the 
+WLY (8, 16, 32 mg/ml). Angiogenesis was assessed by measuring the migration, 
+adhesion, and tube formation of HUVEC. Further the effect of treatment with WLY 
+on expression levels of angiogenic activators in sera of CIA rats and in 
+IL-1β-induced HFLS-RA were evaluated by enzyme linked immunosorbent assay.
+RESULTS: WLY significantly decreased the arthritis score and arthritis 
+incidence, and inhibited inflammation, pannus formation, cartilage and bone 
+destruction of inflamed joints in CIA rats. More interestingly, doses of 
+3.45-13.8 g/kg WLY could markedly reduce the capillaries, small, medium and 
+large vessel density in synovial membrane tissues of inflamed joints. Moreover, 
+WLY suppressed the VEGF-induced chemotactic migration of HFLS-RA and HUVEC, and 
+inhibited matrigel-induced cell adhesion of them. It also disrupted tube 
+formation of HUVEC on matrigel. Furthermore, WLY significantly reduced the 
+expression of angiogenic activators including tumor necrosis factor-α, IL-1β, 
+IL-17, VEGF, VEGFR, angiopoietin (Ang)-1, Ang-2 and Ang-2 receptor in sera of 
+CIA rats and/or in IL-1β-induced HFLS-RA/HUVEC.
+CONCLUSIONS: Our data suggest for the first time that WLY posses the 
+anti-angiogenic effect in RA both in vivo and in vitro by downregulating 
+angiogenic activators.

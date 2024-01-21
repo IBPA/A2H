@@ -1,0 +1,20 @@
+OBJECTIVE: Rheumatoid arthritis (RA) is considered to be a prototypical 
+autoimmune disorder. Several mechanisms have been proposed for the known 
+pathologic function of B cells in RA, including antigen presentation, cytokine 
+secretion, and humoral immunity. The aim of this study was to address the 
+function of B lymphocytes in experimental arthritis.
+METHODS: We mapped the adaptive immune response following collagen-induced 
+arthritis (CIA). We subsequently monitored these responses and disease outcomes 
+in genetically modified mouse strains that lack mature B cell or germinal center 
+(GC) functionality in a B cell-intrinsic manner.
+RESULTS: Following primary immunization, the draining lymph nodes broadly 
+reacted against type II collagen (CII) with the formation of GCs and T cell 
+activation. Mice that lacked mature B cell function were fully protected against 
+CIA and had a severely attenuated ability to mount isotype-switched humoral 
+immune responses against CII. Almost identical results were observed in mice 
+that were selectively deficient in GC responses. Importantly, GC-deficient mice 
+were fully susceptible to collagen antibody-induced arthritis.
+CONCLUSION: We identified GC formation and anticollagen antibody production as 
+the key pathogenic functions of B cells in CIA. The role of B cells in RA is 
+likely to be more complex. However, targeting the GC reaction could allow for 
+therapeutic interventions that are more refined than general B cell depletion.

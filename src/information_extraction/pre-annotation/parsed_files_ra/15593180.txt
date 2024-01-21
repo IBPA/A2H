@@ -1,0 +1,24 @@
+OBJECTIVE: Hydroxymethylglutaryl-coenzyme A reductase inhibitors (statins) are 
+widely used lipid-lowering agents. In addition to their well-known effect on 
+cholesterol levels, statins have been reported to display antiinflammatory 
+activities both in vitro and in vivo. In this context, in vivo prophylactic and 
+therapeutic effects of simvastatin were recently demonstrated in mouse 
+collagen-induced arthritis, a well-described experimental model for human 
+rheumatoid arthritis (RA). The aim of this study was to further investigate in 
+vivo effects of 3 different statins, atorvastatin, rosuvastatin, and 
+simvastatin, using the same experimental model.
+METHODS: Different doses and routes of administration were used for the various 
+statins in an attempt to elicit antiarthritic activity in preventive and 
+curative treatment protocols.
+RESULTS: Atorvastatin and rosuvastatin had no in vivo efficacy, as indicated by 
+clinical, histologic (synovial hyperplasia, exudate, and cartilage damage), 
+immunologic (anti-type II collagen IgG production), and biochemical 
+(interleukin-6, serum amyloid A, and glucocorticoid production) parameters of 
+inflammation and autoimmunity. The previously described beneficial effects of 
+administration of intraperitoneal simvastatin were reproduced in our 
+experiments, but could be accounted for by very severe side effects of the 
+treatment, leading to increased glucocorticoid levels.
+CONCLUSION: This work shows that different statins have no effect in a murine 
+model of arthritis, an unexpected observation given the previously described 
+therapeutic effect of statins in immune-mediated inflammatory diseases. It is 
+still unclear whether statins will have benefit in the treatment of RA.

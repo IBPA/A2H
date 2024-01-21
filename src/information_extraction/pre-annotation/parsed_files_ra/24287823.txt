@@ -1,0 +1,13 @@
+This study analyzes the effect of interleukin-15 (IL-15) on osteoclast formation 
+using a coculture of mouse osteoblasts and bone marrow cells (BMCs) stimulated 
+with prostaglandin E2 (PGE2), which both have important role in rheumatoid 
+arthritis (RA) and periodontal disease (PD). BMCs isolate lacking T (BM(T-)) or 
+NK (BM(NK-)) cells, BMCs with no cells removed (BM(T+NK+)), purified NK cells, 
+and purified T cells were each cocultured with osteoblasts in the presence or 
+absence of PGE2 and/or IL-15. The number of both osteoclasts and osteoblasts was 
+decreased by IL-15 in a dose-dependent manner in BM(T+NK+), BM(T-). However, the 
+reductions were improved in BM(NK-). The expression of caspase3 in osteoblasts 
+cocultured with NK cells was increased in a dose-dependent manner by IL-15. 
+IL-15 stimulates apoptosis of osteoblasts via activation of NK cells. Since 
+osteoblasts have an important role in bone formation, IL-15 may be an 
+inflammatory bone destructive factor in RA and PD.

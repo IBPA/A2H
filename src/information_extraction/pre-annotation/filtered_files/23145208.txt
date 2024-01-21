@@ -1,0 +1,22 @@
+AIM: To investigate whether increased levels of vimentin citrullinated peptides 
+identified by MS in articular cartilage can be measured in pathologies other 
+than rheumatoid arthritis and be utilised for diagnostic purposes.
+METHODS: A monoclonal antibody against the sequence RLRSSVPGV-citrulline (VICM) 
+was developed and evaluated in a carbon tetrachloride (CCl(4)) (n=52 + 28 
+controls) rat model of liver fibrosis and two clinical cohorts of adult patients 
+with hepatitis C (HCV) (n=92) and non-alcoholic fatty liver disease (NAFLD) 
+(n=62), and compared to healthy controls.
+RESULTS: In CCl(4)-treated rats, mean systemic VICM levels increased 31% at week 
+12 (176 ng/mL, P<0.001), 41.7% at weeks 16 (190 ng/mL, P<0.001), 49.2% at weeks 
+20 (200 ng/ml, P<0.001), compared to controls (134 ng/mL). VICM levels 
+correlated with total hepatic collagen determined by Sirius red staining of rat 
+livers (r=0.75, P<0.05). In the HCV cohort, when stratified according to the 
+METAVIR F score, VICM levels were 63% higher in F0 (632 ng/mL ±75, p<0.05), 54% 
+in F1 (597 ng/mL ±41.3, p<0.05) and 62% in F2 (628 ng/mL ±59, p<0.05) all 
+compared to controls. In the NAFLD cohort, VICM levels were 20.6% higher in F0 
+(339 ±12 ng/mL, P<0.05), 23.8% in F1 (348 ±12 ng/mL, P<0.05) and 28.8% in F2 
+(362 ±25 P<0.05).
+CONCLUSION: We demonstrated increased serological levels of citrullinated and 
+MMP degraded vimentin in an animal model of liver fibrosis and in early fibrosis 
+associated with HCV and NAFLD patients. These data suggest that citrullinated 
+and MMP degraded proteins are also present in liver fibrosis.

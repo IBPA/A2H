@@ -1,0 +1,12 @@
+CD4+CD25+ regulatory T (Treg) cells play a crucial role in maintaining 
+self-tolerance and preventing autoimmune disease. The transcription factor 
+forkhead box protein 3 (Foxp3) has been identified as a molecular marker for 
+Treg cells. Foxp3 is highly expressed in lymphoid tissue and several signalling 
+pathways influence its expression. It plays an essential role in the development 
+and function of Treg cells. Mutations in Foxp3 are responsible for the scurfy 
+(sf) mutant mouse, and for autoimmune human diseases including the X-linked 
+fatal "immune dysregulation, polyendocrinopathy, enteropathy, X-linked" (IPEX), 
+autoimmune colitis and rheumatoid arthritis. Recent studies have also revealed 
+an important and novel anti-atherogenic role for Treg cells and consequently for 
+Foxp3. These data open up potential novel therapeutic avenues for the management 
+of atherosclerosis.

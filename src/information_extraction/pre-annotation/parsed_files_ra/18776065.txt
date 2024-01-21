@@ -1,0 +1,25 @@
+P38alpha is a protein kinase that regulates the expression of inflammatory 
+cytokines, suggesting a role in the pathogenesis of diseases such as rheumatoid 
+arthritis (RA) or systemic lupus erythematosus. Here, we describe the 
+preclinical pharmacology of pamapimod, a novel p38 mitogen-activated protein 
+kinase inhibitor. Pamapimod inhibited p38alpha and p38beta enzymatic activity, 
+with IC(50) values of 0.014 +/- 0.002 and 0.48 +/- 0.04 microM, respectively. 
+There was no activity against p38delta or p38gamma isoforms. When profiled 
+across 350 kinases, pamapimod bound only to four kinases in addition to p38. 
+Cellular potency was assessed using phosphorylation of heat shock protein-27 and 
+c-Jun as selective readouts for p38 and c-Jun NH(2)-terminal kinase (JNK), 
+respectively. Pamapimod inhibited p38 (IC(50), 0.06 microM), but inhibition of 
+JNK was not detected. Pamapimod also inhibited lipopolysaccharide 
+(LPS)-stimulated tumor necrosis factor (TNF) alpha production by monocytes, 
+interleukin (IL)-1beta production in human whole blood, and spontaneous TNFalpha 
+production by synovial explants from RA patients. LPS- and TNFalpha-stimulated 
+production of TNFalpha and IL-6 in rodents also was inhibited by pamapimod. In 
+murine collagen-induced arthritis, pamapimod reduced clinical signs of 
+inflammation and bone loss at 50 mg/kg or greater. In a rat model of 
+hyperalgesia, pamapimod increased tolerance to pressure in a dose-dependent 
+manner, suggesting an important role of p38 in pain associated with 
+inflammation. Finally, an analog of pamapimod that has equivalent potency and 
+selectivity inhibited renal disease in lupus-prone MRL/lpr mice. Our study 
+demonstrates that pamapimod is a potent, selective inhibitor of p38alpha with 
+the ability to inhibit the signs and symptoms of RA and other autoimmune 
+diseases.

@@ -1,0 +1,23 @@
+Cia4 is a locus on rat chromosome 7 that regulates disease severity and joint 
+damage in models of rheumatoid arthritis, including pristane-induced arthritis 
+(PIA). To identify molecular processes regulated by Cia4, synovial tissues from 
+MHC-identical DA (severe erosive) and DA.F344(Cia4) congenics (mild nonerosive) 
+rats were collected at preclinical and recent onset stages following the 
+induction of PIA and analyzed for gene expression levels. Il6 levels were 
+significantly higher in DA compared with congenics on day 10 (135-fold) after 
+PIA induction (preclinical stage) and remained increased on days 14 (47.7-fold) 
+and 18 (29.41-fold). Il6 increased before Il1b suggesting that Il6 could be 
+driving Il1b expression and early synovial inflammation; 187 genes had 
+significantly different expression levels and included inflammatory mediators 
+increased in DA such Slpi (10.94-fold), Ccl7 (5.17-fold), and Litaf (2.09-fold). 
+Syk or NF-κB activating and interacting genes, including Cd74 Ccl21, were 
+increased in DA; 59 genes implicated in cancer-related phenotypes were increased 
+in DA. Genes involved in cell metabolism, transport across membranes, and tissue 
+protection such as Dgat1, Dhcr7, and Slc1a1 were increased in DA.F344(Cia4) 
+congenics; 21 genes differentially expressed or expressed in only one of the 
+strains were located within the Cia4 interval and could be the gene accounting 
+for the arthritis effect. In conclusion, the Cia4 interval contains at least one 
+new arthritis gene that regulates early Il6, Il1b expression, and other 
+inflammatory mediators. This gene regulates the expression of cancer genes that 
+could mediate the development of synovial hyperplasia and invasion, and 
+cartilage and bone destruction.

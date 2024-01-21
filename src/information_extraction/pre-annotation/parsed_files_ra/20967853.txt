@@ -1,0 +1,25 @@
+OBJECTIVE: Most therapeutic treatments for autoimmune arthritis rely on 
+immunosuppressive drugs, which have side effects. Although a previous study by 
+our group showed that specific ERK activation suppressed immune responses, its 
+application in a therapeutic setting has never been tested. The aim of the 
+present study was to define the ERK-dependent immunosuppressive mechanisms and 
+to apply selective ERK activation for the treatment of experimental inflammatory 
+arthritis.
+METHODS: A constitutively active ERK activator was coexpressed with a model 
+antigen using lentivectors. Immunosuppressive mechanisms were characterized at 
+the level of dendritic cell (DC) function, differentiation of antigen-specific 
+Treg cells, and inhibition of inflammatory T cells. Administration of the ERK 
+activator with antigen as a strategy to suppress inflammatory arthritis was 
+tested in an experimental mouse model.
+RESULTS: Selective ERK activation induced mouse and human DCs to secrete 
+bioactive transforming growth factor β, a process required for suppression of T 
+cell responses and differentiation of antigen-specific Treg cells. Treg cells 
+strongly proliferated after antigen reencounter in inflammatory conditions, and 
+these cells exhibited antigen-dependent suppressive activities. Inflammatory 
+arthritis was effectively inhibited through antigen-specific mechanisms. 
+Importantly, this strategy did not rely on identification of the initiating 
+arthritogenic antigen. Equivalent mechanisms were demonstrated in human 
+monocyte-derived DCs, setting the scene for a possible rapid translation of this 
+approach to patients with rheumatoid arthritis.
+CONCLUSION: This strategy of selective ERK activation resulted in an effective 
+therapeutic protocol, with substantial advantages over DC or T cell vaccination.

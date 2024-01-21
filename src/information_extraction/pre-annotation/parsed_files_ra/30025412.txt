@@ -1,0 +1,24 @@
+BACKGROUND/AIMS: Extensive osteoclast formation plays a critical role in bone 
+diseases, including rheumatoid arthritis, periodontitis and the aseptic 
+loosening of orthopedic implants. Thus, identification of agents that can 
+suppress osteoclast formation and bone resorption is important for the treatment 
+of these diseases. Monocrotaline (Mon), the major bioactive component of 
+crotalaria sessiliflora has been investigated for its anti-cancer activities. 
+However, the effect of Mon on osteoclast formation and osteolysis is not known.
+METHODS: The bone marrow macrophages (BMMs) were cultured with M-CSF and RANKL 
+followed by Mon treatment. Then the effects of Mon on osteoclast differentiation 
+were evaluated by counting TRAP (+) multinucleated cells. Moreover, effects of 
+Mon on hydroxyapatite resorption activity of mature osteoclast were studied 
+through resorption areas measurement. The involved potential signaling pathways 
+were analyzed by performed Western blotting and quantitative real-time PCR 
+examination. Further, we established a mouse calvarial osteolysis model to 
+measure the osteolysis suppressing effect of Mon in vivo.
+RESULTS: In this study, we show that Mon can inhibit RANKL-induced osteoclast 
+formation and function in a dose-dependent manner. Mon inhibits the expression 
+of osteoclast marker genes such as tartrate-resistant acid phosphatase (TRAP) 
+and cathepsin K. Furthermore, Mon inhibits RANKL-induced the activation of p38 
+and JNK. Consistent with in vitro results, Mon exhibits protective effects in an 
+in vivo mouse model of LPS-induced calvarial osteolysis.
+CONCLUSION: Taken together our data demonstrate that Mon may be a potential 
+prophylactic anti-osteoclastic agent for the treatment of osteolytic diseases 
+caused by excessive osteoclast formation and function.

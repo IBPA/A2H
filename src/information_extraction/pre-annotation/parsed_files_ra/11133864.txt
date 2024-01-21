@@ -1,0 +1,27 @@
+PURPOSE: Interleukin (IL)-18 has been described as a proinflammatory cytokine in 
+rheumatoid arthritis and bacterial infectious diseases. The present study was 
+designed to determine the role of IL-18 in a model of ocular experimental 
+autoimmune uveitis (EAU). The initial studies were conducted to detect the 
+expression of IL-18 in normal mouse eye tissue, and the later studies 
+investigated induction of EAU in mice with an IL-18(-/-) phenotype.
+METHODS: IL-18 detection was performed by using 
+5-bromo-4-chloro-3-indoyl-ss--D-galactopyranoside (X-Gal) staining on frozen 
+sections of eyes from mice (129/CD1, DBA1, and Balb/c), either of normal 
+phenotype (+/+) or of deficiency (+/-, -/-) in the IL-18 gene which had been 
+replaced by introduced genes including LacZ under the control of an IL-18 
+promotor. Severity of EAU was assessed in DBA1 and 129/CD1 wild-type (WT) or 
+IL-18 knockout (KO) mice after immunization with the uveitogenic antigen: 
+interphotoreceptor retinal binding protein (IRBP) peptide 161-180. Lymphocyte 
+proliferation and cytokine production were also measured in WT and IL-18 KO DBA1 
+mice 15 days after immunization.
+RESULTS: IL-18 is constitutively expressed in the epithelial cells in iris, 
+ciliary body, and retina. EAU-resistant mice (129/CD1) with an IL-18(-/-) 
+phenotype remained resistant after immunization with IRBP peptide (P161-180). 
+However, EAU-susceptible mice (DBA1) exhibited disease with similar histologic 
+characteristics, despite a generalized reduction of interferon (IFN)-gamma and 
+tumor necrosis factor (TNF)-alpha on an IL-18(-/-) phenotype. DBA1 IL-18(-/-) 
+also demonstrated reduced IL-10 production.
+CONCLUSIONS: The IL-18 gene is not necessary for the initiation or pathogenesis 
+of EAU induced by IRBP peptide 161-180. IL-18 is expressed in the epithelial 
+cells in iris, ciliary body, and retina in the eyes, but its role in the eye 
+remains undetermined.

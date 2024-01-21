@@ -1,0 +1,15 @@
+Infection with the opportunistic enteric pathogen Clostridium difficile is an 
+increasingly common clinical complication that follows antibiotic 
+treatment-induced gut microbiota perturbation. Innate lymphoid cells (ILCs) are 
+early responders to enteric pathogens; however, their role during C. difficile 
+infection is undefined. To identify immune pathways that mediate recovery from 
+C. difficile infection, we challenged C57BL/6, Rag1(-/-) (which lack T and B 
+cells), and Rag2(-/-)Il2rg(-/-) (Ragγc(-/-)) mice (which additionally lack ILCs) 
+with C. difficile. In contrast to Rag1(-/-) mice, ILC-deficient Ragγc(-/-) mice 
+rapidly succumbed to infection. Rag1(-/-) but not Ragγc(-/-) mice upregulate 
+expression of ILC1- or ILC3-associated proteins following C. difficile 
+infection. Protection against infection was restored by transferring ILCs into 
+Ragγc(-/-) mice. While ILC3s made a minor contribution to resistance, loss of 
+IFN-γ or T-bet-expressing ILC1s in Rag1(-/-) mice increased susceptibility to C. 
+difficile. These data demonstrate a critical role for ILC1s in defense against 
+C. difficile.

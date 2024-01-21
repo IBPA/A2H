@@ -1,0 +1,29 @@
+BACKGROUND: Omeprazole administration is associated with changes in gastric and 
+fecal microbiota and increased incidence of Clostridioides difficile 
+enterocolitis in humans and dogs.
+HYPOTHESIS/OBJECTIVES: Study purpose was to assess the effect of omeprazole on 
+gastric glandular and fecal microbiota in healthy adult horses.
+ANIMALS: Eight healthy horses stabled on straw and fed 100% haylage.
+METHODS: Prospective controlled study. Transendoscopic gastric glandular 
+biopsies, gastric fluid, and fecal samples were obtained from each horse twice 
+at a 7-day interval before the administration of omeprazole. Samples were taken 
+on the same horses before and after a 7-day administration of omeprazole (4 
+mg/kg PO q24h). pH was assessed on fresh gastric fluid and other samples were 
+kept at -20°C until analysis. Bacterial taxonomy profiling was obtained by V1V3 
+16S amplicon sequencing from feces and gastric glandular biopsies. Analysis of 
+alpha, beta diversity, and comparison between time points were performed with 
+MOTHUR and results were considered significant when P < .05.
+RESULTS: Gastric pH increased significantly after 7 days of omeprazole 
+administration (P = .006). Omeprazole did not induce significant major changes 
+in composition of fecal or gastric glandular microbiota, however, after 
+administration, certain microbial genera became more predominant in the gastric 
+glandular mucosa (lower Simpson's evenness, P = .05). Only the genus Clostridium 
+sensu strictu_1 had a significant shift in the glandular gastric mucosa after 
+omeprazole administration (P = .002). No population shifts were observed in 
+feces.
+CONCLUSIONS AND CLINICAL IMPORTANCE: Oral administration of omeprazole could 
+have fewer effects in gastrointestinal microbiota in the horse compared to other 
+species.
+
+© 2020 The Authors. Journal of Veterinary Internal Medicine published by Wiley 
+Periodicals LLC on behalf of American College of Veterinary Internal Medicine.

@@ -1,0 +1,27 @@
+OBJECTIVE: Vasoactive intestinal peptide (VIP) has been shown to exert potent 
+immunomodulatory activity, and the use of lentiviral vectors has been found to 
+be an effective means of gene delivery. The present study was therefore 
+undertaken to investigate the feasibility and efficiency of gene therapy using 
+lentiviral vectors expressing VIP (LentiVIP) for the treatment of rheumatoid 
+arthritis (RA).
+METHODS: We evaluated the therapeutic potential of the gene therapy strategy in 
+the collagen-induced arthritis (CIA) mouse model, administering the vectors at 
+different phases of the disease. The inflammatory response was determined by 
+measuring the levels of various inflammatory cytokines and chemokines in the 
+joints and serum. The Th1-mediated response was evaluated by determining the 
+proliferative response and cytokine profile of T cells stimulated with 
+autoantigen.
+RESULTS: A single intraperitoneal injection of LentiVIP was highly effective in 
+treating CIA. Mice with established, severe arthritis showed complete regression 
+of the disease. The therapeutic effect of LentiVIP was associated with 
+widespread biodistribution of the vector and increased VIP levels, especially in 
+joints and lymphoid organs, and was mediated through a striking reduction of the 
+2 deleterious components of the disease, i.e., the autoimmune response 
+(self-reactive Th1 cell activity and autoantibody production) and the 
+inflammatory response. LentiVIP treatment also induced the generation and/or 
+activation of CD4+,CD25+,FoxP3+ Treg cells in arthritic mice.
+CONCLUSION: Our findings show that in vivo administration of lentiviral vector 
+expressing VIP produces one of the most potent therapeutic effects described so 
+far in any animal model of RA. We propose that VIP gene transfer should be 
+further investigated as a potential novel, effective treatment of RA and other 
+chronic autoimmune disorders.

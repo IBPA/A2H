@@ -1,0 +1,23 @@
+Six novel members of the IL-1 family of cytokines were recently identified, 
+primarily through the use of DNA database searches for IL-1 homologues, and were 
+named IL-1F5 to IL-1F10. In the present study, we investigated the effect of 
+IL-1F8 on primary human joint cells, and examined the expression of the new IL-1 
+family members in human and mouse joints. Human synovial fibroblasts (hSFs) and 
+human articular chondrocytes (hACs) expressed the IL-1F8 receptor (IL-1Rrp2) and 
+produced pro-inflammatory mediators in response to recombinant IL-1F8. IL-1F8 
+mRNA expression was increased in hSFs upon stimulation with proinflammatory 
+cytokines, whereas in hACs IL-1F8 mRNA expression was constitutive. However, 
+IL-1F8 protein was undetectable in hSF and hAC culture supernatants. 
+Furthermore, although IL-1beta protein levels were increased in inflamed human 
+and mouse joint tissue, IL-1F8 protein levels were not. IL-1F8 levels in 
+synovial fluids were similar to or lower than those in matched serum samples, 
+suggesting that the joint itself is not a major source of IL-1F8. Serum levels 
+of IL-1F8 were similar in healthy donors, and patients with rheumatoid 
+arthritis, osteoarthritis and septic shock, and did not correlate with 
+inflammatory status. Interestingly however, we observed high IL-1F8 levels in 
+several serum samples in all groups. In conclusion, IL-1F8 exerts 
+proinflammatory effects in primary human joint cells. Joint and serum IL-1F8 
+protein levels did not correlate with inflammation, but they were high in some 
+human serum samples tested, including samples from patients with rheumatoid 
+arthritis. It remains to be determined whether circulating IL-1F8 can contribute 
+to joint inflammation in rheumatoid arthritis.

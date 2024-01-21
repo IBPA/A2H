@@ -1,0 +1,22 @@
+Creatine kinase (CK) was used as a marker molecule to examine the side effect of 
+damage to tissues by indomethacin (IM), an effective drug to treat rheumatoid 
+arthritis and gout, with horseradish peroxidase and hydrogen peroxide 
+(HRP-H2O2). IM inactivated CK during its interaction with HRP-H2O2. Under 
+aerobic conditions, inactivation of CK significantly decreased. CK in rat heart 
+homogenate was also inactivated by IM with HRP-H2O2. When IM was incubated with 
+HRP-H2O2, the maximum absorption of IM at 280 nm rapidly decreased and a new 
+peak at 410 nm occurred with isosbestic points at 260 and 312 nm. In contrast, 
+under anaerobic conditions, the spectral change of IM was almost absent, 
+indicating IM was oxidized to the yellow substance by HRP-H2O2. Adding catalase 
+strongly inhibited the production of yellow substance. Sodium azide also blocked 
+the formation of yellow substance and the inactivation of CK. Electron spin 
+resonance signals of IM carbon-centered radical were detected using 
+2-methyl-2-nitrosopropane during the interaction of IM with HRP-H2O2 under 
+anaerobic conditions. Oxygen was consumed during the interaction of IM with 
+HRP-H2O2. These results suggest that IM carbon-centered radicals may rapidly 
+react with O2 to generate the peroxyl radicals. Sulfhydryl groups and 
+tryptophane residues of CK decreased during the interaction of IM with HRP-H2O2. 
+Other sulfhydryl enzymes, including alcohol dehydrogenase and 
+glyceraldehyde-3-phosphate dehydrogenase, were also readily inactivated during 
+the interaction with HRP-H2O2. Sulfhydryl enzymes seem to be very sensitive to 
+IM activated by HRP-H2O2.

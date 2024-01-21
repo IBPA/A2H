@@ -1,0 +1,15 @@
+Rheumatoid arthritis (RA) is a polygenic autoimmune disease. The autoimmunity 
+develops from synergistic actions of genetic and environmental factors. We 
+generated a double-mutant mouse by crossing two murine models of RA, a gp130 
+mutant knock-in mouse (gp130F759/F759) and an HTLV-1 pX transgenic mouse 
+(pX-Tg), in a C57BL/6 background, which is resistant to arthritis. The mice 
+spontaneously developed severe arthritis with a much earlier onset than the 
+gp130F759/F759 mice and with a much higher incidence than did the pX-Tg mice. 
+The symptoms of gp130F759/F759 mice, including lymphoadenopathy, splenomegaly, 
+hyper-gamma-globulinemia, autoantibody production, increases in memory/activated 
+T cells and granulocytes in the peripheral lymphoid organs, and a decrease in 
+the class II MHC(bright) CD11c+ population, were augmented in the double 
+mutants. Marked reductions in incidence, severity and immunological 
+abnormalities were seen in the triple mutant, IL-6-/-/gp130F759/F759/pX-Tg, 
+indicating that the arthritis in the double mutant is IL-6 dependent. 
+gp130F759/F759/pX-Tg is a unique mouse model for RA.

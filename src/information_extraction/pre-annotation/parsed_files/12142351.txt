@@ -1,0 +1,26 @@
+3-hydroxy-3-methylglutaryl coenzyme A reductase inhibitors (statins) improve 
+endothelial function. We determined whether withdrawal of statin therapy affects 
+endothelium-dependent relaxation in mice and studied the underlying mechanism. 
+Mice were treated with daily injections of cerivastatin (2 mg/kg per day SC), 
+atorvastatin (1 and 10 mg/kg per day SC), or placebo. Vascular reactivity was 
+studied in aortic rings from these mice after 10 days of treatment and after 
+cessation of therapy for several days. Both statins improved 
+endothelium-dependent relaxation to acetylcholine. Compared with control, 
+withdrawal of statin treatment transiently (from day 4 to 7) attenuated 
+endothelium-dependent relaxation. In vessels from animals subjected to 
+atorvastatin withdrawal, the antioxidant tiron restored relaxations. Vascular 
+superoxide anion generation was unaffected by statin therapy but was increased 
+during withdrawal. In mice lacking the gp91phox subunit of the NADPH oxidase, no 
+attenuation of acetylcholine-induced relaxation and no increase in superoxide 
+generation were observed after withdrawal of atorvastatin. In human umbilical 
+vein endothelial cells, statins, which decrease the membrane association of 
+NADPH oxidase-activating Rac-1, increased the activity of this GTPase in 
+whole-cell lysates. Withdrawal of statins induced a translocation of Rac-1 from 
+the cytosol to the membrane and transiently increased NADPH-induced lucigenin 
+chemiluminescence in membrane preparations. Rac-1 inactivation by Clostridium 
+difficile toxin B inhibited the cerivastatin-induced oxygen radical production 
+in human umbilical vein endothelial cells. These observations indicate that the 
+withdrawal of statins induces endothelial dysfunction. The underlying mechanism 
+involves activation of a gp91phox-containing NADPH oxidase by Rac-1 and the 
+subsequent scavenging of endothelium-derived NO by superoxide anions generated 
+from this enzyme.

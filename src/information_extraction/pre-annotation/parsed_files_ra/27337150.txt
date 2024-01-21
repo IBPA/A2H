@@ -1,0 +1,25 @@
+OBJECTIVE: The gut microbiome regulates host immune homeostasis. Rheumatoid 
+arthritis (RA) is associated with intestinal dysbiosis. This study was 
+undertaken to test the ability of a human gut-derived commensal to modulate 
+immune response and treat arthritis in a humanized mouse model.
+METHODS: We isolated a commensal bacterium, Prevotella histicola, that is native 
+to the human gut and has systemic immune effects when administered enterally. 
+Arthritis-susceptible HLA-DQ8 mice were immunized with type II collagen and 
+treated with P histicola. Disease incidence, onset, and severity were monitored. 
+Changes in gut epithelial proteins and immune response as well as systemic 
+cellular and humoral immune responses were studied in treated mice.
+RESULTS: When treated with P histicola in prophylactic or therapeutic protocols, 
+DQ8 mice exhibited significantly decreased incidence and severity of arthritis 
+compared to controls. The microbial mucosal modulation of arthritis was 
+dependent on regulation by CD103+ dendritic cells and myeloid suppressors 
+(CD11b+Gr-1+ cells) and by generation of Treg cells (CD4+CD25+FoxP3+) in the 
+gut, resulting in suppression of antigen-specific Th17 responses and increased 
+transcription of interleukin-10. Treatment with P histicola led to reduced 
+intestinal permeability by increasing expression of enzymes that produce 
+antimicrobial peptides as well as tight junction proteins (zonula occludens 1 
+and occludin). However, the innate immune response via Toll-like receptor 4 
+(TLR-4) and TLR-9 was not affected in treated mice.
+CONCLUSION: Our results demonstrate that enteral exposure to P histicola 
+suppresses arthritis via mucosal regulation. P histicola is a unique commensal 
+that can be explored as a novel therapy for RA and may have few or no side 
+effects.

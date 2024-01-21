@@ -1,0 +1,20 @@
+PURPOSE: Existing clinical or microbiological scores are not sensitive enough to 
+obtain prompt identification of patients at risk of complicated Clostridium 
+difficile infection (CDI). Our aim was to use a CDI animal model to evaluate 
+2-deoxy-2-[18F]fluoro-D-glucose positron emission tomography ([18F]FDG-PET) as a 
+marker of severe course of infection.
+PROCEDURES: CDI was induced with cefoperazone for 10 days followed by 
+clindamycin 1 day before C. difficile inoculation. Mice were divided into wild 
+type (n = 6), antibiotic without infection (AC n = 4), h001-infected (n = 5, 
+ribotype 001), and h027-infected (n = 5, ribotype 027). Two days after 
+inoculation, [18F]FDG-PET was acquired. Weight, general animal condition, and 
+survival were monitored daily for 9 days.
+RESULTS: h001 group showed symptoms for 4 days with 0 % mortality and a similar 
+colon uptake than control animals (h001 0.52 ± 0.20, WT 0.42 ± 0.07, and AC 
+0.36 ± 0.06). The h027 group showed symptoms up to 7 days, with 66.7 % of 
+mortality 4 days after infection, and significantly higher colon uptake 
+(0.93 ± 0.38, p < 0.05). Clinical score was associated to colon and cecum uptake 
+(rho = 0.78, p = 0.0001) (rho = 0.73, p = 0.0003).
+CONCLUSION: High toxin producer ribotype 027 induced more severe CDI infections, 
+correlating with higher colon and cecum [18F]FDG uptake. Colon uptake may 
+purportedly serve as early predictor of CDI severity.

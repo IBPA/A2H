@@ -1,0 +1,16 @@
+Matrix metalloproteinase (MMP) has been implicated in joint destruction of 
+chronic arthritis diseases, such as rheumatoid arthritis. FR217840 
+(2R)-1-([5-(4-fluorophenyl)-2-thienyl]sulfonyl)-N-hydroxy-4-(methylsulfonyl)-2-piperazinecarboxamide 
+is a potent, orally active synthetic MMP inhibitor that inhibits human 
+collagenases (MMP-1, MMP-8 and MMP-13), gelatinases (MMP-2 and MMP-9) and 
+membrane type MMP (MT-MMP) (MT1-MMP/MMP-14). FR217840 also inhibits rat 
+collagenase and gelatinase. We studied the effect of FR217840 on a rat adjuvant 
+induced arthritis model. Although oral administration (days 1-21) of FR217840 
+(3.2, 10, 32 mg/kg) to adjuvant injected Lewis rats did not affect inflammation, 
+as indicated by both hind paw swelling and histological inflammatory 
+infiltration, FR217840 suppressed both bone destruction and serum pyridinoline 
+content in a dose-dependent manner. Also, FR217840 (32 mg/kg) reduced 
+tartrate-resistant acid phosphatase (TRAP) cell number in the ankle joints of 
+rats with arthritis. These results indicate that FR217840 successfully 
+suppressed joint destruction and suggest that FR217840 may have potential as a 
+novel anti-rheumatic drug.

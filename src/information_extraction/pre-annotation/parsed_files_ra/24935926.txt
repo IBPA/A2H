@@ -1,0 +1,9 @@
+Paired Ig-like type 2 receptor (PILR)α inhibitory receptor and its counterpart 
+PILRβ activating receptor are coexpressed on myeloid cells. In this article, we 
+report that PILRα, but not PILRβ, is elevated in human rheumatoid arthritis 
+synovial tissue and correlates with inflammatory cell infiltration. Pilrα(-/-) 
+mice produce more pathogenic cytokines during inflammation and are prone to 
+enhanced autoimmune arthritis. Correspondingly, engaging PILRα with anti-PILRα 
+mAb ameliorates inflammation in mouse arthritis models and suppresses the 
+production of proinflammatory cytokines. Our studies suggest that PILRα mediates 
+an important inhibitory pathway that can dampen inflammatory responses.

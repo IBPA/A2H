@@ -1,0 +1,15 @@
+Clostridium difficile causes nearly 500,000 infections and nearly 30,000 deaths 
+each year in the U.S., which is estimated to cost $4.8 billion. C. difficile 
+infection (CDI) arises from bacteria colonizing the large intestine and 
+releasing two toxins, toxin A (TcdA) and toxin B (TcdB). Generating humoral 
+immunity against C. difficile's toxins provides protection against primary 
+infection and recurrence. Thus, a vaccine may offer the best opportunity for 
+sustained, long-term protection. We developed a novel single-cycle adenovirus 
+(SC-Ad) vaccine against C. difficile expressing the receptor-binding domains 
+from TcdA and TcdB. The single immunization of mice generated sustained 
+toxin-binding antibody responses and protected them from lethal toxin challenge 
+for up to 38 weeks. Immunized Syrian hamsters produced significant 
+toxin-neutralizing antibodies that increased over 36 weeks. Single intramuscular 
+immunization provided complete protection against lethal BI/NAP1/027 spore 
+challenge 45 weeks later. These data suggest that this replicating vaccine may 
+prove useful against CDI in humans.

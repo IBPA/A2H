@@ -1,0 +1,18 @@
+OBJECTIVE AND DESIGN: To demonstrate the effect of monoclonal antibodies to the 
+adhesion-molecule PECAM-1 (CD31) and of prednisolone on leukocyte adhesion in 
+rat adjuvant arthritis.
+MATERIAL: Adjuvant arthritis was induced in male CD-rats (five groups of n = 6) 
+18 days prior to measurements.
+TREATMENT: Mouse-monoclonal antibody to rat CD-31 at 200 microg/kg or 
+prednisolone at 24 mg/kg were administered i.v. 15 minutes prior to 
+measurements.
+METHODS: Venules within the intact rat-knee synovium were focused by confocal 
+laser scanning microscopy. Numbers of rolling and adherent leukocytes were 
+assessed in vivo.
+RESULTS: Induction of arthritis significantly increased rolling and adherent 
+leukocytes compared to healthy controls. Both monoclonal antibodies to PECAM-1 
+and prednisolone significantly reduced adherent, but not rolling leukocytes in 
+arthritic animals.
+CONCLUSIONS: The method used is well suited for in vivo quantification of 
+leukocyte adhesion under the influence of antiadhesive therapies. PECAM-1 might 
+be an interesting target for novel therapies in rheumatoid arthritis.

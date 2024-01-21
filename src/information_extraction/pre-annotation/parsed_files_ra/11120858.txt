@@ -1,0 +1,19 @@
+In rheumatoid synovial tissues, synovial fibroblasts are activated by 
+proinflammatory cytokines and proliferate to develop hyperplastic pannus 
+tissues, which irreversibly damage the affected joints. We recently reported 
+that the cyclin-dependent kinase inhibitors p16(INK4a) and p21(Cip1) are not 
+expressed in vivo in rheumatoid synovial fibroblasts, but are readily inducible 
+in vitro. This observation was followed by the successful treatment of rat 
+adjuvant arthritis by local p16(INK4a) gene transfer, showing that the 
+inhibition of the cell cycle of the synovial cells ameliorates the arthritis. In 
+this study, we show that another animal model of rheumatoid arthritis, murine 
+collagen-induced arthritis, can be effectively treated by local gene transfer of 
+p21(Cip1) as well as that of p16(INK4a). The anti-arthritic effects were 
+observed even when the treatment was conducted after the arthritis had 
+developed. Furthermore, the effects included suppression of the expression of 
+proinflammatory cytokines such as IL-1ss, IL-6, and TNF-alpha. Our results 
+demonstrate that the ectopic expression of cyclin-dependent kinase inhibitors 
+not only prevents synovial overgrowth but also ameliorates the proinflammatory 
+milieu in the affected joints. The induction of p21(Cip1) in rheumatoid synovial 
+tissues by pharmacological agents may also be an effective strategy to treat 
+rheumatoid arthritis.

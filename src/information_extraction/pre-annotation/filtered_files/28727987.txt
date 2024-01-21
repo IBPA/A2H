@@ -1,0 +1,20 @@
+A number of mouse strains transgenic for B-cell receptors specific for nucleic 
+acids or other autoantigens have been generated to understand how autoreactive B 
+cells are regulated in normal and autoimmune mice. Previous studies of 
+nonautoimmune C57BL/6 mice heterozygous for both the IgH and IgL knockins of the 
+polyreactive autoantibody, 564, produced high levels of autoantibodies in a 
+largely Toll-like receptor 7-dependent manner. Herein, we describe studies of 
+mice homozygous for the knockins that also expressed high levels of 
+autoantibodies but, unlike the heterozygotes, exhibited a high incidence of 
+mature B-cell lymphomas and enhanced susceptibility to bacterial infections. 
+Microarray analyses and serological studies suggested that lymphomagenesis might 
+be related to chronic B-cell activation promoted by IL-21. Strikingly, mice 
+treated continuously with antibiotic-supplemented water did not develop 
+lymphomas or abscesses and exhibited less autoimmunity. This mouse model may 
+help us understand the reasons for enhanced susceptibility to lymphoma 
+development exhibited by humans with a variety of autoimmune diseases, such as 
+Sjögren syndrome, systemic lupus erythematosus, and highly active rheumatoid 
+arthritis.
+
+Copyright © 2017 American Society for Investigative Pathology. Published by 
+Elsevier Inc. All rights reserved.

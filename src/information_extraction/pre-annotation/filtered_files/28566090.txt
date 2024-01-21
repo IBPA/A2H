@@ -1,0 +1,31 @@
+BACKGROUND: Evidence suggests lymphatic function mediates local rheumatoid 
+arthritis (RA) flares. Yet biologics that target the immune system are dosed 
+systemically via the subcutaneous (SC) administration route, thereby 
+inefficiently reaching local lymphatic compartments. Nanotopography has 
+previously been shown to disrupt tight cellular junctions, potentially enhancing 
+local lymphatic delivery and potentially improving overall therapeutic efficacy.
+METHOD: We first characterized nanotopography (SOFUSA™) delivery of an anti-TNF 
+drug, etanercept, by comparing pharmacokinetic profiles to those obtained by 
+conventional SC, intravenous (IV), and intradermal (ID) routes of 
+administration, and assessed uptake of radiolabeled etanercept in draining lymph 
+nodes (LNs) in single dosing studies. We then compared etanercept efficacy in a 
+progressive rat model of collagen-induced arthritis (CIA), administered 
+systemically via SC route of administration; via the regional lymphatics through 
+ID delivery; or through a nanotopography (SOFUSA™) device at 10, 12, and 14 days 
+post CIA induction. Measurements of hind limb swelling and near-infrared 
+fluorescence (NIRF) imaging of afferent lymph pumping function and reflux were 
+conducted on days 11, 13, and 18 post CIA induction and compared to untreated 
+CIA animals. Univariate and multivariate analysis of variance were used to 
+compare the group differences for percentage swelling and lymphatic contractile 
+activity.
+RESULTS: Even though all three modes of administration delivered an equal amount 
+of etanercept, SOFUSA™ delivery resulted in increased lymphatic pumping and 
+significantly reduced swelling as compared to untreated, ID, and SC groups. 
+Pharmacokinetic profiles in serum and LN uptake studies showed that using the 
+nanotopography device resulted in the greatest uptake and retention in draining 
+LNs.
+CONCLUSIONS: Locoregional lymphatic delivery of biologics that target the immune 
+system may have more favorable pharmacodynamics than SC or IV administration. 
+Nanotopography may provide a more efficient method for delivery of anti-TNF 
+drugs to reverse impairment of lymphatic function and reduce swelling associated 
+with RA flares.

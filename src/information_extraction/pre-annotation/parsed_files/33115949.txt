@@ -1,0 +1,19 @@
+Antibiotic-resistant Clostridioides difficile is an anaerobic Gram-positive 
+bacterium that colonizes the colon and is responsible for more than 29,000 
+deaths in the United States each year. Hence, C. difficile infection (CDI) poses 
+an urgent threat to public health. Antibody-mediated neutralization of TcdA and 
+TcdB toxins, the major virulence factors of CDI, represents an effective 
+strategy to combat the disease without invoking antibiotic resistance. However, 
+current antitoxin approaches are mostly based on parenteral infusion of 
+monoclonal antibodies that are costly, narrow spectrum, and not optimized 
+against the intestinal disease. Here, we engineered probiotic Saccharomyces 
+boulardii to constitutively secrete a single tetra-specific antibody that 
+potently and broadly neutralized both toxins and demonstrated protection against 
+primary and recurrent CDI in both prophylactic and therapeutic mouse models of 
+disease. This yeast immunotherapy is orally administered, can be used 
+concurrently with antibiotics, and may have potential as a prophylactic against 
+CDI risk and as a therapeutic for patients with CDI.
+
+Copyright © 2020 The Authors, some rights reserved; exclusive licensee American 
+Association for the Advancement of Science. No claim to original U.S. Government 
+Works.

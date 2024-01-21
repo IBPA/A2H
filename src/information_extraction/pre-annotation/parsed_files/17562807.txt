@@ -1,0 +1,27 @@
+Several recent outbreaks of Clostridium difficile-associated disease (CDAD) have 
+been attributed to the emergence of an epidemic strain with increased resistance 
+to fluoroquinolone antibiotics. Some clinical studies have suggested that 
+fluoroquinolones with enhanced antianaerobic activity (i.e., gatifloxacin and 
+moxifloxacin) may have a greater propensity to induce CDAD than ciprofloxacin 
+and levofloxacin do. We examined the effects of subcutaneous fluoroquinolone 
+treatment on in vitro growth of and toxin production by epidemic and nonepidemic 
+C. difficile isolates in cecal contents of mice and evaluated the potential for 
+these agents to inhibit fluoroquinolone-susceptible isolates during treatment. 
+When C. difficile isolates were inoculated into cecal contents collected 2 days 
+after the final antibiotic dose, gatifloxacin and moxifloxacin promoted 
+significantly more growth and toxin production than ciprofloxacin and 
+levofloxacin did. During treatment, gatifloxacin and moxifloxacin inhibited 
+growth of fluoroquinolone-susceptible but not fluoroquinolone-resistant 
+isolates. Ciprofloxacin and levofloxacin promoted growth of C. difficile when 
+administered at higher doses (i.e., 20 times the human dose in mg/kg of body 
+weight), and levofloxacin inhibited growth of fluoroquinolone-susceptible, but 
+not fluoroquinolone-resistant, C. difficile isolates when administered in 
+combination with ceftriaxone. Thus, fluoroquinolones with enhanced antianaerobic 
+activity (i.e., gatifloxacin and moxifloxacin) promoted C. difficile growth to a 
+greater extent than did ciprofloxacin and levofloxacin in this model. However, 
+our findings suggest that fluoroquinolones may exert selective pressure favoring 
+the emergence of epidemic fluoroquinolone-resistant C. difficile strains by 
+inhibiting fluoroquinolone-susceptible but not fluoroquinolone-resistant 
+isolates during treatment and that agents such as levofloxacin or ciprofloxacin 
+can exert such selective pressure when administered in combination with 
+antibiotics that disrupt the anaerobic microflora.

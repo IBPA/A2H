@@ -1,0 +1,28 @@
+OBJECTIVE: JNK-mediated cell signaling plays a critical role in matrix 
+metalloproteinase (MMP) expression and joint destruction in rheumatoid arthritis 
+(RA). Gadd45beta, which is an NF-kappaB-regulated gene, was recently identified 
+as an endogenous negative regulator of the JNK pathway, since it could block the 
+upstream kinase MKK-7. This study was carried out to evaluate whether low 
+Gadd45beta expression in RA enhances JNK activation and overproduction of MMPs 
+in RA, and whether Gadd45beta deficiency increases arthritis severity in passive 
+K/BxN murine arthritis.
+METHODS: Activation of the NF-kappaB and JNK pathways and Gadd45beta expression 
+were analyzed in human synovium and fibroblast-like synoviocytes (FLS) using 
+quantitative polymerase chain reaction, immunoblotting, immunohistochemistry, 
+electrophoretic mobility shift assay, and luciferase reporter constructs. 
+Gadd45beta(-/-) and wild-type mice were evaluated in the K/BxN serum transfer 
+model of inflammatory arthritis, and clinical signs of arthritis, osteoclast 
+formation, and bone erosion were assessed.
+RESULTS: Expression levels of the Gadd45beta gene and protein were unexpectedly 
+low in human RA synovium despite abundant NF-kappaB activity. Forced Gadd45beta 
+expression in human FLS attenuated tumor necrosis factor-induced signaling 
+through the JNK pathway, reduced the activation of activator protein 1, and 
+decreased the expression of MMP genes. Furthermore, Gadd45beta deficiency 
+exacerbated K/BxN serum-induced arthritis in mice, dramatically increased 
+signaling through the JNK pathway, elevated MMP3 and MMP13 gene expression in 
+the mouse joints, and increased the synovial inflammation and number of 
+osteoclasts.
+CONCLUSION: Deficient Gadd45beta expression in RA can contribute to activation 
+of JNK, exacerbate clinical arthritis, and augment joint destruction. This 
+process can be mitigated by enhancing Gadd45beta expression or by inhibiting the 
+activity of JNK or its upstream regulator, MKK-7.

@@ -1,0 +1,27 @@
+Clostridium difficile is the causative agent of the most frequently reported 
+nosocomial diarrhea worldwide. The high incidence of recurrent infection is the 
+main clinical challenge of C. difficile infections (CDI). Formation of C. 
+difficile spores of the epidemic strain R20291 has been shown to be essential 
+for recurrent infection and transmission of the disease in a mouse model. 
+However, the underlying mechanisms of how these spores persist in the colonic 
+environment remains unclear. In this work, we characterized the adherence 
+properties of epidemic R20291 spores to components of the intestinal mucosa, and 
+we assessed the role of the exosporium integrity in the adherence properties by 
+using cdeC mutant spores with a defective exosporium layer. Our results showed 
+that spores and vegetative cells of the epidemic R20291 strain adhered at high 
+levels to monolayers of Caco-2 cells and mucin. Transmission electron 
+micrographs of Caco-2 cells demonstrated that the hair-like projections on the 
+surface of R20291 spores are in close proximity with the plasma membrane and 
+microvilli of undifferentiated and differentiated monolayers of Caco-2 cells. 
+Competitive-binding assay in differentiated Caco-2 cells suggests that 
+spore-adherence is mediated by specific binding sites. By using spores of a cdeC 
+mutant we demonstrated that the integrity of the exosporium layer determines the 
+affinity of adherence of C. difficile spores to Caco-2 cells and mucin. Binding 
+of fibronectin and vitronectin to the spore surface was concentration-dependent, 
+and depending on the concentration, spore-adherence to Caco-2 cells was 
+enhanced. In the presence of an aberrantly-assembled exosporium (cdeC spores), 
+binding of fibronectin, but not vitronectin, was increased. Notably, independent 
+of the exosporium integrity, only a fraction of the spores had fibronectin and 
+vitronectin molecules binding to their surface. Collectively, these results 
+demonstrate that the integrity of the exosporium layer of strain R20291 
+contributes to selective spore adherence to components of the intestinal mucosa.

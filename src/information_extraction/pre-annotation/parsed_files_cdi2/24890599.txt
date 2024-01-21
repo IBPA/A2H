@@ -1,0 +1,26 @@
+Amixicile shows efficacy in the treatment of Clostridium difficile infections 
+(CDI) in a mouse model, with no recurrence of CDI. Since amixicile selectively 
+inhibits the action of a B vitamin (thiamine pyrophosphate) cofactor of 
+pyruvate:ferredoxin oxidoreductase (PFOR), it may both escape mutation-based 
+drug resistance and spare beneficial probiotic gut bacteria that do not express 
+this enzyme. Amixicile is a water-soluble derivative of nitazoxanide (NTZ), an 
+antiparasitic therapeutic that also shows efficacy against CDI in humans. In 
+comparative studies, amixicile showed no toxicity to hepatocytes at 200 μM (NTZ 
+was toxic above 10 μM); was not metabolized by human, dog, or rat liver 
+microsomes; showed equivalence or superiority to NTZ in cytochrome P450 assays; 
+and did not activate efflux pumps (breast cancer resistance protein, P 
+glycoprotein). A maximum dose (300 mg/kg) of amixicile given by the oral or 
+intraperitoneal route was well tolerated by mice and rats. Plasma exposure 
+(rats) based on the area under the plasma concentration-time curve was 79.3 h · 
+μg/ml (30 mg/kg dose) to 328 h · μg/ml (100 mg/kg dose), the maximum 
+concentration of the drug in serum was 20 μg/ml, the time to the maximum 
+concentration of the drug in serum was 0.5 to 1 h, and the half-life was 5.6 h. 
+Amixicile did not concentrate in mouse feces or adversely affect gut populations 
+of Bacteroides species, Firmicutes, segmented filamentous bacteria, or 
+Lactobacillus species. Systemic bioavailability was demonstrated through 
+eradication of Helicobacter pylori in a mouse infection model. In summary, the 
+efficacy of amixicile in treating CDI and other infections, together with low 
+toxicity, an absence of mutation-based drug resistance, and excellent drug 
+metabolism and pharmacokinetic metrics, suggests a potential for broad 
+application in the treatment of infections caused by PFOR-expressing microbial 
+pathogens in addition to CDI.

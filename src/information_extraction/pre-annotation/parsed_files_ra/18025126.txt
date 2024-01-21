@@ -1,0 +1,19 @@
+This report shows that interleukin (IL) 17-producing T helper type 17 (Th17) 
+cells predominantly express CC chemokine receptor (CCR) 6 in an animal model of 
+rheumatoid arthritis (RA). Th17 cells induced in vivo in normal mice via 
+homeostatic proliferation similarly express CCR6, whereas those inducible in 
+vitro by transforming growth factor beta and IL-6 additionally need IL-1 and 
+neutralization of interferon (IFN) gamma and IL-4 for CCR6 expression. Forced 
+expression of RORgamma t, a key transcription factor for Th17 cell 
+differentiation, induces not only IL-17 but also CCR6 in naive T cells. 
+Furthermore, Th17 cells produce CCL20, the known ligand for CCR6. Synoviocytes 
+from arthritic joints of mice and humans also produce a large amount of CCL20, 
+with a significant correlation (P = 0.014) between the amounts of IL-17 and 
+CCL20 in RA joints. The CCL20 production by synoviocytes is augmented in vitro 
+by IL-1beta, IL-17, or tumor necrosis factor alpha, and is suppressed by 
+IFN-gamma or IL-4. Administration of blocking anti-CCR6 monoclonal antibody 
+substantially inhibits mouse arthritis. Thus, the joint cytokine milieu formed 
+by T cells and synovial cells controls the production of CCL20 and, 
+consequently, the recruitment of CCR6+ arthritogenic Th17 cells to the inflamed 
+joints. These results indicate that CCR6 expression contributes to Th17 cell 
+function in autoimmune disease, especially in autoimmune arthritis such as RA.

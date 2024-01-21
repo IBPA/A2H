@@ -1,0 +1,23 @@
+Mannan-binding lectin-associated serine protease 3 (MASP-3) regulates the 
+alternative pathway of complement and is predominantly synthesized in the liver. 
+The role of liver-derived MASP-3 in the pathogenesis of rheumatoid arthritis 
+(RA) is unknown. We hypothesized that liver-derived MASP-3 is essential for the 
+development of joint damage and that targeted inhibition of MASP-3 in the liver 
+can attenuate arthritis. We used MASP-3-specific small interfering RNAs (siRNAs) 
+conjugated to N-acetylgalactosamine (GalNAc) to specifically target the liver 
+via asialoglycoprotein receptors. Active GalNAc-MASP3-siRNA conjugates were 
+identified, and in vivo silencing of liver MASP-3 mRNA was demonstrated in 
+healthy mice. The s.c. treatment with GalNAc-MASP-3-siRNAs specifically 
+decreased the expression of MASP-3 in the liver and the level of MASP-3 protein 
+in circulation of mice without affecting the levels of the other spliced 
+products. In mice with collagen Ab-induced arthritis, s.c. administration of 
+GalNAc-MASP-3-siRNA decreased the clinical disease activity score to 50% of 
+controls, with decrease in histopathology scores and MASP-3 deposition. To 
+confirm the ability to perform MASP-3 gene silencing in human cells, we 
+generated a lentivirus expressing a short hairpin RNA specific for human MASP-3 
+mRNA. This procedure not only eliminated the short-term (at day 15) expression 
+of MASP-3 in HepG2 and T98G cell lines but also diminished the long-term (at day 
+60) synthesis of MASP-3 protein in T98G cells. Our study demonstrates that 
+isoform-specific silencing of MASP-3 in vivo modifies disease activity in a 
+mouse model of RA and suggests that liver-directed MASP3 silencing may be a 
+therapeutic approach in human RA.

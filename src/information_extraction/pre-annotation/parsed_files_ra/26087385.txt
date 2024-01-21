@@ -1,0 +1,29 @@
+CTLA4Ig has therapeutic potential for rheumatoid arthritis patients unresponsive 
+to methotrexate (MTX) or TNF-α blockers. However, recombinant CTLA4Ig proteins 
+are short acting and expensive. Adipose tissue-derived mesenchymal stem cells 
+(ASCs) present an ideal stem cell source for practical regenerative medicine due 
+to their abundant availability and their beneficial properties including 
+immunomodulation, homing activity, paracrine effects, and differentiation 
+ability. Therefore, we aimed to determine whether CTLA4Ig and human ASCs show 
+synergistic effects on immunomodulation and clinical improvement of sustained 
+severe rheumatoid arthritis in a mouse model. hASCs overexpressing CTLA4Ig 
+(CTLA4Ig-hASC) were serially transplanted into mice with collagen-induced 
+arthritis. Arthritic mice were subjected to four treatments based on their 
+arthritis score on day 62 postimmunization: control (C group), hASC (H group), 
+CTLA4Ig-hASC (CT group), and MTX (MTX group). A group of healthy mice was used 
+as a normal control (N). Mice in the N and C groups were infused with 150 µl 
+saline, and 2 × 10(6) hASCs or CTLA4Ig-hASCs in 150 µl of saline were 
+intravenously administered to those in the H and CT groups, respectively, on 
+days 63, 70, 77, and 84 after CII immunization. About 1 mg/kg of methotrexate 
+was intraperitoneally administered to the MTX group three times a week for 4 
+weeks. Serial hASC and CTLA4Ig-hASC transplantation modulated various cytokines 
+and chemokines related to the development of rheumatoid arthritis. Both 
+treatments protected against destruction of cartilage, with CTLA4Ig-hASCs being 
+most effective. Serum levels of CII autoantibodies and C-telopeptide of type II 
+collagen were significantly low in the group transplanted with CTLA4Ig-hASCs. In 
+vitro, ASC and CTLA4Ig-hASC treatment significantly decreased T-bet and GATA-3 
+expression in splenocytes from arthritic mice, and CTLA4Ig-hASC treatment 
+significantly increased the ratio of Treg/Th17 
+(CD4(+)CD25(+)FoxP3(+)/CD4(+)CD25(+)RORγt) cells. Serial hASC and CTLA4Ig-hASC 
+transplantation offers promising treatment for rheumatoid arthritis, and 
+CTLA4Ig-hASCs showed stronger therapeutic effects than nontransduced hASCs.

@@ -1,0 +1,22 @@
+Angiogenesis means the formation of new blood vessels from preexisting vascular, 
+is of fundamental importance in several pathological states such as tumor 
+growth, rheumatoid arthritis, and diabetic retinopathy. Angiogenesis involves a 
+set of steps, including activation and movement of endothelial cells and tube 
+formation. Control of these steps by drugs or dietary food components is a 
+hopeful approach for the prevention of angiogenic disorders. Based on these 
+backgrounds, we searched the anti-angiogenic food components. As a result, we 
+found that tocotrienol (T3), especially delta, beta, and gamma-T3 has the potent 
+anti-angiogenic activity in vitro and in vivo experiments. T3, which is rich in 
+rice bran and palm oil, inhibited growth factor-induced proliferation, migration 
+and tube formation in human umbilical vein endothelial cells. T3 showed 
+inhibition of tumor cell-induced angiogenesis in mouse dorsal air sac (DOS) 
+assay. These results indicated that T3 is a potent anti-angiogenesis compound. 
+Tocopherol (Toc) did not inhibit angiogenesis. The anti-angiogenic mechanism of 
+T3 and Toc was evaluated by western blotting. T3 inhibited activation of growth 
+factor-induced extracellular signal-regulated kinase, Akt (protein kinase B), 
+and endothelial nitric oxide synthase (eNOS), which are located downstream of 
+the various growth factor receptors. T3 suppressed phosphorylation of vascular 
+endothelial growth factor (VEGF) receptor 2. These effects were dose-dependent 
+manner. Anti-angiogenic mechanism of T3 mediates inhibition of growth factor 
+induced survival, migration and angiogenesis signals. These findings suggested 
+that T3 may have potential for preventing angiogenic disorders in humans.

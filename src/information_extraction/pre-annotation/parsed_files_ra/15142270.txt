@@ -1,0 +1,24 @@
+We investigated the therapeutic potential and mechanism of action of IFN-beta 
+protein for the treatment of rheumatoid arthritis (RA). Collagen-induced 
+arthritis was induced in DBA/1 mice. At the first clinical sign of disease, mice 
+were given daily injections of recombinant mouse IFN-beta or saline for 7 days. 
+Disease progression was monitored by visual clinical scoring and measurement of 
+paw swelling. Inflammation and joint destruction were assessed histologically 8 
+days after the onset of arthritis. Proteoglycan depletion was determined by 
+safranin O staining. Expression of cytokines, receptor activator of NF-kappaB 
+ligand, and c-Fos was evaluated immunohistochemically. The IL-1-induced 
+expression of IL-6, IL-8, and granulocyte/macrophage-colony-stimulating factor 
+(GM-CSF) was studied by ELISA in supernatant of RA and osteoarthritis 
+fibroblast-like synoviocytes incubated with IFN-beta. We also examined the 
+effect of IFN-beta on NF-kappaB activity. IFN-beta, at 0.25 microg/injection and 
+higher, significantly reduced disease severity in two experiments, each using 
+8-10 mice per treatment group. IFN-beta-treated animals displayed significantly 
+less cartilage and bone destruction than controls, paralleled by a decreased 
+number of positive cells of two gene products required for osteoclastogenesis, 
+receptor activator of NF-kappaB ligand and c-Fos. Tumor necrosis factor alpha 
+and IL-6 expression were significantly reduced, while IL-10 production was 
+increased after IFN-beta treatment. IFN-beta reduced expression of IL-6, IL-8, 
+and GM-CSF in RA and osteoarthritis fibroblast-like synoviocytes, correlating 
+with reduced NF-kappaB activity. The data support the view that IFN-beta is a 
+potential therapy for RA that might help to diminish both joint inflammation and 
+destruction by cytokine modulation.

@@ -1,0 +1,19 @@
+Clostridium difficile is the leading cause of antibiotic-associated diarrhea in 
+adults. During infection, C. difficile must detect the host environment and 
+induce an appropriate survival strategy. Signal transduction networks involving 
+serine/threonine kinases (STKs) play key roles in adaptation, as they regulate 
+numerous physiological processes. PrkC of C. difficile is an STK with two PASTA 
+domains. We showed that PrkC is membrane associated and is found at the septum. 
+We observed that deletion of prkC affects cell morphology with an increase in 
+mean size, cell length heterogeneity, and presence of abnormal septa. A ΔprkC 
+mutant was able to sporulate and germinate but was less motile and formed more 
+biofilm than the wild-type strain. Moreover, a ΔprkC mutant was more sensitive 
+to antimicrobial compounds that target the cell envelope, such as the secondary 
+bile salt deoxycholate, cephalosporins, cationic antimicrobial peptides, and 
+lysozyme. This increased susceptibility was not associated with differences in 
+peptidoglycan or polysaccharide II composition. However, the ΔprkC mutant had 
+less peptidoglycan and released more polysaccharide II into the supernatant. A 
+proteomic analysis showed that the majority of C. difficile proteins associated 
+with the cell wall were less abundant in the ΔprkC mutant than the wild-type 
+strain. Finally, in a hamster model of infection, the ΔprkC mutant had a 
+colonization delay that did not significantly affect overall virulence.

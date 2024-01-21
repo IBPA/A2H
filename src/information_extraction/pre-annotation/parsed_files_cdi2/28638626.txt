@@ -1,0 +1,28 @@
+BACKGROUND: The horse intestinal tract is sensitive and contains a highly 
+complex microbial population. A shift in the microbial population can lead to 
+various issues such as inflammation and colic. The use of nutraceuticals in the 
+equine industry is on the rise and curcumin is thought to possess antimicrobial 
+properties that may help to minimize the proliferation of opportunistic 
+bacteria.
+METHODS: Four cecally-cannulated horses were utilized to determine the optimal 
+dose of liposomal-curcumin (LIPC) on reducing Streptococcus bovis/equinus 
+complex (SBEC), Escherichia coli K-12, Escherichia coli general, Clostridium 
+difficile, and Clostridium perfringens in the equine hindgut without adversely 
+affecting cecal characteristics. In the first study cecal fluid was collected 
+from each horse and composited for an in vitro, 24 h batch culture to examine 
+LIPC at four different dosages (15, 20, 25, and 30 g) in a completely randomized 
+design. A subsequent in vivo 4 × 4 Latin square design study was conducted to 
+evaluate no LIPC (control, CON) or LIPC dosed at 15, 25, and 35 g per day 
+(dosages determined from in vitro results) for 9 days on the efficacy of LIPC on 
+selected bacterial strains, pH, and volatile fatty acids. Each period was 
+14 days with 9 d for acclimation and 5 d withdrawal period.
+RESULTS: In the in vitro study dosage had no effect (P ≥ 0.42) on Clostridium 
+strains, but as the dose increased SBEC concentrations increased (P = 0.001). 
+Concentrations of the E. coli strain varied with dose. In vivo, LIPC's 
+antimicrobial properties, at 15 g, significantly decreased (P = 0.02) SBEC when 
+compared to 25 and 35 g dosages. C. perfringens decreased linearly (P = 0.03) as 
+LIPC dose increased. Butyrate decreased linearly (P = 0.01) as LIPC dose 
+increased.
+CONCLUSION: Further studies should be conducted with a longer dosing period to 
+examine the antimicrobial properties of curcumin without adversely affecting 
+cecal characteristics.

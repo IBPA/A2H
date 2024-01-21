@@ -1,0 +1,22 @@
+BACKGROUND: Rheumatoid arthritis is characterized by inflammation of the 
+synovial tissue. High systemic doses are necessary to achieve therapeutic levels 
+of anti-rheumatic drugs in the joints. Gene transfer might provide a more 
+efficient delivery system for genes encoding therapeutic proteins.
+METHODS: The artificial chromosome expression system (ACE System) is a new 
+non-integrating, non-viral gene expression system which functions like a natural 
+chromosome. This technology offers advantages over current expression systems 
+because it allows stable and predictable expression of proteins encoded by 
+single or multiple genes over long periods of time. We are developing ex vivo 
+gene therapy using murine artificial chromosomes containing a reporter gene 
+(LacZ and red fluorescent protein (RFP)) for local delivery of genes in rats 
+with adjuvant arthritis (AA).
+RESULTS: The delivery of the intact ACE System into rat fibroblast-like 
+synoviocytes (FLS) and rat skin fibroblasts (RSF) was detected within 24 to 48 h 
+post-transfection. After growing cells under selection, clones expressing LacZ 
+and RFP were identified. Furthermore, we investigated the feasibility of local 
+delivery of a reporter gene to the joints of rats with AA by ex vivo gene 
+therapy. This resulted in engraftment of the injected cells in the synovial 
+tissue microarchitecture and expression of the reporter gene.
+CONCLUSIONS: This work demonstrates the potential feasibility of treating 
+arthritis and other inflammatory diseases using fibroblasts containing the ACE 
+System as a non-viral vector for gene therapy.

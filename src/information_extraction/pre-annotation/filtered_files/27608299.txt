@@ -1,0 +1,22 @@
+Protein tyrosine kinases are key mediators of the signal transduction cascades 
+that control expression of many genes involved in the induction of inflammation 
+caused by arthritis. Here we investigate the effect of the tyrosine kinase 
+inhibitor tyrphostin AG126 on a mouse model of adjuvant-induced arthritis (AIA). 
+We report that when given at 5mg/kg i.p. every 48h from days 0-21, AG126 exerts 
+potent anti-arthritic effects. Further, we investigated the role of AG126 on the 
+key mediators of arthritic inflammation, namely, edema, arthritic score, 
+presence of immunophenotypes including Foxp3+, CD4+Foxp3+, and CD25+Foxp3+ T 
+regulatory (Treg) cells, as well as pro- and anti-inflammatory mediators. AG126 
+treatment significantly attenuated the severity of AIA and caused a substantial 
+reduction in the percentage of CD2+, CD3+, CD4+, CD8+, CD23+, CD80+, CD86+ 
+CD122+, CD195+, TCRβ+, and GITR+ cells in whole blood. Moreover, administration 
+of AG126 under arthritis-inducing conditions resulted in suppression of IL-17A+, 
+IFN-γ+, CD4+ and CD25+ populations while causing an increase in the Foxp3+, 
+CD4+Foxp3+, and CD25+Foxp3+ Treg populations in the spleen. In addition, RT-PCR 
+analysis revealed increased expression of CD4, CD8, IL-17A, IFN-γ, TNF-α, and 
+NF-κB p65 mRNAs and decreased IL-4 mRNA in the arthritic control (AC) mice, 
+while treatment of animals with AG126 reversed these effects. Western blot 
+analysis confirmed the decreased expression of IL-17, GITR, NF-κB p65 proteins 
+and increased Foxp3 and IL-4 proteins following AG126 treatment of knee tissue. 
+Thus, our findings provide new evidence that inhibition of protein tyrosine 
+kinase activity decreases the progression of arthritis.

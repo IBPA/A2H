@@ -1,0 +1,18 @@
+In vivo, apoptotic cells are removed by surrounding phagocytes, a process 
+thought to be essential for tissue remodeling and the resolution of inflammation 
+[1]. Although apoptotic cells are known to be efficiently phagocytosed by 
+macrophages, the mechanisms whereby their interaction with the phagocytes 
+triggers their engulfment have not been described in mammals. Here, we report 
+that primary murine bone marrow-derived macrophages (using alpha(v)beta(3) 
+integrin for apoptotic cell uptake) extend lamellipodia to engulf apoptotic 
+cells and form an actin cup where phosphotyrosine accumulates. Rho GTPases and 
+PI 3-kinases have been widely implicated in the regulation of the actin 
+cytoskeleton [2, 3]. We show that inhibition of Rho GTPases by Clostridium 
+difficile toxin B prevents apoptotic cell phagocytosis and inhibits the 
+accumulation of both F-actin and phosphotyrosine. Importantly, the Rho GTPases 
+Rac1 and Cdc42 are required for apoptotic cell uptake whereas Rho inhibition 
+enhances uptake. The PI 3-kinase inhibitor LY294002 also prevents apoptotic cell 
+phagocytosis but has no effect on the accumulation of F actin and 
+phosphotyrosine. These results indicate that both Rho GTPases and PI 3-kinases 
+are involved in apoptotic cell phagocytosis but that they play distinct roles in 
+this process.

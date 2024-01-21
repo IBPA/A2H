@@ -1,0 +1,11 @@
+Antigen (Ag)-stimulated phospholipase D (PLD) activation and secretion were 
+almost abolished by pretreatment of rat basophilic leukemia (RBL)-2H3 cells for 
+4 h with 5 ng/ml Clostridium difficile Toxin B which is known to inhibit Rho 
+family proteins (Rho, Cdc42, Rac). The concentration-dependent inhibition of PLD 
+activation was well correlated with the level of glucosylation of Rho family 
+proteins. In streptolysin O-permeabilized RBL cells, Toxin B suppressed [3H] 
+phosphatidylbutanol (PBut) formation in response to guanosine 
+5'-O-(3-thiotriphosphate) (GTP gamma S) and phorbol 12-myristate 13-acetate 
+(PMA) by 67 and 43%, respectively. The synergistic PLD activation by GTP gamma S 
+and PMA was also reduced by Toxin B by 67%. These results suggest that the IgE 
+receptor-coupled PLD activation is largely mediated by Rho proteins.

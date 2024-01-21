@@ -1,0 +1,14 @@
+Dendritic cells (DCs) are professional antigen presenting cells, and play an 
+important role in the induction of antigen-specific adaptive immunity. However, 
+some DC populations are involved in immune regulation and immune tolerance. 
+These DC populations are believed to take part in the control of immune 
+exaggeration and immune disorder, and maintain immune homeostasis in the body. 
+Tolerogenic DCs (tolDCs) can be generated in vitro by genetic or pharmacological 
+modification or by controlling the maturation stages of cytokine-derived DCs. 
+These tolDCs have been investigated for the treatment of rheumatoid arthritis 
+(RA) in experimental animal models. In the last decade, several in vitro and in 
+vivo approaches have been translated into clinical trials. As of 2015, three 
+tolDC trials for RA are on the list of ClinicalTrial.gov 
+(www.clinicaltrials.gov). Other trials for RA are in progress and will be listed 
+soon. In this review, we discuss the evolution of tolDC-based immunotherapy for 
+RA and its limitations and future prospects.

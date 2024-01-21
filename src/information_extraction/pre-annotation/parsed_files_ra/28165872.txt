@@ -1,0 +1,26 @@
+Recent studies have indicated a potential correlation between rheumatoid 
+arthritis (RA) and periodontal inflammation. We undertook this study to verify 
+whether RA mediates periodontitis-like phenotypes in experimental mouse models 
+of RA and to explore the role of nicotinamide phosphoribosyltransferase (NAMPT) 
+in periodontal inflammation during RA pathogenesis. Periodontal inflammation and 
+alveolar bone loss have been reported in mice with collagen-induced arthritis 
+(CIA) and in genetically modified tumor necrosis factor-α (TNF-α) transgenic 
+(TG) mouse models. Among the adipokines examined in our study, NAMPT expression 
+was markedly upregulated in the periodontal ligament (PDL) tissues in RA mouse 
+models and in human PDL cells stimulated by the proinflammatory cytokines, 
+interleukin (IL) 1β and TNF-α. When NAMPT was overexpressed with the 
+Nampt-synthesizing adenovirus vector (Ad- Nampt), the PDL cells exhibited an 
+increased expression of cytokines (IL6), chemokines (IL8 and chemokine [C-C 
+motif] ligand 5 [CCL5]), inflammatory mediators (cyclooxygenase 2 [COX-2]), and 
+matrix-degrading enzymes (matrix metalloproteinase [MMP] 1 and MMP3). Inhibition 
+of NAMPT by the intracellular NAMPT (iNAMPT) inhibitor, FK866, or by the sirtuin 
+inhibitor, nicotinamide, in PDL cells led to inhibition of the IL1β or Ad- 
+Nampt-induced upregulation of catabolic factors, whereas treatment with 
+recombinant NAMPT protein or blockade of extracellular NAMPT (eNAMPT) with 
+blocking antibody did not. Moreover, NAMPT inhibition by the intraperitoneal or 
+intragingival injection of FK866 in CIA mice inhibited periodontal tissue 
+damage, under conditions of RA. Thus, our results verified the co-occurrence of 
+RA and periodontal inflammation using experimental mouse models of RA, 
+suggesting that iNAMPT in PDL cells plays a pivotal role in the pathogenesis of 
+RA-mediated periodontal inflammation by regulating the expression levels of 
+catabolic genes, such as IL6, IL8, CCL5, COX-2, MMP1, and MMP3.

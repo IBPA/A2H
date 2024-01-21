@@ -1,0 +1,28 @@
+OBJECTIVE: To determine the role and expression of the cytokine/receptor pair 
+interleukin-21 (IL-21)/IL-21 receptor (IL-21R) in rheumatoid arthritis (RA).
+METHODS: The expression of IL-21R and IL-21 was analyzed by TaqMan real-time 
+polymerase chain reaction (PCR) and in situ hybridization of synovial biopsy 
+samples from patients with RA and osteoarthritis (OA). Double labeling by 
+immunohistochemistry after in situ hybridization was performed with anti-CD68 
+antibodies. The expression of IL-21R at the protein level was confirmed by 
+Western blotting. Stimulation experiments were performed with recombinant 
+IL-1beta, tumor necrosis factor alpha (TNFalpha), platelet-derived growth factor 
+(PDGF), and transforming growth factor beta (TGFbeta). The role of IL-21R in 
+cartilage destruction was analyzed in the SCID mouse coimplantation model of RA.
+RESULTS: IL-21R was found in total RNA extracts and in synovial biopsy samples 
+from RA patients, whereas no expression or only minimal expression was seen in 
+samples from OA patients. Double labeling indicated that both synovial 
+macrophages and synovial fibroblasts expressed IL-21R. Western blotting with 
+anti-IL-21R antibodies confirmed the expression of IL-21R protein in RA synovial 
+fibroblasts (RASFs). Of note, IL-21 was not detectable by real-time PCR and in 
+situ hybridization in the same samples in vivo as in vitro. The level of 
+expression of IL-21R messenger RNA (mRNA) was not altered by stimulation with 
+IL-1beta, TNFalpha, PDGF, or TGFbeta. Interestingly, in the SCID mouse 
+coimplantation model, RASFs did not maintain their expression of IL-21R at sites 
+of invasion into the cartilage. Similarly, IL-21R mRNA was not expressed at 
+sites of invasion into cartilage and bone in RA synovium.
+CONCLUSION: Our data demonstrate that IL-21R is expressed in RA synovium by 
+RASFs and synovial macrophages. IL-21R is associated with the activated 
+phenotype of RASFs independently of the major proinflammatory cytokines IL-1beta 
+and TNFalpha, but correlates negatively with the destruction of articular 
+cartilage and bone.

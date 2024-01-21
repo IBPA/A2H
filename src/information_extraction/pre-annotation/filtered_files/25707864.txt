@@ -1,0 +1,25 @@
+The complexity of rheumatoid arthritis (RA) pathogenesis makes combined blockade 
+of key pathogenic factors an attractive therapeutic strategy. We have previously 
+reported a novel recombinant adeno-associated virus (AAV) vector, AAV.TFCF, 
+which mediates separate coexpression of TNFα antagonist TNFR-Fc and T cell 
+antagonist CTLA4-FasL both in vitro and in vivo (the injected joints). The 
+purpose of this study was to examine the efficacy of TNFR-Fc/CTLA4-FasL 
+combination therapy mediated by AAV.TFCF in experimental model of RA. 
+Adjuvant-induced arthritis (AIA) was induced in Lewis rats, and the recombinant 
+AAV.TFCF was injected into rat ankle joints. AAV vector encoding CTLA4-FasL 
+(AAV.CTFA) or TNFR-Fc (AAV.TRFC) was used as the monotherapy control, and an AAV 
+vector mediating the expression of enhanced green fluorescent protein (AAV.EGFP) 
+was used as the negative control. The combination treatment mediated by AAV.TFCF 
+demonstrated a more effective suppression of AIA compared with those monotherapy 
+controls, as reflected in the clinical and histological observations. The 
+synergistic anti-inflammatory effect of TNFR-Fc combining with CTLA4-FasL was 
+proved to be associated with the greater reductions of inflammatory CD4+ T cell 
+infiltration and proinflammatory cytokine TNFα level in the arthritic joints. In 
+addition, the combination therapy was found to be able to increase the frequency 
+of CD4 + CD25 + FoxP3+ regulatory T cell population in rat draining lymph nodes 
+and suppress splenic inflammatory responses. These results suggest that 
+combination treatment with TNFR-Fc and CTLA4-FasL may achieve superior efficacy 
+in suppressing RA, and using this novel recombinant AAV.TFCF to obtain the 
+combined counteraction of both pathogenic T cells and the key proinflammatory 
+cytokine TNFα may provide a more effective and desirable strategy for treatment 
+of RA.

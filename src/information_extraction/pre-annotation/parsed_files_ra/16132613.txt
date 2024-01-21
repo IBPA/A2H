@@ -1,0 +1,23 @@
+Sinomenine is an alkaloid extracted from the Chinese medicinal plant, Sinomenium 
+acutum, which has been utilized to treat rheumatoid arthritis (RA) in China for 
+over 2000 years. Sinomenine has been shown to mediate a wide range of 
+pharmacological actions which includes anti-inflammatory and anti-rheumatic 
+effects. RA has been classified as a chronic immune-mediated disease that 
+exhibits overlapping manifestation of inflammatory, abnormal cellular and 
+hormonal immune responses with synovial hyperplasia. Since, angiogenesis is 
+recognized to play a critical role in the development of RA and anti-angiogenic 
+therapy has been proposed as a new therapeutic strategy for treatment of RA, we 
+would like to see if sinomenine possesses anti-angiogenic property. In this 
+study, sinomenine inhibited bFGF-induced proliferation of human umbilical vein 
+endothelial cells (HUVEC) and arrested its cell cycle in G1 phase. Sinomenine 
+disrupted tube formation of HUVEC on Matrigel and suppressed the chemotaxis of 
+HUVEC. In addition, sinomenine reduced neovascularization in Matrigel plug assay 
+as well as microvascular outgrowth in rat aorta ring sprouting assay. These 
+results suggest that sinomenine inhibited bFGF-induced angiogenesis in vitro and 
+in vivo. As the leukocytes-endothelial adhesive interactions also play an 
+important role in inflammation, we found that sinomenine reduced the 
+transmigration of granulocytic differentiated HL60 cells across IL-1beta 
+activated HUVEC monolayer. Therefore, the inhibition of leukocytes migration 
+across blood vessel walls and the anti-angiogenic effect of sinomenine may 
+contribute towards its therapeutic mechanisms in alleviating the pathogenesis of 
+RA.

@@ -1,0 +1,14 @@
+BTK plays a critical role in the B cell receptor mediated inflammatory signaling 
+in the rheumatoid arthritis (RA). Through a rational design approach we 
+discovered a highly selective and potent BTK kinase inhibitor (CHMFL-BTK-11) 
+which exerted its inhibitory efficacy through a covalent bond with BTK Cys481. 
+CHMFL-BTK-11 potently blocked the anti-IgM stimulated BCR signaling in the Ramos 
+cell lines and isolated human primary B cells. It significantly inhibited the 
+LPS stimulated TNF-α production in the human PBMC cells but only weakly 
+affecting the normal PBMC cell proliferation. In the adjuvant-induced arthritis 
+rat model, CHMFL-BTK-11 ameliorated the inflammatory response through blockage 
+of proliferation of activated B cells, inhibition of the secretion of the 
+inflammatory factors such as IgG1, IgG2, IgM, IL-6 and PMΦ phagocytosis, 
+stimulation of secretion of IL-10. The high specificity of CHMFL-BTK-11 makes it 
+a useful pharmacological tool to further detect BTK mediated signaling in the 
+pathology of RA.

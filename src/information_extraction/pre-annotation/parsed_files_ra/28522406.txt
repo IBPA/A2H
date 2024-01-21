@@ -1,0 +1,22 @@
+BACKGROUND AND PURPOSE: The balance between T helper 17 (Th17) cells and 
+regulatory T (Treg) cells, plays a critical role in rheumatoid arthritis (RA). 
+The differentiation of Th17 cells requires the activation of STAT3, which 
+determines the balance of Th17/Treg. Here, we investigated the therapeutic 
+effect of Cryptotanshinone (CTS) on collagen induced mouse arthritis and 
+explored the underlying mechanisms.
+EXPERIMENTAL APPROACH: Arthritis was induced in DBA/1 mice with bovine collagen 
+type II and complete Freund's adjuvant. CTS was given at 20mgkg-1d-1 or 
+60mgkg-1d-1 by gavage for 6weeks. The immuno-inflammation and joint destruction 
+were evaluated and the balance of Th17/Treg was determined. STAT3 acetylation 
+and phosphorylation were detected by western blotting, and the involvement of 
+p300 was investigated by siRNA and plasmid overexpression.
+KEY RESULTS: CTS at a dose of 60mgkg-1d-1 ameliorated the inflammation and joint 
+destruction in CIA mice. It improved Th17/Treg imbalance, and inhibited both 
+acetylation and phosphorylation of STAT3. CTS reduced p300 expression and its 
+binding to STAT3, but increased phosphorylated AMPK. Knockdown of p300 mimicked 
+the inhibitory effect of CTS on STAT3 acetylation and phosphorylation, which 
+could be partially rescued by overexpression of p300-WT, but not p300-dominant 
+negative (DN) construct.
+CONCLUSION AND IMPLICATIONS: Our study suggested that the anti-arthritis effects 
+of CTS were attained through suppression of p300-mediated STAT3 acetylation. Our 
+data suggest that CTS might be a potential immune modulator for RA treatment.

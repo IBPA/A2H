@@ -1,0 +1,14 @@
+Methicillin-resistant Staphylococcus aureus (MRSA) is the most frequent cause of 
+hospital-acquired infection, which manifests as surgical site infections, 
+bacteremia, and sepsis. Due to drug-resistance, prophylaxis of MRSA infection 
+with antibiotics frequently fails or incites nosocomial diseases such as 
+Clostridium difficile infection. Sortase A is a transpeptidase that anchors 
+surface proteins in the envelope of S. aureus, and sortase mutants are unable to 
+cause bacteremia or sepsis in mice. Here we used virtual screening and 
+optimization of inhibitor structure to identify 
+3-(4-pyridinyl)-6-(2-sodiumsulfonatephenyl)[1,2,4]triazolo[3,4-b][1,3,4]thiadiazole 
+and related compounds, which block sortase activity in vitro and in vivo. 
+Sortase inhibitors do not affect in vitro staphylococcal growth yet protect mice 
+against lethal S. aureus bacteremia. Thus, sortase inhibitors may be useful as 
+antiinfective therapy to prevent hospital-acquired S. aureus infection in 
+high-risk patients without the side effects of antibiotics.

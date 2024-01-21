@@ -1,0 +1,24 @@
+BACKGROUND: Rheumatoid arthritis (RA) is a long-term autoimmune disorder that 
+primarily results in warm, swollen, and painful joints. In this study, we 
+investigate the potentially therapeutic role of artesunate (Art) on chondrocyte 
+proliferation, apoptosis and autophagy in rheumatoid arthritis (RA) via the 
+PI3K/AKT/mTOR signaling pathway.
+METHODS: Rat model of RA was successfully established through subcutaneous 
+injection of emulsion. Positive protein expression rates of PI3K, AKT and mTOR 
+were determined by immunohistochemistry. RA chondrocytes were initially 
+randomized into five different groups. The mRNA expressions of PI3K, AKT, mTOR, 
+Bcl-2, Bcl-xl, LC3-I, LC3-II and Becline-1 were measured by RT-qPCR. Protein 
+expressions of p-PI3K, p-AKT, p-mTOR, Bcl-2, Bcl-xl, Bax, LC3-I, LC3-II and 
+Becline-1 were determined using western blotting. The chondrocytes of rats with 
+RA and normal rats were isolated and cultured in vitro. Chondrocyte 
+proliferation, apoptosis, cell cycle and autophagy were all determined by CCK-8 
+assay, flow cytometry and transmission electron microscope (TEM).
+RESULTS: Artesunate alleviated the inflammation and did not produce any form of 
+hepatotoxicity in rats with RA. In addition, Artesunate decreased expressions of 
+PI3K, AKT, mTOR, p-PI3K, p-AKT, p-mTOR Bcl-2 and Bcl-xl and increased Bax, 
+LC3II/LC3I and Becline-1 protein expression. Artesunate also inhibited 
+chondrocyte proliferation and accelerates cell apoptosis and autophagy via 
+suppression of the PI3K/AKT/mTOR signaling pathway.
+CONCLUSION: Our study demonstrates that Art inhibits chondrocyte proliferation 
+and accelerates apoptosis and autophagy in RA rats through the PI3K/AKT/mTOR 
+signaling pathway.

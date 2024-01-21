@@ -1,0 +1,26 @@
+CONTEXT: Garcinia mangostana Linn. (Guttiferae) pericarp is used as a 
+traditional medicine in South Asia to treat inflammatory diseases.
+OBJECTIVE: This study investigates therapeutic effects of G. mangostana pericarp 
+ethanol extract (MAN) on collagen-induced arthritis (CIA) and interactions with 
+methotrexate in vivo.
+MATERIALS AND METHODS: Male Sprague-Dawley rats with CIA were treated with MAN 
+(0.5 g/kg/day), methotrexate (0.5 mg/kg, bw) or combination of both for 36 days, 
+respectively (n = 8/group). Another eight healthy and CIA rats served as normal 
+and model control, respectively. Therapeutic effects were evaluated based on paw 
+edema and arthritis score during the experiment and serological markers at the 
+end of the study period. Histological and radiological examinations were used to 
+assess joint destructions. The immune status was investigated by 
+immunohistochemistry and flow cytometry.
+RESULTS: All treatments decreased the arthritis score and paw inflammation in 
+CIA rats. Combination regimen significantly reduced anti-cyclic citrullinated 
+peptide antibody in CIA rats to 85.83% (p < 0.05) and notably alleviated 
+synovial hyperplasia and cartilage degradation in joints. Different from 
+methotrexate, MAN significantly augmented CD25+ cells distribution (from 2.72 to 
+3.35%) and IL-10 secretion (from 202.4 to 241.2 pg/mL) in CIA rat blood. 
+Meanwhile, MAN induced a greater IL-17 decrease and a FOXP3 increase in immune 
+organs than MTX. Reduced TLR4 and IL-17 expression and elevated FOXP3 expression 
+in joints also occurred under MAN treatment.
+CONCLUSIONS: MAN protected joints from destruction in CIA rats and exerted 
+synergistic effects with methotrexate by improving immune microenvironment. The 
+combination regimen could bring additional benefits to rheumatoid arthritis 
+patients.

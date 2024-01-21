@@ -1,0 +1,25 @@
+OBJECTIVE: Blood C-reactive protein (CRP) is routinely measured to gauge 
+inflammation. In rheumatoid arthritis (RA), a heightened CRP level is predictive 
+of a poor outcome, while a lowered CRP level is indicative of a positive 
+response to therapy. CRP interacts with the innate and adaptive immune systems 
+in ways that suggest it may be causal in RA and, although this is not proven, it 
+is widely assumed that CRP makes a detrimental contribution to the disease 
+process. Paradoxically, results from animal studies have indicated that CRP 
+might be beneficial in RA. This study was undertaken to study the role of CRP in 
+a mouse model of RA, the collagen-induced arthritis (CIA) model.
+METHODS: We compared the impact of CRP deficiency with that of transgenic 
+overexpression of CRP on inflammatory and immune responses in mice, using 
+CRP-deficient (Crp-/-) and human CRP-transgenic (CRP-Tg) mice, respectively. 
+Susceptibility to CIA, a disease that resembles RA in humans, was compared 
+between wild-type, Crp-/-, and CRP-Tg mice.
+RESULTS: CRP deficiency significantly altered the inflammatory cytokine response 
+evoked by challenge with endotoxin or anti-CD3 antibody, and heightened some 
+immune responses. Compared to that in wild-type mice, CIA in Crp-/- mice 
+progressed more rapidly and was more severe, whereas CIA in CRP-Tg mice was 
+dramatically attenuated. Despite these disparate clinical outcomes, anticollagen 
+autoantibody responses during CIA did not differ among the genotypes.
+CONCLUSION: CRP exerts an early and beneficial effect in mice with CIA. The 
+mechanism of this effect remains unknown but does not involve improvement of the 
+autoantibody profile. In humans, the presumed detrimental role of a heightened 
+blood CRP level during active RA might be balanced by a beneficial effect of the 
+baseline CRP (i.e., levels manifest during the preclinical stages of disease).

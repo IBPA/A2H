@@ -1,0 +1,29 @@
+OBJECTIVE: NF-kappaB activation is associated with several inflammatory 
+disorders, including rheumatoid arthritis (RA), making this family of 
+transcription factors a good target for the development of antiinflammatory 
+treatments. Although inhibitors of the NF-kappaB pathway are currently 
+available, their specificity has not been adequately determined. IkappaBalpha is 
+a physiologic inhibitor of NF-kappaB and a potent repressor experimentally when 
+expressed in a nondegradable form. We describe here a novel means for 
+specifically regulating NF-kappaB activity in vivo by administering a chimeric 
+molecule comprising the super-repressor IkappaBalpha (srIkappaBalpha) fused to 
+the membrane-transducing domain of the human immunodeficiency virus Tat protein 
+(Tat-srIkappaBalpha).
+METHODS: The Wistar rat carrageenan-induced pleurisy model was used to assess 
+the effects of in vivo administration of Tat-srIkappaBalpha on leukocyte 
+infiltration and on cytokine and chemokine production.
+RESULTS: Systemic administration of Tat-srIkappaBalpha diminished infiltration 
+of leukocytes into the site of inflammation. Analysis of the recruited 
+inflammatory cells confirmed uptake of the inhibitor and reduction of the 
+NF-kappaB activity. These cells exhibited elevated caspase activity, suggesting 
+that NF-kappaB is required for the survival of leukocytes at sites of 
+inflammation. Analysis of exudates, while showing decreases in the production of 
+the proinflammatory cytokines tumor necrosis factor alpha and interleukin-1beta, 
+also revealed a significant increase in the production of the neutrophil 
+chemoattractants cytokine-induced neutrophil chemoattractant 1 (CINC-1) and 
+CINC-3 compared with controls. This result could reveal a previously unknown 
+feedback mechanism in which infiltrating leukocytes may down-regulate local 
+production of these chemokines.
+CONCLUSION: These results provide new insights into the etiology of inflammation 
+and establish a strategy for developing novel therapeutics by regulating the 
+signaling activity of pathways known to function in RA.

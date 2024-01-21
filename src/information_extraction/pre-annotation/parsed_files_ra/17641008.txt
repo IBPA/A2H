@@ -1,0 +1,20 @@
+The view on reactive oxygen species (ROS) in inflammation is currently shifting 
+from being considered damaging toward having a more complex role in regulating 
+inflammatory reactions. We recently demonstrated a role of ROS in regulation of 
+animal models for the autoimmune disease rheumatoid arthritis. Low levels of ROS 
+production, due to a mutation in the Ncf1 gene coding for the Ncf1 (alias 
+p47(phox)) subunit of the NADPH oxidase complex, was shown to be associated with 
+increased autoimmunity and arthritis severity in both rats and mice. To further 
+investigate the role of ROS in autoimmunity, we studied transgenic mice 
+expressing collagen type II (CII) with a mutation (D266E) in the immunodominant 
+epitope that mimics the rat and human CII (i.e., mutated mouse collagen or MMC). 
+This mutation results in a stronger binding of the epitope to the MHC class II 
+molecule and leads to more pronounced tolerance and resistance to arthritis 
+induced with rat CII. When the Ncf1 mutation was bred into these mice, tolerance 
+was broken, resulting in enhanced T cell autoreactivity, high titers of anti-CII 
+Abs, and development of severe arthritis. These findings highlight the 
+importance of a sufficient ROS production in maintenance of tolerance to 
+self-Ags, a central mechanism in autoimmune diseases such as rheumatoid 
+arthritis. This is important as we, for the first time, can follow the effect of 
+ROS on molecular mechanisms where T cells are responsible for either protection 
+or promotion of arthritis depending on the level of oxygen species produced.

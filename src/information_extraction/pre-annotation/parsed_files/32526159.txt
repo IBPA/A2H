@@ -1,0 +1,14 @@
+Clostridioides difficile infection of the colon leads to severe inflammation and 
+damage to the gastrointestinal epithelium due to the production of potent 
+toxins. This inflammatory tissue damage causes the liberation of high 
+concentrations of host heme at infection sites. Here, we identify the 
+C. difficile heme-sensing membrane protein system (HsmRA) and show that this 
+operon induces a protective response that repurposes heme to counteract 
+antimicrobial oxidative stress responses. HsmR senses vertebrate heme, leading 
+to increased expression of the hsmRA operon and subsequent deployment of HsmA to 
+capture heme and reduce redox damage caused by inflammatory mediators of 
+protection and antibiotic therapy. Strains with inactivated hsmR or hsmA have 
+increased sensitivity to redox-active compounds and reduced colonization 
+persistence in a murine model of relapse C. difficile infection. These results 
+define a mechanism exploited by C. difficile to repurpose toxic heme within the 
+inflamed gut as a shield against antimicrobial compounds.

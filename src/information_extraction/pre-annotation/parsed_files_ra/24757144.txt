@@ -1,0 +1,26 @@
+OBJECTIVE: To investigate the impact of STA-21, a promising STAT-3 inhibitor, on 
+the development and progression of inflammatory arthritis and to determine the 
+possible mechanisms by which STA-21 has antiarthritic effects in interleukin-1 
+receptor antagonist-knockout (IL-1Ra-KO) mice, an animal model of rheumatoid 
+arthritis (RA).
+METHODS: IL-1Ra-KO mice were treated with intraperitoneal injections of STA-21 
+(0.5 mg/kg) or vehicle 3 times per week for 3 weeks. The mouse joints were 
+assessed for clinical and histologic features of inflammatory arthritis. 
+CD4+CD25+FoxP3+ Treg cells and CD4+IL-17+ cells were defined. Human peripheral 
+blood mononuclear cell-derived monocytes or mouse bone marrow-derived 
+monocyte/macrophage (BMM) cells were cultured in the presence of macrophage 
+colony-stimulating factor alone or together with RANKL and various 
+concentrations of STA-21, followed by staining of the cells for 
+tartrate-resistant acid phosphatase activity to determine osteoclast formation.
+RESULTS: STA-21 suppressed inflammatory arthritis in IL-1Ra-KO mice. The 
+proportion of Th17 cells was decreased and the proportion of Treg cells 
+expressing FoxP3 was markedly increased in the spleens of STA-21-treated mice. 
+Adoptive transfer of CD4+CD25+ T cells obtained from STA-21-treated IL-1Ra-KO 
+mice markedly suppressed inflammatory arthritis. In vitro treatment with STA-21 
+induced the expression of FoxP3 and repressed IL-17 expression in both mouse and 
+human CD4+ T cells. Moreover, STA-21 prevented both mouse BMM cells and human 
+monocytes from differentiating into osteoclasts in vitro.
+CONCLUSION: STA-21 improved the clinical course of arthritis in IL-1Ra-KO mice. 
+It increased not only the number of Treg cells but also the function of the Treg 
+cells. It also suppressed Th17 cells and osteoclast formation. These data 
+suggest that STA-21 might be an effective treatment for patients with RA.

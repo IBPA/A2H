@@ -1,0 +1,19 @@
+OBJECTIVE: This study was designed to determine the anti-inflammatory activity 
+of docosahexaenoic acid (DHA), alone and in combination with eicosapentaenoic 
+acid (EPA), in a murine model of rheumatoid arthritis, collagen induced 
+arthritis (CIA).
+METHODS: The CIA was induced in DBA/1OlaHsd mice by the injection of bovine type 
+II collagen in Freunds's complete adjuvant on days 0 and 21. Mice were fed 
+modified diets containing DHA and/or EPA for 4 weeks prior to the initial 
+collagen injection until study termination at day 45. The severity of CIA was 
+assessed by measuring erythema, edema and mobility of the digits on the fore and 
+hind paws, as well as histology. The level of serum anti-collagen antibodies was 
+determined by ELISA. The ex vivo effects of DHA and/or EPA on splenocyte 
+proliferation and cytokine production were evaluated by BrdU method and ELISA.
+RESULTS: Prophylactic treatment with DHA, and not DHA/EPA, significantly reduced 
+arthritis severity and joint damage. Treatment with DHA also decreased 
+anti-collagen (CII) antibodies in vivo, downregulated interleukin-1β, 
+interferonγ and upregulated protective interleukin-10 ex vivo.
+CONCLUSION: Prophylactic treatment with DHA was efficacious in a mouse model of 
+rheumatoid arthritis and may be a useful intervention strategy against 
+inflammatory arthritis.

@@ -1,0 +1,18 @@
+Inappropriate activation of complement contributes to pathology in diverse 
+inflammatory diseases. Soluble recombinant forms of the natural cell membrane 
+regulators of complement are effective in animal models and some human diseases. 
+However, their use is limited for reasons related to cost, short half lives, and 
+propensity to cause unwanted systemic effects. Some of these limitations may be 
+overcome by use of bacterial expression systems, specific targeting moieties, 
+and judicious choice of regulator. Here we describe the application of these 
+strategies to the generation of a membrane-targeted form of CD59. A recombinant 
+soluble form of rat CD59, comprising the first 71 residues of the mature protein 
+and missing the membrane-anchoring signal, was expressed in bacteria, purified, 
+and refolded in a fully active form. The protein was coupled through its 
+carboxyl terminus to a short, synthetic address tag that confers membrane 
+binding activity. Attachment of the membrane address tag markedly increased 
+complement-inhibitory activity assessed in vitro in hemolysis assays. 
+Intra-articular administration of the tagged agent markedly suppressed disease 
+in a model of rheumatoid arthritis in Lewis rats. This novel type of agent, 
+termed sCD59-APT542, offers for the first time the prospect of efficient and 
+specific inhibition of membrane attack complex activity in vivo.

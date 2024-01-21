@@ -1,0 +1,22 @@
+Anti-CD20 B cell depletion therapy (BCDT) is very effective for some patients 
+with rheumatoid arthritis (RA); however the pathogenic role of B lymphocytes in 
+RA and the primary targets of BCDT are unknown. The human TNF transgenic 
+(hTNF-Tg) mouse model of RA displays a chronic, progressive disease that spreads 
+from distal to proximal joints and is generally considered to be adaptive immune 
+system independent. We have previously reported that knee arthritis in hTNF-Tg 
+mice is accompanied by structural and functional changes of the adjoining 
+popliteal lymph node (PLN), detectable by contrast-enhanced magnetic resonance 
+imaging. To better understand these changes, in this paper we show that onset of 
+knee synovitis and focal erosions are paralleled by PLN contraction and 
+accumulation of large numbers of B cells in the lymphatic sinus spaces within 
+the node. Flow cytometry from TNF-Tg mice 2, 4-5, and 8-12 mo old demonstrated 
+that B cell accumulation in the PLN follows ankle arthritis, but commences 
+before knee disease, and involves early expansion of CD21(hi), CD23(+), IgM(hi), 
+CD1d(+), activation marker-negative, polyclonal B cells that are found to be 
+specifically restricted to lymph nodes draining inflamed, arthritic joints. The 
+same B cell population also accumulates in PLNs of K/BxN mice with 
+autoantigen-dependent arthritis. Strikingly, we show that BCDT ameliorates 
+hTNF-Tg disease and clears follicular and CD21(hi), CD23(+) B cells from the 
+PLNs. On the basis of these findings, we propose a model whereby B cells 
+contribute to arthritis in mice, and possibly RA, by directly affecting the 
+structure, composition, and function of joint-draining lymph nodes.

@@ -1,0 +1,13 @@
+Here, we investigate induction of immunological tolerance by lentiviral based 
+gene therapy in a mouse model of rheumatoid arthritis, collagen II-induced 
+arthritis (CIA). Targeting the expression of the collagen type II (CII) to 
+antigen presenting cells (APCs) induced antigen-specific tolerance, where only 
+5% of the mice developed arthritis as compared with 95% of the control mice. In 
+the CII-tolerized mice, the proportion of Tregs as well as mRNA expression of 
+SOCS1 (suppressors of cytokine signaling 1) increased at day 3 after CII 
+immunization. Transfer of B cells or non-B cell APC, as well as T cells, from 
+tolerized to naïve mice all mediated a certain degree of tolerance. Thus, 
+sustainable tolerance is established very early during the course of arthritis 
+and is mediated by both B and non-B cells as APCs. This novel approach for 
+inducing tolerance to disease specific antigens can be used for studying 
+tolerance mechanisms, not only in CIA but also in other autoimmune diseases.

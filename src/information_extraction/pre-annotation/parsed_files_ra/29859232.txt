@@ -1,0 +1,18 @@
+TNF-α siRNA has shown promising therapeutic benefits in animal models of 
+rheumatoid arthritis. However, there continues to be a need for siRNA delivery 
+systems that have high siRNA encapsulation efficiency and minimum burst release 
+of TNF-α siRNA, and can target inflamed tissues after intravenous 
+administration. Herein we report a novel acid-sensitive sheddable PEGylated 
+solid-lipid nanoparticle formulation of TNF-α-siRNA, AS-TNF-α-siRNA-SLNs, 
+prepared by incorporating lipophilized TNF-α-siRNA into solid-lipid 
+nanoparticles composed of biocompatible lipids such as lecithin and cholesterol. 
+The nanoparticles are approximately 120 nm in diameter, have a high siRNA 
+encapsulation efficiency (>90%) and a minimum burst release of siRNA (<5%), and 
+increase the deilvery of the siRNA in chronic inflammation sites in mouse 
+models, including in a mouse model with collagen-induced arthritis. Importantly, 
+in a mouse model of collagen antibody-induced arthritis that does not respond to 
+methotrexate therapy, intravenous injection of the AS-TNF-α-siRNA-SLNs 
+significantly reduced paw thickness, bone loss, and histopathological scores. 
+These findings highlight the potential of using this novel siRNA nanoparticle 
+formulation to effectively treat arthritis, potentially in patients who do not 
+respond adequately to methotrexate.

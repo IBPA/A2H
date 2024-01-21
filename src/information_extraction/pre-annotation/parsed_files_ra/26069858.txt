@@ -1,0 +1,24 @@
+Chronic inflammation is considered as a critical cause of a host of disorders, 
+such as cancer, rheumatoid arthritis, atherosclerosis, and neurodegenerative 
+diseases, although the exact mechanism is yet to be explored. Imaging tools that 
+can specifically target inflammation are therefore important to help reveal the 
+role of inflammation in disease progression, and allows for developing new 
+therapeutic strategies to ultimately improve patient care. The purpose of this 
+study was to develop a new in vivo inflammation imaging approach by targeting 
+the cannabinoid receptor type 2 (CB2R), an emerging inflammation biomarker, 
+using a unique near infrared (NIR) fluorescent probe. Herein, we report the 
+first in vivo CB2R-targeted NIR inflammation imaging study using a synthetic 
+fluorescent probe developed in our laboratory, NIR760-mbc94. In vitro binding 
+assay and fluorescence microscopy study indicate NIR760-mbc94 specifically binds 
+towards CB2R in mouse RAW264.7 macrophage cells. Furthermore, in vivo imaging 
+was performed using a Complete Freund's Adjuvant (CFA)-induced inflammation 
+mouse model. NIR760-mbc94 successfully identified inflamed tissues and the probe 
+uptake was blocked by a CB2R ligand, SR144528. Additionally, immunofluorescence 
+staining in cryosectioned tissues validated the NIR760-mbc94 uptake in inflamed 
+tissues. In conclusion, this study reports the first in vivo CB2R-targeted 
+inflammation imaging using an NIR fluorescent probe. Specific targeting of 
+NIR760-mbc94 has been demonstrated in macrophage cells, as well as a CFA-induced 
+inflammation mouse model. The combined evidence indicates that NIR760-mbc94 is a 
+promising inflammation imaging probe. Moreover, in vivo CB2R-targeted 
+fluorescence imaging may have potential in the study of inflammation-related 
+diseases.

@@ -1,0 +1,25 @@
+BACKGROUND AND PURPOSE: Hydrogen sulfide (H2S) is a gasotransmitter produced 
+from L-cysteine through the enzymatic action of cystathionine-γ-lyase (CSE) 
+and/or cystathionine-β-synthase. D-Penicillamine is the d isomer of a 
+dimethylated cysteine and has been used for the treatment of rheumatoid 
+arthritis. AsD-penicillamine is structurally very similar to cysteine, we have 
+investigated whether D-penicillamine, as a cysteine analogue, has an effect on 
+the H2 S pathway.
+EXPERIMENTAL APPROACH: We tested the effect of D-penicillamine (0.01-1 mM) in 
+mouse aortic rings mounted in isolated organ baths and determined whether it 
+could affect H2 S biosynthesis. In particular, we investigated any possible 
+inhibitor or donor behaviour by using recombinant enzyme-based assays and an in 
+vivo approach.
+KEY RESULTS: D-Penicillamine, per se, showed little or no vasodilator effect, 
+and it cannot be metabolized as a substrate in place of l-cysteine. However, 
+d-penicillamine significantly reduced L-cysteine-induced vasodilatation in a 
+concentration-dependent manner through inhibition of H2 S biosynthesis, and this 
+effect occurred at concentrations 10 times lower than those needed to induce the 
+release of H2 S. In particular, D-penicillamine selectively inhibited CSE in a 
+pyridoxal-5'-phosphate-dependent manner.
+CONCLUSIONS AND IMPLICATIONS: Taken together, our results suggest that 
+D-penicillamine acts as a selective CSE inhibitor, leading to new perspectives 
+in the design and use of specific pharmacological tools for H2 S research. In 
+addition, the inhibitory effect of D-penicillamine on CSE could account for its 
+beneficial action in rheumatoid arthritis patients, where H2 S has been shown to 
+have a detrimental effect.

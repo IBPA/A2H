@@ -1,0 +1,26 @@
+Rheumatoid arthritis (RA), an autoimmune-inflammatory disease is characterized 
+by dysregulation of signal transduction pathways, increased production of 
+pro-inflammatory cytokines, enhanced leukocyte infiltration into synovial 
+microvascular endothelium, extensive formation of hyper proliferative pannus, 
+degradation of cartilage and bone erosion. Several compounds that abrogate 
+cytokine production demonstrate a therapeutic effect in experimental models of 
+arthritis. In this study, we report that a novel semi-synthetic natural product 
+(Compound A) being a preferential IL-6 inhibitor, is efficacious in a murine 
+model of arthritis. In vitro evaluations of pro-inflammatory cytokine production 
+reveal that Compound A preferentially inhibits induced production of IL-6 and 
+not TNF-α from THP-1 cells and isolated human monocytes. Furthermore, Compound A 
+robustly inhibits the spontaneous production of IL-6 from pathologically 
+relevant synovial tissue cells isolated from patients with active RA. In a 
+physiologically relevant assay, Compound A selectively inhibits the activated T 
+cell contact-mediated production of IL-6 from human monocytes. Compound A, at 
+pharmacologically efficacious concentrations, does not significantly curtail the 
+LPS-induced activation of p38 MAPKs. In the collagen-induced arthritis (CIA) 
+mouse model (i) macroscopic observations demonstrate that Compound A, 
+administered subcutaneously in a therapeutic regimen, significantly and 
+dose-dependently inhibits disease associated increases in articular index and 
+paw thickness; (ii) histological analyses of paw tissues reveal that Compound A 
+prominently diminishes joint destruction, hyperproliferative pannus formation 
+and infiltration of inflammatory cells. Collectively, these results provide 
+direct evidence that Compound A, a novel preferential IL-6 inhibitor, suppresses 
+collagen-induced arthritis, and may be a potential therapeutic for treating 
+patients with active RA.

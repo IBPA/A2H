@@ -1,0 +1,19 @@
+This study sought to investigate the anti-inflammatory effect of Polyene 
+Phosphatidylcholine (PPC), a clinical drug that is used to treat hepatopathy, on 
+lipopolysaccharide (LPS)-stimulated macrophages and on bovine collagen 
+II-induced arthritis (CIA) rats. In stimulated primary and Raw264.7 macrophages 
+by LPS, PPC significantly down-regulated the relative expression of mRNA such as 
+IL-6, TNF-α, TLR-2, TLR-4, MyD88, and NF-κB while up-regulated IL-10 and TGF-β 
+expression. Moreover, the concentration of IL-6, TNF-α, IL-10, and TGF-β in the 
+cultured supernatants showed the similar tendency with their mRNA alterations. 
+In addition, PPC could significantly inhibit the LPS-induced expression of MyD88 
+and NF-κB p65 in both mRNA and protein levels. These results suggest that PPC 
+could down-regulate the LPS-stimulated inflammation in macrophages through 
+TLR-2/TLR-4/MyD88/NF-κB pathway in vitro. Furthermore, to explore its effects in 
+vivo, PPC was administrated to CIA rats. In comparison to CIA group, PPC-treated 
+rats showed decreased arthritis score and osteopenia. Besides, PPC exhibited its 
+ability to alleviate the degree of synovial hyperplasia, inflammatory cell 
+infiltration, and destruction of cartilage and bone, thus remarkably improving 
+the condition of CIA rats. In short, this study demonstrated that PPC had the 
+potential to be an anti-inflammatory drug to treat inflammatory disorders such 
+as rheumatoid arthritis.

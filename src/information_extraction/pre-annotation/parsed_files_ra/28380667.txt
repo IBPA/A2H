@@ -1,0 +1,30 @@
+OBJECTIVE: Antibodies to cyclic citrullinated peptides (anti-CCP) in rheumatoid 
+arthritis (RA) can express the inherently autoreactive gene VH 4-34, detected 
+using the rat monoclonal antibody 9G4. Patients with the polyarticular subtype 
+of juvenile idiopathic arthritis (JIA) share some but not all of the features of 
+adult patients with RA. This study was undertaken to compare serologic findings 
+for rheumatoid factor (RF), anti-CCP, and 9G4-expressing anti-CCP in a large JIA 
+cohort with a cohort of adult RA patients.
+METHODS: Serum from 88 patients with polyarticular JIA, 29 patients with 
+enthesitis-related arthritis, 38 patients with extended oligoarthritis, 31 
+adolescent controls, 35 patients with RA, and 30 adult controls were tested for 
+RF, for IgG, IgA, and IgM anti-CCP, and for 9G4-expressing anti-CCP by 
+enzyme-linked immunosorbent assay. Total serum 9G4-positive IgM was also 
+measured.
+RESULTS: Of 65 patients with RF-negative polyarticular JIA, 4 (6.2%) were IgG 
+anti-CCP positive. Sera from 20 of 23 patients with RF-positive polyarticular 
+JIA (87.0%), 24 of 35 patients with RA (68.6%), and 1 patient with extended 
+oligoarthritis contained IgG anti-CCP. IgA and IgM anti-CCP levels were lower in 
+the adolescent group (P < 0.01). Levels of 9G4-expressing anti-CCP were higher 
+in patients with RF-positive polyarticular JIA than in those with RF-negative 
+polyarticular JIA (P < 0.0001). Median levels of 9G4-expressing anti-CCP in 
+patients with RF-positive polyarticular JIA and those with RA did not differ. 
+Expression of 9G4 on serum total IgM was greater in patients with RF-positive 
+polyarticular JIA than other adolescent groups (P < 0.01), but similar to adult 
+RF-positive RA.
+CONCLUSION: In healthy individuals, 9G4-positive B cells comprise 5-10% of the 
+peripheral blood pool but serum immunoglobulins utilizing VH 4-34 are 
+disproportionately low. The idiotope recognized by 9G4 was detected on anti-CCP 
+antibodies in >80% of patients with RF-positive polyarticular JIA. VH 4-34 usage 
+by anti-CCP in both JIA and RA patients suggest elicitation of these 
+autoantibodies through shared pathogenic B cell selection processes.

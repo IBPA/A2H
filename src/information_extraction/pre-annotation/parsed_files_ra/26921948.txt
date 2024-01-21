@@ -1,0 +1,14 @@
+Chemokines regulate the migration of cells in vivo and dysregulated expression 
+of chemokines and their receptors are implicated in autoimmune and inflammatory 
+diseases. Inflammatory arthritides, such as rheumatoid arthritis (RA), are 
+characterized by the recruitment of inflammatory cells into joints. The K/BxN 
+serum transfer mouse model of inflammatory arthritis shares many similar 
+features with RA. In this autoantibody-induced model of arthritis, neutrophils 
+are the critical immune cells necessary for the development of joint 
+inflammation and damage. In this review, we describe the use of several methods 
+to study the role of chemoattractant receptors, including chemokine receptors, 
+on the recruitment of neutrophils into the joint in the K/BxN model of 
+inflammatory arthritis. This includes both traditional methods, such as flow 
+cytometry, immunohistochemistry, and enzyme assays, as well as multiphoton in 
+vivo microscopy that we have adapted to study the role of immune cell 
+trafficking in and around the joint in live mice.

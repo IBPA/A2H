@@ -1,0 +1,31 @@
+BACKGROUND: Tolerance to collagen structures has been shown to inhibit the 
+progression of autoimmune scleroderma and rheumatoid arthritis. More recently, 
+tolerance induction to collagen type V (colV) in experimental models of lung 
+transplantation was shown to ameliorate the complex pathology known as "chronic 
+rejection." The link between colV autoimmunity and progressive graft dysfunction 
+and subsequent development of bronchiolitis obliterans syndrome (BOS) has been 
+established in human lung transplant recipients. We hypothesized that 
+intravenous injection of colV inhibits development of lung fibrosis in a 
+bleomycin-induced lung injury mouse model.
+METHODS: Experimental animals were injected intravenously with saline or colV 10 
+days before intratracheal instillation of bleomycin. Pulmonary inflammation was 
+monitored and quantified for the presence of cells in the bronchoalveolar lavage 
+(BAL) fluid by flow cytometry and histology of lung tissue.
+RESULTS: ColV-pre-treated animals showed a significant reduction in lung 
+inflammation compared with non-treated animals, according to histology and 
+morphometry. The number of inflammatory cells in the BAL fluid was significantly 
+reduced and associated with a lower proportion of gammadelta T cells and CD4(+) 
+T cells in the colV-pre-treated group. Matrix metalloproteinase-2 and -9 (MMP-2 
+and -9; also known as gelatinase A and gelatinase B, respectively) levels in the 
+BAL fluid were significantly reduced in colV-pre-treated mice compared with the 
+non-treated mice. In addition, intravenous injection of colV was associated with 
+a significant reduction in the relative expression of interleukin (IL)-6, IL-17 
+and IL-22 in cells present in BAL fluid at 7 and 14 days after bleomycin 
+instillation.
+CONCLUSIONS: Pre-treatment by intravenous injection of colV inhibits 
+bleomycin-induced pulmonary fibrosis by inhibiting IL-6 and IL-17 production. 
+Fibrosis treatment in this context therefore should target induction of colV 
+tolerance and Th17 development.
+
+Copyright (c) 2010 International Society for Heart and Lung Transplantation. 
+Published by Elsevier Inc. All rights reserved.

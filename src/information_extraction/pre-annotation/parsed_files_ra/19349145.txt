@@ -1,0 +1,24 @@
+The treatment of autoimmune diseases by allogeneic bone marrow transplantation 
+remains a promising therapeutic avenue. However, more intensive studies on 
+murine models are essential before application to a large number of human 
+patients. In particular, the use of bone marrow transplantation to treat 
+rheumatoid arthritis has been problematic. We have taken advantage of the 
+SKG/Jcl mouse that develops a chronic T cell-mediated autoimmune disease that 
+mimics rheumatoid arthritis which attempted to prevent the development of 
+immunopathology in these mice by allogeneic bone marrow transplantation (BMT). 
+In particular, we utilized our unique technology in which bone marrow cells 
+(BMCs) of control C57BL/6J mice are directly injected into the bone marrow 
+cavity in the tibia of SKG mice (intra-bone marrow [IBM]-BMT). As controls, 
+SKG/Jcl mice were transplanted with whole BMCs from syngeneic SKG mice. 
+Importantly, 12 months after IBM-BMT [B6-->SKG] demonstrated no evidence of 
+arthritis, whereas the control [SKG-->SKG] mice demonstrated, the expected 
+immunopathology of a rheumatoid arthritis-like condition. Further, 
+hematolymphoid cells in [B6-->SKG] mice were reconstituted by donor-derived 
+cells and the percentages of Treg (Foxp3+/CD4+) cells, the percentages of 
+receptor activator of nuclear factor-kappaB ligand (RANKL)+ cells on the CD4+ T 
+cells and the serum levels of tumor necrosis factor-alpha, interleukin-1 and 
+interleukin-6 were normalized in the [B6-->SKG] mice. These data suggest that 
+IBM-BMT is a viable method of immunological manipulation that suppresses the 
+severe joint destruction and bone absorption in SKG/Jcl mice and lends further 
+credence to the use of this methodology in humans with intractable rheumatoid 
+arthritis.

@@ -1,0 +1,32 @@
+Synovial inflammation in rheumatoid arthritis is closely related to the 
+formation of ectopic lymphoid microstructures. In synovial tissue from some 
+patients, one finds seemingly diffuse infiltrates; in others, T cells and B 
+cells cluster in aggregates with interdigitating dendritic cells (DCs) but no 
+follicular DCs (FDCs). In a third group, T cell/B cell follicles with germinal 
+center (GC) reactions are generated. Within a given patient, aggregates and GCs 
+are mutually exclusive and stable over time. Because antigen storage capacity, 
+lymphoid density, and three-dimensional topography of GCs optimize immune 
+responses, synovial GCs should play a crucial role in the breakdown of 
+self-tolerance. We have identified factors critical for ectopic GCs, thereby 
+transforming the synovial inflammatory process. Tissues with GCs produced 10- to 
+20-fold higher amounts of the chemokines CXCL13 and CCL21. CXCL13 derived from 
+three sources, endothelial cells, synovial fibroblasts, and FDC networks. The 
+level of CXCL13 transcripts strongly predicted GCs; however, some tissues had 
+high levels of CXCL13 but lacked GCs. Tissue expression of LT-beta emerged as a 
+second key factor. LT-beta protein was detected on follicular center and mantle 
+zone B cells. Multivariate regression analysis identified CXCL13 and LT-beta as 
+the only cytokines predicting GCs. Remarkably, LT-alpha did not contribute 
+independently. The contribution of B cells to ectopic lymphoid organogenesis was 
+not limited to LT-beta production. Rather, synovial tissue B cells were critical 
+in regulating T cell activation. In adoptive transfer experiments in human 
+synovium-SCID mouse chimeras, activation of synovium-derived CD4 T cells was 
+strictly dependent on T cell/B cell follicles. Depletion of synovial tissue B 
+cells abrogated T cell function, and non-B cell antigen-presenting cells could 
+not maintain T cell stimulation. Unexpectedly, GC function in the rheumatoid 
+lesion was also dependent on CD8 T cells. The majority of T cell receptors 
+derived from CD8 T cells were shared between distinct GCs. Depletion of CD8 T 
+cells disrupted synovial GCs, FDC networks disappeared, and transcription of 
+LT-beta, IgG, and Igkappa declined. Follicle-sustaining CD8 T cells were located 
+at the edge of or within the mantle zone. Cell-cell communication in the mantle 
+zone, including CD8 T cells, appears to be critical for ectopic GC formation in 
+rheumatoid synovitis.

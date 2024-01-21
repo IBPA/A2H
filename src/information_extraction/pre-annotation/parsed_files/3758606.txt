@@ -1,0 +1,21 @@
+The pathophysiology of Clostridium difficile colitis is thought to be mediated 
+by release of toxin A, an enterotoxin, and toxin B, a cytotoxin. We compared the 
+differential effects of toxin B on protein synthesis in IMR-90 fibroblasts and 
+in hamster esophagus, stomach, gallbladder, small intestine, and cecum in organ 
+culture. Toxin B in low concentrations stimulated (p less than 0.001) 
+incorporation of [3H]leucine into fibroblast proteins, whereas at higher dosages 
+it inhibited incorporation (p less than 0.001). This biphasic effect was 
+independent of cell rounding and was not caused by a change in uptake of 
+precursor. Purified toxin B had no effect on protein synthesis in a cell-free 
+rabbit reticulocyte translation system, indicating that inhibition of protein 
+synthesis in intact fibroblast monolayers and intestinal explants is a 
+consequence of toxin B effect on some other cellular target. Toxin B 
+significantly inhibited protein synthesis in hamster cecal explants in a 
+dose-dependent fashion. Again, this inhibition was not mediated by altered 
+precursor uptake. Toxin B significantly inhibited in vitro protein synthesis in 
+hamster terminal ileum, cecum, and sigmoid colon, but not in esophagus, 
+gallbladder, stomach, or duodenum. These results suggest that toxin B-mediated 
+inhibition of protein synthesis may be a generalized toxic effect in tissue 
+culture cells and intestinal epithelium. Inhibition of protein synthesis in the 
+distal intestinal epithelium may contribute to the pathophysiology of colitis 
+caused by this organism.

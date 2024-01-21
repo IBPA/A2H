@@ -1,0 +1,458 @@
+1. Nature. 2010 Oct 7;467(7316):711-3. doi: 10.1038/nature09397. Epub 2010 Sep 15.
+
+The role of toxin A and toxin B in Clostridium difficile infection.
+
+Kuehne SA(1), Cartman ST, Heap JT, Kelly ML, Cockayne A, Minton NP.
+
+Author information:
+(1)Clostridia Research Group, Centre for Biomolecular Sciences, School of 
+Molecular Medical Sciences, Nottingham Digestive Diseases Centre, NIHR 
+Biomedical Research Unit, University of Nottingham, Nottingham NG7 2RD, UK.
+
+Comment in
+    Nature. 2010 Oct 7;467(7316):665-6.
+    Nat Rev Gastroenterol Hepatol. 2010 Dec;7(12):654.
+
+Clostridium difficile infection is the leading cause of healthcare-associated 
+diarrhoea in Europe and North America. During infection, C. difficile produces 
+two key virulence determinants, toxin A and toxin B. Experiments with purified 
+toxins have indicated that toxin A alone is able to evoke the symptoms of C. 
+difficile infection, but toxin B is unable to do so unless it is mixed with 
+toxin A or there is prior damage to the gut mucosa. However, a recent study 
+indicated that toxin B is essential for C. difficile virulence and that a strain 
+producing toxin A alone was avirulent. This creates a paradox over the 
+individual importance of toxin A and toxin B. Here we show that isogenic mutants 
+of C. difficile producing either toxin A or toxin B alone can cause fulminant 
+disease in the hamster model of infection. By using a gene knockout system to 
+inactivate the toxin genes permanently, we found that C. difficile producing 
+either one or both toxins showed cytotoxic activity in vitro that translated 
+directly into virulence in vivo. Furthermore, by constructing the first ever 
+double-mutant strain of C. difficile, in which both toxin genes were 
+inactivated, we were able to completely attenuate virulence. Our findings 
+re-establish the importance of both toxin A and toxin B and highlight the need 
+to continue to consider both toxins in the development of diagnostic tests and 
+effective countermeasures against C. difficile.
+
+DOI: 10.1038/nature09397
+PMID: 20844489 [Indexed for MEDLINE]
+
+
+2. Toxins (Basel). 2019 Feb 6;11(2):98. doi: 10.3390/toxins11020098.
+
+Treatment and Prevention of Recurrent Clostridium difficile Infection with 
+Functionalized Bovine Antibody-Enriched Whey in a Hamster Primary Infection 
+Model.
+
+Heidebrecht HJ(1)(2), Weiss WJ(3), Pulse M(4), Lange A(5), Gisch K(6), Kliem 
+H(7), Mann S(8), Pfaffl MW(9)(10), Kulozik U(11)(12), von Eichel-Streiber C(13).
+
+Author information:
+(1)Chair of Food and Bioprocess Engineering, Technical University of Munich, 
+85354 Freising, Germany. Hans-Juergen.Heidebrecht@tum.de.
+(2)ZIEL Institute for Food & Health, Technical University of Munich, 85354 
+Freising, Germany. Hans-Juergen.Heidebrecht@tum.de.
+(3)University of North Texas Health Science Center, Fort Worth, TX 76107-2699, 
+USA. William.Weiss@unthsc.edu.
+(4)University of North Texas Health Science Center, Fort Worth, TX 76107-2699, 
+USA. Mark.Pulse@unthsc.edu.
+(5)tgcBIOMICS GmbH, 55411 Bingen, Germany. a.lange@tgcbiomics.de.
+(6)tgcBIOMICS GmbH, 55411 Bingen, Germany. k.gisch@tgcbiomics.de.
+(7)Chair of Animal Physiology and Immunology, Technical University of Munich, 
+85354 Freising, Germany. kliem@wzw.tum.de.
+(8)Biosys UK Limited, London, SW1H, 9BP, UK. sacha.mann@gmail.com.
+(9)Chair of Animal Physiology and Immunology, Technical University of Munich, 
+85354 Freising, Germany. michael.pfaffl@wzw.tum.de.
+(10)School of Life Science, Technical University of Munich, 85354 Freising, 
+Germany. michael.pfaffl@wzw.tum.de.
+(11)Chair of Food and Bioprocess Engineering, Technical University of Munich, 
+85354 Freising, Germany. ulrich.kulozik@tum.de.
+(12)ZIEL Institute for Food & Health, Technical University of Munich, 85354 
+Freising, Germany. ulrich.kulozik@tum.de.
+(13)tgcBIOMICS GmbH, 55411 Bingen, Germany. chv.eichel@tgcbiomics.de.
+
+Toxin-induced Clostridium difficile infection (CDI) is a major disease 
+characterized by severe diarrhea and high morbidity rates. The aim with this 
+study was to develop an alternative drug for the treatment of CDI. Cows were 
+repeatedly immunized to establish specific immunoglobulin G and A titers against 
+toxins A (TcdA) and B (TcdB) and against C. difficile cells in mature milk or 
+colostrum. The effect of three different concentrations of anti-C. difficile 
+whey protein isolates (anti-CD-WPI) and the standard of care antibiotic 
+vancomycin were investigated in an animal model of CD infected hamsters (6 
+groups, with 10 hamsters each). WPI obtained from the milk of exactly the same 
+cows pre-immunization and a vehicle group served as negative controls. The 
+survival of hamsters receiving anti-CD-WPI was 50, 80 and 100% compared to 10 
+and 0% for the control groups, respectively. Vancomycin suppressed the growth of 
+C. difficile and thus protected the hamsters at the time of administration, but 
+90% of these hamsters nevertheless died shortly after discontinuation of 
+treatment. In contrast, the surviving hamsters of the anti-CD-WPI groups 
+survived the entire study period, although they were treated for only 75 h. The 
+specific antibodies not only inactivated the toxins for initial suppression of 
+CDI, but also provoked the inhibition of C. difficile growth after 
+discontinuation, thus preventing recurrence. Oral administration of anti-CD-WPI 
+is a functional therapy of CDI in infected hamsters for both primary treatment 
+and prevention of recurrence. Thus, anti-CD-WPI could address the urgent unmet 
+medical need for treating and preventing recurrent CDI in humans.
+
+DOI: 10.3390/toxins11020098
+PMCID: PMC6409564
+PMID: 30736358 [Indexed for MEDLINE]
+
+Conflict of interest statement: C.V.E.-S. has received research grants from 
+Biosys UK Limited. S.M. has served as an employee for Biosys UK Limited received 
+personal fees during and outside the study. H.-J.H., W.J.W., M.P., A.L., K.G., 
+H.K., M.W.P., U.K. report no conflict of interests.
+
+
+3. New Microbes New Infect. 2019 Aug 16;32:100590. doi: 10.1016/j.nmni.2019.100590. 
+eCollection 2019 Nov.
+
+Virulence of new variant strains of Clostridium difficile producing only toxin A 
+or binary toxin in the hamster model.
+
+Marvaud JC(1), Quevedo-Torres S(1)(2), Eckert C(2), Janoir C(1), Barbut F(2)(3).
+
+Author information:
+(1)EA 7359 'Unité Bactéries Pathogènes et Santé' (UBaPS), Université Paris-Sud, 
+Université Paris-Saclay, Châtenay-Malabry, France.
+(2)AP-HP, Hôpital Saint Antoine National Reference Laboratory for C. difficile, 
+Paris, France.
+(3)Université Paris Descartes, Faculté de Pharmacie de Paris, UMR-S1139, 
+Sorbonne Paris Cité, Paris, France.
+
+Pathogenesis of Clostridium difficile has been linked to production of toxins, 
+including the large toxins A and B as well as the binary toxin CDT. Until 
+recently, toxin A was only found in combination in clinical strains with the 
+toxin B, unlike toxin B or CDT, which were found alone in toxigenic variants. 
+New toxigenic variants of C. difficile detected in our laboratory from patients 
+with diarrhoea or severe colitis, including a variant producing only toxin A, 
+were tested for virulence in the hamster model, which displays the clinical 
+features of C. difficile disease. Hamsters infected with a strain producing only 
+toxin B induced similar clinical signs, time to death from infection and 
+histologic damage compared to the hypervirulent strain 027. No mortality or 
+clinical signs of infection but caecal histologic damage was found with the 
+variant producing only toxin A. The C. difficile variant strain producing only 
+CDT was able to kill one hamster out of seven; nevertheless, the surviving 
+animals had few alteration of the caecum.
+
+DOI: 10.1016/j.nmni.2019.100590
+PMCID: PMC6734109
+PMID: 31516714
+
+
+4. Gastroenterology. 2008 Dec;135(6):1984-92. doi: 10.1053/j.gastro.2008.09.002. 
+Epub 2008 Sep 10.
+
+A mouse model of Clostridium difficile-associated disease.
+
+Chen X(1), Katchar K, Goldsmith JD, Nanthakumar N, Cheknis A, Gerding DN, Kelly 
+CP.
+
+Author information:
+(1)Department of Medicine, Division of Gastroenterology, Beth Israel Deaconess 
+Medical Center, Harvard Medical School, Boston, Massachusetts, USA.
+
+BACKGROUND & AIMS: Infection with Clostridium difficile causes nosocomial 
+antibiotic-associated diarrhea and colitis. Hamsters historically have been used 
+to investigate disease pathogenesis and treatment, but are not ideal models 
+because of the lack of hamster-specific reagents and genetically modified 
+animals, and because they develop fulminant disease. The aim of this study was 
+to establish a mouse model of antibiotic-induced C. difficile-associated disease 
+(CDAD) that more closely resembles human disease.
+METHODS: C57BL/6 mice were exposed to a mixture of antibiotics (kanamycin, 
+gentamicin, colistin, metronidazole, and vancomycin) for 3 days. Two days later, 
+they were given injections of clindamycin and then challenged 1 day later with 
+different doses of C. difficile.
+RESULTS: Mice that were exposed to antibiotics and then challenged with C. 
+difficile developed diarrhea and lost weight. Disease severity varied from 
+fulminant to minimal in accordance with the challenge dose. Typical histologic 
+features of CDAD were evident. Oral vancomycin prevented CDAD in all mice, but 
+68% died from colitis after treatment was discontinued. All animals that 
+survived an initial episode of CDAD showed no evidence of diarrhea or colitis 
+after subsequent rechallenge with C. difficile. Different strains of C. 
+difficile tested in the model showed different levels of virulence in mice.
+CONCLUSIONS: We have developed a mouse model of CDAD that closely represents the 
+human disease. In light of the recent substantial increases in CDAD incidence 
+and severity, this model will be valuable in testing new treatments, examining 
+disease pathogenesis, and elucidating mechanisms of protective immunity.
+
+DOI: 10.1053/j.gastro.2008.09.002
+PMID: 18848941 [Indexed for MEDLINE]
+
+
+5. J Antimicrob Chemother. 2012 Dec;67(12):2919-26. doi: 10.1093/jac/dks309. Epub 
+2012 Aug 16.
+
+Oritavancin does not induce Clostridium difficile germination and toxin 
+production in hamsters or a human gut model.
+
+Freeman J(1), Marquis M, Crowther GS, Todhunter SL, Fawley WN, Chilton CH, Moeck 
+G, Lehoux D, Wilcox MH.
+
+Author information:
+(1)Department of Microbiology, Leeds Teaching Hospitals NHS Trust, The General 
+Infirmary, Old Medical School, Leeds LS1 3EX, UK.
+
+OBJECTIVES: To evaluate the relative propensities of oritavancin and vancomycin 
+to induce Clostridium difficile infection (CDI) in hamster and in vitro human 
+gut models.
+METHODS: Hamsters received clindamycin (100 mg/kg orally or subcutaneously), 
+oritavancin (50 mg/kg orally) or vancomycin (50 mg/kg orally). C. difficile 
+spores were administered orally the next day. Control hamsters received vehicle 
+only (polyethylene glycol 400) plus spores or clindamycin but no spores. 
+Hamsters were monitored for clinical signs for 20 days. Caecal contents were 
+analysed for C. difficile cells, spores and the presence of (cyto)toxin. 
+Oritavancin and vancomycin were instilled over 7 days into separate in vitro gut 
+models primed with pooled human faeces and inoculated with C. difficile ribotype 
+027 spores. Gut flora, C. difficile total viable and spore counts, toxin titres 
+and antimicrobial concentrations were determined.
+RESULTS: All hamsters treated with oritavancin survived up to 20 days, with no 
+evidence of C. difficile spores, vegetative cells or toxin in their caeca. No 
+hamsters treated with clindamycin or vancomycin survived >6 days after spore 
+administration. Death was associated with high C. difficile counts and toxin in 
+caecal contents. In the gut model, oritavancin dosing elicited a rapid, marked 
+decrease in total viable C. difficile and spore counts to below the limit of 
+detection. Vancomycin did not elicit germination or toxin production in the gut 
+model, but C. difficile remained present as spores throughout.
+CONCLUSIONS: Oritavancin exposure, unlike exposure to vancomycin or clindamycin, 
+did not lead to CDI in hamsters. In both models, oritavancin reduced C. 
+difficile total counts and spores to below detectable limits. The data indicate 
+the potential of oritavancin for CDI treatment, since exposure did not induce C. 
+difficile germination and toxin production, which are known to exacerbate the 
+disease state.
+
+DOI: 10.1093/jac/dks309
+PMID: 22899803 [Indexed for MEDLINE]
+
+
+6. Vet Microbiol. 2019 Dec;239:108433. doi: 10.1016/j.vetmic.2019.108433. Epub 2019 
+Sep 29.
+
+Prevalence of Clostridium difficile and Clostridium perfringens in Swiss horses 
+with and without gastrointestinal disease and microbiota composition in relation 
+to Clostridium difficile shedding.
+
+Schoster A(1), Kunz T(2), Lauper M(3), Graubner C(4), Schmitt S(5), Weese JS(6).
+
+Author information:
+(1)University of Zurich, Vetsuisse Faculty, Equine Department, 
+Winterthurerstrasse 260, 8057 Zurich, Switzerland. Electronic address: 
+aschoster@vetclinics.uzh.ch.
+(2)University of Zurich, Vetsuisse Faculty, Equine Department, 
+Winterthurerstrasse 260, 8057 Zurich, Switzerland. Electronic address: 
+tanja.kunz@uzh.ch.
+(3)University of Berne, Vetsuisse Faculty, Institut Suisse de Médicine Equine, 
+Länggassstrasse 124, 3012 Bern, Switzerland. Electronic address: 
+Murielle.lauper@vetsuisse.unibe.ch.
+(4)University of Berne, Vetsuisse Faculty, Institut Suisse de Médicine Equine, 
+Länggassstrasse 124, 3012 Bern, Switzerland. Electronic address: 
+claudia.Graubner@vetsuisse.unibe.ch.
+(5)University of Zurich, Vetsuisse Faculty, Section of Veterinary Bacteriology, 
+Winterthurerstrasse 270, 8057 Zurich, Switzerland. Electronic address: 
+sarah.schmitt@vetbakt.uzh.ch.
+(6)University of Guelph, Ontario Veterinary College, Department of Pathobiology, 
+N1G2W1 Guelph, Canada. Electronic address: jsweese@uoguelph.ca.
+
+Overgrowth of enteric clostridia in dysbiosis in horses with colic is presumed 
+but scarcely investigated. The objective was to provide prevalence data of 
+Clostridium difficile and Clostridium perfringens in horses with and without 
+gastrointestinal disease in Switzerland, and investigate microbiota differences 
+between C. difficile shedders and non-shedders. Fecal samples were taken from 
+healthy horses (n = 103), horses with colic (n = 98) and horses with diarrhea 
+(n = 151). Colic horses were sampled on three days. Selective enrichment culture 
+and molecular typing for C. difficile and C. perfringens was performed. 
+Microbiota differences between horses with colic shedding (n = 7) and not 
+shedding (n = 7) C. difficile were assessed using metagenomic sequencing. The 
+cumulative prevalence (19% C. difficile; 16% C. perfringens) was higher compared 
+to single day samples (1-10% C. difficile; 3-8% C. perfringens, all p < 0.003). 
+Horses with colic shed significantly more C. difficile (p < 0.001) but not C. 
+perfringens (p = 0.09) compared to healthy horses. Prevalence in horses with 
+diarrhea was 8% for both Clostridium species. There were no significant 
+microbiota differences between C. difficile shedders and non-shedders with 
+regards to relative abundance on any phylogenetic level, and alpha diversity. 
+Limited differences were seen on LEfSE analysis and in beta diversity indices. 
+Multiple fecal samples should be taken when investigating shedding of enteric 
+clostridia. As horses with colic shed more enteric clostridia compared to 
+healthy horses special biosecurity protocols for horses with colic should be 
+considered in hospitals. Differences in microbiota composition between C. 
+difficile shedders and non-shedders were limited. Further studies on the role of 
+dysbiosis in C. difficile are needed.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.vetmic.2019.108433
+PMID: 31767096 [Indexed for MEDLINE]
+
+
+7. PLoS One. 2016 Jun 23;11(6):e0157970. doi: 10.1371/journal.pone.0157970. 
+eCollection 2016.
+
+Novel Clostridium difficile Anti-Toxin (TcdA and TcdB) Humanized Monoclonal 
+Antibodies Demonstrate In Vitro Neutralization across a Broad Spectrum of 
+Clinical Strains and In Vivo Potency in a Hamster Spore Challenge Model.
+
+Qiu H(1), Cassan R(1), Johnstone D(1), Han X(1), Joyee AG(1), McQuoid M(1), Masi 
+A(1), Merluza J(1), Hrehorak B(1), Reid R(1), Kennedy K(1), Tighe B(1), Rak 
+C(1), Leonhardt M(1), Dupas B(1), Saward L(1), Berry JD(1), Nykiforuk CL(1).
+
+Author information:
+(1)Cangene Corporation, a subsidiary of Emergent BioSolutions Inc., 155 
+Innovation Drive, Winnipeg, MB, R3T 5Y3, Canada.
+
+Clostridium difficile (C. difficile) infection (CDI) is the main cause of 
+nosocomial antibiotic-associated colitis and increased incidence of 
+community-associated diarrhea in industrialized countries. At present, the 
+primary treatment of CDI is antibiotic administration, which is effective but 
+often associated with recurrence, especially in the elderly. Pathogenic strains 
+produce enterotoxin, toxin A (TcdA), and cytotoxin, toxin B (TcdB), which are 
+necessary for C. difficile induced diarrhea and gut pathological changes. 
+Administration of anti-toxin antibodies provides an alternative approach to 
+treat CDI, and has shown promising results in preclinical and clinical studies. 
+In the current study, several humanized anti-TcdA and anti-TcdB monoclonal 
+antibodies were generated and their protective potency was characterized in a 
+hamster infection model. The humanized anti-TcdA (CANmAbA4) and anti-TcdB 
+(CANmAbB4 and CANmAbB1) antibodies showed broad spectrum in vitro neutralization 
+of toxins from clinical strains and neutralization in a mouse toxin challenge 
+model. Moreover, co-administration of humanized antibodies (CANmAbA4 and 
+CANmAbB4 cocktail) provided a high level of protection in a dose dependent 
+manner (85% versus 57% survival at day 22 for 50 mg/kg and 20 mg/kg doses, 
+respectively) in a hamster gastrointestinal infection (GI) model. This study 
+describes the protective effects conferred by novel neutralizing anti-toxin 
+monoclonal antibodies against C. difficile toxins and their potential as 
+therapeutic agents in treating CDI.
+
+DOI: 10.1371/journal.pone.0157970
+PMCID: PMC4919053
+PMID: 27336843 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have read the 
+journal's policy and have the following competing interests specific to the 
+manuscript content: All authors were paid employees of Cangene Corporation dba 
+Emergent BioSolutions, authors may own stocks or shares of EBSI. There are two 
+published patent applications: PCT/US2012/051948, entitled CLOSTRIDIUM DIFFICILE 
+ANTIBODIES, and PCT/US2013/072467, entitled ANTIBODIES AGAINST CLOSTRIDIUM 
+DIFFICILE. This does not the authors’ adherence to PLOS ONE policies on sharing 
+data and materials.
+
+
+8. J Antimicrob Chemother. 2015;70(6):1757-62. doi: 10.1093/jac/dkv005. Epub 2015 
+Feb 3.
+
+SMT19969 for Clostridium difficile infection (CDI): in vivo efficacy compared 
+with fidaxomicin and vancomycin in the hamster model of CDI.
+
+Sattar A(1), Thommes P(1), Payne L(1), Warn P(1), Vickers RJ(2).
+
+Author information:
+(1)Evotec (UK), Williams House, Manchester Science Park, Lloyd Street North, 
+Manchester M15 6SE, UK.
+(2)Summit plc, Abingdon, Oxfordshire, UK richard.vickers@summitplc.com.
+
+OBJECTIVES: SMT19969 is a novel narrow-spectrum antimicrobial under development 
+for the treatment of Clostridium difficile infection (CDI). The objectives were 
+to assess the relative efficacies of SMT19969, vancomycin and fidaxomicin in the 
+hamster model of CDI.
+METHODS: Hamsters were infected with either C. difficile BI1 (ribotype 027) or 
+C. difficile 630 (ribotype 012) prior to treatment with vehicle, SMT19969, 
+fidaxomicin or vancomycin for 5 days. Animals were further monitored through to 
+day 28 and survival recorded. Plasma and gastrointestinal concentrations of 
+SMT19969 following single and repeat administration in infected hamsters were 
+determined.
+RESULTS: Following infection with C. difficile BI1, treatment with SMT19969, 
+vancomycin and fidaxomicin resulted in 100% survival during the 5 day dosing 
+period, with 90%-100% of animals receiving SMT19969 and fidaxomicin surviving 
+during the post-dosing follow-up period. Whilst protective during treatment, 
+onset of mortality was observed on day 11 in animals treated with vancomycin, 
+with a 10% survival recorded by day 28. Similar results were observed for 
+SMT19969 and vancomycin following infection with C. difficile 630, with day 28 
+survival rates of 80%-100% and 0%, respectively. Fidaxomicin protected animals 
+infected with C. difficile 630 from mortality during dosing, although day 28 
+survival rates varied from 0% to 40% depending on dose. Plasma levels of 
+SMT19969 were typically below the limit of quantification, but levels in the 
+gastrointestinal tract remained far in excess of the MIC.
+CONCLUSIONS: These data show that SMT19969 is highly effective at treating both 
+acute infection and preventing recurrent disease and support continued 
+investigation of SMT19969 as a potential therapy for CDI.
+
+© The Author 2015. Published by Oxford University Press on behalf of the British 
+Society for Antimicrobial Chemotherapy.
+
+DOI: 10.1093/jac/dkv005
+PMCID: PMC4498292
+PMID: 25652749 [Indexed for MEDLINE]
+
+
+9. Front Microbiol. 2018 May 23;9:1009. doi: 10.3389/fmicb.2018.01009. eCollection 
+2018.
+
+Targeting Clostridium difficile Surface Components to Develop Immunotherapeutic 
+Strategies Against Clostridium difficile Infection.
+
+Péchiné S(1), Bruxelle JF(1), Janoir C(1), Collignon A(1).
+
+Author information:
+(1)EA 4043, Unités Bactéries Pathogènes et Santé, Université Paris-Sud, 
+Université Paris-Saclay, Châtenay-Malabry, France.
+
+New therapies are needed to prevent and treat Clostridium difficile infection 
+and to limit the rise in antibiotic resistance. Besides toxins, several surface 
+components have been characterized as colonization factors and have been shown 
+as immunogenic. This review will focus on passive and active immunization 
+strategies targeting C. difficile surface components to combat C. difficile. 
+Concerning passive immunization, the first strategies used antisera raised 
+against the entire bacterium to prevent infection in the hamster model. Then, 
+surface components such as the flagellin and the S-layer proteins were used for 
+immunization and the passive transfer of antibodies was protective in animal 
+models. Passive immunotherapy with polyvalent immunoglobulins was used in humans 
+and bovine immunoglobulin concentrates were evaluated in clinical trials. 
+Concerning active immunization, vaccine assays targeting surface components were 
+tested mainly in animal models, mouse models of colonization and hamster models 
+of infection. Bacterial extracts, spore proteins and surface components of 
+vegetative cells such as cell wall proteins, flagellar proteins, and 
+polysaccharides were used as vaccine targets. Vaccine assays were performed by 
+parenteral and mucosal routes of immunization. Both gave promising results and 
+pave the way to development of new vaccines.
+
+DOI: 10.3389/fmicb.2018.01009
+PMCID: PMC5974105
+PMID: 29875742
+
+
+10. J Antimicrob Chemother. 2009 May;63(5):964-71. doi: 10.1093/jac/dkp042. Epub 
+2009 Feb 26.
+
+Inhibitory effect of REP3123 on toxin and spore formation in Clostridium 
+difficile, and in vivo efficacy in a hamster gastrointestinal infection model.
+
+Ochsner UA(1), Bell SJ, O'Leary AL, Hoang T, Stone KC, Young CL, Critchley IA, 
+Janjic N.
+
+Author information:
+(1)Replidyne, Inc., Louisville, CO 80027, USA. ursochsner@gmail.com
+
+OBJECTIVES: REP3123 is a fully synthetic methionyl-tRNA synthetase inhibitor in 
+pre-clinical development as a novel agent to treat Clostridium difficile 
+infection (CDI). This novel agent was investigated for its ability to block the 
+production of toxins and spores, and was tested for efficacy in vivo in a 
+hamster model.
+METHODS: Clostridial toxin levels were determined qualitatively using monoclonal 
+antibodies and by cytotoxicity assays. Spores were detected by staining and by 
+quantitative dilution plating after ethanol treatment. Efficacy of REP3123 was 
+tested in a clindamycin-induced C. difficile hamster gastrointestinal (GI) 
+infection model.
+RESULTS: REP3123 at concentrations as low as 1 mg/L inhibited de novo toxin 
+production in high cell density, stationary phase cultures of C. difficile. 
+Among comparator agents currently used for CDI therapy, vancomycin required much 
+higher levels of 20 mg/L, and metronidazole had no effect on toxin levels. 
+REP3123 caused a >10-fold reduction of the sporulation rate in vitro. Vancomycin 
+and, in particular, metronidazole appeared to promote the formation of spores. 
+REP3123, at concentrations as low as 0.5 mg/kg, demonstrated efficacy in the 
+hamster model of CDI and was superior to vancomycin in the overall survival of 
+the animals at the end of the study (33 days).
+CONCLUSIONS: REP3123 inhibited growth of C. difficile, affected the production 
+of toxins and spores and demonstrated superior efficacy compared with vancomycin 
+in the hamster GI infection model. This agent may be a promising candidate for 
+CDI treatment; in particular, the inhibition of toxin production and spore 
+formation may reduce the severity and spread of the disease, respectively.
+
+DOI: 10.1093/jac/dkp042
+PMID: 19251726 [Indexed for MEDLINE]

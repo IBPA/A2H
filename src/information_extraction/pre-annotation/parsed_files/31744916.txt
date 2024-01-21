@@ -1,0 +1,37 @@
+The intestines house a diverse microbiota that must compete for nutrients to 
+survive, but the specific limiting nutrients that control pathogen colonization 
+are not clearly defined. Clostridioides difficile colonization typically 
+requires prior disruption of the microbiota, suggesting that outcompeting 
+commensals for resources is critical to establishing C. difficile infection 
+(CDI). The immune protein calprotectin (CP) is released into the gut lumen 
+during CDI to chelate zinc (Zn) and other essential nutrient metals. Yet, the 
+impact of Zn limitation on C. difficile colonization is unknown. To define C. 
+difficile responses to Zn limitation, we performed RNA sequencing on C. 
+difficile exposed to CP. In medium containing CP, C. difficile upregulated genes 
+involved in metal homeostasis and amino acid metabolism. To identify 
+CP-responsive genes important during infection, we measured the abundance of 
+select C. difficile transcripts in a mouse CDI model relative to expression in 
+vitro Gene transcripts involved in selenium (Se)-dependent proline fermentation 
+increased during infection and in response to CP. Increased proline fermentation 
+gene transcription was dependent on CP Zn binding and proline availability, yet 
+proline fermentation was only enhanced when Se was supplemented. CP-deficient 
+mice could not restrain C. difficile proline fermentation-dependent growth, 
+suggesting that CP-mediated Zn sequestration along with limited Se restricts C. 
+difficile proline fermentation. Overall, these results highlight how C. 
+difficile colonization depends on the availability of multiple nutrients whose 
+abundances are dynamically influenced by the host response.IMPORTANCE 
+Clostridioides difficile infection (CDI) is the leading cause of postantibiotic 
+nosocomial infection. Antibiotic therapy can be successful, yet up to one-third 
+of individuals suffer from recurrent infections. Understanding the mechanisms 
+controlling C. difficile colonization is paramount in designing novel treatments 
+for primary and recurrent CDI. Here, we found that limiting nutrients control C. 
+difficile metabolism during CDI and influence overall pathogen fitness. 
+Specifically, the immune protein CP limits Zn availability and increases 
+transcription of C. difficile genes necessary for proline fermentation. 
+Paradoxically, this leads to reduced C. difficile proline fermentation. This 
+reduced fermentation is due to limited availability of another nutrient required 
+for proline fermentation, Se. Therefore, CP-mediated Zn limitation combined with 
+low Se levels overall reduce C. difficile fitness in the intestines. These 
+results emphasize the complexities of how nutrient availability influences C. 
+difficile colonization and provide insight into critical metabolic processes 
+that drive the pathogen's growth.

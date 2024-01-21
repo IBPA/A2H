@@ -1,0 +1,26 @@
+BACKGROUND: Substantial advances have been generated in understanding the 
+pathogenesis of rheumatoid arthritis (RA). Current murine models of RA-like 
+disease have provided great insights into the molecular mechanism of 
+inflammatory arthritis due to the use of genetically deficient or transgenic 
+mice. However, these studies are limited by differences that exist between human 
+and murine immune systems. Thus, the development of an animal model that 
+utilizes human immune cells, will afford the opportunity to study their function 
+in the initiation and propagation of inflammatory arthritis.
+METHODS: One to two-day old irradiated NOD-scid IL2rγ(null) (NSG) mice were 
+reconstituted with human CD34+ cord blood stem cells. Leukocytes were analyzed 
+by flow cytometry and circulating antibodies were determined by ELISA. Arthritis 
+was induced by injecting complete Freund's adjuvant into knee or ankle joints. 
+Mice were also treated with the TNF inhibitor, Etanercept, or PBS and joints 
+were analyzed histologically.
+RESULTS: Humanized mice were established with high reconstitution rates and were 
+able to spontaneously produce human immunoglobulins as well as specific IgG in 
+response to immunization. Intraperitoneal injection of thioglycolate or 
+injection of complete Freund's adjuvant into joints resulted in migration of 
+human immune cells to the injected sites. Arthritic humanized mice treated with 
+Etanercept had markedly less inflammation, which was associated with decreased 
+total numbers of human CD45+ cells, including human lymphocytes and neutrophils.
+CONCLUSIONS: The humanized mouse model is a new model to study inflammatory 
+arthritis disease using human leukocytes without rejection of engrafted tissue. 
+Future studies may adapt this system to incorporate RA patient cord blood and 
+develop a chimeric animal model of inflammatory arthritis using genetically 
+predisposed immune cells.

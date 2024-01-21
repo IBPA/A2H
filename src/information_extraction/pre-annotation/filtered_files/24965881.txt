@@ -1,0 +1,28 @@
+OBJECTIVE: Tumor necrosis factor (TNF) signals via 2 receptors, TNFR type I 
+(TNFRI) and TNFRII, with distinct cellular distribution and signaling functions. 
+In rheumatoid arthritis (RA), the net effect of TNFR signaling favors 
+inflammatory responses while inhibiting the activity of regulatory T cells. 
+TNFRII signaling has been shown to promote Treg cell function. To assess the 
+relative contributions of TNFRI and TNFRII signaling to inflammatory and 
+regulatory responses in vivo, we compared the effect of TNF blockade, hence 
+TNFRI/II, versus TNFRI alone in collagen-induced arthritis (CIA) as a model of 
+RA.
+METHODS: Mice with established arthritis were treated for 10 days with 
+anti-mouse TNFRI domain antibody (dAb; DMS5540), an isotype control dAb 
+(DMS5538), or murine TNFRII genetically fused with mouse IgG1 Fc domain 
+(mTNFRII-Fc) beginning on the day of arthritis onset, and disease progression 
+was monitored. Systemic cytokine concentrations and numbers of T cell subsets in 
+lymph nodes and spleens were measured, and intrinsic Treg cell function was 
+determined by ex vivo suppression assays.
+RESULTS: Progression of CIA was suppressed similarly by TNFRI (DMS5540) and 
+TNFRI/II (mTNFRII-Fc) blockade. However, blockade of TNFRI/II led to increased 
+effector T cell activity, which was not observed after selective TNFRI blockade, 
+suggesting an immunoregulatory role of TNFRII. In support of this, TNFRI 
+blockade, but not TNFRI/II blockade, expanded and activated Treg cells. 
+Furthermore, a dramatic increase in expression of the Treg cell signature genes 
+FoxP3 and TNFRII was observed in joints undergoing remission, which supports the 
+notion that these molecules have a physiologic role in the resolution of 
+inflammation.
+CONCLUSION: We propose that a therapeutic strategy that targets TNFRI while 
+sparing TNFRII has the potential to both inhibit inflammation and promote Treg 
+cell activity, which might be superior to TNF blockade.

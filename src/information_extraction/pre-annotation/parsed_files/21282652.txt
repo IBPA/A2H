@@ -1,0 +1,22 @@
+Imbalance in the regulatory immune mechanisms that control intestinal cellular 
+and bacterial homeostasis may lead to induction of the detrimental inflammatory 
+signals characterized in humans as inflammatory bowel disease. Induction of 
+proinflammatory cytokines (i.e., IL-12) induced by dendritic cells (DCs) 
+expressing pattern recognition receptors may skew naive T cells to T helper 1 
+polarization, which is strongly implicated in mucosal autoimmunity. Recent 
+studies show the ability of probiotic microbes to treat and prevent numerous 
+intestinal disorders, including Clostridium difficile-induced colitis. To study 
+the molecular mechanisms involved in the induction and repression of intestinal 
+inflammation, the phosphoglycerol transferase gene that plays a key role in 
+lipoteichoic acid (LTA) biosynthesis in Lactobacillus acidophilus NCFM (NCK56) 
+was deleted. The data show that the L. acidophilus LTA-negative in LTA (NCK2025) 
+not only down-regulated IL-12 and TNFα but also significantly enhanced IL-10 in 
+DCs and controlled the regulation of costimulatory DC functions, resulting in 
+their inability to induce CD4(+) T-cell activation. Moreover, treatment of mice 
+with NCK2025 compared with NCK56 significantly mitigated dextran sulfate sodium 
+and CD4(+)CD45RB(high)T cell-induced colitis and effectively ameliorated dextran 
+sulfate sodium-established colitis through a mechanism that involves IL-10 and 
+CD4(+)FoxP3(+) T regulatory cells to dampen exaggerated mucosal inflammation. 
+Directed alteration of cell surface components of L. acidophilus NCFM 
+establishes a potential strategy for the treatment of inflammatory intestinal 
+disorders.

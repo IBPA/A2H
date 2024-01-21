@@ -1,0 +1,26 @@
+BACKGROUND: Based on MLST analyses the global population of C. difficile is 
+distributed in eight clades, of which Clade 2 includes the "hypervirulent" 
+NAP1/RT027/ST01 strain along with various unexplored sequence types (STs).
+METHODS: To clarify whether this clinically relevant phenotype is a widespread 
+feature of C. difficile Clade 2, we used the murine ileal loop model to compare 
+the in vivo pro-inflammatory (TNF-α, IL-1β, IL-6) and oxidative stress 
+activities (MPO) of five Clade 2 clinical C. difficile isolates from sequence 
+types (STs) 01, 41, 67, and 252. Besides, we infected Golden Syrian hamsters 
+with spores from these strains to determine their lethality, and obtain a 
+histological evaluation of tissue damage, WBC counts, and serum injury 
+biomarkers (LDH, ALT, AST, albumin, BUN, creatinine, Na+, and Cl-). Genomic 
+distances were calculated using Mash and FastANI to explore whether the 
+responses were dictated by phylogeny.
+RESULTS: The ST01 isolate tested ranked first in all assays, as it induced the 
+highest overall levels of pro-inflammatory cytokines, MPO activity, epithelial 
+damage, biochemical markers, and mortality measured in both animal models. 
+Statistically indistinguishable or rather similar outputs were obtained for a 
+ST67 isolate in tests such as tissue damage, neutrophils count, and lethal 
+activity. The results recorded for the two ST41 isolates tested were of 
+intermediate magnitude and the ST252 isolate displayed the lowest pathogenic 
+potential in all animal experiments. This ordering matched the genomic distance 
+of the ST01 isolate to the non-ST01 isolates.
+CONCLUSIONS: Despite their close phylogenic relatedness, our results demonstrate 
+differences in pathogenicity and virulence levels in Clade 2 C. difficile 
+strains, confirm the high severity of infections caused by the NAP1/RT027/ST01 
+strain, and highlight the importance of C. difficile typing.

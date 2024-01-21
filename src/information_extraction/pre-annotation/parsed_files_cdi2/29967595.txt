@@ -1,0 +1,25 @@
+Clostridium difficile is well known as an agent responsible for pseudomembranous 
+colitis and antibiotic-associated diarrhea. The hamster model utilizing an oral 
+route for infection of C. difficile has been considered to be the standard model 
+for analysis of C. difficile infection (CDI) but this model exhibits differences 
+to human CDI, most notably as most hamsters die without exhibiting diarrhea. 
+Therefore, we attempted to develop a new non-lethal and diarrheal rat CDI model 
+caused by endogenous C. difficile using metronidazole (MNZ) and egg white. In 
+addition, the effects of probiotic strain Clostridium butyricum MIYAIRI 588 
+(CBM) on CDI were examined using this model. Syrian Golden hamsters received 
+clindamycin phosphate orally at 30 mg/kg on 5 days before challenge with either 
+C. difficile VPI10463 (hypertoxigenic strain) or KY34 (low toxigenic clinical 
+isolate). Mortality and the presence of diarrhea were observed twice a day for 
+the duration of the experiment. Wistar rats received 10% egg white dissolved in 
+drinking water for 1 week ad libitum following intramuscular administration of 
+200 mg/kg MNZ twice a day for 3 days. Diarrhea score was determined for each day 
+and fecal water content, biotin concentration, and cytotoxin titer in feces were 
+examined. More than 70% of hamsters orally infected with C. difficile died 
+without exhibiting diarrhea regardless of toxigenicity of strain. The rats 
+receiving egg white after MNZ administration developed diarrhea due to 
+overgrowth of endogenous C. difficile. This CDI model is non-lethal and 
+diarrheal, and some rats in this model were spontaneously cured. The incidence 
+of diarrhea was significantly decreased in C. butyricum treated rats. These 
+results indicate that the CDI model using egg white and MNZ has potentially 
+better similarity to human CDI, and implies that treatment with C. butyricum may 
+reduce the risk of CDI.

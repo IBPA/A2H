@@ -1,0 +1,30 @@
+Bacterial infections present a serious challenge to healthcare practitioners due 
+to the emergence of resistance to numerous conventional antibacterial drugs. 
+Therefore, new bacterial targets and new antimicrobials are unmet medical needs. 
+Rhodanine derivatives have been shown to possess potent antimicrobial activity 
+via a novel mechanism. However, their potential use as antibacterials has not 
+been fully examined. In this study, we determined the spectrum of activity of 
+seven rhodanine derivatives (compounds Rh 1-7) against clinical isolates of 
+Gram-positive and Gram-negative bacterial strains and Candida albicans. We also 
+synthesized and tested three additional compounds, ethyl ester and amide of 
+rhodanine 2 (Rh 8 and Rh 10, respectively) and ethyl ester of rhodanine 3 (Rh 9) 
+to determine the significance of the carboxyl group modification towards 
+antibacterial activity and human serum albumin binding. A broth microdilution 
+assay confirmed Rh 1-7 exhibit bactericidal activity against Gram-positive 
+pathogens. Rh 2 had significant activity against various vancomycin-resistant 
+(MIC90 = 4 μM) and methicillin-resistant (MIC90 = 4 μM) Staphylococcus aureus 
+(VRSA and MRSA), Staphylococcus epidermidis (MIC = 4 μM) and 
+vancomycin-resistant Enterococcus (VRE) strains (MIC90 = 8 μM). The rhodanine 
+compounds exhibited potent activity against Bacillus spp., including Bacillus 
+anthracis, with MIC range of 2-8 μM. In addition, they had potent activity 
+against Clostridium difficile. The most potent compound, Rh 2, at 4 and 8 times 
+its MIC, significantly decreased S. epidermidis biofilm mass by more than 35% 
+and 45%, respectively. None of the rhodanine compounds showed antimicrobial 
+activity (MIC > 128 μM) against various 1) Gram-negative pathogens 
+(Acinetobacter baumannii, Escherichia coli, Klebsiella pneumonia, Pseudomonas 
+aeruginosa, and Salmonella Typhimurium) or 2) strains of Candida albicans (MIC > 
+64 μM). The MTS assay confirmed that rhodanines were not toxic to mouse murine 
+macrophage (J774.1A) up to 64 μM, human keratinocytes (HaCat) up to 32 μM, and 
+human ileocecal colorectal cell (HRT-18) up to 128 μM. Overall, these data 
+suggest that certain rhodanine compounds may have potential use for the 
+treatment of several multidrug-resistant Gram-positive bacterial infections.

@@ -1,0 +1,28 @@
+OBJECTIVE: Type II collagen (CII) is a candidate autoantigen implicated in the 
+pathogenesis of rheumatoid arthritis (RA). Posttranslational glycosylation of 
+CII could alter intracellular antigen processing, leading to the development of 
+autoimmune T cell responses. To address this possibility, we studied the 
+intracellular processing of CII for presentation of the arthritogenic 
+glycosylated epitope CII(259-273) to CD4 T cells in macrophages from 
+HLA-DR1-transgenic mice.
+METHODS: HLA-DR1-transgenic mice were generated on a class II major 
+histocompatibility complex-deficient background, and T cell hybridomas specific 
+for the glycosylated and nonglycosylated epitope CII(259-273) were developed. 
+Subcellular fractionation of macrophages was used to localize CII degradation to 
+particular compartments and to identify the catalytic subtype of proteinases 
+involved.
+RESULTS: We showed that the glycosylated CII(259-273) epitope required more 
+extensive processing than did the nonglycosylated form of the same epitope. 
+Dense fractions containing lysosomes were primarily engaged in the processing of 
+CII for antigen presentation, since these compartments contained 1) enzyme 
+activity that generated antigenic CII fragments bearing the arthritogenic 
+glycosylated epitope, 2) the antigenic CII fragments themselves, 3) CII 
+peptide-receptive HLA-DR1 molecules, and 4) peptide/HLA-DR1 complexes that could 
+directly activate T cell hybridomas. Degradation of CII by dense fractions 
+occurred optimally at pH 4.5 and was abrogated by inhibitors of serine and 
+cysteine proteinases.
+CONCLUSION: Processing of the arthritogenic glycosylated CII(259-273) epitope, 
+which is implicated in the induction of autoimmune arthritis, is more 
+stringently regulated than is processing of the nonglycosylated form of the same 
+epitope. Mechanisms of intracellular processing of the glycosylated epitope may 
+constitute novel therapeutic targets for the treatment of RA.

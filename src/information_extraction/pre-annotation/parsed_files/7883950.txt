@@ -1,0 +1,18 @@
+Enterotoxin A is one of the major virulence factors of Clostridium difficile, 
+and the causative agent of antibiotic-associated pseudomembranous colitis. In 
+cell culture (NIH-3T3, rat basophilic leukemia cells) toxin A inhibits 
+Clostridium botulinum ADP-ribosyltransferase C3 (C3)-catalyzed ADP-ribosylation 
+of the low molecular mass GTP-binding Rho proteins. Rho participates in the 
+regulation of the microfilament cytoskeleton. Decrease in ADP-ribosylation of 
+Rho occurs in a time- and concentration-dependent manner and precedes the toxin 
+A-induced destruction of the actin cytoskeleton. Action of toxin A is not due to 
+proteolytical degradation of Rho or to an inherent ADP-ribosyltransferase 
+activity of toxin A. Toxin A-induced decrease in ADP-ribosylation is observed 
+also in cell lysates and with recombinant RhoA protein. A heat stable low 
+molecular mass cytosolic factor is essential for the toxin effect on Rho. Thus, 
+the enterotoxin (toxin A) resembles the effects of the C. difficile cytotoxin 
+(toxin B) on Rho proteins (Just, I., G. Fritz, K. Aktories, M. Giry, M. R. 
+Popoff, P. Boquet, S. Hegenbath, and C. Von Eichel-Streiber. 1994. J. Biol. 
+Chem. 269:10706-10712). The data indicate that despite different in vivo 
+effects, toxin A and toxin B act on the same cellular target protein Rho to 
+elicit their toxic effects.

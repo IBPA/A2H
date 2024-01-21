@@ -1,0 +1,23 @@
+OBJECTIVE: Rheumatoid arthritis (RA) is an inflammatory disease and an 
+angiogenic disease. However, the molecular mechanisms promoting angiogenesis in 
+RA are not clearly identified. Our objective was to study the role of an 
+endothelium-specific receptor tyrosine kinase, Tie2, in angiogenesis of 
+inflammatory arthritis.
+METHODS: Expression of Tie2 and its ligand, angiopoietin 1 (Ang1), in human 
+synovium was examined by immunohistochemistry and Western blot. A novel synovium 
+vascular window model was established to study the role of Tie2 in angiogenesis 
+in vivo. Primary cultured endothelial cells and synoviocytes were used to study 
+tumor necrosis factor alpha (TNF alpha)-induced Tie2 and Ang1 expression.
+RESULTS: Tie2 was implicated in pathologic angiogenesis. We observed that Tie2 
+and Ang1 were elevated in human RA synovium. Using a novel collagen-induced 
+arthritis synovial window model, we demonstrated that Tie2 signaling regulated 
+arthritis angiogenesis in vivo. We also showed that Tie2 mediated TNF 
+alpha-induced angiogenesis in a mouse cornea assay. In addition, we observed 
+that TNF alpha can regulate Tie2 activation in multiple ways that may involve 
+interactions between endothelial cells and synoviocytes. TNF alpha up-regulates 
+Tie2 in endothelial cells through nuclear factor kappa B, and it up-regulates 
+Ang1 in synoviocytes. These findings suggest paracrine regulation of 
+angiogenesis between endothelial cells and synoviocytes.
+CONCLUSION: This study demonstrates that Tie2 regulates angiogenesis in 
+inflammatory synovium. Tie2 signaling is an important angiogenic mediator that 
+links the proinflammatory cytokine TNF alpha to pathologic angiogenesis.

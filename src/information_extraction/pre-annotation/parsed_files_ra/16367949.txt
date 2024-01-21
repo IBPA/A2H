@@ -1,0 +1,28 @@
+Recently, mouse models for latent (LTB) and slowly progressive primary 
+tuberculosis (SPTB) have been established. However, cytokine profiles during the 
+two models are not well established. Using quantitative reverse 
+transcription-polymerase chain reaction (qRT-PCR) we studied the expression 
+levels of interleukin (IL)-2, IL-4, IL-10, IL-12, IL-15, interferon (IFN)-gamma 
+and tumour necrosis factor (TNF)-alpha during the course of LTB and SPTB in the 
+lungs and spleens of B6D2F1Bom mice infected with the H37Rv strain of 
+Mycobacterium tuberculosis (Mtb). The results show that, except for IL-4, 
+cytokine expression levels were significantly higher during SPTB than LTB in 
+both the lungs and spleens. During LTB, all the cytokines (except IL-2 in the 
+lungs) had higher expression levels during the initial period of infection both 
+in the lungs and spleens. During SPTB, the expression levels of IL-15 increased 
+significantly from phases 1 to 3 in the lungs. The expression levels of IL-10, 
+IL-12 and IFN-gamma increased significantly from 2 to 3 in the lungs. IL-10 and 
+IL-15 increased significantly from phases 2 to 3, whereas that of TNF-alpha 
+decreased significantly and progressively from phases 1 to 3 in the spleens. 
+Over-expression of proinflammatory cytokines during active disease has been well 
+documented, but factor(s) underlying such over-expression is not known. In the 
+present study, there was a progressive and significant increase in the 
+expression levels of IL-15, together with Th1 cytokines (IL-12 and IFN-gamma) 
+during SPTB but a significant decrease during LTB. IL-15 is known to up-regulate 
+the production of proinflammatory cytokines, IL-1beta, IL-8, IL-12, IL-17, 
+IFN-gamma and TNF-alpha and has an inhibitory effect on activation-induced cell 
+death. IL-15 is known to be involved in many proinflammatory disease states such 
+as rheumatoid arthritis, sarcoidosis, inflammatory bowel diseases, autoimmune 
+diabetes, etc. Our results, together with the above observations, suggest that 
+IL-15 may play an important role in mediating active disease during Mtb 
+infection.

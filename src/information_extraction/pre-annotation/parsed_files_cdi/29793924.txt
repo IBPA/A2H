@@ -1,0 +1,16 @@
+Pyroptosis is an inflammasome-induced lytic cell death mode, the physiological 
+role of which in chronic inflammatory diseases is unknown. Familial 
+Mediterranean Fever (FMF) is the most common monogenic autoinflammatory disease 
+worldwide, affecting an estimated 150,000 patients. The disease is caused by 
+missense mutations in Mefv that activate the Pyrin inflammasome, but the 
+pathophysiologic mechanisms driving autoinflammation in FMF are incompletely 
+understood. Here, we show that Clostridium difficile infection of FMF knock-in 
+macrophages that express a chimeric FMF-associated MefvV726A Pyrin elicited 
+pyroptosis and gasdermin D (GSDMD)-mediated interleukin (IL)-1β secretion. 
+Importantly, in vivo GSDMD deletion abolished spontaneous autoinflammatory 
+disease. GSDMD-deficient FMF knock-in mice were fully protected from the runted 
+growth, anemia, systemic inflammatory cytokine production, neutrophilia, and 
+tissue damage that characterize this autoinflammatory disease model. Overall, 
+this work identifies pyroptosis as a critical mechanism of IL-1β-dependent 
+autoinflammation in FMF and highlights GSDMD inhibition as a potential 
+antiinflammatory strategy in inflammasome-driven diseases.

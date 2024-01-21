@@ -1,0 +1,17 @@
+Fynomers are small binding proteins derived from the human Fyn SH3 domain. Using 
+phage display technology, Fynomers were generated inhibiting the activity of the 
+proinflammatory cytokine interleukin-17A (IL-17A). One specific Fynomer called 
+2C1 inhibited human IL-17A in vitro with an IC50 value of 2.2 nm. Interestingly, 
+when 2C1 was genetically fused to the Fc part of a human antibody via four 
+different amino acid linkers to yield bivalent IL-17A binding proteins (each 
+linker differed in length), the 2C1-Fc fusion protein with the longest linker 
+displayed the most potent inhibitory activity. It blocked homodimeric IL-17A 
+with an IC50 value of 21 pm, which corresponds to a hundredfold improved IC50 
+value as compared to the value obtained with monovalent Fynomer 2C1. In 
+contrast, the 2C1-Fc fusion with the shortest linker showed only an ∼8-fold 
+improved IC50 value of 260 pm. Furthermore, in a mouse model of acute 
+inflammation, we have shown that the most potent 2C1-Fc fusion protein is able 
+to efficiently inhibit IL-17A in vivo. With their suitable biophysical 
+properties, Fynomer-Fc fusion proteins represent new drug candidates for the 
+treatment of IL-17A mediated inflammatory conditions such as psoriasis, 
+psoriatic arthritis, or rheumatoid arthritis.

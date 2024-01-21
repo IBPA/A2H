@@ -1,0 +1,24 @@
+Antibodies specific for bovine type II collagen (CII) and Fcγ receptors play a 
+major role in collagen-induced arthritis (CIA), a mouse model of rheumatoid 
+arthritis (RA). Our aim was to clarify the mechanism of immune complex-mediated 
+inflammation and modulation of the disease. CII pre-immunized DBA/1 mice were 
+intravenously boosted with extravidin coupled biotinylated monomeric CII-peptide 
+epitope (ARGLTGRPGDA) and its complexes with biotinylated FcγRII/III specific 
+single chain Fv (scFv) fragment. Disease scores were monitored, antibody titers 
+and cytokines were determined by ELISA, and binding of complexes was detected by 
+flow cytometry and immune histochemistry. Cytokine and chemokine secretion was 
+monitored by protein profiler microarray. When intravenously administered into 
+collagen-primed DBA/1 mice, both CII-peptide and its complex with 2.4G2 scFv 
+significantly accelerated CIA and increased the severity of the disease, whereas 
+the monomeric peptide and monomeric 2.4G2 scFv had no effect. FcγRII/III 
+targeted CII-peptide complexes bound to marginal zone macrophages and dendritic 
+cells, and significantly elevated the synthesis of peptide-specific IgG2a. 
+Furthermore, CII-peptide containing complexes augmented the in vivo secretion of 
+cytokines, including IL-10, IL-12, IL-17, IL-23, and chemokines (CXCL13, MIP-1, 
+MIP-2). These data indicate that complexes formed by the CII-peptide epitope 
+aggravate CIA by inducing the secretion of chemokines and the IL-12/23 family of 
+pro-inflammatory cytokines. Taken together, these results suggest that the in 
+vivo emerging immune complexes formed with autoantigen(s) may trigger the 
+IL-12/23 dependent pathways, escalating the inflammation in RA. Thus blockade of 
+these cytokines may be beneficial to downregulate immune complex-induced 
+inflammation in autoimmune arthritis.

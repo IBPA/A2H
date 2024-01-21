@@ -1,0 +1,19 @@
+We have synthesized a targeted imaging agent for rheumatoid arthritis based on 
+polysulfated gold nanorods. The CTAB layer on gold nanorods was first replaced 
+with PEG-thiol and then with dendritic polyglycerolsulfate at elevated 
+temperature, which resulted in significantly reduced cytotoxicity compared to 
+polyanionic gold nanorods functionalized by non-covalent approaches. In addition 
+to classical characterization methods, we have established a facile UV-VIS based 
+BaCl2 agglomeration assay to confirm a quantitative removal of unbound ligand. 
+With the help of a competitive surface plasmon resonance-based L-selectin 
+binding assay and a leukocyte adhesion-based flow cell assay, we have 
+demonstrated the high inflammation targeting potential of the synthesized gold 
+nanorods in vitro. In combination with the surface plasmon resonance band of 
+AuNRs at 780 nm, these findings permitted the imaging of inflammation in an in 
+vivo mouse model for rheumatoid arthritis with high contrast using multispectral 
+optoacoustic tomography. The study offers a robust method for otherwise 
+difficult to obtain covalently functionalized polyanionic gold nanorods, which 
+are suitable for biological applications as well as a low-cost, actively 
+targeted, and high contrast imaging agent for the diagnosis of rheumatoid 
+arthritis. This paves the way for further research in other inflammation 
+associated pathologies, in particular, when photothermal therapy can be applied.

@@ -1,0 +1,19 @@
+Triptolide, a purified component of Tripterygiumwilfordii Hook F, has been shown 
+to have immunosuppressive and anti-inflammatory properties in rheumatoid 
+arthritis (RA). Although triptolide has demonstrated that it could suppress bone 
+destruction in collagen-induced mice, its therapeutic mechanism remains unclear. 
+Many studies have investigated the effect of triptolide on Tregs and 
+Tregs-related cytokine involved in RA. Additionally, previous studies have 
+implied that Tregs inhibit osteoclast differentiation and bone resorption. Thus, 
+in this study we aimed to explore the regulatory mechanism by which triptolide 
+influences the Treg-mediated production of IL-10 and TGF-β1 to affect osteoclast 
+differentiation and bone resorption. In cocultures system of Tregs and mouse 
+bone marrow macrophages (BMMs), Tregs inhibited the differentiation of 
+osteoclasts and reduced the resorbed areas significantly and the production of 
+both IL-10 and TGF-β1 was upregulated. When the coculture systems were 
+pretreated with triptolide, they produced higher levels of IL-10 and TGF-β1. Our 
+data indicate that triptolide enhances the suppressive effects of Tregs on 
+osteoclast differentiation and bone resorption by enhancing the secretion of 
+IL-10 and TGF-β1. Tregs are most likely involved in the triptolide-mediated 
+regulation of bone metabolism and may provide a potential therapeutic target for 
+the treatment of inflammatory bone destruction.

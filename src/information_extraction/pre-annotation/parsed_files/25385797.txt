@@ -1,0 +1,23 @@
+The exotoxins TcdA and TcdB are the major virulence factors of Clostridium 
+difficile. Circulating neutralizing antitoxin antibodies are protective in C. 
+difficile infection (CDI), as demonstrated, in part, by the protective effects 
+of actoxumab and bezlotoxumab, which bind to and neutralize TcdA and TcdB, 
+respectively. The question of how systemic IgG antibodies neutralize toxins in 
+the gut lumen remains unresolved, although it has been suggested that the Fc 
+receptor FcRn may be involved in active antibody transport across the gut 
+epithelium. In this study, we demonstrated that genetic ablation of FcRn and 
+excess irrelevant human IgG have no impact on actoxumab-bezlotoxumab-mediated 
+protection in murine and hamster models of CDI, suggesting that Fc-dependent 
+transport of antibodies across the gut wall is not required for efficacy. Tissue 
+distribution studies in hamsters suggest, rather, that the transport of 
+antibodies depends on toxin-induced damage to the gut lining. In an in vitro 
+two-dimensional culture system that mimics the architecture of the intestinal 
+mucosal epithelium, toxins on the apical side of epithelial cell monolayers are 
+neutralized by basolateral antibodies, and antibody transport across the cell 
+layer is dramatically increased upon addition of toxin to the apical side. 
+Similar data were obtained with F(ab')2 fragments, which lack an Fc domain, 
+consistent with FcRn-independent paracellular, rather than transcellular, 
+transport of antibodies. Kinetic studies show that initial damage caused by 
+apical toxin is required for efficient neutralization by basolateral antibodies. 
+These data may represent a general mechanism of humoral response-mediated 
+protection against enteric pathogens.

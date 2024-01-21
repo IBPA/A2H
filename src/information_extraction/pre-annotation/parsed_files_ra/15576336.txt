@@ -1,0 +1,27 @@
+Rheumatoid arthritis is characterised by the interaction of multiple mediators, 
+among the most important of which are cytokines. In recent years, extensive data 
+demonstrates a pivotal role for one cytokine, macrophage migration inhibitory 
+factor (MIF), in fundamental events in innate and adaptive immunity. MIF has now 
+been demonstrated to be involved in the pathogenesis of many diseases, but in 
+the case of RA the evidence for a role of MIF is very strong. MIF is abundantly 
+expressed in the serum of RA patients, and in RA synovial tissue where it 
+correlates with disease activity. MIF induces synoviocyte expression of key 
+proinflammatory genes including TNF, IL-1, IL-6, IL-8, cPLA2, COX2 and MMPs. MIF 
+also regulates the function of endothelial cells and B cells. Moreover, MIF is 
+implicated in the control of synoviocyte proliferation and apoptosis via direct 
+effects on the expression of the tumor suppressor protein p53. In multiple rat 
+and mouse models of RA, anti-MIF antibodies or genetic MIF deficiency are 
+associated with significant inhibition of disease. MIF -/- mice further 
+demonstrate increases in synovial apoptosis. That the human Mif gene is encoded 
+by different functional alleles in subjects with inflammatory disease also 
+provides evidence for the role of MIF in RA. The mechanism of action of MIF is 
+becoming better understood. MIF appears to interact with cell surface CD74, with 
+consequent activation of MAP kinases but possibly not NFkappaB intracellular 
+signal transduction. This apparent selectivity may be implicated in the ability 
+of MIF to antagonise the effects of glucocorticoids. As MIF expression is 
+induced by glucocorticoids, inhibition of its antagonistic effects may permit 
+enhanced therapeutic effect of glucocorticoids, or "steroid sparing". To date 
+there are no clinical trials of MIF antagonism in any disease, but exploitation 
+of antibody, soluble receptor, or small molecule approaches enabled by the 
+unique crystal structure of MIF, may soon lead to the ability to test in the 
+clinic the importance of this cytokine in human RA.

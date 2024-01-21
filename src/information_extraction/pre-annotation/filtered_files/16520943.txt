@@ -1,0 +1,19 @@
+The host factors that influence autoimmune arthritides such as rheumatoid 
+arthritis have not been fully elucidated. We previously found that genetic 
+inactivation of CC chemokine receptor 2 (CCR2) in the arthritis-prone DBA/1j 
+mouse strain significantly increases the susceptibility of this strain to 
+autoimmune arthritis induced by immunization with collagen type II (CII) and 
+complete Freund's adjuvant (CFA). Here, we show that following intradermal 
+infection with Mycobacterium avium, a similar arthritis phenotype was detected 
+in Ccr2-null mice in the DBA/1j, but not in the BALB/c background. The failure 
+to develop arthritis in Ccr2-null BALB/c mice occurred in the face of high 
+bacterial burdens and low interferon gamma (IFNgamma) production. By contrast, 
+Ccr2-null DBA/1j mice had low bacterial burdens, produced normal amounts of 
+IFNgamma, and had high titers of autoantibodies against CII. Thus, the Ccr2-null 
+state in an arthritic-prone genetic background leads to increased arthritis 
+susceptibility following infectious (M. avium) and noninfectious (CII/CFA) 
+challenges. Because CCR2 serves as a negative regulator of murine arthritis, 
+caution might need to be exercised while testing CCR2 blockers in human 
+arthritis or other diseases. These findings also indicate that Ccr2-null DBA/1j 
+mice might serve as a valuable model system to uncover the immunological 
+determinants of arthritis and to test novel antiarthritic agents.

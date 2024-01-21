@@ -1,0 +1,16 @@
+Clostridium difficile is a Gram-positive bacillus and is the leading cause of 
+toxin-mediated nosocomial diarrhea following antibiotic use. C. difficile 
+flagella play a role in colonization, adherence, biofilm formation, and toxin 
+production, which might contribute to the overall virulence of certain strains. 
+Human and animal studies indicate that anti-flagella immune responses may play a 
+role in protection against colonization by C. difficile and subsequent disease 
+outcome. Here we report that recombinant C. difficile flagellin (FliC) is 
+immunogenic and protective in a murine model of C. difficile infection (CDI) 
+against a clinical C. difficile strain, UK1. Passive protection experiments 
+using anti-FliC polyclonal serum in mice suggest this protection to be 
+antibody-mediated. FliC immunization also was able to afford partial protection 
+against CDI and death in hamsters following challenge with C. difficile 630Δerm. 
+Additionally, immunization against FliC does not have an adverse effect on the 
+normal gut flora of vaccinated hamsters as evidenced by comparing the fecal 
+microbiome of vaccinated and control hamsters. Therefore, the use of FliC as a 
+vaccine candidate against CDI warrants further testing.

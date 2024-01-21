@@ -1,0 +1,18 @@
+Adoptive cell transfer experiments can be used to study the roles of cell 
+trafficking molecules on the migratory behavior of specific immune cell 
+populations in vivo. Chemoattractants and their G protein-coupled 
+seven-transmembrane-spanning receptors regulate migration of cells in vivo, and 
+dysregulated expression of chemoattractants and their receptors is implicated in 
+autoimmune and inflammatory diseases. Inflammatory arthritides, such as 
+rheumatoid arthritis (RA), are characterized by the recruitment of inflammatory 
+cells into joints. The K/BxN serum transfer mouse model of inflammatory 
+arthritis shares many similar features with RA. In this autoantibody-induced 
+model of arthritis, neutrophils are the critical immune cells necessary for the 
+development of joint inflammation and damage. We have used adoptive neutrophil 
+transfer to define the contributions of chemoattractant receptors, cytokines, 
+and activation receptors expressed on neutrophils that critically regulate their 
+entry into the inflamed joint. In this review, we describe the procedure of 
+neutrophil adoptive transfer to study the influence of neutrophil-specific 
+receptors or mediators upon the their recruitment into the joint using the K/BxN 
+model of inflammatory arthritis as a model of how adoptive cell transfer studies 
+can be used to study immune cell migration in vivo.

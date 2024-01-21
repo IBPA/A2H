@@ -1,0 +1,19 @@
+We investigated the presence and alteration of lymphatic vessels in joints of 
+arthritic mice using a whole-slide imaging system. Joints and long bone sections 
+were cut from paraffin blocks of two mouse models of arthritis: 
+meniscal-ligamentous injury (MLI)-induced osteoarthritis (OA) and TNF transgene 
+(TNF-Tg)-induced rheumatoid arthritis (RA). MLI-OA mice were fed a high fat diet 
+to accelerate OA development. TNF-Tg mice were treated with lymphatic growth 
+factor VEGF-C virus to stimulate lymphangiogenesis. Sections were double 
+immunofluorescence stained with anti-podoplanin and alpha-smooth muscle actin 
+antibodies. The area and number of lymphatic capillaries and mature lymphatic 
+vessels were determined using a whole-slide imaging system and its associated 
+software. Lymphatic vessels in joints were distributed in soft tissues mainly 
+around the joint capsule, ligaments, fat pads and muscles. In long bones, 
+enriched lymphatic vessels were present in the periosteal areas adjacent to the 
+blood vessels. Occasionally, lymphatic vessels were observed in the cortical 
+bone. Increased lymphatic capillaries, but decreased mature lymphatic vessels, 
+were detected in both OA and RA joints. VEGF-C treatment increased lymphatic 
+capillary and mature vessel formation in RA joints. Our findings suggest that 
+the lymphatic system may play an important role in arthritis pathogenesis and 
+treatment.

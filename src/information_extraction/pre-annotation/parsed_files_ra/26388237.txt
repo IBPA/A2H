@@ -1,0 +1,13 @@
+Recent studies have identified olfactory ecto-mesenchymal stem cells (OE-MSCs) 
+as a new type of resident stem cell in the olfactory lamina propria. However, it 
+remains unclear whether OE-MSCs possess any immunoregulatory functions. In this 
+study, we found that mouse OE-MSCs expressed higher transforming growth 
+factor-beta and interleukin-10 levels than bone marrow-derived MSCs. In culture, 
+OE-MSCs exerted their immunosuppressive capacity via directly suppressing 
+effector T-cell proliferation and increasing regulatory T (Treg) cell expansion. 
+In mice with collagen-induced arthritis, adoptive transfer of OE-MSCs markedly 
+suppressed arthritis onset and disease severity, which was accompanied by 
+increased Treg cells and reduced Th1/Th17 cell responses in vivo. Taken 
+together, our findings identified a novel function of OE-MSCs in regulating 
+T-cell responses, indicating that OE-MSCs may represent a new cell therapy for 
+the treatment of rheumatoid arthritis and other autoimmune diseases.

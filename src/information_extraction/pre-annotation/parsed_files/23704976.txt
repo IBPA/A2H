@@ -1,0 +1,23 @@
+Clostridium difficile is the most commonly associated cause of antibiotic 
+associated disease (AAD), which caused ∼21,000 cases of AAD in 2011 in the U.K. 
+alone. The golden Syrian hamster model of CDI is an acute model displaying many 
+of the clinical features of C. difficile disease. Using this model we 
+characterised three clinical strains of C. difficile, all differing in 
+toxinotype; CD1342 (PaLoc negative), M68 (toxinotype VIII) & BI-7 (toxinotype 
+III). The naturally occurring non-toxic strain colonised all hamsters within 
+1-day post challenge (d.p.c.) with high-levels of spores being shed in the 
+faeces of animals that appeared well throughout the entire experiment. However, 
+some changes including increased neutrophil influx and unclotted red blood cells 
+were observed at early time points despite the fact that the known C. difficile 
+toxins (TcdA, TcdB and CDT) are absent from the genome. In contrast, hamsters 
+challenged with strain M68 resulted in a 45% mortality rate, with those that 
+survived challenge remaining highly colonised. It is currently unclear why some 
+hamsters survive infection, as bacterial & toxin levels and histology scores 
+were similar to those culled at a similar time-point. Hamsters challenged with 
+strain BI-7 resulted in a rapid fatal infection in 100% of the hamsters 
+approximately 26 hr post challenge. Severe caecal pathology, including 
+transmural neutrophil infiltrates and extensive submucosal damage correlated 
+with high levels of toxin measured in gut filtrates ex vivo. These data 
+describes the infection kinetics and disease outcomes of 3 clinical C. difficile 
+isolates differing in toxin carriage and provides additional insights to the 
+role of each toxin in disease progression.

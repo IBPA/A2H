@@ -1,0 +1,19 @@
+Clostridium difficile can infect the large intestine and cause colitis when the 
+normal intestinal microbiota is altered by antibiotic administration. Little is 
+known about the innate immune signaling pathways that marshal inflammatory 
+responses to C. difficile infection and whether protective and pathogenic 
+inflammatory responses can be dissociated. Toll-like receptors predominantly 
+signal via the MyD88 adaptor protein and are important mediators of innate 
+immune signaling in the intestinal mucosa. Here, we demonstrate that 
+MyD88-mediated signals trigger neutrophil and CCR2-dependent Ly6C(hi) monocyte 
+recruitment to the colonic lamina propria (cLP) during infection, which prevent 
+dissemination of bystander bacteria to deeper tissues. Mortality is markedly 
+increased in MyD88-deficient mice following C. difficile infection, as are 
+parameters of mucosal tissue damage and inflammation. Antibody-mediated 
+depletion of neutrophils markedly increases mortality, while attenuated 
+recruitment of Ly6C(hi) monocytes in CCR2-deficient mice does not alter the 
+course of C. difficile infection. Expression of CXCL1, a neutrophil-recruiting 
+chemokine, is impaired in the cLP of MyD88(-/-) mice. Our studies suggest that 
+MyD88-mediated signals promote neutrophil recruitment by inducing expression of 
+CXCL1, thereby providing critical early defense against C. difficile-mediated 
+colitis.

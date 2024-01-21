@@ -1,0 +1,43 @@
+BACKGROUND: Prebiotic galacto-oligosaccharides (GOS) have an extensively 
+demonstrated beneficial impact on intestinal health. In this study, we 
+determined the impact of GOS diets on hallmarks of gut aging: microbiome 
+dysbiosis, inflammation, and intestinal barrier defects ("leaky gut"). We also 
+evaluated if short-term GOS feeding influenced how the aging gut responded to 
+antibiotic challenges in a mouse model of Clostridioides difficile infection. 
+Finally, we assessed if colonic organoids could reproduce the GOS 
+responder-non-responder phenotypes observed in vivo.
+RESULTS: Old animals had a distinct microbiome characterized by increased ratios 
+of non-saccharolytic versus saccharolytic bacteria and, correspondingly, a lower 
+abundance of β-galactosidases compared to young animals. GOS reduced the overall 
+diversity, increased the abundance of specific saccharolytic bacteria (species 
+of Bacteroides and Lactobacillus), increased the abundance of β-galactosidases 
+in young and old animals, and increased the non-saccharolytic organisms; 
+however, a robust, homogeneous bifidogenic effect was not observed. GOS reduced 
+age-associated increased intestinal permeability and increased MUC2 expression 
+and mucus thickness in old mice. Clyndamicin reduced the abundance 
+Bifidobacterium while increasing Akkermansia, Clostridium, Coprococcus, 
+Bacillus, Bacteroides, and Ruminococcus in old mice. The antibiotics were more 
+impactful than GOS on modulating serum markers of inflammation. Higher serum 
+levels of IL-17 and IL-6 were observed in control and GOS diets in the 
+antibiotic groups, and within those groups, levels of IL-6 were higher in the 
+GOS groups, regardless of age, and higher in the old compared to young animals 
+in the control diet groups. RTqPCR revealed significantly increased gene 
+expression of TNFα in distal colon tissue of old mice, which was decreased by 
+the GOS diet. Colon transcriptomics analysis of mice fed GOS showed increased 
+expression of genes involved in small-molecule metabolic processes and 
+specifically the respirasome in old animals, which could indicate an increased 
+oxidative metabolism and energetic efficiency. In young mice, GOS induced the 
+expression of binding-related genes. The galectin gene Lgals1, a 
+β-galactosyl-binding lectin that bridges molecules by their sugar moieties and 
+is an important modulator of the immune response, and the PI3K-Akt and 
+ECM-receptor interaction pathways were also induced in young mice. Stools from 
+mice exhibiting variable bifidogenic response to GOS injected into colon 
+organoids in the presence of prebiotics reproduced the response and non-response 
+phenotypes observed in vivo suggesting that the composition and functionality of 
+the microbiota are the main contributors to the phenotype.
+CONCLUSIONS: Dietary GOS modulated homeostasis of the aging gut by promoting 
+changes in microbiome composition and host gene expression, which was translated 
+into decreased intestinal permeability and increased mucus production. Age was a 
+determining factor on how prebiotics impacted the microbiome and expression of 
+intestinal epithelial cells, especially apparent from the induction of 
+galectin-1 in young but not old mice. Video abstract.

@@ -1,0 +1,25 @@
+OBJECTIVE: Chemokine receptors mediate leukocyte migration into inflamed 
+rheumatoid arthritis (RA) synovial tissue (ST). Knowledge of their distribution 
+is crucial for understanding the evolution of the inflammatory process. In this 
+study, we used rat adjuvant-induced arthritis (AIA), a model for RA, to define 
+the temporospatial expression of chemokine receptors.
+METHODS: ST from rats with AIA was immunostained, the percentage of cells 
+expressing each receptor was determined, and findings were correlated with 
+levels of inflammation. Chemokine receptor expression was evaluated on rat 
+macrophages in vitro.
+RESULTS: CCR1, a receptor for macrophage inflammatory protein 1alpha 
+(MIP-1alpha)/CCL3 and RANTES/CCL5, exhibited high constitutive expression on 
+macrophages in AIA. CCR5, binding MIP-1alpha/CCL3 and RANTES/CCL5, was 
+up-regulated on ST macrophages during the course of AIA, correlating with 
+macrophage expression of CCR2, a receptor for monocyte chemoattractant protein 
+1/CCL2. Endothelial cell (EC) CCR2 was down-regulated as arthritis progressed, 
+inversely correlating with inflammation. CCR3, another RANTES/CCL5 receptor, was 
+constitutively high on macrophages in vivo and in vitro, with down-regulation 
+during AIA. CXCR4, a receptor for stromal cell-derived factor 1/CXCL12), was 
+prominently up-regulated on ECs, preceding the peak of inflammation.
+CONCLUSION: These findings show that 1) constitutive expression of CCR1 on 
+macrophages remains high during AIA; 2) CCR2 and CCR3 may play a role in initial 
+recruitment of leukocytes to ST in AIA; 3) macrophage expression of CCR2 and 
+CCR5 may be important for sustaining inflammatory changes; and 4) EC CXCR4 may 
+be a harbinger of inflammatory changes. Our results may help guide chemokine 
+receptor blockade-targeting treatment strategies in inflammatory arthritis.

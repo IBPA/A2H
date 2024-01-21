@@ -1,0 +1,22 @@
+We developed 
+3-{5-[4-(cyclopentyloxy)-2-hydroxybenzoyl]-2-[(3-hydroxy-1,2-benzisoxazol-6-yl)methoxy]phenyl} 
+propionic acid (T-5224) as a novel inhibitor of the c-Fos/activator protein-1 
+for rheumatoid arthritis therapy. We predicted the metabolism of T-5224 in 
+humans by using human liver microsomes (HLM), human intestinal microsomes (HIM), 
+recombinant human cytochrome P450 (P450), and UDP-glucuronosyltransferases 
+(UGTs). T-5224 was converted to its acyl O-glucuronide (G2) by UGT1A1 and UGT1A3 
+and to its hydroxyl O-glucuronide (G3) by several UGTs, but it was not 
+metabolized by the P450s. A comparison of the intrinsic clearances (CL(int)) 
+between HLM and HIM suggested that the glucuronidation of T-5224 occurs 
+predominantly in the liver. UGT1A1 showed a higher k(cat)/K(m) value than UGT1A3 
+for G2 formation, but a lower k(cat)/K(m) value than UGT1A3 for G3 formation. A 
+high correlation was observed between G2 formation activity and UGT1A1-specific 
+activity (β-estradiol 3-glucuronidation) in seven individual HLM. A high 
+correlation was also observed between G2 formation activity and UGT1A1 content 
+in the HLM. These results strongly suggest that UGT1A1 is responsible for G2 
+formation in human liver. In contrast, no such correlation was observed with G3 
+formation, suggesting that multiple UGT isoforms, including UGT1A1 and UGT1A3, 
+are involved in G3 formation. G2 is also observed in rat and monkey liver 
+microsomes as a major metabolite of T-5224, suggesting that G2 is not a 
+human-specific metabolite. In this study, we obtained useful information on the 
+metabolism of T-5224 for its clinical use.

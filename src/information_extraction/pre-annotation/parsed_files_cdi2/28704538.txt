@@ -1,0 +1,25 @@
+Clostridium difficile (C. difficile) is an anaerobic gram-positive pathogen that 
+is the leading cause of nosocomial bacterial infection globally. C. difficile 
+infection (CDI) typically occurs after ingestion of infectious spores by a 
+patient that has been treated with broad-spectrum antibiotics. While CDI is a 
+toxin-mediated disease, transmission and pathogenesis are dependent on the 
+ability to produce viable spores. These spores must become metabolically active 
+(germinate) in order to cause disease. C. difficile spore germination occurs 
+when spores encounter bile salts and other co-germinants within the small 
+intestine, however, the germination signaling cascade is unclear. Here we 
+describe a signaling role for Ca2+ during C. difficile spore germination and 
+provide direct evidence that intestinal Ca2+ coordinates with bile salts to 
+stimulate germination. Endogenous Ca2+ (released from within the spore) and a 
+putative AAA+ ATPase, encoded by Cd630_32980, are both essential for 
+taurocholate-glycine induced germination in the absence of exogenous Ca2+. 
+However, environmental Ca2+ replaces glycine as a co-germinant and circumvents 
+the need for endogenous Ca2+ fluxes. Cd630_32980 is dispensable for colonization 
+in a murine model of C. difficile infection and ex vivo germination in mouse 
+ileal contents. Calcium-depletion of the ileal contents prevented mutant spore 
+germination and reduced WT spore germination by 90%, indicating that Ca2+ 
+present within the gastrointestinal tract plays a critical role in C. difficile 
+germination, colonization, and pathogenesis. These data provide a biological 
+mechanism that may explain why individuals with inefficient intestinal calcium 
+absorption (e.g., vitamin D deficiency, proton pump inhibitor use) are more 
+prone to CDI and suggest that modulating free intestinal calcium is a potential 
+strategy to curb the incidence of CDI.

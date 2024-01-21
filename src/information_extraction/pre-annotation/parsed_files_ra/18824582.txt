@@ -1,0 +1,18 @@
+Rheumatoid arthritis (RA) is a chronic inflammatory disease of synovial joints 
+that is associated with cartilage and bone destruction. Death Receptor 3 (DR3), 
+a tumor necrosis factor (TNF) receptor superfamily member, has recently been 
+associated with the pathogenesis of RA. We demonstrate that absence of DR3 
+confers resistance to the development of adverse bone pathology in experimental 
+antigen-induced arthritis (AIA). DR3(ko) mice exhibited a reduction in all 
+histopathological hallmarks of AIA but, in particular, failed to develop 
+subchondral bone erosions and were completely protected from this characteristic 
+of AIA. In contrast, TNF-like protein 1A (TL1A), the ligand for DR3, exacerbated 
+disease in a dose- and DR3-dependent fashion. Analysis of osteoclast number 
+within AIA joint revealed a reduction in areas susceptible to bone erosion in 
+DR3(ko) mice, whereas in vitro osteoclastogenesis assays showed that TL1A could 
+directly promote osteoclastogenesis in mouse and man. Treatment with 
+antagonistic anti-TL1A mAb protected animals in a systemic model of RA disease 
+collagen-induced arthritis. We therefore conclude that the DR3-TL1A pathway 
+regulates joint destruction in two murine models of arthritis and represents a 
+potential novel target for therapeutic intervention in inflammatory joint 
+disease.

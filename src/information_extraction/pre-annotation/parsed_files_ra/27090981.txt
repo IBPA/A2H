@@ -1,0 +1,20 @@
+BACKGROUND: Bruton's tyrosine kinase (Btk) is critical for activation of B cells 
+and myeloid cells. This study aimed to characterize the effects of HM71224, a 
+novel Btk inhibitor, both in vitro and in a mouse model of experimental 
+arthritis.
+METHODS: The kinase inhibition profile of HM71224 was analyzed. The in vitro 
+effects of HM71224 on B cells and monocytes were analyzed by examining 
+phosphorylation of Btk and its downstream signaling molecules, along with 
+cytokine production and osteoclast formation. The in vivo effects of HM71224 
+were investigated in a mouse model of collagen-induced arthritis (CIA).
+RESULTS: HM71224 irreversibly bound to and inhibited Btk (IC50 = 1.95 nM). The 
+compound also inhibited the phosphorylation of Btk and its downstream molecules 
+such as PLCγ2, in activated Ramos B lymphoma cells and primary human B cells in 
+a dose-dependent manner. Furthermore, HM71224 effectively inhibited the 
+production of tumor necrosis factor (TNF)-α, interleukin (IL)-6, and IL-1β by 
+human monocytes, and osteoclast formation by human monocytes. Finally, HM71224 
+improved experimental arthritis and prevented joint destruction in a murine 
+model of CIA.
+CONCLUSIONS: HM71224 inhibits Btk in B cells and monocytes and ameliorates 
+experimental arthritis in a mouse model. Thus, HM71224 is a potential novel 
+therapeutic agent for rheumatoid arthritis in humans.

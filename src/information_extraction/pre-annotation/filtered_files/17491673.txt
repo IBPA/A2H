@@ -1,0 +1,23 @@
+The results of trials in which autoantigens have been fed to individuals 
+affected by autoimmune diseases - multiple sclerosis, rheumatoid arthritis and 
+type 1 diabetes - have been disappointing in terms of clinical improvement. This 
+is in striking contrast to the results in experimental rodent models of these 
+diseases. The outcome of the recent DPT-1 trial testing oral insulin in 
+individuals at risk of type 1 diabetes was also disappointing, in contrast to 
+the effects of oral insulin in the non-obese diabetic (NOD) mouse model of type 
+1 diabetes. However, it is premature to conclude that mucosal tolerance works 
+only in in-bred rodents and not in humans with autoimmune disease. Except for 
+oral insulin in DPT-1, the human trials were performed in individuals with 
+end-stage disease when this form of immune regulation might not be expected to 
+be effective. Importantly, in no trial was an immune response to the autoantigen 
+documented, to demonstrate that the dose was at least bioavailable. Furthermore, 
+mucosal autoantigen administration is a 'double-edged sword' and in rodents can 
+lead not only to regulatory and protective immunity but also to pathogenic, 
+tissue-destructive immunity and exacerbation of autoimmune disease. When 
+suppression of autoimmune disease is observed it may be because autoantigen was 
+administered under conditions which minimize induction of pathogenic immunity. 
+Thus, clinical protocols for mucosal autoantigen administration may need to be 
+modified to favor induction of regulatory immunity. In this short review, we 
+discuss recent studies in autoimmune diabetes-prone NOD mice indicating that 
+with novel modifications mucosal autoantigen administration could be harnessed 
+to prevent type 1 diabetes in humans.

@@ -1,0 +1,23 @@
+AIMS: Rheumatoid arthritis (RA) is associated with high cardiovascular 
+mortality. Impaired endothelial cell (EC) function and elevated angiotensin II 
+levels may be central to the link between vascular dysfunction and RA. Here we 
+investigated the action of angiotensin type 1 receptor (AT1R) blockade on 
+endothelium-dependent relaxation of the isolated saphenous artery in a rat model 
+of monoarthritis.
+MAIN METHODS: Adjuvant arthritis was induced in rats with and without 
+prophylactic losartan (AT1R antagonist) treatment. Vehicle-treated rats were 
+used as controls. Wire myography was employed to investigate EC function of 
+isolated rings of saphenous artery.
+KEY FINDINGS: EC-dependent relaxation in arteries from non-inflamed control rats 
+was mediated by both nitric oxide (NO) and endothelium-derived hyperpolarising 
+factor (EDHF) with the EDHF response dependent principally on functional 
+myoendothelial gap junctions. While NO-dependent relaxation remained unaffected, 
+the EDHF-mediated response was abolished in arteries from arthritic rats 
+(P<0.001), however, substantial protection (approximately 50%) of the 
+EDHF-relaxation was found in arthritic rats treated with losartan (P<0.01). 
+Thus, the attenuated EDHF response found in the saphenous artery of arthritic 
+rats was significantly reversed by AT1R blockade.
+SIGNIFICANCE: These results suggest a key role for the angiotensin system in the 
+EC dysfunction found in chronic joint inflammation and highlights AT1R as a 
+potential therapeutic target to redress the vascular impairment and mortality 
+associated with RA.

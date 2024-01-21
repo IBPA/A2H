@@ -1,0 +1,15 @@
+Dendrimers are highly branched "tree-like" polymers that have demonstrated 
+therapeutic potential in drug delivery, medical imaging, and tissue engineering 
+in recent years. In addition, we have shown that an azabisphosphonate 
+(ABP)-capped dendrimer selectively targets monocytes and directs them toward 
+anti-inflammatory activation. We explored this property to assess the 
+therapeutic potential of dendrimer ABP in the treatment of an inflammatory 
+disease, rheumatoid arthritis. Intravenous injections of dendrimer ABP inhibited 
+the development of inflammatory arthritis in two animal models: IL-1ra(-/-) mice 
+and mice undergoing K/BxN serum transfer. Suppression of disease was 
+characterized by normal synovial membranes, reduced levels of inflammatory 
+cytokines, and the absence of cartilage destruction and bone erosion. Dendrimer 
+ABP also exhibited anti-osteoclastic activity on mouse and human cells, mediated 
+by c-FMS (cellular-feline McDonough strain sarcoma virus oncogene homolog) 
+inhibition. These preclinical demonstrations suggest the potential use of 
+dendrimer ABP as a nanotherapeutic for rheumatoid arthritis.

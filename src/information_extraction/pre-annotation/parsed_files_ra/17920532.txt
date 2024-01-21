@@ -1,0 +1,21 @@
+Diabetic retinopathy involves an inflammatory response in the retina 
+characterized by an increase in inflammatory cytokines and activation of 
+microglia. The degree of microglia activation may influence the extent of retina 
+injury following an inflammatory stimulus. Cytokines, released by activated 
+microglia, regulate the influx of inflammatory cells to the damaged area. Thus, 
+therapeutic strategy to reduce cytokine expression in microglia would be 
+neuroprotective. Sinomenine, an alkaloid isolated from the stem and root of 
+Sinomenium acutum, has long been recognized as an anti-inflammatory drug for 
+rheumatoid arthritis and also inhibits macrophage activation. In this study, we 
+activated retinal microglia in culture with advanced glycation end products 
+(AGEs) treatment and attempted to determine whether sinomenine could reduce the 
+production of cytokines from the activated microglia at both gene and protein 
+levels. Changes in inflammatory cytokines, TNF alpha, IL-1 beta and IL-6, were 
+measured by semi-quantitative RT-PCR and enzyme-linked immunosorbent assay 
+(ELISA) both in the presence and absence of AGEs. The effect of sinomenine on 
+levels of reactive oxygen species (ROS) and the nuclear translocation of NF-kB 
+p65 were studied with a laser confocal scanning microscope. AGEs treatment 
+induced a significant release of TNF alpha, IL-1 beta, and IL-6 from retinal 
+microglia. Sinomenine could inhibit release of these cytokines. Sinomenine 
+attenuated ROS production in a dose-dependent fashion and reduced the nuclear 
+translocation of NF-kB p65 in AGEs-activated retinal microglia in culture.

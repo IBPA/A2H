@@ -1,0 +1,17 @@
+Fibroblast‑like synoviocytes (FLSs) have a pivotal role in the destruction of 
+joints in rheumatoid arthritis (RA). Tumor necrosis factor receptor‑associated 
+factor 6 (TRAF6) is a critical mediator in the inflammatory pathway and of the 
+activity of osteoclasts. The aim of the present study was to investigate whether 
+TRAF6 is involved in the progression of RA in mouse collagen‑induced arthritis 
+(CIA) and human RA FLSs in vitro. In vivo mouse models were transfected with 
+TRAF6 small interfering (si)RNA (siTRAF6) and TRAF6 inhibition was achieved in 
+FLSs using an anti‑TRAF6 monoclonal antibody in vitro in order to assess the 
+effects of TRAF6 inhibition on the migration and invasion of FLSs. Inhibition of 
+TRAF6 using mouse specific siTRAF6 reduced the severity of arthritis and joint 
+inflammation. Serum anti‑collagen II antibodies, matrix metalloproteinase 
+(MMP)‑1, MMP‑3 and MMP‑9 were also inhibited in CIA mice by siTRAF6. The levels 
+of MMPs produced by IL‑1β‑stimulated human RA‑FLSs were reduced by anti‑TRAF6 
+monoclonal antibody. TRAF6 blockade significantly suppressed the 
+IL‑1β‑stimulated migration and invasion of human RA‑FLSs. These results support 
+a role for TRAF6 in the pathogenesis of RA, and suggest that the TRAF6 blockade 
+may be a potential strategy in the management of RA.

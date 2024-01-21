@@ -1,0 +1,20 @@
+Clostridium difficile, which causes pseudomembranous colitis, releases toxin A 
+and toxin B. These toxins are considered to be the main causative agents for the 
+disease pathogenesis, and their expression is associated with a marked increase 
+of apoptosis in mucosal epithelial cells. Colonic epithelial cells are believed 
+to form a physical barrier between the lumen and the submucosa, and abnormally 
+increased mucosal epithelial cell apoptosis is considered to be an initial step 
+in gut inflammation responses. Therefore, one approach to treating 
+pseudomembranous colitis would be to develop agents that block the mucosal 
+epithelial cell apoptosis caused by toxin A, thus restoring barrier function and 
+curing inflammatory responses in the gut. We recently isolated an antimicrobial 
+peptide, Periplanetasin-2 (Peri-2, YPCKLNLKLGKVPFH) from the American cockroach, 
+whose extracts have shown great potential for clinical use. Here, we assessed 
+whether Peri-2 could inhibit the cell toxicity and inflammation caused by C. 
+difficile toxin A. Indeed, in human colonocyte HT29 cells, Peri-2 inhibited the 
+toxin A-induced decrease in cell proliferation and ameliorated the cell 
+apoptosis induced by this toxin. Moreover, in the toxin A-induced mouse 
+enteritis model, Peri-2 blocked the mucosal disruption and inflammatory response 
+caused by toxin A. These results suggest that the American cockroach peptide 
+Peri-2 could be a possible drug candidate for addressing the pseudomembranous 
+colitis caused by C. difficile toxin A.

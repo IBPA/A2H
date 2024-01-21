@@ -1,0 +1,19 @@
+Tumor necrosis factor-alpha (TNF-α) blockade is an effective treatment for 
+rheumatoid arthritis (RA) and other inflammatory diseases, but in patients, it 
+is associated with reduced resistance to the infectious agents Mycobacterium 
+tuberculosis and Listeria monocytogenes, among others. Our goal was to model 
+infection and arthritis in mice and to compare etanercept, a currently used 
+anti-TNF-α inhibitor, to an anti-TNF-α vaccine. We developed a murine surrogate 
+of the TNF-α kinoid and produced an anti-murine TNF-α vaccine (TNFKi) composed 
+of keyhole limpet hemocyanin conjugated to TNF-α, which resulted in anti-TNF-α 
+antibody production in mice. We also used etanercept (a soluble receptor of TNF 
+commonly used to treat RA) as a control of TNF neutralization. In a mouse model 
+of collagen-induced arthritis, TNFKi protected against inflammation similar to 
+etanercept. In a mouse model of acute L. monocytogenes infection, all 
+TNFKi-treated mice showed cleared bacterial infection and survived, whereas 
+etanercept-treated mice showed large liver granulomas and quickly died. 
+Moreover, TNFKi mice infected with the virulent H37Rv M. tuberculosis showed 
+resistance to infection, in contrast with etanercept-treated mice or controls. 
+Depending on the TNF-α blockade strategy, treating arthritis with a TNF-α 
+inhibitor could result in a different profile of infection suceptibility. Our 
+TNFKi vaccine allowed for a better remaining host defense than did etanercept.

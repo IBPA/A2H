@@ -1,0 +1,24 @@
+The gamma isoform of phosphoinositide 3-kinase (PI3Kgamma) has been viewed as 
+restricted to leukocytes mediating the regulation of chemokine-induced migration 
+and recruitment of neutrophils, monocytes, and macrophages. In line with the 
+observation that PI3Kgamma-deficient mice display defects in adaptive immunity, 
+inhibition of PI3Kgamma reduces synovial inflammation in the collagen-induced 
+arthritis mouse model of inflammatory arthritis [rheumatoid arthritis (RA)], 
+which has been attributed to reduced influx of inflammatory cells. Challenging 
+the concept of leukocyte-restricted PI3Kgamma function, we report here a novel, 
+nonredundant function of PI3Kgamma as an important regulator of 
+fibroblast-induced cartilage destruction during chronic destructive arthritis. 
+We show that in human tumor necrosis factor transgenic mice, the loss of 
+PI3Kgamma leads to a milder inflammatory arthritis. Interestingly, PI3Kgamma 
+deficiency does not alter the recruitment of inflammatory cells, but 
+significantly reduces cartilage damage through reduced expression of matrix 
+metalloproteinases in fibroblasts and chondrocytes. In vitro analyses 
+demonstrate that the decreased invasiveness of fibroblasts is mediated by 
+reduced phosphorylation of Akt and extracellular signal-regulated kinase. Using 
+a PI3Kgamma specific inhibitor, these data are confirmed in human synovial 
+fibroblasts from patients with RA who exhibit a disease-specific up-regulation 
+of PI3Kgamma. Our data indicate that in addition to mediating the recruitment of 
+inflammatory cells, PI3Kgamma is an important regulator of fibroblast-mediated 
+joint destruction in RA and suggest that specific inhibitors of PI3Kgamma will 
+interfere with the activation of RA synovial fibroblasts and reduce cartilage 
+destruction in RA.

@@ -1,0 +1,21 @@
+Sinomenine (SIN) has long been used as a therapeutic agent of rheumatoid 
+arthritis (RA) in China. However, the discrepancy between low oral 
+bioavailability and higher minimal effective concentration made its action mode 
+mysterious. The present study aimed to gain insight into the mechanisms by which 
+SIN suppressed collagen-induced arthritis (CIA) in rats in view of Th17 and 
+regulatory T (Treg) cell balance. SIN was orally administered, and the clinical 
+symptoms of CIA rats were monitored; inflammatory cytokines levels in serum were 
+measured by ELISA; pharmacokinetic studies were performed in normal and CIA 
+rats; Th17 and Treg cell frequencies were analyzed by flow cytometry. The data 
+showed that SIN treatment resulted in a dramatic decrease of arthritis scores 
+and paw volume of CIA rats, which was accompanied by down-regulation of IL-17A 
+and up-regulation of IL-10 in rat serum. The frequency of Treg cells was 
+increased and the frequency of Th17 cells was decreased in the gut lymphoid 
+tissues of SIN-treated rats. Immunohistochemistry assay demonstrated that more 
+α4β7-positive cells were detained in joint tissues after SIN treatment. 
+Moreover, the anti-arthritis efficacy of SIN disappeared when it was given by 
+intraperitoneal injection, further confirming the action of SIN was 
+gut-dependent. In conclusion, SIN exerts anti-RA action probably through 
+modulating the frequencies of Treg cells and Th17 cells in intestinal lymph 
+nodes and yielding a trafficking of lymphocytes (especially Treg cells) from gut 
+to joint.

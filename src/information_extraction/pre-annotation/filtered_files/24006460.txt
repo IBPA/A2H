@@ -1,0 +1,21 @@
+The JAKs receive continued interest as therapeutic targets for autoimmune, 
+inflammatory, and oncological diseases. JAKs play critical roles in the 
+development and biology of the hematopoietic system, as evidenced by mouse and 
+human genetics. JAK1 is critical for the signal transduction of many type I and 
+type II inflammatory cytokine receptors. In a search for JAK small molecule 
+inhibitors, GLPG0634 was identified as a lead compound belonging to a novel 
+class of JAK inhibitors. It displayed a JAK1/JAK2 inhibitor profile in 
+biochemical assays, but subsequent studies in cellular and whole blood assays 
+revealed a selectivity of ∼30-fold for JAK1- over JAK2-dependent signaling. 
+GLPG0634 dose-dependently inhibited Th1 and Th2 differentiation and to a lesser 
+extent the differentiation of Th17 cells in vitro. GLPG0634 was well exposed in 
+rodents upon oral dosing, and exposure levels correlated with repression of Mx2 
+expression in leukocytes. Oral dosing of GLPG0634 in a therapeutic set-up in a 
+collagen-induced arthritis model in rodents resulted in a significant 
+dose-dependent reduction of the disease progression. Paw swelling, bone and 
+cartilage degradation, and levels of inflammatory cytokines were reduced by 
+GLPG0634 treatment. Efficacy of GLPG0634 in the collagen-induced arthritis 
+models was comparable to the results obtained with etanercept. In conclusion, 
+the JAK1 selective inhibitor GLPG0634 is a promising novel therapeutic with 
+potential for oral treatment of rheumatoid arthritis and possibly other 
+immune-inflammatory diseases.

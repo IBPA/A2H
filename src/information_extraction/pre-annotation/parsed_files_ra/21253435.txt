@@ -1,0 +1,14 @@
+Rodent models of immune-mediated arthritis (RMIA) are the conventional approach 
+to evaluating mechanisms of inflammatory joint disease and the comparative 
+efficacy of antiarthritic agents. Rat adjuvant-induced (AIA), collagen-induced 
+(CIA), and streptococcal cell wall-induced (SCW) arthritides are preferred 
+models of the joint pathology that occurs in human rheumatoid arthritis (RA). 
+Lesions of AIA are most severe and consistent; structural and immunological 
+changes of CIA best resemble RA. Lesion extent and severity in RMIA depends on 
+experimental methodology (inciting agent, adjuvant, etc.) and individual 
+physiologic parameters (age, genetics, hormonal status, etc.). The effectiveness 
+of antiarthritic molecules varies with the agent, therapeutic regimen, and 
+choice of RMIA. All RMIA are driven by overactivity of proinflammatory pathways, 
+but the dominant molecules differ among the models. Hence, as with the human 
+clinical experience, the efficacy of various antiarthritic molecules differs 
+among RMIA, especially when the agent is a specific cytokine inhibitor.

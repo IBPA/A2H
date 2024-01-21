@@ -1,0 +1,19 @@
+Clostridium (Clostridioides) difficile is a gastrointestinal pathogen that 
+colonizes the intestinal tract of mammals and can cause severe diarrheal 
+disease. Although C. difficile growth is confined to the intestinal tract, our 
+understanding of the specific metabolites and host factors that are important 
+for the growth of the bacterium is limited. In other enteric pathogens, the 
+membrane-derived metabolite, ethanolamine (EA), is utilized as a nutrient source 
+and can function as a signal to initiate the production of virulence factors. In 
+this study, we investigated the effects of ethanolamine and the role of the 
+predicted ethanolamine gene cluster (CD1907-CD1925) on C. difficile growth. 
+Using targeted mutagenesis, we disrupted genes within the eut cluster and 
+assessed their roles in ethanolamine utilization, and the impact of eut 
+disruption on the outcome of infection in a hamster model of disease. Our 
+results indicate that the eut gene cluster is required for the growth of C. 
+difficile on ethanolamine as a primary nutrient source. Further, the inability 
+to utilize ethanolamine resulted in greater virulence and a shorter time to 
+morbidity in the animal model. Overall, these data suggest that ethanolamine is 
+an important nutrient source within the host and that, in contrast to other 
+intestinal pathogens, the metabolism of ethanolamine by C. difficile can delay 
+the onset of disease.

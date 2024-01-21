@@ -1,0 +1,28 @@
+OBJECTIVE: The immune response to post-translationally modified antigens is a 
+key characteristic of rheumatoid arthritis. Carbamylation is such a 
+posttranslational modification. Recently, we demonstrated that autoantibodies 
+recognizing carbamylated proteins are present in sera of rheumatoid arthritis. 
+The molecular mechanisms underlying the break of tolerance and hence the 
+induction of anti-CarP antibody responses are unknown as well as their 
+appearance in mouse models for systemic arthritis. Therefore we analyzed their 
+appearance in the mouse collagen-induced arthritis model.
+METHODS: collagen induced arthritis was induced by immunization with type II 
+collagen in complete Freund's adjuvant. Arthritis severity was monitored by 
+clinical scoring and anti-CarP antibody levels were determined by ELISA.
+RESULTS: Anti-CarP antibodies were detectable in mice with collagen induced 
+arthritis. We did not detect ACPA in mice with collagen induced arthritis. The 
+specificity of the antibodies for carbamylated proteins was confirmed by 
+inhibition assays and immunoblotting. Injection with complete Freund's adjuvant 
+without type II collagen could also induce anti-CarP antibodies, however, in 
+mice with arthritis, the anti-CarP antibody response was stronger and developed 
+more rapidly. The onset of collagen induced arthritis was preceded by an 
+increase of anti-CarP IgG2a levels in the serum.
+CONCLUSION: In mice with collagen induced arthritis we did not observe an immune 
+response against citrullinated antigens, but we did observe an immune response 
+against carbamylated antigens. This anti-CarP response already appeared before 
+disease onset, indicating that collagen induced arthritis can be used as an in 
+vivo model to study anti-CarP antibodies. Our data also indicate that the 
+tolerance to carbamylated proteins, in contrast to the response to citrullinated 
+proteins, is easily broken and that arthritis boosts the immune response against 
+these proteins. The anti-CarP response in mice with CIA can be used as a model 
+for immune responses to post-translationally modified proteins.

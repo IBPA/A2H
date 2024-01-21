@@ -1,0 +1,24 @@
+Rheumatoid arthritis (RA) is a chronic autoimmune disease characterized by 
+synovial tissue inflammation and joint destruction associated with the 
+activation of angiogenesis. Exosomes, which play a role in cell-to-cell 
+communication as carriers of genetic information, transfer microRNAs (miRNAs or 
+miRs) between cells and have been studied as delivery vehicles for therapeutic 
+molecules. The aim of the current study was to investigate the therapeutic 
+effect of mesenchymal stem cell (MSC)-derived miR-150-5p exosomes on joint 
+destruction in RA. The expression and secretion of miR-150-5p, matrix 
+metalloproteinase (MMP) 14, and vascular endothelial growth factor (VEGF) in RA 
+patients and fibroblast-like synoviocytes (FLS) were examined by quantitative 
+RT-PCR, ELISA, and Western blotting. Immunohistochemistry was used to assess 
+angiogenesis. MSCs were transfected with an miR-150-5p expression plasmid, and 
+MSC-derived exosomes were harvested. The effect of MSC-derived miR-150-5p 
+exosomes (Exo-150) on MMP14 and VEGF expression was examined. The effects of 
+Exo-150 on cell migration and invasion in cytokine-stimulated FLS from RA 
+patients were examined by HUVEC tube formation and transwell assays. The effect 
+of Exo-150 in vivo was examined in a collagen-induced arthritis mouse model. 
+Exo-150 decreased migration and invasion in RA FLS and downregulated tube 
+formation in HUVECs by targeting MMP14 and VEGF. Injection of Exo-150 reduced 
+hind paw thickness and the clinical arthritic scores in collagen-induced 
+arthritis mice. Exo-150 reduced joint destruction by inhibiting synoviocyte 
+hyperplasia and angiogenesis. Exosomes facilitate the direct intracellular 
+transfer of miRNAs between cells and represent a potential therapeutic strategy 
+for RA.

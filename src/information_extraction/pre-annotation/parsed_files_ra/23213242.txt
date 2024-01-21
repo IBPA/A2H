@@ -1,0 +1,14 @@
+The endogenous metabolite of estradiol, 2-Methoxyestradiol (2ME2), is an 
+antimitotic and antiangiogenic cancer drug candidate that also exhibits 
+disease-modifying activity in animal models of rheumatoid arthritis (RA). We 
+found that 2ME2 dramatically suppresses development of mouse experimental 
+autoimmune encephalomyelitis (EAE), a rodent model of multiple sclerosis (MS). 
+2ME2 inhibits in vitro lymphocyte activation, cytokine production, and 
+proliferation in a dose-dependent fashion. 2ME2 treatment of lymphocytes 
+specifically reduced the nuclear translocation and transcriptional activity of 
+nuclear factor of activated T-cells (NFAT) c1, whereas NF-κB and activator 
+protein 1 (AP-1) activation were not adversely affected. We therefore propose 
+that 2ME2 attenuates EAE through disruption of the NFAT pathway and subsequent 
+lymphocyte activation. By extension, our findings provide a molecular rationale 
+for the use of 2ME2 as a tolerable oral immunomodulatory agent for the treatment 
+of autoimmune disorders such as MS in humans.

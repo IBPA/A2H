@@ -1,0 +1,13 @@
+Clostridium difficile infection (CDI) symptoms range from diarrhea to severe 
+toxic megacolon and even death. Due to its rapid acquisition of resistance, 
+C. difficile is listed as an urgent antibiotic-resistant threat, and has 
+surpassed methicillin-resistant Staphylococcus aureus (MRSA) as the most common 
+hospital-acquired infection in the USA. To combat this pathogen, a new 
+structural class of pseudo-peptides that exhibit antimicrobial activities could 
+play an important role. Herein we report a set of bis-cyclic guanidine compounds 
+that show potent antibacterial activity against C. difficile with decent 
+selectivity. Eight compounds showed high in vitro potency against C. difficile 
+UK6 with MIC values of 1.0 μg mL-1 , and cytotoxic selectivity index (SI) values 
+up to 37. Moreover, the most selective compound is also effective in the 
+treatment of C. difficile-induced disease in a mouse model of CDI, and appears 
+to be a very promising new candidate for the treatment of CDI.

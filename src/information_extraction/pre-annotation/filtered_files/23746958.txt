@@ -1,0 +1,19 @@
+The collagenase cathepsin K has been shown important in the pathogenesis of 
+rheumatoid arthritis (RA). Icariin is the major pharmacologically active 
+flavonol diglycoside of Herba Epimedii, an herb used in Chinese traditional 
+medicine to treat arthritis. We investigated whether icariin can inhibit the 
+protease activity of cathepsin K and its effects on a murine model of 
+collagen-induced arthritis (CIA). Six-week old female BALB/C mice were immunized 
+with type II collagen and treated with vehicle alone icariin (25mg/kg) for 21 
+days; a control remained untreated. Serum concentrations of type I collagen 
+C-terminal telopeptide (CTX-I) and cartilage oligomeric matrix protein (COMP) 
+and urinary concentrations of deoxypyridinoline (DPD) were measured, and disease 
+severity was assessed. Compared with immunized, untreated mice, immunized 
+icariin-treated mice had significantly lower urinary DPD (~25%, p<0.01) and 
+serum COMP (~11.9%, p<0.01) concentrations, with serum CTX-1 (RatLaps) 
+concentrations being significantly lower in immunized, icariin treated mice than 
+in immunized, vehicle treated (p<0.01) and non-immunized (p<0.005) mice. Icariin 
+also reduced the clinical signs of arthritis. Icariin inhibited cathpesin K 
+activity in vitro and was effective in a mouse model of CIA similar to human RA, 
+suggesting that this agent may have promise in the treatment of patients with 
+RA.

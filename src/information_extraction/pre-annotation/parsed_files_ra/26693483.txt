@@ -1,0 +1,19 @@
+Human and murine lymphocytes express dopamine (DA) D2-like receptors including 
+DRD2, DRD3, and DRD4. However, their roles in rheumatoid arthritis (RA) are less 
+clear. Here we showed that lymphocyte DRD2 activation alleviates both imbalance 
+of T-helper (Th)17/T-regulatory (Treg) cells and inflamed symptoms in a mouse 
+arthritis model of RA. Collagen-induced arthritis (CIA) was prepared by 
+intradermal injection of chicken collagen type II (CII) in tail base of DBA/1 
+mice or Drd2 (-/-) C57BL/6 mice. D2-like receptor agonist quinpirole 
+downregulated expression of proinflammatory Th17-related cytokines interleukin- 
+(IL-) 17 and IL-22 but further upregulated expression of anti-inflammatory 
+Treg-related cytokines transforming growth factor- (TGF-) β and IL-10 in 
+lymphocytes in vitro and in ankle joints in vivo in CIA mice. Quinpirole 
+intraperitoneal administration reduced both clinical arthritis score and serum 
+anti-CII IgG level in CIA mice. However, Drd2 (-/-) CIA mice manifested more 
+severe limb inflammation and higher serum anti-CII IgG level and further 
+upregulated IL-17 and IL-22 expression and downregulated TGF-β and IL-10 
+expression than wild-type CIA mice. In contrast, Drd1 (-/-) CIA mice did not 
+alter limb inflammation or anti-CII IgG level compared with wild-type CIA mice. 
+These results suggest that DRD2 activation is involved in alleviation of CIA 
+symptoms by amelioration of Th17/Treg imbalance.

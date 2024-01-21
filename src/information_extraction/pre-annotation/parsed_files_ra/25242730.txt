@@ -1,0 +1,25 @@
+It has been recently shown that Toll-like receptor4 mediated nuclear factor κB 
+(TLR4-NF-κB) signaling plays a critical role in the pathogenesis of rheumatoid 
+arthritis mediated by pro-inflammatory cytokines in arthritic synovium. Here we 
+evaluate the therapeutic potential of glycol-split non-anticoagulant 
+heparin/d-erythro-sphingosine nanoparticles (NAHNPs), which have shown strong 
+inhibitory effect against TLR4 induced inflammation, in an experimental 
+arthritis model. NAHNP significantly inhibited the production of 
+pro-inflammatory cytokines such as TNF-α, IL-6 and IL-1β in lipopolysaccharide 
+(LPS)-induced primary mouse macrophages and DC2.4 dendritic cell line. The 
+nanoparticles were administered to type II collagen-induced arthritis (CIA) mice 
+by intraarticular injections once per day starting from onset of the disease 
+symptoms. Treatment with NAHNP had a potent suppressive effect in CIA mice, 
+observed with a decrease in arthritis score and footpad swelling. The animals 
+treated with NAHNP significantly reduced levels of IgG1 and IgG2a antibodies 
+against bovine type II collagen. Levels of proinflammatory cytokines--e.g., 
+TNF-α, IL-6 and IL-1β in knee joints and sera were significantly inhibited 
+compared to control mice. Moreover, nuclear localization of RelA in knee joints 
+was significantly inhibited in NAHNP treatment, indicating down-regulation of 
+the NF-κB signaling pathway. In addition, histological examination revealed 
+significant suppression of inflammatory cell infiltration, joint destruction and 
+synovial proliferation in synovium compared with control mice. These results 
+suggest that selective inhibition of TLR4-NF-κB signaling with lipid modified 
+heparin derivatives composited to nanostructures provides an effective 
+therapeutic approach to inhibit chronic inflammation in an animal model of 
+rheumatoid arthritis.

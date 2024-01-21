@@ -1,0 +1,40 @@
+BACKGROUND: Follicular structures resembling germinal centres (GCs) that are 
+characterized by follicular dendritic cell (FDC) networks have long been 
+recognized in chronically inflamed tissues in autoimmune diseases, including the 
+synovium of rheumatoid arthritis (RA). However, it is debated whether these 
+ectopic structures promote autoimmunity and chronic inflammation driving the 
+production of pathogenic autoantibodies. Anti-citrullinated protein/peptide 
+antibodies (ACPA) are highly specific markers of RA, predict a poor prognosis, 
+and have been suggested to be pathogenic. Therefore, the main study objectives 
+were to determine whether ectopic lymphoid structures in RA synovium: (i) 
+express activation-induced cytidine deaminase (AID), the enzyme required for 
+somatic hypermutation and class-switch recombination (CSR) of Ig genes; (ii) 
+support ongoing CSR and ACPA production; and (iii) remain functional in a 
+RA/severe combined immunodeficiency (SCID) chimera model devoid of new immune 
+cell influx into the synovium.
+METHODS AND FINDINGS: Using immunohistochemistry (IHC) and quantitative Taqman 
+real-time PCR (QT-PCR) in synovial tissue from 55 patients with RA, we 
+demonstrated that FDC+ structures invariably expressed AID with a distribution 
+resembling secondary lymphoid organs. Further, AID+/CD21+ follicular structures 
+were surrounded by ACPA+/CD138+ plasma cells, as demonstrated by immune 
+reactivity to citrullinated fibrinogen. Moreover, we identified a novel subset 
+of synovial AID+/CD20+ B cells outside GCs resembling interfollicular large B 
+cells. In order to gain direct functional evidence that AID+ structures support 
+CSR and in situ manufacturing of class-switched ACPA, 34 SCID mice were 
+transplanted with RA synovium and humanely killed at 4 wk for harvesting of 
+transplants and sera. Persistent expression of AID and Igamma-Cmu circular 
+transcripts (identifying ongoing IgM-IgG class-switching) was observed in 
+synovial grafts expressing FDCs/CD21L. Furthermore, synovial mRNA levels of AID 
+were closely associated with circulating human IgG ACPA in mouse sera. Finally, 
+the survival and proliferation of functional B cell niches was associated with 
+persistent overexpression of genes regulating ectopic lymphoneogenesis.
+CONCLUSIONS: Our demonstration that FDC+ follicular units invariably express AID 
+and are surrounded by ACPA-producing plasma cells provides strong evidence that 
+ectopic lymphoid structures in the RA synovium are functional and support 
+autoantibody production. This concept is further confirmed by evidence of 
+sustained AID expression, B cell proliferation, ongoing CSR, and production of 
+human IgG ACPA from GC+ synovial tissue transplanted into SCID mice, 
+independently of new B cell influx from the systemic circulation. These data 
+identify AID as a potential therapeutic target in RA and suggest that survival 
+of functional synovial B cell niches may profoundly influence chronic 
+inflammation, autoimmunity, and response to B cell-depleting therapies.

@@ -1,0 +1,27 @@
+The anti-inflammatory activities of benzothiazine and pyrazole derivatives are 
+well documented. A series of novel 
+N'-arylmethylidene-2-(3,4-dimethyl-5,5-dioxidopyrazolo(4,3 c)(1,2) 
+benzothiazin-2(4H)yl) acetohydrazide compounds were previously synthesized by 
+combining benzothiazine and pyrazole moieties into a single nucleus. The current 
+study investigates the anti-arthritic potential of 3-ethoxy-4-hydroxyphenyl 
+derivative (EHP) and its possible mechanism in arthritic rat model. 
+Sprague-Dawley rats were induced rheumatoid arthritis with Freund's complete 
+adjuvant and treated with EHP and piroxicam. At the end of the study, arthritic 
+score was calculated, and ankle joint histopathology was performed using 
+hematoxylin and eosin staining. Real-time reverse transcription polymerase chain 
+reaction (qRT-PCR) and enzyme-linked immunosorbent assay (ELISA) were used to 
+determine mRNA expression and protein levels of various inflammatory markers, 
+respectively. In vitro concanavalin A (ConA)-stimulated splenocyte proliferation 
+was measured. Serum levels of C-reactive protein (CRP), urea, creatinine, 
+aspartate aminotransferase (AST), alanine transaminase (ALT), and alkaline 
+phosphatase (ALP) were also determined. EHP significantly attenuated macroscopic 
+arthritic score, joint histopathological lesions, and CRP levels. Treatment with 
+EHP significantly reduced pro-inflammatory tissue necrosis factor-α (TNF-α), 
+nuclear factor-kappa B (NF-кB), interleukin-17 (IL-17), and prostaglandin-E2 
+(PGE2) levels and increased the levels of anti-inflammatory interleukin-4 (IL-4) 
+and interleukin-10 (IL-10). ConA-stimulated splenocyte proliferation was also 
+significantly suppressed by treatment with EHP. Normalizing all hematological 
+markers and ALP levels, EHP did not display any sign of nephrotoxicity and 
+hepatotoxicity as determined by urea, creatinine, ALT, and AST levels. In 
+conclusion, EHP possesses significant anti-arthritic property which may be 
+attributed to its anti-inflammatory and immunomodulatory effects.

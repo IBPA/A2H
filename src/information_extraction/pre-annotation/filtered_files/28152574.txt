@@ -1,0 +1,26 @@
+To determine the effect of glucocorticoids (GCs) on endothelial dysfunction (ED) 
+and on traditional cardiovascular (CV) risk factors in the adjuvant-induced 
+arthritis (AIA) rat model. At the first signs of AIA, a high dose (HD) [10 
+mg/kg/day, intraperitoneally (i.p.), GC-HD] or low dose (LD) (1 mg/kg/day, i.p., 
+GC-LD) of prednisolone was administered for 3 weeks. Endothelial function was 
+studied in aortic rings relaxed with acetylcholine (Ach) with or without 
+inhibitors of nitric oxide synthase (NOS), cyclooxygenase 2 (COX-2), arginase, 
+endothelium derived hyperpolarizing factor (EDHF) and superoxide anions ( O2-°) 
+production. Aortic expression of endothelial NOS (eNOS), Ser1177-phospho-eNOS, 
+COX-2, arginase-2, p22phox and p47phox was evaluated by Western blotting 
+analysis. Arthritis scores, blood pressure, heart rate and blood levels of 
+cytokines, triglycerides, cholesterol and glucose were measured. GC-HD but not 
+GC-LD reduced arthritis score significantly and improved Ach-induced relaxation 
+(P < 0·05). The positive effect of GC-HD resulted from increased NOS activity 
+and EDHF production and decreased COX-2/arginase activities and O2-° production. 
+These functional effects relied upon increased phospho-eNOS expression and 
+decreased COX-2, arginase-2 and nicotinamide adenine dinucleotide phosphate 
+(NADPH) oxidase expression. Despite the lack of effect of GC-LD on ED, it 
+increased NOS and EDHF and down-regulated O2-° pathways but did not change 
+arginase and COX-2 pathways. GC-HD increased triglycerides levels and blood 
+pressure significantly (P < 0·05). Both doses of GCs decreased to the same 
+extent as plasma interleukin (IL)-1β and tumour necrosis factor (TNF)-α levels 
+(P < 0·05). Our data demonstrated that subchronic treatment with prednisolone 
+improved endothelial function in AIA via pleiotropic effects on endothelial 
+pathways. These effects occurred independently of the deleterious 
+cardiometabolic effects and the impact of prednisolone on systemic inflammation.

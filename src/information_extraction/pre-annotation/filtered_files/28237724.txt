@@ -1,0 +1,17 @@
+The C1858T single nucleotide polymorphism (SNP) in PTPN22 (protein tyrosine 
+phosphatase nonreceptor 22) leads to the 620 Arg to Trp polymorphism in its 
+encoded human protein LYP. This allelic variant is associated with multiple 
+autoimmune diseases, including type 1 diabetes (T1D), Crohn's disease, 
+rheumatoid arthritis and systemic lupus erythematosus. However, the underlying 
+mechanisms are poorly understood. To study how this polymorphism influences the 
+immune system, we generated a mouse strain with a knock-in of the Trp allele, 
+imitating the human disease-associated variant. We did not find significant 
+difference between the polymorphic and the wild type mice on the proportion of 
+total CD4 T cell, CD8 T cell, NK cell, memory T lymphocyte, macrophage, 
+dendritic cells in both peripheral lymph nodes and spleen. However, macrophages 
+from Trp/Trp mice showed altered morphology and enhanced function, including 
+higher expression of MHCII and B7 molecules and increased phagocytic ability, 
+which further leads to a higher T-cell activation by specific antigen. Our model 
+shows no alteration in immune cell profile by the Trp allele, but brings up 
+macrophages as an important player to consider in explaining the PTPN22 Trp 
+allele effect on autoimmune disease risk.

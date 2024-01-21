@@ -1,0 +1,32 @@
+INTRODUCTION: Early diagnosis of and subsequent monitoring of therapy for 
+rheumatoid arthritis (RA) could benefit from detection of (sub)clinical 
+synovitis. Imaging of (sub)clinical arthritis by targeting the translocator 
+protein (TSPO) on activated macrophages is feasible using (R)-[¹¹C] 
+PK11195-based positron emission tomography (PET), but clinical applications are 
+limited by background uptake in peri-articular bone/bone marrow. The purpose of 
+the present study was to evaluate two other TSPO ligands with potentially lower 
+background uptake in neurological studies, [¹¹C]DPA-713 and [¹⁸F]DPA-714, in a 
+rat model of arthritis.
+METHODS: TSPO binding of DPA-713, DPA-714 and PK11195 were assessed by in vitro 
+competition studies with [³H]DPA-713 using human macrophage THP-1 cells and 
+CD14⁺ monocytes from healthy volunteers. In vivo studies were performed in rats 
+with methylated bovine serum albumin-induced knee arthritis. 
+Immunohistochemistry with anti-TSPO antibody was performed on paraffin-embedded 
+sections. Rats were imaged with [¹¹C]DPA-713 or [¹⁸F]DPA-714 PET, followed by ex 
+vivo tissue distribution studies. Results were compared with those obtained with 
+the tracer (R)-[¹¹C]PK11195, the established ligand for TSPO.
+RESULTS: In THP-1 cells, relative TSPO binding of DPA-713 and DPA-714 were 
+7-fold and 25-fold higher, respectively, than in PK11195. Comparable results 
+were observed in CD14⁺ monocytes from healthy volunteers. In the arthritis rat 
+model, immunohistochemistry confirmed the presence of TSPO-positive inflammatory 
+cells in the arthritic knee. PET images showed that uptake of [¹¹C]DPA-713 and 
+[¹⁸F]DPA-714 in arthritic knees was significantly increased compared with 
+contralateral knees and knees of normal rats. Uptake in arthritic knees could be 
+largely blocked by an excess of PK11195. [¹¹C]DPA-713 and [¹⁸F]DPA-714 provided 
+improved contrast compared with (R)-[¹¹C]PK11195, as was shown by significantly 
+higher arthritic knee-to-bone ratios of [¹¹C]DPA-713 (1.60 ± 0.31) and 
+[¹⁸F]DPA-714 (1.55 ± 0.10) compared with (R)-[¹¹C]PK11195 (1.14 ± 0.19).
+CONCLUSIONS: [¹¹C]DPA-713 and [¹⁸F]DPA-714 clearly visualized arthritis and 
+exhibited lower (peri-articular) bone/bone marrow uptake than (R)-[¹¹C]PK11195. 
+These features merit further investigation of these tracers for early diagnosis 
+and therapy monitoring of RA in a clinical setting.

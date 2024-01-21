@@ -1,0 +1,24 @@
+It is unclear how systemic administration of mesenchymal stem cells (MSCs) 
+controls local inflammation. The aim of this study was to evaluate the 
+therapeutic effects of human MSCs on inflammatory arthritis and to identify the 
+underlying mechanisms. Mice with collagen antibody-induced arthritis (CAIA) 
+received two intraperitoneal injections of human bone marrow-derived MSCs. The 
+clinical and histological features of injected CAIA were then compared with 
+those of non-injected mice. The effect of MSCs on induction of regulatory T 
+cells was examined both in vitro and in vivo. We also examined multiple 
+cytokines secreted by peritoneal mononuclear cells, along with migration of MSCs 
+in the presence of stromal cell-derived factor-1 alpha (SDF-1α) and/or regulated 
+on activation, normal T cell expressed and secreted (RANTES). Sections of CAIA 
+mouse joints and spleen were stained for human anti-nuclear antibodies (ANAs) to 
+confirm migration of injected human MSCs. The results showed that MSCs 
+alleviated the clinical and histological signs of synovitis in CAIA mice. 
+Peritoneal lavage cells from mice treated with MSCs expressed higher levels of 
+SDF-1α and RANTES than those from mice not treated with MSCs. MSC migration was 
+more prevalent in the presence of SDF-1α and/or RANTES. MSCs induced CD4+ T 
+cells to differentiate into regulatory T cells in vitro, and expression of FOXP3 
+mRNA was upregulated in the forepaws of MSC-treated CAIA mice. Synovial and 
+splenic tissues from CAIA mice receiving human MSCs were positive for human ANA, 
+suggesting recruitment of MSCs. Taken together, these results suggest that MSCs 
+migrate into inflamed tissues and directly induce the differentiation of CD4+ T 
+cells into regulatory T cells, which then suppress inflammation. Thus, systemic 
+administration of MSCs may be a therapeutic option for rheumatoid arthritis.

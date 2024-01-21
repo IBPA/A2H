@@ -1,0 +1,17 @@
+In rheumatoid arthritis (RA), the proliferation of fibroblast-like synoviocytes 
+(FLS) is the cause of chronic inflammation in joints and of joint damage. 
+Delivery of the pro-apoptotic gene PUMA to FLS via human adenovirus type 5 
+(HAdV5) vectors has been tested as a therapeutic approach, but efficiency is 
+hampered by low transduction, as FLS do not express HAdV5 receptors on the cell 
+surface. Here we show that efficient transduction of PUMA in FLS can be achieved 
+by conjugating HAdV5 to a baculovirus, which binds to the cell surface via the 
+envelope glycoprotein Gp64. Intra-articular injection in an adjuvant-induced rat 
+model of RA induces apoptosis of FLS, leading to significant decrease in joint 
+inflammation, joint damage, and bone loss with improvement in joint function and 
+mobility. Our results demonstrate the therapeutic potential of PUMA gene therapy 
+as a local treatment in various forms of arthritis in which abnormal FLS 
+proliferation is implicated.Proliferation of synoviocytes contributes to joint 
+damage in rheumatoid arthritis. Here the authors show that targeting of these 
+cells by a vector, consisting of a baculovirus conjugated to an adenovirus 
+carrying the pro-apoptotic gene PUMA, has therapeutic efficacy in a rat 
+arthritis model.

@@ -1,0 +1,7 @@
+Synthesis and structure-activity relationships (SAR) of a novel series of 
+benzodiazepinedione-based inhibitors of Clostridium difficile toxin B (TcdB) are 
+described. Compounds demonstrating low nanomolar affinity for TcdB, and which 
+possess improved stability in mouse plasma vs. earlier compounds from this 
+series, have been identified. Optimized compound 11d demonstrates a good 
+pharmacokinetic (PK) profile in mouse and hamster and is efficacious in a 
+hamster survival model of Clostridium difficile infection.

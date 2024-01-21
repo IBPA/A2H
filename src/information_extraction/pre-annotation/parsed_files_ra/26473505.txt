@@ -1,0 +1,29 @@
+OBJECTIVE: Transforming growth factor β-activated kinase 1 (TAK1) is a key 
+MAPKKK family protein in interleukin-1β (IL-1β), tumor necrosis factor (TNF), 
+and Toll-like receptor signaling. This study was undertaken to examine the 
+posttranslational modification of TAK1 and its therapeutic regulation in 
+rheumatoid arthritis (RA).
+METHODS: The effect of TAK1, IL-1 receptor-associated kinase 1 (IRAK-1), and TNF 
+receptor-associated factor 6 (TRAF6) inhibition was evaluated in 
+IL-1β-stimulated human RA synovial fibroblasts (RASFs). Western blotting, 
+immunoprecipitation, and 20S proteasome assay were used to study the 
+ubiquitination process in RASFs. The efficacy of epigallocatechin-3-gallate 
+(EGCG), a potent antiinflammatory molecule, in regulating these processes in 
+RASFs was evaluated. Molecular docking was performed to examine the interaction 
+of EGCG with human TAK1, IRAK-1, and TRAF6. These findings were confirmed using 
+a rat model of adjuvant-induced arthritis (AIA).
+RESULTS: Inhibition of TAK1, but not IRAK-1 or TRAF6, completely abrogated 
+IL-1β-induced IL-6 and IL-8 synthesis in RASFs. EGCG inhibited TAK1 
+phosphorylation at Thr(184/187) and occupied the C(174) position, an ATP-binding 
+site, to inhibit its kinase activity. EGCG pretreatment also inhibited K(63) 
+-linked autoubiquitination of TRAF6, a posttranslational modification essential 
+for TAK1 autophosphorylation, by forming a stable H bond at the K(124) position 
+on TRAF6. Furthermore, EGCG enhanced proteasome-associated deubiquitinase 
+expression to rescue proteins from proteasomal degradation. Western blot 
+analyses of joint homogenates from rats with AIA showed a significant increase 
+in K(48) -linked polyubiquitination, TAK1 phosphorylation, and TRAF6 expression 
+when compared to naive rats. Administration of EGCG (50 mg/kg/day) for 10 days 
+ameliorated AIA in rats by reducing TAK1 phosphorylation and K(48) -linked 
+polyubiquitination.
+CONCLUSION: Our findings provide a rationale for targeting TAK1 for the 
+treatment of RA with EGCG.

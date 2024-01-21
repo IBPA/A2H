@@ -1,0 +1,35 @@
+BACKGROUND: Chronic inflammation is a key player in pathogenesis. The 
+inflammatory cytokine, tumor necrosis factor-alpha is a well known inflammatory 
+protein, and has been a therapeutic target for the treatment of diseases such as 
+Rheumatoid Arthritis and Crohn's Disease. Obesity is a well known risk factor 
+for developing non-insulin dependent diabetes melitus. Adipose tissue has been 
+shown to produce tumor necrosis factor-alpha, which has the ability to reduce 
+insulin secretion and induce insulin resistance. Based on these observations, we 
+sought to investigate the impact of unsaturated fatty acids such as oleic acid 
+in the presence of TNF-alpha in terms of insulin production, the molecular 
+mechanisms involved and the in vivo effect of a diet high in oleic acid on a 
+mouse model of type II diabetes, KKAy.
+METHODS: The rat pancreatic beta cell line INS-1 was used as a cell biological 
+model since it exhibits glucose dependent insulin secretion. Insulin production 
+assessment was carried out using enzyme linked immunosorbent assay and cAMP 
+quantification with competitive ELISA. Viability of TNF-alpha and oleic acid 
+treated cells was evaluated using flow cytometry. PPAR-gamma translocation was 
+assessed using a PPRE based ELISA system. In vivo studies were carried out on 
+adult male KKAy mice and glucose levels were measured with a glucometer.
+RESULTS: Oleic acid and peanut oil high in oleic acid were able to enhance 
+insulin production in INS-1. TNF-alpha inhibited insulin production but 
+pre-treatment with oleic acid reversed this inhibitory effect. The viability 
+status of INS-1 cells treated with TNF-alpha and oleic acid was not affected. 
+Translocation of the peroxisome proliferator- activated receptor transcription 
+factor to the nucleus was elevated in oleic acid treated cells. Finally, type II 
+diabetic mice that were administered a high oleic acid diet derived from peanut 
+oil, had decreased glucose levels compared to animals administered a high fat 
+diet with no oleic acid.
+CONCLUSION: Oleic acid was found to be effective in reversing the inhibitory 
+effect in insulin production of the inflammatory cytokine TNF-alpha. This 
+finding is consistent with the reported therapeutic characteristics of other 
+monounsaturated and polyunsaturated fatty acids. Furthermore, a diet high in 
+oleic acid, which can be easily achieved through consumption of peanuts and 
+olive oil, can have a beneficial effect in type II diabetes and ultimately 
+reverse the negative effects of inflammatory cytokines observed in obesity and 
+non insulin dependent diabetes mellitus.

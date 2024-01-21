@@ -1,0 +1,23 @@
+OBJECTIVES: This study aims to examine the effects of sorafenib on a 
+collagen-induced arthritis model.
+MATERIALS AND METHODS: The study included 50 randomly selected female 
+Wistar-albino rats (8-10-week-old, weighing between 200 g to 250 g). The rats 
+were divided into five equal groups as control, arthritis, etanercept, sorafenib 
+high-dose, and sorafenib low-dose groups, respectively. Arthritis was induced by 
+injecting mixed intradermal chicken type II collagen and incomplete Freund's 
+adjuvant. Twenty-four hours after the advent of arthritis; rats in group 3 were 
+injected subcutaneous etanercept (6 mg/kg/week), while those in groups 4 and 5 
+were given sorafenib (10 or 30 mg/ kg/day) orally until they were sacrificed on 
+the 34th day. The rat claws and trunk bloods were carefully examined to note 
+perisynovial inflammation and cartilage/bone injury through histopathology. 
+Tissue vascular endothelial growth factor (VEGF) and VEGF receptor levels were 
+carefully checked using western blot analysis.
+RESULTS: Analysis of the experimental data showed that collagen-induced 
+arthritis decreased in treatments groups after 12-13 days and 34th day in 
+contrast with the arthritis group. Histopathological examination revealed broad 
+perisynovial inflammation and cartilage/bone break down in the arthritis group. 
+Compared to the control group, tissue VEGF and VEGF receptor levels increased in 
+the arthritis group. Sorafenib and etanercept decreased tissue VEGF and VEGF 
+receptor levels, perisynovial inflammation, damage of cartilage/bone.
+CONCLUSION: Our findings indicate that sorafenib treatment ameliorates 
+collagen-induced arthritis with anti-VEGF effectiveness.

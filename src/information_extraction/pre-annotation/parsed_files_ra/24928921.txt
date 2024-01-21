@@ -1,0 +1,31 @@
+BACKGROUND: Rheumatoid arthritis is characterized by synovial hyperplasia, 
+inflammatory infiltration, cartilage destruction and juxta-articular as well as 
+generalized bone demineralization. Peroxisome proliferator-activated receptors 
+(PPARs) are members of the nuclear hormone receptor superfamily which behave as 
+ligand-activated transcription factors in response to endogenous fatty acids and 
+eicosanoids or isotype selective synthetic compounds as fibrates and 
+thiazolidinediones. Beyond their key role in lipid metabolism, increased 
+evidence has shown a role of the three isotypes in inflammatory modulation. We 
+and others demonstrated previously that PPAR-gamma agonists reduced the severity 
+of experimental polyarthritis and the overall inflammatory-induced bone loss.
+OBJECTIVE: To compare the anti-arthritic potencies of a PPAR-alpha agonist 
+(fenofibrate, a lipid lowering drug) and a PPAR-gamma agonist (pioglitazone, 
+formerly used as an antidiabetic drug) in rat adjuvant-induced arthritis.
+METHODS: Male Lewis rats were sensitized by an intra-dermal injection of 1 mg 
+complete Freund's adjuvant at the basis of the tail and were treated orally for 
+21 days with fenofibrate 100 mg/kg/day (FENO) or pioglitazone 30 mg/kg/day 
+(PIO), or with vehicle only. Arthritis severity was evaluated by clinical 
+observations (oedema, clinical score, body weight). Global and femoral bone 
+mineral density (BMD), femoral bone mineral content (BMC) were measured by 
+dual-energy X-ray absorptiometry (DEXA) before sensitization and at day 20. 
+Synovial mRNA levels of IL-1beta and IL-6 were determined by real-time RT-PCR.
+RESULTS: Administration of fenofibrate (100mg/kg/d) and pioglitazone (30 
+mg/kg/d) significantly reduced hindpaw oedema and arthritis score. Treatment 
+with fenofibrate exerted a better effect on clinical scoring. DEXA analysis 
+revealed that pioglitazone and fenofibrate treatment to a greater extent, 
+reduced inflammatory-bone loss and increased BMD versus vehicle-treated rats. 
+Finally, we demonstrated that both agonists decreased synovial expression of 
+IL-1beta and IL-6.
+CONCLUSION: Pioglitazone and fenofibrate decreased arthritis severity in 
+adjuvant-induced arthritis. Both agonists partially protected animals from 
+inflammatory induced-bone loss.

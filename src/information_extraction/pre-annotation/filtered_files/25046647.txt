@@ -1,0 +1,22 @@
+Oxidative stress (OS) is important in the pathogenesis of autoimmune diseases 
+such as rheumatoid arthritis (RA) and its experimental model--adjuvant arthritis 
+(AA). Antioxidants are scarcely studied in autoimmunity, and future analyses are 
+needed to assess its effects in ameliorating these diseases. Although there are 
+studies about antioxidants effects on the course of RA, their role in 
+combination therapy has not yet been studied in detail, especially on 
+extra-articular manifestations of AA. During the 28-d administration of 
+pinosylvin (PIN) in monotherapy and in combination with methotrexate (MTX) to AA 
+rats, we evaluated the impact of the treatment on selected parameters. The 
+experiment included: healthy controls, untreated AA, AA administered 50 mg/kg 
+b.w. of PIN daily p.o., AA administered 0.4 mg/kg b.w. of MTX twice weekly p.o. 
+and AA treated with a combination of PIN+MTX. AA was monitored using: hind paw 
+volume, C-reactive protein, monocyte chemotactic protein-1 (MCP-1), 
+thiobarbituric acid reactive substances (TBARS) and F2-isoprostanes in plasma, 
+γ-glutamyltransferase activity in spleen, activity of lipoxygenase (LOX) in 
+lung, heme oxygenase-1 (HO-1) and nuclear factor kappa B (NF-κB) in liver and 
+lung. PIN monotherapy significantly improved the activation of NF-κB in liver 
+and lung, HO-1 expression and activity of LOX in the lung, MCP-1 levels in 
+plasma (on 14th d) and plasmatic levels of F2-isoprostanes. An important 
+contribution of PIN to MTX effect was the reduction of OS (an increase of HO-1 
+expression in lung and reduction of plasmatic TBARS) and decrease of LOX 
+activity in the lung.

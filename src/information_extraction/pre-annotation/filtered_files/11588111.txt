@@ -1,0 +1,22 @@
+1. Interleukin-12 (IL-12) may play a central role in the development and 
+progression of rheumatoid arthritis by driving the immune response towards T 
+helper 1 (Th1) type responses characterized by high IFN-gamma and low IL-4 
+production. In this study we investigated the effect of auranofin (AF), an 
+anti-rheumatic gold compound, on IL-12 production in mouse macrophages and 
+dendritic cells, and studied whether AF-mediated inhibition of IL-12 production 
+could regulate a cytokine profile of antigen (Ag)-primed CD4(+) Th cells. 2. 
+Treatment with AF significantly inhibited IL-12 production in lipopolysaccharide 
+(LPS)-stimulated macrophages and also in CD40L-stimulated dendritic cells. 
+AF-pretreated macrophages reduced their ability to induce IFN-gamma and 
+increased the ability to induce IL-4 in Ag-primed CD4(+) T cells. AF did not 
+influence the cell surface expression of the class II MHC molecule and the 
+costimulatory molecules CD80 and CD86. 3. Addition of recombinant IL-12 to 
+cultures of AF-pretreated macrophages and CD4(+) T cells restored IFN-gamma 
+production in Ag-primed CD4(+) T cells. 4. The in vivo administration of AF 
+resulted in the inhibition of IL-12 production by macrophages stimulated in 
+vitro with LPS or heat-killed Listeria monocytogenes (HKL), leading to the 
+inhibition of Th1 cytokine profile (decreased IFN-gamma and increased IL-4 
+production) in Ag-primed CD4(+) T cells. 5. These findings may explain some 
+known effects of AF including anti-rheumatic effects and the inhibition of 
+encephalitogenicity, and point to a possible therapeutic use of AF in the 
+Th1-mediated immune diseases such as autoimmune diseases.

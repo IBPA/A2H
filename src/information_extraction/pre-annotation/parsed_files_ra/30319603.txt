@@ -1,0 +1,36 @@
+Background: Rheumatoid arthritis (RA) is a chronic autoimmune disorder, 
+characterized by an increased number of M1-like macrophages in the joints. 
+Polyphyllin I (PPI), one of the main components in the Rhizoma of Paris 
+polyphyllin, displays a selective inhibitory effect on various tumor cells. Here 
+we sought to investigate the anti-rheumatoid arthritis effects and mechanisms of 
+PPI on macrophages in vivo and in vitro. Materials and Methods: In vitro, 
+primary bone marrow-derived macrophages (BMMs) and peritoneal elucidated 
+macrophages (PEMs) were stimulated by lipopolysaccharide (LPS) and Interferon 
+(IFN)-γ and then treated with PPI. We determined the degree of activation of 
+IKKα/β and p65, two key mediators of the NF-κB-mediated inflammatory pathway, by 
+measuring their phosphorylated forms by Western blot. The p65 nuclear 
+localization was detected by immunofluorescent staining. Further, a NF-κB-linked 
+luciferase reporter plasmid, as well as those expressing key mediators of the 
+Toll-like receptor 4 pathway, such as myeloid differentiation primary response 
+88 (MYD88), interleukin-1 receptor (IL-1R) associated kinase (IRAK)-1, TNF 
+receptor associated factors (TRAF)-6, Transforming growth factor-b-activated 
+kinase 1 (TAK1) and p65, were used to identify the mechanism by which PPI 
+achieves its inhibitory effects on macrophage-mediated inflammation. Moreover, a 
+NF-κB inhibitor, p65-targeted siRNAs, and a p65 plasmid were further used to 
+validate the anti-inflammatory mechanism of PPI. In vivo, PPI (1 mg/kg) was 
+administered intragastrically one time a day for 7 weeks starting on the 42nd 
+day after the first immunization with collagen in a collagen-induced arthritis 
+(CIA) mouse model. Micro-computed Tomography scanning, histological examination, 
+F4/80 and iNOS double immunofluorescent staining and CD4 immunohistochemical 
+staining were performed to determine the effect of PPI treatment on joint 
+structure and inflammation in this model. Results: PPI reduced the inflammatory 
+cytokines production of PEMs stimulated by LPS/IFN-γ, inhibited the 
+phosphorylation of IKKα/β and p65, and prevented p65 nuclear localization. The 
+NF-κB luciferase assay showed that the target of PPI was closely related to the 
+NF-κB pathway. Moreover, NF-κB inhibition, siRNA-mediated knockdown of p65, and 
+p65 overexpression eliminated PPI's inhibitory effect. In addition, PPI 
+attenuated the bone erosion and synovitis, as well as M1-like macrophage and T 
+cell infiltration, in the ankle joint of the CIA model. Conclusion: PPI 
+demonstrated effective amelioration of synovial inflammation in the ankle joint 
+of CIA mice while suppressing NF-κB-mediated production of pro-inflammatory 
+effectors in activated macrophages.

@@ -1,0 +1,14 @@
+In comparison with linear polymers, dendrimers' multivalency and nanostructure 
+confer substantial advantages in drug delivery including rapid cell entry, 
+targetability, and easier passage across biological barriers. Previous work has 
+shown that phosphorus-containing dendrimers capped with anionic 
+azabisphosphonate (ABP) end groups prompt anti-inflammatory activation of human 
+monocytes. By using two mouse models of arthritis mimicking human rheumatoid 
+arthritis (RA), Hayder et al. recently demonstrated that intravenous injection 
+of dendrimer ABP inhibits the secretion of proinflammatory cytokines and 
+osteoclastogenesis--two fundamental monocyte-dependent processes of inflammation 
+and bone erosion in RA. While available biological therapies for RA target only 
+one of the cytokines involved in inflammation or bone erosion, dendrimer ABP, by 
+virtue of its double action on both processes in mice, might become a more 
+active and cost-saving alternative for RA patients. This Perspective highlights 
+this important development and the challenges that lie ahead.

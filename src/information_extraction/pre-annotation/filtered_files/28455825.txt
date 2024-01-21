@@ -1,0 +1,23 @@
+The objective of the present study is to evaluate the inhibitory effects of 
+taxol (PTX) on angiogenesis in a collagen-induced arthritis (CIA) mouse model. 
+Collagen II (C II) and complete Freund's adjuvant (CFA) were used in C57BL/6 
+(H-2b) mice to generate the CIA model. Random grouping was performed in the 
+normal control group, CIA model group, PTX 1.5 mg/kg group, PTX 1.0 mg/kg group, 
+and PTX 0.5 mg/kg group. Arthritis index scores, tissue pathology scores, and 
+synovium microvessel density (MVD) analysis were performed. Immunohistochemistry 
+and enzyme-linked immunosorbent assay were used to detect the expression of 
+vascular endothelial growth factor (VEGF) and hypoxia-inducible factor-α 
+(HIF-1α). The correlation between MVD and pathological scores and between MVD 
+and the expression of VEGF as well as HIF-1α in the synovium were also 
+evaluated. After PTX treatment, the three intervention group arthritis index 
+scores were reduced when compared with the CIA group. The total histological 
+scores in the three PTX treatment groups were lower than those in the CIA group. 
+Similarly, PTX significantly alleviated the scores for synovitis, pannus 
+formation, and bone destruction. Compared with the CIA group, the MVD of the 
+three intervention groups decreased in a dose-dependent manner. The expression 
+of VEGF and HIF-1α in synovial tissues and serum also significantly decreased 
+after PTX treatment. Further analysis showed that MVD and pathological scores 
+and MVD and expression of VEGF as well as HIF-1α in the synovium were positively 
+correlated. PTX may alleviate CIA by suppressing angiogenesis, providing new 
+insights into the treatment of rheumatoid arthritis (RA). VEGF and HIF-1α may be 
+targets for PTX suppression of microvessel formation.

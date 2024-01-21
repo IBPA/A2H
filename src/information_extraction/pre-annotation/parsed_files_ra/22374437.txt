@@ -1,0 +1,20 @@
+Rheumatic diseases are chronic inflammatory disorders, and many of them are 
+autoimmune diseases. Class I phosphatidylinositol-3 kinases (PI3Ks) are enzymes 
+that phosphorylate phosphoinositides in response to extracellular stimuli and 
+regulates cellular activation, proliferation, and migration, in a variety of 
+cell types, suggesting that they play critical roles in the development of 
+inflammation. In patients with rheumatic diseases, such as systemic lupus 
+erythematosus (SLE) and rheumatoid arthritis (RA), recent reports have shown 
+convincing pathogenic evidence for the involvement of PI3K/Akt signaling 
+pathways in chronic inflammation. Moreover, selective inhibition of PI3K γ 
+reduced incidence and severity of the renal disease. More recently, the kinome 
+array analysis revealed particular up-regulation of PI3K in B cells from 
+patients with SLE in comparison with matched controls. Up-regulation of PI3K in 
+T cells was also reported in patients with SLE. Further, we have demonstrated 
+anti-rheumatic effects of a novel PI3K-specific inhibitor, ZSTK474, in mouse 
+collagen-induced arthritis (CIA). Administration of ZSTK474, even if started 
+after the development of arthritis, ameliorated CIA with no apparent adverse 
+effect. Proliferation of B lymphocytes and synovial fibroblasts were inhibited 
+by ZSTK474 in vitro. ZSTK474 suppressed osteoclast formation in vitro and also 
+in the joints of CIA mice. These findings indicate that PI3K might be a 
+potential therapeutic target of rheumatic diseases.

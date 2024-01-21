@@ -1,0 +1,25 @@
+OBJECTIVE: Since transcription factors expressed in osteoclasts are possible 
+targets for regulation of bone destruction in bone disorders, we investigated 
+the expression of the transcription factor FBI-1/OCZF/LRF (in humans, factor 
+that binds to inducer of short transcripts of human immunodeficiency virus type 
+1; in rats, osteoclast-derived zinc finger; in mice, leukemia/lymphoma-related 
+factor) in patients with rheumatoid arthritis (RA), and assessed its role in 
+osteoclastogenesis in vivo.
+METHODS: Expression of FBI-1/OCZF was investigated in subchondral osteoclasts in 
+human RA and in rat adjuvant-induced arthritis (AIA) using immunostaining and in 
+situ hybridization, respectively. Transgenic mice overexpressing OCZF (OCZF-Tg) 
+under the control of the cathepsin K promoter were generated, and bone mineral 
+density and bone histomorphometric features were determined by peripheral 
+quantitative computed tomography, calcein double-labeling, and specific staining 
+for osteoclasts and osteoblasts. LRF/OCZF expression and the consequence of LRF 
+inhibition were assessed in vitro with RANKL-induced osteoclast differentiation.
+RESULTS: FBI-1/OCZF was detected in the nuclei of osteoclasts in rat AIA and 
+human RA. RANKL increased the levels of LRF messenger RNA and nuclear-localized 
+LRF protein in primary macrophages. In OCZF-Tg mice, bone volume was 
+significantly decreased, the number of osteoclasts, but not osteoblasts, was 
+increased in long bones, and osteoclast survival was promoted. Conversely, 
+inhibition of LRF expression suppressed the formation of osteoclasts from 
+macrophages in vitro.
+CONCLUSION: FBI-1/OCZF/LRF regulates osteoclast formation and apoptosis in vivo, 
+and may become a useful marker and target in treating disorders leading to 
+reduced bone density, including chronic arthritis.

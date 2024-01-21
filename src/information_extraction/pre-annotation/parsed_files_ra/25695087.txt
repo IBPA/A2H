@@ -1,0 +1,19 @@
+To widen the therapeutic window for PET guided evaluation of novel anti-RA 
+agents, modifications were made in a rat model of rheumatoid arthritis (RA). 
+Arthritis was induced in the right knee of Wistar rats with repeated boosting to 
+prolong articular inflammation. The contralateral knee served as control. After 
+immunization with methylated bovine serum albumin (mBSA) in complete Freund's 
+adjuvant and custom Bordetella pertussis antigen, one or more intra-articular 
+(i.a.) mBSA injections were given over time in the right knee. Serum anti-mBSA 
+antibodies, DTH response, knee thickness, motion, and synovial macrophages were 
+analyzed and [18F]FDG(-general inflammation) and (R)-[11C]PK11195 
+(macrophages-)PET was performed followed by ex vivo tissue distribution. 
+Significant anti-mBSA levels, DTH, swelling of arthritic knee, and sustained and 
+prolonged macrophage infiltration in synovial tissue were found, especially 
+using multiple i.a. injections. Increased [18F]FDG and (R)-[11C]PK11195 
+accumulation was demonstrated in arthritic knees as compared to contralateral 
+knees, which was confirmed in ex vivo tissue distribution studies. Boosting 
+proved advantageous for achieving a chronic model without remission. The model 
+will offer excellent opportunities for repeated PET studies to monitor 
+progression of disease and efficacy of novel therapeutic agents for RA in the 
+same animal.

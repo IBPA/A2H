@@ -1,0 +1,21 @@
+Clostridium difficile toxin B (TcdB) is a single-stranded protein consisting of 
+a C-terminal domain responsible for binding to the host cell membrane, a middle 
+part involved in internalization, and the N-terminal catalytic (toxic) part. 
+This study shows that TcdB is processed by a single proteolytic step which 
+cleaves TcdB(10463) between Leu(543) and Gly(544) and the naturally occurring 
+variant TcdB(8864) between Leu(544) and Gly(545). The cleavage occurs at neutral 
+pH and is catalysed by a pepstatin-sensitive protease localized in the cytoplasm 
+and on the cytoplasmic face of intracellular membranes. The smaller N-terminal 
+cleavage products [63 121 Da (TcdB(10463)) and 62 761 Da (TcdB(8864))] harbour 
+the cytotoxic and glucosyltransferase activities of the toxins. When 
+microinjected into cultured Chinese hamster lung fibroblasts, the N-terminal 
+cleavage fragment shows full cytotoxic activity shortly after injection whereas 
+the holotoxin initially exhibits a very low activity which, however, increases 
+with time. Twenty minutes after the start of internalization of TcdB, the larger 
+cleavage products [206 609 Da (TcdB(10463)) and 206 245 Da (TcdB(8864))] are 
+found exclusively in a membrane fraction, whereas the N-terminal cleavage 
+products appear mainly in the cytosol and associated with the membrane. This is 
+in line with a proposed model according to which the longer, C-terminal, part of 
+these toxins forms a channel allowing for the translocation of the toxic 
+N-terminal part, which is subsequently cleaved off at the cytoplasmic face of an 
+intracellular compartment, most likely endosomes.

@@ -1,0 +1,25 @@
+BACKGROUND AND PURPOSE: Recent findings suggest the importance of mast cells in 
+the pathogenesis of rheumatoid arthritis and their potential as a therapeutic 
+target. Tranilast is an anti-allergic compound with a potent 
+membrane-stabilizing effect on mast cells and a wide range of anti-inflammatory 
+effects, thus may be advantageous in the treatment of arthritis. Here, we have 
+evaluated the effects of tranilast on the progression of collagen-induced 
+arthritis in mice.
+EXPERIMENTAL APPROACH: Tranilast (400 mg.kg(-1).day(-1)) was orally administered 
+for 8 weeks to mice with established collagen-induced arthritis. Arthritis was 
+assessed by clinical signs and X-ray scores. In paw tissue, the numbers of mast 
+cells and osteoclasts were measured by histological analysis, and several 
+inflammatory factors were assessed by RT-PCR and Western blot analysis.*
+KEY RESULTS: TNF-alpha-positive mast cells were present extensively throughout 
+the inflamed synovium of vehicle-treated arthritic mice, with some mast cells in 
+close proximity to osteoclasts in areas of marked bone and cartilage 
+destruction. Tranilast significantly reduced clinical and X-ray scores of 
+arthritis and decreased numbers of TNF-alpha-positive mast cells and mRNA levels 
+of TNF-alpha, chymase (mouse mast cell protease 4), tryptase (mouse mast cell 
+protease 6), stem cell factor, interleukin-6, cathepsin-K, receptor activator of 
+nuclear factor-kappaB, and of receptor activator of nuclear 
+factor-kappaB-ligand, but increased interleukin-10 mRNA level in paws of 
+arthritic mice. Osteoclast numbers were decreased by treatment with tranilast.
+CONCLUSIONS AND IMPLICATIONS: Tranilast possesses significant anti-rheumatic 
+efficacy and, probably, this therapeutic effect is partly mediated by inhibition 
+of mast cell activation and osteoclastogenesis.

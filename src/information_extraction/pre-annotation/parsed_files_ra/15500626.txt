@@ -1,0 +1,26 @@
+Collagen-induced arthritis (CIA) is an animal model of human rheumatoid 
+arthritis that can be induced in susceptible mice by immunization with type II 
+collagen (CII) or with collagen fragments, including cyanogen bromide (CB) 
+peptides. One susceptible mouse strain, B10.RIII (I-Ar), has previously been 
+found to respond to two major T-cell determinants, namely CII 610-618 
+(GPAGTAGAR) within CB10 and CII 445-453 (GPAGPAGER) within CB8. Although CB10 
+contains the immunodominant determinant, it is not arthritogenic. Using 
+recombinant techniques, the determinant within CB10 was mutated to 
+rCB10(T614P,A617E), generating a recombinant CB10 that in effect contained the 
+arthritogenic epitope. When used for immunization, rCB10(T614P,A617E) was 
+arthritogenic. This suggested that the arthritogenic property was intrinsic to 
+the epitope and unrelated to its position within the CII molecule. To test this 
+hypothesis, additional mutants were generated. The wild-type T-cell epitope of 
+CB10 was deleted from its natural position, and the 'arthritogenic' GPAGPAGER 
+T-cell epitope was inserted into the C-terminal portion of the CB10 peptide. The 
+resulting peptide induced arthritis in B10.RIII mice. Adding a second copy of 
+the T-cell determinant to other sites within CB10, however, had varying results. 
+A second T-cell epitope located at the C-terminus of rCB10 significantly 
+increased the incidence and severity of arthritis, while determinants placed in 
+other positions had little effect. These data indicate that the T-cell epitope 
+has intrinsic arthritogenic properties, but there are positional and structural 
+constraints that affect its arthritogenicity. Enhanced arthritis was associated 
+with an increased T-cell proliferation to the peptides, an increase in the level 
+of inflammatory cytokines, and higher levels of anti-CII immunoglobulin. These 
+data suggest that the position and copy number of T-cell determinants also 
+affect the overall immune T-cell responses.

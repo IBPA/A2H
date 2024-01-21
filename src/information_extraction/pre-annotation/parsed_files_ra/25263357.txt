@@ -1,0 +1,17 @@
+OBJECTIVE: To characterize the proteomic profiles of joint synovial tissue in 
+normal rats and rats with rheumatoid arthritis (RA) and identify the proteins 
+related with the occurrence of RA to explore the pathogenesis of RA.
+METHODS: SD rat models of RA were established using Mtb (heat-killed 
+Mycobacterium tuberculosis H37Ra). Two-dimensional gel electrophoresis 
+proteomics technology was employed to analyze the difference in synovial tissue 
+protein profiles between RA model rats and normal rats, and two of the 
+differentially expressed proteins were verified with Western blotting and 
+fluorescence quantitative PCR.
+RESULTS: Comparison of the two-dimensional gel electrophoresis patterns from the 
+model rats and normal rats showed 4 up-regulated and 4 down-regulated proteins 
+by 2 folds in the RA model rats. Western blotting and fluorescent quantitative 
+PCR of 2 of the 8 proteins yielded consistent results with those by proteomics 
+analysis.
+CONCLUSION: Arthritis synovial lesions in RA represent very complex pathological 
+processes involving a variety of proteins, and these differentially expressed 
+proteins may contribute to the progression of RA.

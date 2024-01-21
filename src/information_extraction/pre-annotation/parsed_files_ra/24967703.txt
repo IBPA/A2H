@@ -1,0 +1,26 @@
+MicroRNAs have been shown to be important regulators of inflammatory and immune 
+responses and are implicated in several immune disorders including systemic 
+lupus erythematosus and rheumatoid arthritis, but their role in Lyme borreliosis 
+remains unknown. We performed a microarray screen for expression of miRNAs in 
+joint tissue from three mouse strains infected with Borrelia burgdorferi. This 
+screen identified upregulation of miR-146a, a key negative regulator of NF-κB 
+signaling, in all three strains, suggesting it plays an important role in the in 
+vivo response to B. burgdorferi. Infection of B6 miR-146a-/- mice with B. 
+burgdorferi revealed a critical nonredundant role of miR-146a in modulating Lyme 
+arthritis without compromising host immune response or heart inflammation. The 
+impact of miR-146a was specifically localized to the joint, and did not impact 
+lesion development or inflammation in the heart. Furthermore, B6 miR-146a-/- 
+mice had elevated levels of NF-κB-regulated products in joint tissue and serum 
+late in infection. Flow cytometry analysis of various lineages isolated from 
+infected joint tissue of mice showed that myeloid cell infiltration was 
+significantly greater in B6 miR-146a-/- mice, compared to B6, during B. 
+burgdorferi infection. Using bone marrow-derived macrophages, we found that 
+TRAF6, a known target of miR-146a involved in NF-κB activation, was dysregulated 
+in resting and B. burgdorferi-stimulated B6 miR-146a-/- macrophages, and 
+corresponded to elevated IL-1β, IL-6 and CXCL1 production. This dysregulated 
+protein production was also observed in macrophages treated with IL-10 prior to 
+B. burgdorferi stimulation. Peritoneal macrophages from B6 miR-146a-/- mice also 
+showed enhanced phagocytosis of B. burgdorferi. Together, these data show that 
+miR-146a-mediated regulation of TRAF6 and NF-κB, and downstream targets such as 
+IL-1β, IL-6 and CXCL1, are critical for modulation of Lyme arthritis during 
+chronic infection with B. burgdorferi.

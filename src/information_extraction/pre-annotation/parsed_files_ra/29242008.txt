@@ -1,0 +1,25 @@
+Antibodies to proteins/peptides containing citrulline are hallmarks of 
+Rheumatoid Arthritis (RA). These antibodies are strongly associated with the 
+expression of the Shared Epitope (SE). RA patients also generate antibodies to 
+homocitrulline-containing proteins/peptides (also referred to as 
+anti-carbamylated protein antibodies (Anti-CarP)). This study was undertaken to 
+investigate the relationship between homocitrulline and citrulline immune 
+responses using an established mouse model of RA: DR4-transgenic (DR4tg) mice 
+that express the human SE. C57BL/6 (B6) and DR4tg (on a B6 background) mice were 
+immunized subcutaneously with a homocitrullinated peptide (HomoCitJED). Splenic 
+T cell proliferation was evaluated by 3H-thymidine incorporation assay. 
+Antibodies to homocitrullinated and citrullinated antigens were screened by 
+enzyme-linked immunosorbent assay (ELISA). Antibody cross-reactivity was 
+examined by inhibition with HomoCitJED and its citrullinated counterpart 
+peptide, CitJED (the number of homocitrullines in HomoCitJED is equal to the 
+number of citrullines in CitJED). HomoCitJED-immunized DR4tg mice developed 
+early T and B cell responses to HomoCitJED and late responses to CitJED. These 
+mice also developed anti-CCP2 antibodies. In some mice, antibodies to HomoCitJED 
+were also reactive to CitJED. B6 mice immunized with HomoCitJED developed late T 
+and B cell responses to HomoCitJED, but did not generate responses to 
+citrullinated antigens. Unlike DR4tg mice, anti-HomoCitJED antibodies from B6 
+mice did not react to CitJED. In conclusion, DR4tg mice immunized with 
+HomoCitJED developed immune responses to CitJED, indicating cross-reactivity. 
+CitJED immune responses were dependent on the SE. HomoCitJED responses occurred 
+in the absence of the SE (B6 mice); however, they developed earlier in DR4tg 
+SE-expressing mice.

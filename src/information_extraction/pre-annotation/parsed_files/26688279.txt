@@ -1,0 +1,13 @@
+Clostridium difficile is a spore-forming, anaerobic, Gram-positive organism that 
+is the leading cause of antibiotic-associated infectious diarrhea, commonly 
+known as C. difficile infection (CDI). C. difficile spores play an important 
+role in the pathogenesis of CDI. Spore proteins, especially those that are 
+surface-bound may play an essential role in the germination, colonization and 
+persistence of C. difficile in the human gut. In our current study, we report 
+the identification of two surface-bound spore proteins, CdeC and CdeM that may 
+be utilized as immunization candidates against C. difficile. These spore 
+proteins are immunogenic in mice and are able to protect mice against challenge 
+with C. difficile UK1, a clinically-relevant 027/B1/NAP1 strain. These spore 
+proteins are also able to afford high levels of protection against challenge 
+with C. difficile 630Δerm in golden Syrian hamsters. This unprecedented study 
+shows the vaccination potential of C. difficile spore exosporium proteins.

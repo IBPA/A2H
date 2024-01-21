@@ -1,0 +1,24 @@
+Chronic pain conditions such as rheumatoid arthritis and fibromyalgia are 
+associated with profound hypothalamo-pituitary-adrenal (HPA) axis dysfunction 
+which may exacerbate symptoms of chronic pain. HPA axis dysfunction has also 
+been well documented in animal models of chronic inflammatory pain. However, the 
+role of the HPA axis in animal models of neuropathic pain is currently unknown. 
+Rats with a chronic constriction injury (CCI) of the sciatic nerve that 
+developed marked mechanical allodynia and hyperalgesia of the injured hindpaw 
+were used to determine basal and stimulatory levels of HPA axis activity. Plasma 
+ACTH and corticosterone levels were increased significantly (P < 0.05) in CCI 
+rats after 20 min restraint stress compared with baseline; however, the 
+magnitude of the increase was no different from sham rats. Furthermore, the 
+temporal profile of ACTH release over the 60 min period after termination of 
+restraint was similar between CCI and sham rats suggesting normal 
+glucocorticoid-mediated feedback. Restraint stress also significantly increased 
+(P < 0.05) expression of the immediate early genes c-Fos and FosB within the 
+hypothalamic PVN to a similar extent in CCI and sham rats. Within the 
+parvocellular PVN basal expression of both CRF and AVP mRNA was no different 
+between CCI and sham rats; restraint stress induced a significant 2.5 fold 
+increase (P < 0.05) in CRF mRNA expression in sham rats only. These results 
+suggest that, in contrast to inflammatory immune-mediated pain models where HPA 
+axis function is profoundly altered, in the CCI model of neuropathic pain, basal 
+HPA axis function is unchanged. Furthermore, the HPA axis responds normally to a 
+novel stressor in the face of ongoing nociceptive input, a stimulus known to 
+activate the HPA axis.

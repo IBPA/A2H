@@ -1,0 +1,28 @@
+INTRODUCTION: IL-1β signalling has a critical role in the pathogenesis of 
+various types of inflammatory arthritis including rheumatoid arthritis (RA). We 
+aimed to investigate the therapeutic effects of human IL-1 receptor antagonist 
+with Fc fragment (hIL-1Ra-Fc) on autoimmune arthritis and to identify the 
+possible mechanisms by which hIL-1RA-Fc exerts anti-arthritic effects in a 
+murine model of RA and patients with rheumatoid arthritis.
+METHODS: Collagen-induced arthritis (CIA) murine model was established in DBA/1J 
+mice. The levels of various cytokines were determined by using enzyme-linked 
+immunosorbent assay. The mouse joints were assessed for clinical arthritis score 
+and histologic features. Th17 cells and Treg cells were stained by using 
+antibodies specific for CD4, IL-17, CD25, and FoxP3. Osteoclastogenesis was 
+determined by TRAP staining and real-time PCR.
+RESULTS: hIL-1RA-Fc reduced the arthritis incidence, histological inflammation 
+and cartilage score in the CIA model. The expression of proinflammatory 
+cytokines, VEGF and RANK, was reduced in the affected joint of 
+hIL-1Ra-Fc-treated mice. hIL-1Ra-Fc-treated mice showed decreased number of Th17 
+cells with increased number of Treg cells in spleens. hIL-1Ra-Fc reduced Th17 
+cell differentiation by inactivation of STAT3 signalling, and reciprocally 
+induced Treg cell differentiation through STAT5 signalling. In addition, the 
+expression of IL-17, TNF-α, RANKL, and VEGF was decreased, while Foxp3 gene 
+expression was increased in PBMCs of RA patients after administration of 
+hIL-1Ra-Fc.
+CONCLUSION: The anti-arthritis effects of hIL-1RA-Fc are associated with 
+regulation of balance between Th17 cells and Treg cells and suppression of 
+osteoclastogenesis and angiogenesis in the affected joints.
+
+Copyright © 2016 European Federation of Immunological Societies. Published by 
+Elsevier B.V. All rights reserved.

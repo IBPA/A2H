@@ -1,0 +1,13 @@
+STATEMENT OF FINDINGS: The kinetics of apoptosis and the apoptosis-regulating 
+gene p53 in adjuvant arthritis (AA) were investigated to assess the value of the 
+AA rat model for testing apoptosis-inducing therapies. Very few terminal 
+deoxynucleotidyl transferase-mediated deoxyuridine triphosphate (dUTP) nick 
+end-labeling (TUNEL)-positive cells were detected during the early phases of AA, 
+but on day 23 (chronic arthritis) the percentage of TUNEL-positive cells was 
+significantly increased. Expression of p53 in synovial tissue gradually 
+increased from days 5-23, which was markedly higher than p53 levels in 
+rheumatoid arthritis (RA) synovium. Significant apoptosis only occurs late in 
+rat AA and is concordant with marked p53 overexpression, making it useful model 
+for testing proapoptotic therapies, but rat AA is not the best model for p53 
+gene therapy because dramatic p53 overexpression occurs in the latter stages of 
+the disease.

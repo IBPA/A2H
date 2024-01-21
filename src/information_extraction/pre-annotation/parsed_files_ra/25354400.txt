@@ -1,0 +1,25 @@
+IL-23 is part of the IL-12 family of cytokines and is composed of the p19 
+subunit specific to IL-23 and the p40 subunit shared with IL-12. IL-23 
+specifically contributes to the inflammatory process of multiple chronic 
+inflammatory autoimmune disorders, including psoriasis, multiple sclerosis, 
+inflammatory bowel disease, and rheumatoid arthritis. So far, one antibody 
+targeting the shared p40 subunit of IL-12 and IL-23, Ustekinumab, is approved 
+clinically to treat psoriasis. However, there are no treatments inhibiting 
+specifically the IL-23 proinflammatory response. We have developed small 
+IL-23R-specific antagonists by designing all D-peptides arising from flexible 
+regions of IL-23R. Of these peptides, we selected 2305 (teeeqqly), since in 
+addition to its soluble properties, it inhibited IL-23-induced STAT3 
+phosphorylation in spleen cells. Peptide 2305 specifically binds to 
+IL-23R/IL-12Rβ1-expressing HEK-293 cells and not to cells devoid of the 
+receptor. Peptide 2305 showed functional selectivity by modulating IL-23-induced 
+gene expression in IL-23R/IL-12Rβ1-expressing cells and in Jurkat cells; 2305 
+does not inhibit IL-12-induced cytokine expression in IL-12Rβ-IL-12Rβ2-HEK-293 
+cells. Finally, compared with anti-p40 treatment, 2305 effectively and 
+selectively inhibits IL-23-induced inflammation in three in vivo mouse models: 
+IL-23-induced ear inflammation, anti-CD40-induced systemic inflammatory 
+response, and collagen-induced arthritis. We, hereby, describe the discovery and 
+characterization of a potent IL-23R small-peptide modulator, 2305 (teeeqqly), 
+that is effective in vivo. 2305 may be more convenient, less cumbersome, less 
+costly, and most importantly, more specific than current biologics for the 
+treatment of inflammatory conditions, and conceivably complement the actual 
+therapies for these chronic and debilitating inflammatory diseases.

@@ -1,0 +1,21 @@
+OBJECTIVE: To investigate how tumor necrosis factor (TNF)-inhibiting therapy 
+affects bone destruction and inflammation in a TNF-driven mouse model of 
+rheumatoid arthritis.
+METHODS: In order to evaluate the influence of TNF on osteoclastogenesis in 
+vitro, different concentrations of TNF were added to spleen cell-derived 
+monocytes in the absence or presence of different concentrations of RANKL. In 
+addition, the effects of TNF inhibition on osteoclast precursors as well as 
+local bone destruction in vivo were assessed by treating TNF-transgenic mice 
+with different doses of adalimumab.
+RESULTS: TNF stimulated osteoclastogenesis mainly by increasing the number of 
+osteoclast precursor cells in vitro. This TNF effect was independent of the 
+presence of RANKL. In the hTNF-transgenic mouse model of destructive arthritis, 
+low-dose TNF-inhibiting therapy with adalimumab had no effect on synovial 
+inflammation but significantly inhibited local bone destruction and the 
+generation of osteoclasts. This inhibition was accompanied by a reduction in the 
+number of c-Fms-positive osteoclast precursor cells in the bone marrow and a 
+reduction of the osteoclast precursor pools in the blood and inflamed synovial 
+membrane of hTNF-transgenic mice.
+CONCLUSION: Low-dose TNF-inhibiting therapy significantly reduces bone erosions 
+by reducing the number of circulating and joint-invading osteoclast precursors. 
+This effect is uncoupled from its antiinflammatory action.

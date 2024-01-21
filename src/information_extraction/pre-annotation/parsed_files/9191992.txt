@@ -1,0 +1,30 @@
+Understanding the dynamics of the establishment of C. difficile within the gut 
+is vital to effective prevention, control and therapy of disease due to this 
+nosocomial pathogen. Factors affecting the establishment of C. difficile in the 
+gut were investigated including the role of bacterial metabolic products (BMPs), 
+the composition of colonic flora, diet, and properties of the infecting strain. 
+Concentrations of 9/12 bacterial metabolic products (BMPs), both volatile and 
+non-volatile were significantly higher in mice which eliminated oral challenge 
+with 10(8) spores of C. difficile (E mice) than in mice harbouring the organism 
+(H mice). Growth of C. difficile in vitro was inhibited 10(4) fold at 
+combinations of BMPs at concentrations found in stools of E mice but not in 
+stools of H mice. The in situ production and concentrations of BMPs were 
+increased by augmenting the amount of fermentable fibre in the diet. This 
+resulted in elimination of C. difficile from 6/7 C. difficile colonized mice 
+within 6 days of beginning a diet containing 20% fermentable fibre. Whereas mice 
+fed diets containing 2% fermentable fibre or 20% non-fermentable fibre continued 
+excreting the organism. Elimination of C. difficile was associated with 
+increased concentrations of BMPs and changes in the numbers of organisms already 
+present within the colonic flora. Properties of two microbial phenotypes (smooth 
+(S), and rough (R)) of one strain of C. difficile were examined in vitro and the 
+ID50s determined. The S phenotype survived, germinated and grew in media 
+containing higher concentrations of BMPs, acquired iron when grown under iron 
+restriction, utilized haem and bound Congo red more readily than the R 
+phenotype. In mice fed the 2% fermentable fibre diet the ID50 for the S 
+phenotype was 10(3) spores and 10(8) spores for the R phenotype, whereas for 
+mice fed the 20% fermentable fibre diet it was > 10(6) spores for the S 
+phenotype. The ability of this opportunistic pathogen to adapt to changing 
+environmental conditions is an important factor in determining whether the 
+organism will colonize and cause disease. Diets supplemented with fermentable 
+fibre may be a valuable method of preventing and treating C. difficile related 
+disease.

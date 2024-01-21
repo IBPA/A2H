@@ -1,0 +1,24 @@
+BACKGROUND: Activation of the A2A adenosine receptor (A2AAR) decreases 
+production of inflammatory cytokines, prevents C. difficile toxin A-induced 
+enteritis and, in combination with antibiotics, increases survival from sepsis 
+in mice. We investigated whether A2AAR activation improves and A2AAR deletion 
+worsens outcomes in a murine model of C. difficile (strain VPI10463) infection 
+(CDI).
+METHODS: C57BL/6 mice were pretreated with an antibiotic cocktail prior to 
+infection and then treated with vancomycin with or without an A2AAR agonist. 
+A2AAR-/- and littermate wild-type (WT) mice were similarly infected, and IFNγ 
+and TNFα were measured at peak of and recovery from infection.
+RESULTS: Infected, untreated mice rapidly lost weight, developed diarrhea, and 
+had mortality rates of 50-60%. Infected mice treated with vancomycin had less 
+weight loss and diarrhea during antibiotic treatment but mortality increased to 
+near 100% after discontinuation of antibiotics. Infected mice treated with both 
+vancomycin and an A2AAR agonist, either ATL370 or ATL1222, had minimal weight 
+loss and better long-term survival than mice treated with vancomycin alone. 
+A2AAR KO mice were more susceptible than WT mice to death from CDI. Increases in 
+cecal IFNγ and blood TNFα were pronounced in the absence of A2AARs.
+CONCLUSION: In a murine model of CDI, vancomycin treatment resulted in reduced 
+weight loss and diarrhea during acute infection, but high recurrence and 
+late-onset death, with overall mortality being worse than untreated infected 
+controls. The administration of vancomycin plus an A2AAR agonist reduced 
+inflammation and improved survival rates, suggesting a possible benefit of A2AAR 
+agonists in the management of CDI to prevent recurrent disease.

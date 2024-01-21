@@ -1,0 +1,14 @@
+Clostridium difficile toxin B that inactivates Rho subfamily proteins by 
+glucosylation, inhibited dinitrophenyl-conjugated bovine serum albumin (DNP-BSA) 
+and phorbol 12-myristate 13-acetate (PMA)-induced mast cell activation by 80 to 
+90% in a concentration- and time dependent manner with a delay of about 30 min. 
+Activation of mast cells by compound 48/80 and calcium ionophore A23187 was 
+maximally inhibited by about 50%. Inhibition by toxin B was observed with 
+suspended, attached and permeabilised mast cells. C3 ADP-ribosyltransferase, 
+which selectively inactivates RhoA,B,C subtype proteins inhibited antigen, 
+compound 48/80, PMA, A23187 and GTP[S]-induced degranulation of permeabilised 
+mast cells C3-induced inhibition of stimulated histamine release was smaller 
+than that observed with toxin B and both inhibitory effects were not additive. 
+These findings suggest the involvement of Rho subtype GTPases and additionally, 
+of other members of the Rho subfamily GTPases in activation of rat peritoneal 
+mast cells.

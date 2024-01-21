@@ -1,0 +1,15 @@
+Primary cultures of rat cortical astrocytes express phospholipase D (PLD) 
+isoforms 1 and 2 as determined by RT-PCR and Western blot. Basal PLD activity 
+was strongly (10-fold) increased by 4beta-phorbol-12beta,13alpha-dibutyrate 
+(PDB) (EC(50): 56 nM), an effect which was inhibited by Ro 31-8220 (0.1-1 
+microM), an inhibitor of protein kinase C (PKC), and by brefeldin A (10-100 
+microg/ml), an inhibitor of ADP-ribosylating factor (ARF) activation. 
+Pretreatment of the cultures with Clostridium difficile toxin B-10463 (0.1-1 
+ng/ml), which inactivates small G proteins of the Rho family, led to a breakdown 
+of the astroglial cytoskeleton; concomitantly, PLD activation by PDB was reduced 
+by up to 50%. In contrast, inactivation of proteins of the Ras family by 
+Clostridium sordellii lethal toxin 1522 did not affect PLD activation. In 
+parallel experiments, serum-induced PLD activation was sensitive to brefeldin A, 
+but not to Ro 31-8220 and not to clostridial toxins. We conclude that, in 
+astrocytes, the PLD isoform which is activated by phorbol ester requires PKC, 
+ARF and Rho proteins for full activity and probably represents PLD1.

@@ -1,0 +1,26 @@
+Autoimmune diseases are a group of heterogeneous condition that occur secondary 
+to the intrinsic loss of tolerance to self- antigens. In genetically susceptible 
+individuals, the complex interplay of environmental factors and epigenetic 
+deregulations have been proposed to drive disease etiopathogenesis. Various 
+environmental variables have been identified including viral infections, 
+exposure to pollutants, stress and dietary factors. Sodium, a major constituent 
+of salt is essential for mammalian physiology. However, high salt intake may 
+play a role in the development of autoimmune diseases. Several lines of evidence 
+point toward the role of high sodium intake in reversing the suppressive effects 
+of Regulatory T cells (Tregs) and instead promoting cellular shift toward 
+T-helper (Th)-1 and Th17 pro-inflammatory phenotypes. These effects have been 
+attributed to cascade of events that ultimately results in downstream activation 
+of serum glucocorticoid kinase 1 (Sgk1). In vivo, various autoimmune animal 
+models have confirmed the role of high sodium diet in the emergence and the 
+exacerbation of autoimmune conditions including for instance Experimental 
+Autoimmune Encephalomyelitis model for multiple sclerosis, MRL/lpr mouse model 
+for lupus nephritis, collagen induced arthritis model for rheumatoid arthritis, 
+and dextran sulfate sodium induced colitis, and TNBS-induced colitis models for 
+Crohn's disease. Clinical epidemiological studies are scarce. High sodium intake 
+was associated with increased risk of rheumatoid arthritis disease emergence. In 
+multiple sclerosis, some studies suggest a relation to clinical exacerbation 
+rates however other studies did not corroborate these results. Taken together, 
+high dietary salt intake plays a role in the spectrum of autoimmune disease 
+etiology. Further research is warranted to better characterize such relationship 
+and assist in identifying individuals that would benefit from dietary salt 
+restriction.

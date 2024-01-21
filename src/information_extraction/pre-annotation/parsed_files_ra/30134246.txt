@@ -1,0 +1,22 @@
+BACKGROUND/AIMS: Retinoid-related orphan receptor gamma t (RORγt) is a master 
+regulator of T helper 17 cells that plays a pivotal role in the production of 
+inflammatory cytokines including interleukin (IL)-17. Therefore, RORγt has 
+attracted much attention as a target receptor for the treatment of inflammatory 
+diseases including rheumatoid arthritis, multiple sclerosis, inflammatory bowel 
+diseases, and psoriasis. This study aims to characterize TAK-828F, a potent and 
+selective RORγt inverse agonist.
+METHODS: The biochemical properties of TAK-828F were evaluated using 
+Time-Resolved Fluorescence Resonance Energy Transfer (TR-FRET) binding assay, 
+surface plasmon resonance (SPR) biosensor assay, cofactor recruitment assay, 
+reporter assay, and IL-17 expression assay.
+RESULTS: TR-FRET binding assay and SPR biosensor assay revealed rapid, 
+reversible, and high affinity binding of TAK-828F to RORγt. The cofactor 
+recruitment assay showed that TAK-828F inhibited the recruitment of steroid 
+receptor coactivator-1 to RORγt. Furthermore, TAK-828F inhibited the 
+transcriptional activity of human and mouse RORγt with selectivity against human 
+RORα and RORβ. TAK-828F also suppressed IL-17 production in Jurkat cells, 
+overexpressing human RORγt.
+CONCLUSION: These favorable properties will be of advantage in the evaluation of 
+TAK-828F in clinical studies for inflammatory diseases. Furthermore, these 
+findings demonstrate that TAK-828F could serve as a pharmacological tool for 
+further studies of RORγt and inflammatory diseases.

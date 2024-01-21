@@ -1,0 +1,22 @@
+Clostridioides difficile is linked to nearly 225,000 antibiotic-associated 
+diarrheal infections and almost 13,000 deaths per year in the United States. 
+Pathogenic strains of C. difficile produce toxin A (TcdA) and toxin B (TcdB), 
+which can directly kill cells and induce an inflammatory response in the colonic 
+mucosa. Hirota et al. (S. A. Hirota et al., Infect Immun 80:4474-4484, 2012) 
+first introduced the intrarectal instillation model of intoxication using TcdA 
+and TcdB purified from VPI 10463 (VPI 10463 reference strain [ATCC 43255]) and 
+630 C. difficile strains. Here, we expand this technique by instilling purified, 
+recombinant TcdA and TcdB, which allows for the interrogation of how 
+specifically mutated toxins affect tissue. Mouse colons were processed and 
+stained with hematoxylin and eosin for blinded evaluation and scoring by a 
+board-certified gastrointestinal pathologist. The amount of TcdA or TcdB needed 
+to produce damage was lower than previously reported in vivo and ex vivo 
+Furthermore, TcdB mutants lacking either endosomal pore formation or 
+glucosyltransferase activity resemble sham negative controls. Immunofluorescent 
+staining revealed how TcdB initially damages colonic tissue by altering the 
+epithelial architecture closest to the lumen. Tissue sections were also 
+immunostained for markers of acute inflammatory infiltration. These staining 
+patterns were compared to slides from a human C. difficile infection (CDI). The 
+intrarectal instillation mouse model with purified recombinant TcdA and/or TcdB 
+provides the flexibility needed to better understand structure/function 
+relationships across different stages of CDI pathogenesis.

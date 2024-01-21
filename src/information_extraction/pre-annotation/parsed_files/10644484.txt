@@ -1,0 +1,22 @@
+BACKGROUND: We have found that Clostridium difficile toxins can evoke hepatocyte 
+acute-phase protein synthesis, and that this effect is dependent on a 
+functioning interleukin-1 (IL-1) receptor. The present study was undertaken to 
+determine if C. difficile toxicity, as determined by actin rearrangement and 
+lactate dehydrogenase (LDH) release, also requires a functioning IL-1 receptor.
+METHODS: Primary hepatocyte cultures were prepared from normal mice, knockout 
+mice deficient in the IL-1-converting enzyme (ICE), and knockout mice deficient 
+in the IL-1 p80 receptor. Hepatocytes were treated for 24 h with C. difficile 
+culture extract, purified C. difficile toxin A, or purified C. difficile toxin 
+B. The actin cytoskeleton was examined using confocal microscopy, and LDH 
+release was measured by spectrophotometric analysis.
+RESULTS: C. difficile culture extract, toxin A, and toxin B induced collapse of 
+the actin cytoskeleton in hepatocytes from normal mice. Hepatocytes from both 
+the ICE-deficient mice and the IL-1 p80 receptor-deficient mice demonstrated 
+similar responses to both toxins. These toxins also induced significant LDH 
+release in a concentration-dependent fashion in the normal hepatocytes and the 
+ICE-deficient hepatocytes. However, no significant increase in LDH release was 
+observed in hepatocytes from IL-1 p80 receptor-deficient mice.
+CONCLUSIONS: C. difficile toxins induce actin cytoskeletal collapse independent 
+of IL-1 or the IL-1 receptor. In contrast, toxin-stimulated LDH release was 
+dependent on the presence of the IL-1 receptor. Thus, separate pathways appear 
+to mediate toxic effects as manifested by actin rearrangement and LDH release.

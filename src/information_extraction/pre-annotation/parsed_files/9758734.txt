@@ -1,0 +1,24 @@
+BACKGROUND: Clostridium difficile infections are associated with development of 
+the systemic inflammatory response, including the production of hepatic acute 
+phase proteins. Lipopolysaccharide (LPS) directly stimulates the production of 
+at least one of these proteins, a 23-kDa acute phase protein (the LPS-induced 
+protein, or LIP) by murine hepatocytes in vitro. The aim of the present study 
+was to determine if C. difficile toxins also stimulated the synthesis of this 
+protein in vitro.
+METHODS: Cultured murine hepatocytes were treated for 24 h with various 
+concentrations of C. difficile culture extract or purified toxins A and B in the 
+presence or absence of dexamethasone or interleukin-1 (IL-1) receptor antagonist 
+(IL-1 RA). The cells were then metabolically radiolabeled with [35S]methionine. 
+Secretory proteins were identified using electrophoresis and autoradiography, 
+and their synthesis was quantitated by image analysis of the autoradiograms.
+RESULTS: The C. difficile culture extract, at dilutions as low as 1:200,000, 
+significantly stimulated LIP synthesis in vitro. Toxins A and B, at 
+concentrations as low as 1.6 and 0.02 pg/ml, respectively, also induced 
+production of this protein. Dexamethasone further augmented C. difficile 
+toxin-stimulated synthesis of LIP, but IL-1 RA inhibited the effects of these 
+toxins on the synthesis of this protein. Only minimal quantities of IL-1 were 
+found in culture supernatants following treatment with the toxins.
+CONCLUSIONS: C. difficile toxins A and B, at very low concentrations, stimulate 
+hepatocyte acute phase protein synthesis. Even though IL-1 RA inhibits this 
+process, it does not appear that local production of IL-1 mediates the action of 
+these toxins.

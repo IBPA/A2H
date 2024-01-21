@@ -1,0 +1,12 @@
+The LST1 gene is located in the human MHC class III region and encodes 
+transmembrane and soluble isoforms that have been suggested to play a role in 
+the regulation of the immune response and are associated with inflammatory 
+diseases such as rheumatoid arthritis. Here we describe the generation and 
+characterization of the first monoclonal antibodies against LST1. Two hybridoma 
+lines secreting monoclonal antibodies designated 7E2 and 8D12 were established. 
+The 7E2 antibody detects recombinant and endogenous LST1 by Western blot 
+analysis while 8D12 reacts with recombinant and endogenous LST1 in 
+immunoprecipitation and flow cytometry procedures. The newly established 
+antibodies were used to survey LST1 protein expression in human cell lines, 
+which was found to be tightly regulated, allowing the expression of 
+transmembrane isoforms but suppressing soluble isoforms.

@@ -1,0 +1,18 @@
+TCR signaling regulates multiple aspects of T cell function by controlling 
+expression of various cytokine genes. IL-24 is a multifunctional cytokine 
+belonging to the IL-10 family. It displays anticancer effects in diverse cancer 
+cells and regulates immunopathology of psoriasis and rheumatoid arthritis. IL-24 
+also plays an important role in B cell differentiation. Mouse IL-24 gene is 
+selectively expressed in activated Th2 cells upon TCR stimulation. However, the 
+molecular mechanisms by which TCR stimulation induces IL-24 gene expression are 
+still unclear. In this study, to elucidate the mechanism of Th2 cell-specific 
+expression of IL-24, we identified a proximal promoter region (-157/+95 bp) that 
+plays critical role in activating the IL-24 gene in Th2 cells. This region has a 
+Th2 cell-specific open chromatin structure along with permissive histone 
+modifications. In vivo binding of Stat6 and AP-1 (c-Jun) to the IL-24 promoter 
+locus in Th2 cells synergistically transactivated the IL-24 promoter. Stat6 and 
+c-Jun proteins were found to physically cooperate with each other and 
+upregulated IL-24 gene transcription. Knockdown of either Stat6 or c-Jun 
+suppressed endogenous IL-24 gene expression in Th2 cells. In summary, TCR 
+stimulation induces IL-24 expression in Th2 cells by the coordinate action of 
+Stat6 and c-Jun transcription factors at the transcriptional level.

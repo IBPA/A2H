@@ -1,0 +1,11 @@
+Nuclear factor (NF)-kappaB is a transcription factor that induces the 
+immunoglobulin kappa chain, cytokines such as interleukin (IL)-1, IL-2, IL-6, 
+IL-8, tumor necrosis factor (TNF)-alpha and interferon gamma, and cell adhesion 
+proteins. It also induces anti-apoptotic proteins, and inhibits TNF-alpha and 
+anticancer drug-induced apoptosis. Therefore, NF-kappaB function inhibitors may 
+be useful as anti-inflammatory and anticancer agents. Microbial products such as 
+panepoxydone, cycloepoxydon and gliotoxin are known to inhibit activation of 
+NF-kappaB. We have designed and synthesized new NF-kappaB inhibitors from the 
+structure of an antibiotic, epoxyquinomicin C. The designed compound, DHM2EQ, 
+inhibited TNF-alpha-induced activation of NF-kappaB and showed a therapeutic 
+effect in mouse rheumatoid arthritis model.

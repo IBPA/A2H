@@ -1,0 +1,23 @@
+Etanercept (ETN), which is a recombinant human soluble tumor necrosis factor 
+(TNF) receptor that inhibits TNF activity, is effective in the treatment of 
+rheumatoid arthritis. We investigated the effect of ETN on recombinant human 
+bone morphogenetic protein-2 (rhBMP-2)-induced ectopic bone formation in vivo. A 
+block copolymer composed of poly-D,L-lactic acid with random insertion of 
+p-dioxanone and polyethylene glycol (PLA-DX-PEG polymer) was used as the 
+delivery system. Polymer discs (6 mm, 30 mg) containing 5 microg rhBMP-2 were 
+implanted into the left dorsal muscle pouch of mice (n = 50). In the systemic 
+administration groups (n = 5 per group), ETN was subcutaneously injected (25 
+mg/human = 12.5 microg/mouse) twice per week in a dose-dependent manner 
+(placebo, 12.5 x 10(-3), 12.5 x 10(-1), 12.5, 125 microg), whereas a single dose 
+of ETN (placebo, 12.5 x 10(-3), 12.5 x 10(-1), 12.5, 125 microg) was embedded in 
+each rhBMP-2 polymer disc in the local administration groups (n = 5 per group). 
+Three weeks after implantation, the mice were killed and the implants were 
+analyzed. Implants in the optimally dosed groups had increased radiodensity, 
+which was consistent with a significant increase in bone mineral content of the 
+ossicles. Bone histomorphology revealed a significant increase in bone 
+volume/total volume, number of osteoblasts, osteoblast surface/bone surface, and 
+a significant decrease in the number of osteoclasts, osteoclast surface/bone 
+surface in the optimal dosed systemic and locally administered groups. These 
+data suggest that the optimal dose of ETN, administered either systemically or 
+locally, enhanced the bone-inducing capacity of BMP with no apparent adverse 
+systemic effects.

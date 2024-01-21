@@ -1,0 +1,28 @@
+Clostridium difficile infection (CDI) is a major public health threat worldwide. 
+The use of nonsteroidal anti-inflammatory drugs (NSAIDs) is associated with 
+enhanced susceptibility to and severity of CDI; however, the mechanisms driving 
+this phenomenon have not been elucidated. NSAIDs alter prostaglandin (PG) 
+metabolism by inhibiting cyclooxygenase (COX) enzymes. Here, we found that 
+treatment with the NSAID indomethacin prior to infection altered the microbiota 
+and dramatically increased mortality and the intestinal pathology associated 
+with CDI in mice. We demonstrated that in C. difficile-infected animals, 
+indomethacin treatment led to PG deregulation, an altered proinflammatory 
+transcriptional and protein profile, and perturbed epithelial cell junctions. 
+These effects were paralleled by increased recruitment of intestinal neutrophils 
+and CD4+ cells and also by a perturbation of the gut microbiota. Together, these 
+data implicate NSAIDs in the disruption of protective COX-mediated PG production 
+during CDI, resulting in altered epithelial integrity and associated immune 
+responses.IMPORTANCE Clostridium difficile infection (CDI) is a spore-forming 
+anaerobic bacterium and leading cause of antibiotic-associated colitis. 
+Epidemiological data suggest that use of nonsteroidal anti-inflammatory drugs 
+(NSAIDs) increases the risk for CDI in humans, a potentially important 
+observation given the widespread use of NSAIDs. Prior studies in rodent models 
+of CDI found that NSAID exposure following infection increases the severity of 
+CDI, but mechanisms to explain this are lacking. Here we present new data from a 
+mouse model of antibiotic-associated CDI suggesting that brief NSAID exposure 
+prior to CDI increases the severity of the infectious colitis. These data shed 
+new light on potential mechanisms linking NSAID use to worsened CDI, including 
+drug-induced disturbances to the gut microbiome and colonic epithelial 
+integrity. Studies were limited to a single NSAID (indomethacin), so future 
+studies are needed to assess the generalizability of our findings and to 
+establish a direct link to the human condition.

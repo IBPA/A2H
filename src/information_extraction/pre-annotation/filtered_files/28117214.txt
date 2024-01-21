@@ -1,0 +1,22 @@
+The Janus kinase (JAK) family of tyrosine kinases is associated with various 
+cytokine receptors. JAK1 and JAK3 play particularly important roles in the 
+immune response, and their inhibition is expected to provide targeted immune 
+modulation. Several oral JAK inhibitors have recently been developed for 
+treating autoimmune diseases, including rheumatoid arthritis (RA). Here, we 
+investigated the pharmacological effects of peficitinib (formerly known as 
+ASP015K), a novel, chemically synthesized JAK inhibitor. We found that 
+peficitinib inhibited JAK1 and JAK3 with 50% inhibitory concentrations of 3.9 
+and 0.7 nM, respectively. Peficitinib also inhibited IL-2-dependent T cell 
+proliferation in vitro and STAT5 phosphorylation in vitro and ex vivo. 
+Furthermore, peficitinib dose-dependently suppressed bone destruction and paw 
+swelling in an adjuvant-induced arthritis model in rats via prophylactic or 
+therapeutic oral dosing regimens. Peficitinib also showed efficacy in the model 
+by continuous intraperitoneal infusion. Area under the concentration versus time 
+curve (AUC) at 50% inhibition of paw swelling via intraperitoneal infusion was 
+similar to exposure levels of AUC at 50% inhibition via oral administration, 
+implying that AUC might be important for determining the therapeutic efficacy of 
+peficitinib. These data suggest that peficitinib has therapeutic potential for 
+the oral treatment of RA.
+
+Copyright © 2016 The Authors. Production and hosting by Elsevier B.V. All rights 
+reserved.

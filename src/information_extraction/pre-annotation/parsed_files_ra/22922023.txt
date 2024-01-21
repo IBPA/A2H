@@ -1,0 +1,17 @@
+Nanoparticle-based therapeutics are emerging technologies that have the 
+potential to greatly impact the treatment of many human diseases. However, drug 
+instability and premature release from the nanoparticles during circulation 
+currently preclude clinical translation. Herein, we use a lipase-labile (Sn 2) 
+fumagillin prodrug platform coupled with a unique lipid surface-to-surface 
+targeted delivery mechanism, termed contact-facilitated drug delivery, to 
+counter the premature drug release and overcome the inherent photo-instability 
+of fumagillin, an established anti-angiogenic agent. We show that 
+α(v)β(3)-integrin targeted fumagillin prodrug nanoparticles, administered at 0.3 
+mg of fumagillin prodrug/kg of body weight suppress the clinical disease indices 
+of KRN serum-mediated arthritis in a dose-dependent manner when compared to 
+treatment with the control nanoparticles with no drug. This study demonstrates 
+the effectiveness of this lipase-labile prodrug nanocarrier in a relevant 
+preclinical model that approximates human rheumatoid arthritis. The 
+lipase-labile prodrug paradigm offers a translatable approach that is broadly 
+applicable to many targeted nanosystems and increases the translational 
+potential of this platform for many diseases.

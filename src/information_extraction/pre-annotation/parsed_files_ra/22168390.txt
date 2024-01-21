@@ -1,0 +1,20 @@
+A significant decrease in tissue pH or acidosis is a common feature of numerous 
+diseases, including RA (rheumatoid arthritis). Cartilage homoeostasis is 
+profoundly affected by local acidosis in the joints. The diuretic, amiloride, is 
+neuroprotective in models of cerebral ischaemia, a property attributable to the 
+inhibition of ASICs (acid-sensing ion channels) by the drug. However, little is 
+known about the effect of amiloride on apoptosis induced by extracellular acid 
+in articular chondrocytes. We have found that amiloride could restrain the 
+acid-induced apoptosis of rat articular chondrocytes in vitro. Primary rat 
+articular chondrocytes were isolated, cultured and induced to apoptose by 
+exposure to extracellular solution (pH 6.0), while simultaneously treated with 
+50-200 μM amiloride. Apoptotic rate, mitochondrial function, levels of 
+apoptosis-related gene Bcl-2 family mRNA and activity of caspase 3/9 in 
+chondrocytes were examined. Amiloride inhibited chondrocyte apoptosis in a 
+dose-dependent manner. Furthermore, amiloride partly restored the levels of 
+mitochondrial membrane potential by regulation of Bcl-2 family gene mRNA 
+expression, and activity of caspase 3/9 in chondrocytes induced by extracellular 
+acid. Our results indicated that amiloride protected against acid-induced 
+apoptosis in rat articular chondrocytes by increasing anti-apoptotic ability and 
+down-regulation of pro-apoptotic factors, thus protecting mitochondrial 
+function.

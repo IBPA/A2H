@@ -1,0 +1,20 @@
+The growth and metastasis of human solid tumors and the development of 
+conditions such as diabetic retinopathy, rheumatoid arthritis, inflammatory 
+psoriasis, and others are regulated by the balance between angiogenic 
+stimulators and inhibitors released in the angiogenic-pathological 
+microenvironment. Vascular endothelial growth factor (VEGF), an angiogenic 
+factor, is a potent endothelial-specific mitogen that activates endothelial 
+cells in pathological angiogenesis. Recently, we demonstrated that caffeic acid 
+phenethyl ester (CAPE) inhibits tumor growth, invasion, and metastasis. However, 
+the precise molecular mechanism underlying the inhibitory effect of CAPE on 
+VEGF-mediated angiogenesis remains unknown. Here, we show that CAPE suppressed 
+VEGF-induced proliferation, tube formation, migration, the formation of actin 
+stress fibers and loss of VE-cadherin at cell-cell contacts in endothelial 
+cells, indicating the inhibition of VEGF-mediated VEGF receptor-2 (VEGFR-2) and 
+its downstream signal activation in vitro. CAPE blocked VEGF-stimulated 
+neovascularization in the Matrigel plugs assay, and reduced vascular 
+permeability in mouse skin capillaries in vivo. CAPE inhibited the growth and 
+neovascularization of primary tumor cells in C57BL/6 and BALB/c mice inoculated 
+with Lewis lung carcinoma, colon carcinoma, and melanoma cells. These results 
+suggest that CAPE negatively modulates VEGF-induced angiogenesis by suppressing 
+VEGFR-2 activation, and might be a therapeutic avenue for anti-angiogenesis.

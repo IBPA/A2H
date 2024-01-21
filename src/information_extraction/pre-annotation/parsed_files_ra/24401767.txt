@@ -1,0 +1,21 @@
+Disturbed expression of microRNAs (miRNAs) in regulatory T cells (Tregs) leads 
+to development of autoimmunity in experimental mouse models. However, the miRNA 
+expression signature characterizing Tregs of autoimmune diseases, such as 
+rheumatoid arthritis (RA) has not been determined yet. In this study, we have 
+used a microarray approach to comprehensively analyze miRNA expression 
+signatures of both naive Tregs (CD4+CD45RO-CD25++) and memory Tregs 
+(CD4+CD45RO+CD25+++), as well as conventional naive (CD4+CD45RO-CD25-) and 
+memory (CD4+CD45RO+CD25-) T cells (Tconvs) derived from peripheral blood of RA 
+patients and matched healthy controls. Differential expression of selected 
+miRNAs was validated by TaqMan-based quantitative reverse transcription-PCR. We 
+found a positive correlation between increased expression of miR-451 in T cells 
+of RA patients and disease activity score (DAS28), erythrocyte sedimentation 
+rate levels and serum levels of interleukin-6. Moreover, we found 
+characteristic, disease- and treatment-independent, global miRNA expression 
+signatures defining naive Tregs, memory Tregs, naive Tconvs and memory Tconvs. 
+The analysis allowed us to define miRNAs characteristic for a general naive 
+phenotype (for example, miR-92a) and a general memory phenotype (for example, 
+miR-21, miR-155). Importantly, the analysis allowed us to define miRNAs that are 
+specifically expressed in both naive and memory Tregs, defining as such miRNA 
+signature characterizing the Treg phenotype (that is, miR-146a, miR-3162, 
+miR-1202, miR-1246 and miR-4281).

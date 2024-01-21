@@ -1,0 +1,17 @@
+TNF-α plays a key role in the development of rheumatoid arthritis (RA) and 
+inflammatory bone loss. Unfortunately, treatment of RA with anti-inflammatory 
+glucocorticoids (GCs) also causes bone loss resulting in osteoporosis. Our 
+previous studies showed that overexpression of glucocorticoid-induced leucine 
+zipper (GILZ), a mediator of GC's anti-inflammatory effect, can enhance 
+osteogenic differentiation in vitro and bone acquisition in vivo. To investigate 
+whether GILZ could antagonize TNF-α-induced arthritic inflammation and protect 
+bone in mice, we generated a TNF-α-GILZ double transgenic mouse line (TNF-GILZ 
+Tg) by crossbreeding a TNF-α Tg mouse, which ubiquitously expresses human TNF-α, 
+with a GILZ Tg mouse, which expresses mouse GILZ under the control of a 3.6kb 
+rat type I collagen promoter fragment. Results showed that overexpression of 
+GILZ in bone marrow mesenchymal stem/progenitor cells protected mice from 
+TNF-α-induced inflammatory bone loss and improved bone integrity (TNF-GILZ 
+double Tg vs. TNF-αTg, n = 12-15). However, mesenchymal cell lineage restricted 
+GILZ expression had limited effects on TNF-α-induced arthritic inflammation as 
+indicated by clinical scores and serum levels of inflammatory cytokines and 
+chemokines.

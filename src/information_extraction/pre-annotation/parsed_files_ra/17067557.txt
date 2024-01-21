@@ -1,0 +1,20 @@
+We previously found that bee venom (BV) and melittin (a major component of BV) 
+has anti-inflammatory effect by reacting with the sulfhydryl group of p50 of 
+NF-kappaB. Since the sulfhydryl group is present in IkappaB kinase (IKKalpha and 
+IKKbeta), anti-inflammatory effect of melittin via interaction with IKKs was 
+investigated. We first examined binding of melittin to IKKs using surface 
+plasmon resonance analyzer. Melittin binds to IKKalpha (K(d) = 1.34 x 10(-9) M) 
+and IKKbeta (K(d) = 1.01 x 10(-9) M). Consistent with the high binding affinity, 
+melittin (5 and 10 microg/ml) and BV (0.5, 1 and 5 microg/ml) suppressed sodium 
+nitroprusside, TNF-alpha and LPS induced-IKKbeta and IKKbeta activities, IkappaB 
+release, and NF-kappaB activity as well as the expressions of iNOS and COX-2, 
+and the generation of nitric oxide (NO) and prostaglandin E(2) (PGE(2)) in Raw 
+264.7 mouse macrophages and synoviocytes obtained from rheumatoid arthritis 
+patients. The binding affinities of melittin to mutant IKKs, was reduced, and 
+the inhibitory effect of melittin on IKK and NF-kappaB activities, and NO and 
+PGE(2) generation were abrogated by the reducing agents or in Raw 264.7 
+transfected with mutant plasmid IKKalpha (C178A) or IKKbeta (C179A). These 
+results suggest that melittin binding to the sulfhydryl group of IKKs resulted 
+in reduced IKK activities, IkappaB release, NF-kappaB activity and generation of 
+inflammatory mediators, indicating that IKKs may be also anti-inflammatory 
+targets of BV.

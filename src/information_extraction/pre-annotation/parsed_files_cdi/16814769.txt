@@ -1,0 +1,15 @@
+Neurons extend neurites from the cell body before formation of the polarized 
+processes of an axon and dendrites. Neurite outgrowth involves remodeling of the 
+cytoskeletal components, which are initially regulated by small GTPases of the 
+Rho family. Here we show that c-Jun N-terminal kinase (JNK), which is controlled 
+by Rho GTPases Rac1 and Cdc42, is activated following neurite extension in mouse 
+N1E-115 neuroblastoma cells as a model. The extension is inhibited by JNK 
+inhibitors (SP600125 and the small JNK-binding peptide) and Clostridium 
+difficile Toxin B, the inhibitor for Rho GTPases. Additionally, paxillin, the 
+multifunctional focal adhesion protein, is phosphorylated at Ser 178 by 
+upregulation of the Rac1/Cdc42/JNK cascade. Conversely, transfection of the 
+paxillin construct harboring the Ser 178-to-Ala mutation into cells inhibits 
+neurite extension. Taken together, these results suggest the novel role of the 
+Rac1/Cdc42/JNK signaling cascade in neurite extension and indicate that the 
+downstream target paxillin may be one of the convergent points of various 
+signaling pathways underlying neurite extension.

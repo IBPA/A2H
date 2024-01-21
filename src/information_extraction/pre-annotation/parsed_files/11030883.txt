@@ -1,0 +1,24 @@
+HYPOTHESIS: Clostridium difficile toxins require interleukin 1 (IL-1) production 
+or a functioning IL-1 receptor to elicit acute-phase protein production by 
+murine hepatocytes.
+DESIGN: Experimental study.
+SETTING: Research laboratory at the DVA Medical Center, St Louis, Mo. CELLS 
+STUDIED: Hepatocytes prepared from normal mice, from knockout mice deficient in 
+IL-1 production due to loss of IL-1 converting enzyme, or from knockout mice 
+deficient in the IL-1 p80 receptor.
+INTERVENTIONS: Cells were treated with lipopolysaccharide, a crude C difficile 
+toxin extract, or purified C difficile toxins A or B for 24 hours in vitro, then 
+radiolabeled with (35)S methionine. Newly synthesized acute-phase proteins were 
+identified by electrophoresis and autoradiography.
+MAIN OUTCOME MEASURES: Synthesis of a 23-kd acute-phase protein in response to 
+the various stimuli.
+RESULTS: Lipopolysaccharide, C difficile culture extract, and purified toxins A 
+and B stimulated the synthesis of the 23-kd acute-phase protein by hepatocytes 
+from normal mice and by hepatocytes from knockout mice deficient in the IL-1 
+converting enzyme. However, hepatocytes from knockout mice deficient in the IL-1 
+p80 receptor failed to produce this acute-phase protein when treated with the C 
+difficile toxins, although they responded fully to lipopolysaccharide.
+CONCLUSIONS: Stimulation of acute-phase protein synthesis by C difficile toxins 
+does not require IL-1 production, but does require a functioning IL-1 p80 
+receptor. This suggests that some of the actions of these toxins are mediated by 
+this receptor.

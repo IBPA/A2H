@@ -1,0 +1,22 @@
+It has been reported that reactive oxygen species (ROS) play a role as 
+intracellular signaling molecules in RANKL stimulation. Previously we 
+demonstrated that induction of cytoprotective enzyme expression by Nrf2-gene 
+transfer successfully ameliorated RANKL-dependent osteoclastogenesis. In the 
+present study, we hypothesized that Nrf2 activation by inhibiting ubiquitination 
+and degradation of Nrf2 by ETGE-peptide would induce Nrf2-dependent 
+cytoprotective enzyme expression, attenuate ROS signaling, and thereby inhibit 
+RANKL-dependent osteoclastogenesis. ETGE-peptide containing a cell-permeable 
+sequence (seven consecutive arginine; 7R-ETGE) was applied to a mouse macrophage 
+cell-line RAW 264.7 cell or a primary macrophage culture. ETGE-peptide prevents 
+Keap1 from binding to Nrf2. Nrf2 nuclear translocation and Nrf2-dependent 
+cytoprotective enzyme induction was observed. The effects of 7R-ETGE on 
+RANKL-dependent induction of intracellular ROS levels and osteoclastogenesis 
+were examined. Finally, the protective effect of 7R-ETGE on RANKL-mediated bone 
+destruction was investigated in mice. 7R-ETGE dose-dependently induced nuclear 
+Nrf2, followed by the induction of cytoprotective enzyme expression at both the 
+gene and protein level. 7R-ETGE inhibited upregulation of intracellular ROS 
+levels by RANKL stimulation, and osteoclastogenesis was attenuated. Of 
+particular interest was that local injection of 7R-ETGE ameliorated 
+RANKL-mediated bone destruction. Local induction of nuclear Nrf2 by protein 
+transduction is a potential novel therapeutic target for bone destruction 
+diseases such as periodontitis and rheumatoid arthritis.

@@ -1,0 +1,23 @@
+There is mounting evidence for a role of the growth factor 
+granulocyte-macrophage colony-stimulating factor (GM-CSF) in inflammatory 
+disease, including arthritis. In the present study, we examined the 
+effectiveness of treatment of collagen-induced arthritis (CIA) with a 
+neutralizing mAb to GM-CSF. DBA/1 mice were immunized for the development of CIA 
+and treated at different times, and with different doses, with neutralizing mAb 
+to GM-CSF or isotype control mAb. Anti-GM-CSF mAb treatment prior to the onset 
+of arthritis, at the time of antigen challenge, was effective at ameliorating 
+the ensuing disease. Modulation of arthritis was seen predominantly as a 
+reduction in overall disease severity, both in terms of the number of limbs 
+affected per mouse and the clinical score of affected limbs. Importantly, 
+anti-GM-CSF mAb treatment ameliorated existing disease, seen both as a reduction 
+in the number of initially affected limbs progressing and lower numbers of 
+additional limbs becoming affected. By histology, both inflammation and 
+cartilage destruction were reduced in anti-GM-CSF-treated mice, and the levels 
+of tumor necrosis factor-a and IL-1beta were also reduced in joint tissue 
+washouts of these mice. Neither humoral nor cellular immunity to type II 
+collagen, however, was affected by anti-GM-CSF mAb treatment. These results 
+suggest that the major effect of GM-CSF in CIA is on mediating the effector 
+phase of the inflammatory reaction to type II collagen. The results also 
+highlight the essential role of GM-CSF in the ongoing development of 
+inflammation and arthritis in CIA, with possible therapeutic implications for 
+rheumatoid arthritis.

@@ -1,0 +1,16 @@
+Mucosal immunizations are convenient ways of vaccination, which do not require 
+any trained personnel for administration. One of the major challenges for 
+developing an effective mucosal vaccine is finding appropriate adjuvant. 
+Bacillus subtilis endospores have been shown to help solving these obstacles 
+while serving as a platform for presentation of both, antigens and adjuvants. In 
+this study, we have successfully designed and constructed recombinant spores 
+displaying an antigen/adjuvant chimeric protein. We have used a fragment of 
+Clostridium difficile flagellar cap FliD protein as antigen and VQGEESNDK 
+peptide, a fragment of human IL-1β, as adjuvant. Recombinant spores presenting 
+FliD were able to elicit immune response in orally immunized mice which could be 
+evaluated by detection of FliD-specific IgA antibodies in feces of immunized 
+animals. Moreover, the presence of IL-1β fragment significantly changed 
+characteristics of elicited immune response. Obtained results show that 
+recombinant spores presenting an antigen/adjuvant chimeric protein exhibit both 
+properties in mucosal immunization of mice. Moreover, IL-1β fragment could serve 
+as valuable adjuvant in B. subtilis spore-based mucosal vaccines.

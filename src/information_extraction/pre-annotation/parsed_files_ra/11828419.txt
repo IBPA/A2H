@@ -1,0 +1,22 @@
+A C-linked isostere of beta-D-galactosylated hydroxynorvaline has been prepared 
+in eight steps from per-O-benzylated galactopyranolactone. Addition of a 
+homoallylic Grignard reagent to the lactone, reduction of the resulting 
+hemiacetal with triethylsilane, and a Wittig reaction with Garner's aldehyde 
+were key steps in this synthesis. The C-linked building block was then 
+incorporated at position 264 into the fragment CII(256--270) from typeII 
+collagen by solid-phase synthesis using a combination of the tert-butoxycarbonyl 
+(Boc) and 9-fluorenylmethoxycarbonyl (Fmoc) protective group strategies. 
+Deprotection of the benzylated C-linked galactosyl moiety was achieved 
+simultaneously with cleavage of the glycopeptide from the solid phase by using 
+triethylsilyl trifluoromethanesulfonate in TFA. Helper T-cell hybridomas 
+obtained in a mouse model for rheumatoid arthritis responded to the C-linked 
+glycopeptide when presented by classII MHC molecules. However, 10- to 20-fold 
+higher concentrations were required as compared to when O-linked 
+beta-D-galactosylated hydroxynorvaline or hydroxylysine (Hyl) were present at 
+position 264 of CII(256--270). Thus, replacement of a single oxygen atom by a 
+methylene group in the carbohydrate moiety of a glycopeptide antigen had a 
+substantial influence on the T-cell response. This reveals that T cells are able 
+to recognize the carbohydrate moiety of glycopeptide antigens with high 
+specificity. Finally, the results suggest that structural modifications of 
+beta-D-Gal-Hyl(264) in CII(256--270) may give altered peptide ligands that can 
+be used for induction of tolerance in autoimmune rheumatoid arthritis.

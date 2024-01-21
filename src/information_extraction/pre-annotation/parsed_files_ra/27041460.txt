@@ -1,0 +1,27 @@
+AIM: Hyperoside is a flavonol glycoside mainly found in plants of the genera 
+Hypericum and Crataegus, which has shown anti-oxidant, anti-cancer and 
+anti-inflammatory activities. In this study, we investigated the effects of 
+hyperoside on human rheumatoid fibroblast-like synoviocytes (FLSs) in vitro and 
+on mouse collagen-induced arthritis (CIA) in vivo.
+METHODS: FLSs were isolated from primary synovial tissues obtained from 
+rheumatoid arthritis (RA) patients and exposed to LPS (1 μg/mL). Cell viability 
+and proliferation were measured with MTT and BrdU assay. Cell migration was 
+assessed using wound-healing assay and Transwell assay. DNA binding of NF-κB was 
+measured using a TransAM-NFkappaB kit. The localization of p65 subunit was 
+detected with immunocytochemistry. CIA was induced in mice by primary 
+immunization with Bovine Type II collagen (CII) emulsified in CFA, followed by a 
+booster injection 3 weeks later. The arthritic mice were treated with hyperoside 
+(25, 50 mg·kg(-1)·d(-1), ip) for 3 weeks, and the joint tissues were harvested 
+for histological analysis.
+RESULTS: Hyperoside (10, 50, 100 μmol/L) dose-dependently inhibited LPS-induced 
+proliferation and migration of human RA FLSs in vitro. Furthermore, hyperoside 
+decreased LPS-stimulated production of TNF-α, IL-6, IL-1 and MMP-9 in the cells. 
+Moreover, hyperoside inhibited LPS-induced phosphorylation of p65 and IκBα, and 
+suppressed LPS-induced nuclear translocation of p65 and DNA biding of NF-κB in 
+the cells. Three-week administration of hyperoside significantly decreased the 
+clinical scores, and alleviated synovial hyperplasia, inflammatory cell 
+infiltration and cartilage damage in mice with CIA.
+CONCLUSION: Hyperoside inhibits LPS-induced proliferation, migration and 
+inflammatory responses in human RA FLSs in vitro by suppressing activation of 
+the NF-κB signaling pathway, which contributes to the therapeutic effects 
+observed in mice with CIA.

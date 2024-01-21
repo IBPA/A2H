@@ -1,0 +1,18 @@
+Approximately 25% of mature T cells possess two distinct cytoplasmic T cell 
+receptor (TCR) alpha-chains, due to productive gene rearrangements of both 
+alleles. Expression of two different alpha-chains at the cell surface is a 
+potential risk factor for development of autoimmunity. However, it has been 
+difficult to determine the frequency of peripheral T cells with two different 
+alpha-chains at the surface. Our new approach is based on comparing by flow 
+cytometry the percentage of cells that express a given Valpha-chain between 
+wild-type mice and mice that are hemizygous for a disrupted Tcra locus (Tcra+/-) 
+and consequently unable to express two rearranged Tcra genes. We consistently 
+found that approximately 8% of total peripheral T cells express two surface 
+alpha-chains. The importance of dual alpha-T cells in autoimmunity was examined 
+in a mouse model for rheumatoid arthritis, namely collagen-induced arthritis 
+(CIA). No significant difference was observed between Tcra+/- mice and wild-type 
+littermates, considering arthritis incidence, day of disease onset, and maximum 
+arthritic score. We therefore conclude that there is incomplete phenotypic 
+allelic exclusion in TCRalpha, and that the presence of a significant number of 
+potentially multireactive T cells does not increase the susceptibility to 
+develop autoimmune arthritis.

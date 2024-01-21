@@ -1,0 +1,24 @@
+OBJECTIVE: Bone formation and destruction are usually tightly linked; however, 
+in disorders such as rheumatoid arthritis, periodontal disease, and 
+osteoporosis, elevated osteoclast activity leads to bone destruction. Osteoclast 
+formation and activation are controlled by many signaling pathways, including 
+p38 MAPK. Dual-specificity phosphatase 1 (DUSP-1) is a factor involved in the 
+negative regulation of p38 MAPK. The purpose of this study was to examine the 
+effect of Dusp1 deficiency on bone destruction.
+METHODS: Penetrance, onset, and severity of collagen-induced arthritis were 
+recorded in DUSP-1+/+ and DUSP-1-/- mice. Bone destruction was assessed by 
+histologic and micro-computed tomographic examination of the joints. The in 
+vitro formation and activation of osteoclasts from DUSP-1+/+ and DUSP-1-/- 
+precursors were assessed in the absence or presence of tumor necrosis factor 
+(TNF).
+RESULTS: The formation and activation of osteoclasts in vitro in the presence of 
+TNF were enhanced by Dusp1 gene disruption. DUSP-1-/- mice exhibited higher 
+penetrance, earlier onset, and increased severity of experimental arthritis, 
+accompanied by greater numbers of osteoclasts in inflamed joints and more 
+extensive loss of bone. A DUSP-1-/- mouse colony of mixed genetic background 
+also demonstrated striking spontaneous osteolytic destruction of distal 
+phalanges.
+CONCLUSION: DUSP-1 is a critical regulator of osteoclast activity and limits 
+bone destruction in an experimental model of rheumatoid arthritis. Defects in 
+the expression or activity of DUSP1 in humans may correlate with a propensity to 
+develop osteolytic lesions in arthritis.

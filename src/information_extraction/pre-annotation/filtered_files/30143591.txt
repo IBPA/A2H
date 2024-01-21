@@ -1,0 +1,22 @@
+IL-2 induces regulatory T cells (Tregs) and reduces disease severity, such as in 
+graft-versus-host disease and systemic lupus erythematosus. To investigate the 
+regulatory network of IL-2 in rheumatoid arthritis, we examined the effects of 
+IL-2-anti-IL-2 mAb immune complexes (IL-2ICs) in a rheumatoid arthritis model of 
+collagen-induced arthritis (CIA). CIA was induced in male DBA/1 mice by two 
+immunizations with type II collagen at 3-wk intervals. IL-2ICs were prepared by 
+mixing 5 μg of an anti-IL-2 mAb (clone JES6-1D) with 1 μg of mouse IL-2 and were 
+injected i.p. every day for 3 d. Mouse paws were scored for arthritis using a 
+macroscopic scoring system. Th1, Th2, Th17, and Tregs were analyzed by flow 
+cytometry. Joint histopathology was examined by H&E and immunohistochemical 
+staining. Treg functions were examined by studying in vitro suppression using 
+flow cytometry. IL-2IC administration effectively elicited a 1.6-fold expansion 
+of CD4+Foxp3+ Tregs in peripheral blood cells relative to that found in control 
+mice. IL-2IC treatment significantly inhibited arthritis in CIA mice. 
+Histopathological examination of joints revealed inhibited synovial cell 
+proliferation and IL-17, IL-6, and TNF-α levels but increased Foxp3+ Tregs after 
+IL-2IC treatment. Flow cytometric examination of spleen cells revealed reduced 
+IFN-γ- and IL-17-producing cells and increased IL-10-producing Tregs after 
+IL-2IC treatment. The suppressive activities of CD4+CD25+ Tregs induced by 
+IL-2ICs were stronger than those in untreated mice. IL-2ICs inhibited arthritis 
+by augmenting not only Treg numbers but also Treg functions, which play 
+regulatory roles in autoimmune arthritis.

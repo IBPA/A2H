@@ -1,0 +1,19 @@
+BACKGROUND & AIMS: Intestinal inflammation is associated with increased 
+synthesis of nitric oxide, whereas inhibition of NO synthase (NOS) reduces 
+experimental chronic intestinal inflammation. The aim of this study was to test 
+the effects of NO blockers and donors on acute intestinal inflammation induced 
+by Clostridium difficile toxin A in rat ileum.
+METHODS: Rats received NOS inhibitors or NO donors before measurement of 
+toxin-mediated ileal secretion and permeability changes. Mucosal mast cell and 
+neutrophil activity were measured by release of rat mast cell protease II and 
+myeloperoxidase activity, respectively.
+RESULTS: NOS inhibitors augmented but an NO donor inhibited toxin A-mediated 
+ileal secretion and permeability when given before but not after toxin 
+administration. Neither an NOS inhibitor nor an NO donor had any effect on 
+cholera toxin-mediated secretion. Mast cell degranulation and neutrophil 
+infiltration occurred after injection of toxin A or an NOS inhibitor, whereas 
+the NO donor blocked both toxin A effects.
+CONCLUSIONS: NOS inhibitors augmented and an NO donor blocked the intestinal 
+effects of toxin A but not of cholera toxin. NO protects against toxin A by 
+inhibition of intestinal mast cells and neutrophils, which are activated by 
+toxin A, but not by cholera toxin.

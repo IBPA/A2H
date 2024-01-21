@@ -1,0 +1,26 @@
+Cytopenias occur frequently in systemic lupus erythematosus, rheumatoid 
+arthritis, Felty's syndrome, and large granular lymphocyte (LGL) leukemia, but 
+the bone marrow microenvironment has not been systematically studied. In LGL 
+leukemia (n = 24), retrospective analysis of bone marrow (BM) histopathology 
+revealed severe fibrosis in 15 of 24 patients (63%) in association with the 
+presence of cytopenias, occurrence of autoimmune diseases, and splenomegaly, but 
+was undetectable in control cases with B cell malignancies (n = 11). Fibrosis 
+severity correlated with T cell LGL cell numbers in the BM, but not in the 
+periphery, suggesting deregulation is limited to the BM microenvironment. To 
+identify fibrosis-initiating populations, primary mesenchymal stromal cultures 
+(MSCs) from patients were characterized and found to display proliferation 
+kinetics and overabundant collagen deposition, but displayed normal telomere 
+lengths and osteoblastogenic, chondrogenic, and adipogenic differentiation 
+potentials. To determine the effect of fibrosis on healthy hematopoietic 
+progenitor cells (HPCs), bioartificial matrixes from rat tail or purified human 
+collagen were found to suppress HPC differentiation and proliferation. The 
+ability of patient MSCs to support healthy HSC proliferation was significantly 
+impaired, but could be rescued with collagenase pretreatment. Clustering 
+analysis confirmed the undifferentiated state of patient MSCs, and pathway 
+analysis revealed an inverse relationship between cell division and profibrotic 
+ontologies associated with reduced basic fibroblast growth factor production, 
+which was confirmed by ELISA. Reconstitution with exogenous basic fibroblast 
+growth factor normalized patient MSC proliferation, collagen deposition, and HPC 
+supportive function, suggesting LGL BM infiltration and secondary accumulation 
+of MSC-derived collagen is responsible for hematopoietic failure in 
+autoimmune-associated cytopenias in LGL leukemia.

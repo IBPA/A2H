@@ -1,0 +1,22 @@
+AIM: To develop and characterize an RGD peptide functionalized 
+poly(lactide-co-glycolytic) acid (PLGA) nanosystem to deliver a STAT1 siRNA to 
+joint tissues in a mouse model of rheumatoid arthritis.
+METHODS: RGD-PLGA polymer was synthesized and used in preparing functionalized 
+nanoparticles loaded with either tracking material or siRNA. The properties of 
+the nanoparticles and stability of siRNA after encapsulation was assessed. 
+Nanoparticle distribution was determined both noninvasively and based on 
+analysis of dissected organs from arthritic and healthy mice. Arthritic mice 
+were treated with weekly doses of STAT1 siRNA-loaded nanoparticles or controls. 
+Clinical disease was assessed. Paws of arthritic mice were sectioned for 
+histology or processed for RNA. STAT1, Mrc-1, and IL-10 mRNA abundance was 
+determined by quantitative PCR.
+RESULTS: Nanoparticles protected the siRNA from serum degradation. The presence 
+of RGD peptide on the nanoparticles increased paw tissue uptake in arthritic 
+mice. Furthermore, RGD functionalization increased lung delivery of 
+nanoparticles in arthritic mice but not in control mice. Disease regressed in 
+the STAT1 siRNA-treated animals and progressed in all control groups. STAT1 mRNA 
+levels were decreased in paws of treated animals, while Mrc-1 and IL-10 mRNA 
+levels were increased.
+CONCLUSION: RGD functionalized PLGA nanoparticles encapsulating STAT1-targeted 
+siRNAs are efficacious in the treatment of established arthritis, possibly 
+through a selective inhibition of macrophage and dendritic cell activation.

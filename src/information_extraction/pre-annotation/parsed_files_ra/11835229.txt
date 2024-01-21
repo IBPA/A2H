@@ -1,0 +1,34 @@
+BACKGROUND: Pharmacological antagonism of VLA-4 (Very Late Antigen 4, 
+alpha(4)beta(1) integrin) has become an attractive target for the treatment of 
+predominantly eosinophil mediated disease states such as asthma, allergic 
+rhinitis, multiple sclerosis, rheumatoid arthritis, diabetes, and inflammatory 
+bowel disease. Gene knockouts of the alpha(4)-integrin subunit of VLA-4 or its 
+cell surface ligand, VCAM-1, however, have been shown to result in 
+embryo-lethality in homozygous null mice due to defects in chorio-allantoic or 
+epi-myocardial fusion. Although gene knockout phenotypes are not always 
+manifested by pharmacological antagonism, those studies suggested that VLA-4 
+antagonists might cause embryo-lethality or drug-induced malformations.
+METHODS: To test these concepts, early neurulating rat embryos were cultured by 
+the methods of New ('78) after intra-coelomic microinjection of a VLA-4 blocking 
+antibody or in the presence of small molecule VLA-4 antagonists.
+RESULTS: Defects in chorio-allantoic fusion were induced after microinjection of 
+VLA4 blocking antibody and after continuous exposure to small molecule 
+antagonists. In a minority of affected embryos chorio-allantoic fusion was 
+completely blocked whereas the majority of affected embryos had only superficial 
+chorio-allantoic fusion and the allantois was enlarged and edematous. Although 
+the allantoic mesoderm covered the trophoblasts of the chorionic plate and 
+contained blood vessels there was only minimal invasion of the trophoblasts by 
+the allantoic mesoderm. The lowest observed effect level generally correlated 
+with the IC(approximately 95), as determined in 90% plasma.
+DISCUSSION: Based on these data, VLA-4 antagonism might represent a significant 
+risk to the developing embryo/fetus. In vitro exposure, however, is "constant" 
+and does not take into account the elimination phase of these xenobiotics in 
+vivo. Given the high concentrations required to elicit an effect, therapeutic 
+blood levels in vivo may be several fold lower than those that affect the 
+conceptus, depending on the tissue penetration of the compound and the route of 
+administration. VLA-4 also exists in a range of conformations and activation 
+states in vivo and the gene KOs and present studies do not define whether these 
+developmental processes are dependent upon a particular activation state of 
+VLA-4. Therefore, state-selective antagonists may have an improved embryonic 
+safety profile. Additional studies will be required to determine potential 
+effects of VLA-4 antagonists on embryo/fetal development in vivo.

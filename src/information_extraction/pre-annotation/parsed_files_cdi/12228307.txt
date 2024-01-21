@@ -1,0 +1,24 @@
+Clostridium difficile is the etiological agent of antibiotic-associated 
+diarrhea, a potentially serious condition frequently affecting elderly 
+hospitalized patients. While tissue damage is primarily induced by two toxins, 
+the mechanism of gut colonization, and particularly the role of bacterial 
+adherence to the mucosa, remains to be clarified. Previous studies have shown 
+binding of C. difficile whole cells to cultured cell lines and suggested the 
+existence of multiple adhesins, only one of which has been molecularly 
+characterized. In this paper, we have investigated tissue binding of C. 
+difficile surface layer proteins (SLPs), which are the predominant outer surface 
+components and are encoded by the slpA gene. The adherence of C. difficile to 
+HEp-2 cells was studied by enzyme-linked immunosorbent assay and 
+fluorescence-activated cell sorter analysis, which showed that antibodies to the 
+high-molecular-weight (MW) SLP inhibited adherence. Immunohistochemical analysis 
+of human gastrointestinal tissue sections revealed strong binding both to the 
+surface epithelium lining the digestive cavities and to the subjacent lamina 
+propria, while glands were negative. A similar pattern was observed in the 
+mouse. By using purified recombinant SLPs, we show that binding is largely 
+mediated by the high-MW SLP. By Western blotting analysis, we have identified 
+two potential ligands of the C. difficile SLPs, one of which may be specific to 
+the gut. By using purified extracellular matrix components immobilized on 
+nitrocellulose, we also show SLP binding to collagen I, thrombospondin, and 
+vitronectin, but not to collagen IV, fibronectin, or laminin. These results 
+raise the possibility that the SLPs play a role both in the initial colonization 
+of the gut by C. difficile and in the subsequent inflammatory reaction.

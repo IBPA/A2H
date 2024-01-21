@@ -1,0 +1,19 @@
+Clostridium difficile TcdB is a key virulence factor that causes C. 
+difficile-associated diseases. Our previous studies have shown that recombinant 
+full-length TcdB (rTcdB) induces cell death in CT26 cells, and rTcdB-treated 
+CT26 cells with high immunogenicity could stimulate dendritic cell (DC) 
+activation and T cell activation in vitro. The rTcdB-treated CT26 cells also 
+induce antitumor immunity in mice and protect mice from CT26 cells. 
+High-mobility group box 1 protein (HMGB1) is a non-histone nuclear protein, 
+which has various biological functions within the nucleus and also acts as an 
+extracellular signal molecule involving in inflammatory diseases, cancers or 
+autoimmune diseases. In this study, HMGB1 was found to be released from the 
+rTcdB-treated CT26 cells. HMGB1 knockdown by using specific siRNA weakened the 
+capacity of the BMDCs loaded with the rTcdB-treated CT26 cells to prime T cells 
+in vitro and in vivo. The released HMGB1 from CT26 cells could interact with the 
+receptor TLR4, which is closely related to DC activation and immune responses. 
+The knockdown of HMGB1 also affected the phagocytosis of the rTcdB-treated CT26 
+cells by DCs in vitro. Furthermore, HMGB1 weakened the antitumor immunity of the 
+rTcdB-treated CT26 cells, which protects mice from rechallenge of the live CT26 
+cells. Taken together, these results suggest that HMGB1 plays an important role 
+on the immunogenicity of the rTcdB-treated dying CT26 cells.

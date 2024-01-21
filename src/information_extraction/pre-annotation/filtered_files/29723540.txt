@@ -1,0 +1,25 @@
+The serotonin transporter (SERT) facilitates high affinity reuptake of 5-HT from 
+the extracellular fluid and dysregulation of transporter function has been 
+implicated in a range of mood disorders including depression. Recent studies 
+have linked immune system activation to depression as well as to altered 
+serotonin transporter activity. Advancing previous studies, which have mainly 
+focussed on acute effects of immune system activation, in this study we used 
+collagen-induced arthritis (CIA) in mice as a model of chronic inflammatory 
+disease, to investigate the effect of prolonged inflammation on brain SERT 
+function and behaviour. We found that 5-6 weeks after immunisation, CIA mice 
+display anhedonia, a core depression-like behaviour. Behavioural symptoms are 
+temporally correlated with a region-specific upregulation of SERT activity in 
+the hippocampus, which occurs at a post-translational level and is independent 
+of SERT trafficking. Kinetic analysis of 5-HT uptake revealed that the elevation 
+of transporter activity is due to an increase in 5-HT transport capacity (Vmax) 
+with no change in apparent Km values, suggesting that different regulatory 
+mechanisms govern SERT modulation under chronic versus acute inflammatory 
+conditions. Protein expression of tumour necrosis factor receptor 1 (TNFR1) was 
+specifically upregulated in the hippocampus of CIA mice, indicating altered TNFα 
+signalling. Anti-TNFα treatment using etanercept not only diminished joint 
+inflammation, but also prevented the development of anhedonia and the 
+upregulation of SERT activity in the hippocampus, suggesting a key role for TNFα 
+signalling in brain function regulation in this disease model. Our study 
+provides novel insight into molecular mechanisms underlying mood symptoms in 
+chronic inflammatory diseases, with particular relevance to rheumatoid 
+arthritis.

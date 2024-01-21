@@ -1,0 +1,18 @@
+Recombinant simian IL-15 (siIL-15) was obtained for the preclinical assessment 
+of an anti-human IL-15 vaccine. For this purpose, the cDNA from peripheral blood 
+mononuclear cells of a Macaca fascicularis monkey was cloned into a pIL-2 
+vector. The siIL-15 was expressed in Escherichia coli strain W3110 as an 
+insoluble protein which accounted for 13% of the total cellular proteins. 
+Inclusion bodies were solubilized in an 8 M urea solution, which was purified by 
+ion exchange and reverse phase chromatography up to 92% purity. The protein 
+identity was validated by electrospray ionization-mass spectrometry, confirming 
+the presence of the amino acids which distinguish the siIL-15 from human IL-15. 
+The purified siIL-15 stimulates the proliferation of cytotoxic T-lymphocytes 
+line (CTLL)-2 and Kit 225 cells with EC50 values of 3.1 and 32.5 ng/mL, 
+respectively. Antisera from modified human IL-15-immunized macaques were 
+reactive to human and simian IL-15 in enzyme-linked immunosorbent assays. 
+Moreover, the anti-human IL-15 antibodies from immune sera inhibited siIL-15 
+activity in CTLL-2 and Kit 225 cells, supporting the activity and purity of 
+recombinant siIL-15. These results indicate that the recombinant siIL-15 is 
+biologically active in two IL-15-dependent cell lines, and it is also suitable 
+for the preclinical evaluation of an IL-15-based therapeutic vaccine.

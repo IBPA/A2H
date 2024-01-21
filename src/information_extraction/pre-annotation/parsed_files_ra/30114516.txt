@@ -1,0 +1,19 @@
+ETHNOPHARMACOLOGICAL RELEVANCE: Paederia scandens (Lour.) Merr. (P. scandens) 
+has been traditionally used to treat the pain of rheumatism.
+AIM OF THE STUDY: The purpose of this study was to investigate the possible 
+influences of P. scandens on the progression of rheumatoid arthritis (RA), 
+inflammatory responses and gut bacterial communities in RA mouse model.
+MATERIALS AND METHODS: collagen-induced arthritis (CIA) mice were orally 
+administered with P. scandens extract (PSE) for 24 days. Then, pro-inflammatory 
+cytokine levels in the serum were measured, and gut microbiota was examined with 
+Illumina HiSeq.
+RESULTS: Compared with the vehicle group, PSE significantly inhibited paw 
+swelling and reduced arthritis score. Histological examination of ankle soft 
+tissue of demonstrated PSE effectively inhibited the tissue fibrosis and 
+inflammatory cell infiltration. The increased serum levels of TNF-α, IL-1β, 
+IL-6, IL-7, and IL-23 in RA mice were significantly suppressed by PSE. Moreover, 
+PSE treatment help restore gut microbial ecosystem altered in RA mice including 
+decreasing relative abundance of inflammatory related microorganisms, 
+Desulfovibrio, Mucispirillum, Helicobacter, and Lachnospiraceae.
+CONCLUSION: These results suggest that PSE has therapeutic effects in RA mice 
+with CIA, showing the potential as anti-arthritis reagent.

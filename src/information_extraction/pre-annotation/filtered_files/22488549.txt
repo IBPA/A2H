@@ -1,0 +1,26 @@
+OBJECTIVE: Inhibitors of p38 demonstrate limited benefit in rheumatoid arthritis 
+(RA), perhaps due to the antiinflammatory functions of p38α. This study was 
+performed to determine if selective deletion of p38α in macrophages affects the 
+severity of arthritis and whether blocking upstream kinases in the p38 pathway, 
+such as MKK-3 or MKK-6, avoids some of the limitations of p38 blockade.
+METHODS: Wild-type (WT) mice and mice with selective deletion of p38α in 
+macrophages (p38α(ΔLysM) ) were injected with K/BxN sera. Antigen-induced 
+arthritis was also induced in p38α(ΔLysM) mice. Mouse joint extracts were 
+evaluated by enzyme-linked immunosorbent assay, quantitative polymerase chain 
+reaction (qPCR), and Western blot analysis. Bone marrow-derived macrophages 
+(BMMs) were stimulated with lipopolysaccharide (LPS) and were evaluated by qPCR 
+and Western blotting. Bone marrow chimeras were generated using MKK-3(-/-) and 
+MKK-6(-/-) mice, and K/BxN serum was administered to induce arthritis.
+RESULTS: Compared to WT mice, p38α(ΔLysM) mice had increased disease severity 
+and delayed resolution of arthritis, which correlated with higher synovial 
+inflammatory mediator expression and ERK phosphorylation. In contrast to WT BMMs 
+cultured in the presence of a p38α/β inhibitor, LPS-stimulated MKK-6- and 
+MKK-3-deficient BMMs had suppressed LPS-mediated interleukin-6 (IL-6) expression 
+but had normal IL-10 production, dual-specificity phosphatase 1 expression, and 
+MAPK phosphorylation. WT chimeric mice with MKK-6- and MKK-3-deficient bone 
+marrow had markedly decreased passive K/BxN arthritis severity.
+CONCLUSION: Inhibiting p38α in a disease that is dominated by macrophage 
+cytokines, such as RA, could paradoxically suppress antiinflammatory functions 
+and interfere with clinical efficacy. Targeting an upstream kinase that 
+regulates p38 could be more effective by suppressing proinflammatory cytokines 
+while preventing decreased IL-10 expression and increased MAPK activation.

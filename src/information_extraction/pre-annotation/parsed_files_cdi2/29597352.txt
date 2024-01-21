@@ -1,0 +1,24 @@
+Clostridium difficile infection (CDI) is the primary cause of nosocomial 
+diarrhea in the United States. Although C. difficile toxins A and B are the 
+primary mediators of CDI, the overall pathophysiology underlying C. 
+difficile-associated diarrhea remains poorly understood. Studies have shown that 
+a decrease in both NHE3 (Na+/H+ exchanger) and DRA (downregulated in adenoma, 
+Cl-/[Formula: see text] exchanger), resulting in decreased electrolyte 
+absorption, is implicated in infectious and inflammatory diarrhea. Furthermore, 
+studies have shown that NHE3 is depleted at the apical surface of intestinal 
+epithelial cells and downregulated in patients with CDI, but the role of DRA in 
+CDI remains unknown. In the current studies, we examined the effects of C. 
+difficile toxins TcdA and TcdB on DRA protein and mRNA levels in intestinal 
+epithelial cells (IECs). Our data demonstrated that DRA protein levels were 
+significantly reduced in response to TcdA and TcdB in IECs in culture. This 
+effect was also specific to DRA, as NHE3 and PAT-1 (putative anion transporter 
+1) protein levels were unaffected by TcdA and TcdB. Additionally, purified TcdA 
+and TcdA + TcdB, but not TcdB, resulted in a decrease in colonic DRA protein 
+levels in a toxigenic mouse model of CDI. Finally, patients with recurrent CDI 
+also exhibited significantly reduced expression of colonic DRA protein. 
+Together, these findings indicate that C. difficile toxins markedly downregulate 
+intestinal expression of DRA which may contribute to the diarrheal phenotype of 
+CDI. NEW & NOTEWORTHY Our studies demonstrate, for the first time, that C. 
+difficile toxins reduce DRA protein, but not mRNA, levels in intestinal 
+epithelial cells. These findings suggest that a downregulation of DRA may be a 
+critical factor in C. difficile infection-associated diarrhea.

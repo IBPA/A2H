@@ -1,0 +1,20 @@
+TNF-related apoptosis-inducing ligand (TRAIL) is a death ligand that can induce 
+apoptosis in cells expressing its cognate death receptors (DRs). Previously, we 
+demonstrated the therapeutic potential of recombinant human TRAIL in 
+experimental rheumatoid arthritis (RA) models. However, the mechanisms of how 
+DR-mediated apoptosis elicits these actions is not known. Here, we show that 
+systemically administering a potent, long-acting PEGylated TRAIL (TRAILPEG) is 
+profoundly anti-rheumatic against two complementary experimental RA mouse 
+models, collagen-induced arthritis (CIA) and collagen antibody-induced arthritis 
+(CAIA), via targeting IL-17 secreting Th17 cells and regulatory T cells (Treg). 
+Systemic administration of TRAILPEG after disease onset ameliorated the severity 
+of inflammatory arthritis including arthritis indices, paw thickness, cartilage 
+damage and neutrophil infiltration in both CIA and CAIA models. Additionally, 
+the levels of inflammatory molecules (p-p65, ICAM-1, Cox-2, MMP3, and iNOS), 
+pro-inflammatory cytokines (TNF-α, IL-1β, IFN-γ, IL-6, IL-17) and accumulation 
+of activated macrophages were significantly reduced after the TRAILPEG 
+treatment. Importantly, TRAILPEG decreased the number of pro-inflammatory Th17 
+cells in inflamed arthritic joints through TRAIL-induced apoptosis while 
+increasing anti-inflammatory Treg population in vivo. These results suggest that 
+TRAILPEG ameliorates autoimmunity by targeting the Th 17-Tregs axis, making it a 
+promising candidate drug for the treatment of RA.

@@ -1,0 +1,24 @@
+Clostridium difficile toxin A causes acute colitis associated with inflammatory 
+cell infiltration and increased production of proinflammatory mediators. 
+Although CX3CL1 (fractalkine) plays a role in chemoattracting 
+monocytes/macrophages, NK cells, and T cells, little information is available on 
+the regulated expression of CX3CL1 in response to toxin A stimulation. In this 
+study, we investigated the role of C. difficile toxin A on CX3CL1 induction in 
+intestinal epithelial cells. Stimulation of murine intestinal epithelial cells 
+with toxin A resulted in the upregulation of CX3CL1. Expression of CX3CL1 was 
+dependent on nuclear factor-kappaB (NF-κB) and IκB kinase (IKK) activation, 
+while the suppression of activator protein-1 (AP-1) did not affect toxin 
+A-induced CX3CL1 expression. Suppression of p38 mitogen-activated protein kinase 
+(MAPK) significantly inhibited IKK-NF-κB signaling leading to CX3CL1 induction 
+in C. difficile toxin A-stimulated cells. CX3CL1 was mainly secreted from the 
+basolateral surfaces in toxin A-treated cells. Furthermore, inhibition of p38 
+activity attenuated the toxin A-induced upregulation of CX3CL1 in the mouse 
+ileum in vivo. These results suggest that a pathway, including p38 MAPK, IKK, 
+and NF-κB activation, is required for CX3CL1 induction in intestinal epithelial 
+cells exposed to C. difficile toxin A and may regulate the development of 
+intestinal inflammation induced by infection with toxigenic C. difficile.
+KEY MESSAGE: C. difficile toxin A causes colitis with inflammatory cell 
+infiltration. CX3CL1 plays a role in chemoattracting immune cells. MAPK-NF-κB 
+signaling is required for CX3CL1 induction in toxin A-exposed cells. CX3CL1 is 
+mainly secreted from the basolateral surfaces. CX3CL1 may contribute to the 
+regulation of toxigenic C. difficile infection.

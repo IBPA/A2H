@@ -1,0 +1,13 @@
+FK506 (Tacrolimus) is a potent inhibitor of calcineurin that blocks IL2 
+production and is widely used to prevent transplant rejection and treat 
+autoimmunity. FK506 treatment of dendritic cells (FKDC) limits their capacity to 
+stimulate T cell responses. FK506 does not prevent DC survival, maturation, or 
+costimulatory molecule expression, suggesting that the limited capacity of FKDC 
+to stimulate T cells may be due to inhibition of calcineurin signaling in the 
+DC. Instead, we demonstrate that DC inhibit T cells by sequestering FK506 and 
+continuously releasing the drug over several days. T cells encountering FKDC 
+proliferate but fail to upregulate the survival factor bcl-xl and die, and IL2 
+restores both bcl-xl and survival. In mice, FKDC act in an antigen-specific 
+manner to inhibit T-cell mediated autoimmune arthritis. This establishes that 
+DCs can act as a cellular drug delivery system to target antigen specific T 
+cells.DOI:http://dx.doi.org/10.7554/eLife.00105.001.

@@ -1,0 +1,27 @@
+Interleukin 17 (IL-17), a proinflammatory cytokine produced by T helper (Th) 17 
+cells, potentially controls fibroblast-like synoviocytes (FLS)-mediated disease 
+activity of rheumatoid arthritis (RA) via IL-17/ IL-17 receptor type A 
+(IL-17RA)/signal transducer and activator of transcription 3 (STAT-3) signaling 
+cascade. This has suggested that targeting IL-17 signaling could serve as an 
+important strategy to treat FLS-mediated RA progression. Ferulic acid (FA), a 
+key polyphenol, attenuates the development of gouty arthritis and cancer through 
+its anti-inflammatory effects, but its therapeutic efficiency on IL-17 signaling 
+in FLS-mediated RA pathogenesis remains unknown. In the current study, FA 
+markedly inhibited the IL-17-mediated expression of its specific transmembrane 
+receptor IL-17RA in FLS isolated from adjuvant-induced arthritis (AA) rats. 
+Importantly, FA dramatically suppressed the IL-17-mediated expression of 
+toll-like receptor 3 (TLR-3), cysteine-rich angiogenic inducer 61 (Cyr61), 
+IL-23, granulocyte-macrophage colony stimulating factor (GM-CSF) in AA-FLS via 
+the inhibition of IL-17/IL-17RA/STAT-3 signaling cascade. In addition, FA 
+significantly decreased the formation of osteoclast cells and bone resorption 
+potential in a coculture system consisting of IL-17 treated AA-FLS and rat bone 
+marrow derived monocytes/macrophages. Furthermore, FA remarkably inhibited the 
+IL-17-mediated expression of receptor activator of nuclear factor κ-Β 
+ligand (RANKL) and increased the expression of osteoprotegerin (OPG) in AA-FLS 
+via the regulation of IL-17/IL-17RA/STAT-3 signaling cascade. The therapeutic 
+efficiency of FA on IL-17 signaling was further confirmed by knockdown of 
+IL-17RA using small interfering RNA or blocking of STAT-3 activation with 
+S3I-201. The molecular docking analysis revealed that FA manifests significant 
+ligand efficiency toward IL-17RA, STAT-3, IL-23, and RANKL proteins. This study 
+provides new evidence that FA can be used as a potential therapeutic agent for 
+inhibiting IL-17-mediated disease severity and bone erosion in RA.

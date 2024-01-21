@@ -1,0 +1,24 @@
+Clostridium difficile is an opportunistic pathogen causing gut inflammation 
+generally associated with an intestinal dysbiosis due to antibiotics. Several 
+virulence factors have been identified as playing a key role in gut 
+colonization. The surface-layer proteins, comprised of two proteins, the high 
+molecular weight SlpA (HMW-SLP) and the low molecular weight SlpA (LMW-SLP), are 
+the most abundant proteins on the C. difficile surface. These two proteins are 
+derived from the Cwp84-mediated cleavage of a single precursor protein SlpA. In 
+this study, we assessed the immunogenic properties of a recombinant SlpA 
+precursor derived from a toxigenic C. difficile strain (630) and its protective 
+effect as a vaccine antigen co-administered with the cholera toxin as an 
+adjuvant in both hamster and mouse models. First, we confirmed the 
+immunogenicity of SlpA in humans. Sera from patients with C. difficile infection 
+were analyzed by ELISA. Patients with CDI have a greater number of SlpA 
+antibodies than healthy patients, confirming the immunogenicity of this protein 
+during the pathogenic process. Then, rectal vaccination assays were performed in 
+both conventional hamsters and mice. The animals' sera were sampled before and 
+after vaccination, and were analyzed by ELISA. In addition, in the mouse model, 
+feces were sampled after vaccination and IgA directed against SlpA were detected 
+by ELISA. In both models, the intestinal colonization was evaluated by fecal 
+bacterial count after challenge. Intra-rectal vaccination with SlpA and cholera 
+toxin as an adjuvant induced a local and systemic humoral immune response in 
+mice and hamsters potentially responsible for the weak decrease of C. difficile 
+colonization in mice and the partial protection observed in a lethal-hamster 
+model.

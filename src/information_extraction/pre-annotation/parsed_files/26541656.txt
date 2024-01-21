@@ -1,0 +1,21 @@
+BACKGROUND: Tight-junction (TJ) proteins regulate paracellular permeability. Gut 
+permeability can be modulated by commensal microbiota. Manipulation of the gut 
+microbiota with antibiotics like bacitracin and neomycin turned out to be useful 
+for the treatment of diarrhoea induced by Clostridium difficile or chemotherapy 
+drugs.
+AIM: To evaluate the effects of the microbiota depletion evoked by the oral 
+administration of neomycin and bacitracin on the intestinal permeability and 
+expression of TJ proteins in mice.
+METHODS: Mice received neomycin and bacitracin orally for 7 days. Intestinal 
+permeability was measured by the fluorescein-isothiocyanate-dextran 
+(FITC-dextran) method. The gene expression of TJ proteins in the intestine was 
+determined by real time-PCR.
+RESULTS: FITC-dextran levels in serum were reduced by half in antibiotic-treated 
+mice, indicating a reduction of intestinal permeability. Antibiotics increased 
+the expression of zonula occludens 1 (ZO-1), junctional adhesion molecule A 
+(JAM-A, and occludin in the ileum and ZO-1, claudin-3, and claudin-4 in the 
+colon.
+CONCLUSION: The combination of neomycin and bacitracin reduce intestinal 
+permeability and increase the gene expression of ZO-1, junctional adhesion 
+molecule A (JAM-A), and occludin in the ileum and ZO-1, claudin-3, and claudin-4 
+in the colon.

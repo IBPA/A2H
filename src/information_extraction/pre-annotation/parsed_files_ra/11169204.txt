@@ -1,0 +1,18 @@
+Immune complexes from the synovial fluid of rheumatoid arthritis (RA) patients, 
+or artificial rheumatoid factors (RF)-like (antibody--antibody) immune 
+complexes, induce a remarkably intense, sustained and selective immunoglobulin 
+(Ig)G1 response under certain experimental conditions in mice. Because the IgG1 
+antibody response is extraordinarily strong, the role of interleukin (IL)-4, 
+important for IgG1 synthesis, was investigated. Both C57BL/6 and NZB 
+IL-4-deficient mice produced IgG1--RF antibodies after injection with RF-like 
+immune complexes, although the antibody levels were slightly delayed compared to 
+wild type mice. This shows that IL-4 is not obligatory in RF-like immune complex 
+induced IgG1--RF production. A discrepancy in the decline of serum IgG1--RF was 
+noted between NZB and C57Bl/6 mice. Serum IgG1-RF declined 43 days postinjection 
+(p.i.), in C57BL/6 mice whereas high serum levels of IgG1--RF were maintained 
+more than 100 days in the NZB mice, indicating different regulatory mechanisms 
+in these mice. To study if the affinity for mouse IgG increased with time in NZB 
+mice and thus become more directed against self, the cross-reactivity of the 
+IgG1--RF antibodies with IgG from other species was investigated early and late 
+after injection. It was, however, found that the cross-reactivity with IgG of 
+human, goat and rabbit origin did not change between the two time points.

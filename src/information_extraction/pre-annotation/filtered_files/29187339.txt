@@ -1,0 +1,23 @@
+Rheumatoid arthritis (RA) is a chronic autoimmune disease affecting nearly 1% of 
+adults worldwide. This study aimed to investigate whether sophocarpine is a 
+potential drug for treating RA. The cytotoxicity of sophocarpine to 
+RA-fibroblast-like synoviocytes (FLSs) was evaluated using 
+3-[4,-dimethylthiazol-2-y]-2,5-diphenyl-tetrazolium bromide (MTT) assays kit and 
+released lactate dehydrogenase (LDH) assays. The transcription of 
+proinflammatory cytokines in RA-FLSs was analyzed by reverse transcription and 
+real-time polymerase chain reaction (RT-PCR). The proteins levels were further 
+verified by enzyme-linked immunosorbent assay (ELISA). The alterations in the 
+mediators of mitogen-activated protein kinase (MAPK) and nuclear factor κB 
+(NF-κB) signaling pathways were tested by western blotting. The clinical effects 
+of sophocarpine were evaluated in type II collagen-induced arthritis (CIA) in 
+DBA-/1 mouse model by scoring their clinical responses, synovitis, and cartilage 
+destructions, and ELISA was employed to analyze the concentrations of 
+proinflammatory cytokines in the serum of CIA mice. The results showed that 
+sophocarpine contained low cytotoxicity to RA-FLS cells, and it was capable to 
+downregulate the expressions of LPS-induced proinflammatory cytokines. The 
+suppressions of MAPK and NF-κB signaling pathways by sophocarpine were also 
+found in LPS-induced RA-FLSs. The attenuation of the symptoms in CIA mouse model 
+were significant, in which concentrations of proinflammatory cytokines were 
+decreased after the sophocarpine treatment. In this study, we demonstrated the 
+potential of sophocarpine in treating RA, both in vitro and in vivo. 
+Sophocarpine may be a potential drug in treating human RA.

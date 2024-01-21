@@ -1,0 +1,22 @@
+The changing epidemiology of Clostridium difficile infection over the past 
+decades presents a significant challenge in the management of C. difficile 
+associated diseases. The gastrointestinal tract microbiota provides colonization 
+resistance against C. difficile, and growing evidence suggests that gut 
+microbial derived secondary bile acids (SBAs) play a role. We hypothesized that 
+the C. difficile life cycle; spore germination and outgrowth, growth, and toxin 
+production, of strains that vary by age and ribotype will differ in their 
+sensitivity to SBAs. C. difficile strains R20291 and CD196 (ribotype 027), M68 
+and CF5 (017), 630 (012), BI9 (001) and M120 (078) were used to define 
+taurocholate (TCA) mediated spore germination and outgrowth, growth, and toxin 
+activity in the absence and presence of gut microbial derived SBAs 
+(deoxycholate, isodeoxycholate, lithocholate, isolithocholate, ursodeoxycholate, 
+ω-muricholate, and hyodeoxycholate) found in the human and mouse large 
+intestine. C. difficile strains varied in their rates of germination, growth 
+kinetics, and toxin activity without the addition of SBAs. C. difficile M120, a 
+highly divergent strain, had robust germination, growth, but significantly lower 
+toxin activity compared to other strains. Many SBAs were able to inhibit TCA 
+mediated spore germination and outgrowth, growth, and toxin activity in a dose 
+dependent manner, but the level of inhibition and resistance varied across all 
+strains and ribotypes. This study illustrates how clinically relevant 
+C. difficile strains can have different responses when exposed to SBAs present 
+in the gastrointestinal tract.

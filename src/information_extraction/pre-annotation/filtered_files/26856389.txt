@@ -1,0 +1,19 @@
+To explore the pathogenesis of rheumatoid arthritis (RA) from the perspective of 
+metabolomics, gas chromatography time-of-flight mass spectrometry (GC-TOF/MS) 
+technology was used to observe changes in the metabolic profiles of urine output 
+from rats with adjuvant-induced arthritis (AA). Sprague-Dawley rats were 
+randomly divided into a control group and an experimental group, with eight in 
+each. Rats in the experimental group were induced by intracutaneous innoculation 
+of 0.1 mL Freund's complete adjuvant to right paws. On day 20 after 
+immunization, the metabolic profiles between rat control and experimental groups 
+were compared by combining GC-TOF/MS technology with multivariate statistical 
+approaches, including principal component analysis, partial least squares 
+discriminant analysis and orthogonal projections to latent 
+structures-discriminant analysis. Nine potential biomarkers were identified, 
+including 2,2-dimethylsuccinic acid, tartronic acid, dehydroshikimic acid, 
+hippuric acid, adenine, phenaceturic acid, l-dopa, 1,4-dihydroxy-2-naphthoic 
+acid and melibiose. The findings indicate that the rats with AA are disturbed in 
+metabolism of purine, amino acid, fat and energy. This study also demonstrates 
+that the dysfunction in a range of biosynthetic and catabolic pathways, which 
+leads to increased oxygen free radicals and inflammation, could cause underlying 
+pathogenesis of RA. Copyright © 2016 John Wiley & Sons, Ltd.

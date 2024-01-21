@@ -1,0 +1,12 @@
+Myeloperoxidase (MPO) is the most toxic enzyme found in the azurophilic granules 
+of neutrophils. MPO utilizes H2O2 to generate hypochlorous acid (HClO) and other 
+reactive moieties, which kill pathogens during infections. In contrast, in the 
+setting of sterile inflammation, MPO and MPO-derived oxidants are thought to be 
+pathogenic, promoting inflammation and causing tissue damage. In contrast, 
+evidence also exists that MPO can limit the extent of immune responses. Elevated 
+MPO levels and activity are observed in a number of autoimmune diseases 
+including in the central nervous system (CNS) of multiple sclerosis (MS) and the 
+joints of rheumatoid arthritis (RA) patients. A pathogenic role for MPO in 
+driving autoimmune inflammation was demonstrated using mouse models. Mechanisms 
+whereby MPO is thought to contribute to disease pathogenesis include tuning of 
+adaptive immune responses and/or the induction of vascular permeability.

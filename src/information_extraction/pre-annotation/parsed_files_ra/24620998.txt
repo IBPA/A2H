@@ -1,0 +1,31 @@
+INTRODUCTION: Rheumatoid arthritis (RA) is characterized by enhanced blood 
+vessel development in joint synovium. This involves the recruitment of 
+endothelial progenitor cells (EPCs), allowing for de novo vessel formation and 
+pro-inflammatory cell infiltration. Inhibitor of DNA Binding 1 (Id1) is a 
+transcription factor characteristic of EPCs that influences cell maturation.
+METHOD: Enzyme-linked immunosorbant assay (ELISA) and polymerase chain reaction 
+(PCR) were used to examine Id1 levels in synovial fluid (SF) and endothelial 
+cells (ECs), respectively. Immunohistology was used to determine the expression 
+of Id1 in synovial tissue (ST). Human dermal microvascular EC (HMVEC) migration 
+and tube forming assays were used to determine if recombinant human Id1 (rhuId1) 
+and/or RA SF immunodepleted Id1 showed angiogenic activity. We also utilized the 
+RA ST severe combined immunodeficient (SCID) mouse chimera to examine if Id1 
+recruits EPCs to RA synovium.
+RESULTS: ST samples immunostained for Id1 showed heightened expression in RA 
+compared to osteoarthritis (OA) and normal (NL) ST. By immunofluorescence 
+staining, we found significantly more Id1 in RA compared to OA and NL 
+vasculature, showing that Id1 expressing cells, and therefore EPCs, are most 
+active in vascular remodeling in the RA synovium. We also detected significantly 
+more Id1 in RA compared to OA and other arthritis SFs by ELISA, which correlates 
+highly with Chemokine (C-X-C motif) ligand 16 (CXCL16) levels. In vitro 
+chemotaxis assays showed that Id1 is highly chemotactic for HMVECs and can be 
+attenuated by inhibition of Nuclear Factor κB and phosphoinositide 3-kinase. 
+Using in vitro Matrigel assays, we found that HMVECs form tubes in response to 
+rhuId1 and that Id1 immunodepleted from RA SF profoundly decreases tube 
+formation in Matrigel in vitro. PCR showed that Id1 mRNA could be up-regulated 
+in EPCs compared to HMVECs in response to CXCL16. Finally, using the K/BxN serum 
+induced arthritis model, we found that EC CXCR6 correlated with Id1 expression 
+by immunohistochemistry.
+CONCLUSIONS: We conclude that Id1 correlates highly with CXCL16 expression, EPC 
+recruitment, and blood vessel formation in the RA joint, and that Id1 is 
+potently angiogenic and can be up-regulated in EPCs by CXCL16.

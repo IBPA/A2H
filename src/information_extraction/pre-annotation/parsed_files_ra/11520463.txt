@@ -1,0 +1,11 @@
+BLyS and APRIL have similar but distinct biological roles, mediated through two 
+known TNF receptor family members, TACI and BCMA. We show that mice treated with 
+TACI-Ig and TACI-Ig transgenic mice have fewer transitional T2 and mature B 
+cells and reduced levels of circulating immunoglobulin. TACI-Ig treatment 
+inhibits both the production of collagen-specific Abs and the progression of 
+disease in a mouse model of rheumatoid arthritis. In BLyS-deficient mice, B cell 
+development is blocked at the transitional T1 stage such that virtually no 
+mature B cells are present, while B-1 cell numbers are relatively normal. These 
+findings further elucidate the roles of BLyS and APRIL in modulating B cell 
+development and suggest that BLyS is required for the development of most but 
+not all mature B cell populations found in the periphery.

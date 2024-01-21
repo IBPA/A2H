@@ -1,0 +1,15 @@
+OBJECTIVES: This paper aims to explore the functional significance of the P2X7 
+receptor in preclinical models of rheumatoid arthritis.
+METHODS: Preclinical studies in vivo were performed using the rat streptococcal 
+cell wall (SCW) arthritis model. Ex vivo cultures of lipopolysaccharide 
+(LPS)/benzoylbenzoyl adenosine triphosphate (BzATP)-stimulated human monocytes 
+were generated to test the activities of a novel, highly specific inhibitor of 
+human P2X7, AZD9056, on interleukin (IL)-1 and IL-18 release.
+RESULTS: P2X7 receptor expression was detected in inflamed synovial tissue after 
+onset of SCW-induced arthritis in rats. Inhibition of P2X7 therein led to 
+reduced articular inflammation and erosive progression. No effect was noted on 
+acute-phase responses. Ex vivo, AZD9056 inhibited IL-1 and IL-18 release to 
+BzATP in LPS-primed human monocytes.
+CONCLUSIONS: P2X7 receptor inhibition could represent a novel approach to the 
+treatment of inflammatory arthritis. However, confirmatory clinical studies are 
+warranted to further explore this possibility.

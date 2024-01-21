@@ -1,0 +1,25 @@
+Sulfasalazine is used in the treatment of ulcerative colitis, Crohn's disease, 
+and rheumatoid arthritis. When administered orally, sulfasalazine is poorly 
+absorbed with an estimated bioavailability of 3-12%. Recent studies using the 
+T-cell line (CEM) have shown that sulfasalazine is a substrate for the 
+ATP-binding cassette (ABC) efflux pump ABCG2. ABCG2 is known to efflux a number 
+of xenobiotics and appears to be a key determinant of efficacy and toxicity of 
+ABCG2 substrates. To date, there has not been any systematic study on the 
+mechanisms involved in the transport of sulfasalazine in vivo. Accordingly, we 
+investigated whether Bcrp (abcg2) is involved in the disposition of 
+sulfasalazine. After oral administration of 20 mg/kg sulfasalazine, the area 
+under the plasma concentration (AUC) time profile in Bcrp1 (abcg2)-/- knockout 
+(KO) mice was approximately 111-fold higher than that in FVB wild-type (WT) 
+mice. After intravenous administration of 5 mg/kg sulfasalazine, the AUC in 
+Bcrp1 (abcg2)-/- KO mice was approximately 13-fold higher than that in WT mice. 
+Moreover, treatment of WT mice with a single oral dose of gefitinib (Iressa; 50 
+mg/kg), a known inhibitor of Bcrp, given 2 h prior to administering a single 
+oral dose of sulfasalazine (20 mg/kg), resulted in a 13-fold increase in the AUC 
+of sulfasalazine compared to the AUC in vehicle-treated mice. Since gefitinib is 
+also an inhibitor of P-glycoprotein (P-gp), the impact of P-gp on sulfasalazine 
+absorption in vivo was also examined. The sulfasalazine AUC in mdr1a-/- KO 
+versus WT mice did not differ significantly after either an oral (20 mg/kg) or 
+an intravenous dose (5 mg/kg). We conclude that Bcrp (abcg2) is an important 
+determinant for the oral bioavailability and the elimination of sulfasalazine in 
+the mouse, and that sulfasalazine has the potential to be utilized as a specific 
+in vivo probe of Bcrp (abcg2).

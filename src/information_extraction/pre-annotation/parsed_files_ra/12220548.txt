@@ -1,0 +1,11 @@
+Expression of inflammatory cytokines is augmented in the joints of patients with 
+rheumatoid arthritis (RA). We found that cytokine levels are also elevated in 
+the joints of a mouse arthritis model, human T-cell leukemia virus type I 
+(HTLV-I) transgenic (Tg) mouse. Depletion of IL-1 by gene targeting greatly 
+reduced the incidence of the disease, indicating the importance of this cytokine 
+in the development of arthritis. Furthermore, IL-1 receptor antagonist 
+(IL-1Ra)-deficient mice develop autoimmunity and arthritis spontaneously. These 
+observations suggest that excess IL-1 signaling the causes autoimmunity. We show 
+that IL-1 activates the immune system non-specifically by inducing CD40L and 
+OX40 co-signaling molecules on T cells. In this review, the roles of IL-1 in the 
+development of autoimmunity and arthritis in mouse models will be discussed.

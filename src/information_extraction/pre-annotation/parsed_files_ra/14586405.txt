@@ -1,0 +1,18 @@
+Rheumatoid arthritis (RA) is characterized by progressive inflammation 
+associated with abberrant proliferation of synoviocytes. In order to explore the 
+characteristics of rheumatoid synovial fibroblasts (RSF), we performed the 
+comparative gene expression profile analysis between RSF and normal synovial 
+fibroblasts (NSF) upon tumor necrosis factor (TNF) stimulation. As an initial 
+screening for the genes preferentially induced by TNF in RSF compared with NSF, 
+we have adopted a cDNA array containing well-defined sets of genes responsible 
+for cell growth, cell fate determination, and cellular invasiveness. 
+Differentially expressed genes of interest were confirmed using real-time 
+RT-PCR. We found that TNF induced the expression of Notch-1, Notch-4, and 
+Jagged-2 in RSF. The expression of these proteins was detected in the RA 
+synovial tissues. The nucleus of RA synoviocytes showed strong staining with 
+anti-Notch-1 and Notch-4 antibody. TNF induced the nuclear translocation of 
+Notch intracellular domain in RSF, indicating the elicitation of the Notch 
+signaling. Notch-1, Notch-4, and Jagged-2 proteins were also detected in the 
+developing synovium of mouse embryo. Thus, RSF may have re-acquired the 
+primordial phenotype, accounting for the hyperproliferation and aggressive 
+invasiveness, exhibiting tumor-like phenotype.

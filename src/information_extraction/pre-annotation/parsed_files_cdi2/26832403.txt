@@ -1,0 +1,16 @@
+Improved understanding of the interplay between host and microbes stands to 
+illuminate new avenues for disease diagnosis, treatment, and prevention. Here, 
+we provide a high-resolution view of the dynamics between host and gut 
+microbiota during antibiotic-induced intestinal microbiota depletion, 
+opportunistic Salmonella typhimurium and Clostridium difficile pathogenesis, and 
+recovery from these perturbed states in a mouse model. Host-centric proteome and 
+microbial community profiles provide a nuanced longitudinal view, revealing the 
+interdependence between host and microbiota in evolving dysbioses. Time- and 
+condition-specific molecular and microbial signatures are evident and clearly 
+distinguished from pathogen-independent inflammatory fingerprints. Our data 
+reveal that mice recovering from antibiotic treatment or C. difficile infection 
+retain lingering signatures of inflammation, despite compositional normalization 
+of the microbiota, and host responses could be rapidly and durably relieved 
+through fecal transplant. These experiments demonstrate insights that emerge 
+from the combination of these orthogonal, untargeted approaches to the 
+gastrointestinal ecosystem.

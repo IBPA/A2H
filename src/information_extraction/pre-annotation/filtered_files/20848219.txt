@@ -1,0 +1,16 @@
+Interleukin-21 (IL-21) is a new member of the type I cytokine superfamily, which 
+binds to a composite receptor that consists of a private receptor (IL-21R) and 
+the common cytokine receptor γ chain. Recently, increasing evidence has shown 
+that IL-21 contributes to the pathogenesis of chronic inflammatory and 
+autoimmune diseases because of its pro-inflammatory and immune-mediated 
+properties. IL-21 induced T-cell activation and pro-inflammatory cytokine 
+secretion in rheumatoid arthritis (RA). IL-21R RNA transcripts were found in 
+synovial tissue samples of patients with RA. In addition, blockade of the 
+IL-21/IL-21R pathway ameliorated disease in animal models of RA and 
+significantly inhibited inflammatory cytokine production in vitro. Moreover, 
+IL-21R deficiency in the K/BxN mouse model of inflammatory arthritis was 
+sufficient to block arthritis initiation completely. All theses findings suggest 
+that IL-21 has important biological effects in autoimmunity that might be a 
+promising therapeutic target for RA. In this review, we discuss the biological 
+features of IL-21 and summarize recent advances in the role of IL-21 in the 
+pathogenesis and treatment of RA.

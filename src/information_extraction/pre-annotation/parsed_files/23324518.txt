@@ -1,0 +1,19 @@
+Clostridium difficile infections are a major cause of antibiotic-associated 
+diarrhea in hospital and care facility patients. In spite of the availability of 
+effective antibiotic treatments, C. difficile infection (CDI) is still a major 
+cause of patient suffering, death, and substantial health care costs. 
+Clostridium difficile exerts its major pathological effects through the actions 
+of two protein exotoxins, TcdA and TcdB, which bind to and disrupt gut tissue. 
+Antibiotics target the infecting bacteria but not the exotoxins. Administering 
+neutralizing antibodies against TcdA and TcdB to patients receiving antibiotic 
+treatment might modulate the effects of the exotoxins directly. We have 
+developed a mixture of three humanized IgG1 monoclonal antibodies (MAbs) which 
+neutralize TcdA and TcdB to address three clinical needs: reduction of the 
+severity and duration of diarrhea, reduction of death rates, and reduction of 
+the rate of recurrence. The UCB MAb mixture showed higher potency in a variety 
+of in vitro binding and neutralization assays (∼10-fold improvements), higher 
+levels of protection in a hamster model of CDI (82% versus 18% at 28 days), and 
+higher valencies of toxin binding (12 versus 2 for TcdA and 3 versus 2 for TcdB) 
+than other agents in clinical development. Comparisons of the MAb properties 
+also offered some insight into the potential relative importance of TcdA and 
+TcdB in the disease process.

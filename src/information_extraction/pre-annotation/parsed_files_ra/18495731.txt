@@ -1,0 +1,24 @@
+OBJECTIVE: A pathogenic role for granulocyte-macrophage colony stimulating 
+factor (GM-CSF) and interleukin (IL)17 in rheumatoid arthritis (RA) has been 
+suggested. In previously published work, the therapeutic potentials of GM-CSF 
+and IL17 blockade in arthritis have been described. In the present study, the 
+simultaneous blockade of both pathways in a mouse model for chronic arthritis 
+was investigated to identify whether this double blockade provides a superior 
+therapeutic efficacy.
+METHODS: A chronic relapsing arthritis was induced in C57Bl/6 wild type (WT) and 
+C57Bl/6 genetically deficient for IL17 receptor (IL17R knockout (KO)) mice by 
+intra-articular injection of Streptococcal cell wall (SCW) fragments into knees 
+on days 0, 7, 14 and 21. Treatments (intraperitoneal) were given weekly starting 
+on day 14. Animals were analysed for inflammation, joint damage and a range of 
+inflammatory mediators.
+RESULTS: Joint swelling and cartilage damage were significantly reduced in the 
+IL17R KO mice and in WT mice receiving anti-GM-CSF neutralising mAb 22E9 
+compared to isotype control antibodies. The therapeutic effect was significantly 
+more pronounced in mice where IL17 and GM-CSF pathways were inhibited (eg, IL17R 
+KO mice treated with 22E9 mAb). Tumour necrosis factor (TNF)alpha blockade had 
+essentially no effect.
+CONCLUSION: Our data further support the therapeutic potentials of GM-CSF and 
+IL17 blockade in a RA model that is no longer responsive to an established 
+TNFalpha antagonist, moreover, our results suggest that concomitant inhibition 
+of both pathways may provide the basis for a highly effective treatment of 
+chronic RA in patients that are resistant to treatment by TNFalpha inhibitors.

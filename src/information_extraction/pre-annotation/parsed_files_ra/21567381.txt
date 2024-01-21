@@ -1,0 +1,26 @@
+OBJECTIVE: Neutrophil accumulation contributes to the pathogenesis of rheumatoid 
+arthritis. This study was undertaken to examine the ability of H2O2 to influence 
+neutrophilic inflammation in a model of antigen-induced arthritis (AIA) in mice.
+METHODS: AIA was induced by administration of antigen into the knee joints of 
+previously immunized mice. Neutrophil accumulation was measured by counting 
+neutrophils in the synovial cavity and assaying myeloperoxidase activity in the 
+tissue surrounding the mouse knee joint. Apoptosis was determined by morphologic 
+and molecular techniques. The role of H2O2 was studied using mice that do not 
+produce reactive oxygen species (gp91phox-/- mice) and drugs that enhance the 
+generation or enhance the degradation of H2O2.
+RESULTS: Antigen challenge of immunized mice induced neutrophil accumulation 
+that peaked at 12-24 hours after challenge. H2O2 production peaked at 24 hours, 
+after which time, the inflammation resolved. Neutrophil recruitment was similar 
+in wild-type and gp91phox-/- mice, but there was delayed resolution in 
+gp91phox-/- mice or after administration of catalase. In contrast, 
+administration of H2O2 or superoxide dismutase (SOD) resolved neutrophilic 
+inflammation. The resolution of inflammation induced by SOD or H2O2 was 
+accompanied by an increase in the number of apoptotic neutrophils. Apoptosis was 
+associated with an increase in Bax and caspase 3 cleavage and was secondary to 
+phosphatidylinositol 3-kinase (PI3K)/Akt activation.
+CONCLUSION: Our findings indicate that levels of H2O2 increase during neutrophil 
+influx and are necessary for the natural resolution of neutrophilic 
+inflammation. Mechanistically, enhanced levels of H2O2 (endogenous or exogenous) 
+inhibit p-Akt/NF-κB and induce apoptosis of migrated neutrophils. Modulation of 
+H2O2 production may represent a novel strategy for controlling neutrophilic 
+inflammation in the joints.

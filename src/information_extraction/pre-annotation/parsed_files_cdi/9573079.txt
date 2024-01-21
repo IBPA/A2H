@@ -1,0 +1,14 @@
+Clostridium difficile toxin A binds nonspecifically to a mouse monoclonal 
+antibody (MAb) immunoglobulin G3 lambda chain [IgG3(lambda)], through the Fab 
+component. This binding, which is retained even after boiling the MAb, is 
+temperature dependent, with more toxin bound at 4 than 37 degrees C (P = 
+0.0024). The nonspecific binding was decreased by incubation of the IgG3 lambda 
+MAb with alpha- or beta-galactosidase (P = 0.0001 and 0.029, respectively), 
+indicating that toxin A binds to a carbohydrate moiety on the Fab. However, 
+binding was not blocked by the Bandeiraea simplicifolia lectin BS-1, indicating 
+that a terminal alpha-galactose may not be involved. Binding was also not 
+affected by competitive assays with Lewis X antigen. The dependence on 
+carbohydrate moieties in nonspecific binding was also shown for two other MAbs, 
+IgA(kappa) and IgM(lambda), with demonstration of a significant reduction in 
+binding with alpha-galactosidase (P = 0.0001 and 0.0002, respectively) but not 
+beta-galactosidase (P = 0.27 and 0.25, respectively).

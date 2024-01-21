@@ -1,0 +1,21 @@
+Three patients with severe Clostridium difficile infection (CDI) caused by an 
+unusual strain of C. difficile, PCR ribotype (RT) 251, were identified in New 
+South Wales, Australia. All cases presented with severe diarrhoea, two had 
+multiple recurrences and one died following a colectomy. C. difficile RT251 
+strains were isolated by toxigenic culture. Genetic characterisation was 
+performed using techniques including toxin gene profiling, PCR ribotyping, whole 
+genome sequencing (WGS), in-silico multi-locus-sequence-typing (MLST) and 
+core-genome single nucleotide variant (SNV) analyses. Antimicrobial 
+susceptibility was determined using an agar incorporation method. In vitro toxin 
+production was confirmed by Vero cell cytotoxicity assay and pathogenicity was 
+assessed in a murine model of CDI. All RT251 isolates contained toxin A (tcdA), 
+toxin B (tcdB) and binary toxin (cdtA and cdtB) genes. Core-genome analyses 
+revealed the RT251 strains were clonal, with 0-5 SNVs between isolates. WGS and 
+MLST clustered RT251 in the same evolutionary clade (clade 2) as RT027. Despite 
+comparatively lower levels of in vitro toxin production, in the murine model 
+RT251 infection resembled RT027 infection. Mice showed marked weight loss, 
+severe disease within 48 h post-infection and death. All isolates were 
+susceptible to metronidazole and vancomycin. Our observations suggest 
+C. difficile RT251 causes severe disease and emphasise the importance of ongoing 
+surveillance for new and emerging strains of C. difficile with enhanced 
+virulence.

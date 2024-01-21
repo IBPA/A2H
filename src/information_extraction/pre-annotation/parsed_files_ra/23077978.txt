@@ -1,0 +1,19 @@
+Rheumatoid arthritis (RA) is a debilitating autoimmune disease characterized by 
+chronic inflammation of the synovial joints. Collagen-induced arthritis (CIA) 
+and proteoglycan-induced arthritis (PGIA) are mouse models of inflammatory 
+arthritis; CIA is a T helper type 17 (Th17) -dependent disease that is induced 
+with antigen in complete Freund's adjuvant, whereas PGIA is Th1-mediated and is 
+induced using antigen in dimethyldioctadecyl-ammonium bromide (DDA) as an 
+adjuvant. To investigate whether the type of adjuvant determines the cytokine 
+profile of the pathogenic T cells, we have compared the effect of CFA and DDA on 
+T-cell responses in a single arthritis model. No differences in incidence or 
+disease severity between aggrecan-T-cell receptor transgenic mice immunized with 
+aggrecan in either CFA or DDA were observed. Immunization with CFA resulted in a 
+higher proportion of Th17 cells, whereas DDA induced more Th1 cells. However, 
+the levels of interleukin-17 (IL-17) produced by T cells isolated from 
+CFA-immunized mice after antigen-specific stimulation were not significantly 
+different from those found in DDA-immunized mice, indicating that the increased 
+proportion of Th17 cells did not result in significantly higher ex vivo IL-17 
+levels. Hence, the choice of adjuvant can affect the overall proportions of Th1 
+and Th17 cells, without necessarily affecting the level of cytokine production 
+or disease incidence and severity.

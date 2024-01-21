@@ -1,0 +1,24 @@
+OBJECTIVE: MicroRNAs (miRNA) are a new class of regulatory elements. Altered 
+expression of miRNA has been demonstrated in the inflamed joints of patients 
+with rheumatoid arthritis (RA). The aim of this study was to examine the role of 
+miRNA in the pathogenesis of autoimmune arthritis, using 2 murine models.
+METHODS: Collagen-induced arthritis (CIA) and K/BxN serum-transfer arthritis 
+were induced in wild-type (WT) and miR-155-deficient (miR-155(-/-) ) mice. The 
+severity of arthritis was determined clinically and histologically. Anticollagen 
+antibodies and cytokines were measured by enzyme-linked immunosorbent assay. The 
+cellular composition of the draining lymph nodes after induction of CIA was 
+measured by flow cytometry.
+RESULTS: The miR-155(-/-) mice did not develop CIA. Deficiency in miR-155 
+prevented the generation of pathogenic autoreactive B and T cells, since 
+anticollagen antibodies and the expression levels of antigen-specific T cells 
+were strongly reduced in miR-155(-/-) mice. Moreover, Th17 polarization of 
+miR-155(-/-) mouse T cells was impaired, as shown by a significant decrease in 
+the levels of interleukin-17 (IL-17) and IL-22. In the K/BxN serum-transfer 
+arthritis model, which only depends on innate effector mechanisms, miR-155(-/-) 
+mice showed significantly reduced local bone destruction, attributed to reduced 
+generation of osteoclasts, although the severity of joint inflammation was 
+similar to that in WT mice.
+CONCLUSION: These results demonstrate that miR-155 is essentially involved in 
+the adaptive and innate immune reactions leading to autoimmune arthritis, and 
+therefore miR-155 might provide a novel target for the treatment of patients 
+with RA.

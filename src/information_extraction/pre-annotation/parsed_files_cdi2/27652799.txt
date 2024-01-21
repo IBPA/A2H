@@ -1,0 +1,22 @@
+Clostridium difficile is a major cause of antibiotic induced diarrhea worldwide, 
+responsible for significant annual mortalities and represents a considerable 
+economic burden on healthcare systems. The two main C. difficile virulence 
+factors are toxins A and B. Isogenic toxin B mutants of 2 independently isolated 
+erythromycin-sensitive derivatives (630E and 630Δerm) of strain 630 were 
+previously shown to exhibit substantively different phenotypes. Compared to 630, 
+strain 630E and its progeny grow slower, achieve lower final cell densities, 
+exhibit a reduced capacity for spore-formation, produce lower levels of toxin 
+and are less virulent in the hamster infection model. By the same measures, 
+strain 630Δerm and its derivatives more closely mirror the behavior of 630. 
+Genome sequencing revealed that 630Δerm had acquired 7 unique Single Nucleotide 
+Polymorphisms (SNPs) compared to 630 and 630E, while 630E had 9 SNPs and a DNA 
+inversion not found in the other 2 strains. The relatively large number of 
+mutations meant that the identification of those responsible for the altered 
+properties of 630E was not possible, despite the restoration of 3 mutations to 
+wildtype by allelic exchange and comparative RNAseq analysis of all 3 strains. 
+The latter analysis revealed large differences in gene expression between the 3 
+strains, explaining in part why no single SNP could restore the phenotypic 
+differences. Our findings suggest that strain 630Δerm should be favored over 
+630E as a surrogate for 630 in genetic-based studies. They also underline the 
+importance of effective strain curation and the need to genome re-sequence 
+master seed banks wherever possible.

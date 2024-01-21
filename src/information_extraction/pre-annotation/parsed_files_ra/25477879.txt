@@ -1,0 +1,21 @@
+IDO2 is a relative of IDO1 implicated in tryptophan catabolism and immune 
+modulation but its specific contributions to normal physiology and 
+pathophysiology are not known. Evolutionary genetic studies suggest that IDO2 
+has a unique function ancestral to IDO1. In mice, IDO2 gene deletion does not 
+appreciably affect embryonic development or hematopoiesis, but it leads to 
+defects in allergic or autoimmune responses and in the ability of IDO1 to 
+influence the generation of T regulatory cells. Gene expression studies indicate 
+that IDO2 is a basally and more narrowly expressed gene than IDO1 and that IDO2 
+is uniquely regulated by AhR, which serves as a physiological receptor for the 
+tryptophan catabolite kynurenine. In the established KRN transgenic mouse model 
+of rheumatoid arthritis, where IDO1 gene deletion has no effect, IDO2 deletion 
+selectively blunts responses to autoantigen but has no effect on responses to 
+neoantigen challenge. In human populations, natural variations in IDO2 gene 
+sequence that attenuate enzymatic activity have been reported to influence brain 
+cancer control and adaptive immune responses to the IDO2 protein itself, 
+consistent with the concept that IDO2 is involved in shaping immune tolerance in 
+human beings. Biochemical and pharmacological studies provide further evidence 
+of differences in IDO2 enzymology and function relative to IDO1. We suggest that 
+IDO2 may act in a distinct manner from IDO1 as a set-point for tolerance to 
+"altered-self" antigens along the self-non-self continuum where immune 
+challenges from cancer and autoimmunity may arise.

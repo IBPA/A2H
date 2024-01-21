@@ -1,0 +1,25 @@
+PURPOSE: Recurrent diarrhoea after successful treatment of primary Clostridium 
+difficile associated disease (CDAD) occurs due to bowel flora alterations and 
+failure to mount an effective antibody response. Apart from antibiotics, risk 
+factors include immunosuppressive and acid-suppressive drug administration. 
+Biotherapeutics such as probiotic and epidermal growth factor (EGF) may offer 
+potential effective therapy for CDAD.
+MATERIALS AND METHODS: The effect of biotherapeutics in mounting an antibody 
+response against C. difficile toxins was studied in BALB/c mice challenged with 
+C. difficile after pre-treatment with ampicillin, lansoprazole or cyclosporin. 
+Sera from sacrificed animals were estimated for antitoxin IgG by enzyme linked 
+immunosorbent assay.
+RESULTS: Antitoxin IgG was significantly higher (P<0.05) in C. difficile 
+challenged groups compared to unchallenged controls, but insignificant (P>0.05) 
+in animals in which C. difficile was given after pre-treatment with cyclosporin 
+compared to those without any pre-treatment, or pre-treatment with antibiotic or 
+lansoprazole. In inter-subgroup comparisons also significant anomaly in 
+production of antitoxin IgG was found. The antitoxin IgG levels were raised in 
+animals administered C. difficile after pre-treatment with ampicillin, but lower 
+in animals administered cyclosporin. High levels of antitoxin IgG were also 
+found in the serum samples of animals receiving lansoprazole and C. difficile.
+CONCLUSIONS: Probiotics showed their beneficial effect by boosting the immune 
+response as seen by production of antitoxin IgG. Oral administration of EGF did 
+not affect the immune response to C. difficile toxins as significant increase 
+was not observed in the serum antitoxin IgG levels in any of the groups 
+investigated.

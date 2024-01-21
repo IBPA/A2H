@@ -1,0 +1,6 @@
+A series of furano[3,2-d]pyrimidine Syk inhibitors were synthesized and 
+optimized for their enzyme potency and selectivity versus other kinases. In 
+addition, ADME properties were assessed and compounds were prepared with 
+optimized profiles for in vivo experiments. Compound 23 was identified as having 
+acceptable pharmacokinetic properties and demonstrated efficacy in a rat 
+collagen induced arthritis model.

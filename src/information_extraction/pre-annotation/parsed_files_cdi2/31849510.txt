@@ -1,0 +1,23 @@
+PURPOSE: Mouse model experiments have demonstrated an increased Clostridium 
+difficile infection (CDI) severity with Nonsteroidal Anti-Inflammatory Drugs 
+(NSAIDs) use. We aim to evaluate the impact of NSAIDs in humans after a 
+diagnosis of CDI on primary outcomes defined as I) all-cause mortality and II) 
+toxic mega-colon attributable to CDI.
+PATIENTS AND METHODS: All hospitalized patients with a diagnosis of CDI were 
+divided into two groups; those with NSAIDs administered up to 10 days after 
+onset of CDI versus no NSAIDs use. The primary outcomes were analyzed between 
+the groups, while controlling for severity of CDI. A logistic regression 
+analysis was performed to identify the predictors of worse outcomes.
+RESULTS: NSAIDs were administered in 14% (n=80) of the 568 hospitalized visits 
+for an average of 2.5 days after the CDI diagnosis. All-cause mortality was high 
+in patients who did not receive NSAIDs as compared to those who did receive 
+NSAIDs (16.6% vs 12.5%, p 0.354). Patients who were prescribed NSAIDs were more 
+likely to have toxic mega-colon as compared to those who were not prescribed 
+NSAIDs (2.5% vs 0.6%, p 0.094). Results were not statistically significant, even 
+after controlling for CDI severity. Logistic regression analysis did not 
+identify NSAIDs administration as a significant factor for all-cause mortality 
+in CDI patients.
+CONCLUSION: This retrospective study results, contrary to mouse model, did not 
+show association between NSAID use and CDI related mortality and toxic 
+mega-colon. Shorter duration of NSAIDs use, younger people in study group, and 
+timely CDI treatment may have resulted in contrasting results.

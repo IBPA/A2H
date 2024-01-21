@@ -1,0 +1,27 @@
+BACKGROUND AND PURPOSE: 3'-Sialyllactose (3'-SL) is a safe compound that is 
+present in high levels in human milk. Although it has anti-inflammatory 
+properties and supports immune homeostasis, its effect on collagen-induced 
+arthritis (CIA) is unknown. In this study, we investigated the prophylactic and 
+therapeutic effect of 3'-SL on the progression of rheumatoid arthritis (RA) in 
+in vitro and in vivo models.
+EXPERIMENTAL APPROACH: The anti-arthritic effect of 3'-SL was analysed with 
+fibroblast-like synoviocytes in vitro and an in vivo mouse model of CIA. RT-PCR, 
+Western blotting and ELISA were performed to evaluate its effects in vitro. 
+Histological analysis of ankle and knee joints of mice with CIA was performed 
+using immunohistochemistry, as well as safranin-O and haematoxylin staining.
+KEY RESULTS: 3'-SL markedly alleviated the severity of CIA in the mice by 
+reducing paw swelling, clinical scores, incidence rate, serum levels of 
+inflammatory cytokines and autoantibody production. Moreover, 3'-SL reduced 
+synovitis and pannus formation and suppressed cartilage destruction by blocking 
+secretion of chemokines, pro-inflammatory cytokines, matrix metalloproteinases 
+and osteoclastogenesis via NF-κB signalling. Notably, phosphorylation of p65, 
+which is a key protein in the NF-κB signalling pathway, was totally blocked by 
+3'-SL in the RA models.
+CONCLUSIONS AND IMPLICATIONS: 3'-SL ameliorated pathogenesis of CIA by 
+suppressing catabolic factor expression, proliferation of inflammatory immune 
+cells and osteoclastogenesis. These effects were mediated via blockade of the 
+NF-κB signalling pathway. Therefore, 3'-SL exerted prophylactic and therapeutic 
+effects and could be a novel therapeutic agent for the treatment of RA.
+
+© 2018 The Authors. British Journal of Pharmacology published by John Wiley & 
+Sons Ltd on behalf of British Pharmacological Society.

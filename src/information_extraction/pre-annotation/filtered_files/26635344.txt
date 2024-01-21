@@ -1,0 +1,26 @@
+Rheumatoid arthritis is an autoimmune disease resulting in chronic synovial 
+inflammation. Molecular imaging could be used to monitor therapy response, thus 
+enabling tailored therapy regimens and enhancing therapeutic outcome. Here, we 
+hypothesized that response to etanercept could be monitored by radionuclide 
+imaging in arthritic mice. We tested 3 different targets, namely fibroblast 
+activation protein (FAP), macrophages, and integrin αvβ3.
+METHODS: Male DBA/1J mice with collagen-induced arthritis were treated with 
+etanercept. SPECT/CT scans were acquired at 1, 24, and 48 h after injection of 
+(111)In-RGD2 (integrin αvβ3), (111)In-anti-F4/80-A3-1 (antimurine macrophage 
+antibody), or (111)In-28H1 (anti-FAP antibody), respectively, with nonspecific 
+controls included. Mice were dissected after the last scan, and scans were 
+analyzed quantitatively and were correlated with macroscopic scoring.
+RESULTS: Experimental arthritis was imaged with (111)In-28H1 (anti-FAP), 
+(111)In-anti-F4/80-A3-1, and (111)In-RGD2. Tracer uptake in joints correlated 
+with arthritis score. Treatment decreased joint uptake of tracers from 23 ± 15, 
+8 ± 4, and 2 ± 1 percentage injected dose per gram (%ID/g) to 11 ± 11 (P < 
+0.001), 4 ± 4 (P < 0.001), and 1 ± 0.2 %ID/g (P < 0.01) for (111)In-28H1, 
+(111)In-anti-F4/80-A3-1, and (111)In-RGD2, respectively. Arthritis-to-blood 
+ratios (in mice with arthritis score 2 per joint) were higher for (111)In-28H1 
+(5.5 ± 1; excluding values > 25), (111)In-anti-F4/80-A3-1 (10.4 ± 4), and 
+(111)In-RGD2 (7.2 ± 1) than for control (111)In-DP47GS (0.7 ± 0.5; P = 0.002), 
+(111)In-rat IgG2b (0.5 ± 0.2; P = 0.002), or coinjection of excess RGD2 (3.5), 
+indicating specific uptake of all tracers in arthritic joints.
+CONCLUSION: (111)In-28H1, (111)In-anti-F4/80-A3-1, and (111)In-RGD2 can be used 
+to specifically monitor the response to therapy in experimental arthritis at the 
+molecular level. Further studies, however, still need to be performed.

@@ -1,0 +1,22 @@
+Rheumatoid arthritis (RA) is an autoimmune disease associated with chronic 
+inflammation of the joints. RA has been shown to increase the morbidity of and 
+mortality due to cardiovascular and cerebrovascular diseases. We recently 
+reported that cerebrovascular permeability was increased in mice with 
+collagen-induced arthritis (CIA), an animal model of RA. S100A4, a member of the 
+S100 family, is up-regulated in synovial fluid and plasma from RA patients. This 
+study was aimed at evaluating a role of S100A4 in the mediation of blood-brain 
+barrier (BBB) dysfunction in CIA mice. CIA was induced by immunization with type 
+II collagen in mice. Cerebrovascular permeability was assessed by measurement of 
+sodium fluorescein (Na-F) levels in the brains of control and CIA mice. Serum 
+S100A4 concentrations in control and CIA mice were measured by enzyme-linked 
+immunosorbent assays (ELISA). Accumulation of Na-F in the brain and serum levels 
+of S100A4 were increased in CIA mice. Increased S100A4 levels in the serum are 
+closely correlated with hyperpermeability of the cerebrovascular endothelium to 
+Na-F. We investigated whether S100A4 induces BBB dysfunction using mouse brain 
+capillary endothelial cells (MBECs). S100A4 decreased the transendothelial 
+electrical resistance and increased Na-F permeability in the MBECs. S100A4 
+reduced the expression of occludin, a tight junction protein, and stimulated p53 
+expression in MBECs. These findings suggest that S100A4 increases paracellular 
+permeability of MBECs by decreasing expression levels of occludin, at least in 
+part, via p53. The present study highlights a potential role for S100A4 in BBB 
+dysfunction underlying cerebrovascular diseases in patients with RA.

@@ -1,0 +1,19 @@
+OBJECTIVE: To investigate whether a dog's superior olfactory sensitivity can be 
+used to detect Clostridium difficile in stool samples and hospital patients.
+DESIGN: Proof of principle study, using a case-control design.
+SETTING: Two large Dutch teaching hospitals.
+PARTICIPANTS: A 2 year old beagle trained to identify the smell of C difficile 
+and tested on 300 patients (30 with C difficile infection and 270 controls).
+INTERVENTION: The dog was guided along the wards by its trainer, who was blinded 
+to the participants' infection status. Each detection round concerned 10 
+patients (one case and nine controls). The dog was trained to sit or lie down 
+when C difficile was detected.
+MAIN OUTCOME MEASURES: Sensitivity and specificity for detection of C difficile 
+in stool samples and in patients.
+RESULTS: The dog's sensitivity and specificity for identifying C difficile in 
+stool samples were both 100% (95% confidence interval 91% to 100%). During the 
+detection rounds, the dog correctly identified 25 of the 30 cases (sensitivity 
+83%, 65% to 94%) and 265 of the 270 controls (specificity 98%, 95% to 99%).
+CONCLUSION: A trained dog was able to detect C difficile with high estimated 
+sensitivity and specificity, both in stool samples and in hospital patients 
+infected with C difficile.

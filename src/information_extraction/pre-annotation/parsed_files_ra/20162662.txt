@@ -1,0 +1,15 @@
+In the past decade, the availability of genetically modified animals has enabled 
+the discovery of interesting roles for phosphatidylinositol 3-kinase-gamma 
+(PI3Kgamma) and -delta (PI3Kdelta) in different cell types orchestrating innate 
+and adaptive immune responses. Therefore, these PI3K isoforms appear to be 
+attractive drug targets for the treatment of diseases caused by unrestrained 
+immune reactions. Currently, pharmacological targeting of PI3Kgamma and/or 
+PI3Kdelta represents one of the most promising challenges for companies 
+interested in the development of novel safe treatments for inflammatory 
+diseases. In this review we provide a general outline of PI3Kgamma- and 
+PI3Kdelta-specific functions in distinct subsets of inflammatory cells. We also 
+discuss the therapeutic impact of novel compounds targeting PI3Kgamma, PI3Kdelta 
+or both, in mouse models of autoimmune disorders (systemic lupus erythematosus 
+(SLE) and rheumatoid arthritis), respiratory diseases (allergic asthma and 
+chronic obstructive pulmonary disease) and cardiovascular dysfunctions 
+(atherosclerosis and myocardial infarction).

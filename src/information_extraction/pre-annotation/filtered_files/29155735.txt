@@ -1,0 +1,26 @@
+Coronary artery disease (CAD) is a leading cause of morbidity and mortality 
+worldwide. Atherosclerosis, a leading cause of CAD, is initiated by the 
+transmigration of innate immune monocytes to inflammatory sites of deposited 
+lipid called fatty streaks, which are present in arterial walls of medium to 
+large arteries. The key pathogenic feature of lesions at this early stage of 
+atherosclerosis is the maturation of monocytes which migrate into arteries to 
+form foam cells or lipid-laden macrophages. Considerable evidence supports the 
+hypothesis that risk of atherosclerosis is increased by chronic inflammatory 
+conditions accompanying diseases such as rheumatoid arthritis and HIV, as well 
+as general ageing, and that this risk is predicted by monocyte activation. While 
+mouse models provide a good platform to investigate the role of monocytes in 
+atherogenesis in vivo, they require genetic alteration of natural cholesterol 
+metabolism and drastic alteration of normal mouse diets, and have limited 
+suitability for the study of atherogenic influences of human comorbid diseases. 
+This motivated us to develop a human in vitro model to measure the atherogenic 
+potential of monocytes isolated from individuals with defined disease states. 
+Currently, human in vitro models are limiting in that they evaluate monocyte 
+transmigration and foam cell formation in isolation. Here we describe a protocol 
+in which monocytes isolated from patient blood transmigrate across human 
+endothelial cells into a type 1 collagen matrix, and their propensity to mature 
+into foam cells in the presence or absence of exogenous lipid is measured. The 
+protocol has been validated for the use of human monocytes purified from 
+individuals with HIV infection and elderly HIV uninfected individuals. This 
+model is versatile and allows monocyte transmigration and foam cell formation to 
+be evaluated using either microscopy or flow cytometry as well as allowing the 
+assessment of atherogenic factors present in serum or plasma.

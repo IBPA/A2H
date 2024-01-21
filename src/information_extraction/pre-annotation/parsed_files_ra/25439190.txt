@@ -1,0 +1,27 @@
+OBJECTIVES: Progressive destruction of synovial joint cartilage and bone occurs 
+in pathological conditions such as rheumatoid arthritis (RA) because of the 
+overproduction of pro-inflammatory cytokines and activation of nuclear factor 
+kappa B (NF-κB). Through the screening of NF-κB inhibitors by a luciferase 
+reporter gene assay, we identified parthenolide (PAR) as the most potent NF-κB 
+inhibitor, among several PAR analogue compounds. This study was undertaken to 
+determine whether PAR inhibits pro-inflammatory cytokine production, cartilage 
+degradation, and inflammatory arthritis.
+METHOD: The mRNA levels of pro-inflammatory cytokines were examined by real-time 
+polymerase chain reaction (PCR). Proteoglycan content and release were 
+determined by measuring glycosaminoglycan (GAG) levels using the 
+dimethylmethylene blue (DMMB) dye-binding assay. The potential role of PAR in 
+treatment of arthritis was studied using a collagen-induced arthritis (CIA) 
+model.
+RESULTS: We established that PAR, as a prototype compound, suppressed 
+lipopolysaccharide (LPS)- and tumour necrosis factor (TNF)-α-induced increases 
+in matrix metalloproteinase (MMP)-1, MMP-3, inducible nitric oxide synthase 
+(iNOS), and interleukin (IL)-1β mRNA in chondrocytes. In addition, PAR prevented 
+proteoglycan degradation triggered by pro-inflammatory cytokines. PAR treatment 
+at the onset of CIA symptoms significantly reduced synovitis, inflammation, and 
+pannus formation scores. Reduced synovial inflammation after PAR treatment was 
+also reflected in significantly less bone erosion and cartilage damage.
+CONCLUSIONS: These data indicate a protective effect of PAR on the catabolic 
+insults of pro-inflammatory cytokines on chondrocyte metabolism and GAG release 
+in vitro and in CIA. PAR had anti-inflammatory and structure-modifying effects 
+on experimental arthritis, suggesting that PAR may be useful as a potential 
+alternative or adjunct therapy for inflammatory arthritis.

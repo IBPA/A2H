@@ -1,0 +1,40 @@
+INTRODUCTION: Beyond their decades of long use as broad-spectrum antibiotics, 
+tetracyclines and their derivatives have been shown to exhibit non-antimicrobial 
+properties including their ability to interact with matrix metalloproteinases 
+(MMP), tissue inhibitors of MMPs, growth factors and cytokines. As such, they 
+are capable of affecting inflammation, immunomodulation, cell proliferation, and 
+angiogenesis. Although they have been used to treat a variety of conditions 
+including acne, cutaneous sarcoid, and rheumatoid arthritis, amongst others, 
+their use in treating ophthalmologic disease is in its infancy.
+MATERIALS AND METHODS: A literature review on the role of non-antimicrobial 
+properties of tetracyclines, semisynthetic tetracyclines, and chemically 
+modified non-antibacterial tetracyclines (CMTs) and their clinical properties 
+was performed. The effects of these compounds in relation to ophthalmic disease 
+are presented.
+RESULTS: Due to their non-antimicrobial properties, tetracyclines and their 
+derivatives are capable of influencing a wide variety of ocular diseases in 
+animal models. By affecting expression of MMP-9 and tumor necrosis factor 
+(TNF)-α, these compounds decrease corneal permeability, improve corneal 
+smoothness, and reduce meibomian gland dysfunction; this improves the tear film 
+which in turn restores the optical quality of the tear film and cornea. Sterile 
+corneal ulceration may be inhibited via anticollagenase activity; this has been 
+demonstrated in both animal models and case reports. CMTs suppress 
+cataractogenesis in a diabetic rat model, possibly by affecting MMPs. With 
+respect to retinal disease, tetracyclines can inhibit both microglial-mediated 
+cell death and retinal cell apoptosis as well as prevent retinal capillary 
+damage via caspase inhibition thus preventing retinal neovascularization. 
+Experimental choroidal neovascularization is reduced by inhibition of MMP-2 and 
+MMP-9, elevation of pigment epithelial derived growth factor (PEDF), and 
+reduction of vascular endothelial growth factor (VEGF) expression via Fas 
+ligand.
+DISCUSSION: Due to their non-antimicrobial properties, tetracyclines and their 
+derivatives are capable of influencing a wide variety of ocular disease in 
+animal models. Research suggests that they are able to reduce inflammation in 
+the eyelid meibomian glands, improve optical clarity of the cornea, retard 
+cataract formation, and limit ocular angiogenesis. They may have a role in 
+treating the leading causes of vision loss: cataract, age-related macular 
+degeneration, and diabetic retinopathy, all of which are anticipated to increase 
+in incidence due to the aging population.
+CONCLUSIONS: Tetracyclines, semisynthetic tetracyclines, and CMTs may have a 
+role in the treatment of several important ophthalmologic diseases; however, 
+further research is required, including prospective multicenter clinical trials.

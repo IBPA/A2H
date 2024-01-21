@@ -1,0 +1,23 @@
+Spores are produced by many organisms as a survival mechanism activated in 
+response to several environmental stresses. Bacterial spores are multilayered 
+structures, one of which is a peptidoglycan layer called the cortex, containing 
+muramic-δ-lactams that are synthesized by at least two bacterial enzymes, the 
+muramoyl-l-alanine amidase CwlD and the N-deacetylase PdaA. This study focused 
+on the spore cortex of Clostridium difficile, a Gram-positive, toxin-producing 
+anaerobic bacterial pathogen that can colonize the human intestinal tract and is 
+a leading cause of antibiotic-associated diarrhea. Using ultra-HPLC coupled with 
+high-resolution MS, here we found that the spore cortex of the C. difficile 
+630Δerm strain differs from that of Bacillus subtilis Among these differences, 
+the muramic-δ-lactams represented only 24% in C. difficile, compared with 50% in 
+B. subtilis CD630_14300 and CD630_27190 were identified as genes encoding the C. 
+difficile N-deacetylases PdaA1 and PdaA2, required for muramic-δ-lactam 
+synthesis. In a pdaA1 mutant, only 0.4% of all muropeptides carried a 
+muramic-δ-lactam modification, and muramic-δ-lactams were absent in the cortex 
+of a pdaA1-pdaA2 double mutant. Of note, the pdaA1 mutant exhibited decreased 
+sporulation, altered germination, decreased heat resistance, and delayed 
+virulence in a hamster infection model. These results suggest a much greater 
+role for muramic-δ-lactams in C. difficile than in other bacteria, including B. 
+subtilis In summary, the spore cortex of C. difficile contains lower levels of 
+muramic-δ-lactams than that of B. subtilis, and PdaA1 is the major N-deacetylase 
+for muramic-δ-lactam biosynthesis in C. difficile, contributing to sporulation, 
+heat resistance, and virulence.

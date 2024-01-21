@@ -1,0 +1,21 @@
+Antibiotic administration disrupts the intestinal microbiota, increasing 
+susceptibility to pathogens such as Clostridium difficile. Metronidazole or oral 
+vancomycin can cure C. difficile infection, and administration of these agents 
+to prevent C. difficile infection in high-risk patients, although not sanctioned 
+by Infectious Disease Society of America guidelines, has been considered. The 
+relative impacts of metronidazole and vancomycin on the intestinal microbiota 
+and colonization resistance are unknown. We investigated the effect of brief 
+treatment with metronidazole and/or oral vancomycin on susceptibility to C. 
+difficile, vancomycin-resistant Enterococcus, carbapenem-resistant Klebsiella 
+pneumoniae, and Escherichia coli infection in mice. Although metronidazole 
+resulted in transient loss of colonization resistance, oral vancomycin markedly 
+disrupted the microbiota, leading to prolonged loss of colonization resistance 
+to C. difficile infection and dense colonization by vancomycin-resistant 
+Enterococcus, K. pneumoniae, and E. coli. Our results demonstrate that 
+vancomycin, and to a lesser extent metronidazole, are associated with marked 
+intestinal microbiota destruction and greater risk of colonization by nosocomial 
+pathogens.
+
+© The Author 2015. Published by Oxford University Press on behalf of the 
+Infectious Diseases Society of America. All rights reserved. For Permissions, 
+please e-mail: journals.permissions@oup.com.

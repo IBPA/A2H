@@ -1,0 +1,21 @@
+Clostridium difficile is the leading cause of hospital-acquired diarrhoea 
+worldwide, and if the bacterium is not cleared effectively it can pose a risk of 
+recurrent infections and complications such as colitis, sepsis and death. In 
+this study we demonstrate that surface layer proteins from the one of the most 
+frequently acquired strains of C. difficile, activate mechanisms in murine 
+macrophage in vitro that are associated with clearance of bacterial infection. 
+Surface layer proteins (SLPs) isolated from C. difficile induced the production 
+of pro-inflammatory cytokines and chemokines and increased macrophage migration 
+and phagocytotic activity in vitro. Furthermore, we also observed up-regulation 
+of a number of cell surface markers on the macrophage, which are important in 
+pathogen recognition and antigen presentation. The effects of SLPs on 
+macrophages were reversed in the presence of a p38 inhibitor, indicating the 
+potential importance of this signalling protein in how SLP activates the immune 
+system. In conclusion this study shows that surface layer proteins from a common 
+strain of C. difficile can activate a clearance response in macrophage and 
+suggests that these proteins are important in clearance of C. difficile 
+infection. Understanding how the immune system clears C. difficile infection 
+could offer important insights for new treatment strategies.
+
+Copyright © 2014 Institut Pasteur. Published by Elsevier Masson SAS. All rights 
+reserved.

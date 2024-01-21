@@ -1,0 +1,19 @@
+Enhanced turnover of subchondral trabecular bone is a hallmark of rheumatoid 
+arthritis (RA) and it results from an imbalance between bone resorption and bone 
+formation activities. To investigate the formation and activation of osteoclasts 
+which mediate bone resorption, a Fas-deficient MRL/lpr mouse model which 
+spontaneously develops autoimmune arthritis and exhibits decreased bone mass was 
+studied. Various assays were performed on subchondral trabecular bone of the 
+temporomandibular joint (TMJ) from MRL/lpr mice and MRL+/+ mice. Initially, 
+greater osteoclast production was observed in vitro from bone marrow macrophages 
+obtained from MRL/lpr mice due to enhanced phosphorylation of NF-κB, as well as 
+Akt and MAPK, to receptor activator of nuclear factor-κB ligand (RANKL). 
+Expression of sphingosine 1-phosphate receptor 1 (S1P1) was also significantly 
+upregulated in the condylar cartilage. S1P1 was found to be required for 
+S1P-induced migration of osteoclast precursor cells and downstream signaling via 
+Rac1. When SN50, a synthetic NF-κB-inhibitory peptide, was applied to the 
+MRL/lpr mice, subchondral trabecular bone loss was reduced and both production 
+of osteoclastogenesis markers and sphingosine kinase (Sphk) 1/S1P1 signaling 
+were reduced. Thus, the present results suggest that Fas/S1P1 signaling via 
+activation of NF-κB in osteoclast precursor cells is a key factor in the 
+pathogenesis of RA in the TMJ.

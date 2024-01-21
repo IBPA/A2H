@@ -1,0 +1,21 @@
+Hepatocyte growth factor (HGF) plays an important role in angiogenesis, cell 
+proliferation, antifibrosis, and antiapoptosis. Moreover, recent studies have 
+highlighted the immunosuppressive effect of HGF in animal models of allogenic 
+heart transplantation and autoimmune myocarditis and in studies in vitro as 
+well. We also reported that HGF significantly suppresses dendritic cell 
+function, thus down-regulating Ag-induced Th1-type and Th2-type immune responses 
+in allergic airway inflammation. However, the immunosuppressive effect of HGF in 
+many other situations has not been fully clarified. In the present study, using 
+a mouse model of collagen-induced arthritis (CIA) and experiments in vitro, we 
+examined the effect of HGF on autoimmune arthritis and then elucidated the 
+mechanisms of action of HGF. To achieve sufficient delivery of HGF, we used 
+biodegradable gelatin hydrogels as a carrier. HGF suppressed Ag-induced T cell 
+priming by regulating the functions of dendritic cells in the Ag-sensitization 
+phase with down-regulation of IL-10. In contrast, under continuous Ag 
+stimulation HGF induced IL-10-producing immunocytes both in vivo and in vitro. 
+Moreover, HGF potently inhibited the development of CIA with enhancing the 
+Th2-type immune response. We also confirmed that HGF significantly suppressed 
+the production of IL-17 by immunocytes. These results indicate that HGF 
+suppresses the development of CIA through different ways at different phases. 
+They also suggest that HGF could be an attractive tool for treating patients 
+with rheumatoid arthritis.

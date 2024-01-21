@@ -1,0 +1,28 @@
+BACKGROUND & AIMS: Clostridium difficile is the leading cause of nosocomial 
+infectious diarrhea. Antibiotic resistance and increased virulence of strains 
+have increased the number of C difficile-related deaths worldwide. The innate 
+host response mechanisms to C difficile are not resolved; we propose that 
+hypoxia-inducible factor (HIF-1) has an innate, protective role in C difficile 
+colitis. We studied the impact of C difficile toxins on the regulation of HIF-1 
+and evaluated the role of HIF-1alpha in C difficile-mediated 
+injury/inflammation.
+METHODS: We assessed HIF-1alpha mRNA and protein levels and DNA binding in human 
+mucosal biopsy samples and Caco-2 cells following exposure to C difficile 
+toxins. We used the mouse ileal loop model of C difficile toxin-induced 
+intestinal injury. Mice with targeted deletion of HIF-1alpha in the intestinal 
+epithelium were used to assess the effects of HIF-1alpha signaling in response 
+to C difficile toxin.
+RESULTS: Mucosal biopsy specimens and Caco-2 cells exposed to C difficile toxin 
+had a significant increase in HIF-1alpha transcription and protein levels. 
+Toxin-induced DNA binding was also observed in Caco-2 cells. Toxin-induced 
+HIF-1alpha accumulation was attenuated by nitric oxide synthase inhibitors. In 
+vivo deletion of intestinal epithelial HIF-1alpha resulted in more severe, 
+toxin-induced intestinal injury and inflammation. In contrast, stabilization of 
+HIF-1alpha with dimethyloxallyl glycine attenuated toxin-induced injury and 
+inflammation. This was associated with induction of HIF-1-regulated protective 
+factors (such as vascular endothelial growth factor-alpha, CD73, and intestinal 
+trefoil factor) and down-regulation of proinflammatory molecules such as tumor 
+necrosis factor and Cxcl1.
+CONCLUSIONS: HIF-1alpha protects the intestinal mucosa from C difficile toxins. 
+The innate protective actions of HIF-1alpha in response to C difficile toxins be 
+developed as therapeutics for C difficile-associated disease.

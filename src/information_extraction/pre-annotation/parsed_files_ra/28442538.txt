@@ -1,0 +1,34 @@
+Increasing evidence has suggested that systemic inflammation along with local 
+brain inflammation can play a significant role in Alzheimer's disease (AD) 
+pathogenesis. Identifying key molecules that regulate the crosstalk between the 
+immune and the CNS can provide potential therapeutic targets. TNF-α is a 
+proinflammatory cytokine implicated in the pathogenesis of systemic inflammatory 
+and neurodegenerative diseases, such as rheumatoid arthritis (RA) and AD. Recent 
+studies have reported that anti-TNF-α therapy or RA itself can modulate AD 
+pathology, although the underlying mechanism is unclear. To investigate the role 
+of peripheral TNF-α as a mediator of RA in the pathogenesis of AD, we generated 
+double-transgenic 5XFAD/Tg197 AD/TNF mice that develop amyloid deposits and 
+inflammatory arthritis induced by human TNF-α (huTNF-α) expression. We found 
+that 5XFAD/Tg197 mice display decreased amyloid deposition, compromised neuronal 
+integrity, and robust brain inflammation characterized by extensive gliosis and 
+elevated blood-derived immune cell populations, including phagocytic macrophages 
+and microglia. To evaluate the contribution of peripheral huTNF-α in the 
+observed brain phenotype, we treated 5XFAD/Tg197 mice systemically with 
+infliximab, an anti-huTNF-α antibody that does not penetrate the blood-brain 
+barrier and prevents arthritis. Peripheral inhibition of huTNF-α increases 
+amyloid deposition, rescues neuronal impairment, and suppresses gliosis and 
+recruitment of blood-derived immune cells, without affecting brain huTNF-α 
+levels. Our data report, for the first time, a distinctive role for peripheral 
+TNF-α in the modulation of the amyloid phenotype in mice by regulating 
+blood-derived and local brain inflammatory cell populations involved in 
+β-amyloid clearance.SIGNIFICANCE STATEMENT Mounting evidence supports the active 
+involvement of systemic inflammation, in addition to local brain inflammation, 
+in Alzheimer's disease (AD) progression. TNF-α is a pluripotent cytokine that 
+has been independently involved in the pathogenesis of systemic inflammatory 
+rheumatoid arthritis (RA) and AD. Here we first demonstrate that manipulation of 
+peripheral TNF-α in the context of arthritis modulates the amyloid phenotype by 
+regulating immune cell trafficking in the mouse brain. Our study suggests that 
+additionally to its local actions in the AD brain, TNF-α can also indirectly 
+modulate amyloid pathology as a regulator of peripheral inflammation. Our 
+findings may have significant implications in the treatment of RA patients with 
+anti-TNF-α drugs and in the potential use of TNF-targeted therapies for AD.

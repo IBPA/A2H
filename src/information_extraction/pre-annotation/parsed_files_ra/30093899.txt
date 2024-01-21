@@ -1,0 +1,28 @@
+Helminth infection induces Th2-biased immune responses and inhibitory/regulatory 
+pathways that minimize excessive inflammation to facilitate the chronic 
+infection of helminth in the host and in the meantime, prevent host 
+hypersensitivity from autoimmune or atopic diseases. However, the detailed 
+molecular mechanisms behind modulation on inflammatory diseases are yet to be 
+clarified. Programmed death 1 (PD-1) is one of the important inhibitory 
+receptors involved in the balance of host immune responses during chronic 
+infection. Here, we used the murine model to examine the role of PD-1 in CD4+ T 
+cells in the effects of Trichinella spiralis infection on collagen-induced 
+arthritis (CIA). Mice infected with T. spiralis demonstrated higher expression 
+of PD-1 in the spleen CD4+ T cells than those without infection. Mice infected 
+with T. spiralis 2 weeks prior to being immunized with type II collagen 
+displayed lower arthritis incidence and significantly attenuated pathology of 
+CIA compared with those of uninfected mice. The therapeutic effect of T. 
+spiralis infection on CIA was reversed by blocking PD-1 with anti-PD-1 antibody, 
+associated with enhanced Th1/Th17 pro-inflammatory responses and reduced Th2 
+responses. The role of PD-1 in regulating CD4+ T cell differentiation and 
+proliferation during T. spiralis infection was further examined in PD-1 knockout 
+(PD-1-/-) C57BL/6 J mice. Interestingly, T. spiralis-induced alteration of 
+attenuated Th1 and enhanced Th2/regulatory T cell differentiation in wild-type 
+(WT) mice was effectively diminished in PD-1-/- mice characterized by recovered 
+Th1 cytokine levels, reduced levels of Th2 and regulatory cytokines and 
+CD4+CD25+Foxp3+ cells. Moreover, T. spiralis-induced CD4+ T cell proliferation 
+suppression in WT mice was partially restored in PD-1-/- mice. This study 
+introduces the first evidence that PD-1 plays a critical role in helminth 
+infection-attenuated CIA in a mouse model by regulating the CD4+ T cell 
+function, which may provide the new insights into the mechanisms of 
+helminth-induced immunomodulation of host autoimmunity.

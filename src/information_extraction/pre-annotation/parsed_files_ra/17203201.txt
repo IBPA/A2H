@@ -1,0 +1,31 @@
+Leukemia inhibitory factor (LIF), oncostatin M, leptin, ciliary neurotrophic 
+factor, cardiotrophin 1, cardiotrophin-like cytokine factor 1, interleukin 6 
+(IL6), interleukin 11 and interleukin 27 activate the gp130-JAK-STAT3 signaling 
+cascade. Here, WNT5A was characterized as the evolutionarily conserved target of 
+the STAT3 signaling cascade based on 11-bp-spaced tandem STAT3-binding sites 
+within intron 4 of human, chimpanzee, cow, mouse and rat WNT5A orthologs. 
+Canonical WNT5A signaling through Frizzled and LRP5/LRP6 receptors activates 
+FGF20, WISP1, MYC and CCND1 transcription for the maintenance of stem/progenitor 
+cells, while non-canonical WNT5A signaling through Frizzled and ROR2/PTK7/RYK 
+receptors activates the RHOA, JNK, NLK and NFAT signaling cascades for the 
+control of tissue polarity, cell adhesion or movement. LIF-induced Wnt5a 
+activates canonical Wnt signaling in mouse embryonic stem cells for 
+self-renewal. STAT3-induced Wnt5a activates non-canonical Wnt signaling in rat 
+cardiac myocytes for N-cadherin-dependent aggregation. IL6, secreted from 
+epithelial cells or macrophages, induces WNT5A upregulation in mesenchymal 
+cells. WNT5A then activates canonical WNT signaling in epithelial cells. 
+IL6-induced WNT5A activates canonical WNT signaling for autocrine proliferation 
+of human synovial fibroblasts in rheumatoid arthritis. IL-6 signaling is 
+activated during human chronic atrophic gastritis with Helicobacter pylori 
+infection, and aberrant Stat3 signaling activation gives rise to mouse gastric 
+tumors. WNT5A is frequently upregulated in human primary gastric cancer due to 
+tumor-stromal interaction. WNT5A might be downregulated in advanced cancer with 
+poorer prognosis due to genetic alterations compensating WNT5A signaling. 
+Oncogenic WNT5A activates canonical WNT signaling in cancer stem cells for 
+self-renewal, and non-canonical WNT signaling at the tumor-stromal interface for 
+invasion and metastasis. SNP of genes encoding components of the 
+cytokine-induced WNT5A signaling loop is a predicted risk factor for RA and 
+cancer, especially diffuse-type gastric and pancreatic cancer. Humanized 
+anti-IL6 receptor antibody and WNT5A mimetic small-molecule antagonist could be 
+applied to personalized medicine for RA and cancer driven by the IL6-induced 
+WNT5A signaling loop.

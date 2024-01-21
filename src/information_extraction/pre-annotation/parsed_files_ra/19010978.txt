@@ -1,0 +1,15 @@
+Mast cells are implicated in rheumatoid arthritis, but the mechanism by which 
+they contribute to disease progression is not clarified. Here we investigated 
+whether mouse mast cell protease-4 (mMCP-4), a chymase present in the mast cell 
+secretory granule, contributes to experimental arthritis. Two models of 
+arthritis were investigated in mMCP-4(+/+) and mMCP-4(-/-) DBA/1 mice: 
+collagen-induced arthritis (CIA) was induced by immunization with collagen II 
+(CII) in Freund's complete adjuvant, and a passive model of arthritis was 
+induced by administration of anti-CII antibodies. The clinical scores were 
+significantly reduced in the mMCP-4(-/-) animals as compared to mMCP-4(+/+) 
+controls in both arthritis models. In CIA, the number of affected paws was lower 
+in the CII-immunized mMCP-4(-/-) mice, with less cartilage destruction, pannus 
+formation, and mononuclear cell and mast cell influx in the mMCP-4(-/-) joints. 
+Interestingly, the lower clinical scores in the CII-immunized mMCP-4(-/-) mice 
+coincided with lower serum levels of immunoglobulin G anti-CII antibodies. Our 
+findings identify a pathogenic role of mMCP-4 in autoimmune arthritis.

@@ -1,0 +1,19 @@
+The pathogenesis of rheumatoid arthritis (RA) has been implicated neutrophil 
+extracellular traps (NETs) formation which could generate autoantigen. 
+Neutrophil contributes to initiate and maintain the inflammatory process in the 
+joint. In this study, we show that 1-palmitoyl-2-linoleoyl-3-acetyl-rac-glycerol 
+(PLAG) decreases neutrophil migration by regulating the activity of STAT3, a 
+regulator of IL-6 and MIP-2 expression. PLAG caused a decrease in IL-6 
+production in the RAW264.7 macrophage cell line and in rheumatoid 
+arthritis-fibroblast-like synoviocytes via the regulation of STAT3 signaling 
+without affecting NF-κB signaling. In a mouse model of collagen-induced 
+arthritis (CIA), arthritic symptoms were recapitulated, with increased IL-6 
+level in the synovium, and PLAG treatment restored IL-6 to a level comparable to 
+that achieved with commercial therapeutics (such as Remicade or methotrexate). 
+Staining of joint tissue with neutrophil-specific antibody showed that PLAG 
+significantly reduced the infiltration of neutrophils into the joint synovium of 
+CIA mice. The inhibitory effect of PLAG on IL-6/STAT3 or MIP-2 signaling also 
+reduced the migration of differentiated neutrophils in vitro. Therefore, PLAG 
+inhibits the infiltration of destructive neutrophils into inflammatory sites, 
+and can be utilized as a potent therapeutic agent for the treatment of sustained 
+inflammation and joint destruction.

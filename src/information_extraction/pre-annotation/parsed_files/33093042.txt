@@ -1,0 +1,5 @@
+We report the closed genome sequence of a Lactobacillus johnsonii strain 
+(NCK2677) that was isolated from a cefoperazone-treated mouse model designed for 
+the study of Clostridioides difficile infection. Illumina and Nanopore 
+sequencing reads were assembled into a circular 1,951,416-bp chromosome with a 
+G+C content of 34.7%, containing 1,865 genes.

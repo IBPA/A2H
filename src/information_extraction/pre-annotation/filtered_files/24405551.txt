@@ -1,0 +1,25 @@
+INTRODUCTION: T cells orchestrate joint inflammation in rheumatoid arthritis 
+(RA), yet they are difficult to study due to the small numbers of 
+antigen-specific cells. The goal of this study was to characterize a new 
+humanized model of autoimmune arthritis and to describe the phenotypic and 
+functional changes that occur in autoimmune T cells following the induction of 
+pathological events.
+METHODS: We developed a double transgenic mouse containing both the HLA-DR1 
+transgene and an HLA-DR1-restricted collagen-specific TCR in order to obtain 
+large numbers of antigen-specific T cells that can be used for immunologic 
+studies.
+RESULTS: In vitro, CII-specific T cells from this mouse proliferated vigorously 
+in response to the CII immunodominant peptide A2 and the cells altered their 
+phenotype to become predominately CD62Llow and CD44high "activated" T cells. The 
+response was accompanied by the production of Th1, Th2, and Th17-type cytokines. 
+Following immunization with bovine CII/CFA, these mice develop an accelerated 
+arthritis compared to single transgenic HLA-DR1 mice. On the other hand, when 
+the mice were treated orally with the analog peptide A12, (a suppressive analog 
+of collagen we have previously described), arthritis was significantly 
+suppressed, despite the fact that >90% of the CD4+ T cells express the TCR Tg. 
+In GALT tissues taken from the A12-treated mice, IL-2, IFN-γ, and IL-17 
+production to the autoimmune collagen determinant dropped while high levels of 
+IL-10 and IL-4 were produced.
+CONCLUSIONS: We have developed a humanized model of autoimmune arthritis that 
+will be useful for the study of T cell directed therapies as well as T cell 
+mediated mechanisms of autoimmune diseases.

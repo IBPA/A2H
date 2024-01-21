@@ -1,0 +1,14 @@
+Recent imaging studies on intact lymph nodes (LNs) of naïve T cell receptor 
+(TCR)-transgenic mice have reported that T cells reduce their motility upon 
+contact with relevant antigen-presenting cells (APCs). Using in vivo two-photon 
+imaging of T cells in joint-draining (JD) LNs, we examined whether similar 
+changes in T cell motility are observed in wild type mice. Co-transfer of T 
+cells from naïve mice and antigen-experienced T cells from mice with 
+proteoglycan (PG)-induced arthritis into naïve or arthritic recipients resulted 
+in prolonged interactions of antigen-experienced T cells with APCs upon 
+intra-articular antigen (PG) injection, indicating that T cells from arthritic 
+wild type mice recapitulate the motile behavior reported in naïve TCR-transgenic 
+mice. However, naïve T cells also engaged in stable interactions with APCs in 
+the JDLNs of arthritic recipients, suggesting an enhanced ability of APCs in the 
+JDLNs of arthritic hosts to present antigen to either naïve or 
+antigen-experienced T cells.

@@ -1,0 +1,26 @@
+OBJECTIVE: STAT-3 is a key transcriptional factor in the interleukin-6 
+(IL-6)-mediated differentiation of Th17 cells. Because Th17 is believed to be a 
+central player in rheumatoid arthritis (RA), we sought to evaluate whether an 
+endogenous inhibitor of the STAT3 gene, GRIM-19 (gene associated with 
+retinoid-interferon-induced mortality 19), could attenuate the progression and 
+severity of murine collagen-induced arthritis (CIA) through suppression of Th17 
+cells and, reciprocally, could increase expression of Treg cells.
+METHODS: Overexpression of GRIM-19 was produced either by 
+intravenous/intramuscular administration of a GRIM-19 overexpression vector in 
+DBA1/J mice or by development of GRIM-19-transgenic (Tg) mice on a C57BL/6 
+background. Clinical signs were scored for arthritis severity, and mouse 
+splenocytes, serum, and joint tissue were obtained for immunostaining and 
+histologic analyses.
+RESULTS: The numbers of CD4+IL-17+ cells and CD4+pSTAT3+ cells were decreased, 
+while the numbers of CD4+CD25+Foxp3+ cells and CD4+pSTAT5+ cells were increased, 
+in both GRIM-19 vector-transfected and GRIM-19-Tg mice. Administration of the 
+GRIM-19 overexpression vector into mice with CIA markedly suppressed the 
+clinical and histologic signs of arthritis in the affected joints. Similarly, 
+when CIA was induced in GRIM-19-Tg mice, the arthritis phenotype was markedly 
+attenuated and the expression of inflammatory cytokines (IL-1β, IL-6, tumor 
+necrosis factor α, and IL-17) in the arthritic joints was also significantly 
+reduced. Moreover, bone marrow-derived monocyte/macrophages obtained from 
+GRIM-19-Tg mice showed attenuated RANKL-induced osteoclastogenesis in vitro.
+CONCLUSION: GRIM-19 improved the clinical and histologic features of CIA and 
+also inhibited osteoclast formation. These findings suggest that GRIM-19 may be 
+a novel treatment agent for RA.

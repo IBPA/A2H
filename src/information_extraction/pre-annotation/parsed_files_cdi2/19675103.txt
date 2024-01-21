@@ -1,0 +1,24 @@
+Although human consumption of Bacillus polyfermenticus provides several health 
+benefits, the probiotic effect of this bacterium against colonic inflammation 
+has not yet, to our knowledge, been studied. Therefore, we induced colitis in 
+mice by oral or intrarectal administration of dextran sodium sulfate (DSS) or 
+trinitrobenzenosulfonic acid (TNBS), respectively, and investigated the effect 
+of B. polyfermenticus on colitis. We found that mice treated with DSS or TNBS 
+along with B. polyfermenticus had reduced mortality and severity of colitis 
+(weight loss, diarrhea, and mucosal damages) than mice treated with DSS or TNBS 
+alone. B. polyfermenticus also reduced the expression of inflammatory molecules, 
+including chemokine (C-X-C motif) ligand 1, intercellular adhesion molecule, and 
+tumor necrosis factor-alpha, but enhanced the expression of the antiinflammatory 
+cytokine interleukin-10 in the inflamed mouse colon. Moreover, B. 
+polyfermenticus suppressed apoptosis both in vivo in inflamed colonic mucosa and 
+in vitro in colonic epithelial cells stimulated with apoptosis-inducing agents 
+(FasL or Clostridium difficile Toxin A) when the apoptotic response was 
+determined by a terminal deoxynucleotidyl transferase dUTP nick end labeling 
+assay and cleavage of poly(ADP-ribose) polymerase or caspase-3, respectively. 
+Treating colonic epithelial cells with B. polyfermenticus-conditioned medium 
+(BPCM) enhanced cell proliferation and induced the phosphoinositide 
+3-kinases/Akt signaling pathway, suggesting that this bacterium can promote 
+epithelial cell proliferation. BPCM also promoted the migration of colonic 
+epithelial cells. These data suggest that B. polyfermenticus ameliorates colonic 
+inflammation by suppressing apoptosis and promoting epithelial cell 
+proliferation and migration.

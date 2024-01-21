@@ -1,0 +1,22 @@
+OBJECTIVE: The induction of rheumatoid arthritis (RA) by active and passive 
+immunization of mice results in the development of pain at the same time as the 
+swelling and inflammation, with both peripheral and central sensitization 
+contributing to joint pain. The purpose of this study was to examine the 
+development of pain in the rat model of collagen-induced arthritis (CIA) and to 
+evaluate the contribution of neuroimmune interactions to established arthritis 
+pain.
+METHODS: Mechanical hypersensitivity was assessed in female Lewis rats before 
+and up to 18 days after induction of CIA by immunization with type II collagen. 
+The effect of selective inhibitors of microglia were then evaluated by prolonged 
+intrathecal delivery of a cathepsin S (CatS) inhibitor and a fractalkine (FKN) 
+neutralizing antibody, from day 11 to day 18 following immunization.
+RESULTS: Rats with CIA developed significant mechanical hypersensitivity, which 
+started on day 9, before the onset of clinical signs of arthritis. Mechanical 
+hypersensitivity peaked with the severity of the disease, when significant 
+microglial and astrocytic responses, alongside T cell infiltration, were 
+observed in the spinal cord. Intrathecal delivery of microglial inhibitors, a 
+CatS inhibitor, or an FKN neutralizing antibody attenuated mechanical 
+hypersensitivity and spinal microglial response in rats with CIA.
+CONCLUSION: The inhibition of microglial targets by centrally penetrant CatS 
+inhibitors and CX(3) CR1 receptor antagonists represents a potential therapeutic 
+avenue for the treatment of pain in RA.

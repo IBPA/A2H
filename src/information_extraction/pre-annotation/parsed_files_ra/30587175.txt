@@ -1,0 +1,19 @@
+BACKGROUND: Rheumatoid arthritis (RA) is a chronic and refractory autoimmune 
+joint disease. Fibroblast-like synoviocytes (FLS) produce inflammatory cytokines 
+and are involved in the migration and invasion of panuus tissue, which leads to 
+the destruction of joints in RA. Receptor for hyaluronan mediated motility 
+(RHAMM), is known to be one of the important receptors for hyaluronic acid. It 
+has the ability to regulate migration of fibrocytes and infiltration of 
+inflammatory cells. Here,we explored the mechanisms of RHAMM in RAFs.
+METHODS: Quantitative PCR and western blot were performed to test the expression 
+of RHAMM in synoviocytes of RA patients and osteoarthritis (OA) controls. 
+Collagen antibody-induced arthritis (CAIA) was used to investigate the RHAMM 
+expression in mouse synovial issues. RHAMM siRNA was used to detect the function 
+of RHAMM in FLS.
+RESULTS: RA-FLS has a significantly higher expression of RHAMM than OA-FLS. 
+Expression of RHAMM in joint synovial tissue was markedly increased in the CAIA 
+mice compared with the controls. RHAMM silencing using SiRNA was not only 
+decreased the production of IL-6 and IL-8, but also inhibited the migration and 
+invasion of RA-FLS.
+CONCLUSIONS: RHAMM has an important role in the FLS induced modulation of 
+inflammation and destruction of joints in RA.

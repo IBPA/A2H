@@ -1,0 +1,19 @@
+Relapsing C. difficile disease in humans is linked to a pathological imbalance 
+within the intestinal microbiota, termed dysbiosis, which remains poorly 
+understood. We show that mice infected with epidemic C. difficile (genotype 
+027/BI) develop highly contagious, chronic intestinal disease and persistent 
+dysbiosis characterized by a distinct, simplified microbiota containing 
+opportunistic pathogens and altered metabolite production. Chronic C. difficile 
+027/BI infection was refractory to vancomycin treatment leading to relapsing 
+disease. In contrast, treatment of C. difficile 027/BI infected mice with feces 
+from healthy mice rapidly restored a diverse, healthy microbiota and resolved C. 
+difficile disease and contagiousness. We used this model to identify a simple 
+mixture of six phylogenetically diverse intestinal bacteria, including novel 
+species, which can re-establish a health-associated microbiota and clear C. 
+difficile 027/BI infection from mice. Thus, targeting a dysbiotic microbiota 
+with a defined mixture of phylogenetically diverse bacteria can trigger major 
+shifts in the microbial community structure that displaces C. difficile and, as 
+a result, resolves disease and contagiousness. Further, we demonstrate a 
+rational approach to harness the therapeutic potential of health-associated 
+microbial communities to treat C. difficile disease and potentially other forms 
+of intestinal dysbiosis.

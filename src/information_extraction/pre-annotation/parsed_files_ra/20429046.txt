@@ -1,0 +1,29 @@
+INTRODUCTION: CD44 is a cell adhesion molecule believed to play a critical role 
+in T cell and monocyte infiltration in the inflammatory process. The reduction 
+of CD44 expression or its ability to properly interact with its key ligand, 
+hyaluronic acid (HA), inhibits migration and subsequent activation of cells 
+within sites of inflammation. CD44-deficient mice exhibit decreased disease in a 
+mouse arthritis model.
+METHODS: Accordingly, we developed PF-03475952, a fully human IgG2 anti-CD44 
+monoclonal antibody (mAb).
+RESULTS: Binding of PF-03475952 to CD44 inhibits binding of HA and induces loss 
+of CD44 from the cell surface. PF-03475952 also passed a series of safety 
+pharmacology assays designed to assess the risk of the mAb to bind Fc gamma 
+receptors, stimulate cytokine release from human whole blood, and stimulate 
+cytokine release from peripheral blood mononuclear cells (PBMC) using 
+plate-bound antibodies. The latter assay was designed specifically to evaluate 
+the risk of cytokine storm that had been observed with TGN1412 
+(immunostimulatory CD28 superagonist mAb). PF-003475952 exhibits high-affinity 
+binding to both human and cynomolgus monkey CD44, but does not cross-react with 
+rodent CD44. Thus, a rat anti-mouse CD44 mAb was used to demonstrate a 
+dose-dependent decrease of disease in mouse collagen-induced arthritis. 
+Importantly, efficacy was correlated with >50% loss of cell surface CD44 on 
+circulating cells. Loss of CD44 expression on CD3+ lymphocytes was monitored 
+following a single dose of PF-03475952 in cynomolgus monkeys as a 
+pharmacodynamic marker. The recovery of CD44 expression was found to be 
+dose-dependent. PF-03475952 doses of 1, 10, and 100 mg/kg reduced CD44 
+expression below 50% for 218, 373, and >504 hours, respectively.
+CONCLUSION: Targeting of CD44 is a unique mechanism of action in the treatment 
+of inflammatory diseases and is expected to reduce joint damage induced by 
+inflammatory mediators, resulting in disease modification in inflammatory 
+diseases such as rheumatoid arthritis.

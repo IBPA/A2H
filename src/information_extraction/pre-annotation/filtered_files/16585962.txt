@@ -1,0 +1,20 @@
+Antibodies against citrullinated proteins are specific and predictive markers 
+for rheumatoid arthritis although the pathologic relevance of these antibodies 
+remains unclear. To investigate the significance of these autoantibodies, 
+collagen-induced arthritis (CIA) in mice was used to establish an animal model 
+of antibody reactivity to citrullinated proteins. DBA/1J mice were immunized 
+with bovine type II collagen (CII) at days 0 and 21, and serum was collected 
+every 7 days for analysis. Antibodies against both CII and cyclic citrullinated 
+peptide, one such citrullinated antigen, appeared early after immunization, 
+before joint swelling was observed. Further, these antibodies demonstrated 
+specific binding to citrullinated filaggrin in rat esophagus by indirect 
+immunofluorescence and citrullinated fibrinogen by Western blot. To evaluate the 
+role of immune responses to citrullinated proteins in CIA, mice were tolerized 
+with a citrulline-containing peptide, followed by antigen challenge with CII. 
+Tolerized mice demonstrated significantly reduced disease severity and incidence 
+compared with controls. We also identified novel murine monoclonal antibodies 
+specific to citrullinated fibrinogen that enhanced arthritis when coadministered 
+with a submaximal dose of anti-CII antibodies and bound targets within the 
+inflamed synovium of mice with CIA. These results demonstrate that antibodies 
+against citrullinated proteins are centrally involved in the pathogenesis of 
+autoimmune arthritis.

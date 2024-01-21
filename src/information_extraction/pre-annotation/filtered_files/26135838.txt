@@ -1,0 +1,22 @@
+Rheumatoid arthritis (RA) is a systemic autoimmune disease with high rates of 
+morbidity and mortality. Previous studies proposed that the A disintegrin and 
+metalloprotease (ADAM) family is involved in the regulation of inflammation and 
+arthritis. Thus, the present study investigated whether ADAM10 is involved in 
+the progression of RA. The effects of ADAM10 small interfering (si)RNA on the 
+expression levels of tumor necrosis factor (TNF)‑α, interleukin (IL)‑6, IL‑8 and 
+chemokine (C-X-C motif) ligand 16 (CXCL16) were determined in fibroblast‑like 
+synoviocytes (FLS). In addition, the effects of ADAM10 siRNA on cell 
+proliferation, invasion and migration in human RA‑FLS were assessed in vitro. 
+The therapeutic efficacy and side‑effects of ADAM10 siRNA were examined in a 
+mouse model of collagen‑induced arthritis (CIA). In vitro, ADAM10 silencing 
+suppressed the expression of TNF‑α, IL‑6, IL‑8 and CXCL16 in lipopolysaccharide 
+(LPS)‑stimulated human RA‑FLS. LPS‑induced RA‑FLS proliferation, migration and 
+invasion were significantly attenuated by ADAM10 knockdown. ADAM10 silencing 
+inhibited the secretion of vascular endothelial growth factor A (VEGF‑A) and 
+matrix metalloproteinase (MMP)‑3 and ‑9 from LPS‑stimulated human RA‑FLS, in 
+addition to inhibiting the phosphoinositide 3‑kinase/AKT activation in 
+LPS‑stimulated human RA‑FLS. In vivo, treatment with siRNA against ADAM10 for 
+three weeks reduced the arthritis score. Serum levels of VEGF‑A, MMP‑3 and MMP‑9 
+were also reduced in CIA mice. These observations indicate that the inhibition 
+of ADAM10 may be a viable therapeutic target in the amelioration of disease 
+progression in RA by attenuating FLS proliferation, migration and invasion.

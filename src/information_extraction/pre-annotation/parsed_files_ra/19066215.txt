@@ -1,0 +1,18 @@
+CTLA-4 (CD152) negatively regulates T cell activation signaling, and the 
+cytoplasmic domain of CTLA-4 (ctCTLA-4) itself has the capacity to inhibit T 
+cell activation in vitro and in vivo. In this study, the inhibitory mechanisms 
+of the cell-permeable recombinant protein Hph-1-ctCTLA-4 on T cell activation 
+and its ability to prevent collagen-induced arthritis were analyzed. 
+Hph-1-ctCTLA-4 prevented human and mouse T cell activation and proliferation by 
+inhibition of T cell receptor-proximal signaling and the arrest of the cell 
+cycle. Furthermore, Hph-1-ctCTLA-4 protected human umbilical vein endothelial 
+cells (HUVEC) from the human CTL allo-response. The incidence and severity of 
+collagen-induced arthritis were significantly reduced and the erosion of 
+cartilage and bone was effectively prevented by i.v. injection and transdermal 
+administration of Hph-1-ctCTLA-4. Inflammatory cytokine production (IL-1beta, 
+IL-6, TNF-alpha, IL-17A) and collagen-specific antibody levels were 
+significantly reduced, and the numbers of activated T cells and infiltrating 
+granulocytes were substantially decreased. These results demonstrate that 
+systemic or transdermal application of a cell-permeable form of the cytoplasmic 
+domain of CTLA-4 offers an effective therapeutic approach for autoimmune 
+diseases such as rheumatoid arthritis.

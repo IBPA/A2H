@@ -1,0 +1,18 @@
+TNFalpha is a key factor in the pathogenesis of rheumatoid arthritis. To 
+investigate whether heterologous TNFalpha gene vaccination could induce 
+anti-TNFalpha antibodies via cross-reaction and prevent the inflammatory 
+arthritis, we constructed two plasmids by inserting a full-length cDNA of human 
+TNFalpha into a secreted vector (pSecTag-TNFalpha) and a non-secreted vector 
+(pTARGE-TNFalpha), respectively. Administering either plasmid to 
+collagen-induced arthritis (CIA) mice reduced paw swelling and 
+synovium-infiltrating inflammatory cells. This reduction was accompanied by 
+down-regulated TNFalpha in sera and joints. The spleen cells from treated CIA 
+mice displayed decreased IFN-gamma mRNA levels and matrix metalloproteinase-9 
+bioactivity in comparison with those from CIA control. Furthermore, both 
+spontaneous and collagen-specific proliferation of the lymphocytes was 
+significantly decreased after treatment. Administration of plasmids led to an 
+elicited production of antibodies to both human and mouse TNFalpha. These 
+results suggest that human TNFalpha gene vaccination prevents CIA in mice likely 
+by inducing cross-reactive antibodies against TNFalpha, and that heterologous 
+gene vaccination might provide an effective therapeutic strategy to battle 
+TNFalpha mediated diseases.

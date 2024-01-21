@@ -1,0 +1,23 @@
+Clostridium difficile is an anaerobic, Gram-positive, spore-forming, 
+opportunistic pathogen that is the most common cause of hospital-acquired 
+infectious diarrhea. In numerous pathogens, stress response mechanisms are 
+required for survival within the host. Extracytoplasmic function (ECF) σ factors 
+are a major family of signal transduction systems, which sense and respond to 
+extracellular stresses. We have identified three C. difficile ECF σ factors. 
+These ECF σ factors, CsfT, CsfU, and CsfV, induce their own expressions and are 
+negatively regulated by their cognate anti-σ factors, RsiT, RsiU, and RsiV, 
+respectively. The levels of expression of these ECF σ factors increase following 
+exposure to the antimicrobial peptides bacitracin and/or lysozyme. The 
+expressions of many ECF σ factors are controlled by site 1 and site 2 proteases, 
+which cleave anti-σ factors. Using a retargeted group II intron, we generated a 
+C. difficile mutation in prsW, a putative site 1 protease. The C. difficile prsW 
+mutant exhibited decreased levels of expression of CsfT and CsfU but not of 
+CsfV. When expressed in a heterologous host, C. difficile PrsW was able to 
+induce the degradation of RsiT but not of RsiU. When the prsW mutant was tested 
+in competition assays against its isogenic parent in the hamster model of C. 
+difficile infection, we found that the prsW mutant was 30-fold less virulent 
+than the wild type. The prsW mutant was also significantly more sensitive to 
+bacitracin and lysozyme than the wild type in in vitro competition assays. Taken 
+together, these data suggest that PrsW likely regulates the activation of the 
+ECF σ factor CsfT in C. difficile and controls the resistance of C. difficile to 
+antimicrobial peptides that are important for survival in the host.

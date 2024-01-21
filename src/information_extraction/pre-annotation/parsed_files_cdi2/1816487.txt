@@ -1,0 +1,19 @@
+A mutant of Chinese hamster lung fibroblasts (Don cells), resistant against 
+Clostridium difficile toxins A and B, was isolated after mutagenization with 
+ethylmethanesulphonate and a two-step selection with toxin B. The mutant, termed 
+CdtR-Q, was 10(4) times more resistant to toxin B than wild-type cells and 
+cross-resistant to toxin A (10(3) times more resistant). The resistance was 
+overcome by increasing the dose of toxin. The resistance has been stable after 
+cultivation for 40 generations in the absence of toxin. The morphology of the 
+mutant was more epithelial-like than that of the fibroblast parental cells. The 
+plating efficiency was about half that of the wild-type, whereas the growth rate 
+was the same. The mutant was significantly less sensitive than the wild-type to 
+the microfilament-interacting cytochalasins B and D. It was as sensitive as the 
+wild-type to endocytosed toxins (diphtheria, pertussis, ricin), to 
+microtubule-interacting agents (colchicine, gossypol, nocodazole, taxol, 
+vinblastine), and to membrane-damaging toxins with different mechanisms of 
+action, with one exception; the mutant was more highly sensitive to the action 
+of phospholipase C (with broad substrate-specificity) than the wild-type. The 
+results suggest that the mutant has a normal endocytosis, and that the mutation 
+does not affect the microtubuli. The results are consistent with a mutation 
+affecting the microfilaments in the cytoskeleton.

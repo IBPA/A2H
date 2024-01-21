@@ -1,0 +1,24 @@
+AIM: The aim of the present study was to investigate the effect of rheumatoid 
+arthritis (RA) and functional loading through diet modification on the 
+structural conformation and the mechanical properties of the mandibular condyle 
+in a transgenic mouse model and compare to healthy littermates.
+MATERIALS AND METHODS: Four-week-old hybrid male mice from mixed background 
+CBAxC57BL/6 were used. Four groups of animals were formed consisting of five 
+animals each, either presenting RA (transgenic line hTNF 197), or wild-type 
+(control), half receiving ordinary (hard) diet and half receiving soft diet 
+within each category. Following sacrifice, resin-embedded and metallographically 
+polished condylar specimens were evaluated employing scanning electron 
+microscopy/ Energy dispersive x-ray spectroscopy and also tested for mechanical 
+properties, through Vickers microhardness (HV100) measurements.
+RESULTS: The multivariable analysis revealed significantly lower HV100 values 
+for the RA groups after adjusting for diet (β = -10; 95% confidence interval: 
+-16, -4; P = 0.001), while functional loading through diet modification did not 
+appear as a significant predictor of the outcome.
+CONCLUSIONS: There was evidence of compromised mechanical properties of the 
+mandibular condylar bone for the diseased animals, whereas no association 
+between functional loading and mechanical properties of the condyle could be 
+established.
+
+© The Author 2016. Published by Oxford University Press on behalf of the 
+European Orthodontic Society. All rights reserved. For permissions, please 
+email: journals.permissions@oup.com.

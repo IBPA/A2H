@@ -1,0 +1,25 @@
+The advent of therapies that specifically target the B-lymphocyte lineage in 
+human disease has rejuvenated interest in the mechanistic biology by which B 
+cells mediate autoimmunity. B cells have a multitude of effector functions 
+including production of self-reactive antibodies, ability to present antigen to 
+T lymphocytes in the context of costimulation, involvement in generation and 
+maintenance of neo-organogenesis at sites of disease, and opposing function 
+through production of both immunostimulatory and immunomodulatory cytokines. In 
+this review, we first discuss the role of B cells in driving autoimmune diseases 
+such as rheumatoid arthritis, multiple sclerosis, systemic lupus erythematosus, 
+and Sjögren's syndrome, and discuss how studies in these diseases have revealed 
+differentially important roles for the multiple B-cell effector functions. These 
+data reveal the complex and interrelated roles of B cells working in concert 
+with other components of the innate and adaptive immune system to drive 
+pathogenesis. We then focus on data from mouse and human in which B cells in the 
+setting of disease have been targeted with drugs directed against CD20, CD22, 
+and the BAFF (B-cell activating factor belonging to the tumor necrosis factor 
+family)/APRIL (a proliferation inducing ligand) pathways. Pre-clinical studies 
+in animal models in addition to and clinical trials targeting B cells have added 
+further to the understanding of the differential roles B cells play in disease 
+both through demonstration of clinical efficacy in the context of B-cell 
+depletion or modulation, and also by failure of B-cell targeting in some 
+diseases and disease patient subgroups. Moving forward, it will be imperative to 
+apply these lessons to new interventional trials to ensure better targeting of 
+the B-cell lineage and concomitantly better selection of patients most likely to 
+benefit from these therapies.

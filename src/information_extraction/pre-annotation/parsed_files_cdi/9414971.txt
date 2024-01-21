@@ -1,0 +1,19 @@
+BACKGROUND: Antisecretory factor (AF) is a recently identified regulatory 
+protein which inhibits the intestinal fluid secretion induced by cholera toxin.
+AIMS: To test the effect of AF on: (a) inflammation and hypersecretion induced 
+by toxin A from Clostridium difficile; and (b) morphological changes and 
+hypersecretion induced by okadaic acid (the blue mussel toxin) in rat intestinal 
+mucosa.
+METHODS: Morphological changes and fluid accumulation were observed in 
+intestinal loops challenged with 1 microgram of toxin A or 3 micrograms of 
+okadaic acid administered before or after injection of 0.1 microgram of 
+recombinant AF (rAF).
+RESULTS: The cytotoxic and inflammatory reaction caused by toxin A was abolished 
+after treatment with rAF given either intraveneously or intraluminally prior to 
+the toxin or one hour after the toxin. The intestinal fluid response induced by 
+toxin A and okadaic acid was reduced 55-80% by rAF. However, the characteristic 
+increase in goblet cells at the tips of villi in the okadaic acid treated mucosa 
+was not inhibited by rAF.
+CONCLUSION: Results suggest that AF might be involved in protection against 
+inflammation and in counteracting dehydration caused by enterotoxins. Both 
+effects are probably mediated via the enteric nervous system.

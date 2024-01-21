@@ -1,0 +1,19 @@
+TNP-2092 is a unique multitargeting drug conjugate with extremely low propensity 
+for development of resistance. The in vitro activity of TNP-2092 against a panel 
+of urease-producing bacteria was similar to that of rifaximin, a locally acting 
+antibiotic approved for the treatment of hepatic encephalopathy, irritable bowel 
+syndrome with diarrhea, and traveler's diarrhea. When given orally, TNP-2092 
+exhibited low absorption and the majority of compound was recovered in feces as 
+parent. The impact of oral TNP-2092 on gut microbiota was investigated in rats. 
+TNP-2092 was administered to rats by oral gavage for 7 days. Feces samples were 
+collected and analyzed by 16S rRNA sequencing. Although the total amount of 
+bacterial load appeared relatively unchanged before, during, and after 
+treatment, significant changes in the relative abundance of certain gut bacteria 
+at family and genus levels were observed. Some of the changes are known to be 
+associated with improvement of symptoms associated with liver cirrhosis and 
+hepatic encephalopathy. The observed effects of TNP-2092 on gut microbiota in 
+rats were similar to those of rifaximin. In vivo, TNP-2092 demonstrated potent 
+efficacy in a mouse Clostridium difficile infection model, superior to 
+metronidazole and vancomycin, with no relapse observed after treatment. TNP-2092 
+is currently in clinical development for the treatment of symptoms associated 
+with gastrointestinal and liver disorders.

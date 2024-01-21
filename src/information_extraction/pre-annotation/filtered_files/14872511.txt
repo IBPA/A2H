@@ -1,0 +1,24 @@
+OBJECTIVE: To clarify the in vivo function of follistatin-related protein 
+(FRP)/TSC-36/FSTL1 in rheumatoid arthritis (RA), we investigated the roles of 
+FRP in a mouse model of arthritis.
+METHODS: Arthritis was induced in BALB/c mice by injecting anti-type II collagen 
+monoclonal antibody and lipopolysaccharide. Mice were treated with daily 
+intraperitoneal injections of 20 microg of recombinant FRP. Development of 
+arthritis was assessed by the clinical score and footpad swelling. Histologic 
+examination of affected paws was performed on day 21 after the onset of 
+arthritis. The gene expression profiles of affected paws in FRP-treated and 
+untreated mice were compared using commercially available complementary DNA 
+(cDNA) arrays. The difference in gene expression was confirmed by real-time 
+quantitative reverse transcription-polymerase chain reaction.
+RESULTS: Treatment with recombinant FRP showed significant amelioration of the 
+arthritis severity. Histologic analyses confirmed this finding and revealed the 
+alleviation of cellular infiltration into the synovium as well as cartilage 
+damage. The significant decrease in the amount of urinary deoxypyridinoline also 
+indicated the ameliorative effect of FRP on joint destruction. Moreover, cDNA 
+array analysis of the gene expression profile in FRP-treated arthritic lesions 
+revealed a reduced expression of the c-fos, ets-2, IL6, MMP3, and MMP9 genes, 
+some of which are thought to be associated with synovial inflammation and joint 
+destruction.
+CONCLUSION: These findings from in vivo experiments suggest that FRP could be 
+one of the key molecules in the treatment of inflammatory joint diseases such as 
+RA.

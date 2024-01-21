@@ -1,0 +1,34 @@
+Antibiotics damage the gut microbiome, which can result in overgrowth of 
+pathogenic microorganisms and emergence of antibiotic resistance. Inactivation 
+of antibiotics in the small intestine represents a novel strategy to protect the 
+colonic microbiota. SYN-004 (ribaxamase) is a beta-lactamase formulated for oral 
+delivery intended to degrade intravenously administered beta-lactam antibiotics 
+in the gastrointestinal (GI) tract. The enteric coating of ribaxamase protects 
+the enzyme from stomach acid and mediates pH-dependent release in the upper 
+small intestine, the site of antibiotic biliary excretion. Clinical benefit was 
+established in animal and human studies in which ribaxamase was shown to degrade 
+ceftriaxone in the GI tract, thereby preserving the gut microbiome, 
+significantly reducing Clostridioides difficile disease, and attenuating 
+antibiotic resistance. To expand ribaxamase utility to oral beta-lactams, 
+delayed release formulations of ribaxamase, SYN-007, were engineered to allow 
+enzyme release in the lower small intestine, distal to the site of oral 
+antibiotic absorption. Based on in vitro dissolution profiles, three SYN-007 
+formulations were selected for evaluation in a canine model of 
+antibiotic-mediated gut dysbiosis. Dogs received amoxicillin (40 mg/kg, PO, TID) 
++/- SYN-007 (10 mg, PO, TID) for five days. Serum amoxicillin levels were 
+measured after the first and last antibiotic doses and gut microbiomes were 
+evaluated using whole genome shotgun sequence metagenomics analyses of fecal DNA 
+prior to and after antibiotic treatment. Serum amoxicillin levels did not 
+significantly differ +/- SYN-007 after the first dose for all SYN-007 
+formulations, while only one SYN-007 formulation did not significantly reduce 
+systemic antibiotic concentrations after the last dose. Gut microbiomes of 
+animals receiving amoxicillin alone displayed significant loss of diversity and 
+emergence of antibiotic resistance genes. In contrast, for animals receiving 
+amoxicillin + SYN-007, microbiome diversities were not altered significantly and 
+the presence of antibiotic resistance genes was reduced. These data demonstrate 
+that SYN-007 diminishes amoxicillin-mediated microbiome disruption and mitigates 
+emergence and propagation of antibiotic resistance genes without interfering 
+with antibiotic systemic absorption. Thus, SYN-007 has the potential to protect 
+the gut microbiome by inactivation of beta-lactam antibiotics when administered 
+by both oral and parenteral routes and to reduce emergence of 
+antibiotic-resistant pathogens.

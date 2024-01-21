@@ -1,0 +1,23 @@
+OBJECTIVE: Rheumatoid arthritis (RA) pannus may be dependent on angiogenesis and 
+several critical growth factors including vascular endothelial growth factor 
+(VEGF) and basic fibroblast growth factor (bFGF). 2-Methoxyestradiol (2ME2), an 
+endogenous metabolite with low estrogen receptor affinity, has both 
+antiangiogenic and antiproliferative activity. 2ME2 was assessed in the rat 
+collagen-induced arthritis (CIA) model to determine if it could prevent or 
+involute established synovitis.
+METHODS: Rats were immunized on Day 0 with collagen and randomized to a vehicle 
+control or two 2ME2 prevention arms. In additional studies, multiple parallel 
+treatment arms were initiated at Day 10 after arthritis onset.
+RESULTS: 2ME2 in preventive protocols at 30 or 100 mg/kg significantly delayed 
+the onset and reduced the severity of clinical and radiographic CIA. In 
+established CIA, oral 2ME2 at 50 mg/kg/bid, 100 mg/kg/day, and 300 mg/kg/day 
+reduced severity compared to vehicle controls. Efficacy of 2ME2 delivery by 
+osmotic pumps at 60 mg/kg/day was equivalent to 300 mg/kg/day by daily gavage. 
+The 3 oral treatment protocols all significantly reduced radiographic scores in 
+a dose-dependent fashion, with the greatest benefit at 300 mg/kg. 2ME2 showed 
+marked suppression of synovial gene expression of proangiogenic bFGF and VEGF, 
+with parallel reduction of synovial blood vessels. Serum antibody levels to 
+native type II collagen were not reduced, suggesting that 2ME2 did not influence 
+humoral immunity.
+CONCLUSION: Our results indicate that 2ME2 may represent a novel agent for the 
+treatment of inflammatory autoimmune diseases such as RA.

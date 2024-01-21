@@ -1,0 +1,21 @@
+Neutrophils are prominent participants in the joint inflammation of human 
+rheumatoid arthritis (RA) patients, but the extent of their role in the 
+inductive phase of joint inflammation is unknown. In the K/BxN mouse RA model, 
+transfer of autoreactive Ig from the K/BxN mouse into mice induces a rapid and 
+profound joint-specific inflammatory response reminiscent of human RA. We 
+observed that after K/BxN serum transfer, the earliest clinical signs of 
+inflammation in the ankle joint correlated with the presence of neutrophils in 
+the synovial regions of recipient mouse ankle joints. In this study, we 
+investigated the role of neutrophils in the early inflammatory response to 
+transferred arthritogenic serum from the K/BxN transgenic mouse. Mice were 
+treated with a neutrophil-depleting mAb before and following transfer of 
+arthritogenic serum and scored for clinical indications of inflammation and 
+severity of swelling in ankle joints and front paws. In the absence of 
+neutrophils, mice were completely resistant to the inflammatory effects of K/BxN 
+serum. Importantly, depletion of neutrophils in diseased recipient mice up to 5 
+days after serum transfer reversed the inflammatory reaction in the joints. 
+Transfer of serum into mice deficient in the generation of nitrogen or oxygen 
+radicals (inducible NO synthase 2 or gp91(phox) genes, respectively) gave normal 
+inflammatory responses, indicating that neither pathway is essential for disease 
+induction. These studies have identified a critical role for neutrophils in 
+initiating and maintaining inflammatory processes in the joint.

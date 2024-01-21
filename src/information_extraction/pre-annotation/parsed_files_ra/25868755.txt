@@ -1,0 +1,20 @@
+Vascular cell adhesion molecule 1 (VCAM1) is a member of the Immunoglobulin 
+superfamily and encodes a cell surface sialoglycoprotein expressed in 
+cytokine-activated endothelium. This type I membrane protein mediates 
+leukocyte-endothelial cell adhesion, facilitates the downstream signaling, and 
+may play a role in the development of artherosclerosis and rheumatoid arthritis. 
+Accumulating evidence has demonstrated that VCAM1 exerts an anti-apoptotic 
+effect in several tumor tissues such as ovarian cancer and breast cancer. 
+Intracerebral hemorrhage (ICH) is the second most common subtype of stroke with 
+high morbidity and mortality, which imposes a big burden on individuals and the 
+whole society. These together prompted us to question whether VCAM1 has some 
+association with neuron apoptosis during the pathological process of ICH. An ICH 
+rat model was established and assessed by behavioral tests in order to explore 
+the role of VCAM1 after ICH. Up-regulation of VCAM1 was observed in brain areas 
+surrounding the hematoma following ICH by western blotting and 
+immunohistochemistry. Immunofluorescence manifested VCAM1 was strikingly 
+increased in neurons, but not in astrocytes and microglia. Furthermore, we 
+detected that neuronal apoptosis marker active caspase-3 had co-localizations 
+with VCAM1. At the same time, Bcl-2 was also co-localized with VCAM1. Taken 
+together, our findings suggested that VCAM1 might be involved in the neuronal 
+apoptosis and pathophysiology of ICH.

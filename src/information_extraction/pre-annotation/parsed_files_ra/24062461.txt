@@ -1,0 +1,21 @@
+Activation of the nuclear transcription factor κB (NF-κB) regulates the 
+expression of inflammatory genes crucially involved in the pathogenesis of 
+inflammatory diseases. NF-κB governs the expression of adhesion molecules that 
+play a pivotal role in leukocyte-endothelium interactions. We uncovered the 
+crucial role of NF-κB activation within endothelial cells in models of 
+immune-mediated diseases using a "sneaking ligand construct" (SLC) selectively 
+inhibiting NF-κB in the activated endothelium. The recombinant SLC1 consists of 
+three modules: (i) an E-selectin targeting domain, (ii) a Pseudomonas exotoxin A 
+translocation domain, and (iii) a NF-κB Essential Modifier-binding effector 
+domain interfering with NF-κB activation. The E-selectin-specific SLC1 inhibited 
+NF-κB by interfering with endothelial IκB kinase 2 activity in vitro and in 
+vivo. In murine experimental peritonitis, the application of SLC1 drastically 
+reduced the extravasation of inflammatory cells. Furthermore, SLC1 treatment 
+significantly ameliorated the disease course in murine models of rheumatoid 
+arthritis. Our data establish that endothelial NF-κB activation is critically 
+involved in the pathogenesis of arthritis and can be selectively inhibited in a 
+cell type- and activation stage-dependent manner by the SLC approach. Moreover, 
+our strategy is applicable to delineating other pathogenic signaling pathways in 
+a cell type-specific manner and enables selective targeting of distinct cell 
+populations to improve effectiveness and risk-benefit ratios of therapeutic 
+interventions.

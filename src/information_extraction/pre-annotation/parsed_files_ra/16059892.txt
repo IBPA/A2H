@@ -1,0 +1,24 @@
+OBJECTIVE: Low-dose methotrexate (MTX), a mainstay in the treatment of 
+rheumatoid arthritis, is effective in only 60-70% of patients, a finding 
+mirrored by poor antiinflammatory efficacy in some animal models, most notably 
+collagen-induced arthritis. To determine whether genetic factors or the model 
+itself is responsible for the poor response to MTX, we directly compared the 
+responses of 4 inbred mouse strains to MTX in the air-pouch model of acute 
+inflammation.
+METHODS: The exudate leukocyte count and adenosine concentration were determined 
+in inbred mice treated with MTX (0.75 mg/kg intraperitoneally every week for 4 
+weeks) or vehicle 4 hours after injection of carrageenan into the air pouch 
+using previously described methods. Quantitative trait locus mapping was 
+performed using an in silico, or computer-based, method to identify loci 
+potentially associated with each phenotype.
+RESULTS: MTX significantly reduced the exudate leukocyte count in C57BL/6J and 
+BALB/cJ mice, but not DBA/1J (the strain used in the collagen-induced arthritis 
+model) or DBA/2J mice. In a parallel manner, MTX increased adenosine 
+concentration in inflammatory exudates of C57BL/6J and BALB/cJ mice, but not 
+DBA/1J or DBA/2J mice. Antiinflammatory and adenosine responses to MTX in DBA/1J 
+x C57BL/6J F(1) and F(2) offspring were most consistent with single genetic loci 
+being responsible for each phenotype. In silico mapping identified partially 
+overlapping loci containing candidate genes involved in both responses.
+CONCLUSION: Genetic factors contribute to the antiinflammatory efficacy of MTX, 
+and a single locus involved in MTX-induced adenosine up-regulation is likely 
+responsible for the observed resistance to MTX in DBA/1J mice.

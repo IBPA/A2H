@@ -1,0 +1,18 @@
+Inhibitor K562 (IK) protein was first isolated from the culture medium of K562, 
+a leukemia cell line. It is known to be an inhibitory regulator of 
+interferon-γ-induced major histocompatibility complex class (MHC) II expression. 
+Previously, we found that transgenic (Tg) mice constitutively expressing 
+truncated IK (tIK) showed reduced numbers of pathogenic Th1 and Th17 cells, 
+which are known to be involved in the development of rheumatoid arthritis (RA). 
+Here, we investigated whether exogenous tIK protein has a therapeutic effect in 
+arthritis in disease models and analyzed its mechanism. Exogenous tIK protein 
+was produced in an insect expression system and applied to the collagen 
+antibody-induced arthritis (CAIA) mouse disease model. Injection of tIK protein 
+alleviated the symptoms of arthritis in the CAIA model and reduced Th1 and Th17 
+cell populations. In addition, treatment of cultured T cells with tIK protein 
+induced expression of A20, a negative regulator of nuclear factor-κB 
+(NFκB)-induced inflammation, and reduced expression of several transcription 
+factors related to T cell activation. We conclude that exogenous tIK protein has 
+the potential to act as a new therapeutic agent for RA patients, because it has 
+a different mode of action to biopharmaceutical agents, such as tumor necrosis 
+factor antagonists, that are currently used to treat RA.

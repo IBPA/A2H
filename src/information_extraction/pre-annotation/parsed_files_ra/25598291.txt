@@ -1,0 +1,18 @@
+The objective of this study was to determine the expression and effects of 
+B-lymphocyte stimulator (BLyS) in T cell-mediated autoimmune arthritis, a rat 
+model of human rheumatoid arthritis (RA). Rat adjuvant-induced arthritis (AA) 
+was induced by intradermal injection of 0.1ml complete Freund's adjuvant. 
+Arthritis was evaluated by the histopathological examination of joint ankle. The 
+BLyS expression was detected by immunohistochemical analysis. The level of BLyS 
+and interleukin (IL)-17 were assayed by enzyme-linked immunosorbent assay. The 
+gene expression of BLyS and its receptors (TACI, BCMA and BAFF-R) were assessed 
+by quantitative reverse-transcription polymerase chain reaction. The effect of 
+BLyS on the function of T cell was investigated by transwell assay. Using an AA 
+rat model, we detected dysregulated expression and level of BLyS and its 
+receptors in the local joint synovium tissue, peripheral lymphoid organs 
+(spleen) and immune cells (macrophage, dendritic cells (DC) and T cell) at the 
+peak of inflammation. In vitro, BLyS-treated DC induced IL-17 producing T cells. 
+Neutralization of BLyS by the TACI-Ig fusion protein attenuated these 
+stimulating effects of BLyS. These data suggest that the overproduction of BLyS 
+may contribute to T cell responses and may be an attractive target for control 
+of autoimmune diseases, such as RA, that involves both T and B cells.

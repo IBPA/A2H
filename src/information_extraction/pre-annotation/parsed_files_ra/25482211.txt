@@ -1,0 +1,20 @@
+Rheumatoid arthritis (RA) is a chronic autoimmune disease resulting in joint 
+inflammation, pain, and eventual bone loss. Bone loss and remodeling caused by 
+symmetric polyarthritis, the hallmark of RA, is readily detectable by bone 
+mineral density (BMD) measurement using micro-CT. Abnormalities in these 
+measurements over time reflect the underlying pathophysiology of the bone. To 
+evaluate the efficacy of anti-rheumatic agents in animal models of arthritis, we 
+developed a high throughput knee and ankle joint imaging assay to measure BMD as 
+a translational biomarker. A bone sample holder was custom designed for micro-CT 
+scanning, which significantly increased assay throughput. Batch processing 
+3-dimensional image reconstruction, followed by automated image cropping, 
+significantly reduced image processing time. In addition, we developed a novel, 
+automated image analysis method to measure BMD and bone volume of knee and ankle 
+joints. These improvements significantly increased the throughput of ex vivo 
+bone sample analysis, reducing data turnaround from 5 days to 24 hours for a 
+study with 200 rat hind limbs. Taken together, our data demonstrate that BMD, as 
+quantified by micro-CT, is a robust efficacy biomarker with a high degree of 
+sensitivity. Our innovative approach toward evaluation of BMD using optimized 
+image acquisition and novel image processing techniques in preclinical models of 
+RA enables high throughput assessment of anti-rheumatic agents offering a 
+powerful tool for drug discovery.

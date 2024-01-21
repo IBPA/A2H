@@ -1,0 +1,23 @@
+Serum amyloid A (SAA) is an apolipoprotein involved in poorly understood roles 
+in inflammation. Upon trauma, hepatic expression of SAA rises 1000 times the 
+basal levels. In the case of inflammatory diseases like rheumatoid arthritis, 
+there is a risk for deposition of SAA fibrils in various organs leading to 
+Amyloid A (AA) amyloidosis. Although the amyloid deposits in AA amyloidosis 
+accumulate with the glycosaminoglycan (GAG) heparan sulfate, the role GAGs play 
+in the function and pathology of SAA is an enigma. It has been shown that GAG 
+sulfation is a contributing factor in protein fibrillation and for 
+co-aggregating with a plethora of amyloidogenic proteins. Herein, the effects of 
+heparin, heparan sulfate, hyaluronic acid, chondroitin sulfate A, and heparosan 
+on the oligomerization and aggregation properties of pathogenic mouse SAA1.1 
+were investigated. Delipidated SAA was used to better understand the 
+interactions between SAA and GAGs without the complicating involvement of 
+lipids. The results revealed-to varying degrees-that all GAGs accelerated SAA1.1 
+aggregation, but had variable effects on its fibrillation. Heparan sulfate, 
+hyaluronic acid, and heparosan did not affect much the fibrillation of SAA1.1. 
+In contrast, chondroitin sulfate A blocked SAA fibril formation and facilitated 
+the formation of spherical aggregates of various sizes. Interestingly, heparin 
+caused formation of spherical SAA1.1 aggregates of various sizes, vast amounts 
+of thin protofibrils, and few long fibrils of various heights. These results 
+suggest that GAGs may have an intrinsic and divergent influence on the 
+aggregation and fibrillation of HDL-free SAA1.1 in vivo, with functional and 
+pathological implications.

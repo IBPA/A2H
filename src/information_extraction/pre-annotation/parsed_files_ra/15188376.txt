@@ -1,0 +1,25 @@
+OBJECTIVE: To determine whether the rheumatoid arthritis (RA)-predisposing class 
+II molecules of the major histocompatibility complex (MHC) can present cartilage 
+proteoglycan (PG) aggrecan, and if so, to determine the epitope repertoire of 
+the human cartilage PG in HLA-transgenic mice and determine whether 
+HLA-transgenic mice develop arthritis in response to immunization with human 
+cartilage PG.
+METHODS: Mice transgenic for HLA-DR2.Ab(0), DR3.Ab(0), DR4.Ab(0), and DQ8.Ab(0), 
+lacking their own (mouse) class II antigens (Ab(0)), on the original 
+(arthritis-resistant) and the arthritis-susceptible BALB/c backgrounds, were 
+immunized with human cartilage PG. The T cell epitope repertoire presented by 
+these class II MHC alleles was determined using a synthetic peptide library (143 
+peptides of the core protein of human cartilage PG), and arthritis development 
+was monitored and compared in wild-type and HLA-transgenic/congenic BALB/c mice.
+RESULTS: Mice of the 4 HLA-transgenic lines, either on the original mixed, 
+arthritis-resistant background or DR4.Ab(0)- and DQ8.Ab(0)-transgenic/congenic 
+mice on the arthritis-susceptible BALB/c genetic background, responded well to 
+PG immunization (as assessed by T cell responses and antibody and cytokine 
+production), and a number of T cell epitopes along the core protein of human 
+cartilage PG were identified. DR4.Ab(0)- and DQ8.Ab(0)-transgenic mice immunized 
+with human cartilage PG developed arthritis, but only when these class II MHC 
+molecules were present on the arthritis-susceptible (BALB/c) genetic background.
+CONCLUSION: A number of human cartilage PG epitopes can be presented by HLA 
+alleles that predispose to the development of RA, but the epitopes of the 
+cartilage PG presented by HLA-DR4 or HLA-DQ8 can induce arthritis only in the 
+presence of an appropriate genetic (non-MHC) background.

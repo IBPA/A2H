@@ -1,0 +1,24 @@
+A marked proliferation of synovial fibroblasts in joints leads to pannus 
+formation in rheumatoid arthritis (RA). Various kinds of cytokines are produced 
+in the pannus. The purpose of this study is to elucidate the effects of 
+phosphodiesterase 4 (PDE4) inhibitors in a new animal model for the evaluation 
+of pannus formation and cytokine production in the pannus. Mice sensitized with 
+methylated bovine serum albumin (mBSA) were challenged by subcutaneous 
+implantation of a membrane filter soaked in mBSA solution in the back of the 
+mice. Drugs were orally administered for 10 days. The granuloma formed around 
+the filter was collected on day 11. It was chopped into pieces and cultured in 
+vitro for 24 hr. The cytokines were measured in the supernatants. The type of 
+cytokines produced in the granuloma was quite similar to those produced in 
+pannus in RA. Both PDE4 inhibitors, KF66490 and SB207499, suppressed the 
+production of IL-1beta, TNF-alpha, and IL-12, and the increase in 
+myeloperoxidase activity, a marker enzyme for neutrophils and hydroxyproline 
+content. Compared to leflunomide, PDE4 inhibitors more strongly suppressed IL-12 
+production and the increase in myeloperoxidase activity. PDE4 inhibitors also 
+inhibited lipopolysaccharide-induced TNF-alpha and IL-12 production from 
+thioglycolate-induced murine peritoneal macrophages and the proliferation of rat 
+synovial fibroblasts. These results indicate this model makes it easy to 
+evaluate the effect of drugs on various cytokine productions in a granuloma 
+without any purification step and may be a relevant model for evaluating novel 
+antirheumatic drugs on pannus formation in RA. PDE4 inhibitors could have 
+therapeutic effects on pannus formation in RA by inhibition of cytokine 
+production by macrophages and synovial fibroblast proliferation.

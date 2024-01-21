@@ -1,0 +1,20 @@
+BACKGROUND: This study aimed to determine the effects of total saponins from 
+Rhizoma Dioscoreae Nipponicae (TS-RDN) on the expression of vascular endothelial 
+growth factor (VEGF) and angiopoietin (Ang)-2 and Tie-2 (endothelial tyrosine 
+kinase receptor) receptors in the synovium of rats with rheumatoid arthritis 
+(RA) (collagen-induced arthritis; CIA), and to examine the mechanisms of TS-RDN 
+in alleviating RA.
+METHODS: The CIA rat model was established and the animals were randomly divided 
+into control, CIA model, TS-RDN, diosgenin, and tripterygium groups. Fluorescent 
+polymerase chain reaction was performed to detect VEGF expression in the rat 
+knee joint synovium. Additionally, immunohistochemical assay was used to detect 
+protein expression of Ang-2 and Tie-2 in the rat knee joint synovium.
+RESULTS: Expression of VEGF, Ang-2, and Tie-2 in the model group was 
+significantly higher than in the control group (p < 0.01). After TS-RDN, 
+tripterygium and diosgenin treatment, VEGF and Ang-2 expression was lower than 
+in the model group (p < 0.01). However, Tie-2 expression showed no significant 
+difference. The effects of TS-RDN on VEGF expression were more marked than those 
+of tripterygium and diosgenin (p < 0.01).
+CONCLUSION: TS-RDN might reduce the expression of VEGF, Ang-2, and Tie-2 in the 
+synovium, thus inhibiting synovial angiogenesis and playing a therapeutic role 
+in RA.

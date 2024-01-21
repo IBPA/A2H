@@ -1,0 +1,24 @@
+BACKGROUND AND PURPOSE: Store-operated calcium (SOC) channels are thought to 
+play a critical role in immune responses, inflammatory diseases and chronic 
+pain. The aim of this study was to explore the potential role and mechanisms of 
+SOC channels in collagen-induced arthritis (CIA).
+EXPERIMENTAL APPROACH: The CIA mouse model was used to examine the effects of 
+the SOC channel inhibitor YM-58483 on CIA and arthritic pain. Hargreaves' and 
+von Frey hair tests were conducted to measure thermal and mechanical 
+sensitivities of hind paws. elisa was performed to measure cytokine production, 
+and haematoxylin and eosin staining was used to assess knee histological 
+changes. Western blot analysis was performed to examine protein levels.
+KEY RESULTS: Pretreatment with 5 or 10 mg · kg(-1) of YM-58483 reduced the 
+incidence of CIA, prevented the development of inflammation and pain 
+hypersensitivity and other signs and features of arthritis disease. Similarly, 
+treatment with YM-58483 after the onset of CIA: (i) reversed the clinical 
+scores; (ii) reduced paw oedema; (iii) attenuated mechanical and thermal 
+hypersensitivity; (iv) improved spontaneous motor activity; (v) decreased 
+periphery production of IL-1β, IL-6 and TNF-α; and (vi) reduced spinal 
+activation of ERK and calmodulin-dependent PKII (CaMKIIα).
+CONCLUSIONS AND IMPLICATIONS: This study provides the first evidence that 
+inhibition of SOC entry prevents and relieves rheumatoid arthritis (RA) and 
+arthritic pain. These effects are probably mediated by a reduction in cytokine 
+levels in the periphery and activation of ERK and CaMKIIα in the spinal cord. 
+These results suggest that SOC channels are potential drug targets for the 
+treatment of RA.

@@ -1,0 +1,17 @@
+Cyclic phosphatidic acid (cPA; 1-acyl-sn-glycerol-2,3-cyclic phosphate) is an 
+analog of the growth factor-like phospholipid mediator lysophosphatidic acid 
+(LPA). As brain tissue is the richest source of cPA we tested its effects on 
+hippocampal neurons from day 16/17 embryonic rat cultured in a serum-free 
+medium. Nanomolar concentrations of cPA elicited a neurotrophic effect and 
+promoted neurite outgrowth that exceeded that of 50 ng/mL nerve growth factor 
+(NGF). Pertussis toxin, the LPA1/LPA3 receptor-selective antagonist 
+dioctylglycerol pyrophosphate, the myristoylated inhibitory pseudosubstrate 
+peptide of protein kinase A (PKI), Wortmannin and PD98059 abolished the 
+neurite-promoting effect. cPA elicited a sustained activation of extracellular 
+signal-related kinases (ERK) 1/2 and Akt. Clostridium difficile toxin B, an 
+inhibitor of the Rho family of GTPases, reduced cPA-induced enhancement of 
+neurite outgrowth. In B5P cells, a clonal cell line of PC12 cells overexpressing 
+tyrosine kinase NGF receptor (TrkA), cPA elicited transphosphorylation of TrkA. 
+cPA-elicited ERK activation was blocked by K252a and PKI. These results suggest 
+that cPA mimics the effects of, and activates signaling pathways similar to, the 
+neurotrophin NGF in cultured embryonic hippocampal neurons and B5P cells.

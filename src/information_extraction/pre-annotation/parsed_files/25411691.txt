@@ -1,0 +1,19 @@
+Farm animals are a potential reservoir for human Clostridium difficile infection 
+(CDI), particularly PCR ribotype 078 which is frequently found in animals and 
+humans. Here, whole genome single-nucleotide polymorphism (SNP) analysis was 
+used to study the evolutionary relatedness of C. difficile 078 isolated from 
+humans and animals on Dutch pig farms. All sequenced genomes were surveyed for 
+potential antimicrobial resistance determinants and linked to an antimicrobial 
+resistance phenotype. We sequenced the whole genome of 65 C. difficile 078 
+isolates collected between 2002 and 2011 from pigs (n = 19), asymptomatic 
+farmers (n = 15) and hospitalised patients (n = 31) in the Netherlands. The 
+collection included 12 pairs of human and pig isolates from 2011 collected at 12 
+different pig farms. A mutation rate of 1.1 SNPs per genome per year was 
+determined for C. difficile 078. Importantly, we demonstrate that farmers and 
+pigs were colonised with identical (no SNP differences) and nearly identical 
+(less than two SNP differences) C. difficile clones. Identical tetracycline and 
+streptomycin resistance determinants were present in human and animal C. 
+difficile 078 isolates. Our observation that farmers and pigs share identical C. 
+difficile strains suggests transmission between these populations, although we 
+cannot exclude the possibility of transmission from a common environmental 
+source.

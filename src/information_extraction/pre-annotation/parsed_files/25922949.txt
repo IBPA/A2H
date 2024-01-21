@@ -1,0 +1,18 @@
+Clostridium difficile is responsible for 15-20% of antibiotic-associated 
+diarrheas, and nearly all cases of pseudomembranous colitis. Among the cell wall 
+proteins involved in the colonization process, Cwp84 is a protease that cleaves 
+the S-layer protein SlpA into two subunits. A cwp84 mutant was previously shown 
+to be affected for in vitro growth but not in its virulence in a hamster model. 
+In this study, the cwp84 mutant elaborated biofilms with increased biomass 
+compared with the parental strain, allowing the mutant to grow more robustly in 
+the biofilm state. Proteomic analyses of the 630Δerm bacteria growing within the 
+biofilm revealed the distribution of abundant proteins either in cell surface, 
+matrix or supernatant fractions. Of note, the toxin TcdA was found in the 
+biofilm matrix. Although the overall proteome differences between the cwp84 
+mutant and the parental strains were modest, there was still a significant 
+impact on bacterial surface properties such as altered hydrophobicity. In vitro 
+and in vivo competition assays revealed that the mutant was significantly 
+impaired for growth only in the planktonic state, but not in biofilms or in 
+vivo. Taken together, our results suggest that the phenotypes in the cwp84 
+mutant come from either the accumulation of uncleaved SlpA, or the ability of 
+Cwp84 to cleave as yet undetermined proteins.

@@ -1,0 +1,30 @@
+BACKGROUND & AIMS: Clostridioides difficile toxin A (TcdA) activates the innate 
+immune response. TcdA co-purifies with DNA. Toll-like receptor 9 (TLR9) 
+recognizes bacterial DNA to initiate inflammation. We investigated whether DNA 
+bound to TcdA activates an inflammatory response in murine models of C difficile 
+infection via activation of TLR9.
+METHODS: We performed studies with human colonocytes and monocytes and 
+macrophages from wild-type and TLR9 knockout mice incubated with TcdA or its 
+antagonist (ODN TTAGGG) or transduced with vectors encoding TLR9 or 
+small-interfering RNAs. Cytokine production was measured with enzyme-linked 
+immunosorbent assay. We studied a transduction domain of TcdA (TcdA57-80), which 
+was predicted by machine learning to have cell-penetrating activity and 
+confirmed by synchrotron small-angle X-ray scattering. Intestines of CD1 mice, 
+C57BL6J mice, and mice that express a form of TLR9 that is not activated by CpG 
+DNA were injected with TcdA, TLR9 antagonist, or both. Enterotoxicity was 
+estimated based on loop weight to length ratios. A TLR9 antagonist was tested in 
+mice infected with C difficile. We incubated human colon explants with an 
+antagonist of TLR9 and measured TcdA-induced production of cytokines.
+RESULTS: The TcdA57-80 protein transduction domain had membrane remodeling 
+activity that allowed TcdA to enter endosomes. TcdA-bound DNA entered human 
+colonocytes. TLR9 was required for production of cytokines by cultured cells and 
+in human colon explants incubated with TcdA. TLR9 was required in TcdA-induced 
+mice intestinal secretions and in the survival of mice infected by C difficile. 
+Even in a protease-rich environment, in which only fragments of TcdA exist, the 
+TcdA57-80 domain organized DNA into a geometrically ordered structure that 
+activated TLR9.
+CONCLUSIONS: TcdA from C difficile can bind and organize bacterial DNA to 
+activate TLR9. TcdA and TcdA fragments remodel membranes, which allows them to 
+access endosomes and present bacterial DNA to and activate TLR9. Rather than 
+inactivating the ability of DNA to bind TLR9, TcdA appears to chaperone and 
+organize DNA into an inflammatory, spatially periodic structure.

@@ -1,0 +1,23 @@
+The in vitro and in vivo activities of T-3811ME, a novel des-F(6)-quinolone, 
+were evaluated in comparison with those of some fluoroquinolones, including a 
+newly developed one, trovafloxacin. T-3811, a free base of T-3811ME, showed a 
+wide range of antimicrobial spectra, including activities against Chlamydia 
+trachomatis, Mycoplasma pneumoniae, and Mycobacterium tuberculosis. In 
+particular, T-3811 exhibited potent activity against various gram-positive 
+cocci, with MICs at which 90% of the isolates are inhibited (MIC90s) of 0.025 to 
+6.25 microgram/ml. T-3811 was the most active agent against 
+methicillin-resistant Staphylococcus aureus and streptococci, including 
+penicillin-resistant Streptococcus pneumoniae (PRSP). T-3811 also showed potent 
+activity against quinolone-resistant gram-positive cocci with GyrA and ParC 
+(GrlA) mutations. The activity of T-3811 against members of the family 
+Enterobacteriaceae and nonfermentative gram-negative rods was comparable to that 
+of trovafloxacin. In common with other fluoroquinolones, T-3811 was highly 
+active against Haemophilus influenzae, Moraxella catarrhalis, and Legionella 
+sp., with MIC90s of 0.0125 to 0.1 microgram/ml. T-3811 showed a potent activity 
+against anaerobic bacteria, such as Bacteroides fragilis and Clostridium 
+difficile. T-3811 was the most active agent against C. trachomatis (MIC, 0.008 
+microgram/ml) and M. pneumoniae (MIC90, 0.0313 microgram/ml). The activity of 
+T-3811 against M. tuberculosis (MIC90, 0.0625 microgram/ml) was potent and 
+superior to that of trovafloxacin. In experimental systemic infection with a 
+GrlA mutant of S. aureus and experimental pneumonia with PRSP in mice, T-3811ME 
+showed excellent therapeutic efficacy in oral and subcutaneous administrations.

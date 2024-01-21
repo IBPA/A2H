@@ -1,0 +1,21 @@
+Leukotrienes (LTs) belong to a large family of lipid mediators, termed 
+eicosanoids, which are derived from arachidonic acids and released from the cell 
+membrane by phospholipases. LTs are involved in the pathogenesis of inflammatory 
+diseases, such as asthma, rheumatoid arthritis, and peripheral inflammatory 
+pain. In the present study, we examined whether LTs were implicated in 
+pathomechanism of neuropathic pain following peripheral nerve injury. Using the 
+spared nerve injury (SNI) model in rats, we investigated the expression of LT 
+synthases (5-lipoxygenase; 5-LO, Five lipoxygenase activating protein; FLAP, 
+LTA4 hydrolase; LTA4h and LTC4 synthase; LTC4s) and receptors (BLT1, 2 and 
+CysLT1, 2) mRNAs in the rat spinal cord. Semi-quantitative RT-PCR revealed that 
+5-LO, FLAP, LTC4s, BLT1, and CysLT1 mRNAs increased following SNI, but not 
+CysLT2 mRNAs. Using double labeling analysis of in situ hybridization with 
+immunohistochemistry, we observed that 5-LO, FLAP, and CysLT1 mRNAs were 
+expressed in spinal microglia. LTA4h and LTC4s mRNAs were expressed in both 
+spinal neurons and microglia. BLT1 mRNA was expressed in spinal neurons. The p38 
+mitogen-activated protein kinase inhibitor, but not MEK inhibitor, reduced the 
+increase in 5-LO in spinal microglia. Continuous intrathecal administration of 
+the 5-LO inhibitor or BLT1 and CysLT1 receptor antagonists suppressed mechanical 
+allodynia induced by SNI. Our findings suggest that the increase of LT synthesis 
+in spinal microglia produced via p38 MAPK plays a role in the generation of 
+neuropathic pain.

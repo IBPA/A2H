@@ -1,0 +1,24 @@
+Mesenchymal stem cell (MSC) loaded bio-scaffold transplantation is a promising 
+therapeutic approach for bone regeneration and repair. However, growing evidence 
+shows that pro-inflammatory mediators from injured tissues suppress osteogenic 
+differentiation and impair bone formation. To improve MSC-based bone 
+regeneration, it is important to understand the mechanism of inflammation 
+mediated osteogenic suppression. In the present study, we found that synovial 
+fluid from rheumatoid arthritis patients and pro-inflammatory cytokines 
+including interleukin-1α, interleukin-1β, and tumor necrosis factor α, 
+stimulated intercellular adhesion molecule-1(ICAM-1) expression and impaired 
+osteogenic differentiation of MSCs. Interestingly, overexpression of ICAM-1 in 
+MSCs using a genetic approach also inhibited osteogenesis. In contrast, ICAM-1 
+knockdown significantly reversed the osteogenic suppression. In addition, after 
+transplanting a traceable MSC-poly(lactic-co-glycolic acid) construct in rat 
+calvarial defects, we found that ICAM-1 suppressed MSC osteogenic 
+differentiation and matrix mineralization in vivo. Mechanistically, we found 
+that ICAM-1 enhances MSC proliferation but causes stem cell marker loss. 
+Furthermore, overexpression of ICAM-1 stably activated the MAPK and NF-κB 
+pathways but suppressed the PI3K/AKT pathway in MSCs. More importantly, specific 
+inhibition of the ERK/MAPK and NF-κB pathways or activation of the PI3K/AKT 
+pathway partially rescued osteogenic differentiation, while inhibition of the 
+p38/MAPK and PI3K/AKT pathway caused more serious osteogenic suppression. In 
+summary, our findings reveal a novel function of ICAM-1 in osteogenesis and 
+suggest a new molecular target to improve bone regeneration and repair in 
+inflammatory microenvironments.

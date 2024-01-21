@@ -1,0 +1,9 @@
+Triptolide has been clinically used to treat patients with rheumatoid arthritis, 
+in which chemokine receptors play an important role in immune and inflammatory 
+responses. To investigate the effect of triptolide on CCR5, we used complete 
+Freund's adjuvant to produce adjuvant-induced arthritis (AIA) in rats. Our data 
+show that both CCR5 mRNA and protein levels in synovial tissue of rats with AIA 
+are significantly higher than those in normal rats. Triptolide can significantly 
+inhibit rat AIA-induced overexpression of CCR5 at both mRNA and protein levels. 
+These results may contribute to better understanding of the therapeutic effects 
+of triptolide in rheumatoid arthritis.

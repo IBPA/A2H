@@ -1,0 +1,22 @@
+Saccharomyces boulardii, a nonpathogenic yeast, is effective in treating some 
+patients with Clostridium difficile diarrhea and colitis. We have previously 
+reported that S. boulardii inhibits rat ileal secretion in response to C. 
+difficile toxin A possibly by releasing a protease that digests the intestinal 
+receptor for this toxin (C. Pothoulakis, C. P. Kelly, M. A. Joshi, N. Gao, C. J. 
+O'Keane, I. Castagliuolo, and J. T. LaMont, Gastroenterology 104: 1108-1115, 
+1993). The aim of this study was to purify and characterize this protease. S. 
+boulardii protease was partially purified by gel filtration on Sephadex G-50 and 
+octyl-Sepharose. The effect of S. boulardii protease on rat ileal secretion, 
+epithelial permeability, and morphology in response to toxin A was examined in 
+rat ileal loops in vivo. Sodium dodecyl sulfate-polyacrylamide gel 
+electrophoresis of the purified S. boulardii protease revealed a major band at 
+54 kDa. Pretreatment of rat ileal brush border (BB) membranes with partially 
+purified protease reduced specific toxin A receptor binding (by 26%). Partially 
+purified protease digested the toxin A molecule and significantly reduced its 
+binding to BB membranes in vitro (by 42%). Preincubation of toxin A with S. 
+boulardii protease inhibited ileal secretion (46% inhibition, P < 0.01), 
+mannitol permeability (74% inhibition, P < 0.01), and histologic damage caused 
+by toxin A. Thus, S. boulardii protease inhibits the intestinal effects of C. 
+difficile toxin A by proteolysis of the toxin and inhibition of toxin A binding 
+to its BB receptor. Our results may be relevant to the mechanism by which S. 
+boulardii exerts its protective effects in C. difficile infection in humans.

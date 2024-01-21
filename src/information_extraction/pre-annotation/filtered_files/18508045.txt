@@ -1,0 +1,21 @@
+Tumor necrosis factor-alpha (TNF-alpha) is known to play a crucial role in the 
+pathogenesis of rheumatoid arthritis. In the present study, we demonstrate the 
+effects of SA13353 
+(1-[2-(1-Adamantyl)ethyl]-1-pentyl-3-[3-(4-pyridyl)propyl]urea), a novel orally 
+active inhibitor of TNF-alpha production, in animal models, and its mechanism of 
+action on TNF-alpha production. SA13353 significantly inhibited 
+lipopolysaccharide (LPS)-induced TNF-alpha production in a dose-dependent manner 
+in rats. Moreover, SA13353 exhibited a binding affinity for the rat vanilloid 
+receptor and increased neuropeptide release from the rat dorsal root ganglion 
+neurons. However, its effects were blocked by pretreatment with the transient 
+receptor potential vanilloid 1 (TRPV1) antagonist capsazepine. The ability of 
+SA13353 and capsaicin to inhibit LPS-induced TNF-alpha production was eliminated 
+by sensory denervation or capsazepine pretreatment in vivo. Although they 
+inhibited LPS-induced TNF-alpha production in mice, these effects were not 
+observed in TRPV1 knockout mice. SA13353 provoked the release of neuropeptides 
+without nerve inactivation, even when chronically administered to rats. These 
+results suggest that SA13353 inhibits TNF-alpha production through activation of 
+capsaicin-sensitive afferent neurons mediated via TRPV1 in vivo. Post-onset 
+treatment of SA13353 strongly reduced the hindpaw swelling and joint destruction 
+associated with collagen-induced arthritis in rats. Thus, SA13353 is expected to 
+be a novel anti-arthritic agent with a unique mechanism of action.

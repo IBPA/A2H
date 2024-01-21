@@ -1,0 +1,23 @@
+OBJECTIVE: To study lymphocyte markers in rheumatoid arthritis (RA)-associated 
+interstitial pneumonitis (IP) compared with idiopathic IP.
+METHODS: Paraffin-embedded lung biopsy specimens from patients with RA (n = 15) 
+and from those without RA (n = 16), all of whom had a diagnosis of either 
+nonspecific IP or usual IP, were studied. Tissue sections from each patient were 
+reviewed by a pathologist, who was blinded to the clinical data. Age and 
+pulmonary function test results were similar in RA and non-RA patients. After 
+high-temperature antigen unmasking, sections were incubated with mouse 
+monoclonal antibodies directed against CD3, CD4, CD8, CD16, and CD20. All slides 
+were coded, and digital images (100x magnification) of the entire tissue area 
+were obtained. Staining was quantified using computer-assisted image analysis.
+RESULTS: Staining for CD4 was more prominent in patients with RA than in the 
+non-RA comparison group (median 9.3 cells/mm(2), interquartile range [IQR] 
+5.5-27.3 versus 0.6 cells/mm(2), IQR 0.2-1.9; P = 0.002). CD4+ cell counts were 
+increased in RA patients with nonspecific IP as well as in RA patients with 
+usual IP, with no major difference between these groups. Results were similar 
+for quantification of CD3 (P = 0.012). There was a less striking trend toward 
+more CD8+ cells in RA patients (P = 0.27 versus those with non-RA lung disease).
+CONCLUSION: IP lesions in patients with RA are characterized by an increased 
+number of CD4+ cells, as compared with that in patients with idiopathic IP. This 
+finding suggests that CD4+ T cells are critical for the development of pulmonary 
+manifestations in RA, and may have implications for the treatment of 
+RA-associated lung disease.

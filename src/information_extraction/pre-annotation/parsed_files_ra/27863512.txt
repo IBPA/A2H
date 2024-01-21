@@ -1,0 +1,24 @@
+BACKGROUND: We investigated two distinct synovial fibroblast populations that 
+were located preferentially in the lining or sub-lining layers and defined by 
+their expression of either podoplanin (PDPN) or CD248, and explored their 
+ability to undergo self-assembly and transmigration in vivo.
+METHODS: Synovial fibroblasts (SF) were cultured in vitro and phenotypic changes 
+following stimulation with interleukin (IL)-1β, tumor necrosis factor (TNF)-α, 
+and transforming growth factor (TGF)-β1 were examined. To examine the phenotype 
+of SF in vivo, a severe combined immunodeficiency (SCID) human-mouse model of 
+cartilage destruction was utilised.
+RESULTS: SF in the lining layer in rheumatoid arthritis (RA) expressed high 
+levels of PDPN compared to the normal synovium, whereas CD248 expression was 
+restricted to sub-lining layer cells. TNF-α or IL1 stimulation in vitro resulted 
+in an increased expression of PDPN. In contrast, stimulation with TGF-β1 induced 
+CD248 expression. In the SCID human-mouse model, rheumatoid SF recapitulated the 
+expression of PDPN and CD248. Fibroblasts adjacent to cartilage expressed PDPN, 
+and attached to, invaded, and degraded cartilage. PDPN+ CD248- SF preceded the 
+appearance of PDPN- CD248+ cells in contralateral implants.
+CONCLUSIONS: We have identified two distinct SF populations identified by 
+expression of either PDPN or CD248 which are located within different anatomical 
+compartments of the inflamed synovial membrane. These markers discriminate 
+between SF subsets with distinct biological properties. As PDPN-expressing cells 
+are associated with early fibroblast migration and cartilage erosion in vivo, we 
+propose that PDPN-expressing cells may be an attractive therapeutic target in 
+RA.

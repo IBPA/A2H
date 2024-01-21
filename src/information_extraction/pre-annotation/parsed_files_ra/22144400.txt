@@ -1,0 +1,23 @@
+OBJECTIVE: Ankylosing spondylitis (AS) is a common inflammatory arthritis 
+affecting primarily the axial skeleton. IL23R is genetically associated with AS. 
+This study was undertaken to investigate and characterize the role of 
+interleukin-23 (IL-23) signaling in AS pathogenesis.
+METHODS: The study population consisted of patients with active AS (n = 17), 
+patients with psoriatic arthritis (n = 8), patients with rheumatoid arthritis, 
+(n = 9), and healthy subjects (n = 20). IL-23 receptor (IL-23R) expression in T 
+cells was determined in each subject group, and expression levels were compared.
+RESULTS: The proportion of IL-23R-expressing T cells in the periphery was 2-fold 
+higher in AS patients than in healthy controls, specifically driven by a 3-fold 
+increase in IL-23R-positive γ/δ T cells in AS patients. The proportions of CD4+ 
+and CD8+ cells that were positive for IL-17 were unchanged. This increased 
+IL-23R expression on γ/δ T cells was also associated with enhanced IL-17 
+secretion, with no observable IL-17 production from IL-23R-negative γ/δ T cells 
+in AS patients. Furthermore, γ/δ T cells from AS patients were heavily skewed 
+toward IL-17 production in response to stimulation with IL-23 and/or 
+anti-CD3/CD28.
+CONCLUSION: Recently, mouse models have shown IL-17-secreting γ/δ T cells to be 
+pathogenic in infection and autoimmunity. Our data provide the first description 
+of a potentially pathogenic role of these cells in a human autoimmune disease. 
+Since IL-23 is a maturation and growth factor for IL-17-producing cells, 
+increased IL-23R expression may regulate the function of this putative 
+pathogenic γ/δ T cell population.

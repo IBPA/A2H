@@ -1,0 +1,21 @@
+Clostridium difficile is a common cause of health-care acquired diarrhea, 
+resulting in a spectrum of disease from mild diarrhea to life-threatening 
+illness. Sixty Lactobacillus strains were screened for anti-C. difficile 
+activity using a co-culture method. Based on their ability to inhibit C. 
+difficile, L. gasseri APC 678 and L. rhamnosus DPC 6111 were selected for study 
+in a murine model of C. difficile infection. L. gasseri ATCC 33323, was included 
+as a control. It was established that, relative to control mice not fed 
+Lactobacillus, feeding with L. gasseri APC 678 resulted in a significant 
+reduction by day 7 (8-fold, p = 0.017) of viable C. difficile VPI 10463 in the 
+feces of mice. In contrast, neither L. rhamnosus DPC 6111 nor L. gasseri ATCC 
+33323 significantly reduced fecal C. difficile shedding. Sequencing of the cecal 
+microbiota showed that in mice fed L. gasseri APC 678 there was a significant 
+increase in bacterial diversity across a number of indices when compared to the 
+control or other Lactobacillus-fed groups. There was no significant change in 
+the relative abundance of Firmicutes or Bacteroidetes in the group fed L. 
+gasseri APC 678 relative to the control, while the groups fed L. rhamnosus DPC 
+6111 or L. gasseri ATCC 33323 showed a significant decrease in the relative 
+abundance of Firmicutes (p = 0.002 and p = 0.019, respectively) and a 
+significant increase in Bacteroidetes (p = 0.002 and p = 0.023, respectively). 
+These results highlight the potential of L. gasseri APC 678 as a live 
+therapeutic agent to target C. difficile infection.

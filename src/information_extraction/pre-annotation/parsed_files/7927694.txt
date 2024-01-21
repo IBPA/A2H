@@ -1,0 +1,22 @@
+Our laboratory has previously shown that Clostridium difficile adherence to 
+Caco-2 cells is greatly enhanced after heat shock at 60 degrees C and that it is 
+mediated by a proteinaceous surface component. The experiments described here 
+show that C. difficile could adhere to several types of tissue culture cells 
+(Vero, HeLa, and KB) after heat shock. The type of culture medium (liquid or 
+solid, with or without blood) had little effect on adhesion. To clone the 
+adhesin gene, polyclonal antibodies against C. difficile heated at 60 degrees C 
+were used to screen a genomic library of C. difficile constructed in lambda 
+ZapII. Ten positive clones were identified in the library, one of which (pCL6) 
+agglutinated several types of erythrocytes in the presence of mannose. In 
+Western blots (immunoblots), this clone expressed in Escherichia coli a 40- and 
+a 27-kDa protein; a 27-kDa protein has been previously identified in the surface 
+extracts of heat-shocked C. difficile as a possible adhesin. The clone adhered 
+to Vero, Caco-2, KB, and HeLa cells; the adherence was blocked by anti-C. 
+difficile antibodies, by a surface extract of C. difficile, and by mucus 
+isolated from axenic mice. Furthermore, the clone could attach ex vivo to 
+intestinal mucus isolated from axenic mice. Preliminary studies on the receptor 
+moieties implicated in C. difficile adhesion revealed that glucose and galactose 
+could partially block adhesion to tissue culture cells, as did di- or 
+trisaccharides containing these sugars, suggesting that the adhesin is a lectin. 
+In addition, N-acetylgalactosamine, a component of mucus, and gelatin partially 
+impeded cell attachment.

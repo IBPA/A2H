@@ -1,0 +1,14 @@
+B cell activating factor (BAFF) is a cytokine of tumor necrosis factor family 
+mainly produced by monocytes and dendritic cells. BAFF can regulate the 
+proliferation, differentiation, and survival of B lymphocytes by binding with 
+BAFF-R on B cell membrane. Accumulating evidences showed that BAFF played 
+crucial roles and was overexpressed in various autoimmune diseases such as 
+systemic lupus erythematous (SLE) and rheumatoid arthritis (RA). This suggests 
+that BAFF may be a therapeutic target for these diseases. In the present study, 
+we developed a BAFF therapeutic vaccine by coupling a T helper cell epitope 
+AKFVAAWTLKAA (PADRE) to the N terminus of BAFF extracellular domains 
+(PADRE-BAFF) and expressed this fusion protein in Escherichia coli. The purified 
+vaccine can induce high titer of neutralizing BAFF antibodies and ameliorate the 
+syndrome of complete Freund's adjuvant (CFA) induced rheumatoid arthritis in 
+rats. Our data indicated that the BAFF autovaccine may be a useful candidate for 
+the treatment of some autoimmune diseases associated with high level of BAFF.

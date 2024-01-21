@@ -1,0 +1,28 @@
+INTRODUCTION: Proof of concept for local gene therapy for the treatment of 
+arthritis with immunomodulatory cytokine interferon beta (IFN-β) has shown 
+promising results in animal models of rheumatoid arthritis (RA). For the 
+treatment of RA patients, we engineered a recombinant adeno-associated serotype 
+5 vector (rAAV5) encoding human (h)IFN-β under control of a nuclear factor κB 
+promoter (ART-I02).
+METHODS: The potency of ART-I02 in vitro as well as biodistribution in vivo in 
+arthritic animals was evaluated to characterize the vector prior to clinical 
+application. ART-I02 expression and bioactivity after transduction was evaluated 
+in fibroblast-like synoviocytes (FLS) from different species. Biodistribution of 
+the vector after local injection was assessed in a rat adjuvant arthritis model 
+through qPCR analysis of vector DNA. In vivo imaging was used to investigate 
+transgene expression and kinetics in a mouse collagen induced arthritis model.
+RESULTS: Transduction of RA FLS in vitro with ART-I02 resulted in high 
+expression levels of bioactive hIFN-β. Transduction of FLS from rhesus monkeys, 
+rodents and rabbits with ART-I02 showed high transgene expression, and hIFN-β 
+proved bioactive in FLS from rhesus monkeys. Transgene expression and 
+bioactivity in RA FLS were unaltered in the presence of methotrexate. In vivo, 
+vector biodistribution analysis in rats after intra-articular injection of 
+ART-I02 demonstrated that the majority of vector DNA remained in the joint 
+(>93%). In vivo imaging in mice confirmed local expression of rAAV5 in the knee 
+joint region and demonstrated rapid detectable and sustained expression up until 
+7 weeks.
+CONCLUSIONS: These data show that hIFN-β produced by RA FLS transduced with 
+ART-I02 is bioactive and that intra-articular delivery of rAAV5 drives 
+expression of a therapeutic transgene in the joint, with only limited 
+biodistribution of vector DNA to other tissues, supporting progress towards a 
+phase 1 clinical trial for the local treatment of arthritis in patients with RA.

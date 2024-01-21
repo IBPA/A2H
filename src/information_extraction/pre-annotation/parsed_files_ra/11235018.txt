@@ -1,0 +1,25 @@
+OBJECTIVE AND DESIGN: A newly synthesized inhibitor of pyrimidine de novo 
+biosynthesis, KF20444 (6,7-dihydro-10-fluoro-3-(2-fluorophenyl)-5H-benzo [6,7] 
+cyclohepta [1,2-b] quinoline-8-carboxylic acid), was evaluated as an inhibitor 
+of dihydroorotate dehydrogenase (DHO-DHase) and tested in the rat 
+collagen-induced arthritis (CIA) model.
+MATERIAL AND METHODS: Female Sprague Dawley rats, 5 weeks-old, were used for 
+evaluation of KF20444 in the CIA model. Arthritis was evaluated by arthritis 
+score, serum anti-type II collagen antibody titer, body weight loss, 
+radiographical and histological changes.
+TREATMENT: KF20444 was orally administered 5 times per week (0.3, 1, 3 
+mg/kg/day).
+RESULTS: KF20444 inhibited rat liver dihydroorotate dehydrogenase in vitro with 
+Ki = 8.5 +/- 3.2 nM, which was a comparable effect to that of brequinar sodium 
+(Ki = 25.3 +/- 5.3 nM). The anti-proliferative effect of KF20444 was caused by 
+cell cycle arrest at the S-phase. Treatment with 3 mg/kg/day of KF20444 
+completely prevented the development of CIA based on reduction of the arthritis 
+score. The 50% effective dose (ED50) of KF20444 on arthritis score was 0.64 
+mg/kg. KF20444 ameliorated body weight loss associated with disease onset. The 
+compound also inhibited the increase in serum anti-type II collagen antibody 
+level, and reduced both pannus formation and bone erosion. Importantly, KF20444 
+suppressed the development of arthritis, even when it was administered after 
+booster immunization of collagen.
+CONCLUSIONS: KF20444 is a novel immunosuppressant which inhibits DHO-DHase and 
+its effects in CIA suggest that it could be useful in the treatment of 
+rheumatoid arthritis.

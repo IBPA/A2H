@@ -1,0 +1,19 @@
+HLA-G is involved in maternal-fetal immune tolerance and is reported to be a 
+natural tolerogenic molecule. Seven-spliced isoforms including dimeric and 
+β2m-free forms have been identified. The major isoform, HLA-G1 (and its soluble 
+type HLA-G5), binds to the inhibitory immune receptors, leukocyte immunoglobulin 
+(Ig)-like receptor (LILR) B1 and LILRB2. We previously reported that HLA-G1 also 
+binds to paired Ig-like receptor (PIR)-B, a mouse homolog of LILRBs, and had a 
+significant immunosuppressive effect in collagen-induced arthritis (CIA) mice. 
+Although HLA-G2 and its soluble form HLA-G6 bind specifically to LILRB2, its 
+functional characteristics are largely unknown. In this study, we report the 
+significant immunosuppressive effect of HLA-G2 dimer in CIA mice. Surface 
+plasmon resonance analysis revealed a specific interaction of HLA-G2 with PIR-B. 
+CIA mice were administered HLA-G2 protein subcutaneously once in the left 
+footpad and clinical severity was evaluated in a double-blind study. A single 
+administration of HLA-G2 maintained a suppressive effect for over 1month. These 
+results suggested that the HLA-G2 protein might be a useful biopharmaceutical 
+for the treatment of rheumatoid arthritis by binding to inhibitory PIR-B.
+
+Copyright © 2016 American Society for Histocompatibility and Immunogenetics. 
+Published by Elsevier Inc. All rights reserved.

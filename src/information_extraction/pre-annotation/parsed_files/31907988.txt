@@ -1,0 +1,28 @@
+Clostridioides difficile (formerly Clostridium difficile; C difficile), the 
+leading cause of nosocomial antibiotic-associated colitis and diarrhea in the 
+industrialized world, triggers colonic disease through the release two toxins, 
+toxin A (TcdA) and toxin B (TcdB), glucosyltransferases that modulate monomeric 
+G-protein function and alter cytoskeletal function. The initial degree of the 
+host immune response to C difficile and its pathogenic toxins is a common 
+indicator of disease severity and infection recurrence. Thus, targeting the 
+intestinal inflammatory response during infection could significantly decrease 
+disease morbidity and mortality. In the current study, we sought to interrogate 
+the influence of the pregnane X receptor (PXR), a modulator of xenobiotic and 
+detoxification responses, which can sense and respond to microbial metabolites 
+and modulates inflammatory activity, during exposure to TcdA and TcdB. Following 
+intrarectal exposure to TcdA/B, PXR-deficient mice (Nr1i2-/- ) exhibited reduced 
+survival, an effect that was associated with increased levels of innate immune 
+cell influx. This exacerbated response was associated with a twofold increase in 
+the expression of Tlr4. Furthermore, while broad-spectrum antibiotic treatment 
+(to deplete the intestinal microbiota) did not alter the responses in Nr1i2-/- 
+mice, blocking TLR4 signaling significantly reduced TcdA/B-induced disease 
+severity and immune responses in these mice. Lastly, to assess the therapeutic 
+potential of targeting the PXR, we activated the PXR with pregnenolone 
+16α-carbonitrile (PCN) in wild-type mice, which greatly reduced the severity of 
+TcdA/B-induced damage and intestinal inflammation. Taken together, these data 
+suggest that the PXR plays a role in the host's response to TcdA/B and may 
+provide a novel target to dampen the inflammatory tissue damage in C difficile 
+infections.
+
+© 2019 University of Calgary. The FASEB Journal published by Wiley Periodicals, 
+Inc. on behalf of Federation of American Societies for Experimental Biology.

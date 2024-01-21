@@ -1,0 +1,25 @@
+INTRODUCTION: The objective was to study immune regulation in a mouse model of 
+rheumatoid arthritis that exhibits considerable heterogeneity of disease 
+activity.
+METHODS: T-cell receptor transgenic mice, in which nearly all CD4+ T cells 
+recognize a single peptide of type II collagen, were immunized with collagen and 
+observed for development of arthritis for 4 weeks. At 28 days post-immunization, 
+splenocytes were analyzed by flow cytometry and in vitro assays for markers of 
+immune activation and regulation.
+RESULTS: Disease severities ranging from 0 to 12 (on a 12-point scale) were 
+observed. Among splenic lymphocyte populations, only the CD5+ B-cell subset 
+displayed a decrease in relative numbers as arthritis severity increased. 
+Splenic CD5+ B cells expressed higher levels of Fas ligand (FasL) than did CD4+ 
+T cells or CD5- B cells in all mice, and antigen-dependent T-cell death 
+correlated with higher levels of CD5+ B cells in cocultures. Ratios of 
+interleukin (IL)-17 to interferon-gamma production were higher in antigen-driven 
+cultures of splenocytes from severely arthritic mice compared to mildly or 
+nonarthritic mice. A correlation was established between the reduced production 
+of IL-17 in antigen-driven T-cell/B-cell cocultures and FasL, but not IL-10. 
+Confirmation of the direct killing effect of B cells on T cells was demonstrated 
+using an antigen-specific T hybridoma cell line.
+CONCLUSIONS: Reduced numbers of splenic FasL+ CD5+ B cells correlated with 
+increasing arthritis severity and decreased T-cell death in a T-cell receptor 
+transgenic mouse model of collagen-induced arthritis. These 'killer' B cells may 
+provide a novel mechanism for inducing T-cell death as a treatment for 
+arthritis.

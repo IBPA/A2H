@@ -1,0 +1,20 @@
+In spite of popularity of TNF-α antagonist in the treatment of rheumatoid 
+arthritis (RA), their modes of action are not fully understood. In the present 
+study, we further explore the effects of gene transfer route of a TNF-α 
+antagonist on arthritis. Recombinant adeno-associated virus 2 (rAAV2) encoding 
+rat TNF receptor-immunoglobulin Fc (ratTNFR:Fc) fusion gene was injected 
+intraarticularly in rats with collagen-induced arthritis (CIA). As revealed by 
+examination of the clinical, radiographical, and histological aspects, local 
+gene transfer of rAAV2/ratTNFR:Fc ameliorated the arthritis symptoms and 
+inhibited the development of CIA. Compared with the vector control group, 
+expressions of TNF-α, IL-1, and IFN-γ were down-regulated, and IL-10 release was 
+up-regulated in the rAAV2/ratTNFR:Fc-treated group. Furthermore, administration 
+of rAAV2/ratTNFR:Fc ameliorated the enlargement of spleen and significantly 
+reduced spleen cell proliferation. Low level of nitric oxide (NO) in spleen was 
+observed in CIA rats following the delivery of rAAV2/ratTNFR:Fc when compared to 
+the vector control group. This study provides the evidence that intraarticular 
+delivery of rAAV2/ratTNFR:Fc suppress the progression of arthritis by restoring 
+the balance between pro-inflammatory and anti-inflammatory cytokines and 
+inhibiting spleen cell proliferation. Our findings also implicate that the 
+down-regulation of NO release on arthritis is involved in the anti-inflammatory 
+mechanisms of TNF-α antagonist.

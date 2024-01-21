@@ -1,0 +1,32 @@
+Rheumatoid arthritis is a chronic autoimmune disorder resulting in synovial 
+inflammation. Fibroblast activation protein (FAP) is overexpressed by 
+fibroblastlike synoviocytes in arthritic joints. Radioimmunoimaging with an 
+anti-FAP antibody might be used to monitor the response to therapy, thus 
+enabling tailored therapy strategies and therapeutic outcomes. The aim of this 
+study was to assess whether a radiolabeled anti-FAP antibody could be used to 
+monitor the efficacy of treatment with long-circulating liposomes (LCL) 
+containing prednisolone phosphate (PLP-LCL) in a mouse model of arthritis.
+METHODS: Collagen-induced arthritis (CIA) was induced in male DBA/1J mice. Mice 
+were treated with a single injection (10 mg/kg) of PLP-LCL or empty LCL as a 
+control. SPECT and CT images were acquired 24 h after injection of 99mTc-labeled 
+succinimidyl-hydrazinonicotinamide (99mTc-S-HYNIC)-conjugated anti-FAP antibody 
+28H1 at 2, 5, and 9 d after treatment. The uptake of 99mTc-S-HYNIC-28H1 in all 
+joints was quantified and correlated with macroscopic arthritis scores.
+RESULTS: Treatment of CIA with PLP-LCL significantly suppressed joint swelling. 
+At just 1 d after treatment, the macroscopic arthritis scores had decreased by 
+50%. Scores decreased further, to only 10% of the initial scores, at 5 and 9 d 
+after treatment. In contrast, macroscopic arthritis scores had increased up to 
+600% in untreated mice at 9 d after the injection of empty LCL. 
+99mTc-S-HYNIC-28H1 uptake ranged from 1.5 percentage injected dose per gram in 
+noninflamed joints to 22.6 percentage injected dose per gram in severely 
+inflamed joints. The uptake of radiolabeled 28H1 in inflamed joints (percentage 
+injected dose) correlated with the arthritis score (Spearman ρ, 0.77; P < 
+0.0001). Moreover, the uptake of 99mTc-S-HYNIC-28H1 was slightly increased at 9 
+d after therapy but was not seen macroscopically, indicating that SPECT/CT 
+imaging might be more sensitive than the macroscopic arthritis scoring method.
+CONCLUSION: SPECT/CT imaging with 99mTc-S-HYNIC-28H1 specifically monitored the 
+response to therapy, and tracer accumulation correlated with the severity of 
+inflammation. In addition, SPECT/CT imaging was potentially more sensitive than 
+the macroscopic arthritis scoring method. This study showed that SPECT/CT with 
+99mTc-S-HYNIC-28H1 could be used to noninvasively monitor the course of CIA in 
+mice.

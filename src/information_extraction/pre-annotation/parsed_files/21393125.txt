@@ -1,0 +1,26 @@
+OBJECTIVES: Clostridium difficile produces toxins and is an aetiological 
+organism of pseudomembranous colitis. Immunoglobulin is one of the treatment 
+strategies against fulminant C. difficile infections, but the clinical evidence 
+is still limited. We examined the efficacy of intravenous immunoglobulin (IVIg) 
+in C. difficile toxin (CDT)-mediated lethality and cellular injury in mice.
+METHODS: Mice were intraperitoneally injected with 0.2 mL of filter-sterilized 
+C. difficile culture supernatant (CDT preparation). The IVIg preparation was 
+intravenously administered at several timepoints. We also examined alteration of 
+intestinal permeability and an apoptosis marker in the gut. In in vitro 
+experiments, HEp-2 cells were incubated with a CDT preparation in the presence 
+or absence of the IVIg preparation, after which cell viability and lactate 
+dehydrogenase release were examined.
+RESULTS: All control mice died by day 2 after injection of the CDT preparation. 
+The maximum effects of IVIg (100% survival) were observed when the mice were 
+treated with IVIg at the same time as injection of the CDT preparation. The IVIg 
+effects were closely associated with improvement of intestinal vascular 
+permeability and mucosal damage in the gut. In addition, reduction of an 
+apoptosis marker (histone-associated DNA fragments) was demonstrated in the mice 
+treated with IVIg. Interestingly, a smaller increase in histone-associated DNA 
+fragments was observed in FasL-deficient mice treated with the CDT preparation 
+compared with wild-type.
+CONCLUSIONS: These data demonstrated that IVIg may be protective against 
+CDT-mediated lethality, when administered at the appropriate time. The present 
+data also suggest an increase in intestinal permeability, probably through 
+exaggeration of Fas/FasL-mediated apoptosis, as a key mechanism of C. 
+difficile-mediated diseases.

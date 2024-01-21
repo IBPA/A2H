@@ -1,0 +1,14 @@
+IL-23 is an important cytokine to regulate Th17 cell differentiation and promote 
+the proliferation of inflammatory cells in Th17-mediated autoimmune diseases. 
+The collagen-induced arthritis (CIA) in rat is a model of rheumatoid arthritis 
+characterized by pronounced inflammatory auto-responses from B and T cells, 
+especially Th17 cells in lesions. In the present study, we used rhIL23R-CHR to 
+block the IL-23 signaling pathway to probe the importance of IL-23 in 
+misbalancing the ratio of Th17/Th9/Treg cells in CIA rats. After treatments with 
+rhIL23R-CHR, the CIA rats showed a significant decrease of secretions of IL-17 
+and IL-9, whereas FoxP3 was activated in the process, indicating that IL-23 can 
+manipulate the balance of Th17/Th9/Treg cells. Similar to the animal model, 
+IL-23 also possessed remarkable proinflammatory effects on human fibroblast-like 
+synoviocyte cells (HFLS), showing synergetic outcomes with TNF-α. Together, 
+IL-23 could act as a modulator to imbalance the ratio of Th17/Th9/Treg cells, 
+and rhIL23R-CHR could serve as a potential therapeutic agent for RA patients.

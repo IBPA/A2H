@@ -1,0 +1,13 @@
+Clostridium difficile disease has recently increased to become a dominant 
+nosocomial pathogen in North America and Europe, although little is known about 
+what has driven this emergence. Here we show that two epidemic ribotypes (RT027 
+and RT078) have acquired unique mechanisms to metabolize low concentrations of 
+the disaccharide trehalose. RT027 strains contain a single point mutation in the 
+trehalose repressor that increases the sensitivity of this ribotype to trehalose 
+by more than 500-fold. Furthermore, dietary trehalose increases the virulence of 
+a RT027 strain in a mouse model of infection. RT078 strains acquired a cluster 
+of four genes involved in trehalose metabolism, including a PTS permease that is 
+both necessary and sufficient for growth on low concentrations of trehalose. We 
+propose that the implementation of trehalose as a food additive into the human 
+diet, shortly before the emergence of these two epidemic lineages, helped select 
+for their emergence and contributed to hypervirulence.

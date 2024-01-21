@@ -1,0 +1,28 @@
+Antibiotics, while lifesaving, damage the gut microbiome and can precipitate 
+proliferation of pathobionts. A strategy to preserve gut microbiome integrity is 
+to eliminate biologically active antimicrobials excreted into the 
+gastrointestinal tract (GI) without negatively affecting antibiotic therapeutic 
+efficacy. Clinical proof of concept was achieved with SYN-004 (ribaxamase), a 
+beta-lactamase enzyme formulated for oral delivery with intravenous penicillins 
+and cephalosporins. Ribaxamase inactivated intestinal ceftriaxone, protected the 
+gut microbiome, and significantly reduced the incidence of Clostridioides 
+difficile disease. For use with oral beta-lactam antibiotics, a delayed release 
+formulation of ribaxamase, SYN-007, was engineered for dissolution in the lower 
+small intestine distal to the site of oral antibiotic absorption. In dogs that 
+received oral amoxicillin, SYN-007 reduced microbiome disruption without 
+interfering with amoxicillin systemic absorption. Here, a study to determine the 
+lowest effective dose of SYN-007 was performed. Dogs received amoxicillin (40 
+mg/kg, PO, TID) +/- SYN-007 (PO, TID) at three doses, 10 mg, 3 mg, or 1 mg for 
+five days. Serum amoxicillin levels, measured after the first and last 
+antibiotic doses, were not significantly different +/-SYN-007 at all dose levels 
+indicating that SYN-007 did not interfere with amoxicillin systemic absorption. 
+Microbiome analyses demonstrated that amoxicillin significantly reduced bacteria 
+richness and microbiome diversity resulting in altered microbiome composition. 
+However, with all doses of SYN-007, microbiome richness and diversity were not 
+significantly different from pretreatment and changes in microbiome composition 
+were attenuated. These data demonstrate that effective SYN-007 doses can be 
+reduced at least 10-fold while maintaining gut microbiome preservation. The 
+potential to employ low SYN-007 doses to protect the gut microbiota has 
+important implications for enhancing therapeutic outcomes for patients receiving 
+oral beta-lactam antibiotics while simultaneously reducing cost per dose and 
+ultimately, healthcare expenses.

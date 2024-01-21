@@ -1,0 +1,23 @@
+The germination of ingested spores is often a necessary first step required for 
+enabling bacterial outgrowth and host colonization, as in the case of 
+Clostridioides difficile (C. difficile) infection. Spore germination rate in the 
+colon depends on microbiota composition and its level of disruption by 
+antibiotic treatment since secretions by commensal bacteria modulate primary to 
+secondary bile salt levels to control germination. Assessment of C. difficile 
+spore germination typically requires measurement of colony-forming units, which 
+is labor intensive and takes at least 24 h to perform but is regularly required 
+due to the high recurrence rates of nosocomial antibiotic-associated diarrhea. 
+We present a rapid method to assess spore germination by using high throughput 
+single-cell impedance cytometry (>300 events/s) to quantify live bacterial 
+cells, by gating for their characteristic electrophysiology versus spores, so 
+that germination can be assessed after just 4 h of culture at a detection limit 
+of ~100 live cells per 50 μL sample. To detect the phenotype of germinated C. 
+difficile bacteria, we utilize its characteristically higher net conductivity 
+versus that of spore aggregates and non-viable C. difficile forms, which causes 
+a distinctive high-frequency (10 MHz) impedance phase dispersion within 
+moderately conductive media (0.8 S/m). In this manner, we can detect significant 
+differences in spore germination rates within just 4 h, with increasing primary 
+bile salt levels in vitro and using ex vivo microbiota samples from an 
+antibiotic-treated mouse model to assess susceptibility to C. difficile 
+infection. We envision a rapid diagnostic tool for assessing host microbiota 
+susceptibility to bacterial colonization after key antibiotic treatments.

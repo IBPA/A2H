@@ -1,0 +1,23 @@
+Probiotics may represent a promising approach for reducing Clostridioides 
+(Clostridium) difficile infections (CDIs). A clinical trial conducted by our 
+group demonstrated that CDI patients undergoing adjunctive treatment with 
+Lactobacillus and Bifidobacterium probiotics had a reduction in diarrheal 
+duration and compositional changes in their stool microbiomes. Here, we modified 
+a CDI mouse model to represent clinical outcomes observed in patients and 
+employed this model to identify evidence for the prevention of primary CDI and 
+relapse with the same probiotic. Mice (n = 80) were administered 0.25 mg/ml 
+cefoperazone over 5 days and subsequently challenged with 102 C. difficile VPI 
+10463 spores. A subset of mice (n = 40) were administered 108 CFU of probiotics 
+daily alongside cefoperazone pretreatment and until experimental endpoints were 
+reached. Clinical scoring was performed daily on mice and used to evaluate CDI 
+onset and severity. Moderate CDI in mice was defined by survival beyond day 3 
+postinfection, while mice with severe CDI were those who succumbed to infection 
+prior to day 3 postinfection. Sequencing and analysis of 16S rRNA from stool 
+content were performed to determine compositional alterations to the microbiota. 
+Using total clinical scores, we identified an association between probiotic 
+treatment and delayed onset of primary CDI and relapse by approximately 12 to 
+24 h (P < 0.001). The stool microbiome of mice with moderate CDI receiving 
+probiotic treatment was significantly enriched with Lachnospiraceae during 
+primary CDI (P < 0.05). The outcomes observed present an opportunity to use this 
+modified CDI mouse model to examine the efficacy of nonantibiotic options for 
+CDI management.

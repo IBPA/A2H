@@ -1,0 +1,17 @@
+Clostridioides difficile, formerly known as Clostridium difficile, is a 
+spore-forming bacterium considered as the most common cause of nosocomial 
+infections in developed countries. The spore of C. difficile is involved in the 
+transmission of the pathogen and in its first interaction with the host; 
+therefore, a therapeutic approach able to control C. difficile spores would 
+improve the clearance of the infection. The C-terminal (CTD) end of BclA2, a 
+spore surface protein of C. difficile responsible of the interaction with the 
+host intestinal cells, was selected as a putative mucosal antigen. The BclA2 
+fragment, BclA2CTD, was purified and used to nasally immunize mice both as a 
+free protein and after adsorption to the spore of Bacillus subtilis, a 
+well-established mucosal delivery vehicle. While the adsorption to spores 
+increased the in vitro stability of BclA2CTD, in vivo both free and 
+spore-adsorbed BclA2CTD were able to induce a similar, specific humoral immune 
+response in a murine model. Although in the experimental conditions utilized the 
+immune response was not protective, the induction of specific IgG indicates that 
+free or spore-bound BclA2CTD could act as a putative mucosal antigen targeting 
+C. difficile spores.

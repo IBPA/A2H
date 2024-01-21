@@ -1,0 +1,17 @@
+YM-58483/BTP2 is a blocker of store-operated Ca2+ entry (SOCE), which regulates 
+the activation of non-excitable cells such as lymphocytes. YM-58483 has been 
+reported to inhibit cytokine production and proliferation in T cells, and to be 
+useful as a probable medicinal candidate for treatment of bronchial asthma. The 
+present study investigated the pharmacological profile and therapeutic potential 
+of YM-58483 in relation to cell-mediated immune responses. In the mouse 
+graft-versus-host disease (GVHD) model, YM-58483 (1-30 mg/kg, p.o.) and 
+cyclosporine A (1-30 mg/kg, p.o.) inhibited donor anti-host cytotoxic T 
+lymphocyte (CTL) activity and IFN-gamma production, and also reduced the number 
+of donor T cells, especially donor CD8+ T cells, in the spleen. YM-58483 and 
+cyclosporine A inhibited T cell proliferation in a one-way mixed lymphocyte 
+reaction (MLR) with IC50 values of 330 and 12.7 nM, respectively. Additionally, 
+YM-58483 (1-10 mg/kg, p.o.) and cyclosporine A (2, 10 mg/kg, p.o.) inhibited the 
+sheep red blood cell (SRBC)-induced delayed type hypersensitivity (DTH) 
+response. These results suggest that the inhibition of SOCE leads to the 
+prevention of antigen-induced T cell responses, which participate in autoimmune 
+diseases such as autoimmune hepatitis and rheumatoid arthritis.

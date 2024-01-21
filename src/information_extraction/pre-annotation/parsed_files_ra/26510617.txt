@@ -1,0 +1,26 @@
+INTRODUCTION: Pannus formation and resulting cartilage destruction during 
+rheumatoid arthritis (RA) depends on the migration of synoviocytes to cartilage 
+tissue. Here, we focused on the role of hypoxia-inducible factor 
+(HIF)-2α-induced chemokines by chondrocytes in the regulation of fibroblast-like 
+synoviocyte (FLS) migration into the cartilage-pannus interface and cartilage 
+erosion.
+METHODS: Collagen-induced arthritis (CIA), K/BxN serum transfer, and tumor 
+necrosis factor-α transgenic mice were used as experimental RA models. 
+Expression patterns of HIF-2α and chemokines were determined via immunostaining, 
+Western blotting and RT-PCR. FLS motility was evaluated using transwell 
+migration and invasion assays. The specific role of HIF-2α was determined via 
+local deletion of HIF-2α in joint tissues or using conditional knockout (KO) 
+mice. Cartilage destruction, synovitis and pannus formation were assessed via 
+histological analysis.
+RESULTS: HIF-2α and various chemokines were markedly upregulated in degenerating 
+cartilage and pannus of RA joints. HIF-2α induced chemokine expression by 
+chondrocytes in both primary culture and cartilage tissue. HIF-2α -induced 
+chemokines by chondrocytes regulated the migration and invasion of FLS. Local 
+deletion of HIF-2α in joint tissues inhibited pannus formation adjacent to 
+cartilage tissue and cartilage destruction caused by K/BxN serum transfer. 
+Furthermore, conditional knockout of HIF-2α in cartilage blocked pannus 
+formation in adjacent cartilage but not bone tissue, along with inhibition of 
+cartilage erosion caused by K/BxN serum transfer.
+CONCLUSION: Our findings suggest that chemokines induced by IL-1β or HIF-2α in 
+chondrocytes regulate pannus expansion by stimulating FLS migration and 
+invasion, leading to cartilage erosion during RA pathogenesis.

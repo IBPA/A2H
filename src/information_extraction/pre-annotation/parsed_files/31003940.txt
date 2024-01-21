@@ -1,0 +1,14 @@
+Clostridium difficile infection (CDI) is the number one hospital-acquired 
+infection in the United States. CDI is more common and severe in inflammatory 
+bowel disease patients. Here, we studied the mechanism by which prior colitis 
+exacerbates CDI. Mice were given dextran sulfate sodium (DSS) colitis, recovered 
+for 2 weeks, and then were infected with C. difficile. Mortality and CDI 
+severity were increased in DSS-treated mice compared to controls. Severe CDI is 
+dependent on CD4+ T cells, which persist after colitis-associated inflammation 
+subsides. Adoptive transfer of Th17 cells to naive mice is sufficient to 
+increase CDI-associated mortality through elevated IL-17 production. Finally, in 
+humans, the Th17 cytokines IL-6 and IL-23 associate with severe CDI, and 
+patients with high serum IL-6 are 7.6 times more likely to die post infection. 
+These findings establish a central role for Th17 cells in CDI pathogenesis 
+following colitis and identify them as a potential target for preventing severe 
+disease.

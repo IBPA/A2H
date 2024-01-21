@@ -1,0 +1,23 @@
+BACKGROUND AND OBJECTIVE: Mounting studies have illustrated an important role of 
+autophagy in various diseases, but few studies have reported its contribution to 
+rheumatoid arthritis (RA) and the underlying mechanism was largely unknown. This 
+study aimed to investigate whether autophagy inhibitors could regulate apoptosis 
+and proliferation through PI3K/AKT pathway in RA.
+METHODS: RA animal model was established by collagen induction. General 
+observations and degree of joint swelling were observed. Inflammatory response, 
+cell survival related factors and apoptosis were also detected in synovial 
+fibroblasts. In addition, cultured rheumatoid arthritis fibroblast-like 
+synoviocytes (RA-FLS) were subjected to TNF-α treatment in vitro, and TNF-α 
+induced cell autophagy, synovial cell proliferation and apoptosis were detected. 
+Moreover, cell cycle and cytokine secretion protein, along with the above 
+parameters, were analyzed.
+RESULTS: Results from the animal model showed that autophagy inhibitors 
+attenuated inflammatory reaction and synovial hyperplasia, while promoted 
+synovial fibroblasts apoptosis. Meanwhile, inhibition of autophagy promoted cell 
+apoptosis and reversed cell proliferation in vitro, also blocked cell in the 
+G2/M arrest and reduced the S phase cells. Furthermore, we observed that 
+inhibition of PI3K/AKT pathway reversed TNF-α mediated autophagy and cytokine 
+secretion.
+CONCLUSION: autophagy inhibitors could mitigate inflammation response, 
+inhibiting RA-FLS cell proliferation while promoting cell apoptosis by the 
+PI3K/AKT pathway.

@@ -1,0 +1,27 @@
+BACKGROUND: Many bone-related diseases such as osteoporosis and rheumatoid 
+arthritis are commonly associated with excessive activity of the osteoclast. 
+Ganomycin I (GMI), a meroterpenoid isolated from Vietnamese mushroom Ganoderma 
+lucidum, possesses a variety of beneficial effects on human health. However, its 
+impact and underlying mechanism on osteoclastogenesis remain unclear. In the 
+present study, we investigated the effect of GMI on RANKL-induced osteoclast 
+formation in mouse BMMs and RAW264.7 cells.
+METHODS: BMMs or RAW264.7 cells were treated with GMI followed by an evaluation 
+of cell viability, RANKL-induced osteoclast differentiation, actin-ring 
+formation, and resorption pits activity. Effects of GMI on RANKL-induced 
+phosphorylation of MAPKs as well as the expression levels of NFATc1 and c-Fos 
+were evaluated by Western blot analysis. Expression levels of osteoclast marker 
+genes were evaluated by Western blot analysis and reverse transcription-qPCR.
+RESULTS: GMI significantly inhibited RANKL-induced osteoclast differentiation by 
+decreasing the number of osteoclasts, osteoclast actin-ring formation, and bone 
+resorption in a dose-dependent manner without affecting cell viability. At 
+molecular level, GMI inhibited the RANKL-induced phosphorylation of ERK, JNK, 
+and p38 MAPKs, as well as the expression levels of c-Fos and NFATc1, which are 
+known to be crucial transcription factors for osteoclast formation. In addition, 
+GMI decreased expression levels of osteoclastogenesis specific marker genes 
+including c-Src, CtsK, TRAP, MMP-9, OSCAR, and DC-STAMP in RANKL-stimulated 
+BMMs.
+CONCLUSION: Our findings suggest that GMI can attenuate osteoclast formation by 
+suppressing RANKL-mediated MAPKs and NFATc1 signaling pathways and the 
+anti-osteoclastogenic activity of GMI may extend our understanding of molecular 
+mechanisms underlying biological activities and pharmacological use of G. 
+lucidum as a traditional anti-osteoporotic medicine.

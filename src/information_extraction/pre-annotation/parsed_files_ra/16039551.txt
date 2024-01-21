@@ -1,0 +1,23 @@
+Chemically modified tetracyclines are a group of non-antimicrobial tetracycline 
+derivatives, which possess antiinflammatory, anticollagenolytic and 
+antiproliferative properties. Here we studied the effects of four different 
+chemically modified tetracyclines (CMT-1, CMT-3, CMT-8 and CMT-308) on 
+proliferation and viability of cultured mouse and human mast cells. All studied 
+CMTs (25 microM) effectively inhibited the viability and proliferation of human 
+mast cell line (HMC-1) cells and mouse bone marrow derived mast cells (mBMMCs), 
+as judged by trypan blue exclusion and by incorporation of [(3)H]thymidine. The 
+antiproliferative effect of CMTs was not dependent on the stimulating growth 
+factor, i.e. CMTs inhibited both IL-3 and c-kit ligand-induced proliferation of 
+mBMMCs. The reduced viability of mast cells was due to induction of apoptosis, 
+as indicated by the increased amount of apoptotic nucleosomes and the appearance 
+of TUNEL positive cells in the presence of CMTs. The induction of apoptosis was 
+further confirmed by showing that CMT-3 induces activation of caspase-3 and 
+caspase-9 in HMC-1 cells. Additionally, CMT-3 induced downregulation of the 
+expression of antiapoptotic Bcl-2 protein in HMC-1 cells. Compared to 
+doxycycline, the antiproliferative and proapoptotic effects of different CMTs 
+were clearly more pronounced. Of the studied CMTs, CMT-3 and CMT-8 appeared to 
+be the most potent inhibitors of mast cell proliferation and survival. The 
+present results show that CMTs have an antiproliferative and proapoptotic effect 
+on both malignant and non-malignant mast cells. In conclusion, CMTs could offer 
+a novel means to treat disorders with inappropriate expansion of mast cells, 
+such as rheumatoid arthritis and systemic mast cell diseases.

@@ -1,0 +1,21 @@
+BACKGROUND & AIMS: Goblet cells secrete a combination of trefoil peptides and 
+mucin glycoproteins to form a continuous gel on the mucosal surface. The 
+functional effects of these products remain uncertain.
+METHODS: Trefoil peptides and/or mucin glycoproteins were added to Transwell 
+monolayers of the human colonic cancer-derived T84 cell line. Intact monolayers 
+permitted penetration of < 4% of the inert marker [3H]mannitol at 4 hours. 
+Exposure to the toxic lectin phytohemagglutinin (1 mg/mL), oleic acid (8 mmol/L) 
+and taurocholic acid (12 mmol/L), or Clostridium difficile toxin A (0.7 
+microgram/mL) resulted in loss of barrier function with 36%, 62%, and 45% of 
+[3H]mannitol penetration, respectively.
+RESULTS: Addition of recombinant human intestinal trefoil factor in 
+physiological concentrations (1-5 micrograms/microL) resulted in attenuation of 
+the damage to monolayer integrity by up to 52%. Protection was enhanced (up to 
+95%) by the copresence of human colonic mucin glycoproteins. Similar effects 
+were observed when rat intestinal trefoil factor or human spasmolysin, another 
+human trefoil peptide, were added alone or in the presence of human mucin 
+glycoproteins. Conversely, mucin glycoproteins isolated from the rat colon or 
+stomach facilitated protection when added with human spasmolysin or human 
+intestinal trefoil factor.
+CONCLUSIONS: Trefoil peptides and mucin glycoproteins protect gastrointestinal 
+mucosa from a variety of insults.

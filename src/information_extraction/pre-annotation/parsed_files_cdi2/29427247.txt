@@ -1,0 +1,19 @@
+Worldwide, Norway rats (Rattus norvegicus) carry a number of zoonotic pathogens. 
+Many studies have identified rat-level risk factors for pathogen carriage. The 
+objective of this study was to examine associations between abundance, 
+microenvironmental and weather features and Clostridium difficile, 
+antimicrobial-resistant (AMR) Escherichia coli and methicillin-resistant 
+Staphylococcus aureus (MRSA) carriage in urban rats. We assessed city blocks for 
+rat abundance and 48 microenvironmental variables during a trap-removal study, 
+then constructed 32 time-lagged temperature and precipitation variables and 
+fitted multivariable logistic regression models. The odds of C. difficile 
+positivity were significantly lower when mean maximum temperatures were high 
+(≥ 12.89°C) approximately 3 months before rat capture. Alley pavement condition 
+was significantly associated with AMR E. coli. Rats captured when precipitation 
+was low (< 49.40 mm) in the 15 days before capture and those from blocks that 
+contained food gardens and institutions had increased odds of testing positive 
+for MRSA. Different factors were associated with each pathogen, which may 
+reflect varying pathogen ecology including exposure and environmental survival. 
+This study adds to the understanding of how the microenvironment and weather 
+impacts the epidemiology and ecology of zoonotic pathogens in urban ecosystems, 
+which may be useful for surveillance and control activities.

@@ -1,0 +1,24 @@
+OBJECTIVE: : Rheumatoid arthritis (RA) is characterized by hyperplasia of the 
+synovial lining, inflammation, and destruction of cartilage and bone. Since 
+there are only a few detectable cells undergoing apoptosis in the joint, it is 
+possible that a defect in apoptosis may contribute to synovial hyperplasia. This 
+study sought to identify and characterize the direct role of apoptotic 
+regulators in a mouse model of inflammatory arthritis.
+METHODS: Using a serum transfer model, experimental arthritis was induced in 
+mice lacking the proapoptotic Bcl-2 family genes Bak (Bak-/-), Bax (Bax-/-), or 
+Bim (Bim-/-), as compared with wild-type (WT) control mice. Physical examination 
+for edema of the ankles and histopathologic analysis of ankle sections were used 
+to determine the severity of arthritis. The serum and ankles were examined for 
+production of chemokines and cytokines using enzyme-linked immunosorbent or 
+Luminex-based assays.
+RESULTS: Bim-/- mice displayed increased severity and prolongation of arthritis. 
+In contrast, Bak-/- and Bax-/- mice showed no difference in the severity of 
+arthritis as compared with WT mice. In addition, Bim-/- mice had elevated levels 
+of proinflammatory chemokines and cytokines, decreased joint and serum 
+production of antiinflammatory cytokines, fewer TUNEL-positive cells, and 
+reduced levels of active caspase 3 as compared with WT mice.
+CONCLUSION: These studies are the first to demonstrate a role for the 
+proapoptotic Bcl-2 protein Bim in the effector phase of RA. The findings 
+indicate that Bim potentially functions to repress the effector phase of 
+arthritis by regulating the milieu of the joint and serum, and by inducing 
+apoptosis.

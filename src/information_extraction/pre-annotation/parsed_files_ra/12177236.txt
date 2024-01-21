@@ -1,0 +1,25 @@
+To examine whether synovial cell proliferation is due to angiogenesis, we 
+studied the relationship between the inhibition of synovial cell proliferation 
+and an angiogenesis inhibitor, TNP-470, in human synovial tissues. Human 
+synovial tissues were implanted into the back of SCID mice (SCID-HuAg mice). 
+Sixteen mice were divided into two groups of eight mice each: the untreated 
+group (vehicle group) and the TNP-470-treated group that received a dose of 10 
+mg/kg body weight by subcutaneous injection. The number of blood vessels and 
+synovial lining cells clearly increased in the vehicle group, but the number of 
+synovial lining cells clearly decreased and the blood vessels were hardly 
+detected in the TNP-470 group. Immunohistochemically, cells that stained 
+positively for the anti-proliferating cell nuclear antigen (PCNA) mAb were 
+abundant in synovial lining cells and endothelial cells in synovial tissues. 
+Cells that stained positively for the anti-CD34 polyclonal antibody were 
+abundant in the endothelial cells in the vehicle group, but these positively 
+stained cells were hardly detected in the TNP-470 group. The PCNA positivity 
+ratio in the vehicle group was 0.64 +/- 0.019, whereas that in the TNP-470 group 
+was 0.199 +/- 0.007. The numbers of cells that stained positively for anti-CD34 
+polyclonal antibody were 242 +/- 13.4 in the vehicle group and 153 +/- 6.73 in 
+the TNP-470 group per 10 microscopic fields. Cells that stained positively for 
+anti-mouse CD31 mAb were mainly localized in the synovial lining, but invaded 
+the subsynovial lining layer in human synovial tissues. On the other hand, cells 
+that stained positively for anti-human CD31 mAb were mainly localized in the 
+subsynovial lining layer. We found that endothelial cell proliferation is 
+dependent on angiogenesis based on the result that angiogenesis and synovial 
+cell proliferation were inhibited by treatment with TNP-470.

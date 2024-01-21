@@ -1,0 +1,20 @@
+An assay was devised to quantitate acute intestinal inflammation based on the 
+assessment of myeloperoxidase activity. Myeloperoxidase is an enzyme found in 
+neutrophils and, in much smaller quantities, in monocytes and macrophages. 
+Myeloperoxidase was solubilized with hexadecyltrimethylammonium bromide and 
+myeloperoxidase activity was measured with a dianisidine-H2O2 assay. In 
+neutrophil suspensions, myeloperoxidase activity was directly related to cell 
+number down to as few as 500 cells. Myeloperoxidase activity was assayed in two 
+animal models of inflammation: acetic acid-induced colitis in rats and 
+Clostridium difficile enterotoxin-induced enteritis in hamsters. In both models, 
+the activity of myeloperoxidase solubilized from the inflamed tissue was 
+directly proportional to the number of neutrophils seen in histologic sections. 
+Histologic evaluation of neutrophil accumulation was performed by counting the 
+number of neutrophils in a histologic section 0.18 mm long and 5 micron thick. 
+In both animal models, myeloperoxidase activity was linearly related to 
+neutrophil number from 400 and 4000 cells/mm. Myeloperoxidase activity from 
+chronically inflamed colon, in which both neutrophils and histiocytes were 
+present, was directly related to neutrophil content. Histiocytes did not 
+contribute significantly to myeloperoxidase activity. The determination of 
+myeloperoxidase activity in the intestine is a simple biochemical assay that can 
+be used to quantitate inflammation.

@@ -1,0 +1,18 @@
+Pasteurella multocida toxin (PMT), one of the virulence factors produced by the 
+bacteria, exerts its toxicity by up-regulating various signaling cascades 
+downstream of the heterotrimeric GTPases Gq and G12/13 in an unknown fashion. 
+Here, we present the crystal structure of the C-terminal region (residues 
+575-1,285) of PMT, which carries an intracellularly active moiety. The overall 
+structure of C-terminal region of PMT displays a Trojan horse-like shape, 
+composed of three domains with a "feet"-,"body"-, and "head"-type arrangement, 
+which were designated C1, C2, and C3 from the N to the C terminus, respectively. 
+The C1 domain, showing marked similarity in steric structure to the N-terminal 
+domain of Clostridium difficile toxin B, was found to lead the toxin molecule to 
+the plasma membrane. The C3 domain possesses the Cys-His-Asp catalytic triad 
+that is organized only when the Cys is released from a disulfide bond. The 
+steric alignment of the triad corresponded well to that of papain or other 
+enzymes carrying Cys-His-Asp. PMT toxicities on target cells were completely 
+abrogated when one of the amino acids constituting the triad was mutated. Our 
+results indicate that PMT is an enzyme toxin carrying the cysteine protease-like 
+catalytic triad dependent on the redox state and functions on the cytoplasmic 
+face of the plasma membrane of target cells.

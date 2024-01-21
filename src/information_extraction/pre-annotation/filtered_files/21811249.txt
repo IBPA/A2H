@@ -1,0 +1,18 @@
+Tumor necrosis factor-α (TNF-α), a proinflammatory cytokine, plays a key role in 
+the pathogenesis of many inflammatory diseases, including arthritis. 
+Neutralization of this cytokine by anti-TNF-α antibodies has shown its efficacy 
+in rheumatoid arthritis (RA) and is now widely used. Nevertheless, some patients 
+currently treated with anti-TNF-α remain refractory or become nonresponder to 
+these treatments. In this context, there is a need for new or complementary 
+therapeutic strategies. In this study, we investigated in vitro and in vivo 
+anti-inflammatory potentialities of an anti-TNF-α triplex-forming 
+oligonucleotide (TFO), as judged from effects on two rat arthritis models. The 
+inhibitory activity of this TFO on articular cells (synoviocytes and 
+chondrocytes) was verified and compared to that of small interfering RNA (siRNA) 
+in vitro. The use of the anti-TNF-α TFO as a preventive and local treatment in 
+both acute and chronic arthritis models significantly reduced disease 
+development. Furthermore, the TFO efficiently blocked synovitis and cartilage 
+and bone destruction in the joints. The results presented here provide the first 
+evidence that gene targeting by anti-TNF-α TFO modulates arthritis in vivo, thus 
+providing proof-of-concept that it could be used as therapeutic tool for 
+TNF-α-dependent inflammatory disorders.

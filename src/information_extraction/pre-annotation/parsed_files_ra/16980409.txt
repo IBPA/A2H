@@ -1,0 +1,19 @@
+Genetic susceptibility to rheumatoid arthritis (RA) is associated with certain 
+MHC class II molecules. To clarify the role of these determinants in RA, we 
+generated the D1CC transgenic mouse that expressed genes involved in antigen 
+processing and presentation by the MHC class II pathway in joints. The class II 
+transactivator, which was transcribed from the rat collagen type II promoter and 
+enhancer, directed the expression of these genes. In D1CC mice congenic for the 
+H-2(q) (DBA/1) background, small amounts of bovine collagen type II in adjuvant 
+induced reproducibly an inflammatory arthritis resembling RA. Importantly, these 
+stimuli had no effect in DBA/1 mice. Eighty-nine percent of D1CC mice developed 
+chronic disease with joint swelling, redness, and heat in association with 
+synovial proliferation as well as pannus formation and mononuclear infiltration 
+of synovial membranes. Granulomatous lesions resembling rheumatoid nodules and 
+interstitial pneumonitis also were observed. As in patients with RA, anticyclic 
+citrullinated peptide antibodies were detected during the inflammatory stage. 
+Finally, joints in D1CC mice displayed juxtaarticular demineralization, severe 
+joint space narrowing, and erosions, which led to ankylosis, but without the 
+appearance of osteophytes. Thus, aberrant expression of MHC class II in joints 
+facilitates the development of severe erosive inflammatory polyarthritis, which 
+is very similar to RA.

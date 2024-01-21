@@ -1,0 +1,20 @@
+Toxin B (TcdB) is a major pathogenic factor of Clostridum difficile. However, 
+the mechanism by which TcdB exerts its cytotoxic action in host cells is still 
+not completely known. Herein, we report for the first time that TcdB induced 
+autophagic cell death in cultured human colonocytes. The induction of autophagy 
+was demonstrated by the increased levels of LC3-II, formation of LC3+ 
+autophagosomes, accumulation of acidic vesicular organelles and reduced levels 
+of the autophagic substrate p62/SQSTM1. TcdB-induced autophagy was also 
+accompanied by the repression of phosphoinositide 3-kinase 
+(PI3K)/Akt/mechanistic target of rapamycin (mTOR) complex 1 activity. 
+Functionally, pharmacological inhibition of autophagy by wortmannin or 
+chloroquine or knockdown of autophagy-related genes Beclin 1, Atg5 and Atg7 
+attenuated TcdB-induced cell death in colonocytes. Genetic ablation of Atg5, a 
+gene required for autophagosome formation, also mitigated the cytotoxic effect 
+of TcdB. In conclusion, our study demonstrated that autophagy serves as a 
+pro-death mechanism mediating the cytotoxic action of TcdB in colonocytes. This 
+discovery suggested that blockade of autophagy might be a novel therapeutic 
+strategy for C. difficile infection.
+
+© 2018 The Authors. Journal of Cellular and Molecular Medicine published by John 
+Wiley & Sons Ltd and Foundation for Cellular and Molecular Medicine.

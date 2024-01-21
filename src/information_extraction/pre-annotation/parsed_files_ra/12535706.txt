@@ -1,0 +1,21 @@
+Autoantibodies capable of binding the immunoregulatory neuropeptide vasoactive 
+intestinal peptide (VIP) were detected in the sera of a mouse strain prone to 
+autoimmune disease due to the lpr mutation (MRL/lpr). The autoantibodies were 
+not present in control wildtype MRL/lpr mice, but they were readily detected in 
+humans without autoimmune disease. The binding was due to low affinity VIP 
+recognition. Increased VIP binding activity was evident in patients with 
+systemic lupus erythematosus but not systemic sclerosis, Sjögren's syndrome 
+(SS), rheumatoid arthritis or autoimmune thyroiditis. Recombinant VIP binding Fv 
+clones (fragment variable; the variable domains of the light and heavy chains 
+antibody subunits joined with a peptide linker) were isolated from a phage 
+display library prepared from lupus patients. One Fv clone displaying 
+VIP-selective binding and several clones displaying cross-reactivity with 
+unrelated peptides were identified. Replacement mutations in the VIP-selective 
+clone were preferentially localized in the regions known to make contacts with 
+the antigen, i.e. the complementarity determining regions, suggesting that the 
+selective binding activity is due to immunological maturation of the antibodies. 
+Frequent occurrences of autoantibody responses to VIP indicate that 
+immunological tolerance to this neuropeptide can be readily broken. The 
+depletion of VIP by specific antibodies in autoimmune disease may interfere with 
+VIP regulation of T cells and inflammatory cells and result in further 
+amplification of autoreactive immunological responses.

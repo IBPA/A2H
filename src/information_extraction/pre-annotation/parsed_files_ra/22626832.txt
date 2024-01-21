@@ -1,0 +1,22 @@
+INTRODUCTION: Citrullinated self-proteins are thought to be involved in the 
+onset/progression of rheumatoid arthritis (RA). Numerous studies have been 
+performed to look for the self-antigen that becomes citrullinated and induces 
+RA. Importantly, these studies have been performed using citrullinated 
+self-antigens injected into an animal model in the presence of a strong adjuvant 
+in order to derive the response. However, to date no studies have been performed 
+to determine if these phenotypes can be induced in the absence of an adjuvant.
+METHODS: To investigate this possibility, mice were immunized with citrullinated 
+or non-citrullinated mouse Type II collagen (Cit-Col or Col) in the presence or 
+absence of Freund's Complete Adjuvant (FCA).
+RESULTS: An autoimmune-like RA response was observed in mice immunized with 
+Cit-Col in the absence of FCA; by the increase in caliper score, visual 
+observation, and micro-CT analysis of bone erosions. Antibody and T-cell 
+responses were increased in the Cit-Col injected mice to Cit-Col as well as 
+antibody to Anti-Citrullinated Peptide Antigens (ACPA) as determined by a 
+commercially available test kit.
+CONCLUSIONS: Therefore, the use of citrullinated mouse collagen induces an 
+autoimmune-like RA in the absence of an adjuvant. These data also suggest that 
+citrullinate self-proteins may be potential molecular adjuvants that assist in 
+driving an inflammatory response, that increases the production of PAD in joint 
+tissue, resulting in the citrullination of other self-proteins to exacerbate the 
+disease.

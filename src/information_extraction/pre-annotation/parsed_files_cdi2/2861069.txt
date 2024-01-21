@@ -1,0 +1,21 @@
+Clostridium difficile and Clostridium spiroforme have only in recent years been 
+recognized as intestinal pathogens. They both produce toxins that are also 
+produced by other clostridia. C. difficile toxins A and B are produced by C. 
+sordellii and a few strains of C. perfringens whereas C. spiroforme produces the 
+same toxins as C. perfringens Type E (iota toxin). Iota toxin activity may be 
+the product of two proteins. Toxigenic strains of C. spiroforme and Type E 
+produce two antigens which possess much more biological activity when 
+administered together than when given alone. C. difficile was thought for some 
+time to produce only a single toxin, but then the enterotoxic activity was shown 
+to be due to a separate toxin (toxin A). This toxin increases the oral toxicity 
+of toxin B (the main cytotoxin) and may increase the permeability of the colon. 
+Toxin A binds to a specific receptor in hamster brush border membranes and in 
+the membranes of rabbit erythrocytes. This receptor appears to be a 
+glycoprotein. The receptor can be extracted from the membrane with Triton and 
+binds to immobilized toxin A. The receptor can be extracted and used to coat 
+plastic plates as a first phase in an ELISA assay. Another assay has been 
+developed in which the toxin A binds to the red cells and then the erythrocytes 
+are agglutinated with antitoxin. An even more sensitive assay consists of using 
+rabbit erythrocyte ghosts to bind the toxin and then precipitating the ghosts 
+with antibody to toxin A attached to latex beads. Monoclonal antibodies to toxin 
+A also have been developed and are used in these and other assays.

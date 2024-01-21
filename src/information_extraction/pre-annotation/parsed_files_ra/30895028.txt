@@ -1,0 +1,23 @@
+BACKGROUND/PURPOSE: The pathogenesis of rheumatoid arthritis (RA)-related 
+temporomandibular joint (TMJ) disorder remains unclear. Studies have reported 
+the change of the TMJ after complete Freund's adjuvant (CFA) injection, which is 
+consistent with osteoarthritis. However, few studies have reported that the 
+tissue response of the TMJ in collagen-induced arthritis (CIA) can mimic RA. The 
+present study was aimed to investigate the TMJ response in rat models by 
+CFA-induced arthritis and CIA to verify the proper RA-related TMJ arthritis rat 
+model.
+MATERIALS AND METHODS: In total, 24 rats were randomly divided into four groups: 
+(1) control group; (2) type I collagen injection group; (3) CFA-induced 
+arthritis group; and (4) CIA group. Drugs were injected on Day 0, and the rats 
+were sacrificed on Days 7 and 35. Next, TMJ tissue was collected for hematoxylin 
+and eosin staining, and inflammatory gene (IL-1β and MMP3) expression was 
+investigated.
+RESULTS: Compared with the control group, the type I collagen injection group 
+confirmed the negative inflammatory response through hematoxylin and eosin 
+staining and IL-1βand MMP3 expression. Although CFA-induced arthritis and CIA 
+groups showed inflammatory response (P < 0.05) compared with the control group, 
+histological changes were different. The 7-day CFA-induced arthritis group 
+showed adaptive changes and partly recovered after 35 days of induction. In 
+contrast, 7- and 35-day CIA groups underwent a degenerative process.
+CONCLUSION: Considering the study limitations, the CIA method is a proper method 
+to study the mechanism of RA-related TMJ arthritis.

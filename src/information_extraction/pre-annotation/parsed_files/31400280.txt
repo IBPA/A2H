@@ -1,0 +1,27 @@
+BACKGROUND: Most Clostridioides difficile toxinogenic strains produce both 
+toxins A and B (A+B+), but toxin A-negative, toxin B-positive (A-B+) variants 
+also cause disease. We report the identification of a series of pathogenic 
+clinical C. difficile isolates that produce high amounts of toxin A with low or 
+nondetectable toxin B.
+METHODS: An ultrasensitive, quantitative immunoassay was used to measure toxins 
+A and B in stool samples from 187 C. difficile infection (CDI) patients and 44 
+carriers. Isolates were cultured and assessed for in vitro toxin production and 
+in vivo phenotypes (mouse CDI model).
+RESULTS: There were 7 CDI patients and 6 carriers who had stools with detectable 
+toxin A (TcdA, range 23-17 422 pg/mL; 5.6% of samples overall) but toxin B 
+(TcdB) below the clinical detection limit (<20 pg/mL; median TcdA:B ratio 
+17.93). Concentrations of toxin A far exceeded B in in vitro cultures of all 12 
+recovered isolates (median TcdA:B ratio 26). Of 8 toxin A>>B isolates tested in 
+mice, 4 caused diarrhea, and 3 of those 4 caused lethal disease. Ribotyping 
+demonstrated strain diversity. TcdA-predominant samples were also identified at 
+2 other centers, with similar frequencies (7.5% and 6.8%).
+CONCLUSIONS: We report the discovery of clinical pathogenic C. difficile strains 
+that produce high levels of toxin A but minimal or no toxin B. This pattern of 
+toxin production is not rare (>5% of isolates) and is consistently observed in 
+vitro and in vivo in humans and mice. Our study highlights the significance of 
+toxin A in human CDI pathogenesis and has important implications for CDI 
+diagnosis, treatment, and vaccine development.
+
+© The Author(s) 2019. Published by Oxford University Press for the Infectious 
+Diseases Society of America. All rights reserved. For permissions, e-mail: 
+journals.permissions@oup.com.

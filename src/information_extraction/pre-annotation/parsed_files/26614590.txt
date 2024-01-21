@@ -1,0 +1,12 @@
+Clostridium difficile is the leading cause of hospital-acquired diarrhea, also 
+known as C. difficile associated diarrhea. The two major toxins, toxin A and 
+toxin B are produced by most C. difficile bacteria, but some strains, such as 
+BI/NAP1/027 isolates, produce a third toxin called binary toxin. The precise 
+biological role of binary toxin is not clear but it has been shown to be a 
+cytotoxin for Vero cells. We evaluated the toxicity of these toxins in mice and 
+hamsters and found that binary toxin causes death in both animals similar to 
+toxins A and B. Furthermore, immunization of mice with mutant toxoids of all 
+three toxins provided protection upon challenge with native toxins. These 
+results support the concept that binary toxin contributes to the pathogenicity 
+of C. difficile and provide a method for monitoring the toxicity of binary toxin 
+components in vaccines.

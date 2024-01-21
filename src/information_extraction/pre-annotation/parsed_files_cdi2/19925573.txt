@@ -1,0 +1,24 @@
+BACKGROUND: Diarrhea is highly prevalent in racing sled dogs, although the 
+underlying causes are poorly understood.
+HYPOTHESIS: Clostridium perfringens enterotoxin (CPE) and Clostridium difficile 
+Toxin A and B are associated with diarrhea in racing sled dogs.
+ANIMALS: One hundred and thirty-five sled dogs.
+METHODS: Freshly voided feces were obtained from 55 dogs before racing and from 
+80 dogs after 400 miles of racing. Samples were visually scored for diarrhea, 
+mucus, blood, and melena. CPE and C. difficile Toxin A and B were detected by 
+ELISA. Samples were cultured for C. perfringens, C. difficile, Campylobacter, 
+Salmonella, and Escherichia coli O157; Giardia and Cryptosporidium spp. were 
+detected via immunofluorescence.
+RESULTS: Diarrhea occurred in 36% of dogs during racing, and hematochezia, fecal 
+mucus or melena, or all 3 occurred in 57.5% of dogs. Salmonella was isolated 
+from 78.2% of dogs before racing, and from 71.3% of dogs during racing. C. 
+perfringens and C. difficile were isolated from 100 and 58.2% of dogs before 
+racing, and from 95 and 36.3% of dogs during racing. Dogs were more likely to 
+test positive for CPE during than before racing (18.8 versus 5.5%, P = .021); 
+however, no enteropathogens or their respective toxins were significantly 
+associated with hematochezia or diarrhea.
+CONCLUSIONS AND CLINICAL IMPORTANCE: Sled dogs participating in long distance 
+racing have a high prevalence of diarrhea and hematochezia that is not 
+associated with common enteropathogens. It is possible that diarrhea and 
+hematochezia represent the effect of prolonged exercise on the gastrointestinal 
+tract.

@@ -1,0 +1,15 @@
+The immune system has evolved to survey and respond appropriately to the 
+universe of foreign pathogens, while at the same time deploying an intricate 
+repertoire of mechanisms that keep responses to host tissues in check. For the 
+adaptive immune system, specificity and sensitivity are provided by a large 
+repertoire of antigen T-cell receptors (TCRs) constructed in their extracellular 
+domain to recognize antigenic peptide fragments restricted and presented by 
+histocompatibility complex molecules, and coupled through intracellular domains 
+to signal transduction modules that serve to transmit environmental cues inside 
+the cell. In this review we consider recent evidence that has provided insight 
+into how altered TCR signaling thresholds could contribute to human autoimmune 
+arthritis, including rheumatoid arthritis (RA), and the spondyloarthropathies 
+(SpA). We also discuss mechanistic studies that demonstrate how perturbations of 
+T-cell antigen receptor signaling in the SKG mouse model can promote systemic 
+autoimmunity and the intersection with essential innate immune pathways that 
+lead to the development of chronic inflammatory phenotypes.

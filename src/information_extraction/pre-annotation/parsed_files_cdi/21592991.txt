@@ -1,0 +1,13 @@
+A pig ligated loop model was used to analyze the in vivo transcriptome response 
+of Clostridium difficile. Bacterial RNA from the loops was retrieved at 
+different times and was used for microarray analysis. Several 
+virulence-associated genes and genes involved in sporulation cascade were 
+differentially expressed (DE). In concordance with observed upregulation of 
+toxin genes in microarray, enzyme-linked immunosorbent assay estimation of total 
+toxin showed high amounts of toxin in the loops. Several genes that were absent 
+in primary annotation of C. difficile 630 but annotated in a secondary 
+annotation were found to be DE. Pathway comparison of DE genes in vitro and in 
+vivo showed that when several pathways were expressed in all conditions, several 
+of the C. difficile pathways were uniquely expressed only in vivo. The pathways 
+observed to be modulated only in this study could be targets of new therapeutic 
+agents against C. difficile infection.

@@ -1,0 +1,18 @@
+Clostridium difficile, the causative agent of antibiotic-associated colitis, 
+mediates inflammatory diarrhea by releasing toxin A, a potent 308-kDa 
+enterotoxin. Toxin A-induced inflammatory diarrhea involves many steps, 
+including mucosal release of substance P (SP) corticotropin-releasing hormone 
+(CRH) and neutrophil transmigration. Here we demonstrate that, compared with 
+wild type, mice genetically deficient in CRH (Crh(-/-)) have dramatically 
+reduced ileal fluid secretion, epithelial cell damage, and neutrophil 
+transmigration 4 h after intraluminal toxin A administration. This response is 
+associated with diminished mucosal activity of the neutrophil enzyme 
+myeloperoxidase compared with that of wildtype mice. In wild-type mice, toxin A 
+stimulates an increase in intestinal SP content compared with buffer 
+administration. In contrast, toxin A administration in Crh(-/-) mice fails to 
+result in an increased SP content. Moreover, immunohistochemical experiments 
+showed that CRH and SP are colocalized in some enteric nerves of wild-type mice, 
+and this colocalization is more evident after toxin A administration. These 
+results provide direct evidence for a major proinflammatory role for CRH in the 
+pathophysiology of enterotoxin-mediated inflammatory diarrhea and indicate a 
+SP-linked pathway.

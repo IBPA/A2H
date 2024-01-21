@@ -1,0 +1,13 @@
+Despite the success of current biological therapeutics for rheumatoid arthritis, 
+these therapies, targeting individual cytokines or pathways, produce beneficial 
+responses in only about half of patients. Therefore, better therapeutics are 
+needed. IL-6 and IL-17A are proinflammatory cytokines in many autoimmune and 
+inflammatory diseases, and several therapeutics have been developed to 
+specifically inhibit them. However, targeting both of these cytokines with a 
+bispecific therapeutic agent could account for their nonoverlapping 
+proinflammatory functions and for the fact that IL-6 and IL-17A act in a 
+positive feedback loop. Here, we present the development of MT-6194, a 
+bispecific antibody targeting both IL-6R and IL-17A that was developed with the 
+FynomAb technology. We also present data from mouse inflammatory disease 
+experiments, indicating that simultaneous inhibition of both IL-6 and IL-17A 
+yields enhanced efficacy compared with inhibition of each cytokine alone.

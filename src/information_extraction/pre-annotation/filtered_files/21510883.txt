@@ -1,0 +1,26 @@
+INTRODUCTION: Janus kinase 2 (JAK2) is involved in the downstream activation of 
+signal transducer and activator of transcription 3 (STAT3) and STAT5 and is 
+responsible for transducing signals for several proinflammatory cytokines 
+involved in the pathogenesis of rheumatoid arthritis (RA), including interleukin 
+(IL)-6, interferon γ (IFNγ) and IL-12. In this paper, we describe the efficacy 
+profile of CEP-33779, a highly selective, orally active, small-molecule 
+inhibitor of JAK2 evaluated in two mouse models of RA.
+METHODS: Collagen antibody-induced arthritis (CAIA) and collagen type II 
+(CII)-induced arthritis (CIA) were established before the oral administration of 
+a small-molecule JAK2 inhibitor, CEP-33779, twice daily at 10 mg/kg, 30 mg/kg, 
+55 mg/kg or 100 mg/kg over a period of 4 to 8 weeks.
+RESULTS: Pharmacodynamic inhibition of JAK2 reduced mean paw edema and clinical 
+scores in both CIA and CAIA models of arthritis. Reduction in paw cytokines 
+(IL-12, IFNγ and tumor necrosis factor α) and serum cytokines (IL-12 and IL-2) 
+correlated with reduced spleen CII-specific T helper 1 cell frequencies as 
+measured by ex vivo IFNγ enzyme-linked immunosorbent spot assay. Both models 
+demonstrated histological evidence of disease amelioration upon treatment (for 
+example, reduced matrix erosion, subchondral osteolysis, pannus formation and 
+synovial inflammation) and reduced paw phosphorylated STAT3 levels. No changes 
+in body weight or serum anti-CII autoantibody titers were observed in either RA 
+model.
+CONCLUSIONS: This study demonstrates the utility of using a potent and highly 
+selective, orally bioavailable JAK2 inhibitor for the treatment of RA. Using a 
+selective inhibitor of JAK2 rather than pan-JAK inhibitors avoids the potential 
+complication of immunosuppression while targeting critical signaling pathways 
+involved in autoimmune disease progression.

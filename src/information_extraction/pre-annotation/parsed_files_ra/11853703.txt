@@ -1,0 +1,25 @@
+The effects of an important new anti-inflammatory agent, the selective 
+cyclooxygenase-2 inhibitor celecoxib, on bone resorption and osteoclastogenesis 
+elicited by the inflammatory cytokines interleukin-1beta (IL-1beta) and tumor 
+necrosis factor-alpha (TNF-alpha), the endotoxin lipopolysaccharide (LPS), and 
+the systemic hormones 1alpha,25-dihydroxyvitamin D(3) and parathyroid hormone 
+were examined in vitro. Bone resorption was evaluated by measuring calcium 
+released into the culture medium in a neonatal mouse calvarial bone organ 
+culture. Osteoclastogenesis was evaluated by measuring tartrate-resistant acid 
+phosphatase activity in the cells in cocultures of bone marrow cells and 
+osteoblastic cells and in macrophage-colony-stimulating factor-dependent bone 
+marrow cell cultures. Celecoxib (0.1 microM) completely inhibited the calcium 
+release induced by IL-1beta, TNF-alpha, and LPS. The resorptive effect of 
+1alpha,25-dihydroxyvitamin D(3) was inhibited partially by celecoxib. In 
+contrast, celecoxib did not inhibit the calcium release elicited by parathyroid 
+hormone or prostaglandin E(2). Celecoxib (0.1 microM) also markedly inhibited 
+osteoclastogenesis induced by these stimulators of bone resorption except for 
+PGE(2) in the coculture system, whereas it failed to inhibit osteoclastogenesis 
+in macrophage-colony-stimulating factor-dependent bone marrow cell cultures. 
+These results indicate that, under certain conditions, 
+cyclooxygenase-2-dependent prostaglandin synthesis is critical for the bone 
+resorption induced by IL-1beta, TNF-alpha, and LPS, and for the 
+osteoclastogenesis induced by these pro-inflammatory molecules and calciotropic 
+hormones. The prevention of prostaglandin synthesis by inflammatory cytokines in 
+bone cells could contribute to the efficacy of celecoxib in preventing bone loss 
+in rheumatoid arthritis.

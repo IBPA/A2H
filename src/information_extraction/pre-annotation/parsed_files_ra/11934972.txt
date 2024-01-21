@@ -1,0 +1,25 @@
+OBJECTIVE: In order to elucidate which cytokine preferentially stimulates the 
+synovium in patients with rheumatoid arthritis (RA), we investigated the roles 
+of tumour necrosis factor alpha (TNF-alpha) and interleukin 6 (IL-6) using SCID 
+mice engrafted with human RA tissue (SCID-HuRAg).
+METHODS: The SCID-HuRAg mice were prepared according to our previously described 
+method. First, SCID-HuRAg mice were treated with chimeric anti-TNF-alpha 
+monoclonal antibody (mAb, 100 microg/mouse) and histological changes were 
+examined 4 weeks after the initial treatment. Secondly, a total of 100 microg of 
+recombinant TNF-alpha or IL-6 (0.6 microg/h) was administered daily to mice 
+using an osmium pump. The histological changes and serum cytokine levels were 
+examined 4 weeks after the initial administration. Human immunoglobulin G (IgG) 
+was administered to mice as a control.
+RESULTS: Synovial inflammatory cells were significantly decreased after the 
+anti-TNF-alpha mAb treatment; conversely, the degree of synovial inflammation 
+was significantly exacerbated by TNF-alpha administration. The levels of both 
+IL-6 and TNF-alpha in sera were significantly increased by recombinant TNF-alpha 
+administration, while TNF-alpha levels were unchanged by IL-6 administration. 
+This suggests that TNF-alpha controls IL-6 production. Despite the profound 
+changes in inflammation, we found no effects on bone and no articular cartilage 
+damage was produced by TNF-alpha.
+CONCLUSION: This study provides strong evidence that TNF-alpha is a key molecule 
+in the control of the inflammatory changes that occur in the RA synovium. In 
+addition, TNF-alpha regulates IL-6 production. However, other inflammatory 
+pathways independent of TNF-alpha may contribute to the bone and cartilage 
+damage seen in RA.

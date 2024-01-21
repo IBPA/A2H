@@ -1,0 +1,16 @@
+Triptolide, a diterpenoid triepoxide from Tripterygium wilfordii Hook F (TWHF), 
+has been proven to have potent immunosuppressive and anti-inflammatory 
+activities. It has been clinically used to treat patients with rheumatoid 
+arthritis (RA), in which chemokines play an important role in immune and 
+inflammatory responses. To investigate the effect of triptolide on MCP-1, 
+MIP-1alpha and RANTES, we used complete Freund's adjuvant to induce 
+adjuvant-induced arthritis (AA) in rats. AA in rat is a useful experimental 
+model of human RA. Our data show that the thickness of arthritic ankle decreases 
+with administration of triptolide. Both mRNA and protein levels of MCP-1, 
+MIP-1alpha and RANTES in synovial tissue of rats with AA are significantly 
+higher than those in normal rats. mRNA levels of MIP-1alpha and RANTES increase 
+in peripheral blood mononuclear cells of rats with AA in comparison with those 
+in normal rats, whereas no MCP-1 mRNA can be detected. Triptolide can 
+significantly inhibit rat AA induced over-expression of MCP-1, MIP-1alpha and 
+RANTES at both mRNA and protein levels in a dose-dependent manner. These results 
+may contribute to the therapeutic effects of triptolide in rheumatoid arthritis.

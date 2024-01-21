@@ -1,0 +1,15 @@
+Clostridium difficile is a leading cause of antibiotic-associated diarrhea. The 
+mechanisms underlying C. difficile expansion after microbiota disturbance are 
+just emerging. We assessed the gene expression profile of C. difficile within 
+the intestine of gnotobiotic mice to identify genes regulated in response to 
+either dietary or microbiota compositional changes. In the presence of the gut 
+symbiont Bacteroides thetaiotaomicron, C. difficile induces a pathway that 
+metabolizes the microbiota fermentation end-product succinate to butyrate. The 
+low concentration of succinate present in the microbiota of conventional mice is 
+transiently elevated upon antibiotic treatment or chemically induced intestinal 
+motility disturbance, and C. difficile exploits this succinate spike to expand 
+in the perturbed intestine. A C. difficile mutant compromised in succinate 
+utilization is at a competitive disadvantage during these perturbations. 
+Understanding the metabolic mechanisms involved in microbiota-C. difficile 
+interactions may help to identify approaches for the treatment and prevention of 
+C. difficile-associated diseases.

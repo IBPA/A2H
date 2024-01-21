@@ -1,0 +1,25 @@
+BACKGROUND: Inflammatory arthritis is a chronic disease, resulting in synovitis 
+and subchondral and bone area destruction, which can severely affect a patient's 
+quality of life. The most common form of inflammatory arthritis is rheumatoid 
+arthritis (RA) in which many of the disease mechanisms are not well understood. 
+The collagen-induced arthritis (CIA) mouse model is similar to RA as it exhibits 
+joint space narrowing and bone erosion as well as involves inflammatory factors 
+and cellular players that have been implicated in RA pathogenesis. Quantitative 
+data for disease progression in RA models is difficult to obtain as serum blood 
+markers may not always reflect disease state and physical disease indexes are 
+subjective. Thus, it is important to develop tools to objectively assess disease 
+progression in CIA.
+RESULTS: Micro-CT (Computed Tomography) is a relatively mature technology that 
+has been used to track a variety of anatomical changes in small animals. In this 
+study, micro-CT scans of several joints of control and CIA mice were acquired at 
+0, 4, 7, and 9 weeks after the immunization with collagen type II. Each micro-CT 
+scan was analyzed by applying a segmentation algorithm to individual slices in 
+each image set to provide 3-dimensional representations of specific bones 
+including the humerus, femur, and tibia. From these representations, the volume 
+and mean density of these bones were measured and compared. This analysis showed 
+that both the volume and the density of each measured bone of the CIA mice were 
+significantly smaller than those of the controls at week 7.
+CONCLUSIONS: This study demonstrates that micro-CT can be used to quantify bone 
+changes in the CIA mouse model as an alternative to disease index assessments. 
+In conclusion, micro-CT could be useful as a non-invasive method to monitor the 
+efficacy of new treatments for RA tested in small animals.

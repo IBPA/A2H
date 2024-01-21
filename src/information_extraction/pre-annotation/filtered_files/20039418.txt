@@ -1,0 +1,31 @@
+OBJECTIVE: Rheumatoid arthritis (RA) is the most common systemic autoimmune 
+disease and is characterized mainly by symmetric polyarticular joint disorders. 
+The pathologic processes are mediated by a number of cytokines, chemokines, cell 
+adhesion molecules, and matrix metalloproteinases. The expression of most of 
+these molecules is controlled at the transcriptional level. In addition, 
+activation of NF-kappaB is involved in RA pathogenesis. This study was performed 
+to explore the role of a novel serine/threonine kinase inhibitor, fasudil, in 
+the control of the NF-kappaB activation pathway and to investigate the 
+therapeutic effects of fasudil on arthritis development in a rat model of RA.
+METHODS: Fibroblast-like synoviocytes (FLS) from RA patients and human 
+endothelial cells (ECs) were established and maintained. To study the role of 
+fasudil on cytokine expression, various cytokines expressed in the RA FLS and 
+human ECs were measured by enzyme-linked immunosorbent assay following 
+stimulation of the cells with interleukin-1beta (IL-1beta) in the presence of 
+various concentrations of fasudil. The role of fasudil on NF-kappaB activation 
+was studied using a reporter gene assay, Western blotting of IkappaBalpha, 
+immunofluorescence analysis of the p65 subunit of NF-kappaB, and electrophoretic 
+mobility shift assay. The in vivo effects of fasudil on arthritis were studied 
+in a rat adjuvant-induced arthritis (AIA) model.
+RESULTS: Fasudil inhibited cytokine expression in RA FLS and human ECs and also 
+inhibited the activation of ECs, in a dose-dependent manner. Fasudil inhibited 
+IL-1beta-induced activation of NF-kappaB independent of the inhibition of 
+IkappaBalpha degradation and nuclear translocation of NF-kappaB, and inhibited 
+IL-1beta-induced DNA binding of NF-kappaB. Finally, in vivo, fasudil ameliorated 
+arthritis in rats with AIA, without any adverse effects.
+CONCLUSION: Serine/threonine kinase inhibitor fasudil inhibits the development 
+of arthritis in a rat model of RA, and also inhibits the NF-kappaB signaling 
+required for binding of NF-kappaB to specific DNA sequences through, for 
+example, the phosphorylation of p65, suggesting that a specific target of 
+fasudil might be a novel NF-kappaB kinase. Thus, fasudil serves as a novel 
+strategy for the treatment of RA.

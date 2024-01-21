@@ -1,0 +1,26 @@
+OBJECTIVE: Degeneration of extracellular matrix of cartilage leads to the 
+production of molecules capable of activating the immune system via Toll-like 
+receptor 4 (TLR-4). The objective of this study was to investigate the 
+involvement of TLR-4 activation in the development and progression of autoimmune 
+destructive arthritis.
+METHODS: A naturally occurring TLR-4 antagonist, highly purified 
+lipopolysaccharide (LPS) from Bartonella quintana, was first characterized using 
+mouse macrophages and human dendritic cells (DCs). Mice with collagen-induced 
+arthritis (CIA) and mice with spontaneous arthritis caused by interleukin-1 
+receptor antagonist (IL-1Ra) gene deficiency were treated with TLR-4 antagonist. 
+The clinical score for joint inflammation, histologic characteristics of 
+arthritis, and local expression of IL-1 in joints were evaluated after 
+treatment.
+RESULTS: The TLR-4 antagonist inhibited DC maturation induced by Escherichia 
+coli LPS and cytokine production induced by both exogenous and endogenous TLR-4 
+ligands, while having no effect on these parameters by itself. Treatment of CIA 
+using TLR-4 antagonist substantially suppressed both clinical and histologic 
+characteristics of arthritis without influencing the adaptive anti-type II 
+collagen immunity crucial for this model. Treatment with TLR-4 antagonist 
+strongly reduced IL-1beta expression in articular chondrocytes and synovial 
+tissue. Furthermore, such treatment inhibited IL-1-mediated autoimmune arthritis 
+in IL-1Ra(-/-) mice and protected the mice against cartilage and bone pathology.
+CONCLUSION: In the present study, we demonstrate for the first time that 
+inhibition of TLR-4 suppresses the severity of experimental arthritis and 
+results in lower IL-1 expression in arthritic joints. Our data suggest that 
+TLR-4 might be a novel target in the treatment of rheumatoid arthritis.

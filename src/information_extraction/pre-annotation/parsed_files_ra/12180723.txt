@@ -1,0 +1,29 @@
+OBJECTIVE: To examine the efficacy and toxicity of ISA(TX)247, a novel 
+calcineurin inhibitor, in comparison to cyclosporine (cyclosporin A, CSA) and 
+placebo in established collagen induced arthritis. ISA(TX)247 has up to 3-fold 
+greater potency than CSA in an in vitro whole blood calcineurin inhibition assay 
+and in in vivo solid organ and cell transplantation models. Phase I clinical 
+trials show no discernible nephrotoxicity.
+METHODS: Type II collagen immunized DBA/Lac J mice with established arthritis 
+were randomized to treatment with ISA(TX)247 (125/250/500 microg/mouse), CSA 
+(250/500 microg/mouse), or drug vehicle, by daily intraperitoneal injection for 
+10 days from the onset of clinical arthritis.
+RESULTS: A significant dose dependent reduction in clinical severity was 
+observed in ISA(TX)247 treated but not in CSA treated animals 10 days after the 
+onset of established arthritis, and when examined by area under the curve 
+analysis during the treatment period. Significant improvement in paw swelling (p 
+< 0.001), synovial histology (p < 0.001), and articular cartilage damage scores 
+(p = 0.002) was also noted in ISA(TX)247 treated animals, even in the 125 pg 
+dose group (p = 0.03 for paw swelling and synovial histology). By comparison, 
+CSA had no significant effect on either synovial inflammation or articular 
+cartilage damage. ISA(TX)247 (500 microg dose group) was the only treatment to 
+significantly decrease the development of proximal interphalangeal joint 
+erosions (p < 0.05). A significant reduction in Type II collagen antibody titer 
+was noted in ISA(TX)247 animals in both 250 microg (p = 0.02) and 500 microg (p 
+= 0.004) dosage groups, but only in the 500 microg group for CSA (p = 0.004). 
+Treatment was well tolerated, with no significant toxicity in ISA(TX)247 groups.
+CONCLUSION: ISA(TX)247 demonstrates efficacy and safety in the treatment of 
+established collagen induced arthritis. Together with its improved potency and 
+nephrotoxicity profile in comparison to CSA, this agent warrants further 
+clinical investigation in autoimmune disease. Phase II studies in rheumatoid 
+arthritis have been initiated.

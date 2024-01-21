@@ -1,0 +1,19 @@
+Tacrolimus (FK506) has been used as a therapeutic drug beneficial for the 
+treatment of rheumatoid arthritis in humans. In this study, we investigated the 
+effects of FK506 on cellular differentiation in cultured chondrogenic cells. 
+Culture with FK506 led to a significant and concentration-dependent increase in 
+Alcian blue staining for matrix proteoglycan at 0.1 to 1,000 ng/ml, but not in 
+alkaline phosphatase (ALP) activity, in ATDC5 cells, a mouse pre-chondrogenic 
+cell line, cultured for 7 to 28 days, while the non-steroidal anti-inflammatory 
+drug indomethacin significantly decreased Alcian blue staining in a 
+concentration-dependent manner, without altering ALP activity. FK506 
+significantly increased the expression of mRNA for both type II and type X 
+collagen, but not for osteopontin, in ATDC5 cells. Similar promotion was seen in 
+chondrogenic differentiation in both mouse metatarsals and chondrocytes cultured 
+with FK506. However, FK506 failed to significantly affect transcriptional 
+activity of the reporter construct for either sry-type HMG box 9 (Sox9) or 
+runt-related transcription factor-2 (Runx2), which are both transcription 
+factors responsible for chondrocytic maturation as a master regulator. These 
+results suggest that FK506 may predominantly promote cellular differentiation 
+into proliferating chondrocytes through a mechanism not relevant to the 
+transactivation by either Sox9 or Runx2 in chondrogenic cells.

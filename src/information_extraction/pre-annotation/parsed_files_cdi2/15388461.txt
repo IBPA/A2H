@@ -1,0 +1,24 @@
+Although vancomycin and metronidazole effectively treat Clostridium 
+difficile-associated diarrhea and colitis (CDAD), their use is associated with a 
+high incidence of relapsing C. difficile infection. Rifalazil is a new 
+benzoxazinorifamycin that possesses activity against Mycobacterium tuberculosis 
+and gram-positive bacteria. Here we compared rifalazil and vancomycin for 
+effectiveness in preventing or treating clindamycin-induced cecitis in a hamster 
+model of CDAD. Golden Syrian hamsters were injected subcutaneously with 
+clindamycin phosphate (10 mg/kg), followed 24 h later by C. difficile gavage. 
+Hamsters received by gavage for 5 days vehicle, vancomycin (50 mg/kg), or 
+rifalazil (20 mg/kg) either simultaneously with (prophylactic protocol) or 24 h 
+after C. difficile administration (treatment protocol). While all 
+vehicle-administered animals became moribund within 48 h of C. difficile 
+administration, no rifalazil- or vancomycin-treated animals in either protocol 
+showed signs of morbidity after 7 days. Ceca of rifalazil-treated animals showed 
+absence of epithelial cell damage, significantly reduced congestion and edema, 
+and less, but not statistically significantly less, neutrophil infiltration 
+compared to those of vehicle-treated animals. In contrast, vancomycin-treated 
+animals demonstrated severe epithelial cell damage and mildly reduced congestion 
+and edema. Moreover, hamsters relapsed and tested C. difficile toxin positive 
+(by enzyme-linked immunosorbent assay) 10 to 15 days after discontinuation of 
+vancomycin treatment. None of the rifalazil-treated hamsters showed signs of 
+disease or presence of toxins in their feces 30 days after discontinuation of 
+treatment. Our results indicate that once daily rifalazil may be superior to 
+vancomycin for curative treatment of CDAD.

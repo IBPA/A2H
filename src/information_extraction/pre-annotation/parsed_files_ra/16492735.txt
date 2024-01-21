@@ -1,0 +1,21 @@
+IL-32 is a recently discovered cytokine that induces TNFalpha, IL-1beta, IL-6, 
+and chemokines. We investigated whether IL-32 is expressed in the synovia of 
+patients with rheumatoid arthritis (RA) and studied associations with disease 
+severity and the presence of other cytokines. Immunohistochemistry revealed that 
+IL-32 is highly expressed in RA synovial tissue biopsies, whereas IL-32 was not 
+observed in synovial tissues from patients with osteoarthritis. Moreover, in 
+synovial biopsies from 29 RA patients with active disease, the level of IL-32 
+staining correlated with erythrocyte sedimentation rate, a marker of systemic 
+inflammation (R = 0.63 and P < 0.0003). Synovial staining of IL-32 also 
+correlated with indices of synovial inflammation (R = 0.80 and P < 0.0001) as 
+well as synovial presence of TNFalpha (R = 0.68 and P < 0.004), IL-1beta (R = 
+0.79 and P < 0.0001), and IL-18 (R = 0.82 and P < 0.001). IL-32 was a potent 
+inducer of prostaglandin E(2) release in mouse macrophages and human blood 
+monocytes, an important property for inflammation. After the injection of human 
+IL-32gamma into the knee joints of naïve mice, joint swelling, with pronounced 
+influx of inflammatory cells and cartilage damage, was observed. In 
+TNFalpha-deficient mice, IL-32-driven joint swelling was absent and cell influx 
+was markedly reduced, but loss of proteoglycan was unaffected, suggesting that 
+IL-32 activity is, in part, TNFalpha-dependent. IL-32, strongly associated with 
+TNFalpha, IL-1beta, and IL-18, appears to play a role in human RA and may be a 
+novel target in autoimmune diseases.

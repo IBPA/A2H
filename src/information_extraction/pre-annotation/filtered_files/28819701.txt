@@ -1,0 +1,19 @@
+The purpose of this study is to investigate the effect of TSAHC 
+[4'-(p-toluenesulfonylamido)-4-hydroxychalcone] in K/BxN serum transfer 
+arthritis model and fibroblast-like synoviocytes of rheumatoid arthritis 
+(RA-FLS). In in vivo experiments, TSAHC attenuated the incidence and severity of 
+arthritis in comparison with the vehicle group. Histological findings showed 
+that TSAHC decreased the inflammation, bone erosion, cartilage damage, and 
+osteoclasts activity in the ankle. Furthermore, we confirmed by biochemical 
+analysis that the observations were associated with the decreased expression of 
+proinflammatory cytokines, matrix metalloproteinases (MMPs), and RANKL in serum 
+and ankle. In in vitro experiments, TSAHC induced apoptosis, while it 
+significantly suppressed tumor necrosis factor-α (TNF-α)-induced cell 
+proliferation in RA-FLS. Moreover, TSAHC inhibited mRNA expression of 
+TNF-α-induced interleukin (IL)-6, MMP-1, MMP-3, and MMP-13. Evaluation of 
+signaling events showed that TSAHC inhibited the translocation and 
+transcriptional activity of nuclear factor-kappa B (NF-κB) by regulating 
+phosphorylated-IκB-α (p-IκB-α) and IκB-α in TNF-α-induced RA-FLS. Our results 
+suggest that TSAHC inhibits experimental arthritis in mice and suppresses 
+TNF-α-induced RA-FLS activities via NF-κB pathway. Therefore, TSAHC may have 
+therapeutic potential for the treatment of RA.

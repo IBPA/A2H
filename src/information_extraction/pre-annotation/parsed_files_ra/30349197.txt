@@ -1,0 +1,25 @@
+AIM: MicroRNAs (miRNA) are a class of small, highly conserved noncoding RNA 
+molecules, which contain 18-28 nucleotides and are involved in the regulation of 
+gene expression. It has been proved that microRNAs play a very important role in 
+several key cellular processes, such as cell differentiation, cell cycle 
+progression, and apoptosis, as well as in autoimmune disease. One recently 
+identified miRNA, miR-708-5p, has been demonstrated to have profound roles in 
+suppressing oncogenesis in different types of tumors. However, the role of 
+miR-708-5p in rheumatoid arthritis (RA) remains to be fully elucidated. 
+Therefore, in this study, we are aiming to identify the role of miR-708-5p in 
+RA.
+METHODS: The expression level of miR-708-5p in synovial tissues of patients with 
+RA is much lower than in non-RA controls. The effects of miR-708-5p on cell 
+apoptosis, colony formation, and migration in fibroblast-like synoviocytes were 
+assessed in MH7A cells.
+RESULTS: Results showed that delivery of miR-708-5p mimics into synovial 
+fibroblasts MH7A could induce cell apoptosis and inhibit colony formation and 
+migration. In addition, miR-708-5p mimics significantly inhibit Wnt3a/β-catenin 
+pathway activity both in transcription and protein level, which could be 
+reversed by the addition of R-spondin 1, an activator of Wnt pathway. R-spondin 
+1 could also reverse the inhibition of cell survival and proliferation, which 
+was induced by miR-708-5p mimics in MH7A. Moreover, injection of miR-708-5p 
+mimics into collagen-induced rat RA model could ameliorate the RA index and 
+decrease Wnt3a/β-catenin expression in rat joint tissues.
+CONCLUSION: Therefore, we concluded that miR-708-5p is likely to be involved in 
+RA pathogenesis via inhibition of Wnt3a/β-catenin pathway.

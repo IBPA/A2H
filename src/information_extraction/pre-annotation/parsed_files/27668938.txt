@@ -1,0 +1,18 @@
+Clostridium difficile is the most commonly reported nosocomial pathogen in the 
+United States and is an urgent public health concern worldwide. Over the past 
+decade, incidence, severity and costs associated with C. difficile infection 
+(CDI) have increased dramatically. CDI is most commonly initiated by 
+antibiotic-mediated disruption of the gut microbiota; however, 
+non-antibiotic-associated CDI cases are well documented and on the rise. This 
+suggests that unexplored environmental, nutrient and host factors probably 
+influence CDI. Here we show that excess dietary zinc (Zn) substantially alters 
+the gut microbiota and, in turn, reduces the minimum amount of antibiotics 
+needed to confer susceptibility to CDI. In mice colonized with C. difficile, 
+excess dietary Zn severely exacerbated C. difficile-associated disease by 
+increasing toxin activity and altering the host immune response. In addition, we 
+show that the Zn-binding S100 protein calprotectin has antimicrobial effects 
+against C. difficile and is an essential component of the innate immune response 
+to CDI. Taken together, these data suggest that nutrient Zn levels have a key 
+role in determining susceptibility to CDI and severity of disease, and that 
+calprotectin-mediated metal limitation is an important factor in the host immune 
+response to C. difficile.

@@ -1,0 +1,23 @@
+Tigecycline is a broad-spectrum glycylcycline antibiotic with potent in vitro 
+activity against Clostridium difficile. We used a mouse model to test the 
+hypothesis that tigecycline has a low propensity to promote colonization and 
+toxin production by C. difficile due to inhibitory activity in the colon. Mice 
+(5 to 8 per group) received subcutaneous injections of tigecycline (low and high 
+doses) alone or in combination with clindamycin for 6 days. Growth of and toxin 
+production by 3 strains of C. difficile (tigecycline MICs ≤ 0.012 μg/ml) were 
+measured in cecal contents collected 6 h or 3 days after the final antibiotic 
+dose. Antibiotic concentrations were measured using a bioassay, and 
+concentrations of total anaerobes and Bacteroides spp. were measured. The 
+effects of tigecycline on rendering mice susceptible to colonization with and 
+reducing the burden of C. difficile were also examined. In comparison to saline 
+controls, clindamycin promoted the growth of C. difficile (P < 0.001) in cecal 
+contents, whereas tigecycline did not. Tigecycline did not suppress total 
+anaerobes or Bacteroides spp. in comparison to saline controls. Concurrent 
+administration of tigecycline prevented clindamycin-induced promotion of C. 
+difficile in cecal contents collected 6 h or 3 days (high dose only) after the 
+final antibiotic dose. Tigecycline did not promote the establishment of 
+colonization in mice, yet it did not reduce concentrations of C. difficile in 
+animals with established colonization. In summary, tigecycline did not promote 
+the growth of or toxin production by C. difficile, probably due to inhibitory 
+activity against C. difficile and relative sparing of indigenous anaerobic 
+microflora.

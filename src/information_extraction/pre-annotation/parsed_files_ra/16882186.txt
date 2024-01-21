@@ -1,0 +1,40 @@
+BACKGROUND: Irreversible, permanent and scarring alopecia is associated with 
+several autoimmune diseases, including all autoimmune connective tissue 
+disorders. The pathogenesis of autoimmune-induced permanent alopecia (APA) is 
+still poorly understood, and instructive, simple mouse models for the study of 
+APA are needed urgently. During the course of our studies in a well-established 
+mouse model for chronic rheumatoid arthritis, the New Zealand Black/KN (NZB/KN) 
+mouse, we noticed that ageing male NZB/KN mice developed spontaneous APA.
+OBJECTIVES: To study whether alopecia seen in ageing male NZB/KN mice displays 
+key features of human APA and may, thus, be a useful new mouse model for 
+clinically relevant APA research.
+METHODS: NZB/KN, the F1 hybrid of NZW/N Slc x NZB/KN (W/BKN F1), the F1 hybrid 
+of NZB/KN x NZW/N Slc (BKN/W F1), and the F2 hybrid of W/BKN F1 x W/BKN F1 mice 
+were employed in this study, in order to check which strain carries the highest 
+risk of alopecia development. Besides routine histology, CD3, CD4 and CD8 
+expression as well as immunoglobulin (Ig) G and IgM deposition in hair follicles 
+were investigated by immunohistology/immunofluorescence. Mast cell 
+distribution/degranulation and Ki-67 (proliferation)/TUNEL (terminal 
+deoxynucleotidyl transferase-mediated dUTP-biotin nick end labelling) 
+(apoptosis) positive cells were also analysed.
+RESULTS: Only F2 male NZB/KN mice were prone to develop alopecia, suggesting 
+that Y chromosome-associated gene(s) are involved in the pathogenesis of APA, 
+which incidence rises with increasing age. The lesional alopecia skin in 
+12-month-old male NZB/KN mice showed a sharp decline in hair follicle density, 
+thus meeting a key criterion of permanent alopecia. Both macroscopically and 
+histologically, the alopecia seen in these mice resembled in many respects 
+different stages of clinical APA, such as alopecia associated with chronic 
+discoid lupus erythematosus (DLE) in humans. Lesional APA hair follicles in mice 
+displayed intrafollicular and perifollicular mononuclear cell infiltrates, as 
+well as an increased number of activated (degranulated) perifollicular mast 
+cells. In the fully developed lesion, many CD4+ cells were seen in 
+perifollicular locations, including the epithelial stem cell region (bulge), and 
+also contained a few CD8+ T cells. IgM deposits were found in the follicular 
+basement membrane zone (BMZ). Both in the bulge and the hair matrix region of 
+the affected anagen hair follicles, there were signs of massive keratinocyte 
+apoptosis.
+CONCLUSIONS: Our currently available data suggest that male but not female 
+NZB/KN mice may indeed represent a suitable mouse model for APA, with some 
+similarities to the permanent alopecia seen in human DLE patients, although 
+additional and confirmatory investigations are needed before this mouse strain 
+can be accepted as a murine equivalent of APA in humans.

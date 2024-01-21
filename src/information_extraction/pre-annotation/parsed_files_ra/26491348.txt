@@ -1,0 +1,22 @@
+BACKGROUND: We have previously reported that anti-death receptor 5 (DR5) 
+monoclonal antibody (mAb) is therapeutically effective in the treatment of 
+rheumatoid arthritis (RA) in a collagen-induced arthritis rat model. However, 
+the molecular mechanism and the effect of anti-DR5 mAb on proapoptotic genes and 
+cytokine secretion in the human fibroblast-like synovial cells (FLS) requires 
+further clarification. This study may provide new evidence for the application 
+of anti-DR5 mAb as a treatment for RA.
+METHODS: Human FLS were isolated from patients with RA and were treated with 
+anti-DR5 mAb. An MTT assay and flow cytometry were used to detect the induction 
+of apoptosis in vitro. Cytokine secretion by the FLS was detected using the 
+enzyme-linked immunosorbent assay. The mRNA expression was assessed by reverse 
+transcription polymerase chain reaction, and the protein expression was analyzed 
+by Western blot. The apoptotic pathway was investigated further using a caspase 
+inhibition assay.
+RESULTS: Anti-DR5 mAb-induced apoptosis in human RA FLS in vitro. The protein 
+expressions of caspase-8, -3, and -9 were decreased in human anti-DR5 
+mAb-treated FLS in a dose-dependent manner through exposure to a caspase 
+inhibitor, indicating that anti-DR5 mAb induction of apoptosis is through the 
+caspase pathway. Decreased levels of tumor necrosis factor-α (TNF-α) and 
+interferon-γ (IFN-γ) were detected after treatment with anti-DR5 mAb in vitro.
+CONCLUSION: Anti-DR5 mAb may induce apoptosis in human FLS through the caspase 
+pathway and through decreased secretions of TNF-α and IFN-γ.

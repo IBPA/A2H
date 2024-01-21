@@ -1,0 +1,24 @@
+BACKGROUND: Several studies have confirmed that galectin-1 (Gal-1) plays a role 
+in controlling the immune response because of its pro-apoptotic effect. Although 
+studies based on a rheumatoid arthritis (RA) mouse model have suggested a 
+crucial role for Gal-1 in inflammation, clinical data are lacking. We have 
+detected the presence of autoantibodies against galectins in blood, but their 
+physiological meaning remains unknown.
+OBJECTIVES: To compare plasma and synovial levels of Gal-1 in RA patients and in 
+healthy controls, and correlate them with clinical parameters.
+METHODS: Plasma and synovial (non-arthritic knee effusion) samples were 
+collected from RA patients and healthy donors. All patients were receiving 
+treatment with steroids and/or disease-modifying anti-rheumatic drugs (DMARDs). 
+A blood sample was taken at a baseline visit to determine plasma anti-cyclic 
+citrullinated peptide (anti-CCP) antibodies, tumour necrosis factor alpha 
+(TNF-α), Gal-1, and anti-Gal-1 autoantibodies.
+RESULTS: Although plasma levels of Gal-1 were similar in patients and controls, 
+the concentration of Gal-1 was significantly reduced in the synovial fluid of 
+patients with RA. This reduction was not correlated with TNF-α or C-reactive 
+protein (CRP) levels. However, the decrease in synovial Gal-1 correlated with a 
+significant increase in anti-Gal-1 autoantibodies and anti-CCP antibody titres, 
+suggesting a physiological effect of autoantibodies limiting the amount Gal-1 
+and potentially blocking its biological effect in RA patients.
+CONCLUSION: Gal-1 levels were significant reduced at the synovial level in RA 
+patients, possibly as a consequence of the increase in anti-Gal-1 
+autoantibodies.

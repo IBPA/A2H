@@ -1,0 +1,23 @@
+PURPOSE: Rheumatoid arthritis (RA) is an inflammatory joint disorder, the 
+progression of which leads to the destruction of cartilage and bone. Chemokines 
+are involved in RA pathogenesis. In this study, we investigated the chemokine 
+signaling pathway associated with CCL2 in peripheral blood (PB) and synovial 
+tissues (ST) of RA patients based on our previous work about chemokine signaling 
+pathway involved in the activation of CCL2 production in collagen-induced 
+arthritis rat ST.
+MATERIALS AND METHODS: Total RNA was isolated from PB leukocytes and synovium of 
+the knee joint in both RA patients and control populations. Real-time polymerase 
+chain reaction was used to determine CCL4, CCR5, c-Jun, c-Fos, and CCL2 
+expressions. Serum level of CCL2 was assessed by enzyme-linked immunosorbent 
+assay, and the production of CCL2 in ST was analyzed immunohistochemically.
+RESULTS: The expressions of CCL4, CCR5, c-Jun, c-Fos, and CCL2 messenger RNA in 
+RA patients were significantly higher than those in healthy controls, both in ST 
+and on PB leukocyte. Serum CCL2 levels were elevated in RA patients. 
+Histological examination of rheumatoid joints revealed extensive CCL2 expression 
+in RA ST.
+CONCLUSION: CCL2, CCL4, c-Jun, c-Fos, and CCR5 may play an important role in the 
+recruitment of PB leukocytes into the RA joints. These data provide evidence 
+that the chemokine signaling pathway is involved in CCL2 expression in RA 
+patient tissues, which may contribute to chronic inflammation associated with 
+RA. Targeting this signaling pathway may provide a novel therapeutic avenue in 
+RA.

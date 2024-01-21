@@ -1,0 +1,18 @@
+Sphingolipids (SPLs) are biologically important molecules, but the structural 
+diversity and complexity of SPLs brings significant analytical challenges for 
+their study. In this paper, we have developed an UPLC-Q-TOF-MS-based 
+sphingolipidomic approach for the comprehensive identification and 
+quantification of SPLs in rat serum. A total of 120 SPLs covering seven 
+subcategories were identified for the first time. Method validations including 
+linearity, sensitivity, reproducibility, and recovery were also evaluated. This 
+method was exemplarily applied to characterize the SPL alterations in rheumatoid 
+arthritis (RA) rats and the intervention effects of indomethacin (IDM). Partial 
+least squares-discriminant analysis (PLS-DA) showed that the model group was 
+well separated from the control group, whereas the IDM-treated group exhibited a 
+trend to recover the controls. Twenty-six significantly changed SPL markers were 
+explored, and the levels of ceramides (Cers) and their metabolites were found to 
+be reversed by IDM treatment. These results indicate that IDM exerts 
+anti-arthritic effects through the suppression of Cer-mediated COX-2 activation 
+and resulting PEG₂ liberation. The present study demonstrates a promising 
+potential of this method for the understanding of RA and the anti-arthritic 
+mechanisms of relevant drugs.

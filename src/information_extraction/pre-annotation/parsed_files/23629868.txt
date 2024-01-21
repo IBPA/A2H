@@ -1,0 +1,19 @@
+The Clostridium difficile toxins A and B are primarily responsible for symptoms 
+of C. difficile associated disease and are prime targets for vaccine 
+development. We describe a plasmid-based system for the production of 
+genetically modified toxins in a non-sporulating strain of C. difficile that 
+lacks the toxin genes tcdA and tcdB. TcdA and TcdB mutations targeting 
+established glucosyltransferase cytotoxicity determinants were introduced into 
+recombinant plasmids and episomally expressed toxin mutants purified from C. 
+difficile transformants. TcdA and TcdB mutants lacking glucosyltransferase and 
+autoproteolytic processing activities were ~10 000-fold less toxic to cultured 
+human IMR-90 cells than corresponding recombinant or native toxins. However, 
+both mutants retained residual cytotoxicity that could be prevented by 
+preincubating the antigens with specific antibodies or by formalin treatment. 
+Such non-toxic formalin-treated mutant antigens were immunogenic and protective 
+in a hamster model of infection. The remaining toxicity of untreated TcdA and 
+TcdB mutant antigens was associated with cellular swelling, a phenotype 
+consistent with pore-induced membrane leakage. TcdB substitution mutations 
+previously shown to block vesicular pore formation and toxin translocation 
+substantially reduced residual toxicity. We discuss the implications of these 
+results for the development of a C. difficile toxoid vaccine.

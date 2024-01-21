@@ -1,0 +1,19 @@
+BACKGROUND & OBJECTIVE: Clostridium difficile is recognized as a frequent cause 
+of antibiotic-induced diarrhea. This study was designed to investigate whether 
+Clostridium difficile toxin A might induce apoptosis on human hepatoma cell line 
+SMMC7721 and African green monkey kidney Vero cells.
+METHODS: Highly purified toxin A was obtained by bovine thyroglobulin affinity 
+purification followed by ion exchange chromatography on Q sepharose. The 
+apoptosis induction of toxin A was examined on SMMC7721 cells with Vero cells as 
+a control. Inhibition of proliferation was measured by MTT assay. Morphological 
+assessment of apoptosis was performed with fluorescence and electronic 
+microscopy. DNA fragmentation was observed by agarose gel electrophoresis. Cell 
+cycle distribution was analyzed by flow cytometry.
+RESULTS: Toxin A (0.293-4.690 mg x L(-1) ) inhibited proliferation of SMMC7721 
+and Vero cells in a time- and concentration-dependent manner. Morphological 
+changes of typical apoptosis showed that SMMC7721 had a higher percentage of 
+apoptosis than Vero cells. Agarose gel electrophoresis of DNA from SMMC7721 
+treated with toxin A for 48 hours revealed a "ladder" pattern.
+CONCLUSION: Clostridium difficile toxin A induced apoptosis of SMMC7721 and Vero 
+cells. The apoptosis induction on SMMC7721 cells was more effective than that on 
+Vero cells.

@@ -1,0 +1,19 @@
+Progranulin (PGRN), an autocrine growth factor, has multiple physiological 
+functions and is widely involved in the pathogenesis of many types of diseases. 
+The pivotal anti-inflammatory function of PGRN in rheumatoid arthritis 
+encouraged us to examine the role of PGRN in acute kidney injury (AKI). We found 
+that levels of PGRN were significantly reduced in the kidney in a mouse model of 
+renal ischemia/reperfusion injury. We also observed that PGRN deficiency 
+(Grn(-/-) mice) significantly aggravated renal injury as evidenced by higher 
+serum creatinine, more severe morphological injury, increased tubular epithelial 
+cell death, and tubulointerstitial neutrophil and macrophage infiltration versus 
+wild-type mice. In vitro, we found that recombinant human PGRN attenuated 
+hypoxia-induced inflammatory actions and apoptosis in proximal tubule epithelial 
+cells, at least in part associated with a nucleotide-binding oligomerization 
+domain containing 2 (NOD2)-mediated immune response. Importantly, pretreatment 
+with or delayed administration of recombinant human PGRN protected against or 
+promoted recovery from renal ischemia/reperfusion injury in wild-type and 
+Grn(-/-) mice. Similar protective effects were also found in cisplatin-induced 
+AKI. Thus, our findings provide a better understanding of the biological 
+activities of PGRN in the kidney and suggest that PGRN may be an innovative 
+therapeutic strategy for treating patients with AKI.

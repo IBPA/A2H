@@ -1,0 +1,20 @@
+Rheumatoid arthritis is a chronic inflammatory joint disorder characterised by 
+erosive inflammation of the articular cartilage and by destruction of the 
+synovial joints. It is regulated by both genetic and environmental factors, and, 
+currently, there is no preventative treatment or cure for this disease. 
+Genome-wide association studies have identified ∼100 new loci associated with 
+rheumatoid arthritis, in addition to the already known locus within the major 
+histocompatibility complex II region. However, together, these loci account for 
+only a modest fraction of the genetic variance associated with this disease and 
+very little is known about the pathogenic roles of most of the risk loci 
+identified. Here, we discuss how rat models of rheumatoid arthritis are being 
+used to detect quantitative trait loci that regulate different arthritic traits 
+by genetic linkage analysis and to positionally clone the underlying causative 
+genes using congenic strains. By isolating specific loci on a fixed genetic 
+background, congenic strains overcome the challenges of genetic heterogeneity 
+and environmental interactions associated with human studies. Most importantly, 
+congenic strains allow functional experimental studies be performed to 
+investigate the pathological consequences of natural genetic polymorphisms, as 
+illustrated by the discovery of several major disease genes that contribute to 
+arthritis in rats. We discuss how these advances have provided new biological 
+insights into arthritis in humans.

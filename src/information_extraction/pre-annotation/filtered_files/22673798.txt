@@ -1,0 +1,26 @@
+Rheumatoid arthritis is characterized by the imbalance of T cells, which leads 
+to increased pro-inflammatory and reduced anti-inflammatory cytokines. 
+Modulating the balance among T cells is crucial for the treatment of RA. Kirenol 
+is a major diterpenoid components of Herba Siegesbeckiae, which has been applied 
+for arthritic therapy for centuries. Since prior research showed Kirenol 
+exhibited anti-inflammatory effect in rats, in this study we have evaluated the 
+effect and mechanism of bioactive Kirenol in a rat model of collagen-induced 
+arthritis (CIA) on modulation of T cells. After immunization with bovine type II 
+collagen (CII), Wistar rats were orally administered saline (CIA group), 2 mg/kg 
+Kirenol or 2 mg/kg prednisolone daily for 30 days. The severity of arthritis was 
+clinically and histologically assessed. The numbers of CD4⁺CD25⁺Foxp3⁺ T 
+regulatory cells (Tregs) and IFNγ⁺CD4⁺ and IL4⁺CD4⁺ T cells were determined by 
+flow cytometry, the mRNA expression level of Foxp3 was quantified by RT-PCR, 
+cytokine levels were measured by ELISA and CII-induced cell proliferation was 
+quantified in vitro. Kirenol significantly delayed the occurrence and reduced 
+the disease severity of CIA. Histological analysis confirmed Kirenol suppressed 
+joint inflammation and inhibited cartilage and bone destruction, compared to the 
+CIA group. Kirenol also upregulated the mRNA expression of Foxp3, increased the 
+numbers of CD4⁺CD25⁺Foxp3⁺ and IL4⁺CD4⁺ T cells, and reduced the number of 
+IFNγ⁺CD4⁺ T cells. Kirenol reduced the levels of TNF-α, IL-17A and IL-6 in 
+synovial fluid and TNF-α, IL-17A and IFN-γ in serum, and increased the serum 
+levels of IL-4, IL-10 and TGF-β1. In addition, Kirenol inhibited the ability of 
+CII to induce splenocyte, PBMC and lymph node cell proliferation in vitro, 
+compared to cells from CIA rats. In conclusion, these results suggest that 
+Kirenol may be a potential immunosuppressant for the treatment for rheumatoid 
+arthritis.

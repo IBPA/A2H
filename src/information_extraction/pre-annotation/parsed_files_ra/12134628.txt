@@ -1,0 +1,68 @@
+A number of years ago several groups reported that Interleukin 10 (IL10) was 
+vigorously overproduced in disseminated lupus erythematosus (reviewed in 
+Llorente et al., 2000). This hyperproduction obeys two different patterns. In 
+one pattern, IL10 serum concentrations become elevated during disease and evolve 
+in parallel with them. In the other, the patients' blood mononucleated cells 
+spontaneously release increased IL10 quantities; contrary to serum variations in 
+the first pattern, this increased output is not correlated with disease spurts. 
+Interestingly an increase of this type is frequently found in disease-free 
+parents of these patients (Llorente et al., 1997; Gröndal et al., 1999). Some 
+studies relate this IL10 hyperproduction to a genetic origin (Mehrian et al., 
+1998; Mok et al., 1998), while others seem to indicate an environmental cause 
+(Gröndal et al., 1999). Together these findings suggest two different possible 
+origins for lupus IL10 overproduction. The first would be due to intrinsic 
+anomalous IL10 production by some immune cells, the second would result from 
+high IL10 output by tissues damaged by the inflammatory process. Considering the 
+properties of IL10, which activates B lymphocytes and inhibits T lymphocytes, 
+overproduction in lupus could explain the immune anomalies of this disease, 
+which is characterized by anti-self antibodies production and by deficient T 
+responses. Interestingly several of these anomalies are found independently from 
+disease outbreaks and, in the case of some, in relatives of patients. The part 
+played by IL10 in lupus has been inferred from the murine NZB-W model, in which 
+an anti-IL10 monoclonal antibody prevents development of the disease (Ishida et 
+al., 1994); this antibody also prevents the appearance of human anti-ADN 
+autoantibodies in immune-deficient mice restored with patients' lymphocytes. A 
+direct demonstration of the role of IL10 in the etiology of lupus symptoms has 
+recently been adduced in a pilot study bearing on six lupus patients, refractory 
+to anti-inflammatory and immuno-suppressive treatments, who were treated for 3 
+weeks with a murine anti-IL10 monoclonal antibody (Llorente et al., 2000). This 
+treatment brought about a rapid amelioration of the clinical picture, in 
+particular of the cutaneous and articular symptoms, which was maintained for six 
+months after this trial. This symptomatic amelioration was accompanied by a 
+decrease of the biological signs of immune system hyperactivity and a partial 
+amelioration of T lymphocyte function. The better clinical control of the 
+disease allowed a significant decrease of corticotherapy. While this was an open 
+study, without a control group and without randomisation, the rapid and 
+important evolution of clinical and biological parameters towards normal 
+strongly pleads for a favorable effect of the treatment. While confirming 
+previous hypotheses about the rote of IL10 in lupus, this study leaves several 
+points unexplained. First the clinical and biological amelioration in these 
+patients treated with anti-IL10 monoclonal antibody occurred independently of 
+circulating anti-ADN auto-antibodies, indicating that the role of this 
+interleukin in the disease is more complex than could be thought from the 
+initial experiments in mouse. This unexpected result does not exclude that the 
+beneficial effect of the antibody could be mediated by its action on B 
+lymphocytes, since it is well known that these cells play important parts in 
+development auto-immune processes other than only the production of 
+auto-antibodies. It is also possible that the negative effect of IL10 in this 
+disease exerts on other targets than B lymphocytes, in particular on fibroblasts 
+and endothelial cells. Indeed it should be recalled that, while IL10 has often 
+been held as an anti-inflammatory cytokine, its biological properties are more 
+ambiguous, since it can immuno-stimulate some cell types. Among other remaining 
+unknowns, the reason why some IL10 overproducing individuals, belonging to the 
+family of lupus patients, do not develop lupus, is not understood. This fact 
+underlines the multi-factorial origin of this disease, which must stem from 
+associated genetic and environmental causes. IL10 overproduction, while it 
+apparently promotes the symptoms, is certainly not sufficient. The efficiency of 
+anti-IL 10 monoclonal antibodies during lupus, which are well tolerated, points 
+to their usefulness in the therapeutic arsenal, especially in forms that are 
+refractory to conventional anti-inflammatory and immunosuppressive treatments. 
+In order to be validated, this hypothesis must be submitted to more in depth, 
+randomized, studies. Moreover humanized antibodies should be developed, which 
+would make it possible to reiterate the treatment during further outbreaks. Once 
+all these conditions are fulfilled, the place of anti-IL10 treatment in lupus 
+and the benefice-risk ratio should be compared to these of therapeutic 
+approaches currently used in refractory forms. If further studies confirm the 
+efficiency of- and tolerance to- IL10 neutralizing antibodies in lupus, it is 
+well possible that these antibodies will eventually equate, for this disease, 
+the recent use of TNF antagonists in the treatment of rheumatoid arthritis.

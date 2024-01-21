@@ -1,0 +1,25 @@
+OBJECTIVE: Collagen-induced arthritis (CIA) is a polygenic model of 
+experimentally induced autoimmunity and chronic joint inflammation. This study 
+maps genetic loci that regulate CIA susceptibility in DA/Bkl (DA) and BN/SsNHsd 
+(BN) rats.
+METHODS: Genome scans covering chromosomes 1-20 and interval mapping techniques 
+using 159 simple sequence-length polymorphism markers were used to identify 
+quantitative trait loci (QTLs) that regulate CIA in (DA x BN)F2 hybrids. Serum 
+antibody titers to type II collagen were determined by enzyme-linked 
+immunosorbent assay.
+RESULTS: DA rats were high responders to porcine type II collagen (PII) and 
+developed severe CIA (100%). BN rats were low responders to PII and resistant to 
+CIA (0%). BN genes strongly repressed PII-induced CIA. Only 12% of (DA x BN)F1 
+rats (7 of 60) and 31% of (DA x BN)F2 rats (307 of 1,004) developed CIA. Three 
+new QTLs (Cia11, Cia12, and Cia13) with significant logarithm of odds (LOD) 
+scores of 5.6, 4.6, and 4.5, respectively, plus a suggestive QTL (Cia14*, LOD 
+3.0) regulating arthritis severity were identified on chromosomes 3, 12, 4, and 
+19. A new QTL, Ciaa3, associating with anticollagen antibody titer (antibody to 
+PII LOD 6.5; antibody to rat type II collagen LOD 5.2) mapped to chromosome 9. 
+Of 10 CIA QTLs previously identified in (DA x F344) and (DA x ACI) rats, only 
+Cia1 in the major histocompatibility complex and a region coincident to Cia5 on 
+chromosome 10 (LOD >8.0) influenced CIA severity in (DA x BN)F2 rats.
+CONCLUSION: Since CIA exhibits many of the pathologic features of rheumatoid 
+arthritis, the data indicate that the variety of genetic elements regulating 
+human autoimmune and rheumatic diseases may be much larger and more varied than 
+originally envisioned.

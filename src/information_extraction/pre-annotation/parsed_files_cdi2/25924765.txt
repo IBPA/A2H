@@ -1,0 +1,24 @@
+Clostridium difficile infection (CDI) is the principal cause of nosocomial 
+diarrhea and pseudomembranous colitis associated with antibiotic therapy. Recent 
+increases in the number of outbreaks attributed to highly virulent 
+antibiotic-resistant strains underscore the importance of identifying 
+efficacious alternatives to antibiotics to control this infection. CDI is 
+mediated by two large exotoxins, toxins A and B. Strong humoral toxin-specific 
+immune responses are associated with recovery and a lack of disease recurrence, 
+whereas insufficient humoral responses are associated with recurrent CDI. 
+Multiple approaches targeting these toxins, including intravenous 
+immunoglobulin, neutralizing polymers, active vaccines, and, most recently, 
+monoclonal antibodies (MAbs), have been explored, with various degrees of 
+success. In this study, we describe the characterization of the first MAbs 
+isolated from healthy human donors using a high-throughput B-cell cloning 
+strategy. The MAbs were selected based on their ability to inhibit the actions 
+of toxins A and B in vitro and because of their in vivo efficacy in a hamster 
+challenge model. A potent 2-MAb cocktail was identified and then further 
+potentiated by the addition of a second anti-toxin B MAb. This 3-MAb combination 
+protected animals against mortality and also reduced the severity and duration 
+of diarrhea associated with challenge with highly virulent strains of C. 
+difficile toxinotypes 0 and III. This highly efficacious cocktail consists of 
+one MAb specific to the receptor binding domain of toxin A and two MAbs specific 
+to nonoverlapping regions of the glucosyltransferase domain of toxin B. This MAb 
+combination offers great potential as a nonantibiotic treatment for the 
+prevention of recurrent CDI.

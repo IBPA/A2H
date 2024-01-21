@@ -1,0 +1,18 @@
+Chikungunya virus (CHIKV) infection can cause severe arthralgia and chronic 
+arthritis in humans. MicroRNAs (miRNA) have demonstrated their potential use as 
+biomarker in variety of human pathologies and infections. This study was 
+conducted to understand the miRNA signature in early CHIKV infection stages. In 
+the current study, we used TaqMan-based quantitative PCR method to identify the 
+miRNA signature of host response upon CHIKV infection in human and mouse 
+fibroblast cells. The GO enrichment analysis suggests that the putative target 
+genes of these differentially expressed miRNAs are to be involved in RIG-I 
+pathway, TGF-beta-signaling pathway, JAK-STAT-signaling pathway, MAPK-signaling 
+pathway, cytokine-cytokine receptor interactions, and Fc gamma R-mediated 
+phagocytosis. The results obtained in the current study and earlier studies 
+indicate the potential use of miR15, miR-16, miR-17, let-7e, miR-125, miR-99, 
+and miR-23a as a biomarker in CHIKV infection. miRNAs such as miR-15a, miR-16, 
+miR-140, miR-146a, miR-155, miR203, miR223, miR-499, and miR-363 which are 
+implicated in rheumatoid arthritis showed differential regulation in CHIKV 
+infection. The data obtained in this study provide valuable information on 
+CHIKV-induced miRNA expression in mammalian fibroblast cells, and suggest that 
+CHIKV may establish infection by regulating miRNA expression profile.

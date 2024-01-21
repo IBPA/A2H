@@ -1,0 +1,18 @@
+Clostridium difficile is the leading cause of infectious antibiotic-associated 
+diarrhoea, particularly among the elderly. Its surface-layer protein (SLP) was 
+tested as a vaccine component in a series of immunization and challenge 
+experiments with Golden Syrian hamsters, combined with different systemic and 
+mucosal adjuvants. Some regimens were also tested in a nonchallenge BALB/c mouse 
+model, enabling closer monitoring of the immune response. None of the regimens 
+conferred complete protection in the hamster model, and antibody stimulation was 
+variable within regimens, and generally modest or poor. Mice displayed stronger 
+antibody responses to SLP compared with hamsters. Two hamsters of five given SLP 
+with Ribi (monophosphoryl lipid A and synthetic trehalose dicorynomycolate) 
+survived the challenge, as did two of three given SLP with Ribi and cholera 
+toxin. This modest trend to protection is interpreted with caution, because the 
+survivors had low anti-SLP serum antibody titres. The hamsters were an outbred 
+line, and subject to more genetic variability than inbred animals; however, 
+BALB/c mice also showed strongly variable antibody responses. There is a clear 
+need for better adjuvants for single-component vaccines, particularly for 
+mucosal delivery. The hamster challenge model may need to be modified to be 
+useful in active immunization experiments with SLP.

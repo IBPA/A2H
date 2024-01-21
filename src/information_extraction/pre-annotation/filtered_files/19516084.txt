@@ -1,0 +1,24 @@
+INTRODUCTION: Rheumatoid arthritis (RA) is characterized by joint pain, 
+allodynia and hyperalgesia. The rat carrageenan model utilizes 
+inflammation-associated pain following injection of the knee joint to model RA. 
+Traditional assessment of pain in these models utilizes behavioral scoring or 
+manual measurements, methods that are labor intensive and prone to subjective 
+interpretation. This study utilizes the Digigait system to objectively quantify 
+movement and gait dynamics in a monoarthritic rat model.
+MATERIAL AND METHODS: A pilot study in rats selected "natural" runners using 
+Digigait, and also measured inter and intraday variability as well as effects of 
+anesthesia on gait dynamics. In the main study, 12 female rats were tested at 
+baseline, divided in two groups of 6 rats, briefly anesthetized with isoflurane 
+and injected with 60 microl of 2% lambda carrageenan or vehicle; Digigait 
+testing was repeated 2 and 4 hours post injection and data analyzed.
+RESULTS: Selection of "natural" runners significantly contributed to accuracy 
+and reproducibility of gait parameters obtained by the Digigait system. There 
+was minimal intra and inter day variation between individual rats and 4 minutes 
+of isoflurane anesthesia had no effect on gait dynamic at 2 and 4 hours post 
+administration. In the main study a highly reproducible gait signature in the 
+injected limb, and well coordinated adaptation of gait during locomotion in the 
+non-affected limbs were noted as short-term changes following carrageenan 
+injection.
+CONCLUSION: Digigait system was found to be an objective and reliable method for 
+quantification of early behavioral changes consistent with allodynia and 
+hyperalgesia in an inflammatory pain model.

@@ -1,0 +1,18 @@
+Interleukin-17A (IL-17A) is a pro-inflammatory cytokine secreted by a subset of 
+memory T cells and other innate immune cells. It is associated with rheumatoid 
+arthritis (RA) due to IL-17A expression in RA synovial fluid. The severe bone 
+erosive rat adjuvant-induced arthritis (rAIA) and mouse collagen-induced 
+arthritis (mCIA) models were used to address the therapeutic efficacy of 
+anti-IL-17A treatment with a focused investigation on bone protection. In the 
+rAIA model, treatment with anti-IL-17A completely alleviated arthritis, lowered 
+the level of receptor activator of NFκB ligand (RANKL), and inhibited structural 
+damage to the bones. In the mCIA model, IL-17A neutralization coincident with 
+arthritis development or in mice with established arthritis diminished joint 
+swelling by inhibiting disease initiation and progression. Intriguingly, even 
+the few joints that became outwardly severely inflamed in the presence of an 
+anti-IL-17A antagonist had diminished joint histopathology scores compared to 
+severely inflamed, control-treated mice. The bone-preserving property correlated 
+with decreased RANKL message in severely inflamed paws of arthritic mice. These 
+data identify IL-17A as a key factor in inflammation-mediated bone destruction 
+and support anti-IL-17A therapy for the treatment of inflammatory bone diseases 
+such as RA.

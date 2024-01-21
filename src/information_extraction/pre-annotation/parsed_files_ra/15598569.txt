@@ -1,0 +1,13 @@
+Collagen induced arthritis (CIA) is a common mouse model for rheumatoid 
+arthritis. Two sets of truncated peptides derived from type II collagen have 
+been prepared and tested for binding to A(q), a MHC-II molecule associated with 
+development of CIA. Binding to A(q) correlated well with predictions from a 
+computer-based model. T-cell hybridomas, obtained in CIA, were also used to 
+study the ability of A(q) bound peptides to trigger a T-cell response. The 
+minimal peptide epitope required for binding, as well as for giving a T-cell 
+response, was determined to be CII260-267. In collagen this epitope is often 
+glycosylated at hydroxylysine 264 and glycosylation has been shown to be an 
+immunodominant feature in CIA. Synthesis and evaluation of CII260-267 carrying a 
+beta-D-galactosyl moiety at position 264 revealed that this glycopeptide 
+stimulated representative members from a panel of carbohydrate-specific T-cell 
+hybridomas obtained in CIA.

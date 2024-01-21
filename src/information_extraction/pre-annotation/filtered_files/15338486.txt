@@ -1,0 +1,22 @@
+OBJECTIVE: To test whether methotrexate (MTX) therapy of rat adjuvant arthritis 
+(AA) prevents loss of bone mineral density (BMD) and loss of adipose and lean 
+body mass compared to pair-fed controls with untreated rat AA (positive 
+controls) and rats without AA (negative controls).
+METHODS: AA was induced by a Mycobacterium butyricum injection at the base of 
+the tail of 5-week-old female Lewis rats. The MTX-treated group was injected 
+with adjuvant and then treated twice weekly with MTX (1.0 mg/kg/wk 
+intraperitoneally). To control for the effects of AA on appetite and weight, 
+food given to control animals and MTX-treated rats with AA was limited to that 
+consumed by rats with untreated AA. At 42 days post-adjuvant injection, the 
+animals were sacrificed and tibial BMD was measured. Body composition was 
+analyzed for percentage fat, protein, ash, and water.
+RESULTS: There was no difference in ankle edema score or ankle width between the 
+negative controls and MTX-treated group at necropsy. BMD was significantly 
+higher in the negative controls versus positive controls and MTX-treated and in 
+MTX-treated versus positive controls. There was significantly less body fat and 
+protein and greater body water in the positive controls and MTX group compared 
+to the negative controls.
+CONCLUSION: MTX prevents loss of BMD in the tibia in the rat AA model compared 
+to positive controls. While MTX is effective in lowering inflammation in rat AA, 
+there are still significant losses in BMD and body composition, which may have 
+implications for rheumatoid arthritis.

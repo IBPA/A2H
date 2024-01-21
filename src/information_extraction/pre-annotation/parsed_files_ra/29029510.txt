@@ -1,0 +1,18 @@
+Rheumatoid arthritis is a chronic autoimmune disease characterized by 
+infiltration of inflammatory cells into the synovium and destruction of 
+cartilage and bone. Macrophages, fibroblast-like synoviocytes (FLS), and 
+osteoclasts are critical cells driving the pathogenesis of RA. Semaphorin 3A 
+(Sema3A) is recently identified as an essential player in the bone homeostasis, 
+however its role in RA progression especially in the macrophage polarization are 
+poorly understood. In the present study, we found that Sems3A levels were 
+significantly decreased in RA serum and synovial fluid compared to OA controls. 
+There was a negative correlation between Sema3A levels and RA severity. Using in 
+vitro cell cultures, we showed for the first time that Sema3A promoted IL-4 
+induced M2 macrophage polarization, whereas prohibited LPS/IFN-γ induced M1 
+polarization. Sema3A inhibited VEGF-induced endothelial cells proliferation and 
+migration, suppressed VEGF-mediated invasion and IL-6 production of FLS while 
+stimulating their apoptosis. In addition, Sema3A retarded osteoclastogenesis. In 
+vivo data demonstrated that Sema3A administration attenuated joint tissue damage 
+and the severity of experimental arthritis. Our findings uncovered Sema3A as a 
+promising diagnostic biomarker and novel prevention and treatment strategies in 
+arthritis treatment.

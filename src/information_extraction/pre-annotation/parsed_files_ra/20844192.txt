@@ -1,0 +1,23 @@
+Galectin-1 (Gal-1), a β-galactoside-binding lectin, plays a profound role in 
+modulating adaptive immune responses by altering the phenotype and fate of T 
+cells. Experimental data showing recombinant Gal-1 (rGal-1) efficacy on T cell 
+viability and cytokine production, nevertheless, is controversial due to the 
+necessity of using stabilizing chemicals to help retain Gal-1 structure and 
+function. To address this drawback, we developed a mouse Gal-1 human Ig chimera 
+(Gal-1hFc) that did not need chemical stabilization for Gal-1 ligand 
+recognition, apoptosis induction, and cytokine modulation in a variety of 
+leukocyte models. At high concentrations, Gal-1hFc induced apoptosis in Gal-1 
+ligand(+) Th1 and Th17 cells, leukemic cells, and granulocytes from synovial 
+fluids of patients with rheumatoid arthritis. Importantly, at low, more 
+physiologic concentrations, Gal-1hFc retained its homodimeric form without 
+losing functionality. Not only did Gal-1hFc-binding trigger IL-10 and Th2 
+cytokine expression in activated T cells, but members of the CD28 family and 
+several other immunomodulatory molecules were upregulated. In a mouse model of 
+contact hypersensitivity, we found that a non-Fc receptor-binding isoform of 
+Gal-1hFc, Gal-1hFc2, alleviated T cell-dependent inflammation by increasing 
+IL-4(+), IL-10(+), TGF-β(+), and CD25(high)/FoxP3(+) T cells, and by decreasing 
+IFN-γ(+) and IL-17(+) T cells. Moreover, in human skin-resident T cell cultures, 
+Gal-1hFc diminished IL-17(+) T cells and increased IL-4(+) and IL-10(+) T cells. 
+Gal-1hFc will not only be a useful new tool for investigating the role of Gal-1 
+ligands in leukocyte death and cytokine stimulation, but for studying how 
+Gal-1-Gal-1 ligand binding shapes the intensity of immune responses.

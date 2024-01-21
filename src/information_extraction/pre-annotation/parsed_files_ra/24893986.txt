@@ -1,0 +1,25 @@
+This study focused on the potential therapeutic effect of baicalin on 
+collagen-induced arthritis (CIA) in rats and the underlying mechanisms. The CIA 
+rats were injected with baicalin (50, 100, or 200 mg/kg) once daily for 30 days. 
+The rats were monitored for clinical severity of arthritis, and joint tissues 
+were used for radiographic assessment and histologic examination. We quantified 
+tumor necrosis factor-α (TNF-α) and interleukin-1β (IL-1β) in experimental 
+animals and used Western blots to assess levels of protein abundance, 
+phosphorylation, and acetylation of nuclear factor (NF)-κB p65 and sirtuin 1 
+(sirt1) protein expression in joint tissues. Human fibroblast-like synoviocytes 
+from rheumatoid arthritis (HFLS-RA) were adopted in further mechanistic 
+investigations. Baicalin intraperitoneal injection for 30 days dose-dependently 
+blocked clinical manifestations of CIA, such as functional impairment and 
+swollen red paws. Meanwhile, it alleviated collagen-induced joint inflammation 
+injury and inhibited the secretion of TNF-α and IL-1β in both rat synovium and 
+HFLS-RA. Further mechanistic investigations revealed that baicalin suppresses 
+NF-κB p65 protein expression and phosphorylation in synovial tissue and 
+human-derived synoviocytes. Moreover, the acetylation of NF-κB p65 was 
+downregulated by baicalin, which negatively correlates with the baicalin-induced 
+upregulation of sirt1 expression in the same conditions. The data indicate that 
+CIA in rats can be alleviated by baicalin treatment via relieving joint 
+inflammation, which is related to the suppression of synovial NF-κB p65 protein 
+expression and the elevation of its deacetylation by sirt1.
+
+Copyright © 2014 by The American Society for Pharmacology and Experimental 
+Therapeutics.

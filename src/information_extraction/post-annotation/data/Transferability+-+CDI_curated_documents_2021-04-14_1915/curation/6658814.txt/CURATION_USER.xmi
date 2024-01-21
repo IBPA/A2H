@@ -1,0 +1,57 @@
+<?xml version="1.1" encoding="UTF-8"?><xmi:XMI xmlns:pos="http:///de/tudarmstadt/ukp/dkpro/core/api/lexmorph/type/pos.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:tweet="http:///de/tudarmstadt/ukp/dkpro/core/api/lexmorph/type/pos/tweet.ecore" xmlns:morph="http:///de/tudarmstadt/ukp/dkpro/core/api/lexmorph/type/morph.ecore" xmlns:dependency="http:///de/tudarmstadt/ukp/dkpro/core/api/syntax/type/dependency.ecore" xmlns:type5="http:///de/tudarmstadt/ukp/dkpro/core/api/semantics/type.ecore" xmlns:type8="http:///de/tudarmstadt/ukp/dkpro/core/api/transform/type.ecore" xmlns:type7="http:///de/tudarmstadt/ukp/dkpro/core/api/syntax/type.ecore" xmlns:type2="http:///de/tudarmstadt/ukp/dkpro/core/api/metadata/type.ecore" xmlns:type9="http:///org/dkpro/core/api/xml/type.ecore" xmlns:type3="http:///de/tudarmstadt/ukp/dkpro/core/api/ner/type.ecore" xmlns:type4="http:///de/tudarmstadt/ukp/dkpro/core/api/segmentation/type.ecore" xmlns:type="http:///de/tudarmstadt/ukp/dkpro/core/api/coref/type.ecore" xmlns:type6="http:///de/tudarmstadt/ukp/dkpro/core/api/structure/type.ecore" xmlns:constituent="http:///de/tudarmstadt/ukp/dkpro/core/api/syntax/type/constituent.ecore" xmlns:chunk="http:///de/tudarmstadt/ukp/dkpro/core/api/syntax/type/chunk.ecore" xmlns:custom="http:///webanno/custom.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <type2:DocumentMetaData xmi:id="8" sofa="1" begin="0" end="321" language="x-unspecified" documentTitle="6658814.txt" documentId="CURATION_USER" documentUri="file:/export/repository/project/1/document/841/source/CURATION_USER" collectionId="file:/export/repository/project/1/document/841/source/" documentBaseUri="file:/export/repository/project/1/document/841/source/" isLastSegment="false"/>
+    <type4:Token xmi:id="24" sofa="1" begin="0" end="15" order="0"/>
+    <type4:Token xmi:id="37" sofa="1" begin="16" end="30" order="0"/>
+    <type4:Token xmi:id="50" sofa="1" begin="31" end="33" order="0"/>
+    <type4:Token xmi:id="63" sofa="1" begin="34" end="40" order="0"/>
+    <type4:Token xmi:id="76" sofa="1" begin="41" end="43" order="0"/>
+    <type4:Token xmi:id="89" sofa="1" begin="44" end="55" order="0"/>
+    <type4:Token xmi:id="102" sofa="1" begin="56" end="65" order="0"/>
+    <type4:Token xmi:id="115" sofa="1" begin="66" end="68" order="0"/>
+    <type4:Token xmi:id="128" sofa="1" begin="69" end="73" order="0"/>
+    <type4:Token xmi:id="141" sofa="1" begin="76" end="84" order="0"/>
+    <type4:Token xmi:id="154" sofa="1" begin="85" end="87" order="0"/>
+    <type4:Token xmi:id="167" sofa="1" begin="88" end="92" order="0"/>
+    <type4:Token xmi:id="180" sofa="1" begin="93" end="95" order="0"/>
+    <type4:Token xmi:id="193" sofa="1" begin="96" end="103" order="0"/>
+    <type4:Token xmi:id="206" sofa="1" begin="104" end="114" order="0"/>
+    <type4:Token xmi:id="219" sofa="1" begin="115" end="119" order="0"/>
+    <type4:Token xmi:id="232" sofa="1" begin="120" end="123" order="0"/>
+    <type4:Token xmi:id="245" sofa="1" begin="124" end="136" order="0"/>
+    <type4:Token xmi:id="258" sofa="1" begin="137" end="139" order="0"/>
+    <type4:Token xmi:id="271" sofa="1" begin="140" end="150" order="0"/>
+    <type4:Token xmi:id="284" sofa="1" begin="153" end="159" order="0"/>
+    <type4:Token xmi:id="297" sofa="1" begin="159" end="160" order="0"/>
+    <type4:Token xmi:id="310" sofa="1" begin="161" end="173" order="0"/>
+    <type4:Token xmi:id="323" sofa="1" begin="174" end="178" order="0"/>
+    <type4:Token xmi:id="336" sofa="1" begin="179" end="182" order="0"/>
+    <type4:Token xmi:id="349" sofa="1" begin="183" end="193" order="0"/>
+    <type4:Token xmi:id="362" sofa="1" begin="194" end="200" order="0"/>
+    <type4:Token xmi:id="375" sofa="1" begin="201" end="208" order="0"/>
+    <type4:Token xmi:id="388" sofa="1" begin="209" end="228" order="0"/>
+    <type4:Token xmi:id="401" sofa="1" begin="231" end="240" order="0"/>
+    <type4:Token xmi:id="414" sofa="1" begin="241" end="251" order="0"/>
+    <type4:Token xmi:id="427" sofa="1" begin="252" end="257" order="0"/>
+    <type4:Token xmi:id="440" sofa="1" begin="258" end="265" order="0"/>
+    <type4:Token xmi:id="453" sofa="1" begin="266" end="269" order="0"/>
+    <type4:Token xmi:id="466" sofa="1" begin="270" end="279" order="0"/>
+    <type4:Token xmi:id="479" sofa="1" begin="280" end="288" order="0"/>
+    <type4:Token xmi:id="492" sofa="1" begin="289" end="293" order="0"/>
+    <type4:Token xmi:id="505" sofa="1" begin="294" end="296" order="0"/>
+    <type4:Token xmi:id="518" sofa="1" begin="297" end="308" order="0"/>
+    <type4:Token xmi:id="531" sofa="1" begin="311" end="318" order="0"/>
+    <type4:Token xmi:id="544" sofa="1" begin="318" end="319" order="0"/>
+    <type4:Sentence xmi:id="557" sofa="1" begin="0" end="160"/>
+    <type4:Sentence xmi:id="562" sofa="1" begin="161" end="319"/>
+    <type3:NamedEntity xmi:id="567" sofa="1" begin="44" end="65" value="disease"/>
+    <type3:NamedEntity xmi:id="573" sofa="1" begin="69" end="73" value="species"/>
+    <type3:NamedEntity xmi:id="579" sofa="1" begin="161" end="319" value="conclusive_statement"/>
+    <type3:NamedEntity xmi:id="585" sofa="1" begin="209" end="228" value="intervention"/>
+    <type2:TagsetDescription xmi:id="591" sofa="1" begin="0" end="0" layer="de.tudarmstadt.ukp.dkpro.core.api.syntax.type.dependency.Dependency" name="UD Universal Dependencies (v2)" input="false"/>
+    <type2:TagsetDescription xmi:id="604" sofa="1" begin="0" end="0" layer="de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity" name="Named Entity tags" input="false"/>
+    <type2:TagsetDescription xmi:id="617" sofa="1" begin="0" end="0" layer="de.tudarmstadt.ukp.dkpro.core.api.transform.type.SofaChangeAnnotation" name="Operation" input="false"/>
+    <type2:TagsetDescription xmi:id="630" sofa="1" begin="0" end="0" layer="de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS" name="UD Universal POS tags (v2)" input="false"/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Intraperitoneal administration of toxins of Clostridium difficile to mice &#13;&#10;resulted in loss of hepatic cytochrome P450 and peroxidation of microsomal &#13;&#10;lipids. Pretreatment with the microsomal enzyme inducer beta-naphthoflavone &#13;&#10;partially alleviated these effects and increased survival time of intoxicated &#13;&#10;animals.&#13;&#10;"/>
+    <cas:View sofa="1" members="8 24 37 50 63 76 89 102 115 128 141 154 167 180 193 206 219 232 245 258 271 284 297 310 323 336 349 362 375 388 401 414 427 440 453 466 479 492 505 518 531 544 557 562 567 573 579 585 591 604 617 630"/>
+</xmi:XMI>

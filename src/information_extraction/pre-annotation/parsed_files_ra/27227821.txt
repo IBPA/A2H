@@ -1,0 +1,26 @@
+BACKGROUND: To facilitate the development of therapies for rheumatoid arthritis 
+(RA), the Innovative Medicines Initiative BTCure has combined the experience 
+from several laboratories worldwide to establish a series of protocols for 
+different animal models of arthritis that reflect the pathogenesis of RA. Here, 
+we describe chronic pristane-induced arthritis (PIA) model in DA rats, and 
+provide detailed instructions to set up and evaluate the model and for reporting 
+data.
+METHODS: We optimized dose of pristane and immunization procedures and 
+determined the effect of age, gender, and housing conditions. We further 
+assessed cage-effects, reproducibility, and frequency of chronic arthritis, 
+disease markers, and efficacy of standard and novel therapies.
+RESULTS: Out of 271 rats, 99.6% developed arthritis after 
+pristane-administration. Mean values for day of onset, day of maximum arthritis 
+severity and maximum clinical scores were 11.8±2.0 days, 20.3±5.1 days and 
+34.2±11 points on a 60-point scale, respectively. The mean frequency of chronic 
+arthritis was 86% but approached 100% in long-term experiments over 110 days. 
+Pristane was arthritogenic even at 5 microliters dose but needed to be 
+administrated intradermally to induce robust disease with minimal variation. The 
+development of arthritis was age-dependent but independent of gender and whether 
+the rats were housed in conventional or barrier facilities. PIA correlated well 
+with weight loss and acute phase reactants, and was ameliorated by etanercept, 
+dexamethasone, cyclosporine A and fingolimod treatment.
+CONCLUSIONS: PIA has high incidence and excellent reproducibility. The chronic 
+relapsing-remitting disease and limited systemic manifestations make it more 
+suitable than adjuvant arthritis for long-term studies of joint-inflammation and 
+screening and validation of new therapeutics.

@@ -1,0 +1,12 @@
+Inflammation is now recognized as a key component in a number of diseases such 
+as atherosclerosis, rheumatoid arthritis, and inflammatory bowel disease. The 
+transcription factor NF-kappaB has been shown to be involved in both the early 
+and late stages of the inflammatory-proliferative process. In this report, we 
+describe the identification of the pathway-selective estrogen receptor (ER) 
+ligand, WAY-169916, that inhibits NF-kappaB transcriptional activity but is 
+devoid of conventional estrogenic activity. This pathway-selective ligand does 
+not promote the classic actions of estrogens such as stimulation of uterine 
+proliferation or ER-mediated gene expression, but is a potent antiinflammatory 
+agent, as demonstrated in the HLA-B27 transgenic rat model of inflammatory bowel 
+disease. Our results indicate the potential utility of pathway-selective ER 
+ligands such as WAY-169916 in the treatment of chronic inflammatory diseases.

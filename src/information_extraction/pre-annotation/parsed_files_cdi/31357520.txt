@@ -1,0 +1,21 @@
+Clostridium (syn. Clostridioides) difficile is considered a pioneer colonizer 
+and may cause gut infection in neonatal piglets. The aim of this study was to 
+explore the microbiota-C. difficile associations in pigs. We used the DNA from 
+the faeces of four sows collected during the periparturient period and from two 
+to three of their piglets (collected weekly until nine weeks of age) for the 
+determination of bacterial community composition (sequencing) and C. difficile 
+concentration (qPCR). Furthermore, C. difficile-negative faeces were enriched in 
+a growth medium, followed by qPCR to verify the presence of this bacterium. 
+Clostridium-sensu-stricto-1 and Lactobacillus spp. predominated the gut 
+microbiota of the sows and their offspring. C. difficile was detected at least 
+once in the faeces of all sows during the entire sampling period, albeit at low 
+concentrations. Suckling piglets harboured C. difficile in high concentrations 
+(up to log10 9.29 copy number/g faeces), which gradually decreased as the 
+piglets aged. Enrichment revealed the presence of C. difficile in previously C. 
+difficile-negative sow and offspring faeces. In suckling piglets, the C. 
+difficile level was negatively correlated with carbohydrate-fermenting bacteria, 
+and it was positively associated with potential pathogens. Shannon and richness 
+diversity indices were negatively associated with the C. difficile counts in 
+suckling piglets. This study showed that gut microbiota seems to set conditions 
+for colonisation resistance against C. difficile in the offspring. However, this 
+conclusion requires further research to include host-specific factors.

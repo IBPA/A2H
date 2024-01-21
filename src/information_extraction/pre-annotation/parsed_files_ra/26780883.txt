@@ -1,0 +1,25 @@
+PURPOSE: The primary goal of this study was to demonstrate the value of micro-CT 
+imaging in a rheumatoid arthritis (RA) mouse model. The secondary goal was to 
+assess whether manual correction of the articular surface regions of interest 
+(ROI) identification of the semi-automated methods may result in more effective 
+assessment of bone volume and density loss.
+MATERIALS AND METHODS: Collagen-induced arthritis (CIA) was induced in six 
+DBA/1J mice at 12 weeks of age and three other DBA/1J identical mice served as 
+controls. Micro-CT images were acquired at baseline and at four, seven, and nine 
+weeks post-induction. Disease was monitored via ROI analysis, and ROIs were 
+first generated using semi-automated techniques. These ROIs were manually 
+manipulated so that a variety of edge irregularities were corrected. Effort was 
+focused on the proximal and distal humerus and the distal femur. ROI volume and 
+density were calculated, and data were compared. A histologic analysis of the 
+study mice was also performed after the last time frame.
+RESULTS: There was a significant difference between the volume data comparison 
+between the manually manipulated data and the semi-automated routine data across 
+all time frames and across both humeri and femurs. There was no significant 
+difference in densities calculated in Hounsfield units across any of the time 
+frames, humeri or femurs, except for one time frame.
+CONCLUSION: Our findings suggest that the manual correction technique of 
+semi-automated data can be used to quantify and evaluate bone volume, density, 
+and joint surface architecture changes in a RA mouse model.
+
+Copyright © 2015 Editions françaises de radiologie. Published by Elsevier Masson 
+SAS. All rights reserved.

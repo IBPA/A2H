@@ -1,0 +1,15 @@
+Six murine hybridoma cell lines producing monoclonal antibodies (MAbs) specific 
+for Toxin B of Clostridium difficile have been generated from toxin-immunized 
+female RBF/DnJ mice. All six antibodies were reactive in Western blots with a > 
+200-kD protein in the supernatants of the toxigenic strain 10463 and were 
+unreactive with similarly prepared material from the nontoxigenic strain 2037. 
+Polyclonal antisera from rabbits immunized with Toxin B reacted on Western blots 
+primarily with Toxin B, a 40-kD and a 55-kD band with a minor set of triplet 
+bands at approximately 100 kD. None of the MAbs reacted in a direct EIA with 
+purified Toxin A from C. difficile but two MAbs reacted weakly with a 
+trypsin-sensitive band (> 200 kD) in Western blots of C. sordellii. Polyclonal 
+antisera developed against Toxin B reacted strongly with supernatants from C. 
+sordellii, C. bifermentans, and the nontoxigenic strain 2037. Toxin B-specific 
+antisera was unreactive with supernatants from C. perfringens or purified Toxin 
+A from C. difficile in direct EIA. Toxin B-specific MAbs linked to an affinity 
+column were able to deplete bacterial supernatant of cytotoxigenic activity.

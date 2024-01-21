@@ -1,0 +1,22 @@
+The human pathogenic bacterium Clostridioides difficile produces two exotoxins 
+TcdA and TcdB, which inactivate Rho GTPases thereby causing C. 
+difficile-associated diseases (CDAD) including life-threatening pseudomembranous 
+colitis. Hypervirulent strains produce additionally the binary actin 
+ADP-ribosylating toxin CDT. These strains are hallmarked by more severe forms of 
+CDAD and increased frequency and severity. Once in the cytosol, the toxins act 
+as enzymes resulting in the typical clinical symptoms. Therefore, targeting and 
+inactivation of the released toxins are of peculiar interest. Prompted by 
+earlier findings that human α-defensin-1 neutralizes TcdB, we investigated the 
+effects of the defensin on all three C. difficile toxins. Inhibition of TcdA, 
+TcdB, and CDT was demonstrated by analyzing toxin-induced changes in cell 
+morphology, substrate modification, and decrease in transepithelial electrical 
+resistance. Application of α-defensin-1 protected cells and human intestinal 
+organoids from the cytotoxic effects of TcdA, TcdB, CDT, and their combination 
+which is attributed to a direct interaction between the toxins and α-defensin-1. 
+In mice, the application of α-defensin-1 reduced the TcdA-induced damage of 
+intestinal loops in vivo. In conclusion, human α-defensin-1 is a specific and 
+potent inhibitor of the C. difficile toxins and a promising agent to develop 
+novel therapeutic options against C. difficile infections.
+
+© 2020 The Authors. The FASEB Journal published by Wiley Periodicals, Inc. on 
+behalf of Federation of American Societies for Experimental Biology.

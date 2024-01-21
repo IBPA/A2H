@@ -1,0 +1,18 @@
+Type II collagen (CII) is a candidate cartilage-specific autoantigen, which can 
+become post-translationally modified by hydroxylation and glycosylation. T cell 
+recognition of CII is essential for the development of murine collagen-induced 
+arthritis (CIA) and also occurs in rheumatoid arthritis (RA). The common 
+denominator of murine CIA and human RA is the presentation of an immunodominant 
+CII-derived glycosylated peptide on murine Aq and human DR4 molecules, 
+respectively. To investigate the importance of T cell recognition of 
+glycosylated CII in CIA development after immunization with heterologous CII, we 
+treated neonatal mice with different heterologous CII-peptides (non-modified, 
+hydroxylated and galactosylated). Treatment with the galactosylated peptide 
+(galactose at position 264) was superior in protecting mice from CIA. Protection 
+was accompanied by a reduced antibody response to CII and by an impaired T cell 
+response to the glycopeptide. To investigate the importance of glycopeptide 
+recognition in an autologous CIA model, we treated MMC-transgenic mice, which 
+express the heterologous CII epitope with a glutamic acid in position 266 in 
+cartilage, with CII-peptides. Again, a strong vaccination potential of the 
+glycopeptide was seen. Hence CII-glycopeptides may be the optimal choice of 
+vaccination target in RA, since humans share the same epitope as the MMC mouse.

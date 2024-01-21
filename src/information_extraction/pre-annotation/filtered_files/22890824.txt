@@ -1,0 +1,25 @@
+AIMS/HYPOTHESIS: IL-15, induced by innate immune stimuli, promotes rheumatoid 
+arthritis and inflammatory bowel disease. However, its role in autoimmune type 1 
+diabetes is unclear. Our aim is to define the role of IL-15 in the pathogenesis 
+of diabetes in the NOD mouse model.
+METHODS: We generated NOD.Il15(-/-) mice expressing a polyclonal repertoire of T 
+cell antigen receptor (TCR) or a transgenic TCR and monitored diabetes onset and 
+insulitis. NOD Scid.Il15(-/-) (full name NOD.CB17-Prkdc (scid)/NCrCrl) and NOD 
+Scid.gamma (full name NOD.Cg-Prkdc(scid) Il2rg ( tm1Wjl )/SzJ) mice were used to 
+distinguish the requirement for IL-15 signalling in CD8(+) T cells and 
+antigen-presenting cells (APCs) to induce disease. We examined the effect of 
+blocking IL-15 signalling on diabetes onset in NOD mice.
+RESULTS: At 7 months of age, more than 75% of the NOD Il15(-/-) female mice 
+remained diabetes free compared with only 30% in the control group. Diabetes 
+incidence was also decreased in 8.3-NOD (full name NOD 
+Cg-Tg[TcraTcrbNY8.3]-1Pesa/DvsJ).Il15(-/-) mice expressing a highly pathogenic 
+transgenic TCR on CD8(+) T cells. Adoptive transfer of splenocytes from diabetic 
+NOD and 8.3-NOD donors induced disease in NOD Scid recipients but not in NOD 
+Scid.Il15(-/-) or NOD Scid.gamma mice. Transient blockade of IL-15 signalling at 
+the onset of insulitis prevented diabetes in NOD mice.
+CONCLUSIONS/INTERPRETATION: Our results show that IL-15 is needed for the 
+initial activation of diabetogenic CD8(+) T cells as well as for sustaining the 
+diabetogenic potential of antigen-stimulated cells, acting on both CD8(+) T 
+cells and on APCs. Our findings demonstrate a critical role for IL-15 in the 
+pathogenesis of autoimmune diabetes and suggest that IL-15 is a promising 
+therapeutic target.

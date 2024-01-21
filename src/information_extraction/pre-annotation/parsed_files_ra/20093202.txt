@@ -1,0 +1,18 @@
+The p38 mitogen activated protein kinase (MAPK) is a key signaling molecule that 
+plays a crucial role in the progression of various inflammatory diseases such as 
+rheumatoid arthritis (RA), asthma and chronic obstructive pulmonary disease. The 
+objective of the present study was to evaluate the anti-inflammatory activity of 
+a p38 MAPK inhibitor, AW-814141. AW-814141 inhibited enzymatic activity of 
+recombinant p38-alpha and beta isoforms with IC(50) value of 100nM and 158nM, 
+respectively. AW-814141 also inhibited the release of tumor necrosis factor 
+(TNF)-alpha by lipopolysaccharide (LPS) treated human peripheral blood 
+mononuclear cells with an IC(50) value of 212nM and demonstrated selectivity 
+against a panel of few kinases. Oral administration of AW-814141 (10mpk) in 
+LPS-injected mice resulted in a significant reduction in TNF-alpha production in 
+the circulation. In a carrageenan-induced rat paw edema model and 
+collagen-induced arthritis model (CIA), AW-814141 dose dependently inhibited paw 
+swelling. In different in vivo efficacy models, efficacy of AW-814141 was found 
+to be better as compared to the reference compounds (Vx-745 and BIRB-796). This 
+study demonstrated that AW-814141 is a novel p38 MAPK inhibitor and it displays 
+promising in vitro and in vivo anti-inflammatory activities and can be used for 
+the treatment of rheumatoid arthritis.

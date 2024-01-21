@@ -1,0 +1,29 @@
+OBJECTIVES: Clostridium difficile infection is a nosocomial disease of 
+increasing importance. First-line treatment is limited to metronidazole or 
+vancomycin. Oritavancin is a lipoglycopeptide with activity against 
+Gram-positive bacteria, including drug-resistant pathogens. MICs of oritavancin, 
+metronidazole and vancomycin for genotypically distinct C. difficile strains, 
+including epidemic C. difficile PCR ribotypes 001 and 027, were determined by 
+agar incorporation and broth macrodilution methods. In agar incorporation 
+methods, the impact of supplements on oritavancin MICs was tested to address 
+oritavancin binding to surfaces.
+METHODS: Thirty-three genotypically distinct C. difficile strains were 
+identified by PCR ribotyping. Wilkins Chalgren agar incorporation plates 
+containing oritavancin, metronidazole and vancomycin were prepared with and 
+without 0.002% polysorbate-80 (P80) and lysed horse blood (2%). Broth 
+macrodilution MICs of oritavancin, metronidazole and vancomycin were determined 
+in Brucella broth. Inoculated agar incorporation plates and broth macrodilution 
+tubes were cultured anaerobically at 37 degrees C for 48 h.
+RESULTS: Broth macrodilution MICs were lower than agar incorporation MICs for 
+oritavancin, but not for metronidazole and vancomycin. Oritavancin broth 
+macrodilution MIC(90)s were 2- to 4-fold lower than the corresponding agar 
+incorporation MIC(90)s, while geometric mean MICs were >5-fold lower. 
+Oritavancin broth macrodilution MIC(90)s were approximately 2- and 5-fold lower 
+than those for metronidazole and vancomycin. Metronidazole was the most active 
+antimicrobial agent against C. difficile using agar incorporation methods. 
+Oritavancin agar incorporation MIC(90)s were unaffected by 0.002% P80 and/or 2% 
+lysed horse blood.
+CONCLUSIONS: Oritavancin was at least 4-fold more potent than vancomycin against 
+the majority (25/33) of C. difficile strains tested by broth macrodilution. 
+Oritavancin activity may be underestimated by agar incorporation methods, 
+regardless of the use of P80 or lysed horse blood.

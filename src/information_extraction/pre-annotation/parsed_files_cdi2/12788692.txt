@@ -1,0 +1,23 @@
+An important consequence of cell swelling is the reorganization of the F-actin 
+cytoskeleton in different cell types. We demonstrate in this study by means of 
+rhodamine-phalloidin labeling and fluorescence microscopy that a drastic 
+reorganization of F-actin occurs in swollen Rat-1 fibroblasts: stress fibers 
+disappear and F-actin patches are formed in peripheral extensions at the cell 
+border. Moreover, we demonstrate that activation of both Rac and Cdc42, members 
+of the family of small Rho GTPases, forms the link between the hypotonic 
+stimulation and F-actin reorganization. Indeed, inhibition of the small GTPases 
+RhoA, Rac, and Cdc42 (by Clostridium difficile toxin B) prevents the 
+hypotonicity-induced reorganization of the actin cytoskeleton, whereas 
+inhibition of RhoA alone (by C. limosum C3 exoenzyme) does not preclude this 
+rearrangement. Second, a direct activation and translocation toward the actin 
+patches underneath the plasma membrane is observed for endogenous Rac and Cdc42 
+(but not for RhoA) during cell swelling. Finally, transfection of Rat-1 
+fibroblasts with constitutively active RhoA, dominant negative Rac, or dominant 
+negative Cdc42 abolishes the swelling-induced actin reorganization. 
+Interestingly, application of cRGD, a competitor peptide for 
+fibronectin-integrin association, induces identical membrane protrusions and 
+changes in the F-actin cytoskeleton that are also inhibited by C. difficile 
+toxin B and dominant negative Rac or Cdc42. Moreover, cRGD also induces a 
+redistribution of endogenous Rac and Cdc42 to the newly formed submembranous 
+F-actin patches. We therefore conclude that hypotonicity and cRGD remodel the 
+F-actin cytoskeleton in Rat-1 fibroblasts in a Rac/Cdc42-dependent way.

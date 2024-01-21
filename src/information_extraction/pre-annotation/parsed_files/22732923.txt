@@ -1,0 +1,13 @@
+The spore-forming bacterium Clostridium difficile represents the principal cause 
+of hospital-acquired diarrhea and pseudomembranous colitis worldwide. C. 
+difficile infection (CDI) is mediated by 2 bacterial toxins, A and B; 
+neutralizing these toxins with monoclonal antibodies (mAbs) provides a potential 
+nonantibiotic strategy for combating the rising prevalence, severity, and 
+recurrence of CDI. Novel antitoxin mAbs were generated in mice and were 
+humanized. The humanized antitoxin A mAb PA-50 and antitoxin B mAb PA-41 have 
+picomolar potencies in vitro and bind to novel regions of the respective toxins. 
+In a hamster model for CDI, 95% of animals treated with a combination of 
+humanized PA-50 and PA-41 showed long-term survival relative to 0% survival of 
+animals treated with standard antibiotics or comparator mAbs. These humanized 
+mAbs provide insight into C. difficile intoxication and hold promise as 
+potential nonantibiotic agents for improving clinical management of CDI.

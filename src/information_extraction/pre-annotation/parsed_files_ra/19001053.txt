@@ -1,0 +1,20 @@
+Osteoarthritis and rheumatoid arthritis are characterized by loss of 
+proteoglycans (PGs) and their glycosaminoglycan (GAG) chains that are essential 
+for cartilage function. Here, we investigated the role of glycosyltransferases 
+(GTs) responsible for PG-GAG chain assembly during joint cartilage destruction 
+and repair processes. At various times after antigen-induced arthritis (AIA) and 
+papain-induced cartilage repair in rats, PG synthesis and deposition, expression 
+of GTs, and GAG chain composition were analyzed. Our data showed that expression 
+of the GT xylosyltransferase I (XT-I) gene initiating PG-GAG chain synthesis was 
+significantly reduced in AIA rat cartilage and was associated with a decrease in 
+PG synthesis. Interestingly, interleukin-1beta, the main proinflammatory 
+cytokine incriminated in joint diseases, down-regulated the XT-I gene expression 
+with a concomitant decrease in PG synthesis in rat cartilage explants ex vivo. 
+However, cartilage from papain-injected rat knees showed up-regulation of XT-I 
+gene expression and increased PG synthesis at early stages of cartilage repair, 
+a process associated with up-regulation of TGF-beta1 gene expression and 
+mediated by p38 mitogen-activated protein kinase activation. Consistently, 
+silencing of XT-I expression by intraarticular injection of XT-I shRNA in rat 
+knees prevented cartilage repair by decreasing PG synthesis and content. These 
+findings show that GTs play a key role in the loss of PG-GAGs in joint diseases 
+and identify novel targets for stimulating cartilage repair.

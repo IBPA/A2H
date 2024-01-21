@@ -1,0 +1,23 @@
+OBJECTIVE: Fibroblast-like synoviocytes (FLS) participate in joint inflammation 
+and damage in rheumatoid arthritis (RA) and its animal models. The purpose of 
+this study was to define the importance of KCa1.1 (BK, Maxi-K, Slo1, KCNMA1) 
+channel expression and function in FLS and to establish these channels as 
+potential new targets for RA therapy.
+METHODS: We compared KCa1.1 expression levels in FLS from rats with 
+pristane-induced arthritis (PIA) and in FLS from healthy rats. We then used ex 
+vivo functional assays combined with small interfering RNA-induced knockdown, 
+overexpression, and functional modulation of KCa1.1 in PIA FLS. Finally, we 
+determined the effectiveness of modulating KCa1.1 in 2 rat models of RA, 
+moderate PIA and severe collagen-induced arthritis (CIA).
+RESULTS: We found that PIA FLS expressed the KCa1.1 channel as their major 
+potassium channel, as has been found in FLS from patients with RA. In contrast, 
+FLS from healthy rats expressed fewer of these channels. Inhibiting the function 
+or expression of KCa1.1 ex vivo reduced proliferation and invasive properties 
+of, as well as protease production by, PIA FLS, whereas opening native KCa1.1 or 
+overexpressing the channel enhanced the invasiveness of both FLS from rats with 
+PIA and FLS from healthy rats. Treatment with a KCa1.1 channel blocker at the 
+onset of clinical signs stopped disease progression in the PIA and CIA models, 
+reduced joint and bone damage, and inhibited FLS invasiveness and proliferation.
+CONCLUSION: Our results demonstrate a critical role of KCa1.1 channels in the 
+regulation of FLS invasiveness and suggest that KCa1.1 channels represent 
+potential therapeutic targets in RA.

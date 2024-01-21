@@ -1,0 +1,22 @@
+ARS-interacting multifunctional protein 1 (AIMP1) induces production of 
+inflammatory cytokines from immune cells. Since osteoclastogenesis is promoted 
+by positive regulation of inflammatory cytokines, whether AIMP1 could promote 
+osteoclastogenesis was investigated. AIMP1 induced osteoclastogenesis and acted 
+synergistically with RANKL to promote osteoclastogenesis. Down-regulation of 
+CD23, an AIMP1 receptor, abolished AIMP1-mediated osteoclastogenesis. 
+Enzyme-linked immunosorbent assays showed that the AIMP1 level was significantly 
+higher in the peripheral blood (PB) and synovial fluid of rheumatoid arthritis 
+patients than in normal PB. A monoclonal antibody (clone 15B3AF) that blocked 
+the cytokine activity of AIMP1 inhibited the AIMP1-mediated production of 
+inflammatory cytokines. Clone 15B3AF inhibited the AIMP1-mediated 
+osteoclastogenesis in vitro. We then cloned the complementary determining 
+regions of clone 15B3AF and generated a chimeric antibody (atliximab). In a 
+collagen-induced arthritis mouse model (CIA), atliximab administration 
+significantly attenuated disease severity and improved various histopathological 
+parameters. Three-dimensional micro-computed tomography scanning confirmed that 
+atliximab enhanced the joint structures in CIA mice. Furthermore, atliximab 
+decreased the expression of inflammatory cytokines in the serum and inflamed 
+joints of CIA mice. Taken together, our findings suggest that AIMP1 exacerbates 
+RA by promoting inflammation and osteoclastogenesis and that atliximab could be 
+developed as a therapeutic antibody to target inflammatory diseases, including 
+RA.

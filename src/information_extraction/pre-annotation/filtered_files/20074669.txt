@@ -1,0 +1,23 @@
+The mouse model of collagen induced arthritis (CIA) effectively mimics human 
+disease and thus is useful for testing and development of rheumatoid arthritis 
+(RA) therapies. We developed a Ligand Epitope Antigen Presentation System 
+(LEAPS) peptide hetero-conjugate vaccine containing an epitope of human collagen 
+type II (CEL-2000) that acted as a therapeutic vaccine in the collagen induced 
+arthritis (CIA) mouse model. LEAPS technology converts a small peptide 
+containing a disease specific epitope into an immunogen by attaching it to an 
+immune or T cell binding peptide (I/TCBL). For CEL-2000, a peptide from human 
+collagen type II (254-273) is attached to the I/TCBL peptide from human beta2 
+microglobulin (J). Treatment with CEL-2000 limited disease (CIA) progression, as 
+demonstrated by reduced Arthritic Index (AI) score, and footpad swelling. 
+Efficacy was confirmed by histopathological microscopic examination of tissues 
+at the end of the study. CEL-2000 limited disease progression as well or better 
+than the etanercept (Enbrel) therapeutic control with significantly better 
+histopathological results than the etanercept treated mice. Most interestingly, 
+CEL-2000 therapy modulated serum cytokine levels with an increase in IL-12p70 
+and IL-10, which are not seen with etanercept therapy, and reduced IL-17 and 
+TNF-alpha, also seen with etanercept, among other cytokines studied. CEL-2000 
+was safe and well tolerated for the mice that received 5 injections given every 
+2weeks in a 90day study supporting its potential usage for long term therapy. 
+These studies demonstrate that fewer treatments with CEL-2000 provide therapy at 
+least as effective as etanercept by specifically modulating the disease 
+producing autoimmune response.

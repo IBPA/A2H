@@ -1,0 +1,26 @@
+OBJECTIVES: While new treatments for rheumatoid arthritis (RA) have markedly 
+improved disease control by targeting immune/inflammatory pathways, current 
+treatments rarely induce remission, underscoring the need for therapies that 
+target other aspects of the disease. Little is known about the regulation of 
+disease severity and joint damage, which are major predictors of disease 
+outcome, and might be better or complementary targets for therapy. In this 
+study, we aimed to discover and characterise a new arthritis severity gene.
+METHODS: An unbiased and phenotype-driven strategy including studies of unique 
+congenic rat strains was used to identify new arthritis severity and joint 
+damage genes. Fibroblast-like synoviocytes (FLS) from rats and patients with RA 
+expressing or not Huntingtin-interacting protein 1 (HIP1) were studied for 
+invasiveness, morphology and cell signalling. HIP1 knockout mice were used in in 
+vivo confirmatory studies. Paired t-test was used.
+RESULTS: DNA sequencing and subcongenic strains studied in pristane-induced 
+arthritis identified a new amino acid changing functional variant in HIP1. HIP1 
+was required for the increased invasiveness of FLS from arthritic rats and from 
+patients with RA. Knocking down HIP1 expression reduced receptor tyrosine 
+kinase-mediated responses in RA FLS, including RAC1 activation, affecting actin 
+cytoskeleton and cell morphology and interfering with the formation of 
+lamellipodia, consistent with reduced invasiveness. HIP1 knockout mice were 
+protected in KRN serum-induced arthritis and developed milder disease.
+CONCLUSION: HIP1 is a new arthritis severity gene and a potential novel 
+prognostic biomarker and target for therapy in RA.
+
+© Author(s) (or their employer(s)) 2018. No commercial re-use. See rights and 
+permissions. Published by BMJ.

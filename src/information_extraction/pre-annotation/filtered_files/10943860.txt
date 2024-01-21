@@ -1,0 +1,25 @@
+OBJECTIVE: Joint destruction in rheumatoid arthritis (RA) is a result of 
+degradation and invasion of the articular cartilage by the pannus tissue. The 
+present study was undertaken to examine the role of the plasminogen activation 
+system in cartilage degradation and invasion by synovial fibroblasts and 
+investigate a novel gene therapeutic approach using a cell surface-targeted 
+plasmin inhibitor (ATF.BPTI).
+METHODS: Adenoviral vectors were used for gene transfer. The effects of ATF.BPTI 
+gene transfer on RA synovial fibroblast-dependent cartilage degradation were 
+studied in vitro, and cartilage invasion was studied in vivo in the SCID mouse 
+coimplantation model.
+RESULTS: The results indicate that cartilage matrix degradation by rheumatoid 
+synovial fibroblasts is plasmin mediated and depends on urokinase-type 
+plasminogen activator for activation. Targeting plasmin inhibition to the cell 
+surface of the fibroblasts by gene transfer of a cell surface-binding plasmin 
+inhibitor resulted in a significant reduction of cartilage matrix degradation in 
+vitro and of cartilage invasion in vivo. Compared with uninfected rheumatoid 
+synovial fibroblasts, the mean +/-SEM cartilage degradation in vitro was reduced 
+to 87.9+/-0.9% after LacZ gene transfer versus a reduction to 24.0+/-1.6% after 
+ATF.BPTI gene transfer (P<0.0001). The mean +/- SEM in vivo cartilage invasion 
+score was 3.1+/-0.4 in the control-transduced fibroblasts and 1.8+/-0.4 in the 
+ATF.BPTI-transduced fibroblasts (P<0.05).
+CONCLUSION: These results indicate a role of the plasminogen activation system 
+in synovial fibroblast-dependent cartilage degradation and invasion in RA, and 
+demonstrate an effective way to inhibit this by gene transfer of a cell 
+surface-targeted plasmin inhibitor.

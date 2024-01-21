@@ -1,0 +1,18 @@
+Clostridium difficile is a Gram-positive bacterium and is the most commonly 
+diagnosed cause of hospital-associated and antimicrobial-associated diarrhea. 
+Despite the emergence of epidemic C. difficile strains having led to an increase 
+in the incidence of the disease, a vaccine against this pathogen is not 
+currently available. C. difficile strains produce two main toxins (TcdA and 
+TcdB) and express three highly complex cell-surface polysaccharides (PSI, PSII 
+and PSIII). PSII is the more abundantly expressed by most C. difficile ribotypes 
+offering the opportunity of the development of a carbohydrate-based vaccine. In 
+this paper, we evaluate the efficacy, in naive mice model, of PSII 
+glycoconjugates where recombinant toxins A and B fragments (TcdA_B2 and TcdB_GT 
+respectively) have been used as carriers. Both glycoconjugates elicited IgG 
+titers anti-PSII although only the TcdB_GT conjugate induced a response 
+comparable to that obtained with CRM197. Moreover, TcdA_B2 and TcdB_GT 
+conjugated to PSII retained the ability to elicit IgG with neutralizing activity 
+against the respective toxins. These results are a crucial proof of concept for 
+the development of glycoconjugate vaccines against C. difficile infection (CDI) 
+that combine different C. difficile antigens to potentially prevent bacterial 
+colonization of the gut and neutralize toxin activity.

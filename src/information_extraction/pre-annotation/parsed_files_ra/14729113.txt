@@ -1,0 +1,24 @@
+It has been observed that some non-steroidal anti-inflammatory drugs (NSAIDs) 
+may act through several mechanisms, in addition to central inhibition of 
+prostaglandin synthesis. These other mechanisms include the L-arginine-nitric 
+oxide (L-arginine-NO) pathway, as well as endogenous opiate and serotonergic 
+mechanisms. Some of these mechanisms can explain the efficacy of NSAIDs in 
+chronic pain conditions such as rheumatoid arthritis. The present study was 
+designed to elucidate the involvement of the above pathways/mechanisms in the 
+antinociceptive effect of S-(+)-ketoprofen at supraspinal and spinal levels. 
+S-(+)-ketoprofen induced dose-dependent antinociception in the pain-induced 
+functional impairment model in the rat. The antinociceptive effect of 
+S-(+)-ketoprofen was not altered by i.t. or intracerebroventricula (i.c.v.) 
+pre-treatment with L-arginine (29.6 microg/site) and 
+L-nitro-arginine-monomethylester (L-NAME) (21.1 microg/site) and neither was the 
+effect of S-(+)-ketoprofen modified by the opiate antagonist, naloxone (1 mg/kg, 
+s.c.). In marked contrast, both i.c.v. administration of the 5-hydroxytryptamine 
+(5-HT)(1)/5-HT(2)/5-HT(7) receptor antagonist, methiothepin (1.5 microg/site), 
+and i.t. administration of the 5-HT(3)/5-HT(4) receptor antagonist, tropisetron 
+(0.9 microg/site), significantly inhibited the S-(+)-ketoprofen-induced 
+antinociceptive effect. These data suggest that the antinociceptive response to 
+S-(+)-ketoprofen involves serotoninergic mechanisms via both supraspinal 
+5-HT(1)/5-HT(2)/5-HT(7) receptors and 5-HT(3) receptors located at spinal level. 
+A role of the L-arginine-NO and opiate systems in S-(+)-ketoprofen-induced 
+antinociception in the pain-induced functional impairment model in the rat model 
+seems unlikely.

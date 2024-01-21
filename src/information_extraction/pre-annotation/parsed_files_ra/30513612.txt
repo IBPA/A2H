@@ -1,0 +1,18 @@
+Mucosa-associated lymphoid tissue lymphoma translocation protein 1 (MALT1) is an 
+intracellular cysteine protease (paracaspase) that plays an integral role in 
+innate and adaptive immunity. The phenothiazine mepazine has been shown to 
+inhibit the proteolytic activity of MALT1 and is frequently used to study its 
+biological role. MALT1 has recently been suggested as a therapeutic target in 
+rheumatoid arthritis. Here, we analyzed the effect of mepazine on the receptor 
+activator of nuclear factor κ-B (RANK)-induced osteoclastogenesis. The treatment 
+of mouse bone marrow precursor cells with mepazine strongly inhibited the RANK 
+ligand (RANKL)-induced formation of osteoclasts, as well as the expression of 
+several osteoclast markers, such as TRAP, cathepsin K, and calcitonin. However, 
+RANKL induced osteoclastogenesis equally well in bone marrow cells derived from 
+wild-type and Malt1 knock-out mice. Furthermore, the protective effect of 
+mepazine was not affected by MALT1 deficiency. Additionally, the absence of 
+MALT1 did not affect RANK-induced nuclear factor κB (NF-κB) and activator 
+protein 1 (AP-1) activation. Overall, these studies demonstrate that MALT1 is 
+not essential for RANK-induced osteoclastogenesis, and implicate a 
+MALT1-independent mechanism of action of mepazine that should be taken into 
+account in future studies using this compound.

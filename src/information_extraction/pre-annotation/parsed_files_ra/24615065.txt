@@ -1,0 +1,19 @@
+B-cell depletion can improve disease in some patients with rheumatoid arthritis 
+or multiple sclerosis, indicating the pathogenic contribution of B cells to 
+autoimmunity. However, studies in mice have demonstrated that B cells have 
+immunosuppressive functions as well, with IL-10 being a critical mediator of 
+B-cell-mediated suppression. IL-10-secreting B cells have been shown to promote 
+disease remission in some mouse models of autoimmune disorders. Human B cells 
+also produce IL-10, and evidence is accumulating that human IL-10-producing B 
+cells might inhibit immunity. There is considerable interest in identifying the 
+phenotype of B cells providing IL-10 in a suppressive manner, which would 
+facilitate the analysis of the molecular mechanisms controlling this B-cell 
+property. Here, we review current knowledge on the B-cell subpopulations found 
+to provide suppressive functions in mice, considering both the pathological 
+context in which they were identified and the signals that control their 
+induction. We discuss the phenotype of B cells that have IL-10-dependent 
+regulatory activities in mice, which leads us to propose that antibody-secreting 
+cells are, in some cases at least, the major source of B-cell-derived regulatory 
+IL-10 in vivo. Anti-inflammatory cytokine production by antibody-secreting cells 
+offers a novel mechanism for the coordination of innate and humoral immune 
+responses.

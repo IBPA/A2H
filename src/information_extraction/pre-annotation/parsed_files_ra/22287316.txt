@@ -1,0 +1,18 @@
+Hyaluronic acid (HA) may exert different action depending on its degree of 
+polymerization. Small HA fragments induce proinflammatory responses, while 
+highly polymerized HA exerts a protective effect in inflammatory pathologies 
+such as rheumatoid arthritis. In both cases the toll-like receptor 4 (TLR-4) 
+seems to be involved in the modulation of the inflammation process. The aim of 
+this study was to investigate the influence of short HA oligosaccharides (HA 
+4-mers) and high molecular weight HA (HMWHA) in the inflammatory response in 
+normal mouse chondrocytes. Messenger RNA and related protein levels were 
+measured for TLR-4, tumor necrosis factor-alpha (TNF-alpha), interleukin-1beta 
+(IL-1beta), interleukin-6 (IL-6), and interleukin-18 (IL-18) in cells with and 
+without the addition of HA. NF-kB activation was also evaluated. 4-mer HA 
+treatment produced a significant up-regulation of all parameters considered 
+while HMWHA did not exert any activity in untreated cells although it was able 
+to reduce the effects of 4- mers HA significantly. Specific TLR-4 small 
+interference RNA (siRNA) was used to confirm TLR-4 as the target of HA action. 
+This study suggests that HA may modulate proinflammatory cytokines via its 
+different degree of polymerization and inflammatory action may be modulated as a 
+result of the interaction between HA and TLR-4.

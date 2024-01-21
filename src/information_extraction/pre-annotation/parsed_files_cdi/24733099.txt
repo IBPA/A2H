@@ -1,0 +1,21 @@
+Clostridium difficile infection is the most common cause of severe cases of 
+antibiotic-associated diarrhea (AAD) and is a significant health burden. Recent 
+increases in the rate of C. difficile infection have paralleled the emergence of 
+a specific phylogenetic clade of C. difficile strains (ribotype 027; North 
+American pulsed-field electrophoresis 1 [NAP1]; restriction endonuclease 
+analysis [REA] group BI). Initial reports indicated that ribotype 027 strains 
+were associated with increased morbidity and mortality and might be 
+hypervirulent. Although subsequent work has raised some doubt as to whether 
+ribotype 027 strains are hypervirulent, the strains are considered epidemic 
+isolates that have caused severe outbreaks across the globe. We hypothesized 
+that one factor that could lead to the increased prevalence of ribotype 027 
+strains would be if these strains had increased competitive fitness compared to 
+strains of other ribotypes. We developed a moderate-throughput in vitro model of 
+C. difficile infection and used it to test competition between four ribotype 027 
+clinical isolates and clinical isolates of four other ribotypes (001, 002, 014, 
+and 053). We found that ribotype 027 strains outcompeted the strains of other 
+ribotypes. A similar competitive advantage was observed when two ribotype pairs 
+were competed in a mouse model of C. difficile infection. Based upon these 
+results, we conclude that one possible mechanism through which ribotype 027 
+strains have caused outbreaks worldwide is their increased ability to compete in 
+the presence of a complex microbiota.

@@ -1,0 +1,25 @@
+1. The aim of this study was to determine whether the low molecular mass GTPase 
+RhoA or related proteins are involved in carbachol- and high-K(+)-induced 
+contractions in intact intestinal smooth muscle as well as the carbachol-induced 
+increase in Ca2+ sensitivity of the myofilaments in permeabilized preparations. 
+2. The carbachol-induced increase in the Ca2+ sensitivity of force production in 
+beta-escin-permeabilized intestinal smooth muscle was enhanced in preparations 
+that were loaded with the constitutively active mutant of RhoA, Val14RhoA, and 
+was inhibited by exoenzyme C3 from Clostridium botulinum, which ADP-ribosylates 
+and inactivates small GTPases of the Rho family. The effect of C3 on Ca2+ 
+sensitivity in the absence of the agonist was negligible, while the maximal 
+Ca(2+)-activated force was inhibited by about 20%. 3. Inhibition of 
+carbachol-induced force was associated with an increase in ADP-ribosylation of a 
+protein band with a molecular mass of approximately 22 kDa, corresponding to 
+Rho, and was partially reversed in the presence of Ile41RhoA, which is not a 
+substrate for C3. Val14RhoA did not restore carbachol-induced Ca2+ sensitization 
+in C3-treated smooth muscle. 4. In intact intestinal smooth muscle, toxin B from 
+Clostridium difficile, which monoglucosylates members of the Rho family, 
+inhibited high-K(+)-induced contractions and the initial phasic response to 
+carbachol by about 30%. The delayed contractile response to carbachol was 
+completely inhibited. 5. In smooth muscle preparations that were permeabilized 
+with beta-escin after treatment with toxin B, carbachol-and GTP gamma S-induced 
+Ca2+ sensitization was significantly inhibited. 6. These findings are consistent 
+with a role for Rho or Rho-like proteins in agonist-induced increase in Ca2+ 
+sensitivity of force production in intact and permeabilized intestinal smooth 
+muscle.

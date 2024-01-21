@@ -1,0 +1,20 @@
+Rheumatoid arthritis (RA) is a degenerative joint disease that is caused by 
+multiple pathogenic factors. However, the precise etiology of RA is still 
+unknown. Our previous studies demonstrated that acid-sensing ion channel 1a 
+(ASIC1a)-mediated articular chondrocyte apoptosis played a key role in the 
+progression of RA. In this study, we aim to explore whether ASIC1a mediates 
+autophagy or not and the effect of autophagy on ASIC1a-mediated apoptosis. 
+Primary articular chondrocytes, extracted from rat knee joints, were exposed to 
+different concentrations of concentrated hydrochloric acid for different time 
+intervals in vitro. The results indicated that extracellular acid treatment 
+induced autophagy of rat articular chondrocytes. Moreover, inhibition of ASIC1a 
+with either psalmotoxin 1 or ASIC1a short hairpin RNA reduced the autophagy 
+flux. The results suggested that ASIC1a mediated acid-induced autophagy. 
+Pretreatment with autophagy antagonist 3-methyladenine decreased the autophagy, 
+but increased the apoptosis mediated by ASIC1a. Furthermore, knockdown of Beclin 
+1 by small interfering RNA attenuated autophagy but potentiated ASIC1a-mediated 
+apoptosis of rat articular chondrocytes. Taken together, these findings 
+suggested that both inhibition and silencing of autophagy could enhance 
+ASIC1a-mediated apoptosis in rat articular chondrocytes, and therefore, 
+autophagy is likely to be a new mechanism involved in ASIC1a-mediated apoptosis 
+of articular chondrocytes during the pathogenesis of RA.

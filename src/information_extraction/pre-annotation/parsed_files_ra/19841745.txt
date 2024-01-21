@@ -1,0 +1,24 @@
+BACKGROUND: A pathogenic hallmark of rheumatoid arthritis (RA) is persistent 
+inflammatory responses in target tissues and organs. Immune responses mediated 
+by T cells and autoantibodies are known to play pivotal roles. A possible 
+interpretation for this observation is a loss of negative regulation of 
+autoimmune responses. Here we sought to investigate whether B7-H4, a cell 
+surface inhibitory molecule of the B7-CD28 signaling pathway, may play a role in 
+the pathogenesis of RA.
+METHODS AND FINDINGS: In a cross-sectional study of a clinical convenience 
+sample using monoclonal antibodies against human B7-H4 molecules, we detected 
+high levels of the soluble form of B7-H4 (sH4) in the sera of 65% of patients 
+with RA (n = 68) versus only 13% of healthy donors (n = 24). Elevated sH4 was 
+associated with an increased disease severity score (DAS28) in a cross-sectional 
+analysis. In a mouse model of RA, transgenic expression of sH4 or genetic 
+deletion of B7-H4 accelerated the progression of collagen-induced arthritis, 
+accompanied by enhanced T and B cell-mediated autoimmune responses as well as 
+increased activity of neutrophils. Expression in vivo of an agonist, a 
+B7-H4-immunoglobulin Fc fusion protein, profoundly suppressed disease 
+progression in the mouse model.
+CONCLUSIONS: Our findings in mice indicate that sH4 acts as a decoy molecule to 
+block the inhibitory functions of cell-surface B7-H4, leading to exacerbation of 
+collagen-induced arthritis. If the preliminary correlation between sH4 levels 
+and disease activity in patients with RA can be confirmed to reflect a similar 
+mechanism, these findings suggest a novel target for treatment approaches. 
+Please see later in the article for the Editors' Summary.

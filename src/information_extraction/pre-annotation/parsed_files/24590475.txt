@@ -1,0 +1,23 @@
+Antibiotics can play dual roles in Clostridium difficile infection (CDI); 
+antibiotic treatment increases the risk of CDI, and antibiotics are used to 
+treat CDI. The glycylcycline antibiotic tigecycline has broad antimicrobial 
+activity, yet it is rarely associated with the development of CDI, presumably 
+due to its activity against C. difficile. In this study, we investigated how 
+tigecycline treatment affects the structure of the gut microbiota and 
+susceptibility to CDI by treating mice with tigecycline (n = 20) or saline (n = 
+8) for 10 days. A sequence analysis of the bacterial 16S rRNA gene amplicons was 
+used to monitor changes in the fecal microbiota. A subset of the mice was 
+followed for 5 weeks after the end of treatment. The remaining mice were 
+challenged with C. difficile strain VPI 10463 spores 2 days after the 
+tigecycline treatment ended. Tigecycline treatment resulted in major shifts in 
+the gut microbiota, including large decreases in Bacteroidetes levels and large 
+increases in Proteobacteria levels. Mice with tigecycline-altered microbial 
+communities were susceptible to challenge with C. difficile spores and developed 
+clinical signs of severe CDI. Five weeks after the cessation of tigecycline 
+treatment, the recovery of the bacterial community was incomplete and diversity 
+was lower than in the untreated controls. Antibiotics with intrinsic activity 
+against C. difficile can still alter the microbiota in a way that leads to 
+susceptibility to CDI after discontinuation of the drug. These results indicate 
+that microbiotic dynamics are key in the development of CDI, and a better 
+understanding of these dynamics may lead to better strategies to prevent and 
+treat this disease.

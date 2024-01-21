@@ -1,0 +1,23 @@
+We investigated correlations between soluble HLA-DR (sHLA-DR) molecules and 
+several clinical, biological and genetic parameters associated with rheumatoid 
+arthritis (RA) disease activity. Serum sHLA-DR concentrations were determined in 
+146 samples from 89 RA patients by an ELISA format, using an antibody 
+combination of mouse and rat monoclonal anti-human HLA-DR antibodies. The mean 
+sHLA-DR serum level in RA patients was significantly increased with 277+/-19 
+ng/ml compared to 142+/-13 ng/ml of 80 healthy controls (P<0.001). In ascending 
+order of significance, correlations were found between serum sHLA-DR and EULAR 
+swelling and pain scores, Waaler-Rose, RA factor, ESR and CRP (P=0.025 to 
+P<0.001). High sHLA-DR levels were defined above 374 ng/ml that was the 95% 
+confidence interval of the controls. Thirty-seven blood samples (25%) in 31 RA 
+patients were above this level. The EULAR pain and swelling scores, erythrocyte 
+sedimentation rate (ESR), C-reactive protein (CRP) and RA factor were higher 
+(P=0.044 to P<0.001) at the moment of high sHLA-DR concentrations, compared to 
+the lower concentrations. Higher disease activity was further found in groups of 
+RA patients respectively heterozygous or homozygous for the disease-associated 
+epitope (Q)R/KRAA within the HLA-DRB1 chain, compared to the group without this 
+epitope (P<0.017 for part of the results). Likewise, sHLA-DR was respectively 
+169+/-17 (no disease associated epitope), 324+/-34 (heterozygous) and 442+/-69 
+ng/ml (homozygous for the disease-associated epitope on HLA-DRB1 alleles) 
+(P<0.017). In conclusion, this study shows significant correlations between 
+serum sHLA-DR levels and RA disease activity parameters, as well as increased 
+sHLA-DR in patients with disease-associated epitope on HLA-DRB1 alleles.

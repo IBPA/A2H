@@ -1,0 +1,21 @@
+Our objective was to determine the role of the inflammatory cytokine 
+interleukin-23 (IL-23) in promoting neutrophil recruitment, inflammatory 
+cytokine expression and intestinal histopathology in response to Clostridium 
+difficile infection. Wild-type (WT) and p19(-/-) (IL-23KO) mice were pre-treated 
+with cefoperazone in their drinking water for 5 days, and after a 2-day recovery 
+period were challenged with spores from C. difficile strain VPI 10463. 
+Interleukin-23 deficiency was associated with significant defects in both the 
+recruitment of CD11b(High) Ly6G(H) (igh) neutrophils to the colon and the 
+expression of neutrophil chemoattractants and stabilization factors including 
+Cxcl1, Cxcl2, Ccl3 and Csf3 within the colonic mucosa as compared with WT 
+animals. Furthermore, the expression of inflammatory cytokines including Il33, 
+Tnf and Il6 was significantly reduced in IL-23-deficient animals. There was also 
+a trend towards less severe colonic histopathology in the absence of IL-23. The 
+induction of Il17a and Il22 was also significantly abrogated in IL-23KO mice. 
+Inflammatory cytokine expression and neutrophilic inflammation were not reduced 
+in IL-17a-deficient mice or in mice treated with anti-IL-22 depleting monoclonal 
+antibody. However, induction of RegIIIg was significantly reduced in animals 
+treated with anti-IL-22 antibody. Taken together, these data indicate that 
+IL-23, but not IL-17a or IL-22, promotes neutrophil recruitment and inflammatory 
+cytokine and chemokine expression in the colon in response to C. difficile 
+infection.

@@ -1,0 +1,26 @@
+BACKGROUND AIMS: Rheumatoid arthritis is a systemic autoimmune disorder. In this 
+study, we first compared the therapeutic effects of syngeneic and xenogeneic 
+adipose tissue-derived stem cells on a collagen-induced arthritis mouse model. 
+Second, we investigated the synergistic preventive effects of CTLA4Ig and 
+adipose tissue-derived mesenchymal stromal cells (ASCs) as a therapeutic 
+substance.
+METHODS: Arthritis was induced in all groups except for the normal, saline (N) 
+group, using chicken type II collagen (CII). Animals were divided into C 
+(control, saline), H (hASCs), M (mASCs) and N groups (experiment I) and C, H, CT 
+(CTLA4Ig-overexpressing human ASC [CTLA4Ig-hASCs]) and N groups (experiment II), 
+according to transplanted material. Approximately 2 × 10(6) ASCs or 150 μL of 
+saline was intravenously administered on days 24, 27, 30 and 34, and all animals 
+were killed on days 42 to 44 after CII immunization.
+RESULTS: Anti-mouse CII autoantibodies were significantly lower in the H, M and 
+CT groups than in the C group. Cartilage damage severity score and C-telopeptide 
+of type II collagen were significantly lower in the CT group than in the C 
+group. The serum levels of IL-6 were significantly lower in the H, M and CT 
+groups than in the C group. The serum levels of keratinocyte chemoattractant 
+were significantly lower in the CT group than the C group.
+CONCLUSIONS: There were similar effects of ASCs on the decrease of anti-mouse 
+CII autoantibody levels between syngeneic and xenogeneic transplantations, and 
+CTLA4Ig-hASCs showed synergistic preventive effects compared with non-transduced 
+hASCs.
+
+Copyright © 2015 International Society for Cellular Therapy. Published by 
+Elsevier Inc. All rights reserved.

@@ -1,0 +1,13 @@
+Toll-like receptors (TLRs) form a large family of pattern recognition receptors 
+with at least 11 members in human and 13 in mouse. TLRs recognize a wide variety 
+of microbial components and potential host-derived agonists that have emerged as 
+key mediators of innate immunity. TLR signaling also plays an important role in 
+the activation of the adaptive immune system by inducing proinflammatory 
+cytokines and upregulating costimulatory molecules of antigen presenting cells. 
+The dysregulation of TLR signaling may cause autoimmunity. This review discusses 
+the contribution of TLR signaling to the initiation and progression of 
+autoimmune diseases, such as rheumatoid arthritis, experimental autoimmune 
+encephalitis, myocarditis, hepatitis, kidney disease, systemic lupus 
+erythematosus, diabetes, obesity, and experimental autoimmune uveitis as well as 
+aging. The involvement of TLR signaling in the pathogenesis of autoimmune 
+diseases may provide novel targets for the development of therapeutics.

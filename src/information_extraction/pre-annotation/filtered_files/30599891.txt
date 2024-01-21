@@ -1,0 +1,32 @@
+BACKGROUND: (-)-Epicatechin-3-O-β-d-allopyranoside (ECAP) is isolated from the 
+popular Chinese herbal medicine Davallia formosana, which has been used to treat 
+bone diseases including bone fracture, arthritis, and osteoporosis.
+PURPOSE: To investigate the antiarthritic and the anti-inflammatory effect of 
+ECAP on a mouse model of collagen-induced arthritis (CIA) and in vitro.
+METHODS: Male DBA/1 J mice were immunized by administering an intradermal 
+injection of 100 µg of type II collagen in Freund's complete adjuvant. The 
+control groups (vehicle) and ECAP were administered orally at doses of 1 ml/kg 
+(H2O), 50 and 100 mg/ml/kg once a day from Day 22 to Day 42 after primary 
+immunization. Paw swelling, arthritis severity score, and histological changes 
+were examined. Enzyme-linked immunosorbent assay was used to measure the levels 
+of cytokines, including tumor necrosis factor alpha (TNF-α), interleukin 
+(IL)-10, IL-17, IL-4, and interferon-γ (IFN-γ), in splenocytes. Furthermore, the 
+anti-inflammatory activities of ECAP were investigated in vitro by measuring 
+nitric oxide (NO) levels in lipopolysaccharide (LPS)-activated RAW264.7 
+macrophages.
+RESULTS: In the CIA model, the oral administration of ECAP ameliorated paw edema 
+and reduced the arthritis severity score and disease incidence. 
+Histopathological examination demonstrated that ECAP treatment effectively 
+protected the bone and cartilage of knee joints from erosion, lesion formation, 
+and deformation compared with the vehicle treatment. ECAP also reduced IL-1β and 
+MMP-9 expression in inflamed joints. Compared with the vehicle-treated mice with 
+CIA, the reduced severity of the disease in ECAP-treated mice was associated 
+with decreased levels of TNF-α and IL-17 and increased levels of IL-10 and IL-4 
+in the supernatants of splenocyte cultures. Flow cytometry analysis demonstrated 
+that ECAP increased the population of CD4+CD25+ regulatory T cells, thereby 
+inhibiting the B cell population. Anticollagen IgG1 and IgG2a levels decreased 
+in the serum of ECAP-treated mice. ECAP suppressed LPS-induced NO production in 
+RAW264.7 macrophages.
+CONCLUSION: The administration of ECAP effectively suppressed inflammation and 
+inflammatory pain and adjuvant-induced arthritis, indicating its therapeutic 
+potential in the treatment of rheumatoid arthritis.

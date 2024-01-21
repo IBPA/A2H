@@ -1,0 +1,27 @@
+BACKGROUND: The glycylcycline antibiotic tigecycline may have a relatively low 
+propensity to promote Clostridium difficile infection in part because it causes 
+less disruption of the indigenous intestinal microbiota than other 
+broad-spectrum antibiotics. We used a mouse model to compare the effects of 
+tigecycline versus other commonly used antibiotics on colonization resistance to 
+C. difficile and on the metabolic functions of the intestinal microbiota.
+METHODS: To assess in vivo colonization resistance to C. difficile, mice were 
+challenged with oral C. difficile spores 1, 7, or 12 days after completion of 3 
+days of treatment with subcutaneous saline, tigecycline, ceftriaxone, 
+piperacillin-tazobactam, or linezolid. Levels of bacterial metabolites in fecal 
+specimens of mice treated with the same antibiotics were analyzed using 
+non-targeted metabolic profiling by gas chromatograph (GC)/mass spectrometry 
+(MS) and ultra-high performance liquid chromatography-tandem MS (UPLC-MS/MS).
+RESULTS: All of the antibiotics disrupted colonization resistance to C. 
+difficile when challenge occurred 2 days after treatment. Only 
+piperacillin/tazobactam mice had disturbed colonization resistance at 7 days 
+after treatment. All of the antibiotics altered fecal metabolites in comparison 
+to controls, but tigecycline caused significantly less alteration than the other 
+antibiotics, including less suppression of multiple amino acids, bile acids, and 
+lipid metabolites.
+CONCLUSIONS: Tigecycline, linezolid, and ceftriaxone caused transient disruption 
+of colonization resistance to C. difficile, whereas piperacillin/tazobactam 
+caused disruption that persisted for 7 days post-treatment. Tigecycline caused 
+less profound alteration of fecal bacterial metabolites than the other 
+antibiotics, suggesting that the relatively short period of disruption of 
+colonization resistance might be related in part to reduced alteration of the 
+metabolic functions of the microbiota.

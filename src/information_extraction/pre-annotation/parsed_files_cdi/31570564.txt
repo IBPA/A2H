@@ -1,0 +1,21 @@
+Clostridioides (formerly known as Clostridium) difficile is the leading cause of 
+hospital-acquired gastrointestinal infections in the United States and one of 
+three urgent health care threats identified by the Centers for Disease Control 
+and Prevention. C. difficile disease is mediated by the production of toxins 
+that disrupt the epithelial barrier and cause a robust host inflammatory 
+response. Studies in humans as well as animal models of disease have shown that 
+the type of immune response generated against the infection dictates the outcome 
+of disease, often irrespective of bacterial burden. Much of the focus on 
+immunity during C. difficile infection (CDI) has been on type 3 immunity because 
+of the established role for this arm of the immune system in other 
+gastrointestinal inflammatory conditions such as inflammatory bowel disease 
+(IBD). For example, interleukin-22 (IL-22) production by group 3 innate lymphoid 
+cells (ILC3s) protects against pathobionts translocating across the epithelium 
+during CDI. On the other hand, interleukin-17 (IL-17) production by Th17 cells 
+increases CDI-associated mortality. Additionally, neutropenia has been 
+associated with increased susceptibility to CDI in humans, but increased 
+neutrophilia in mouse models correlates with host pathology. Taking the data 
+together, these findings suggest dual roles for type 3 immune responses during 
+infection. Here, we review the complex role of type 3 immunity during CDI and 
+delineate what is known about innate and adaptive cellular immunity as well as 
+the downstream effector cytokines known to be important during this infection.

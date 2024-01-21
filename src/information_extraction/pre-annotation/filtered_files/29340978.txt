@@ -1,0 +1,24 @@
+Aspasomes of methotrexate with antioxidant, ascorbyl palmitate, were developed 
+and optimized using factorial design by varying parameters such as lipid molar 
+ratio, drug to lipid molar ratio, and type of hydration buffer for transdermal 
+delivery for disease modifying activity in rheumatoid arthritis (RA). Aspasomes 
+were characterized by drug-excipients interaction, particle size analysis, 
+determination of zeta potential, entrapment efficiency, and surface properties. 
+The best formulation was loaded into hydrogel for evaluation of in vitro drug 
+release and tested in vivo against adjuvant induced arthritis model in wistar 
+rats, by assessing various physiological, biochemical, hematological, and 
+histopathological parameters. Optimized aspasome formulation exhibited smooth 
+surface with particle size 386.8 nm, high drug loading (19.41%), negative 
+surface potential, and controlled drug release in vitro over 24 h with a steady 
+permeation rate. Transdermal application of methotrexate-loaded aspasome 
+hydrogel for 12 days reduced rat paw diameter (21.25%), SGOT (40.43%), SGPT 
+(54.75%), TNFα (33.99%), IL β (34.79%), cartilage damage (84.41%), inflammation 
+(82.37%), panus formation (84.38%), and bone resorption (80.52%) as compared to 
+arthritic control rats. Free methotrexate-treated group showed intermediate 
+effects. However, drug-free aspasome treatment did not show any effect. The 
+experimental results indicate a positive outcome in development of drug-loaded 
+therapeutically active carrier system which presents a non-invasive controlled 
+release transdermal formulation with good drug loading, drug permeation rate, 
+and having better disease modifications against RA than the free drug, thereby 
+providing a more attractive therapeutic strategy for rheumatoid disease 
+management.

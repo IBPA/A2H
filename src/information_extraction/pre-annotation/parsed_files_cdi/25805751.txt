@@ -1,0 +1,31 @@
+BACKGROUND: Clostridium difficile is currently the leading cause of infectious 
+diarrhea in hospitalized patients. In addition to the infection due to toxigenic 
+C. difficile in the gastrointestinal tract of susceptible hosts, other 
+predisposing factors for C. difficile infection (CDI) are identified, including 
+advanced age, a prolonged hospital stay, and use of acid-suppressive drugs. Of 
+note, exposure to gastric acid-reducing agents, such as H2 blockers and proton 
+pump inhibitors (PPIs), remains a controversial risk factor, and has been 
+associated with CDI in some studies but not in others. A mouse model of 
+antibiotic-associated clostridial colitis was established to examine the role of 
+PPIs for CDI.
+MATERIALS AND METHODS: A mouse model of antibiotic-associated clostridial 
+colitis was set up. NF-κB reporter mice were used to address the in vivo spatial 
+and temporal inflammatory patterns of C. difficile-associated colitis. Serum 
+levels of lipopolysaccharide and dextran-FITC were measured to reflect the 
+barrier permeability of affected intestines.
+RESULTS: Mice with CDI that were exposed to PPI exhibited greater losses of 
+stool consistency and body and cecal weights than those that were not exposed to 
+PPI. Further, more neutrophilic infiltrations, epithelial damage, and 
+inflammatory cytokine expression were noted in colon specimens of the mice with 
+PPI exposure. More-evident inflammatory responses were detected by in vivo 
+imaging of NF-κB reporter mice with CDI that were exposed to PPI. Gut barrier 
+permeability was increased to a greater extent, as reflected by higher serum 
+levels of lipopolysaccharide and dextran-FITC in mice with CDI that were exposed 
+to PPI.
+CONCLUSIONS: Our mouse model demonstrates that PPI exposure increases the 
+severity of intestinal inflammation in mice with C. difficile-associated 
+colitis.
+
+© The Author 2015. Published by Oxford University Press on behalf of the 
+Infectious Diseases Society of America. All rights reserved. For Permissions, 
+please e-mail: journals.permissions@oup.com.

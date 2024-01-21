@@ -1,0 +1,20 @@
+Lysyl oxidase is a multifunctional enzyme required for collagen biosynthesis. 
+Various growth factors regulate lysyl oxidase during osteoblast differentiation, 
+subject to modulation by cytokines such as TNF-α in inflammatory osteopenic 
+disorders including diabetic bone disease. Canonical Wnt signaling promotes 
+osteoblast development. Here we investigated the effect of Wnt3a and TNF-α on 
+lysyl oxidase expression in pluripotent C3H10T1/2 cells, bone marrow stromal 
+cells, and committed osteoblasts. Lysyl oxidase was up-regulated by a 
+transcriptional mechanism 3-fold in C3H10T1/2 cells, and 2.5-fold in bone marrow 
+stromal cells. A putative functional TCF/LEF element was identified in the lysyl 
+oxidase promoter. Interestingly, lysyl oxidase was not up-regulated in committed 
+primary rat calvarial- or MC3T3-E1 osteoblasts. TNF-α down-regulated lysyl 
+oxidase both in Wnt3a-treated and in non-treated C3H10T1/2 cells by a 
+post-transcriptional mechanism mediated by miR203. Non-differentiated cells do 
+not produce a collagen matrix; thus, a novel biological role for lysyl oxidase 
+in pluripotent cells was investigated. Lysyl oxidase shRNAs effectively silenced 
+lysyl oxidase expression, and suppressed the growth of C3H10T1/2 cells by 50%, 
+and blocked osteoblast differentiation. We propose that interference with lysyl 
+oxidase expression under excess inflammatory conditions such as those that occur 
+in diabetes, osteoporosis, or rheumatoid arthritis can result in a diminished 
+pool of pluripotent cells which ultimately contributes to osteopenia.

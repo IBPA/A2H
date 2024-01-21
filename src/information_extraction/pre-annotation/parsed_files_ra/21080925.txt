@@ -1,0 +1,30 @@
+INTRODUCTION: Rheumatoid arthritis (RA) is a T-cell-mediated systemic autoimmune 
+disease, characterized by synovium inflammation and articular destruction. Bone 
+marrow mesenchymal stem cells (MSCs) could be effective in the treatment of 
+several autoimmune diseases. However, there has been thus far no report on 
+umbilical cord (UC)-MSCs in the treatment of RA. Here, potential 
+immunosuppressive effects of human UC-MSCs in RA were evaluated.
+METHODS: The effects of UC-MSCs on the responses of fibroblast-like synoviocytes 
+(FLSs) and T cells in RA patients were explored. The possible molecular 
+mechanism mediating this immunosuppressive effect of UC-MSCs was explored by 
+addition of inhibitors to indoleamine 2,3-dioxygenase (IDO), Nitric oxide (NO), 
+prostaglandin E2 (PGE2), transforming growth factor β1 (TGF-β1) and interleukin 
+10 (IL-10). The therapeutic effects of systemic infusion of human UC-MSCs on 
+collagen-induced arthritis (CIA) in a mouse model were explored.
+RESULTS: In vitro, UC-MSCs were capable of inhibiting proliferation of FLSs from 
+RA patients, via IL-10, IDO and TGF-β1. Furthermore, the invasive behavior and 
+IL-6 secretion of FLSs were also significantly suppressed. On the other hand, 
+UC-MSCs induced hyporesponsiveness of T cells mediated by PGE2, TGF-β1 and NO 
+and UC-MSCs could promote the expansion of CD4(+) Foxp3(+) regulatory T cells 
+from RA patients. More importantly, systemic infusion of human UC-MSCs reduced 
+the severity of CIA in a mouse model. Consistently, there were reduced levels of 
+proinflammatory cytokines and chemokines (TNF-α, IL-6 and monocyte 
+chemoattractant protein-1) and increased levels of the 
+anti-inflammatory/regulatory cytokine (IL-10) in sera of UC-MSCs treated mice. 
+Moreover, such treatment shifted Th1/Th2 type responses and induced Tregs in 
+CIA.
+CONCLUSIONS: In conclusion, human UC-MSCs suppressed the various inflammatory 
+effects of FLSs and T cells of RA in vitro, and attenuated the development of 
+CIA in vivo, strongly suggesting that UC-MSCs might be a therapeutic strategy in 
+RA. In addition, the immunosuppressive activitiy of UC-MSCs could be prolonged 
+by the participation of Tregs.

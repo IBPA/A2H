@@ -1,0 +1,25 @@
+OBJECTIVE: To generate a mouse model of reactive arthritis (ReA), an aseptic 
+synovitis that develops in joints distant from the primary bacterial infection 
+site, to examine roles for Toll-like receptors (TLRs) that recognize bacterial 
+components involved in the development of this arthritis, and to identify the 
+cytokine(s) relevant to this arthritis.
+METHODS: Mice were treated with cell wall extract from Escherichia coli (ECW) 
+gram-negative bacterium by injection into the footpads. Seven days later, the 
+mice were challenged with lipopolysaccharide (LPS), a TLR-4 ligand, which was 
+injected into the knee joint cavity. To investigate the cytokine(s) involved in 
+this arthritis, mice deficient in various arthritogenic cytokines, such as 
+interleukin-6 (IL-6), IL-12, IL-18, interferon-gamma, and tumor necrosis factor 
+alpha (TNFalpha), were sequentially treated with ECW and LPS.
+RESULTS: ECW-primed mice manifested acute severe arthritis after intraarticular 
+challenge with ECW or LPS, while unprimed mice exhibited modest changes after 
+these challenges. Mutant mice lacking functional TLR-4 or myeloid 
+differentiation factor 88 (MyD88), an adaptor molecule of TLR-4 signaling, were 
+resistant to this arthritis. Although both TNFalpha and IL-6 were equally 
+expressed in the joint after LPS challenge, Il6(-/-) mice, but not Tnf(-/-) 
+mice, were resistant to ECW/LPS-induced arthritis.
+CONCLUSION: Our present results clearly indicate the importance of priming with 
+ECW and the requirement of TLR-4/MyD88-mediated IL-6, but not TNFalpha, for the 
+development of ECW/LPS-induced arthritis. LPS-induced IL-6, in the absence of 
+TNFalpha, mediates LPS-induced arthritis. These results suggest that IL-6 is a 
+rational target for therapeutic regimens for inflammatory arthritis, including 
+ReA and rheumatoid arthritis.

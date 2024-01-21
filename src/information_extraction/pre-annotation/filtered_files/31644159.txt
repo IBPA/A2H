@@ -1,0 +1,37 @@
+Tumor necrosis factor (TNF) alpha is a bioactive cytokine that is an important 
+component of the inflammatory and pain pathways. Inhibition of TNF can decrease 
+the inflammatory response, and this approach has been used in therapy of 
+autoimmune conditions, most effectively in inflammatory bowel disease (IBD), 
+rheumatoid arthritis, juvenile idiopathic arthritis (also known as juvenile 
+rheumatoid arthritis), psoriasis, psoriatic arthritis and ankylosing 
+spondylitis. Five anti-TNF antagonists have been developed and introduced into 
+clinical medicine: a mouse-human chimeric monoclonal antibody to TNF 
+(infliximab), two human monoclonal antibodies to TNF (adalimumab and golimumab), 
+a humanized Fab fragment of anti-TNF linked to polyethylene glycol 
+(certolizumab), and a soluble recombinant form of the TNF cellular receptor 
+(etanercept) which, on binding, blocks the activity of TNF. These TNF 
+antagonists have potent activity in several autoimmune diseases marked by 
+excessive production of this proinflammatory cytokine. All five of these agents 
+are approved for use in rheumatoid arthritis and are considered “disease 
+modifying anti-rheumatic drugs” (DMARDs), having been shown to decrease pain, 
+improve function, and ameliorate progressive joint damage in rheumatoid 
+arthritis. The monoclonal antibodies to TNF have also been shown to be effective 
+in psoriatic arthritis, ankylosing spondylitis and inflammatory bowel disease. 
+The five agents rarely cause serum aminotransferase elevations, but have been 
+linked to rare instances of clinically apparent, acute liver injury which often 
+resembles autoimmune hepatitis and can be severe or require corticosteroid 
+therapy. TNF antagonists are also immunosuppressive and can lead to reactivation 
+of latent infections such as tuberculosis and hepatitis B. Severe and even fatal 
+instances of reactivation of hepatitis B have been linked to several anti-TNF 
+agents, and routine screening for HBsAg before starting therapy with these 
+agents is recommended. Patients with HBsAg should receive prophylaxis with an 
+oral antiviral agent during therapy with one of the TNF antagonists. Among the 
+TNF antagonists, infliximab has been most frequently and etanercept least 
+frequently linked to liver injury, including asymptomatic serum aminotransferase 
+elevations, induction of clinically apparent autoimmune hepatitis, and 
+reactivation of hepatitis B. However, infliximab has been most extensively used 
+and studied than the other anti-TNF monoclonal antibodies, and liver injury due 
+to these agents is probably class specific. For these reasons, all five of these 
+agents should be considered potentially hepatotoxic, etanercept perhaps less so 
+that the others. Drug Class: Antirheumatic Agents; Gastrointestinal Agents; 
+Psoriasis Agents

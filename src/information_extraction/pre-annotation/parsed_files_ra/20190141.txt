@@ -1,0 +1,24 @@
+LFA-1 appears to play a central role in normal immune responses to foreign Ags. 
+In autoimmune or inflammatory diseases, there is increased expression of LFA-1 
+and/or its counterligand, ICAM-1. Others have demonstrated that the targeted 
+disruption of LFA-1:ICAM interactions, either by gene deletion or Ab treatment 
+in mice, results in reduced leukocyte trafficking, inflammatory responses, and 
+inhibition of inflammatory arthritis in the K/BxN serum transfer model. However, 
+there has been little success in finding a small-molecule LFA-1 antagonist that 
+can similarly impact rodent models of arthritis. In this paper, we present the 
+first reported example of an LFA-1 small-molecule antagonist, BMS-587101, that 
+is efficacious in preclinical disease models. In vitro, BMS-587101 inhibited 
+LFA-1-mediated adhesion of T cells to endothelial cells, T cell proliferation, 
+and Th1 cytokine production. Because BMS-587101 exhibits in vitro potency, 
+cross-reactivity, and oral bioavailability in rodents, we evaluated the impact 
+of oral administration of this compound in two different models of arthritis: 
+Ab-induced arthritis and collagen-induced arthritis. Significant impact of 
+BMS-587101 on clinical score in both models was observed, with inhibition 
+comparable or better than anti-mouse LFA-1 Ab. In addition, BMS-587101 
+significantly reduced cytokine mRNA levels in the joints of Ab-induced arthritis 
+animals as compared with those receiving vehicle alone. In paws taken from the 
+collagen-induced arthritis study, the bones of vehicle-treated mice had 
+extensive inflammation and bone destruction, whereas treatment with BMS-587101 
+resulted in marked protection. These findings support the potential use of an 
+LFA-1 small-molecule antagonist in rheumatoid arthritis, with the capacity for 
+disease modification.

@@ -1,0 +1,19 @@
+Abrupt reduction of flow (ischemia) leads to endothelial cell membrane 
+depolarization, NADPH oxidase activation, and reactive oxygen species (ROS) 
+generation in isolated rat and mouse lungs and in flow-adapted endothelial cells 
+in vitro. Here we evaluated the role of PI-3-kinase and rac in activation of 
+endothelial NADPH oxidase. Endothelium of isolated perfused mouse lungs labeled 
+with 2',7'-dichlorodihydrofluorescein (H(2)DCF) or hydroethidine (HE) showed 
+increased ROS generation with ischemia; these results were supported by TBARS 
+measurement in whole-lung homogenate and by in vitro studies using flow-adapted 
+mouse pulmonary microvascular endothelial cells. Ischemia-induced ROS generation 
+in intact lung or isolated cells was blocked by pretreatment with Clostridium 
+difficile toxin B, a rac inhibitor, and by wortmannin or LY294002, PI3 kinase 
+inhibitors. In cells, immunofluorescence and immunoblot after subcellular 
+fractionation showed ischemia-induced translocation of rac, p47(phox), and 
+p67(phox) to the plasma membrane. Increased extracellular K(+) also resulted in 
+rac translocation, providing evidence that this pathway is sensitive to 
+alterations of endothelial cell membrane potential. These results indicate that 
+PI-3-kinase and the small G protein rac are involved in the activation of 
+endothelial cell NADPH oxidase that is associated with the acute loss of shear 
+stress.

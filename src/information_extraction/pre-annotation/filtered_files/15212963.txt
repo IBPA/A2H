@@ -1,0 +1,17 @@
+The Chinese folk medicine Shiraia bambusicola has long been utilized in the 
+treatment of rheumatoid arthritis, a disease in which angiogenesis plays an 
+important role. We report here the isolation of the compound Shiraiachrome A 
+from S. bambusicola and the demonstration of its anti-angiogenic properties. We 
+found that Shiraiachrome A significantly inhibited the proliferation, migration, 
+and tube formation of human microvascular endothelial cells (HMEC) in a 
+dose-dependent manner, with average IC(50) values of 2.1+/-0.36, 1.97+/-0.44, 
+and 1.65+/-0.59 microM, respectively. In addition, Shiraiachrome A inhibited the 
+formation of new microvessels in a rat aorta culture model as well as in the 
+chick embryo chorioallantoic membrane (CAM) assay. Investigation of the 
+mechanism of action of Shiraiachrome A demonstrated that this compound 
+suppressed the autophosphorylation of four receptor tyrosine kinases (RTKs), 
+with IC(50) values ranging from 2.2 to 4.3 microM. These results suggest that 
+Shiraiachrome A inhibits angiogenesis by blocking growth factor-stimulated 
+autophosphorylation of RTKs. These findings also indicate that Shiraiachrome A 
+may be a potent therapeutic agent for angiogenesis-related diseases such as 
+cancer, rheumatoid arthritis, and diabetic retinopathy.

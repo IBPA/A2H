@@ -1,0 +1,22 @@
+Clostridium difficile is a major nosocomial pathogen responsible for close to 
+half a million infections and 27,000 deaths annually in the U.S. Preceding 
+antibiotic treatment is a major risk factor for C. difficile infection (CDI) 
+leading to recognition that commensal microbes play a key role in resistance to 
+CDI. Current antibiotic treatment of CDI is only partially successful due to a 
+high rate of relapse. As a result, there is interest in understanding the 
+effects of microbes on CDI susceptibility to support treatment of patients with 
+probiotic microbes or entire microbial communities (e.g., fecal microbiota 
+transplantation). The results reported here demonstrate that colonization with 
+the human commensal fungus Candida albicans protects against lethal CDI in a 
+murine model. Colonization with C. albicans did not increase the colonization 
+resistance of the host. Rather, our findings showed that one effect of C. 
+albicans colonization was to enhance a protective immune response. Mice 
+pre-colonized with C. albicans expressed higher levels of IL-17A in infected 
+tissue following C. difficile challenge compared to mice that were not colonized 
+with C. albicans. Administration of cytokine IL-17A was demonstrated to be 
+protective against lethal murine CDI in mice not colonized with C. albicans. C. 
+albicans colonization was associated with changes in the abundance of some 
+bacterial components of the gut microbiota. Therefore, C. albicans colonization 
+altered the gut ecosystem, enhancing survival after C. difficile challenge. 
+These findings demonstrate a new, beneficial role for C. albicans gut 
+colonization.

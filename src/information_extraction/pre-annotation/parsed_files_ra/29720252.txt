@@ -1,0 +1,24 @@
+BACKGROUND: Rheumatoid arthritis (RA) preferentially affects women, with the 
+peak incidence coinciding with estrogen decrease in menopause. Estrogen (E2) may 
+therefore have intrinsic immune-regulatory properties that vanish with 
+menopause. Fc sialylation is a crucial factor determining the inflammatory 
+effector function of antibodies. We therefore analyzed whether E2 affects 
+immunoglobulin G (IgG) sialylation.
+METHODS: Postmenopausal (ovariectomized) mice were immunized with ovalbumin and 
+treated with E2 or vehicle. Total and ovalbumin-specific IgG concentrations, 
+sialylation, and Fcγ receptor expression were analyzed. Postmenopausal women 
+with RA receiving hormone replacement therapy, including E2, or no treatment 
+were analyzed for IgG sialylation. Furthermore, effects of E2 on the expression 
+of the sialylation enzyme β-galactoside α2,6-sialyltransferase 1 (St6Gal1) were 
+studied in mouse and human antibody-producing cells.
+RESULTS: E2 treatment significantly increased Fc sialylation of total and 
+ovalbumin-specific IgG in postmenopausal mice. Furthermore, E2 led to increased 
+expression of inhibitory Fcγ receptor IIb on bone marrow leukocytes. Treatment 
+with E2 also increased St6Gal1 expression in mouse and human antibody-producing 
+cells, providing a mechanistic explanation for the increase in IgG-Fc 
+sialylation. In postmenopausal women with RA, treatment with E2 significantly 
+increased the Fc sialylation of IgG.
+CONCLUSIONS: E2 induces anti-inflammatory effector functions in IgG by inducing 
+St6Gal1 expression in antibody-producing cells and by increasing Fc sialylation. 
+These observations provide a mechanistic explanation for the increased risk of 
+RA in conditions with low estrogen levels such as menopause.

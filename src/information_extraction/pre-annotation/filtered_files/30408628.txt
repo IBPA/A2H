@@ -1,0 +1,25 @@
+Rheumatoid arthritis (RA) is an autoimmune disease and characterized by the 
+excessive cell proliferation, abnormal cell cycle of lymphocytes and synovial 
+cells. The therapeutic effects of curcumin in active RA patients were reported, 
+but limited by its insolubility and rapid systemic elimination. Dimethyl 
+curcumin (DiMC) is a metabolically stable analogue of curcum with 
+anti-inflammatory property. In this study, liposomes encapsulated dimethyl 
+curcumin (Lipo-DiMC) was prepared to improve the bioavailability and 
+metabolic-stability; collagen induced arthritis (CIA) rat model was employed to 
+investigate the effects of Lipo-DiMC treatments during CIA progress. Physical 
+assessments and routine-blood-test were performed. Fresh spleen lymphocytes were 
+isolated from normal, CIA and Lipo-DiMC-treated CIA rats; flow-cytometry for 
+cell-cycle analysis, western-blotting for intracellular signal pathway protein 
+expressions, gelatin-zymography for matrix-metalloproteases 2/9 (MMP-2/9) and 
+GF-AFC for dipeptidyl-peptidase I (DPPI) activity assay. Compared with untreated 
+CIA rats, Lipo-DiMC treatments relieved paw-swellings, suppressed the increments 
+of immunocytes numbers and inhibited DPPI and MMP-2/9 over-activity in blood. 
+Lipo-DiMC adjusted CIA-induced cell cycle dysfunction at G0/G1-phase and S-phase 
+of spleen lymphocytes for CIA rats. The intracellular expression-trends of P38, 
+P21, Bcl-2, JNK-1 and DPPI of spleen lymphocytes were observed during CIA 
+progress with and without Lipo-DiMC administrations. Lipo-DiMC exhibited its 
+therapeutic functions by attenuating CIA development in rats, associated with 
+down-regulating CIA-induced lymphocytes numbers, inhibiting over-expressed of 
+DPPI and MMP-2/9, and adjusting cell cycles. These findings provide a new 
+insight into the mechanism of Lipo-DiMC treatment in CIA rat model and suggest 
+that Lipo-DiMC could be considered as a potential drug for RA treatment.

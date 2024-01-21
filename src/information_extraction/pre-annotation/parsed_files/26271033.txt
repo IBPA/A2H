@@ -1,0 +1,33 @@
+Clostridium difficile is an emerging pathogen responsible for opportunistic 
+infections in hospitals worldwide and is the main cause of antibiotic-associated 
+pseudo-membranous colitis and diarrhea in humans. Clostridial toxins A and B 
+(TcdA and TcdB) specifically bind to unknown glycoprotein(s) on the surface of 
+epithelial cells in the host intestine, disrupting the intestinal barrier and 
+ultimately leading to acute inflammation and diarrhea. The C-terminal 
+receptor-binding domain (RBD) of TcdA, which is responsible for the initial 
+binding of the toxin to host glycoproteins, has been predicted to contain 7 
+potential oligosaccharide-binding sites. To study the specific roles and 
+functions of these 7 putative lectin-like binding regions, a consensus sequence 
+of TcdA RBD derived from different C. difficile strains deposited in the NCBI 
+protein database and three truncated fragments corresponding to the N-terminal 
+(residues 1-411), middle (residues 296-701), and C-terminal portions (residues 
+524-911) of the RBD (F1, F2 and F3, respectively) were designed and expressed in 
+Escherichia coli. In this study, the recombinant RBD (rRBD) and its truncated 
+fragments were purified, characterized biologically and found to have the 
+following similar properties: (a) are capable of binding to the cell surface of 
+both Vero and Caco-2 cells; (b) possess Toll-like receptor agonist-like adjuvant 
+activities that can activate dendritic cell maturation and increase the 
+secretion of pro-inflammatory cytokines; and (c) function as potent adjuvants in 
+the intramuscular immunization route to enhance immune responses against weak 
+immunogens. Although F1, F2 and F3 have similar repetitive amino acid sequences 
+and putative oligosaccharide-binding domains, they do not possess the same 
+biological and immunological properties: (i) TcdA rRBD and its fragments bind to 
+the cell surface, but only TcdA rRBD and F3 internalize into Vero cells within 
+15 min; (ii) the fragments exhibit various levels of hemagglutinin (HA) 
+activity, with the exception of the F1 fragment, which demonstrates no HA 
+activity; and (iii) in the presence of alum, all fragments elicit various levels 
+of anti-toxin A-neutralizing antibody responses, but those neutralizing 
+antibodies elicited by F2 did not protect mice against a TcdA challenge. Because 
+TcdA rRBD, F1 and F3 formulated with alum can elicit immune protective responses 
+against the cytotoxicity of TcdA, they represent potential components of future 
+candidate vaccines against C. difficile-associated diseases.

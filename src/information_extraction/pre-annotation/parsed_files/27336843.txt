@@ -1,0 +1,21 @@
+Clostridium difficile (C. difficile) infection (CDI) is the main cause of 
+nosocomial antibiotic-associated colitis and increased incidence of 
+community-associated diarrhea in industrialized countries. At present, the 
+primary treatment of CDI is antibiotic administration, which is effective but 
+often associated with recurrence, especially in the elderly. Pathogenic strains 
+produce enterotoxin, toxin A (TcdA), and cytotoxin, toxin B (TcdB), which are 
+necessary for C. difficile induced diarrhea and gut pathological changes. 
+Administration of anti-toxin antibodies provides an alternative approach to 
+treat CDI, and has shown promising results in preclinical and clinical studies. 
+In the current study, several humanized anti-TcdA and anti-TcdB monoclonal 
+antibodies were generated and their protective potency was characterized in a 
+hamster infection model. The humanized anti-TcdA (CANmAbA4) and anti-TcdB 
+(CANmAbB4 and CANmAbB1) antibodies showed broad spectrum in vitro neutralization 
+of toxins from clinical strains and neutralization in a mouse toxin challenge 
+model. Moreover, co-administration of humanized antibodies (CANmAbA4 and 
+CANmAbB4 cocktail) provided a high level of protection in a dose dependent 
+manner (85% versus 57% survival at day 22 for 50 mg/kg and 20 mg/kg doses, 
+respectively) in a hamster gastrointestinal infection (GI) model. This study 
+describes the protective effects conferred by novel neutralizing anti-toxin 
+monoclonal antibodies against C. difficile toxins and their potential as 
+therapeutic agents in treating CDI.

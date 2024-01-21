@@ -1,0 +1,19 @@
+R-125224 is a novel humanized anti-human Fas monoclonal antibody prepared from 
+HFE7A, which is a monoclonal mouse IgG anti-Fas antibody, by grafting the mouse 
+complementarity-determining regions to human IgG, presently being developed as a 
+drug for treatment of rheumatoid arthritis. In the present study, we 
+investigated the tissue distribution of radioactivity in cynomolgus monkeys with 
+collagen-induced arthritis at the arm joint (CIA monkeys) after intravenous 
+administration of (125)I-labeled R-125224 ((125)I-R-125224). At 168 h after 
+administration, we observed a high radioactivity in the bone marrow, thymus, 
+lungs, liver, adrenals, spleen, ovaries, axillary lymph node and mesenteric 
+lymph node compared to the radioactivity in the plasma. These tissues and organs 
+in human are reported to express Fas antigen, strongly suggesting a specific 
+binding of (125)I-R-125224 to Fas antigen in cynomolgus monkeys. Semi-micro 
+autoradioluminograms of arm joint showed that radioactivity is detected in 
+pharmacological site, such as the bone marrow and articular cavity at 168 h. The 
+kinetics in binding of R-125224 to activated monkey lymphocytes and hepatocytes 
+was also investigated. K(d) values of activated lymphocytes and hepatocytes were 
+1.51+/-0.08 and 0.60+/-0.11 nM, respectively, which were similar to those values 
+in human lymphocytes and hepatocytes, demonstrating that R-125224 cross-reacts 
+with the monkey Fas antigen.

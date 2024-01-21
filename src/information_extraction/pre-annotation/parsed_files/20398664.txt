@@ -1,0 +1,29 @@
+BACKGROUND & AIMS: Clostridium difficile-associated disease (CDAD) is the 
+leading cause of nosocomial diarrhea in the United States. C difficile toxins 
+TcdA and TcdB breach the intestinal barrier and trigger mucosal inflammation and 
+intestinal damage. The inflammasome is an intracellular danger sensor of the 
+innate immune system. In the present study, we hypothesize that TcdA and TcdB 
+trigger inflammasome-dependent interleukin (IL)-1beta production, which 
+contributes to the pathogenesis of CDAD.
+METHODS: Macrophages exposed to TcdA and TcdB were assessed for IL-1beta 
+production, an indication of inflammasome activation. Macrophages deficient in 
+components of the inflammasome were also assessed. Truncated/mutated forms of 
+TcdB were assessed for their ability to activate the inflammasome. The role of 
+inflammasome signaling in vivo was assessed in ASC-deficient and IL-1 receptor 
+antagonist-treated mice.
+RESULTS: TcdA and TcdB triggered inflammasome activation and IL-1beta secretion 
+in macrophages and human mucosal biopsy specimens. Deletion of Nlrp3 decreased, 
+whereas deletion of ASC completely abolished, toxin-induced IL-1beta release. 
+TcdB-induced IL-1beta release required recognition of the full-length toxin but 
+not its enzymatic function. In vivo, deletion of ASC significantly reduced 
+toxin-induced inflammation and damage, an effect that was mimicked by 
+pretreatment with the IL-1 receptor antagonist anakinra.
+CONCLUSIONS: TcdA and TcdB trigger IL-1beta release by activating an 
+ASC-containing inflammasome, a response that contributes to toxin-induced 
+inflammation and damage in vivo. Pretreating mice with the IL-1 receptor 
+antagonist anakinra afforded the same level of protection that was observed in 
+ASC-/- mice. These data suggest that targeting inflammasome or IL-1beta 
+signaling may represent new therapeutic targets in the treatment of CDAD.
+
+Copyright (c) 2010 AGA Institute. Published by Elsevier Inc. All rights 
+reserved.

@@ -1,0 +1,31 @@
+BACKGROUND: This work aimed to evaluate the effects of genistein treatment in 
+Collagen Induced Arthritis (CIA) mouse model.
+METHODS: CIA was elicited in DBA/1 Mice by an intradermal injection of 100 μL of 
+an emulsion of bovine type II collagen (CII) in isovolumic incomplete Freund's 
+adjuvant (IFA) at the base of the tail. Twenty-one days later, a second 
+injection of CII in IFA was administered at the base of the tail. After the 
+symptoms of arthritis showed in mouse model, we divided animals into two groups 
+according to their clinical symptom scores. The treatment group was 
+intraperitoneally injected daily with genistein (based on the pre-experiment 
+data and literature reported, 5 mg/kg dose was selected and tested) for 12 days, 
+while the control group was injected with phosphate buffered saline. 
+Inflammatory cytokines titer, radiological, and histological observations were 
+completed at different time's points after treatment. CT analysis was conducted 
+3 months after the treatment to observe the articular structures. 
+Immunohistochemical analysis was performed to investigate the expression and 
+distribution of VEGF in joint tissues.
+RESULTS: Genistein suppressed the expressions of IL-1β, IL-6 and TNF-α in the 
+serum. Radiological results showed that bone degradation was inhibited by the 
+treatment. Moreover, hematoxylin and eosin staining showed that the degree of 
+inflammation was relieved. In the cartilage area, TRAP stain-positive cells were 
+detected, which was notably reduced in the treatment group compared to the 
+control group. Micro-CT 3D images clearly exhibited that the joint adhered and 
+structures destroyed in the control group with less destruction in the treatment 
+group. Furthermore, genistein suppressed VEGF expression, and blocked 
+angiogenesis in the synovial tissue.
+CONCLUSION: Our work provides further data regarding the effects of genistein as 
+a potential treatment drug for RA, as well as the role of genistein in the 
+anti-inflammatory pathway in RA therapy.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.org.

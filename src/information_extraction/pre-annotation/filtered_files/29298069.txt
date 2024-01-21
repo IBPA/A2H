@@ -1,0 +1,14 @@
+Janus kinases (JAKs) are intracellular tyrosine kinases that mediate the 
+signaling of numerous cytokines and growth factors involved in the regulation of 
+immunity, inflammation, and hematopoiesis. As JAK1 pairs with JAK2, JAK3, and 
+TYK2, a JAK1-selective inhibitor would be expected to inhibit many cytokines 
+involved in inflammation and immune function while avoiding inhibition of the 
+JAK2 homodimer regulating erythropoietin and thrombopoietin signaling. Our 
+efforts began with tofacitinib, an oral JAK inhibitor approved for the treatment 
+of rheumatoid arthritis. Through modification of the 3-aminopiperidine linker in 
+tofacitinib, we discovered highly selective JAK1 inhibitors with nanomolar 
+potency in a human whole blood assay. Improvements in JAK1 potency and 
+selectivity were achieved via structural modifications suggested by X-ray 
+crystallographic analysis. After demonstrating efficacy in a rat 
+adjuvant-induced arthritis (rAIA) model, PF-04965842 (25) was nominated as a 
+clinical candidate for the treatment of JAK1-mediated autoimmune diseases.

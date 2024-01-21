@@ -1,0 +1,20 @@
+Diagnosis of cartilage damage in early stages of arthritis is vital to impede 
+the progression of disease. In this regard, considerable progress has been made 
+in near-infrared fluorescence (NIRF) optical imaging technique. Arthritis can 
+develop due to various mechanisms but one of the main contributors is the 
+production of matrix metalloproteinases (MMPs), enzymes that can degrade 
+components of the extracellular matrix. Especially, MMP-1 and MMP-13 have main 
+roles in rheumatoid arthritis and osteoarthritis because they enhance collagen 
+degradation in the process of arthritis. We present here a novel NIRF imaging 
+strategy that can be used to determine the activity of MMPs and cartilage damage 
+simultaneously by detection of exposed type II collagen in cartilage tissue. In 
+this study, retro-orbital injection of mixed fluorescent dyes, MMPSense 750 FAST 
+(MMP750) dye and Alexa Fluor 680 conjugated monoclonal mouse antibody 
+immune-reactive to type II collagen, was administered in the arthritic mice. 
+Both dyes were detected with different intensity according to degree of joint 
+destruction in the animal. Thus, our dual fluorescence imaging method can be 
+used to detect cartilage damage as well as MMP activity simultaneously in early 
+stage arthritis.
+
+© 2016 International Center for Artificial Organs and Transplantation and Wiley 
+Periodicals, Inc.

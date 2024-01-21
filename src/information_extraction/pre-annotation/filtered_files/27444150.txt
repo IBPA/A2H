@@ -1,0 +1,23 @@
+Tyrosine hydroxylase (TH), a rate-limiting enzyme for the synthesis of 
+catecholamines, is expressed in T lymphocytes. However, the role of T 
+cell-expressed TH in rheumatoid arthritis (RA) is less clear. Herein, we aimed 
+to show the contribution of TH expression by CD4+ T cells to alleviation of 
+helper T (Th)17/regulatory T (Treg) imbalance in collagen-induced arthritis 
+(CIA), a mouse model of RA. CIA was prepared by intradermal injection of 
+collagen type II (CII) at tail base of DBA1/J mice. Expression of TH in the 
+spleen and the ankle joints was measured by real-time polymerase chain reaction 
+and Western blot analysis. Percentages of TH-expressing Th17 and Treg cells in 
+splenic CD4+ T cells were determined by flow cytometry. Overexpression and 
+knockdown of TH gene in CD4+ T cells were taken to evaluate effects of TH on 
+Th17 and Treg cells in CIA. TH expression was upregulated in both the inflamed 
+tissues (spleen and ankle joints) and the CD4+ T cells of CIA mice. In splenic 
+CD4+ T cells, the cells expressing TH were increased during CIA. These cells 
+that expressed more TH in CIA were mainly Th17 cells rather than Treg cells. TH 
+gene overexpression in CD4+ T cells from CIA mice reduced Th17 cell percentage 
+as well as Th17-related transcription factor and cytokine expression and 
+secretion, whereas TH gene knockdown enhanced the Th17 cell activity. In 
+contrast, TH gene overexpression increased Treg-related cytokine expression and 
+secretion in CD4+ T cells of CIA mice, while TH gene knockdown decreased the 
+Treg cell changes. Collectively, these findings show that CIA induces TH 
+expression in CD4+ T cells, particularly in Th17 cells, and suggest that the 
+increased TH expression during CIA represents an anti-inflammatory mechanism.

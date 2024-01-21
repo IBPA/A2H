@@ -1,0 +1,19 @@
+Aberrant formation of neutrophil extracellular traps (NETs) is a key feature in 
+rheumatoid arthritis (RA) and plays a pivotal role in disease pathogenesis. 
+However, the mechanism through which NETs shape the autoimmune response in RA 
+remains elusive. In this study, we demonstrate that inhibition of 
+peptidylarginine deiminases activity in collagen-induced arthritis (CIA) mouse 
+model significantly reduces NET formation, attenuates clinical disease activity, 
+and prevents joint destruction. Importantly, peptidylarginine deiminase 4 
+blocking markedly reduces the frequency of collagen-specific IFN-γ-producing T 
+helper 1 (Th1) cells in the draining lymph nodes of immunized mice. Exposure of 
+dendritic cells (DCs) to CIA-derived NETs induces DC maturation characterized by 
+significant upregulation of costimulatory molecules, as well as elevated 
+secretion of IL-6. Moreover, CIA-NET-treated DCs promote the induction of 
+antigen-specific Th1 cells in vitro. Finally, NETs from RA patients show an 
+increased potential to induce the maturation of DCs from healthy individuals, 
+corroborating the findings obtained in CIA mouse model. Collectively, our 
+findings delineate an important role of NETs in the induction and expansion of 
+Th1 pathogenic cells in CIA through maturation of DCs and reveal a novel role of 
+NETs in shaping the RA-autoimmune response that could be exploited 
+therapeutically.

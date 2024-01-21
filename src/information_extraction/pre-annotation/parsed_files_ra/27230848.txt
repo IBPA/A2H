@@ -1,0 +1,14 @@
+Study of rare genetic disorder often provides fundamental insights into the 
+pathology of common diseases. Cherubism is a rare craniofacial disorder in 
+children characterized by the destruction of maxillary and mandibular bones due 
+to expansile fibrous inflammatory lesions. Genetic study of cherubism families 
+discovered that gain-of-function mutations in the signaling adaptor protein 
+SH3BP2 are responsible for cherubism. Analysis of the mouse model revealed that 
+cherubism is an autoinflammatory disorder that is caused by dysregulated 
+signaling pathway mediated by toll-like receptors and spleen tyrosine kinase. 
+Recent study of the SH3BP2-deficient mice showed that SH3BP2 plays important 
+roles in bone resorption in mouse models of inflammatory arthritis. These 
+results establish SH3BP2 as a key player in the osteoimmune system beyond its 
+role in a rare inherited disorder and suggest that the signaling pathway 
+mediated by SH3BP2 is involved in the pathogenesis of common inflammatory bone 
+diseases such as rheumatoid arthritis.

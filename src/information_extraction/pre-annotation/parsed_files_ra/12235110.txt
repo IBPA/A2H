@@ -1,0 +1,18 @@
+Defects in IL-4-producing CD1d-autoreactive NKT cells have been implicated in 
+numerous Th1-mediated autoimmune diseases, including diabetes, multiple 
+sclerosis, rheumatoid arthritis, lupus, and systemic sclerosis. Particular 
+attention has been focused on autoimmune insulin-dependent diabetes mellitus 
+(IDDM) because nonobese diabetic (NOD) mice and humans with IDDM are both 
+reported to express severe deficiencies in the frequency and Th2 functions of 
+NKT cells. Furthermore, experimental manipulations of the NKT defect in the NOD 
+mouse induced corresponding changes in disease. Taken together, these converging 
+studies suggested a general role of NKT cells in natural protection against 
+destructive autoimmunity. However, in previous reports the identification of NKT 
+cells was based on indirect methods. We have now devised a direct, highly 
+specific CD1d tetramer-based methodology to test whether humans with IDDM have 
+associated NKT cell defects. Surprisingly, although we find marked and stable 
+differences in NKT cells between individuals, our study of IDDM patients and 
+healthy controls, including discordant twin pairs, demonstrates that NKT cell 
+frequency and IL-4 production are conserved during the course of IDDM. These 
+results contradict previous conclusions and refute the hypothesis that NKT cell 
+defects underlie most autoimmune diseases.

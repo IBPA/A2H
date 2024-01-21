@@ -1,0 +1,22 @@
+PURPOSE: Rheumatoid arthritis (RA) is known to induce dry skin as an 
+extra-articular symptom. However, the mechanisms behind the induction are 
+unclear. In this study, we utilized an arthritis mouse model to simulate RA to 
+reveal the relationship between arthritis and dry skin.
+MATERIALS AND METHODS: DBA/1JJmsSlc control mice (n = 5) and DBA/1JJmsSlc 
+collagen-induced arthritis mouse model (arthritis mice; n = 5) were used. We 
+measured transepidermal water loss (TEWL) and capacitance to reveal the effect 
+of arthritis on skin barrier function. In addition, we measured the expression 
+of biomarkers of skin barrier function.
+RESULTS: We found that the hind limb volume of the arthritis mice was higher 
+than that of the control mice. Our results showed that the arthritis mice had 
+higher TEWL and lower capacitance when compared to the control mice. When 
+compared to that of the control mice, the skin of the arthritis mice was thicker 
+with more leukocyte infiltration. In the skin of arthritis mice, we observed 
+lower expression of type I and IV collagens, but higher expression of matrix 
+metalloproteinases (MMP)-1 and -9 when compared to that of the control mice. The 
+levels of mast cells, histamine, substance P, and tryptase were higher in the 
+arthritis mice than in the control mice. This study showed that the arthritis 
+mice exhibited a disruption of skin barrier function (i.e. dry skin), which was 
+improved following treatment with a mast cell inhibitor.
+CONCLUSIONS: Our results on mast cells suggested that an improvement of dry skin 
+is important for RA management.

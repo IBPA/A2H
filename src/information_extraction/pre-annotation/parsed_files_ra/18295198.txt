@@ -1,0 +1,30 @@
+The 5-lipoxygenase (5-LOX) pathway has been associated with a variety of 
+inflammatory diseases including asthma, atherosclerosis, rheumatoid arthritis, 
+pain, cancer and liver fibrosis. Several classes of 5-LOX inhibitors have been 
+identified, but only one drug, zileuton, a redox inhibitor of 5-LOX, has been 
+approved for clinical use. To better evaluate the efficacy of 5-LOX inhibitors 
+for pharmacological intervention, a rat model was modified to test the in vivo 
+efficacy of 5-LOX inhibitors. Inflammation was produced by adding carrageenan 
+into a newly formed air pouch and prostaglandins produced. While macrophages and 
+neutrophils are present in the inflamed pouch, little 5-LOX products are formed. 
+Cellular 5-LOX activation was obtained by adding calcium ionophore (A23187) into 
+the pouch thus providing a novel model to evaluate the efficacy and selectivity 
+of 5-LOX inhibitors. Also, we described modifications to the in vitro 5-LOX 
+enzyme and cell assays. These assays included a newly developed 
+fluorescence-based enzyme assay, a 5-LOX redox assay, an ex vivo human whole 
+blood assay and an IgE-stimulated rat mast cell assay, all designed for maximal 
+production of leukotrienes. Zileuton and CJ-13,610, a competitive, non-redox 
+inhibitor of 5-LOX, were evaluated for their pharmacological properties using 
+these assays. Although both compounds achieved dose-dependent inhibition of 
+5-LOX enzyme activity, CJ-13,610 was 3-4 fold more potent than zileuton in 
+all-assays. Evaluation of 5-LOX metabolites-by LC/MS/MS and ELISA confirmed that 
+both compounds selectively inhibited all products downstream of 5-hydroperoxy 
+eicosatetraenoic acid (5-HPETE), including 5-oxo-6,8,11,14-eicosatetraenoic acid 
+(5-oxoETE), without inhibition of 12-lipoxygenase (12-LOX), 15-lipoxygenase 
+(15-LOX), or cyclooxygenase (COX) products. In the rat air pouch model, oral 
+dosing of CJ-13,610 and zileuton resulted in selective inhibition 5-LOX activity 
+from pouch exudate and ex vivo rat whole blood with similar potency to in vitro 
+assay. These data show that the rat air pouch model is a reliable and useful 
+tool for evaluating in vivo efficacy of 5-LOX inhibitors and may aid in the 
+development of the next generation of 5-LOX inhibitors, such as the non-redox 
+inhibitors similar to CJ-13,610.

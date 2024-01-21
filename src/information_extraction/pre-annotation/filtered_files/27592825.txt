@@ -1,0 +1,24 @@
+Macrophages play major roles in inflammation, immunity and host defense 
+mechanisms. Once activated they produce and release cytokines, oxygen and 
+nitrogen species, and eicosanoids. The best characterized stimuli to induce the 
+transcription of genes encoding pro-inflammatory proteins in macrophages in 
+vitro is bacterial lipopolysaccharide (LPS). LPS could be used alone or in 
+combination with recombinant mouse interferon-γ (IFN-γ). Such stimulation 
+results in cytokine release and the synthesis of enzymes such as 
+cyclooxygenase-2 (COX-2) and inducible nitric oxide synthase (iNOS). The nitric 
+oxide (NO) radical is known to play a central role in inflammatory and immune 
+reactions for self-protection. However, the excessive production of NO may lead 
+to tissue damage. In inflammatory diseases such as rheumatoid arthritis, 
+excessive NO production by activated macrophages has been observed. Adipose 
+tissue is composed of various cell types such as mature adipocytes, 
+preadipocytes, fibroblasts, endothelial cells, vascular cells, and macrophages. 
+Recent studies indicate that obesity is associated with low-grade chronic 
+inflammation of adipose tissues, and that such inflammation is one of the 
+potential mechanisms leading to the insulin resistance. It has been demonstrated 
+that obese adipose tissue is characterized by the increased infiltration of 
+macrophages. Therefore, we attempted to identify natural anti-inflammatory 
+compounds that not only inhibit the secretion of NO from RAW 264.7 cells, but 
+also inhibit triglyceride accumulation in 3T3-L1 adipocytes. This review 
+describes the NO prpduction inhibitory activity or the TG accumulation 
+inhibitory activity of the compounds obtained from 18 plants and a fungi that 
+have been used as traditional medicines.

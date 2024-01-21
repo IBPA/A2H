@@ -1,0 +1,21 @@
+INTRODUCTION: Chronic inflammatory diseases such as rheumatoid arthritis and 
+periodontitis frequently cause bone destruction. Inflammation-induced bone loss 
+results from the increase of bone-resorbing osteoclasts. Recently, we 
+demonstrated that urokinase type plasminogen activator (uPA) suppressed 
+lipopolysaccaride (LPS)-inflammatory osteoclastogenesis through the adenosine 
+monophosphate-activated protein kinase (AMPK) pathway, whereas its receptor 
+(uPAR) promoted that through the Akt pathway.
+METHODS: We investigated the effects of uPA-derived peptide (Å6) in the 
+LPS-induced inflammatory osteoclastogenesis and bone destruction.
+RESULTS: We found that Å6 attenuated inflammatory osteoclastogenesis and bone 
+loss induced by LPS in mice. We also showed that Å6 attenuated the LPS-promoted 
+inflammatory osteoclastogenesis by inactivation of NF-κB in RAW264.7 mouse 
+monocyte/macrophage lineage cells. Furthermore, we showed that Å6 attenuated the 
+Akt phosphorylation, and promoted the AMPK phosphorylation.
+CONCLUSION: Å6 is involved in the suppression of LPS-promoted inflammatory 
+osteoclastgensis and bone destruction by regulating the AMPK and Akt pathways. 
+These findings provide a basis for clinical strategies to improve the bone loss 
+caused by inflammatory diseases.
+
+© 2017 The Authors. Immunity, Inflammation and Disease Published by John Wiley & 
+Sons Ltd.

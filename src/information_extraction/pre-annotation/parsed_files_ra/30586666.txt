@@ -1,0 +1,23 @@
+BACKGROUND: The therapeutic effect of adoptive infusion of specific 
+thymus-derived invariant natural killer T (iNKT) cells in a mouse model of 
+rheumatoid arthritis (RA) was observed, and the mechanism of cellular 
+immunotherapy was preliminarily explored.
+METHODS: Thymus-derived iNKT cells were infused to RA model mice, with α-GalCer 
+as a positive control. Then, ankle swelling was examined, as well as 
+inflammatory cell infiltration to the joint tissue (hematoxylin-eosin [H&E] 
+staining). Flow cytometry (FCM) was used to assess iNKT cell and helper T 
+lymphocyte (Th) subsets. Serum cytokine levels were determined with cytometric 
+bead array (CBA), with protein expression levels of related transcription 
+factors assessed by Western blot.
+RESULTS: The joint swelling in RA model animals were significantly improved in 
+the cell therapy and α-GalCer positive control groups (P < 0.05). In addition, 
+iNKT frequencies in peripheral blood, the thymus and spleen were increased 
+significantly (P < 0.05). Meanwhile, iNKT1 subset frequencies in the thymus and 
+spleen were decreased, as well as splenic Th1 and Th17 cell subset rates, and 
+serum TNF-α, IFN-γ and IL-6 levels. The rates of iNKT2 and Th2 subsets as well 
+as IL-4 and IL-10 levels were increased (P < 0.05). Thymus GATA-3 and splenic 
+PLZF protein levels were increased (P < 0.05).
+CONCLUSIONS: Adoptive infusion of thymus-derived iNKT cells exerts therapeutic 
+effects in RA mice by increasing iNKT frequency, altering the proportions of 
+iNKT cell subsets, correcting Th cell subset imbalance and reducing the amounts 
+of inflammatory cytokines.

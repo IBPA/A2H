@@ -1,0 +1,21 @@
+It has been proposed that peptide epitopes bind to MHC class II molecules to 
+form distinct structural conformers of the same MHC II-peptide complex termed 
+type A and type B, and that the two conformers of the same peptide-MHC II 
+complex are recognized by distinct CD4 T cells, termed type A and type B T 
+cells. Both types recognize short synthetic peptides but only type A recognize 
+endosomally processed intact antigen. Type B T cells that recognize self 
+peptides from exogenously degraded proteins have been shown to escape negative 
+selection during thymic development and so have the potential to contribute to 
+the pathogenesis of autoimmunity. We generated and characterized mouse CD4 T 
+cells specific for an arthritogenic epitope of the candidate joint autoantigen 
+proteoglycan aggrecan. Cloned T-cell hybridomas specific for a synthetic peptide 
+containing the aggrecan epitope showed two distinct response patterns based on 
+whether they could recognize processed intact aggrecan. Fine mapping 
+demonstrated that both types of T-cell recognized the same core epitope. The 
+results are consistent with the generation of aggrecan-specific type A and type 
+B T cells. Type B T cells were activated by supernatants released from degrading 
+cartilage, indicating the presence of antigenic extracellular peptides or 
+fragments of aggrecan. Type B T cells could play a role in the pathogenesis of 
+proteoglycan-induced arthritis in mice, a model for rheumatoid arthritis, by 
+recognizing extracellular peptides or protein fragments of joint autoantigens 
+released by inflamed cartilage.

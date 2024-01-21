@@ -1,0 +1,15 @@
+The discovery of potent inhibitors of prostaglandin E2 (PGE2) synthesis in 
+recent years has been proven to be an important game changer in pharmaceutical 
+industry. It is known that excessive production of PGE2 triggers a vast array of 
+biological signals and physiological events that contributes to inflammatory 
+diseases such as rheumatoid arthritis, atherosclerosis, cancer, and pain. In 
+this Letter, we report the synthesis of a series of minor prenylated chalcones 
+and flavonoids which was found to be significantly active in suppressing the 
+PGE2 production secreted by lipopolysaccharide-induced mouse macrophage cells 
+(RAW 264.7). Among the compounds tested, 14b showed a dose-response inhibition 
+of PGE2 production with an IC50 value of 2.1 μM. The suppression upon PGE2 
+secretion was not due to cell death since 14b did not reduce the cell viability 
+in close proximity to the PGE2 inhibition concentration. The obtained atomic 
+coordinates for the single-crystal XRD of 14b was then applied in the docking 
+simulation to determine the potential important binding interactions with murine 
+COX-2 and mPGES-1 putative binding sites.

@@ -1,0 +1,22 @@
+In this study, a chronic yet synchronized version of the K/BxN mouse, the 
+KRN-cell transfer model (KRN-CTM), was developed and extensively characterized. 
+The transfer of purified splenic KRN T cells into T cell-deficient 
+B6.TCR.Calpha(-/-)H-2(b/g7) mice induced anti-glucose 6-phosphate isomerase 
+antibody-dependent chronic arthritis in 100% of the mice with uniform onset of 
+disease 7 days after T cell transfer. Cellular infiltrations were assessed by 
+whole-ankle transcript microarray, cytokine and chemokine levels, and 
+microscopic and immunohistochemical analyses 7 through 42 days after T cell 
+transfer. Transcripts identified an influx of monocytes/macrophages and 
+neutrophils into the ankles and identified temporal progression of cartilage 
+damage and bone resorption. In both serum and ankle tissue there was a 
+significant elevation in interleukin-6, whereas macrophage inflammatory 
+protein-1 alpha and monocyte chemotactic protein-1 were only elevated in tissue. 
+Microscopic and immunohistochemical analyses revealed a time course for edema, 
+synovial hypertrophy and hyperplasia, infiltration of F4/80-positive 
+monocytes/macrophages and myeloperoxidase-positive neutrophils, destruction of 
+articular cartilage, pannus invasion, bone resorption, extra-articular 
+fibroplasia, and joint ankylosis. The KRN cell transfer model replicates many 
+features of chronic rheumatoid arthritis in humans in a synchronized manner and 
+lends itself to manipulation of adoptively transferred T cells and 
+characterizing specific genes and T cell subsets responsible for rheumatoid 
+arthritis pathogenesis and progression.

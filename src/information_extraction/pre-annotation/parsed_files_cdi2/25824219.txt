@@ -1,0 +1,26 @@
+Vancomycin is a preferred antibiotic for treating Clostridium difficile 
+infection (CDI) and has been associated with a rate of recurrence of CDI of as 
+high as 20% in treated patients. Recent studies have suggested that berberine, 
+an alternative medical therapy for gastroenteritis and diarrhea, exhibits 
+several beneficial effects, including induction of anti-inflammatory responses 
+and restoration of the intestinal barrier function. This study investigated the 
+therapeutic effects of berberine on preventing CDI relapse and restoring the gut 
+microbiota in a mouse model. Berberine was administered through gavage to 
+C57BL/6 mice with established CDI-induced intestinal injury and colitis. The 
+disease activity index (DAI), mean relative weight, histopathology scores, and 
+levels of toxins A and B in fecal samples were measured. An Illumina 
+sequencing-based analysis of 16S rRNA genes was used to determine the overall 
+structural change in the microbiota in the mouse ileocecum. Berberine 
+administration significantly promoted the restoration of the intestinal 
+microbiota by inhibiting the expansion of members of the family 
+Enterobacteriaceae and counteracting the side effects of vancomycin treatment. 
+Therapy consisting of vancomycin and berberine combined prevented weight loss, 
+improved the DAI and the histopathology scores, and effectively decreased the 
+mortality rate. Berberine prevented CDIs from relapsing and significantly 
+improved survival in the mouse model of CDI. Our data indicate that a 
+combination of berberine and vancomycin is more effective than vancomycin alone 
+for treating CDI. One of the possible mechanisms by which berberine prevents a 
+CDI relapse is through modulation of the gut microbiota. Although this 
+conclusion was generated in the case of the mouse model, use of the combination 
+of vancomycin and berberine and represent a novel therapeutic approach targeting 
+CDI.

@@ -1,0 +1,13 @@
+MOTIVATION: DNA microarray technology and the completion of human and mouse 
+genome sequencing programs are now offering new avenues for the investigation of 
+complex genetic diseases. In particular, this makes possible the study of the 
+spatial distribution of disease-related genes within the genome. We report on 
+the first systematic search for clustering of genes associated with a polygenic 
+autoimmune disease.
+RESULTS: Using a set of cDNA microarray chip experiments in two mouse models of 
+rheumatoid arthritis, we have identified approximately 200 genes based on their 
+expression in inflamed joints and mapped them into the genome. We compute the 
+spatial autocorrelation function of the selected genes and find that they tend 
+to cluster over scales of a few megabase pairs. We then identify significant 
+gene clusters using a friends-of-friends algorithm. This approach should aid in 
+discovering functionally related gene clusters in the mammalian genome.

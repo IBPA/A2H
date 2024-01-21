@@ -1,0 +1,25 @@
+Surgical synovectomy to remove the inflammatory synovium can temporarily 
+ameliorate rheumatoid inflammation and delay the progress of joint destruction. 
+An efficient medically induced programmed cell death (apoptosis) in the 
+rheumatoid synovium might play a role similar to synovectomy but without 
+surgical tissue damage. Gene transfer of Fas ligand (FasL) has increased the 
+frequency of apoptotic cells in mouse and rabbit arthritic synovium. In this 
+study, we investigated whether repeated FasL gene transfer could remove human 
+inflammatory synovial tissue in situ and function as a molecular synovectomy. 
+Briefly, specimens of human synovium from joint replacement surgeries and 
+synovectomies of rheumatoid arthritis (RA) patients were grafted subcutaneously 
+into male C.B-17 severe combined immunodeficiency (SCID) mice. Injections of a 
+recombinant FasL adenovirus (Ad-FasL) into the grafted synovial tissue at the 
+dosage of 10(11) particles per mouse were performed every two weeks. Three days 
+after the fifth virus injection, the mice were euthanized by CO2 inhalation and 
+the human synovial tissues were collected, weighed and further examined. 
+Compared to the control adenovirus-LacZ (Ad-LacZ) and phosphate buffered saline 
+(PBS) injected RA synovium, the Ad-FasL injected RA synovium was dramatically 
+reduced in size and weight (P < 0.005). The number of both synoviocytes & 
+mononuclear cells was significantly reduced. Interestingly, an approximate 
+15-fold increased frequency of apoptotic cells was observed in RA synovium three 
+days after Ad-FasL injection, compared with control tissues. In summary, our in 
+vivo investigation of gene transfer to human synovium in SCID mice suggests that 
+repeated intra-articular gene transfer of an apoptosis inducer, such as FasL, 
+may function as a 'gene scalpel' for molecular synovectomy to arrest 
+inflammatory synovium at an early stage of RA.

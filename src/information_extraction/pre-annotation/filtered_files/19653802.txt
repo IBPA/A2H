@@ -1,0 +1,18 @@
+Phenylalanine 4-monooxygenase is the key enzyme in the sulfoxidation of the 
+thioether drug S-carboxymethyl-l-cysteine and its thioether metabolites, 
+S-methyl-l-cysteine, N-acetyl-S-carboxymethyl-l-cysteine and 
+N-acetyl-S-methyl-l-cysteine in humans, and a number of other mammalian species. 
+The kinetics constants of the sulfoxidation reaction (K(m), V(max) and CL(E)) 
+have been investigated in cytosolic fractions derived from rat and human liver, 
+in cytosolic fractions of HepG2 cells and using both human and mouse cDNA 
+expressed phenylalanine 4-monooxygenase. Differences in K(m), V(max) and CL(E) 
+of S-carboxymethyl-l-cysteine have been seen in HepG2 cells and human and mouse 
+cDNA expressed phenylalanine 4-monooxygenase when compared to both rat and human 
+hepatic cytosolic fractions. The association of the genetic polymorphism in the 
+sulfoxidation of S-carboxymethyl-l-cysteine is highlighted with particular 
+reference to this biotransformation reaction as being a biomarker of disease 
+susceptibility in Parkinson's, Alzheimer's and motor neurone diseases and in 
+rheumatoid arthritis. The possible underlying molecular genetics of the 
+sulfoxidation polymorphism is also discussed in relation to the known allelic 
+frequencies of phenylalanine 4-monooxygenase. Finally, the new found role 
+phenylalanine 4-monooxygenase plays in xenobiotic metabolism is discussed.

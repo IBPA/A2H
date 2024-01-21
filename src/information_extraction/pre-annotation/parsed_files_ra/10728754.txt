@@ -1,0 +1,31 @@
+OBJECTIVE: Sentrin, a novel antiapoptotic molecule, has been shown to interact 
+with the signal-competent form of Fas/APO-1 and tumor necrosis factor receptor I 
+(TNFRI), and thereby, to protect cells against anti-Fas/APO-1- and TNF-induced 
+cell death. Since reduced apoptosis in the synovial lining is supposed to 
+contribute to synovial hyperplasia in rheumatoid arthritis (RA), we searched for 
+the expression of sentrin-1 messenger RNA (mRNA) in synovium from patients with 
+RA.
+METHODS: The expression of sentrin-1 mRNA was examined by in situ hybridization 
+on snap-frozen sections of normal and RA synovial tissues as well as on 
+paraffin-embedded RA synovial specimens, including the interface of 
+cartilage-bone and invading synovium. Immunohistochemical double labeling after 
+in situ hybridization was performed to further characterize sentrin-1 
+mRNA-expressing cells. In addition, quantitative analysis of sentrin-1 mRNA 
+expression in RA synovial fibroblasts (RASF), osteoarthritis synovial 
+fibroblasts (OASF), and normal fibroblasts was performed by quantitative 
+real-time polymerase chain reaction. Expression levels were standardized to the 
+expression of GAPDH. The in vivo maintenance of sentrin expression in RASF 
+aggressively invading human cartilage was explored in the SCID mouse model of 
+RA.
+RESULTS: A marked expression of sentrin-1 mRNA could be seen in all RA synovial 
+specimens, predominantly in SF of the lining layer and at sites of invasion of 
+RA synovium into cartilage. In normal synovial tissues, no sentrin-1 mRNA was 
+detectable. RASF showed a maximum 32.5-fold (mean +/- SD 14.9 +/- 11.6) increase 
+of sentrin-1 mRNA expression compared with normal fibroblasts and a maximum 
+31.4-fold (mean +/-SD 14.3 +/- 10.9) increase compared with OASF. When 
+coimplanted with normal human cartilage in the SCID mouse model, invading RASF 
+maintained their sentrin-1 mRNA expression for at least 60 days in vivo.
+CONCLUSION: The marked expression of sentrin in rheumatoid synovial tissue, but 
+not in normal or OA synovial tissue, may contribute to the modulation of Fas- 
+and TNFR-mediated apoptosis in RA synovium, and thereby extend the lifespan of 
+invasive, cartilage-destructive SF.
