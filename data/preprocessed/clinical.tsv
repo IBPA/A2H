@@ -1,0 +1,273 @@
+acute/sustained	daily dosage	total dosage	dosage value	dosage units	dosage times per day	dosage duration	intervention class	intervention	dose dependence	prophylactic / therapeutic	Gender	Age Groups	Phases	URL	result
+acute	500	5000	250	mg	bid	10	antibiotic	cadazolid	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01983683	0.8068965517241379
+sustained	500	5000	250	mg	bid	10	antibiotic	cadazolid	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01983683	0.6310344827586207
+acute	500	5000	250	mg	bid	10	antibiotic	cadazolid	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01987895	0.8377483443708609
+sustained	500	5000	250	mg	bid	10	antibiotic	cadazolid	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01987895	0.6556291390728477
+acute	500	5000	250	mg	bid	10	antibiotic	cadazolid	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01222702	0.9411764705882353
+acute	1000	10000	500	mg	bid	10	antibiotic	cadazolid	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01222702	0.9
+acute	2000	20000	1000	mg	bid	10	antibiotic	cadazolid	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01222702	0.8421052631578947
+sustained	500	5000	250	mg	bid	10	antibiotic	cadazolid	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01222702	0.7647058823529411
+sustained	1000	10000	500	mg	bid	10	antibiotic	cadazolid	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01222702	0.7
+sustained	2000	20000	1000	mg	bid	10	antibiotic	cadazolid	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01222702	0.5555555555555556
+acute	250	2500	125	mg	bid	10	antibiotic	cb-183,315	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01085591	0.9242424242424242
+acute	250	2500	125	mg	bid	10	antibiotic	surotomycin	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01085591	0.9242424242424242
+acute	500	5000	250	mg	bid	10	antibiotic	cb-183,315	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01085591	0.8656716417910447
+acute	500	5000	250	mg	bid	10	antibiotic	surotomycin	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01085591	0.8656716417910447
+sustained	250	2500	125	mg	bid	10	antibiotic	cb-183,315	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01085591	0.7213114754098361
+sustained	250	2500	125	mg	bid	10	antibiotic	surotomycin	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01085591	0.7213114754098361
+sustained	500	5000	250	mg	bid	10	antibiotic	cb-183,315	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01085591	0.8275862068965517
+sustained	500	5000	250	mg	bid	10	antibiotic	surotomycin	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01085591	0.8275862068965517
+acute	400	4000	200	mg	bid	10	antibiotic	fidaxomicin	no	therapeutic	all	child,adult	phase2	https://ClinicalTrials.gov/show/NCT01591863	0.8947368421052632
+acute	400	4000	200	mg	bid	10	antibiotic	tiacumicinsb	no	therapeutic	all	child,adult	phase2	https://ClinicalTrials.gov/show/NCT01591863	0.8947368421052632
+sustained	400	4000	200	mg	bid	10	antibiotic	fidaxomicin	no	therapeutic	all	child,adult	phase2	https://ClinicalTrials.gov/show/NCT01591863	0.6578947368421053
+sustained	400	4000	200	mg	bid	10	antibiotic	tiacumicinsb	no	therapeutic	all	child,adult	phase2	https://ClinicalTrials.gov/show/NCT01591863	0.6578947368421053
+acute	400	4000	200	mg	bid	10	antibiotic	fidaxomicin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT02179658	0.8365384615384616
+acute	400	4000	200	mg	bid	10	antibiotic	tiacumicinsb	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT02179658	0.8365384615384616
+sustained	400	4000	200	mg	bid	10	antibiotic	fidaxomicin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT02179658	0.6730769230769231
+sustained	400	4000	200	mg	bid	10	antibiotic	tiacumicinsb	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT02179658	0.6730769230769231
+acute	400	4000	200	mg	bid	10	antibiotic	fidaxomicin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT02743234	0.3333333333333333
+acute	400	4000	200	mg	bid	10	antibiotic	tiacumicinsb	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT02743234	0.3333333333333333
+sustained	400	4000	200	mg	bid	10	antibiotic	fidaxomicin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT02743234	0.5416666666666666
+sustained	400	4000	200	mg	bid	10	antibiotic	tiacumicinsb	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT02743234	0.5416666666666666
+sustained	400	4000	200	mg	bid	10	antibiotic	fidaxomicin	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT02784002	0.46153846153846156
+sustained	400	4000	200	mg	bid	10	antibiotic	tiacumicinsb	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT02784002	0.46153846153846156
+acute	400	4000	200	mg	bid	10	antibiotic	fidaxomicin	no	therapeutic	all	child	phase3	https://ClinicalTrials.gov/show/NCT02218372	0.7755102040816326
+acute	400	4000	200	mg	bid	10	antibiotic	tiacumicinsb	no	therapeutic	all	child	phase3	https://ClinicalTrials.gov/show/NCT02218372	0.7755102040816326
+sustained	400	4000	200	mg	bid	10	antibiotic	fidaxomicin	no	therapeutic	all	child	phase3	https://ClinicalTrials.gov/show/NCT02218372	0.9342105263157895
+sustained	400	4000	200	mg	bid	10	antibiotic	tiacumicinsb	no	therapeutic	all	child	phase3	https://ClinicalTrials.gov/show/NCT02218372	0.9342105263157895
+sustained	200	16000	200	mg	qd	40	antibiotic	fidaxomicin	no	prophylactic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01691248	0.7109634551495017
+sustained	200	16000	200	mg	qd	40	antibiotic	tiacumicinsb	no	prophylactic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01691248	0.7109634551495017
+acute	400	4000	200	mg	bid	10	antibiotic	fidaxomicin	no	therapeutic	all	adult,olderadult	phase4	https://ClinicalTrials.gov/show/NCT02437591	0.8
+acute	400	4000	200	mg	bid	10	antibiotic	tiacumicinsb	no	therapeutic	all	adult,olderadult	phase4	https://ClinicalTrials.gov/show/NCT02437591	0.8
+acute	400	4000	200	mg	bid	10	antibiotic	fidaxomicin	no	therapeutic	all	child,adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00314951	0.8788927335640139
+acute	400	4000	200	mg	bid	10	antibiotic	tiacumicinsb	no	therapeutic	all	child,adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00314951	0.8788927335640139
+sustained	400	4000	200	mg	bid	10	antibiotic	fidaxomicin	no	therapeutic	all	child,adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00314951	0.8392156862745098
+sustained	400	4000	200	mg	bid	10	antibiotic	tiacumicinsb	no	therapeutic	all	child,adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00314951	0.8392156862745098
+acute	400	4000	200	mg	bid	10	antibiotic	fidaxomicin	no	therapeutic	all	adult,olderadult	phase4	https://ClinicalTrials.gov/show/NCT01818141	0.9166666666666666
+acute	400	4000	200	mg	bid	10	antibiotic	tiacumicinsb	no	therapeutic	all	adult,olderadult	phase4	https://ClinicalTrials.gov/show/NCT01818141	0.9166666666666666
+acute	400	4000	200	mg	bid	10	antibiotic	fidaxomicin	no	therapeutic	all	adult,olderadult	phase4	https://ClinicalTrials.gov/show/NCT01818141	0.5714285714285714
+acute	400	4000	200	mg	bid	10	antibiotic	tiacumicinsb	no	therapeutic	all	adult,olderadult	phase4	https://ClinicalTrials.gov/show/NCT01818141	0.5714285714285714
+sustained	1500	15000	500	mg	tid	10	antibiotic	metronidazole	no	therapeutic	all	child,adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00182429	0.2
+acute	1500	15000	375	mg	qid	10	antibiotic	metronidazole	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00196794	0.725925925925926
+sustained	1500	15000	375	mg	qid	10	antibiotic	metronidazole	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00196794	0.8018867924528302
+acute	1500	15000	375	mg	qid	10	antibiotic	metronidazole	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00106509	0.7132867132867133
+sustained	1500	15000	375	mg	qid	10	antibiotic	metronidazole	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00106509	0.7289719626168224
+sustained	1000		500	mg	bid		other	nitazoxanide	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00304356	1.0
+acute	100	1000	50	mg	bid	10	antibiotic	fidaxomicin	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT00097422	0.7142857142857143
+acute	100	1000	50	mg	bid	10	antibiotic	tiacumicinsb	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT00097422	0.7142857142857143
+acute	200	2000	100	mg	bid	10	antibiotic	fidaxomicin	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT00097422	0.8
+acute	200	2000	100	mg	bid	10	antibiotic	tiacumicinsb	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT00097422	0.8
+acute	400	4000	200	mg	bid	10	antibiotic	fidaxomicin	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT00097422	0.9375
+acute	400	4000	200	mg	bid	10	antibiotic	tiacumicinsb	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT00097422	0.9375
+sustained	100	1000	50	mg	bid	10	antibiotic	fidaxomicin	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT00097422	0.9
+sustained	100	1000	50	mg	bid	10	antibiotic	tiacumicinsb	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT00097422	0.9
+sustained	200	2000	100	mg	bid	10	antibiotic	fidaxomicin	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT00097422	1.0
+sustained	200	2000	100	mg	bid	10	antibiotic	tiacumicinsb	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT00097422	1.0
+sustained	400	4000	200	mg	bid	10	antibiotic	fidaxomicin	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT00097422	0.9333333333333333
+sustained	400	4000	200	mg	bid	10	antibiotic	tiacumicinsb	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT00097422	0.9333333333333333
+acute	500	5000	125	mg	qid	10	antibiotic	vancomycin	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01085591	0.8939393939393939
+sustained	500	5000	125	mg	qid	10	antibiotic	vancomycin	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01085591	0.6440677966101694
+sustained	125		125	mg	qd		antibiotic	vancomycin	no	prophylactic	all	olderadult	phase4	https://ClinicalTrials.gov/show/NCT02951702	1.0
+acute	400	4000	200	mg	bid	10	antibiotic	fidaxomicin	no	therapeutic	all	child,adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00468728	0.8735177865612648
+acute	400	4000	200	mg	bid	10	antibiotic	tiacumicinsb	no	therapeutic	all	child,adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00468728	0.8735177865612648
+sustained	400	4000	200	mg	bid	10	antibiotic	fidaxomicin	no	therapeutic	all	child,adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00468728	0.8738738738738738
+sustained	400	4000	200	mg	bid	10	antibiotic	tiacumicinsb	no	therapeutic	all	child,adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00468728	0.8738738738738738
+acute	400	4000	200	mg	bid	10	antibiotic	smt19969[2,2'-bis(4-pyridyl)3h,3'-h5,5-bibenzimidazole]	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT02092935	0.7777777777777778
+acute	400	4000	200	mg	bid	10	antibiotic	smt19969	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT02092935	0.7777777777777778
+sustained	400	4000	200	mg	bid	10	antibiotic	smt19969[2,2'-bis(4-pyridyl)3h,3'-h5,5-bibenzimidazole]	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT02092935	0.8571428571428571
+sustained	400	4000	200	mg	bid	10	antibiotic	smt19969	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT02092935	0.8571428571428571
+sustained	400	4000	200	mg	bid	10	antibiotic	smt19969[2,2'-bis(4-pyridyl)3h,3'-h5,5-bibenzimidazole]	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT02784002	0.5
+sustained	400	4000	200	mg	bid	10	antibiotic	smt19969	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT02784002	0.5
+sustained	1200	25200	400	mg	tid	14	antibiotic	rifaximin	no	prophylactic	all	adult,olderadult	phase4	https://ClinicalTrials.gov/show/NCT01670149	0.8405797101449275
+acute	1200	12000	400	mg	tid	10	antibiotic	rifaximin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00269399	0.5726495726495726
+sustained	1200	12000	400	mg	tid	10	antibiotic	rifaximin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00269399	0.9104477611940298
+acute	500	5000	250	mg	bid	10	antibiotic	cb-183,315	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01597505	0.7896551724137931
+acute	500	5000	250	mg	bid	10	antibiotic	surotomycin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01597505	0.7896551724137931
+sustained	500	5000	250	mg	bid	10	antibiotic	cb-183,315	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01597505	0.603448275862069
+sustained	500	5000	250	mg	bid	10	antibiotic	surotomycin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01597505	0.603448275862069
+acute	500	5000	250	mg	bid	10	antibiotic	cb-183,315	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01598311	0.8315789473684211
+acute	500	5000	250	mg	bid	10	antibiotic	surotomycin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01598311	0.8315789473684211
+sustained	500	5000	250	mg	bid	10	antibiotic	cb-183,315	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01598311	0.631578947368421
+sustained	500	5000	250	mg	bid	10	antibiotic	surotomycin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01598311	0.631578947368421
+acute	9	135	3	g	tid	14	antibiotic	gt160-246	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00196794	0.417910447761194
+sustained	9	135	3	g	tid	14	antibiotic	gt160-246	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00196794	0.9428571428571428
+acute	9	135	3	g	tid	14	antibiotic	gt160-246	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00106509	0.462406015037594
+sustained	9	135	3	g	tid	14	antibiotic	gt160-246	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00106509	0.9658119658119658
+acute	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01983683	0.8538205980066446
+sustained	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01983683	0.6179401993355482
+acute	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01987895	0.8490566037735849
+sustained	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01987895	0.6226415094339622
+acute	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase4	https://ClinicalTrials.gov/show/NCT02254967	0.8212290502793296
+sustained	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase4	https://ClinicalTrials.gov/show/NCT02254967	0.5921787709497207
+acute	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01597505	0.8357142857142857
+sustained	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01597505	0.6107142857142858
+acute	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01598311	0.8184931506849316
+sustained	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01598311	0.589041095890411
+acute	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT02179658	0.8796296296296297
+sustained	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT02179658	0.6574074074074074
+acute	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT02743234	0.1875
+sustained	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT02743234	0.3125
+acute	500	5000	125	mg	qid	10	antibiotic	vancomycin	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01222702	0.8636363636363636
+sustained	500	5000	125	mg	qid	10	antibiotic	vancomycin	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01222702	0.5454545454545454
+acute	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	child	phase3	https://ClinicalTrials.gov/show/NCT02218372	0.7045454545454546
+sustained	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	child	phase3	https://ClinicalTrials.gov/show/NCT02218372	0.7419354838709677
+acute	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	child,adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00468728	0.86328125
+sustained	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	child,adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00468728	0.7792792792792793
+acute	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	child,adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00314951	0.8566775244299675
+sustained	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	child,adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00314951	0.7452471482889734
+acute	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00269399	0.6347826086956522
+sustained	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00269399	0.863013698630137
+acute	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00196794	0.808
+sustained	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00196794	0.8235294117647058
+acute	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00106509	0.8059701492537313
+sustained	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00106509	0.7570093457943925
+acute	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT02092935	0.696969696969697
+sustained	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT02092935	0.6086956521739131
+acute	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase4	https://ClinicalTrials.gov/show/NCT01818141	0.6666666666666666
+acute	500	5000	125	mg	qid	10	antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase4	https://ClinicalTrials.gov/show/NCT01818141	1.0
+sustained	10000	70000	10000	spores	qd	7	probiotic	m3,antcdstrain	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01259726	0.8536585365853658
+sustained	10000000	70000000	10000000	spores	qd	7	probiotic	m3,antcdstrain	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01259726	0.9534883720930233
+sustained	10000000	140000000	10000000	spores	qd	14	probiotic	m3,antcdstrain	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01259726	0.8536585365853658
+sustained			1	capsule			probiotic	lactobacillusacidophilus	yes	prophylactic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00958308	0.9058823529411765
+sustained			2	capsule			probiotic	lactobacillusacidophilus	yes	prophylactic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT00958308	0.9883720930232558
+acute	400	5600	200	mg	bid	5	antibiotic	fidaxomicin	no	therapeutic	all	adult,olderadult	phase4	https://ClinicalTrials.gov/show/NCT02254967	0.7796610169491526
+acute	400	5600	200	mg	bid	5	antibiotic	tiacumicinsb	no	therapeutic	all	adult,olderadult	phase4	https://ClinicalTrials.gov/show/NCT02254967	0.7796610169491526
+sustained	400	5600	200	mg	bid	5	antibiotic	fidaxomicin	no	therapeutic	all	adult,olderadult	phase4	https://ClinicalTrials.gov/show/NCT02254967	0.7005649717514124
+sustained	400	5600	200	mg	bid	5	antibiotic	tiacumicinsb	no	therapeutic	all	adult,olderadult	phase4	https://ClinicalTrials.gov/show/NCT02254967	0.7005649717514124
+sustained							fmt	fmt-fd	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01704937	0.8
+sustained							fmt	fmt-g10	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01704937	0.8
+sustained							fmt	fmt-g80	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01704937	0.8
+sustained							fmt	caecalcontents	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01704937	0.8
+sustained							fmt	fmt	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01704937	0.8
+sustained							fmt	cecalhomogenates	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01704937	0.8
+sustained							fmt	fmt-fd	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01704937	0.6
+sustained							fmt	fmt-g10	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01704937	0.6
+sustained							fmt	fmt-g80	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01704937	0.6
+sustained							fmt	caecalcontents	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01704937	0.6
+sustained							fmt	fmt	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01704937	0.6
+sustained							fmt	cecalhomogenates	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01704937	0.6
+sustained	250	250	250	ml	qd	1	fmt	fmt-fd	no	therapeutic	all	adult,olderadult	phase1|phase2	https://ClinicalTrials.gov/show/NCT02465463	0.75
+sustained	250	250	250	ml	qd	1	fmt	fmt-g10	no	therapeutic	all	adult,olderadult	phase1|phase2	https://ClinicalTrials.gov/show/NCT02465463	0.75
+sustained	250	250	250	ml	qd	1	fmt	fmt-g80	no	therapeutic	all	adult,olderadult	phase1|phase2	https://ClinicalTrials.gov/show/NCT02465463	0.75
+sustained	250	250	250	ml	qd	1	fmt	caecalcontents	no	therapeutic	all	adult,olderadult	phase1|phase2	https://ClinicalTrials.gov/show/NCT02465463	0.75
+sustained	250	250	250	ml	qd	1	fmt	fmt	no	therapeutic	all	adult,olderadult	phase1|phase2	https://ClinicalTrials.gov/show/NCT02465463	0.75
+sustained	250	250	250	ml	qd	1	fmt	cecalhomogenates	no	therapeutic	all	adult,olderadult	phase1|phase2	https://ClinicalTrials.gov/show/NCT02465463	0.75
+sustained							fmt	fmt-fd	no	therapeutic	all	adult,olderadult	phase2|phase3	https://ClinicalTrials.gov/show/NCT02254811	0.847457627118644
+sustained							fmt	fmt-g10	no	therapeutic	all	adult,olderadult	phase2|phase3	https://ClinicalTrials.gov/show/NCT02254811	0.847457627118644
+sustained							fmt	fmt-g80	no	therapeutic	all	adult,olderadult	phase2|phase3	https://ClinicalTrials.gov/show/NCT02254811	0.847457627118644
+sustained							fmt	caecalcontents	no	therapeutic	all	adult,olderadult	phase2|phase3	https://ClinicalTrials.gov/show/NCT02254811	0.847457627118644
+sustained							fmt	fmt	no	therapeutic	all	adult,olderadult	phase2|phase3	https://ClinicalTrials.gov/show/NCT02254811	0.847457627118644
+sustained							fmt	cecalhomogenates	no	therapeutic	all	adult,olderadult	phase2|phase3	https://ClinicalTrials.gov/show/NCT02254811	0.847457627118644
+sustained							fmt	fmt-fd	no	therapeutic	all	adult,olderadult	phase2|phase3	https://ClinicalTrials.gov/show/NCT02254811	0.8947368421052632
+sustained							fmt	fmt-g10	no	therapeutic	all	adult,olderadult	phase2|phase3	https://ClinicalTrials.gov/show/NCT02254811	0.8947368421052632
+sustained							fmt	fmt-g80	no	therapeutic	all	adult,olderadult	phase2|phase3	https://ClinicalTrials.gov/show/NCT02254811	0.8947368421052632
+sustained							fmt	caecalcontents	no	therapeutic	all	adult,olderadult	phase2|phase3	https://ClinicalTrials.gov/show/NCT02254811	0.8947368421052632
+sustained							fmt	fmt	no	therapeutic	all	adult,olderadult	phase2|phase3	https://ClinicalTrials.gov/show/NCT02254811	0.8947368421052632
+sustained							fmt	cecalhomogenates	no	therapeutic	all	adult,olderadult	phase2|phase3	https://ClinicalTrials.gov/show/NCT02254811	0.8947368421052632
+sustained							fmt	fmt-fd	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT02148601	0.9
+sustained							fmt	fmt-g10	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT02148601	0.9
+sustained							fmt	fmt-g80	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT02148601	0.9
+sustained							fmt	caecalcontents	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT02148601	0.9
+sustained							fmt	fmt	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT02148601	0.9
+sustained							fmt	cecalhomogenates	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT02148601	0.9
+sustained							fmt	fmt-fd	no	therapeutic	all	adult,olderadult	phase1|phase2	https://ClinicalTrials.gov/show/NCT03106844	0.9183673469387755
+sustained							fmt	fmt-g10	no	therapeutic	all	adult,olderadult	phase1|phase2	https://ClinicalTrials.gov/show/NCT03106844	0.9183673469387755
+sustained							fmt	fmt-g80	no	therapeutic	all	adult,olderadult	phase1|phase2	https://ClinicalTrials.gov/show/NCT03106844	0.9183673469387755
+sustained							fmt	caecalcontents	no	therapeutic	all	adult,olderadult	phase1|phase2	https://ClinicalTrials.gov/show/NCT03106844	0.9183673469387755
+sustained							fmt	fmt	no	therapeutic	all	adult,olderadult	phase1|phase2	https://ClinicalTrials.gov/show/NCT03106844	0.9183673469387755
+sustained							fmt	cecalhomogenates	no	therapeutic	all	adult,olderadult	phase1|phase2	https://ClinicalTrials.gov/show/NCT03106844	0.9183673469387755
+acute							fmt	fmt-fd	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT02743234	0.7083333333333334
+acute							fmt	fmt-g10	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT02743234	0.7083333333333334
+acute							fmt	fmt-g80	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT02743234	0.7083333333333334
+acute							fmt	caecalcontents	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT02743234	0.7083333333333334
+acute							fmt	fmt	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT02743234	0.7083333333333334
+acute							fmt	cecalhomogenates	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT02743234	0.7083333333333334
+sustained							fmt	fmt-fd	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT02743234	0.9166666666666666
+sustained							fmt	fmt-g10	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT02743234	0.9166666666666666
+sustained							fmt	fmt-g80	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT02743234	0.9166666666666666
+sustained							fmt	caecalcontents	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT02743234	0.9166666666666666
+sustained							fmt	fmt	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT02743234	0.9166666666666666
+sustained							fmt	cecalhomogenates	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT02743234	0.9166666666666666
+sustained							fmt	fmt-fd	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01398969	0.7027027027027027
+sustained							fmt	fmt-g10	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01398969	0.7027027027027027
+sustained							fmt	fmt-g80	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01398969	0.7027027027027027
+sustained							fmt	caecalcontents	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01398969	0.7027027027027027
+sustained							fmt	fmt	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01398969	0.7027027027027027
+sustained							fmt	cecalhomogenates	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01398969	0.7027027027027027
+sustained							fmt	fmt-fd	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01398969	0.75
+sustained							fmt	fmt-g10	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01398969	0.75
+sustained							fmt	fmt-g80	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01398969	0.75
+sustained							fmt	caecalcontents	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01398969	0.75
+sustained							fmt	fmt	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01398969	0.75
+sustained							fmt	cecalhomogenates	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01398969	0.75
+sustained	10	10	10	mg/kg	qd	1	antibody	cda1	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01241552	0.7370689655172413
+sustained	10	10	10	mg/kg	qd	1	antibody	mdx1388	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01513239	0.8487179487179487
+sustained	10	10	10	mg/kg	qd	1	antibody	mdx1388	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01241552	0.8238341968911918
+acute							fmt	fmt-fd	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01914731	0.7
+acute							fmt	fmt-g10	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01914731	0.7
+acute							fmt	fmt-g80	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01914731	0.7
+acute							fmt	caecalcontents	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01914731	0.7
+acute							fmt	fmt	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01914731	0.7
+acute							fmt	cecalhomogenates	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01914731	0.7
+acute							fmt	fmt-fd	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01914731	0.8333333333333334
+acute							fmt	fmt-g10	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01914731	0.8333333333333334
+acute							fmt	fmt-g80	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01914731	0.8333333333333334
+acute							fmt	caecalcontents	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01914731	0.8333333333333334
+acute							fmt	fmt	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01914731	0.8333333333333334
+acute							fmt	cecalhomogenates	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01914731	0.8333333333333334
+sustained							fmt	fmt-fd	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01914731	0.95
+sustained							fmt	fmt-g10	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01914731	0.95
+sustained							fmt	fmt-g80	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01914731	0.95
+sustained							fmt	caecalcontents	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01914731	0.95
+sustained							fmt	fmt	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01914731	0.95
+sustained							fmt	cecalhomogenates	no	therapeutic	all	child,adult,olderadult	phase1	https://ClinicalTrials.gov/show/NCT01914731	0.95
+sustained							control	vancomycin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01513239	0.7407407407407407
+sustained							control	vancomycin+metronidazole	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01513239	0.7407407407407407
+sustained							control	metronidazole	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01513239	0.7407407407407407
+sustained							antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01241552	0.7215189873417721
+sustained							antibiotic	vancomycin+metronidazole	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01241552	0.7215189873417721
+sustained							antibiotic	metronidazole	no	therapeutic	all	adult,olderadult	phase3	https://ClinicalTrials.gov/show/NCT01241552	0.7215189873417721
+sustained			1	capsule	qd	28	probiotic	consortiumofprobioticsincludingfivelactobacillistrainsandtwobifidobacteriumstrains	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01680874	0.9375
+sustained	100000000	700000000	100000000	cfu	qd	7	probiotic	lactobacillusreuteri,lmgp-27481	no	prophylactic	all	child,adult	phase3	https://ClinicalTrials.gov/show/NCT01295918	0.9795918367346939
+sustained							antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT02148601	0.2631578947368421
+sustained							antibiotic	vancomycin+metronidazole	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT02148601	0.2631578947368421
+sustained							antibiotic	metronidazole	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT02148601	0.2631578947368421
+acute							antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT02589847	0.30666666666666664
+acute							antibiotic	vancomycin+metronidazole	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT02589847	0.30666666666666664
+acute							antibiotic	metronidazole	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT02589847	0.30666666666666664
+sustained							antibiotic	vancomycin	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT02589847	0.30666666666666664
+sustained							antibiotic	vancomycin+metronidazole	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT02589847	0.30666666666666664
+sustained							antibiotic	metronidazole	no	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT02589847	0.30666666666666664
+sustained							fmt	fmt-fd	no	therapeutic	all	child,adult	phase1	https://ClinicalTrials.gov/show/NCT02423967	0.5
+sustained							fmt	fmt-g10	no	therapeutic	all	child,adult	phase1	https://ClinicalTrials.gov/show/NCT02423967	0.5
+sustained							fmt	fmt-g80	no	therapeutic	all	child,adult	phase1	https://ClinicalTrials.gov/show/NCT02423967	0.5
+sustained							fmt	caecalcontents	no	therapeutic	all	child,adult	phase1	https://ClinicalTrials.gov/show/NCT02423967	0.5
+sustained							fmt	fmt	no	therapeutic	all	child,adult	phase1	https://ClinicalTrials.gov/show/NCT02423967	0.5
+sustained							fmt	cecalhomogenates	no	therapeutic	all	child,adult	phase1	https://ClinicalTrials.gov/show/NCT02423967	0.5
+sustained							fmt	fmt-fd	no	therapeutic	all	child,adult	phase1	https://ClinicalTrials.gov/show/NCT02423967	1.0
+sustained							fmt	fmt-g10	no	therapeutic	all	child,adult	phase1	https://ClinicalTrials.gov/show/NCT02423967	1.0
+sustained							fmt	fmt-g80	no	therapeutic	all	child,adult	phase1	https://ClinicalTrials.gov/show/NCT02423967	1.0
+sustained							fmt	caecalcontents	no	therapeutic	all	child,adult	phase1	https://ClinicalTrials.gov/show/NCT02423967	1.0
+sustained							fmt	fmt	no	therapeutic	all	child,adult	phase1	https://ClinicalTrials.gov/show/NCT02423967	1.0
+sustained							fmt	cecalhomogenates	no	therapeutic	all	child,adult	phase1	https://ClinicalTrials.gov/show/NCT02423967	1.0
+sustained	10000	70000	10000	spores	qd	7	probiotic	z31,antcdstrain	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01259726	0.8536585365853658
+sustained	10000	70000	10000	spores	qd	7	probiotic	ntcd-035	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01259726	0.8536585365853658
+sustained	10000	70000	10000	spores	qd	7	probiotic	pcd130+027	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01259726	0.8536585365853658
+sustained	10000	70000	10000	spores	qd	7	probiotic	pcd182+027	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01259726	0.8536585365853658
+sustained	10000	70000	10000	spores	qd	7	probiotic	strain630	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01259726	0.8536585365853658
+sustained	10000	70000	10000	spores	qd	7	probiotic	clostridiumdifficilecd37	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01259726	0.8536585365853658
+sustained	10000	70000	10000	spores	qd	7	probiotic	t7,antcdstrain	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01259726	0.8536585365853658
+sustained	10000000	70000000	10000000	spores	qd	7	probiotic	z31,antcdstrain	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01259726	0.9534883720930233
+sustained	10000000	70000000	10000000	spores	qd	7	probiotic	ntcd-035	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01259726	0.9534883720930233
+sustained	10000000	70000000	10000000	spores	qd	7	probiotic	pcd130+027	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01259726	0.9534883720930233
+sustained	10000000	70000000	10000000	spores	qd	7	probiotic	pcd182+027	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01259726	0.9534883720930233
+sustained	10000000	70000000	10000000	spores	qd	7	probiotic	strain630	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01259726	0.9534883720930233
+sustained	10000000	70000000	10000000	spores	qd	7	probiotic	clostridiumdifficilecd37	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01259726	0.9534883720930233
+sustained	10000000	70000000	10000000	spores	qd	7	probiotic	t7,antcdstrain	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01259726	0.9534883720930233
+sustained	10000000	140000000	10000000	spores	qd	14	probiotic	z31,antcdstrain	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01259726	0.8536585365853658
+sustained	10000000	140000000	10000000	spores	qd	14	probiotic	ntcd-035	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01259726	0.8536585365853658
+sustained	10000000	140000000	10000000	spores	qd	14	probiotic	pcd130+027	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01259726	0.8536585365853658
+sustained	10000000	140000000	10000000	spores	qd	14	probiotic	pcd182+027	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01259726	0.8536585365853658
+sustained	10000000	140000000	10000000	spores	qd	14	probiotic	strain630	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01259726	0.8536585365853658
+sustained	10000000	140000000	10000000	spores	qd	14	probiotic	clostridiumdifficilecd37	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01259726	0.8536585365853658
+sustained	10000000	140000000	10000000	spores	qd	14	probiotic	t7,antcdstrain	yes	therapeutic	all	adult,olderadult	phase2	https://ClinicalTrials.gov/show/NCT01259726	0.8536585365853658
