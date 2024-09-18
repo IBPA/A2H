@@ -40,13 +40,18 @@ You can deactivate the environment with `conda deactivate`.
 pip install -r requirements.txt
 ```
 
-### 2d. Run the code.
+### 2d. (Optional) Reproduce the results by running the source code.
 
 - For running the model selection pipeline:
 ```console
 ./scripts/run_msap.sh
 ```
 Note that this script is dependent on the MSAP pipeline internally used by the authors. For this reason, you will not be able to run this script unless you have access to the MSAP pipeline.
+
+
+### 2e. (Optional) Run the notebook demo.
+
+Visit the [`notebooks`](./notebooks/) directory and run the Jupyter notebook `demo.ipynb`.
 
 ## 3. Authors
 
