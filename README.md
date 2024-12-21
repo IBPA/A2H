@@ -70,7 +70,17 @@ For any questions, please contact us at tagkopouloslab@ucdavis.edu.
 
 ## 5. Citation
 
-Citation will be updated later.
+```bibtex
+@article{li2024predicting,
+  title={Predicting clinical trial success for Clostridium difficile infections based on preclinical data},
+  author={Li, Fangzhou and Youn, Jason and Millsop, Christian and Tagkopoulos, Ilias},
+  journal={Frontiers in Artificial Intelligence},
+  volume={7},
+  pages={1487335},
+  year={2024},
+  publisher={Frontiers Media SA}
+}
+```
 
 ## 6. License
 
